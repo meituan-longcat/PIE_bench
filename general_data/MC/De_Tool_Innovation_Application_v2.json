@@ -1,0 +1,902 @@
+[
+    {
+        "input": "Max stellt beim Backen zu Hause fest, dass er vergessen hat, Backpapier zu kaufen. Er sucht nun nach einem geeigneten Ersatz, um zu verhindern, dass das Essen am Backblech haftet. In seiner Küche findet er folgende Gegenstände. Welcher eignet sich am besten als Ersatz für Backpapier?\nA. Alufolie\nB. Feuchtes Tuch\nC. Frischhaltefolie\nD. Zeitungspapier",
+        "target_scores": {
+            "A. Alufolie": 1,
+            "B. Feuchtes Tuch": 0,
+            "C. Frischhaltefolie": 0,
+            "D. Zeitungspapier": 0
+        }
+    },
+    {
+        "input": "Felix arbeitet an einem Ölgemälde und benötigt ein Lösungsmittel, um die Konsistenz der Ölfarben zu regulieren. Doch er stellt fest, dass sein Verdünner aufgebraucht ist. Er sucht nun nach einem geeigneten Ersatz. Welcher der folgenden Gegenstände eignet sich am ehesten als temporärer Ersatz für ein Ölverdünnungsmittel?\nA. Banane\nB. Butter\nC. Essig\nD. Olivenöl",
+        "target_scores": {
+            "A. Banane": 0,
+            "B. Butter": 0,
+            "C. Essig": 0,
+            "D. Olivenöl": 1
+        }
+    },
+    {
+        "input": "Herr Meier repariert zu Hause einen Holztisch und stellt fest, dass er Schleifpapier benötigt, um die Tischplatte abzuschleifen. Leider ist ihm das Schleifpapier ausgegangen. Er muss einen Ersatz für Schleifpapier finden. In seiner Garage findet er folgende Gegenstände. Welcher eignet sich am besten als Ersatz für Schleifpapier?\nA. Nagelfeile\nB. Plastiktüte\nC. Putztuch\nD. Stahlwolle",
+        "target_scores": {
+            "A. Nagelfeile": 1,
+            "B. Plastiktüte": 0,
+            "C. Putztuch": 0,
+            "D. Stahlwolle": 0
+        }
+    },
+    {
+        "input": "Frau Wagner bereitet das Abendessen vor und stellt fest, dass sie keine Knoblauchpresse hat. Sie muss einen Ersatz für den Knoblauchpresser finden, um Knoblauchpaste zuzubereiten. In ihrer Küche findet sie folgende Gegenstände. Welcher eignet sich am besten als Ersatz für eine Knoblauchpresser?\nA. Flaschendeckel\nB. Hitzeschutzhandschuhe\nC. Konservendeckel\nD. Zitronenpresse",
+        "target_scores": {
+            "A. Flaschendeckel": 0,
+            "B. Hitzeschutzhandschuhe": 0,
+            "C. Konservendeckel": 0,
+            "D. Zitronenpresse": 1
+        }
+    },
+    {
+        "input": "Frau Schneider ist unterwegs, als es plötzlich zu regnen beginnt. Sie hat keinen Regenschirm dabei und sucht nach einem geeigneten Ersatz, um sich vorübergehend vor dem Regen zu schützen. Welcher der folgenden Gegenstände eignet sich am besten als Ersatz für einen Regenschirm?\nA. Henkelbecher\nB. Kapuzenpullover\nC. Schleier\nD. Zeitschrift",
+        "target_scores": {
+            "A. Henkelbecher": 0,
+            "B. Kapuzenpullover": 1,
+            "C. Schleier": 0,
+            "D. Zeitschrift": 0
+        }
+    },
+    {
+        "input": "Jonas möchte zu Hause eine Grußkarte basteln, stellt aber fest, dass er kein Buntpapier hat. Auf seinem Schreibtisch findet er folgende Gegenstände. Welcher eignet sich am besten als Ersatz für farbiges Papier?\nA. Alter Kalender\nB. Geschenkpapier\nC. Klausur\nD. Magazinumschlag",
+        "target_scores": {
+            "A. Alter Kalender": 0,
+            "B. Geschenkpapier": 1,
+            "C. Klausur": 0,
+            "D. Magazinumschlag": 0
+        }
+    },
+    {
+        "input": "Frau Becker möchte zu Hause eine Gesichtsmaske machen, stellt jedoch fest, dass die Maskenblätter aufgebraucht sind. Auf ihrem Schminktisch findet sie folgende Gegenstände. Welcher davon eignet sich am besten als Ersatz für Maskenblätter?\nA. Kaffeefilter\nB. Lippenstift\nC. Parfüm\nD. Pillenbox",
+        "target_scores": {
+            "A. Kaffeefilter": 1,
+            "B. Lippenstift": 0,
+            "C. Parfüm": 0,
+            "D. Pillenbox": 0
+        }
+    },
+    {
+        "input": "Herr Schmidt möchte zu Hause die Länge eines Holzbretts messen, findet aber kein Maßband. Welcher der folgenden Gegenstände eignet sich am besten als Ersatz für ein Maßband?\nA. Gummibärchen\nB. Gürtel\nC. Haargummi\nD. Untersetzer",
+        "target_scores": {
+            "A. Gummibärchen": 0,
+            "B. Gürtel": 1,
+            "C. Haargummi": 0,
+            "D. Untersetzer": 0
+        }
+    },
+    {
+        "input": "Frau Wagner muss in ihrem Büro einige Dokumente vorübergehend heften, findet aber keinen Tacker. In ihrer Schublade findet sie folgende Gegenstände. Welcher davon eignet sich am besten, um Dokumente zu heften?\nA. Büroklammer\nB. Gummiband\nC. Klebeband\nD. Verschlussclip",
+        "target_scores": {
+            "A. Büroklammer": 1,
+            "B. Gummiband": 0,
+            "C. Klebeband": 0,
+            "D. Verschlussclip": 0
+        }
+    },
+    {
+        "input": "Herr Schulz bastelt zu Hause ein Kunsthandwerk, benötigt jedoch einen kleinen Hammer, findet aber keinen. In seinem Werkzeugkasten findet er folgende Gegenstände. Welcher davon eignet sich am besten als Ersatz für einen kleinen Hammer?\nA. Ballon\nB. Bleistift\nC. Großer Schraubenschlüssel\nD. Plastiklöffel",
+        "target_scores": {
+            "A. Ballon": 0,
+            "B. Bleistift": 0,
+            "C. Großer Schraubenschlüssel": 1,
+            "D. Plastiklöffel": 0
+        }
+    },
+    {
+        "input": "Max macht ein Picknick im Freien und merkt, dass er kein Messer dabei hat. Er möchte aber einige Früchte für seine Freunde schneiden. In seiner Tasche findet er folgende Gegenstände. Welcher davon eignet sich am ehesten, um Früchte zu schneiden?\nA. Handy\nB. Kamm\nC. Kreditkarte\nD. Schlüssel",
+        "target_scores": {
+            "A. Handy": 0,
+            "B. Kamm": 0,
+            "C. Kreditkarte": 1,
+            "D. Schlüssel": 0
+        }
+    },
+    {
+        "input": "Frau Meier stellt beim Wäschewaschen fest, dass das Waschpulver aufgebraucht ist. Sie sucht nach einem geeigneten Ersatz, um ihre Kleidung trotzdem reinigen zu können. In ihrer Waschküche findet sie folgende Gegenstände. Welcher davon eignet sich am besten als Ersatz für Waschpulver?\nA. Essig\nB. Mehl\nC. Salz\nD. Spülmittel",
+        "target_scores": {
+            "A. Essig": 0,
+            "B. Mehl": 0,
+            "C. Salz": 0,
+            "D. Spülmittel": 1
+        }
+    },
+    {
+        "input": "Tom hat beim Hausaufgabenmachen versehentlich Tinte auf seinen Tisch verschüttet, aber der Tintenreiniger ist ausgegangen. Welche der folgenden Dinge, die er finden kann, eignet sich am besten als Ersatz für den Tintenreiniger?\nA. Haartrockner\nB. Orangensaft\nC. Wassermelone\nD. Zahnpasta",
+        "target_scores": {
+            "A. Haartrockner": 0,
+            "B. Orangensaft": 0,
+            "C. Wassermelone": 0,
+            "D. Zahnpasta": 1
+        }
+    },
+    {
+        "input": "Simon stellt sich auf ein Dinner bei Kerzenschein ein, bemerkt jedoch, dass er keine Kerzen gekauft hat. Welche der folgenden Dinge, die er in seinem Schrank findet, eignet sich am besten als Ersatz für Kerzen, um eine Atmosphäre zu schaffen?\nA. Eine Schokostange\nB. Leuchtstab\nC. Taschenlampe\nD. Zahnstocher",
+        "target_scores": {
+            "A. Eine Schokostange": 0,
+            "B. Leuchtstab": 1,
+            "C. Taschenlampe": 0,
+            "D. Zahnstocher": 0
+        }
+    },
+    {
+        "input": "Finn arbeitet spät im Büro und hat Hunger, aber die Mikrowelle ist kaputt. Er muss einen Ersatz zum Aufwärmen von Speisen finden. In der Teeküche hat er folgende Dinge gefunden – welches eignet sich am besten als Mikrowellenersatz?\nA. Einweggeschirr\nB. Einweghandschuhe\nC. Papierbecher\nD. Wasserkocher",
+        "target_scores": {
+            "A. Einweggeschirr": 0,
+            "B. Einweghandschuhe": 0,
+            "C. Papierbecher": 0,
+            "D. Wasserkocher": 1
+        }
+    },
+    {
+        "input": "Sophia reist in Berlin und stellt plötzlich fest, dass sie ihre Handyhalterung vergessen hat, aber sie muss ein Video aufnehmen. Sie hat in ihrer eigenen Tasche und denen ihrer Begleiter einige Dinge gefunden, welche am ehesten den Handyhalter ersetzen können?\nA. Brillenetui\nB. Geldbeutel\nC. Puder\nD. Sonnenbrille",
+        "target_scores": {
+            "A. Brillenetui": 1,
+            "B. Geldbeutel": 0,
+            "C. Puder": 0,
+            "D. Sonnenbrille": 0
+        }
+    },
+    {
+        "input": "Paul und seine Freunde campen im Gebirge. Am Abend brauchen sie ein Lagerfeuer, stellen aber fest, dass ihr Feuerzeug leer ist. Welche der folgenden Dinge, die sich im Zelt befinden, könnte am ehesten das Lagerfeuer entzünden?\nA. Batterie\nB. Streichhölzer\nC. Vergrößerungsglas\nD. Wasserdichte Uhr",
+        "target_scores": {
+            "A. Batterie": 0,
+            "B. Streichhölzer": 1,
+            "C. Vergrößerungsglas": 0,
+            "D. Wasserdichte Uhr": 0
+        }
+    },
+    {
+        "input": "Ella malt im Kunstunterricht einen Anime-Charakter namens Gojo Satoru und braucht dafür weiße Farbe. Doch die weiße Farbe ist gerade ausgegangen. Sie sucht eine Weile im Klassenraum und findet folgende Gegenstände. Welcher davon kann die weiße Farbe am ehesten ersetzen?\nA. Bleistift\nB. Klarer Nagellack\nC. Korrekturflüssigkeit\nD. Schwarzer Stift",
+        "target_scores": {
+            "A. Bleistift": 0,
+            "B. Klarer Nagellack": 0,
+            "C. Korrekturflüssigkeit": 1,
+            "D. Schwarzer Stift": 0
+        }
+    },
+    {
+        "input": "Die Mutter ist gerade beim Kochen und stellt fest, dass das leere Gewürzfläschchen verschwunden ist. Sie muss etwas finden, um das Gewürz vorübergehend aufzubewahren. Welches der folgenden Dinge eignet sich am besten als Ersatz für das Gewürzfläschchen?\nA. Essstäbchen\nB. Frischhaltefolie\nC. Leere Getränkeflasche\nD. Soßenschälchen",
+        "target_scores": {
+            "A. Essstäbchen": 0,
+            "B. Frischhaltefolie": 0,
+            "C. Leere Getränkeflasche": 1,
+            "D. Soßenschälchen": 0
+        }
+    },
+    {
+        "input": "Jay und seine Familie machen am Wochenende eine Wanderung in der Natur. Jays Vater muss mit einem Kompass die Richtung bestimmen, stellt aber fest, dass der Kompass fehlt. Er durchsucht die mitgenommenen Dinge und findet Folgendes. Was eignet sich am besten als Ersatz für einen Kompass?\nA. 1 Magnet in Knopfzellengröße und 2 kleine Eisennägel\nB. Hanfseil\nC. Landkarte\nD. Statisches Seil",
+        "target_scores": {
+            "A. 1 Magnet in Knopfzellengröße und 2 kleine Eisennägel": 1,
+            "B. Hanfseil": 0,
+            "C. Landkarte": 0,
+            "D. Statisches Seil": 0
+        }
+    },
+    {
+        "input": "Herr Lange kommt gerade im Büro an und bemerkt, dass am Ärmel seines Sakkos ein kleines Loch ist. Vor dem Meeting möchte er es schnell notdürftig flicken, hat aber kein Notnähzeug zur Hand. In seiner Schublade findet er folgende Gegenstände. Welcher davon eignet sich am besten als provisorisches Nähwerkzeug?\nA. Büroklammer\nB. Kopfhörerkabel\nC. Krawattenklammer\nD. Lochzange",
+        "target_scores": {
+            "A. Büroklammer": 1,
+            "B. Kopfhörerkabel": 0,
+            "C. Krawattenklammer": 0,
+            "D. Lochzange": 0
+        }
+    },
+    {
+        "input": "Tobias schreibt gerade an seiner wissenschaftlichen Arbeit und muss wichtige Stellen mit einem Textmarker hervorheben. Leider ist sein Marker leer. Er hat folgende Gegenstände zur Hand. Welcher eignet sich am besten als Ersatz für den Textmarker?\nA. Buntstift\nB. Mauspad\nC. Radiergummi\nD. Whiteboard-Marker",
+        "target_scores": {
+            "A. Buntstift": 1,
+            "B. Mauspad": 0,
+            "C. Radiergummi": 0,
+            "D. Whiteboard-Marker": 0
+        }
+    },
+    {
+        "input": "Lea hat gleich ein Date mit ihrem Schwarm, als sie im Spiegel bemerkt, dass ihre Haare etwas zerzaust sind. Sie greift in ihre Tasche – aber ihre Haarbürste ist nicht da! Zum Glück ist sie gerade in einem Schnellrestaurant. Welcher der folgenden Gegenstände eignet sich am besten als Ersatz für eine Haarbürste?\nA. Gabel\nB. Mitnahmetüte\nC. Steakmesser\nD. To-go-Box",
+        "target_scores": {
+            "A. Gabel": 1,
+            "B. Mitnahmetüte": 0,
+            "C. Steakmesser": 0,
+            "D. To-go-Box": 0
+        }
+    },
+    {
+        "input": "Amin sucht in seiner Werkstatt nach einem Behälter, um kleine Werkzeuge und Schrauben aufzubewahren. Er möchte jedoch keinen neuen Werkzeugkasten kaufen. In der Werkstatt findet er folgende Gegenstände. Welcher eignet sich am besten als Ersatz für einen traditionellen Werkzeugkasten?\nA. Neuer Aschenbecher\nB. Schraubenschlüssel\nC. Schraubenzieher\nD. Wasserwaage",
+        "target_scores": {
+            "A. Neuer Aschenbecher": 1,
+            "B. Schraubenschlüssel": 0,
+            "C. Schraubenzieher": 0,
+            "D. Wasserwaage": 0
+        }
+    },
+    {
+        "input": "Leon hat festgestellt, dass der Türgriff in seiner Wohnung ständig quietscht. Er möchte das Problem mit einem Schmiermittel lösen, aber findet keins zu Hause. Folgende Gegenstände hat er jedoch zur Verfügung. Welcher eignet sich am besten als Ersatz für ein Schmiermittel?\nA. Essig\nB. Natron\nC. Olivenöl\nD. Trockenmittel",
+        "target_scores": {
+            "A. Essig": 0,
+            "B. Natron": 0,
+            "C. Olivenöl": 1,
+            "D. Trockenmittel": 0
+        }
+    },
+    {
+        "input": "Hannah möchte in einer Ecke ihres Zuhauses eine Lesezone einrichten, hat aber kein passendes Bücherregal. Sie findet jedoch folgende Gegenstände. Welcher eignet sich am besten als temporäres Bücherregal?\nA. Kaputte Kiste\nB. Mehrstöckiger Rollwagen\nC. Schmutzwäschebehälter\nD. Wäschekorb",
+        "target_scores": {
+            "A. Kaputte Kiste": 0,
+            "B. Mehrstöckiger Rollwagen": 1,
+            "C. Schmutzwäschebehälter": 0,
+            "D. Wäschekorb": 0
+        }
+    },
+    {
+        "input": "Ben hat festgestellt, dass sich viel Staub in seiner Computertastatur angesammelt hat. Der Tischstaubsauger, den er immer benutzt, hat keinen Akku mehr, also braucht er ein alternatives Reinigungswerkzeug. Welcher der folgenden Gegenstände eignet sich am besten zur Reinigung?\nA. Haftnotizen\nB. Notizbuch\nC. Radiergummi\nD. Staubwedel",
+        "target_scores": {
+            "A. Haftnotizen": 0,
+            "B. Notizbuch": 0,
+            "C. Radiergummi": 0,
+            "D. Staubwedel": 1
+        }
+    },
+    {
+        "input": "Lily möchte ein DIY-Spielzeug für ihren Hund Buddy machen, aber sein Lieblings-Beißspielzeug aus Silikon ist verschwunden. Welches der folgenden Gegenstände könnte sie verwenden, um ein ähnliches Spielzeug zu basteln?\nA. Altes Handtuch\nB. Fernbedienung für die Klimaanlage\nC. Kautschukball\nD. Skateboard",
+        "target_scores": {
+            "A. Altes Handtuch": 0,
+            "B. Fernbedienung für die Klimaanlage": 0,
+            "C. Kautschukball": 1,
+            "D. Skateboard": 0
+        }
+    },
+    {
+        "input": "Pauls Reinigungstuch zum Autowaschen ist verschwunden. Er braucht ein saugfähiges Utensil, um das Auto abzuwischen. In seinem Lager hat er folgende Dinge gefunden. Welches davon kann als Ersatz dienen?\nA. Altes Baumwoll-T-Shirt\nB. Roman\nC. Zeitschriften\nD. Zeitungspapier",
+        "target_scores": {
+            "A. Altes Baumwoll-T-Shirt": 1,
+            "B. Roman": 0,
+            "C. Zeitschriften": 0,
+            "D. Zeitungspapier": 0
+        }
+    },
+    {
+        "input": "Eva hat beim Malen im Park vergessen, ihre Farbpalette mitzunehmen. Sie schaut sich um und findet nur vier Dinge. Welches dieser Dinge eignet sich am besten als Ersatz für eine Farbpalette?\nA. Aluminiumdose\nB. Blätter\nC. Keksdosendeckel\nD. Rosenblüte",
+        "target_scores": {
+            "A. Aluminiumdose": 0,
+            "B. Blätter": 0,
+            "C. Keksdosendeckel": 1,
+            "D. Rosenblüte": 0
+        }
+    },
+    {
+        "input": "Jens' Figurenregal ist voll. Er hat neue Blindboxen gekauft, aber das neue Figurenregal ist noch unterwegs. Er möchte einen geeigneten Gegenstand finden, um die neu gekauften Figuren zu präsentieren. Welcher dieser Gegenstände kann das Figurenregal ersetzen und ihm helfen, die neuen Figuren zu zeigen?\nA. Gummiband\nB. Klappstuhl\nC. Papiertuchrolle\nD. Transparente Acryl-Schuhbox",
+        "target_scores": {
+            "A. Gummiband": 0,
+            "B. Klappstuhl": 0,
+            "C. Papiertuchrolle": 0,
+            "D. Transparente Acryl-Schuhbox": 1
+        }
+    },
+    {
+        "input": "Leona hat sich am Finger verletzt und braucht einen provisorischen Fingerling. In der Nähe gibt es jedoch kein Krankenhaus – sie hat nur die folgenden Gegenstände zur Verfügung. Welcher davon eignet sich am besten, um daraus einen Fingerling zu machen?\nA. Ein kurzes Stück Gummischlauch\nB. Eisstiel\nC. Haarband\nD. Kandierte Früchte am Spieß",
+        "target_scores": {
+            "A. Ein kurzes Stück Gummischlauch": 1,
+            "B. Eisstiel": 0,
+            "C. Haarband": 0,
+            "D. Kandierte Früchte am Spieß": 0
+        }
+    },
+    {
+        "input": "Theo hat seine Kopfhörer-Tasche vergessen – zum Glück hat er Bluetooth-Kopfhörer dabei, die ziemlich klein sind. In seiner Tasche findet er einige Gegenstände. Welcher davon eignet sich am wenigsten als Ersatz für eine Kopfhörer-Tasche?\nA. Kaugummidose\nB. Mundspray\nC. Münzbeutel\nD. Tablettendose",
+        "target_scores": {
+            "A. Kaugummidose": 0,
+            "B. Mundspray": 1,
+            "C. Münzbeutel": 0,
+            "D. Tablettendose": 0
+        }
+    },
+    {
+        "input": "Sophia möchte sich zu Hause einen einfachen Stifthalter basteln, findet aber keinen passenden Behälter. Jetzt hat sie folgende vier Gegenstände zur Auswahl. Welcher davon eignet sich am wenigsten als Ersatz für einen Stifthalter?\nA. Disney-Popcorneimer\nB. Kaffeebohnendose\nC. Pappbecher\nD. Weinglas",
+        "target_scores": {
+            "A. Disney-Popcorneimer": 0,
+            "B. Kaffeebohnendose": 0,
+            "C. Pappbecher": 0,
+            "D. Weinglas": 1
+        }
+    },
+    {
+        "input": "Henry möchte eine Taschentuchbox basteln, findet es aber zu aufwendig. Er will stattdessen zu Hause einen passenden Ersatz finden. Welcher der folgenden Gegenstände eignet sich am besten als Ersatz für eine Taschentuchbox?\nA. Hundehütte\nB. Katzenangel-Spielzeug\nC. Müllzerkleinerer\nD. Versandkarton",
+        "target_scores": {
+            "A. Hundehütte": 0,
+            "B. Katzenangel-Spielzeug": 0,
+            "C. Müllzerkleinerer": 0,
+            "D. Versandkarton": 1
+        }
+    },
+    {
+        "input": "Elsa bereitet gerade das Abendessen vor und muss eine große Schüssel Salat gut vermischen, aber sie kann keinen Rührstab finden. Sie hat die folgenden Gegenstände zur Verfügung. Welcher Gegenstand eignet sich am wenigsten als Rührwerkzeug?\nA. 2 Löffel unterschiedlicher Größe\nB. Duschhaube\nC. Essstäbchen\nD. Sägezahnmesser",
+        "target_scores": {
+            "A. 2 Löffel unterschiedlicher Größe": 0,
+            "B. Duschhaube": 1,
+            "C. Essstäbchen": 0,
+            "D. Sägezahnmesser": 0
+        }
+    },
+    {
+        "input": "Arielle möchte ein paar Tropfen Olivenöl auf den Salat träufeln, aber sie will nicht, dass es zu viel wird. Sie hat kein Tropfer, um die Ölmenge zu kontrollieren. In der Küche hat sie die folgenden Dinge. Welches dieser Dinge kann sie vorübergehend als Tropfer verwenden?\nA. Keramische Schale\nB. Kleine Tasse\nC. Saubere Sprühflasche\nD. Sojaschale",
+        "target_scores": {
+            "A. Keramische Schale": 0,
+            "B. Kleine Tasse": 0,
+            "C. Saubere Sprühflasche": 1,
+            "D. Sojaschale": 0
+        }
+    },
+    {
+        "input": "Anna möchte zu Hause einen Kuchen backen, aber ihr elektrisches Handrührgerät ist kaputt. Sie muss ein Ersatzwerkzeug finden, um den Teig zu rühren. In ihrer Küche hat sie die folgenden Dinge zur Auswahl, welches könnte am besten als temporärer Rührer dienen?\nA. Edelstahlspatel\nB. Gartenschere\nC. Geschirrspüler\nD. Gummihandschuh",
+        "target_scores": {
+            "A. Edelstahlspatel": 1,
+            "B. Gartenschere": 0,
+            "C. Geschirrspüler": 0,
+            "D. Gummihandschuh": 0
+        }
+    },
+    {
+        "input": "Sie machen eine gründliche Reinigung zu Hause und stellen fest, dass der Glasreiniger alle ist. Welches der folgenden Produkte kann als Ersatz verwendet werden, um das Glas zu reinigen?\nA. Apfelessig\nB. Milch\nC. Rotwein\nD. Weißweinessig",
+        "target_scores": {
+            "A. Apfelessig": 0,
+            "B. Milch": 0,
+            "C. Rotwein": 0,
+            "D. Weißweinessig": 1
+        }
+    },
+    {
+        "input": "Lisa hat Pilling auf ihrem Pullover bemerkt, aber sie hat keinen speziellen Fusselrasierer. Aus Verlegenheit findet sie nur ein paar Dinge. Welches dieser Dinge kann ihr helfen, die Fusseln von ihrer Kleidung zu entfernen?\nA. Packband\nB. Schlüssel\nC. Schwamm\nD. Wärmflasche",
+        "target_scores": {
+            "A. Packband": 1,
+            "B. Schlüssel": 0,
+            "C. Schwamm": 0,
+            "D. Wärmflasche": 0
+        }
+    },
+    {
+        "input": "Herr Schulz möchte seine Lederschuhe polieren, aber zu Hause gibt es kein Schuhpolitur, und der Schuhputzer vom Markt ist für das Neujahr weggefahren. Welches der folgenden Dinge sollte er verwenden, um seine Lederschuhe zu pflegen?\nA. Chiliöl\nB. Haarspray\nC. Honig\nD. Olivenöl",
+        "target_scores": {
+            "A. Chiliöl": 0,
+            "B. Haarspray": 0,
+            "C. Honig": 0,
+            "D. Olivenöl": 1
+        }
+    },
+    {
+        "input": "Lily möchte im Park einen Drachen steigen lassen, aber der Drachen, den sie ursprünglich dabei hatte, hat ein großes Loch bekommen. Sie kann nur provisorisch im Rucksack nach ähnlichem Material suchen, um einen Drachen zu basteln. Welches der folgenden Dinge eignet sich am besten als Ersatz für den Drachen?\nA. Flaschenöffner\nB. Fusselrolle\nC. Große Mülltüte\nD. Schweizer Taschenmesser",
+        "target_scores": {
+            "A. Flaschenöffner": 0,
+            "B. Fusselrolle": 0,
+            "C. Große Mülltüte": 1,
+            "D. Schweizer Taschenmesser": 0
+        }
+    },
+    {
+        "input": "Lizzy muss beim Umzug einige zerbrechliche Gegenstände verpacken, aber sie hat keine Schaumstoffpolsterung oder anderes Verpackungsmaterial. Welches der folgenden Dinge ist am ehesten geeignet, um zerbrechliche Gegenstände zu schützen?\nA. Eier\nB. Handtücher\nC. Hirse\nD. Klebreis",
+        "target_scores": {
+            "A. Eier": 0,
+            "B. Handtücher": 1,
+            "C. Hirse": 0,
+            "D. Klebreis": 0
+        }
+    },
+    {
+        "input": "Max möchte zu Hause eine Gesichtsmaske selbst machen, hat jedoch kein Vliesstoff gekauft. In seinem Badezimmer hat er ein paar Dinge gefunden, die er möglicherweise verwenden könnte. Welches der folgenden Dinge ist am ehesten geeignet, um den Vliesstoff zu ersetzen?\nA. Babywindel\nB. Große Wattepads\nC. Jeanshose\nD. Seidentaschentücher",
+        "target_scores": {
+            "A. Babywindel": 0,
+            "B. Große Wattepads": 1,
+            "C. Jeanshose": 0,
+            "D. Seidentaschentücher": 0
+        }
+    },
+    {
+        "input": "Ben hat ein Picknick im Park gemacht, aber er hat bemerkt, dass er nicht genug Plastiklöffel und -gabeln dabei hat. In der Nähe gibt es keinen Supermarkt, in dem er Einweggeschirr kaufen kann. Er muss also aus den Sachen, die er dabei hat, einen Ersatz finden. Welches dieser Dinge könnte als Ersatz für Besteck verwendet werden?\nA. Einweg-Tischdecken\nB. Plastikkarten\nC. Regenponchos\nD. Umschläge",
+        "target_scores": {
+            "A. Einweg-Tischdecken": 0,
+            "B. Plastikkarten": 1,
+            "C. Regenponchos": 0,
+            "D. Umschläge": 0
+        }
+    },
+    {
+        "input": "Pony möchte ein neues Bild zu Hause aufhängen, kann aber keine Nägel und keinen Hammer finden. Er muss also ein Werkzeug finden, mit dem er den Nagel einschlagen kann. Welche dieser Dinge aus seiner Werkstatt könnte als temporärer Hammer dienen?\nA. Gummisandalen\nB. Leere Plastikflasche\nC. Lippenbalsam\nD. Schwere Taschenlampe",
+        "target_scores": {
+            "A. Gummisandalen": 0,
+            "B. Leere Plastikflasche": 0,
+            "C. Lippenbalsam": 0,
+            "D. Schwere Taschenlampe": 1
+        }
+    },
+    {
+        "input": "Mia muss das Wasser in der Vase wechseln, hat aber keinen Blumendünger zu Hause. Ihr Vater gab ihr vier Dinge und testete, welches davon als Düngerersatz dienen könnte, um die Lebensdauer der Blumen zu verlängern.\nA. Hefe\nB. Münzen\nC. Sojamehl\nD. Zucker",
+        "target_scores": {
+            "A. Hefe": 0,
+            "B. Münzen": 0,
+            "C. Sojamehl": 0,
+            "D. Zucker": 1
+        }
+    },
+    {
+        "input": "Sie möchten beim Duschen mit einem Duschball den Rücken schrubben, aber Sie können Ihren Duschball nicht finden. Im Badezimmer haben Sie noch einige andere Dinge. Welches dieser Dinge könnte als Ersatz für den Duschball dienen?\nA. Haarkonditionierer\nB. Rasierer\nC. Schwamm\nD. Waschball",
+        "target_scores": {
+            "A. Haarkonditionierer": 0,
+            "B. Rasierer": 0,
+            "C. Schwamm": 1,
+            "D. Waschball": 0
+        }
+    },
+    {
+        "input": "Liam bereitet gerade Knödelteig zu und will mit einem Nudelholz den Teig ausrollen, aber das Nudelholz ist verschwunden. Er schaut sich in der Küche um, welches dieser Dinge könnte am besten als Ersatz für ein Nudelholz dienen?\nA. Gummiband\nB. Leere Weinflasche\nC. Waage\nD. Wasserspender",
+        "target_scores": {
+            "A. Gummiband": 0,
+            "B. Leere Weinflasche": 1,
+            "C. Waage": 0,
+            "D. Wasserspender": 0
+        }
+    },
+    {
+        "input": "Bay liest gerade ein Buch und möchte ein Lesezeichen in das Buch stecken, aber sie hat keinen gefunden. Sie sucht in ihrem Zimmer, welches dieser Dinge am besten als Ersatz für ein Lesezeichen dienen könnte?\nA. Alte Kreditkarte\nB. Tischtennisball\nC. Tischtennisschläger\nD. Zauberwürfel",
+        "target_scores": {
+            "A. Alte Kreditkarte": 1,
+            "B. Tischtennisball": 0,
+            "C. Tischtennisschläger": 0,
+            "D. Zauberwürfel": 0
+        }
+    },
+    {
+        "input": "Ben spielt am Strand und möchte eine Sandburg bauen, hat aber keine Sandspielzeuge dabei. Welche der folgenden Sachen könnte er am ehesten verwenden, um eine Sandburg zu bauen?\nA. Badelatschen\nB. Beachvolleyball\nC. Leere Mineralwasserflasche\nD. Sonnenschutzanzug",
+        "target_scores": {
+            "A. Badelatschen": 0,
+            "B. Beachvolleyball": 0,
+            "C. Leere Mineralwasserflasche": 1,
+            "D. Sonnenschutzanzug": 0
+        }
+    },
+    {
+        "input": "Lizzy möchte zu Hause Pizza machen, hat aber keinen Pizzastein. Sie hat folgende Gegenstände bei sich. Welche der folgenden Sachen könnte sie am ehesten als Ersatz für einen Pizzastein verwenden?\nA. Glanzpapier\nB. Glasschale\nC. Kristallschale\nD. Marmorbrett",
+        "target_scores": {
+            "A. Glanzpapier": 0,
+            "B. Glasschale": 0,
+            "C. Kristallschale": 0,
+            "D. Marmorbrett": 1
+        }
+    },
+    {
+        "input": "Beim Pflegen von Zimmerpflanzen muss man der Pflanze Unterstützung bieten, hat aber keine spezielle Stütze. Welcher der folgenden Gegenstände könnte als Ersatz für einen Pflanzensupport verwendet werden?\nA. Akkordeon\nB. Plastikhalm\nC. Vogelhaus\nD. Wassermelonensamen",
+        "target_scores": {
+            "A. Akkordeon": 0,
+            "B. Plastikhalm": 1,
+            "C. Vogelhaus": 0,
+            "D. Wassermelonensamen": 0
+        }
+    },
+    {
+        "input": "Beim Kochen zu Hause hat Leon festgestellt, dass das Schneidebrett beschädigt wurde, weil er das Fleisch kräftig gehackt hat. Welche der folgenden Gegenstände könnten als vorübergehender Ersatz für ein Schneidebrett dienen?\nA. Fußmatte\nB. Holzbrett\nC. Putzlappen\nD. Telefonbuch",
+        "target_scores": {
+            "A. Fußmatte": 0,
+            "B. Holzbrett": 1,
+            "C. Putzlappen": 0,
+            "D. Telefonbuch": 0
+        }
+    },
+    {
+        "input": "Larys Schreibtischlampe ist kaputt und er hat keine Ersatzlampe zur Hand. Er braucht jedoch eine Lichtquelle, um weiterzulesen. Welcher der folgenden Gegenstände eignet sich am wenigsten als provisorische Lichtquelle?\nA. Kerze\nB. Petroleumlampe\nC. Taschenlampe auf Handy\nD. Ziegelsteine",
+        "target_scores": {
+            "A. Kerze": 0,
+            "B. Petroleumlampe": 0,
+            "C. Taschenlampe auf Handy": 0,
+            "D. Ziegelsteine": 1
+        }
+    },
+    {
+        "input": "Noahs Schreibtisch ist voller Staub, aber der Staubwedel, den er normalerweise benutzt, wurde gerade gewaschen. Er muss nun einen anderen Gegenstand finden, um den Schreibtisch zu reinigen. Welcher der folgenden Gegenstände eignet sich am besten als ein provisorisches Reinigungswerkzeug?\nA. Ein Kalligraphiepinsel\nB. Ein Wasserstift\nC. Eine Peeling-Seife\nD. Lakritzschnüre",
+        "target_scores": {
+            "A. Ein Kalligraphiepinsel": 1,
+            "B. Ein Wasserstift": 0,
+            "C. Eine Peeling-Seife": 0,
+            "D. Lakritzschnüre": 0
+        }
+    },
+    {
+        "input": "Die Futterschüssel ihrer Katze ist kaputtgegangen, weil sie versehentlich umgestoßen wurde. Sie brauchen dringend einen Ersatzbehälter für das Katzenfutter. Welcher der folgenden Gegenstände eignet sich am besten als Futternapf-Ersatz?\nA. Badematte aus Diatomeenerde\nB. Große Waschschüssel\nC. Leere Seifendose\nD. Steakmesser",
+        "target_scores": {
+            "A. Badematte aus Diatomeenerde": 0,
+            "B. Große Waschschüssel": 0,
+            "C. Leere Seifendose": 1,
+            "D. Steakmesser": 0
+        }
+    },
+    {
+        "input": "Während des Freilichtmalens hat Raphaela versehentlich ihren Pinsel verloren. In der Umgebung gibt es keinen Laden, nur das weite Feld. Sie muss ein Ersatzwerkzeug finden, um weiter zu malen. Welcher der folgenden Gegenstände eignet sich am wenigsten als Ersatzpinsel?\nA. Ein Deckel von einer Bentobox\nB. Ein Grashalm\nC. Ein Wattestäbchen\nD. Ein Zahnstocher",
+        "target_scores": {
+            "A. Ein Deckel von einer Bentobox": 1,
+            "B. Ein Grashalm": 0,
+            "C. Ein Wattestäbchen": 0,
+            "D. Ein Zahnstocher": 0
+        }
+    },
+    {
+        "input": "Wenn Herr Meyer im Garten seine Wäsche aufhängt, hat er  versehentlich den Wäscheständer beschädigt. Es gibt einige verstreute Gegenstände im Garten, welchen würde er am ehesten als provisorischen Ersatz für den Wäscheständer verwenden?\nA. Ein Bündel Mais\nB. Ein Haufen Weizen\nC. Ein Strohballen\nD. Ein Stück Draht",
+        "target_scores": {
+            "A. Ein Bündel Mais": 0,
+            "B. Ein Haufen Weizen": 0,
+            "C. Ein Strohballen": 0,
+            "D. Ein Stück Draht": 1
+        }
+    },
+    {
+        "input": "Die Sonne sticht vom Himmel. Bei der Grillparty hat Herr Baumann sein Feuerzeug vergessen. Er denkt an eine traditionelle Methode, um die Holzkohle zu entzünden. In der Nähe findet er mehrere Gegenstände. Welches dieser Objekte könnte am ehesten zum Anzünden des Feuers verwendet werden?\nA. Ein Germknödel\nB. Ein Stück Plastikfolie\nC. Eine Flasche Fruchtsaft\nD. Eine Lupe",
+        "target_scores": {
+            "A. Ein Germknödel": 0,
+            "B. Ein Stück Plastikfolie": 0,
+            "C. Eine Flasche Fruchtsaft": 0,
+            "D. Eine Lupe": 1
+        }
+    },
+    {
+        "input": "Lily möchte Scherenschnitte machen, aber nachdem sie kurz auf die Toilette gegangen ist, ist die Schere verschwunden. Sie hat nur noch die folgenden Gegenstände bei sich. Welches dieser Objekte könnte sie am ehesten als Ersatz für die Schere verwenden?\nA. Draht\nB. Glasscherbe\nC. Nagelknipser\nD. Pinzette",
+        "target_scores": {
+            "A. Draht": 0,
+            "B. Glasscherbe": 0,
+            "C. Nagelknipser": 1,
+            "D. Pinzette": 0
+        }
+    },
+    {
+        "input": "Max stellt fest, dass zu Hause kein neuer Besen mehr vorhanden ist und der alte Besen kaputt ist. Er geht in den Abstellraum, um nach einem Ersatz zu suchen. Welches der folgenden Dinge ist am wenigsten geeignet, um als vorübergehender Besen zu dienen?\nA. Ein Bündel Äste\nB. Ein Paar alte Bergstiefel\nC. Ein Straußenfedernbesen\nD. Eine übergroße alte Schuhputzbürste",
+        "target_scores": {
+            "A. Ein Bündel Äste": 0,
+            "B. Ein Paar alte Bergstiefel": 1,
+            "C. Ein Straußenfedernbesen": 0,
+            "D. Eine übergroße alte Schuhputzbürste": 0
+        }
+    },
+    {
+        "input": "Lina ist Reisebloggerin. Sie kommt an einem Outdoor-Boxstudio vorbei und möchte dort Drehmaterial aufnehmen. Leider hat sie festgestellt, dass ihr Kamerastativ verloren gegangen ist. Welcher der folgenden Gegenstände eignet sich am wenigsten als Ersatzstativ?\nA. Ein Stapel Bücher\nB. Ein Stapel Sandsäcke\nC. Ein Stapel Steine\nD. Eine Snackverpackung",
+        "target_scores": {
+            "A. Ein Stapel Bücher": 0,
+            "B. Ein Stapel Sandsäcke": 0,
+            "C. Ein Stapel Steine": 0,
+            "D. Eine Snackverpackung": 1
+        }
+    },
+    {
+        "input": "Matthew ist ein Outdoor-Fitness-Enthusiast. Nach einem Training im Freien möchte er seinen Körper abkühlen, hat aber weder einen Ventilator noch Eis dabei. In der Nähe findet er einige Gegenstände. Welcher davon eignet sich am wenigsten zur Abkühlung?\nA. Ein feuchtes Handtuch\nB. Ein kleiner Regenschirm\nC. Ein paar Kühlpacks\nD. Eine eisgekühlte Flasche Getränk",
+        "target_scores": {
+            "A. Ein feuchtes Handtuch": 0,
+            "B. Ein kleiner Regenschirm": 1,
+            "C. Ein paar Kühlpacks": 0,
+            "D. Eine eisgekühlte Flasche Getränk": 0
+        }
+    },
+    {
+        "input": "Lena ist beim Zelten im Volkspark Friedrichshain. Sie möchte im Zelt ein paar Dekoartikel aufhängen, um schöne Fotos zu machen, hat aber weder Klebeband noch Haken dabei. In ihrer Tasche findet sie einige Dinge. Welcher der folgenden Gegenstände eignet sich am wenigsten zum Aufhängen von Dekoration?\nA. Blu-Tack\nB. Chips\nC. Kaugummi\nD. Knetmasse",
+        "target_scores": {
+            "A. Blu-Tack": 0,
+            "B. Chips": 1,
+            "C. Kaugummi": 0,
+            "D. Knetmasse": 0
+        }
+    },
+    {
+        "input": "Max sitzt in einem Café und arbeitet an seinen Hausaufgaben. Als er sich verschreibt, möchte er den Fehler ausradieren, aber sein Radiergummi ist verschwunden. Welcher der folgenden Gegenstände kann am wahrscheinlichsten als Ersatz verwendet werden?\nA. Bleistift\nB. Ein Brotkrümel\nC. Stiftkappe\nD. Thermosflasche",
+        "target_scores": {
+            "A. Bleistift": 0,
+            "B. Ein Brotkrümel": 1,
+            "C. Stiftkappe": 0,
+            "D. Thermosflasche": 0
+        }
+    },
+    {
+        "input": "Der Vater bereitet ein japanisches Gericht zu und braucht dafür nur das Eiweiß. Er möchte das Eiweiß vom Eigelb trennen, hat aber kein spezielles Werkzeug zur Hand. Welcher der folgenden Gegenstände kann ihm dabei am besten helfen?\nA. Küchenpapier\nB. Leere Plastikflasche\nC. Rechteckige Keksdose\nD. Reinigungsschwamm",
+        "target_scores": {
+            "A. Küchenpapier": 0,
+            "B. Leere Plastikflasche": 1,
+            "C. Rechteckige Keksdose": 0,
+            "D. Reinigungsschwamm": 0
+        }
+    },
+    {
+        "input": "Beim Grillen im Freien möchten Sie Fleischspieße mit Marinade anbräunen, haben aber leider keinen Pinsel dabei. Nur die Zutaten im Korb zu Ihren Füßen können Ihnen vielleicht helfen. Welcher der folgenden Lebensmittel eignet sich am wenigsten als Ersatz für einen Pinsel?\nA. Champignon\nB. Frische Maisfäden\nC. Frisches Lauchstück\nD. Frisches Salatblatt",
+        "target_scores": {
+            "A. Champignon": 1,
+            "B. Frische Maisfäden": 0,
+            "C. Frisches Lauchstück": 0,
+            "D. Frisches Salatblatt": 0
+        }
+    },
+    {
+        "input": "Lily möchte ein Abendessen zu Hause veranstalten, aber ihr Tischdeckenvorrat reicht nicht aus. Sie findet einige Gegenstände im Haus. Welcher der folgenden Gegenstände eignet sich am wenigsten als Ersatz für eine Tischdecke?\nA. Bettlaken\nB. Mikrofon\nC. Sofabezug\nD. Vorhang",
+        "target_scores": {
+            "A. Bettlaken": 0,
+            "B. Mikrofon": 1,
+            "C. Sofabezug": 0,
+            "D. Vorhang": 0
+        }
+    },
+    {
+        "input": "Frau Wagner möchte eine lustige Fotoserie von ihrer Katze machen, aber ihr fehlen passende Requisiten. Sie findet einige Gegenstände zu Hause. Welcher eignet sich am besten als Fotorequisite?\nA. Computertastatur\nB. Durian\nC. Mandarine\nD. Wollknäuel",
+        "target_scores": {
+            "A. Computertastatur": 0,
+            "B. Durian": 0,
+            "C. Mandarine": 0,
+            "D. Wollknäuel": 1
+        }
+    },
+    {
+        "input": "Frau Schwarz möchte zu Hause ein Ei braten, aber sie kann den Pfannenwender nicht finden. Sie schaut sich um und sucht nach einem Ersatz, um das Ei zu wenden. Welches der folgenden Objekte würde sie am ehesten verwenden?\nA. Eismaschine\nB. Gezacktes Messer\nC. Magazin\nD. Plastikhaarkamm",
+        "target_scores": {
+            "A. Eismaschine": 0,
+            "B. Gezacktes Messer": 1,
+            "C. Magazin": 0,
+            "D. Plastikhaarkamm": 0
+        }
+    },
+    {
+        "input": "Daniel möchte die Sträucher in seinem Garten schneiden, aber seine Schere ist nicht scharf genug. Er muss ein Ersatzwerkzeug finden, um die Arbeit zu erledigen. Welches der folgenden Werkzeuge aus seiner Werkzeugkiste kann er verwenden?\nA. Drahtbürste\nB. Grillgabel\nC. Spaten\nD. Säge",
+        "target_scores": {
+            "A. Drahtbürste": 0,
+            "B. Grillgabel": 0,
+            "C. Spaten": 0,
+            "D. Säge": 1
+        }
+    },
+    {
+        "input": "Max und seine neue Freundin essen zu Abend, als er feststellt, dass er die Sektflasche nicht öffnen kann. Er muss ein Ersatzwerkzeug finden, um die Flasche zu öffnen. Welches der folgenden Dinge sollte er am wenigsten versuchen zu benutzen?\nA. Ein Metalllöffel\nB. Eine Kreditkarte\nC. Eine Münze\nD. Garnelenchips",
+        "target_scores": {
+            "A. Ein Metalllöffel": 0,
+            "B. Eine Kreditkarte": 0,
+            "C. Eine Münze": 0,
+            "D. Garnelenchips": 1
+        }
+    },
+    {
+        "input": "Frau Sauer backt gerade Kekse und muss Mehl sieben, aber ihr Sieb ist verschwunden. Welches der folgenden Dinge ist am wenigsten geeignet, um das Mehl zu sieben?\nA. Backpinsel\nB. Durchlöcherter Gemüseteller\nC. Netzfruchtbeutel\nD. Wäschesack",
+        "target_scores": {
+            "A. Backpinsel": 1,
+            "B. Durchlöcherter Gemüseteller": 0,
+            "C. Netzfruchtbeutel": 0,
+            "D. Wäschesack": 0
+        }
+    },
+    {
+        "input": "Heidi möchte Kalligraphie üben und braucht eine harte, flache Unterlage zum Schreiben. Sie hat jedoch keinen Schreibtisch zur Verfügung. Welcher der folgenden Gegenstände eignet sich am wenigsten als Ersatz für einen Schreibtisch?\nA. Ein Schneidebrett\nB. Eine Bodenfliese\nC. Eine trockene Diatomeenmatte\nD. Sofakissen",
+        "target_scores": {
+            "A. Ein Schneidebrett": 0,
+            "B. Eine Bodenfliese": 0,
+            "C. Eine trockene Diatomeenmatte": 0,
+            "D. Sofakissen": 1
+        }
+    },
+    {
+        "input": "Nick hat das Silikonhalsband seines Hundes verloren und möchte ein neues selber machen. Er hat folgende Materialien zur Verfügung. Welches eignet sich am besten als Ersatz für ein Halsband?\nA. Elastikband\nB. Seide\nC. Spitze\nD. Strumpfhose",
+        "target_scores": {
+            "A. Elastikband": 1,
+            "B. Seide": 0,
+            "C. Spitze": 0,
+            "D. Strumpfhose": 0
+        }
+    },
+    {
+        "input": "Thea macht zu Hause Nageldesign und braucht dafür ein Punktierwerkzeug. Leider kann sie es nicht finden. Welcher der folgenden Gegenstände eignet sich am besten als Ersatz?\nA. Falsche Wimpern\nB. Rouge\nC. Schweizer Taschenmesser\nD. Zahnstocher",
+        "target_scores": {
+            "A. Falsche Wimpern": 0,
+            "B. Rouge": 0,
+            "C. Schweizer Taschenmesser": 0,
+            "D. Zahnstocher": 1
+        }
+    },
+    {
+        "input": "Dehn nimmt an einem Finanzsymposium teil und stellt fest, dass der Bildschirm seines Handys staubig ist. Er hat jedoch kein spezielles Reinigungstuch dabei. Welchen der folgenden Gegenstände kann er am wenigsten zum Reinigen des Bildschirms verwenden?\nA. Alkoholtupfer\nB. Brillenputztuch\nC. Einladungskarte\nD. Krawatte",
+        "target_scores": {
+            "A. Alkoholtupfer": 0,
+            "B. Brillenputztuch": 0,
+            "C. Einladungskarte": 1,
+            "D. Krawatte": 0
+        }
+    },
+    {
+        "input": "Am Ende Ihrer Reise möchten Sie einige Souvenirs sicher im Gepäck verstauen, damit sie nicht beschädigt werden. Leider haben Sie keine passende Aufbewahrungsbox dabei. Welcher der folgenden Gegenstände eignet sich am wenigsten als provisorische Aufbewahrung?\nA. Eine leere Kaffeebüchse\nB. Eine leere Milchpulverdose\nC. Eine leere Pralinendose\nD. Fotoalbum",
+        "target_scores": {
+            "A. Eine leere Kaffeebüchse": 0,
+            "B. Eine leere Milchpulverdose": 0,
+            "C. Eine leere Pralinendose": 0,
+            "D. Fotoalbum": 1
+        }
+    },
+    {
+        "input": "Thora möchte im Büro einen wichtigen Merkzettel neben dem Computer befestigen, aber ihr Klebeband ist aufgebraucht. Welcher der folgenden Gegenstände kann provisorisch als Ersatz für das Klebeband dienen?\nA. Armbanduhr\nB. Festnetztelefon\nC. Geschmolzener Malzzucker\nD. Tischkalender",
+        "target_scores": {
+            "A. Armbanduhr": 0,
+            "B. Festnetztelefon": 0,
+            "C. Geschmolzener Malzzucker": 1,
+            "D. Tischkalender": 0
+        }
+    },
+    {
+        "input": "Chris repariert gerade sein Fahrrad, hat aber keinen Schraubenschlüssel dabei. Er muss die Schraube am Fahrradsattel festziehen. In seinem Werkzeugkasten findet er folgende Gegenstände. Welcher davon eignet sich am besten als provisorischer Schraubenschlüssel?\nA. Hammer\nB. Rohr\nC. Stahlmaß\nD. Zange",
+        "target_scores": {
+            "A. Hammer": 0,
+            "B. Rohr": 0,
+            "C. Stahlmaß": 0,
+            "D. Zange": 1
+        }
+    },
+    {
+        "input": "Hanna macht zu Hause Gymnastikübungen und braucht einen Yogablock zur Unterstützung, hat aber keinen zur Hand. Sie schaut sich um und findet einige Gegenstände. Welcher davon eignet sich am besten als Ersatz für einen Yogablock?\nA. Duden\nB. Münztasche\nC. Schal\nD. Schlüsseletui",
+        "target_scores": {
+            "A. Duden": 1,
+            "B. Münztasche": 0,
+            "C. Schal": 0,
+            "D. Schlüsseletui": 0
+        }
+    },
+    {
+        "input": "Leo führt ein Experiment zu Hause durch und muss das Volumen einer Flüssigkeit messen, hat aber keinen Messbecher. Er schaut sich im Wohnzimmer um und findet die folgenden Gegenstände. Welcher dieser Gegenstände ist am wahrscheinlichsten als Ersatz für einen Messbecher geeignet?\nA. Babyflasche\nB. Keramiktasse\nC. Lippenstifthalter\nD. Schnapsglas",
+        "target_scores": {
+            "A. Babyflasche": 1,
+            "B. Keramiktasse": 0,
+            "C. Lippenstifthalter": 0,
+            "D. Schnapsglas": 0
+        }
+    },
+    {
+        "input": "Wald hat seinen Salzstreuer versehentlich zerbrochen und muss schnell einen Ersatzbehälter finden, um Salz aufzubewahren. Er schaut sich im Lagerraum um und findet die folgenden Dinge. Welcher dieser Gegenstände eignet sich am besten als provisorischer Salzbehälter?\nA. Leere Kapsel-Flasche\nB. Nachttopf\nC. Waschbecken\nD. Weinflasche",
+        "target_scores": {
+            "A. Leere Kapsel-Flasche": 1,
+            "B. Nachttopf": 0,
+            "C. Waschbecken": 0,
+            "D. Weinflasche": 0
+        }
+    },
+    {
+        "input": "Bei einem Stromausfall kann Yann keine Kerzen finden. Sie muss ein Ersatzmittel zur Beleuchtung finden. Welches der folgenden Objekte eignet sich am besten als Notbeleuchtung?\nA. Flachbildschirm-TV\nB. Leuchtende Armbanduhr\nC. Obstmesser\nD. Trocknungsmittel",
+        "target_scores": {
+            "A. Flachbildschirm-TV": 0,
+            "B. Leuchtende Armbanduhr": 1,
+            "C. Obstmesser": 0,
+            "D. Trocknungsmittel": 0
+        }
+    },
+    {
+        "input": "Till bereitet zu Hause gerade Spaghetti zu, stellt jedoch fest, dass er keinen speziellen Nudeltrockner hat. Er schaut sich in der Küche um. Welches der folgenden Objekte eignet sich am besten als vorübergehender Ersatz für einen Nudeltrockner?\nA. Gummibänder\nB. Kleiderbügel\nC. Lampe\nD. Ventilator",
+        "target_scores": {
+            "A. Gummibänder": 0,
+            "B. Kleiderbügel": 1,
+            "C. Lampe": 0,
+            "D. Ventilator": 0
+        }
+    },
+    {
+        "input": "Wald möchte die Erde in seinem Topf lockern, kann jedoch keine Gartenkelle finden. Sein Freund leiht ihm einige Dinge. Welches der folgenden Objekte kann er als Ersatz für eine Gartenkelle verwenden?\nA. Keramiklöffel\nB. Kopfhaut-Massager\nC. Ohrenreiniger\nD. Plastikstrohhalme",
+        "target_scores": {
+            "A. Keramiklöffel": 1,
+            "B. Kopfhaut-Massager": 0,
+            "C. Ohrenreiniger": 0,
+            "D. Plastikstrohhalme": 0
+        }
+    },
+    {
+        "input": "Johanna möchte zu Hause Krafttraining machen und ihre Armmuskeln stärken, hat aber keine Hanteln zur Verfügung. Welcher der folgenden Gegenstände eignet sich am besten als Hantel-Ersatz für das Training?\nA. 1,5-Liter-Wasserflasche\nB. Eier\nC. Fußball\nD. Kissen",
+        "target_scores": {
+            "A. 1,5-Liter-Wasserflasche": 1,
+            "B. Eier": 0,
+            "C. Fußball": 0,
+            "D. Kissen": 0
+        }
+    },
+    {
+        "input": "Molly möchte zu Hause ein gegrilltes Fischgericht zubereiten, stellt jedoch fest, dass ihr Grillrost fehlt. Welcher der folgenden Gegenstände eignet sich am besten als Ersatz zum Grillen von Fisch?\nA. Angelschnur\nB. Drahtgitter\nC. Fischköder\nD. Schneidebrett aus Holz",
+        "target_scores": {
+            "A. Angelschnur": 0,
+            "B. Drahtgitter": 1,
+            "C. Fischköder": 0,
+            "D. Schneidebrett aus Holz": 0
+        }
+    },
+    {
+        "input": "Hahn hat gerade eine Ladung Schweineohren gebacken und stellt fest, dass er keine Ofenhandschuhe hat. Nebenan ist das Badezimmer. Welcher der folgenden Gegenstände eignet sich am wenigsten als Ersatz für Ofenhandschuhe?\nA. Badetuch\nB. Fleece-Schlafanzug\nC. Handtuch\nD. Zahnputzbecher",
+        "target_scores": {
+            "A. Badetuch": 0,
+            "B. Fleece-Schlafanzug": 0,
+            "C. Handtuch": 0,
+            "D. Zahnputzbecher": 1
+        }
+    },
+    {
+        "input": "Sarah hat gerade die Zulassung an ihrer Wunschuniversität erhalten und feiert zu Hause. Sie hat jedoch keinen ausreichend großen Kühlbehälter, um Getränke zu kühlen. Welcher der folgenden Gegenstände eignet sich am besten als provisorischer Eiskübel?\nA. Baskenmütze\nB. Eine große Waschschüssel\nC. Schublade\nD. Toaster",
+        "target_scores": {
+            "A. Baskenmütze": 0,
+            "B. Eine große Waschschüssel": 1,
+            "C. Schublade": 0,
+            "D. Toaster": 0
+        }
+    },
+    {
+        "input": "Alice braucht plötzlich eine kleine Box, um Heftklammern aufzubewahren, aber alle Schubladen sind voll und es gibt keine Box. Auf ihrem Schreibtisch liegen einige Dinge. Welcher der folgenden Gegenstände eignet sich am wenigsten als Ersatzbehälter?\nA. Brillenetui\nB. Handyhülle\nC. Kopfhöreretui\nD. Lippenstiftetui",
+        "target_scores": {
+            "A. Brillenetui": 0,
+            "B. Handyhülle": 1,
+            "C. Kopfhöreretui": 0,
+            "D. Lippenstiftetui": 0
+        }
+    },
+    {
+        "input": "Henrys Hamster braucht im Winter ein warmes Nest, aber das alte wurde kaputtgebissen. Zu Hause findet er einige nicht mehr benötigte Gegenstände, die er vielleicht als Ersatz nutzen könnte. Welcher der folgenden Gegenstände eignet sich am wenigsten als Ersatz für ein Hamsternest?\nA. Alte Bettdecke\nB. Frotteesocke\nC. Schmierpapier\nD. Wattierung bei Jacken",
+        "target_scores": {
+            "A. Alte Bettdecke": 0,
+            "B. Frotteesocke": 0,
+            "C. Schmierpapier": 1,
+            "D. Wattierung bei Jacken": 0
+        }
+    },
+    {
+        "input": "Am Strand möchte Sophia ein improvisiertes Beachvolleyballnetz bauen. Sie und ihre Freunde haben folgende Gegenstände dabei. Welcher eignet sich am besten dafür?\nA. Ein Badeanzug\nB. Ein Badetuch\nC. Ein Sonnenhut\nD. Eine Flasche Sonnencreme",
+        "target_scores": {
+            "A. Ein Badeanzug": 0,
+            "B. Ein Badetuch": 1,
+            "C. Ein Sonnenhut": 0,
+            "D. Eine Flasche Sonnencreme": 0
+        }
+    },
+    {
+        "input": "Jakob hat gerade eine neue Stoff-Geldbörse selbst genäht, aber ein Freund hat es sich ausgeliehen. Der neue Stoff ist noch nicht angekommen, also schaut er sich zu Hause um. Welcher der folgenden Gegenstände eignet sich am wenigsten zum Nähen einer Geldbörse?\nA. Ein altes T-Shirt\nB. Eine Baseballkappe\nC. Eine Jeans\nD. Eine alte Landkarte",
+        "target_scores": {
+            "A. Ein altes T-Shirt": 0,
+            "B. Eine Baseballkappe": 0,
+            "C. Eine Jeans": 0,
+            "D. Eine alte Landkarte": 1
+        }
+    },
+    {
+        "input": "Im Winter friert Schiller oft an Händen und Füßen. Er benötigt einige Wärmequellen zum Heizen. Seine Wärmflasche ist verschwunden, also sucht er nach einem Ersatz. Welcher der folgenden Gegenstände eignet sich am besten als Wärmequelle?\nA. Ein Apfel\nB. Ein Stück Schokolade\nC. Ein leeres Glas\nD. Eine Plastikflasche mit heißem Wasser",
+        "target_scores": {
+            "A. Ein Apfel": 0,
+            "B. Ein Stück Schokolade": 0,
+            "C. Ein leeres Glas": 0,
+            "D. Eine Plastikflasche mit heißem Wasser": 1
+        }
+    },
+    {
+        "input": "Schedel veranstaltet zu Hause eine Party und möchte Luftballons aufhängen – aber er kann kein Seil finden. Im Abstellraum findet er folgende Dinge. Welcher davon eignet sich am besten als Ersatz für ein Seil?\nA. Dampfgarer\nB. Elektrokabel\nC. Skateboard\nD. Wecker",
+        "target_scores": {
+            "A. Dampfgarer": 0,
+            "B. Elektrokabel": 1,
+            "C. Skateboard": 0,
+            "D. Wecker": 0
+        }
+    },
+    {
+        "input": "Wenn Sie draußen sind und Ihr Handy keinen Akku mehr hat, müssen Sie es dringend aufladen, aber Sie haben keinen Powerbank. In Ihrem Rucksack sind nur folgende Dinge. Welcher davon eignet sich am ehesten als Not-Stromquelle?\nA. Eispickel\nB. Feldflasche\nC. Laptop\nD. Winterschuhe",
+        "target_scores": {
+            "A. Eispickel": 0,
+            "B. Feldflasche": 0,
+            "C. Laptop": 1,
+            "D. Winterschuhe": 0
+        }
+    },
+    {
+        "input": "Sie sind in einer Umkleidekabine und stellen fest, dass kein Kleiderbügel vorhanden ist. Da Sie sich bereits umgezogen haben, können Sie nicht nach draußen gehen. Welcher der folgenden Gegenstände eignet sich am wenigsten als Ersatz für einen Bügel?\nA. Griff eines Regenschirms\nB. Haken\nC. Stuhllehne\nD. Türklinke",
+        "target_scores": {
+            "A. Griff eines Regenschirms": 1,
+            "B. Haken": 0,
+            "C. Stuhllehne": 0,
+            "D. Türklinke": 0
+        }
+    },
+    {
+        "input": "Ihre Kleidung ist im Regen nass geworden und Sie möchten sie schnell trocknen. Leider haben Sie keinen Wäschetrockner zur Verfügung. Sie finden jedoch folgende Geräte zu Hause. Welches davon eignet sich am besten als Ersatz?\nA. Backofen\nB. Bratpfanne\nC. Föhn\nD. Küchenherd",
+        "target_scores": {
+            "A. Backofen": 0,
+            "B. Bratpfanne": 0,
+            "C. Föhn": 1,
+            "D. Küchenherd": 0
+        }
+    }
+]

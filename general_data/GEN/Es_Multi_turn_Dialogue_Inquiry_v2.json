@@ -1,0 +1,354 @@
+[
+    {
+        "input": "[Round 0]  \nUSER: Conduzco dos tramos, uno de 5 kilómetros y otro de 8 kilómetros. ¿Cuántos kilómetros conduzco en total? Responda solo con números arábigos.  \nASSISTANT: 13  \n[Round 1]  \nUSER: Si conduzco 10 kilómetros más, ¿cuántos kilómetros habré conducido en total? Responda solo con números arábigos.  \nASSISTANT:",
+        "target": "23"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Tres huevos de 50 gramos y cuatro huevos de 100 gramos, ¿cuántos gramos hay en total? Responde solo con números arábigos.  \nASSISTANT: 550  \n[Round 1]  \nUSER: Si me como dos huevos de 50 gramos, ¿cuántos gramos quedan? Responde solo con números arábigos.  \nASSISTANT:",
+        "target": "450"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Si de 4 mililitros de agua se desecha 1 mililitro, ¿cuántos mililitros quedan? Escriba el valor numérico en español sin unidades.  \nASSISTANT: Tres  \n[Round 1]  \nUSER: Si agregas otros 12 mililitros, ¿cuántos mililitros quedan en total? Escriba el valor numérico en español sin unidades.  \nASSISTANT:",
+        "target": "Quince"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Si una persona bebe tres botellas de agua al día, ¿cuántas botellas beberá esta persona en dos días? Responde con números romanos sin contenido adicional.  \nASSISTANT: VI  \n[Round 1]  \nUSER: ¿Y cuántas botellas beberá en cuatro días? Responde con números romanos sin contenido adicional.  \nASSISTANT:",
+        "target": "XII"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Hay dos cartones de 1 centímetro de grosor cada uno. ¿cuál es el grosor total al apilarlos? Responde con números romanos sin unidades.  \nASSISTANT: II  \n[Round 1]  \nUSER: Si se apilan 5 cartones más del mismo grosor, ¿cuál será el grosor total? Responde con números romanos sin unidades.  \nASSISTANT:",
+        "target": "VII"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Un rectángulo mide 6 cm de largo y 4 cm de ancho, ¿cuál es su perímetro en centímetro? Por favor, escriba los números en español con letras mayúsculas y sin unidades.\nASSISTANT: VEINTE  \n[Round 1]  \nUSER: ¿Cuál es el área de este rectángulo en cm²? Por favor, escriba los números en español con letras mayúsculas y sin unidades.\nASSISTANT:",
+        "target": "VEINTICUATRO"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Un cuadrado tiene un área de 64 cm², ¿cuánto mide su lado en cm? Por favor, escriba los números en español con letras mayúsculas y sin unidades.\nASSISTANT: OCHO  \n[Round 1]  \nUSER: ¿Cuál es la parte entera de la longitud de la diagonal de este cuadrado? Por favor, escriba los números en español con letras mayúsculas y sin unidades.\nASSISTANT:",
+        "target": "ONCE"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Un estanque circular tiene un radio de 5 metros. Calcula el área del estanque en metros cuadrados. Solo escribe el valor en forma decimal (π=3,14).  \nASSISTANT: 78,5  \n[Round 1]  \nUSER: Ahora calcula su circunferencia en metros. Solo escribe el valor en forma decimal (π=3,14).  \nASSISTANT:",
+        "target": "31,4"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Un triángulo isósceles tiene una base de 10 centímetros y una altura de 8 centímetros. ¿Cuál es su área en centímetros cuadrados? Escriba directamente el valor numérico en formato decimal, con precisión de un decimal.\nASSISTANT: 40,0  \n[Round 1]  \nUSER: ¿Cuál es la longitud de sus lados iguales en centímetros? Escriba directamente el valor numérico en formato decimal, con precisión de un decimal.\nASSISTANT:",
+        "target": "9,4"
+    },
+    {
+        "input": "[Round 0]  \nUSER: El primer día es 100, con un aumento fijo de 5 por día. ¿Cuánto será el valor para el día 7? Responda directamente con palabras en inglés.  \nASSISTANT: One hundred and thirty  \n[Round 1]  \nUSER: Si aumenta a 140, ¿en qué día ocurre? Responda con números romanos.  \nASSISTANT:",
+        "target": "IX"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Al distribuir cinco pájaros (A, B, C, D, E) en dos jaulas idénticas sin dejar jaulas vacías, ¿cuántos métodos hay para dividir? Escriba directamente el valor con números en español con letras mayúsculas.  \nASSISTANT: QUINCE  \n[Round 1]  \nUSER: Si son tres jaulas idénticas sin dejar jaulas vacías, ¿cuántos métodos hay para dividir? Escriba directamente el valor con números en español con letras mayúsculas.  \nASSISTANT:",
+        "target": "VEINTICINCO"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Un papel de 20 cm de largo y 10 cm de ancho se corta en un cuadrado máximo, ¿cuál es la longitud del lado? Responda con números en español con letras mayúsculas sin contenido adicional.  \nASSISTANT: DIEZ  \n[Round 1]  \nUSER: ¿Cuál es el área de este cuadrado en cm²? Responda con números en español con letras mayúsculas sin contenido adicional.  \nASSISTANT:",
+        "target": "CIEN"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Un automóvil viaja a 60 km/h, ¿cuántos kilómetros recorre después de 2 horas? Responda con números en inglés sin unidades.  \nASSISTANT: One hundred and twenty  \n[Round 1]  \nUSER: ¿Cuántos kilómetros recorre en total después de 5 horas más? Responda con números en inglés sin unidades.  \nASSISTANT:",
+        "target": "Four hundred and twenty"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Cada piso tiene 8 escalones. ¿Cuántos escalones hay que subir desde el primer piso hasta el décimo? Solo escribe el valor en números arábigos.  \nASSISTANT: 72  \n[Round 1]  \nUSER: Si la persona solo llega al octavo piso, ¿cuántos escalones ha subido en total? Solo escribe el valor en números arábigos.  \nASSISTANT:",
+        "target": "56"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Una caja de chocolates tiene 5 sabores diferentes, con 4 piezas de cada sabor. ¿Cuántos chocolates hay en total? Solo escribe el valor en números romanos.  \nASSISTANT: XX  \n[Round 1]  \nUSER: Si se consumen por completo 2 sabores, ¿cuántos chocolates quedan? Solo escribe el valor en números romanos.  \nASSISTANT:",
+        "target": "XII"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Un cine tiene 12 filas de asientos con 20 asientos cada una, ¿cuántos asientos hay en total? Responda con números en español con letras, sin unidades.  \nASSISTANT: Doscientos cuarenta  \n[Round 1]  \nUSER: Si 63 personas asisten a una función, ¿cuántos asientos quedan vacíos? Responda con números en español con letras, sin unidades.  \nASSISTANT:",
+        "target": "Ciento setenta y siete"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Una película dura 2 horas y 30 minutos, ¿cuántos minutos son en total? Responda con números en español con letras sin incluir unidades.  \nASSISTANT: Ciento cincuenta  \n[Round 1]  \nUSER: Si ya se han visto 80 minutos, ¿cuántos minutos quedan? Responda con números en español con letras sin incluir unidades.  \nASSISTANT:",
+        "target": "Setenta"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Si 8 veces un número es 16, ¿cuál es ese número? Responde con números romanos sin contenido adicional.  \nASSISTANT: II  \n[Round 1]  \nUSER: ¿Cuánto es el valor obtenido multiplicado por 5? Responde con números romanos sin contenido adicional.  \nASSISTANT: X  \n[Round 2]  \nUSER: ¿Y si le restamos 2? Responde con números romanos sin contenido adicional.  \nASSISTANT:",
+        "target": "VIII"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Hay 5 naranjas en una cesta y 7 en otra. ¿Cuántas hay en total? Escribe directamente el valor en números romanos sin unidades.  \nASSISTANT: XII  \n[Round 1]  \nUSER: Si se toman 3 naranjas de la cesta con más cantidad, ¿cuántas quedan en esa cesta? Escribe directamente el valor en números romanos sin unidades.  \nASSISTANT: IV  \n[Round 2]  \nUSER: Finalmente, al juntar todas las naranjas de ambas cestas, ¿cuántas hay en total? Escribe directamente el valor en números romanos sin unidades.  \nASSISTANT:",
+        "target": "IX"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Se agregan 213,67 gramos de agua a una taza que pesa 88,8 gramos. ¿Cuál es el peso total de la taza? Responde en forma decimal con un decimal de precisión y sin unidades.  \nASSISTANT: 302,5  \n[Round 1]  \nUSER: Si se beben 20,583 gramos de agua, ¿cuánto pesa en total ahora? Responde en forma decimal con un decimal de precisión y sin unidades.  \nASSISTANT: 281,9  \n[Round 2]  \nUSER: Si accidentalmente se derraman 10,4 gramos de agua más, ¿cuál es el peso restante? Responde en forma decimal con un decimal de precisión y sin unidades.  \nASSISTANT:",
+        "target": "271,5"
+    },
+    {
+        "input": "[Round 0]  \nUSER: En una habitación con 30°C de temperatura y 95% de humedad, por cada aumento de 1°C la humedad disminuye un 5%. Si la humedad baja al 75%, ¿cuál es la temperatura actual? Responde solo con números arábigos.  \nASSISTANT: 34  \n[Round 1]  \nUSER: Si la temperatura sube de 30°C a 35°C, ¿cuál será el porcentaje de humedad? Responde solo con números en formato porcentual.  \nASSISTANT: 70%  \n[Round 2]  \nUSER: Si la humedad disminuye del 95% al 50%, ¿qué temperatura alcanza la habitación? Responde directamente con números arábigos.  \nASSISTANT:",
+        "target": "39"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Si una persona toma tres comprimidos de 0,1 gramos cada uno al día, ¿cuál es el peso total diario de medicamento? Escribe solo el valor en decimal sin unidades.  \nASSISTANT: 0,3  \n[Round 1]  \nUSER: Al mejorar los síntomas, reduce un comprimido al día siguiente. ¿Cuál es el peso total consumido el segundo día? Escribe solo el valor en decimal sin unidades.  \nASSISTANT: 0,2  \n[Round 2]  \nUSER: ¿Cuál es el peso total de medicamento consumido en los dos días? Escribe solo el valor en decimal sin unidades.  \nASSISTANT:",
+        "target": "0,5"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Una muestra experimental en un laboratorio está a 273 grados Celsius. Al convertir 273°C a Fahrenheit, ¿cuál es el valor? Proporciona la respuesta con números arábigos, incluyendo símbolos de unidades y con precisión de un decimal, sin explicaciones.  \nASSISTANT: 523,4°F  \n[Round 1]  \nUSER: Al día siguiente, la temperatura de la muestra aumentó 10 grados Celsius. Convertido a Fahrenheit, ¿cuál es el valor? Responde con números arábigos, incluyendo símbolos de unidades y con precisión de un decimal, sin explicaciones.\nASSISTANT: 541,4°F  \n[Round 2]  \nUSER: Si divides la temperatura en Fahrenheit del segundo día entre cinco, ¿cuál es el resultado? Proporciona la respuesta con números arábigos, incluyendo símbolos de unidades y con precisión de un decimal, sin explicaciones.\nASSISTANT:",
+        "target": "108,3°F"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Una secuencia que se duplica diariamente alcanza 1 024 en el día 10. Calcula el valor de esta secuencia en el día 5. Responda con números en inglés.  \nASSISTANT: Thirty-two  \n[Round 1]  \nUSER: Entonces, ¿cuál es el valor en el día 7? Responda con números en inglés.  \nASSISTANT: One hundred and twenty-eight  \n[Round 2]  \nUSER: Calcula el valor inicial de esta secuencia. Responda con números en inglés.  \nASSISTANT:",
+        "target": "Two"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Supongamos que el volumen de una habitación es 150.000 centímetros cúbicos y planeas expandirlo en 50.000 centímetros cúbicos. ¿Cuál es el volumen final? Responda con números en inglés sin contenido adicional.  \nASSISTANT: Two hundred thousand  \n[Round 1]  \nUSER: Si reduces el volumen expandido en 20.000 centímetros cúbicos, ¿cuántos centímetros cúbicos quedan? Responda con números en inglés sin contenido adicional.  \nASSISTANT: One hundred eighty thousand \n[Round 2]  \nUSER: Si reduces el volumen restante a la mitad, ¿cuál es el resultado final en centímetros cúbicos? Responda con números en inglés sin contenido adicional.  \nASSISTANT:",
+        "target": "Ninety thousand"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Un triángulo rectángulo tiene catetos de 3 cm y 4 cm. ¿Cuál es la longitud de su hipotenusa en centímetros? Responde directamente con números romanos sin unidades.  \nASSISTANT: V  \n[Round 1]  \nUSER: ¿Cuál es el área de este triángulo en centímetros cuadrados? Responde directamente con números romanos sin unidades.  \nASSISTANT: VI  \n[Round 2]  \nUSER: ¿Y cuál es la altura correspondiente a la hipotenusa en centímetros? Responde con un valor fraccionario en forma de fracción impropia, sin unidades.  \nASSISTANT:",
+        "target": "12/5"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Miguel tiene dos manzanas idénticas. Corta una de ellas en cuatro partes iguales y se come una porción. ¿Cuántas manzanas le quedan ahora a Miguel? Responde con valor fraccionario en forma de fracción impropia, sin unidades.  \nASSISTANT: 7/4  \n[Round 1]  \nUSER: Más tarde, se come otras dos porciones. ¿Cuántas manzanas le quedan ahora a Miguel? Responde con valor fraccionario en forma de fracción impropia, sin unidades.  \nASSISTANT: 5/4  \n[Round 2]  \nUSER: Finalmente, Miguel regala la manzana entera a un compañero. ¿Cuántas manzanas le quedan ahora? Responde con valor fraccionario sin unidades.  \nASSISTANT:",
+        "target": "1/4"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Un estante tiene 5 capas, cada uno con 12 libros, ¿cuántos libros hay en total? Escriba el valor con números en español con letras. \nASSISTANT: Sesenta  \n[Round 1]  \nUSER: Si cada capa solo tiene 11 libros, ¿cuántos libros hay en total? Escriba el valor con números en español con letras. \nASSISTANT: Cincuenta y cinco  \n[Round 2]  \nUSER: Si una capa del estante está rota y no puede guardar libros, y cada capa restante solo tiene 10 libros, ¿Cuántos libros se pueden colocar en total? Escriba el valor con números en español con letras.\nASSISTANT:",
+        "target": "Cuarenta"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Una fábrica produce 800 productos al día de forma fija, ¿cuántos productos debería producir en total después de 30 días? Responda con números en español con letras sin unidades.  \nASSISTANT: Veinticuatro mil  \n[Round 1]  \nUSER: Si se descubre que hay 5 días de descanso en esos 30 días, ¿cuántos productos se producen realmente? Responda con números en español con letras sin unidades.  \nASSISTANT:",
+        "target": "Veinte mil"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Una persona corre 200 metros por minuto, ¿cuántos metros habrá corrido después de 30 minutos? Responda directamente con los números en español en letras mayúsculas sin unidades.  \nASSISTANT: SEIS MIL  \n[Round 1]  \nUSER: Si descansa 2 minutos durante el recorrido, ¿cuántos metros corre realmente en 30 minutos? Responda directamente con los números en español en letras mayúsculas sin unidades.  \nASSISTANT:",
+        "target": "CINCO MIL SEISCIENTOS"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Una acción sube un 5%. Si su precio original es 100 euros, ¿cuál es su precio actual? Responde solo con símbolo de euro y números arábigos.  \nASSISTANT: €105  \n[Round 1]  \nUSER: Si vuelve a subir un 20%, ¿cuál es el nuevo precio? Responde solo con símbolo de euro y números arábigos.  \nASSISTANT: €126  \n[Round 2]  \nUSER: Si posteriormente sube otro 5%, ¿cuál es el precio final? Responde solo con símbolo de euro y números arábigos.  \nASSISTANT:",
+        "target": "€132,3"
+    },
+    {
+        "input": "[Round 0]  \nUSER: El primer día Miguel compró 3 libros a 15 euros cada uno. ¿Cuánto gastó en total? Responde solo con símbolo de moneda y números arábigos.  \nASSISTANT: €45  \n[Round 1]  \nUSER: Al día siguiente compró 2 bolígrafos de 10 euros cada uno. ¿Cuánto gastó en total en los dos días? Responde solo con símbolo de moneda y números arábigos.  \nASSISTANT: €65  \n[Round 2]  \nUSER: Al comprar los bolígrafos también dio una propina de 5 euros al vendedor. ¿Cuánto gastó en total durante los dos días? Responde solo con símbolo de moneda y números arábigos.  \nASSISTANT:",
+        "target": "€70"
+    },
+    {
+        "input": "[Round 0]  \nUSER: ¿Cuánto es 3 elevado a la cuarta potencia? Por favor, escriba los números en español con letras mayúsculas.\nASSISTANT: OCHENTA Y UNO  \n[Round 1]  \nUSER: Dividiendo el resultado de [Round 0] entre 2, ¿cuánto es? Escriba el valor numérico en formato decimal, con precisión de un decimal.\nASSISTANT: 40,5  \n[Round 2]  \nUSER: Reduciendo a la mitad el resultado de [Round 1], ¿cuánto es? Por favor, escriba los números en español con letras mayúsculas. Si el valor es decimal, redondee al número entero más cercano.\nASSISTANT:",
+        "target": "VEINTE"
+    },
+    {
+        "input": "[Round 0]  \nUSER: El libro A tiene 300 páginas, has leído 120 páginas. ¿Cuántas páginas quedan? Responda con números en español en letras mayúsculas y sin unidades.\nASSISTANT: CIENTO OCHENTA  \n[Round 1]  \nUSER: Si después de terminar el libro A, lees 20 páginas del libro B, ¿cuántas páginas has leído en total? Responda con números en español en letras mayúsculas y sin unidades.\nASSISTANT: TRESCIENTOS VEINTE  \n[Round 2]  \nUSER: Si el libro B también tiene 300 páginas, ¿cuántas páginas quedan por leer ahora? Responda con números en español en letras mayúsculas y sin unidades.\nASSISTANT:",
+        "target": "DOSCIENTOS OCHENTA"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Si una persona trabaja 220 días al año con un salario anual de 30 000 yuanes, ¿cuál es su salario diario? Responde en formato RMB (¥) + número arábigo. Si el valor es decimal, redondee al número entero más cercano, sin contenido adicional.\nASSISTANT: ¥136  \n[Round 1]  \nUSER: Si el tipo de cambio entre RMB y USD es 6:1, ¿cuál es el salario diario en dólares según [Round 0]? Responde en formato USD ($) + número arábigo. Si el valor es decimal, redondee al número entero más cercano, sin contenido adicional.\nASSISTANT: $23  \n[Round 2]  \nUSER: Adicionalmente, la persona obtiene 500 dólares anuales por trabajo a tiempo parcial. ¿Cuál es su ingreso anual total en yuanes según [Round 1]? Responde en formato RMB (¥) + número arábigo. Si el valor es decimal, redondee al número entero más cercano, sin contenido adicional. \nASSISTANT: ¥33 000  \n[Round 3]  \nUSER: Finalmente, convierta los ingresos totales de la persona durante este año en dólares de acuerdo con la proporción dada anteriormente. Responde en formato USD ($) + número arábigo. Si el valor es decimal, redondee al número entero más cercano, sin contenido adicional. \nASSISTANT:",
+        "target": "5 500"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Si un cuadro tiene un ancho de 10 centímetros y un largo de 15 centímetros, ¿cuál es la relación entre el ancho y el largo del cuadro? Responde en forma de fracción.  \nASSISTANT: 2/3  \n[Round 1]  \nUSER: ¿Cuál es la relación entre el largo y el ancho? Usa formato de proporción con \":\", sin contenido adicional.  \nASSISTANT: 3:2  \n[Round 2]  \nUSER: Si se recortan el largo y el ancho para igualarlos, ¿cuántos centímetros debe recortarse del largo? Responde solo con números arábigos sin texto adicional.    \nASSISTANT:",
+        "target": "5"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Si se necesitan ingerir 2.000 calorías al día y Carlos consume 500 calorías en el desayuno, ¿cuántas calorías más necesita consumir? Responde en palabras en inglés y solo incluye la parte numérica.  \nASSISTANT: One thousand five hundred \n[Round 1]  \nUSER: Si Carlos consumió otras 1.000 calorías al mediodía, ¿cuántas calorías le faltan? Responde en palabras en inglés y solo incluye la parte numérica.  \nASSISTANT: Five hundred  \n[Round 2]  \nUSER: Si Carlos consumió otras 1.000 calorías por la tarde, ¿cuántas calorías excedió? Responde en palabras en inglés y solo incluye la parte numérica.  \nASSISTANT: Five hundred  \n[Round 3]  \nUSER: Si Carlos quiere quemar las calorías excedentes haciendo ejercicio, y cada serie de ejercicios quema 250 calorías, ¿cuántas series necesita hacer? Responde en palabras en inglés y solo incluye la parte numérica.  \nASSISTANT:",
+        "target": "Two"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Si tiras 3 kilogramos de arroz de 10 kilogramos, ¿cuántos kilogramos quedan? Escriba directamente el valor en palabras en inglés sin unidades.  \nASSISTANT: Seven\n[Round 1]  \nUSER: Luego tiras dos tercios del resto, ¿cuántos kilogramos quedan? Escriba directamente el valor en palabras en inglés. Si el valor es decimal, redondee al número entero más cercano, sin unidades.  \nASSISTANT: Two  \n[Round 2]  \nUSER: Si tiras un cuarto más, ¿cuántos kilogramos quedan? Escriba el valor en palabras en inglés. Por favor, describa en forma decimal, no agregue unidades.\nASSISTANT: One point seven five\n[Round 3]  \nUSER: Si tiras un cuarto más, ¿cuántos kilogramos quedan? Escriba el valor como una fracción en números arábigos, sin agregar unidades.\nASSISTANT:",
+        "target": "21/16"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Un vehículo con capacidad de 50 litros de combustible ya ha cargado 20 litros, ¿cuántos litros más puede cargar? Responda con números en español con letras incluyendo la unidad en español, sin explicaciones adicionales.  \nASSISTANT: Treinta litros  \n[Round 1]  \nUSER: Después de llenar el tanque y conducir consumiendo 15 litros, ¿cuántos litros quedan? Responda con números en español con letras incluyendo la unidad en español, sin explicaciones adicionales.  \nASSISTANT: Treinta y cinco litros  \n[Round 2]  \nUSER: Tras conducir nuevamente consumiendo la misma cantidad, ¿cuántos litros quedan? Responda con números en español con letras incluyendo la unidad en español, sin explicaciones adicionales.  \nASSISTANT: Veinte litros  \n[Round 3]  \nUSER: En este momento, ¿cuántos litros más puede cargar el tanque? Responda con números en español con letras incluyendo la unidad en español, sin explicaciones adicionales.  \nASSISTANT:",
+        "target": "Treinta litros"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Un proyecto requiere 20 días para completarse. Han pasado 7 días, ¿cuántos días más se necesitan? Responda directamente con números en español con letras sin unidades ni texto adicional.  \nASSISTANT: Trece  \n[Round 1]  \nUSER: Se notificó que el proyecto se retrasaría 5 días, ¿cuántos días más se necesitan ahora? Responda directamente con números en español con letras sin unidades ni texto adicional.  \nASSISTANT: Dieciocho  \n[Round 2]  \nUSER: Al finalizar, se descubrió que el proyecto se había completado 3 días antes, ¿cuántos días duró en total? Responda directamente con números en español con letras sin unidades ni texto adicional.  \nASSISTANT: Veintidós  \n[Round 3]  \nUSER: Restando los primeros 7 días, ¿cuántos días más se trabajó después? Responda directamente con números en español con letras sin unidades ni texto adicional.  \nASSISTANT:",
+        "target": "Quince"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Son las 12:30 del mediodía. ¿Qué hora será después de 3,5 horas? Usa formato \"00:00:00\" con números arábigos sin texto adicional.  \nASSISTANT: 16:00:00  \n[Round 1]  \nUSER: Después de 2,2 horas más, ¿qué hora será? Usa formato \"00:00:00\" con números arábigos sin texto adicional.  \nASSISTANT: 18:12:00  \n[Round 2]  \nUSER: Tras 1,6 horas adicionales, ¿qué hora será por la noche? Usa formato \"00:00:00\" con números arábigos con sistema de 12 horas sin texto adicional.  \nASSISTANT: 07:48:00  \n[Round 3]  \nUSER: Después de 20 minutos más de tarea, ¿qué hora será por la noche? Usa formato \"00:00:00\" con números arábigos con sistema de 12 horas sin texto adicional.  \nASSISTANT:",
+        "target": "08:08:00"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Una película dura 150 minutos. Si Carlos ve la primera mitad, ¿cuántos tiempos quedan? Usa formato \"x horas x minutos x segundos\" con números arábigos sin texto adicional.  \nASSISTANT: 1 hora 15 minutos 0 segundos  \n[Round 1]  \nUSER: Luego ve la mitad del resto. ¿Cuántos tiempos quedan? Usa formato \"x horas x minutos x segundos\" con números arábigos sin texto adicional.  \nASSISTANT: 0 horas 37 minutos 30 segundos  \n[Round 2]  \nUSER: Después ve otros 8 minutos. ¿Cuántos tiempos quedan? Usa formato \"x horas x minutos x segundos\" con números arábigos sin texto adicional.  \nASSISTANT: 0 horas 29 minutos 30 segundos  \n[Round 3]  \nUSER: Finalmente ve la mitad del resto. ¿Cuántos tiempos quedan? Usa formato \"x horas x minutos x segundos\" con números arábigos sin texto adicional.  \nASSISTANT:",
+        "target": "0 horas 14 minutos 45 segundos"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Si tienes dos bolsas de sal de 1 kilogramo cada una, ¿cuál es el peso total? Responde con números romanos sin texto adicional.  \nASSISTANT: II  \n[Round 1]  \nUSER: Si tu madre compra tres bolsas más del mismo peso, ¿cuál es el peso total ahora? Responde con números romanos sin texto adicional.    \nASSISTANT: V  \n[Round 2]  \nUSER: Tras consumir una bolsa, ¿cuál es el peso restante? Responde con números romanos sin texto adicional.  \nASSISTANT: IV  \n[Round 3]  \nUSER: Si tu padre moja accidentalmente una bolsa de sal, tiene que tirarla, ¿cuál es el peso final? Responde con números romanos sin texto adicional.    \nASSISTANT:",
+        "target": "III"
+    },
+    {
+        "input": "[Round 0]  \nUSER: En una clase de 50 estudiantes, si 45 están ausentes, ¿cuántos quedan? Escribe el valor numérico en números romanos sin unidades.  \nASSISTANT: V  \n[Round 1]  \nUSER: De los ausentes, 30 tienen gripe y el resto COVID-19. ¿Cuántos tienen COVID-19? Escribe el valor numérico en números romanos sin unidades.  \nASSISTANT: XV  \n[Round 2]  \nUSER: Tras una semana, 15 estudiantes con gripe se recuperan y vuelven al aula. ¿Cuántos estudiantes hay ahora en clase? Escribe el valor numérico en números romanos sin unidades.  \nASSISTANT: XX  \n[Round 3]  \nUSER: Dos semanas después, 5 estudiantes con COVID-19 también se recuperan y vuelven. ¿Cuántos estudiantes hay ahora? Escribe el valor numérico en números romanos sin unidades.  \nASSISTANT:",
+        "target": "XXV"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Al mezclar 140 ml de leche con 130 ml de agua, ¿cuántos ml hay en total? Responda con números en español con letras mayúsculas y sin unidades, no agregue descripciones superfluas. \nASSISTANT: DOSCIENTOS SETENTA  \n[Round 1]  \nUSER: Después de agregar 25 ml de jugo de naranja, ¿cuántos ml hay en total? Responda con números en español con letras mayúsculas y sin unidades, no agregue descripciones superfluas. \nASSISTANT: DOSCIENTOS NOVENTA Y CINCO  \n[Round 2]  \nUSER: Si se desecha la mitad, ¿cuántos ml quedan? Responda con números en español con letras mayúsculas y sin unidades, no agregue descripciones superfluas. \nASSISTANT: CIENTO CUARENTA Y SIETE COMA CINCO  \n[Round 3]  \nUSER: Si se desecha tres quintos del líquido restante, ¿cuántos ml quedan? Responda con números en español con letras mayúsculas y sin unidades, no agregue descripciones superfluas. \nASSISTANT:",
+        "target": "CINCUENTA Y NUEVE"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Después de abrir el paracaídas, al caer desde 100 metros de altura con una velocidad promedio de 5 metros por segundo, ¿cuánto tiempo necesita para llegar al suelo? Escriba directamente el valor numérico en arábigo con unidades españolas, sin contenido adicional.  \nASSISTANT: 20 segundos  \n[Round 1]  \nUSER: Ignorando la primera pregunta, si desciende a 4 metros por segundo, ¿cuánto tiempo necesita? Escriba directamente el valor numérico en arábigo con unidades españolas, sin contenido adicional.  \nASSISTANT: 25 segundos  \n[Round 2]  \nUSER: Ignorando las anteriores, si desciende a 6 metros por segundo, ¿cuánto tiempo necesita? Responda con un valor en forma decimal y agregue unidades españolas, mantenga 2 decimales, no se requiere ningún otro contenido.  \nASSISTANT: 16,67 segundos  \n[Round 3]  \nUSER: Si primero desciende la mitad de la altura a 5 m/s y luego el resto a 6 m/s, ¿cuánto tiempo total necesita? Responda con un valor en forma decimal y agregue unidades españolas, mantenga 2 decimales, no se requiere ningún otro contenido.  \nASSISTANT:",
+        "target": "18,33 segundos"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Un equipo de fútbol necesita 11 personas, ya hay 7 personas, ¿cuántas personas más se necesitan para formar un equipo de fútbol? Responde directamente con números arábigos. No incluyas texto adicional.  \nASSISTANT: 4  \n[Round 1]  \nUSER: Una semana después, se reclutan 8 jugadores más, ¿cuántas personas sobran? Responde directamente con números arábigos. No incluyas texto adicional.  \nASSISTANT: 4  \n[Round 2]  \nUSER: Dos semanas después, 2 jugadores se van, ¿cuántas personas quedan? Responde directamente con números arábigos. No incluyas texto adicional.  \nASSISTANT: 13  \n[Round 3]  \nUSER: En este momento, ¿cuántas personas más hay ahora de las necesarias para un equipo de fútbol? Responde directamente con números arábigos. No incluyas texto adicional.  \nASSISTANT:",
+        "target": "2"
+    },
+    {
+        "input": "[Round 0]  \nUSER: La diagonal de un cuadrado mide 10 centímetros, ¿cuál es su perímetro en centímetros? Responde usando números arábigos con símbolos matemáticos, sin forma decimal. No incluyas texto adicional.  \nASSISTANT: 20√2  \n[Round 1]  \nUSER: Entonces, ¿cuánto mide su lado en centímetros? Responde usando números arábigos con símbolos matemáticos, sin forma decimal. No incluyas texto adicional.  \nASSISTANT: 5√2  \n[Round 2]  \nUSER: ¿Cuál es su área en centímetros cuadrados? Responde con números arábigos. No incluyas texto adicional.  \nASSISTANT: 50  \n[Round 3]  \nUSER: ¿Cuánto es la mitad de su perímetro en centímetros? Responde usando números arábigos con símbolos matemáticos, sin forma decimal. No incluyas texto adicional.  \nASSISTANT:",
+        "target": "10√2"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Si se necesitan beber 8 vasos de agua al día y Carlos duerme 8 horas diarias, ¿cuántos vasos debe beber en promedio por hora? Responda con números arábigos incluyendo la unidad en español sin explicaciones.  \nASSISTANT: 0,5 vasos  \n[Round 1]  \nUSER: Al día siguiente, usa vasos de mitad de capacidad pero mantiene la misma cantidad total de agua, ¿cuántos vasos necesita beber diariamente? Responda con números arábigos incluyendo la unidad en español sin explicaciones.  \nASSISTANT: 16 vasos  \n[Round 2]  \nUSER: En este caso, ¿cuántos vasos debe beber en promedio por hora? Responda con números arábigos incluyendo la unidad en español sin explicaciones.  \nASSISTANT: 1 vaso  \n[Round 3]  \nUSER: Si bebe 2 vasos por hora, ¿cuántas horas antes terminará de beber agua? Responda con números arábigos incluyendo la unidad en español sin explicaciones.  \nASSISTANT:",
+        "target": "8 horas"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Si se vierten 10 mililitros de agua de 30 litros, ¿cuántos litros quedan? Responda en formato decimal con unidad en español (litros), sin explicaciones.  \nASSISTANT: 29,99 litros  \n[Round 1]  \nUSER: ¿Cuántos litros se vierten en total? Responda en formato decimal con unidad en español (litros), sin explicaciones.  \nASSISTANT: 0,01 litros  \n[Round 2]  \nUSER: Si se vierten 3 veces la cantidad vertida en [Round 0], ¿cuántos litros quedan? Responda en formato decimal con unidad en español (litros), sin explicaciones.  \nASSISTANT: 29,96 litros  \n[Round 3]  \nUSER: ¿Cuántos litros se vierten ahora en total? Responda en formato decimal con unidad en español, sin explicaciones.  \nASSISTANT:",
+        "target": "0,04 litros"
+    },
+    {
+        "input": "[Round 0]  \nUSER: En el sistema solar, ¿qué planeta es conocido como \"planeta infernal\" por su alta temperatura y presión superficial? Proporcione directamente el nombre sin explicación.  \nASSISTANT: Venus  \n[Round 1]  \nUSER: ¿En qué posición orbital está respecto al Sol? Responda con el número ordinal en español directamente sin texto adicional.  \nASSISTANT:",
+        "target": "Segundo"
+    },
+    {
+        "input": "[Round 0]  \nUSER: ¿En qué libro de la saga Harry Potter el personaje Harry tiene mayor edad? Responda con el título en español.  \nASSISTANT: Harry Potter y las Reliquias de la Muerte\n[Round 1]  \nUSER: ¿En qué año se publicó este libro? Proporcione solo el año numérico.  \nASSISTANT:",
+        "target": "2007"
+    },
+    {
+        "input": "[Round 0]  \nUSER: ¿De qué obra de Shakespeare es \"To be or not to be\"? Responde solo con su nombre sin contenido adicional.\nASSISTANT: Hamlet\n[Round 1]  \nUSER: Por favor, dime directamente en inglés de qué país es el protagonista de esta obra, sin explicaciones.\nASSISTANT:",
+        "target": "Denmark"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Durante el Imperio Romano, ¿qué ciudad fue la capital del imperio? Responda con el nombre en inglés.  \nASSISTANT: Rome\n[Round 1]  \nUSER: ¿En qué país moderno se encuentra actualmente esta ciudad? Responda con el nombre en inglés.  \nASSISTANT:",
+        "target": "Italy"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Hasta 2024, ¿qué equipo de la NBA tiene más subcampeonatos? Proporcione el nombre del equipo en español.  \nASSISTANT: Los Angeles Lakers  \n[Round 1]  \nUSER: ¿Ha formado parte Yao Ming de este equipo? Responda solo con sí o no.  \nASSISTANT:",
+        "target": "No"
+    },
+    {
+        "input": "[Round 0]  \nUSER: ¿Cuál es la plataforma de compras más utilizada del grupo Inditex? Solo responda con el nombre en español.  \nASSISTANT: Zara Online  \n[Round 1]  \nUSER: ¿Cómo se llama su fundador? Solo responda con el nombre en español.  \nASSISTANT:",
+        "target": "Amancio Ortega"
+    },
+    {
+        "input": "[Round 0]  \nUSER: ¿De qué país es el político Luis Carlos Galán Sarmiento? Responda con el nombre del país en español.  \nASSISTANT: Colombia  \n[Round 1]  \nUSER: ¿En qué continente de los siete se ubica este país? No se necesitan palabras superfluas para explicar.\nASSISTANT:",
+        "target": "América del Sur"
+    },
+    {
+        "input": "[Round 0]  \nUSER: ¿PIB es la abreviatura de qué? Responde en español, sin explicaciones adicionales.\nASSISTANT: Producto Interno Bruto  \n[Round 1]  \nUSER: ¿Y cuál es su nombre completo en inglés? Sin explicaciones adicionales.\nASSISTANT:",
+        "target": "Gross Domestic Product"
+    },
+    {
+        "input": "[Round 0]  \nUSER: ¿Qué ley establece que, en un sistema completamente cerrado, la entropía siempre aumenta? Solo proporciona el nombre de la ley.  \nASSISTANT: Segunda ley de la termodinámica  \n[Round 1]  \nUSER: ¿Con qué otro principio se conoce esto? Proporciona el nombre del principio.  \nASSISTANT:",
+        "target": "Principio del aumento de entropía"
+    },
+    {
+        "input": "[Round 0]  \nUSER: ¿Cuál es la fórmula molecular del agua? Proporciona solo la fórmula.  \nASSISTANT: H₂O  \n[Round 1]  \nUSER: ¿Cuál es la ecuación química de su reacción con el sodio metálico? Proporciona solo la ecuación.  \nASSISTANT:",
+        "target": "2Na + 2H₂O → 2NaOH + H₂↑"
+    },
+    {
+        "input": "[Round 0]  \nUSER: ¿Cuál se usa para lavar el cabello entre Shower Gel y Shampoo? Proporcione el correcto sin explicación.  \nASSISTANT: Shampoo  \n[Round 1]  \nUSER: ¿Qué artículo de estos dos no es para lavar el cabello? Responda en español sin explicación.  \nASSISTANT:",
+        "target": "Gel de ducha"
+    },
+    {
+        "input": "[Round 0]  \nUSER: ¿Qué representa la \"E\" en la famosa ecuación E=mc² de Einstein? Solo responda el concepto definido, sin explicación.  \nASSISTANT: Energía del objeto  \n[Round 1]  \nUSER: ¿Cuál es su unidad estándar? Responda en español solo con la unidad.  \nASSISTANT:",
+        "target": "Julio"
+    },
+    {
+        "input": "[Round 0]\nUSER: Antoine de Saint-Exupéry escribió una famosa novela corta de literatura infantil, ¿cuál es? Proporciona solo el nombre.  \nASSISTANT: \"El principito\"\n[Round 1]  \nUSER: ¿Cuál es el género del protagonista en este libro? Marca con M (masculino) o F (femenino). No incluyas texto adicional.  \nASSISTANT:",
+        "target": "M"
+    },
+    {
+        "input": "[Round 0]  \nUSER: ¿En qué museo se exhibe actualmente la obra maestra de Van Gogh, La noche estrellada? Proporcione el nombre del museo.  \nASSISTANT: Museo de Arte Moderno de Nueva York  \n[Round 1]  \nUSER: ¿Cuál es la abreviatura en inglés de este museo? Responda con letras en inglés.  \nASSISTANT:",
+        "target": "MoMA"
+    },
+    {
+        "input": "[Round 0]  \nUSER: En un partido de fútbol, ¿qué posición de jugador es principalmente responsable de defender? Proporcione el nombre de la posición sin texto adicional.  \nASSISTANT: Defensa  \n[Round 1]  \nUSER: En un partido de fútbol con formación 4-4-2, ¿cuántos jugadores hay en esta posición? Responda directamente con números en español con letras.  \nASSISTANT:",
+        "target": "Cuatro"
+    },
+    {
+        "input": "[Round 0]  \nUSER: ¿Cuál es la ciudad más grande de EE.UU.? Proporcione el nombre en español sin contenido adicional.  \nASSISTANT: Nueva York  \n[Round 1]  \nUSER: En esta ciudad se encuentra una estatua representativa de la libertad, regalo de Francia para conmemorar el primer centenario de la independencia estadounidense, ¿cómo se llama? Proporcione el nombre en español sin contenido adicional.  \nASSISTANT: Estatua de la Libertad  \n[Round 2]  \nUSER: ¿En qué fecha se completó su construcción? Responda en formato \"dd/mm/aaaa\" sin contenido adicional.  \nASSISTANT:",
+        "target": "28/10/1886"
+    },
+    {
+        "input": "[Round 0]  \nUSER: ¿De qué país es el político 박정희? Responda con el nombre del país en español.  \nASSISTANT: Corea del Sur  \n[Round 1]  \nUSER: ¿Cuál era su nombre japonés? Proporcione la respuesta en español sin explicaciones.  \nASSISTANT: Takagi Masao  \n[Round 2]  \nUSER: ¿Quién lo asesinó? Proporcione ambos nombres: coreano original y español, sin texto adicional.  \nASSISTANT:",
+        "target": "김재규 / Kim Jae-gyu"
+    },
+    {
+        "input": "[Round 0]  \nUSER: ¿Qué director es conocido por las obras Pulp Fiction, Reservoir Dogs y Kill Bill? Proporcione su nombre en inglés.\nASSISTANT: Quentin Tarantino  \n[Round 1]  \nUSER: ¿Cuál es su nacionalidad? Responda en español con el nombre del país.  \nASSISTANT: Estados Unidos  \n[Round 2]  \nUSER: ¿Qué idioma se habla principalmente en este país? Responda en español con el nombre del idioma.  \nASSISTANT:",
+        "target": "Inglés"
+    },
+    {
+        "input": "[Round 0]  \nUSER: La sección coral en el movimiento IV de la Sinfonía nº9 de Beethoven utiliza un famoso poema como letra. Proporcione el título en español sin símbolos.  \nASSISTANT: Oda a la Alegría  \n[Round 1]  \nUSER: ¿Quién es el autor de este poema? Proporcione el nombre traducido al español.  \nASSISTANT: Johann Christoph Friedrich von Schiller  \n[Round 2]  \nUSER: ¿En qué año nació? Responda solo con números arábigos sin unidades ni explicaciones.  \nASSISTANT:",
+        "target": "1759"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Me duele el estómago y no sé qué comer. ¿Cuál de los siguientes alimentos es más adecuado para comer con dolor de estómago? Caldo de gallina, paella picante, boquerones en vinagre, helado. Proporcione el más adecuado sin explicaciones adicionales.  \nASSISTANT: Caldo de gallina\n[Round 1]  \nUSER: ¿De qué color es esta comida? No se necesita explicación.  \nASSISTANT: Amarillo  \n[Round 2]  \nUSER: ¿En qué país se originó esta comida? No se necesita explicación.  \nASSISTANT:",
+        "target": "Perú"
+    },
+    {
+        "input": "[Round 0]  \nUSER: ¿De qué país es el himno nacional \"Land der Berge, Land am Strom\"?  \nASSISTANT: Austria  \n[Round 1]  \nUSER: ¿Cuál es la capital de este país? Proporcione el nombre de la ciudad.  \nASSISTANT: Viena  \n[Round 2]  \nUSER: ¿Cuántos distritos componen esta ciudad? Responda con números en español con letras minúsculas sin contenido adicional.  \nASSISTANT:",
+        "target": "Veintitrés"
+    },
+    {
+        "input": "[Round 0]  \nUSER: En HTML, ¿qué etiqueta se utiliza para definir una lista desordenada? No se necesitan explicaciones adicionales.  \nASSISTANT: <ul>  \n[Round 1]  \nUSER: ¿De qué es la abreviatura? Responda en inglés sin explicaciones adicionales.  \nASSISTANT: Unordered List\n[Round 2]  \nUSER: ¿Cómo se representa la etiqueta de lista ordenada correspondiente? No se necesitan explicaciones adicionales.  \nASSISTANT:",
+        "target": "<ol>"
+    },
+    {
+        "input": "[Round 0]  \nUSER: ¿Cuáles son las notas de las cuatro cuerdas de un violín? Responda utilizando los nombres de las cuerdas en letras mayúsculas, sin saltos de línea.  \nASSISTANT: E, A, D, G  \n[Round 1]  \nUSER: ¿Qué cuerda tiene el sonido más grave? Responda únicamente con el nombre de la cuerda en letras mayúsculas.  \nASSISTANT:",
+        "target": "G"
+    },
+    {
+        "input": "[Round 0]  \nUSER: ¿Cuál es la importante festividad cristiana que conmemora el nacimiento de Jesús? Proporcione directamente el nombre de la festividad.  \nASSISTANT: Navidad  \n[Round 1]  \nUSER: ¿Cuál es la fecha específica? Solo necesita responder con la fecha, sin contenido adicional.  \nASSISTANT: 25 de diciembre  \n[Round 2]  \nUSER: Este festival tiene una figura representativa, ¿quién es? Proporcione solo el nombre español, sin explicación.  \nASSISTANT:",
+        "target": "Papá Noel"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Ayer fue 9 de octubre de 2023, ¿cuál es la fecha de hoy? Proporcione la fecha en el mismo formato sin texto adicional.  \nASSISTANT: 10 de octubre de 2023  \n[Round 1]  \nUSER: En China, este mes generalmente tiene un largo feriado, ¿por qué festival es este feriado? Solo proporcione el nombre del festival.  \nASSISTANT: Día Nacional de China\n[Round 2]  \nUSER: Hasta 2024, en los \"días festivos legales\" establecidos por China, ¿qué fechas específicas corresponden a este festival? Responda en formato \"x de octubre\" con números arábigos. Sin información adicional.  \nASSISTANT:",
+        "target": "1 de octubre, 2 de octubre, 3 de octubre"
+    },
+    {
+        "input": "[Round 0]  \nUSER: En la meseta de Guiza, a unos 10 km al suroeste de El Cairo (capital de Egipto), se encuentra la pirámide más grande que queda en Egipto. ¿Cómo se llama? No proporcione explicaciones adicionales.  \nASSISTANT: Pirámide de Keops  \n[Round 1]  \nUSER: ¿Cuál es su nombre en árabe? No proporcione texto adicional.  \nASSISTANT: هرم خوفو  \n[Round 2]  \nUSER: ¿A qué dinastía del Antiguo Egipto pertenece el faraón de esta pirámide? Solo proporcione el número en español sin explicaciones.  \nASSISTANT:",
+        "target": "Cuatro"
+    },
+    {
+        "input": "[Round 0]  \nUSER: ¿Quién nació primero entre Zhang Xueliang, George Washington y Einstein? Proporcione solo el nombre.  \nASSISTANT: George Washington  \n[Round 1]  \nUSER: ¿En qué año nació esta persona? Solo responda con el año en formato \"xxxx\".  \nASSISTANT: 1732  \n[Round 2]  \nUSER: Según el orden cronológico de nacimiento, ¿quién es el más joven entre estos tres? Proporcione solo el nombre.  \nASSISTANT: Zhang Xueliang  \n[Round 3]  \nUSER: ¿En qué año nació esta persona? Solo responda con el año en formato \"xxxx\".  \nASSISTANT:",
+        "target": "1901"
+    },
+    {
+        "input": "[Round 0]  \nUSER: Según el orden alfabético de la A a la Z, ¿cuál de estas cinco palabras debería aparecer primero? Innovation, Tomorrow, Freedom, Kindness, Future. Proporcione la respuesta en forma de palabra inglesa sin texto adicional.  \nASSISTANT: Freedom  \n[Round 1]  \nUSER: Según el orden alfabético, ¿cuál debería estar en tercer lugar? Proporcione la respuesta en forma de palabra inglesa sin texto adicional.  \nASSISTANT: Innovation  \n[Round 2]  \nUSER: ¿Y cuál está al final? Proporcione la respuesta en forma de palabra inglesa sin texto adicional.  \nASSISTANT: Tomorrow  \n[Round 3]  \nUSER: ¿Qué palabra comparte la misma letra inicial que otra pero aparece después en el orden alfabético A-Z? Proporcione la respuesta en forma de palabra inglesa sin texto adicional.  \nASSISTANT:",
+        "target": "Future"
+    },
+    {
+        "input": "[Round 0]  \nUSER: ¿Quién pintó La Gioconda? Proporcione el nombre completo en español sin texto adicional.  \nASSISTANT: Leonardo da Vinci  \n[Round 1]  \nUSER: ¿A qué período pertenece esta obra? Responda en formato \"período de xx\" sin explicaciones.  \nASSISTANT: Período de Renacimiento  \n[Round 2]  \nUSER: ¿En qué país se originó primero este movimiento cultural e ideológico? Proporcione solo el nombre del país.  \nASSISTANT: Italia  \n[Round 3]  \nUSER: ¿Cuál es la ciudad acuática más famosa de este país? Proporcione el nombre de la ciudad.  \nASSISTANT:",
+        "target": "Venecia"
+    },
+    {
+        "input": "[Round 0]  \nUSER: En la tabla periódica de los elementos químicos, ¿cuál es el símbolo del oro? Responda solo con el símbolo químico.  \nASSISTANT: Au  \n[Round 1]  \nUSER: ¿Qué elemento está inmediatamente a la izquierda del oro? Responda solo con el símbolo químico.  \nASSISTANT: Pt  \n[Round 2]  \nUSER: ¿Qué elemento está inmediatamente arriba del oro? Responda solo con el símbolo químico.  \nASSISTANT: Ag  \n[Round 3]  \nUSER: ¿Qué elemento está inmediatamente a la derecha del oro? Responda con el nombre en español usando una sola palabra.  \nASSISTANT:",
+        "target": "Mercurio"
+    },
+    {
+        "input": "[Round 0]  \nUSER: ¿Quién es el presidente de EE.UU. en 2025? Proporcione su nombre completo en español sin texto adicional.  \nASSISTANT: Donald John Trump  \n[Round 1]  \nUSER: ¿Quién fue su predecesor? Proporcione su nombre completo en español sin texto adicional.  \nASSISTANT: Joseph Robinette Biden Jr.  \n[Round 2]  \nUSER: ¿En qué número de orden presidencial está Biden? Responda con números arábigos sin texto adicional.  \nASSISTANT: 46  \n[Round 3]  \nUSER: ¿En qué fecha juró el cargo el presidente anterior a Biden? Formato \"dd/mm/aaaa\" sin texto adicional.  \nASSISTANT:",
+        "target": "20/01/2017"
+    },
+    {
+        "input": "[Round 0]  \nUSER: ¿Cómo se llama el túnel submarino más largo del mundo? Responda solo con el nombre del túnel.  \nASSISTANT: Túnel Seikan  \n[Round 1]  \nUSER: ¿En qué país está ubicado? Responda con el nombre completo del país.  \nASSISTANT: Japón  \n[Round 2]  \nUSER: ¿Cuál es aproximadamente el área terrestre de este país en decenas de miles de kilómetros cuadrados? Responda con números arábigos sin contenido adicional.  \nASSISTANT: 37,8  \n[Round 3]  \nUSER: ¿Cuál es la altitud de la montaña más alta de este país en metros? Responde usando números arábigos y redondea al número entero más cercano.\nASSISTANT:",
+        "target": "3776"
+    },
+    {
+        "input": "[Round 0]  \nUSER: ¿Quién es la cantante original de la canción \"Bad Romance\" lanzada en 2009? Proporcione su nombre artístico en inglés sin explicaciones.  \nASSISTANT: Lady Gaga  \n[Round 1]  \nUSER: ¿Cuál fue su primer álbum de estudio? Proporcione el título en inglés sin explicaciones ni símbolos.  \nASSISTANT: The Fame  \n[Round 2]  \nUSER: ¿En qué año se lanzó este álbum? Proporcione el año en números arábigos.  \nASSISTANT: 2008  \n[Round 3]  \nUSER: ¿Cuántos años después lanzó \"Born This Way\"? Proporcione el número en español con letras.  \nASSISTANT:",
+        "target": "Tres"
+    },
+    {
+        "input": "[Round 0]  \nUSER: ¿En qué idioma está escrito «матрешка»? Proporcione solo el nombre del idioma en español.  \nASSISTANT: Ruso  \n[Round 1]  \nUSER: ¿De qué país es idioma oficial? Proporcione el de mayor territorio. Solo responda el nombre del país en español.  \nASSISTANT: Rusia  \n[Round 2]  \nUSER: ¿Cuál es la capital de este país? Proporcione solo el nombre de la ciudad en español.  \nASSISTANT: Moscú  \n[Round 3]  \nUSER: ¿Cómo se llama la catedral en el extremo sur de la Plaza Roja en esta ciudad? Proporcione solo el nombre en inglés.  \nASSISTANT:",
+        "target": "Saint Basil's Cathedral"
+    },
+    {
+        "input": "[Round 0]  \nUSER: ¿En nombre de quién se establecieron los Premios Nobel? Proporcione su nombre completo en inglés sin explicaciones.  \nASSISTANT: Alfred Bernhard Nobel  \n[Round 1]  \nUSER: ¿Qué elemento sintético lleva su nombre? Responda con una palabra en español.  \nASSISTANT: Nobelio  \n[Round 2]  \nUSER: ¿Cuál es el número atómico de este elemento? Responda con números arábigos sin texto adicional.  \nASSISTANT:",
+        "target": "102"
+    },
+    {
+        "input": "[Round 0]  \nUSER: ¿Quién interpretó a Luke Skywalker, hijo de Darth Vader, en la saga Star Wars? Proporcione el nombre en español.  \nASSISTANT: Mark Hamill  \n[Round 1]  \nUSER: ¿Por qué premio fue nominado como Mejor Actor Principal por esta película? Proporcione el nombre del premio en español.  \nASSISTANT: Premios Saturn  \n[Round 2]  \nUSER: ¿En qué año se fundó este premio? Responda en formato \"fundados en xxxx\".  \nASSISTANT: fundados en 1972  \n[Round 3]  \nUSER: ¿Qué organización lo estableció? Proporcione el nombre en inglés.  \nASSISTANT:",
+        "target": "Academy of Science Fiction, Fantasy and Horror Films"
+    },
+    {
+        "input": "[Round 0]  \nUSER: ¿Qué famosa película de amor está basada en el naufragio de 1912? Proporcione el nombre de película sin signos u otras informaciones.\nASSISTANT: Titanic  \n[Round 1]  \nUSER: ¿A qué compañía pertenecía el transatlántico en el evento real? Responda en español sin signos u otras informaciones.\nASSISTANT: White Star Line  \n[Round 2]  \nUSER: ¿En qué año quebró esta compañía? Responda con números arábigos y unidad.  \nASSISTANT: El año 1935  \n[Round 3]  \nUSER: ¿Cómo se llamaba el capitán del barco en este naufragio? Proporcione solo el nombre en español.  \nASSISTANT:",
+        "target": "Edward John Smith"
+    },
+    {
+        "input": "[Round 0]  \nUSER: ¿Qué signo zodiacal tiene una persona nacida el 30 de julio? Proporcione solo el nombre del signo zodiacal.  \nASSISTANT: Leo  \n[Round 1]  \nUSER: En orden cronológico, ¿qué signo precede a este?  \nASSISTANT: Cáncer  \n[Round 2]  \nUSER: Basado en [Round 1], ¿cuál es el rango de fechas de nacimiento del signo anterior a este? Responda en formato \"X de mes - X de mes\" con números arábigos.  \nASSISTANT: 21 de mayo - 21 de junio  \n[Round 3]  \nUSER: Basado en [Round 2], ¿cómo se llama el signo anterior a este? Proporcione solo el nombre sin explicación.  \nASSISTANT:",
+        "target": "Tauro"
+    }
+]

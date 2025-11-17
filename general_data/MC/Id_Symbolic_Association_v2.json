@@ -1,0 +1,1325 @@
+[
+    {
+        "input": "Jika Anda seorang seniman, simbol apa yang akan Anda gunakan untuk membuat lukisan yang menggambarkan matahari?\nA. ⊙\nB. ■\nC. □\nD. ◣",
+        "target_scores": {
+            "A. ⊙": 1,
+            "B. ■": 0,
+            "C. □": 0,
+            "D. ◣": 0
+        }
+    },
+    {
+        "input": "Manakah dari berikut ini yang mendekati bentuk bumi?\nA. ⊙\nB. □\nC. ▽\nD. ？",
+        "target_scores": {
+            "A. ⊙": 1,
+            "B. □": 0,
+            "C. ▽": 0,
+            "D. ？": 0
+        }
+    },
+    {
+        "input": "Seorang guru meminta siswanya menggunakan simbol untuk menggambarkan bentuk bintang laut. Gunakan imajinasimu dan tentukan simbol manakah yang paling sesuai?\nA. ⊙\nB. □\nC. ◇\nD. ★",
+        "target_scores": {
+            "A. ⊙": 0,
+            "B. □": 0,
+            "C. ◇": 0,
+            "D. ★": 1
+        }
+    },
+    {
+        "input": "Di antara objek berikut, manakah yang paling sesuai dengan \"□\"?\nA. Biola\nB. Bola basket\nC. Jendela\nD. Sepak bola",
+        "target_scores": {
+            "A. Biola": 0,
+            "B. Bola basket": 0,
+            "C. Jendela": 1,
+            "D. Sepak bola": 0
+        }
+    },
+    {
+        "input": "Di antara objek berikut, manakah yang paling sesuai dengan \"◇\"?\nA. Berlian\nB. Bola basket\nC. Bola voli\nD. Kue klepon",
+        "target_scores": {
+            "A. Berlian": 1,
+            "B. Bola basket": 0,
+            "C. Bola voli": 0,
+            "D. Kue klepon": 0
+        }
+    },
+    {
+        "input": "Pembawa acara mengangkat papan pertanyaan dengan simbol \"○\" di atasnya. Lalu, keempat peserta memberikan jawaban sebagai berikut: ① Bola basket ② Bakpao ③ Roti lapis ④ Apel. Di antara opsi berikut, kelompok manakah yang paling sesuai?\nA. ①②③\nB. ①②④\nC. ①③④\nD. ②③④",
+        "target_scores": {
+            "A. ①②③": 0,
+            "B. ①②④": 1,
+            "C. ①③④": 0,
+            "D. ②③④": 0
+        }
+    },
+    {
+        "input": "Ibu mengangkat papan gambar dan bertanya kepada Susanti: \"Opsi manakah yang paling sesuai dengan papan gambar?\" Simbol pada papan gambar adalah \"★\". Berikut adalah opsi nya: ① Bintang laut ② Bulan ③ Roti lapis ④ Pentagon\nA. ①②\nB. ①④\nC. ②③\nD. ③④",
+        "target_scores": {
+            "A. ①②": 0,
+            "B. ①④": 1,
+            "C. ②③": 0,
+            "D. ③④": 0
+        }
+    },
+    {
+        "input": "Guru mengangkat papan pertanyaan dengan simbol \"△\". Lalu keempat siswa memberikan jawaban sebagai berikut: ① Roti lapis ② Bola basket ③ Puncak gunung ④Berlian. Kelompok objek manakah yang paling sesuai?\nA. ①②③\nB. ①②④\nC. ①③④\nD. ②③④",
+        "target_scores": {
+            "A. ①②③": 0,
+            "B. ①②④": 0,
+            "C. ①③④": 1,
+            "D. ②③④": 0
+        }
+    },
+    {
+        "input": "Simbol manakah yang paling mirip dengan \"apel\"?\nA. ≯\nB. ▽\nC. ○\nD. ◣",
+        "target_scores": {
+            "A. ≯": 0,
+            "B. ▽": 0,
+            "C. ○": 1,
+            "D. ◣": 0
+        }
+    },
+    {
+        "input": "Jika Anda seorang penyair, simbol apa yang akan Anda gunakan untuk melambangkan bulan?\nA. ▏\nB. ▓\nC. ○\nD. ＊",
+        "target_scores": {
+            "A. ▏": 0,
+            "B. ▓": 0,
+            "C. ○": 1,
+            "D. ＊": 0
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, manakah yang paling sesuai dengan simbol \"△\"?\nA. Anjing\nB. Kucing\nC. Piramida\nD. Roti kukus",
+        "target_scores": {
+            "A. Anjing": 0,
+            "B. Kucing": 0,
+            "C. Piramida": 1,
+            "D. Roti kukus": 0
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, manakah yang paling sesuai dengan simbol \" ▌\"?\nA. Daun\nB. Ikat rambut\nC. Kelinci\nD. Komputer tablet",
+        "target_scores": {
+            "A. Daun": 0,
+            "B. Ikat rambut": 0,
+            "C. Kelinci": 0,
+            "D. Komputer tablet": 1
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, manakah yang paling sesuai dengan simbol \"回\"?\nA. Bulu tangkis\nB. Kabel data\nC. Kabinet TV\nD. Roda ban",
+        "target_scores": {
+            "A. Bulu tangkis": 0,
+            "B. Kabel data": 0,
+            "C. Kabinet TV": 1,
+            "D. Roda ban": 0
+        }
+    },
+    {
+        "input": "Di antara empat opsi berikut, manakah yang paling mirip dengan sudut dinding?\nA. ⊙\nB. ⊿\nC. ①\nD. ＊",
+        "target_scores": {
+            "A. ⊙": 0,
+            "B. ⊿": 1,
+            "C. ①": 0,
+            "D. ＊": 0
+        }
+    },
+    {
+        "input": "Simbol manakah yang paling dekat dengan dasi pada pakaian formal yang dikenakan oleh pekerja kantoran?\nA. ↑\nB. ≡\nC. ♨\nD. ♫",
+        "target_scores": {
+            "A. ↑": 1,
+            "B. ≡": 0,
+            "C. ♨": 0,
+            "D. ♫": 0
+        }
+    },
+    {
+        "input": "Anda adalah pecinta ramen Jepang. Jika Anda menggunakan simbol untuk mengekspresikan ramen Tonkotsu, mana yang akan Anda pilih?\nA. ☎\nB. ☏\nC. ♨\nD. 々",
+        "target_scores": {
+            "A. ☎": 0,
+            "B. ☏": 0,
+            "C. ♨": 1,
+            "D. 々": 0
+        }
+    },
+    {
+        "input": "Bayangkan seekor kambing, simbol mana yang akan Anda pilih untuk mewakili nya?\nA. ♤\nB. 【】\nC. 〔〕\nD. ￥",
+        "target_scores": {
+            "A. ♤": 0,
+            "B. 【】": 0,
+            "C. 〔〕": 0,
+            "D. ￥": 1
+        }
+    },
+    {
+        "input": "Simbol \"&\" terlihat paling serupa dengan?\nA. Hamster\nB. Kapsul pil\nC. Kotak makan\nD. Seseorang sedang duduk dengan tangan menggantung ke bawah.",
+        "target_scores": {
+            "A. Hamster": 0,
+            "B. Kapsul pil": 0,
+            "C. Kotak makan": 0,
+            "D. Seseorang sedang duduk dengan tangan menggantung ke bawah.": 1
+        }
+    },
+    {
+        "input": "Manakah dari opsi berikut yang paling serupa dengan \"#\"?\nA. Coca-cola\nB. Kimchi\nC. Mobil sport\nD. Sudoku",
+        "target_scores": {
+            "A. Coca-cola": 0,
+            "B. Kimchi": 0,
+            "C. Mobil sport": 0,
+            "D. Sudoku": 1
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, manakah yang paling sesuai dengan simbol \"〓\"?\nA. Biskuit sandwich\nB. Kursi gaming\nC. Lipstik\nD. Tetikus komputer",
+        "target_scores": {
+            "A. Biskuit sandwich": 1,
+            "B. Kursi gaming": 0,
+            "C. Lipstik": 0,
+            "D. Tetikus komputer": 0
+        }
+    },
+    {
+        "input": "Ayah menunjukkan simbol \"☼\", dan meminta anaknya untuk memilih kelompok objek yang paling melambangkan simbol tersebut dari antara opsi berikut ini: ① Matahari ② Lencana ③ Taplak meja ④ Paku baja.\nA. ①②③\nB. ①②④\nC. ①③④\nD. ②③④",
+        "target_scores": {
+            "A. ①②③": 1,
+            "B. ①②④": 0,
+            "C. ①③④": 0,
+            "D. ②③④": 0
+        }
+    },
+    {
+        "input": "Simbol \"‖\" dapat mewakili banyak objek. Di antara opsi berikut, mana kelompok objek yang paling sesuai? ① Sumpit ② Jalan raya ③ Tiang ④ Egg tart\nA. ①②③\nB. ①②④\nC. ①③④\nD. ②③④",
+        "target_scores": {
+            "A. ①②③": 1,
+            "B. ①②④": 0,
+            "C. ①③④": 0,
+            "D. ②③④": 0
+        }
+    },
+    {
+        "input": "Simbol \"≈\" dapat mewakili banyak objek. Di antara opsi berikut, mana kelompok objek yang paling sesuai? ① Gelombang ② Mi ③ Kutu ④ Semangka\nA. ①②\nB. ①④\nC. ②③\nD. ③④",
+        "target_scores": {
+            "A. ①②": 1,
+            "B. ①④": 0,
+            "C. ②③": 0,
+            "D. ③④": 0
+        }
+    },
+    {
+        "input": "Budi menggambar \"^︵^\" di atas kertas. Di antara empat opsi di bawah ini, kelompok objek manakah yang paling sesuai dengan \"^︵^\" ? ① Kuping kucing ② Kuping anjing ③Kue sus ④ Layar TV\nA. ①②\nB. ①④\nC. ②③\nD. ③④",
+        "target_scores": {
+            "A. ①②": 1,
+            "B. ①④": 0,
+            "C. ②③": 0,
+            "D. ③④": 0
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, simbol manakah yang mengingatkan Anda pada telepon desktop?\nA. ☏\nB. ♠\nC. ㎏\nD. ＋",
+        "target_scores": {
+            "A. ☏": 1,
+            "B. ♠": 0,
+            "C. ㎏": 0,
+            "D. ＋": 0
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, simbol manakah yang mengingatkan Anda pada Shuriken Bumerang Naruto?\nA. §\nB. ω\nC. ▌\nD. ％",
+        "target_scores": {
+            "A. §": 1,
+            "B. ω": 0,
+            "C. ▌": 0,
+            "D. ％": 0
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, simbol manakah yang paling sesuai dengan bentuk aksesori ikat rambut Dio Brando dalam komik Jepang \"JOJO's Bizarre Adventure\"?\nA. ∑\nB. ☞\nC. ♥\nD. ㈱",
+        "target_scores": {
+            "A. ∑": 0,
+            "B. ☞": 0,
+            "C. ♥": 1,
+            "D. ㈱": 0
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, simbol manakah yang mengingatkan Anda pada kembang kol?\nA. Ь\nB. ∝\nC. ♧\nD. ﹤",
+        "target_scores": {
+            "A. Ь": 0,
+            "B. ∝": 0,
+            "C. ♧": 1,
+            "D. ﹤": 0
+        }
+    },
+    {
+        "input": "Jika Anda diminta membayangkan bentuk tetikus komputer, simbol mana yang akan kamu pilih dari opsi berikut?\nA. ┍\nB. ┓\nC. ㊣\nD. 甴",
+        "target_scores": {
+            "A. ┍": 0,
+            "B. ┓": 0,
+            "C. ㊣": 0,
+            "D. 甴": 1
+        }
+    },
+    {
+        "input": "Simbol \"，\" akan membuat orang membayangkan seekor hewan, hewan apakah itu?\nA. Berudu\nB. Corgi\nC. Rakun\nD. Sugar glider",
+        "target_scores": {
+            "A. Berudu": 1,
+            "B. Corgi": 0,
+            "C. Rakun": 0,
+            "D. Sugar glider": 0
+        }
+    },
+    {
+        "input": "Simbol \"◎\" sangat mirip dengan sebuah objek dalam kehidupan sehari-hari, objek apakah itu?\nA. Kotak paket\nB. Payung\nC. Roda\nD. Sekop",
+        "target_scores": {
+            "A. Kotak paket": 0,
+            "B. Payung": 0,
+            "C. Roda": 1,
+            "D. Sekop": 0
+        }
+    },
+    {
+        "input": "Saat melihat simbol \"ㄛ\", manakah dari opsi berikut yang muncul di pikiran Anda?\nA. Gantungan\nB. Kapur tulis\nC. Krim tangan\nD. Spidol",
+        "target_scores": {
+            "A. Gantungan": 1,
+            "B. Kapur tulis": 0,
+            "C. Krim tangan": 0,
+            "D. Spidol": 0
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, objek manakah yang paling sesuai dengan simbol \"♀\"?\nA. Bola rugbi\nB. Gelas minum\nC. Orang-orangan sawah\nD. Tenis meja",
+        "target_scores": {
+            "A. Bola rugbi": 0,
+            "B. Gelas minum": 0,
+            "C. Orang-orangan sawah": 1,
+            "D. Tenis meja": 0
+        }
+    },
+    {
+        "input": "Saat melihat simbol \"╉\", objek manakah yang akan muncul di pikiran Anda?\nA. Bulan\nB. Hati\nC. Kamera\nD. Salib",
+        "target_scores": {
+            "A. Bulan": 0,
+            "B. Hati": 0,
+            "C. Kamera": 0,
+            "D. Salib": 1
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, objek manakah yang paling sesuai dengan simbol \"ⅰ\"?\nA. Dokumen elektronik\nB. Kamera\nC. Korek api\nD. Tatakan gelas",
+        "target_scores": {
+            "A. Dokumen elektronik": 0,
+            "B. Kamera": 0,
+            "C. Korek api": 1,
+            "D. Tatakan gelas": 0
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, objek manakah yang paling sesuai dengan simbol \"∩\"?\nA. Bola nasi\nB. Jembatan lengkung\nC. Kotak pil\nD. Kotak tisu",
+        "target_scores": {
+            "A. Bola nasi": 0,
+            "B. Jembatan lengkung": 1,
+            "C. Kotak pil": 0,
+            "D. Kotak tisu": 0
+        }
+    },
+    {
+        "input": "Jika Anda diminta untuk memilih salah satu simbol yang paling serupa dengan oven dari opsi berikut, simbol manakah yang akan Anda pilih?\nA. ⅳ\nB. ⑨\nC. ▣\nD. ㄔ",
+        "target_scores": {
+            "A. ⅳ": 0,
+            "B. ⑨": 0,
+            "C. ▣": 1,
+            "D. ㄔ": 0
+        }
+    },
+    {
+        "input": "Simbol manakah yang paling mirip dengan \"pistol\"?\nA. А\nB. ∫\nC. ☜\nD. ＠",
+        "target_scores": {
+            "A. А": 0,
+            "B. ∫": 0,
+            "C. ☜": 1,
+            "D. ＠": 0
+        }
+    },
+    {
+        "input": "Jika Anda adalah seorang pekerja konstruksi jalan, simbol mana yang menurut Anda paling sesuai dengan \"penutup lubang got\"?\nA. ←\nB. ↖\nC. ⊕\nD. ｝",
+        "target_scores": {
+            "A. ←": 0,
+            "B. ↖": 0,
+            "C. ⊕": 1,
+            "D. ｝": 0
+        }
+    },
+    {
+        "input": "Ibu meminta Anto untuk membayangkan penampilan angsa liar di benaknya, lalu memilih salah satu opsi yang paling sesuai dari opsi berikut. Anto akan memilih?\nA. ﹏\nB. ｑ\nC. ｛\nD. ｜",
+        "target_scores": {
+            "A. ﹏": 0,
+            "B. ｑ": 0,
+            "C. ｛": 1,
+            "D. ｜": 0
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, silakan pilih satu simbol yang paling serupa dengan ekspresi manusia.\nA. -\nB. ☻\nC. ぁ\nD. ﹢",
+        "target_scores": {
+            "A. -": 0,
+            "B. ☻": 1,
+            "C. ぁ": 0,
+            "D. ﹢": 0
+        }
+    },
+    {
+        "input": "Bayangkan bentuk kepingan salju. Di antara opsi berikut, manakah yang paling sesuai dengan kepingan salju?\nA. 0\nB. ╝\nC. ㈨\nD. ＊",
+        "target_scores": {
+            "A. 0": 0,
+            "B. ╝": 0,
+            "C. ㈨": 0,
+            "D. ＊": 1
+        }
+    },
+    {
+        "input": "Jika Anda adalah seorang tukang ledeng, simbol mana yang menurut Anda paling serupa dengan pipa air?\nA. ’\nB. ″\nC. ╦╧\nD. 。",
+        "target_scores": {
+            "A. ’": 0,
+            "B. ″": 0,
+            "C. ╦╧": 1,
+            "D. 。": 0
+        }
+    },
+    {
+        "input": "Seorang guru mengangkat papan pertanyaan dengan simbol \"＄\" di atasnya. Lalu keempat siswa memberikan jawaban sebagai berikut: ① Satuan dolar ② Jam pasir ③ Jarum dan benang ④ Batu Moissanite. Kelompok objek manakah yang paling sesuai?\nA. ①②③\nB. ①②④\nC. ①③④\nD. ②③④",
+        "target_scores": {
+            "A. ①②③": 1,
+            "B. ①②④": 0,
+            "C. ①③④": 0,
+            "D. ②③④": 0
+        }
+    },
+    {
+        "input": "Simbol \"ψ\" dapat melambangkan banyak hal dalam kehidupan sehari-hari, seperti: ① Pangsit ② Garpu ③ Kaktus ④ Tiang lilin. Di antara opsi berikut, kelompok objek manakah yang paling sesuai?\nA. ①②\nB. ①②③\nC. ①③④\nD. ②③④",
+        "target_scores": {
+            "A. ①②": 0,
+            "B. ①②③": 0,
+            "C. ①③④": 0,
+            "D. ②③④": 1
+        }
+    },
+    {
+        "input": "Pembawa acara mengangkat papan pertanyaan dengan simbol \"▩\" di atasnya. Lalu, keempat peserta memberikan jawaban sebagai berikut: ① Roti Kukus ② Bola salju ③ TV dengan layar rusak ④ Sarang lebah. Di antara opsi berikut, kelompok manakah yang paling sesuai?\nA. ①②\nB. ①②④\nC. ②③④\nD. ③④",
+        "target_scores": {
+            "A. ①②": 0,
+            "B. ①②④": 0,
+            "C. ②③④": 0,
+            "D. ③④": 1
+        }
+    },
+    {
+        "input": "Simbol \"A\" dapat melambangkan banyak hal. Di antara opsi berikut, kelompok objek manakah yang paling sesuai? ① Tangga ② Ujung kuas ③ Topi Natal ④ Mangga\nA. ①②③\nB. ①②④\nC. ②③④\nD. ③④",
+        "target_scores": {
+            "A. ①②③": 1,
+            "B. ①②④": 0,
+            "C. ②③④": 0,
+            "D. ③④": 0
+        }
+    },
+    {
+        "input": "Guru meminta Sari untuk menggunakan imajinasinya dan membayangkan benda apa yang bisa diwakili oleh \"∏\"? ① Kusen pintu ② Gedung tinggi ③ Stapler ④ Buah pir\nA. ①②③\nB. ①③④\nC. ②③④\nD. ③④",
+        "target_scores": {
+            "A. ①②③": 1,
+            "B. ①③④": 0,
+            "C. ②③④": 0,
+            "D. ③④": 0
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, simbol manakah yang paling serupa dengan kursi?\nA. ︴\nB. ﹊\nC. ／\nD. ｈ",
+        "target_scores": {
+            "A. ︴": 0,
+            "B. ﹊": 0,
+            "C. ／": 0,
+            "D. ｈ": 1
+        }
+    },
+    {
+        "input": "Bayangkan pemandangan di hari hujan. Di antara opsi berikut, manakah yang paling sesuai dengan bayangan Anda?\nA. ⒆\nB. ┊\nC. ㈣\nD. ｋ",
+        "target_scores": {
+            "A. ⒆": 0,
+            "B. ┊": 1,
+            "C. ㈣": 0,
+            "D. ｋ": 0
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, simbol manakah yang paling serupa dengan \"jamur\"?\nA. ⒇\nB. ☺\nC. ☻\nD. ♤",
+        "target_scores": {
+            "A. ⒇": 0,
+            "B. ☺": 0,
+            "C. ☻": 0,
+            "D. ♤": 1
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, simbol manakah yang paling serupa dengan logo \"McDonald's\"?\nA. è\nB. ㄙ\nC. ㄨ\nD. ｍ",
+        "target_scores": {
+            "A. è": 0,
+            "B. ㄙ": 0,
+            "C. ㄨ": 0,
+            "D. ｍ": 1
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, simbol manakah yang paling serupa dengan \"seorang manusia\"?\nA. 〥\nB. ㄉ\nC. ？\nD. ｉ",
+        "target_scores": {
+            "A. 〥": 0,
+            "B. ㄉ": 0,
+            "C. ？": 0,
+            "D. ｉ": 1
+        }
+    },
+    {
+        "input": "Bayangkan seekor ular. Di antara opsi berikut, manakah yang paling sesuai dengan bayangan Anda?\nA. ∫\nB. ≮\nC. ≯\nD. ㏒",
+        "target_scores": {
+            "A. ∫": 1,
+            "B. ≮": 0,
+            "C. ≯": 0,
+            "D. ㏒": 0
+        }
+    },
+    {
+        "input": "Di antara empat opsi berikut, simbol manakah yang paling serupa dengan \"meja\"?\nA. ò\nB. ‰\nC. ︻\nD. ：",
+        "target_scores": {
+            "A. ò": 0,
+            "B. ‰": 0,
+            "C. ︻": 1,
+            "D. ：": 0
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, simbol manakah yang paling serupa dengan bentuk \"timbangan\"?\nA. о\nB. ㄓ\nC. ㄘ\nD. 巜",
+        "target_scores": {
+            "A. о": 0,
+            "B. ㄓ": 1,
+            "C. ㄘ": 0,
+            "D. 巜": 0
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, manakah yang paling sesuai dengan simbol \"兀\"?\nA. As roda\nB. Bangku\nC. Lampu lalu lintas\nD. Pil obat",
+        "target_scores": {
+            "A. As roda": 0,
+            "B. Bangku": 1,
+            "C. Lampu lalu lintas": 0,
+            "D. Pil obat": 0
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, manakah yang paling sesuai dengan simbol \"Y\"?\nA. Bola voli\nB. Corong\nC. Papan gambar\nD. Papan seluncur",
+        "target_scores": {
+            "A. Bola voli": 0,
+            "B. Corong": 1,
+            "C. Papan gambar": 0,
+            "D. Papan seluncur": 0
+        }
+    },
+    {
+        "input": "Simbol \"P\" sangat mirip dengan sebuah objek dalam kehidupan sehari-hari. Objek apakah itu?\nA. Bendera\nB. Jendela mobil\nC. Milet\nD. Nasi",
+        "target_scores": {
+            "A. Bendera": 1,
+            "B. Jendela mobil": 0,
+            "C. Milet": 0,
+            "D. Nasi": 0
+        }
+    },
+    {
+        "input": "Di antara empat opsi berikut, jika Anda diminta untuk memilih satu simbol yang paling serupa dengan \"papan pantul bola basket,\" Anda akan memilih?\nA. ▔\nB. 〢\nC. 曱\nD. ﹗",
+        "target_scores": {
+            "A. ▔": 0,
+            "B. 〢": 0,
+            "C. 曱": 1,
+            "D. ﹗": 0
+        }
+    },
+    {
+        "input": "Saat melihat simbol \"∝\", manakah dari opsi berikut yang muncul di pikiran Anda?\nA. Ikan\nB. Kepiting\nC. Kura-kura\nD. Rubah",
+        "target_scores": {
+            "A. Ikan": 1,
+            "B. Kepiting": 0,
+            "C. Kura-kura": 0,
+            "D. Rubah": 0
+        }
+    },
+    {
+        "input": "Simbol \"※\" akan mengingatkan orang pada (...) di langit malam.\nA. Awan\nB. Burung\nC. Kembang api\nD. Oksigen",
+        "target_scores": {
+            "A. Awan": 0,
+            "B. Burung": 0,
+            "C. Kembang api": 1,
+            "D. Oksigen": 0
+        }
+    },
+    {
+        "input": "Simbol \"﹢\" dapat mewakili banyak objek. Di antara opsi berikut, kelompok objek manakah yang paling sesuai? ① Logo rumah sakit ② Persimpangan jalan ③ Koordinat ④ Bakpao\nA. ①②③\nB. ①②④\nC. ②③④\nD. ②④",
+        "target_scores": {
+            "A. ①②③": 1,
+            "B. ①②④": 0,
+            "C. ②③④": 0,
+            "D. ②④": 0
+        }
+    },
+    {
+        "input": "Amir menggambar simbol \"Ⅲ\" di atas kertas. Di antara empat opsi berikut, kelompok objek manakah yang paling sesuai? ① Batu pilar Romawi ② Jendela ③ Kabinet dapur ④ Jeruk Bali\nA. ①②③\nB. ①②④\nC. ②③④\nD. ③④",
+        "target_scores": {
+            "A. ①②③": 1,
+            "B. ①②④": 0,
+            "C. ②③④": 0,
+            "D. ③④": 0
+        }
+    },
+    {
+        "input": "Seorang guru meminta siswanya menggunakan simbol untuk menggambarkan bentuk sepak bola. Gunakan imajinasimu dan tentukan simbol manakah yang paling sesuai?\nA. 】\nB. で\nC. に\nD. Ｏ",
+        "target_scores": {
+            "A. 】": 0,
+            "B. で": 0,
+            "C. に": 0,
+            "D. Ｏ": 1
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, manakah yang paling sesuai dengan simbol \"ㄒ\"? ① Persimpangan tiga ② Paku payung ③ Peternakan kuda ④ Kandang ayam\nA. ①②\nB. ②③\nC. ②④\nD. ③④",
+        "target_scores": {
+            "A. ①②": 1,
+            "B. ②③": 0,
+            "C. ②④": 0,
+            "D. ③④": 0
+        }
+    },
+    {
+        "input": "Bayangkan bentuk pecahan kaca. Di antara opsi berikut, manakah yang paling sesuai dengan bayangan Anda?\nA. ⅳ\nB. ⅵ\nC. ⅶ\nD. ⊿",
+        "target_scores": {
+            "A. ⅳ": 0,
+            "B. ⅵ": 0,
+            "C. ⅶ": 0,
+            "D. ⊿": 1
+        }
+    },
+    {
+        "input": "Bayangkan bentuk tangga. Di antara opsi berikut, manakah yang paling sesuai dengan bayangan Anda?\nA. 9\nB. ⑶\nC. ⒂\nD. ▁▂▃",
+        "target_scores": {
+            "A. 9": 0,
+            "B. ⑶": 0,
+            "C. ⒂": 0,
+            "D. ▁▂▃": 1
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, kelompok objek manakah yang sesuai dengan simbol \"▧\"?\nA. Gunung berapi dan magma\nB. Hujan es dan tetesan hujan\nC. Karpet dan poster\nD. Rawa dan lumpur",
+        "target_scores": {
+            "A. Gunung berapi dan magma": 0,
+            "B. Hujan es dan tetesan hujan": 0,
+            "C. Karpet dan poster": 1,
+            "D. Rawa dan lumpur": 0
+        }
+    },
+    {
+        "input": "Jika Anda diminta untuk menggunakan sebuah simbol untuk mewakili \"pegangan pintu\", manakah yang paling cocok?\nA. Ю\nB. з\nC. и\nD. й",
+        "target_scores": {
+            "A. Ю": 1,
+            "B. з": 0,
+            "C. и": 0,
+            "D. й": 0
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, simbol manakah yang dapat mewakili \"cerobong asap\"?\nA. ╓\nB. ホ\nC. ボ\nD. ポ",
+        "target_scores": {
+            "A. ╓": 1,
+            "B. ホ": 0,
+            "C. ボ": 0,
+            "D. ポ": 0
+        }
+    },
+    {
+        "input": "Silakan pilih simbol yang paling serupa dengan bentuk mata.\nA. σ\nB. ア\nC. ィ\nD. イ",
+        "target_scores": {
+            "A. σ": 1,
+            "B. ア": 0,
+            "C. ィ": 0,
+            "D. イ": 0
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, kelompok objek manakah yang sesuai dengan simbol \"﹄\"?\nA. Jeruk dan delima\nB. Kue bulan dan roti tawar\nC. Sedotan dan cangklong\nD. Taplak meja dan sapu tangan",
+        "target_scores": {
+            "A. Jeruk dan delima": 0,
+            "B. Kue bulan dan roti tawar": 0,
+            "C. Sedotan dan cangklong": 1,
+            "D. Taplak meja dan sapu tangan": 0
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, kelompok objek manakah yang paling sesuai dengan bentuk \"︼\"?\nA. Asbak dan mangkuk\nB. Kue dan buah persik\nC. Pelembab bibir dan parfum\nD. Pengukur bahan bakar dan jam tangan",
+        "target_scores": {
+            "A. Asbak dan mangkuk": 1,
+            "B. Kue dan buah persik": 0,
+            "C. Pelembab bibir dan parfum": 0,
+            "D. Pengukur bahan bakar dan jam tangan": 0
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, manakah yang paling sesuai dengan simbol \"▒\"?\nA. Daun\nB. Dinding kawat\nC. Jas hujan\nD. Siput",
+        "target_scores": {
+            "A. Daun": 0,
+            "B. Dinding kawat": 1,
+            "C. Jas hujan": 0,
+            "D. Siput": 0
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, manakah yang paling sesuai dengan simbol \"▩\"?\nA. Bawang bombay\nB. Cakram\nC. Manggis\nD. Syal persegi",
+        "target_scores": {
+            "A. Bawang bombay": 0,
+            "B. Cakram": 0,
+            "C. Manggis": 0,
+            "D. Syal persegi": 1
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, manakah yang paling sesuai dengan simbol \"◐\"?\nA. Bola voli\nB. Kulit tahu\nC. Mi Ayam\nD. Ubi",
+        "target_scores": {
+            "A. Bola voli": 1,
+            "B. Kulit tahu": 0,
+            "C. Mi Ayam": 0,
+            "D. Ubi": 0
+        }
+    },
+    {
+        "input": "Sugi diminta menggunakan sebuah simbol untuk mewakili \"tombol.\" Berdasarkan imajinasi Anda, manakah di antara opsi berikut ini yang paling sesuai?\nA. ń\nB. ◈\nC. や\nD. ゅ",
+        "target_scores": {
+            "A. ń": 0,
+            "B. ◈": 1,
+            "C. や": 0,
+            "D. ゅ": 0
+        }
+    },
+    {
+        "input": "Apa yang akan terlintas di pikiranmu saat melihat simbol \"Ψ\"?\nA. Bolu kukus\nB. Buku komik\nC. Kartun\nD. Trisula Raja Laut",
+        "target_scores": {
+            "A. Bolu kukus": 0,
+            "B. Buku komik": 0,
+            "C. Kartun": 0,
+            "D. Trisula Raja Laut": 1
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, kelompok objek manakah yang paling sesuai dengan simbol \"﹋﹌\"?\nA. Dasi kupu-kupu dan permen karet\nB. Kayu jemuran dan tusuk sate bambu\nC. Laut dan sungai\nD. Penyeka kaca depan dan sikat mandi",
+        "target_scores": {
+            "A. Dasi kupu-kupu dan permen karet": 0,
+            "B. Kayu jemuran dan tusuk sate bambu": 0,
+            "C. Laut dan sungai": 1,
+            "D. Penyeka kaca depan dan sikat mandi": 0
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, kelompok objek manakah yang paling sesuai dengan simbol \"∽\"? ① Helai rambut ② Benang wol ③ Gelombang air ④ Kasur kucing\nA. ①②③\nB. ①②④\nC. ②③④\nD. ②④",
+        "target_scores": {
+            "A. ①②③": 1,
+            "B. ①②④": 0,
+            "C. ②③④": 0,
+            "D. ②④": 0
+        }
+    },
+    {
+        "input": "Di antara objek berikut, yang dapat diekspresikan dengan \"z\" adalah? ① Lintasan balap ② Ular ③ Petir ④ Kelengkeng\nA. ①②③\nB. ①②④\nC. ②③④\nD. ③④",
+        "target_scores": {
+            "A. ①②③": 1,
+            "B. ①②④": 0,
+            "C. ②③④": 0,
+            "D. ③④": 0
+        }
+    },
+    {
+        "input": "Saat melihat simbol \"୨\" orang akan merasa familiar, karena simbolnya serupa dengan? ① Kecebong ② Headphone ③ Balon ④ Kelinci.\nA. ①②③\nB. ①②④\nC. ①③④\nD. ②③④",
+        "target_scores": {
+            "A. ①②③": 1,
+            "B. ①②④": 0,
+            "C. ①③④": 0,
+            "D. ②③④": 0
+        }
+    },
+    {
+        "input": "Seorang guru mengangkat papan pertanyaan dengan simbol \"‰\" di atasnya. Lalu keempat siswa memberikan jawaban sebagai berikut: ① Ulat ② Pizza ③ Anting-anting ④ Liontin mutiara. Kelompok objek manakah yang paling sesuai?\nA. ①②④\nB. ①③④\nC. ②③④\nD. ②④",
+        "target_scores": {
+            "A. ①②④": 0,
+            "B. ①③④": 1,
+            "C. ②③④": 0,
+            "D. ②④": 0
+        }
+    },
+    {
+        "input": "Simbol \"D\" dapat mewakili banyak objek sehari-hari, seperti: ① Busur ② Perisai ③ Gagang pintu ④ Kubus rubik. Di antara opsi berikut, kelompok objek manakah yang paling sesuai?\nA. ①②③\nB. ①②④\nC. ②③④\nD. ③④",
+        "target_scores": {
+            "A. ①②③": 1,
+            "B. ①②④": 0,
+            "C. ②③④": 0,
+            "D. ③④": 0
+        }
+    },
+    {
+        "input": "Simbol \"Ｉ\" dapat melambangkan banyak hal. Di antara opsi berikut, kelompok objek manakah yang paling sesuai? ① Barbel ② Tiang listrik ③ Stroberi ④ Tomat\nA. ①②\nB. ②③\nC. ②③④\nD. ③④",
+        "target_scores": {
+            "A. ①②": 1,
+            "B. ②③": 0,
+            "C. ②③④": 0,
+            "D. ③④": 0
+        }
+    },
+    {
+        "input": "Simbol \"ん\" dapat mewakili banyak objek. Di antara opsi berikut, kelompok objek manakah yang paling sesuai? ① Ekor hewan ② Kail pancing ③Roti ④ Tanaman merambat\nA. ①②③\nB. ①②④\nC. ②③④\nD. ③④",
+        "target_scores": {
+            "A. ①②③": 0,
+            "B. ①②④": 1,
+            "C. ②③④": 0,
+            "D. ③④": 0
+        }
+    },
+    {
+        "input": "Bu guru meminta Sari untuk menggunakan imajinasinya dan membayangkan benda apa yang bisa diwakili oleh \"ξ\"? ① Pintu ② Gelombang air ③ Per pegas ④ Awan\nA. ①②③\nB. ①②④\nC. ①③④\nD. ②③④",
+        "target_scores": {
+            "A. ①②③": 0,
+            "B. ①②④": 0,
+            "C. ①③④": 0,
+            "D. ②③④": 1
+        }
+    },
+    {
+        "input": "Bayangkan bentuk simpul kupu-kupu. Di antara opsi berikut, manakah yang paling sesuai dengan bayangan Anda?\nA. B\nB. ま\nC. ラ\nD. リ",
+        "target_scores": {
+            "A. B": 1,
+            "B. ま": 0,
+            "C. ラ": 0,
+            "D. リ": 0
+        }
+    },
+    {
+        "input": "Jika saya bertanya kepada Anda opsi mana yang akan membuat Anda berpikir tentang wanita hamil, maka Anda akan memilih?\nA. Я\nB. ┥\nC. ┦\nD. ┳",
+        "target_scores": {
+            "A. Я": 1,
+            "B. ┥": 0,
+            "C. ┦": 0,
+            "D. ┳": 0
+        }
+    },
+    {
+        "input": "Saat melihat simbol \"￡\", manakah dari opsi berikut yang muncul di pikiran Anda?\nA. Keong\nB. Kerang\nC. Kunci\nD. Lumba-lumba",
+        "target_scores": {
+            "A. Keong": 0,
+            "B. Kerang": 0,
+            "C. Kunci": 1,
+            "D. Lumba-lumba": 0
+        }
+    },
+    {
+        "input": "Simbol \"ヨ\" sangat mirip dengan objek dalam kehidupan sehari-hari. Objek apakah itu?\nA. Gulali rambut nenek\nB. Kue kering\nC. Kue nastar\nD. Rak buku tiga tingkat",
+        "target_scores": {
+            "A. Gulali rambut nenek": 0,
+            "B. Kue kering": 0,
+            "C. Kue nastar": 0,
+            "D. Rak buku tiga tingkat": 1
+        }
+    },
+    {
+        "input": "Saat melihat simbol \"㏄\", manakah dari opsi berikut yang muncul di pikiran Anda?\nA. Batang pohon\nB. Penanak nasi\nC. Penyumbat telinga\nD. Sekop",
+        "target_scores": {
+            "A. Batang pohon": 0,
+            "B. Penanak nasi": 0,
+            "C. Penyumbat telinga": 1,
+            "D. Sekop": 0
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, manakah yang paling sesuai dengan simbol \"〥\"?\nA. Bolpoin\nB. Hamburger\nC. Kelinci\nD. Kertas",
+        "target_scores": {
+            "A. Bolpoin": 0,
+            "B. Hamburger": 0,
+            "C. Kelinci": 1,
+            "D. Kertas": 0
+        }
+    },
+    {
+        "input": "Saat melihat simbol \"д\", manakah dari opsi berikut yang muncul di pikiran Anda?\nA. Anak ayam\nB. Babi\nC. Elang\nD. Krayon",
+        "target_scores": {
+            "A. Anak ayam": 0,
+            "B. Babi": 0,
+            "C. Elang": 0,
+            "D. Krayon": 1
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, manakah yang paling sesuai dengan simbol \"♂\"?\nA. Kompor induksi\nB. Panci rebusan\nC. Perisai dan tombak\nD. Pisau dapur",
+        "target_scores": {
+            "A. Kompor induksi": 0,
+            "B. Panci rebusan": 0,
+            "C. Perisai dan tombak": 1,
+            "D. Pisau dapur": 0
+        }
+    },
+    {
+        "input": "Jika Anda diminta untuk memilih satu simbol yang paling serupa dengan bendungan, Anda akan memilih?\nA. №\nB. ♫\nC. ㏒\nD. ︹",
+        "target_scores": {
+            "A. №": 0,
+            "B. ♫": 0,
+            "C. ㏒": 0,
+            "D. ︹": 1
+        }
+    },
+    {
+        "input": "Jika Anda adalah seorang penjaga kebun binatang, simbol mana yang menurut Anda paling mirip dengan bentuk \"telinga gajah\"?\nA. β\nB. ㈦\nC. ㈧\nD. ㈨",
+        "target_scores": {
+            "A. β": 1,
+            "B. ㈦": 0,
+            "C. ㈧": 0,
+            "D. ㈨": 0
+        }
+    },
+    {
+        "input": "Ibu meminta Budi untuk membayangkan penampilan seekor burung di benaknya, lalu memilih salah satu opsi yang paling sesuai dari opsi berikut. Budi akan memilih?\nA. ℅\nB. ⒀\nC. ⒁\nD. 》",
+        "target_scores": {
+            "A. ℅": 0,
+            "B. ⒀": 0,
+            "C. ⒁": 0,
+            "D. 》": 1
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, pilihlah satu simbol yang paling serupa dengan ekor ikan.\nA. à\nB. ǎ\nC. ⅸ\nD. 《",
+        "target_scores": {
+            "A. à": 0,
+            "B. ǎ": 0,
+            "C. ⅸ": 0,
+            "D. 《": 1
+        }
+    },
+    {
+        "input": "Jika Anda adalah seorang nelayan, simbol manakah yang menurut Anda paling serupa dengan pusaran laut?\nA. °′″\nB. ℃\nC. ℉\nD. の",
+        "target_scores": {
+            "A. °′″": 0,
+            "B. ℃": 0,
+            "C. ℉": 0,
+            "D. の": 1
+        }
+    },
+    {
+        "input": "Bayangkan bentuk tapal kuda. Di antara opsi berikut, manakah yang paling serupa dengan bayangan Anda?\nA. Ω\nB. ㄔ\nC. ㄠ\nD. ㄡ",
+        "target_scores": {
+            "A. Ω": 1,
+            "B. ㄔ": 0,
+            "C. ㄠ": 0,
+            "D. ㄡ": 0
+        }
+    },
+    {
+        "input": "Di antara empat opsi berikut, simbol manakah yang paling sesuai dengan \"lereng\"?\nA. ㄈ\nB. ㄖ\nC. ㄗ\nD. ㄟ",
+        "target_scores": {
+            "A. ㄈ": 0,
+            "B. ㄖ": 0,
+            "C. ㄗ": 0,
+            "D. ㄟ": 1
+        }
+    },
+    {
+        "input": "Jika Anda adalah seorang pencinta satwa liar, simbol manakah yang menurut Anda paling serupa dengan bentuk angsa?\nA. 2\nB. ¤\nC. ≤\nD. ≥",
+        "target_scores": {
+            "A. 2": 1,
+            "B. ¤": 0,
+            "C. ≤": 0,
+            "D. ≥": 0
+        }
+    },
+    {
+        "input": "Saat melihat simbol \"Э\" orang akan merasa familiar, karena simbolnya serupa dengan? ① Stik kendali permainan ② Gagang telepon ③ Headphone ④ Mawar\nA. ①②③\nB. ①②④\nC. ②③④\nD. ②④",
+        "target_scores": {
+            "A. ①②③": 1,
+            "B. ①②④": 0,
+            "C. ②③④": 0,
+            "D. ②④": 0
+        }
+    },
+    {
+        "input": "Kakek mengangkat papan gambar dan bertanya pada Dimas: \"Kelompok objek manakah yang paling serupa dengan gambar pada papan gambar?\" Simbol pada papan gambar adalah \"╠╡\". Berikut ini adalah opsinya: ① Papan sirkuit ② Pemisahan rak buku ③ Kadal ④ Potongan puzzle.\nA. ①②③\nB. ①②④\nC. ②③④\nD. ②④",
+        "target_scores": {
+            "A. ①②③": 0,
+            "B. ①②④": 1,
+            "C. ②③④": 0,
+            "D. ②④": 0
+        }
+    },
+    {
+        "input": "Seorang guru mengangkat papan pertanyaan dengan simbol \"⊙\" di atasnya. Lalu keempat siswa memberikan jawaban sebagai berikut: ① Tanduk kambing ② Bola berongga ③ Pupil mata ④ Target sasaran. Kelompok objek manakah yang paling sesuai?\nA. ①②③\nB. ①②④\nC. ①③④\nD. ②③④",
+        "target_scores": {
+            "A. ①②③": 0,
+            "B. ①②④": 0,
+            "C. ①③④": 0,
+            "D. ②③④": 1
+        }
+    },
+    {
+        "input": "Dalam permainan ini, peserta diharuskan mengaitkan benda-benda yang berhubungan dengan simbol secepat mungkin sesuai dengan simbol yang disediakan untuk memenangkan hadiah utama. Pembawa acara mengangkat papan pertanyaan dengan simbol \"▤\" di atasnya. Lalu, keempat peserta memberikan jawaban sebagai berikut: ① Sepatu hak tinggi ② Jendela jalusi ③ Ubin keramik ④ Lemari buku. Di antara opsi berikut, kelompok manakah yang paling sesuai?\nA. ①②③\nB. ①②④\nC. ①③④\nD. ②③④",
+        "target_scores": {
+            "A. ①②③": 0,
+            "B. ①②④": 0,
+            "C. ①③④": 0,
+            "D. ②③④": 1
+        }
+    },
+    {
+        "input": "Simbol \"ㄜ\" dapat mewakili banyak objek. Di antara opsi berikut, kelompok objek manakah yang paling sesuai? ① Kail ikan ② Gerobak dorong ③ Pegangan dalam trem ④ Kentang\nA. ①②③\nB. ①②④\nC. ②③④\nD. ③④",
+        "target_scores": {
+            "A. ①②③": 1,
+            "B. ①②④": 0,
+            "C. ②③④": 0,
+            "D. ③④": 0
+        }
+    },
+    {
+        "input": "Simbol \"┯\" dapat mewakili banyak objek sehari-hari, seperti: ① Rambu lalu lintas ② Belencong ③ Rambu halte bus ④ Lentil. Di antara opsi berikut, kelompok objek manakah yang paling sesuai?\nA. ①②③\nB. ①②④\nC. ②③④\nD. ③④",
+        "target_scores": {
+            "A. ①②③": 1,
+            "B. ①②④": 0,
+            "C. ②③④": 0,
+            "D. ③④": 0
+        }
+    },
+    {
+        "input": "Bayangkan bentuk bunga dandelion. Di antara opsi berikut, manakah yang paling sesuai dengan bayangan Anda?\nA. ъ\nB. ь\nC. ※\nD. ∑",
+        "target_scores": {
+            "A. ъ": 0,
+            "B. ь": 0,
+            "C. ※": 1,
+            "D. ∑": 0
+        }
+    },
+    {
+        "input": "Rina diminta menggunakan sebuah simbol untuk mewakili \"tongkat.\" Berdasarkan imajinasi Anda, manakah di antara opsi berikut ini yang paling sesuai?\nA. Г\nB. ☜\nC. ☞\nD. ☺",
+        "target_scores": {
+            "A. Г": 1,
+            "B. ☜": 0,
+            "C. ☞": 0,
+            "D. ☺": 0
+        }
+    },
+    {
+        "input": "Jika Anda adalah seorang seniman, simbol apa yang akan Anda gunakan untuk membuat lukisan yang menggambarkan bulan purnama?\nA. Ⅵ\nB. ∟\nC. ⊿\nD. ●",
+        "target_scores": {
+            "A. Ⅵ": 0,
+            "B. ∟": 0,
+            "C. ⊿": 0,
+            "D. ●": 1
+        }
+    },
+    {
+        "input": "Simbol mana yang akan digunakan ahli jantung untuk menggambarkan elektrokardiogram?\nA. √\nB. 弎\nC. 弐\nD. 朤",
+        "target_scores": {
+            "A. √": 1,
+            "B. 弎": 0,
+            "C. 弐": 0,
+            "D. 朤": 0
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, biji kopi dapat diwakili dengan simbol?\nA. Θ\nB. ≡\nC. ◢\nD. ㈱",
+        "target_scores": {
+            "A. Θ": 1,
+            "B. ≡": 0,
+            "C. ◢": 0,
+            "D. ㈱": 0
+        }
+    },
+    {
+        "input": "Budi ingin menggunakan salah satu simbol berikut untuk menggambarkan korek api yang baru saja dinyalakan. Budi akan memilih?\nA. í\nB. ⑤\nC. ⑥\nD. ⑦",
+        "target_scores": {
+            "A. í": 1,
+            "B. ⑤": 0,
+            "C. ⑥": 0,
+            "D. ⑦": 0
+        }
+    },
+    {
+        "input": "Jika Anda diminta untuk menggunakan simbol untuk mewakili \"orang yang menunggang kuda\", maka Anda akan memilih?\nA. ㄢ\nB. ︾\nC. ﹁\nD. ﹂",
+        "target_scores": {
+            "A. ㄢ": 1,
+            "B. ︾": 0,
+            "C. ﹁": 0,
+            "D. ﹂": 0
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, mana yang dapat digunakan untuk menggambarkan \"orang yang terbaring di tanah\"?\nA. ㄤ\nB. ＜\nC. ＝\nD. ＞",
+        "target_scores": {
+            "A. ㄤ": 1,
+            "B. ＜": 0,
+            "C. ＝": 0,
+            "D. ＞": 0
+        }
+    },
+    {
+        "input": "Agus diminta menggunakan sebuah simbol untuk mewakili \"orang yang sedang berlari.\" Berdasarkan imajinasi Anda, manakah di antara opsi berikut ini yang paling sesuai?\nA. ⑴\nB. ⑵\nC. ⑶\nD. ㄌ",
+        "target_scores": {
+            "A. ⑴": 0,
+            "B. ⑵": 0,
+            "C. ⑶": 0,
+            "D. ㄌ": 1
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, simbol manakah yang paling sesuai untuk menggambarkan \"bibir atas dan bawah seseorang\"?\nA. 3\nB. ［\nC. ＼\nD. ］",
+        "target_scores": {
+            "A. 3": 1,
+            "B. ［": 0,
+            "C. ＼": 0,
+            "D. ］": 0
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, kelompok objek manakah yang paling sesuai dengan simbol \"〇\"?\nA. Gelang dan cincin\nB. Kelelawar dan nyamuk\nC. Radio dan shaker\nD. Semut dan kutu",
+        "target_scores": {
+            "A. Gelang dan cincin": 1,
+            "B. Kelelawar dan nyamuk": 0,
+            "C. Radio dan shaker": 0,
+            "D. Semut dan kutu": 0
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, manakah yang paling sesuai dengan simbol \"Ъ\"?\nA. Kepulauan Fiji\nB. Pesawat terbang\nC. Pulau Belitung\nD. Siput",
+        "target_scores": {
+            "A. Kepulauan Fiji": 0,
+            "B. Pesawat terbang": 0,
+            "C. Pulau Belitung": 0,
+            "D. Siput": 1
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, objek manakah yang paling sesuai dengan simbol \"ω\"?\nA. Cakar binatang\nB. Jangkrik\nC. Kaki seribu\nD. Serangga tongkat",
+        "target_scores": {
+            "A. Cakar binatang": 1,
+            "B. Jangkrik": 0,
+            "C. Kaki seribu": 0,
+            "D. Serangga tongkat": 0
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, objek manakah yang paling sesuai dengan simbol \"t\"?\nA. Jamur pohon teh\nB. Jangkar\nC. Ketumbar\nD. Sayuran hijau",
+        "target_scores": {
+            "A. Jamur pohon teh": 0,
+            "B. Jangkar": 1,
+            "C. Ketumbar": 0,
+            "D. Sayuran hijau": 0
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, objek manakah yang paling sesuai dengan simbol \"≠\"?\nA. Cangkir saringan\nB. Dadu\nC. Faktur\nD. Tangga",
+        "target_scores": {
+            "A. Cangkir saringan": 0,
+            "B. Dadu": 0,
+            "C. Faktur": 0,
+            "D. Tangga": 1
+        }
+    },
+    {
+        "input": "Silakan gunakan imajinasi Anda dan bayangkan simbol \"Ж\". Di antara opsi berikut ini, kelompok objek manakah yang paling sesuai?\nA. Gelas dan ember\nB. Hidung dan alis\nC. Kepingan salju dan kupu-kupu\nD. Telur ayam dan telur bebek",
+        "target_scores": {
+            "A. Gelas dan ember": 0,
+            "B. Hidung dan alis": 0,
+            "C. Kepingan salju dan kupu-kupu": 1,
+            "D. Telur ayam dan telur bebek": 0
+        }
+    },
+    {
+        "input": "\"C\" tidak mungkin merupakan benda yang biasa ditemukan dalam kehidupan sehari-hari. Benda apa itu?\nA. Bulan\nB. Gagang telepon\nC. Pisang\nD. Televisi",
+        "target_scores": {
+            "A. Bulan": 0,
+            "B. Gagang telepon": 0,
+            "C. Pisang": 0,
+            "D. Televisi": 1
+        }
+    },
+    {
+        "input": "Saat melihat simbol \"⌒\", manakah dari opsi berikut yang muncul di pikiran Anda?\nA. Ikat rambut\nB. Nomor polisi kendaraan\nC. Tanda keluar darurat\nD. Tanda toilet",
+        "target_scores": {
+            "A. Ikat rambut": 1,
+            "B. Nomor polisi kendaraan": 0,
+            "C. Tanda keluar darurat": 0,
+            "D. Tanda toilet": 0
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, kelompok objek manakah yang paling serupa dengan simbol \"↓\"? ① Sikat ② Sapu ③ Jarum jam ④Gitar\nA. ①②③\nB. ①②④\nC. ②③④\nD. ③④",
+        "target_scores": {
+            "A. ①②③": 1,
+            "B. ①②④": 0,
+            "C. ②③④": 0,
+            "D. ③④": 0
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, objek manakah yang paling serupa dengan simbol \"P\"? ① Tempat parkir ② Bendera ③ Tongkat golf ④ Harpa\nA. ①②③\nB. ①②④\nC. ②③④\nD. ③④",
+        "target_scores": {
+            "A. ①②③": 1,
+            "B. ①②④": 0,
+            "C. ②③④": 0,
+            "D. ③④": 0
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, objek manakah yang paling serupa dengan simbol \"╬\"? ① Blok Bangunan Lego ② Persimpangan jalan ③ Pipa knalpot ④ Dedalu\nA. ①②③\nB. ①②④\nC. ②③④\nD. ③④",
+        "target_scores": {
+            "A. ①②③": 1,
+            "B. ①②④": 0,
+            "C. ②③④": 0,
+            "D. ③④": 0
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, kelompok objek manakah yang dapat diwakili dengan simbol \"λ\"? ① Tenda ② Topi penyihir ③ Telur ④ Tahu\nA. ①②\nB. ①③④\nC. ②④\nD. ③④",
+        "target_scores": {
+            "A. ①②": 1,
+            "B. ①③④": 0,
+            "C. ②④": 0,
+            "D. ③④": 0
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, mana yang dapat diekspresikan dengan \"Н\"? ① Peralatan kebugaran ② Gawang sepak bola ③ Pagar ④ Kelengkeng\nA. ①②③\nB. ①②④\nC. ②③④\nD. ②④",
+        "target_scores": {
+            "A. ①②③": 1,
+            "B. ①②④": 0,
+            "C. ②③④": 0,
+            "D. ②④": 0
+        }
+    },
+    {
+        "input": "Saat melihat simbol \"ㄖ\" orang akan merasa familiar, karena simbolnya serupa dengan? ① Buku ② Sandal jepit ③ Bakiak ④ Cacar air.\nA. ①②③\nB. ①②④\nC. ②③④\nD. ②④",
+        "target_scores": {
+            "A. ①②③": 1,
+            "B. ①②④": 0,
+            "C. ②③④": 0,
+            "D. ②④": 0
+        }
+    },
+    {
+        "input": "Bu guru mengangkat selembar kertas dengan simbol \"♣\" di atasnya. Lalu keempat siswa memberikan jawaban sebagai berikut: ① Brokoli ② Pohon besar ③ Rubah ④ Alpaka. Di antara opsi berikut, kelompok objek manakah yang paling sesuai?\nA. ①②\nB. ①③④\nC. ②④\nD. ③④",
+        "target_scores": {
+            "A. ①②": 1,
+            "B. ①③④": 0,
+            "C. ②④": 0,
+            "D. ③④": 0
+        }
+    },
+    {
+        "input": "Simbol \"☆\" dapat mewakili banyak objek sehari-hari, seperti: ① Aksesori rambut ② Medali ③ Stiker ④ Ubi. Di antara kelompok objek berikut, manakah yang paling sesuai?\nA. ①②③\nB. ①②④\nC. ②③④\nD. ②④",
+        "target_scores": {
+            "A. ①②③": 1,
+            "B. ①②④": 0,
+            "C. ②③④": 0,
+            "D. ②④": 0
+        }
+    },
+    {
+        "input": "Pembawa acara mengangkat papan pertanyaan dengan simbol \"回\" di atasnya. Keempat peserta memberikan jawaban sebagai berikut: ① Bingkai foto ② Oven ③ Toaster ④ Kumbang. Di antara opsi berikut, kelompok manakah yang paling sesuai?\nA. ①②③\nB. ①②④\nC. ②③④\nD. ②④",
+        "target_scores": {
+            "A. ①②③": 1,
+            "B. ①②④": 0,
+            "C. ②③④": 0,
+            "D. ②④": 0
+        }
+    },
+    {
+        "input": "Simbol \"6\" dapat mewakili banyak objek. Di antara opsi berikut ini, kelompok objek manakah yang paling sesuai? ① Mata ② Tomat ceri ③ Roti ④ Tanaman merambat\nA. ①②\nB. ①③④\nC. ②④\nD. ③④",
+        "target_scores": {
+            "A. ①②": 1,
+            "B. ①③④": 0,
+            "C. ②④": 0,
+            "D. ③④": 0
+        }
+    },
+    {
+        "input": "Silakan perhatikan simbol \"⊙\" dengan teliti. Di antara opsi berikut, objek mana yang tidak dapat diwakili oleh simbol ini?\nA. Cakram\nB. Globe\nC. Hamster\nD. Meja makan",
+        "target_scores": {
+            "A. Cakram": 0,
+            "B. Globe": 0,
+            "C. Hamster": 1,
+            "D. Meja makan": 0
+        }
+    },
+    {
+        "input": "Simbol \"⊕\" dapat mewakili banyak objek. Di antara opsi berikut ini, objek manakah yang paling tidak sesuai?\nA. Bola plastik kecil\nB. Kotak pil\nC. Kukusan bambu\nD. Pohon Ginkgo",
+        "target_scores": {
+            "A. Bola plastik kecil": 0,
+            "B. Kotak pil": 0,
+            "C. Kukusan bambu": 0,
+            "D. Pohon Ginkgo": 1
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, objek manakah yang tidak serupa dengan simbol \"◇\"?\nA. Berlian\nB. Kotak dalam kartu remi\nC. Papan catur\nD. Terong",
+        "target_scores": {
+            "A. Berlian": 0,
+            "B. Kotak dalam kartu remi": 0,
+            "C. Papan catur": 0,
+            "D. Terong": 1
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, objek manakah yang tidak serupa dengan simbol \"▽\"?\nA. Bumi\nB. Celemek\nC. Gigi Taring\nD. Kerupuk Segitiga",
+        "target_scores": {
+            "A. Bumi": 1,
+            "B. Celemek": 0,
+            "C. Gigi Taring": 0,
+            "D. Kerupuk Segitiga": 0
+        }
+    },
+    {
+        "input": "Silakan perhatikan simbol \"▧\". Di antara opsi berikut, objek mana yang tidak dapat diwakili oleh simbol ini?\nA. Karpet\nB. Kertas dinding\nC. Poster\nD. Roda ban",
+        "target_scores": {
+            "A. Karpet": 0,
+            "B. Kertas dinding": 0,
+            "C. Poster": 0,
+            "D. Roda ban": 1
+        }
+    },
+    {
+        "input": "Simbol \"★\" dapat mewakili banyak objek. Di antara opsi berikut ini, objek manakah yang paling tidak sesuai?\nA. Bintang laut\nB. Dekorasi Natal\nC. Gedung Pemerintahan\nD. Jepit rambut",
+        "target_scores": {
+            "A. Bintang laut": 0,
+            "B. Dekorasi Natal": 0,
+            "C. Gedung Pemerintahan": 1,
+            "D. Jepit rambut": 0
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, objek manakah yang tidak serupa dengan simbol \"∫\"?\nA. Benang Wol\nB. Cacing tanah\nC. Helai rambut\nD. Kambing",
+        "target_scores": {
+            "A. Benang Wol": 0,
+            "B. Cacing tanah": 0,
+            "C. Helai rambut": 0,
+            "D. Kambing": 1
+        }
+    },
+    {
+        "input": "Di antara opsi berikut, objek manakah yang tidak serupa dengan simbol \"︻\"?\nA. Bendungan\nB. Dermaga jembatan\nC. Domba\nD. Sofa",
+        "target_scores": {
+            "A. Bendungan": 0,
+            "B. Dermaga jembatan": 0,
+            "C. Domba": 1,
+            "D. Sofa": 0
+        }
+    },
+    {
+        "input": "Simbol \"ㄓ\" dapat mewakili banyak objek. Di antara opsi berikut ini, objek manakah yang tidak dapat diwakili oleh simbol ini?\nA. Berang-berang\nB. Kaktus\nC. Peralatan kebugaran\nD. Skala horizontal",
+        "target_scores": {
+            "A. Berang-berang": 1,
+            "B. Kaktus": 0,
+            "C. Peralatan kebugaran": 0,
+            "D. Skala horizontal": 0
+        }
+    }
+]

@@ -1,0 +1,690 @@
+[
+    {
+        "input": "Joko memanggang roti setiap pagi di rumah. Sisi pertama perlu dipanggang selama 2 menit, sedangkan sisi kedua hanya perlu 1 menit. Pemanggang rotinya hanya bisa memanggang dua potong roti sekaligus. Jika Joko ingin makan 3 potong roti setiap pagi, berapa menit paling sedikit yang dibutuhkan untuk memanggangnya?",
+        "target": "5 menit"
+    },
+    {
+        "input": "Ayah menggoreng telur ceplok untuk Dodi menggunakan wajan. Wajan ini hanya bisa menggoreng 2 butir telur sekaligus. Setiap telur perlu digoreng selama 2 menit (masing-masing sisi 1 menit). Jika ayah ingin menggoreng 3 butir telur, berapa menit paling sedikit yang dibutuhkan?",
+        "target": "3 menit"
+    },
+    {
+        "input": "Sari bangun pagi dan menghabiskan waktu sebagai berikut: berpakaian selama 3 menit, sikat gigi dan cuci muka selama 4 menit, merebus air selama 15 menit, sarapan selama 7 menit, mencuci peralatan makan selama 2 menit, menyiapkan tas sekolah selama 2 menit, menyeduh susu selama 1 menit. Jika ingin menyelesaikan semuanya secepat mungkin, berapa menit paling sedikit yang dibutuhkan?",
+        "target": "19 menit"
+    },
+    {
+        "input": "Di rumah Bu Siti ada 9 bangku yang perlu dicat dua kali. Pengecatan pertama memakan waktu 2 menit, tetapi harus menunggu 15 menit sebelum melanjutkan pengecatan kedua. Berapa menit paling sedikit yang dibutuhkan untuk mengecat 9 bangku?",
+        "target": "36 menit"
+    },
+    {
+        "input": "Pada pagi Andi bangun dan membutuhkan 5 menit untuk sikat gigi dan cuci muka (tanpa air panas), 1 menit untuk mencuci ketel, 10 menit untuk merebus air, 3 menit untuk merapikan tas sekolah, 1 menit untuk membuat susu sarapan, dan 10 menit untuk sarapan. Jika Andi mengatur waktunya dengan efisien, berapa menit paling sedikit yang dia perlukan?",
+        "target": "22 menit"
+    },
+    {
+        "input": "Dewi bangun pagi dan harus menyelesaikan sejumlah kegiatan berikut: menyikat gigi dan mencuci muka selama 4 menit, sarapan selama 8 menit, mencuci ketel selama 1 menit, merebus air selama 12 menit, serta mengisi botol air selama 2 menit. Jika Dewi ingin menyelesaikan semua kegiatan ini secepat mungkin, berapa berapa menit waktu minimum yang dibutuhkan yang dibutuhkan?",
+        "target": "15 menit"
+    },
+    {
+        "input": "Sebuah tim proyek harus menyelesaikan tugas dalam waktu yang ditentukan. Jika hanya tim A yang mengerjakannya, maka proyek akan selesai tepat waktu. Jika hanya tim B yang mengerjakannya, maka akan terlambat 3 hari. Namun, jika hari pertama dan kedua dikerjakan bersama oleh tim A dan tim B, lalu sisanya oleh tim B sendiri, proyek akan selesai tepat waktu. Berapa hari waktu yang ditentukan untuk proyek ini?",
+        "target": "6 hari"
+    },
+    {
+        "input": "Sebuah peternakan berencana memanen gandum dengan 18 orang bekerja 6 jam per hari selama 15 hari. Untuk mempercepat proses, ditambahkan 9 orang lagi dan jam kerja ditambah 2 jam per hari. Berapa hari lebih cepat panen selesai dibanding rencana awal?",
+        "target": "7,5 hari"
+    },
+    {
+        "input": "Sebuah tambang berencana menyelesaikan pekerjaan dalam 30 hari dengan 50 orang bekerja 10 jam per hari. Namun akhirnya mereka menambah 25 orang dan jam kerja harian menjadi 14 jam. Berapa hari lebih cepat pekerjaan itu selesai dibanding rencana awal (bulatkan hingga 1 angka desimal)?",
+        "target": "15,7 hari"
+    },
+    {
+        "input": "Empat orang A, B, C dan D, datang bersamaan ke keran air kecil untuk keperluan masing-masing. Hanya satu orang yang bisa menggunakan air dalam satu waktu. A mencuci kain pel selama 3 menit, B mencuci lap selama 2 menit, C mengisi air ke ember selama 1 menit, D mencuci baju selama 10 menit. Berapa menit total waktu paling sedikit yang dibutuhkan, termasuk waktu tunggu?",
+        "target": "26 menit"
+    },
+    {
+        "input": "Yuki menunggangi sapi untuk menggiring empat sapi lain menyeberangi sungai. Ada 4 sapi: A, B, C dan D. Waktu menyeberang: sapi A 1 menit, sapi B 2 menit, sapi C 5 menit, sapi D 6 menit. Setiap kali hanya bisa menunggang 1 sapi dan menggiring 1 sapi. Berapa menit paling sedikit dibutuhkan untuk mengantar keempat sapi ke seberang?",
+        "target": "13 menit"
+    },
+    {
+        "input": "Jarak rumah Dodi ke sekolah adalah 10 km. Jika ia berangkat pukul 08:00 naik sepeda dengan kecepatan 20 km/jam, ia akan tiba tepat waktu dan 30 menit lebih cepat dibanding berlari sepanjang jalan. Hari ini, ia tetap berangkat pukul 08:00, tapi menumpang mobil tetangga dengan kecepatan 40 km/jam untuk sebagian perjalanan, lalu berlari 2 km sisanya. Berapa menit lebih awal ia tiba hari ini?",
+        "target": "6 menit"
+    },
+    {
+        "input": "Tiga orang A, B dan C, masing-masing membawa 2, 3, dan 1 termos untuk mengambil air panas di satu keran. Mengisi satu termos butuh 1 menit. Berapa total waktu minimum yang mereka habiskan  (termasuk waktu mengambil air dan menunggu) ?",
+        "target": "10 menit"
+    },
+    {
+        "input": "Direktur perusahaan memanggil tiga orang A, B dan C,  ke kantor untuk berbicara satu per satu. A membutuhkan 5 menit, B membutuhkan 7 menit, dan C membutuhkan 6 menit. Berapa menit paling sedikit (termasuk waktu berbicara dan menunggu) yang dibutuhkan ketiganya?",
+        "target": "34 menit"
+    },
+    {
+        "input": "Tiga pelanggan datang bersamaan ke kasir untuk berbelanja. A butuh 5 menit, B butuh 3 menit, dan C butuh 6 menit. Berapa menit paling sedikit (termasuk waktu membayar dan menunggu) yang dibutuhkan mereka bertiga?",
+        "target": "25 menit"
+    },
+    {
+        "input": "Setiap lembar roti perlu dipanggang pada kedua sisinya, dengan sisi pertama membutuhkan waktu 4 menit dan sisi kedua 2 menit. Sebuah wajan dapat memanggang hingga 3 lembar roti sekaligus.  Berapa menit waktu minimum yang dibutuhkan untuk memanggang 5 lembar roti hingga matang sempurna",
+        "target": "10 menit"
+    },
+    {
+        "input": "Sebuah proyek konstruksi direncanakan selesai dalam 45 hari. Jika menggunakan buldoser, bisa selesai 15 hari lebih cepat. Jika hanya mengandalkan tenaga manusia kerja, akan terlambat 15 hari. Biaya per hari alat berat Rp200.000, tenaga kerja Rp80.000. Berapa hari alat berat harus digunakan agar proyek selesai tepat waktu dan biaya paling hemat?",
+        "target": "15 hari"
+    },
+    {
+        "input": "Sebuah proyek jalan raya harus selesai tepat waktu dalam 60 hari. Jika hanya menggunakan alat berat, bisa selesai 20 hari lebih cepat, tetapi biaya per harinya Rp300.000. Jika hanya menggunakan tenaga manusia, akan terlambat 20 hari, dan biaya per harinya Rp100.000. Jika kombinasi digunakan, berapa hari alat berat perlu digunakan agar proyek selesai tepat waktu dan biaya total paling murah?",
+        "target": "20 hari"
+    },
+    {
+        "input": "Sebuah perusahaan harus menyelesaikan survei pasar dalam 10 hari. Ada dua cara, tim  survei profesional dan staf internal. Jika seluruhnya dikerjakan oleh tim survei profesional, pekerjaan bisa selesai 5 hari lebih awal. Jika seluruhnya dikerjakan oleh staf internal, akan terlambat 10 hari. Jika 4 hari pertama dikerjakan oleh tim survei, sisanya dikerjakan oleh staf internal, berapa hari lebih awal proyek bisa selesai?",
+        "target": "2 hari"
+    },
+    {
+        "input": "Dodi biasanya pergi ke taman menggunakan skateboard dengan kecepatan 10 km/jam. Jika berlari, kecepatannya 8 km/jam. Hari ini dia berangkat lebih awal, dan agar tidak sampai terlalu cepat, ia memilih kombinasi skateboard dan lari tanpa berhenti. Jika dia sampai dalam 13 menit dan jarak rumah ke taman adalah 2 kilometer, berapa menit total waktu yang dia gunakan untuk naik skateboard?",
+        "target": "8 menit"
+    },
+    {
+        "input": "Hari ini, Indah memiliki waktu 9 jam. Dia perlu 2 jam untuk pekerjaan rumah, 4 jam untuk membaca buku sastra, 1 jam untuk memasak nasi dengan rice cooker, dan 2 jam untuk mendengarkan radio. Berapa jam maksimal waktu yang tersisa untuk istirahat?",
+        "target": "3 jam"
+    },
+    {
+        "input": "Pagi ini saya merebus air selama 4 menit, mencuci muka selama 2 menit, dan menggosok gigi selama 3 menit. Berapa menit paling sedikit yang saya butuhkan untuk menyelesaikan semua kegiatan ini?",
+        "target": "5 menit"
+    },
+    {
+        "input": "Ada tamu datang ke rumah dan kamu ingin menyajikan teh. Mencuci dan merebus teko selama 2 menit, merebus air selama 12 menit, membeli daun teh 8 menit, mencuci cangkir selama 2 menit, menyeduh teh selama 1 menit. Berapa menit paling sedikit yang dibutuhkan agar tamu bisa minum teh?",
+        "target": "15 menit"
+    },
+    {
+        "input": "Jika kamu memiliki waktu 8 jam di hari Sabtu, dan akan digunakan 2 jam membantu ibu bersih-bersih, 1 jam olahraga, dan 2 jam menonton film di bioskop, berapa jam maksimal yang tersisa untuk istirahat?",
+        "target": "3 jam"
+    },
+    {
+        "input": "Linda setiap malam harus menghafal peribahasa 6 menit, merebus air 10 menit, membuat susu 2 menit, dan meminum susu 5 menit.  Berapa menit paling sedikit yang ia butuhkan untuk menyelesaikan semua kegiatan ini?",
+        "target": "17 menit"
+    },
+    {
+        "input": "Pada hari Minggu, Joko harus membantu ibunya melakukan beberapa tugas: menyapu 10 menit, mengelap perabotan 15 menit, mencuci pakaian dengan mesin cuci 40 menit, menjemur pakaian 5 menit.  Berapa menit paling sedikit yang ia butuhkan untuk menyelesaikan semua kegiatan ini?",
+        "target": "45 menit"
+    },
+    {
+        "input": "Fanny hendak membuat segelas jus jeruk. Ia membutuhkan waktu 1 menit untuk mencuci gelas dan 1 menit untuk mencuci sendok. Merebus air memerlukan waktu 8 menit, dan mengambil bubuk jeruk membutuhkan 2 menit. Setelah mengatur semua kegiatan tersebut secara efisien, Fanny berhasil meminum jus jeruk dalam waktu secepat mungkin. Berapa menit waktu minimum yang dibutuhkan sampai ia dapat meminum jus jeruk tersebut?",
+        "target": "8 menit"
+    },
+    {
+        "input": "Tiga siswa pergi mencuci tangan. A butuh 1 menit, B butuh 3 menit, dan C butuh 2 menit. Hanya ada satu keran. Berapakah jumlah minimum dari total waktu tunggu semua orang( jika total waktu tunggu termasuk  jumlah dari waktu tunggu masing-masing orang)?",
+        "target": "4 menit"
+    },
+    {
+        "input": "Sebuah wajan hanya bisa menggoreng 2 ikan sekaligus. Setiap ikan butuh digoreng 6 menit (masing-masing sisi 3 menit). Jika ada 3 ikan, berapa menit paling sedikit yang dibutuhkan untuk menggoreng semuanya?",
+        "target": "9 menit"
+    },
+    {
+        "input": "Pada hari Minggu, Joko ingin membantu ibunya di rumah: mencuci pakaian dengan mesin cuci 20 menit, menyapu 6 menit, membersihkan perabotan 15 menit, menjemur pakaian 5 menit. Berapa menit paling sedikit yang dibutuhkan Joko untuk menyelesaikan semua tugas ini secepat mungkin?",
+        "target": "26 menit"
+    },
+    {
+        "input": "Bu Linda ingin keluar rumah. Sebelum itu, ia harus menyelesaikan 4 hal: merapikan kamar 5 menit, memasukkan pakaian dan air ke mesin cuci 1 menit, mesin cuci mencuci otomatis 12 menit, dan membersihkan sepatu 3 menit. Berapa menit paling sedikit yang dibutuhkan untuk menyelesaikan keempat tugas ini?",
+        "target": "13 menit"
+    },
+    {
+        "input": "Saat kerja bakti sekolah, empat siswa A, B, C dan D, masing-masing membawa ember dengan ukuran berbeda untuk mengambil air. Waktu yang dibutuhkan untuk mengisi penuh: A butuh 3 menit, B butuh 5 menit, C butuh 2 menit, D butuh 4 menit. Hanya ada satu keran. Berapakah jumlah minimum dari total waktu tunggu semua orang( jika total waktu tunggu termasuk  jumlah dari waktu tunggu masing-masing orang)?",
+        "target": "16 menit"
+    },
+    {
+        "input": "Kakek Budi setiap pagi setelah bangun tidur melakukan tiga hal: menyimak berita selama 20 menit, cuci muka dan gosok gigi selama 8 menit, serta sarapan selama 15 menit. Berapa menit paling sedikit yang dibutuhkan untuk menyelesaikan semuanya?",
+        "target": "23 menit"
+    },
+    {
+        "input": "Ani memanggang roti pipih menggunakan satu wajan. Wajan ini hanya bisa memanggang dua roti pipih sekaligus. Setiap roti pipih harus dipanggang kedua sisi, masing-masing sisi 2 menit. Jika Ani ingin memanggang 5 roti pipih, berapa menit paling sedikit yang dibutuhkan?",
+        "target": "10 menit"
+    },
+    {
+        "input": "Ibu sakit, Dodi harus menyelesaikan beberapa hal berikut sebelum berangkat ke sekolah: mengukur suhu tubuh ibu selama 5 menit, mencari obat flu selama 3 menit, menuang air panas lalu menunggu air menjadi hangat selama 8 menit, dan memberikan obat kepada ibu selama 1 menit. Jika Dodi mengatur waktunya dengan efisien, berapa menit paling cepat yang dibutuhkan?",
+        "target": "9 menit"
+    },
+    {
+        "input": "Hari Minggu, Dini belajar melakukan pekerjaan rumah: menyapu selama 5 menit, mengepel 10 menit, mengelap meja dan kursi 5 menit, mencuci baju dengan mesin cuci selama 35 menit, merapikan kamar 8 menit, dan menjemur pakaian 5 menit. Berapa waktu paling sedikit yang dibutuhkan Dini?",
+        "target": "40 menit"
+    },
+    {
+        "input": "Dodi menyiapkan teh untuk tamu. Ia butuh 2 menit untuk mencuci teko, 12 menit untuk merebus air, 2 menit untuk mencuci cangkir (tidak pakai air panas), dan 1 menit untuk mengambil daun teh. Dengan pengaturan waktu paling efisien, berapa menit paling cepat Dodi bisa menyeduh teh?",
+        "target": "14 menit"
+    },
+    {
+        "input": "Pemanggang wafel hanya bisa memanggang 2 wafel sekali. Setiap sisi wafel harus dipanggang selama 3 menit. Jika ingin memanggang 5 wafel, berapa menit paling sedikit yang dibutuhkan?",
+        "target": "15 menit"
+    },
+    {
+        "input": "Budi menyiapkan teh hijau untuk tamu: mengisi air 1 menit, merebus air 6 menit, mencuci cangkir (tanpa air panas) 2 menit, mengambil daun teh 1 menit, menyeduh teh hijau 1 menit. Jika Budi mengatur waktunya dengan baik, berapa menit paling cepat tamu bisa minum teh?",
+        "target": "8 menit"
+    },
+    {
+        "input": "Sebuah wajan hanya bisa menggoreng dua ikan kakap sekaligus. Menggoreng satu ikan sampai matang butuh 4 menit (masing-masing sisi 2 menit). Ibu ingin menggoreng 3 ikan. Waktu paling sedikit yang dibutuhkan adalah berapa menit?",
+        "target": "6 menit"
+    },
+    {
+        "input": "Bima menuntun kuda menyeberangi sungai. Ada empat kuda: A, B, C dan D. Kuda A butuh 2 menit menyeberang, kuda B butuh 3 menit, kuda C butuh 6 menit, dan kuda D butuh 7 menit. Setiap kali hanya dua kuda yang bisa menyeberang bersama. Berapa menit paling sedikit yang dibutuhkan agar semua kuda menyeberang?",
+        "target": "18 menit"
+    },
+    {
+        "input": "Andi harus menyelesaikan beberapa kegiatan berikut: merapikan tempat tidur selama 3 menit, menggosok gigi selama 3 menit, mencuci muka selama 2 menit, dan mendengarkan rekaman bahasa Inggris selama 8 menit. Jika Andi mengatur waktunya dengan efisien, berapa menit paling cepat yang dibutuhkan untuk menyelesaikan semua kegiatan tersebut?",
+        "target": "8 menit"
+    },
+    {
+        "input": "Pak Rudi mau fotocopy 7 lembar dokumen bolak-balik. Mesin fotocopy hanya bisa fotocopy satu sisi dan maksimal dua lembar sekaligus. Berapa kali paling sedikit fotocopy yang dibutuhkan untuk menyelesaikan semuanya?",
+        "target": "7 kali"
+    },
+    {
+        "input": "Dika, Rina, dan Toni ingin meminjam buku\"Belenggu\" di perpustakaan (hanya ada 1 eksemplar). Dika bilang dia bisa selesai dalam seminggu, Rina butuh setengah bulan, dan Toni hanya 5 hari. Agar total waktu tunggu mereka bertiga paling singkat, urutan peminjaman yang tepat bagaimana?",
+        "target": "Toni-Dika-Rina"
+    },
+    {
+        "input": "Di dermaga ada tiga kapal menunggu dibongkar muat: Kapal A butuh 10 jam, Kapal B butuh 12 jam, Kapal C butuh 9 jam. Karena kekurangan tenaga, hanya bisa bongkar satu kapal dalam satu waktu. Urutan pembongkaran seperti apa yang membuat total waktu tunggu jadi paling sedikit?",
+        "target": "C-A-B"
+    },
+    {
+        "input": "Siswa kelas 3 sedang mengantre masuk pameran sains. Nisa berada 39 orang di depan Wati, dan 50 orang di belakang Joko. Sementara itu, Danu berdiri 78 orang di depan Wati. Di antara Nisa, Danu, dan Joko, siapa yang paling depan dalam antrean?",
+        "target": "Joko"
+    },
+    {
+        "input": "Riana ingin membantu ibunya pada hari Minggu dengan melakukan hal-hal berikut: mencuci pakaian dengan mesin cuci selama 25 menit, menyapu 6 menit, mengelap perabot 10 menit, menjemur pakaian 5 menit, dan membuang sampah 3 menit. Dengan pengaturan waktu yang efisien, berapa menit paling sedikit yang dibutuhkan untuk menyelesaikan semua pekerjaan ini?",
+        "target": "30 menit"
+    },
+    {
+        "input": "Sebuah permainan berdurasi 5 menit per ronde, bisa dimainkan sendiri atau berdua. Deni, Siska, dan Bima masing-masing ingin bermain dua ronde. Berapa menit paling sedikit yang dibutuhkan?",
+        "target": "15 menit"
+    },
+    {
+        "input": "Minggu pagi setelah bangun, Rina merencanakan untuk melakukan hal-hal berikut: menyapu 3 menit, mengepel lantai 12 menit, merebus air 8 menit, dan merapikan tas 2 menit. Agar semua pekerjaan selesai secepat mungkin, berapa menit paling sedikit yang dibutuhkan?",
+        "target": "17 menit"
+    },
+    {
+        "input": "Untuk memanggang roti pipih di atas tungku, setiap sisi harus dipanggang selama 3 menit, dan tungku hanya bisa memanggang 2 roti pipih sekaligus. Jika ingin memanggang 3 roti, berapa menit paling sedikit yang dibutuhkan?",
+        "target": "9 menit"
+    },
+    {
+        "input": "Pagi hari setelah bangun, Fajar membutuhkan 5 menit untuk berpakaian, 3 menit merapikan tempat tidur, 2 menit gosok gigi, 1 menit cuci muka, 3 menit menghangatkan susu, 2 menit memanggang roti, dan 8 menit untuk sarapan. Dengan pengaturan paling efisien, berapa menit paling sedikit yang dibutuhkan?",
+        "target": "19 menit"
+    },
+    {
+        "input": "Ada tamu datang ke rumah, dan Dika harus menyeduhkan teh bunga untuk mereka. Mencuci teko 2 menit, merebus air 15 menit, mencuci cangkir (tanpa air panas) 1 menit, mengisi air 1 menit, mencari daun teh 1 menit, dan menyeduh teh 1 menit. Berapa menit paling cepat agar tamu bisa menikmati teh bunga?",
+        "target": "19 menit"
+    },
+    {
+        "input": "Ibu menggunakan satu wajan kecil untuk menggoreng dadar telur. Wajan tersebut hanya bisa menampung 2 telur sekaligus. Jika satu telur membutuhkan 2 menit (1 menit per sisi), makaberapa menit paling sedikit yang dibutuhkan untuk menggoreng 7 buah dadar telur hingga matang?",
+        "target": "7 menit"
+    },
+    {
+        "input": "Saat memanggang roti, sisi pertama butuh 2 menit, sisi kedua hanya 1 menit karena rotinya sudah agak kering. Wajan yang digunakan hanya bisa memanggang 2 potong roti sekaligus. Jika ingin memanggang 3 potong roti, berapa menit paling sedikit yang dibutuhkan?",
+        "target": "5 menit"
+    },
+    {
+        "input": "Ada tiga pelanggan masuk ke barbershop secara bersamaan. Pelanggan A potong rambut dan cukur jenggot tanpa hair dryer, pelanggan B hanya cukur jenggot, dan pelanggan C potong rambut, cukur jenggot, dan memakai hair dryer. Hanya ada satu tukang cukur. Bagaimana urutan paling efisien agar total waktu tunggu ketiganya paling sedikit?",
+        "target": "B - A - C"
+    },
+    {
+        "input": "Di sebuah restoran steak, memanggang satu potong steak butuh 6 menit (3 menit per sisi). Jika satu pelat besi hanya bisa memanggang 4 potong sekaligus, berapa menit paling sedikit yang dibutuhkan untuk memanggang 15 potong steak?",
+        "target": "24 menit"
+    },
+    {
+        "input": "Ruang fotocopy sekolah perlu fotocopy 32 lembar dokumen bolak-balik. Jika mesin fotocopy hanya bisa memuat 3 lembar sekaligus, minimal perlu fotocopy berapa kali agar semua dokumen selesai?",
+        "target": "22 kali"
+    },
+    {
+        "input": "Restoran steak sapi memanggang 1 potong steak sapi selama 6 menit (3 menit per sisi). Jika satu pelat hanya bisa memanggang 4 potong sekaligus, berapa menit paling sedikit yang dibutuhkan untuk memanggang 20 potong steak sapi ?",
+        "target": "30 menit"
+    },
+    {
+        "input": "Setiap pagi setelah bangun, Bagas berpakaian 2 menit, merapikan selimut 2 menit, cuci muka dan sisir rambut 5 menit, ke toilet 3 menit, menunggu sarapan tidak panas 12 menit, dan makan sarapan 8 menit. Berapa menit paling cepat yang dibutuhkan untuk menyelesaikan semuanya?",
+        "target": "20 menit"
+    },
+    {
+        "input": "Empat siswa masing-masing membawa ember dengan ukuran yang berbeda untuk mengambil air dari keran. Ember A penuh dalam 5 menit, ember B dalam 4 menit, ember C dalam 3 menit, dan ember D dalam 2 menit. Hanya ada satu keran air. Berapakah jumlah minimum dari total waktu tunggu semua orang( jika total waktu tunggu termasuk  jumlah dari waktu tunggu masing-masing orang)?",
+        "target": "16 menit"
+    },
+    {
+        "input": "Bu Lestari ingin berbicara dengan empat murid: A butuh 6 menit, B butuh 10 menit, C butuh 8 menit, dan D butuh 5 menit. Berapakah jumlah minimum dari total waktu tunggu semua orang( jika total waktu tunggu termasuk  jumlah dari waktu tunggu masing-masing orang)?",
+        "target": "35 menit"
+    },
+    {
+        "input": "Tante Lina ingin menyelesaikan beberapa hal sebelum keluar belanja: merapikan kamar 5 menit, memasukkan pakaian kotor ke mesin cuci 1 menit, mesin mencuci otomatis selama 12 menit, menyemir sepatu 3 menit, dan menjemur pakaian 1 menit. Berapa menit waktu tercepat yang dibutuhkan Tante Lina sebelum bisa pergi?",
+        "target": "14 menit"
+    },
+    {
+        "input": "Karena ibunya pergi kerja, Linda harus menyiapkan makan sendiri: mencuci beras 3 menit, mencuci panci 1 menit, menanak nasi dengan rice cooker 20 menit, menghangatkan lauk dengan microwave 8 menit, dan menyeduh sup 3 menit. Berapa menit waktu tercepat yang dibutuhkan Linda sebelum bisa makan?",
+        "target": "24 menit"
+    },
+    {
+        "input": "Saat memanggang roti dengan mesin roti, sisi pertama dipanggang 2 menit dan sisi kedua 1 menit, jadi 1 roti perlu 3 menit. Mesin roti milik Tino hanya bisa memanggang 2 roti sekaligus. Jika ia ingin makan 3 roti, paling sedikit perlu panggang berapa menit?",
+        "target": "5 menit"
+    },
+    {
+        "input": "Lima orang, yaitu A, B, C, D dan E, melakukan transaksi setoran atau penarikan di sebuah loket bank. Waktu yang dibutuhkan masing-masing orang untuk menyelesaikan urusannya adalah sebagai berikut: A selama 10 menit, B selama 6 menit, C selama 8 menit, D selama 3 menit, dan E selama 15 menit. Berapakah jumlah minimum dari total waktu tunggu semua orang?( jika total waktu tunggu termasuk  jumlah dari waktu tunggu masing-masing orang)",
+        "target": "56 menit"
+    },
+    {
+        "input": "Pada hari Minggu, Andre membantu ibunya menanak nasi dengan rice cooker selama 35 menit, mengerjakan PR Bahasa Indonesia 15 menit, dan PR Matematika 10 menit. Jika Andre mengatur waktunya dengan baik, berapa menit paling sedikit yang dibutuhkan untuk menyelesaikan semuanya?",
+        "target": "35 menit"
+    },
+    {
+        "input": "Seorang dokter memeriksa Rina, Dika, dan Bima. Rina butuh 4 menit, Bima 10 menit, dan Dika 7 menit. Berapakah jumlah minimum dari total waktu tunggu semua orang?",
+        "target": "15 menit"
+    },
+    {
+        "input": "Untuk mengecat dua sisi papan tulis kecil, setiap sisi perlu 2 menit, tetapi harus menunggu 10 menit hingga cat kering sebelum mengecat sisi lainnya. Jika ada 6 papan, berapa menit paling sedikit untuk menyelesaikan semuanya?",
+        "target": "24 menit"
+    },
+    {
+        "input": "Sebuah toko cukur hanya memiliki satu tukang cukur. Empat pelanggan datang: A butuh 15 menit, B butuh 25 menit, C butuh 18 menit, dan D butuh 40 menit. Dalam urutan seperti apa mereka harus dicukur agar total waktu tunggu paling sedikit?",
+        "target": "A-C-B-D"
+    },
+    {
+        "input": "Dika sedang flu dan ingin segera istirahat setelah minum obat. Ia butuh 1 menit untuk menuang air panas, 7 menit menunggu air menjadi hangat, 1 menit mencari obat flu, dan 5 menit mengukur suhu tubuh. Berapa menit paling cepat yang dibutuhkannya agar dia bisa segera beristirahat?",
+        "target": "8 menit"
+    },
+    {
+        "input": "Satu wajan hanya bisa memanggang dua potong roti sekaligus, dan setiap sisi perlu 2 menit. Rina ingin memanggang 3 potong roti, berapa menit paling sedikit yang dibutuhkan?",
+        "target": "6 menit"
+    },
+    {
+        "input": "Tiga siswa ingin mengembalikan buku di perpustakaan, tapi hanya satu orang yang bisa dilayani dalam satu waktu. A butuh 4 menit, B 2 menit, dan C 8 menit. Berapa total waktu tunggu paling sedikit untuk ketiganya?",
+        "target": "8 menit"
+    },
+    {
+        "input": "Lili, Rian dan Yani ikut lomba pidato\"Jurnalis Cilik Sekolah\". Waktu berbicara masing-masing adalah sebagai berikut: Lili membutuhkan 6 menit, Rian membutuhkan 2 menit, dan Yani membutuhkan 5 menit. Dalam urutan seperti apa mereka harus tampil agar total waktu tunggu ketiganya paling sedikit?",
+        "target": "Rian-Yani-Lili"
+    },
+    {
+        "input": "Sebuah saluran air ingin dibangun. Jika dikerjakan sendiri, tim A butuh 20 hari, sedangkan tim B butuh 30 hari. Jika keduanya bekerja sama, karena saling mempengaruhi proses konstruksi, efisiensi tim A menjadi 4/5, tim B jadi 9/10. Rencananya saluran air ini harus selesai dalam 16 hari dengan jumlah hari kerja sama kedua tim seminimal mungkin. Berapa hari kedua tim harus bekerja sama?",
+        "target": "10 hari"
+    },
+    {
+        "input": "Suatu pekerjaan jika dilakukan bersama oleh A dan B butuh 4 jam, jika pekerjaannya dilakukan bersama oleh B dan C butuh 5 jam. Sekarang direncanakan A dan C bekerja bersama 2 jam dulu, sisanya dikerjakan B selama 6 jam. Berdasarkan rencana di atas, berapa jam yang dibutuhkan B untuk mengerjakan pekerjaan tersebut sendirian?",
+        "target": "20 jam"
+    },
+    {
+        "input": "Suatu proyek dikerjakan secara bergantian:  A melakukannya pada hari pertama, B melakukannya pada hari kedua, A melakukannya pada hari ketiga, dan B melakukannya pada hari keempat, lalu bergantian terus. Dalam pola ini, proyek selesai tepat dalam hari yang utuh (tidak ada pecahan hari). Tapi jika hari pertama oleh B, hari kedua oleh A, pola ini menyebabkan keterlambatan setengah hari. Diketahui B bisa menyelesaikan proyek sendirian dalam 17 hari. Berapa hari yang dibutuhkan A untuk menyelesaikan proyek sendirian?",
+        "target": "8,5 hari"
+    },
+    {
+        "input": "Dalam suatu rencana produksi, seorang guru dan muridnya memproduksi jumlah  suku cadang yang sama. Saat guru menyelesaikan 1/2 pekerjaannya, murid menyelesaikan 120  suku cadang. Saat guru selesai, murid sudah menyelesaikan 4/5. Jika menurut rencana produksi dan pemrosesan ini, maka berapa total suku cadang dalam rencana produksi ini?",
+        "target": "300 buah"
+    },
+    {
+        "input": "Terdapat sejumlah bibit pohon. Jika bibit tersebut dibagikan kepada siswa laki-laki dan perempuan untuk ditanam, maka rata-rata setiap orang menanam 6 pohon. Jika bibit tersebut hanya dibagikan kepada siswa perempuan saja, maka rata-rata setiap orang menanam 10 pohon. Maka, berapa pohon rata-rata yang ditanam oleh setiap siswa laki-laki jika seluruh bibit hanya ditanam oleh siswa laki-laki?",
+        "target": "15 pohon"
+    },
+    {
+        "input": "Sebelum pergi naik sepeda, Rian harus menyelesaikan beberapa hal: memompa ban 2 menit, merapikan kamar 7 menit, menyemir sepatu 2 menit, mengisi air dan memasukkan pakaian ke mesin cuci 1 menit, mesin mencuci otomatis 12 menit, lalu membilas, memeras, dan menjemur pakaian 5 menit. Berapa menit paling sedikit yang dibutuhkan Rian?",
+        "target": "18 menit"
+    },
+    {
+        "input": "Ketika Vivi bangun di pagi hari, ia membutuhkan waktu 3 menit untuk merapikan tempat tidurnya, 4 menit untuk mencuci, 10 menit untuk merebus air, 7 menit untuk sarapan, 1 menit untuk mencuci piring, dan 2 menit untuk merapikan tas . Berapa menit paling sedikit yang dibutuhkan Vivi untuk menyelesaikan semuanya?",
+        "target": "17 menit"
+    },
+    {
+        "input": "Dika berangkat dari rumah setiap pagi pukul 06:50 dan tiba di sekolah pukul 07:20. Gurunya menyarankan agar besok dia tiba 6 menit lebih awal. Jika besok Dika tetap berangkat pukul 06:50, maka ia harus berlari 25 meter lebih jauh setiap menit dibanding biasanya agar bisa tiba sesuai saran guru. Berapa meter jarak dari rumah Dika ke sekolah?",
+        "target": "3.000 meter"
+    },
+    {
+        "input": "Sebuah proyek harus diselesaikan tepat waktu. Jika tim A bekerja sendiri, akan terlambat 1 hari; jika tim B sendiri, terlambat 4 hari. Sekarang keduanya bekerja bersama selama 3 hari, lalu sisanya diselesaikan oleh tim B sendiri, dan proyek tepat selesai sesuai jadwal. Maka berapa hari waktu yang ditentukan untuk menyelesaikan proyek ini?",
+        "target": "8 hari"
+    },
+    {
+        "input": "Eko dan Kevin menghitung buku bersama. Eko menghitung 200 buku dalam waktu yang sama dengan waktu Kevin menghitung 300 buku. Jika Kevin menghitung 10 buku lebih banyak per menit dibanding Eko, berapa buku per menit rata-rata yang dihitung Eko?",
+        "target": "20 buku"
+    },
+    {
+        "input": "Sebuah terowongan di Jl. Sutomo dikerjakan oleh tim A, dan jika hanya tim A yang mengerjakan, butuh 200 hari. Tapi jika tim A dan B bekerja bersama, terowongan selesai dalam 120 hari. Maka jika tim B bekerja sendiri, perlu berapa hari untuk menyelesaikannya?",
+        "target": "300 hari"
+    },
+    {
+        "input": "Dalam waktu yang ditentukan, untuk merapikan sejumlah buku, jika dikerjakan oleh satu orang saja akan membutuhkan 60 jam. Saat ini direncanakan: sekelompok orang pertama bekerja selama 1 jam terlebih dahulu, kemudian tambahan 15 orang bergabung dan mereka bersama-sama bekerja lagi selama 2 jam, sehingga pekerjaan berhasil diselesaikan tepat waktu. Jika diasumsikan efisiensi kerja setiap orang sama, berapa banyak orang yang diatur pada kelompok pertama?",
+        "target": "10 orang"
+    },
+    {
+        "input": "Lili menyeduh teh untuk tamu: mengisi air 1 menit, merebus air 5 menit, mencuci cangkir (tanpa air panas) 3 menit, dan mengambil daun teh 1 menit. Dengan pengaturan waktu paling efisien, berapa menit paling sedikit yang dibutuhkan untuk selesai?",
+        "target": "6 menit"
+    },
+    {
+        "input": "Serigala Merah menggunakan wajan untuk memanggang roti pipih. Sekali memanggang bisa 2 roti pipih, setiap sisi butuh 2 menit. Jika ingin memanggang 3 roti pipih, berapa menit paling sedikit yang dibutuhkan?",
+        "target": "6 menit"
+    },
+    {
+        "input": "Setiap pagi, Pak Gugus sampai di sekolah dan melakukan hal-hal berikut: merapikan meja dan kursi 5 menit, membersihkan kantor 10 menit, mendengarkan musik 30 menit, memeriksa PR kemarin 20 menit, senam 10 menit, dan berdiskusi dengan pengurus kelas 5 menit. Jika kelas dimulai pukul 08:00, paling lambat jam berapa ia harus tiba?",
+        "target": "pukul 07:10"
+    },
+    {
+        "input": "Seorang pembuat roti memanggang sisi pertama selama 2 menit dan sisi kedua 1 menit, jadi total 3 menit per roti. Rak pemanggang hanya muat dua roti sekaligus. Jika setiap pagi perlu 5 roti, berapa menit paling sedikit dibutuhkan untuk memanggang semuanya?",
+        "target": "8 menit"
+    },
+    {
+        "input": "Satu roti canai harus dipanggang di kedua sisi, masing-masing 3 menit. Satu wajan bisa memanggang 3 sekaligus. Jika ingin memanggang 5 roti canai, berapa menit paling sedikit yang dibutuhkan?",
+        "target": "12 menit"
+    },
+    {
+        "input": "Sebuah pekerjaan membutuhkan 20 jam jika dikerjakan oleh satu orang. Dalam rencana baru, satu orang mengerjakan 2 jam, lalu sekelompok orang tambahan bergabung selama 3 jam untuk menyelesaikan sisanya. Jika semua orang bekerja dengan efisiensi yang sama, berapa orang yang ditambahkan?",
+        "target": "5 orang"
+    },
+    {
+        "input": "Sebuah sekolah ingin menyewa orang untuk merapikan rumput. Jika satu orang bekerja, butuh 240 jam. Rencananya, sekelompok orang bekerja selama 5 jam, lalu ditambah 15 orang lagi yang bekerja bersama selama 4 jam dan pekerjaan selesai. Jika semua orang bekerja dengan efisiensi yang sama, berapa orang yang bekerja di kelompok awal?",
+        "target": "20 orang"
+    },
+    {
+        "input": "A dan B sama-sama membuat mainan. A menyelesaikan 90 mainan dalam waktu yang sama dengan waktu yang dibutuhkan B untuk menyelesaikan 120. Jika setiap hari mereka membuat total 35 mainan, berapa banyak mainan yang dibuat A setiap hari?",
+        "target": "15 buah"
+    },
+    {
+        "input": "Demi melakukan perbaikan pada sebuah jalan tol, diperlukan penggalian terowongan sepanjang 1. 300 meter. Untuk meningkatkan efisiensi, pihak komando pembangunan jalan tol memutuskan agar Tim A dan Tim B mulai menggali dari kedua ujung terowongan secara bersamaan. Diketahui bahwa Tim A mampu menggali 10 meter lebih banyak per hari dibandingkan Tim B, dan jumlah hari yang dibutuhkan Tim A untuk menggali 300 meter sama dengan jumlah hari yang dibutuhkan Tim B untuk menggali 200 meter. Berapa meter yang dapat digali oleh Tim A dan Tim B setiap harinya?",
+        "target": "A 30 meter per hari, B 20 meter per hari"
+    },
+    {
+        "input": "Dalam suatu tender proyek mempercantik kota, terdapat dua tim yang mengajukan penawaran: tim A dan tim B. Berdasarkan perhitungan: Tim A, jika bekerja sendiri, akan menyelesaikan proyek ini dalam 60 hari, sedangkan Tim B, jika bekerja sendiri, akan menyelesaikannya dalam 90 hari.  Jika Tim A mulai bekerja sendiri selama 20 hari terlebih dahulu, lalu sisa pekerjaan dikerjakan bersama oleh Tim A dan Tim B, berapa hari yang diperlukan oleh kedua tim untuk menyelesaikan sisa proyek tersebut?",
+        "target": "24 hari"
+    },
+    {
+        "input": "Pak Yanto sedang mencari orang untuk membuat program. Jika dikerjakan oleh Leo sendiri, butuh 6 jam. Jika dikerjakan oleh Andi sendiri, butuh 8 jam. Jika mereka berdua mengerjakan bersama, berapa jam dibutuhkan? (bulatkan ke 1 angka desimal)",
+        "target": "3,4 jam"
+    },
+    {
+        "input": "Mencuci piring dan membereskan dapur butuh 20 menit, merebus air dan menyeduh teh 15 menit, mencuci selimut dengan mesin cuci 1 jam, mencuci pakaian dengan tangan 20 menit, dan menjemur pakaian setelah dibilas 5 menit. Berapa menit paling sedikit dibutuhkan ibunya Eric untuk menyelesaikan semuanya?",
+        "target": "65 menit"
+    },
+    {
+        "input": "Merebus satu telur butuh 8 menit. Satu panci bisa merebus 15 telur sekaligus. Jika ingin merebus 27 telur, berapa menit paling sedikit yang dibutuhkan?",
+        "target": "16 menit"
+    },
+    {
+        "input": "Dika ingin menyeduh teh susu untuk tamu. Mencuci teko 2 menit, merebus air 12 menit, mencuci cangkir (tanpa air panas) 2 menit, dan mengambil bubuk teh susu 1 menit. Dengan pengaturan waktu paling efisien, berapa menit dibutuhkan agar teh susu bisa segera disajikan?",
+        "target": "14 menit"
+    },
+    {
+        "input": "Sebelum tidur, Juno harus melakukan hal-hal berikut: merapikan tempat tidur (2 menit), cuci muka dan gosok gigi (3 menit), menyiapkan tas (2 menit), mendengarkan rekaman bahasa Inggris (5 menit), dan merendam kaki (5 menit). Juno membutuhkan waktu paling sedikit berapa menit untuk menyelesaikannya?",
+        "target": "12 menit"
+    },
+    {
+        "input": "Ibu memanggang roti, setiap roti butuh total 5 menit: satu sisi 3 menit dan sisi lainnya 2 menit. Oven di rumah hanya bisa memanggang 2 roti sekaligus. Sekarang Ibu ingin memanggang 3 roti, apakah cukup 8 menit?",
+        "target": "cukup"
+    },
+    {
+        "input": "Di taman bermain ada satu arena panahan dan satu arena bersepeda. Sekali bermain panahan atau bersepeda masing-masing butuh 4 menit. Setiap arena hanya bisa digunakan oleh satu anak dalam satu waktu. Jika ada 3 anak dan masing-masing ingin bermain dua jenis permainan, paling sedikit butuh berapa menit?",
+        "target": "12 menit"
+    },
+    {
+        "input": "Wajan di toko Bu Lina hanya bisa menggoreng 10 kue kentang sekaligus, setiap sisi digoreng 3 menit. Sekarang ada pesanan 15 kue kentang dan harus selesai dalam 10 menit. Apakah Bu Lina bisa menyelesaikannya tepat waktu?",
+        "target": "bisa"
+    },
+    {
+        "input": "Tiga siswa: Budi, Rina, dan Sari mengikuti dua tes: membaca puisi dan menulis. Setiap tes butuh 5 menit per orang, diawasi oleh dua guru yang berbeda. Berapa menit paling sedikit agar ketiganya bisa menyelesaikan semua tes?",
+        "target": "15 menit"
+    },
+    {
+        "input": "Vivi di pagi hari butuh 3 menit untuk cuci muka dan gosok gigi, 15 menit untuk merebus air, 2 menit menuangkan air ke termos, dan 8 menit untuk sarapan. Dengan pengaturan waktu efisien, berapa menit paling sedikit yang dibutuhkan Vivi untuk menyelesaikan semuanya?",
+        "target": "17 menit"
+    },
+    {
+        "input": "Setiap pagi setelah bangun, Bagus harus: mencuci teko 1 menit, merebus air 12 menit, menuangkan air ke termos 2 menit, sarapan 8 menit, dan menyiapkan tas 2 menit. Berapa menit paling sedikit yang dibutuhkan untuk menyelesaikan semua ini?",
+        "target": "15 menit"
+    },
+    {
+        "input": "Empat orang A, B, C dan D, menyeberangi jembatan masing-masing butuh 1, 2, 5 dan 10 menit. Karena hari sudah gelap, mereka harus menggunakan senter dan jembatan hanya cukup untuk dua orang sekaligus. Berapa menit paling cepat semua orang bisa menyeberang?",
+        "target": "17 menit"
+    },
+    {
+        "input": "Tiga orang A, B dan C, datang ke keran air. Keran hanya bisa digunakan satu orang sekali waktu. A butuh 3 menit mencuci pel, B butuh 10 menit mencuci baju, C butuh 2 menit mengisi ember. Berapa total menit paling sedikit (Total waktu yang dihabiskan setiap orang untuk membeli dan menunggu) yang dibutuhkan mereka?",
+        "target": "22 menit"
+    },
+    {
+        "input": "Budi, Arif, dan Bima datang bersamaan ke warung. Hanya ada satu koki, dan setiap kali hanya bisa memasak satu hidangan. Arif memesan pangsit yang membutuhkan waktu 6 menit untuk disiapkan, Budi memesan telur ceplok yang membutuhkan 2 menit, dan Bima memesan mie yang membutuhkan 5 menit. Berapa lama waktu tunggu minimum untuk tiga orang untuk makan?",
+        "target": "22 menit"
+    },
+    {
+        "input": "Rina di pagi hari harus melakukan beberapa hal: sikat gigi dan cuci muka selama 3 menit, mencuci ketel air selama 1 menit, membaca buku selama 8 menit, merebus air selama 18 menit, menuang air panas ke termos selama 2 menit, dan sarapan selama 5 menit. Berapa menit paling sedikit yang dibutuhkan Rina untuk menyelesaikan semuanya?",
+        "target": "21 menit"
+    },
+    {
+        "input": "Satu wajan bisa memanggang 2 panekuk sekaligus. Memanggang satu panekuk butuh 4 menit (masing-masing sisi 2 menit). Jika ingin memanggang 3 panekuk, berapa menit paling sedikit yang dibutuhkan?",
+        "target": "6 menit"
+    },
+    {
+        "input": "Rina dan ibunya akan pergi ke luar. Sebelum berangkat, Rina dan ibunya harus menyelesaikan: merapikan kamar 5 menit, mencuci pakaian dengan mesin cuci 20 menit, menjemur pakaian 2 menit, menyemir sepatu 4 menit, cuci muka dan sisir rambut 8 menit, dan menyiapkan tas 2 menit. Jika semua kegiatan diatur dengan efisien, berapa menit paling sedikit yang mereka perlukan sebelum bisa berangkat?",
+        "target": "22 menit"
+    },
+    {
+        "input": "Tiga siswa ke perpustakaan untuk meminjam buku. A butuh 4 menit, B butuh 8 menit, dan C butuh 3 menit. Berapa total menit paling sedikit (termasuk waktu meminjam dan menunggu) yang dibutuhkan mereka?",
+        "target": "25 menit"
+    },
+    {
+        "input": "Pada hari Minggu, beberapa rekan kerja ibunya Siti datang berkunjung. Ibu meminta Siti untuk merebus air dan menyeduh teh untuk para tamu. Siti butuh 1 menit mencuci teko air, 8 menit merebus air, 1 menit mencuci teko teh (tanpa air panas), 2 menit mencuci cangkir (tanpa air panas), 2 menit mengambil daun teh, dan 1 menit menyeduh. Berapa menit paling cepat teh bisa disajikan?",
+        "target": "10 menit"
+    },
+    {
+        "input": "Pada pagi hari ini Ferry bangun, Ferry harus menyelesaikan beberapa hal : mencuci teko 1 menit, merebus air 14 menit, menuangkan air ke termos 2 menit, sarapan 8 menit, dan menyiapkan tas 2 menit. Berapa menit paling sedikit yang dibutuhkan untuk menyelesaikan semuanya?",
+        "target": "17 menit"
+    },
+    {
+        "input": "Pada pagi hari ini Luna bangun ,dia butuh 4 menit untuk cuci muka dan gosok gigi (tanpa air panas), membaca 8 menit, merebus air 10 menit, menyeduh susu 1 menit, dan sarapan 5 menit. Berapa menit paling sedikit setelah bangun tidur Luna dapat berangkat sekolah?",
+        "target": "18 menit"
+    },
+    {
+        "input": "Bu Lina harus menyelesaikan hal-hal berikut sebelum keluar rumah: merapikan kamar 5 menit, memasukkan baju ke mesin cuci 1 menit, mesin bekerja otomatis 12 menit, menyemir sepatu 3 menit, dan menjemur pakaian 4 menit. Berapa menit paling cepat Bu Lina bisa pergi?",
+        "target": "17 menit"
+    },
+    {
+        "input": "Saat memanggang roti pipih, sisi pertama perlu dipanggang 3 menit dan sisi kedua 2 menit. Rak pemanggang hanya bisa menampung dua roti sekaligus. Berapa menit paling sedikit yang dibutuhkan untuk memanggang 3 roti?",
+        "target": "8 menit"
+    },
+    {
+        "input": "Empat orang A, B, C dan D, masing-masing punya ladang gandum yang harus dipanen. Mereka hanya memiliki satu mesin panen. Ladang A butuh 4 jam, B butuh 1 jam, C butuh 3 jam, dan D butuh 2 jam. Berapa jam total minimum (termasuk waktu memanen dan menunggu) yang dibutuhkan?",
+        "target": "20 jam"
+    },
+    {
+        "input": "Di ruang UKS ada empat siswa menunggu dokter. Hanya ada satu dokter dan tiap kali hanya bisa menangani satu pasien. A disuntik 3 menit, B ganti perban 4 menit, C mengoleskan obat 2 menit, D ditetes mata 1 menit. Berapa menit total waktu tunggu paling sedikit mereka masing-masing?",
+        "target": "10 menit"
+    },
+    {
+        "input": "Tiga pelanggan datang ke satu kasir untuk membeli barang, tapi hanya bisa dilayani satu per satu. A butuh 4 menit, B 6 menit, C 2 menit. Berapa total menit paling sedikit (Total waktu yang dihabiskan setiap orang untuk membeli dan menunggu) yang dibutuhkan mereka?",
+        "target": "20 menit"
+    },
+    {
+        "input": "Budi menuntun empat kuda menyeberangi sungai. A butuh 7 menit, B butuh 2 menit, C butuh 3 menit, D butuh 8 menit. Setiap kali hanya dua kuda bisa menyeberang. bersamaan. Berapa menit paling sedikit untuk menyeberangkan semua kuda?",
+        "target": "19 menit"
+    },
+    {
+        "input": "Livia, Rina, dan Guntur dari kelas 2 (C) bersamaan ke UKS. Livia butuh 5 menit untuk suntik, Rina 3 menit untuk balut perban, Guntur 1 menit untuk obat tetes mata. Di sana hanya ada satu guru medis, Bu Zahra. Berapa total menit paling sedikit yang dihabiskan ketiga murid ini di ruang UKS(Termasuk waktu perawatan dan waktu tunggu untuk masing-masing dari tiga individu) ?",
+        "target": "14 menit"
+    },
+    {
+        "input": "Bayu, Rina, dan Lili ingin meminjam buku cerita bergambar yang sama. Bayu mengatakan dia butuh satu minggu, Rina dua minggu, dan Lili lima hari. Urutan peminjaman bagaimana yang membuat waktu tunggu total mereka paling sedikit?",
+        "target": "Lili-Bayu- Rina"
+    },
+    {
+        "input": "Jika Luki, Wulan, dan Ucok pergi ke salon untuk potong rambut, hanya ada satu penata rambut. Luki butuh 20 menit, Wulan 30 menit, dan Ucok 40 menit. Bagaimana urutan potong rambut agar waktu tunggu total paling sedikit?",
+        "target": "Luki-Wulan-Ucok"
+    },
+    {
+        "input": "Toni ikut klub tenis meja sekolah. Saat latihan, ia perlu 3 menit ganti baju, 2 menit ganti sepatu, 1 menit ambil raket, 4 menit pemanasan, dan 2 menit dengar siaran pertandingan. Berapa menit minimum yang dibutuhkan Toni sebelum mulai latihan?",
+        "target": "10 menit"
+    },
+    {
+        "input": "Dewi malam hari harus menyelesaikan: dengar musik 10 menit, cuci diri 20 menit, dan makan malam 30 menit. Berapa menit paling sedikit yang dibutuhkan untuk menyelesaikan semuanya?",
+        "target": "50 menit"
+    },
+    {
+        "input": "Kakek Susanto setiap pagi harus menyiapkan sarapan 10 menit, makan 10 menit, dengar radio 20 menit, dan menyiram kebun 30 menit. Berapa menit paling cepat yang dibutuhkan untuk menyelesaikan semuanya?",
+        "target": "50 menit"
+    },
+    {
+        "input": "Bu Wulan setiap pagi harus merebus air 10 menit, menyiapkan sarapan 20 menit, mencuci pakaian 20 menit, dan ke toilet 20 menit. Berapa menit paling sedikit yang dibutuhkan untuk menyelesaikan semuanya?",
+        "target": "60 menit"
+    },
+    {
+        "input": "Tiga rekan kerja menggunakan satu printer untuk mencetak. A butuh 3 menit, B butuh 2 menit, dan C butuh 7 menit. Urutan mencetak seperti apa agar waktu tunggu total paling sedikit?",
+        "target": "B-A-C"
+    },
+    {
+        "input": "Tiga pelari berlari di satu lintasan yang sama. A butuh 8 menit, B butuh 10 menit, dan C butuh 12 menit. Urutan lari bagaimana agar waktu tunggu total paling sedikit?",
+        "target": "A-B-C"
+    },
+    {
+        "input": "Tiga koki berbagi satu kompor. Koki A butuh 12 menit, B butuh 15 menit, dan C butuh 8 menit. Bagaimana urutan memasak agar waktu tunggu total paling sedikit?",
+        "target": "C-A-B"
+    },
+    {
+        "input": "Abang, Kakak dan Adik mencetak dokumen di satu printer. Abang butuh 16 menit, Kakak 10 menit, dan Adik 8 menit. Urutan cetak seperti apa agar waktu tunggu total paling sedikit?",
+        "target": "Adik-Kakak-Abang"
+    },
+    {
+        "input": "Tiga dokter bedah bergantian menggunakan satu meja operasi. Dokter A butuh 100 menit, B butuh 50 menit, dan C butuh 15 menit. Urutan bagaimana yang membuat waktu tunggu total paling sedikit?",
+        "target": "C-B-A"
+    },
+    {
+        "input": "Lintang setiap pagi harus: cuci diri 10 menit, dengar musik 20 menit, masak sarapan 10 menit, bersih-bersih 20 menit. Berapa menit paling sedikit yang dibutuhkan untuk menyelesaikan semuanya?",
+        "target": "40 menit"
+    },
+    {
+        "input": "Eka ingin membuat jus anggur. Ia perlu: cuci gelas 1 menit, rebus air 2 menit, ambil bubuk anggur 2 menit, seduh 3 menit. Dengan pengaturan efisien, berapa menit sampai Eka bisa minum jus?",
+        "target": "6 menit"
+    },
+    {
+        "input": "Rina ingin memasak sayuran rebus untuk makan malam. Ia perlu: cuci sayur 5 menit, rebus air 5 menit, siapkan bahan 10 menit, masak 10 menit, dan tata makanan 5 menit. Berapa menit paling sedikit yang dibutuhkan untuk menyelesaikan semuanya?",
+        "target": "30 menit"
+    },
+    {
+        "input": "Pak Liem harus menyelesaikan hal-hal berikut di pagi hari: mesin cuci otomatis 30 menit, jemur baju 10 menit, lipat baju 10 menit, dengar radio 20 menit, masak sarapan 20 menit, antar anak ke sekolah 50 menit. Jika dijadwalkan dengan efisien, berapa menit paling sedikit yang dibutuhkan untuk menyelesaikan semuanya?",
+        "target": "90 menit"
+    },
+    {
+        "input": "Bu Tuti perlu menyelesaikan hal-hal berikut di siang hari: masak 30 menit, dengar radio 30 menit, cuci pakaian dengan tangan 10 menit, mesin cuci otomatis 30 menit, jemput anak 20 menit. Berapa menit minimum yang dibutuhkan?",
+        "target": "60 menit"
+    },
+    {
+        "input": "Bu Linda membuat susu untuk anak: ambil air 1 menit, rebus 6 menit, cuci botol 5 menit, ambil susu bubuk 2 menit, seduh susu 1 menit, dinginkan 3 menit. Dengan jadwal efisien, paling cepat berapa menit anak bisa minum?",
+        "target": "12 menit"
+    },
+    {
+        "input": "Rani pulang sekolah pukul 20:00. Ia harus: kerjakan PR 60 menit, dengar musik 30 menit, mandi 40 menit, main game 40 menit, bersih-bersih 40 menit. Paling cepat jam berapa Rani bisa tidur?",
+        "target": "pukul 23:00"
+    },
+    {
+        "input": "Hana dan ibunya ingin pergi ke luar. Sebelumnya, mereka harus: sapu lantai 5 menit, mesin cuci otomatis 20 menit, bereskan kamar 10 menit, cuci muka dan sisir 8 menit, pel lantai 8 menit. Berapa menit paling cepat mereka bisa pergi?",
+        "target": "31 menit"
+    },
+    {
+        "input": "Linda akan mengunjungi nenek. Sebelumnya, dia perlu 20 menit untuk merapikan kamarnya, 30 menit untuk mencuci pakaiannya di mesin cuci otomatis, 20 menit untuk memasak, dan 5 menit untuk mengemas makanan, berapa menit paling cepat sebelum dia bisa berangkat?",
+        "target": "45 menit"
+    },
+    {
+        "input": "Jika Dodi punya 10 jam, dengan 5 jam untuk PR, 2 jam main game, 1 jam masak, 1 jam makan. Maka berapa jam maksimal yang tersisa untuk waktu luangnya?",
+        "target": "1 jam"
+    },
+    {
+        "input": "Jika Nana punya 8 jam hari Jumat, dan ia gunakan 3 jam untuk PR, 1 jam dengar musik, 1 jam masak. Maka berapa jam maksimal yang tersisa untuk waktu luangnya?",
+        "target": "4 jam"
+    },
+    {
+        "input": "Dina ingin menyambut tamu: rebus air 10 menit, seduh teh 5 menit, ambil camilan 5 menit, tata camilan 10 menit. Berapa menit paling sedikit yang dibutuhkan untuk menyelesaikan semuanya?",
+        "target": "20 menit"
+    },
+    {
+        "input": "Ardi perlu menjadwalkan waktu untuk melakukan hal-hal berikut: 3 menit untuk bangun dan merapikan tempat tidur, 3 menit untuk mengemas tasnya, 10 menit untuk mandi, dan 8 menit untuk mendengarkan rekaman bahasa Inggris. Jika bangun pukul 6:00, jam berapa ia paling cepat ia menyelesaikan semua ini?",
+        "target": "pukul 06:16"
+    },
+    {
+        "input": "Pada akhir pekan Rani ingin membantu ibunya melakukan hal-hal berikut: mencuci pakaian dengan mesin cuci otomatis 20 menit, sapu 6 menit, lap meja 10 menit, jemur pakaian 5 menit. Dengan penjadwalan yang tepat, berapa menit paling sedikit yang dibutuhkan untuk menyelesaikan semua tugas ini?",
+        "target": "25 menit"
+    },
+    {
+        "input": "Ketika Budi bangun di pagi hari, Dia membutuhkan waktu 3 menit untuk menyikat gigi dan mencuci muka, 8 menit untuk merapikan kamar, 5 menit untuk sarapan, dan 13 menit untuk mendengarkan pelajaran bahasa Inggris.  Berapa menit paling sedikit yang dibutuhkan Budi untuk menyelesaikan semuanya?",
+        "target": "16 menit"
+    },
+    {
+        "input": "Keluarga Fifi melakukan dua hal setiap pagi: pertama merebus susu dan yang kedua mencuci 3 botol susu.  Diketahui merebus susu butuh 10 menit, sedangkan mencuci satu botol susu butuh 3 menit. Berapa menit paling cepat yang dibutuhkan agar keluarga Fifi bisa meminum susu?",
+        "target": "10 menit"
+    },
+    {
+        "input": "Teman-teman sekelas Dina datang mengunjunginya dan Dina harus menyiapkan sesuatu untuk menghibur teman-teman sekelasnya. Dia membutuhkan 3 menit untuk menyiapkan camilan, 5 menit untuk merebus air, 2 menit untuk mencari gelas, 1 menit untuk mencuci gelas (tanpa air panas), dan 1 menit untuk menyeduh teh. Berapa menit paling cepat Dina dapat menyajikan teh kepada teman-temannya?",
+        "target": "6 menit"
+    },
+    {
+        "input": "Saat berada di rumah, Nisa membantu ibunya melakukan pekerjaan rumah: menyapu lantai selama 5 menit, mencuci pakaian di mesin cuci selama 40 menit, melipat selimut selama 3 menit, dan menjemur pakaian selama 5 menit.berapa menit paling sedikit yang dibutuhkan untuk menyelesaikan semuanya?",
+        "target": "45 menit"
+    },
+    {
+        "input": "Rika sedang flu dan memutuskan untuk segera beristirahat setelah minum obat. Dia butuh 1 menit untuk mencari gelas, 6 menit menunggu air panas menjadi hangat, 1 menit mencari obat flu, dan 5 menit untuk mengukur suhu tubuh. Dengan penjadwalan yang tepat, berapa menit paling sedikit waktu yang diperlukan?",
+        "target": "7 menit"
+    },
+    {
+        "input": "Saat Ica bangun di pagi hari, dia membutuhkan waktu 3 menit untuk menanak nasi, 20 menit untuk menanak nasi dan memasak dengan penanak nasi, 10 menit untuk menghafalkan kosakata bahasa Inggris, 5 menit untuk menyikat gigi dan mencuci muka, dan 9 menit untuk sarapan.Berapa menit paling setikit yang dibutuhkan untuk menyelesaikan semua ini?",
+        "target": "32 menit"
+    },
+    {
+        "input": "Pada hari Minggu, Luffy menghabiskan 40 menit untuk membantu ayahnya memanggang sayuran di oven, 15 menit untuk mengerjakan PR Bahasa Indonesia, dan 10 menit untuk mengerjakan PR matematika, berapa menit paling sedikit yang dibutuhkan untuk menyelesaikan semuanya?",
+        "target": "40 menit"
+    },
+    {
+        "input": "Pagi-pagi, Aldi menghabiskan 8 menit untuk mencuci muka, menggosok gigi, dan melipat selimut, 6 menit untuk senam, 2 menit untuk mencuci gelas (tanpa air panas) serta mengambil susu bubuk, dan 15 menit untuk merebus air. Jika Aldi ingin secepat mungkin minum susu, berapa menit paling cepat yang dibutuhkan untuk menyelesaikan semua hal tersebut?",
+        "target": "16 menit"
+    },
+    {
+        "input": "Pukul 06:00 pagi, Rina harus: lipat selimut 3 menit, cuci muka 8 menit, baca bahasa asing 26 menit, sarapan 10 menit, cuci piring dan meja 9 menit, dengar radio 30 menit. Kapan waktu paling awal dia bisa menyelesaikan semuanya?",
+        "target": "pukul 06:56"
+    },
+    {
+        "input": "Jika Fika punya 10 jam di akhir pekan: 1 jam PR Matematika, 1 jam dengar musik, 1 jam PR Bahasa Indonesia, 1 jam masak. Maka berapa jam maksimal yang tersisa untuk waktu luangnya?",
+        "target": "7 jam"
+    },
+    {
+        "input": "Dani, Rudi, dan Wulan datang bersamaan ke UKS, dan hanya ada satu dokter yang harus melayani mereka satu per satu. Dani disuntik 10 menit, Rudi konsultasi 12 menit, Wulan disuntik 15 menit. Urutan mana yang membuat total waktu tunggu ketiga orang masing-masing tersebut paling minimal?",
+        "target": "Dani-Rudi-Wulan"
+    },
+    {
+        "input": "Jika Nana punya 12 jam di hari Jumat, dan dia menggunakan 2 jam untuk beres-beres rumah, 1 jam dengar drama radio, 2 jam masak nasi claypot, 1 jam main game. Maka berapa jam maksimal yang tersisa untuk waktu luangnya?",
+        "target": "7 jam"
+    },
+    {
+        "input": "A, B dan C masing-masing pesan satu hidangan. Hanya ada satu koki. Hidangan A membutuhkan 10 menit, hidangan B membutuhkan 8 menit, hidangan C membutuhkan 12 menit. Urutan pengerjaan mana yang membuat total waktu tunggu ketiganya masing-masing paling sedikit?",
+        "target": "B-A-C"
+    },
+    {
+        "input": "Sebuah klinik kecil hanya menugaskan satu dokter untuk jaga pada akhir pekan, dan dokter tersebut hanya dapat menangani satu pasien dalam satu waktu. Rani membutuhkan 4 menit untuk suntikan, Rudi membutuhkan 2 menit untuk mengambil resep obat, dan Gio membutuhkan 25 menit untuk mengganti perban. Dengan penjadwalan yang tepat, Berapa menit jumlah total waktu tunggu ketiga orang masing-masing tersebut untuk dokter yang paling sedikit?",
+        "target": "8 menit"
+    },
+    {
+        "input": "Satu wajan pipih bisa memanggang dua roti canai sekaligus. Setiap sisi dipanggang 3 menit. Berapa menit paling sedikit untuk memanggang 5 roti canai?",
+        "target": "15 menit"
+    },
+    {
+        "input": "Tiga orang, A, B dan C, datang bersamaan ke sebuah keran air. A butuh 15 menit untuk mencuci seprai, B butuh 10 menit untuk mencuci pakaian, dan C butuh 2 menit untuk mengisi air ke dalam ember. Bagaimana sebaiknya urutan penggunaan keran diatur agar waktu menunggu total paling sedikit?",
+        "target": "C-B-A"
+    },
+    {
+        "input": "Pada pagi hari, Lili perlu mencuci pakaian dengan mesin cuci otomatis selama 20 menit, menyiram bunga selama 10 menit, mendengarkan siaran radio selama 10 menit, menyiapkan sarapan selama 30 menit, dan merapikan pakaian selama 30 menit di pagi hari. Jika semua kegiatan diatur secara efisien, berapa menit paling sedikit yang dibutuhkan Lili untuk menyelesaikan semuanya?",
+        "target": "70 menit"
+    },
+    {
+        "input": "Rina, Sari, dan Budi pergi ke arena seluncur es dan meminjam satu set peralatan yang sama (menggunakannya secara bergiliran). Rina menggunakannya selama 1 hari, Sari selama 2 hari, dan Budi selama setengah hari. Urutan penggunaan seperti apa yang meminimalkan total waktu tunggu mereka?",
+        "target": "Budi-Rina-Sari"
+    },
+    {
+        "input": "Tiga penggemar skateboard akan menggunakan lintasan skateboard yang sama secara bergantian. A membutuhkan 20 menit, B membutuhkan 30 menit, dan C membutuhkan 12 menit. Bagaimana mengatur urutan agar total waktu tunggu ketiga orang tersebut paling minimal?",
+        "target": "C-A-B"
+    },
+    {
+        "input": "Lusia tidak masuk sekolah pada hari Minggu dan ingin membantu ibunya mengerjakan beberapa pekerjaan rumah. membersihkan rumah 30 menit, pel lantai 30 menit, mesin cuci otomatis 1 jam, cuci tangan 30 menit, jemur baju 10 menit. Berapa menit paling cepat yang dibutuhkan untuk menyelesaikan semua hal tersebut?",
+        "target": "100 menit"
+    },
+    {
+        "input": "Tiga aktor sedang menunggu giliran audisi. Aktor A membutuhkan 12 menit untuk audisi, B membutuhkan 18 menit, dan C membutuhkan 22 menit. Urutan mana yang membuat total waktu tunggu ketiga orang tersebut paling minimal?",
+        "target": "A-B-C"
+    },
+    {
+        "input": "Dani bantu nenek: rebus air 10 menit, dengar musik 30 menit, mesin cuci 60 menit, masak 30 menit. Berapa menit paling sedikit yang dibutuhkan untuk menyelesaikan semua hal tersebut?",
+        "target": "60 menit"
+    },
+    {
+        "input": "pada pagi hari ini Yuni bangun dan harus melakukan beberapa hal berikut: sarapan 8 menit, merapikan tas 2 menit, dengar radio 10 menit. Berapa menit paling sedikit yang dibutuhkan untuk menyelesaikannya?",
+        "target": "10 menit"
+    },
+    {
+        "input": "Pada pagi hari ini Nina bangun dan mencuci muka 10 menit, baca pagi 10 menit, rebus air 10 menit, seduh susu 5 menit, sarapan 5 menit. Berapa menit paling sedikit setelah bangun tidur Nina dapat berangkat sekolah?",
+        "target": "30 menit"
+    }
+]

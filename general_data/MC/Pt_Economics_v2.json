@@ -1,0 +1,2072 @@
+[
+    {
+        "input": "Se os custos médios de longo prazo em um setor perfeitamente competitivo estão aumentando, qual é a curva de oferta para esse setor?\nA. Horizontal\nB. Inclinado para cima à direita\nC. Inclinado para cima à esquerda\nD. Vertical",
+        "target_scores": {
+            "A. Horizontal": 0,
+            "B. Inclinado para cima à direita": 1,
+            "C. Inclinado para cima à esquerda": 0,
+            "D. Vertical": 0
+        }
+    },
+    {
+        "input": "Qual das alternativas a seguir pode ser esperada no médio prazo se o governo aumentar sua gastos com compras em face de uma redução na oferta nominal de moeda?\nA. A curva AD se deslocará para a direita e a curva AS se deslocará para cima\nB. A demanda agregada e as taxas de juro cairão e os preços aumentarão\nC. A demanda agregada e os preços cairão e as taxas de juro aumentarão\nD. As taxas de juros aumentarão, a demanda agregada e os preços poderão aumentar, cair ou permanecer os mesmos",
+        "target_scores": {
+            "A. A curva AD se deslocará para a direita e a curva AS se deslocará para cima": 0,
+            "B. A demanda agregada e as taxas de juro cairão e os preços aumentarão": 0,
+            "C. A demanda agregada e os preços cairão e as taxas de juro aumentarão": 0,
+            "D. As taxas de juros aumentarão, a demanda agregada e os preços poderão aumentar, cair ou permanecer os mesmos": 1
+        }
+    },
+    {
+        "input": "Em condições de concorrência perfeita, o que acontece com o lucro se o fornecedor ajustar a produção para o nível correspondente ao ponto mais baixo da curva de custo médio?\nA. Deve ser uma perda\nB. Falha na maximização do lucro\nC. Não é certo se atingirá o lucro máximo\nD. O lucro máximo será obtido",
+        "target_scores": {
+            "A. Deve ser uma perda": 0,
+            "B. Falha na maximização do lucro": 0,
+            "C. Não é certo se atingirá o lucro máximo": 1,
+            "D. O lucro máximo será obtido": 0
+        }
+    },
+    {
+        "input": "Considere o problema que um fornecedor enfrenta quando observa um aumento no preço do produto que produz e, se o fornecedor planeja reorganizar sua programação de produção com base em uma das seguintes expectativas, em qual das seguintes circunstâncias o fornecedor não fará quase nenhum ajuste na quantidade fornecida.\nA. Espera-se que os salários que ele paga e os preços dos insumos aumentem em breve na mesma proporção que o preço do produto\nB. Espera-se que os salários que ele paga e os preços dos insumos aumentem na mesma proporção que o preço do produto, mas isso levará vários anos\nC. Espera-se que os salários que ele paga e os preços dos insumos continuem a aumentar, mas não em um valor regular\nD. Espera-se que os salários que paga e os preços dos seus insumos não aumentem mais.",
+        "target_scores": {
+            "A. Espera-se que os salários que ele paga e os preços dos insumos aumentem em breve na mesma proporção que o preço do produto": 1,
+            "B. Espera-se que os salários que ele paga e os preços dos insumos aumentem na mesma proporção que o preço do produto, mas isso levará vários anos": 0,
+            "C. Espera-se que os salários que ele paga e os preços dos insumos continuem a aumentar, mas não em um valor regular": 0,
+            "D. Espera-se que os salários que paga e os preços dos seus insumos não aumentem mais.": 0
+        }
+    },
+    {
+        "input": "Considere o seguinte cenário: a economia está em pleno emprego e a inclinação da curva de oferta agregada é positiva, Se o governo aumentar a taxa de imposto, qual dos seguintes efeitos ocorrerá?\nA. A produção real cai, mas não afeta o nível de preços\nB. O nível de preços cai, mas não afeta a produção real\nC. Os salários nominais e reais caem\nD. Tanto o nível de preços como a produção real caem",
+        "target_scores": {
+            "A. A produção real cai, mas não afeta o nível de preços": 0,
+            "B. O nível de preços cai, mas não afeta a produção real": 0,
+            "C. Os salários nominais e reais caem": 0,
+            "D. Tanto o nível de preços como a produção real caem": 1
+        }
+    },
+    {
+        "input": "Você é um especialista em economia no país A. Sabe-se que a economia satisfaz o equilíbrio de longo prazo.No entanto, em um período de tempo relativamente curto, ocorreu uma série de mudanças, como uma quebra no mercado de ações, uma diminuição na receita tributária, um aumento na oferta de moeda e uma desvalorização da moeda local. Por favor, julgue qual das expectativas está correta?\nA. Tanto o nível de preços como o PIB real aumentarão\nB. Tanto o nível de preços como o PIB real cairão\nC. Tanto o nível de preços quanto o PIB real permanecerão os mesmos\nD. Todas as opções acima são possíveis.",
+        "target_scores": {
+            "A. Tanto o nível de preços como o PIB real aumentarão": 0,
+            "B. Tanto o nível de preços como o PIB real cairão": 0,
+            "C. Tanto o nível de preços quanto o PIB real permanecerão os mesmos": 0,
+            "D. Todas as opções acima são possíveis.": 1
+        }
+    },
+    {
+        "input": "Qual dos seguintes aumentos aumentará simultaneamente a demanda nominal por moeda, sem considerar outros fatores?\nA. Eficiência dos métodos de pagamento\nB. Risco de ativos monetários\nC. Taxa de juros nominal de moeda\nD. Taxa de juros real",
+        "target_scores": {
+            "A. Eficiência dos métodos de pagamento": 0,
+            "B. Risco de ativos monetários": 0,
+            "C. Taxa de juros nominal de moeda": 1,
+            "D. Taxa de juros real": 0
+        }
+    },
+    {
+        "input": "Sabe-se que um determinado fornecedor é um monopólio e tem uma função de demanda linear. Então, quando a receita total aumenta, como o benefício marginal mudará?\nA. A receita marginal é negativa\nB. A receita marginal é positiva e crescente\nC. A receita marginal é positiva e decrescente\nD. A receita marginal é zero",
+        "target_scores": {
+            "A. A receita marginal é negativa": 0,
+            "B. A receita marginal é positiva e crescente": 0,
+            "C. A receita marginal é positiva e decrescente": 1,
+            "D. A receita marginal é zero": 0
+        }
+    },
+    {
+        "input": "Quais resultados o progresso tecnológico levará para a curva SAS e a curva LAS?\nA. A curva LAS desloca-se para a direita, mas a curva SAS permanece inalterada\nB. A curva SAS desloca-se para a direita, mas a curva LAS permanece inalterada\nC. Tanto a curva SAS quanto a curva LAS se deslocam para a direita\nD. Tanto a curva SAS quanto a curva LAS se deslocam para a esquerda",
+        "target_scores": {
+            "A. A curva LAS desloca-se para a direita, mas a curva SAS permanece inalterada": 0,
+            "B. A curva SAS desloca-se para a direita, mas a curva LAS permanece inalterada": 0,
+            "C. Tanto a curva SAS quanto a curva LAS se deslocam para a direita": 1,
+            "D. Tanto a curva SAS quanto a curva LAS se deslocam para a esquerda": 0
+        }
+    },
+    {
+        "input": "Em dois mercados segmentados, um fornecedor monopolista perfeito pode implementar preços diferenciados se tiver a mesma curva de demanda?  \nA. Nenhuma das conclusões acima está correta\nB. Não é possível implementar preços diferenciados\nC. Pode e não pode implementar preços diferenciados\nD. É possível implementar preços diferenciados",
+        "target_scores": {
+            "A. Nenhuma das conclusões acima está correta": 1,
+            "B. Não é possível implementar preços diferenciados": 0,
+            "C. Pode e não pode implementar preços diferenciados": 0,
+            "D. É possível implementar preços diferenciados": 0
+        }
+    },
+    {
+        "input": "Escolha um dos quatro cenários a seguir em que a produção, os preços e o emprego estão aumentando, sabendo que a curva de oferta agregada não é vertical.\nA. Para equilibrar o orçamento, o governo aumenta as taxas de impostos\nB. Para equilibrar o orçamento, o governo corta os gastos\nC. Um determinado imposto de importação faz com que as pessoas comprem carros nacionais em vez de importados\nD. Um novo programa de redução de impostos leva os consumidores a aumentar suas poupanças",
+        "target_scores": {
+            "A. Para equilibrar o orçamento, o governo aumenta as taxas de impostos": 0,
+            "B. Para equilibrar o orçamento, o governo corta os gastos": 0,
+            "C. Um determinado imposto de importação faz com que as pessoas comprem carros nacionais em vez de importados": 1,
+            "D. Um novo programa de redução de impostos leva os consumidores a aumentar suas poupanças": 0
+        }
+    },
+    {
+        "input": "Supondo que o preço de mercado permaneça abaixo do custo médio de longo prazo do monopolista, em qual das seguintes descrições o fornecedor se enquadraria?\nA. As atividades serão suspensas.\nB. Mantém-se nesse nível de operação mesmo que seus custos fixos não sejam reembolsados.\nC. Os negócios serão encerrados e ativos serão liquidados.\nD. Permanece nesse nível de operação porque permite que o capital receba um retorno normalizado.",
+        "target_scores": {
+            "A. As atividades serão suspensas.": 0,
+            "B. Mantém-se nesse nível de operação mesmo que seus custos fixos não sejam reembolsados.": 0,
+            "C. Os negócios serão encerrados e ativos serão liquidados.": 1,
+            "D. Permanece nesse nível de operação porque permite que o capital receba um retorno normalizado.": 0
+        }
+    },
+    {
+        "input": "Escolha a qual teorema económico pertence a seguinte afirmação: \"O equilíbrio geral de um mercado perfeitamente competitivo é ótimo de Pareto\"\nA. O Primeiro Teorema da Economia do Bem-Estar\nB. O Quarto Teorema da Economia do Bem-Estar\nC. O Segundo Teorema da Economia do Bem-Estar\nD. O Terceiro Teorema da Economia do Bem-Estar",
+        "target_scores": {
+            "A. O Primeiro Teorema da Economia do Bem-Estar": 1,
+            "B. O Quarto Teorema da Economia do Bem-Estar": 0,
+            "C. O Segundo Teorema da Economia do Bem-Estar": 0,
+            "D. O Terceiro Teorema da Economia do Bem-Estar": 0
+        }
+    },
+    {
+        "input": "Qual dos seguintes fatores pode fazer com que a curva de oferta agregada se incline para cima e para a direita?\nA. Governo expande construção de infraestrutura\nB. O governo implementa política de subsídios ao investimento\nC. Quando todos os preços dos produtos aumentam, os fornecedores reconhecem que os preços relativos de seus produtos não mudaam.\nD. Rigidez salarial",
+        "target_scores": {
+            "A. Governo expande construção de infraestrutura": 0,
+            "B. O governo implementa política de subsídios ao investimento": 0,
+            "C. Quando todos os preços dos produtos aumentam, os fornecedores reconhecem que os preços relativos de seus produtos não mudaam.": 0,
+            "D. Rigidez salarial": 1
+        }
+    },
+    {
+        "input": "Se o preço dos carros aumenta no mercado de carros usados, que efeito isso tem na qualidade média dos carros pronto para venda?\nA. Aumentada\nB. Indeterminado\nC. Reduzida\nD. Sem alteração",
+        "target_scores": {
+            "A. Aumentada": 1,
+            "B. Indeterminado": 0,
+            "C. Reduzida": 0,
+            "D. Sem alteração": 0
+        }
+    },
+    {
+        "input": "Para implementar preços diferenciados de forma eficaz, todas as condições, exceto qual das seguintes, devem ser atendidas?\nA. Capacidade de segmentar o mercado\nB. Diferentes elasticidades de preço da demanda em cada submercado\nC. Manutenção da segmentação do mercado para evitar que os produtos sejam revendidos pelos clientes durante períodos de demanda mais elástica\nD. Uma grande demanda agregada inelástica",
+        "target_scores": {
+            "A. Capacidade de segmentar o mercado": 0,
+            "B. Diferentes elasticidades de preço da demanda em cada submercado": 0,
+            "C. Manutenção da segmentação do mercado para evitar que os produtos sejam revendidos pelos clientes durante períodos de demanda mais elástica": 0,
+            "D. Uma grande demanda agregada inelástica": 1
+        }
+    },
+    {
+        "input": "Sob a condição de que o mercado seja um mercado  de monopólio perfeito, se o preço no mercado A for menor que o preço no mercado B, qual das seguintes afirmações está correta?\nA. A elasticidade da demanda do mercado B é maior que a do mercado A.\nB. A elasticidade da demanda do mercado B é menor que a do mercado A.\nC. A elasticidade da demanda em ambos os mercados é igual\nD. Todas as opções acima estão corretas",
+        "target_scores": {
+            "A. A elasticidade da demanda do mercado B é maior que a do mercado A.": 0,
+            "B. A elasticidade da demanda do mercado B é menor que a do mercado A.": 1,
+            "C. A elasticidade da demanda em ambos os mercados é igual": 0,
+            "D. Todas as opções acima estão corretas": 0
+        }
+    },
+    {
+        "input": "Supondo que a curva de Phillips de uma economia seja $\\pi=\\pi_{-1}-0.5\\quad\\mathrm{(u-0.08)}$, qual é a taxa natural de desemprego un?\nA. 0,06\nB. 0,08\nC. 0,1\nD. 0,12",
+        "target_scores": {
+            "A. 0,06": 0,
+            "B. 0,08": 1,
+            "C. 0,1": 0,
+            "D. 0,12": 0
+        }
+    },
+    {
+        "input": "A curva de demanda pessoal para um certo produto é derivada. portanto, as mudanças na curva de demanda pessoal serão causadas por mudanças em todos os fatores a seguir, EXCETO em qual deles?\nA. O preço de produto em consideração\nB. Os preços de outros produtos\nC. Preferência pessoal\nD. Renda pessoal",
+        "target_scores": {
+            "A. O preço de produto em consideração": 1,
+            "B. Os preços de outros produtos": 0,
+            "C. Preferência pessoal": 0,
+            "D. Renda pessoal": 0
+        }
+    },
+    {
+        "input": "Se ocorrer um aumento no preço de um produto em um mercado, qual é a relação entre a quantidade de mudança na demanda e o efeito de substituição?\nA. O primeiro pode ser maior ou menor que o último.\nB. O primeiro é maior que o último\nC. O primeiro é menor que o último\nD. O primeiro é tão grande quanto o último",
+        "target_scores": {
+            "A. O primeiro pode ser maior ou menor que o último.": 1,
+            "B. O primeiro é maior que o último": 0,
+            "C. O primeiro é menor que o último": 0,
+            "D. O primeiro é tão grande quanto o último": 0
+        }
+    },
+    {
+        "input": "Você é um especialista em economia e seu governo quer aumentar a receita fiscal e pretende adotar a estratégia de tributar os vendedores com base no volume de vendas. Que condições devem existir para atingir o objetivo de que a carga tributária recaia inteiramente sobre os compradores, com o menor impacto possível sobre o volume de transações? \nA. A elasticidade-preço da demanda e da oferta são ambas elasticidades unitárias\nB. A elasticidade-preço da demanda e da oferta é maior que zero e menor que infinito\nC. A elasticidade-preço da demanda é maior que zero e menor que infinito, e a elasticidade-preço da oferta é zero\nD. A elasticidade-preço da demanda é zero, e a elasticidade-preço da oferta é maior que zero e menor que infinito.",
+        "target_scores": {
+            "A. A elasticidade-preço da demanda e da oferta são ambas elasticidades unitárias": 0,
+            "B. A elasticidade-preço da demanda e da oferta é maior que zero e menor que infinito": 0,
+            "C. A elasticidade-preço da demanda é maior que zero e menor que infinito, e a elasticidade-preço da oferta é zero": 0,
+            "D. A elasticidade-preço da demanda é zero, e a elasticidade-preço da oferta é maior que zero e menor que infinito.": 1
+        }
+    },
+    {
+        "input": "Os resultados representados pelo multiplicador simples são frequentemente maiores do que o efeito real da política fiscal. Isso ocorre principalmente porque o multiplicador simples se conforma a qual das seguintes opções?\nA. Nenhuma consideração do fator tempo\nB. Não considera o impacto dos fatores do mercado internacional no mercado interno\nC. Não leva em consideração fatores monetários e de preço\nD. O papel da política monetária não é considerado",
+        "target_scores": {
+            "A. Nenhuma consideração do fator tempo": 0,
+            "B. Não considera o impacto dos fatores do mercado internacional no mercado interno": 0,
+            "C. Não leva em consideração fatores monetários e de preço": 1,
+            "D. O papel da política monetária não é considerado": 0
+        }
+    },
+    {
+        "input": "A forma da curva de preço-consumo de dois produtos será inclinada para cima à direita quando os dois produtos estão em qual das seguintes relações?\nA. Produtos alternativos\nB. Produtos complementares\nC. Produtos inferiores\nD. Produtos normais",
+        "target_scores": {
+            "A. Produtos alternativos": 0,
+            "B. Produtos complementares": 1,
+            "C. Produtos inferiores": 0,
+            "D. Produtos normais": 0
+        }
+    },
+    {
+        "input": "Quando a elasticidade-preço da oferta em um mercado de produto é qual das seguintes, a curva de oferta será uma linha reta passando pela origem?\nA. Sempre é 1\nB. Varia com o preço\nC. É incerta\nD. É o valor de sua inclinação",
+        "target_scores": {
+            "A. Sempre é 1": 1,
+            "B. Varia com o preço": 0,
+            "C. É incerta": 0,
+            "D. É o valor de sua inclinação": 0
+        }
+    },
+    {
+        "input": "Qual das seguintes afirmações é falsa em relação às condições necessárias para que os multiplicadores funcionem?\nA. Quanto maior for o excesso de capacidade de produção da sociedade e quanto mais recursos ociosos houver, menor será o efeito do multiplicador.\nB. Se a oferta de moeda não acomodar o aumento nos gastos, o multiplicador é menos eficaz \nC. Se a renda adicional for usada para comprar uma grande quantidade de bens e serviços importados,o multiplicador é menos eficaz \nD. Se o aumento da demanda por investimentos causar um aumento acentuado nas taxas de juros, o multiplicador terá menos efeito.",
+        "target_scores": {
+            "A. Quanto maior for o excesso de capacidade de produção da sociedade e quanto mais recursos ociosos houver, menor será o efeito do multiplicador.": 1,
+            "B. Se a oferta de moeda não acomodar o aumento nos gastos, o multiplicador é menos eficaz ": 0,
+            "C. Se a renda adicional for usada para comprar uma grande quantidade de bens e serviços importados,o multiplicador é menos eficaz ": 0,
+            "D. Se o aumento da demanda por investimentos causar um aumento acentuado nas taxas de juros, o multiplicador terá menos efeito.": 0
+        }
+    },
+    {
+        "input": "Dois ciclistas estão viajando em direções opostas em uma ponte estreita. Cada um tem duas estratégias: optar por \"avançar\" ou \"evitar\" . Se optar por evitar\", seu ganho será zero, independentemente da estratégia do outro. Se um deles adota a estratégia de \" avançar \" e se a outra parte adota a estratégia de \"evitar\", então o ganho que ele obtém é 9; se a outra parte não evita, então o ganho que ele obtém é -36. Este jogo tem dois equilíbrios de Nash de estratégia pura e qual das seguintes situações? \nA. Dois equilíbrios de Nash de estratégia mista, ou seja, cada jovem se reveza para evitar ou avançar rapidamente\nB. Um equilíbrio de Nash de estratégia mista, em que ambos os jogadores escolhem \"evitar\" com 80% de probabilidade e \"avançar\" com 20% de probabilidade.\nC. Um equilíbrio de Nash de estratégia mista, em que ambos os jogadores escolhem \"evitar\" com uma probabilidade de 40% e \"avançar\" com uma probabilidade de 60%.\nD. Um equilíbrio de Nash de estratégia mista, em que uma pessoa escolhe \"evitar\" com 80% de probabilidade e a outra escolhe \"avançar\" com 20% de probabilidade",
+        "target_scores": {
+            "A. Dois equilíbrios de Nash de estratégia mista, ou seja, cada jovem se reveza para evitar ou avançar rapidamente": 0,
+            "B. Um equilíbrio de Nash de estratégia mista, em que ambos os jogadores escolhem \"evitar\" com 80% de probabilidade e \"avançar\" com 20% de probabilidade.": 1,
+            "C. Um equilíbrio de Nash de estratégia mista, em que ambos os jogadores escolhem \"evitar\" com uma probabilidade de 40% e \"avançar\" com uma probabilidade de 60%.": 0,
+            "D. Um equilíbrio de Nash de estratégia mista, em que uma pessoa escolhe \"evitar\" com 80% de probabilidade e a outra escolhe \"avançar\" com 20% de probabilidade": 0
+        }
+    },
+    {
+        "input": "Qual é a descrição correta do que os pontos na isoquanta representam?\nA. As produções são sempre desiguais, independentemente da quantidade dos vários fatores de entrada\nB. As proporções de várias combinações de fatores de entrada para produzir o mesmo resultado não podem ser alteradas\nC. Os preços dos fatores de entrada são constantes para produzir a mesma quantidade de produtos\nD. Todas as combinações de fatores de entrada produzem resultados iguais",
+        "target_scores": {
+            "A. As produções são sempre desiguais, independentemente da quantidade dos vários fatores de entrada": 0,
+            "B. As proporções de várias combinações de fatores de entrada para produzir o mesmo resultado não podem ser alteradas": 0,
+            "C. Os preços dos fatores de entrada são constantes para produzir a mesma quantidade de produtos": 0,
+            "D. Todas as combinações de fatores de entrada produzem resultados iguais": 1
+        }
+    },
+    {
+        "input": "Suponha o seguinte cenário: Em um determinado mercado, a Empresa A é um fornecedor monopolista com um lucro de 1 milhão de reais. A empresa B também quer entrar no mercado. Se a empresa B escolher entrar, a empresa A pode escolher acomodá-la ou obstruí-la. Se for acomodada, tanto a empresa A quanto a B podem lucrar 500 mil reais. Se for obstruída, ambas as empresas perderão 500 mil reais. Se a empresa B não entrar, não haverá benefícios. Qual é a solução de equilíbrio para este jogo?\nA. A empresa B entra e a empresa A aceita\nB. A empresa B entra, a empresa A obstrui\nC. A empresa B não entra, a empresa A aceita\nD. A empresa B não entra, a empresa A obstrui",
+        "target_scores": {
+            "A. A empresa B entra e a empresa A aceita": 1,
+            "B. A empresa B entra, a empresa A obstrui": 0,
+            "C. A empresa B não entra, a empresa A aceita": 0,
+            "D. A empresa B não entra, a empresa A obstrui": 0
+        }
+    },
+    {
+        "input": "Se a curva LM se desloca para a direita devido a um aumento na oferta de moeda, qual das seguintes situações deve ser atendida para que a mudança na renda de equilíbrio seja próxima ao deslocamento da curva LM?\nA. A curva LM é plana e a curva IS é íngreme\nB. A curva LM é plana, e a curva IS também é plana.\nC. A curva LM é íngreme e a curva IS é plana\nD. A curva LM é íngreme, e a curva IS também é íngreme.",
+        "target_scores": {
+            "A. A curva LM é plana e a curva IS é íngreme": 0,
+            "B. A curva LM é plana, e a curva IS também é plana.": 0,
+            "C. A curva LM é íngreme e a curva IS é plana": 1,
+            "D. A curva LM é íngreme, e a curva IS também é íngreme.": 0
+        }
+    },
+    {
+        "input": "Selecione a opção correta dentro as quatro afirmações a seguir\nA. A despesa de depreciação para compensar a perda intangível do capital fixo é um custo fixo\nB. Os custos totais podem ser divididos em custos fixos e variáveis em um longo período de tempo\nC. Os juros pagos no empréstimo são um custo variável\nD. Os juros sobre o investimento em instalações e equipamentos são um custo variável",
+        "target_scores": {
+            "A. A despesa de depreciação para compensar a perda intangível do capital fixo é um custo fixo": 1,
+            "B. Os custos totais podem ser divididos em custos fixos e variáveis em um longo período de tempo": 0,
+            "C. Os juros pagos no empréstimo são um custo variável": 0,
+            "D. Os juros sobre o investimento em instalações e equipamentos são um custo variável": 0
+        }
+    },
+    {
+        "input": "Em qual das seguintes situações o excedente do consumidor é igual a zero?\nA. A elasticidade da demanda é maior que 1\nB. A elasticidade da demanda é menor que 1\nC. A primeira unidade de produto adquirida\nD. A última unidade de produto adquirida",
+        "target_scores": {
+            "A. A elasticidade da demanda é maior que 1": 0,
+            "B. A elasticidade da demanda é menor que 1": 0,
+            "C. A primeira unidade de produto adquirida": 0,
+            "D. A última unidade de produto adquirida": 1
+        }
+    },
+    {
+        "input": "Sabe-se que existe uma empresa A, que tem uma tecnologia a longo prazo com retornos constantes de escala, qual das opções a seguir não está correta?\nA. A curva de oferta de longo prazo de uma empresa perfeitamente competitiva é a curva de custo marginal de longo prazo acima da curva de custo médio de longo prazo.\nB. A curva de oferta de longo prazo de uma empresa perfeitamente competitiva é uma linha horizontal\nC. A função de custo é linear\nD. A função de produção é linear",
+        "target_scores": {
+            "A. A curva de oferta de longo prazo de uma empresa perfeitamente competitiva é a curva de custo marginal de longo prazo acima da curva de custo médio de longo prazo.": 1,
+            "B. A curva de oferta de longo prazo de uma empresa perfeitamente competitiva é uma linha horizontal": 0,
+            "C. A função de custo é linear": 0,
+            "D. A função de produção é linear": 0
+        }
+    },
+    {
+        "input": "Sabe-se que há um produtor cuja situação satisfaz o requisito de que o produtor atinja, no curto prazo, o custo médio mínimo em um certo nível de produção. Qual das seguintes opções está corretamente descrita?\nA. Custo marginal é igual a custo médio\nB. O lucro econômico do produtor é zero\nC. O produtor obtém o lucro máximo\nD. O produtor obtém o lucro mínimo",
+        "target_scores": {
+            "A. Custo marginal é igual a custo médio": 1,
+            "B. O lucro econômico do produtor é zero": 0,
+            "C. O produtor obtém o lucro máximo": 0,
+            "D. O produtor obtém o lucro mínimo": 0
+        }
+    },
+    {
+        "input": "Onde as curvas de custo variável médio e custo marginal se cruzam?\nA. Ponto de custo médio mínimo\nB. Ponto de encerramento de negócio\nC. Ponto de equilíbrio\nD. Ponto de equilíbrio das empresas",
+        "target_scores": {
+            "A. Ponto de custo médio mínimo": 0,
+            "B. Ponto de encerramento de negócio": 1,
+            "C. Ponto de equilíbrio": 0,
+            "D. Ponto de equilíbrio das empresas": 0
+        }
+    },
+    {
+        "input": "Existe uma curva de custo total (TC), no ponto em que outro raio que sai da origem é tangente a essa curva de custo total. Qual é uma afirmação incorreta sobre a produção tangente?\nA. $\\text{AC=MC}$\nB. A curva MC está em fase ascendente\nC. AC atinge o mínimo\nD. MC atinge o mínimo",
+        "target_scores": {
+            "A. $\\text{AC=MC}$": 0,
+            "B. A curva MC está em fase ascendente": 0,
+            "C. AC atinge o mínimo": 0,
+            "D. MC atinge o mínimo": 1
+        }
+    },
+    {
+        "input": "Qual das seguintes afirmações sobre equilíbrio perfeitamente competitivo e equilíbrio de Cournot está correta?\nA. No equilíbrio de Cournot, os lucros são mais elevados e a produção é mais baixa\nB. No equilíbrio de Cournot, tanto a produção como os lucros são elevados\nC. No equilíbrio perfeitamente competitivo, os lucros são mais elevados e a produção é mais baixa\nD. No equilíbrio perfeitamente competitivo, tanto a produção como os lucros são elevados",
+        "target_scores": {
+            "A. No equilíbrio de Cournot, os lucros são mais elevados e a produção é mais baixa": 1,
+            "B. No equilíbrio de Cournot, tanto a produção como os lucros são elevados": 0,
+            "C. No equilíbrio perfeitamente competitivo, os lucros são mais elevados e a produção é mais baixa": 0,
+            "D. No equilíbrio perfeitamente competitivo, tanto a produção como os lucros são elevados": 0
+        }
+    },
+    {
+        "input": "Ao analisar a economia de um país, verifica-se que o formato da curva de possibilidade de produção do país é convexo para fora. Por que isso acontece?\nA. Alguns recursos são mais adequados para serem alocados à produção de um produtos ou outro.\nB. Os mercados de diferentes produtos exigem diferentes combinações de trabalho e capital\nC. Os recursos são distribuídos igualmente para a produção de todos os produtos\nD. Os recursos são escassos, mas alguns recursos são mais escassos do que outros",
+        "target_scores": {
+            "A. Alguns recursos são mais adequados para serem alocados à produção de um produtos ou outro.": 1,
+            "B. Os mercados de diferentes produtos exigem diferentes combinações de trabalho e capital": 0,
+            "C. Os recursos são distribuídos igualmente para a produção de todos os produtos": 0,
+            "D. Os recursos são escassos, mas alguns recursos são mais escassos do que outros": 0
+        }
+    },
+    {
+        "input": "Sabe-se que uma determinada empresa A está em um mercado perfeitamente competitivo. Neste momento, a empresa quer fazer alguns ajustes. Dentro as seguintes variáveis, qual a empresa pode ajustar na tomada de decisão de curto prazo?\nA. Capital social inicial\nB. Produtividade marginal do trabalho\nC. Salário nominal\nD. Salário real",
+        "target_scores": {
+            "A. Capital social inicial": 0,
+            "B. Produtividade marginal do trabalho": 1,
+            "C. Salário nominal": 0,
+            "D. Salário real": 0
+        }
+    },
+    {
+        "input": "Você está estudando a distribuição de salários e renda e descobre que, embora a distribuição de salários seja em forma de sino e uniformemente distribuída, a distribuição de renda é distorcida. Selecione o motivo correto.\nA. A distribuição de talentos é desigual\nB. A distribuição de talentos é igual\nC. Pessoas com salários mais altos tendem a fornecer mais trabalho\nD. Pessoas com salários mais baixos tendem a fornecer menos trabalho",
+        "target_scores": {
+            "A. A distribuição de talentos é desigual": 0,
+            "B. A distribuição de talentos é igual": 0,
+            "C. Pessoas com salários mais altos tendem a fornecer mais trabalho": 1,
+            "D. Pessoas com salários mais baixos tendem a fornecer menos trabalho": 0
+        }
+    },
+    {
+        "input": "Para uma empresa perfeitamente competitiva, a curva de demanda que ela enfrenta também é?\nA. Curva de receita marginal\nB. Curva de receita média\nC. Curva de receita média e curva de receita marginal\nD. Curva de receita total",
+        "target_scores": {
+            "A. Curva de receita marginal": 0,
+            "B. Curva de receita média": 0,
+            "C. Curva de receita média e curva de receita marginal": 1,
+            "D. Curva de receita total": 0
+        }
+    },
+    {
+        "input": "A empresa A, uma empresa perfeitamente competitiva experimentou um \"ponto de interrupção\" no curto prazo. Por favor, responda em qual das seguintes situações isso ocorreu?\nA. Custo marginal é igual a custo médio\nB. Custo marginal é igual ao custo variável médio\nC. Custo médio é igual a custo variável médio\nD. Custo variável médio é igual a custo fixo médio",
+        "target_scores": {
+            "A. Custo marginal é igual a custo médio": 0,
+            "B. Custo marginal é igual ao custo variável médio": 1,
+            "C. Custo médio é igual a custo variável médio": 0,
+            "D. Custo variável médio é igual a custo fixo médio": 0
+        }
+    },
+    {
+        "input": "Atualmente, há dois produtos A e B no mercado. Se o coeficiente de elasticidade cruzada da demanda para esses dois produtos for -1,3, qual é a relação entre esses dois produtos?\nA. A e B são produtos complementares\nB. A e B são produtos inferiores\nC. A e B são produtos normais\nD. A e B são substitutos",
+        "target_scores": {
+            "A. A e B são produtos complementares": 1,
+            "B. A e B são produtos inferiores": 0,
+            "C. A e B são produtos normais": 0,
+            "D. A e B são substitutos": 0
+        }
+    },
+    {
+        "input": "Como a decomposição de Hicks define a invariância da renda real?\nA. A combinação de produtos que podem ser adquiridas no novo nível de preços permanece inalterada\nB. Despesa monetária permanece inalterada\nC. O nível original de eficácia permanece inalterado\nD. O poder de compra permanece inalterado no novo nível de preços",
+        "target_scores": {
+            "A. A combinação de produtos que podem ser adquiridas no novo nível de preços permanece inalterada": 0,
+            "B. Despesa monetária permanece inalterada": 0,
+            "C. O nível original de eficácia permanece inalterado": 1,
+            "D. O poder de compra permanece inalterado no novo nível de preços": 0
+        }
+    },
+    {
+        "input": "Supondo que o formato da curva de demanda seja inclinado para cima, qual das seguintes análises está correta?\nA. Nenhuma das opções acima está correta.\nB. O bem certamente é um bem inferior, e o efeito renda certamente é maior do que o efeito substituição.\nC. O efeito de renda deve ser menor do que o efeito de substituição e o produto deve ser um produto normal\nD. O efeito renda certamente é maior do que o efeito substituição, e o bem certamente é um bem normal.",
+        "target_scores": {
+            "A. Nenhuma das opções acima está correta.": 0,
+            "B. O bem certamente é um bem inferior, e o efeito renda certamente é maior do que o efeito substituição.": 1,
+            "C. O efeito de renda deve ser menor do que o efeito de substituição e o produto deve ser um produto normal": 0,
+            "D. O efeito renda certamente é maior do que o efeito substituição, e o bem certamente é um bem normal.": 0
+        }
+    },
+    {
+        "input": "Se o salário anual de um apresentador for de 100 mil reais e se ele trabalhar em outras profissões, ele só poderá receber no máximo 30 mil reais, então qual é a renda econômica que o apresentador recebe?\nA. 100 mil reais\nB. 30 mil reais\nC. 70 mil reais\nD. Incapaz de determinar",
+        "target_scores": {
+            "A. 100 mil reais": 0,
+            "B. 30 mil reais": 0,
+            "C. 70 mil reais": 1,
+            "D. Incapaz de determinar": 0
+        }
+    },
+    {
+        "input": "Se uma empresa é um monopólio completo, qual das seguintes descrições da curva de demanda enfrentada pela empresa está correta?\nA. Completamente inelástico\nB. Elasticidade infinita\nC. Elasticidade é sempre elasticidade unitária\nD. é a curva de demanda da indústria",
+        "target_scores": {
+            "A. Completamente inelástico": 0,
+            "B. Elasticidade infinita": 0,
+            "C. Elasticidade é sempre elasticidade unitária": 0,
+            "D. é a curva de demanda da indústria": 1
+        }
+    },
+    {
+        "input": "Se o regime de taxa de câmbio de um país for um regime de taxa de câmbio fixa em uma economia aberta, qual será o resultado se o banco central desse país aumentar a oferta de moeda?\nA. A curva LM retorna à sua posição original\nB. A renda nacional não é afetada\nC. O aumento inicial no valor da oferta monetária será compensado\nD. Todas as opções acima estão corretas",
+        "target_scores": {
+            "A. A curva LM retorna à sua posição original": 0,
+            "B. A renda nacional não é afetada": 0,
+            "C. O aumento inicial no valor da oferta monetária será compensado": 0,
+            "D. Todas as opções acima estão corretas": 1
+        }
+    },
+    {
+        "input": "Uma isoquanta é uma curva que representa várias combinações de fatores de produção que resultem na mesma quantidade de produção, considerando um nível constante de tecnologia. Que mudança na taxa marginal de substituição tecnológica está implícita se a isoquanta formada pelos dois fatores de produção for convexa em relação à origem?\nA. Constante\nB. Decrescente\nC. Incremental\nD. Variável",
+        "target_scores": {
+            "A. Constante": 0,
+            "B. Decrescente": 1,
+            "C. Incremental": 0,
+            "D. Variável": 0
+        }
+    },
+    {
+        "input": "Se um produtor competitivo monopolista está em equilíbrio de curto prazo, então qual análise dos lucros do produtor está correta?\nA. O produtor deve obter lucros excedentes\nB. O produtor não obtém necessariamente lucros excedentes\nC. O produtor só pode obter lucro normal\nD. É possível obter lucros excedentes, perdas e lucros normais.",
+        "target_scores": {
+            "A. O produtor deve obter lucros excedentes": 0,
+            "B. O produtor não obtém necessariamente lucros excedentes": 0,
+            "C. O produtor só pode obter lucro normal": 0,
+            "D. É possível obter lucros excedentes, perdas e lucros normais.": 1
+        }
+    },
+    {
+        "input": "Ao analisar a Indústria A, você descobre que ela é uma indústria de custos crescentes. Qual das seguintes afirmações está correta?\nA. A curva de custo médio de curto prazo não tem formato de U\nB. A curva de oferta ao longo prazo da indústria tem uma inclinação negativa\nC. A curva de oferta ao longo prazo da indústria tem uma inclinação positiva\nD. Nenhuma das afirmações acima está correta",
+        "target_scores": {
+            "A. A curva de custo médio de curto prazo não tem formato de U": 0,
+            "B. A curva de oferta ao longo prazo da indústria tem uma inclinação negativa": 0,
+            "C. A curva de oferta ao longo prazo da indústria tem uma inclinação positiva": 1,
+            "D. Nenhuma das afirmações acima está correta": 0
+        }
+    },
+    {
+        "input": "Com base no modelo de Cournot, determine qual das seguintes afirmações está errada.\nA. Cada duopólio assume que o outro mantém a produção constante.\nB. Cada duopólio assume que o outro mantém o preço constante\nC. O duopólio toma decisões simultaneamente sobre a produção \nD. O equilíbrio de Cournot é um equilíbrio de Nash",
+        "target_scores": {
+            "A. Cada duopólio assume que o outro mantém a produção constante.": 0,
+            "B. Cada duopólio assume que o outro mantém o preço constante": 1,
+            "C. O duopólio toma decisões simultaneamente sobre a produção ": 0,
+            "D. O equilíbrio de Cournot é um equilíbrio de Nash": 0
+        }
+    },
+    {
+        "input": "Supondo que um trabalhador ganhe 800 reais quando a taxa salarial é de 20 reais por hora e 1.050 reais quando é de 30 reais por hora, pode-se concluir que\nA. Nem o efeito renda nem o efeito substituição ocorrem\nB. Nenhuma das três opções acima está correta\nC. O efeito renda desempenha um papel importante\nD. O efeito substituição desempenha um papel importante",
+        "target_scores": {
+            "A. Nem o efeito renda nem o efeito substituição ocorrem": 0,
+            "B. Nenhuma das três opções acima está correta": 0,
+            "C. O efeito renda desempenha um papel importante": 1,
+            "D. O efeito substituição desempenha um papel importante": 0
+        }
+    },
+    {
+        "input": "Você é um especialista em economia de um país e precisa tomar uma decisão sobre qual dos cenários a seguir deve ser tributado para aumentar a receita tributária de forma mais eficiente?\nA. Entradas com fornecimento perfeitamente inelástico\nB. Produtos com demanda inelástica semelhante às necessidades\nC. Produtos com oferta inelástica\nD. Qualquer um dos cenários acima",
+        "target_scores": {
+            "A. Entradas com fornecimento perfeitamente inelástico": 0,
+            "B. Produtos com demanda inelástica semelhante às necessidades": 1,
+            "C. Produtos com oferta inelástica": 0,
+            "D. Qualquer um dos cenários acima": 0
+        }
+    },
+    {
+        "input": "Supondo que existam externalidades positivas em um mercado de produtos, qual das seguintes afirmações está correta?\nA. O benefício marginal privado excede o benefício marginal social\nB. O benefício marginal social excede o benefício marginal privado\nC. O custo marginal privado excede o custo marginal social\nD. O custo marginal social excede o custo marginal privado",
+        "target_scores": {
+            "A. O benefício marginal privado excede o benefício marginal social": 0,
+            "B. O benefício marginal social excede o benefício marginal privado": 1,
+            "C. O custo marginal privado excede o custo marginal social": 0,
+            "D. O custo marginal social excede o custo marginal privado": 0
+        }
+    },
+    {
+        "input": "Você é um especialista analítico contratado pelo produtor A. Você descobre que o produtor atinge o mínimo de seu nível médio em um certo nível de produção no curto prazo. Com base nisso, que julgamento você faz?\nA. Custo marginal é igual a custo médio\nB. O lucro econômico do produtor é zero\nC. O produtor obteve o lucro máximo\nD. O produtor obteve o lucro mínimo",
+        "target_scores": {
+            "A. Custo marginal é igual a custo médio": 1,
+            "B. O lucro econômico do produtor é zero": 0,
+            "C. O produtor obteve o lucro máximo": 0,
+            "D. O produtor obteve o lucro mínimo": 0
+        }
+    },
+    {
+        "input": "Suponha uma situação em que o capital seja um substituto perfeito para o trabalho e o preço do capital caia. Então, qual das seguintes conclusões pode ser tirada?\nA. A demanda por capital diminuirá \nB. A demanda por trabalho aumentará inevitavelmente\nC. A demanda por trabalho diminuirá inevitavelmente\nD. O efeito substituição reduzirá a demanda por trabalho",
+        "target_scores": {
+            "A. A demanda por capital diminuirá ": 0,
+            "B. A demanda por trabalho aumentará inevitavelmente": 0,
+            "C. A demanda por trabalho diminuirá inevitavelmente": 0,
+            "D. O efeito substituição reduzirá a demanda por trabalho": 1
+        }
+    },
+    {
+        "input": "Sabe-se que o mercado de frutos do mar de um país é composto por frutos do mar de marcas nacionais e frutos do mar de marcas importadas. Recentemente, houve relatos de que frutos do mar de marcas nacionais excederam os padrões de metais pesados ​​e carcinógenos. Sob a premissa de que outros fatores permanecem inalterados, como a curva de demanda dos consumidores nacionais por frutos do mar de marcas importadas mudará?\nA. Desloca-se para a direita\nB. Desloca-se para a esquerda\nC. Incapaz de julgar\nD. Nenhuma mudança",
+        "target_scores": {
+            "A. Desloca-se para a direita": 1,
+            "B. Desloca-se para a esquerda": 0,
+            "C. Incapaz de julgar": 0,
+            "D. Nenhuma mudança": 0
+        }
+    },
+    {
+        "input": "Supondo que as rendas e os preços mudem na mesma proporção, o que acontece com a linha orçamentária nesse cenário?\nA. A interceptação vertical, a interceptação horizontal e a inclinação permanecem inalteradas\nB. As interceptações verticais e horizontais mudam, mas a inclinação permanece a mesma\nC. Desloca-se para a direita paralelamente\nD. Desloca-se para a esquerda paralelamente",
+        "target_scores": {
+            "A. A interceptação vertical, a interceptação horizontal e a inclinação permanecem inalteradas": 1,
+            "B. As interceptações verticais e horizontais mudam, mas a inclinação permanece a mesma": 0,
+            "C. Desloca-se para a direita paralelamente": 0,
+            "D. Desloca-se para a esquerda paralelamente": 0
+        }
+    },
+    {
+        "input": "Ao analisar o mercado, os economistas concluem que empresas de concorrência monopolística atingem o equilíbrio ao longo prazo. Com base nessa conclusão, qual das seguintes afirmações está incorreta?\nA. A curva de demanda é tangente à curva de custo médio\nB. Este equilíbrio é eficiente de Pareto.\nC. O lucro da empresa é zero\nD. Receita marginal é igual a custo marginal",
+        "target_scores": {
+            "A. A curva de demanda é tangente à curva de custo médio": 0,
+            "B. Este equilíbrio é eficiente de Pareto.": 1,
+            "C. O lucro da empresa é zero": 0,
+            "D. Receita marginal é igual a custo marginal": 0
+        }
+    },
+    {
+        "input": "Você é um especialista em economia em um  país. Atualmente, há inflação no país. Para reduzir a taxa de inflação, você tomará decisões com base na curva de Phillips. Então, qual método você escolherá?\nA. Aumentar a taxa de desemprego\nB. Aumentar o déficit fiscal\nC. Reduzir a oferta de moeda\nD. Reduzir a taxa de desemprego",
+        "target_scores": {
+            "A. Aumentar a taxa de desemprego": 1,
+            "B. Aumentar o déficit fiscal": 0,
+            "C. Reduzir a oferta de moeda": 0,
+            "D. Reduzir a taxa de desemprego": 0
+        }
+    },
+    {
+        "input": "Qual das seguintes situações constitui discriminação secundária de preços?\nA. As companhias aéreas definem preços diferentes com base no tipo de passageiro\nB. As empresas definem preços diferentes com base na disposição dos consumidores em pagar\nC. Nenhuma\nD. Os departamentos de abastecimento de água definem preços diferentes de acordo com o consumo de água",
+        "target_scores": {
+            "A. As companhias aéreas definem preços diferentes com base no tipo de passageiro": 0,
+            "B. As empresas definem preços diferentes com base na disposição dos consumidores em pagar": 0,
+            "C. Nenhuma": 0,
+            "D. Os departamentos de abastecimento de água definem preços diferentes de acordo com o consumo de água": 1
+        }
+    },
+    {
+        "input": "Quando Paulo estava estudando teoria económico, ele se deparou com um termo chamado rigidez do salário nominal. Ele queria saber mais sobre como explicar esse termo, portanto, qual das seguintes teorias ele deveria estudar?\nA. Teoria do salário de eficiência\nB. Teoria dos contratos invisíveis\nC. Teoria dos contratos salariais de longa duração\nD. Teoria dos trabalhadores instalados e excluídos",
+        "target_scores": {
+            "A. Teoria do salário de eficiência": 0,
+            "B. Teoria dos contratos invisíveis": 0,
+            "C. Teoria dos contratos salariais de longa duração": 1,
+            "D. Teoria dos trabalhadores instalados e excluídos": 0
+        }
+    },
+    {
+        "input": "Sabe-se que o produto A é um produto normal. Quando o preço do produto A sobe, qual das seguintes opções está correta?\nA. O efeito substituição é negativo e o efeito renda é negativo\nB. O efeito substituição é negativo e o efeito renda é positivo\nC. O efeito substituição é positivo e o efeito renda é negativo\nD. O efeito substituição é positivo e o efeito renda é positivo",
+        "target_scores": {
+            "A. O efeito substituição é negativo e o efeito renda é negativo": 1,
+            "B. O efeito substituição é negativo e o efeito renda é positivo": 0,
+            "C. O efeito substituição é positivo e o efeito renda é negativo": 0,
+            "D. O efeito substituição é positivo e o efeito renda é positivo": 0
+        }
+    },
+    {
+        "input": "Qual das seguintes afirmações sobre taxas de câmbio está correta?\nA. A política monetária é mais eficaz em um regime de taxa de câmbio fixa do que em um regime de taxa de câmbio flutuante.\nB. Em uma economia aberta, as taxas de juros estrangeiras aumentam, enquanto em um regime de câmbio flutuante, a moeda local se valoriza e as taxas de juros domésticas caem.\nC. Pelo método de cotação indireta, quando a taxa de câmbio real é menor que 1, o valor da moeda de um país é supervalorizado.\nD. Quando o banco central de um país tem reservas cambiais muito limitadas, é muito difícil para o país manter uma taxa de câmbio inalterada.",
+        "target_scores": {
+            "A. A política monetária é mais eficaz em um regime de taxa de câmbio fixa do que em um regime de taxa de câmbio flutuante.": 0,
+            "B. Em uma economia aberta, as taxas de juros estrangeiras aumentam, enquanto em um regime de câmbio flutuante, a moeda local se valoriza e as taxas de juros domésticas caem.": 0,
+            "C. Pelo método de cotação indireta, quando a taxa de câmbio real é menor que 1, o valor da moeda de um país é supervalorizado.": 0,
+            "D. Quando o banco central de um país tem reservas cambiais muito limitadas, é muito difícil para o país manter uma taxa de câmbio inalterada.": 1
+        }
+    },
+    {
+        "input": "Se quiser descartar a existência de ponto de saturação (satiation), qual suposição sobre as preferências do consumidor pode ser utilizada?\nA. Convexidade\nB. Integralidade\nC. Monotonicidade\nD. Transitividade",
+        "target_scores": {
+            "A. Convexidade": 0,
+            "B. Integralidade": 0,
+            "C. Monotonicidade": 1,
+            "D. Transitividade": 0
+        }
+    },
+    {
+        "input": "Para explicar bem o efeito substituição, determine os fatores que levam a um aumento na demanda. Por favor, escolha entre as seguintes opções\nA. A alteração de todos os preços\nB. Mudança no gosto devido à propaganda de um substituto\nC. Nenhuma das opções  acima\nD. Novos substituto encontrados",
+        "target_scores": {
+            "A. A alteração de todos os preços": 0,
+            "B. Mudança no gosto devido à propaganda de um substituto": 0,
+            "C. Nenhuma das opções  acima": 1,
+            "D. Novos substituto encontrados": 0
+        }
+    },
+    {
+        "input": "Com base na análise do modelo Mundell-Fleming, qual das seguintes descrições da economia aberta de um pequeno país está correta?\nA. Independentemente do regime cambial adotado, a política fiscal não afeta a receita total.\nB. Independentemente do regime cambial adotado, a política monetária não afeta a taxa de câmbio.\nC. O impacto das políticas económicos de um país em sua própria economia é o mesmo que em uma economia grande e fechada.\nD. O impacto das políticas económicos de um país na economia depende do regime de taxas de câmbio",
+        "target_scores": {
+            "A. Independentemente do regime cambial adotado, a política fiscal não afeta a receita total.": 0,
+            "B. Independentemente do regime cambial adotado, a política monetária não afeta a taxa de câmbio.": 0,
+            "C. O impacto das políticas económicos de um país em sua própria economia é o mesmo que em uma economia grande e fechada.": 0,
+            "D. O impacto das políticas económicos de um país na economia depende do regime de taxas de câmbio": 1
+        }
+    },
+    {
+        "input": "No ponto de equilíbrio de longo prazo de fornecedor da concorrência monopolística. Então, qual das seguintes descrições da curva de custo médio ao longo prazo está correta?\nA. Em uma fase ascendente\nB. Em uma fase descendente\nC. Em uma fase horizontal\nD. Todas as três opções acima são possíveis",
+        "target_scores": {
+            "A. Em uma fase ascendente": 0,
+            "B. Em uma fase descendente": 1,
+            "C. Em uma fase horizontal": 0,
+            "D. Todas as três opções acima são possíveis": 0
+        }
+    },
+    {
+        "input": "Ao formular a política fiscal, especialistas económicos primeiro conduzem uma análise e concluem que a curva LM é vertical e a curva de oferta agregada é uma forma keynesiana extrema. Se uma política fiscal expansionista for adotada neste momento, qual será o resultado?\nA. A produção aumenta, mas o nível de preços permanece o mesmo\nB. A produção permanece a mesma, mas o nível de preços aumenta\nC. Os níveis de produção e de preços aumentam\nD. Os níveis de produção e de preços permanecem inalterados",
+        "target_scores": {
+            "A. A produção aumenta, mas o nível de preços permanece o mesmo": 0,
+            "B. A produção permanece a mesma, mas o nível de preços aumenta": 0,
+            "C. Os níveis de produção e de preços aumentam": 0,
+            "D. Os níveis de produção e de preços permanecem inalterados": 1
+        }
+    },
+    {
+        "input": "Supondo que um mercado esteja em equilíbrio de longo prazo de concorrência perfeita e que os custos corporativos permaneçam inalterados, qual das seguintes análises do aumento da oferta de mercado está correta?\nA. Alguns são de empresas existentes e alguns são de novas empresas\nB. Incapaz de julgar\nC. Tudo vem de empresa existente\nD. Tudo vem de empresa recém-adicionada",
+        "target_scores": {
+            "A. Alguns são de empresas existentes e alguns são de novas empresas": 0,
+            "B. Incapaz de julgar": 0,
+            "C. Tudo vem de empresa existente": 0,
+            "D. Tudo vem de empresa recém-adicionada": 1
+        }
+    },
+    {
+        "input": "Suponha que um estudante universitário decida frequentar uma aula de treinamento de língua estrangeira e desistir de uma oportunidade de trabalho de meio período que rende 2 000 reais. A taxa de matrícula para a aula de treinamento é de 1 000 reais, a taxa do livro didático é de 800 reais e as despesas de subsistência durante a aula de treinamento são de 500 reais. Qual é o custo de oportunidade de participar do curso de treinamento?\nA. 2 000 reais\nB. 2 800 reais\nC. 3 800 reais\nD. 4 300 reais",
+        "target_scores": {
+            "A. 2 000 reais": 0,
+            "B. 2 800 reais": 0,
+            "C. 3 800 reais": 1,
+            "D. 4 300 reais": 0
+        }
+    },
+    {
+        "input": "Qual das seguintes conclusões pode ser tirada se a análise for realizada para uma empresa num mercado perfeitamente competitivo?\nA. A condição para uma empresa num mercado perfeitamente competitivo parar a produção é $\\text{P=AC}$ (AC é o custo médio da empresa)\nB. As empresas num mercado perfeitamente competitivo não podem obter lucros económicos\nC. Num mercado perfeitamente competitivo, a produção de uma empresa afeta a função de lucro de outras empresas.\nD. Toda empresa num mercado perfeitamente competitivo produz a uma taxa de eficiência de Pareto.",
+        "target_scores": {
+            "A. A condição para uma empresa num mercado perfeitamente competitivo parar a produção é $\\text{P=AC}$ (AC é o custo médio da empresa)": 0,
+            "B. As empresas num mercado perfeitamente competitivo não podem obter lucros económicos": 0,
+            "C. Num mercado perfeitamente competitivo, a produção de uma empresa afeta a função de lucro de outras empresas.": 0,
+            "D. Toda empresa num mercado perfeitamente competitivo produz a uma taxa de eficiência de Pareto.": 1
+        }
+    },
+    {
+        "input": "Como a teoria económico pode ser usada para explicar que pessoas com boa saúde não estão dispostas a comprar seguro médico, enquanto pessoas com problemas de saúde estão mais dispostas a comprar seguro médico?\nA. Risco moral\nB. Seleção adversa\nC. Todas as opções acima\nD. Transmissão de sinal",
+        "target_scores": {
+            "A. Risco moral": 0,
+            "B. Seleção adversa": 1,
+            "C. Todas as opções acima": 0,
+            "D. Transmissão de sinal": 0
+        }
+    },
+    {
+        "input": "Dentre as seguintes opções, qual curva requer julgamento de valor durante o processo de derivação?\nA. Curva de Bem-Estar Social\nB. Curva de Possibilidade de Produção\nC. Curva de contrato\nD. Curva de conversão",
+        "target_scores": {
+            "A. Curva de Bem-Estar Social": 1,
+            "B. Curva de Possibilidade de Produção": 0,
+            "C. Curva de contrato": 0,
+            "D. Curva de conversão": 0
+        }
+    },
+    {
+        "input": "Uma maratona foi realizada em um determinado local. Para mostrar sua importância para a competição, o governo concedeu um subsídio de transporte per capita aos cidadãos. Qual das seguintes conclusões pode ser tirada se a análise for realizada com base no modelo IS-LM?\nA. A taxa de juro de equilíbrio aumenta e a produção de equilíbrio aumenta\nB. A taxa de juro de equilíbrio aumenta e a produção de equilíbrio cai\nC. A taxa de juro de equilíbrio cai e a produção de equilíbrio aumenta\nD. A taxa de juro de equilíbrio cai e a produção de equilíbrio cai",
+        "target_scores": {
+            "A. A taxa de juro de equilíbrio aumenta e a produção de equilíbrio aumenta": 1,
+            "B. A taxa de juro de equilíbrio aumenta e a produção de equilíbrio cai": 0,
+            "C. A taxa de juro de equilíbrio cai e a produção de equilíbrio aumenta": 0,
+            "D. A taxa de juro de equilíbrio cai e a produção de equilíbrio cai": 0
+        }
+    },
+    {
+        "input": "Como é a elasticidade da demanda de um bem quando o preço de um bem cai de 20 reais para 19 reais, e a demanda aumenta de 170 para 175?\nA. Elasticidade incerta\nB. Elasticidade unitária\nC. Falta de flexibilidade\nD. Flexível",
+        "target_scores": {
+            "A. Elasticidade incerta": 0,
+            "B. Elasticidade unitária": 0,
+            "C. Falta de flexibilidade": 1,
+            "D. Flexível": 0
+        }
+    },
+    {
+        "input": "Em relação aos mercados perfeitamente competitivos e imperfeitamente competitivos, quais são as diferenças na forma das curvas de demanda por fatores de produção?\nA. Incapaz de julgar\nB. O primeiro se sobrepõe ao último\nC. O primeiro é mais plano que o último\nD. O primeiro é mais íngreme que o último",
+        "target_scores": {
+            "A. Incapaz de julgar": 0,
+            "B. O primeiro se sobrepõe ao último": 0,
+            "C. O primeiro é mais plano que o último": 1,
+            "D. O primeiro é mais íngreme que o último": 0
+        }
+    },
+    {
+        "input": "Um governo local quer formular uma política tributária com o objetivo principal de impor uma taxa de imposto sobre um bem com oferta perfeitamente elástica e uma inclinação de demanda negativo. Levando em conta a necessidade de minimizar o impacto sobre os consumidores, qual imposto deve ser usado?\nA. Ambas são possíveis, pois os produtores suportarão todo o encargo econômico sob qualquer taxa de imposto\nB. Ambas são possíveis, porque os consumidores suportarão com todo o encargo financeiro sob qualquer uma das taxas de imposto.\nC. Imposto sobre operações comerciais\nD. Imposto sobre vendas",
+        "target_scores": {
+            "A. Ambas são possíveis, pois os produtores suportarão todo o encargo econômico sob qualquer taxa de imposto": 0,
+            "B. Ambas são possíveis, porque os consumidores suportarão com todo o encargo financeiro sob qualquer uma das taxas de imposto.": 1,
+            "C. Imposto sobre operações comerciais": 0,
+            "D. Imposto sobre vendas": 0
+        }
+    },
+    {
+        "input": "Qual dos seguintes tópicos não é o principal objeto de pesquisa da economia de mercado, que estuda o mecanismo operacional?\nA. Como aderir a múltiplas formas de propriedade com propriedade pública como forma principal\nB. Como aproveitar ao máximo recursos escassos com múltiplas opções\nC. Como fazer com que o mercado desempenhe um papel fundamental na alocação de recursos sob a regulação macroeconómico nacional\nD. Como usar recursos limitados para maximizar a satisfação de necessidades ilimitadas",
+        "target_scores": {
+            "A. Como aderir a múltiplas formas de propriedade com propriedade pública como forma principal": 1,
+            "B. Como aproveitar ao máximo recursos escassos com múltiplas opções": 0,
+            "C. Como fazer com que o mercado desempenhe um papel fundamental na alocação de recursos sob a regulação macroeconómico nacional": 0,
+            "D. Como usar recursos limitados para maximizar a satisfação de necessidades ilimitadas": 0
+        }
+    },
+    {
+        "input": "Qual das seguintes análises da curva de oferta de uma empresa perfeitamente competitiva está correta?\nA. A curva de oferta de curto prazo é  a parte â direita do SMC acima do ponto de equilíbrio\nB. A curva de oferta de curto prazo é a parte ascendente da SMC\nC. A curva de oferta de longo prazo é  a parte â direita do LMC acima do ponto de equilíbrio\nD. A curva de oferta de longo prazo é a parte ascendente da LMC",
+        "target_scores": {
+            "A. A curva de oferta de curto prazo é  a parte â direita do SMC acima do ponto de equilíbrio": 0,
+            "B. A curva de oferta de curto prazo é a parte ascendente da SMC": 0,
+            "C. A curva de oferta de longo prazo é  a parte â direita do LMC acima do ponto de equilíbrio": 1,
+            "D. A curva de oferta de longo prazo é a parte ascendente da LMC": 0
+        }
+    },
+    {
+        "input": "Você é um especialista económico em um banco central. O banco central agora quer estabilizar o nível de preços ajustando a oferta de moeda. De acordo com sua análise, a atual teoria do ciclo de negócios real assume que os preços são completamente elásticos e que as flutuações na produção da economia são devidas a choques tecnológicos. Com base na conclusão acima, que mudança ocorrerá na oferta de moeda quando a produção aumentar?\nA. Aumentar\nB. Difícil julgar\nC. Permanecer inalterada\nD. Reduzir",
+        "target_scores": {
+            "A. Aumentar": 0,
+            "B. Difícil julgar": 1,
+            "C. Permanecer inalterada": 0,
+            "D. Reduzir": 0
+        }
+    },
+    {
+        "input": "Os bens de Giffen são bens cuja demanda deveria diminuir quando seu preço aumenta dentro de uma determinada faixa, mas, em vez disso, aumenta. Se o bem A também é um bem de Giffen, então quando o preço do bem A aumenta, qual das seguintes afirmações está correta?\nA. O efeito substituição é negativo, o efeito renda é positivo e o primeiro é maior que o último\nB. O efeito substituição é negativo, o efeito renda é positivo e o primeiro é menor que o último\nC. O efeito substituição é positivo, o efeito renda é negativo e o primeiro é maior que o último\nD. O efeito substituição é positivo, o efeito renda é negativo e o primeiro é menor que o último",
+        "target_scores": {
+            "A. O efeito substituição é negativo, o efeito renda é positivo e o primeiro é maior que o último": 0,
+            "B. O efeito substituição é negativo, o efeito renda é positivo e o primeiro é menor que o último": 1,
+            "C. O efeito substituição é positivo, o efeito renda é negativo e o primeiro é maior que o último": 0,
+            "D. O efeito substituição é positivo, o efeito renda é negativo e o primeiro é menor que o último": 0
+        }
+    },
+    {
+        "input": "Em um certo lugar, ocorreu um incidente sério em que uma fábrica a montante poluiu a água potável dos moradores a jusante. Para resolver esse problema, o governo local planeja usar o Teorema de Coase nos princípios da economia. Portanto, qual das seguintes afirmações está correta?\nA. Desde que os direitos de propriedade sejam claros e o custo da transação seja zero\nB. Desde que os direitos de propriedade sejam claros, não importa quão altos sejam os custos de transação\nC. Independentemente de os direitos de propriedade serem claros ou não, desde que o custo da transação seja zero\nD. Independentemente de os direitos de propriedade serem claros ou não,e o custo da transação seja zero ou não",
+        "target_scores": {
+            "A. Desde que os direitos de propriedade sejam claros e o custo da transação seja zero": 1,
+            "B. Desde que os direitos de propriedade sejam claros, não importa quão altos sejam os custos de transação": 0,
+            "C. Independentemente de os direitos de propriedade serem claros ou não, desde que o custo da transação seja zero": 0,
+            "D. Independentemente de os direitos de propriedade serem claros ou não,e o custo da transação seja zero ou não": 0
+        }
+    },
+    {
+        "input": "Se a taxa marginal de substituição for zero, qual é o formato da curva de indiferença correspondente?\nA. Linha horizontal\nB. Linha reta inclinada para baixo à direita\nC. Linha reta inclinada para baixo à esquerda\nD. Linha vertical",
+        "target_scores": {
+            "A. Linha horizontal": 1,
+            "B. Linha reta inclinada para baixo à direita": 0,
+            "C. Linha reta inclinada para baixo à esquerda": 0,
+            "D. Linha vertical": 0
+        }
+    },
+    {
+        "input": "Paulo, que acabou de começar a aprender economia, quer analisar a relação entre estratégia dominante e o equilíbrio de Nash. Qual das seguintes afirmações está correta?\nA. Estratégia dominante e o equilíbrio de Nash são igualmente rigorosos\nB. Estratégia dominante é uma solução de equilíbrio mais rigorosa que o equilíbrio de Nash.\nC. O equilíbrio de Nash é uma solução de equilíbrio mais rigorosa do que estratégia dominante.\nD. É impossível dizer qual dos dois é mais rigoroso.",
+        "target_scores": {
+            "A. Estratégia dominante e o equilíbrio de Nash são igualmente rigorosos": 0,
+            "B. Estratégia dominante é uma solução de equilíbrio mais rigorosa que o equilíbrio de Nash.": 1,
+            "C. O equilíbrio de Nash é uma solução de equilíbrio mais rigorosa do que estratégia dominante.": 0,
+            "D. É impossível dizer qual dos dois é mais rigoroso.": 0
+        }
+    },
+    {
+        "input": "Um economista percebe que a taxa de juros atual do mercado caiu, portanto, que conclusão ele pode tirar ainda mais em relação à mudança na demanda especulativa por dinheiro?\nA. Constante\nB. Mudança incerta\nC. melhorar\nD. reduzir",
+        "target_scores": {
+            "A. Constante": 0,
+            "B. Mudança incerta": 0,
+            "C. melhorar": 1,
+            "D. reduzir": 0
+        }
+    },
+    {
+        "input": "Qual das quatro opções a seguir é a condição de equilíbrio ideal para o fornecimento de bens públicos?\nA. A disposição marginal de pagar de cada consumidor é igual ao custo marginal de fornecer o bem público.\nB. A soma da disposição marginal de pagar dos consumidores deve ser igual ao custo marginal de fornecer o bem público.\nC. A taxa marginal de substituição deve ser igual para cada consumidor\nD. O custo privado do fornecimento de bens públicos é igual ao custo social do fornecimento de bens públicos",
+        "target_scores": {
+            "A. A disposição marginal de pagar de cada consumidor é igual ao custo marginal de fornecer o bem público.": 0,
+            "B. A soma da disposição marginal de pagar dos consumidores deve ser igual ao custo marginal de fornecer o bem público.": 1,
+            "C. A taxa marginal de substituição deve ser igual para cada consumidor": 0,
+            "D. O custo privado do fornecimento de bens públicos é igual ao custo social do fornecimento de bens públicos": 0
+        }
+    },
+    {
+        "input": "Qual das quatro opções a seguir é a condição de equilíbrio para a minimização de custos?\nA. Consistente com a condição de equilíbrio de maximização do lucro\nB. Tanto A quanto B estão corretas\nC. É o ponto de tangência entre a linha de isocusto e a linha de isoquanta\nD. É o ponto de tangência entre a linha de orçamento e a curva de indiferença",
+        "target_scores": {
+            "A. Consistente com a condição de equilíbrio de maximização do lucro": 0,
+            "B. Tanto A quanto B estão corretas": 0,
+            "C. É o ponto de tangência entre a linha de isocusto e a linha de isoquanta": 1,
+            "D. É o ponto de tangência entre a linha de orçamento e a curva de indiferença": 0
+        }
+    },
+    {
+        "input": "Supondo que um pequeno modelo aberto de Mundell-Fleming seja usado para analisar o efeito do aumento das compras de bens importados pelos consumidores no caso de um regime de câmbio flutuante, qual das conclusões a seguir está correta?\nA. A curva IS desloca-se para a direita\nB. A curva LM desloca-se para a direita\nC. A produção não altera\nD. O banco central vende sua moeda nacional",
+        "target_scores": {
+            "A. A curva IS desloca-se para a direita": 0,
+            "B. A curva LM desloca-se para a direita": 0,
+            "C. A produção não altera": 1,
+            "D. O banco central vende sua moeda nacional": 0
+        }
+    },
+    {
+        "input": "Sabe-se que uma empresa perfeitamente competitiva parou a produção. Qual das seguintes situações pode ter causado isso no curto prazo?\nA. Em todos os níveis de produção, o preço está abaixo do custo fixo médio\nB. Em todos os níveis de produção, o preço está abaixo do custo variável médio\nC. Em todos os níveis possíveis de produção, o preço está abaixo do custo total médio\nD. Não existe um ponto em que os benefícios marginais e os custos marginais sejam iguais",
+        "target_scores": {
+            "A. Em todos os níveis de produção, o preço está abaixo do custo fixo médio": 0,
+            "B. Em todos os níveis de produção, o preço está abaixo do custo variável médio": 1,
+            "C. Em todos os níveis possíveis de produção, o preço está abaixo do custo total médio": 0,
+            "D. Não existe um ponto em que os benefícios marginais e os custos marginais sejam iguais": 0
+        }
+    },
+    {
+        "input": "Miguel é um especialista em estratégia corporativa. Após análise, ele descobriu que o produto A da empresa carece de flexibilidade. Para maximizar os lucros, qual estratégia Miguel deve adotar para o Produto A?\nA. Aumentar a produção\nB. Nenhuma mudança na produção\nC. Reduzir a produção\nD. Reduzir os preços",
+        "target_scores": {
+            "A. Aumentar a produção": 0,
+            "B. Nenhuma mudança na produção": 0,
+            "C. Reduzir a produção": 1,
+            "D. Reduzir os preços": 0
+        }
+    },
+    {
+        "input": "Em um jogo repetido do dilema do prisioneiro, qual das seguintes situações pode aumentar a possibilidade de um resultado cooperativo?\nA. A avaliação dos benefícios futuros pelos participantes é muito inferior à sua avaliação dos benefícios atuais\nB. A fraude não é facilmente detectada\nC. O jogo entre os participantes ocorre com frequência\nD. Os benefícios de uma fraude única são maiores do que os custos da fraude",
+        "target_scores": {
+            "A. A avaliação dos benefícios futuros pelos participantes é muito inferior à sua avaliação dos benefícios atuais": 0,
+            "B. A fraude não é facilmente detectada": 0,
+            "C. O jogo entre os participantes ocorre com frequência": 1,
+            "D. Os benefícios de uma fraude única são maiores do que os custos da fraude": 0
+        }
+    },
+    {
+        "input": "Um especialista em análise está analisando as condições operacionais de um fornecedor em um setor perfeitamente competitivo. Ao constatar que o custo marginal, o custo médio e a receita média do fornecedor são todos iguais a 10 reais, que conclusão o especialista pode tirar?\nA. Definitivamente não está obtendo o lucro máximo\nB. Definitivamente obtém o menor lucro\nC. Definitivamente só obtém lucro normal\nD. Não é certo se o lucro máximo é alcançado.",
+        "target_scores": {
+            "A. Definitivamente não está obtendo o lucro máximo": 0,
+            "B. Definitivamente obtém o menor lucro": 0,
+            "C. Definitivamente só obtém lucro normal": 1,
+            "D. Não é certo se o lucro máximo é alcançado.": 0
+        }
+    },
+    {
+        "input": "O que acontece com as curvas de demanda e oferta de cigarros em um país onde os fabricantes de cigarros começam a ser tributados sobre o tabaco, supondo que o eixo vertical seja o preço após os impostos e o eixo horizontal seja a quantidade?\nA. A curva de demanda por cigarros se deslocará para a direita\nB. A curva de demanda por cigarros se deslocará para a esquerda\nC. A curva de oferta de cigarros se deslocará para a direita\nD. A curva de oferta de cigarros se deslocará para a esquerda",
+        "target_scores": {
+            "A. A curva de demanda por cigarros se deslocará para a direita": 0,
+            "B. A curva de demanda por cigarros se deslocará para a esquerda": 0,
+            "C. A curva de oferta de cigarros se deslocará para a direita": 0,
+            "D. A curva de oferta de cigarros se deslocará para a esquerda": 1
+        }
+    },
+    {
+        "input": "Qual das seguintes afirmações está correta?\nA. A hipótese da renda permanente afirma que as pessoas têm uma estável propensão média a consumir.\nB. A hipótese do ciclo de vida afirma que as pessoas querem ter um consumo estável ao longo de suas vidas.\nC. A pesquisa mostra que as famílias de alta renda têm uma maior propensão média a consumir.\nD. Os economistas geralmente acreditam que taxas de juros mais altas reduzirão o consumo e aumentarão a poupança.",
+        "target_scores": {
+            "A. A hipótese da renda permanente afirma que as pessoas têm uma estável propensão média a consumir.": 0,
+            "B. A hipótese do ciclo de vida afirma que as pessoas querem ter um consumo estável ao longo de suas vidas.": 1,
+            "C. A pesquisa mostra que as famílias de alta renda têm uma maior propensão média a consumir.": 0,
+            "D. Os economistas geralmente acreditam que taxas de juros mais altas reduzirão o consumo e aumentarão a poupança.": 0
+        }
+    },
+    {
+        "input": "Você é o gerente de vendas de um fabricante de ar condicionado e acabou de receber um relatório de pesquisa de mercado, que mostra que a elasticidade de renda da demanda por ar condicionado é 1,2, e a elasticidade de preço da demanda é -1,4. Além disso, estima-se que a renda familiar deve crescer 10% no ano que vem. Se você quiser aumentar os preços, mas manter as vendas inalteradas, que medida você deve tomar?\nA. Aumento de preço de 10%\nB. Aumento de preço de mais de 10%\nC. Aumento de preço inferior a 10%\nD. Incapaz de julgar",
+        "target_scores": {
+            "A. Aumento de preço de 10%": 0,
+            "B. Aumento de preço de mais de 10%": 0,
+            "C. Aumento de preço inferior a 10%": 1,
+            "D. Incapaz de julgar": 0
+        }
+    },
+    {
+        "input": "Em uma empresa com 200 funcionários, se um funcionário consegue passar facilmente pela porta do escritório, pode-se inferir que todos os 200 funcionários conseguem passar facilmente pela porta do escritório ao mesmo tempo. Este exemplo ilustra bem qual das seguintes teorias?\nA. Falácia \"post hoc\"\nB. Falácia da Composição\nC. Falácia da Substituição\nD. Falácia do Custo de Oportunidade",
+        "target_scores": {
+            "A. Falácia \"post hoc\"": 0,
+            "B. Falácia da Composição": 1,
+            "C. Falácia da Substituição": 0,
+            "D. Falácia do Custo de Oportunidade": 0
+        }
+    },
+    {
+        "input": "Se você é um especialista em economia e seu conselho ao governo é implementar uma política fiscal contracionista durante um período de expansão e uma política fiscal expansionista durante uma recessão, e usar o superávit fiscal durante um período de expansão para compensar o déficit fiscal durante uma recessão, como se chama a política económico que você recomenda?\nA. Política fiscal compensatória\nB. Política fiscal expansionista\nC. Política fiscal orientada para o crescimento\nD. Política fiscal para equilibrar o orçamento",
+        "target_scores": {
+            "A. Política fiscal compensatória": 1,
+            "B. Política fiscal expansionista": 0,
+            "C. Política fiscal orientada para o crescimento": 0,
+            "D. Política fiscal para equilibrar o orçamento": 0
+        }
+    },
+    {
+        "input": "Você é um especialista em estratégia para uma determinada empresa. Recentemente, quando você estava analisando as condições operacionais da empresa, você descobriu que na produção de equilíbrio de curto prazo da empresa, o preço de mercado era menor que SAC, mas maior que AVC. Qual estratégia você deve formular?\nA. Continuar a produção se houver perda\nB. Obter lucro e continuar a produção\nC. Se houver perda, a produção deve ser interrompida imediatamente\nD. É aceitável produzir ou não se houver perda",
+        "target_scores": {
+            "A. Continuar a produção se houver perda": 1,
+            "B. Obter lucro e continuar a produção": 0,
+            "C. Se houver perda, a produção deve ser interrompida imediatamente": 0,
+            "D. É aceitável produzir ou não se houver perda": 0
+        }
+    },
+    {
+        "input": "A empresa A é um fornecedor perfeitamente competitiva. Quando o fornecedor A incorre em perdas, quais são os resultados prováveis para seu setor na convergência para o equilíbrio de longo prazo?\nA. Preços mais altos e mais fornecedores\nB. Preços mais altos e menos fornecedores\nC. Preços mais baixos e mais fornecedores\nD. Preços mais baixos e menos fornecedores",
+        "target_scores": {
+            "A. Preços mais altos e mais fornecedores": 0,
+            "B. Preços mais altos e menos fornecedores": 1,
+            "C. Preços mais baixos e mais fornecedores": 0,
+            "D. Preços mais baixos e menos fornecedores": 0
+        }
+    },
+    {
+        "input": "Em comparação com a política fiscal, as desvantagens da política monetária são\nA. O ciclo de implementação da tomada de decisões políticas é curto\nB. O impacto na economia é mais direto\nC. O impacto na economia é mais indireto \nD. Os efeitos das políticas são mais fáceis de prever",
+        "target_scores": {
+            "A. O ciclo de implementação da tomada de decisões políticas é curto": 0,
+            "B. O impacto na economia é mais direto": 0,
+            "C. O impacto na economia é mais indireto ": 1,
+            "D. Os efeitos das políticas são mais fáceis de prever": 0
+        }
+    },
+    {
+        "input": "No futuro, quando a tecnologia tiver avançado a ponto de as máquinas poderem ser usadas para substituir o trabalho, qual seria o impacto se o governo promovesse fortemente o uso de máquinas em vez do trabalho?\nA. A curva de demanda de trabalho desloca-se para a direita\nB. A curva de demanda de trabalho desloca-se para a esquerda\nC. A curva de oferta de trabalho desloca-se para a direita\nD. A curva de oferta de trabalho desloca-se para a esquerda",
+        "target_scores": {
+            "A. A curva de demanda de trabalho desloca-se para a direita": 0,
+            "B. A curva de demanda de trabalho desloca-se para a esquerda": 1,
+            "C. A curva de oferta de trabalho desloca-se para a direita": 0,
+            "D. A curva de oferta de trabalho desloca-se para a esquerda": 0
+        }
+    },
+    {
+        "input": "Para maximizar sua própria utilidade, a Família A e a Família B escolhem trocar um bem entre si. O que acontecerá durante o processo de troca?\nA. 1 preço relativo\nB. 2 preços absolutos\nC. AB ambos estão erradas\nD. AB estão ambas corretas",
+        "target_scores": {
+            "A. 1 preço relativo": 1,
+            "B. 2 preços absolutos": 0,
+            "C. AB ambos estão erradas": 0,
+            "D. AB estão ambas corretas": 0
+        }
+    },
+    {
+        "input": "Um estudo descobriu que as lavanderias de roupas causam poluição do ar, uma descoberta que faria com que o preço de equilíbrio do setor de lavanderias se encaixasse em qual das seguintes descrições?\nA. Muito alto em relação ao nível socialmente ideal, mas sua produção é  muito baixa em relação ao ótimo social\nB. Muito baixo em relação ao nível socialmente ideal, mas sua produção é muito alta em relação ao ótimo social\nC. e a produção é muito alta em relação ao ótimo social\nD. é ótimo, mas há excesso de oferta",
+        "target_scores": {
+            "A. Muito alto em relação ao nível socialmente ideal, mas sua produção é  muito baixa em relação ao ótimo social": 0,
+            "B. Muito baixo em relação ao nível socialmente ideal, mas sua produção é muito alta em relação ao ótimo social": 1,
+            "C. e a produção é muito alta em relação ao ótimo social": 0,
+            "D. é ótimo, mas há excesso de oferta": 0
+        }
+    },
+    {
+        "input": "Supondo que um mercado seja perfeitamente competitivo, a curva de oferta de longo prazo de um setor nesse mercado depende de qual dos seguintes fatores?\nA. A trajetória do ponto mais baixo da curva LAC\nB. A trajetória do ponto mais baixo da curva LMC\nC. A trajetória do ponto mais baixo da curva SAC\nD. A trajetória do ponto mais baixo da curva SMC",
+        "target_scores": {
+            "A. A trajetória do ponto mais baixo da curva LAC": 1,
+            "B. A trajetória do ponto mais baixo da curva LMC": 0,
+            "C. A trajetória do ponto mais baixo da curva SAC": 0,
+            "D. A trajetória do ponto mais baixo da curva SMC": 0
+        }
+    },
+    {
+        "input": "Com base no Modelo de Crescimento de Solow, qual das seguintes descrições da regra de ouro está incorreta?\nA. Quando o crescimento econômico converge para um estado estável, pode atingir o nível da regra de ouro\nB. Quando o crescimento econômico está no nível estável da regra de ouro, o consumo per capita é máximo.\nC. Quando o estoque de capital per capita em estado estacionário é muito alto, reduzir a taxa de poupança para um certo nível pode atingir o nível da regra de ouro.\nD. Quando o estoque de capital per capita em estado estacionário é muito baixo, aumentar a taxa de poupança para um certo nível pode atingir o nível da regra de ouro.",
+        "target_scores": {
+            "A. Quando o crescimento econômico converge para um estado estável, pode atingir o nível da regra de ouro": 1,
+            "B. Quando o crescimento econômico está no nível estável da regra de ouro, o consumo per capita é máximo.": 0,
+            "C. Quando o estoque de capital per capita em estado estacionário é muito alto, reduzir a taxa de poupança para um certo nível pode atingir o nível da regra de ouro.": 0,
+            "D. Quando o estoque de capital per capita em estado estacionário é muito baixo, aumentar a taxa de poupança para um certo nível pode atingir o nível da regra de ouro.": 0
+        }
+    },
+    {
+        "input": "Suponha que, em uma sociedade, a propriedade de capital seja um substituto perfeito para o trabalho e o preço da propriedade de capital caia. Com base nessa suposição, que conclusões podem ser tiradas?\nA. A demanda por ativos de capital diminuirá\nB. A demanda por mão de obra aumentará inevitavelmente\nC. A demanda por mão de obra diminuirá inevitavelmente\nD. O efeito substituição reduzirá a demanda por mão de obra",
+        "target_scores": {
+            "A. A demanda por ativos de capital diminuirá": 0,
+            "B. A demanda por mão de obra aumentará inevitavelmente": 0,
+            "C. A demanda por mão de obra diminuirá inevitavelmente": 0,
+            "D. O efeito substituição reduzirá a demanda por mão de obra": 1
+        }
+    },
+    {
+        "input": "Suponha que a renda do consumidor aumente em 25% e que, nesse momento, sua demanda pelo produto A aumente em apenas 15%. Que tipo de produto A é?\nA. Produto Marginal\nB. Produto inferior\nC. Produto normal\nD. Produtos Giffen",
+        "target_scores": {
+            "A. Produto Marginal": 0,
+            "B. Produto inferior": 0,
+            "C. Produto normal": 1,
+            "D. Produtos Giffen": 0
+        }
+    },
+    {
+        "input": "Qual das seguintes afirmações sobre efeito renda e efeito substituição está correta?\nA. O efeito renda é sempre positivo e o efeito substituição é sempre negativo\nB. O efeito renda é sempre positivo, enquanto o efeito substituição pode ser positivo ou negativo.\nC. O efeito substituição é sempre negativo e o efeito renda é sempre negativo\nD. O efeito substituição é sempre negativo, enquanto o efeito renda pode ser positivo ou negativo.",
+        "target_scores": {
+            "A. O efeito renda é sempre positivo e o efeito substituição é sempre negativo": 0,
+            "B. O efeito renda é sempre positivo, enquanto o efeito substituição pode ser positivo ou negativo.": 0,
+            "C. O efeito substituição é sempre negativo e o efeito renda é sempre negativo": 0,
+            "D. O efeito substituição é sempre negativo, enquanto o efeito renda pode ser positivo ou negativo.": 1
+        }
+    },
+    {
+        "input": "O clássico jogo de pedra-papel-tesoura pertence a qual dos seguintes tipos de jogos?\nA. Jogo dinâmico de soma variável\nB. Jogo dinâmico de soma zero\nC. Jogo estático de soma variável\nD. Jogo estático de soma zero",
+        "target_scores": {
+            "A. Jogo dinâmico de soma variável": 0,
+            "B. Jogo dinâmico de soma zero": 0,
+            "C. Jogo estático de soma variável": 0,
+            "D. Jogo estático de soma zero": 1
+        }
+    },
+    {
+        "input": "Você é um especialista em estratégia para uma empresa concorrência monopolística. Se você quer que a empresa alcance lucros máximos, qual seria o caminho que você seguiria?\nA. Ajuste de preços para determinar os volumes de produção correspondentes\nB. Concorrência de qualidade\nC. Concorrência publicitária\nD. Todos os métodos acima estão disponíveis",
+        "target_scores": {
+            "A. Ajuste de preços para determinar os volumes de produção correspondentes": 0,
+            "B. Concorrência de qualidade": 0,
+            "C. Concorrência publicitária": 0,
+            "D. Todos os métodos acima estão disponíveis": 1
+        }
+    },
+    {
+        "input": "Se houver economias de escala em uma economia, qual é a descrição correta dos custos marginais e médios?\nA. Custo marginal é igual a custo médio\nB. O custo marginal não tem nada a ver com o custo médio\nC. O custo marginal é maior que o custo médio\nD. O custo marginal é menor que o custo médio",
+        "target_scores": {
+            "A. Custo marginal é igual a custo médio": 0,
+            "B. O custo marginal não tem nada a ver com o custo médio": 0,
+            "C. O custo marginal é maior que o custo médio": 0,
+            "D. O custo marginal é menor que o custo médio": 1
+        }
+    },
+    {
+        "input": "A descrição correta da curva de demanda do mercado é\nA. A soma das curvas de demanda dos maiores compradores do mercado\nB. A soma de todas as curvas de demanda individuais no mercado\nC. Demanda governamental por um bem\nD. Uma curva paralela ao eixo horizontal",
+        "target_scores": {
+            "A. A soma das curvas de demanda dos maiores compradores do mercado": 0,
+            "B. A soma de todas as curvas de demanda individuais no mercado": 1,
+            "C. Demanda governamental por um bem": 0,
+            "D. Uma curva paralela ao eixo horizontal": 0
+        }
+    },
+    {
+        "input": "As quatro opções a seguir descrevem todas a análise de equilíbrio local. Qual delas está correta?\nA. A análise é limitada a um mercado e ignora todos os outros mercados\nB. Analisar o impacto das mudanças em um departamento em todos os outros departamentos\nC. Separando a análise da demanda da análise da oferta\nD. Todas as opções acima estão corretas",
+        "target_scores": {
+            "A. A análise é limitada a um mercado e ignora todos os outros mercados": 1,
+            "B. Analisar o impacto das mudanças em um departamento em todos os outros departamentos": 0,
+            "C. Separando a análise da demanda da análise da oferta": 0,
+            "D. Todas as opções acima estão corretas": 0
+        }
+    },
+    {
+        "input": "Sabe-se que os bens A e B são complementares. Se o preço do bem A diminui, o valor da elasticidade cruzada da demanda pelo bem B atenderá a qual das seguintes condições?\nA. Não existe\nB. Valor Negativo\nC. Valor Positivo\nD. zero",
+        "target_scores": {
+            "A. Não existe": 0,
+            "B. Valor Negativo": 1,
+            "C. Valor Positivo": 0,
+            "D. zero": 0
+        }
+    },
+    {
+        "input": "Você é o gerente de uma fabricante de motocicletas. Após uma pesquisa recente, você descobriu que o mercado de motocicletas está atualmente em equilíbrio. Se o preço dos capacetes de motocicleta aumentar, qual dos seguintes resultados ocorrerá no novo equilíbrio?\nA. O preço de equilíbrio aumenta e a quantidade de equilíbrio diminui\nB. O preço de equilíbrio aumenta, a quantidade de equilíbrio aumenta\nC. O preço de equilíbrio cai e a quantidade de equilíbrio aumenta\nD. O preço de equilíbrio cai e a quantidade de equilíbrio cai",
+        "target_scores": {
+            "A. O preço de equilíbrio aumenta e a quantidade de equilíbrio diminui": 0,
+            "B. O preço de equilíbrio aumenta, a quantidade de equilíbrio aumenta": 0,
+            "C. O preço de equilíbrio cai e a quantidade de equilíbrio aumenta": 0,
+            "D. O preço de equilíbrio cai e a quantidade de equilíbrio cai": 1
+        }
+    },
+    {
+        "input": "Você é um economista em um determinado país. Quando você analisa a situação da inflação, a pesquisa descobre que o pleno emprego foi alcançado. Qual dos seguintes fatores tem mais probabilidade de causar inflação?\nA. Exportações caem\nB. Importações aumentaram\nC. Os gastos do governo permanecem os mesmos, mas as taxas de impostos caem\nD. Os salários permanecem os mesmos, mas a produtividade do trabalho aumenta",
+        "target_scores": {
+            "A. Exportações caem": 0,
+            "B. Importações aumentaram": 0,
+            "C. Os gastos do governo permanecem os mesmos, mas as taxas de impostos caem": 1,
+            "D. Os salários permanecem os mesmos, mas a produtividade do trabalho aumenta": 0
+        }
+    },
+    {
+        "input": "Qual das quatro afirmações a seguir sobre a curva de custo total de curto prazo está correta?\nA. A curva de custo total começa em um ponto de corte no eixo vertical, ou seja, o ponto em que o custo total é igual ao custo fixo com produção zero, e aumenta gradualmente à medida que a produção aumenta.\nB. A curva de custo total começa em um ponto no eixo vertical onde o custo total é igual ao custo variável com produção zero e diminui à medida que a produção aumenta.\nC. A curva de custo total começa na origem e aumenta gradualmente à medida que a produção aumenta.\nD. A curva de custo total não varia com as mudanças na produção",
+        "target_scores": {
+            "A. A curva de custo total começa em um ponto de corte no eixo vertical, ou seja, o ponto em que o custo total é igual ao custo fixo com produção zero, e aumenta gradualmente à medida que a produção aumenta.": 1,
+            "B. A curva de custo total começa em um ponto no eixo vertical onde o custo total é igual ao custo variável com produção zero e diminui à medida que a produção aumenta.": 0,
+            "C. A curva de custo total começa na origem e aumenta gradualmente à medida que a produção aumenta.": 0,
+            "D. A curva de custo total não varia com as mudanças na produção": 0
+        }
+    },
+    {
+        "input": "Um governo local constatou que existe atualmente um hiato deflacionário e, para eliminar esse hiato, qual das seguintes medidas seria a correta?\nA. Aumentar impostos\nB. Aumentar os gastos em obras públicas\nC. Nenhuma das opções acima está correta\nD. Reduzir os gastos com assistência social",
+        "target_scores": {
+            "A. Aumentar impostos": 0,
+            "B. Aumentar os gastos em obras públicas": 1,
+            "C. Nenhuma das opções acima está correta": 0,
+            "D. Reduzir os gastos com assistência social": 0
+        }
+    },
+    {
+        "input": "Quando eu estava estudando teoria económico, encontrei um conceito chamado \"armadilha da liquidez\", que é um conceito da teoria keynesiana. Diga-me em qual dos seguintes mecanismos de transmissão ele pode ser encontrado\nA. A crescente demanda por investimentos leva ao aumento do emprego\nB. O aumento do emprego leva a uma maior produção e renda\nC. O aumento na oferta de moeda faz com que as taxas de juros tendam a cair\nD. Taxas de juro mais baixas levam a uma maior demanda por investimento",
+        "target_scores": {
+            "A. A crescente demanda por investimentos leva ao aumento do emprego": 0,
+            "B. O aumento do emprego leva a uma maior produção e renda": 0,
+            "C. O aumento na oferta de moeda faz com que as taxas de juros tendam a cair": 1,
+            "D. Taxas de juro mais baixas levam a uma maior demanda por investimento": 0
+        }
+    },
+    {
+        "input": "Existem duas pessoas, o Pedro e o André, entre as quais a alocação inicial com relação ao bem A e ao bem B é ótima de Pareto, então qual das seguintes afirmações está correta?\nA. É impossível realocar bens entre duas pessoas para aumentar a utilidade de uma delas.\nB. É possível realocar bens entre duas pessoas para que ambas possam melhorar sua utilidade.\nC. É possível realocar bens entre duas pessoas, aumentando a utilidade de uma pessoa ao custo de diminuir a utilidade da outra.\nD. É possível realocar bens entre duas pessoas, aumentando a utilidade de uma sem diminuir a utilidade da outra.",
+        "target_scores": {
+            "A. É impossível realocar bens entre duas pessoas para aumentar a utilidade de uma delas.": 0,
+            "B. É possível realocar bens entre duas pessoas para que ambas possam melhorar sua utilidade.": 0,
+            "C. É possível realocar bens entre duas pessoas, aumentando a utilidade de uma pessoa ao custo de diminuir a utilidade da outra.": 1,
+            "D. É possível realocar bens entre duas pessoas, aumentando a utilidade de uma sem diminuir a utilidade da outra.": 0
+        }
+    },
+    {
+        "input": "Você é um economista de um país. Para dar suporte à agricultura do seu país, você propôs uma política de fixação de preços de suporte para produtos agrícolas que são maiores do que seus preços de equilíbrio. Para implementar essa política e manter os preços de suporte, quais medidas você deve tomar em seguida?\nA. Aumentar os impostos sobre produtos agrícolas\nB. Comprar produtos agrícolas excedentes\nC. Implementar o racionamento de produtos agrícolas\nD. Subsidiar produtores de produtos agrícolas",
+        "target_scores": {
+            "A. Aumentar os impostos sobre produtos agrícolas": 0,
+            "B. Comprar produtos agrícolas excedentes": 1,
+            "C. Implementar o racionamento de produtos agrícolas": 0,
+            "D. Subsidiar produtores de produtos agrícolas": 0
+        }
+    },
+    {
+        "input": "Para ajudar os consumidores a reduzir efetivamente o problema da assimetria de informação, um especialista tomou uma série de medidas. Qual das seguintes opções não pode atingir esse objetivo?\nA. Garantia de qualidade a longo prazo\nB. Garantia do produto\nC. Marca\nD. Preço baixo",
+        "target_scores": {
+            "A. Garantia de qualidade a longo prazo": 0,
+            "B. Garantia do produto": 0,
+            "C. Marca": 0,
+            "D. Preço baixo": 1
+        }
+    },
+    {
+        "input": "Sabe-se que tanto o mercado de produtos quanto o mercado de fatores são perfeitamente competitivos, o preço do produto é 5 reais, e o preço do fator é 10 reais. Então qual é a produção marginal do fator quando a empresa toma a decisão ótima?\nA. 1\nB. 2\nC. 3\nD. 5",
+        "target_scores": {
+            "A. 1": 0,
+            "B. 2": 1,
+            "C. 3": 0,
+            "D. 5": 0
+        }
+    },
+    {
+        "input": "Suponha que o bem A tenha uma característica: se for consumido por uma pessoa, reduzirá o uso do item por outras pessoas. Então qual descrição do item A está correta?\nA. Bens públicos\nB. Competitivo\nC. Exclusivo\nD. Nenhuma das opções acima está correta",
+        "target_scores": {
+            "A. Bens públicos": 0,
+            "B. Competitivo": 1,
+            "C. Exclusivo": 0,
+            "D. Nenhuma das opções acima está correta": 0
+        }
+    },
+    {
+        "input": "A pesquisa descobriu que o preço de um certo celular era de 3.600 reais na primavera, e o preço unitário era de 2.900 reais no outono do mesmo ano. A qual situação isso pertence?\nA. Alterações regulares nos preços de mercado\nB. Discriminação de primeiro grau  \nC. Discriminação de segundo grau\nD. Discriminação de terceiro grau",
+        "target_scores": {
+            "A. Alterações regulares nos preços de mercado": 1,
+            "B. Discriminação de primeiro grau  ": 0,
+            "C. Discriminação de segundo grau": 0,
+            "D. Discriminação de terceiro grau": 0
+        }
+    },
+    {
+        "input": "Em uma economia de dois produtoss, Carlos pensa que quanto mais bem A, pior, enquanto quanto mais bem B, melhor. Então qual das seguintes afirmações está correta?\nA. As curvas de indiferença podem ser elípticas\nB. As curvas de indiferença sempre se inclinam para cima e para a direita\nC. As curvas de indiferença são sempre convexas em relação à origem\nD. Nenhuma das acima",
+        "target_scores": {
+            "A. As curvas de indiferença podem ser elípticas": 0,
+            "B. As curvas de indiferença sempre se inclinam para cima e para a direita": 1,
+            "C. As curvas de indiferença são sempre convexas em relação à origem": 0,
+            "D. Nenhuma das acima": 0
+        }
+    },
+    {
+        "input": "Qual das seguintes afirmações sobre equilíbrio económico está correta?\nA. A despesa total é igual à receita empresarial\nB. Consumo mais investimento é igual a produção\nC. Poupança planejada é igual a investimento planejado\nD. Poupança real é igual a investimento real",
+        "target_scores": {
+            "A. A despesa total é igual à receita empresarial": 0,
+            "B. Consumo mais investimento é igual a produção": 0,
+            "C. Poupança planejada é igual a investimento planejado": 1,
+            "D. Poupança real é igual a investimento real": 0
+        }
+    },
+    {
+        "input": "O Paulo sempre tem curiosidade em saber por que bolsas de marcas populares não são caras, mas geralmente têm desconto, enquanto bolsas de marca são muito caras, mas geralmente não têm desconto. Por favor, explique esse fenômeno usando os princípios da economia.\nA. Como a elasticidade-preço na demanda é positiva\nB. Devido ao efeito manada\nC. Devido às externalidades colaterais negativas\nD. Devido às externalidades colaterais positivas",
+        "target_scores": {
+            "A. Como a elasticidade-preço na demanda é positiva": 0,
+            "B. Devido ao efeito manada": 0,
+            "C. Devido às externalidades colaterais negativas": 1,
+            "D. Devido às externalidades colaterais positivas": 0
+        }
+    },
+    {
+        "input": "Ao conduzir uma análise de mercado no produto A, é descoberto que quando o preço cai, o efeito substituição = +7 e o efeito renda = -5. Então, que tipo de produto é essa?\nA. Produto Giffen\nB. Produto de baixo custo\nC. Produto independente\nD. Produto normal",
+        "target_scores": {
+            "A. Produto Giffen": 0,
+            "B. Produto de baixo custo": 1,
+            "C. Produto independente": 0,
+            "D. Produto normal": 0
+        }
+    },
+    {
+        "input": "Os economistas descobrem que a taxa salarial do trabalho é menor do que o valor do produto marginal do trabalho. Com base nessa decoberta, qual das seguintes inferências deve estar incorreta?\nA. O mercado de fatores é monopolista e o mercado de produtos é perfeitamente competitivo.\nB. O mercado de produtos é um monopólio e o mercado de fatores é uma concorrência perfeita\nC. Os mercados de produtos e os mercados de fatores são monopolistas\nD. Os mercados de produtos e os mercados de fatores são perfeitamente competitivos",
+        "target_scores": {
+            "A. O mercado de fatores é monopolista e o mercado de produtos é perfeitamente competitivo.": 0,
+            "B. O mercado de produtos é um monopólio e o mercado de fatores é uma concorrência perfeita": 0,
+            "C. Os mercados de produtos e os mercados de fatores são monopolistas": 0,
+            "D. Os mercados de produtos e os mercados de fatores são perfeitamente competitivos": 1
+        }
+    },
+    {
+        "input": "Ao conduzir uma pesquisa de mercado sobre um determinado produto, descobre-se que o benefício marginal social do produto é maior do que o benefício marginal privado. Qual das seguintes opções está correta?\nA. A eficiência privada resulta em eficiência social\nB. A sociedade deve aumentar a produção de produtos\nC. A sociedade deve reduzir a produção de produtos\nD. O preço é menor que o preço eficiente",
+        "target_scores": {
+            "A. A eficiência privada resulta em eficiência social": 0,
+            "B. A sociedade deve aumentar a produção de produtos": 1,
+            "C. A sociedade deve reduzir a produção de produtos": 0,
+            "D. O preço é menor que o preço eficiente": 0
+        }
+    },
+    {
+        "input": "Qual das seguintes descrições explica melhor por que o excedente do consumidor é estritamente maior que 0?\nA. Ainda não está claro\nB. Decidido por A e B\nC. O preço de um bem é determinado pela última unidade consumida\nD. Utilidade marginal é decrescente",
+        "target_scores": {
+            "A. Ainda não está claro": 0,
+            "B. Decidido por A e B": 1,
+            "C. O preço de um bem é determinado pela última unidade consumida": 0,
+            "D. Utilidade marginal é decrescente": 0
+        }
+    },
+    {
+        "input": "Supondo que a economia de um país atenda às condições de uma economia aberta, quais serão as consequências se o país implementar uma política fiscal e monetária contracionista?\nA. Aumento da taxa de desemprego no país\nB. Aumento das taxas de juro e queda das saídas de capital\nC. Inflação crescente\nD. Levando ao aumento das importações e à deterioração da balança de pagamentos",
+        "target_scores": {
+            "A. Aumento da taxa de desemprego no país": 1,
+            "B. Aumento das taxas de juro e queda das saídas de capital": 0,
+            "C. Inflação crescente": 0,
+            "D. Levando ao aumento das importações e à deterioração da balança de pagamentos": 0
+        }
+    },
+    {
+        "input": "Sabe-se que o governo tem as seguintes quatro formas de financiamento, ao financiar os gastos, qual forma de gasto tem o maior impacto sobre a demanda agregada?\nA. Ao aumentar os impostos\nB. Ao pedir emprestado ao público\nC. Empreste indiretos do banco central\nD. Venda de títulos para bancos",
+        "target_scores": {
+            "A. Ao aumentar os impostos": 0,
+            "B. Ao pedir emprestado ao público": 0,
+            "C. Empreste indiretos do banco central": 1,
+            "D. Venda de títulos para bancos": 0
+        }
+    },
+    {
+        "input": "Quando eu estava estudando economia, eu queria distinguir a diferença mais essencial entre a teoria do crescimento económico endógeno e o modelo de Solow. Em relação à teoria do crescimento económico endógeno, qual das seguintes descrições está correta?\nA. A investigação e o desenvolvimento como principal causa da mudança tecnológica exógena\nB. A suposição de mudança tecnológica exógena no modelo de Solow é descartada\nC. Afirma o papel da mudança tecnológica no crescimento económico\nD. Nenhuma das afirmações acima está correta.",
+        "target_scores": {
+            "A. A investigação e o desenvolvimento como principal causa da mudança tecnológica exógena": 0,
+            "B. A suposição de mudança tecnológica exógena no modelo de Solow é descartada": 1,
+            "C. Afirma o papel da mudança tecnológica no crescimento económico": 0,
+            "D. Nenhuma das afirmações acima está correta.": 0
+        }
+    },
+    {
+        "input": "Se em um certo nível de produção, o custo marginal de uma empresa monopolista for igual a 10 e a receita marginal for igual a 22, se a empresa quiser maximizar os lucros, o que ela deve fazer?\nA. Aumentar a produção, reduzir os preços\nB. Aumentar os preços e a produção\nC. Reduzir a produção, aumentar os preços\nD. Reduzir preços e produção",
+        "target_scores": {
+            "A. Aumentar a produção, reduzir os preços": 1,
+            "B. Aumentar os preços e a produção": 0,
+            "C. Reduzir a produção, aumentar os preços": 0,
+            "D. Reduzir preços e produção": 0
+        }
+    },
+    {
+        "input": "Suponha a seguinte situação: Há escassez de água na cidade, e o governo adota uma política de distribuição gratuita e igualitária de recursos hídricos. Esse processo é calculado sem custo. Ao mesmo tempo, o governo proíbe transações de água entre moradores. Qual das seguintes análises está correta?\nA. Esta configuração não é necessariamente, mas provavelmente será, eficiente de Pareto\nB. Esta configuração é eficiente de Pareto porque a água é gratuita.\nC. Esta configuração é eficiente de Pareto porque é muito justa.\nD. Nenhuma das opções acima está correta",
+        "target_scores": {
+            "A. Esta configuração não é necessariamente, mas provavelmente será, eficiente de Pareto": 1,
+            "B. Esta configuração é eficiente de Pareto porque a água é gratuita.": 0,
+            "C. Esta configuração é eficiente de Pareto porque é muito justa.": 0,
+            "D. Nenhuma das opções acima está correta": 0
+        }
+    },
+    {
+        "input": "O Sr. Silva é o gerente de um fabricante. Se ele decidir produzir uma quantidade definida de produtos a um custo mínimo, qual será o resultado?\nA. A lucratividade máxima é garantida\nB. A receita total é zero\nC. Não deve ter alcançado o lucro máximo\nD. Não é possível determinar se o lucro máximo foi alcançado",
+        "target_scores": {
+            "A. A lucratividade máxima é garantida": 0,
+            "B. A receita total é zero": 0,
+            "C. Não deve ter alcançado o lucro máximo": 0,
+            "D. Não é possível determinar se o lucro máximo foi alcançado": 1
+        }
+    },
+    {
+        "input": "As quatro opções a seguir referem-se à curva indiferenciada de um consumidor, o que está incorreto?\nA. A hipótese \"quanto mais, melhor\" implica que curvas de indiferença mais próximas da origem representam níveis de utilidade mais altos.\nB. A inclinação da curva de indiferença representa, na verdade, a disposição do consumidor de substituir entre diferentes bens.\nC. A intersecção de duas curvas de indiferença significa que o consumidor não é racional.\nD. Os pontos em uma curva de indiferença representam o mesmo nível de utilidade.",
+        "target_scores": {
+            "A. A hipótese \"quanto mais, melhor\" implica que curvas de indiferença mais próximas da origem representam níveis de utilidade mais altos.": 1,
+            "B. A inclinação da curva de indiferença representa, na verdade, a disposição do consumidor de substituir entre diferentes bens.": 0,
+            "C. A intersecção de duas curvas de indiferença significa que o consumidor não é racional.": 0,
+            "D. Os pontos em uma curva de indiferença representam o mesmo nível de utilidade.": 0
+        }
+    },
+    {
+        "input": "Ao analisar as condições empresariais, o gerente da fábrica de refrigeradores descobre que o custo mínimo é alcançado sob as condições de produção determinadas. Então, qual é a situação de lucro do fabricante?\nA. 0\nB. Mais que 0\nC. Menos de 0\nD. Todas as opções acima são possíveis",
+        "target_scores": {
+            "A. 0": 0,
+            "B. Mais que 0": 0,
+            "C. Menos de 0": 0,
+            "D. Todas as opções acima são possíveis": 1
+        }
+    },
+    {
+        "input": "Para restringir o desenvolvimento de um fornecedor monopolista, um país adota limites de preço para o fornecedor, fazendo com que o lucro econômico do fornecedor desapareça exatamente. Então, a que corresponde o limite de preço para esse fornecedor?\nA. Custo Marginal\nB. Custo médio\nC. Custo variável médio\nD. Receita Marginal",
+        "target_scores": {
+            "A. Custo Marginal": 0,
+            "B. Custo médio": 1,
+            "C. Custo variável médio": 0,
+            "D. Receita Marginal": 0
+        }
+    },
+    {
+        "input": "Calcule a taxa de desemprego total no seguinte cenário: há dois grupos principais, adultos e adolescentes. Os adolescentes representam 10% da mão de obra e os adultos, 90%. Os adultos são divididos em homens e mulheres, com as mulheres representando 35% de mão de obra dos adultos. Se as taxas de desemprego para esses grupos forem: 19% para adolescentes, 7% para homens e 6% para mulheres, qual é a taxa total de desemprego?\nA. 0,06885\nB. 0,07855\nC. 0,07876\nD. 0,07885",
+        "target_scores": {
+            "A. 0,06885": 0,
+            "B. 0,07855": 0,
+            "C. 0,07876": 0,
+            "D. 0,07885": 1
+        }
+    },
+    {
+        "input": "Supondo um cenário em que haja apenas dois fatores de produção, com o capital representando 40% da receita e o trabalho representando 60% da receita, e em que o trabalho  e o capital cresçam a uma taxa de 2% e 6% ao ano, respectivamente, quanto tempo levaria para a produção dobrar na ausência de progresso tecnológico?\nA. $17,55$ano\nB. $18,86$ano\nC. $19,44$ano\nD. $20,02$ano",
+        "target_scores": {
+            "A. $17,55$ano": 0,
+            "B. $18,86$ano": 0,
+            "C. $19,44$ano": 1,
+            "D. $20,02$ano": 0
+        }
+    },
+    {
+        "input": "Suponha que $\\theta=0,3$, $\\text{y=5}$ trilhões de reais, $\\mathrm{rc=0,12}$. Usando a função de produção de Cobb-Douglas e o estoque de capital disposto, dado como $\\mathrm{K^{*}=g(rc,~y)=\\theta y/rc}$, calcule o estoque de capital desejável $K*$.\nA. 11,5 trilhões de reais\nB. 12,5 trilhões de reais\nC. 12,8 trilhões de reais\nD. 13,5 trilhões de reais",
+        "target_scores": {
+            "A. 11,5 trilhões de reais": 0,
+            "B. 12,5 trilhões de reais": 1,
+            "C. 12,8 trilhões de reais": 0,
+            "D. 13,5 trilhões de reais": 0
+        }
+    },
+    {
+        "input": "Suponha que a função de consumo seja $C=300+0,9Y_{p}$, em que $Y_{P}$ é a renda disponível permanente. Ao mesmo tempo, suponha que a renda permanente do consumidor seja a média ponderada do ano atual e dos dois anos anteriores, $Y_{P}=0,6Y_{D}+0,3Y_{D-1}+0,1Y_{D-2}$, em que $Y_{D}$ é a renda disponível do ano atual. Supondo que a renda disponível no quarto ano aumente para 9.000 reais e permaneça nesse nível no futuro, qual será o consumo no sexto ano e nos anos subsequentes?\nA. 8 400\nB. 8 500\nC. 8 600\nD. 8 700",
+        "target_scores": {
+            "A. 8 400": 1,
+            "B. 8 500": 0,
+            "C. 8 600": 0,
+            "D. 8 700": 0
+        }
+    },
+    {
+        "input": "As seguintes informações são conhecidas: o PIB é de 600 bilhões de reais, o investimento total é de 80 bilhões de reais, o investimento líquido é de 30 bilhões de reais, o consumo é de 40 bilhões de reais, as compras governamentais são de 110 bilhões de reais e o superávit orçamentário do governo é de 30 bilhões de reais. Quanto é a poupança pessoal?\nA. 370 bilhões de reais\nB. 410 bilhões de reais\nC. 450 bilhões de reais\nD. 500 bilhões de reais",
+        "target_scores": {
+            "A. 370 bilhões de reais": 1,
+            "B. 410 bilhões de reais": 0,
+            "C. 450 bilhões de reais": 0,
+            "D. 500 bilhões de reais": 0
+        }
+    },
+    {
+        "input": "Sabe-se que a função do consumidor em macroeconomia é $\\mathrm{C=100+0,8Y_{d}}$ ($Y_{d}$ é a renda disponível, (unidade: 100 milhões de reais), o investimento espontâneo (principal) $\\text{I=50}$ e a política fiscal do governo que consiste em gastos governamentais $\\text{G=200}$, tributação quantitativa (ou autônoma) $\\text{T0=60}$ e taxa de imposto proporcional $\\text{t=0,250}$. Qual é a renda nacional $Y$ no equilíbrio macroeconômico?\nA. 745\nB. 755\nC. 775\nD. 785",
+        "target_scores": {
+            "A. 745": 0,
+            "B. 755": 1,
+            "C. 775": 0,
+            "D. 785": 0
+        }
+    },
+    {
+        "input": "Suponha que em uma economia tenha: $\\text{C=85+0,75Yd}$, $\\text{I=100-500r}$, $\\text{G=50}$, $\\text{T=20+0,2Y}$, $\\text{TR=0}$. O que é a equação IS?\nA. $\\text{Y=550-1250r}$\nB. $\\text{Y=550-1350r}$\nC. $\\text{Y=650-1250r}$\nD. $\\text{Y=650-1350r}$",
+        "target_scores": {
+            "A. $\\text{Y=550-1250r}$": 1,
+            "B. $\\text{Y=550-1350r}$": 0,
+            "C. $\\text{Y=650-1250r}$": 0,
+            "D. $\\text{Y=650-1350r}$": 0
+        }
+    },
+    {
+        "input": "Suponha que haja uma sociedade econômica composta por três setores. Sua função de consumo é $\\text{C=680+0.8(YT)}$. A função de investimento é $\\text{l=600-4000r}$, a despesa governamental $\\text{G=420}$, a função de imposto é $\\text{T=100+0,25Y}$, a oferta nominal de moeda $\\text{Ms=345}$ e a função de demanda por moeda é $\\text{Md=25+0,4Y-4000r}$. Tente encontrar: equação da curva $IS$;\nA. $\\text{Y=2400-11000r}$\nB. $\\text{Y=2500-10000r}$\nC. $\\text{Y=2600-10000r}$\nD. $\\text{Y=4050-10000r}$",
+        "target_scores": {
+            "A. $\\text{Y=2400-11000r}$": 0,
+            "B. $\\text{Y=2500-10000r}$": 0,
+            "C. $\\text{Y=2600-10000r}$": 0,
+            "D. $\\text{Y=4050-10000r}$": 1
+        }
+    },
+    {
+        "input": "Os trabalhadores da indústria têxtil de um determinado país estão enfrentando o fenômeno do desemprego. Uma investigação descobre que isso se deve a um acúmulo de produtos têxteis. Então, a que tipo de desemprego esses trabalhadores pertencem?\nA. Desemprego cíclico\nB. Desemprego estrutural\nC. Desemprego friccional\nD. Desemprego permanente",
+        "target_scores": {
+            "A. Desemprego cíclico": 1,
+            "B. Desemprego estrutural": 0,
+            "C. Desemprego friccional": 0,
+            "D. Desemprego permanente": 0
+        }
+    },
+    {
+        "input": "Ao estudar os tipos de desemprego, se depara com desemprego friccional, desemprego estrutural e assim por diante. Qual desses dois tipos de desemprego é mais grave?\nA. Desemprego estrutural\nB. Desemprego friccional\nC. Nenhum deles é sério\nD. Tão sério quanto",
+        "target_scores": {
+            "A. Desemprego estrutural": 1,
+            "B. Desemprego friccional": 0,
+            "C. Nenhum deles é sério": 0,
+            "D. Tão sério quanto": 0
+        }
+    },
+    {
+        "input": "Quando um especialista analisa a situação econômica, ele descobre que a taxa de inflação real é maior do que a taxa de inflação esperada; que impacto essa situação não causará no curto prazo?\nA. Deflação\nB. Desemprego\nC. Inflação\nD. Queda dos salários reais",
+        "target_scores": {
+            "A. Deflação": 1,
+            "B. Desemprego": 0,
+            "C. Inflação": 0,
+            "D. Queda dos salários reais": 0
+        }
+    },
+    {
+        "input": "Uma curva de demanda agregada tem uma inclinação negativa e um padrão que se inclina para baixo à direita. Qual dos seguintes fatores NÃO é um fator na formação desse padrão?\nA. Efeito da taxa de câmbio Mundell-Fleming\nB. Efeito da taxa de juros\nC. Efeito de equilíbrio real\nD. Investimento estrangeiro diminui",
+        "target_scores": {
+            "A. Efeito da taxa de câmbio Mundell-Fleming": 0,
+            "B. Efeito da taxa de juros": 0,
+            "C. Efeito de equilíbrio real": 0,
+            "D. Investimento estrangeiro diminui": 1
+        }
+    },
+    {
+        "input": "A despesa fiscal de um país é de 800 bilhões, a receita tributária é de 800 bilhões, as exportações são de 700 bilhões, as importações são de 500 bilhões, a propensão marginal a consumir é de 0,5, o consumo espontâneo é de 100 bilhões, a propensão marginal a investir é de 0,3 e o investimento espontâneo é de 120 bilhões. Qual é a renda nacional do país?\nA. 2,7 trilhões\nB. 2,8 trilhões\nC. 2,9 trilhões\nD. 3 trilhões",
+        "target_scores": {
+            "A. 2,7 trilhões": 0,
+            "B. 2,8 trilhões": 0,
+            "C. 2,9 trilhões": 1,
+            "D. 3 trilhões": 0
+        }
+    },
+    {
+        "input": "Quando Paulo estava lendo um livro de economia, ele viu um termo chamado índice de dor. Ele estava curioso para saber se a dor também poderia ser quantificada. Por favor diga a ele a fórmula de cálculo para o índice de dor em economia?\nA. Taxa de deflação + taxa de desemprego\nB. Taxa de deflação + taxa de emprego\nC. Taxa de inflação + taxa de desemprego\nD. Taxa de inflação + taxa de emprego",
+        "target_scores": {
+            "A. Taxa de deflação + taxa de desemprego": 0,
+            "B. Taxa de deflação + taxa de emprego": 0,
+            "C. Taxa de inflação + taxa de desemprego": 1,
+            "D. Taxa de inflação + taxa de emprego": 0
+        }
+    },
+    {
+        "input": "Qual das seguintes descrições da relação entre a curva de demanda de mercado por bens públicos e a curva de demanda individual de consumidor está correta?\nA. A curva de demanda de mercado para um bem público é a adição horizontal da curva de demanda individual de consumidor\nB. A curva de demanda de mercado para um bem público é a adição vertical da curva de demanda individual de consumidor\nC. A curva de demanda de mercado para um bem público é a média aritmética da curva de demanda individual de consumidor\nD. A curva de demanda de mercado para um bem público é a média ponderada da curva de demanda individual de consumidor",
+        "target_scores": {
+            "A. A curva de demanda de mercado para um bem público é a adição horizontal da curva de demanda individual de consumidor": 0,
+            "B. A curva de demanda de mercado para um bem público é a adição vertical da curva de demanda individual de consumidor": 1,
+            "C. A curva de demanda de mercado para um bem público é a média aritmética da curva de demanda individual de consumidor": 0,
+            "D. A curva de demanda de mercado para um bem público é a média ponderada da curva de demanda individual de consumidor": 0
+        }
+    },
+    {
+        "input": "Um especialista em economia deseja prever quanto a renda nacional pode ser aumentada por um aumento no investimento do governo sob as seguintes condições: a despesa de investimento governamental aumenta em 5 bilhões de reais, a economia está inicialmente em um ponto de equilíbrio de 470 bilhões de reais, e a propensão marginal a consumir é de 0,75. Então, quanto a renda nacional aumentará?\nA. 18 bilhões de reais\nB. 19 bilhões de reais\nC. 20 bilhões de reais\nD. 22 bilhões de reais",
+        "target_scores": {
+            "A. 18 bilhões de reais": 0,
+            "B. 19 bilhões de reais": 0,
+            "C. 20 bilhões de reais": 1,
+            "D. 22 bilhões de reais": 0
+        }
+    },
+    {
+        "input": "Suponha que a função de consumo social de um sistema econômico de três setores seja $\\mathbf{C}=300+0,8\\mathbf{Y}_{\\mathrm{d}}$ ($\\mathbf{Y}_{\\mathrm{d}}$ é a renda disponível), o investimento $\\text{I=200}$ e a função tributária $\\text{T=0,2Y}$ (unidade: 100 milhões de reais). Quando a renda de equilíbrio é $\\text{Y=2000}$, qual será a despesa do governo (excluindo pagamentos de transferência)?\nA. 200\nB. 210\nC. 220\nD. 230",
+        "target_scores": {
+            "A. 200": 0,
+            "B. 210": 0,
+            "C. 220": 1,
+            "D. 230": 0
+        }
+    },
+    {
+        "input": "Suponha que haja a seguinte relação em uma economia: $\\text{C=100+0,8Yd}$ $\\text{I=50}$ $\\text{G=200}$ $\\text{TR=62,5}$ $\\text{t=0,25}$ onde C representa o consumo, Yd representa a renda pessoal disponível, I representa o investimento, G representa as compras do governo, TR representa os pagamentos de transferência do governo e t representa a taxa de imposto. Qual é a renda de equilíbrio?\nA. 1 000\nB. 1 100\nC. 1 200\nD. 900",
+        "target_scores": {
+            "A. 1 000": 1,
+            "B. 1 100": 0,
+            "C. 1 200": 0,
+            "D. 900": 0
+        }
+    },
+    {
+        "input": "Suponha que a função de consumo de uma economia seja $\\text{C=100+0,8Yd}$, onde $\\text{Yd=Y-tY+TR}$, investimento $\\text{I=50}$, compras governamentais $\\text{G=200}$ e pagamentos de transferências governamentais sejam $\\text{TR=62,5}$ (unidade: 100 milhões de reais). Taxa de imposto $\\text{t=0,25}$. Qual é a produção total de equilíbrio?\nA. 1 000\nB. 1 100\nC. 1 200\nD. 900",
+        "target_scores": {
+            "A. 1 000": 1,
+            "B. 1 100": 0,
+            "C. 1 200": 0,
+            "D. 900": 0
+        }
+    },
+    {
+        "input": "Modelo de oferta e demanda agregada de economia fechada $\\text{C=100+0,8Y}$, $\\text{I=1000-2r}$ Oferta nominal de moeda $\\text{Ms=800}$ Demanda real de moeda $\\text{Md/P=0,2Y-2r}$, Compras governamentais $\\text{G=500}$ Função de produção agregada de curto prazo $\\text{Y=20L}$ Oferta de trabalho $\\textsf{Ls=100+2(W/P)} $ Demanda de trabalho $\\mathrm{Ld=500-2(W/P)} $, W é a taxa de salário nominal, P é o nível de preços, r é a taxa de juros, assumindo que preços e salários são totalmente elásticos, qual é a equação da curva IS?\nA. $\\texto{Y=8000-10r}$\nB. $\\texto{Y=8500-10r}$\nC. $\\texto{Y=8600-10r}$\nD. $\\texto{Y=9000-10r}$",
+        "target_scores": {
+            "A. $\\texto{Y=8000-10r}$": 1,
+            "B. $\\texto{Y=8500-10r}$": 0,
+            "C. $\\texto{Y=8600-10r}$": 0,
+            "D. $\\texto{Y=9000-10r}$": 0
+        }
+    },
+    {
+        "input": "Especialistas econômicos estão analisando a situação econômica. Os dados que obtêm mostram que a despesa do governo com bens e serviços  é de 1,5 bilhões de reais, o consumo é de 6 bilhões de reais, os impostos indiretos são de 1 bilhão de reais, o investimento é de 1 bilhão de reais e as exportações líquidas são de 200 milhões de reais. Qual das seguintes afirmações está correta?\nA. Não é possível determinar o PNB (Produto Nacional Bruto)\nB. PIL (Produto Interno Líquido) = 5 bilhões reais\nC. PIL (Produto Interno Líquido) = US$ 8,7 bilhões reais\nD. PNB (Produto Nacional Bruto) = 8,7 bilhões de reais",
+        "target_scores": {
+            "A. Não é possível determinar o PNB (Produto Nacional Bruto)": 1,
+            "B. PIL (Produto Interno Líquido) = 5 bilhões reais": 0,
+            "C. PIL (Produto Interno Líquido) = US$ 8,7 bilhões reais": 0,
+            "D. PNB (Produto Nacional Bruto) = 8,7 bilhões de reais": 0
+        }
+    },
+    {
+        "input": "Quais das seguintes situações estão incluídas no PIB daquele ano?\nA. Alimentos produzidos e consumidos pelos próprios agricultores\nB. Comprar 1 000 reais em ações\nC. Comprar um carro usado\nD. Comprar um carro usado e pagar uma taxa de corretagem de 1 000 reais",
+        "target_scores": {
+            "A. Alimentos produzidos e consumidos pelos próprios agricultores": 0,
+            "B. Comprar 1 000 reais em ações": 0,
+            "C. Comprar um carro usado": 0,
+            "D. Comprar um carro usado e pagar uma taxa de corretagem de 1 000 reais": 1
+        }
+    },
+    {
+        "input": "Ao analisar o desenvolvimento econômico de vários países, verifica-se que o PNB de um país é menor que seu PIB. Disto, pode-se deduzir que a renda obtida pelos residentes daquele país de países estrangeiros é ( ) a renda obtida por residentes estrangeiros daquele país.\nA. Igual\nB. Incapaz de julgar\nC. Maior que\nD. Menor que",
+        "target_scores": {
+            "A. Igual": 0,
+            "B. Incapaz de julgar": 0,
+            "C. Maior que": 0,
+            "D. Menor que": 1
+        }
+    },
+    {
+        "input": "Supondo que o deflator do PIB aumente de 1,25 para 1,50, e o PIB nominal aumente de 2 trilhões para 2,3 trilhões, qual das seguintes afirmações está correta?\nA. PIB real diminui\nB. PIB real permanece inalterado\nC. PIB real sobe\nD. É impossível determinar se o PIB real muda",
+        "target_scores": {
+            "A. PIB real diminui": 1,
+            "B. PIB real permanece inalterado": 0,
+            "C. PIB real sobe": 0,
+            "D. É impossível determinar se o PIB real muda": 0
+        }
+    },
+    {
+        "input": "Qual das seguintes afirmações sobre o cálculo do PIB, usando a abordagem de renda está correta?\nA. Inclui os ganhos de capital de pessoas físicas, mas exclui os lucros não distribuídos de fornecedores\nB. Inclui os lucros não distribuídos de fornecedores, mas exclui os ganhos de capital de pessoas físicas\nC. Inclui tanto os ganhos de capital de pessoas físicas quanto os lucros não distribuídos de fornecedores\nD. Os ganhos de capital de pessoas físicas e os lucros não distribuídos de fornecedores são excluídos",
+        "target_scores": {
+            "A. Inclui os ganhos de capital de pessoas físicas, mas exclui os lucros não distribuídos de fornecedores": 0,
+            "B. Inclui os lucros não distribuídos de fornecedores, mas exclui os ganhos de capital de pessoas físicas": 0,
+            "C. Inclui tanto os ganhos de capital de pessoas físicas quanto os lucros não distribuídos de fornecedores": 1,
+            "D. Os ganhos de capital de pessoas físicas e os lucros não distribuídos de fornecedores são excluídos": 0
+        }
+    },
+    {
+        "input": "As seguintes são todas afirmações sobre PIB potencial. Qual delas está correta?\nA. Nenhuma das três opções acima está correta\nB. O PIB potencial é o nível do PIB nominal ajustado pela inflação.\nC. O PIB potencial é o nível do PIB quando a taxa de desemprego é zero.\nD. O PIB potencial é sempre maior que o PIB real",
+        "target_scores": {
+            "A. Nenhuma das três opções acima está correta": 1,
+            "B. O PIB potencial é o nível do PIB nominal ajustado pela inflação.": 0,
+            "C. O PIB potencial é o nível do PIB quando a taxa de desemprego é zero.": 0,
+            "D. O PIB potencial é sempre maior que o PIB real": 0
+        }
+    },
+    {
+        "input": "Se uma economia sofre de subinvestimento, o que ocorrerá? Resposta baseada na identidade da contabilidade de renda nacional\nA. Aumento das exportações\nB. Aumento dos benefícios de desemprego do governo\nC. Diminuição da receita tributária\nD. Todas as opções acima",
+        "target_scores": {
+            "A. Aumento das exportações": 0,
+            "B. Aumento dos benefícios de desemprego do governo": 0,
+            "C. Diminuição da receita tributária": 0,
+            "D. Todas as opções acima": 1
+        }
+    },
+    {
+        "input": "Sabendo que uma economia de três setores é composta por famílias, empresas e governo, qual das seguintes afirmações é verdadeira? Resposta baseada no sistema de contabilidade de renda nacional\nA. A poupança das famílias mais a depreciação é igual ao investimento total mais as despesas do governo\nB. A poupança das famílias mais os impostos é igual ao investimento total mais as despesas do governo\nC. A poupança das famílias é igual ao investimento líquido\nD. A poupança das famílias é igual ao investimento total",
+        "target_scores": {
+            "A. A poupança das famílias mais a depreciação é igual ao investimento total mais as despesas do governo": 0,
+            "B. A poupança das famílias mais os impostos é igual ao investimento total mais as despesas do governo": 1,
+            "C. A poupança das famílias é igual ao investimento líquido": 0,
+            "D. A poupança das famílias é igual ao investimento total": 0
+        }
+    },
+    {
+        "input": "Sabendo que a equação de oferta de mão de obra é $\\text{NS=100+4W/P}$; e a equação de demanda de mão de obra é $\\text{ND=200-6W/P}$, qual é o nível de emprego no estado de equilíbrio?\nA. 130\nB. 140\nC. 150\nD. 160",
+        "target_scores": {
+            "A. 130": 0,
+            "B. 140": 1,
+            "C. 150": 0,
+            "D. 160": 0
+        }
+    },
+    {
+        "input": "Dadas a equação da oferta de mão de obra $N_S = 100+4W/P$ e a equação da demanda de mão de obra $N_D=200 - 6W/P$. Suponha que a demanda de mão de obra diminua, e sua equação se torne: $\\text{N_D = 180-6W /P}$. De quanto cai o nível de emprego de equilíbrio?\nA. 4,7%\nB. 5,7%\nC. 6,3%\nD. 6,7%",
+        "target_scores": {
+            "A. 4,7%": 0,
+            "B. 5,7%": 1,
+            "C. 6,3%": 0,
+            "D. 6,7%": 0
+        }
+    },
+    {
+        "input": "Um governo está analisando sua economia e sabe-se que o PIB real é de 150 bilhões de reais e o deflator do PIB é 120. Qual é sua renda nacional nominal?\nA. 110 bilhões de reais\nB. 150 bilhões de reais\nC. 170 bilhões de reais\nD. 180 bilhões de reais",
+        "target_scores": {
+            "A. 110 bilhões de reais": 0,
+            "B. 150 bilhões de reais": 0,
+            "C. 170 bilhões de reais": 0,
+            "D. 180 bilhões de reais": 1
+        }
+    },
+    {
+        "input": "Paulo tem algumas dúvidas ao calcular o PIB usando o método de despesas, ele não tem certeza de qual das seguintes opções não pertence ao investimento. Por favor, diga a ele a resposta.\nA. Uma empresa aumenta seu estoque\nB. Uma empresa compra títulos do governo\nC. Uma empresa compra um computador\nD. Uma empresa constrói uma fábrica",
+        "target_scores": {
+            "A. Uma empresa aumenta seu estoque": 0,
+            "B. Uma empresa compra títulos do governo": 1,
+            "C. Uma empresa compra um computador": 0,
+            "D. Uma empresa constrói uma fábrica": 0
+        }
+    },
+    {
+        "input": "O Paulo está fazendo uma pesquisa sobre uma certa família e descobre que quando sua renda é zero, sua despesa de consumo é de 2.000 reais; e quando sua renda é de 6.000 reais, seu consumo é de 6.000 reais. No gráfico, há uma linha reta entre consumo e renda, então qual é a propensão marginal a consumir?\nA. 0,6666666666666666\nB. 0,75\nC. 0,8\nD. 1",
+        "target_scores": {
+            "A. 0,6666666666666666": 1,
+            "B. 0,75": 0,
+            "C. 0,8": 0,
+            "D. 1": 0
+        }
+    },
+    {
+        "input": "Suponha um cenário em que a oferta de moeda e o nível de preços permaneçam constantes, e em que a demanda por moeda seja função da renda e da taxa de juros. Nesse caso, quando a renda aumenta\nA. A demanda por moeda para transações aumenta e a taxa de juros cai.\nB. A demanda por moeda para transações aumenta e a taxa de juros sobe.\nC. A demanda por moeda para transações diminui e a taxa de juros cai.\nD. A demanda por moeda para transações diminui e a taxa de juros sobe.",
+        "target_scores": {
+            "A. A demanda por moeda para transações aumenta e a taxa de juros cai.": 0,
+            "B. A demanda por moeda para transações aumenta e a taxa de juros sobe.": 1,
+            "C. A demanda por moeda para transações diminui e a taxa de juros cai.": 0,
+            "D. A demanda por moeda para transações diminui e a taxa de juros sobe.": 0
+        }
+    },
+    {
+        "input": "Na discriminação de preços de primeiro grau, o excedente do consumidor se enquadra em qual das seguintes descrições?\nA. Excede o excedente do consumidor da discriminação de preço de terceiro grau\nB. É igual a zero\nC. É igual ao excedente do produtor\nD. É o mesmo que o excedente do consumidor em concorrência perfeita",
+        "target_scores": {
+            "A. Excede o excedente do consumidor da discriminação de preço de terceiro grau": 0,
+            "B. É igual a zero": 1,
+            "C. É igual ao excedente do produtor": 0,
+            "D. É o mesmo que o excedente do consumidor em concorrência perfeita": 0
+        }
+    },
+    {
+        "input": "Li uma teoria econômico na Internet que, basicamente, afirma que os consumidores não se relacionam apenas com a renda atual, mas usam a renda vitalícia ou previsível a longo prazo como decisão de consumo. Qual é o nome dessa teoria?\nA. Teoria da Renda Absoluta\nB. Teoria da Renda Permanente\nC. Teoria da Renda Relativa\nD. Teoria de consumo keynesiana",
+        "target_scores": {
+            "A. Teoria da Renda Absoluta": 0,
+            "B. Teoria da Renda Permanente": 1,
+            "C. Teoria da Renda Relativa": 0,
+            "D. Teoria de consumo keynesiana": 0
+        }
+    },
+    {
+        "input": "Ao analisar a situação econômico recente, um especialista nota que, devido ao aumento nos níveis de preços, o valor real do dinheiro e de outros ativos que as pessoas detêm diminuiu, resultando em uma diminuição no nível de consumo das pessoas. Há uma teoria que pode explicar bem esse efeito. Qual é esse efeito?\nA. Efeito da taxa de juros\nB. Efeito de \"crowding out\" \nC. Efeito de importação e exportação\nD. Efeito do saldo real",
+        "target_scores": {
+            "A. Efeito da taxa de juros": 0,
+            "B. Efeito de \"crowding out\" ": 0,
+            "C. Efeito de importação e exportação": 0,
+            "D. Efeito do saldo real": 1
+        }
+    },
+    {
+        "input": "Se a receita tributária líquida aumentar em 1 bilhão de reais, o que acontecerá com a curva IS?\nA. Multiplicador de gastos com desvio à direita multiplica por 1 bilhão de reais\nB. Multiplicador de gastos com desvio à esquerda multiplica por 1 bilhão de reais\nC. Multiplicador de impostos com desvio à direita multiplica por 1 bilhão de reais\nD. Multiplicador de impostos com desvio à esquerda multiplica por 1 bilhão de reais",
+        "target_scores": {
+            "A. Multiplicador de gastos com desvio à direita multiplica por 1 bilhão de reais": 0,
+            "B. Multiplicador de gastos com desvio à esquerda multiplica por 1 bilhão de reais": 0,
+            "C. Multiplicador de impostos com desvio à direita multiplica por 1 bilhão de reais": 0,
+            "D. Multiplicador de impostos com desvio à esquerda multiplica por 1 bilhão de reais": 1
+        }
+    },
+    {
+        "input": "Em uma análise econômica de um mercado de mão de obra, verifica-se que a curva de demanda é $\\text{D=6000-30w}$ e a curva de oferta é $\\text{S=20w}$, então, qual é o salário de equilíbrio que pode ser calculado?\nA. 120\nB. 130\nC. 140\nD. 150",
+        "target_scores": {
+            "A. 120": 1,
+            "B. 130": 0,
+            "C. 140": 0,
+            "D. 150": 0
+        }
+    },
+    {
+        "input": "Vi uma frase \"O mercado não pode fornecer bens públicos puros\". Como é que essa frase é entendida?\nA. Os bens públicos não são competitivos\nB. Os bens públicos não são exclusivos\nC. Os consumidores querem \"pegar uma carona\"\nD. Todas as opções acima",
+        "target_scores": {
+            "A. Os bens públicos não são competitivos": 0,
+            "B. Os bens públicos não são exclusivos": 0,
+            "C. Os consumidores querem \"pegar uma carona\"": 0,
+            "D. Todas as opções acima": 1
+        }
+    },
+    {
+        "input": "A análise mostra que o aumento dos gastos do governo desloca a curva IS para a direita. Se quisermos que a variação da renda de equilíbrio seja próxima ao deslocamento da IS, qual das seguintes afirmações está correta?\nA. LM é plano e IS é íngreme\nB. LM é tão plano quanto IS\nC. LM é vertical enquanto IS é íngreme\nD. LM é íngreme e IS é plano",
+        "target_scores": {
+            "A. LM é plano e IS é íngreme": 1,
+            "B. LM é tão plano quanto IS": 0,
+            "C. LM é vertical enquanto IS é íngreme": 0,
+            "D. LM é íngreme e IS é plano": 0
+        }
+    },
+    {
+        "input": "Antes de formular políticas, um certo país conduz um estudo sobre renda e emprego. Os resultados mostram que a renda de equilíbrio é menor do que o equilíbrio de pleno emprego. Se uma política de flexibilização dupla fosse implementada neste momento, qual dos seguintes resultados resultaria?\nA. A renda aumenta, as taxas de juros caem\nB. A renda aumenta, as taxas de juros permanecem as mesmas\nC. A renda aumenta, as taxas de juros são incertas\nD. Os rendimentos aumentam, as taxas de juro aumentam",
+        "target_scores": {
+            "A. A renda aumenta, as taxas de juros caem": 0,
+            "B. A renda aumenta, as taxas de juros permanecem as mesmas": 0,
+            "C. A renda aumenta, as taxas de juros são incertas": 1,
+            "D. Os rendimentos aumentam, as taxas de juro aumentam": 0
+        }
+    },
+    {
+        "input": "Qual das seguintes opções é um passivo de um banco comercial?\nA. Depósito à vista\nB. Desconto de conta\nC. Empréstimo hipotecário\nD. Títulos de Investimento",
+        "target_scores": {
+            "A. Depósito à vista": 1,
+            "B. Desconto de conta": 0,
+            "C. Empréstimo hipotecário": 0,
+            "D. Títulos de Investimento": 0
+        }
+    },
+    {
+        "input": "Um país sofre uma quebra significativa na safra de cereais. Qual das seguintes situações é causada por esse choque de oferta desfavorável?\nA. O nível de preços cai e o PIB real aumenta\nB. O nível de preços cai e o PIB real diminui\nC. O nível de preços sobe e o PIB real aumenta\nD. O nível de preços sobe e o PIB real diminui",
+        "target_scores": {
+            "A. O nível de preços cai e o PIB real aumenta": 0,
+            "B. O nível de preços cai e o PIB real diminui": 0,
+            "C. O nível de preços sobe e o PIB real aumenta": 0,
+            "D. O nível de preços sobe e o PIB real diminui": 1
+        }
+    },
+    {
+        "input": "De acordo com os princípios da contabilidade da renda nacional, qual das seguintes opções é uma descrição correta do investimento de capital humano de uma família em educação?\nA. Excluído do PIB\nB. Pertencente a despesa de consumo\nC. Pertencente a despesa de investimento\nD. Pertencente a despesa do governo",
+        "target_scores": {
+            "A. Excluído do PIB": 0,
+            "B. Pertencente a despesa de consumo": 1,
+            "C. Pertencente a despesa de investimento": 0,
+            "D. Pertencente a despesa do governo": 0
+        }
+    },
+    {
+        "input": "Sob a premissa de que a taxa natural de desemprego na sociedade econômica é de 4%, se a taxa de desemprego de um país for de 7%, então o PIB real desse país será ( ) pontos percentuais menor que o PIB potencial, calculado de acordo com a lei de Okun.\nA. 4\nB. 5\nC. 6\nD. 7",
+        "target_scores": {
+            "A. 4": 0,
+            "B. 5": 0,
+            "C. 6": 1,
+            "D. 7": 0
+        }
+    },
+    {
+        "input": "Qual das seguintes teorias explica que a inflação só pode ser apenas e sempre um fenômeno monetário, e a taxa de crescimento da emissão de moeda é o fator decisivo na inflação?\nA. Nenhuma das opções acima.\nB. Teoria das expectativas racionais\nC. Teoria do lado da oferta\nD. Teoria quantitativa da moeda",
+        "target_scores": {
+            "A. Nenhuma das opções acima.": 0,
+            "B. Teoria das expectativas racionais": 0,
+            "C. Teoria do lado da oferta": 0,
+            "D. Teoria quantitativa da moeda": 1
+        }
+    },
+    {
+        "input": "Existem dois setores, A e B. Se a taxa de crescimento da produção e a taxa de crescimento salarial do primeiro forem ambas de 3,5\\%, e a taxa de crescimento da produção do último for de 0,5\\%, enquanto sua taxa de crescimento salarial for de 3,5\\%, então a taxa de crescimento salarial de toda a sociedade será maior que a taxa de crescimento da produção, causando inflação. Esta inflação é\nA. Inflação de Custos\nB. Inflação de demanda\nC. Inflação estrutural\nD. Inflação inercial",
+        "target_scores": {
+            "A. Inflação de Custos": 0,
+            "B. Inflação de demanda": 0,
+            "C. Inflação estrutural": 1,
+            "D. Inflação inercial": 0
+        }
+    },
+    {
+        "input": "Suponha que um país adote uma política económico que restrinja os preços abaixo do seu nível de equilíbrio. Em que essa política pode resultar?\nA. A e C\nB. Grande acúmulo de bens\nC. Os compradores compram a quantidade de bens que desejam a um preço baixo\nD. Transações no mercado negro",
+        "target_scores": {
+            "A. A e C": 0,
+            "B. Grande acúmulo de bens": 0,
+            "C. Os compradores compram a quantidade de bens que desejam a um preço baixo": 0,
+            "D. Transações no mercado negro": 1
+        }
+    },
+    {
+        "input": "Observa-se que as taxas de juros do mercado caem, então o que acontece com a demanda especulativa por moeda?\nA. Melhorar\nB. Mudar de forma incerta\nC. Permanecer inalterado\nD. Reduzir",
+        "target_scores": {
+            "A. Melhorar": 1,
+            "B. Mudar de forma incerta": 0,
+            "C. Permanecer inalterado": 0,
+            "D. Reduzir": 0
+        }
+    },
+    {
+        "input": "Qual dos seguintes termos económicos representa a diferença entre a quantia de dinheiro paga por algo e a quantia de dinheiro que alguém está disposto a pagar por isso?\nA. Demanda do consumidor\nB. Excedente do consumidor\nC. Utilidade marginal\nD. Utilidade total  ",
+        "target_scores": {
+            "A. Demanda do consumidor": 0,
+            "B. Excedente do consumidor": 1,
+            "C. Utilidade marginal": 0,
+            "D. Utilidade total  ": 0
+        }
+    },
+    {
+        "input": "O Banco do país B possui uma filial de financiamento integral na cidade M do país A. Em determinado mês, o Banco do país B forneceu empréstimo diretamente a uma empresa na cidade M do país A para obter juros. As autoridades fiscais do governo do país A querem incorporar esses juros ao lucro operacional da filial integral na cidade M para tributação conjunta. Esta ação é baseada em ______.\nA. Princípio da \"conexão efetiva\" para a consolidação dos lucros de estabelecimento permanente\nB. Princípio da \"gravidade\" para a consolidação dos lucros de estabelecimento permanente\nC. Princípio da conveniência tributária\nD. Princípio de cálculo independente de lucros e perdas para estabelecimento permanente",
+        "target_scores": {
+            "A. Princípio da \"conexão efetiva\" para a consolidação dos lucros de estabelecimento permanente": 0,
+            "B. Princípio da \"gravidade\" para a consolidação dos lucros de estabelecimento permanente": 1,
+            "C. Princípio da conveniência tributária": 0,
+            "D. Princípio de cálculo independente de lucros e perdas para estabelecimento permanente": 0
+        }
+    },
+    {
+        "input": "Uma empresa matriz residente no país A possui uma filial no país B. Em determinado ano fiscal, a matriz obteve uma receita de 800.000 reais no seu país. A filial no país B obteve uma receita de 500.000 reais, e o país B cobrou imposto de renda de 200.000 reais com uma alíquota de 40%. A alíquota de imposto de renda no país A é de 25%. Se o país A implementar um crédito fiscal integral, o valor do imposto de renda que a matriz no país A deve pagar é de ______ milhões de reais.\nA. 12,5\nB. 20\nC. 32,5\nD. 52,5",
+        "target_scores": {
+            "A. 12,5": 1,
+            "B. 20": 0,
+            "C. 32,5": 0,
+            "D. 52,5": 0
+        }
+    },
+    {
+        "input": "Uma empresa matriz residente no país A possui uma filial no país B. Em determinado ano fiscal, a matriz obteve uma receita de 6 milhões no país A, e a filial no país B obteve uma receita de 1 milhão. A filial pagou imposto de renda de 300.000 ao governo do país B a uma alíquota de 30%. A alíquota de imposto do país A é de 25%. Conforme o método de crédito fiscal limitado, o país A deve cobrar da matriz ______.\nA. 1,4 milhões de reais\nB. 1,45 milhões de reais\nC. 1,5 milhões de reais\nD. 1,75 milhões de reais",
+        "target_scores": {
+            "A. 1,4 milhões de reais": 0,
+            "B. 1,45 milhões de reais": 0,
+            "C. 1,5 milhões de reais": 1,
+            "D. 1,75 milhões de reais": 0
+        }
+    },
+    {
+        "input": "Uma empresa do país A obteve uma receita tributável doméstica de 1 milhão em 2008, e uma receita tributável de 500.000 proveniente da filial no país B. O imposto de renda no país A utiliza uma alíquota progressiva: para renda anual até 600.000, a alíquota é de 25%; para a parte que excede 600.000 até 1,2 milhão, a alíquota é de 35%; para a parte que excede 1,2 milhão, a alíquota é de 45%. O país B aplica uma alíquota proporcional de 30%. Supondo que o país A adote o método de isenção progressiva, o imposto de renda que a empresa deve pagar no país A é (  ).\nA. 290 mil reais\nB. 330 mil reais\nC. 345 mil reais\nD. 495 mil reais",
+        "target_scores": {
+            "A. 290 mil reais": 0,
+            "B. 330 mil reais": 1,
+            "C. 345 mil reais": 0,
+            "D. 495 mil reais": 0
+        }
+    },
+    {
+        "input": "Um residente do país A tem rendimentos de 1 milhão oriundos do país B e 400.000 do país C. As alíquotas de imposto de renda nos países A, B e C são respectivamente 50%, 40% e 30%. Sob o método de crédito fiscal limitado por país, o imposto de renda que o país A deve cobrar sobre esses rendimentos é (  ).\nA. 0 reais\nB. 180 mil reais\nC. 520 mil reais\nD. 700 mil reais",
+        "target_scores": {
+            "A. 0 reais": 0,
+            "B. 180 mil reais": 1,
+            "C. 520 mil reais": 0,
+            "D. 700 mil reais": 0
+        }
+    },
+    {
+        "input": "Se o país A e o país B, no mesmo tempo de trabalho, produzem respectivamente 10 metros de lã e 15 metros de linho, e 10 metros de lã e 30 metros de linho, então o padrão de divisão de trabalho baseado no princípio da vantagem comparativa é (  ).\nA. Os dois países não conseguem realizar comércio\nB. País A produz e exporta linho\nC. País B produz e exporta linho\nD. País B produz e exporta lã",
+        "target_scores": {
+            "A. Os dois países não conseguem realizar comércio": 0,
+            "B. País A produz e exporta linho": 0,
+            "C. País B produz e exporta linho": 1,
+            "D. País B produz e exporta lã": 0
+        }
+    },
+    {
+        "input": "Os Estados Unidos, o Japão e outros países estabelecem impostos sobre consumo de bebidas alcoólicas importadas superiores aos dos produtos nacionais. Esta medida pertence a (  ).\nA. Barreiras não tarifárias\nB. Barreiras tarifárias\nC. Medidas de controle de exportação\nD. Medidas de incentivo à exportação",
+        "target_scores": {
+            "A. Barreiras não tarifárias": 1,
+            "B. Barreiras tarifárias": 0,
+            "C. Medidas de controle de exportação": 0,
+            "D. Medidas de incentivo à exportação": 0
+        }
+    },
+    {
+        "input": "Se no país A a produção de um relógio requer 8 dias de trabalho e uma bicicleta requer 9 dias de trabalho, enquanto no país B a produção de um relógio e uma bicicleta requer respectivamente 13 e 11 dias de trabalho, de acordo com a teoria da vantagem comparativa, (  ).\nA. País A deveria concentrar-se na produção e exportação de bicicletas\nB. País A deveria concentrar-se na produção e exportação de relógios\nC. País B deveria concentrar-se na produção e exportação de relógios\nD. País B não deve participar da divisão social do trabalho",
+        "target_scores": {
+            "A. País A deveria concentrar-se na produção e exportação de bicicletas": 0,
+            "B. País A deveria concentrar-se na produção e exportação de relógios": 1,
+            "C. País B deveria concentrar-se na produção e exportação de relógios": 0,
+            "D. País B não deve participar da divisão social do trabalho": 0
+        }
+    },
+    {
+        "input": "A empresa A fez uma oferta a um cliente estrangeiro, válida até 15 de março. Em 12 de março, recebeu um telegrama da outra parte: \"Aceitou sua oferta do dia 9, mas sujeita à obtenção de licença de importação.\" Esta aceitação é, na realidade, (  ).\nA. Aceitação\nB. Aceitação tardia\nC. Contraoferta\nD. Se houver silêncio, considera-se aceitação",
+        "target_scores": {
+            "A. Aceitação": 0,
+            "B. Aceitação tardia": 0,
+            "C. Contraoferta": 1,
+            "D. Se houver silêncio, considera-se aceitação": 0
+        }
+    },
+    {
+        "input": "Um contrato de exportação estabelece \"USD 2000 per M／T CIF New York，less 4%discount\", então a receita unitária real do vendedor é USD (  ).\nA. 1900\nB. 1920\nC. 2000\nD. 2080",
+        "target_scores": {
+            "A. 1900": 0,
+            "B. 1920": 1,
+            "C. 2000": 0,
+            "D. 2080": 0
+        }
+    },
+    {
+        "input": "Se a taxa de câmbio à vista no mercado de câmbio de Londres é £1 = US$1,4608, e o ágio de câmbio a prazo de 3 meses para o dólar americano é de 0,51 centavos, então a taxa de câmbio a prazo de 3 meses do dólar americano é (  ).\nA. £1=US$1,4557\nB. £1=US$1,4659\nC. £1=US$1,9508\nD. £1=US$1,9708",
+        "target_scores": {
+            "A. £1=US$1,4557": 1,
+            "B. £1=US$1,4659": 0,
+            "C. £1=US$1,9508": 0,
+            "D. £1=US$1,9708": 0
+        }
+    },
+    {
+        "input": "No contrato, estabelece-se primeiro um preço preliminar como base para a emissão da carta de crédito e pagamento inicial. Após as duas partes determinarem o preço específico, faz-se o acerto final, devolvendo o excesso ou complementando a falta. Este preço é (  ).\nA. Preço a ser definido\nB. Preço fixo\nC. Preço parcialmente fixo\nD. Preço provisório",
+        "target_scores": {
+            "A. Preço a ser definido": 0,
+            "B. Preço fixo": 0,
+            "C. Preço parcialmente fixo": 0,
+            "D. Preço provisório": 1
+        }
+    },
+    {
+        "input": "Após o embarque, se o conhecimento de embarque obtido pelo exportador contiver anotações desfavoráveis sobre a condição aparente da mercadoria, este conhecimento de embarque se tornará (  ).\nA. Conhecimento de embarque impuro\nB. Conhecimento de embarque limpo\nC. Conhecimento de embarque vencido\nD. Recebimento do conhecimento de embarque pronto",
+        "target_scores": {
+            "A. Conhecimento de embarque impuro": 1,
+            "B. Conhecimento de embarque limpo": 0,
+            "C. Conhecimento de embarque vencido": 0,
+            "D. Recebimento do conhecimento de embarque pronto": 0
+        }
+    },
+    {
+        "input": "A empresa exportadora A de São Paulo assinou um contrato no valor de 1,7 milhão de dólares com a empresa importadora americana B. Três meses depois, no momento do pagamento, a empresa A descobriu que o real havia se valorizado. Comparada com o momento da assinatura do contrato, a receita da empresa A (  ).\nA. Aumentar\nB. Impossível determinar\nC. Reduzir\nD. Sem alteração",
+        "target_scores": {
+            "A. Aumentar": 0,
+            "B. Impossível determinar": 0,
+            "C. Reduzir": 1,
+            "D. Sem alteração": 0
+        }
+    },
+    {
+        "input": "Uma empresa chinesa de importação e exportação de grãos assinou um contrato com uma empresa da Pensilvânia, nos Estados Unidos, para a importação de 1 milhão de toneladas métricas de trigo americano. No entanto, antes da colheita, o estado foi atingido por chuvas torrenciais que causaram grandes danos. Em outubro, quando o vendedor deveria entregar a mercadoria, o preço do trigo havia subido, e a parte americana não efetuou a entrega. O contrato continha uma cláusula de força maior, que incluía desastres naturais como uma das circunstâncias cobertas. Com base nessa cláusula, a parte americana solicitou isenção de responsabilidade. Nesse caso, a empresa chinesa deve (  ).\nA. Considerado força maior, isento de responsabilidade e rescisão do contrato\nB. Considerado força maior, mas sem exigência de indenização por danos, nem rescisão do contrato, solicitando adiamento da entrega para o próximo ano\nC. Nenhuma das respostas acima está correta\nD. Não é considerado força maior, insistindo que a parte americana deve entregar conforme estipulado no contrato",
+        "target_scores": {
+            "A. Considerado força maior, isento de responsabilidade e rescisão do contrato": 0,
+            "B. Considerado força maior, mas sem exigência de indenização por danos, nem rescisão do contrato, solicitando adiamento da entrega para o próximo ano": 0,
+            "C. Nenhuma das respostas acima está correta": 0,
+            "D. Não é considerado força maior, insistindo que a parte americana deve entregar conforme estipulado no contrato": 1
+        }
+    },
+    {
+        "input": "Os Estados Unidos cobram sobre a importação de mentol uma tarifa ordinária de 50 centavos de dólar por libra, e uma tarifa de nação mais favorecida de 17 centavos por libra. Este tipo de tarifa é (  ).\nA. Imposto ad valorem\nB. Imposto específico\nC. Imposto misto\nD. Imposto opcional",
+        "target_scores": {
+            "A. Imposto ad valorem": 0,
+            "B. Imposto específico": 1,
+            "C. Imposto misto": 0,
+            "D. Imposto opcional": 0
+        }
+    },
+    {
+        "input": "O coeficiente de alavancagem operacional da empresa é 1,8, e o coeficiente de alavancagem financeira é 1,5. Então, a cada aumento de 1 vez nas vendas da empresa, causará um aumento no lucro por ação de (  ).\nA. 0,3 vezes\nB. 1,2 vezes\nC. 1,5 vezes\nD. 2,7 vezes",
+        "target_scores": {
+            "A. 0,3 vezes": 0,
+            "B. 1,2 vezes": 0,
+            "C. 1,5 vezes": 0,
+            "D. 2,7 vezes": 1
+        }
+    },
+    {
+        "input": "A receita operacional anual de uma empresa é de 5 milhões reais, a taxa de custo variável é de 40%, o coeficiente de alavancagem operacional é 1,5, e o coeficiente de alavancagem financeira é 2. Se o custo fixo aumentar em 0,5 milhões reais, então o coeficiente de alavancagem total se tornará (  ).\nA. 2,4\nB. 3\nC. 6\nD. 8",
+        "target_scores": {
+            "A. 2,4": 0,
+            "B. 3": 0,
+            "C. 6": 1,
+            "D. 8": 0
+        }
+    },
+    {
+        "input": "De acordo com o conceito de equilíbrio entre risco e retorno, em circunstâncias normais, a sequência das formas de financiamento por custo de capital, do menor para o maior, é (  )?\nA. Ações ordinárias, empréstimos bancários, títulos corporativos\nB. Ações ordinárias, títulos corporativos, empréstimos bancários\nC. Empréstimos bancários, títulos corporativos, ações ordinárias\nD. Títulos corporativos, empréstimos bancários, ações ordinárias",
+        "target_scores": {
+            "A. Ações ordinárias, empréstimos bancários, títulos corporativos": 0,
+            "B. Ações ordinárias, títulos corporativos, empréstimos bancários": 0,
+            "C. Empréstimos bancários, títulos corporativos, ações ordinárias": 1,
+            "D. Títulos corporativos, empréstimos bancários, ações ordinárias": 0
+        }
+    },
+    {
+        "input": "A empresa A usa o real como moeda de escrituração e adota a taxa de câmbio do mercado no início do mês como aproximação da taxa à vista para contabilizar as operações em moeda estrangeira do mês, calculando ganhos e perdas cambiais mensalmente. Em 1 de setembro de determinado ano, a taxa de câmbio do mercado era de 1 dólar = 6,2 reais (assumindo que seja igual à taxa do final do mês anterior). Os saldos iniciais das diversas contas em moeda estrangeira em 1º de setembro eram: depósito bancário de 100.000 dólares, contas a receber de 10.000 dólares, contas a pagar de 10.000 dólares e empréstimo de curto prazo de 15.000 dólares. As operações em moeda estrangeira da empresa durante setembro foram: dia 5 - recebimento de contas a receber de 8.000 dólares; dia 8 - pagamento de contas a pagar de 5.000 dólares; dia 20 - pagamento de empréstimo de curto prazo de 10.000 dólares; dia 23 - venda de um lote de mercadorias no valor de 25.000 dólares, mercadorias já entregues, pagamento ainda não recebido. Supondo que não sejam consideradas taxas e impostos relacionados, e que a taxa de câmbio do mercado em 30 de setembro seja de 1 dólar = 6,15 reais, então, no ajuste das contas em moeda estrangeira no final de setembro, a opção correta é ( ).\nA. Debitar contas a pagar (conta em dólar) 250 reais\nB. Debitar contas a receber (conta em dólar) 1.350 reais\nC. Debitar depósitos bancários (conta em dólar) 4.650 reais\nD. Debitar empréstimos de curto prazo (conta em dólar) 350 reais",
+        "target_scores": {
+            "A. Debitar contas a pagar (conta em dólar) 250 reais": 1,
+            "B. Debitar contas a receber (conta em dólar) 1.350 reais": 0,
+            "C. Debitar depósitos bancários (conta em dólar) 4.650 reais": 0,
+            "D. Debitar empréstimos de curto prazo (conta em dólar) 350 reais": 0
+        }
+    },
+    {
+        "input": "A taxa livre de risco é de 6%, o retorno médio de todas as ações no mercado é de 10%, e o coeficiente β de determinada ação é 1,5. Então, o retorno dessa ação é ( )\nA. 0.12\nB. 0.14\nC. 0.16\nD. 7,50%",
+        "target_scores": {
+            "A. 0.12": 1,
+            "B. 0.14": 0,
+            "C. 0.16": 0,
+            "D. 7,50%": 0
+        }
+    },
+    {
+        "input": "Sabendo que o peso da dívida de longo prazo na estrutura de capital alvo de uma empresa é de 40%, e o aumento do financiamento da dívida está na faixa de 0-20.000 reais, mantendo uma taxa de juros anual fixa de 10%, o ponto limite do montante total de financiamento relacionado a esta empresa é ( ) reais.\nA. 1000\nB. 200\nC. 50\nD. 8000",
+        "target_scores": {
+            "A. 1000": 0,
+            "B. 200": 0,
+            "C. 50": 1,
+            "D. 8000": 0
+        }
+    },
+    {
+        "input": "Uma empresa emite um lote de títulos ao par, com taxa de cupom de 12%, taxa de custo de captação de 2% e imposto de renda de 25%. O custo deste título é ( ).\nA. 0.09\nB. 0.1\nC. 0.12\nD. 9,18%",
+        "target_scores": {
+            "A. 0.09": 0,
+            "B. 0.1": 0,
+            "C. 0.12": 0,
+            "D. 9,18%": 1
+        }
+    },
+    {
+        "input": "O EBIT (lucro antes de juros e impostos) de uma empresa neste período é de 60 milhões de reais, e as despesas com juros são de 10 milhões de reais. O coeficiente de alavancagem financeira desta empresa é ( )\nA. 0,83\nB. 1,2\nC. 2\nD. 6",
+        "target_scores": {
+            "A. 0,83": 0,
+            "B. 1,2": 1,
+            "C. 2": 0,
+            "D. 6": 0
+        }
+    },
+    {
+        "input": "Os Estados Unidos cobram um imposto de importação sobre produtos de penas e plumas, com uma tarifa ordinária de 60% e uma tarifa de nação mais favorecida de 4,7%. Este tipo de imposto é ( ).\nA. Imposto ad valorem\nB. Imposto específico\nC. Imposto misto\nD. Imposto opcional",
+        "target_scores": {
+            "A. Imposto ad valorem": 1,
+            "B. Imposto específico": 0,
+            "C. Imposto misto": 0,
+            "D. Imposto opcional": 0
+        }
+    },
+    {
+        "input": "A França costumava cobrar uma taxa rodoviária de 12,15 dólares para carros com motor de 5 cavalos de potência, e uma taxa rodoviária de até 30 dólares para carros com motor de 16 cavalos de potência, enquanto o maior carro produzido na França na época tinha 12 cavalos de potência. Esta medida é chamada de ( ).\nA. Compras governamentais discriminatórias\nB. Imposto interno discriminatório\nC. Preço mínimo\nD. Valoração aduaneira arbitrária",
+        "target_scores": {
+            "A. Compras governamentais discriminatórias": 0,
+            "B. Imposto interno discriminatório": 1,
+            "C. Preço mínimo": 0,
+            "D. Valoração aduaneira arbitrária": 0
+        }
+    },
+    {
+        "input": "Nossa empresa enviou uma oferta por telegrama a um comerciante francês em 5 de maio, válida até o recebimento da resposta em 8 de maio. A outra parte enviou um aviso de aceitação por telegrama no dia 7, mas devido a um atraso do departamento de telecomunicações, nossa empresa só recebeu o aviso no dia 9, e posteriormente nossa empresa não se manifestou. De acordo com a \"Convenção\" ( ).\nA. A aceitação tardia é inválida, o contrato não foi estabelecido\nB. Apenas quando a outra parte emitir novamente o aviso de aceitação, a aceitação será válida; caso contrário, o contrato não será estabelecido\nC. Apenas se nossa empresa confirmar tempestivamente, a aceitação será válida; caso contrário, o contrato não será estabelecido\nD. Como nossa empresa não apresentou objeção a tempo, a aceitação é válida e o contrato está estabelecido",
+        "target_scores": {
+            "A. A aceitação tardia é inválida, o contrato não foi estabelecido": 0,
+            "B. Apenas quando a outra parte emitir novamente o aviso de aceitação, a aceitação será válida; caso contrário, o contrato não será estabelecido": 0,
+            "C. Apenas se nossa empresa confirmar tempestivamente, a aceitação será válida; caso contrário, o contrato não será estabelecido": 0,
+            "D. Como nossa empresa não apresentou objeção a tempo, a aceitação é válida e o contrato está estabelecido": 1
+        }
+    },
+    {
+        "input": "Um comerciante americano compra frutas de Pequim, transporta por terra até o Xangai, depois por via aérea através dos Estados Unidos até o Canadá. O país de destino final é ( ).\nA. Canadá\nB. Estados Unidos\nC. Pequim\nD. Xangai",
+        "target_scores": {
+            "A. Canadá": 1,
+            "B. Estados Unidos": 0,
+            "C. Pequim": 0,
+            "D. Xangai": 0
+        }
+    },
+    {
+        "input": "Entre os seguintes termos comerciais utilizados para exportação de mercadorias da China, qual está incorreto:\nA. CFR BUSAN\nB. CIF TOKYO\nC. FCA SHANGHAI\nD. FOB LONDON",
+        "target_scores": {
+            "A. CFR BUSAN": 0,
+            "B. CIF TOKYO": 0,
+            "C. FCA SHANGHAI": 0,
+            "D. FOB LONDON": 1
+        }
+    },
+    {
+        "input": "Supondo que as condições líquidas de comércio de um país, tendo 1990 como ano base, sejam 100, e em 2000 o índice de preços de exportação caiu 10% para 90; o índice de preços de importação subiu 20% para 120, e a produtividade do trabalho das mercadorias exportadas desse país aumentou de 100 em 1990 para 150 em 2000, enquanto a produtividade do trabalho das mercadorias importadas aumentou de 100 em 1990 para 110 em 2000, então as condições de comércio de duplo fator desse país em 2000 são ( ).\nA. 102,27\nB. 107,14\nC. 108,57\nD. 112,50",
+        "target_scores": {
+            "A. 102,27": 1,
+            "B. 107,14": 0,
+            "C. 108,57": 0,
+            "D. 112,50": 0
+        }
+    },
+    {
+        "input": "No MT 701 Issue of a Documentary Credit, o código 40E representa ( ) da carta de crédito.\nA. Condições Adicionais\nB. Data da Emenda\nC. Descrição de Mercadorias e/ou Serviços\nD. Regras Aplicáveis",
+        "target_scores": {
+            "A. Condições Adicionais": 0,
+            "B. Data da Emenda": 0,
+            "C. Descrição de Mercadorias e/ou Serviços": 0,
+            "D. Regras Aplicáveis": 1
+        }
+    },
+    {
+        "input": "Nos negócios de comércio de importação e exportação, quando se utilizam os três diferentes métodos de pagamento L/C, D/P e D/A para liquidação, a ordem crescente de risco de recebimento de divisas para o exportador é ( ).\nA. D/A, D/P, L/C\nB. D/P, D/A, L/C\nC. L/C, D/A, D/P\nD. L/C, D/P, D/A",
+        "target_scores": {
+            "A. D/A, D/P, L/C": 0,
+            "B. D/P, D/A, L/C": 0,
+            "C. L/C, D/A, D/P": 0,
+            "D. L/C, D/P, D/A": 1
+        }
+    },
+    {
+        "input": "Em termos de custos suportados pelo vendedor, a ordem dos custos de alto para baixo deve ser: ( )\nA. CIF, CFR, FOB\nB. CIF, FOB, CFR\nC. FOB, CFR, CIF\nD. FOB, CIF, CFR",
+        "target_scores": {
+            "A. CIF, CFR, FOB": 1,
+            "B. CIF, FOB, CFR": 0,
+            "C. FOB, CFR, CIF": 0,
+            "D. FOB, CIF, CFR": 0
+        }
+    },
+    {
+        "input": "Nossa empresa fez uma oferta externa na segunda-feira, válida até o recebimento da resposta na sexta-feira. O cliente respondeu na terça-feira com uma contraoferta e nos convidou a responder por telegrama. Neste momento, o preço do mercado internacional subiu, e não demos resposta. O cliente então telefonou na quarta-feira expressando aceitação da nossa oferta de segunda-feira, então ( )\nA. Aceitação inválida\nB. Aceitação válida\nC. Constitui aceitação condicional\nD. Se não apresentarmos objeções, o contrato será estabelecido",
+        "target_scores": {
+            "A. Aceitação inválida": 1,
+            "B. Aceitação válida": 0,
+            "C. Constitui aceitação condicional": 0,
+            "D. Se não apresentarmos objeções, o contrato será estabelecido": 0
+        }
+    },
+    {
+        "input": "Nossa empresa exportou um lote de mercadorias sob condições CIF, totalizando 1.000 caixas, permitindo ao vendedor uma variação de carga de 5%. Nós efetivamente carregamos 1.000 caixas, e o conhecimento de embarque também indica 1.000 caixas. Após a chegada das mercadorias ao destino, o comprador nos informou que recebeu apenas 948 caixas e já obteve um certificado de falta da companhia de navegação. O comprador está reivindicando compensação de nossa parte. Nossa resposta correta é ( )\nA. Concordar em fornecer 2 caixas adicionais\nB. Concordar em fornecer 52 caixas adicionais\nC. Concordar em reembolsar o valor de 52 caixas\nD. Por favor, entre em contato com a companhia marítima ou com a seguradora",
+        "target_scores": {
+            "A. Concordar em fornecer 2 caixas adicionais": 0,
+            "B. Concordar em fornecer 52 caixas adicionais": 0,
+            "C. Concordar em reembolsar o valor de 52 caixas": 0,
+            "D. Por favor, entre em contato com a companhia marítima ou com a seguradora": 1
+        }
+    },
+    {
+        "input": "Supondo que as mercadorias sejam transportadas pela transportadora Navegação Santos, o capitão é Roberto Silva, o conhecimento de embarque é assinado por seu agente ABC SHIPPING CO., e o emissor é Carlos Oliveira. Se a identidade da transportadora já estiver indicada na superfície do conhecimento de embarque, a emissão do conhecimento de embarque deve ser ( ).\nA. ABC SHIPPING CO. Carlos Oliveira COMO AGENTE PARA A TRANSPORTADORA MENCIONADA ACIMA\nB. ABC SHIPPING CO. Carlos Oliveira COMO TRANSPORTADOR\nC. ABC SHIPPING CO. Roberto Silva COMO AGENTE PARA A TRANSPORTADORA MENCIONADA ACIMA\nD. Navegação Santos Roberto Silva COMO TRANSPORTADOR",
+        "target_scores": {
+            "A. ABC SHIPPING CO. Carlos Oliveira COMO AGENTE PARA A TRANSPORTADORA MENCIONADA ACIMA": 1,
+            "B. ABC SHIPPING CO. Carlos Oliveira COMO TRANSPORTADOR": 0,
+            "C. ABC SHIPPING CO. Roberto Silva COMO AGENTE PARA A TRANSPORTADORA MENCIONADA ACIMA": 0,
+            "D. Navegação Santos Roberto Silva COMO TRANSPORTADOR": 0
+        }
+    },
+    {
+        "input": "Um comprador britânico enviou um telegrama à nossa empresa de importação e exportação de produtos industriais leves: \"Pretendemos comprar 10.000 mochilas infantis da marca Alegria, por favor informe por telegrama o preço mais baixo e o prazo de entrega mais rápido.\" Este telegrama pertence à etapa ( ) da negociação comercial.\nA. Aceitação\nB. Contraoferta\nC. Oferta\nD. Solicitação de cotação",
+        "target_scores": {
+            "A. Aceitação": 0,
+            "B. Contraoferta": 0,
+            "C. Oferta": 0,
+            "D. Solicitação de cotação": 1
+        }
+    }
+]

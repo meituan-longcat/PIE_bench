@@ -1,0 +1,690 @@
+[
+    {
+        "input": "Lukas brät sich zu Hause jeden Morgen Brot in einer Pfanne. Es dauert 2 Minuten, die erste Seite einer Scheibe zu braten, und nur 1 Minute für die zweite Seite. In seine Pfanne passen nur zwei Scheiben gleichzeitig. Wie viele Minuten braucht Lukas mindestens, um 3 Scheiben Brot zuzubereiten?",
+        "target": "5 Minuten."
+    },
+    {
+        "input": "Papa brät Eier für Leo in einer Pfanne, in die 2 Eier auf einmal passen. Es dauert 2 Minuten, ein Ei zu braten (eine Minute für Vorder- und Rückseite). Wie viele Minuten braucht Papa mindestens, um 3 Eier zu braten?",
+        "target": "3 Minuten."
+    },
+    {
+        "input": "Wenn Emma morgens aufwacht, braucht sie 3 Minuten, um sich anzuziehen, 4 Minuten, um sich die Zähne zu putzen und das Gesicht zu waschen, 15 Minuten, um Wasser zu kochen, 7 Minuten, um zu essen, 2 Minuten, um den Abwasch zu machen, 2 Minuten, um ihre Schultasche zu packen und 1 Minute, um Milchpulver zuzubereiten (es in die Schule zu bringen). Wie viele Minuten braucht sie mindestens, um alles in kürzester Zeit zu erledigen?",
+        "target": "19 Minuten"
+    },
+    {
+        "input": "Frau Keller hat 9 Stühle in ihrem Haus und bittet den Maler, sie zweimal zu streichen. Beim ersten Mal dauert es 2 Minuten, aber es muss 15 Minuten gewartet werden, bevor sie ein zweites Mal gestrichen werden können. Wie viele Minuten dauert es mindestens, die 9 Stühle zu streichen?",
+        "target": "36 Minuten."
+    },
+    {
+        "input": "Hans Hoffmann braucht morgens 5 Minuten, um sich die Zähne zu putzen und das Gesicht zu waschen  (ohne heißes Wasser), 1 Minute, um den Wasserkocher zu spülen, 10 Minuten, um das Wasser zu kochen, 3 Minuten, um seine Schultasche zu packen, 1 Minute, um Milch zum Frühstück zuzubereiten, und 10 Minuten, um sein Frühstück zu essen. Wie viele Minuten braucht er mindestens, um alles vernünftig zu organisieren?",
+        "target": "22 Minuten."
+    },
+    {
+        "input": "Mia steht morgens auf und muss folgende Dinge tun: 4 Minuten lang Zähne putzen und Gesicht waschen, 8 Minuten lang frühstücken, 1 Minute lang den Wasserkocher spülen, 12 Minuten lang Wasser kochen und 2 Minuten lang die Wasserflasche füllen. Wie viele Minuten braucht Mia, um alles in möglichst kurzer Zeit zu erledigen?",
+        "target": "15 Minuten."
+    },
+    {
+        "input": "Ein Engineering-Team muss innerhalb einer bestimmten Frist eine Aufgabe abschließen. Wenn das A-Team allein arbeitet, schafft es die Aufgabe termingerecht. Das B-Team benötigt dagegen drei Tage länger. Wenn A und B zwei Tage zusammenarbeiten und dann B allein weiterarbeitet, wird die Aufgabe pünktlich abgeschlossen. Wie viele Tage beträgt die angegebene Frist?",
+        "target": "6 Tage."
+    },
+    {
+        "input": "Ein Bauernhof plant, Weizen mit 18 Personen, 6 Stunden pro Tag und insgesamt 15 Tagen zu ernten. Um den Prozess zu beschleunigen, wurde die Anzahl der Personen um 9 erhöht, und die Arbeitszeit pro Tag um 2 Stunden verlängert. Wie viele Tage früher als geplant wurde die Aufgabe abgeschlossen? ",
+        "target": "7,5 Tage"
+    },
+    {
+        "input": "Ein Bergwerk plante den Einsatz von 50 Personen, die 10 Stunden pro Tag arbeiten sollten, um einen Abbau in 30 Tagen abzuschließen. Um den Prozess zu beschleunigen, wurde die tatsächliche Anzahl der Personen pro Tag um 25 erhöht und die Arbeitszeiten wurden um 4 Stunden verlängert. Um wie viele Tage früher als ursprünglich geplant wurde der Abbau tatsächlich abgeschlossen? (Die Antwort ist auf eine Dezimalstelle zu runden.)",
+        "target": "15,7 Tage"
+    },
+    {
+        "input": "Vier Personen, A, B, C und D, gehen gleichzeitig zu einem kleinen Wasserhahn, um Wasser zu holen, und während eine Person Wasser holt, müssen die anderen warten. A braucht 3 Minuten, um den Mopp zu waschen, B braucht 2 Minuten, um den Lappen zu waschen, C braucht 1 Minute, um das Wasser in einem Eimer aufzufangen, und D braucht 10 Minuten, um die Wäsche zu waschen. Wie viel Zeit (einschließlich Auffangen des Wassers und Warten) brauchen sie insgesamt mindestens?",
+        "target": "26 Minuten."
+    },
+    {
+        "input": "Theo reitet auf dem Rücken eines Ochsen, um ihn über einen Fluss zu treiben. Es gibt 4 Ochsen, A, B, C und D. Es dauert 1 Minute, bis A den Fluss überquert hat, 2 Minuten für B, 5 Minuten für C und 6 Minuten für D. Man kann immer nur einen Ochsen reiten und einen Ochsen über den Fluss treiben. Wie viele Minuten dauert es mindestens, um alle 4 auf die andere Seite des Flusses zu bringen?",
+        "target": "13 Minuten."
+    },
+    {
+        "input": "Leos Haus ist 10 Kilometer von der Schule entfernt. Wenn er um acht Uhr mit dem Fahrrad losfährt und eine Geschwindigkeit von 20 Kilometern pro Stunde erreicht, kommt er pünktlich zur Schule und ist 30 Minuten früher da als wenn er die Strecke komplett rennen würde. Heute fährt er wieder um acht Uhr los, nimmt aber ein Stück des Weges eine Mitfahrgelegenheit bei einem Nachbarn in Anspruch, wobei er eine Geschwindigkeit von 40 Kilometern pro Stunde erreicht. Die restlichen 2 Kilometer möchte er laufend zurücklegen. Wie viel früher kommt er heute an?",
+        "target": "6 Minuten."
+    },
+    {
+        "input": "Drei Personen, A, B, C, halten jeweils 2, 3, 1 Wärmflaschen und kommen gleichzeitig zur Wasserstelle, um heißes Wasser zu holen. Es gibt nur einen Warmwasserhahn. Und wenn es 1 Minute dauert, die Flasche zu füllen. Die Gesamtzeit, die sie mit dem Wasserholen und Warten verbrachten, betrug also mindestens wie viele Minuten?",
+        "target": "10 Minuten."
+    },
+    {
+        "input": "Der Geschäftsführer der Firma teilt A, B und C mit, dass er sie zu einem Gespräch ins Büro bittet. Das Gespräch mit A dauert 5 Minuten, das mit B 7 Minuten und das mit C 6 Minuten. Wie viel Zeit (einschließlich Gespräch und Wartezeit) verbringen die drei Personen insgesamt mindestens?",
+        "target": "34 Minuten."
+    },
+    {
+        "input": "Drei Kunden gehen gemeinsam zum Schalter, um etwas zu kaufen, A braucht 5 Minuten, B braucht 3 Minuten und C braucht 6 Minuten. Wie hoch ist die minimale Gesamtzeit, die die Kunden aufwenden müssen (einschließlich Warte- und Einkaufszeit)?",
+        "target": "25 Minuten."
+    },
+    {
+        "input": "Ein Fladen muss an beiden Seiten gebraten werden. Die erste Seite braucht 4 Minuten, die zweite Seite 2 Minuten. In einer Pfanne können 3 auf einmal gebraten werden, wie viele Minuten dauert es mindestens, 5 Fladen zu braten?",
+        "target": "10 Minuten."
+    },
+    {
+        "input": "Ein Bauprojekt hat eine Dauer von 45 Tagen und kann durch den Einsatz eines Baggers 15 Tage früher als geplant und durch den Einsatz von Arbeitskräften 15 Tage später als geplant abgeschlossen werden. Die Kosten für einen Tag Bagger belaufen sich auf 200 Euro und die Kosten für einen Tag Arbeitskraft auf 80 Euro. Wie viele Tage Bagger werden benötigt, um die Arbeiten in 45 Tagen pünktlich und zu den geringsten Kosten abzuschließen?",
+        "target": "15 Tage."
+    },
+    {
+        "input": "Um ein Straßenbauprojekt pünktlich und innerhalb von 60 Tagen abzuschließen, ist ein optimales Programm erforderlich. Wenn nur Großgeräte eingesetzt werden, kann das Projekt 20 Tage früher als geplant abgeschlossen werden, allerdings zu Kosten von 300 Euro pro Tag; wenn nur Arbeitskräfte eingesetzt werden, verzögert sich die Fertigstellung um 20 Tage zu Kosten von 100 Euro pro Tag. Wenn Großgeräte eingesetzt werden, wie viele Tage kann das Projekt in 60 Tagen pünktlich und zu den geringsten Kosten abgeschlossen werden?",
+        "target": "20 Tage."
+    },
+    {
+        "input": "Ein Unternehmen muss eine Marktforschung innerhalb von 10 Tagen abschließen. Es gibt zwei Optionen, ein Marktforschungsteam und interne Mitarbeiter. Wenn das Marktforschungsteam für den gesamten Prozess eingesetzt wird, es 5 Tage vor dem Zeitplan abgeschlossen werden kann, und wenn interne Mitarbeiter für den gesamten Prozess eingesetzt werden, verzögert sich der Abschluss um 10 Tage. Wenn also das Marktforschungsteam nur für die ersten 4 Tage eingesetzt wird, wie viele Tage früher wäre der Auftrag abgeschlossen?",
+        "target": "2 Tage."
+    },
+    {
+        "input": "Nina fährt normalerweise mit dem Skateboard mit einer Geschwindigkeit von 10 km/h zum Park und läuft mit einer Geschwindigkeit von 8 km/h. Heute verlässt sie das Haus früh, und um nicht zu früh im Park anzukommen (ohne Pausen), entscheidet sie sich für das Skateboard und das Laufen, und kommt nach 13 Minuten im Park an. Die Entfernung zwischen ihrem Haus und dem Park beträgt 2 km. Wie viele Minuten hat sie mit dem Skateboard verbracht?",
+        "target": "8 Minuten."
+    },
+    {
+        "input": "Lisa hat heute noch 9 Stunden Zeit, von denen sie 2 Stunden für die Hausarbeit, 4 Stunden für das Lesen berühmter Bücher, 1 Stunde für das Kochen von Reis im Reiskocher und 2 Stunden für das Hören von Hörspielen aufwenden muss, wie viel Zeit kann sie also maximal zum Ausruhen verwenden?",
+        "target": "3 Stunden."
+    },
+    {
+        "input": "Heute Morgen habe ich 4 Minuten gebraucht, um Wasser zu kochen, 2 Minuten, um mir das Gesicht zu waschen und 3 Minuten, um mir die Zähne zu putzen. Wie viele Minuten hat es mindestens gedauert, all diese Dinge zu tun?",
+        "target": "5 Minuten."
+    },
+    {
+        "input": "Sie haben Gäste zu Hause und wollen für sie Tee kochen. Es dauert 2 Minuten, um den Wasserkocher zu spülen, 12 Minuten, um das Wasser zu kochen, 8 Minuten, um den Tee zu kaufen, 2 Minuten, um die Teetassen zu spülen und 1 Minute, um den Tee aufzubrühen. Wie viele Minuten brauchen Sie mindestens, um die Gäste dazu zu bringen, den Tee zu trinken?",
+        "target": "15 Minuten."
+    },
+    {
+        "input": "Wenn Sie an einem Samstag 8 Stunden Zeit haben, von denen Sie 2 Stunden im Haushalt Ihrer Mutter mithelfen, 1 Stunde im Fitnessstudio und 2 Stunden im Kino verbringen, wie viele Stunden bleiben dann noch für die Entspannung?",
+        "target": "3 Stunden."
+    },
+    {
+        "input": "Hannah muss jeden Abend 6 Minuten lang Redewendungen aufsagen, 10 Minuten lang Wasser kochen, 2 Minuten lang das Milchpulver aufgießen und 5 Minuten lang Milch trinken. Wie viele Minuten braucht sie mindestens, um all diese Dinge zu tun?",
+        "target": "17 Minuten."
+    },
+    {
+        "input": "Lukas wird seiner Mutter am Sonntag helfen, die folgenden Dinge zu erledigen: Er braucht 10 Minuten, um den Boden zu fegen, 15 Minuten, um die Möbel abzustauben, 40 Minuten, um die Wäsche in der Waschmaschine zu waschen, und 5 Minuten, um die Wäsche zum Trocknen aufzuhängen. Wie viele Minuten wird er mindestens brauchen, um alle diese Dinge nach vernünftiger Planung zu erledigen?",
+        "target": "45 Minuten."
+    },
+    {
+        "input": "Mina möchte sich eine Tasse Orangensaft machen. Für die Zubereitung muss sie eine Tasse und einen Löffel waschen (dauert 1 Minute), Wasser kochen (dauert 8 Minuten) und Orangenpulver holen (dauert 2 Minuten). Mina hat überlegt und möchte den Orangensaft in der kürzestmöglichen Zeit trinken. Wie viele Minuten braucht sie mindestens?",
+        "target": "8 Minuten."
+    },
+    {
+        "input": "Drei Schüler, A, B und C, gehen sich gemeinsam die Hände waschen, A braucht 1 Minute, B braucht 3 Minuten, C braucht 2 Minuten. Es gibt nur einen Wasserhahn. Wie viele Minuten beträgt die Summe ihrer Wartezeiten?",
+        "target": "4 Minuten."
+    },
+    {
+        "input": "In einer Pfanne können nur zwei Fische gleichzeitig gebraten werden, und es dauert 6 Minuten für jeden Fisch (3 Minuten für Vorder- und Rückseite). Wie viele Minuten wären das für mindestens 3 Fische?",
+        "target": "9 Minuten."
+    },
+    {
+        "input": "Am Sonntag möchte Lukas seiner Mutter bei der Hausarbeit helfen: Es dauert 20 Minuten, um die Wäsche in der Waschmaschine zu waschen, 6 Minuten, um den Boden zu fegen, 15 Minuten, um die Möbel zu polieren, und 5 Minuten, um die Wäsche zu trocknen. Kannst du Lukas helfen, sich zu überlegen, wie viele Minuten braucht er mindestens, um all diese Dinge so schnell wie möglich zu erledigen?",
+        "target": "26 Minuten."
+    },
+    {
+        "input": "Frau Müller geht aus und bevor sie geht, muss sie die folgenden vier Dinge erledigen. 5 Minuten, um ihr Zimmer aufzuräumen, 1 Minute, um ihre Kleidung in die Waschmaschine zu geben, 12 Minuten, damit die Waschmaschine automatisch wäscht, und 3 Minuten, um ihre Schuhe zu putzen. Wie viele Minuten braucht sie mindestens, um diese vier Dinge zu erledigen?",
+        "target": "13 Minuten."
+    },
+    {
+        "input": "Bei einer Schulreinigung holen die vier Schüler A, B, C und D Wasser. Um ihre Eimer zu füllen, benötigt A 3 Minuten, B 5 Minuten, C 2 Minuten und D 4 Minuten. Da es nur einen Wasserhahn gibt, was ist die minimale Gesamtwartezeit für die vier Schüler?",
+        "target": "16 Minuten."
+    },
+    {
+        "input": "Opa Becker muss jeden Morgen nach dem Aufstehen drei Dinge tun: 20 Minuten, um die Nachrichten zu hören, 8 Minuten, um sich zu waschen und 15 Minuten, um zu frühstücken. Wie viele Minuten braucht er mindestens, um das alles zu tun?",
+        "target": "23 Minuten."
+    },
+    {
+        "input": "Ava benutzt eine Pfanne, in der sie jeweils maximal zwei Pfannkuchen gleichzeitig braten kann. Jeder Pfannkuchen muss auf beiden Seiten gebraten werden, und jede Seite braucht 2 Minuten. Wie viele Minuten braucht sie mindestens, um 5 Pfannkuchen zu braten?",
+        "target": "10 Minuten."
+    },
+    {
+        "input": "Mama ist krank und Leo muss die folgenden Aufgaben erledigen, bevor er zur Schule geht: 5 Minuten, um die Temperatur zu messen, 3 Minuten, um Erkältungsmedikamente zu finden, 8 Minuten, bis das Wasser nach dem Einschenken abkühlt, und 1 Minute, um Mama die Medikamente zu geben. Wie viele Minuten braucht Leo mindestens, wenn er die Aufgaben optimal organisiert?",
+        "target": "9 Minuten."
+    },
+    {
+        "input": "Am Sonntag lernt Lukas, Hausarbeiten zu erledigen. 5 Minuten braucht er, um den Boden zu fegen, 10 Minuten, um den Boden zu wischen, 5 Minuten, um Tisch und Stühle abzuwischen, 35 Minuten, um Wäsche in der Waschmaschine zu waschen, 8 Minuten, um das Zimmer aufzuräumen, und 5 Minuten, um die gewaschene Wäsche zum Trocknen aufhängen. Wie viel Zeit braucht Lukas mindestens?",
+        "target": "40 Minuten."
+    },
+    {
+        "input": "Leo kocht Wasser für Gäste, um Tee zu kochen. Es dauert 2 Minuten, um den Wasserkocher zu spülen, 12 Minuten, um das Wasser zu kochen, 2 Minuten, um die Teetassen  zu spülen (ohne heißes Wasser), und 1 Minute, um die Teeblätter zu holen. Wie viele Minuten dauert es, den Tee nach der vernünftigsten Planung zuzubereiten, damit der Tee den Gästen schnell serviert werden kann?",
+        "target": "14 Minuten."
+    },
+    {
+        "input": "Ein Waffeleisen kann nur 2 Waffeln auf einmal backen und gart beide Seiten jeweils 3 Minuten lang. Wie viele Minuten braucht es, um mindestens 5 Waffeln zu backen?",
+        "target": "15 Minuten."
+    },
+    {
+        "input": "Leo bereitet grünen Tee für Gäste zu, braucht 1 Minute, um das Wasser zu holen, 6 Minuten, um das Wasser zu kochen, 2 Minuten, um die Teetassen  zu spülen (ohne heißes Wasser), 1 Minute, um die Teeblätter zu holen, und 1 Minute, um den grünen Tee zuzubereiten. Wie lange wird es dauern, den Tee für Gäste so schnell wie möglich zuzubereiten, wenn Leo die oben genannten Dinge vernünftig organisiert?",
+        "target": "8 Minuten."
+    },
+    {
+        "input": "In einer Pfanne können maximal zwei Wolfsbarsche gleichzeitig gebraten werden. Das Braten eines Wolfsbarschs dauert 4 Minuten (jeweils 2 Minuten pro Seite). Wie viele Minuten braucht Mama mindestens, um 3 Wolfsbarsche zu braten?",
+        "target": "6 Minuten."
+    },
+    {
+        "input": "Ben reitet auf einem Pferd und treibt die anderen über einen Fluss. Er hat vier Pferde: A, B, C und D. Das Pferd A benötigt 2 Minuten, um den Fluss zu überqueren, Pferd B 3 Minuten, Pferd C 6 Minuten und Pferd D 7 Minuten. Es können immer nur zwei Pferde gleichzeitig den Fluss überqueren. Wie viele Minuten sind mindestens erforderlich, um alle vier Pferde ans andere Ufer zu bringen?",
+        "target": "18 Minuten."
+    },
+    {
+        "input": "Leo organisiert seine Zeit so sinnvoll wie möglich: 3 Minuten, um aufzustehen und sein Bett aufzuräumen, 3 Minuten, um sich die Zähne zu putzen, 2 Minuten, um sich das Gesicht zu waschen, und 8 Minuten, um eine englische Aufnahme anzuhören. In wie vielen Minuten kann Leo all diese Dinge am schnellsten erledigen?",
+        "target": "8 Minuten."
+    },
+    {
+        "input": "Herr Wolf möchte 7 Blätter Textmaterial doppelseitig kopieren. Wenn der Kopierer nur einseitig kopieren kann und maximal 2 Blätter gleichzeitig fasst, wie viele Kopiervorgänge sind dann mindestens erforderlich?",
+        "target": "7 Male."
+    },
+    {
+        "input": "Leo, Ava und Simon wollen sich das Buch „Aschenputtel“ aus der Bibliothek ausleihen und es gibt nur ein Exemplar. Leo sagt, er könne es in einer Woche lesen, Ava sagt, sie könne es in einem halben Monat lesen, und Simon sagt, er könne es in 5 Tagen lesen. In welcher Reihenfolge sollten die Bücher ausgeliehen werden, um die Summe der Wartezeiten der drei zu minimieren?",
+        "target": "Simon-Leo-Ava"
+    },
+    {
+        "input": "An der Anlegestelle warten drei Schiffe auf ihre Entladung: Schiff A braucht 10 Stunden, Schiff B 12 Stunden und Schiff C 9 Stunden. Da nicht genügend Personal vorhanden ist, kann nur ein Schiff nach dem anderen entladen werden. Um die Summe der Wartezeiten der drei Schiffe zu minimieren, sollten sie in welcher Reihenfolge entladen werden?",
+        "target": "C-A-B"
+    },
+    {
+        "input": "Die Schüler der dritten Klasse besuchen die Ausstellung für wissenschaftliche und technische Leistungen und müssen sich beim Betreten der Ausstellungshalle für die Eintrittskarten anstellen. Jana steht 39 Plätze vor Luka und 50 Plätze hinter Levi; Tim steht 78 Plätze vor Luka. Wer von den dreien, Jana, Tim und Levi, steht an der Spitze?",
+        "target": "Levi"
+    },
+    {
+        "input": "Alina möchte ihrer Mutter am Sonntag bei folgenden Hausarbeiten helfen: Es dauert 25 Minuten, um ihre Wäsche in der Waschmaschine zu waschen, 6 Minuten, um den Boden zu fegen, 10 Minuten, um die Möbel abzustauben, 5 Minuten, um die Wäsche aufzuhängen und 3 Minuten, um den Müll rauszubringen. Wie viele Minuten wird sie mindestens brauchen, um all das zu tun, nachdem sie nachgedacht hat?",
+        "target": "30 Minuten"
+    },
+    {
+        "input": "Ein Spiel, das 5 Minuten dauert, kann von einem einzelnen Spieler oder von zwei Spielern gespielt werden. Wie viele Minuten brauchen David, Tobias, Paul mindestens, um jeweils zweimal zu spielen?",
+        "target": "15 Minuten."
+    },
+    {
+        "input": "Wenn sie am Sonntagmorgen aufwacht, nimmt sich Ava folgende Dinge vor: Sie braucht 3 Minuten, um den Boden zu fegen, 12 Minuten, um den Boden zu waschen, 8 Minuten, um Wasser zu kochen, und 2 Minuten, um ihre Schultasche zu packen. Wie viele Minuten braucht sie mindestens, um all diese Dinge zu erledigen?",
+        "target": "17 Minuten."
+    },
+    {
+        "input": "Pfannkuchen werden auf dem Herd gebraten, jede Seite muss 3 Minuten gebraten werden. Auf dem Herd können maximal 2 Pfannkuchen gleichzeitig gebraten werden. Wie viel Zeit wird mindestens benötigt, um 3 Pfannkuchen zu braten?",
+        "target": "9 Minuten."
+    },
+    {
+        "input": "Joris braucht 5 Minuten, um morgens aufzustehen und sich anzuziehen, 3 Minuten, um das Bettzeug aufzuräumen, 2 Minuten, um sich die Zähne zu putzen, 1 Minute, um sich das Gesicht zu waschen, 3 Minuten, um die Milch zu erwärmen, 2 Minuten, um das Brot zu toasten, und 8 Minuten, um sein Frühstück zu essen. Wie viele Minuten braucht er, um die Zeit optimal zu nutzen?",
+        "target": "19 Minuten."
+    },
+    {
+        "input": "Ein Gast kommt ins Haus, und Leo möchte für ihn Blumentee zubereiten. Es dauert 2 Minuten, um den Wasserkocher zu spülen, 15 Minuten, um das Wasser zu kochen, 1 Minute, um die Teetassen zu spülen (ohne heißes Wasser), 1 Minute, um das Wasser einzufüllen, 1 Minute, um die Teeblätter zu finden und 1 Minute, um den Tee zuzubereiten. Wie lange braucht Leo mindestens, um den Tee zu servieren?",
+        "target": "19 Minuten."
+    },
+    {
+        "input": "Mama benutzt eine kleine Pfanne, um bis zu 2 Eierkuchen auf einmal zu braten. Wenn es 2 Minuten dauert, 1 Eierkuchen zu braten (1 Minute für die Vorderseite und 1 Minute für die Rückseite), wie viele Minuten dauert es dann mindestens, 7 Eierkuchen zu braten?",
+        "target": "7 Minuten."
+    },
+    {
+        "input": "Beim Backen von Brot dauert es 2 Minuten, bis die erste Seite gebacken ist, und nur 1 Minute für die zweite Seite, da das Brot trockener ist. Die Pfanne, die Mama benutzt, kann nur zwei Scheiben Brot auf einmal aufnehmen. Wie viele Minuten dauert es mindestens, um 3 Scheiben Brot zu backen?",
+        "target": "5 Minuten."
+    },
+    {
+        "input": "Drei Kunden kommen gleichzeitig in einen Friseursalon: A möchte einen Haarschnitt und eine Rasur ohne Föhnen, B möchte eine Rasur ohne Haarschnitt und C möchte einen Haarschnitt, ein Föhnen und eine Rasur. Es gibt nur einen Friseur im Laden, bitte vereinbaren Sie eine vernünftige Reihenfolge, so dass die Gesamtwartezeit für alle drei minimiert wird.",
+        "target": "B-A-C"
+    },
+    {
+        "input": "Ein Grillrestaurant braucht 6 Minuten, um 1 Steak zu grillen (3 Minuten auf jeder Seite). Wenn auf einer Eisenplatte maximal 4 Steaks gegrillt werden können, wie viele Minuten dauert es mindestens, 15 Steaks zu grillen?",
+        "target": "24 Minuten."
+    },
+    {
+        "input": "Das Schulsekretariat muss 32 Dokumente beidseitig kopieren. Wenn das Kopiergerät maximal 3 Blätter pro Durchgang aufnehmen kann, wie viele Durchgänge sind mindestens nötig? ",
+        "target": "22 Durchgänge."
+    },
+    {
+        "input": "Ein Grillrestaurant braucht 6 Minuten, um 1 Schweinekotelett zu grillen (3 Minuten auf jeder Seite). Wie viele Minuten dauert es mindestens, 20 Schweinekoteletts zu grillen, wenn maximal 4 Koteletts auf einer Eisenplatte gegrillt werden können?",
+        "target": "30 Minuten."
+    },
+    {
+        "input": "Die Dinge, die Damian jeden Tag nach dem Aufstehen tun muss, sind: sich 2 Minuten lang anziehen, 2 Minuten lang die Bettdecke falten, 5 Minuten lang das Gesicht waschen und die Haare kämmen, 3 Minuten lang auf die Toilette gehen, 12 Minuten lang warten, bis sein Frühstück abgekühlt ist, und 8 Minuten lang sein Frühstück essen. Was denken Sie, wie viel Zeit wird mindestens aufgewendet?",
+        "target": "20 Minuten."
+    },
+    {
+        "input": "Vier Schüler A, B, C, D, gehen mit unterschiedlich großen Eimern Wasser holen. Es dauert 5 Minuten, bis der Eimer von A gefüllt ist, 4 Minuten, bis der Eimer von B gefüllt ist, 3 Minuten, bis der Eimer von C gefüllt ist, und 2 Minuten, bis der Eimer von D gefüllt ist. Jetzt gibt es nur einen Wasserhahn. Was ist die geringstmögliche Summe der einzelnen Wartezeiten aller Schüler?",
+        "target": "16 Minuten."
+    },
+    {
+        "input": "Frau Schulz bittet vier Schüler, A, B, C und D, zu einem Gespräch. Schüler A benötigt 6 Minuten für das Gespräch, Schüler B 10 Minuten, Schüler C 8 Minuten und Schüler D 5 Minuten.Was ist die minimale Gesamtwartezeit für jeden von ihnen?",
+        "target": "35 Minuten."
+    },
+    {
+        "input": "Frau Schmidt muss folgende Dinge erledigen, bevor sie einkaufen geht: 5 Minuten, um ihr Zimmer aufzuräumen, 1 Minute, um ihre schmutzige Wäsche in die Waschmaschine zu geben, 12 Minuten, bis die Waschmaschine diese automatisch wäscht, 3 Minuten, um ihre Schuhe zu polieren, und 1 Minute, um die gewaschene Kleidung zum Trocknen aufhängen. In wie vielen Minuten kann Frau Schmidt frühestens rausgehen?",
+        "target": "14 Minuten."
+    },
+    {
+        "input": "Mutter ist bei der Arbeit, also muss Hannah selbst kochen. Sie braucht 3 Minuten, um den Reis zu waschen, 1 Minute, um den Topf zu spülen, und 20 Minuten für den Reiskocher. Das Aufwärmen der von ihrer Mutter vorbereiteten Gerichte in der Mikrowelle dauert 8 Minuten, die Zubereitung der Suppe 3 Minuten.Wie viele Minuten dauert es mindestens, bis sie essen kann?",
+        "target": "24 Minuten."
+    },
+    {
+        "input": "Wenn man Brot in einem Toaster toastet, wird die erste Seite 2 Minuten lang getoastet und die zweite Seite nur 1 Minute lang, d. h. es dauert 3 Minuten, um eine Scheibe Brot zu toasten, und Stefans Toaster kann nur 2 Scheiben auf einmal aufnehmen. Wie viele Minuten dauert es also mindestens, die 3 Scheiben Brot zu toasten, die er jeden Morgen isst?",
+        "target": "5 Minuten."
+    },
+    {
+        "input": "Fünf Personen (A, B, C, D und E) möchten an einem Bankschalter Ein- und Auszahlungen vornehmen. Die Bearbeitungszeiten betragen: A 10 Minuten, B 6 Minuten, C 8 Minuten, D 3 Minuten, E 15 Minuten. Wie viele Minuten beträgt die Summe ihrer Wartezeiten mindestens, wenn sie optimal angeordnet werden?",
+        "target": "56 Minuten."
+    },
+    {
+        "input": "Am Sonntag verbrachte Sandra 35 Minuten damit, ihrer Mutter beim Reiskochen zu helfen, 15 Minuten mit ihren Sprachhausaufgaben und 10 Minuten mit ihren Mathehausaufgaben. Wie viele Minuten würde Sandra benötigen, um all diese Dinge zu erledigen, wenn sie ihre Zeit sinnvoll einteilen würde?",
+        "target": "35 Minuten."
+    },
+    {
+        "input": "Ein Arzt behandelt drei Patienten, Ava, Leo und Oscar. Ava braucht 4 Minuten, Leo 7 Minuten und Oscar 10 Minuten. Wie viele Minuten beträgt die minimale Gesamtwartezeit für alle drei?",
+        "target": "15 Minuten."
+    },
+    {
+        "input": "Es sollen beidseitig Tafeln gestrichen werden. Das Streichen einer Seite dauert 2 Minuten. Allerdings muss man 10 Minuten warten, bis die Farbe getrocknet ist, bevor die andere Seite gestrichen werden kann. Wie lange dauert es mindestens, um sechs solcher Tafeln fertigzustellen?",
+        "target": "24 Minuten."
+    },
+    {
+        "input": "Ein Friseursalon hat nur einen Friseur, und vier Kunden kommen gleichzeitig herein. Je nach gewünschtem Haarschnitt braucht A 15 Minuten, B 25 Minuten, C 18 Minuten und D 40 Minuten. In welcher Reihenfolge sollte der Friseur sie anordnen, damit die Zeit, die diese vier Personen mit dem Haarschnitt und dem Warten verbringen, möglichst gering ist?",
+        "target": "A-C-B-D"
+    },
+    {
+        "input": "Leo hat eine Erkältung und muss sich nach der Einnahme von Medikamenten schnell ausruhen. Er braucht 1 Minute, um Wasser aufzukochen, 7 Minuten, um das Wasser abkühlen zu lassen, 1 Minute, um die Erkältungsmedizin zu suchen, und 5 Minuten, um Fieber zu messen. Wie viele Minuten benötigt Leo mindestens, um sich bei optimaler Planung möglichst schnell auszuruhen?",
+        "target": "8 Minuten."
+    },
+    {
+        "input": "In eine Pfanne passen jeweils nur zwei Scheiben Brot, und es dauert 2 Minuten, jede Seite zu toasten. Wie viele Minuten muss Ava mindestens warten, um 3 Scheiben Brot für ihr Frühstück zu bekommen?",
+        "target": "6 Minuten."
+    },
+    {
+        "input": "Drei Schüler A, B, C, gehen gemeinsam in die Schulbibliothek, um ein Buch zurückzugeben, und jeweils nur einer kann ein Buch zurückgeben. Es dauert 4 Minuten, bis A das Buch zurückgibt, 2 Minuten, bis B das Buch zurückgibt, und 8 Minuten, bis C das Buch zurückgibt. Wie hoch ist die minimale Gesamtwartzeit aller drei Schüler?",
+        "target": "8 Minuten."
+    },
+    {
+        "input": "Nele, Ben und Pia nehmen gleichzeitig am Redewettbewerb für Schülerzeitungs-Reporter teil. Nele benötigt 6 Minuten, Ben 2 Minuten, Pia 5 Minuten, um die Gesamtwartezeit der drei Personen zu minimieren, wie sollten sie die Reihenfolge ihrer Reden gestalten?",
+        "target": "Ben-Pia-Nele."
+    },
+    {
+        "input": "Für den Bau eines Aquädukts braucht Team A allein 20 Tage und Team B allein 30 Tage. Bei gemeinsamer Arbeit sinkt die Effizienz: Team A erzielt nur 4/5, Team B nur 9/10 ihrer ursprünglichen Leistung. Um den Aquädukt in 16 Tagen fertigzustellen und die gemeinsame Arbeit so kurz wie möglich zu halten, wie viele Tage müssen die Teams zusammenarbeiten?",
+        "target": "10 Tage."
+    },
+    {
+        "input": "Eine Aufgabe dauert normalerweise 4 Stunden, wenn A und B zusammen arbeiten, oder 5 Stunden, wenn B und C zusammen arbeiten. Im geplanten Verfahren arbeiten A und C zunächst 2 Stunden gemeinsam, danach arbeitet B allein 6 Stunden, um die Aufgabe zu beenden. Wie viele Stunden würde B allein für die gesamte Aufgabe benötigen?",
+        "target": "20 Stunden."
+    },
+    {
+        "input": "Ein Projekt, das nach folgendem Plan durchgeführt wird: A macht es am ersten Tag, B macht es am zweiten Tag, A macht es am dritten Tag und B macht es am vierten Tag, und so weiter im Wechsel, wird in genau einer ganzen Anzahl von Tagen abgeschlossen sein; wenn es nach folgendem Plan durchgeführt wird: B macht es am ersten Tag, A macht es am zweiten Tag, B macht es am dritten Tag und A macht es am vierten Tag, und so weiter im Wechsel, wird es in einem halben Tag mehr als das vorherige abgeschlossen sein. Wenn man weiß, dass B allein für diese Arbeit 17 Tage braucht, um sie abzuschließen, wie viele Tage braucht dann A allein für diese Arbeit?",
+        "target": "8,5 Tage."
+    },
+    {
+        "input": "Laut Fertigungsplan sollen Meister und Lehrling die gleiche Anzahl an Teilen verarbeiten. Wenn der Meister die Hälfte beendet hat, hat der Lehrling 120 Teile fertiggestellt. Wenn der Meister fertig ist, hat der Lehrling 4/5 der Teile beendet. Wie viele Teile sind insgesamt im Los?",
+        "target": "300 Stücke."
+    },
+    {
+        "input": "Wenn die Setzlinge gleichmäßig auf Jungen und Mädchen verteilt werden, pflanzt jede Person im Durchschnitt 6 Setzlinge. Wenn nur die Mädchen pflanzen, sind es im Durchschnitt 10 Setzlinge pro Person. Wie viele Setzlinge müsste dann jeder Junge pflanzen, wenn nur sie die Aufgabe übernehmen?",
+        "target": "15 Setzlinge."
+    },
+    {
+        "input": "Liam will mit dem Fahrrad ausgehen und muss vorher folgende Aufgaben erledigen: 2 Minuten fürs Aufpumpen des Fahrrads, 7 Minuten zum Aufräumen seines Zimmers, 2 Minuten zum Putzen der Schuhe, 1 Minute, um die Wäsche in die Waschmaschine zu geben, 12 Minuten, für den automatischen Waschgang, und 5 Minuten, um die Wäsche mit Wasser auszuspülen, sie trocken zu pressen und in der Sonne zu trocknen. Wie viele Minuten braucht er mindestens?",
+        "target": "18 Minuten."
+    },
+    {
+        "input": "Wenn Lisa morgens aufwacht, braucht sie 3 Minuten, um ihr Bett zu machen, 4 Minuten, um sich zu waschen, 10 Minuten, um Wasser zu kochen, 7 Minuten, um zu frühstücken, 1 Minute, um das Geschirr abzuwaschen, und 2 Minuten, um ihre Schultasche zu sortieren. Wie viele Minuten braucht sie mindestens für all diese Aufgaben?",
+        "target": "17 Minuten."
+    },
+    {
+        "input": "Leo geht jeden Morgen um 6:50 Uhr von zu Hause weg und kommt um 7:20 Uhr in der Schule an. Sein Lehrer hat ihm geraten, morgen 6 Minuten früher in die Schule zu gehen. Wenn er morgen immer noch um 6:50 Uhr von zu Hause weggeht, muss er 25 Meter pro Minute mehr als sonst laufen, um pünktlich in die Schule zu kommen, wie sein Lehrer ihm geraten hat. Wie viele Meter ist das Haus von Leo von der Schule entfernt?",
+        "target": "3000 Meter."
+    },
+    {
+        "input": "Ein Projekt muss zu einem bestimmten Termin abgeschlossen werden. Wenn Team A das Projekt allein durchführt, wird der Termin um 1 Tag überschritten, wenn Team B das Projekt allein durchführt, wird der Termin um 4 Tage überschritten, nun werden Team A und Team B das Projekt 3 Tage lang durchführen, und der Rest des Projekts wird von Team B allein zum festgelegten Termin durchgeführt. Wie viele Tage beträgt das vorgegebene Datum?",
+        "target": "8 Tage."
+    },
+    {
+        "input": "Jan und Jonas nehmen gemeinsam die Inventur einer Büchercharge vor. Es ist bekannt, dass Jan 200 Bücher in der gleichen Zeit inventarisiert wie Jonas 300 Bücher, und Jonas schafft durchschnittlich 10 Bücher pro Minute mehr als Jan. Wie viele Bücher inventarisiert Jan durchschnittlich pro Minute?",
+        "target": "20 Bücher."
+    },
+    {
+        "input": "Auf der Autobahn A25 gibt es einen Tunnel, der von Team A allein gebaut wird und voraussichtlich in 200 Tagen fertiggestellt sein wird. Um die Straße so schnell wie möglich für den Verkehr freizugeben, arbeiten die beiden Teams A und B gleichzeitig, und das Ergebnis ist, dass der Tunnel in 120 Tagen freigegeben wird. Wie lange würde Team B für die alleinige Fertigstellung des Tunnels brauchen?",
+        "target": "300 Tage"
+    },
+    {
+        "input": "Die Organisation eines Stapels von Büchern innerhalb einer bestimmten Zeit würde, wenn sie von einer Person allein durchgeführt würde, 60 Stunden in Anspruch nehmen. Es ist nun geplant, dass einige Personen zunächst eine Stunde lang an der Organisation arbeiten,  dann werden 15 weitere Personen hinzukommen und mit den ersten zusammen weitere zwei Stunden arbeiten, um die Arbeit gerade fertigzustellen. Wenn man davon ausgeht, dass jede Person in der Planung gleich effizient ist, wie viele Personen sind dann für die erste Zusammenstellung vorgesehen?",
+        "target": "10 Personen."
+    },
+    {
+        "input": "Mira macht Tee für einen Gast, braucht 1 Minute, um das Wasser zu holen, 5 Minuten, um das Wasser zu kochen, 3 Minuten, um die Teetassen zu spülen (ohne heißes Wasser) und 1 Minute, um die Teeblätter zu nehmen. Wie viele Minuten braucht Mira mindestens, um die oben genannten Dinge in angemessener Weise zu erledigen?",
+        "target": "6 Minuten."
+    },
+    {
+        "input": "Julia benutzt ihre Pfanne, um 2 Pfannkuchen auf einmal zu braten und braucht dafür 2 Minuten pro Seite. Wie viele Minuten braucht Julia mindestens, um 3 Pfannkuchen auf beiden Seiten zu braten?",
+        "target": "6 Minuten."
+    },
+    {
+        "input": "Wenn Herr Meier jeden Morgen in die Schule kommt, muss er folgende Aufgaben erledigen: 5 Minuten lang Tische und Stühle aufräumen, 10 Minuten lang das Büro putzen, 30 Minuten lang Musik hören, 20 Minuten lang die Hausaufgaben von gestern korrigieren, 10 Minuten lang Gymnastik machen und 5 Minuten lang mit den Klassenleitern sprechen. Wenn der Unterricht um 8:00 Uhr beginnt, wann muss Herr Meier spätestens in der Schule sein, um dies zu tun?",
+        "target": "Um 7:10 Uhr."
+    },
+    {
+        "input": "Ein Konditor, der das Brot 2 Minuten auf der ersten Seite und 1 Minute auf der zweiten Seite toastet, d.h. er braucht 3 Minuten, um eine Scheibe Brot zu toasten, kann immer nur zwei Scheiben Brot auf das Toastgitter legen. Wie viele Minuten dauert es mindestens, die 5 Scheiben Brot, die seine Familie jeden Morgen isst, zu toasten?",
+        "target": "8 Minuten."
+    },
+    {
+        "input": "Ein Pfannkuchen sollte auf beiden Seiten gegart werden, jede Seite braucht 3 Minuten. Mit einer Pfanne können gleichzeitig 3 Pfannkuchen gebacken werden. Wie viele Minuten braucht man mindestens, um 5 Pfannkuchen fertig zu braten?",
+        "target": "12 Minuten."
+    },
+    {
+        "input": "Eine Charge von Teilen muss repariert werden. Wenn es von einer einzelnen Person allein repariert wird, würde es 20 Stunden dauern. Zuerst wird eine Person beauftragt, 2 Stunden mit der Reparatur zu arbeiten, anschließend wird eine Gruppe zusätzlicher Personen hinzugefügt, die gemeinsam mit dieser Person weitere 3 Stunden arbeiten, um die Reparaturarbeit vollständig abzuschließen. Angenommen, jede Person arbeitet mit der gleichen Effizienz, wie viele Personen wurden zusätzlich zur Reparatur hinzugefügt?",
+        "target": "5 Personen."
+    },
+    {
+        "input": "Die Schule plant, einige Personen für die Ausbesserung des Rasens einzustellen. Wenn eine Person allein arbeitet, würde es 240 Stunden in Anspruch nehmen. Es ist nun geplant, dass zunächst einige Personen 5 Stunden an der Rasenreparatur arbeiten, anschließend kommen 15 weitere Personen hinzu, die gemeinsam mit ihnen weitere 4 Stunden arbeiten, um die Arbeit gerade fertigzustellen. Wenn man davon ausgeht, dass jede Person in der Planung gleich effizient ist, wie viele Personen sind dann zuerst eingesetzt?",
+        "target": "20 Personen."
+    },
+    {
+        "input": "A und B verarbeiten dieselbe Art von Spielzeug. Wenn A 90 Spielzeuge in derselben Zeit verarbeitet, in der B 120 Spielzeuge verarbeitet, und beide zusammen insgesamt 35 Spielzeuge pro Tag schaffen, wie viele Spielzeuge verarbeitet A pro Tag?",
+        "target": "15"
+    },
+    {
+        "input": "Um eine Autobahn instand zu setzen, muss ein 1300 Meter langer Tunnel gegraben werden. Um die Effizienz der Autobahnbauzentrale zu verbessern, beschließen die beiden Ingenieurteams A und B, den Tunnel von beiden Seiten gleichzeitig zu bauen. Es ist bekannt, dass Team A täglich 10 Meter mehr als Team B graben kann. Zudem benötigt Team A für das Graben von 300 Metern die gleiche Anzahl an Tagen wie Team B für 200 Meter. Wie viele Meter können die beiden Teams A und B jeweils pro Tag graben?",
+        "target": "A: 30 Meter pro Tag; B: 20 Meter pro Tag."
+    },
+    {
+        "input": "Bei einer Ausschreibung für ein Stadtverschönerungsprojekt bewerben sich zwei Ingenieurteams, A und B. Nach Berechnungen benötigt Team A allein 60 Tage, um das Projekt abzuschließen, während Team B allein 90 Tage dafür brauchen würde. Nun übernimmt Team A die Arbeit zunächst 20 Tage lang alleine. Den verbleibenden Teil des Projekts führen Team A und Team B gemeinsam aus. Wie viele Tage arbeiten Team A und Team B gemeinsam, um das restliche Projekt zu beenden?",
+        "target": "24 Tage."
+    },
+    {
+        "input": "Herr Fischer sucht jemanden, der ein kleines Programm erstellt. 6 Stunden wird Leo dafür brauchen und 8 Stunden wird Max brauchen, um es alleine zu erstellen. Wie viele Stunden werden benötigt, wenn beide es gemeinsam machen? (1 Dezimalstelle beibehalten)",
+        "target": "3,4 Stunden"
+    },
+    {
+        "input": "Es dauert 20 Minuten, um das Geschirr abzuwaschen und die Küche aufzuräumen, 15 Minuten, um Wasser zu kochen und Tee zu machen, 1 Stunde, um den Bettbezug in der Waschmaschine zu waschen, 20 Minuten, um die Wäsche mit der Hand zu waschen, und 5 Minuten, um die Wäsche in die Waschmaschine zu schleudern. Wie lange braucht Simons Mutter mindestens, um all diese Dinge zu tun?",
+        "target": "65 Minuten"
+    },
+    {
+        "input": "Es dauert 8 Minuten, um ein Ei zu kochen, und in einem Topf können 15 Eier auf einmal gekocht werden. Wie viele Minuten dauert es also mindestens, um 27 Eier zu kochen?",
+        "target": "16 Minuten"
+    },
+    {
+        "input": "Leo kocht Wasser für einen Kunden, um Milchtee zuzubereiten. Es dauert 2 Minuten, um den Kessel zu spülen, 12 Minuten, um das Wasser zu kochen, 2 Minuten, um die Teetassen zu spülen (ohne heißes Wasser), und 1 Minute, um das Milchteepulver bereitzustellen. Damit der Kunde den Milchtee früher trinken kann, wie viele Minuten dauert es nach der kürzesten Zeiteinteilung, um den Milchtee zuzubereiten?",
+        "target": "14 Minuten"
+    },
+    {
+        "input": "Bevor er ins Bett geht, muss Benjamin folgende Dinge tun: sein Bett machen und sich bettfertig machen (2 Minuten); sein Gesicht waschen und seine Zähne putzen (3 Minuten); seine Schultasche ordnen (2 Minuten); Englisch hören (5 Minuten); und seine Füße waschen und einweichen (5 Minuten). Wie viele Minuten wird Benjamin brauchen mindestens, um all diese Dinge zu tun?",
+        "target": "12 Minuten."
+    },
+    {
+        "input": "Mama backt Brot und jeder Laib braucht 5 Minuten zum Backen, 3 Minuten auf einer Seite und 2 Minuten auf der anderen. Der Ofen zu Hause kann nur 2 Brote auf einmal backen, jetzt möchte Mama 3 Brote backen, reichen 8 Minuten?",
+        "target": "Ja"
+    },
+    {
+        "input": "Der Spielplatz hat ein Feld für Bogenschießen und ein Feld für Radfahren. Bogenschießen und Radfahren dauern jeweils 4 Minuten, und es kann immer nur ein Kind auf einem Feld spielen. Es kommen 3 Kinder auf den Spielplatz. Wie viele Minuten brauchen 3 Personen mindestens, um beide Spiele zu spielen?",
+        "target": "12 Minuten"
+    },
+    {
+        "input": "In Frau Fischers Laden, in die Pfanne passen nur 10 Kartoffelpuffer gleichzeitig. Sie müssen auf beiden Seiten gebraten werden, was pro Seite 3 Minuten dauert. Nun bestellt ein Kunde 15 Kartoffelpuffer und bittet Frau Fischer, sie in 10 Minuten zu braten. Wird Frau Fischer in der Lage sein, sie in der erforderlichen Zeit fertigzustellen?",
+        "target": "Ja"
+    },
+    {
+        "input": "Die drei Schüler Luca, Mara und Luna nehmen gleichzeitig an einem Lese- und einem Schreibtest teil. Jeder Test dauert für jeden Schüler 5 Minuten und wird von jeweils einem eigenen Lehrer betreut. Wie viele Minuten dauert es mindestens, bis alle drei Schüler beide Tests beendet haben?",
+        "target": "15 Minuten."
+    },
+    {
+        "input": "Luna braucht 3 Minuten, um morgens aufzustehen, sich die Zähne zu putzen und das Gesicht zu waschen, 15 Minuten, um Wasser zu kochen, 2 Minuten, um ihre Wasserflasche zu füllen, und 8 Minuten, um zu frühstücken. Wie viele Minuten braucht Luna mindestens, um all diese Dinge zu erledigen?",
+        "target": "17 Minuten"
+    },
+    {
+        "input": "Joshua muss morgens folgende Aufgaben erledigen: 1 Minute lang den Wasserkocher spülen, 12 Minuten lang Wasser kochen, 2 Minuten lang die Wasserflasche füllen, 8 Minuten lang frühstücken und 2 Minuten lang seine Schultasche ordnen. Wie viele Minuten braucht er mindestens, um diese Aufgaben zu erledigen?",
+        "target": "15 Minuten"
+    },
+    {
+        "input": "Vier Personen, A, B, C und D, benötigen jeweils 1 Minute, 2 Minuten, 5 Minuten und 10 Minuten, um die Brücke zu überqueren. Da es dunkel ist, müssen sie die Brücke mit Hilfe einer Taschenlampe überqueren, aber sie haben insgesamt nur eine Taschenlampe, und die Brücke hat eine begrenzte Tragfähigkeit, die nur das Gewicht von höchstens zwei Personen tragen kann, d. h. es können höchstens zwei Personen gleichzeitig die Brücke überqueren. Was ist die kürzeste Zeit in Minuten, die sie für die Überquerung benötigen?",
+        "target": "17 Minuten"
+    },
+    {
+        "input": "A, B und C gehen zur gleichen Zeit zu einem Wasserhahn, um jeweils nur für eine Person Wasser zu benutzen. A braucht 3 Minuten, um den Mopp zu waschen, B 10 Minuten, um die Wäsche zu waschen, und C 2 Minuten, um den Eimer mit Wasser zu füllen. Wie viele Minuten brauchen sie mindestens, um die Gesamtzeit (die Summe der jeweiligen Zeiten) für Wasserverbrauch und Warten zu erreichen?",
+        "target": "22 Minuten"
+    },
+    {
+        "input": "Drei Menschen, A, B, C, gehen zur gleichen Zeit in ein kleines Restaurant, in dem es nur einen Koch gibt, der jeweils nur ein Gericht servieren kann. B wartet 6 Minuten auf Knödel, A wartet 2 Minuten auf Eier und C wartet 5 Minuten auf Nudeln. Wie viele Minuten beträgt die geringstmögliche Gesamtwartezeit für die drei Personen zum Essen?",
+        "target": "22 Minuten."
+    },
+    {
+        "input": "Mira braucht 3 Minuten, um morgens aufzustehen, um sich die Zähne zu putzen und das Gesicht zu waschen, 1 Minute, um den Wasserkocher zu spülen, 8 Minuten, um zu lesen, 18 Minuten, um Wasser zu kochen, 2 Minuten, um die Thermoskanne zu füllen, und 5 Minuten, um zu frühstücken. Wie viele Minuten braucht Mira mindestens?",
+        "target": "21 Minuten"
+    },
+    {
+        "input": "Wenn man eine Pfanne zum Braten von Fladenbroten benutzt, kann man nur zwei Fladenbrote gleichzeitig hineinlegen. Wenn es 4 Minuten dauert, ein Fladenbrot zu braten (2 Minuten für die Vorderseite und 2 Minuten für die Rückseite), muss man jetzt drei Fladenbrote braten, wie viele Minuten braucht man dafür mindestens?",
+        "target": "6 Minuten"
+    },
+    {
+        "input": "Ava geht mit ihrer Mutter in die Stadt. Bevor sie gehen, müssen sie folgende Dinge erledigen: 5 Minuten, um ihr Zimmer aufzuräumen, 20 Minuten, um die Wäsche in der Waschmaschine zu waschen, 2 Minuten, um die gewaschene Kleidung zu trocknen, 4 Minuten, um ihre Schuhe zu putzen, 8 Minuten, um sich die Haare zu kämmen und das Gesicht zu waschen, und 2 Minuten, um ihre Taschen zu packen. Wenn die zu erledigenden Dinge geschickt eingeteilt werden, wie lange dauert es mindestens, bis sie losgehen können?",
+        "target": "22 Minuten."
+    },
+    {
+        "input": "Drei Schüler, A, B, C, gehen in die Bibliothek, um Bücher auszuleihen. A braucht 4 Minuten, B braucht 8 Minuten und C braucht 3 Minuten. Wie viel Zeit verbringen sie insgesamt am wenigsten (die Summe ihrer jeweiligen Ausleih- und Wartezeiten)?",
+        "target": "25 Minuten"
+    },
+    {
+        "input": "Am Sonntag kamen ein paar Kollegen der Mutter zu Sophia. Die Mutter sagte Sophia, sie solle Wasser für die Gäste kochen, um den Tee zu machen. Sophia machte sich an die Arbeit: 1 Minute für den Wasserkocher, 8 Minuten für das kochende Wasser, 1 Minute für die Teekanne (ohne heißes Wasser), 2 Minuten für die Teetassen (ohne heißes Wasser), 2 Minuten für die Teeblätter, 1 Minute für den Tee. Wie lange hat Sophia gebraucht, um die Gäste dazu zu bringen, den Tee so schnell wie möglich zu trinken?",
+        "target": "10 Minuten"
+    },
+    {
+        "input": "Wenn Levi morgens aufwacht, muss er folgende Dinge tun: 1 Minute lang den Wasserkocher spülen, 14 Minuten lang Wasser kochen, 2 Minuten lang die Wasserflasche füllen, 8 Minuten lang frühstücken und 2 Minuten lang seine Schultasche ordnen. Wie viele Minuten braucht er mindestens, um diese Aufgaben zu erledigen?",
+        "target": "17 Minuten"
+    },
+    {
+        "input": "Ava braucht 4 Minuten, um frühmorgens aufzustehen, um sich die Zähne zu putzen und das Gesicht zu waschen (ohne heißes Wasser), 8 Minuten, um zu lesen, 10 Minuten, um Wasser zu kochen, 1 Minute, um das Milchpulver aufzugießen, und 5 Minuten, um zu frühstücken. Wie viele Minuten nach dem Aufstehen kann Ava frühestens in die Schule gehen?",
+        "target": "18 Minuten."
+    },
+    {
+        "input": "Frau Fischer geht aus und bevor sie geht, muss sie folgende Dinge tun: 5 Minuten, um ihr Zimmer aufzuräumen, 1 Minute, um ihre Kleidung in die Waschmaschine zu stecken, 12 Minuten, um ihre Kleidung in der automatischen Waschmaschine zu waschen, 3 Minuten, um ihre Schuhe zu putzen und 4 Minuten, um ihre Kleidung zum trocknen aufhängen. In wie vielen Minuten wird Frau Fischer frühestens gehen können?",
+        "target": "17 Minuten"
+    },
+    {
+        "input": "Beim Braten von Pfannkuchen muss die erste Seite 3 Minuten und die zweite Seite 2 Minuten gebraten werden. Auf dem Bratrost können gleichzeitig höchstens zwei Pfannkuchen gebraten werden. Wie viele Minuten braucht man mindestens, um drei Pfannkuchen fertig zu braten?",
+        "target": "8 Minuten"
+    },
+    {
+        "input": "A, B, C und D besitzen jeweils ein Weizenfeld und haben nur einen Mähdrescher für die Ernte zur Verfügung. Die Ernte auf dem Feld von A dauert 4 Stunden, auf dem Feld von B 1 Stunde, auf dem Feld von C 3 Stunden und auf dem Feld von D 2 Stunden. Wie viel Zeit (einschließlich Ernte und Wartezeit) werden sie insgesamt mindestens benötigen?",
+        "target": "20 Stunden"
+    },
+    {
+        "input": "Im Gesundheitsraum warten vier Schüler auf die Behandlung durch einen Arzt. Es gibt nur einen Arzt, der immer nur einen Patienten gleichzeitig behandeln kann. A benötigt 3 Minuten für eine Injektion, B 4 Minuten für einen Verbandswechsel, C benötigt 2 Minuten für die Desinfektion und D 1 Minute für die Anwendung von Augentropfen. Wie viele Minuten beträgt die geringstmögliche Gesamtwartezeit, die sie im Gesundheitsraum jeweils verbringen?",
+        "target": "10 Minuten."
+    },
+    {
+        "input": "Drei Kunden gehen an denselben Schalter, um einen Einkauf zu tätigen, und es kann immer nur eine Person bedient werden; A braucht 4 Minuten, B braucht 6 Minuten und C braucht 2 Minuten. Wie viel Zeit verbringen sie insgesamt mindestens (die Summe ihrer jeweiligen Kauf- und Wartezeiten)?",
+        "target": "20 Minuten"
+    },
+    {
+        "input": "Ellas ritt auf dem Rücken eines Pferdes, um den Fluss zu überqueren, insgesamt A, B, C, D 4 Pferde. Es dauert 7 Minuten, bis Pferd A den Fluss überquert, 2 Minuten, bis Pferd B den Fluss überquert, 3 Minuten, bis Pferd C den Fluss überquert, und 8 Minuten, bis Pferd D den Fluss überquert. Jedes Mal müssen nur zwei Pferde den Fluss überqueren. Wie viele Minuten dauert es mindestens, um alle 4 Pferde auf die andere Seite des Flusses zu treiben?",
+        "target": "19 Minuten."
+    },
+    {
+        "input": "Drei Schüler der Klasse 2c, Sarah, Maria und Ellas, gehen zur gleichen Zeit in den Gesundheitsraum der Schule, um auf den Arzt zu warten, der ihre Krankheiten behandelt. Sarah braucht 5 Minuten für die Injektion, Maria 3 Minuten für den Verband und Ellas 1 Minute für die Augentropfen. Es ist nur ein Arzt im Gesundheitsraum, wie viele Minuten beträgt die minimale Gesamtdauer, die die drei Schüler insgesamt im Gesundheitsraum verbringen?",
+        "target": "14 Minuten"
+    },
+    {
+        "input": "Leo, Ava und Moritz wollen sich dasselbe Bilderbuch aus einer Bilderbuchbibliothek ausleihen. Moritz sagt, er könne es in einer Woche lesen, Ava sagt, sie könne es in einem halben Monat lesen, und Leo sagt, er könne es in 5 Tagen lesen. In welcher Reihenfolge sollen sie das Buch ausleihen, um die Summe der Wartezeiten zu minimieren?",
+        "target": "Leo-Moritz-Ava"
+    },
+    {
+        "input": "Wenn Noah, Jana und Mina gemeinsam einen Friseur aufsuchen und es nur einen Friseur gibt, Noah 20 Minuten, Jana 30 Minuten und Mina 40 Minuten brauchen, wie sollte die Reihenfolge der Haarschnitte aussehen, um die Summe der Wartezeit der drei zu minimieren?",
+        "target": "Noah-Jana-Mina"
+    },
+    {
+        "input": "Robin spielt in der Tischtennismannschaft seiner Schule und braucht 3 Minuten, um sich umzuziehen, 2 Minuten, um die Schuhe zu wechseln, 1 Minute, um seinen Schläger zu holen, 4 Minuten, um sich fertig zu machen, und 2 Minuten, um die Turnieransagen zu hören. Wie viele Minuten braucht Robin, um so schnell wie möglich ins Training einzusteigen?",
+        "target": "10 Minuten"
+    },
+    {
+        "input": "Mara muss abends folgende Dinge erledigen: 10 Minuten Musik hören, 20 Minuten sich waschen und 30 Minuten essen. Wie viele Minuten braucht sie also mindestens, um diese Dinge zu erledigen?",
+        "target": "50 Minuten."
+    },
+    {
+        "input": "Jeden Morgen braucht Opa Schneider 10 Minuten, um das Frühstück zu machen, 10 Minuten, um zu frühstücken, 20 Minuten, um Radio zu hören, und 30 Minuten, um die Blumen zu gießen und das Gemüse zu pflanzen. Wie viele Minuten braucht er mindestens, um diese Dinge zu erledigen?",
+        "target": "50 Minuten."
+    },
+    {
+        "input": "Frau Fischer braucht 10 Minuten, um Wasser zu kochen, 20 Minuten, um Frühstück zu machen, 20 Minuten, um eine Handwäsche zu machen, und 20 Minuten, um auf die Toilette zu gehen. Wie viele Minuten wird sie mindestens brauchen, um diese Aufgaben zu erledigen?",
+        "target": "60 Minuten."
+    },
+    {
+        "input": "Drei Mitarbeiter A, B, C, drucken auf demselben Drucker, A braucht 3 Minuten, B braucht 2 Minuten und C braucht 7 Minuten. In welcher Reihenfolge sollten die Ausdrucke angeordnet werden, um die Summe der Wartezeiten der drei zu minimieren?",
+        "target": "B-A-C"
+    },
+    {
+        "input": "Drei Athleten, A, B, C, laufen auf derselben Strecke, A braucht 8 Minuten, B braucht 10 Minuten und C braucht 12 Minuten. In welcher Reihenfolge sollten die Läufe stattfinden, um die Summe der Wartezeiten der drei zu minimieren?",
+        "target": "A-B-C"
+    },
+    {
+        "input": "Drei Köche kochen auf einem Herd eine Mahlzeit, Koch A braucht 12 Minuten bis zur Fertigstellung, Koch B braucht 15 Minuten und Koch C braucht 8 Minuten. In welcher Reihenfolge sollte gekocht werden, um die Summe der Wartezeiten der drei zu minimieren?",
+        "target": "C-A-B"
+    },
+    {
+        "input": "Bernhard, Sabine und Selma gehen zum gleichen Drucker, um gemeinsam ein Dokument auszudrucken. Bernhard braucht 16 Minuten, Selma 10 Minuten und Sabine 8 Minuten, in welcher Reihenfolge sollte also gedruckt werden, um die Gesamtwartezeit der drei zu minimieren?",
+        "target": "Sabine-Selma-Bernhard"
+    },
+    {
+        "input": "Drei Ärzte führen abwechselnd eine Operation in einem einzigen Operationssaal durch; es dauert 100 Minuten, bis A fertig ist, 50 Minuten, bis B fertig ist, und 15 Minuten, bis C fertig ist. Welche Reihenfolge minimiert die Summe der Wartezeiten der drei Ärzte?",
+        "target": "C-B-A"
+    },
+    {
+        "input": "Mira muss jeden Morgen folgende Dinge tun: 10 Minuten sich waschen, 20 Minuten Musik hören, 10 Minuten Frühstück machen und 20 Minuten aufräumen. Wie viele Minuten braucht sie mindestens, um diese Dinge zu erledigen?",
+        "target": "40 Minuten."
+    },
+    {
+        "input": "Jessica möchte eine Tasse Traubensaft zubereiten. Der gesamte Vorgang umfasst mehrere Schritte mit den entsprechenden Zeitangaben: Das Waschen der Tasse dauert eine Minute, das Kochen des Wassers und das Holen des Traubenpulvers dauern jeweils zwei Minuten, und das eigentliche Aufbrühen benötigt drei Minuten. Wie viele Minuten dauert es mindestens, bis sie ihren Traubensaft trinken kann?",
+        "target": "6 Minuten."
+    },
+    {
+        "input": "Selina will gekochtes Gemüse kochen. Sie braucht 5 Minuten, um das Gemüse zu waschen, 5 Minuten, um das Wasser zum Kochen zu bringen, 10 Minuten, um das Gemüse zuzubereiten. Danach kocht sie das Gemüse für 10 Minuten und braucht weitere 5 Minuten zum Anrichten. Wie viele Minuten benötigt sie mindestens für alles?",
+        "target": "30 Minuten."
+    },
+    {
+        "input": "Herr Fischer muss morgens mit folgenden Dingen beschäftigt sein: 30 Minuten lang Wäsche in der automatischen Waschmaschine waschen, 10 Minuten lang Wäsche aufhängen, 10 Minuten lang Wäsche falten, 20 Minuten lang Radio hören, 20 Minuten lang Frühstück machen, 50 Minuten lang seine Kinder zur Schule bringen und seine Zeit sinnvoll einteilen. Wie viele Minuten benötigt er mindestens, um all diese Aufgaben zu erledigen?",
+        "target": "90 Minuten."
+    },
+    {
+        "input": "Frau Schneider muss mittags einige Dinge erledigen, z. B. 30 Minuten lang kochen, 30 Minuten lang Radio hören, 10 Minuten lang Unterwäsche von Hand waschen, 30 Minuten lang Wäsche in der Waschmaschine waschen und 20 Minuten lang die Kinder abholen. Wie lange ist die kürzeste Zeit, in der sie all diese Dinge erledigen kann, wenn sie ihre Zeit klug einteilt?",
+        "target": "60 Minuten."
+    },
+    {
+        "input": "Wenn Frau Koch Milch für ihr Kind kocht, braucht sie 1 Minute, um das Wasser zu nehmen, 6 Minuten, um das Wasser zu kochen, 5 Minuten, um die Milchtasse zu spülen, 2 Minuten, um das Milchpulver zu holen, 1 Minute, um die Milch herzustellen, und 3 Minuten, um die Milch abkühlen zu lassen. Wie vielen Minuten braucht Frau Koch mindestens, um die Milch so schnell wie möglich zu trinken?",
+        "target": "12 Minuten."
+    },
+    {
+        "input": "Emmas Schultag endet um 20:00 Uhr, und nach der Schule muss sie 60 Minuten Hausaufgaben machen, 30 Minuten Musik hören, 40 Minuten baden, 40 Minuten Spiele spielen und 40 Minuten ihr Zimmer aufräumen. Wann kann sie frühestens ins Bett gehen?",
+        "target": "23:00"
+    },
+    {
+        "input": "Jasmin wird mit ihrer Mutter auf die Straße gehen. Bevor sie gehen, müssen sie folgende Dinge erledigen: 5 Minuten Boden fegen, 20 Minuten Wäsche in der Waschmaschine waschen, 10 Minuten das Zimmer aufräumen, 8 Minuten Haare kämmen und Gesicht waschen und 8 Minuten den Boden wischen. Bitte helfen Sie ihnen zu berechnen, wie lange es dauert, bis sie gehen können?",
+        "target": "31 Minuten."
+    },
+    {
+        "input": "Mira wird ihre Großmutter besuchen und benötigt 20 Minuten, um ihr Zimmer aufzuräumen, bevor sie das Haus verlässt, 30 Minuten, um ihre Wäsche in der Waschmaschine zu waschen, 20 Minuten, um zu kochen und 5 Minuten, um ihre Mahlzeiten zu verpacken. Wie viele Minuten kann sie am kürzesten ausgehen, wenn sie vernünftige Vorkehrungen trifft?",
+        "target": "45 Minuten."
+    },
+    {
+        "input": "Wenn Lukas nun 10 Stunden zu organisieren hat, wovon er 5 Stunden mit Hausaufgaben, 2 Stunden mit Spielen, 1 Stunde mit Kochen und 1 Stunde mit Essen verbringt, wie viele Stunden stehen ihm dann maximal zur Verfügung?",
+        "target": "1 Stunde."
+    },
+    {
+        "input": "Mina hat am Freitag 8 Stunden Zeit. Sie verbringt 3 Stunden mit Hausaufgaben, 1 Stunde mit Musik Hören und 1 Stunde mit Kochen. Wie viele Stunden hat sie dann höchstens zur Verfügung?",
+        "target": "4 Stunden."
+    },
+    {
+        "input": "Melanie muss Gäste bewirten, wovon sie 10 Minuten für das Aufkochen des Wassers, 5 Minuten für das Zubereiten des Tees, 5 Minuten für das Besorgen der Snacks und 10 Minuten für das Anrichten der Snacks benötigt. Wie viele Minuten braucht sie dafür mindestens?",
+        "target": "20 Minuten"
+    },
+    {
+        "input": "Jeden Morgen muss Leo diese Dinge erledigen: 3 Minuten lang das Bett machen, 3 Minuten lang seine Schultasche packen, 10 Minuten lang sich waschen, und 8 Minuten lang ein Hörbuch anhören. Wenn er um 6:00 Uhr aufsteht, was ist die früheste Zeit, um diese Dinge zu erledigen?",
+        "target": "06:16"
+    },
+    {
+        "input": "Jasmin möchte ihrer Mutter an ihrem Wochenende bei folgenden Dingen helfen: Sie braucht 20 Minuten, um die Wäsche in der automatischen Waschmaschine zu waschen, 6 Minuten, um den Boden zu fegen, 10 Minuten, um den Tisch abzuwischen, und 5 Minuten, um die Wäsche zum Trocknen aufzuhängen. Bei geschickter Planung, wie viele Minuten wird sie mindestens brauchen, um all diese Dinge zu erledigen?",
+        "target": "25 Minuten."
+    },
+    {
+        "input": "Wenn Leo morgens aufwacht, braucht er 3 Minuten, um sich die Zähne zu putzen und das Gesicht zu waschen, 8 Minuten, um sein Zimmer aufzuräumen, 5 Minuten, um zu frühstücken, und 13 Minuten, um Englisch zu hören. Wie viele Minuten braucht Leo mindestens, um all diese Dinge zu erledigen?",
+        "target": "16 Minuten."
+    },
+    {
+        "input": "Die Familie von Markus macht jeden Morgen zwei Dinge: Milch kochen und 3 Flaschen waschen. Es ist bekannt, dass es 10 Minuten dauert, um die Milch zu kochen, und 3 Minuten, um eine Flasche zu waschen. Wie viele Minuten braucht die Familie von Markus am schnellsten, um Milch zu bekommen?",
+        "target": "10 Minuten."
+    },
+    {
+        "input": "Anouks Klassenkameraden kommen zu Besuch, und Anouk muss Tee für ihre Klassenkameraden kochen. Sie braucht 3 Minuten, um die Snacks vorzubereiten, 5 Minuten, um das Wasser zu kochen, 2 Minuten, um die Tassen herauszusuchen, 1 Minute, um die Tassen zu spülen (ohne heißes Wasser), und 1 Minute, um den Tee aufzubrühen. Wie viele Minuten braucht Anouk, um ihren Mitschülern den Tee zu servieren?",
+        "target": "6 Minuten."
+    },
+    {
+        "input": "Während der Zeit, als man zu Hause bleiben musste, half Valentia ihrer Mutter bei der Hausarbeit: Es dauerte 5 Minuten, um den Boden zu fegen, 40 Minuten, um die Wäsche in der Waschmaschine zu waschen, 3 Minuten, um die Bettdecke zu falten, und 5 Minuten, um die Wäsche zum Trocknen aufzuhängen. Wie viele Minuten hat es mindestens gedauert, diese Aufgaben zu erledigen?",
+        "target": "45 Minuten."
+    },
+    {
+        "input": "Ava ist erkältet und will sich nach der Einnahme ihrer Medizin schnell ausruhen. 1 Minute braucht sie, um eine Tasse zu finden, 6 Minuten, um zu warten, bis das heiße Wasser abgekühlt ist, 1 Minute, um die Erkältungsmedikamente zu finden, und 5 Minuten, um ihre Temperatur zu messen. Wie viel Zeit benötigt Ava mindestens, um die oben genannten Dinge vernünftig zu organisieren?",
+        "target": "7 Minuten."
+    },
+    {
+        "input": "Wenn Finn morgens aufwacht, braucht er 3 Minuten, um Reis zu waschen, 20 Minuten, um den Reiskocher anzuschließen und zu kochen, 10 Minuten, um sich englische Vokabeln einzuprägen, 5 Minuten, um sich die Zähne zu putzen und das Gesicht zu waschen, und 9 Minuten, um zu frühstücken. Wie viele Minuten braucht er mindestens, um all diese Dinge zu erledigen?",
+        "target": "32 Minuten."
+    },
+    {
+        "input": "Am Sonntag hat Felix 40 Minuten damit verbracht, seinem Vater beim Backen von Gemüse im Ofen zu helfen, 15 Minuten mit seinen Sprachhausaufgaben und 10 Minuten mit seinen Mathehausaufgaben - wie viele Minuten hätte er mindestens für all diese Dinge gebraucht, wenn er die Aufgaben effizient plant?",
+        "target": "40 Minuten."
+    },
+    {
+        "input": "Emil steht morgens früh auf und wäscht sich das Gesicht, putzt sich die Zähne und faltet seine Decke in 8 Minuten; er braucht 6 Minuten, um seine Gesundheitsübungen zu machen; er braucht 2 Minuten, um seine Tasse (ohne heißes Wasser) zu waschen und sein Milchpulver zu holen; und er braucht 15 Minuten, um sein Wasser zu kochen. Wie viele Minuten braucht Emil, um all diese Dinge so schnell wie möglich zu erledigen, wenn er die Milch so schnell wie möglich trinken möchte?",
+        "target": "16 Minuten."
+    },
+    {
+        "input": "Wenn sie um 6 Uhr morgens aufwacht, muss Ava folgende Dinge tun: 3 Minuten lang die Decken falten, 8 Minuten lang Zähne putzen und das Gesicht waschen, 26 Minuten lang eine Fremdsprache lesen, 10 Minuten lang frühstücken, 9 Minuten lang das Geschirr wegräumen und den Tisch abwischen und 30 Minuten lang Radio hören. Wann kann sie frühestens mit allem fertig werden?",
+        "target": "06:56"
+    },
+    {
+        "input": "Wenn Lisa 10 Stunden für die Organisation des Wochenendes zur Verfügung hat und davon 1 Stunde für ihre Mathehausaufgaben, 1 Stunde zum Musikhören, 1 Stunde für ihre Sprachhausaufgaben und 1 Stunde zum Kochen in der Küche verwendet, wie viele Stunden bleiben ihr dann noch zur Verfügung, wenn sie effizient plant?",
+        "target": "7 Stunden."
+    },
+    {
+        "input": "Simon, Leo und Nele kommen gleichzeitig in die Arztpraxis, in der nur ein Arzt die Patienten nacheinander behandelt. Simon benötigt 10 Minuten für eine Injektion, Leo 12 Minuten für eine Konsultation und Nele 15 Minuten für eine Injektion. In welcher Reihenfolge sollte der Arzt die Patienten behandeln, damit die Gesamtsumme der Wartezeiten der drei Personen minimal ist?",
+        "target": "Simon-Leo-Nele."
+    },
+    {
+        "input": "Wenn Mina am Freitag 12 Stunden zur Verfügung hat und davon 2 Stunden mit dem Aufräumen des Hauses, 1 Stunde mit dem Hören von Hörspielen, 2 Stunden mit der Zubereitung von gekochtem Reis und 1 Stunde mit Spielen verbringt, wie viele Stunden stehen ihr dann noch zur Verfügung?",
+        "target": "7 Stunden."
+    },
+    {
+        "input": "A, B und C bestellen jeweils ein Gericht und es gibt nur einen Koch. Das Gericht von A dauert 10 Minuten, das Gericht von B 8 Minuten und das Gericht von C 12 Minuten. Die Reihenfolge, die die Summe der Wartezeiten der drei Personen minimiert, ist also?",
+        "target": "B-A-C"
+    },
+    {
+        "input": "Am Wochenende ist in einer kleinen Klinik nur ein Arzt im Dienst, der jeweils nur einen Patienten gleichzeitig behandeln kann. Ava benötigt 4 Minuten für eine Injektion, Leo 2 Minuten für eine Medikamentenverordnung, und Joris 25 Minuten für einen Verbandswechsel. Wenn der Arzt die Behandlungszeiten sinnvoll plant, wie viele Minuten beträgt dann die minimale Gesamtsumme der Wartezeiten der drei Patienten?",
+        "target": "8 Minuten."
+    },
+    {
+        "input": "Eine Pfanne, in der zwei Pfannkuchen gleichzeitig gebacken werden können, braucht 3 Minuten für eine Seite. Wie viele Minuten dauert es also, 5 Pfannkuchen zu backen?",
+        "target": "15 Minuten."
+    },
+    {
+        "input": "A, B und C gehen gleichzeitig zu einem Wasserhahn, A braucht 15 Minuten, um die Bettwäsche zu waschen, B braucht 10 Minuten, um die Wäsche zu waschen und C braucht 2 Minuten, um den Eimer mit Wasser zu füllen. Wie sollten sie ihre Reihenfolge anpassen, um die Wartezeit zu minimieren?",
+        "target": "C-B-A"
+    },
+    {
+        "input": "Morgens muss Nele 20 Minuten lang Wäsche in der automatischen Waschmaschine waschen, 10 Minuten lang die Blumen gießen, 10 Minuten lang Radio hören, 30 Minuten lang Frühstück machen und 30 Minuten lang Wäsche sortieren. Wie viele Minuten muss sie mindestens aufwenden, wenn sie eine vernünftige Regelung trifft?",
+        "target": "70 Minuten."
+    },
+    {
+        "input": "Ava, Nele und Pia gehen zur Eislaufbahn, um sich dieselbe Ausrüstung auszuleihen, wobei Ava sie für einen Tag, Nele für zwei Tage und Pia für einen halben Tag ausleiht. In welcher Reihenfolge wird die Summe der Wartezeiten für alle drei minimiert?",
+        "target": "Pia-Ava-Nele."
+    },
+    {
+        "input": "Drei Skateboarder fahren nacheinander dieselbe Skaterampe hinunter, A braucht 20 Minuten, B braucht 30 Minuten und C braucht 12 Minuten. In welcher Reihenfolge sollte geskatet werden, um die Summe der Wartezeiten der drei zu minimieren?",
+        "target": "C-A-B"
+    },
+    {
+        "input": "Luna musste am Sonntag nicht zur Schule gehen und wollte etwas für ihre Mutter tun. Haus aufräumen: 30 Minuten; Boden schrubben: 30 Minuten; Bettwäsche in der Waschmaschine waschen: 1 Stunde; ihre eigene Wäsche mit der Hand waschen: 30 Minuten; Wäsche aufhängen: 10 Minuten. Wie viele Minuten braucht sie mindestens?",
+        "target": "100 Minuten."
+    },
+    {
+        "input": "Drei Schauspieler warten auf ein Vorsprechen, Schauspieler A muss 12 Minuten vorsprechen, Schauspieler B muss 18 Minuten vorsprechen und Schauspieler C muss 22 Minuten vorsprechen. Wie sieht die Reihenfolge aus, die die Summe der Wartezeit für alle drei minimiert?",
+        "target": "A-B-C."
+    },
+    {
+        "input": "Damian braucht 10 Minuten, um seiner Großmutter zu helfen, Wasser zu kochen, wenn er nach Hause kommt, 30 Minuten, um Musik zu hören, 60 Minuten. Der automatische Waschgang dauert 60 Minuten. Er braucht noch 30 Minuten, um das Abendessen zu kochen. Wie viele Minuten braucht er mindestens, um all diese Dinge zu tun?",
+        "target": "60 Minuten."
+    },
+    {
+        "input": "Luisa muss morgens früh aufstehen, um folgende Dinge zu erledigen: Sie braucht 8 Minuten, um zu frühstücken, 2 Minuten, um ihre Schultasche zu sortieren und 10 Minuten, um Radio zu hören. Wie viele Minuten benötigt sie mindestens, um alle Aufgaben zu erledigen?",
+        "target": "10 Minuten."
+    },
+    {
+        "input": "Mina braucht 10 Minuten, um morgens aufzustehen und sich zu waschen, 10 Minuten, um morgens zu lesen, 10 Minuten, um Wasser zu kochen, 5 Minuten, um das Milchpulver aufzugießen, und 5 Minuten, um zu frühstücken. Wie viele Minuten braucht Mina mindestens, um aufzustehen und zur Schule zu gehen?",
+        "target": "30 Minuten."
+    }
+]

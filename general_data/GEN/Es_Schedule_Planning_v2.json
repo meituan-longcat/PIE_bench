@@ -1,0 +1,482 @@
+[
+    {
+        "input": "Carlos es un profesor de cursos de formación en innovación y emprendimiento. Él programa sus capacitaciones de 10:00 a 18:00 cada día laboral, con una hora de descanso para almorzar. Desde el próximo lunes por la mañana, organizará los cursos en el siguiente orden: métodos de innovación (5 horas), planificación de proyectos empresariales (10 horas) y modelos de negocio (4 horas). ¿Qué día de la semana terminará de estudiar los modelos de negocio?",
+        "target": "Miércoles de la próxima semana"
+    },
+    {
+        "input": "Beatriz está viajando en Madrid. Actualmente se encuentra en el Zoo Acuarium de Madrid y planea ir a la Plaza Mayor de Madrid. Es la una por la tarde ahora. Si tarda media hora en comer y media hora en el trayecto, ¿a qué hora podrá llegar como más pronto a la Plaza Mayor de Madrid?",
+        "target": "14:00:00"
+    },
+    {
+        "input": "María quiere probar la famosa carne asada de Buenos Aires. En estos momentos está de paseo cerca del barrio Palermo y planea seguir explorando durante 1 hora más. Son las 4 de la tarde, y el trayecto hasta el restaurante tarda media hora. ¿A qué hora llegará al restaurante?",
+        "target": "17:30:00"
+    },
+    {
+        "input": "María es escritora y su horario laboral es de 10:00 a 19:00 cada día hábil. Su rutina diaria incluye: redactar nuevos capítulos o párrafos (4 horas), editar y revisar el contenido escrito el día anterior (1 hora), organizar tramas y estructuras de contenido (1 hora), y realizar análisis de mercado y competencia (3 horas). ¿A qué hora terminará lo más pronto posible de organizar tramas y estructuras de contenido?",
+        "target": "16:00:00"
+    },
+    {
+        "input": "Si participo en un curso intensivo de pintura la próxima semana, con horario laboral de 10:00 a 18:00 cada día, comenzando el próximo lunes por la mañana en el siguiente orden: estudio de líneas (6 horas), estudio de color (11 horas), estudio de perspectiva (8 horas), ¿qué día de la semana terminará lo más pronto posible el estudio de perspectiva?",
+        "target": "Jueves de la próxima semana"
+    },
+    {
+        "input": "Ana tiene 60 días para preparar el examen FRM: exámenes simulados (5 días), mercados financieros y productos (5 días), análisis cuantitativo de riesgos financieros (10 días), gestión de riesgos y administración de inversiones (20 días). ¿Cuántos días podrá dedicar a practicar valoración y modelos de riesgo?",
+        "target": "20 días"
+    },
+    {
+        "input": "Carlos se levanta a las 10:00. De 10:00 a 12:00 tiene clases en la escuela. De 15:00 a 19:00 está en la iglesia. De 20:00 a 23:00 está en casa de Elena, y se acuesta a las 23:00. Si quiere jugar al baloncesto durante tres horas, ¿qué franja horaria es la más adecuada?",
+        "target": "12:00-15:00"
+    },
+    {
+        "input": "Soy escritor y mi horario laboral es de 10:00 a 16:00 cada día hábil. A partir del próximo lunes, planeo hacer los siguientes trabajos en el orden siguiente: obtener inspiración y perspectivas (4 horas), redactar nuevos capítulos o párrafos (8 horas), tomar notas y hacer esquemas (6 horas) y realizar autoevaluación y reflexión (3 horas). ¿Qué día de la semana terminaré lo más pronto posible la autoevaluación y reflexión?",
+        "target": "Jueves de la próxima semana"
+    },
+    {
+        "input": "Sofía es trabajadora comunitaria. Tiene cinco días la próxima semana para organizar un evento comunitario. Tiene que hacer: planificación y preparación de las actividades (1 día), comunicación y formación con los voluntarios (medio día), interacción con los residentes (medio día), y organización de datos y comentarios sobre las actividades de la comunidad (medio día). ¿Cuántos días le quedan para resolver problemas de los residentes y brindar asistencia a los residentes?",
+        "target": "2,5 días"
+    },
+    {
+        "input": "Si tengo 90 días para prepararme para el examen TOEFL, tengo que hacer durante ese tiempo: exámenes simulados (7 días), comprensión auditiva (20 días), escritura (15 días) y lectura (20 días). ¿Cuántos días podré practicar expresión oral?",
+        "target": "28 días"
+    },
+    {
+        "input": "Mi hermano se levantó a las 8:00 a. m. Su horario del día es el siguiente: clase de matemáticas de 9:30 a 12:00, descanso de mediodía de 12:00 a 15:00, y clase de inglés de 15:00 a 17:00. Por la noche, juega a videojuegos de 20:00 a 22:00 y se acuesta a las 22:00. Si hoy necesita jugar un partido de fútbol de tres horas, ¿cuál es el horario más adecuado?",
+        "target": "Entre 17:00 y 20:00"
+    },
+    {
+        "input": "Un simposio académico incluye inauguración, discurso principal, debates grupales, presentaciones académicas e interacción académica. Javier organiza uno de 10:00-18:00 con: inauguración (1h), debates (1h), descanso (1h), discurso principal (1h), presentaciones académicas (3h). ¿Cuántas horas hay para interacción académica?",
+        "target": "1 hora"
+    },
+    {
+        "input": "Isabel tiene 50 días para preparar el ACT: simulacros de exámenes (10 días), inglés (10 días), matemáticas (7 días), lectura (15 días). ¿Cuántos días le quedan para practicar el razonamiento científico?",
+        "target": "8 días"
+    },
+    {
+        "input": "Carolina es profesora de informática y programa sus capacitaciones de 10:00 a 18:00 cada día laboral. Desde el próximo lunes por la mañana, organizará los cursos en el siguiente orden: fundamentos informáticos (8 horas), lenguajes de programación (4 horas) y análisis de datos (10 horas). ¿Qué día de la semana terminará lo más pronto posible el análisis de datos?",
+        "target": "Miércoles de la próxima semana"
+    },
+    {
+        "input": "Hoy es 1 de agosto. Las toallas para bebé que Laura encargó tardan 5 días en llegar, el biberón tarda 8 días y la leche en polvo infantil tarda 3 días. ¿Cuál es la fecha más temprana en que tendrá listos todos estos artículos maternoinfantiles?",
+        "target": "9 de agosto"
+    },
+    {
+        "input": "Roberto planea una boda en 5 días: determinación de la ceremonia y ubicación de la banquete (1 día), reserva de empresa organizadora y grupo de planificación (medio día), prueba de vestido y proceso personalizado (medio día), elección y compra de anillos (1 día), determinación de alojamiento de los invitados y organización de transporte (medio día), decoración de la boda (medio día). ¿Cuántos días le quedan para reservar fotógrafos?",
+        "target": "1 día"
+    },
+    {
+        "input": "Raúl organiza un evento de voluntariado de 5 días: promoción (1 día), actividades benéficas (medio día), organización de personal y recursos (medio día), feedback y celebración con el grupo voluntario (medio día). ¿Cuántos días disponibles le quedan para realizar la evaluación y las mejoras?",
+        "target": "2,5 días"
+    },
+    {
+        "input": "Patricia es una instructora de cursos de comunicación y expresión. Programa las sesiones de capacitación de 10:00 a 18:00 cada día laboral. Desde el próximo lunes por la mañana organizará los cursos en el siguiente orden:  \n- Comunicación efectiva: 6 horas.  \n- Gestión de relaciones interpersonales: 12 horas.  \n- Técnicas de oratoria: 7 horas.  \n¿Cuál es el día más temprano de la semana en que terminará de aprender las técnicas de oratoria?",
+        "target": "Jueves de la próxima semana"
+    },
+    {
+        "input": "Pablo se levantó a las 9:00. Su horario fue: trabajar en la panadería de 9:00 a 12:00, almorzar de 12:00 a 13:00, trabajar en la cafetería de 15:00 a 19:00, regresar a casa de 19:00 a 20:00, jugar solo a videojuegos en casa hasta las 23:00 y luego dormir. Pablo y Lucía tomaron juntos una clase de baile de dos horas. ¿En qué franja horaria tomaron la clase?",
+        "target": "13:00-15:00"
+    },
+    {
+        "input": "Hoy debo ir a casa de mi abuela para cuidar a su gato. El viaje de ida y vuelta toma 2 horas. Darle comida requiere media hora, cepillarlo media hora y jugar con él 1 hora. Si deseo regresar a casa alrededor de las 18:00, ¿a qué hora como más tarde debo salir?",
+        "target": "14:00:00"
+    },
+    {
+        "input": "María tiene una reunión urgente que requiere viajar de Madrid a Vigo el mismo día 21. La reunión comienza a las 17:00. Los boletos aéreos están agotados. Planea tomar el tren ALVIA que tiene tres salidas diarias. Parten respectivamente a las 8:00, 12:00 y 16:00. El viaje dura 7 horas. Desde la estación al lugar de la reunión se requiere 1 hora en auto, y necesita 1 hora de preparación tras llegar. Son las 6 a.m. del día 21. ¿Cuál es el tren que puede tomar más tarde?",
+        "target": "El tren de las 8:00 de la mañana"
+    },
+    {
+        "input": "Isabel planea una boda en 4 días: planificación de menú y bebidas (medio día), reserva de vehículos (medio día), reserva de pastel y postres (medio día), organización de ensayos y música (1 día), realización de trámites legales (medio día). ¿Cuántos días le quedan para confirmar el flujo de la ceremonia?",
+        "target": "1 día"
+    },
+    {
+        "input": "María quiere ir a Carrefour este domingo para las compras familiares. Tiene 2 horas en el supermercado para seleccionar productos y pagar: seleccionar verduras (0,5h), seleccionar carnes (0,5h), hacer el pago (0,5h). ¿Cuánto tiempo le queda para comprar artículos del hogar?",
+        "target": "0,5 horas"
+    },
+    {
+        "input": "Planeo obtener la residencia permanente en Reino Unido. Hoy es 20 de enero: solicitud (2 meses), entrevista (1 mes), documentos y exámenes médicos (6 meses). ¿Cuándo es lo más temprano para obtenerla?",
+        "target": "20 de octubre"
+    },
+    {
+        "input": "El departamento de neurología donde trabaja Raúl organizará una conferencia académica este domingo de 10:00 a 16:00. El almuerzo es de 12:00 a 13:00, la ceremonia de apertura y la conferencia magistral son de 10:00 a 11:00, la sesión de interacción académica es de 13:00 a 14:00, la cena o actividad social es de 14:00 a 15:30, y la clausura es de 15:30 a 16:00. ¿A qué hora es el informe académico?",
+        "target": "11:00-12:00"
+    },
+    {
+        "input": "María se dedica a la planificación de bodas y tiene 5 días para organizar uno: completar los trámites legales y el registro nupcial (0,5 días), comenzar la prueba de vestido y el proceso de personalización (0,5 días), la planeación de la luna de miel (1 día), confirmar el alojamiento y el transporte de los invitados (1 día), la decoración y el arreglo de la sala de la boda (0,5 días). ¿Cuántos días le quedan para confirmar al presentador de la ceremonia?",
+        "target": "1,5 días"
+    },
+    {
+        "input": "Si asisto a un curso corto de fitness la próxima semana (10:00-18:00, días laborales), comenzando el lunes por la mañana en el siguiente orden: cardio (3h), entrenamiento de fuerza (2h), entrenamiento de flexibilidad y estabilidad nuclear(4h), ¿qué día de la semana terminaré lo más pronto posible el entrenamiento de flexibilidad y estabilidad nuclear?",
+        "target": "Martes de la próxima semana"
+    },
+    {
+        "input": "Mi familia y yo queremos emigrar a Francia. Hoy es 5 de enero. Entender las políticas migratorias tomará 1 mes, presentar la solicitud y preparar los documentos requerirá 1 mes, la espera para la aceptación y revisión por parte de la oficina de inmigración necesitará 3 meses, y la emisión de la visa demorará 4 meses. ¿Cuándo podríamos emigrar a Francia como muy pronto?",
+        "target": "5 de octubre"
+    },
+    {
+        "input": "Si son las 10:00 ahora. Necesito: alimentar conejos (0,5h), limpiar jaula de conejos (0,5h), jugar con conejos (1h). ¿A qué hora terminaré más temprano?",
+        "target": "12:00:00"
+    },
+    {
+        "input": "Bella tiene 30 días para preparar el examen HSK: expresión oral (5d), comprensión auditiva (5d), escritura (10d), lectura (5d). ¿Cuántos días le quedan para simulacros?",
+        "target": "5 días"
+    },
+    {
+        "input": "La especialidad de informática de Carlos organizará una conferencia académica este sábado de 10:00 a 17:00. El almuerzo es de 11:00 a 12:00, la ceremonia de apertura y la conferencia magistral son de 10:00 a 11:00, la sesión de interacción académica es de 12:00 a 14:00, la cena o actividad social es de 14:00 a 15:00, y la clausura es de 16:30 a 17:00. ¿A qué hora es la presentación académica?",
+        "target": "15:00-16:30"
+    },
+    {
+        "input": "Ana es una profesora de masajes. Su horario de formación es de 10:00 a 17:00 cada día laboral. A partir del próximo lunes por la mañana, planea organizar los cursos en este orden: los fundamentos de las técnicas de masaje requerirán 5 horas, la explicación de enfermedades comunes y tratamientos con masajes tomará 4 horas, la práctica de habilidades de masaje necesitará 10 horas, y la regulación y cuidado de la salud con masajes requerirá 4 horas.¿A partir de qué día de la semana comenzará lo más pronto posible el curso de regulación y cuidado de la salud con masajes?",
+        "target": "Miércoles de la próxima semana"
+    },
+    {
+        "input": "Sofía es escritora con horario de día laboral de 11:00-20:00.  Su horariao diario es así: redacción (6h), edición (1h), organización de tramas o contenido (1h), análisis de mercado (1h). ¿A qué hora termina la organización de tramas o contenido  lo más pronto posible ?",
+        "target": "19:00:00"
+    },
+    {
+        "input": "Este domingo quiero ir a Mercadona para hacer compras familiares. Tenemos 4 horas en total en el supermercado para seleccionar productos, comer y pagar: seleccionar verduras (0,5h), seleccionar carnes (0,5h), comer (1h), artículos de uso diario (0,5h), hacer el pago (0,5h).  ¿Cuántas horas quedan para comprar artículos para el hogar?",
+        "target": "1 hora"
+    },
+    {
+        "input": "Mi empresa está a 2,5 km de mi casa. Quiero ejercitarme y he decidido caminar al trabajo diariamente. Camino a una velocidad de 5 km/h. Cada mañana también necesito 15 minutos para desayunar, 10 minutos para organizar mis pertenencias personales, 15 minutos para limpiar la habitación, y debo llegar a la empresa antes de las 8:30. ¿A qué hora debo despertarme como más tarde para asegurar mi llegada puntual a la empresa?",
+        "target": "7:20:00"
+    },
+    {
+        "input": "Mi hermana tiene 60 días para MCAT: biología (7d), física (10d), ciencias sociales (15d), análisis crítico (15d). ¿Cuántos días le quedan para aprender el razonamiento?",
+        "target": "13 días"
+    },
+    {
+        "input": "Lucía tiene previsto el parto para el 2 de octubre. Quiere preparar su bolsa para el parto antes de esa fecha. Hoy es 2 de agosto. El biberón que encargó llegaría en 5 días, la leche infantil que solicitó llegaría en 3 días, y los pantalones postparto que compró estarían disponibles en 4 días. ¿En qué fecha podrá tener listos todos estos artículos maternoinfantiles  lo más pronto posible ?",
+        "target": "7 de agosto"
+    },
+    {
+        "input": "Carlos se levanta a las 10:00. Visita a Lucía de 11:00 a 15:00, trabaja en la iglesia de 18:00 a 22:00, cena de 22:00 a 23:00 y se acuesta a las 23:00. ¿En qué franja horaria puede asistir a un espectáculo de 3 horas?",
+        "target": "15:00-18:00"
+    },
+    {
+        "input": "Carmen está organizando una actividad voluntaria de 6 días. Contactar con instituciones y socios relevantes tomará 2 días, asignar roles y tareas específicas a los voluntarios ocupará medio día, coordinar personal y recursos requerirá 1 día, y la promoción y difusión necesitarán 1 día. ¿Cuántos días quedarán disponibles para realizar la retroalimentación y celebración con el equipo de voluntarios?",
+        "target": "1,5 días"
+    },
+    {
+        "input": "Mi fecha estimada de parto es el 20 de octubre. Deseo preparar mi bolsa de maternidad antes de dicha fecha. Hoy es 20 de septiembre. La cuna que encargué requiere 15 días para llegar. Los biberones para el bebé que pedí llegarían la próxima semana. Las bragas posparto y compresas sanitarias que compré tardarían 10 días en llegar. La leche en polvo que adquirí llegaría la próxima semana.¿Cuál es la fecha más temprana en que tendré listos todos estos artículos maternoinfantiles?",
+        "target": "Podrán estar preparados para el 5 de octubre"
+    },
+    {
+        "input": "Si deseo participar en un curso intensivo de fotografía la próxima semana, cuyo horario de formación es de 10:00 a 18:00 cada día laboral, comenzando desde el próximo martes por la mañana y siguiendo el siguiente orden de clases: selección y uso de equipos fotográficos (8 horas), composición y encuadre (6 horas), control de iluminación y postproducción (8 horas), ¿qué día de la semana terminaré lo más pronto posible el control de iluminación y postproducción?",
+        "target": "El jueves de la próxima semana"
+    },
+    {
+        "input": "Soy un profesional de cuidado de mascotas a domicilio. Ahora debo ir a la casa de un cliente para atender a un gato. El viaje de ida y vuelta tomará 1 hora. La revisión de orejas, ojos y dientes del gato requiere 1 hora. El cuidado y cepillado del pelaje del felino necesita 1 hora. La desparasitación del animal demandará 1 hora. Si deseo regresar a mi hogar aproximadamente a las 17:00, ¿a qué hora como muy tarde deberé salir de mi casa?",
+        "target": "Debo salir a las 13:00:00"
+    },
+    {
+        "input": "Si dispongo de 30 días para preparar el examen IELTS, con la siguiente distribución: práctica de expresión oral (8 días), preparación de escritura (7 días), entrenamiento de comprensión lectora (5 días), y exámenes simulados (7 días). ¿Cuántos días podré destinar específicamente a practicar comprensión auditiva?",
+        "target": "3 días"
+    },
+    {
+        "input": "Juana es escritora cuyo horario laboral es de 9:00 a 17:00 cada día hábil. Su rutina diaria de trabajo se organiza normalmente en el siguiente orden: redacción de nuevos capítulos o párrafos (5 horas), toma de notas y elaboración de esquemas (1 hora), investigación para la escritura y realización de entrevistas (1 hora), autoevaluación y reflexión (1 hora). ¿A qué hora terminará lo más pronto posible la investigación y las entrevistas para la escritura?",
+        "target": "16:00:00"
+    },
+    {
+        "input": "Juana se dedica a la planificación de bodas y dispone de 6 días para organizar un evento. Las tareas incluyen: reserva de música y artistas invitados (1 día), determinación del esquema floral y decorativo (medio día), contratación de vehículos para transporte nupcial (medio día), personalización del servicio de fotógrafos y camarógrafos (1 día), y verificación detallada del lugar de celebración y hotel (2 días). ¿Cuántos días podrá destinar específicamente a confirmar la secuencia y flujo de la ceremonia nupcial?",
+        "target": "1 día"
+    },
+    {
+        "input": "Laura y sus compañeros realizan compras de inicio de curso en Mercadona. Disponen de 4 horas totales para seleccionar productos, comer y realizar el pago. La selección de vajilla requiere 1 hora. La comida en el restaurante ocupa 1 hora. La elección de ropa de cama demanda media hora. El proceso de pago en cajas toma media hora. ¿Cuánto tiempo exacto queda disponible para la compra de muebles?",
+        "target": "1 hora"
+    },
+    {
+        "input": "Juana es profesora de cursos de formación en liderazgo. Programa sus sesiones de 10:00 a 18:00 cada día laboral. Comenzando desde el próximo lunes por la mañana, organizará las clases en el siguiente orden: conceptos fundamentales de liderazgo (9 horas), estilos de liderazgo (7 horas), liderazgo de equipos (18 horas). ¿En qué día de la semana terminará lo más pronto posible la formación sobre liderazgo de equipos?",
+        "target": "El viernes de la próxima semana"
+    },
+    {
+        "input": "La Facultad de Ciencias Físicas de la Universidad Complutense de Madrid organizará una conferencia académica este sábado en horario de 10:00 a 17:00. La agenda incluye: almuerzo de 12:00 a 14:00, ceremonia inaugural y discurso principal de 10:00 a 11:00, sesión de comentarios académicos de 14:00 a 15:30, evento social académico de 15:30 a 16:30, y clausura de 16:30 a 17:00. ¿En qué horario concreto se realizará el intercambio académico?",
+        "target": "De 11:00 a 12:00"
+    },
+    {
+        "input": "Raúl planea organizar un evento de voluntariado de 3 días de duración. Las actividades previstas son: contacto con instituciones relacionadas y socios colaboradores (medio día), asignación de roles y responsabilidades específicas a los voluntarios (medio día), organización de personal y recursos logísticos (medio día), y campañas de promoción y difusión (medio día). ¿Cuántos días quedan disponibles para realizar evaluaciones y mejoras?",
+        "target": "1 día"
+    },
+    {
+        "input": "Planeo obtener la residencia permanente en Singapur. La fecha actual es 1 de febrero. El proceso requiere: investigación de políticas migratorias (1 mes), presentación de solicitud y preparación documental (1 mes), espera de revisión y procesamiento por parte del departamento de inmigración (3 meses), y emisión de visa (1 mes). ¿Cuál es la fecha más temprana en que podría obtener la residencia permanente singapurense?",
+        "target": "La fecha más temprana sería el 1 de agosto"
+    },
+    {
+        "input": "Elena dispone de 30 días para preparar el examen PMP. La distribución del estudio incluye: fase de iniciación de proyectos (5 días), planificación de proyectos (5 días), ejecución de proyectos (7 días), y monitoreo y control de proyectos (10 días). ¿Cuántos días podrá dedicar al estudio del cierre de proyectos?",
+        "target": "3 días"
+    },
+    {
+        "input": "La Facultad de Filología de la Universidad de Barcelona organizará una conferencia académica este sábado de 9:00 a 17:00. El programa incluye: almuerzo de 12:00 a 14:00, inauguración y discurso principal de 9:00 a 10:00, sesión de comentarios académicos de 14:00 a 15:30, evento social académico de 15:30 a 16:30, y clausura de 16:30 a 17:00. ¿En qué horario potencial podría realizarse el debate académico?",
+        "target": "De 10:00 a 12:00"
+    },
+    {
+        "input": "Sofía tiene 30 días para preparar el examen JLPT N2 de japonés. Su plan de estudio distribuye: caracteres y vocabulario (5 días), comprensión auditiva (10 días), y comprensión lectora (10 días). ¿Cuántos días le quedan disponibles para practicar gramática?",
+        "target": "5 días"
+    },
+    {
+        "input": "Ana es instructora de pedagogía cuyo horario de formación es de 10:00 a 17:00 cada día laboral. Comenzando desde el próximo lunes por la mañana, organizará sus clases en el siguiente orden: teoría educativa (5 horas), explicación sobre diseño instruccional (4 horas), y evaluación educativa (5 horas). ¿En qué día de la semana comenzará específicamente lo más pronto posible el módulo de evaluación educativa?",
+        "target": "El martes de la próxima semana"
+    },
+    {
+        "input": "Quiero ir de Madrid a Hong Kong para unas prácticas que comienzan el 30 de noviembre. Para prepararme, necesito preparar bien y planear el tiempo: tramitar el visado (2 semanas), reservar vuelos (1 día) y encontrar alojamiento temporal (7 días). Además, planeo dedicar una semana antes a familiarizarme con el transporte y la vida en Hong Kong. Durante las prácticas, visitaré atracciones los fines de semana y al final dedicaré una semana a explorar Hong Kong en profundidad. ¿A qué fecha como más tarde debo comenzar a tramitar el visado?",
+        "target": "Debo comenzar el trámite el 1 de noviembre"
+    },
+    {
+        "input": "Laura dispone de 25 días para preparar el examen GRE. Su distribución incluye: exámenes simulados (5 días), sección verbal (8 días), y escritura analítica (7 días). ¿Cuántos días le quedan disponibles para estudiar matemáticas?",
+        "target": "5 días"
+    },
+    {
+        "input": "Sofía es escritora con horario laboral de 10:00 a 19:00 cada día hábil. Su rutina diaria incluye, en el siguiente orden: redacción de nuevos capítulos o párrafos (4 horas), toma de notas y elaboración de esquemas (2 horas), organización de tramas narrativas y estructura de contenido (1 hora), y análisis de mercado y competencia (2 horas). ¿A qué hora terminará lo más pronto posible la organización de tramas y estructura de contenido?",
+        "target": "17:00:00"
+    },
+    {
+        "input": "Laura tiene muchas ganas de probar el pan francés. Ahora está de visita por la Torre Eiffel. Son las 15:00 y piensa quedarse unas dos horas más. El trayecto desde la Torre Eiffel hasta la panadería dura una hora. Entonces, ¿a qué hora llegará a la panadería?",
+        "target": "18:00:00"
+    },
+    {
+        "input": "Si participo en un curso de marketing digital la próxima semana, con horario de 10:00 a 18:00 cada día laboral, comenzando desde el próximo martes en el siguiente orden: optimización para motores de búsqueda - SEO (6 horas), marketing en redes sociales (6 horas), y marketing por correo electrónico (9 horas). ¿En qué día de la semana terminaré lo más pronto posible la formación sobre marketing por correo electrónico?",
+        "target": "El jueves de la próxima semana"
+    },
+    {
+        "input": "Ana y su hermana mayor irán a realizar compras en Mercadona este viernes. Ellas disponen de 4 horas dentro de la tienda para seleccionar productos, comer y realizar el pago. La selección de utensilios de cocina requerirá media hora. El tiempo dedicado a comer en el restaurante ocupará 1 hora. La elección de artículos de ropa de cama demandará media hora. El proceso de pago en las cajas registradoras tomará media hora. ¿Cuántas horas y minutos les quedarán disponibles para distribución libre de tiempo?",
+        "target": "Una hora y media"
+    },
+    {
+        "input": "Lucía ejerce como escritora profesional con un horario laboral establecido de 9:00 a.m. a 6:00 p.m. en cada jornada laboral. Su distribución diaria de tareas se organiza en el siguiente orden: redacción de nuevos capítulos o párrafos literarios (5 horas), edición y revisión meticulosa del contenido escrito el día anterior (2 horas), organización sistemática de tramas narrativas y estructuras de contenido (1 hora), y análisis detallado de mercado y competencia (1 hora). ¿A qué hora concluirá específicamente lo más pronto posible la tarea de organizar tramas narrativas y estructuras de contenido?",
+        "target": "17:00:00"
+    },
+    {
+        "input": "Las condiciones climáticas recientes son excepcionalmente agradables, resultando particularmente adecuadas para viajes de ocio. Deseo realizar un viaje turístico desde Shanghái hasta Singapur, disponiendo únicamente de 5 días de vacaciones. La planificación detallada incluye: reserva de billetes de avión y alojamiento hotelero (0,5 día), preparación meticulosa de equipaje y artículos de viaje necesarios (0,5 día), duración total del viaje de ida y vuelta (1 día), y medio día adicional tras llegar a Singapur para familiarizarse con el sistema de transporte local y las instalaciones de alojamiento. ¿Cuánto tiempo exacto medido en días (con decimales) podrá dedicarse específicamente a visitar atracciones turísticas principales y degustar la gastronomía local?",
+        "target": "2,5 días"
+    },
+    {
+        "input": "Si asisto a un curso intensivo de pensamiento innovador y desarrollo de creatividad la próxima semana, cuyo horario de formación está establecido de 10:00 a.m. a 4:00 p.m. en cada día laboral, comenzando desde la mañana del próximo lunes y siguiendo estrictamente este orden de contenidos: sesiones de lluvia de ideas (9 horas lectivas), seguido de módulos de pensamiento de diseño (2 horas lectivas). ¿En qué día específico de la semana terminaré lo más pronto posible el aprendizaje sobre pensamiento de diseño?",
+        "target": "El martes de la próxima semana"
+    },
+    {
+        "input": "Carlos desarrolla su profesión como escritor con una jornada laboral extendida de 10:00 a.m. a 8:00 p.m. en cada día hábil. Su cronograma diario de trabajo se distribuye en el siguiente orden: composición de nuevos capítulos o fragmentos literarios (5 horas continuas), revisión crítica y edición del material escrito en la jornada previa (2 horas), investigación académica literaria y lectura de obras de referencia (1 hora), seguido de análisis exhaustivo de mercados y competencia (2 horas). ¿A qué hora terminará lo más pronto posible la actividad de investigación literaria y lectura de obras relacionadas?",
+        "target": "18:00:00"
+    },
+    {
+        "input": "Al participar en un curso intensivo de análisis de datos programado para la próxima semana, con sesiones diarias de 10:00 a.m. a 6:00 p.m., iniciando desde la mañana del próximo lunes y siguiendo rigurosamente esta secuencia formativa: técnicas de recolección de datos (6 horas lectivas), procedimientos de limpieza de datos (12 horas lectivas), y finalmente análisis estadístico con visualización gráfica (8 horas lectivas). ¿En qué día concreto de la semana habré finalizado lo más pronto posible el módulo de análisis y visualización de datos?",
+        "target": "El jueves de la próxima semana"
+    },
+    {
+        "input": "Mi planificación para obtener la residencia permanente australiana comienza el 1 de enero. Las etapas administrativas incluyen: estudio de políticas migratorias (1 mes calendario), presentación de la Expresión de Interés (EOI por sus siglas en inglés) (3 meses), periodo de espera para evaluación y procesamiento por el Departamento de Inmigración (3 meses), y finalmente emisión del visado (3 meses). ¿Cuál sería la fecha más temprana posible para recibir físicamente la tarjeta de residencia permanente?",
+        "target": "1 de noviembre"
+    },
+    {
+        "input": "Al inscribirme en un curso intensivo de panadería programado para la próxima semana, con horario diario de 10:00 a.m. a 6:00 p.m., comenzando desde la mañana del próximo lunes y siguiendo estrictamente esta secuencia formativa: técnicas de elaboración de masas (5 horas lectivas), control preciso de temperaturas de horno (4 horas lectivas), y finalmente habilidades decorativas (5 horas lectivas). ¿En qué día específico de la semana se impartirá lo más pronto posible el módulo de técnicas de decoración?",
+        "target": "El martes de la próxima semana"
+    },
+    {
+        "input": "Elena está organizando un evento de voluntariado de 4 días de duración. La distribución temporal detallada incluye: preparación logística del espacio comunitario (1 día), asignación específica de roles y responsabilidades a voluntarios (media jornada laboral), resolución de problemáticas vecinales y asistencia directa (media jornada), actividades de promoción y difusión (media jornada). ¿Cuántos días y fracciones quedarán disponibles para implementar evaluaciones post-evento y mejoras continuas?",
+        "target": "1,5 días"
+    },
+    {
+        "input": "María dispone de 80 días para preparar el examen TOEFL. La distribución de estudio se divide en: comprensión lectora (20 días), práctica de expresión oral (20 días), y práctica de audio (15 días). ¿Cuántos días calendario podrá dedicar exclusivamente al desarrollo de habilidades de escritura académica?",
+        "target": "25 días"
+    },
+    {
+        "input": "Ana, trabajadora social comunitaria, tiene asignados 5 días laborales para organizar un evento vecinal. La planificación detallada requiere: diseño de contenido y logística del evento (1 día), asignación específica de funciones a voluntarios (1 día entero), interacción comunicativa con residentes (1 jornada), y procesamiento de datos y retroalimentación (media jornada laboral). ¿Cuántos días quedarán disponibles para implementar estrategias de promoción comunitaria?",
+        "target": "1,5 días"
+    },
+    {
+        "input": "Considerando que el horario actual son las 12:00 meridiano, las tareas pendientes con mi mascota incluyen: cepillado y baño (1 hora), secado meticuloso del pelaje (30 minutos), cuidados estéticos especializados (1 hora y media), y finalmente sesión de juego interactivo (1 hora). ¿A qué hora habré concluido lo más pronto posible todas estas actividades?",
+        "target": "16:00:00"
+    },
+    {
+        "input": "Laura planea realizar compras escolares en Mercadona esta semana, disponiendo de 3 horas libres. La distribución temporal incluye: adquisición de artículos de uso diario (30 minutos), selección de frutas frescas (30 minutos), pausa para alimentación (1 hora), y proceso de pago en caja (30 minutos). ¿Cuántas horas podrá dedicar específicamente a la compra de material de papelería y útiles escolares?",
+        "target": "0,5 horas"
+    },
+    {
+        "input": "Eva, instructora especializada en técnicas de ventas, programa sus formaciones de 10:00 a.m. a 6:00 p.m. diariamente. Desde el próximo lunes, la secuencia formativa incluye: investigación de mercado (8 horas lectivas), posicionamiento estratégico (12 horas lectivas continuas), desarrollo de identidad corporativa (6 horas), y finalmente estrategias de mercadotecnia (8 horas lectivas). ¿En qué día específico de la semana concluirá lo más pronto posible el módulo sobre estrategias de marketing?",
+        "target": "El viernes de la próxima semana"
+    },
+    {
+        "input": "Lucía dedicó 3 horas a su visita a Ikea. El desglose temporal detallado muestra: selección de vajilla y cubertería (30 minutos), pausa para comer (30 minutos), y proceso de pago (30 minutos cronometrados). ¿Cuánto tiempo le queda para comprar muebles?",
+        "target": "1 hora y 30 minutos"
+    },
+    {
+        "input": "Mi compañero de residencia inicia sus estudios académicos el 25 de noviembre, partiendo desde Beijing hacia Los Ángeles. Disponiendo únicamente de 3 días previos al inicio lectivo, su cronograma incluye: adquisición de billetes aéreos y preparación de equipaje (1 día), trámites administrativos pre-departure (media jornada laboral), traslado aeroportuario, controles de seguridad y tiempo de vuelo (1 día exacto), y finalmente matriculación institucional y acomodación residencial tras el arribo (media jornada). ¿Cuánto tiempo exacto medido en horas le resta para familiarizarse con el campus universitario y preparar material académico?",
+        "target": "Cero tiempo disponible"
+    },
+    {
+        "input": "Una conferencia académica suele incluir apertura, conferencia magistral, discusiones grupales, informes académicos e interacción. Si Ana organiza una conferencia de 10:00 a 18:00, con 1 hora de almuerzo, 1 hora de conferencia magistral, 1 hora de discusiones grupales, 2 horas de informes académicos y 2 horas de interacción, ¿cuánto tiempo queda para la ceremonia de apertura?",
+        "target": "1 hora"
+    },
+    {
+        "input": "La distancia entre mi residencia y la empresa es de 0,5 kilómetros, requiriendo 10 minutos de caminata diaria. Mi rutina matutina incluye: desayuno (15 minutos), aseo personal y vestimenta (10 minutos), preparación de materiales laborales (5 minutos). Al llegar al centro de trabajo: registro biométrico y organización del espacio laboral (5 minutos). Para iniciar labores puntualmente a las 9:00 a.m., ¿cuál es la última hora posible para levantarme de la cama?",
+        "target": "8:15 a.m. como más tarde"
+    },
+    {
+        "input": "Javier sale de casa a las 9:00 a.m. y trabaja en McDonald's desde las 9:00 hasta las 15:00. Luego, trabaja en KFC de 18:00 a 22:00. Después, tarda una hora en volver a casa y se acuesta a las 23:00. Si Javier dedica tres horas a hacer ejercicio, ¿en qué franja horaria lo realiza?",
+        "target": "15:00-18:00"
+    },
+    {
+        "input": "Isabel dispone de 40 días calendario para preparar el examen CMA. Su plan de estudio asigna: pruebas simuladas (5 días), planificación financiera estratégica (5 días), y gestión de desempeño operativo (15 días). ¿Cuántos días calendario podrá destinar al desarrollo de habilidades en toma de decisiones financieras críticas?",
+        "target": "15 días"
+    },
+    {
+        "input": "Quiero viajar de Hong Kong a Tokio para divertirme. Tengo mucho tiempo, pero espero planificar bien mi itinerario. Primero, necesito pasar 1 día comprando el boleto de avión y preparando el equipaje. Luego, planeo dedicar 2 días a visitar los principales lugares turísticos dentro de Tokio. Después, quiero pasar 1 día en Disneylandia. Finalmente, necesito 1 día para comprar y probar la comida local. Si en total he planeado un viaje de 7 días, ¿cuántos días libres me quedan  para otras actividades?",
+        "target": "2 días"
+    },
+    {
+        "input": "Juan se despierta a las 9:00 cada mañana. De 9:00 a 10:00 desayuna durante una hora. De 10:00 a 12:00 toma clases de ciencias. De 12:00 a 13:00 almuerza, luego descansa dos horas. De 15:00 a 17:00 toma clases de historia. De 17:00 a 20:00 tiene clases de baile. A las 23:00 se duerme. Si también va a la iglesia durante tres horas, ¿en qué franja horaria tiene tiempo disponible para ir?",
+        "target": "20:00-23:00"
+    },
+    {
+        "input": "Hoy debo ir a casa del profesor a cuidar a su perro. El viaje de ida y vuelta toma 2 horas, alimentarlo requiere media hora, cepillarlo media hora y jugar con él 1 hora. Si quiero regresar a casa alrededor de las 16:00, ¿a qué hora debo salir como más tarde?",
+        "target": "Debe salir a más tardar a las 12:00"
+    },
+    {
+        "input": "Si ahora son las 9:00 y hoy planeo limpiar profundamente mi departamento: limpiar la mesa requiere 1 hora, trapear el piso 1 hora, eliminar ácaros 1 hora, limpiar muebles 1 hora y desinfectar 2 horas. ¿A qué hora terminaré lo más temprano posible?",
+        "target": "Terminará a las 15:00 como mínimo"
+    },
+    {
+        "input": "Mi hermana se despierta a las 9:00. De 9:00 a 11:00 toma clases de matemáticas. De 13:00 a 15:00 toma clases de español. De 16:00 a 18:00 toma clases de inglés. De 19:00 a 20:00 cena. De 21:00 a 22:00 juega videojuegos. A las 22:00 duerme. Si mi hermana participó en un examen de 2 horas, ¿en qué horario fue?",
+        "target": "El examen fue de 11:00 a 13:00"
+    },
+    {
+        "input": "Carmen planea una actividad voluntaria de 7 días: 1,5 días para comunicación y capacitación del equipo, medio día para asignar roles, 2 días para organizar personal y recursos y medio día para promoción. ¿Cuántos días quedan para evaluación y mejoras?",
+        "target": "Quedan 2,5 días disponibles"
+    },
+    {
+        "input": "Laura es escritora. Su horario laboral es de 10:00 a 18:00 en días hábiles. Desde el próximo lunes hará estas tareas en orden: lectura e investigación temática para obtener inspiración y puntos de vista (5 horas),redacción de nuevos capítulos o párrafos (15 horas), edición y revisión del contenido escrito el día anterior para corregir errores y mejorar la fluidez (1 hora), elaboración de notas y esquemas para organizar la trama narrativa y la estructura del contenido (9 horas), investigación literaria y entrevistas (10 horas) para recopilar más información y puntos de vista (10 horas). ¿A partir de qué día de la semana comenzará lo más pronto posible la investigación literaria y las entrevistas?",
+        "target": "Comenzará el jueves  de la próxima semana"
+    },
+    {
+        "input": "Carlos es profesor de cursos de gestión financiera. Su horario es de 10:00 a 17:00 en días hábiles. Desde el lunes impartirá: análisis de estados financieros (7 horas), gestión presupuestaria (7 horas), decisiones de inversión (15 horas). ¿Cuándo terminará de enseñar decisiones de inversión lo más pronto posible?",
+        "target": "Terminará el viernes de la próxima semana"
+    },
+    {
+        "input": "Marta es profesora de técnicas de ventas. Su horario es de 10:00 a 17:00 en días hábiles. Desde el próximo lunes por la mañana, organizará las clases en el siguiente orden: técnicas de comunicación en ventas (8 horas),  gestión de relaciones con clientes (12 horas), negociaciones en ventas (5 horas).¿En qué día de la semana terminará lo más pronto posible el módulo de negociaciones en ventas?",
+        "target": "Terminará el jueves  de la próxima semana"
+    },
+    {
+        "input": "Si la próxima semana asisto a un curso intensivo de boxeo, con horario de 10:00 a 17:00 cada día laboral, y comienzo a prepararme desde el próximo lunes siguiendo este orden: técnicas básicas de golpeo requerirán 6 horas, habilidades defensivas necesitarán 6 horas, y la mejora de condición física y coordinación tomará 6 horas, ¿en qué día de la semana terminaré de estudiar la mejora de condición física y coordinación lo más pronto posible?",
+        "target": "Terminará el miércoles  de la próxima semana"
+    },
+    {
+        "input": "Isabel es una trabajadora comunitaria. La próxima semana tiene 5 días para organizar una actividad en su comunidad: contactar instituciones y socios tomará 2 días, comunicarse y capacitar al equipo de voluntarios ocupará medio día, interactuar con residentes comunitarios requerirá medio día, y asignar roles y tareas específicas a los voluntarios necesitará medio día. ¿Cuántos días le quedarán disponibles para resolver problemas o brindar ayuda a los residentes de la comunidad?",
+        "target": "Quedan 1,5 días"
+    },
+    {
+        "input": "Sofía es escritora. Trabaja de 10:00 a 20:00 en días hábiles en el siguiente orden: redactar nuevos capítulos o párrafos (5 horas), editar y revisar el contenido escrito el día anterior (2 horas), organizar tramas narrativas y estructura de contenido (1 hora), realizar análisis de mercado y competencia (2 horas).¿A qué hora terminará lo más pronto posible la organización de tramas narrativas y estructura de contenido?",
+        "target": "Termina a las 18:00"
+    },
+    {
+        "input": "Estoy en La Alhambra, Granada con mi madre. Jugaremos aquí 30 minutos más. Quiere comer tapas. El viaje toma 1 hora, ahora son las 16:00 y hay 1 hora de espera. ¿A qué hora puede llegar al restaurante y sentarse?",
+        "target": "18:30:00"
+    },
+    {
+        "input": "El profesor García está en Portland. Ahora son las 12:00. Después del jardín de rosas, irá al Museo de Ciencia e Industria de Oregon: 1 hora de viaje y 1 hora para comer. ¿Cuándo llegará lo más temprano posible?",
+        "target": "Llegará a las 14:00"
+    },
+    {
+        "input": "Elena tiene 25 días para preparar el IELTS: 2 días para comprensión auditiva, 8 días lectura, 5 días escritura, 5 días oral. ¿Cuántos días quedan para simulacros?",
+        "target": "Quedan 5 días"
+    },
+    {
+        "input": "Si la próxima semana asisto a un curso intensivo de gestión en manufactura, con horario de 10:00 a 18:00 cada día laboral, comenzando desde el próximo lunes siguiendo este orden: planificación y control de producción requerirá 7 horas, gestión de calidad necesitará 12 horas, y gestión de la cadena de suministro tomará 6 horas, ¿en qué día de la semana terminaré de estudiar la gestión de la cadena de suministro lo más pronto posible?",
+        "target": "Terminará el jueves de la próxima semana"
+    },
+    {
+        "input": "Ana sale de casa a las 11:00 de la mañana. Tiene clases de matemáticas de 11:00 a 13:00, clases de informática de 16:00 a 18:00, y actividades de club de 18:00 a 20:00, regresando a casa a las 20:00. Si Laura y Ana jugaron al baloncesto juntas en la cancha durante tres horas, ¿en qué franja horaria jugaron?",
+        "target": "13:00-16:00"
+    },
+    {
+        "input": "Como miembro de Mercadona, José irá a Mercadona el domingo. Tiene 4 horas en total: 0,5 horas para comprar frutas y verduras, 0,5 horas para comprar carnes, 0,5 horas para comprar artículos diarios, 0,5 horas para el pago.¿Cuánto tiempo queda disponible para seleccionar artículos para el hogar?",
+        "target": "2 horas"
+    },
+    {
+        "input": "Carmen y sus padres irán a Mercadona el domingo.Tienen 3 horas en total en el supermercado para seleccionar productos, comer y pagar, de las cuales: 0,5 horas para  la compra de carnes, 0,5 horas para frutas, 1 hora para comida y 0,5 horas para artículos diarios. ¿Cuánto tiempo queda para pagar?",
+        "target": "0,5 hora"
+    },
+    {
+        "input": "Lucía es una trabajadora comunitaria. La próxima semana tiene 3 días para organizar una actividad en la comunidad: planificar y preparar el contenido específico y la agenda de la actividad tomará 1 día, comunicarse y capacitar al equipo de voluntarios ocupará medio día, interactuar con los residentes de la comunidad requerirá medio día, y organizar los datos y retroalimentación de la actividad necesitará medio día. ¿Cuántos días le quedarán disponibles para realizar la retroalimentación con el equipo de voluntarios?",
+        "target": "0,5 día"
+    },
+    {
+        "input": "Claudia siempre ha querido probar pizza italiana. Ahora está visitando el Coliseo de Roma. Son las 16:00 y calcula que le queda 1 hora más de visita. El trayecto del Coliseo a la pizzería toma media hora. ¿A qué hora puede llegar a la pizzería?",
+        "target": "17:30"
+    },
+    {
+        "input": "Mi hermana y yo no sabemos manejar y consideramos caro tomar Uber, así que decidimos usar transporte público durante nuestra estancia en Madrid. Planeamos salir del hotel a las 9:00 de la mañana, visitar el Museo del Prado y luego tomar el metro hasta el Parque del Retiro(2,5 horas de visita). Almorzaremos y descansaremos cerca del parque (el tiempo dependerá de la situación). Después  iremos a Paseo del Prado para visitar por 1 hora, luego a la Torre de Madrid (1 hora), y finalmente tomaremos media hora de metro de regreso al hotel. Si queremos volver antes de las 17:00, ¿a qué hora más tarde debemos salir del Parque del Retiro hacia Paseo del Prado?",
+        "target": "Lo más tarde es salir a las 14:30 desde el Parque del Retiro hacia Paseo del Prado"
+    },
+    {
+        "input": "Soy escritor. Mi horario laboral es de 10:00 a 17:00 en días hábiles. A partir del próximo lunes planeo realizar estas tareas en orden: escribir nuevos capítulos o párrafos (10 horas), editar y revisar lo escrito el día anterior (2 horas), organizar la trama y estructura del contenido (6 horas), realizar análisis de mercado y competencia (5 horas). ¿Qué día completaré lo más pronto posible el análisis de mercado y competencia?",
+        "target": "El próximo jueves"
+    },
+    {
+        "input": "Ana debe cuidar al gato de su hermana hoy. El trayecto redondo toma 1 hora, alimentarlo media hora, limpiar el arenero media hora, y jugar con él 1 hora. Si ahora son las 9:00, ¿a qué hora podrá regresar a casa lo más pronto posible?",
+        "target": "Lo más temprano es a las 12:00 en casa"
+    },
+    {
+        "input": "Me desperté tarde hoy. La oficina está a 10 km y tengo 20 minutos antes de llegar tarde. Caminar hasta el metro tomaría 10 minutos y el viaje en metro tomaría 47 minutos. En bicicleta: 67 minutos. En taxi: 10 minutos sin tráfico, 20 minutos con congestión. ¿Qué medio de transporte me recomiendas?",
+        "target": "Debe ser tomar un taxi"
+    },
+    {
+        "input": "La Universidad Complutense de Madrid organizará una conferencia académica este domingo de 9:00-18:00, con horario de almuerzo 12:00-14:00. La inauguración y discurso principal serán de 9:00-10:00, la sesión de comentarios académicos de 14:00-16:30, la actividad social académica de 16:30-17:30, y la clausura de 17:30-18:00. ¿En qué horario será el intercambio académico?",
+        "target": "El intercambio académico será entre las 10:00 y las 12:00"
+    },
+    {
+        "input": "María es instructora de manicura con horario de capacitación 9:00-17:00 en días laborales. Desde el próximo lunes organizará cursos en este orden: presentación de conocimientos teóricos básicos de manicura (3h), explicación de técnicas de cuidado y recorte de uñas (4h), presentación de diseños y modelos comunes de manicura (3h),técnica de uso de esmaltes y pegatinas para uñas (2h),aprendizaje de técnicas básicas de pintura y aplicación (5h), práctica de reparación básica de superficies de uñas (3h). ¿A partir de qué día de la semana comenzará lo más pronto posible el aprendizaje de técnicas básicas de pintura y aplicación?",
+        "target": "El próximo martes"
+    },
+    {
+        "input": "Sofía irá con su familia a Mercadona este sábado. Tienen 5 horas totales para compras, comer y pagar: vegetales (1h), carnes (1h), comer (0,5h), pagar (0,5h), muebles (1h). ¿Cuánto tiempo queda para artículos de uso diario?",
+        "target": "Queda 1 hora para artículos de uso diario"
+    },
+    {
+        "input": "Si Laura tiene 60 días para preparar el SAT, distribuidos como: simulacros (10d), matemáticas (20d), física (5d), química (15d), ¿cuántos días le quedan para inglés?",
+        "target": "Tendrá 10 días para practicar inglés"
+    },
+    {
+        "input": "Una conferencia académica suele incluir apertura, conferencia magistral, discusiones grupales, informes académicos e interacción. Si Alba organiza una conferencia de 10:00 a 17:00, con 1 hora de apertura, 1 hora de conferencia magistral, 1 hora de discusiones grupales, 1 hora de informes académicos y 1 hora de interacción, ¿cuánto tiempo hay para el almuerzo?",
+        "target": "El receso para almuerzo dura 2 horas"
+    },
+    {
+        "input": "Hoy es el Día de las Mascotas. Si son las 11:00 y necesito: cepillar y bañar mascota (1h), secar pelaje (1h), limpieza general (1h), jugar con ella (1h), ¿a qué hora terminaré lo más pronto posible?",
+        "target": "Terminaré a las 15:00 como pronto"
+    },
+    {
+        "input": "Pablo es escritor con horario 10:00-17:00 en días hábiles. Desde el próximo lunes realizará estas tareas en orden: redacción de nuevos capítulos o párrafos(12h), edición y revisión del contenido escrito el día anterior para corregir errores y mejorar la fluidez (4h), elaboración de notas y esquemas para organizar la trama y la estructura (4h),discusión y comunicación con editores o compañeros de escritura (4h). ¿En qué día de la semana terminará lo más pronto posible la discusión y el intercambio con editores o compañeros de escritura?",
+        "target": "Las completará el próximo jueves"
+    },
+    {
+        "input": "Isabel tiene 30 días para preparar el PTE: simulacros (2d), comprensión auditiva (6d), escritura (7d), lectura (10d). ¿Cuántos días quedan para expresión oral?",
+        "target": "Le quedan 5 días para práctica oral"
+    },
+    {
+        "input": "El metro cierra a las 23:00. Mis hermanas y yo veremos un espectáculo hasta las 23:30. Al llegar a casa necesito 0,5 horas para prepararme antes de dormir. El trayecto a la oficina toma 30 minutos. Tengo reunión importante a las 8:00 mañana y necesito dormir al menos 7 horas. ¿A qué hora más tarde debo llegar a casa?",
+        "target": "Debo llegar a más tardar a las 00:00"
+    },
+    {
+        "input": "Hoy debo cuidar un perro en casa de un cliente: trayecto redondo (2h), alimentación (0,5h), limpieza (0,5h), juego (1h). Si ahora son las 10:00, ¿a qué hora volveré lo más pronto posible a casa?",
+        "target": "Regresaré a las 14:00 como pronto"
+    },
+    {
+        "input": "Clara irá con su hermana y tía a Mercadona este viernes. Tienen 4 horas totales para: artículos para el hogar (1h), carnes (0,5h), artículos diarios (0,5h), pagar (0,5h). ¿Cuánto tiempo queda para vegetales?",
+        "target": "Quedan 1,5 horas para vegetales"
+    },
+    {
+        "input": "Si ahora son las 11:00 y planeo: limpiar pelo de mascota (1h), trapear (0,5h), eliminar ácaros (0,5h), limpiar muebles (1h), desinfectar (1h), ¿a qué hora terminaré lo más pronto posible?",
+        "target": "Terminaré a las 15:00 lo más pronto posible"
+    },
+    {
+        "input": "Estoy en Victoria Harbour de Hong Kong con mi abuela. Queremos comer pan: trayecto al restaurante (1h), ahora son las 17:00, tiempo de espera estimado (1h). Además queremos pasar 1 hora más aquí antes de ir. ¿A qué hora podemos llegar al restaurante?",
+        "target": "20:00:00"
+    },
+    {
+        "input": "Si tomo un curso de escritura creativa la próxima semana (horario laboral 10:00-18:00), comenzando a prepararme desde la mañana del próximo martes siguiendo este orden: pensamiento creativo (6h), técnicas de escritura (12h), ¿en qué día de la semana terminaré lo más pronto posible el aprendizaje de las técnicas de escritura?",
+        "target": "Terminarás el próximo jueves"
+    },
+    {
+        "input": "Hoy debo cuidar a un gato: trayecto de ida y vuelta (1h), alimentación (0,5h), cepillado (0,5h), juego con gato (1h). Si quiero volver alrededor de las 17:00, ¿a qué hora más tarde debo salir?",
+        "target": "Debes salir a más tardar a las 14:00"
+    },
+    {
+        "input": "Laura es trabajadora comunitaria. Tiene 3 días la próxima semana para: planificar actividades (1d), comunicarse con voluntarios (0,5d), interactuar con residentes (0,5d). ¿Cuántos días quedan para resolver problemas de los residentes?",
+        "target": "Queda 1 día disponible"
+    }
+]

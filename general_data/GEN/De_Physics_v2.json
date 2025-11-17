@@ -1,0 +1,786 @@
+[
+    {
+        "input": "Es gibt drei gleich große Metallkugeln. Kugel 1 und Kugel 2 sind weit voneinander entfernt und tragen gleiche Ladungen gleichen Vorzeichens, sodass die Wechselwirkungskraft zwischen ihnen F beträgt. Kugel 3 ist ungeladen, aber mit einem isolierenden Griff versehen. Wenn Kugel 3 nacheinander Kugel 1 und Kugel 2 berührt und dann entfernt wird, wie verändert sich die Wechselwirkungskraft zwischen Kugel 1 und Kugel 2?",
+        "target": "$\\frac{3}{8} F$"
+    },
+    {
+        "input": "Eine leitende Kugel hat den Radius R. Die Flächenladungsdichte an der Oberfläche beträgt σ. Wie groß ist die elektrische Feldstärke in einem Abstand von R von der Kugeloberfläche?",
+        "target": "$\\sigma / (4\\varepsilon_0)$"
+    },
+    {
+        "input": "Gemäß dem klassischen Äquipartitionstheorem wie groß ist die durchschnittliche Energie pro Freiheitsgrad?",
+        "target": "$\\frac{1}{2}kT$"
+    },
+    {
+        "input": "Ein Objekt bewegt sich unter der Wirkung der Kraft $F = -k\\sin(\\omega t)$. Wie groß ist die Impulsänderung des Objekts nach einer Zeit $\\Delta t = \\frac{\\pi}{2\\omega}$?",
+        "target": "$-\\frac{k}{\\omega}$"
+    },
+    {
+        "input": "In einem würfelförmigen Stromkreis befindet sich an jeder Kante ein Widerstand von 2 Ohm. Wie groß ist der Widerstand zwischen den beiden entferntesten Ecken dieses würfelförmigen Stromkreises?",
+        "target": "$\\frac{5}{3} \\Omega$"
+    },
+    {
+        "input": "Ein Strahl neutraler Atome durchläuft einen Stern-Gerlach-Apparat und zeigt 5 äquidistante Spektrallinien. Wie groß ist das Quadrat des Gesamtdrehimpulses dieses Atoms?",
+        "target": "$6\\hbar^2$"
+    },
+    {
+        "input": "Ein Auto fährt mit einer Geschwindigkeit von $10\\, \\text{m/s}$ auf einer horizontalen Fahrbahn geradeaus. Als der Fahrer ein Ereignis vor ihm bemerkt, beginnt er eine Notbremsung mit einer Beschleunigung von $-0,2\\, \\text{m/s}^2$, wobei es sich um eine gleichmäßig verzögerte Bewegung handelt. Wie groß ist die Verschiebung des Autos eine Minute nach Bremsbeginn?",
+        "target": "$250\\, \\text{m}$"
+    },
+    {
+        "input": "Für den Zustand $D_{\\frac{3}{2}}$, kann seine Multiplizität 3, 5, 7 betragen?",
+        "target": "Nein, das ist nicht möglich."
+    },
+    {
+        "input": "Die Masse eines Myons ist das 207-fache der Elektronenmasse, und seine Ladung sowie andere Wechselwirkungen sind mit denen des Elektrons identisch. Wenn ein Elektron in einem Wasserstoffatom durch ein Myon ersetzt wird, wie groß ist die Bindungsenergie des Grundzustands dieses Systems? (Die Bindungsenergie des Grundzustands des Wasserstoffatoms beträgt 13,6 eV, und die Masse des Protons ist etwa 1836-mal die Masse des Elektrons.) Runden Sie das Endergebnis auf eine ganze Zahl.",
+        "target": "$\\approx 2530 \\, \\text{eV}$"
+    },
+    {
+        "input": "In welchem Verhältnis steht der Orbitradius eines Elektrons in der K-Schale eines Atoms zu seiner Ordnungszahl Z?",
+        "target": "Im umgekehrten Verhältnis zu Z"
+    },
+    {
+        "input": "Wie viele Zustände kann ein Elektron mit der Hauptquantenzahl n gemäß dem Pauli-Prinzip wählen?",
+        "target": "$2n^2$"
+    },
+    {
+        "input": "Die Elektronenkonfiguration des Siliziumatoms (Si, Z = 14) im Grundzustand lautet 1s^2 2s^2 2p^6 3s^2 3p^2. Welches Spektralterm kann gemäß der Hundschen Regel für diesen Grundzustand des Atoms erwartet werden?",
+        "target": "³P₀"
+    },
+    {
+        "input": "Zwei Boote, A und B, ruhen auf dem See. Ihre Massen sind m_1, m_2, wobei m_1<m_2. Die beiden Boote sind durch einen Abstand von s voneinander getrennt. Eine Person auf Boot A zieht mit einem Seil an Boot B. Wenn der Widerstand des Wassers auf beide Boote gleich ist, welches Boot legt während der Bewegung aufeinander zu eine größere Strecke zurück?",
+        "target": "A"
+    },
+    {
+        "input": "Wenn eine Metalloberfläche mit Photonen von $5\\, \\text{eV}$ bestrahlt wird, beträgt die maximale kinetische Anfangsenergie der ausgelösten Elektronen $2,5\\, \\text{eV}$. Wie groß ist die maximale kinetische Anfangsenergie der ausgelösten Elektronen, wenn Photonen mit einer Energie von $8\\, \\text{eV}$ auf dasselbe Metall treffen?",
+        "target": "5,5"
+    },
+    {
+        "input": "A und B stehen auf einer horizontalen, glatten Eisfläche, beide tragen Schlittschuhe und halten jeweils ein Ende eines Seils. Nachdem das Seil gespannt wurde, ziehen beide gleichzeitig daran. Wenn die Masse von A kleiner ist als die von B, wer wird dann zuerst den Mittelpunkt erreichen?",
+        "target": "A"
+    },
+    {
+        "input": "Ein Hubschrauber bleibt in der Luft stationär, indem der Propeller Luft nach unten beschleunigt und dadurch eine Auftriebskraft erzeugt. Die Masse des Hubschraubers beträgt $800\\, \\text{kg}$, und der Propeller bläst Luft mit einer Geschwindigkeit von $40\\, \\text{m/s}$ nach unten, sodass der Hubschrauber in der Luft bleibt. Wie viel Kilogramm Luft wird pro Sekunde vom Propeller nach unten beschleunigt? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$200\\, \\text{kg}$"
+    },
+    {
+        "input": "n       E/eV\n∞ …… 0\n5      -0,54\n4      -0,85\n3      -1,51\n2      -3,4\n1      -13,6\nDie obige Tabelle zeigt das Energieniveauschema des Wasserstoffatoms. Im Grundzustand beträgt die Energie des Wasserstoffatoms $E_1 = -13,6\\, \\text{eV}$ ($1 eV =  1,6 \\times 10^{-19}  J$), und das Plancksche Wirkungsquantum ist $h = 6,63 \\times 10^{-34}  J⋅s$. Wenn sich das Wasserstoffatom im angeregten Zustand n=4 befindet, welche minimale Energie (in Joule) muss ein einfallendes Photon haben, um das Atom zu ionisieren?",
+        "target": "$1,36\\times 10^{-19}\\, \\text{J}$"
+    },
+    {
+        "input": "n       E/eV\n∞ …… 0\n5      -0,54\n4      -0,85\n3      -1,51\n2      -3,4\n1      -13,6\nDie obige Tabelle zeigt das Energieniveauschema des Wasserstoffatoms. Im Grundzustand beträgt die Energie des Wasserstoffatoms $E_1=-13,6 \\, \\text{eV}$ ($1 eV =  1,6 \\times 10^{-19}  J$), und das Plancksche Wirkungsquantum ist $h = 6,63 \\times 10^{-34}  J⋅s$. Wenn sich das Wasserstoffatom im angeregten Zustand n=5 befindet, wie groß ist die maximale Energie des Photons, das emittiert wird (in Elektronenvolt)?",
+        "target": "$13,06\\, \\text{eV}$"
+    },
+    {
+        "input": "Ein Körper mit einer Masse von $2\\, \\text{kg}$ fällt aus einer Höhe von $20\\, \\text{m}$ frei herab. Der Luftwiderstand wird vernachlässigt. Er prallt mit einer Geschwindigkeit von $5\\, \\text{m/s}$ vom Boden ab. Wie groß ist der Betrag der Impulsänderung des Körpers beim Aufprall? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$50\\, \\text{kg} \\cdot\\text{m/s}$"
+    },
+    {
+        "input": "Zwei Magneten befinden sich jeweils auf einem Wagen, der sich ohne Reibung auf einer ebenen Fläche entlang einer geraden Linie bewegen kann. Die Gesamtmasse des Wagens A und des Magneten beträgt $2\\, \\text{kg}$, und die Gesamtmasse des Wagens B und des Magneten beträgt $3\\, \\text{kg}$. Die Nordpole der beiden Magneten stehen sich gegenüber. Die Wagen werden so angestoßen, dass sie sich aufeinander zu bewegen. Zu einem bestimmten Zeitpunkt hat Wagen A eine Geschwindigkeit von $4\\, \\text{m/s}$ und Wagen B eine Geschwindigkeit von $6\\, \\text{m/s}$, wobei die Richtung von Wagen B entgegengesetzt zur Richtung von Wagen A ist. Die beiden Wagen stoßen während ihrer Bewegung nicht zusammen. Wie groß ist der Betrag der Geschwindigkeit von Wagen B, wenn sich die Wagen am nächsten kommen?",
+        "target": "$2\\, \\text{m/s}$"
+    },
+    {
+        "input": "Zwei Magneten befinden sich jeweils auf einem Wagen, der sich auf einer horizontalen, reibungsfreien Oberfläche entlang einer geraden Linie bewegen kann. Die Gesamtmasse des Wagens A und des Magneten beträgt $10\\, \\text{kg}$, die Gesamtmasse des Wagens B und des Magneten beträgt $12\\, \\text{kg}$. Die Nordpole der beiden Magneten sind einander zugewandt, und sie werden angestoßen, sodass sie sich aufeinander zu bewegen. Zu einem bestimmten Zeitpunkt beträgt die Geschwindigkeit von Wagen A $5\\, \\text{m/s}$ und die Geschwindigkeit von Wagen B $6\\, \\text{m/s}$, wobei die Richtung von Wagen B entgegengesetzt zu Wagen A ist. Während der Bewegung der Wagen stoßen sie nicht zusammen. Wie groß ist der Betrag der Geschwindigkeit von Wagen B, wenn Wagen A beginnt, sich in die entgegengesetzte Richtung zu bewegen?",
+        "target": "$\\frac{11}{6}\\, \\text{m/s}$"
+    },
+    {
+        "input": "Im Bohrschen Atommodell des Wasserstoffs, wie lautet die Wellenlänge des Lichts, das beim Übergang von n=500 nach n=499 emittiert wird? ($r_1 = 0,53 \\times 10^{-10} \\, \\text{m}$ ， $E_1 = -13,6 \\, \\text{eV}$ ， $h = 6,67 \\times 10^{-34} \\, \\text{J} \\cdot \\text{s}$)",
+        "target": "$5,698\\, \\text{m}$"
+    },
+    {
+        "input": "Die Austrittsarbeit von Aluminium beträgt $4,2\\, \\text{eV}$. Wenn Licht mit einer Wellenlänge von $100, \\text{nm}$ auf die Aluminiumoberfläche trifft, wie hoch ist die maximale kinetische Anfangsenergie der Photoelektronen in Joule? Geben Sie den Wert auf eine Nachkommastelle an.($h = 6,67\\times 10^{-34} \\, \\text{J} \\cdot \\text{s}$)",
+        "target": "$1,3 \\times 10^{-18} \\, \\text{J}$"
+    },
+    {
+        "input": "Die Austrittsarbeit von Aluminium beträgt $4,2\\, \\text{eV}$. Wenn Licht mit einer Wellenlänge von $200\\, \\text{nm}$ auf die Aluminiumoberfläche trifft, wie hoch ist das Stopppotential des Metalls Aluminium? Geben Sie den Wert auf eine Nachkommastelle an. ($h= 6,67\\times 10^{-34}\\, \\text{J} \\cdot\\text{s}$,$1 eV = 1,6 \\times 10^{-19} \\text{J}$, $c = 3,0\\times10^8\\text{m/s}$)",
+        "target": "$2,1 \\, \\text{V}$"
+    },
+    {
+        "input": "Die Austrittsarbeit von Aluminium beträgt $4,2\\, \\text{eV}$. Licht mit einer Wellenlänge von  $200\\, \\text{nm}$ trifft auf eine Aluminiumoberfläche. Wie hoch ist die Grenzfrequenz von Aluminium? Geben Sie den Wert auf eine Nachkommastelle an. ($h= 6,67 \\times 10^{-34}\\, \\text{J} \\cdot\\text{s}$,$1 eV = 1,6 \\times 10^{-19} \\text{J}$)",
+        "target": "$\\approx 1,0\\times 10^{15}\\, \\text{Hz}$"
+    },
+    {
+        "input": "Ein Modellflugzeug wird mit einem Verbrennungsmotor betrieben und mit einem dünnen Seil in Kreisbewegung gehalten. Wird die Tonhöhe des Motors für einen Beobachter, der am Rand steht, verändert, wenn der Motor läuft?",
+        "target": "Ja"
+    },
+    {
+        "input": "Beim Übergang eines Lichtstrahls von Luft in ein Medium beträgt der Winkel zwischen einfallendem und reflektiertem Strahl $90^\\circ$ und der Winkel zwischen dem reflektierten und dem gebrochenen Strahl $105^\\circ$. Wie lauten der Brechungsindex und die Ausbreitungsgeschwindigkeit des Lichts in diesem Medium? Das Ergebnis soll als Bruch angegeben werden. ($c= 3\\times 10^8 \\, \\text{m/s}$)",
+        "target": "Brechungsindex: $\\sqrt{2}$; Ausbreitungsgeschwindigkeit: $\\frac{3\\sqrt{2}}{2} \\times 10^8\\, \\text{m/s}$"
+    },
+    {
+        "input": "Unter Standardatmosphärendruck gibt Wasser mit einer Masse von $1\\, \\text{kg}$ und einer Temperatur von $70 \\, ^\\circ\\text{C}$ $4,2 \\times 10^4 \\, \\text{J}$ Wärme ab. Um wie viel Grad Celsius sinkt die Wassertemperatur? ($c_{\\text{wasser}} = 4,2 \\times 10^3 \\, \\text{J/(kg}\\cdot^\\circ\\text{C)}$)",
+        "target": "$10\\, ^\\circ\\text{C}$"
+    },
+    {
+        "input": "Aus einer Tonne Müll können 170 kg Brennöl gewonnen werden. In welche Art von Energie wird die chemische Energie dieses Brennöls bei vollständiger Verbrennung umgewandelt?",
+        "target": "Innere Energie"
+    },
+    {
+        "input": "Ein Holzblock ruht auf einer glatten horizontalen Fläche. Eine Kugel fliegt in horizontaler Richtung und wird in den Holzblock geschossen. Wenn die maximale Eindringtiefe der Kugel 3 cm beträgt, bewegt sich der Holzblock entlang der horizontalen Fläche genau 2 cm. Wie groß ist das Verhältnis der vom System verlorenen mechanischen Energie zur von der Kugel verlorenen kinetischen Energie?",
+        "target": "3:5"
+    },
+    {
+        "input": "Ein Flugzeug fliegt mit konstanter Geschwindigkeit in horizontaler Richtung. Alle $1\\, \\text{s}$ wird eine Eisenkugel aus dem Flugzeug freigesetzt, und die Kugeln A, B, C und D werden nacheinander freigesetzt. Die Masse der Kugeln ist gleich. Welche Entfernung ist größer, die zwischen den Kugeln A und B oder die zwischen den Kugeln C und D?",
+        "target": "Ebenso groß"
+    },
+    {
+        "input": "Ein künstlicher Erdsatellit hat eine Masse von $2000\\, \\text{kg}$ und eine Höhe von $6,4 \\times 10^6, \\text{m}$ über der Erdoberfläche. Der Satellit führt eine gleichförmige Kreisbewegung aus. Der Radius der Erde beträgt $6,4 \\times 10^6 , \\text{m}$ und die Erdbeschleunigung ist $g=10\\, \\text{m/s}^2$. Wie groß ist die Zentripetalkraft, die auf den Satelliten wirkt?",
+        "target": "$5000\\, \\text{N}$"
+    },
+    {
+        "input": "Ein künstlicher Erdsatellit hat die Masse M und befindet sich in einer Höhe von H über der Erdoberfläche. Der Satellit führt eine gleichförmige Kreisbewegung aus. Der Radius der Erde beträgt r und die Erdbeschleunigung ist $g=10\\, \\text{m/s}^2$. Wie lautet der Ausdruck für die Geschwindigkeit des Satelliten?",
+        "target": "$v=\\sqrt{\\frac{gr^2}{r + H}}$"
+    },
+    {
+        "input": "Es ist bekannt, dass die Frequenz der Stromquelle des Zeitmessgeräts $50\\, \\text{Hz}$ beträgt und die lokale Erdbeschleunigung $g = 10\\, \\text{m/s}^2$ ist. Die Masse des verwendeten Gewichtes beträgt $200\\, \\text{g}$. Es wurde ein klarer Papierstreifen erhalten, wobei der erste Punkt als $O$ bezeichnet wurde. Vier konsekutive Punkte A, B, C, D wurden als Messpunkte gewählt. Die Abstände von $A$, $B$, $C$, $D$ zum Punkt $O$ betragen $41{,}61\\, \\text{cm}$, $49{,}63\\, \\text{cm}$, $56{,}10\\, \\text{cm}$ und $62{,}79\\, \\text{cm}$.  Wenn sich das Gewicht von Punkt $O$ nach Punkt $C$ bewegt, wie groß ist die Abnahme der potenziellen Energie in Joule?",
+        "target": "$1,122\\, \\text{J}$"
+    },
+    {
+        "input": "Es ist bekannt, dass die Frequenz der Stromquelle des Zeitmessgeräts $50, \\text{Hz}$ beträgt und die lokale Erdbeschleunigung $g = 10\\, \\text{m/s}^2$ ist. Die Masse des verwendeten Gewichtes beträgt $200\\, \\text{g}$. Es wurde ein klarer Papierstreifen erhalten, wobei der erste Punkt als $O$ bezeichnet wurde. Vier konsekutive Punkte A, B, C, D wurden als Messpunkte gewählt. Die Abstände von $A$, $B$, $C$, $D$ zum Punkt $O$ betragen $41{,}61\\, \\text{cm}$, $49{,}63\\, \\text{cm}$, $56{,}10\\, \\text{cm}$ und $62{,}79\\, \\text{cm}$. Was ist die Geschwindigkeit des Gewichts, wenn es $C$ passiert?",
+        "target": "$3,29\\, \\text{m/s}$"
+    },
+    {
+        "input": "Es ist bekannt, dass die Frequenz der Stromquelle des Zeitmessgeräts $50, \\text{Hz}$ beträgt und die lokale Erdbeschleunigung $g = 10\\, \\text{m/s}^2$ ist. Die Masse des verwendeten Gewichtes beträgt $200\\, \\text{g}$. Es wurde ein klarer Papierstreifen erhalten, wobei der erste Punkt als $O$ bezeichnet wurde. Vier konsekutive Punkte A, B, C, D wurden als Messpunkte gewählt. Die Abstände von $A$, $B$, $C$, $D$ zum Punkt $O$ betragen $41{,}61\\, \\text{cm}$, $49{,}63\\, \\text{cm}$, $56{,}10\\, \\text{cm}$ und $62{,}79\\, \\text{cm}$. Wie viel hat sich die kinetische Energie des Gewichts erhöht, wenn sich das Gewicht von Punkt $O$ nach Punkt $C$ bewegt?",
+        "target": "$1,08\\, \\text{J}$"
+    },
+    {
+        "input": "Ein 2-Tonnen-Auto beginnt mit einer Nennleistung von $P_0=10\\, \\text{kw}$ aus dem Ruhezustand eine gerade Strecke auf einer horizontalen Straße zu fahren. Die maximale Geschwindigkeit des Fahrzeugs beträgt $50\\, \\text{m/s}$. Wie groß ist der Fahrwiderstand?",
+        "target": "$200\\, \\text{N}$"
+    },
+    {
+        "input": "Ein 2-Tonnen-Auto fährt auf einer horizontalen Straße mit einer Nennleistung von $P_0=10\\, \\text{kw}$ geradlinig aus dem Ruhezustand los. Die maximale Geschwindigkeit des Fahrzeugs beträgt $50\\, \\text{m/s}$. Wie groß ist die Beschleunigung des Autos, wenn seine Geschwindigkeit $20\\, \\text{m/s}$ beträgt?",
+        "target": "$0,15\\, \\text{m/s}^2$"
+    },
+    {
+        "input": "Die Geschwindigkeit des Bootes in ruhigem Wasser beträgt 1 m/s. Das Flussufer ist gerade, und die Breite des Flusses ist konstant. Die Strömungsgeschwindigkeit des Flusses nahe dem Ufer beträgt $2\\, \\text{m/s}$ und in der Mitte des Flusses $3\\, \\text{m/s}$. Kann das Boot senkrecht zum Ufer den Fluss überqueren?",
+        "target": "Es kann nicht"
+    },
+    {
+        "input": "Ein Flugzeug landet und rollt in einem gleichmäßig verzögerten Rollvorgang. Während des Rollens erfährt das Flugzeug einen Luft- und Bodenwiderstand, der 0,5-mal so groß ist wie sein Gewicht. Wie groß ist die Beschleunigung des Flugzeugs während des Rollens? ($g=10\\, \\text{m/s}^2$)",
+        "target": "$5 \\, \\text{m/s}^2$"
+    },
+    {
+        "input": "Ein Passagierflugzeug landet mit einer Geschwindigkeit von $216\\, \\text{km/h}$ und rollt dann mit gleichmäßiger Verzögerung aus. Der Luft- und Bodenwiderstand während des Rollens beträgt 0,3-mal das Gewicht des Flugzeugs. Wie lang muss die Landebahn des Flughafens sein, damit das Flugzeug sicher zum Stillstand kommt? ($g=10\\, \\text{m/s}^2$)",
+        "target": "$600\\, \\text{m}$"
+    },
+    {
+        "input": "Ein Körper mit der Masse $m = 8\\, \\text{kg}$ gleitet mit einer horizontalen Geschwindigkeit von $v_0=4\\, \\text{m/s}$ auf einen auf einem glatten horizontalen Boden ruhenden Wagen mit der Masse $M=12\\, \\text{kg}$. Wie groß ist die gemeinsame Geschwindigkeit von Wagen und Körper? ($g=10\\, \\text{m/s}^2$)",
+        "target": "$1,6\\, \\text{m/s}$"
+    },
+    {
+        "input": "Ein Körper mit der Masse $m = 10\\, \\text{kg}$ gleitet mit einer horizontalen Geschwindigkeit von $v_0=6\\, \\text{m/s}$ auf einen auf einem glatten horizontalen Boden ruhenden Wagen mit der Masse $M=20\\, \\text{kg}$. Der Gleitreibungskoeffizient zwischen dem Körper und der Wagenoberfläche beträgt μ=0,4. Wie lange gleitet der Körper auf dem Wagen? ($g=10\\, \\text{m/s}^2$)",
+        "target": "$1\\, \\text{s}$"
+    },
+    {
+        "input": "Ein Ball fällt aus einer Höhe von $20\\, \\text{m}$ frei zu Boden. Gegeben sei $g=10\\, \\text{m/s}^2$. Wie lange dauert es, bis der Ball den Boden erreicht?",
+        "target": "$2\\, \\text{s}$"
+    },
+    {
+        "input": "Ein Ball fällt aus einer Höhe von $60\\, \\text{m}$ frei zu Boden. Wie groß ist die Verschiebung des Balls im ersten $1\\, \\text{s}$ der freien Fallzeit? ($g=10\\, \\text{m/s}^2$)",
+        "target": "$5\\, \\text{m}$"
+    },
+    {
+        "input": "Ein Ball fällt frei aus einer Höhe von $h=125\\, \\text{m}$. Wie groß ist die Verschiebung des Balls im letzten $1\\, \\text{s}$ der freien Fallzeit? ($g=10\\, \\text{m/s}^2$)",
+        "target": "$45\\, \\text{m}$"
+    },
+    {
+        "input": "Ein Ball fällt frei aus großer Höhe und erreicht beim Aufprall eine Geschwindigkeit von $46\\, \\text{m/s}$. Wie hoch ist der Ausgangspunkt über dem horizontalen Boden? ($g=10\\, \\text{m/s}^2$)",
+        "target": "$105,8\\, \\text{m}$"
+    },
+    {
+        "input": "Ein Objekt bewegt sich mit gleichmäßigem Verzögern auf einer geraden Strecke und stoppt nach $4\\, \\text{s}$. Wenn die Verschiebung im ersten Sekundenabschnitt $56\\, \\text{m}$ ist, wie groß ist die Verschiebung im letzten $1\\, \\text{s}$?",
+        "target": "$8\\, \\text{m}$"
+    },
+    {
+        "input": "Ein Körper führt einen freien Fall aus. Die Zeitmessung beginnt ab dem Loslassen. Wie lässt sich die Geschwindigkeit des Objekts ausdrücken, wenn es eine Strecke von X Metern gefallen ist? ($g=9,8\\, \\text{m/s}^2$)",
+        "target": "$\\sqrt{19,6X}$"
+    },
+    {
+        "input": "Ein frei fallender Körper durchläuft seinen Fallprozess in zwei zeitlich gleiche Abschnitte. Wie lautet das Verhältnis der durchschnittlichen Geschwindigkeiten dieser beiden Abschnitte (von oben nach unten betrachtet)?",
+        "target": "1:3"
+    },
+    {
+        "input": "Ein Körper fällt frei von einer Höhe H und die Verschiebung, die er in der letzten $1\\, \\text{s}$ vor dem Erreichen des Bodens zurücklegt, ist um $60\\, \\text{m}$ größer als die Verschiebung, die er in der ersten Sekunde des Falls zurücklegt. Vernachlässigen Sie den Luftwiderstand. Wie lange dauert es, bis der Körper den Boden erreicht? ($g=10\\, \\text{m/s}^2$)",
+        "target": "$7\\, \\text{s}$"
+    },
+    {
+        "input": "Ein frei fallender Körper hat bei Punkt A eine Geschwindigkeit von $10\\, \\text{m/s}$, und bei einem Punkt B darunter eine Geschwindigkeit von $68,8\\, \\text{m/s}$. Wie lange dauert es, bis der Körper von Punkt A nach Punkt B gelangt? ($g=9,8\\, \\text{m/s}^2$)",
+        "target": "$6\\, \\text{s}$"
+    },
+    {
+        "input": "Ein frei fallender Körper hat bei Punkt A eine Geschwindigkeit von $10\\, \\text{m/s}$, und bei einem Punkt B darunter eine Geschwindigkeit von $68,8\\, \\text{m/s}$. Wie groß ist der Abstand zwischen den Punkten A und B? ($g=9,8\\, \\text{m/s}^2$)",
+        "target": "$236,4\\, \\text{m}$"
+    },
+    {
+        "input": "Ein Fahrzeug bewegt sich mit gleichmäßig beschleunigter geradliniger Bewegung. Wenn sich die Geschwindigkeit um $\\Delta V$ ändert, legt es eine Strecke von X Metern zurück; wenn sich die Geschwindigkeit unmittelbar danach um das gleiche $\\Delta V$ ändert, legt es eine Strecke von Y Metern zurück. Wie kann die Beschleunigung des Fahrzeugs ausgedrückt werden?",
+        "target": "$\\frac{(\\Delta V)^{2}}{Y - X}$"
+    },
+    {
+        "input": "Eine Eisenbahnbrücke hat eine Länge von $44,65\\, \\text{km}$. Ein Zug ist $350\\, \\text{m}$ lang und fährt mit einer Geschwindigkeit von $90\\, \\text{km/h}$. Wie lange braucht der Zug, um die gesamte Brücke zu überqueren?",
+        "target": "30 Minuten"
+    },
+    {
+        "input": "Ein Ball fällt aus großer Höhe frei. Nach 0,5 Sekunden schießt eine Kugel senkrecht nach unten, um den Ball 1,8 m unter dem Fallpunkt zu treffen. Bestimmen Sie die Geschwindigkeit der Kugel im Moment des Aufpralls.  ($g =10\\, \\text{m/s}^2$)",
+        "target": "$18,5\\, \\text{m/s}$"
+    },
+    {
+        "input": "Ein 10 Meter langer, vertikaler Stab wird aus einer Position fallen gelassen, in der sein unteres Ende 10 Meter von der Öffnung eines ebenfalls 10 Meter langen, vertikalen Tunnels entfernt ist. Wie lange dauert es, bis der Stab den Tunnel vollständig durchquert hat? ($g =10\\, \\text{m/s}^2$)",
+        "target": "$\\sqrt{6} - \\sqrt{2}\\, \\text{s}$"
+    },
+    {
+        "input": "Ein Stein fällt frei von der Kante eines Daches und passiert nach 1.1 Sekunden genau die obere Kante eines Fensters. Es stellt sich heraus, dass der Stein 0,2 Sekunden benötigt, um das Fenster zu passieren. Wie hoch ist das Fenster? ($g =10\\, \\text{m/s}^2$)",
+        "target": "$2,4\\, \\text{m}$"
+    },
+    {
+        "input": "Auf einem stehenden Flugzeugträger befindet sich ein Trägerflugzeug, das ohne Katapultsystem mit gleichmäßiger Beschleunigung auf die Startgeschwindigkeit v gebracht werden muss. Die dafür benötigte Strecke beträgt L₀. Wenn ein Katapult dem Flugzeug eine Anfangsgeschwindigkeit v_0 gibt, benötigt es eine Strecke L , um ebenfalls die Geschwindigkeit v zu erreichen. Wenn das Verhältnis der Katapultgeschwindigkeit v_0 zur Startgeschwindigkeit v 3:4 beträgt und die Beschleunigungen in beiden Fällen gleich sind, wie lautet das Verhältnis von L zu L_0?",
+        "target": "0.302777777777778"
+    },
+    {
+        "input": "Ein Objekt fällt frei. Wie groß ist das Verhältnis der kinetischen Energie nach der Hälfte der Fallzeit zur kinetischen Energie beim Aufprall?",
+        "target": "1:4"
+    },
+    {
+        "input": "Eine Eisenkette hat eine Länge von 7,2 Metern und wird vertikal von einem hohen Gebäude ohne Luftwiderstand fallen gelassen. Wie lange dauert es, bis die gesamte Kette durch einen Punkt 20 m unter dem Gebäude hindurchgefallen ist? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$0,4\\, \\text{s}$"
+    },
+    {
+        "input": "Ein Bus fährt mit konstanten $54\\, \\text{km/h}$ auf einer ebenen Straße. Wenn der Bus ab dem Startpunkt mit einer Beschleunigung von $1\\, \\text{m/s}^2$ beschleunigt, wie hoch ist seine Geschwindigkeit nach $10\\, \\text{s}$ in Metern pro Sekunde?",
+        "target": "$25\\, \\text{m/s}$"
+    },
+    {
+        "input": "Angenommen, ein Ball wird mit einer Anfangsgeschwindigkeit von 0 von einem 50 Meter hohen Gebäude vertikal nach unten fallen gelassen. Wie groß ist die Geschwindigkeit des Balls, nachdem er 45 Meter gefallen ist? ($g=10\\, \\text{m/s}^2$)",
+        "target": "$30\\, \\text{m/s}$"
+    },
+    {
+        "input": "Zwei identische kleine Bälle, A und B, werden nacheinander mit einem zeitlichen Abstand von 1 Sekunde aus derselben Höhe ohne Luftwiderstand freigesetzt. Wird der Geschwindigkeitsunterschied zwischen den beiden Bällen zu jedem beliebigen Zeitpunkt während des Falls konstant bleiben?",
+        "target": "Ja"
+    },
+    {
+        "input": "Ein Objekt, das sich im freien Fall befindet, fällt nach 5 Sekunden zu Boden. Wie groß ist das Verhältnis der Verschiebungen in den ersten 2 Sekunden zu denen in den zweiten 2 Sekunden?",
+        "target": "1:3"
+    },
+    {
+        "input": "Alex fährt mit einem Fahrrad, beginnend aus dem Ruhezustand an Punkt A, und bewegt sich mit konstanter Beschleunigung in einer geraden Linie. In $7\\, \\text{s}$ überquert er eine gerade Brücke mit einer Länge von $BC = 14\\, \\text{m}$. Die Geschwindigkeit nach der Brücke beträgt $3\\, \\text{m/s}$. Wie groß war Alex' Geschwindigkeit, als er am Brückeneingang B ankam?",
+        "target": "$1\\, \\text{m/s}$"
+    },
+    {
+        "input": "Auf einer Plattform in $5\\, \\text{m}$ Höhe wird ein $1\\, \\text{kg}$ schwerer Stein mit einer Geschwindigkeit von $25\\, \\text{m/s}$ vertikal nach oben geworfen, ohne Luftwiderstand. Nehmen Sie $g = 10\\, \\text{m/s}^2$ an. Wie groß ist die Arbeit, die die Schwerkraft an dem Stein in der 3. Sekunde nach dem Wurf verrichtet？",
+        "target": "$0\\, \\text{J}$"
+    },
+    {
+        "input": "Ein Objekt wird vertikal nach oben geworfen. Die maximale Höhe, die das Objekt erreicht, ist h. Wenn die Masse des Objekts m beträgt und der konstante Luftwiderstand f wirkt, wie viel Arbeit verrichtet der Luftwiderstand während des gesamten Wurfs, vom Wurf bis zum Fall des Objekts zurück auf den Boden?",
+        "target": "-2fh"
+    },
+    {
+        "input": "Max ist 160 Zentimeter groß. In einem Hochsprungwettbewerb sprang er mit seinem Schwerpunkt auf halber Körperhöhe über eine waagerechte Latte, die die gleiche Höhe wie sein Körper hatte. Daraus lässt sich schließen, dass seine vertikale Aufstiegsgeschwindigkeit beim Absprung wie groß war? ($g=10\\, \\text{m/s}^2$)",
+        "target": "$4\\, \\text{m/s}$"
+    },
+    {
+        "input": "Ein Objekt wird mit einer Anfangsgeschwindigkeit von $20\\, \\text{m/s}$ senkrecht nach oben geworfen, ohne Luftwiderstand. In welche Richtung zeigt die Geschwindigkeitsänderung?",
+        "target": "Vertikal nach unten"
+    },
+    {
+        "input": "Zwei Holzklötze A und B liegen übereinander auf einer vertikalen, leichten Feder (A oben auf B). Die Masse von A und B beträgt jeweils $1\\, \\text{kg}$, und die Federkonstante ist $100\\, \\text{N/m}$. Der Holzklotz A wird aus dem Ruhezustand durch eine nach oben gerichtete Kraft F bewegt. Er erfährt eine konstante Beschleunigung von $2\\, \\text{m/s}^2$ nach oben. Wie groß ist der maximale Wert von F während der gleichmäßig beschleunigten Bewegung des Holzklotzes A nach oben?",
+        "target": "$12\\, \\text{N}$"
+    },
+    {
+        "input": "Bei einem Sprung aus dem Stand werden zunächst die Beine gebeugt und stößt sich dann plötzlich vom Boden ab. Der Bewegungsabschnitt vom Abdrücken bis zum Verlassen des Bodens ist ein Beschleunigungsprozess (angenommen als gleichmäßig beschleunigte Bewegung). Die Strecke, die der Körperschwerpunkt während der Beschleunigung zurücklegt, wird als „Beschleunigungsstrecke\" bezeichnet. Die „Beschleunigungsstrecke\" des Flohs bei einem Sprung aus dem Stand ist $d_1=0,00075\\, \\text{m}$, und die Geschwindigkeit beim Verlassen des Bodens ist $v_1=1,5\\, \\text{m/s}$. Die „Beschleunigungsstrecke\" des Menschen bei einem Sprung aus dem Stand beträgt d₂=0,3 m. Angenommen, der Mensch hat die gleiche Sprungbeschleunigung wie der Floh, wie groß ist die Geschwindigkeit des Menschen beim Verlassen des Bodens?",
+        "target": "$30\\, \\text{m/s}$"
+    },
+    {
+        "input": "Bei einem Sprung aus dem Stand werden zunächst die Beine gebeugt und stößt sich dann plötzlich vom Boden ab. Der Bewegungsabschnitt vom Abdrücken bis zum Verlassen des Bodens ist ein Beschleunigungsprozess (angenommen als gleichmäßig beschleunigte Bewegung). Die Strecke, die der Körperschwerpunkt während der Beschleunigung zurücklegt, wird als „Beschleunigungsstrecke\" bezeichnet. Die „Beschleunigungsstrecke\" des Flohs bei einem Sprung aus dem Stand ist $d_1=0,00075\\, \\text{m}$, und die Geschwindigkeit beim Verlassen des Bodens ist $v_1=1,5\\, \\text{m/s}$. Wenn der Mensch nach dem Verlassen des Bodens mit dieser Geschwindigkeit eine gleichmäßig verzögerte Bewegung mit einer Beschleunigung von $10\\, \\text{m/s}^2$ ausführt, wie hoch wird der Mensch nach dem Verlassen des Bodens maximal steigen?",
+        "target": "$0,1125\\, \\text{m}$"
+    },
+    {
+        "input": "Ein Ballon steigt mit einer Geschwindigkeit von $5\\, \\text{m/s}$ gleichmäßig vertikal auf, und an dem Ballon hängt ein schweres Objekt. Wenn das Seil des Objekts bei einer Höhe von $100\\, \\text{m}$ reißt, wie lange dauert es, bis das Objekt nach dem Reißen des Seils den Boden erreicht? ($g=10\\, \\text{m/s}^2$)",
+        "target": "$5\\, \\text{s}$"
+    },
+    {
+        "input": "Ein Ballon steigt mit einer Geschwindigkeit von $5\\, \\text{m/s}$ gleichmäßig vertikal auf, und an dem Ballon hängt ein schweres Objekt. Wenn das Seil des Objekts bei einer Höhe von $100\\, \\text{m}$ reißt, wie groß ist die Geschwindigkeit des Gegenstands, wenn er den Boden erreicht? Von diesem Zeitpunkt an gerechnet. ($g =10\\, \\text{m/s}^2$)",
+        "target": "$45\\, \\text{m/s}$"
+    },
+    {
+        "input": "Ein Akrobat wirft drei Bälle nacheinander senkrecht nach oben und erzeugt so einen kontinuierlichen Kreislauf. Nachdem er einen Ball geworfen hat, wartet er eine Zeitspanne, die genauso lang ist wie die Zeit, die der Ball zuvor in seiner Hand verweilte, bevor er den nächsten Ball auffängt. In diesem Kreislauf sind manchmal drei Bälle in der Luft, manchmal nur zwei, und in seiner Hand ist ein Ball die Hälfte der Zeit, während er die andere Hälfte der Zeit keinen Ball hält. Wenn die maximale Höhe, die jeder Ball erreicht, $1,25\\, \\text{m}$ beträgt ($g = 10\\, \\text{m/s}^2$), wie lange bleibt jeder Ball in der Hand des Artisten?",
+        "target": "$0,2\\, \\text{s}$"
+    },
+    {
+        "input": "Vernachlässigt man den Luftwiderstand, wird ein Objekt mit einer Anfangsgeschwindigkeit von $30\\, \\text{m/s}$ senkrecht vom Boden nach oben geworfen. Wie groß ist die Verschiebung des Objekts in den ersten 4 Sekunden? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$40\\, \\text{m}$"
+    },
+    {
+        "input": "Ein Objekt mit einer Masse von $2\\, \\text{kg}$ wird mit einer Anfangsgeschwindigkeit von $24\\, \\text{m/s}$ senkrecht nach oben geworfen. Wegen des Luftwiderstands erreicht das Objekt nach $3\\, \\text{s}$ den höchsten Punkt. Angenommen, der Luftwiderstand bleibt konstant, wie groß wird das Objekt steigen? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$36\\, \\text{m}$"
+    },
+    {
+        "input": "Ein Auto fährt mit einer Anfangsgeschwindigkeit von $10\\, \\text{m/s}$ und bremst mit einer Verzögerung von $2\\, \\text{m/s}^2$. In wie vielen Sekunden kommt dieses Auto zum Stehen?",
+        "target": "$5\\, \\text{s}$"
+    },
+    {
+        "input": "Ein Feuerwerkskörper wird senkrecht nach oben aus einem speziellen Kanonenrohr geschossen. Nach 3 s erreicht er den höchsten Punkt in einer Höhe von 60 m über dem Boden und explodiert sofort. Angenommen, der Feuerwerkskörper ist während des Aufstiegs nur der Schwerkraft und dem Luftwiderstand ausgesetzt, wobei die Größe des Luftwiderstands konstant bleibt, wie groß war die Anfangsgeschwindigkeit des Feuerwerkskörpers beim Verlassen des Kanonenrohrs? ($g = 10\\,\\text{m/s}^2$)",
+        "target": "$40\\, \\text{m/s}$"
+    },
+    {
+        "input": "Ein mit Feuerwerk ausgestattetes Geschoss wird aus einem speziellen Rohr senkrecht nach oben abgeschossen und erreicht am Ende der $3\\,\\text{s}$ seinen höchsten Punkt in einer Höhe von $60\\,\\text{m}$ über dem Boden, wo es sofort explodiert. Es werde angenommen, dass das Geschoss während des Aufstiegs nur der Schwerkraft und einer betragsmäßig konstanten Luftwiderstandskraft ausgesetzt ist. Wie groß ist die Beschleunigung während des Aufstiegs? ($g = 10\\,\\text{m/s}^2$)",
+        "target": "$\\frac{40}{3} \\, \\text{m/s}^2$"
+    },
+    {
+        "input": "Ein Feuerwerkskörper wird senkrecht nach oben aus einem speziellen Kanonenrohr geschossen. Nach $3\\,\\text{s}$ erreicht er den höchsten Punkt in einer Höhe von $60\\,\\text{m}$ über dem Boden und explodiert sofort. Angenommen, der Feuerwerkskörper ist während des Aufstiegs nur der Schwerkraft und dem Luftwiderstand ausgesetzt, wobei die Größe des Luftwiderstands konstant bleibt, wie groß ist das Verhältnis der Luftwiderstandskraft zur eigenen Gewichtskraft? ($g=10\\,\\text{m/s}^2$)",
+        "target": "1:3"
+    },
+    {
+        "input": "Ben fährt mit dem Auto und sieht plötzlich eine rote Ampel. Nachdem er bremst, fährt das Auto mit einer konstanten Verzögerung. Die Anfangsgeschwindigkeit beträgt $14\\,\\text{m/s}$, und die Beschleunigung ist $-2\\,\\text{m/s}^2$. Wie groß ist die Durchschnittsgeschwindigkeit während der $8\\,\\text{s}$ nach dem Bremsen?",
+        "target": "$6,125\\, \\text{m/s}$"
+    },
+    {
+        "input": "Die Punkte A, B und C liegen auf einer geraden Linie. Ein Objekt startet in Punkt A aus der Ruhe heraus mit einer gleichmäßig beschleunigten geradlinigen Bewegung, wobei es mit der Geschwindigkeit v Punkt B passiert. Am Punkt C beträgt die Geschwindigkeit 2v. Wie lautet das Verhältnis $x_{AB}:x_{BC}$?",
+        "target": "1:3"
+    },
+    {
+        "input": "Ein Ball mit einer Masse von $2\\,\\text{kg}$ wird aus einer Höhe von $20\\,\\text{m}$ über dem Boden jeweils mit einer Geschwindigkeit von $10\\,\\text{m/s}$ in horizontaler bzw. vertikaler Richtung nach oben geworfen. Wie groß sind die jeweiligen Geschwindigkeiten des Balls, wenn er den Boden erreicht? ($g=10\\,\\text{m/s}^2$)",
+        "target": "Die Geschwindigkeiten sind gleich, beide sind $10\\sqrt{5}\\, \\text{m/s}$"
+    },
+    {
+        "input": "Ein Lkw mit einer Masse von $8\\,\\text{t}$ beginnt aus dem Stand auf einer ebenen Straße mit einer gleichmäßig beschleunigten geradlinigen Bewegung. Nach $20\\,\\text{s}$ hat der Lkw $80\\,\\text{m}$ zurückgelegt. Wenn der Lkw während der Fahrt einen Widerstand von $1000\\,\\text{N}$ erfährt, wie groß ist die Zugkraft, die auf das Fahrzeug wirkt?",
+        "target": "$4200\\, \\text{N}$"
+    },
+    {
+        "input": "Ein Objekt wird mit einer Anfangsgeschwindigkeit von $30\\,\\text{m/s}$ senkrecht nach oben geworfen. Vernachlässigt man den Luftwiderstand und nimmt die Höhe des Werfepunkts als Nullniveau für die potenzielle Energie, wie hoch über dem Werfepunkt ist seine Gravitationspotenzielle Energie doppelt so groß wie seine kinetische Energie? ($g=10\\,\\text{m/s}^2$)",
+        "target": "$30\\, \\text{m}$"
+    },
+    {
+        "input": "Ein Objekt mit der Masse m wird vertikal nach oben geworfen. Der Tisch befindet sich in einer Höhe von h über dem Boden, und der höchste Punkt, den das Objekt erreicht, ist H über dem Tisch. Wenn der Tisch als Nullniveau für die potenzielle Energie genommen wird, wie kann die mechanische Energie des Balls beim Aufprall auf den Boden ausgedrückt werden?",
+        "target": "mgH"
+    },
+    {
+        "input": "Ein Ball wird senkrecht nach oben geworfen. Angenommen, der Ball erfährt während seiner Bewegung konstanten Luftwiderstand. Die zurückgelegte Strecke in der letzten Sekunde vor dem Erreichen des höchsten Punkts beträgt $x_1$ und in der ersten Sekunde nach dem Verlassen des höchsten Punkts beträgt sie $x_2$. Die Größe der Geschwindigkeitsänderungen beträgt entsprechend $\\Delta v_1$ und $\\Delta v_2$. Welcher ist größer, $\\Delta v_1$ oder $\\Delta v_2$?",
+        "target": "$\\Delta v_1$"
+    },
+    {
+        "input": "Für ein Objekt, das senkrecht nach oben geworfen wird, ist die Richtung des Impulses nach oben. In welche Richtung zeigt die Änderung des Impulses?",
+        "target": "Nach unten"
+    },
+    {
+        "input": "Ein schweres Objekt wird mit einer Geschwindigkeit von $98\\,\\text{m/s}$ senkrecht nach oben geworfen. Vernachlässigt man den Luftwiderstand, wie lange dauert die gesamte Flugzeit des Objekts, bis es wieder auf den Boden fällt? ($g=9,8\\,\\text{m/s}^2$)",
+        "target": "$20\\, \\text{s}$"
+    },
+    {
+        "input": "Ein Holzblock rutscht frei auf einer schiefen Ebene mit dem Neigungswinkel $\\theta = 37^\\circ$ nach unten. Angenommen, die Beschleunigung des Holzblocks beträgt $2\\,\\text{m/s}^2$, und der Gleitreibungskoeffizient zwischen dem Block und der schiefen Ebene ist $\\mu$. Wie groß ist $\\mu$? ($g=10\\,\\text{m/s}^2$)",
+        "target": "0,5"
+    },
+    {
+        "input": "Ein Ball mit hoher Dichte wird senkrecht nach oben geschleudert. Der Ball beginnt seine senkrechte Aufwärtsbewegung von der Erdoberfläche, und die gesamte Zeit vom Abschuss bis zum Rückfall beträgt $3\\,\\text{s}$. Welche Verschiebung ist also größer, X_1 im ersten $\\, \\text{s}$ oder X_3 im letzten $1\\, \\text{s}$ vor dem Fallen auf den Boden? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "Ebenso groß"
+    },
+    {
+        "input": "Ein Ball wird mit einer bestimmten Geschwindigkeit senkrecht nach oben geworfen. Die Zeit, die der Ball braucht, um den höchsten Punkt zu erreichen, beträgt t₁, und die Zeit, die er benötigt, um vom höchsten Punkt zurückzufallen, beträgt t₂. Berücksichtigt man den Luftwiderstand, welches Zeitintervall ist länger, t_1 oder t_2?",
+        "target": "t_2"
+    },
+    {
+        "input": "Ein Ball wird mit einer Geschwindigkeit von $v = 30\\,\\text{m/s}$ senkrecht nach oben geworfen. Nach $2\\,\\text{s}$ wird ein weiterer identischer Ball mit derselben Anfangsgeschwindigkeit am selben Punkt senkrecht nach oben geworfen. In welcher Höhe in Metern stoßen die beiden Bälle aufeinander, gemessen vom Ausgangspunkt? ($g=10\\,\\text{m/s}^2$)",
+        "target": "$40\\, \\text{m}$"
+    },
+    {
+        "input": "Ein Skifahrer mit einer Ausrüstung von insgesamt $75\\,\\text{kg}$ beginnt mit einer Anfangsgeschwindigkeit von $3\\,\\text{m/s}$ eine gleichmäßig beschleunigte Abwärtsbewegung entlang eines Hanges mit einem Neigungswinkel von $30^\\circ$. In einer Zeit von $5\\,\\text{s}$ fährt der Skifahrer $60\\,\\text{m}$ abwärts. Wie groß ist die Widerstandskraft f, die auf den Skifahrer wirkt? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$-105\\, \\text{N}$"
+    },
+    {
+        "input": "Ein Ball wird senkrecht nach oben geworfen, und nach 4 Sekunden fällt er wieder an den Wurfpunkt zurück. Vernachlässigt man den Luftwiderstand, wie groß ist die Verschiebung des Balls im zweiten Sekundenintervall? ($g=10\\,\\text{m/s}^2$)",
+        "target": "$5\\, \\text{m}$"
+    },
+    {
+        "input": "Zwei Objekte A und B befinden sich in Kontakt, wobei A links von B steht, jedoch nicht an B haftet. Die Reibung zwischen den Objekten und der horizontalen Fläche kann ignoriert werden. Die Masse von A beträgt $4\\,\\text{kg}$ und die Masse von B beträgt $6\\,\\text{kg}$. Ab t = 0 wirken eine Druckkraft F_A auf A und eine Zugkraft F_B auf B, wobei F_A und F_B ihre Werte mit der Zeit ändern: $F_A = 8 - 2t$; $F_B = 2 + 2t$. Wie groß ist die Wechselwirkungskraft zwischen A und B, wenn $t = 2$ ist?",
+        "target": "$0\\, \\text{N}$"
+    },
+    {
+        "input": "Eine Wasserfontäne auf einem Brunnenplatz hat Düsen, die vertikal nach oben zeigen. Die Düse gibt pro Sekunde $6\\,\\text{L}$ Wasser aus, wobei die Geschwindigkeit des Wassers an der Düse $20\\,\\text{m/s}$ beträgt. Vernachlässigt man den Luftwiderstand, wie groß ist das Volumen des Wassers, das sich in der Luft befindet? ($g=10\\,\\text{m/s}^2$)",
+        "target": "24L"
+    },
+    {
+        "input": "Daniel ist $180\\, \\text{cm}$ groß und wiegt $60\\, \\text{kg}$. Er führt einen Vertikalsprungtest durch, wobei er beim Stehen mit erhobenen Händen eine Höhe von $2\\, \\text{m}$ erreicht. Er beugt seine Beine, stößt sich $0{,}5\\, \\text{s}$ lang vom Boden ab, springt dann vertikal nach oben, wobei der Boden eine konstante aufwärts gerichtete Kraft von $1020\\, \\text{N}$ auf ihn ausübt. Vernachlässigen Sie den Luftwiderstand. Welche maximale Reichhöhe erzielt Daniel bei dem Sprung? ($g=10\\, \\text{m/s}^2$)",
+        "target": "$2,6125\\, \\text{m}$"
+    },
+    {
+        "input": "Wasser tropft aus dem Wasserhahn, und die Zeitintervalle zwischen aufeinanderfolgend fallenden Tropfen sind fast gleich. Direkt unter dem Wasserhahn wird ein kleiner Becher umgekehrt platziert, und wenn der Tropfen den Boden des Bechers erreicht, erzeugt er ein Geräusch. Der Becher wird schrittweise nach oben verschoben, bis der Tropfen gerade aus dem Wasserhahn fällt und gleichzeitig das Geräusch des Tropfens auf dem Boden des Bechers gehört wird. Die Höhe des Bechers über dem Boden beträgt zu diesem Zeitpunkt $H_1 = 10\\, \\text{cm}$. Wenn der Becher weiter nach oben bewegt wird, werden die Höhen $H_2 = 75\\, \\text{cm}$ und $H_3 = 130\\, \\text{cm}$ gemessen, bei denen jeweils der Tropfen fällt und gleichzeitig das Geräusch des Tropfens gehört wird. Wie lange ist das Zeitintervall zwischen aufeinanderfallenden Tropfen? ($g=10\\, \\text{m/s}^2$)",
+        "target": "$0,1\\, \\text{s}$"
+    },
+    {
+        "input": "Wasser tropft aus dem Wasserhahn, und die Zeitintervalle zwischen aufeinanderfolgend fallenden Tropfen sind fast gleich. Direkt unter dem Wasserhahn wird ein kleiner Becher umgekehrt platziert, und wenn der Tropfen den Boden des Bechers erreicht, erzeugt er ein Geräusch. Der Becher wird schrittweise nach oben verschoben, bis der Tropfen gerade aus dem Wasserhahn fällt und gleichzeitig das Geräusch des Tropfens auf dem Boden des Bechers gehört wird. Die Höhe des Bechers über dem Boden beträgt zu diesem Zeitpunkt $H_1 = 10\\, \\text{cm}$. Wenn der Becher weiter nach oben bewegt wird, werden für das zweite und dritte Mal, bei dem das Fallen des Tropfens und das Geräusch seines Aufpralls gleichzeitig wahrgenommen werden, die Höhen $H_2 = 75\\, \\text{cm}$ und $H_3 = 130\\, \\text{cm}$ gemessen. Wie hoch ist der Abstand zwischen dem Wasserhahn und dem Boden? (g=10 m/s²)",
+        "target": "$255\\, \\text{cm}$"
+    },
+    {
+        "input": "In einem Tischtennisturnier trifft ein Tischtennisball mit einer Geschwindigkeit von $15\\, \\text{m/s}$ auf den Schläger des Spielers, der den Ball mit einer Geschwindigkeit von $20\\, \\text{m/s}$ in entgegengesetzte Richtung zurückschlägt. Die Zeit, die der Schläger auf den Ball einwirkt, beträgt $0,1\\, \\text{s}$. Wie groß ist die Beschleunigung des Tischtennisballs während dieses Vorgangs?",
+        "target": "$350\\, \\text{m/s}^2$"
+    },
+    {
+        "input": "Die Entfernung zwischen den Städten A und B beträgt $900\\, \\text{km}$. Ein Zug fährt morgens um 7:30 Uhr von Stadt A nach Stadt B und hält an mehreren Bahnhöfen, bevor er um 16:30 Uhr in Stadt B ankommt. Während der Fahrt fährt der Zug mit einer konstanten Geschwindigkeit von $144\\, \\text{km/h}$ und überquert eine Brücke, die $900\\, \\text{m}$ lang ist. Der Zug benötigt $25\\, \\text{s}$, um die gesamte Brücke zu überqueren. Wie lang ist der Zug?",
+        "target": "$100\\, \\text{m}$"
+    },
+    {
+        "input": "Ein Objekt bewegt sich mit gleichmäßig beschleunigter Bewegung. In zwei aufeinander folgenden Zeitintervallen von je $4\\, \\text{s}$ wird eine Verschiebung von $24\\, \\text{m}$ und $64\\, \\text{m}$ zurückgelegt. Wie groß ist die Beschleunigung des Objekts während dieser Bewegung?",
+        "target": "Die Beschleunigung des Objekts beträgt $2,5\\, \\text{m/s}^2$"
+    },
+    {
+        "input": "Auf einer horizontalen Fläche liegt eine leichte Feder. Ein Objekt A mit einer Masse von $3\\, \\text{kg}$ befindet sich ruhig auf der vertikal stehenden Feder, und ein weiteres Objekt B mit einer Masse von $2\\, \\text{kg}$ hängt mit einem dünnen Draht direkt über Objekt A. A und B stehen miteinander in Kontakt, aber es besteht kein Druck zwischen ihnen. Wenn der Draht zu einem bestimmten Zeitpunkt durchtrennt wird, wie groß ist die Kraft, die Objekt B sofort auf Objekt A ausübt? ($g=10\\, \\text{m/s}^2$)",
+        "target": "$12\\, \\text{N}$"
+    },
+    {
+        "input": "Ein kleiner Ball wird mit einer Anfangsgeschwindigkeit von $49\\, \\text{m/s}$ vertikal nach oben geworfen. Vernachlässigen Sie den Luftwiderstand. Wie lange dauert es, bis der Ball nach dem Wurf wieder zu seinem Ausgangspunkt zurückkehrt? ($g = 9,8\\, \\text{m/s}^2$)",
+        "target": "$10\\, \\text{s}$"
+    },
+    {
+        "input": "Ein Ballon startet aus der Ruhe am Boden und steigt mit einer Beschleunigung von $1,25\\, \\text{m/s}^2$ vertikal auf. Die Gesamtmasse von Ballon und mitgeführtem Objekt beträgt $2\\, \\text{kg}$, wobei das Objekt eine Masse von $0,5\\, \\text{kg}$ hat. Bei einer Höhe von $40\\, \\text{m}$ fällt das Objekt ab. Unter Vernachlässigung des Luftwiderstands und Annahme eines konstanten Auftriebs, welche Höhe hat der Ballon über dem Boden, wenn das Objekt aufschlägt?($g = 10\\, \\text{m/s}^2$)",
+        "target": "$120\\, \\text{m}$"
+    },
+    {
+        "input": "Ein Ball wird $50\\, \\text{m}$ über dem Boden vertikal nach oben geworfen. Nach einer und drei Sekunden befindet sich der Ball jeweils in einer Höhe von $15\\, \\text{m}$ über dem Wurfpunkt. Wie groß ist die Anfangsgeschwindigkeit des Balls? ($g=10\\, \\text{m/s}^2$)",
+        "target": "$20\\, \\text{m/s}$"
+    },
+    {
+        "input": "Ein Ball wird 50 m über dem Boden vertikal nach oben geworfen. Der Ball passiert bei der ersten und dritten Sekunde nacheinander eine Höhe von 35 m über dem Wurfpunkt. Wie lange dauert es, bis der Ball den Boden erreicht? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$2+ \\sqrt{14}$s"
+    },
+    {
+        "input": "Ein $2\\, \\text{kg}$ schwerer Stein wird mit einer Geschwindigkeit von $5\\, \\text{m/s}$ aus einer Höhe von $10\\, \\text{m}$ schräg nach oben geworfen. Vernachlässigen Sie den Luftwiderstand. Wie groß ist die Geschwindigkeit des Steins, wenn er den Boden erreicht? ($g=10\\, \\text{m/s}^2$)",
+        "target": "$15\\, \\text{m/s}$"
+    },
+    {
+        "input": "Ein $2\\, \\text{kg}$ schwerer Stein wird mit einer Geschwindigkeit von $5\\, \\text{m/s}$ aus einer Höhe von $10\\, \\text{m}$ schräg nach oben geworfen. Wenn der Stein während seiner Bewegung eine Arbeit von $125\\, \\text{J}$ gegen den Luftwiderstand verrichtet, wie groß ist dann die Geschwindigkeit des Steins, wenn er den Boden erreicht? ($g=10\\, \\text{m/s}^2$)",
+        "target": "$10\\, \\text{m/s}$"
+    },
+    {
+        "input": "Ein Ball wird mit einer Anfangsgeschwindigkeit von $20\\, \\text{m/s}$ vertikal nach oben geworfen. Nach $3\\, \\text{s}$ wird ein weiterer Ball mit der gleichen Anfangsgeschwindigkeit am gleichen Punkt vertikal nach oben geworfen. Nach wie vielen Sekunden wird der erste Ball den zweiten Ball treffen? ($g=10\\, \\text{m/s}^2$)",
+        "target": "$3,5\\, \\text{s}$"
+    },
+    {
+        "input": "Ein Objekt wird mit einer Anfangsgeschwindigkeit von 40 m/s vertikal nach oben geworfen. Wie hoch wird das Objekt maximal steigen? ($g=10\\, \\text{m/s}^2$)",
+        "target": "$80\\, \\text{m}$"
+    },
+    {
+        "input": "Eine Himmelslaterne steigt mit einer konstanten Geschwindigkeit von $10\\, \\text{m/s}$. Als sie eine Höhe von $120\\, \\text{m}$ erreicht hat, fällt ein Objekt von der Laterne. Wie lange dauert es, bis das Objekt den Boden erreicht? ($g=10\\, \\text{m/s}^2$)",
+        "target": "$6\\, \\text{s}$"
+    },
+    {
+        "input": "Eine Himmelslaterne steigt mit einer konstanten Geschwindigkeit von $10\\, \\text{m/s}$. Als sie eine Höhe von $120\\, \\text{m}$ erreicht hat, fällt ein Objekt von der Laterne. Wie groß ist die Geschwindigkeit des Objekts, wenn es den Boden erreicht? ($g=10\\, \\text{m/s}^2$)",
+        "target": "$50\\, \\text{m/s}$"
+    },
+    {
+        "input": "Drei Objekte (A, B und C) bewegen sich gleichmäßig beschleunigt in einer geraden Linie. Beim Durchgang durch den Punkt P beträgt die Geschwindigkeit von Objekt A $6\\, \\text{m/s}$ und seine Beschleunigung $1\\, \\text{m/s}^2$, die Geschwindigkeit von Objekt B ist $2\\, \\text{m/s}$ und seine Beschleunigung $6\\, \\text{m/s}^2$, die Geschwindigkeit von Objekt C ist $-4\\, \\text{m/s}$ und seine Beschleunigung $2\\, \\text{m/s}^2$. Welches Objekt hat nach 1 s die höchste Geschwindigkeit?",
+        "target": "B"
+    },
+    {
+        "input": "Zwei Schallsensoren befinden sich in einem Abstand von d und sind auf dem Boden befestigt. Die Sensoren können das Zeitintervall zwischen den Empfangszeitpunkten von zwei aufeinander folgenden Schallsignalen aufzeichnen. Die Schüler A und B stehen auf der Linie der beiden Sensoren, aber nicht zwischen ihnen. Der Abstand von Schüler A zu seinem nächstgelegenen Sensor beträgt d', und der Abstand von Schüler B zu seinem nächstgelegenen Sensor ebenfalls d'. Schüler A gibt mit einer Startpistole ein Geräuschsignal ab, und nach einer kurzen Reaktionszeit gibt Schüler B ebenfalls ein Geräuschsignal mit seiner Startpistole ab. Es stellt sich heraus, dass das Zeitintervall, das der Sensor auf der Seite von Schüler A misst, t_1 beträgt, während der Sensor auf der Seite von Schüler B das Zeitintervall t_2 misst. Es ist bekannt, dass die Schallgeschwindigkeit in der Luft konstant ist. Wird die Schallgeschwindigkeit kleiner, wenn Schüler B sich von den Sensoren entfernt?",
+        "target": "Nein"
+    },
+    {
+        "input": "Ein Astronaut zeichnet die Zeit T auf, die ein Raumschiff benötigt, um eine Umdrehung um den Mond zu machen, wobei es sich mit konstanter Geschwindigkeit in einer Kreisbahn nahe der Mondoberfläche bewegt. Nach der Mondlandung wird eine kleine Kugel mit einer Anfangsgeschwindigkeit v_0 vertikal nach oben geworfen, und die Zeit t , die die Kugel benötigt, um von der Wurfposition zurückzukehren, wird gemessen. Wie lässt sich der Mondradius R ausdrücken?",
+        "target": "$\\frac{v_0 T^2}{2\\pi^2 t}$"
+    },
+    {
+        "input": "Ein Himmelskörper kann als eine homogene Kugel betrachtet werden, mit einem Radius von R und einer Rotationsperiode von T. Der Orbit des synchronen Satelliten dieses Himmelskörpers hat einen Radius von 9R. Wenn sich die Rotationsperiode des Himmelskörpers verkürzt (ohne dass es zur Zerstörung des Himmelskörpers kommt), unterhalb welcher Rotationsperiode T₀ können keine Satelliten mehr mit der Rotation des Himmelskörpers synchronisiert werden?",
+        "target": "$\\frac{T}{27}$"
+    },
+    {
+        "input": "Ein Objekt wird vertikal vom Boden aus geworfen und passiert in einer Sekunde zweimal eine Höhe von $30\\,\\text{m}$ über dem Boden, wobei der Luftwiderstand vernachlässigt wird. Wie groß ist die Anfangsgeschwindigkeit des Objekts? ($g=10\\, \\text{m/s}^2$)",
+        "target": "$25\\, \\text{m/s}$"
+    },
+    {
+        "input": "Ein Objekt wird mit einer Geschwindigkeit von $100\\,\\text{m/s}$ vertikal nach oben geworfen, wobei der Luftwiderstand vernachlässigt wird. Wie hoch wird es maximal steigen? ($g=10\\, \\text{m/s}^2$)",
+        "target": "$500\\, \\text{m}$"
+    },
+    {
+        "input": "Ein Objekt wird mit einer Geschwindigkeit von $100\\,\\text{m/s}$ vertikal nach oben geworfen. Mit welcher Geschwindigkeit wird das Objekt den Wurfpunkt wieder erreichen? (Luftwiderstand vernachlässigt)",
+        "target": "$100\\, \\text{m/s}$"
+    },
+    {
+        "input": "Aus einer Höhe von H beginnt ein Objekt aus der Ruhelage zu fallen, während gleichzeitig ein Stein direkt darunter vertikal nach oben geworfen wird. Wenn die beiden Objekte in der Luft kollidieren und der Stein bereits wieder fällt, in welchem Bereich muss die Anfangsgeschwindigkeit des Steins liegen?",
+        "target": "$\\sqrt{\\frac{gH}{2}} < v_0 < \\sqrt{gH}$"
+    },
+    {
+        "input": "Von einer horizontalen Ebene aus wird ein Objekt mit einer Geschwindigkeit von $30\\,\\text{m/s}$ vertikal nach oben geworfen, wobei der Luftwiderstand vernachlässigt wird. Wie groß ist die Verschiebung des Objekts 5 Sekunden nach dem Abwurf? ($g=10, \\text{m/s}^2$)",
+        "target": "$25\\, \\text{m}$"
+    },
+    {
+        "input": "Ein Ball wird mit einer Geschwindigkeit von $20\\,\\text{m/s}$ vertikal nach oben geworfen, und 2 Sekunden später wird an derselben Stelle ein weiterer Ball mit der gleichen Anfangsgeschwindigkeit geworfen. In welcher Höhe treffen sich die beiden Bälle? ($g=10\\, \\text{m/s}^2$)",
+        "target": "$15\\, \\text{m}$"
+    },
+    {
+        "input": "Eine Person fährt mit einer Durchschnittsgeschwindigkeit von v_1 von Ort A nach Ort B und kehrt dann mit einer Durchschnittsgeschwindigkeit von v_2 auf dem gleichen Weg zurück. Wie groß ist die Durchschnittsgeschwindigkeit für die Hin- und Rückfahrt?",
+        "target": "$\\frac{2v_1 v_2}{v_1 + v_2}$"
+    },
+    {
+        "input": "Ein Ball bewegt sich mit einer Geschwindigkeit von $v_1=8\\, \\text{m/s}$ nach rechts und prallt dann mit einer Geschwindigkeit von $v_2=4\\, \\text{m/s}$ von einer Wand ab. Die Kollision dauert $t=0,1\\, \\text{s}$. Wenn nach den Festlegungen von Student A nach rechts als positive Richtung gilt, berechnen Sie bitte den Betrag der Beschleunigung des Balls.",
+        "target": "$120\\, \\text{m/s}^2$"
+    },
+    {
+        "input": "Ein Ball bewegt sich mit einer Geschwindigkeit $v_1=6\\, \\text{m/s}$ nach rechts und prallt gegen eine Wand. Nach dem Aufprall prallt er mit einer Geschwindigkeit $v_2=5\\, \\text{m/s}$ zurück. Die Kollisionsdauer zwischen Ball und Wand beträgt $t=0,1\\, \\text{s}$. Schüler B definiert die linke Richtung als positiv. Bitte helfen Sie Schüler B, den Betrag der Beschleunigung des Balls zu berechnen.",
+        "target": "$110\\, \\text{m/s}^2$"
+    },
+    {
+        "input": "Ein Massenpunkt führt eine ungleichförmig geradlinige Bewegung in Ox-Richtung aus. Der Abstand x des Massenpunkts vom Punkt O in Abhängigkeit von der Zeit t ist gegeben durch: $x=2+6t-2t^3\\, (\\text{m})$. Die Geschwindigkeit v in Abhängigkeit von der Zeit t ist gegeben durch: $v=6-6t^2\\, (\\text{m/s})$. Wie groß ist die Momentangeschwindigkeit des Massenpunkts zum Zeitpunkt $t=2\\, \\text{s}$?",
+        "target": "$-18\\, \\text{m/s}$, wobei die Richtung der Geschwindigkeit der Richtung der Anfangsgeschwindigkeit entgegengesetzt ist"
+    },
+    {
+        "input": "Ein Massenpunkt führt eine ungleichförmig geradlinige Bewegung in Ox-Richtung aus. Der Abstand x des Massenpunkts vom Punkt O in Abhängigkeit von der Zeit t ist gegeben durch: $x=2+6t-2t^3\\, (\\text{m})$. Die Geschwindigkeit v in Abhängigkeit von der Zeit t ist gegeben durch: $v=6-6t^2\\, (\\text{m/s})$. Wie groß ist die mittlere Beschleunigung des Massenpunkts im zweiten Zeitintervall von $2\\, \\text{s}$?",
+        "target": "$-36\\, \\text{m/s}^2$"
+    },
+    {
+        "input": "Ein Massenpunkt führt eine ungleichförmig geradlinige Bewegung in Ox-Richtung aus. Der Abstand x des Massenpunkts vom Punkt O in Abhängigkeit von der Zeit t ist gegeben durch: $x=2+6t-2t^3\\, (\\text{m})$. Die Geschwindigkeit v in Abhängigkeit von der Zeit t ist gegeben durch: $v=6-6t^2\\, (\\text{m/s})$. Wie groß ist die Durchschnittsgeschwindigkeit des Massenpunkts im Zeitintervall von $t=0$ bis $t=2\\, \\text{s}$?",
+        "target": "$-2\\, \\text{m/s}$, wobei die Richtung der Geschwindigkeit der Richtung der Anfangsgeschwindigkeit entgegengesetzt ist"
+    },
+    {
+        "input": "Wenn die Durchschnittsgeschwindigkeit eines Körpers in einem bestimmten Zeitintervall von 1 Sekunde $5\\, \\text{m/s}$ beträgt, wie groß ist dann die Verschiebung dieses Körpers in dieser Sekunde in Metern?",
+        "target": "$5\\, \\text{m}$"
+    },
+    {
+        "input": "Ein Auto fährt mit konstanter Geschwindigkeit von $90\\, \\text{km/h}$. Aufgrund eines Defekts wird eine Notbremsung eingeleitet, bis das Fahrzeug zum Stillstand kommt. Die Bremsverzögerung beträgt $5\\, \\text{m/s}^2$. Wie groß ist die Momentangeschwindigkeit des Autos nach $1\\, \\text{s}$ Bremsvorgang?",
+        "target": "$20\\, \\text{m/s}$"
+    },
+    {
+        "input": "Ein Auto fährt mit konstanter Geschwindigkeit von $90\\, \\text{km/h}$. Aufgrund eines Defekts wird eine Notbremsung eingeleitet, bis das Fahrzeug zum Stillstand kommt. Die Bremsverzögerung beträgt $5\\, \\text{m/s}^2$. Nach wie vielen Minuten kommt das Auto zum Stillstand?",
+        "target": "$\\frac{1}{12}$"
+    },
+    {
+        "input": "Ein Körper wird mit einer Anfangsgeschwindigkeit von $30\\, \\text{m/s}$ vertikal nach oben geworfen, wobei der Luftwiderstand vernachlässigt wird. Die Richtung des Anfangswurfs wird als positiv betrachtet. Wie groß ist die Gesamtstrecke, die der Körper innerhalb von $5\\, \\text{s}$ zurücklegt? ($g=10\\, \\text{m/s}^2$)",
+        "target": "$65\\, \\text{m}$"
+    },
+    {
+        "input": "Ein Körper wird an einem Punkt in $560\\, \\text{m}$ Höhe über dem Erdboden mit einer Anfangsgeschwindigkeit von $30\\, \\text{m/s}$ vertikal nach oben geworfen. Wie lange dauert es, bis der Körper nach dem Wurf den Erdboden erreicht? ($g=10\\, \\text{m/s}^2$)",
+        "target": "$14\\, \\text{s}$"
+    },
+    {
+        "input": "Ein Regenmachergeschoss mit einer Masse $m = 5\\, \\text{kg}$ wird vom Boden mit einer Geschwindigkeit von $v_0 = 360\\, \\text{m/s}$ vertikal nach oben abgeschossen. Am höchsten Punkt explodiert es und verteilt Regenbeschleuniger. Wie groß ist die kinetische Energie des Regenmachergeschosses im Moment des Verlassens des Bodens in Kilojoule?",
+        "target": "$324\\, \\text{kJ}$"
+    },
+    {
+        "input": "Ein Regenmachergeschoss mit einer Masse $m = 5\\, \\text{kg}$ wird vom Boden mit einer Geschwindigkeit von $v_0 = 360\\, \\text{m/s}$ vertikal nach oben abgeschossen. Am höchsten Punkt explodiert es und verteilt Regenbeschleuniger. Wie viel Zunahme der Gravitationspotenzialenergie hat das Regenmachergeschoss bis zum höchsten Punkt in Joule? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$324.000\\, \\text{J}$"
+    },
+    {
+        "input": "Ein Regenmachergeschoss mit einer Masse $m = 5\\, \\text{kg}$ wird vom Boden mit einer Geschwindigkeit von $v_0 = 360\\, \\text{m/s}$ vertikal nach oben abgeschossen. Am höchsten Punkt explodiert es und verteilt Regenbeschleuniger. Luftwiderstand wird vernachlässigt. Wie hoch ist die maximale Steighöhe des Geschosses in Kilometern? ($g=10\\, \\text{m/s}^2$)",
+        "target": "$6,48\\, \\text{km}$"
+    },
+    {
+        "input": "Zwei Körper A und B sind durch eine leichte Schnur verbunden und befinden sich auf einer glatten horizontalen Fläche. Das Massenverhältnis beträgt $m_A:m_B=3:1$. Auf Körper A wirkt eine horizontale Zugkraft von $F=12\\, \\text{N}$ nach links. Wie groß ist die Zugkraft, die die Schnur auf Körper B ausübt?",
+        "target": "$3\\, \\text{N}$"
+    },
+    {
+        "input": "In der Theorie geht man davon aus, dass der Prozess, bei dem ein massereicher Stern zu einem schwarzen Loch kollabiert, von der Kernreaktion $_{6}^{12}\\text{C} + Y \\rightarrow {8}^{16}\\text{O}$ beeinflusst wird. Wenn Y ein Teilchen ist, welche Strahlung hat eine stärkere Ionisationsfähigkeit: Alphastrahlung oder Gammastrahlung?",
+        "target": "Alphateilchenstrahlung"
+    },
+    {
+        "input": "Ein ruhendes Uran-238-Isotop ($_{92}^{238}\\text{U}$) erfährt einen Alpha-Zerfall zu einem Thorium-Kern und emittiert gleichzeitig ein Gamma-Photon mit der Frequenz  $\\nu$.  Die Masse des Alpha-Teilchens ist m (die Planck-Konstante ist h, die Lichtgeschwindigkeit ist c).Bitte geben Sie die Zerfallsgleichung an.",
+        "target": "$_{92}^{238}\\text{U} \\rightarrow _{90}^{234}\\text{Th} + _{2}^{4}\\text{He}$"
+    },
+    {
+        "input": "Ein kleiner Elektromotor arbeitet mit einer Spannung von $5\\, \\text{V}$ und einem Strom von $0,5\\, \\text{A}$. Wie groß ist die Eingangsleistung des Motors in Watt?",
+        "target": "$2,5\\, \\text{W}$"
+    },
+    {
+        "input": "Annas Familie hat einen neuen Elektroboiler gekauft, dessen technische Parameter in der folgenden Tabelle aufgeführt sind. Der Wassertank wird mit Wasser gefüllt, und der Boiler funktioniert für $40\\, \\text{min}$, wobei die Wassertemperatur von $25^\\circ\\text{C}$ auf $45^\\circ\\text{C}$ steigt. Wie hoch ist der Wirkungsgrad des Boilers? (Spezifische Wärmekapazität von Wasser: $4.200\\, \\text{J/(kg}\\cdot^\\circ\\text{C)}$)\n| Modell | FED-H50 | \n| Nennspannung | $220\\, \\text{V}$|\n| Maximale Wassermenge | $50\\, \\text{kg}$ | \n| Nennleistung | $2000\\, \\text{W}$ |",
+        "target": "87,5%"
+    },
+    {
+        "input": "Durch die Verringerung der Versorgungsspannung verringert sich die elektrische Leistung des Geräts im Stromkreis um 36%. Um wie viel Prozent ist die Spannung der Stromquelle im Vergleich zum ursprünglichen Wert gesenkt worden?",
+        "target": "0.2"
+    },
+    {
+        "input": "Zwei Drahtwiderstände aus dem gleichen Material sind in zwei getrennte Schaltkreise geschaltet. Der Widerstandsdraht A hat eine Länge von L und einen Durchmesser von d; der Widerstandsdraht B hat eine Länge von 4L und einen Durchmesser von 4d. Um sicherzustellen, dass beide Widerstände die gleiche elektrische Leistung verbrauchen, wie sollte das Verhältnis der an den beiden Widerständen anliegenden Spannungen sein?",
+        "target": "U_A:U_B=2:1"
+    },
+    {
+        "input": "Ein Leiter hat einen Widerstand von $4\\, \\Omega$. Wie viel Wärmeenergie in Joule wird erzeugt, wenn ein Strom von $4\\, \\text{A}$ für $30\\, \\text{min}$ fließt?",
+        "target": "$115200\\, \\text{J}$"
+    },
+    {
+        "input": "Die Glühbirne L ist mit „40V 10W\" beschriftet, wobei R ein konstanter Widerstand ist. Nachdem der Schalter S geschlossen wurde, leuchtet die Glühbirne L genau normal, und das Amperemeter zeigt 0,45 A. Wie groß ist der Nennstrom der Glühbirne L in Ampere?",
+        "target": "$0,25\\, \\text{A}$"
+    },
+    {
+        "input": "In einem elektrischen Feld, das von einer positiven Punktladung Q erzeugt wird, befinden sich die Punkte M und N, deren elektrischen Potentiale φₘ und φₙ sowie die elektrischen Feldstärken Eₘ und Eₙ bekannt sind. Wenn eine positive Probeladung von Punkt M nach Punkt N bewegt wird und die elektrische Feldkraft dabei negative Arbeit verrichtet, wie lautet die Beziehung zwischen den Größen Eₘ und Eₙ? (Verwenden Sie die Symbole >, <, =)",
+        "target": "Eₘ< Eₙ"
+    },
+    {
+        "input": "Ein Massepunkt bewegt sich mit gleichförmiger Kreisbewegung. Wenn die resultierende Kraft des Teilchens proportional zur n-ten Potenz des Radius ist und die Periode des Teilchens umgekehrt proportional zum Radius ist, wie lautet der Wert von n?",
+        "target": "3"
+    },
+    {
+        "input": "Aufgrund der Erdrotation vergleichen wir ein Objekt A am Äquator mit einem Objekt B bei $60^\\circ \\text{N}$. Wie lautet das Verhältnis der Winkelgeschwindigkeiten von A und B?",
+        "target": "1:1"
+    },
+    {
+        "input": "Wenn ein Leichtathlet eine halbkreisförmige Laufbahn entlangläuft, kann dies als Kreisbewegung betrachtet werden. Die verschiedenen Laufbahnen bilden konzentrische Halbkreise. Wenn die lineare Geschwindigkeit von Läufern auf der Innenbahn und Außenbahn gleich ist, welche der beiden hat die größere Winkelgeschwindigkeit?",
+        "target": "Die Läufer auf der Innenbahn haben die größere Winkelgeschwindigkeit"
+    },
+    {
+        "input": "Es gibt ein neuartiges quantenmechanisches Material mit photoelektrischem Effekt, dessen Austrittsarbeit W_0 beträgt. Wenn dieses Material mit ultraviolettem Licht bestrahlt wird, entsteht ein kohärenter Elektronenstrahl mit festem Impuls und kinetischer Energie. Wenn dieser Elektronenstrahl auf einen Doppelspalt trifft, der einen Abstand von d hat, und auf einem Beobachtungsbildschirm in einer Entfernung von L Interferenzstreifen erzeugt, wobei der gemessene Streifenabstand Δx beträgt, wie lautet der Impuls p des Elektrons? (Gegeben sind die Elektronenmasse m, das Plancksche Wirkungsquantum h und die Lichtgeschwindigkeit c)",
+        "target": "$\\frac{hL}{d\\Delta x}$"
+    },
+    {
+        "input": "Ein Beobachtungssatellit, der die Sonne beobachtet, kann harte Röntgenstrahlen der Sonnenstrahlung detektieren. Harte Röntgenstrahlen sind Photonen mit sehr kurzer Wellenlänge λ. Wenn die Sonne gleichmäßig in alle Richtungen harte Röntgenstrahlen abstrahlt und das Objektiv des Satellitenteleskops direkt auf die Sonne zeigt, wobei es pro Sekunde N Photonen empfängt, wie groß ist die Energie E eines einzelnen Photons? Gegeben sind die Objektivfläche des Teleskops S, der Abstand des Satelliten zum Sonnenmittelpunkt R, die Planck-Konstante h und die Lichtgeschwindigkeit c.",
+        "target": "$\\frac{hc}{\\lambda}$"
+    },
+    {
+        "input": "Ein Beobachtungssatellit, der die Sonne beobachtet, kann harte Röntgenstrahlen des Sonnenstrahls detektieren. Harte Röntgenstrahlen sind Photonen mit sehr kurzer Wellenlänge λ. Wenn die Sonne gleichmäßig in alle Richtungen harte Röntgenstrahlen abstrahlt und der Satelliten-Teleskop-Objektiv direkt auf die Sonne zeigt, wobei es pro Sekunde N Photonen empfängt, wie groß ist die Gesamtleistung P der von der Sonne abgestrahlten harten Röntgenstrahlen? Gegeben sind die Objektivfläche des Teleskops S, der Abstand des Satelliten zum Sonnenmittelpunkt R, die Planck-Konstante h und die Lichtgeschwindigkeit c.",
+        "target": "$\\frac{4\\pi NhcR^2}{S\\lambda}$"
+    },
+    {
+        "input": "Im Inneren der Sonne finden ständig leichte Kernfusionsreaktionen statt, bei denen Energie nach außen abgestrahlt wird. Die gesamte abgestrahlte Leistung beträgt $P=3,75 \\times 10^{26} \\, \\text{W}$. Die Lichtstrahlung braucht $t=500\\, \\text{s}$, um die Erde zu erreichen. Der Erdradius beträgt $R_0=6,4 \\times 10^6 \\, \\text{m}$. Wie groß ist die von der Erde empfangene Sonnenenergieleistung P_0? Gegeben ist die Lichtgeschwindigkeit im Vakuum $c=3 \\times 10^8 \\, \\text{m/s}$.",
+        "target": "$\\approx 1,71 \\times 10^{17} \\, \\text{W}$"
+    },
+    {
+        "input": "Ein Gleichstrommotor mit einer Nennstromstärke von 4 A hat einen Drahtwiderstand von 1 Ω. Wenn der Motor bei normalem Betrieb eine mechanische Leistung von 6 W abgibt, wie groß ist dann die elektrische Leistung, die der Motor bei normalem Betrieb verbraucht?",
+        "target": "$22\\, \\text{W}$"
+    },
+    {
+        "input": "In der mikroskopischen Welt gelten die Gesetze der Impuls- und Energieerhaltung allgemein. Extreme ultraviolette Strahlung ist die Lichtquelle, die in Lithografiemaschinen zur Herstellung fortschrittlicher Chips verwendet wird. Ihre Wellenlänge $\\lambda$ liegt zwischen $121\\, \\text{nm}$ und $10, \\text{nm}$. Gegeben seien die Masse des Elektrons $m = 9,0 \\times 10^{-31}\\, \\text{kg}$, die Planck-Konstante $h = 6,6 \\times 10^{-34}, \\text{J}\\cdot\\text{s}$ und die Lichtgeschwindigkeit im Vakuum $c = 3 \\times 10^8, \\text{m/s}$. Wenn EUV-Strahlung mit einer Wellenlänge von $10, \\text{nm}$ auf eine Zinkplatte trifft, deren Grenzwellenlänge für den photoelektrischen Effekt $3,7 \\times 10^{-7}, \\text{m}$ beträgt, wie groß ist dann die maximale Anfangsenergie E_k des emittierten Photoelektrons? (Das Ergebnis soll auf eine signifikante Ziffer gerundet werden.)",
+        "target": "$2 \\times 10^{-17}\\, \\text{J}$"
+    },
+    {
+        "input": "Ein Widerstand in einem Stromkreis verbraucht eine Leistung von $220\\, \\text{W}$. Wenn eine elektrische Ladung von $3\\, \\text{C}$ durch den Widerstand fließt, wird eine Energie von $330\\, \\text{J}$ in innere Energie umgewandelt. Wie groß ist der Widerstand in Ω?",
+        "target": "$55\\, \\Omega$"
+    },
+    {
+        "input": "Auf dem Dach eines Wohngebäudes sind 12 Solarmodule installiert, die Sonnenenergie sammeln und elektrische Energie erzeugen. Die Gesamtleistung der Module beträgt $2,8\\, \\text{kW}$ bei einer Arbeitsspannung von $350\\, \\text{V}$. Wie groß ist der Gesamtstrom dieses Solarkraftwerks?",
+        "target": "$8\\, \\text{A}$"
+    },
+    {
+        "input": "Draht A hat eine Länge von L und einen Durchmesser von d. Draht B aus dem gleichen Material hat eine Länge von 3L und einen Durchmesser von 3d. Die Spannung an den Enden von A beträgt U, und die Spannung an den Enden von B beträgt 3U. Wie lautet das Verhältnis der Ströme in Draht A und B?",
+        "target": "I_A:I_B=1:9"
+    },
+    {
+        "input": "Ein Mars-Rover hat eine Masse von $240,\\text{kg}$. Der Mars hat etwa die Hälfte des Erdradius und etwa 1/9 der Erdmasse. Wie groß ist die Schwerebeschleunigung auf der Marsoberfläche im Vergleich zur Erdoberfläche?",
+        "target": "$\\frac{4}{9}$"
+    },
+    {
+        "input": "Ein Objekt mit einer Masse von $10\\, \\text{kg}$ bewegt sich auf einem Kreis mit einem Radius von $2\\, \\text{m}$ mit einer konstanten Geschwindigkeit von $2\\, \\text{m/s}$. Wie groß ist die erforderliche Zentripetalkraft?",
+        "target": "$20\\, \\text{N}$"
+    },
+    {
+        "input": "York nimmt an einem Hochsprungwettbewerb teil. Die Richtung der Absprunggeschwindigkeit ist vertikal nach oben. Vernachlässigen wir den Luftwiderstand, beträgt seine Sprunghöhe $1,50\\, \\text{m}$. Wenn York mit derselben Anfangsgeschwindigkeit auf dem Mond springt, wobei der Mondradius etwa 1/4 des Erdradius beträgt und die Mondmasse etwa 1/81 der Erdmasse beträgt, wird seine maximale Sprunghöhe 10 m überschreiten? ($g=10\\, \\text{m/s}^2$)",
+        "target": "Nein"
+    },
+    {
+        "input": "Eine Taschenlampe hat eine Spannung von $6\\, \\text{V}$. Wenn der Widerstand der Glühbirne $10\\, \\Omega$ beträgt, wie groß ist der Strom durch die Wendel, wenn die Glühbirne normal leuchtet?",
+        "target": "$0,6\\, \\text{A}$"
+    },
+    {
+        "input": "Eine Glühbirne hat eine Nennleistung von $50\\, \\text{W}$ und eine Nennspannung von $50\\, \\text{V}$. Wenn diese Glühbirne an eine Stromquelle mit einer Ausgangsspannung von $25\\, \\text{V}$ angeschlossen wird, wie viel elektrische Leistung verbraucht die Glühbirne dann?",
+        "target": "$12,5\\, \\text{W}$"
+    },
+    {
+        "input": "Zwei völlig identische blanke Metallleiter A und B: Wenn Draht A gleichmäßig auf das Vierfache seiner ursprünglichen Länge gedehnt wird und Draht B in der Mitte gefaltet und die Hälften miteinander verbunden werden, und dann an beiden Drähten dieselbe Spannung angelegt wird, wie groß ist das Verhältnis der durch die Querschnitte der Drähte fließenden elektrischen Ladung q_A:q_B nach gleicher Zeit?",
+        "target": "1:64"
+    },
+    {
+        "input": "Zwei identische Metallkugeln (die jeweils als Punktladungen betrachtet werden können) tragen ursprünglich die Ladungen +6q und -2q, und die Coulomb-Kraft zwischen ihnen beträgt F. Wenn die beiden Kugeln nun miteinander in Kontakt kommen und anschließend wieder an ihre ursprünglichen Positionen zurückgelegt werden, wie groß ist dann die Coulomb-Kraft zwischen den beiden Metallkugeln nach der Berührung?",
+        "target": "$\\frac{1}{3}F$"
+    },
+    {
+        "input": "Ein elektrisches Gerät befindet sich L Meter von einer Stromquelle entfernt. Durch die Leitung fließt ein Strom I, und der spezifische Widerstand der Leitung beträgt ρ. Wie groß muss die Querschnittsfläche der Leitung mindestens sein, damit der Spannungsabfall darauf den Wert U nicht überschreitet?",
+        "target": "$\\frac{2\\rho LI}{U}$"
+    },
+    {
+        "input": "Ein Draht mit gleichmäßigem Durchmesser und Widerstand wird an seinen Enden mit einer Spannung von $4\\, \\text{V}$ versorgt, wodurch ein Strom von $8\\, \\text{A}$fließt. Wenn der Draht gleichmäßig gedehnt wird und anschließend erneut $4\\, \\text{V}$ angelegt werden, fließt ein Strom von $0,5\\, \\text{A}$. Auf das Wievielfache seiner ursprünglichen Länge wurde der Draht gedehnt?",
+        "target": "4-fach"
+    },
+    {
+        "input": "Ein gleichmäßiger Draht mit Widerstand R, Länge L und Querschnittsfläche S wird bei konstanter Temperatur betrachtet. Wenn die Länge L konstant bleibt und die Querschnittsfläche S auf das Doppelte (2S) vergrößert wird, wie verändert sich der Widerstand im Vergleich zum ursprünglichen Wert?",
+        "target": "$\\frac{1}{2}R$"
+    },
+    {
+        "input": "Ein gleichmäßiger Nichromdraht mit einem Durchmesser d hat einen Widerstand R. Wenn er zu einem gleichmäßigen Draht mit einem Durchmesser von d/5 gezogen wird, wie vielmal ist der Widerstand im Vergleich zum ursprünglichen?",
+        "target": "625-mal"
+    },
+    {
+        "input": "In den trockenen Wintermonaten kann ein Auto durch Reibung mit der Luft positiv aufgeladen werden. Wenn eine Person die Autotür anfasst, kommt es zu einem Stromschlag. In diesem Fall, wenn positive Ladung von der Hand auf die Autotür fließt, in welche Richtung fließt der Strom?",
+        "target": "von der Hand zur Autotür"
+    },
+    {
+        "input": "Eine Lampe mit Nennspannung U und Nennleistung P wird an eine Spannung U' (U'<U) angeschlossen, wobei der Temperatureffekt auf den Widerstand vernachlässigt wird. Welche tatsächliche Leistung P' liefert die Lampe in diesem Fall?",
+        "target": "$\\left(\\frac{U'}{U}\\right)^2 \\cdot P$"
+    },
+    {
+        "input": "Wird eine Glühbirne direkt an eine konstante Spannung U angeschlossen, beträgt ihre Leistung $100\\, \\text{W}$. Wenn sie jedoch über sehr lange Leitungen angeschlossen wird und ihre Leistung auf $81\\, \\text{W}$sinkt, wie groß ist dann der Leistungsverlust in den Leitungen?",
+        "target": "$9\\, \\text{W}$"
+    },
+    {
+        "input": "Bei der Stromübertragung mit $600\\, \\text{V}$ und $200\\, \\text{V}$, wobei die übertragenen Leistungen gleich sind und die Länge, der Durchmesser und der spezifische Widerstand der Leitungen identisch sind, um welchen Faktor ist der Leistungsverlust bei der Übertragung mit niedriger Spannung im Vergleich zur Übertragung mit hoher Spannung größer?",
+        "target": "9-mal"
+    },
+    {
+        "input": "Ein Widerstandsdraht wird an eine konstante Spannungsquelle angeschlossen. Die Leistung, die durch den Strom verrichtet wird, beträgt p. Wenn dieser Draht gleichmäßig auf das Doppelte seiner ursprünglichen Länge gedehnt wird und wieder an dieselbe Quelle angeschlossen wird, welchem Bruchteil der ursprünglichen Leistung entspricht dann die neue Leistung?",
+        "target": "$\\frac{1}{4}P$"
+    },
+    {
+        "input": "Ein Draht mit einer Länge von $2\\, \\text{m}$ wird senkrecht in ein homogenes Magnetfeld mit einer magnetischen Flussdichte von $0,2\\, \\text{T}$ gelegt. Wenn der Strom durch den Draht $5\\, \\text{A}$ beträgt, wie groß ist dann die Amperekraft, die auf den Draht wirkt?",
+        "target": "$2\\, \\text{N}$"
+    },
+    {
+        "input": "Ein Draht mit einer Länge von $2\\, \\text{m}$ wird senkrecht in ein homogenes Magnetfeld mit einer magnetischen Flussdichte von $0,2\\, \\text{T}$ gelegt. Wenn der Draht parallel zum Magnetfeld ausgerichtet wird und die anderen Bedingungen unverändert bleiben, wie groß ist dann die Amperekraft, die auf den Draht wirkt?",
+        "target": "$0\\, \\text{N}$"
+    },
+    {
+        "input": "Ein $2\\, \\text{m}$ langer Draht befindet sich in einem homogenen Magnetfeld mit einer magnetischen Flussdichte von $2\\, \\text{T}$. Wenn der Strom durch den Draht $10\\, \\text{A}$ beträgt und der Draht einen Winkel von $30^\\circ$ zum Magnetfeld bildet, wie groß ist dann die auf den Draht wirkende Ampèrekraft?",
+        "target": "$20\\, \\text{N}$"
+    },
+    {
+        "input": "Zwei Lampen werden nacheinander mit einem Voltmeter gemessen, wobei an beiden Lampen eine Spannung von $20\\, \\text{V}$ anliegt. Welche Anschlussart haben diese beiden Lampen?",
+        "target": "Parallel"
+    },
+    {
+        "input": "Drei Widerstände haben das Widerstandsverhältnis R1:R2:R3=1:2:3. Wenn sie parallel geschaltet und in einen Stromkreis integriert werden, wie groß ist das Verhältnis der Ströme durch die drei Widerstandszweige?",
+        "target": "I_1:I_2:I_3=6:3:2"
+    },
+    {
+        "input": "Ein Amperemeter hat einen Messbereich von $6\\, \\text{A}$ und einen Innenwiderstand R_1. Ein Widerstand mit demselben Wert R_1 wird parallel zum Amperemeter geschaltet. Diese Kombination wird anschließend mit einem Widerstand R von $10\\, \\Omega$ in Reihe geschaltet. Wenn das Amperemeter einen Strom von $4\\, \\text{A}$ anzeigt, wie groß ist dann die am Widerstand R abfallende Leistung?",
+        "target": "$640\\, \\text{W}$"
+    },
+    {
+        "input": "Ein Elektromotor hat eine Nennspannung von $220\\, \\text{V}$ und einen Widerstand von $2\\, \\Omega$. Bei normalem Betrieb fließt ein Strom von $10\\, \\text{A}$. Wie viel Wärmeenergie wird vom Elektromotor pro Minute erzeugt?",
+        "target": "$12000\\, \\text{J}$"
+    },
+    {
+        "input": "Ein Elektromotor hat eine Nennspannung von $220\\, \\text{V}$ und einen Widerstand von $2\\, \\Omega$. Bei normalem Betrieb fließt ein Strom von $10\\, \\text{A}$. Wie viel mechanische Arbeit wird vom Elektromotor pro Minute verrichtet?",
+        "target": "$120000\\, \\text{J}$"
+    },
+    {
+        "input": "Ein dünner Bleidraht mit einem Durchmesser von $0,3\\, \\text{cm}$ schmilzt und bricht, wenn ein Strom von $18\\, \\text{A}$ hindurchfließt. Ein dicker Bleidraht mit einem Durchmesser von $0,6\\, \\text{cm}$ schmilzt und bricht bei einem Strom von $50\\, \\text{A}$. Wenn 20 dünne Bleidrähte und ein dicker Bleidraht, jeweils mit gleicher Länge, als Sicherung parallel geschaltet werden, bei welchem Strom wird der Stromkreis unterbrochen?",
+        "target": "$300\\, \\text{A}$"
+    },
+    {
+        "input": "Ein Strommesser hat einen Innenwiderstand von $R_g=10\\, \\Omega$ und einen vollen Ausschlagstrom von $I_g=3\\, \\text{A}$. Um ihn in ein Amperemeter mit einem Messbereich von $0 \\sim 6, \\text {A}$ umzubauen, welcher parallele Widerstand muss hinzugefügt werden?",
+        "target": "$10\\, \\Omega$"
+    },
+    {
+        "input": "Ein Strommesser hat einen Innenwiderstand von $R_g=10\\, \\Omega$ und einen vollen Ausschlagstrom von $I_g=3\\, \\text{A}$. Um ihn in ein Amperemeter mit einem Messbereich von $0 \\sim 6, \\text {A}$ umzubauen, welchen Innenwiderstand hat der umgebaute Strommesser?",
+        "target": "$5\\, \\Omega$"
+    },
+    {
+        "input": "Ein Strommesser hat einen Innenwiderstand von $R_g=200\\, \\Omega$ und einen vollen Ausschlagstrom von $I_g=500, \\mu\\text {A}$.  Wenn dieses Amperemeter in ein Voltmeter mit einem Messbereich von $1, \\text{V}$ umgebaut werden soll, welcher Widerstand muss in Serie geschaltet werden?",
+        "target": "$1800\\, \\Omega$"
+    },
+    {
+        "input": "Ein Batteriemodul mit einer elektromotorischen Kraft von $3\\, \\text{V}$ und nicht vernachlässigbarem Innenwiderstand ist an einen Widerstand R angeschlossen. Ist die auf R entstehende Wärme bei einem Durchfluss von $1\\, \\text{C}$ Ladung gleich $3\\, \\text{J}$?",
+        "target": "Nein"
+    },
+    {
+        "input": "Ein Solarzellenmodul hat eine Leerlaufspannung von $1000\\, \\text{V}$ und einen Kurzschlussstrom von $40\\, \\text{A}$. Wenn dieses Modul mit einem Widerstand von $25\\, \\Omega$ in einem geschlossenen Stromkreis verbunden wird, wie groß ist die Spannung an den Klemmen des Widerstands?",
+        "target": "$500\\, \\text{V}$"
+    },
+    {
+        "input": "Ein Ohmmeter hat einen vollen Ausschlagstrom von $5\\, \\text{mA}$ und ist mit einer Batterie von $1,5\\, \\text{V}$ verbunden. Wenn der Messwiderstand zwischen den roten und schwarzen Prüfspitzen angeschlossen wird und der Zeiger auf 3/4 des vollen Ausschlags dreht, wie groß ist der Messwiderstand?",
+        "target": "$100\\, \\Omega$"
+    },
+    {
+        "input": "Eine Glühbirne ist an drei in Reihe geschaltete Bleiakkumulatoren angeschlossen und leuchtet normal. Wenn nun zwei gleiche Glühbirnen in Reihe geschaltet werden und ebenfalls an dieselben Akkumulatoren angeschlossen werden, wie wird sich die Helligkeit der beiden Glühbirnen ändern?",
+        "target": "Sie werden dunkler"
+    },
+    {
+        "input": "Ein Schüler möchte den Messbereich eines Voltmeters auf $0 \\sim 3\\, \\text{V}$ einstellen, verwendet jedoch versehentlich den Bereich $0 \\sim 15\\, \\text{V}$ für die Messung. Wird der Zeiger des Voltmeters beim Messen der Spannung einen größeren Ausschlagswinkel erreichen?",
+        "target": "Nein, er sollte kleiner werden"
+    },
+    {
+        "input": "Es gibt vier Drähte, genannt A, B, C und D. Die Drähte A, B und C sind Kupferdrähte, und D ist ein Nickel-Chrom-Draht. A und B haben denselben Querschnitt, wobei A kürzer ist als B; B und C sind gleich lang, wobei B dicker ist als C; C und D sind in Länge und Querschnitt gleich. Wie lautet die Reihenfolge der Widerstände der vier Drähte, von klein nach groß?(Verwenden Sie die Symbole \">\" oder \"<\" oder \"=\" zwischen $R_{\\text{A}}$, $R_{\\text{B}}$, $R_{\\text{C}}$, $R_{\\text{D}}$)",
+        "target": "$R_{\\text{A}} < R_{\\text{B}} < R_{\\text{C}} < R_{\\text{D}}$"
+    }
+]

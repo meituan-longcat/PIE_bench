@@ -1,0 +1,738 @@
+[
+    {
+        "input": "„Bauausführung der Brücke, Entwurf der Brücke, Freigabe der Brücke zur Nutzung, Vorbereitung der Materialien und Durchführung von Qualitätskontrollen“ sind die fünf Schritte für den erfolgreichen Bau einer Brücke. Bitte geben Sie die richtige Reihenfolge an, die der Realität entspricht.",
+        "target": "Entwurf der Brücke -> Vorbereitung der Materialien -> Bauausführung der Brücke -> Durchführung von Qualitätskontrollen -> Freigabe der Brücke zur Nutzung"
+    },
+    {
+        "input": "„Missionsplanung, Komplexe Prüfung und Abnahmeprüfung, Herstellung des Raumfahrzeugs, Start in den Weltraum, Durchführung der Mission, Rückkehr zur Erde\" sind die von mir zusammengefassten Teile einer Weltraummission. Überprüfen Sie ausschließlich auf Basis meiner Zusammenfassung, ob die obige Reihenfolge korrekt ist.",
+        "target": "Es ist nicht richtig. Die richtige Reihenfolge lautet: Missionsplanung -> Herstellung des Raumfahrzeugs -> Komplexe Prüfung und Abnahmeprüfung -> Start in den Weltraum -> Durchführung der Mission -> Rückkehr zur Erde"
+    },
+    {
+        "input": "Um eine Software erfolgreich zu entwickeln, müssen in der Regel die folgenden Arbeiten erledigt werden: „Codeschreiben, Anforderungsanalyse, Softwareveröffentlichung, Softwaredesign, Softwaretest\". Bitte geben Sie mir die richtige Reihenfolge basierend auf dem gesunden Menschenverstand an.",
+        "target": "Anforderungsanalyse -> Softwaredesign -> Codeschreiben -> Softwaretest -> Softwareveröffentlichung"
+    },
+    {
+        "input": "Um ein erfolgreiches wissenschaftliches Experiment durchzuführen, sind neben der Datenerhebung in der Regel folgende Schritte erforderlich: \"Experimentdesign, Hypothesenstellung, Schlussfolgerung, Datenanalyse\". Bitte geben Sie mir die richtige Reihenfolge basierend auf der Realität an.",
+        "target": "Hypothesenstellung -> Experimentdesign -> Datenerhebung -> Datenanalyse -> Schlussfolgerung"
+    },
+    {
+        "input": "Ich habe die für eine Sportaktivität erforderlichen Phasen zusammengefasst: \"Sport treiben, Trainingsplan aufstellen, Sportausrüstung anziehen, sich aufwärmen, Dehnen, um die Milchsäureanhäufung zu verringern\". Bitte geben Sie die richtige Reihenfolge nach gesundem Menschenverstand an.",
+        "target": "Trainingsplan aufstellen -> Sportausrüstung anziehen -> sich aufwärmen -> Sport treiben -> Dehnen, um die Milchsäureanhäufung zu verringern"
+    },
+    {
+        "input": "\"Dienstanbieter auswählen, Registrierungsinformationen eingeben, Registrierung verifizieren und abschließen, Passwort festlegen, Die Website aufrufen\". Bitte geben Sie gemäß den obigen zusammengefassten Inhalten die Schritte an, die erforderlich sind, um ein E-Mail-Konto zu registrieren, in der richtigen Reihenfolge.",
+        "target": "Dienstanbieter auswählen -> Die Website aufrufen -> Registrierungsinformationen eingeben -> Passwort festlegen -> Registrierung verifizieren und abschließen"
+    },
+    {
+        "input": "Wenn man mit einem Smartphone zahlt, gibt es normalerweise folgende Schritte: \"Zahlungsbetrag eingeben, vom Händler bereitgestellten QR-Code scannen, Zahlung bestätigen, die Zahlungs-App öffnen\". Bitte ordnen Sie diese Schritte in der richtigen Reihenfolge neu an.",
+        "target": "die Zahlungs-App öffnen -> vom Händler bereitgestellten QR-Code scannen -> Zahlungsbetrag eingeben -> Zahlung bestätigen"
+    },
+    {
+        "input": "Ich habe die Schritte zusammengefasst, die für das Zusammenbauen von Möbeln erforderlich sind. Normalerweise umfassen sie: \"Die Montageanleitung lesen, die Möbelteile zusammenbauen, die Vollständigkeit aller Werkzeuge und Zubehörteile prüfen, mit Schrauben befestigen.\" Bitte geben Sie die richtige Reihenfolge nach gesundem Menschenverstand an.",
+        "target": "Die Montageanleitung lesen -> die Vollständigkeit aller Werkzeuge und Zubehörteile prüfen -> die Möbelteile zusammenbauen -> mit Schrauben befestigen"
+    },
+    {
+        "input": "Um einen Mikrowellenherd zu benutzen, gibt es normalerweise folgende Schritte: „Heizzeit und Leistung einstellen, den Mikrowellenherd öffnen und die Speisen einlegen, den Heizvorgang starten, die Tür des Mikrowellenherds schließen\", bitte ordnen Sie sie in der richtigen Reihenfolge an.",
+        "target": "den Mikrowellenherd öffnen und die Speisen einlegen -> die Tür des Mikrowellenherds schließen -> Heizzeit und Leistung einstellen -> den Heizvorgang starten"
+    },
+    {
+        "input": "Wie fügt man in Word Seitenzahlen ein? Bitte ordnen Sie die von mir gegebenen Schritte neu an und geben Sie den richtigen Vorgehensablauf an: a. Wählen Sie im Drop-Down-Menü das gewünschte Seitenzahlformat. b. Wählen Sie dann \"Seitenzahl\". c. Klicken Sie auf \"Einfügen\" in der Menüleiste.",
+        "target": "c -> b -> a"
+    },
+    {
+        "input": "Die Erstellung eines einfachen Modells für maschinelles Lernen in Python würde folgende Schritte umfassen: \"Ein Modell wie die lineare Regression auswählen, das Modell mit Ihren Daten trainieren, Ihre Daten laden und vorverarbeiten, notwendige Bibliotheken wie numpy, pandas und sklearn importieren, das Modell zur Vorhersage verwenden\". Bitte ordnen Sie diese Schritte in der richtigen Reihenfolge neu an.",
+        "target": "Notwendige Bibliotheken wie numpy, pandas und sklearn importieren -> Ihre Daten laden und vorverarbeiten -> Ein Modell wie die lineare Regression auswählen -> das Modell mit Ihren Daten trainieren -> das Modell zur Vorhersage verwenden"
+    },
+    {
+        "input": "Wenn Sie in Adobe Illustrator 3D-Effekte erstellen möchten, müssen in der Regel folgende Schritte durchgeführt werden: Klicken Sie auf die Option \"Effekt\" in der Menüleiste und wählen Sie \"3D\", legen Sie in dem sich öffnenden Dialogfeld die Parameter für den 3D-Effekt fest, wählen Sie \"Drehen\" oder \"Extrudieren\", erstellen Sie ein Objekt, auf das Sie den 3D-Effekt anwenden möchten. Bitte ordnen Sie diese Schritte gemäß dem richtigen Prozess an.",
+        "target": "Erstellen Sie ein Objekt, auf das Sie den 3D-Effekt anwenden möchten -> Klicken Sie auf die Option \"Effekt\" in der Menüleiste und wählen Sie \"3D\" -> Wählen Sie \"Drehen\" oder \"Extrudieren\" -> Legen Sie in dem sich öffnenden Dialogfeld die Parameter für den 3D-Effekt fest"
+    },
+    {
+        "input": "Bitte geben Sie die richtigen Schritte für das Erstellen einer Datenbank in MySQL an. Normalerweise sind bei der Erstellung einer Datenbank folgende Schritte involviert: \"Den MySQL-Befehlszeilenclient öffnen, \"USE Datenbankname\" eingeben und dann die Eingabetaste drücken, \"CREATE DATABASE Datenbankname\" eingeben und dann die Eingabetaste drücken\". Bitte antworten Sie basierend auf den von mir angegebenen Inhalten.",
+        "target": "Den MySQL-Befehlszeilenclient öffnen -> \"CREATE DATABASE Datenbankname\" eingeben und dann die Eingabetaste drücken -> \"USE Datenbankname\" eingeben und dann die Eingabetaste drücken"
+    },
+    {
+        "input": "Wenn Sie in After Effects eine dynamische Grafikanimation erstellen möchten, müssen Sie die folgenden Schritte ausführen: Das \"Pfad\"-Attribut der Form öffnen und einen Keyframe hinzufügen, eine neue Komposition erstellen, mit dem Formwerkzeug eine Form erstellen, After Effects erstellt automatisch eine Animation, den Zeitleistenzeiger verschieben und dann den Pfad der Form ändern. Bitte geben Sie die richtige Reihenfolge dieser Schritte an.",
+        "target": "Eine neue Komposition erstellen -> Mit dem Formwerkzeug eine Form erstellen -> Das \"Pfad\"-Attribut der Form öffnen und einen Keyframe hinzufügen -> Den Zeitleistenzeiger verschieben und dann den Pfad der Form ändern -> After Effects erstellt automatisch eine Animation"
+    },
+    {
+        "input": "Der Prozess der Webseitenentwicklung umfasst mehrere Schritte, wie z. B. Benutzeroberfläche entwerfen, HTML schreiben, CSS hinzufügen, die Webseite online stellen. Bitte ordnen Sie diese Schritte in der richtigen Reihenfolge an.",
+        "target": "Benutzeroberfläche entwerfen -> HTML schreiben -> CSS hinzufügen -> die Webseite online stellen"
+    },
+    {
+        "input": "Schreiben Sie die richtigen Schritte eines vollständigen Wasserkreislaufs auf. Die folgenden sind die Glieder des Prozesses: „Infiltration, Abfluss, Verdunstung, Kondensation, Niederschlag\". Bringen Sie sie in die richtige Reihenfolge, beginnend mit „Verdunstung\".",
+        "target": "Verdunstung -> Kondensation -> Niederschlag -> Infiltration -> Abfluss"
+    },
+    {
+        "input": "Ich interessiere mich in letzter Zeit besonders für die Photosynthese in der Natur und möchte einen vollständigen Photosyntheseprozess verstehen. Hier sind einige Schritte: „Kohlendioxidreduktion, Lichtenergie absorbieren, organische Stoffe synthetisieren, Wasserspaltung\". Können Sie mir helfen, sie in der richtigen Reihenfolge des Photosyntheseprozesses anzuordnen?",
+        "target": "Lichtenergie absorbieren -> Wasserspaltung -> Kohlendioxidreduktion -> organische Stoffe synthetisieren"
+    },
+    {
+        "input": "„Ausscheidung, Kauen, Schlucken, Magenverdauung, Absorption im Dünndarm, Absorption im Dickdarm\". Können Sie mir anhand der obigen dargestellten Verdauungsprozesse sagen, wie die vollständige Verdauungsreihenfolge einer Nahrung ist?",
+        "target": "Kauen -> Schlucken -> Magenverdauung -> Absorption im Dünndarm -> Absorption im Dickdarm -> Ausscheidung"
+    },
+    {
+        "input": "„Materialien vorbereiten, zum Kochen bringen, Zucker und Wasser mischen, in eine Form füllen\". Können Sie anhand der obigen Informationen die richtigen Schritte für die Herstellung von Süßigkeiten geben?",
+        "target": "Materialien vorbereiten -> Zucker und Wasser mischen -> zum Kochen bringen -> in eine Form füllen"
+    },
+    {
+        "input": "Ich habe den Herstellungsprozess von Sofas online gefunden: „Rahmen herstellen, Holz schneiden, mit Schaumstoff polstern, Bezug nähen\". Bitte ordnen Sie diese Schritte in der richtigen Reihenfolge an.",
+        "target": "Holz schneiden -> Rahmen herstellen -> mit Schaumstoff polstern -> Bezug nähen"
+    },
+    {
+        "input": "Ich bringe jemandem bei, der überhaupt keine Alltagserfahrung hat, wie man einen Morgenlauf macht.  Folgende sind einige Schritte: „das Haupttraining durchführen, Sportausrüstung anziehen, Aufwärmübungen machen, Dehnen\". Bitte ordnen Sie diese Schritte nach dem richtigen Ablauf neu an.",
+        "target": "Sportausrüstung anziehen -> Aufwärmübungen machen -> das Haupttraining durchführen -> Dehnen"
+    },
+    {
+        "input": "Um einem Menschen, der überhaupt keine Alltagserfahrung hat, das Aufräumen eines Bücherregals beizubringen, wie würden Sie folgende Schritte anordnen: „Bücher zurückstellen, Bücher sortieren, Bücherregal leeren, Bücherregal wischen\"? Bitte geben Sie die richtige Reihenfolge an.",
+        "target": "Bücherregal leeren -> Bücherregal wischen -> Bücher sortieren -> Bücher zurückstellen"
+    },
+    {
+        "input": "Das Vorbereiten des Abendessens umfasst normalerweise folgende Schritte: Lebensmittel kochen, Abendessen genießen, Zutaten vorbereiten, Essen servieren. Bitte geben Sie die richtige Reihenfolge gemäß der Realität an.",
+        "target": "Zutaten vorbereiten -> Lebensmittel kochen -> Essen servieren -> Abendessen genießen"
+    },
+    {
+        "input": "Ich möchte die richtigen Schritte zum Zusammenführen von PDF-Dateien in Adobe Acrobat kennenlernen. Es sind folgende Aktionen gegeben: Fügen Sie in dem sich öffnenden Dialogfeld die Dateien hinzu, die Sie zusammenführen möchten, wählen Sie „Dateien zusammenführen\" aus, klicken Sie auf „Werkzeuge\" in der Menüleiste und klicken Sie auf „Zusammenführen\". Bitte ordnen Sie diese Schritte in der richtigen Reihenfolge an.",
+        "target": "Klicken Sie auf „Werkzeuge\" in der Menüleiste -> Wählen Sie „Dateien zusammenführen\" aus -> Fügen Sie in dem sich öffnenden Dialogfeld die Dateien hinzu, die Sie zusammenführen möchten -> Klicken Sie auf „Zusammenführen\""
+    },
+    {
+        "input": "Die Schritte für das Einstellen des Zeilenabstands in Word 2003 sind normalerweise folgende: „Den Zeilenabstand im Dialogfenster einstellen, „Absatz\" auswählen, auf „Format\" in der Menüleiste klicken\". Bitte ordnen Sie diese Schritte in der richtigen Reihenfolge neu an.",
+        "target": "Auf „Format“ in der Menüleiste klicken -> „Absatz“ auswählen -> Den Zeilenabstand im Dialogfenster einstellen"
+    },
+    {
+        "input": "Ich möchte wissen, wie man einen Salat macht, sind die folgenden Schritte in der richtigen Reihenfolge?“Gemüse und Obst in eine Schüssel geben, Gemüse und Obst schneiden, mit Dressing beträufeln, Gemüse und Obst waschen“",
+        "target": "Nein, die richtige Reihenfolge ist: Gemüse und Obst waschen -> Gemüse und Obst schneiden -> Gemüse und Obst in eine Schüssel geben -> mit Dressing beträufeln"
+    },
+    {
+        "input": "Wenn Sie jemandem, der keinerlei Erfahrung in der Kaffeezubereitung hat, beibringen wollen, wie man Kaffee aus Kaffeebohnen zubereitet, wie würden Sie die folgenden Schritte organisieren: „Kaffeebohnen mahlen, gemahlenen Kaffee einfüllen, Kaffeemühle vorbereiten, entsprechende Menge heißes Wasser einfüllen“? Bitte geben Sie die richtige Reihenfolge an.",
+        "target": "Kaffeemühle vorbereiten -> Kaffeebohnen mahlen -> gemahlenen Kaffee einfüllen -> entsprechende Menge heißes Wasser einfüllen"
+    },
+    {
+        "input": "Ich möchte vor Weihnachten einen Schal stricken, um ihn einem Freund zu schenken. Bitte ordnen Sie die folgenden Schritte gemäß dem richtigen Arbeitsablauf: „Passende Wolle vorbereiten; nach dem Entwurf weiter stricken; Länge, Breite und Muster bestimmen; Maschen anschlagen; das Ende vernähen; abketten\".",
+        "target": "Länge, Breite und Muster bestimmen -> Passende Wolle vorbereiten -> Maschen anschlagen -> nach dem Entwurf weiter stricken -> abketten -> das Ende vernähen"
+    },
+    {
+        "input": "Meine ganze Familie möchte vor Weihnachten im Ausland reisen. Ein Auslandsurlaub umfasst mehrere Vorbereitungsarbeiten: „Zielort und Reisezeit bestimmen, Gepäck vorbereiten, Flugtickets und Hotels buchen, die Gültigkeit des Reisepasses und der Visa bestätigen\". Bitte ordnen Sie diese Schritte in der richtigen Reihenfolge an.",
+        "target": "Zielort und Reisezeit bestimmen -> die Gültigkeit des Reisepasses und der Visa bestätigen -> Flugtickets und Hotels buchen -> Gepäck vorbereiten"
+    },
+    {
+        "input": "Sie sollen jemanden, der gar keine musikalische Grundlage hat, lehren, wie man vor Weihnachten ein Lied lernt. Bitte geben Sie die richtige Reihenfolge der Schritte an. Folgende sind einige Schritte: „Liedtext und Hintergrundmusik herunterladen, mit der Hintergrundmusik üben, ein Lied auswählen, Zeile für Zeile üben\".",
+        "target": "Ein Lied auswählen -> Liedtext und Hintergrundmusik herunterladen -> Zeile für Zeile üben -> mit der Hintergrundmusik üben"
+    },
+    {
+        "input": "Bitte ordnen Sie die folgenden Schritte neu gemäß dem Ablauf des Kaufs von Kinokarten im alltäglichen Leben: \"Das Mobiltelefon entsperren, den Film auswählen, die Kino-App öffnen, die Vorstellungszeiten prüfen\".",
+        "target": "Das Mobiltelefon entsperren -> die Kino-App öffnen -> den Film auswählen -> die Vorstellungszeiten prüfen\n3. 修订后的德文译文：\nIch habe gerade angefangen, Kalligraphie zu lernen, und hier sind einige Lernschritte, die ich mir ausgedacht habe: „Nachahmung berühmter Kalligraphie-Vorlagen; Auswahl von Kalligraphie-Werkzeugen; Vorbereitung von Tinte und Papier; Erlernen von Pinselstrichen; Erlernen grundlegender Strukturen; Erstellen von Kalligraphie-Werken\". Können Sie mir helfen, die Prioritäten zu planen?\nAuswahl von Kalligraphie-Werkzeugen -> Vorbereitung von Tinte und Papier -> Erlernen von Pinselstrichen -> Erlernen grundlegender Strukturen -> Nachahmung berühmter Kalligraphie-Vorlagen -> Erstellen von Kalligraphie-Werken\n4. 修订后的德文译文：\nDie Zubereitung von Instantkaffee erfolgt in der Regel in folgenden Schritten: „Kaffeepulver in die Tasse geben, heißes Wasser hinzufügen, gut umrühren, die richtige Menge Zucker und Kaffeeweißer hinzufügen und erneut umrühren, Wasser aufkochen\". Bitte ordnen Sie die Schritte in der korrekten Reihenfolge an.\nWasser aufkochen -> Kaffeepulver in die Tasse geben -> heißes Wasser hinzufügen -> gut umrühren -> die richtige Menge Zucker und Kaffeeweißer hinzufügen und erneut umrühren\n5. 修订后的德文译文：\nBitte listen Sie die Schritte der Herstellung von handgemachter Seife in der Reihenfolge des tatsächlichen Herstellungsprozesses auf: 1. ätherische Öle und Naturfarben hinzufügen. 2. gut umrühren. 3. Seifenbasis + ätherische Öle + Naturfarben + Formen vorbereiten. 4. Seifenbasis schmelzen. 5. in die Formen gießen. 6. 24 Stunden fest werden lassen und aus den Formen lösen und trocknen lassen.\nDie richtige Reihenfolge ist: 3 -> 4 -> 1 -> 2 -> 5 -> 6\n6. 修订后的德文译文：\nEs ist lange her, dass der Rasen gemäht wurde. Hier sind einige Schritte zum Mähen eines Rasens: „1. Beginnen Sie an einem Ende des Rasens und stellen Sie sicher, dass er auf eine einheitliche Höhe gemäht ist; 2. Stellen Sie die Mähhöhe des Rasenmähers ein; 3. Bereiten Sie den Rasenmäher und den Fangkorb vor; und 4. Entfernen Sie alle Mähreste aus dem Rasenmäher und dem Fangkorb.\" Können Sie mir helfen, diese Schritte in die richtige Reihenfolge zu bringen?\nDie richtige Reihenfolge ist: 3 -> 2 -> 1 -> 4\n7. 修订后的德文译文：\nBringen Sie die folgenden Schritte in die richtige Reihenfolge, um eine Karte auf Ihrem Smartphone zu verwenden: Geben Sie Ihr Ziel ein, Entsperren Sie Ihr Telefon, Zeigen Sie die Route an, Öffnen Sie die Karten-App.\nDie korrekten Schritte zum Anzeigen von Karten auf Ihrem Smartphone sind: Entsperren Sie Ihr Telefon -> öffnen Sie die Karten-App -> geben Sie Ihr Ziel ein -> zeigen Sie die Route an\n8. 修订后的德文译文：\nMarie muss der anderen Partei eine Überweisung vornehmen. In welcher Reihenfolge sollte sie die folgenden Schritte ausführen: Überweisungsformular ausfüllen, Quittung unterschreiben und aufbewahren, zum Bankschalter gehen, das Formular an den Bankangestellten überreichen.\nZum Bankschalter gehen -> Überweisungsformular ausfüllen -> Das Formular an den Bankangestellten überreichen -> Quittung unterschreiben und aufbewahren\n所有修订都已按照客户的具体要求完成，包括术语修正、语法纠正和表达方式的改进。RetryClaude can make mistakes. Please double-check responses."
+    },
+    {
+        "input": "Um Schlittschuh laufen zu lernen, in welcher Reihenfolge sollten folgende Schritte durchgeführt werden: „Den Stand üben, das Gleiten lernen, das Anlaufen lernen, Schlittschuhe kaufen“?",
+        "target": "Schlittschuhe kaufen -> Den Stand üben -> Das Anlaufen lernen -> Das Gleiten lernen"
+    },
+    {
+        "input": "Wenn man jemanden, der völlig keine Backerfahrung hat, lehrt, wie man Blaubeer-Muffins macht, wie würde man folgende Schritte anordnen: „langsam Blaubeeren unterheben; Mehl, Zucker, Backpulver und Salz mischen; Milch und Eier unterheben; Für 20-25 Minuten im Ofen backen, bis sie goldgelb sind; in Muffin-Formen füllen“? Bitte geben Sie die richtige Reihenfolge an.",
+        "target": "Mehl, Zucker, Backpulver und Salz mischen -> Milch und Eier unterheben -> langsam Blaubeeren unterheben -> in Muffin-Formen füllen -> Für 20-25 Minuten im Ofen backen, bis sie goldgelb sind"
+    },
+    {
+        "input": "Hanna muss eine Flugreise antreten. Sie sollte die folgenden Schritte in der richtigen Reihenfolge durchführen:  Flugticket buchen → Check-in durchführen → Auf das Boarding warten → an Bord gehen → Am Reiseziel ankommen.",
+        "target": "Flugticket buchen -> Check-in durchführen -> Auf das Boarding warten -> an Bord gehen -> Am Reiseziel ankommen"
+    },
+    {
+        "input": "Ich möchte versuchen, Eiscreme selbst zu machen. In welcher Reihenfolge sollte ich die folgenden Schritte ausführen: \"Die gewünschten Geschmacksstoffe wie Früchte, Schokoladenstückchen usw. hinzufügen; warten, bis es vollständig gefriert; die gemischte Flüssigkeit in eine Eisform füllen und dann in den Gefrierschrank stellen; mischen und verrühren; Sahne, Milch und Zucker vorbereiten\"?",
+        "target": "Sahne, Milch und Zucker vorbereiten -> mischen und verrühren -> die gewünschten Geschmacksstoffe wie Früchte, Schokoladenstückchen usw. hinzufügen -> die gemischte Flüssigkeit in eine Eisform füllen und dann in den Gefrierschrank stellen -> warten, bis es vollständig gefriert"
+    },
+    {
+        "input": "Anna möchte ihre Frisur ändern. Sie hat sich folgende Schritte überlegt: „vom Friseur die Haare stylen lassen, mit dem Friseur kommunizieren, die Kosten bezahlen, Referenzbilder suchen, einen Friseursalon besuchen\". Können Sie die richtige Reihenfolge der obigen Schritte angeben?",
+        "target": "Referenzbilder suchen -> einen Friseursalon besuchen -> mit dem Friseur kommunizieren -> vom Friseur die Haare stylen lassen -> die Kosten bezahlen"
+    },
+    {
+        "input": "Ich habe nur eine Heißluftfritteuse und möchte mich an hausgemachten frittierten Hähnchen versuchen. Ist es richtig, nach dieser Schrittreihenfolge vorzugehen? a. Hähnchenteile mit Salz und Pfeffer bestreuen b. Hähnchenteile, Mehl, Salz, Pfeffer und Ei vorbereiten c. Hähnchenteile in Mehl wälzen und dann in die Eimasse tauchen d. 10-15 Minuten frittieren, bis sie goldbraun und knusprig sind e. Hähnchenteile erneut in Mehl wälzen und in die Heißluftfritteuse geben.",
+        "target": "Nein, die richtige Reihenfolge ist baced."
+    },
+    {
+        "input": "Ich plane eine Geburtstagsfeier und habe mir folgende Abläufe ausgedacht: „Einrichten und Dekorieren des Veranstaltungsortes; Festlegen der Zeit, des Ortes und des Budgets; Aufräumen des Veranstaltungsortes; die eigentliche Feier; Erstellen der Einladungsliste; Zubereiten von Speisen und Getränken\". Können Sie mir helfen, die Prioritäten zu setzen?",
+        "target": "Festlegen von Zeit, Ort und Budget -> Erstellen der Einladungsliste -> Einrichten und Dekorieren des Veranstaltungsortes -> Zubereiten von Speisen und Getränken -> die eigentliche Feier -> Aufräumen des Veranstaltungsortes"
+    },
+    {
+        "input": "Wenn eine Glühbirne in Ihrer Wohnung ausfällt, in welcher Reihenfolge sollten Sie die folgenden Schritte ausführen: „vorhandene Glühbirne entfernen; Strom ausschalten; Strom wieder einschalten und neue Glühbirne testen; neue Glühbirne einsetzen;“?",
+        "target": "Strom ausschalten -> vorhandene Glühbirne entfernen -> neue Glühbirne einsetzen -> Strom wieder einschalten und neue Glühbirne testen"
+    },
+    {
+        "input": "Ich habe gerade angefangen, Kalligraphie zu lernen, und hier sind einige Lernschritte, die ich mir ausgedacht habe: „Nachahmung berühmter Kalligraphie-Vorlagen; Auswahl von Kalligraphie-Werkzeugen; Erlernen von Pinselstrichen; Erlernen grundlegender Strukturen; Erstellen von Kalligraphie-Werken\". Können Sie diese Schritte in der richtigen Reihenfolge anordnen?",
+        "target": "Auswahl von Kalligraphie-Werkzeugen -> Erlernen von Pinselstrichen -> Erlernen grundlegender Strukturen -> Nachahmung berühmter Kalligraphie-Vorlagen -> Erstellen von Kalligraphie-Werken"
+    },
+    {
+        "input": "Was sind die richtigen Schritte zum Erlernen der englischen Sprache für jemanden, der keine Grundkenntnisse in dieser Sprache hat? Bitte ordnen Sie die Schritte wie folgt neu an: Verstehen der grundlegenden Grammatik und des Wortschatzes; Lernen der 26 Buchstaben des Alphabets; Sprechen, Hören, Schreiben und Lesen üben; Anschauen von englischen Filmen; Teilnahme an englischen Austauschaktivitäten.",
+        "target": "Lernen der 26 Buchstaben des Alphabets -> Verstehen der grundlegenden Grammatik und des Wortschatzes -> Sprechen, Hören, Schreiben und Lesen üben -> Anschauen von englischen Filmen -> Teilnahme an englischen Austauschaktivitäten"
+    },
+    {
+        "input": "Ich bereite mich auf einen Redewettbewerb vor, sind das die richtigen Schritte: „Das Thema bestimmen, das Material recherchieren, die Rede einüben, eine Gliederung erstellen, überarbeiten und verbessern, einen guten ersten Entwurf schreiben, die Rede halten\"?",
+        "target": "Nein, die richtige Reihenfolge ist: Das Thema bestimmen -> das Material recherchieren -> eine Gliederung erstellen -> einen guten ersten Entwurf schreiben -> überarbeiten und verbessern -> die Rede einüben -> die Rede halten"
+    },
+    {
+        "input": "Wir werden nächste Woche eine Geschäftsbesprechung haben. Normalerweise umfasst der Ablauf Folgendes: \"Teilnehmer einladen, Tagesordnung festlegen, Protokoll zusammenfassen, Besprechung durchführen, Diskussion in der Besprechung, relevante Dokumente und Berichte vorbereiten\". Bitte geben Sie die richtige Ablaufreihenfolge an.",
+        "target": "Tagesordnung festlegen -> Teilnehmer einladen -> Relevante Dokumente und Berichte vorbereiten -> Besprechung durchführen -> Diskussion in der Besprechung -> Protokoll zusammenfassen"
+    },
+    {
+        "input": "Ich werde in 25 Tagen die IELTS-Prüfung ablegen, und auf meiner Liste stehen folgende Punkte: „Erstellen eines Lernplans - Systematisches Lernen - Probeprüfungen - Üben und Wiederholen - Verstehen des Inhalts und der Anforderungen der Prüfung - Organisieren von Lernmaterialien\". Können Sie diese in der richtigen Reihenfolge auflisten?",
+        "target": "Verstehen des Prüfungsinhalts und der Anforderungen -> Erstellen eines Lernplans -> Organisieren von Lernmaterialien -> Systematisches Lernen -> Üben und Wiederholen -> Selbstständige Tests"
+    },
+    {
+        "input": "Für die Erstellung einer eigenen Website sind folgende Schritte nötig: „Ziele festlegen, Website-Entwicklung durchführen, Marktforschung, Website-Struktur und -Layout entwerfen, Inhaltsplan entwickeln, testen und veröffentlichen\". Bringen Sie die Schritte in die korrekte logische Reihenfolge.",
+        "target": "Ziele festlegen -> Marktforschung -> Inhaltsplan entwickeln -> Website-Struktur und -Layout entwerfen -> Website-Entwicklung durchführen -> Testen und veröffentlichen"
+    },
+    {
+        "input": "Ich würde gerne wissen, in welcher Reihenfolge ich für einen Einführungslehrgang in den Lateintanz folgendes tun sollte: Spezialisierte Übungen mit einem Partner, Erlernen der Grundschritte, Soloübungen, Körperkonditionierung und Flexibilität.",
+        "target": "Körperkonditionierung und Flexibilität -> Erlernen der Grundschritte -> Soloübungen -> Spezialisierte Übungen mit einem Partner"
+    },
+    {
+        "input": "Ich habe vor, mich für einen Fitnesskurs anzumelden. In welcher Reihenfolge sollte ich die folgenden Schritte planen: „Ziele setzen, Fortschritte verfolgen, ein geeignetes Training auswählen, eine angemessene Häufigkeit und Dauer des Trainings festlegen und mit dem Training beginnen“",
+        "target": "Zielsetzung -> Auswahl eines geeigneten Trainings -> Planung einer angemessenen Trainingshäufigkeit und -dauer -> Beginn des Trainings -> Fortschrittskontrolle"
+    },
+    {
+        "input": "In welcher Reihenfolge sollten die folgenden Schritte bei der Verwaltung der Familienfinanzen durchgeführt werden: Umsetzung des festgelegten Plans, regelmäßige Bewertung und Anpassung des Vermögensstandes, Aufstellung eines Programms unter Berücksichtigung der eigenen tatsächlichen Situation der Familie, Festlegung von Finanzplanungszielen?",
+        "target": "Festlegung von Finanzplanungszielen -> Aufstellung eines Programms unter Berücksichtigung der eigenen tatsächlichen Situation der Familie -> Umsetzung des festgelegten Plans -> Regelmäßige Bewertung und Anpassung des Vermögensstandes"
+    },
+    {
+        "input": "Erläutern Sie bitte, wie diese drei Teile des Social-Media-Marketings in zeitlicher Reihenfolge abzuschließen sind: „Entwicklung eines Inhaltsplans und einer Postingfrequenz, Aufbau einer Markenidentität und von Social-Media-Konten sowie Festlegung einer Zielgruppe und einer Marketingstrategie\".",
+        "target": "Festlegung einer Zielgruppe und einer Marketingstrategie -> Aufbau einer Markenidentität und von Social-Media-Konten -> Entwicklung eines Inhaltsplans und einer Postingfrequenz"
+    },
+    {
+        "input": "Nächste Woche wird unser Unternehmen eine Wohltätigkeitsveranstaltung organisieren. Dies sind die Schritte, die in der Veranstaltung enthalten sein müssen: Werbung für die Veranstaltung, Zusammenfassung der Wirkung der Veranstaltung, Entwicklung des Veranstaltungsplans und des Zeitplans, Bestimmung des Zwecks und der begünstigten Gruppen, Durchführung der Veranstaltung. Können Sie helfen, einen vernünftigen Prozess zu planen?",
+        "target": "Bestimmung des Zwecks und der begünstigten Gruppen -> Entwicklung des Veranstaltungsplans und des Zeitplans -> Werbung für die Veranstaltung -> Durchführung der Veranstaltung -> Zusammenfassung der Wirkung der Veranstaltung"
+    },
+    {
+        "input": "Hier sind einige Schritte zur Verwendung von Zahnseidensticks: \n- Zahnseidenteil zwischen die Zähne platzieren\n- Zahnseidenstick aus der Verpackung nehmen\n- mit der Reinigung der anderen Zähne fortfahren\n- mit gleichmäßiger Kraft auf und ab bewegen\n- mit klarem Wasser spülen, um Speisereste zu entfernen\nkönnen Sie mir helfen, sie in einer vernünftigen Reihenfolge anzuordnen?",
+        "target": "Zahnseidenstick aus der Verpackung nehmen -> Zahnseidenteil zwischen die Zähne platzieren -> mit gleichmäßiger Kraft auf und ab bewegen -> mit der Reinigung der anderen Zähne fortfahren -> mit klarem Wasser spülen, um Speisereste zu entfernen"
+    },
+    {
+        "input": "Das Schneiden von Pflanzen mit großen Blättern kann in folgende Schritte unterteilt werden: \"Darauf achten, die anderen Teile der Pflanze zu schützen; Je nach Bedarf in eine natürliche Wuchsform schneiden; Passende Schere vorbereiten; Die zu schneidenden Blätter auswählen; Beide Seiten der Blätter mäßig mit Wasser besprühen, um sie zu befeuchten und zu hydratisieren\". Bitte ordnen Sie diese Schritte in der richtigen Reihenfolge neu.",
+        "target": "Passende Schere vorbereiten -> Die zu schneidenden Blätter auswählen -> Darauf achten, die anderen Teile der Pflanze zu schützen -> Je nach Bedarf in eine natürliche Wuchsform schneiden -> Beide Seiten der Blätter mäßig mit Wasser besprühen, um sie zu befeuchten und zu hydratisieren"
+    },
+    {
+        "input": "Die Zubereitung von Instantkaffee erfolgt in der Regel in folgenden Schritten: „Kaffeepulver in die Tasse geben, heißes Wasser hinzufügen, gut umrühren, die richtige Menge Zucker und Kaffeeweißer hinzufügen und erneut umrühren, Wasser aufkochen\". Bitte ordnen Sie die Schritte in der korrekten Reihenfolge an.",
+        "target": "Wasser aufkochen -> Kaffeepulver in die Tasse geben -> heißes Wasser hinzufügen -> gut umrühren -> die richtige Menge Zucker und Kaffeeweißer hinzufügen und erneut umrühren"
+    },
+    {
+        "input": "„Zucker oder andere Süßungsmittel hinzufügen→ Milchschaum aufgießen → Zutaten vorbereiten→ Kaffee auflösen→ Milchschaum aufschäumen→Wasser erhitzen“ Oben sind einige Schritte zur Zubereitung einer Latte aufgeführt. Bringen Sie die oben genannten Schritte in die richtige Reihenfolge.",
+        "target": "Zutaten vorbereiten -> Wasser erhitzen -> Kaffee auflösen -> Milchschaum aufschäumen -> Milchschaum aufgießen -> Zucker oder andere Süßungsmittel hinzufügen"
+    },
+    {
+        "input": "Die Zubereitung von Schweinegulasch umfasst normalerweise die folgenden Schritte: „Langsam schmoren, Blut abkochen, Zutaten auswählen, Fleisch in Stücke schneiden, Gewürze und Fleisch anbraten“. Können Sie mir die richtige Reihenfolge nennen?",
+        "target": "Zutaten auswählen -> Fleisch in Stücke schneiden -> Blut abkochen -> Gewürze und Fleisch anbraten -> Langsam schmoren"
+    },
+    {
+        "input": "„Ein Loch graben, gründlich wässern, das Loch auffüllen, einen Apfelbaumsetzling kaufen, den Apfelbaumsetzling einsetzen\". Bitte erläutern Sie die richtigen Pflanzschritte für einen Apfelbaum basierend auf den obigen Schritten.",
+        "target": "Einen Apfelbaumsetzling kaufen -> Ein Loch graben -> Den Apfelbaumsetzling einsetzen -> Das Loch auffüllen -> Gründlich wässern"
+    },
+    {
+        "input": "Die Schritte für das Züchten von Rosen können in folgende Teilschritte unterteilt werden: \"Rosensubstrat vorbereiten / Ein Loch passender Größe graben / Den Rosenpflänzling pflanzen / Die passende Sorte wählen / Wasser geben und den Boden feucht halten / Regelmäßig düngen und die Rosen schneiden\". Bitte ordnen Sie die Schritte in der richtigen Reihenfolge.",
+        "target": "Die passende Sorte wählen -> Rosensubstrat vorbereiten -> Ein Loch passender Größe graben -> Den Rosenpflänzling pflanzen -> Wasser geben und den Boden feucht halten -> Regelmäßig düngen und die Rosen schneiden"
+    },
+    {
+        "input": "Ich möchte seit kurzem Fische halten, und ich habe gelernt, dass es im Allgemeinen diese Vorbereitungen gibt: „Becken und Filteranlage vorbereiten, zur richtigen Zeit füttern, Wasser einfüllen, um die Wassertemperatur und -qualität anzupassen, dann die Fische einsetzen\", können Sie mir die richtige Reihenfolge nennen?",
+        "target": "Becken und Filteranlage vorbereiten -> Wasser einfüllen, um die Wassertemperatur und -qualität anzupassen -> dann die Fische einsetzen -> zur richtigen Zeit füttern"
+    },
+    {
+        "input": "Ich möchte in meinem Garten Bienen züchten, um Honig zu produzieren. Dies ist meine To-Do-Liste: \"Einen passenden Platz für die Beute auswählen, eine Beute und andere Bienenzuchtausrüstungen kaufen oder herstellen, sich über die relevanten Gesetze und Vorschriften informieren, die passende Bienenart für die Zucht wählen\". Was sollte ich zunächst tun?",
+        "target": "Zuerst sollten Sie sich über die relevanten Gesetze und Vorschriften informieren."
+    },
+    {
+        "input": "Bitte listen Sie die Schritte der Herstellung von handgemachter Seife in der Reihenfolge des tatsächlichen Herstellungsprozesses auf: 1. ätherische Öle und Naturfarben hinzufügen. 2. gut umrühren. 3. Seifenbasis + ätherische Öle + Naturfarben + Formen vorbereiten. 4. Seifenbasis schmelzen. 5. in die Formen gießen. 6. 24 Stunden fest werden lassen und aus den Formen lösen und trocknen lassen.",
+        "target": "Die richtige Reihenfolge ist: 3 -> 4 -> 1 -> 2 -> 5 -> 6"
+    },
+    {
+        "input": "Die Reifen sind im Laufe der Zeit stark abgenutzt und Sie möchten sie selbst wechseln. Hier sind einige Schritte zum Reifenwechsel: „Den alten Reifen abnehmen, den Wagenheber herunterlassen und die Warnblinker ausschalten, das Auto mit einem Wagenheber heben, das Auto an einem ebenen Platz parken, den neuen Reifen installieren, die Warnblinkanlage einschalten.\" Können Sie mir helfen, diese Schritte in der richtigen Reihenfolge zu ordnen?",
+        "target": "Das Auto an einem ebenen Platz parken -> Die Warnblinkanlage einschalten -> Das Auto mit einem Wagenheber heben -> Den alten Reifen abnehmen -> Den neuen Reifen installieren -> Den Wagenheber herunterlassen und die Warnblinker ausschalten"
+    },
+    {
+        "input": "Es ist lange her, dass der Rasen gemäht wurde. Hier sind einige Schritte zum Mähen eines Rasens: „1. Beginnen Sie an einem Ende des Rasens und stellen Sie sicher, dass er auf eine einheitliche Höhe gemäht ist; 2. Stellen Sie die Mähhöhe des Rasenmähers ein; 3. Bereiten Sie den Rasenmäher und den Fangkorb vor; und 4. Entfernen Sie alle Mähreste aus dem Rasenmäher und dem Fangkorb.\" Können Sie mir helfen, diese Schritte in die richtige Reihenfolge zu bringen?",
+        "target": "Die richtige Reihenfolge ist: 3 -> 2 -> 1 -> 4"
+    },
+    {
+        "input": "Die Dusche im Badezimmer ist verstopft und ich möchte sie durch eine neue ersetzen. Ordnen Sie die folgenden Schritte in der richtigen Reihenfolge. 1. Ziehen Sie die Überwurfmutter der Dusche fest. 2. Drehen Sie die Wasserzufuhr auf und vergewissern Sie sich, dass die Dusche richtig funktioniert. 3. Entfernen Sie die ursprüngliche Dusche mit einem Schraubenschlüssel. 4. Schließen Sie die neue Dusche mit einer Dichtung an die Wasserleitung an. 5. Drehen Sie die Wasserzufuhr ab.",
+        "target": "5 -> 3 -> 4 -> 1 -> 2"
+    },
+    {
+        "input": "Ich möchte lernen, wie man Spaghetti zubereitet, und habe verstanden, dass es im Allgemeinen folgende Schritte gibt: 1. Die Nudeln abgießen und etwas Kochwasser zurücklassen. 2. Alles gut vermengen und genießen. 3. Die entsprechende Menge Salz und Spaghetti hinzufügen. 4.Die Spaghetti-Sauce und die gewünschten Zutaten hinzufügen. 5.Einen Topf mit Wasser zum Kochen bringen. 6. Die Nudeln gemäß der Packungsanleitung kochen. Was ist die richtige Reihenfolge?",
+        "target": "Die richtige Reihenfolge ist: 5 -> 3 -> 6 -> 1 -> 4 -> 2"
+    },
+    {
+        "input": "Wenn man eine Waschmaschine benutzt, um die Wäsche zu waschen, in welcher Reihenfolge sollten die folgenden Schritte ausgeführt werden?\n1. Wählen Sie den Waschmodus und die Temperatur je nach Art der Kleidungsstücke.\n2.Starten Sie die Waschmaschine und warten Sie, bis das Waschen abgeschlossen ist.\n3.Fügen Sie eine passende Menge von Waschmittel oder Waschpulver hinzu.\n4.Prüfen Sie die Etiketten der Kleidungsstücke, um die Waschhinweise zu kennen.\n5.Sortieren Sie die Kleidungsstücke und legen Sie sie nach Farbe und Material getrennt in die Waschmaschine.",
+        "target": "4 -> 5 -> 3 -> 1 -> 2"
+    },
+    {
+        "input": "Das Binden eines Schnürsenkels erfolgt im Allgemeinen in folgenden Schritten: 1. Beide Enden müssen gleich lang sein. 2. Ein Ende muss über das andere gekreuzt werden. 3. Die Schnürsenkel müssen so fest angezogen werden, dass sie bequem und angemessen sind. 4. Die Schnürsenkel müssen durch die Ösen gezogen werden. Können Sie mir die richtige Reihenfolge nennen?",
+        "target": "Die richtige Reihenfolge ist: 4 -> 1 -> 2 -> 3"
+    },
+    {
+        "input": "Im Internet wird gesagt, dass das Lernen von Yoga in groben Umrissen in folgende Schritte unterteilt werden kann: 1. Einen ruhigen Raum finden; 2. Mit der Übung beginnen, indem Sie einem Yogavideo oder einer Yogalehranleitung folgen; 3. Eine Yogamatte auslegen; 4. Ausrüstung kaufen, die der eigenen Schwierigkeitsstufe entspricht. Was sollte ich zunächst tun und was später? Können Sie mir die Priorität der Schritte vorschlagen?",
+        "target": "Die richtige Reihenfolge ist: 4 -> 1 -> 3 -> 2"
+    },
+    {
+        "input": "„Den Topf an einen sonnigen Ort stellen, Tomatensamen säen, eine dünne Schicht Erde darüber streuen und leicht andrücken, den Boden feucht halten, geeignete Erde und Topf auswählen\". Können Sie basierend auf den obigen Schritten den richtigen Anbauprozess für Tomaten angeben?",
+        "target": "Geeignete Erde und Topf auswählen -> Tomatensamen säen -> Eine dünne Schicht Erde darüber streuen und leicht andrücken -> Den Boden feucht halten -> Den Topf an einen sonnigen Ort stellen"
+    },
+    {
+        "input": "Ich möchte anfangen, Fotografie zu lernen. Hier sind einige kleine Ziele, die ich aufgeteilt habe: Die richtige Kamera und das richtige Objektiv verwenden; Verschiedene Blickwinkel und Aufnahmeperspektiven ausprobieren; Die richtige Aufnahmesituation und die richtigen Lichtverhältnisse wählen; Grundlegende Prinzipien der Fotografie und der Kameratechnologie verstehen. Bitte ordnen Sie diese Ziele in der richtigen Reihenfolge.",
+        "target": "Grundlegende Prinzipien der Fotografie und der Kameratechnologie verstehen -> Die richtige Kamera und das richtige Objektiv verwenden -> Die richtige Aufnahmesituation und die richtigen Lichtverhältnisse wählen -> Verschiedene Blickwinkel und Aufnahmeperspektiven ausprobieren"
+    },
+    {
+        "input": "Die Verwendung der integrierten Excel-Funktion zum Auffinden von doppelten Inhalten umfasst die folgenden Schritte: 1. Klicken Sie in der Menüleiste auf „Start\", finden Sie „Bedingte Formatierung\" in der Gruppe „Formatvorlagen\" und klicken Sie darauf. 2. Wählen Sie im Dialogfeld „Zellen hervorheben\" die Option „Doppelte Werte\". 3. Öffnen Sie Excel und wählen Sie den Bereich aus, den Sie überprüfen möchten. 4. Bestätigen Sie die Optionen und klicken Sie auf OK. Bitte ordnen Sie diese Schritte in der richtigen Reihenfolge an.",
+        "target": "Die korrekte Reihenfolge ist: 3 -> 1 -> 2 -> 4"
+    },
+    {
+        "input": "Ich werde meiner Arbeit in Word ein Inhaltsverzeichnis hinzufügen. Kann ich der Reihenfolge der Schritte folgen, die ich im Internet gefunden habe, damit es erfolgreich funktioniert? 1. Wählen Sie „Inhaltsverzeichnis\" und wählen Sie in dem sich öffnenden Menü das von Ihnen bevorzugte Inhaltsverzeichnisdesign aus. 2. Klicken Sie auf „OK\", und das Inhaltsverzeichnis wird automatisch erstellt. 3. Sie müssen für Ihre Überschriften Formatvorlagen festlegen, wie z.B. Überschrift 1, Überschrift 2 usw. 4. Klicken Sie auf die Option „Verweise\" in der Menüleiste.",
+        "target": "Die Ausführungsreihenfolge muss angepasst werden. Die richtige Reihenfolge ist:3 -> 4 -> 1 -> 2"
+    },
+    {
+        "input": "Ich möchte wissen, wie man ein einfaches Spiel in Unity erstellt, ich habe eine allgemeine Beschreibung gefunden: „Erstellen Sie eine neue Szene und GameObjects, fügen Sie Lichtquellen und Kameras hinzu, schreiben Sie Skripte, um das Verhalten der GameObjects zu steuern, erstellen Sie ein neues Projekt\", bitte helfen Sie mir, sie in die richtige Reihenfolge zu bringen.",
+        "target": "Erstellen Sie ein neues Projekt -> Erstellen Sie eine neue Szene und GameObjects -> Fügen Sie Lichtquellen und Kameras hinzu -> Schreiben Sie Skripte, um das Verhalten der GameObjects zu steuern"
+    },
+    {
+        "input": "Bei der Verwendung von Ebenenmasken in Photoshop, in welcher Reihenfolge können Sie die folgenden Schritte ausführen: 1. „Ebenenmaske\" auswählen und dann „Alle einblenden\" oder „Alle ausblenden\" wählen; 2. mit dem Pinselwerkzeug auf die Maske zeichnen, um Teile der Ebene ein- oder auszublenden; 3. die Ebene auswählen, der Sie eine Maske hinzufügen möchten; 4. in der Menüleiste auf „Ebene\" klicken.",
+        "target": "Die richtige Reihenfolge ist: 3 -> 4 -> 1 -> 2"
+    },
+    {
+        "input": "Ich möchte wissen, wie man ein einfaches Spiel in Unity erstellt, ich habe eine allgemeine Beschreibung gefunden: „Erstellen Sie eine neue Szene und GameObjects, fügen Sie Lichtquellen und Kameras hinzu, schreiben Sie Skripte, um das Verhalten der GameObjects zu steuern, erstellen Sie ein neues Projekt\", bitte helfen Sie mir, sie in die richtige Reihenfolge zu bringen.",
+        "target": "Erstellen Sie ein neues Projekt -> Erstellen Sie eine neue Szene und GameObjects -> Schreiben Sie Skripte, um das Verhalten der GameObjects zu steuern -> Fügen Sie Lichtquellen und Kameras hinzu"
+    },
+    {
+        "input": "In welcher Reihenfolge sollten Sie die folgenden Schritte ausführen, um eine E-Mail auf Ihrem Smartphone zu versenden: Geben Sie den Empfänger und den Inhalt der E-Mail ein, öffnen Sie die Mail-App, klicken Sie auf E-Mail schreiben, klicken Sie auf Senden.",
+        "target": "Öffnen Sie die Mail-App -> Klicken Sie auf E-Mail schreiben -> Geben Sie Empfänger und Inhalt der Nachricht ein -> Klicken Sie auf Senden"
+    },
+    {
+        "input": "Normalerweise gibt es diese Schritte, um Musik auf einem Smartphone abzuspielen: die Musik-App öffnen, auf den Wiedergabe-Button tippen, das Telefon entsperren und ein Lied suchen. Was ist die richtige Reihenfolge?",
+        "target": "Telefon entsperren -> Musik-App öffnen -> ein Lied suchen -> auf den Wiedergabe-Button tippen"
+    },
+    {
+        "input": "Das Ansehen von Nachrichten auf einem Smartphone umfasst folgende Schritte: eine Nachrichtenkategorie auswählen, das Telefon entsperren, Nachrichten lesen und Nachrichten-App öffnen. In welcher Reihenfolge sollten die Schritte ausgeführt werden?",
+        "target": "das Telefon entsperren -> Nachrichten-App öffnen -> eine Nachrichtenkategorie auswählen -> Nachrichten lesen"
+    },
+    {
+        "input": "Bringen Sie die folgenden Schritte in die richtige Reihenfolge, um eine Karte auf Ihrem Smartphone zu verwenden: Geben Sie Ihr Ziel ein, Entsperren Sie Ihr Telefon, Zeigen Sie die Route an, Öffnen Sie die Karten-App.",
+        "target": "Die korrekten Schritte zum Anzeigen von Karten auf Ihrem Smartphone sind: Entsperren Sie Ihr Telefon -> öffnen Sie die Karten-App -> geben Sie Ihr Ziel ein -> zeigen Sie die Route an"
+    },
+    {
+        "input": "Die Verwendung eines Smartphones für die Online-Übersetzung läuft im Allgemeinen in folgenden Schritten ab: Text eingeben, Übersetzungsergebnisse anzeigen, Telefon entsperren, Übersetzungs-App öffnen. Wie lautet die richtige Reihenfolge?",
+        "target": "Entsperren des Telefons -> Öffnen der Übersetzungs-App -> Text eingeben -> Anzeigen der Übersetzungsergebnisse"
+    },
+    {
+        "input": "„Wasserflasche öffnen, Wasser trinken, Durst verspüren, Wasserflasche verschließen“, wie ist die richtige Reihenfolge?",
+        "target": "Durstgefühl -> Wasserflasche öffnen -> Wasser trinken -> Wasserflasche verschließen"
+    },
+    {
+        "input": "„Oberteil ausziehen, Unterwäsche ausziehen, äußere Jacke ausziehen“. In welcher richtigen Reihenfolge sollten die Schritte für das Ausziehen der Kleidung ausgeführt werden?",
+        "target": "äußere Jacke ausziehen -> Oberteil ausziehen -> Unterwäsche ausziehen"
+    },
+    {
+        "input": "Auf Instagram habe ich gelesen, dass die 4-Schritte-Routine zum effizienten Waschen des Gesichts aus folgenden Elementen besteht: Gesichtsreiniger, Feuchtigkeitscreme auftragen, mit warmem Wasser benetzen und mit klarem Wasser abspülen - wie ist die richtige Reihenfolge?",
+        "target": "Mit warmem Wasser anfeuchten -> Gesichtsreiniger -> mit klarem Wasser abspülen -> Feuchtigkeitscreme auftragen"
+    },
+    {
+        "input": "„Zahnpasta auftragen, mit der Zahnbürste putzen, Zahnpasta ausspülen, Zahnbürste herausnehmen\" wie ist die richtige Reihenfolge?",
+        "target": "Zahnbürste herausnehmen -> Zahnpasta auftragen -> mit der Zahnbürste putzen -> Zahnpasta ausspülen"
+    },
+    {
+        "input": "Ich möchte lernen, Kuchen zu backen. Hier sind einige Schritte beim Kuchenbacken: Zutaten mischen, backen, Zutaten vorbereiten, dekorieren. Können Sie mir helfen, die Reihenfolge korrekt zu ordnen?",
+        "target": "Zutaten vorbereiten -> Zutaten mischen -> Backen -> Dekorieren"
+    },
+    {
+        "input": "„Flugtest, Papierflugzeug falten, Flugverhalten optimieren, Finalisierung“ sind die vier Schritte bei der Herstellung eines Papierflugzeugs. Bitte geben Sie die richtige Reihenfolge entsprechend der Realität an.",
+        "target": "Die richtige Reihenfolge für die Herstellung eines Papierflugzeugs sollte sein: Papierflugzeug falten -> Flugtest -> Flugverhalten optimieren -> Finalisierung"
+    },
+    {
+        "input": "Gemüse und Burger-Patty belegen, das Brot darauflegen, Anrichten, das Brot toasten“. Basierend auf dem Herstellungsprozess eines Hamburgers, wie sollten diese Schritte sortiert werden?",
+        "target": "Das Brot toasten → Gemüse und Burger-Patty belegen → Das Brot darauflegen → Anrichten."
+    },
+    {
+        "input": "In welcher Reihenfolge sollten die folgenden Schritte für ein Duschen ausgeführt werden? \" sich abtrocknen, die Wassertemperatur einstellen, die Kleidung ausziehen, duschen\"",
+        "target": "Die richtige Reihenfolge ist: Die Kleidung ausziehen -> Die Wassertemperatur einstellen -> Duschen -> Sich abtrocknen"
+    },
+    {
+        "input": "„Einen Laden auswählen, eine Einkaufsliste erstellen, bezahlen, Waren auswählen“. In welcher Reihenfolge sollten diese Schritte bei dem Prozess des Präsenzkaufs sortiert werden?",
+        "target": "Eine Einkaufsliste erstellen -> Einen Laden auswählen -> Waren auswählen -> Bezahlen"
+    },
+    {
+        "input": "Der Prozess der Saftzubereitung umfasst: Obst schneiden, nach dem Probieren Eiswürfel hinzufügen, in ein Glas gießen, Saft pressen. Bitte ordnen Sie diese Schritte in der richtigen Reihenfolge.",
+        "target": "Obst schneiden -> Saft pressen -> in ein Glas gießen -> nach dem Probieren Eiswürfel hinzufügen"
+    },
+    {
+        "input": "Ich unterteile das Lesen eines Buches in vier Aspekte: Inhalt lesen, Buch öffnen, auf das Regal zurücklegen, Buch schließen. Bitte ordnen Sie diese in der richtigen Reihenfolge, damit die Schritte deutlicher werden.",
+        "target": "Buch öffnen -> Inhalt lesen -> Buch schließen -> auf das Regal zurücklegen"
+    },
+    {
+        "input": "Der Prozess des Zusammenbauens eines Puzzles umfasst: Das Puzzle entpacken, die Ecken finden, schrittweise verbinden und das Puzzle fertigstellen. In welcher Reihenfolge sollten diese Schritte durchgeführt werden?",
+        "target": "Das Puzzle entpacken -> Die Ecken finden -> Schrittweise verbinden -> Das Puzzle fertigstellen"
+    },
+    {
+        "input": "Ich lerne gerade das Pleinair-Aquarellmalen. In dem Kurs wurden hauptsächlich die folgenden Punkte erwähnt: Die Position der Objekte und die Farbbeziehungen beobachten, die Stillebenobjekte auf den Maltisch legen, den Entwurf für die Komposition und Anordnung des Bildes machen, die Anordnung der Objekte anpassen, Details malen, die Grundfarbe auftragen und trocknen lassen. Wie werden diese Schritte im tatsächlichen Arbeitsablauf umgesetzt?",
+        "target": "Die Stillebenobjekte auf den Maltisch legen -> Die Anordnung der Objekte anpassen -> Die Position der Objekte und die Farbbeziehungen beobachten -> Den Entwurf für die Komposition und Anordnung des Bildes machen -> Die Grundfarbe auftragen -> Details malen -> Trocknen lassen."
+    },
+    {
+        "input": "Ich habe das Bauen mit Bausteinen in vier Schritte unterteilt: die Basis bauen, den Bau abschließen, Details hinzufügen und Schicht für Schicht bauen. Welche Reihenfolge sollte ich einhalten, wenn ich von Grund auf neu bauen möchte?",
+        "target": "Die Basis bauen -> Schicht für Schicht bauen -> Details hinzufügen -> den Bau abschließen"
+    },
+    {
+        "input": "„Drehbuchentwicklung, Vorführung, Dreharbeiten, Nachbearbeitung\", wie ist die Reihenfolge dieser vier Phasen im eigentlichen Filmproduktionsprozess?",
+        "target": "Drehbuchentwicklung-> Dreharbeiten -> Nachbearbeitung -> Vorführung"
+    },
+    {
+        "input": "Ich möchte jetzt einen Untersuchungsbericht schreiben. Was sollte ich zunächst tun unter den vier Schritten „Haupttext verfassen, Informationen sammeln, redigieren und Korrekturlesen, Struktur ordnen“?",
+        "target": "Informationen sammeln"
+    },
+    {
+        "input": "Bürobesprechungen laufen in der Regel nach folgendem Schema ab: Einberufung der Teilnehmer, Festlegung der Tagesordnung, Diskussion und Aufzeichnung der wichtigsten Punkte der Besprechung. Können Sie mir die richtige Reihenfolge nennen?",
+        "target": "Festlegen der Tagesordnung -> Einberufung der Teilnehmer -> Diskussion -> Aufzeichnung der wichtigsten Punkte der Besprechung"
+    },
+    {
+        "input": "Wenn ich in einem Jahr eine neue Fertigkeit erlernen möchte, wie sollte ich diese Lernprogramme aneinanderreihen: „Lernressourcen abrufen, üben, Ziele setzen, Fortschritte bewerten“",
+        "target": "Ziele setzen -> Lernressourcen abrufen -> üben -> Fortschritte bewerten"
+    },
+    {
+        "input": "Wie werden die folgenden vier Schritte bei der Organisation einer Veranstaltung durchgeführt: Planung, Beschaffung der Materialien, Festlegung der Ziele der Veranstaltung und Durchführung der Veranstaltung",
+        "target": "Festlegung der Ziele der Veranstaltung -> Planung -> Beschaffung der Materialien ->Durchführung der Veranstaltung"
+    },
+    {
+        "input": "Wie sollten die folgenden Schritte in der Reihenfolge der Benutzung des Laptops angeordnet werden: Benutzung des Laptops, Öffnen des Laptopdeckels, Schließen des Laptops, Einschalten des Laptops?",
+        "target": "Öffnen des Laptopdeckels -> Einschalten des Laptops -> Benutzung des Laptops -> Schließen des Laptops"
+    },
+    {
+        "input": "Das Schließen der Tür umfasst die folgenden Prozesse: den Schlüssel im Schloss drehen, den Schlüssel einführen, die Tür schließen, überprüfen, ob die Tür richtig verschlossen ist. Bitte ordnen Sie diese in der richtigen Reihenfolge.",
+        "target": "Die Tür schließen -> Den Schlüssel einführen -> Dden Schlüssel im Schloss drehen -> Überprüfen, ob die Tür richtig verschlossen ist"
+    },
+    {
+        "input": "„Teeblätter einfüllen, Wasser kochen, kochendes Wasser einfüllen, Tee trinken“. In welcher Reihenfolge kommen diese vier Schritte im tatsächlichen Prozess des Teezubereitens?",
+        "target": "Wasser kochen -> Teeblätter einfüllen -> kochendes Wasser einfüllen -> Tee trinken"
+    },
+    {
+        "input": "„Behälter versiegeln, Reste vollständig abkühlen lassen, heiße Speisen in Behälter füllen, in den Kühlschrank stellen\" – Wie sollten die oben genannten Schritte beim Einräumen von Resten in den Kühlschrank angeordnet werden?",
+        "target": "Heiße Speisen in Behälter füllen -> Reste vollständig abkühlen lassen -> Behälter versiegeln -> In den Kühlschrank stellen"
+    },
+    {
+        "input": "Im Internet habe ich herausgefunden, dass die Installation einer neuen Grafikkarte im Allgemeinen in sieben Schritten erfolgt: 1. Verbinden Sie die Grafikkarte mit der Stromversorgung. Einige Hochleistungsgrafikkarten benötigen eine zusätzliche Stromversorgung, also müssen Sie das Stromkabel an die Grafikkarte anschließen. 2. Nehmen Sie die neue Grafikkarte heraus und stecken Sie sie vorsichtig in den freien PCIe-Steckplatz. Stellen Sie sicher, dass die Grafikkarte fest im Steckplatz steckt und befestigen Sie sie mit Schrauben. 3. Suchen Sie die alte Grafikkarte, die in der Regel in einen PCIe-Steckplatz auf dem Motherboard eingesteckt ist. Denken Sie daran, die Karte zu lösen, bevor Sie die alte Karte herausziehen. 4. Schalten Sie den Computer aus und trennen Sie die Stromversorgung. 5. Öffnen Sie das Gehäuse des Computers. 6. Lösen Sie die Schrauben der alten Karte und trennen Sie vorsichtig die Verbindung zwischen der Grafikkarte und dem Motherboard. 7. Schließen Sie das Gehäuse des Computers, verbinden Sie dann die Stromversorgung und starten Sie den Computer. Können Sie mir helfen, diese Schritte in der tatsächlichen Ausführungsreihenfolge einfach zu ordnen?",
+        "target": "Die richtige Reihenfolge ist: 4 -> 5 -> 3 -> 6 -> 2 -> 1 -> 7"
+    },
+    {
+        "input": "Um eine neue App auf Ihrem Apple-Telefon zu installieren, sollten Sie wie folgt vorgehen: Öffnen Sie den App-Store, warten Sie, bis die App fertig heruntergeladen und installiert ist, klicken Sie auf die App in den Suchergebnissen und klicken Sie auf „Installieren“, und geben Sie den Namen der App in das Suchfeld ein.",
+        "target": "Um eine neue App auf Ihrem Apple-Telefon zu installieren, gehen Sie wie folgt vor: Öffnen Sie den App-Store. -> geben Sie den Namen der App in das Suchfeld ein -> klicken Sie auf die App in den Suchergebnissen und klicken Sie auf „Installieren“ -> warten Sie, bis die App fertig heruntergeladen und installiert ist."
+    },
+    {
+        "input": "Der Einbau eines neuen Solid State Drive (SSD) in einen Laptop läuft in der Regel folgendermaßen ab: 1. Entfernen Sie das alte Laufwerk und setzen Sie das neue SSD in den SSD-Schacht ein und sichern Sie es. 2. Öffnen Sie die Abdeckung an der Unterseite des Computers, um den Laufwerksschacht zu finden. 3. Bringen Sie die Abdeckung wieder an der Unterseite des Computers an. 4. Schalten Sie den Computer ein und initialisieren Sie das SSD im System. 5. Schalten Sie den Computer aus und trennen Sie ihn von der Stromversorgung. Werden die Schritte in der Praxis in dieser Reihenfolge ausgeführt?",
+        "target": "Nein. Gemäß der tatsächlichen Vorgehensweise sollten die korrekten Schritte zum Einbau eines neuen Solid State Drive (SSD) wie folgt aussehen: 5 -> 2 -> 1 -> 3-> 4"
+    },
+    {
+        "input": "Die Installation eines neuen Duschkopfes umfasst normalerweise folgende Schritte: Den alten Duschkopf mit einem Schraubenschlüssel abmontieren, den neuen Duschkopf aufschrauben, die Wasserversorgung abschalten, die Wasserversorgung wieder einschalten und überprüfen, ob es undicht ist, den Gewindeteil der Duschkopfverbindung reinigen. Können Sie mir bitte die richtige Installationsreihenfolge geben?",
+        "target": "Die Wasserversorgung abschalten -> Den alten Duschkopf mit einem Schraubenschlüssel abmontieren -> Den Gewindeteil der Duschkopfverbindung reinigen -> Den neuen Duschkopf aufschrauben -> Die Wasserversorgung wieder einschalten und überprüfen, ob es undicht ist"
+    },
+    {
+        "input": "Mein Kamerobjektiv ist kaputt und ich muss ein neues installieren. Wie soll ich die folgenden vier Schritte ausführen:1. Schalten Sie die Kamera an und machen Sie einige Fotos, um zu überprüfen, ob das neue Objektiv richtig funktioniert. 2. Installieren Sie das neue Objektiv in die richtige Richtung und Position auf die Kamera. 3. Entfernen Sie das alte Objektiv gemäß der Position des Verriegelungsmechanismus in der Anleitung. 4. Schalten Sie die Kamera aus.",
+        "target": "Die richtigen Schritte für den Austausch des Kamerobjektivs sollten wie folgt sein: 4 -> 3 -> 2 -> 1"
+    },
+    {
+        "input": "„DNA-Synthese, DNA-Ligation, DNA-Entfaltung, DNA-Reparatur“ Ich möchte gerne wissen, in welcher Reihenfolge diese vier Prozesse bei der Replikation der DNA ablaufen?",
+        "target": "DNA-Entfaltung -> DNA-Synthese -> DNA-Ligation -> DNA-Reparatur"
+    },
+    {
+        "input": "Die Mitose in tierischen Zellen lässt sich in vier Hauptprozesse unterteilen: Zytokinese, Chromosomentrennung, Spindelbildung und Prophase. In welcher Reihenfolge laufen diese ab?",
+        "target": "Prophase-> Spindelbildung -> Chromosomentrennung -> Zytokinese"
+    },
+    {
+        "input": "Bringen Sie die folgenden Schritte eines vollständigen Erdölraffinerieprozesses in die richtige Reihenfolge: Rohöl, fraktionierte Destillation, Vorbehandlung, katalytisches Kracken, Entschwefelung und raffiniertes Ölprodukt.",
+        "target": "Rohöl -> Vorbehandlung -> fraktionierte Destillation -> katalytisches Kracken -> Entschwefelung -> raffiniertes Ölprodukt"
+    },
+    {
+        "input": "In welcher Reihenfolge werden die folgenden Schritte bei einem vollständigen Prozess der musikalischen Komposition ausgeführt: Thema entwickeln, Mischen, Demo erstellen, Liedtexte und Melodien komponieren, im Tonstudio aufnehmen, veröffentlichen.",
+        "target": "Thema entwickeln -> Liedtexte und Melodien komponieren -> Demo erstellen -> im Tonstudio aufnehmen -> Mischen -> veröffentlichen"
+    },
+    {
+        "input": "In welcher Reihenfolge werden die folgenden Schritte im eigentlichen Bauplanungsprozess durchgeführt: Konzeptentwurf, Anforderungsanalyse, Vorentwurf, Abnahme, Bauzeichnungen und Bauausführung. Bitte ordnen Sie diese in einer realistischen Reihenfolge.",
+        "target": "Anforderungsanalyse -> Konzeptentwurf -> Vorentwurf -> Bauzeichnungen -> Bauausführung -> Abnahme"
+    },
+    {
+        "input": "Die Ausführung eines Programms besteht aus den drei Hauptteilen „Linken, Kompilierung und Ausführung“. Wie sieht die Reihenfolge der Ausführung in der Praxis aus?",
+        "target": "Kompilierung -> Linken -> Ausführung"
+    },
+    {
+        "input": "In welcher Reihenfolge erfolgen die folgenden Prozesse „Keimen, welken, blühen, Fruchtbildung“ im Wachstumsprozess von Pflanzen?",
+        "target": "Keimen -> Blühen -> Fruchtbildung -> Welken"
+    },
+    {
+        "input": "In welcher Reihenfolge finden diese Vorgänge beim Start eines Flugzeugs statt: „rollen, pushback, beschleunigen und abheben“?",
+        "target": "pushback -> rollen -> beschleunigen -> abheben"
+    },
+    {
+        "input": "Welche der folgenden Methoden zur Kontrolle von Prädiabetes hat in der Regel Vorrang: Medikamente, Änderung der Lebensweise, Blutzuckermessung?",
+        "target": "Änderung der Lebensweise"
+    },
+    {
+        "input": "Wenn jemand an einem Fremdkörper erstickt, wie sollten Sie die folgenden Schritte durchführen: „Die Handlung wiederholen, bis der Fremdkörper herauskommt, das Heimlich-Manöver durchführen, nach dem Zustand fragen, hinter den Patienten stehen\".",
+        "target": "nach dem Zustand fragen -> hinter den Patienten stehen -> das Heimlich-Manöver durchführen -> die Handlung wiederholen, bis der Fremdkörper herauskommt"
+    },
+    {
+        "input": "Wie sollten Sie die folgenden Schritte organisieren, wenn Sie eine Pizza zum Abendessen zubereiten wollen: Belag auflegen, Pizzateig herstellen, Pizza backen, Zutaten vorbereiten.",
+        "target": "Zutaten vorbereiten -> Pizzateig herstellen -> Belag auflegen -> Pizza backen"
+    },
+    {
+        "input": "„Blutabnahme, Einführen des Teststreifens, Händewaschen, Messergebnis ablesen\" sind einige Schritte bei der Blutzuckermessung. Bitte helfen Sie, den gesamten Ablauf der Blutzuckermessung in der richtigen Reihenfolge aufzulisten.",
+        "target": "Händewaschen -> Einführen des Teststreifens -> Blutabnahme -> Messergebnis ablesen"
+    },
+    {
+        "input": "„Schulungen durchführen, die Gefahrenquellen kennenlernen, Präventionsmaßnahmen entwickeln, die Wirksamkeit bewerten\". In welcher Reihenfolge sollten diese Schritte bei der Sicherheitserziehung und -schulung durchgeführt werden?",
+        "target": "die Gefahrenquellen kennenlernen -> Präventionsmaßnahmen entwickeln -> Schulungen durchführen -> die Wirksamkeit bewerten"
+    },
+    {
+        "input": "In welcher Reihenfolge sollten die folgenden Schritte beim Bedienen einer Waschmaschine ausgeführt werden: Programm einstellen, Waschmaschine starten, Wäsche sortieren, Waschmittel hinzufügen, Wäsche einlegen?",
+        "target": "Wäsche sortieren -> Wäsche einlegen -> Waschmittel hinzufügen -> Programm einstellen -> Waschmaschine starten"
+    },
+    {
+        "input": "In welcher Reihenfolge wird bei einem Verkehrsunfall am Unfallort in der Regel vorgegangen: \"Beweise sichern, die Unfallstelle schützen, eine Untersuchung vor Ort durchführen, einen Unfallbescheid ausstellen\".",
+        "target": "die Unfallstelle schützen -> eine Untersuchung vor Ort durchführen -> Beweise sichern -> einen Unfallbescheid ausstellen"
+    },
+    {
+        "input": "In welcher Reihenfolge planen Lehrkräfte in der Regel die folgenden Schritte: Organisation der Umsetzung, Analyse der Ziele, Vorbereitung des Lehrplanentwurfs, Vorbereitung detaillierter Unterrichtspläne?",
+        "target": "Analyse der Ziele -> Vorbereitung des Lehrplanentwurfs -> Vorbereitung detaillierter Unterrichtspläne -> Organisation der Umsetzung"
+    },
+    {
+        "input": "Ein vollständiger Entwurfsprozess eines Programms umfasst normalerweise Folgendes: \"Programmierung, Algorithmusentwurf, Problemanalyse, Fehlerbehebung, Programmausführung\". In welcher Reihenfolge sollten diese Arbeiten ausgeführt werden?",
+        "target": "Problemanalyse -> Algorithmusentwurf -> Programmierung -> Fehlerbehebung -> Programmausführung"
+    },
+    {
+        "input": "Wie vollziehen Fallschirmspringer normalerweise einen Fallschirmsprung? Bitte ordnen Sie die folgenden Schritte in der richtigen Reihenfolge an: \"Abspringen, den Haftungsausschluss unterschreiben, das Fallschirmsystem bedienen und den Fallschirm öffnen, sanft landen, die Ausrüstung anziehen\".",
+        "target": "Den Haftungsausschluss unterschreiben -> Die Ausrüstung anziehen -> Abspringen -> Das Fallschirmsystem bedienen und den Fallschirm öffnen -> Sanft landen"
+    },
+    {
+        "input": "Ich würde gerne den grundlegenden Prozess der Weinlagerung verstehen. Was sollte der erste Schritt aus den folgenden Optionen sein: Etikettierung, Temperatur- und Feuchtigkeitskontrolle, Auswahl eines geeigneten Weinkühlschranks, liegende Lagerung?",
+        "target": "Auswahl eines geeigneten Weinkühlschranks"
+    },
+    {
+        "input": "Wenn man als Anfänger mit der Kosmetik beginnt, weiß man oft nicht, wo man anfangen soll. Ich weiß, dass das Fixieren des Make-ups der letzte Schritt ist. Wie sollen die anderen Schritte angeordnet werden: Make-up-Base auftragen, Gesicht waschen, Hautpflege machen, Make-up auftragen?",
+        "target": "Gesicht waschen -> Hautpflege machen -> Make-up-Base auftragen -> Make-up auftragen -> Make-up fixieren"
+    },
+    {
+        "input": "Ich habe meinem älteren Verwandten ein Blutdruckmessgerät gekauft, aber ich weiß nicht, wie ich es bediene. Das Messen des Blutdrucks besteht normalerweise ausfolgenden Schritten: Blutdruckmessgerät vorbereiten, die Manschette an der Messstelle anlegen, Daten aufzeichnen, Oberarm freilegen, messen. Wie soll ich vorgehen?",
+        "target": "Die richtigen Schritte für das Messen des Blutdrucks mit einem Blutdruckmessgerät sind: Blutdruckmessgerät vorbereiten -> Oberarm freilegen -> Die Manschette an der Messstelle anlegen -> Messen -> Daten aufzeichnen"
+    },
+    {
+        "input": "In welcher Reihenfolge werden die folgenden Prozesse - \"Testfälle entwerfen, Tests ausführen, Testbericht schreiben, Testplan erstellen\" - bei der tatsächlichen Softwaretestung durchgeführt?",
+        "target": "Testplan erstellen -> Testfälle entwerfen -> Tests ausführen -> Testbericht schreiben"
+    },
+    {
+        "input": "Wenn ich zum ersten Mal Daten über das Netz übertrage, können Sie mir die richtige Reihenfolge der folgenden Schritte nennen: „Daten übertragen, Verbindung schließen, Verbindung aufbauen\"?",
+        "target": "Verbindung aufbauen -> Daten übertragen -> Verbindung schließen"
+    },
+    {
+        "input": "Wie sollten Sie die folgenden Schritte anordnen, wenn Sie eine Reise planen wollen: „Reiseziel auswählen, Koffer packen, Flüge und Hotels buchen, losfahren, Reiseablauf planen“. Geben Sie die richtige Reihenfolge an.",
+        "target": "Reiseziel auswählen -> Reiseablauf planen -> Flüge und Hotels buchen -> Koffer packen -> Abreise"
+    },
+    {
+        "input": "Vom Produktentwicklungsprozess bis zur Markteinführung müssen folgende Prozesse durchlaufen werden: \"Produktplanung, Marktforschung, Design und Entwicklung, Produkttests, Serienfertigung und Markteinführung\". Können Sie den gesamten Ablauf basierend auf den obigen Prozessen auflisten?",
+        "target": "Marktforschung -> Produktplanung -> Design und Entwicklung -> Produkttests -> Serienfertigung und Markteinführung"
+    },
+    {
+        "input": "In welcher Reihenfolge wird ein vollständiger Nachrichtenbeitrag erstellt bei der Durchführung der folgenden Schritte gemäß dem gängigen Ablauf: \"Interview führen, Thema auswählen, Redakteur überprüft den Text, Text schreiben, veröffentlichen\".",
+        "target": "Thema auswählen -> Interview führen -> Text schreiben -> Redakteur überprüft den Text -> Veröffentlichen"
+    },
+    {
+        "input": "Ich möchte ein Restaurant buchen, um meine Familie zum Essen einzuladen. Wie soll ich die folgenden Schritte durchführen: „Ankunft, Reservierung, Bestellung, Essen, Abreise, Rechnung bezahlen“.",
+        "target": "Reservierung -> Ankunft -> Bestellung -> Essen -> Rechnung bezahlen -> Abreise"
+    },
+    {
+        "input": "Bitte geben Sie die Reihenfolge dieser sechs Schritte gemäß dem normalen Veröffentlichungsablauf an: \"Redigieren, Schreiben, Korrekturlesen, Drucken, Binden, Veröffentlichung\".",
+        "target": "Schreiben -> Redigieren -> Korrekturlesen -> Drucken -> Binden -> Veröffentlichung"
+    },
+    {
+        "input": "In welcher Reihenfolge werden die folgenden Schritte - \"Quellcodeoptimierung, Generierung des Zielcodes, Syntaxanalyse, Lexikalische Analyse\" - während des Kompilierungsprozesses eines Computerprogramms durchgeführt?",
+        "target": "Lexikalische Analyse -> Syntaxanalyse -> Quellcodeoptimierung -> Generierung des Zielcodes"
+    },
+    {
+        "input": "Der Prozess der Aquarellmalerei umfasst in der Regel folgende Schritte: Bild verfeinern, Details hinzufügen, Umrisse skizzieren, kolorieren. Bitte ordnen Sie diese Schritte in der richtigen Reihenfolge.",
+        "target": "Umrisse skizzieren -> Kolorieren -> Details hinzufügen -> Bild verfeinern"
+    },
+    {
+        "input": "In der Psychotherapie gibt es normalerweise folgende Prozesse: \"Erstkonsultation, Effektivitätsbewertung, Evaluation und Diagnose, Therapieumsetzung, Therapieplanung, Beendigung der Therapie\". In welcher Reihenfolge erfolgen diese Prozesse?",
+        "target": "Erstkonsultation -> Evaluation und Diagnose -> Therapieplanung -> Therapieumsetzung -> Effektivitätsbewertung -> Beendigung der Therapie"
+    },
+    {
+        "input": "Basierend auf dem tatsächlichen E-Commerce-Transaktionsablauf, ordnen Sie die folgenden Schritte richtig an: \"Bedürfniserkennung, After-Sales-Service, Bewertung und Auswahl, Informationssuche, Kaufentscheidung, Transaktionsverarbeitung\". Bitte geben Sie die richtige Reihenfolge an.",
+        "target": "Bedürfniserkennung -> Informationssuche -> Bewertung und Auswahl -> Kaufentscheidung -> Transaktionsverarbeitung -> After-Sales-Service"
+    },
+    {
+        "input": "„Arzneimittelentdeckung, Präklinische Studien, Marktzulassungsprüfung, Klinische Studien\" sind die Schritte, die ein vollständiger Arzneimittelentwicklungsablauf umfassen muss. Können Sie mir die richtige Reihenfolge in der Praxis geben?",
+        "target": "Arzneimittelentdeckung -> Präklinische Studien -> Klinische Studien -> Marktzulassungsprüfung"
+    },
+    {
+        "input": "Der Ablauf der Umweltverträglichkeitsbewertung umfasst die folgenden Phasen: „Datenerhebung zum Projekt, Prognose der Umweltauswirkungen, Untersuchung des gegenwärtigen Umweltzustands, Bewertung der Umweltauswirkungen, Erstellung des Umweltwirkungsberichts, Öffentlichkeitsbeteiligung, Prüfung und Genehmigung“. Bitte ordnen Sie diese Phasen in der richtigen Reihenfolge.",
+        "target": "Datenerhebung zum Projekt -> Untersuchung des gegenwärtigen Umweltzustands -> Prognose der Umweltauswirkungen -> Bewertung der Umweltauswirkungen -> Erstellung des Umweltwirkungsberichts -> Öffentlichkeitsbeteiligung -> Prüfung und Genehmigung"
+    },
+    {
+        "input": "In einem Ökosystem gibt es Produzenten, Konsumenten und Zersetzer. Nennen Sie die Reihenfolge des Energieflusses zwischen diesen Rollen.",
+        "target": "Produzenten -> Konsumenten -> Zersetzer"
+    },
+    {
+        "input": "Das Fotografieren mit einer Kamera umfasst die folgenden Schritte: \"Auslösen; komponieren; scharfstellen; das Foto speichern\". Bitte ordnen Sie diese in der richtigen Reihenfolge.",
+        "target": "Komponieren -> Scharfstellen -> Auslösen -> Das Foto speichern"
+    },
+    {
+        "input": "Bei der Fortpflanzung von Vögeln gibt es die folgenden sechs Phasen: „Brüten, Paarung, Eiablage, Nestbau, Jungenaufzucht, Balz\". Welche Phase beginnt zuerst und welche wird zuletzt abgeschlossen?",
+        "target": "Bei der Fortpflanzung von Vögeln ist die erste Phase die „Balz“ und die letzte die „Jungenaufzucht“."
+    },
+    {
+        "input": "In welcher Reihenfolge sollten bei einer Marktforschungsstudie die folgenden Schritte durchgeführt werden: Sammeln von Informationen, Analysieren von Informationen, Definieren des Problems und der Forschungsziele, Entwerfen eines Forschungsplans, Präsentieren der Ergebnisse und Entscheidungsfindung.",
+        "target": "Definition des Problems und der Forschungsziele -> Entwurf des Forschungsplans -> Sammeln von Informationen -> Analysieren der Informationen -> Präsentation der Ergebnisse -> Entscheidungsfindung"
+    },
+    {
+        "input": "Welche sind nach dem Projektmanagementprozess die ersten drei Phasen der „Projektdurchführung, Projektinitiierung, Projektplanung, Projektüberwachung und Projektabschluss“?",
+        "target": "Projektinitiierung -> Projektplanung -> Projektdurchführung"
+    },
+    {
+        "input": "Beim Entwickeln von Fotografien geht es um „Negativ entwickeln, Stoppen, Negativ fixieren, Negativ belichten“. Bitte ordnen Sie die Schritte in der richtigen Reihenfolge an.",
+        "target": "Negativ belichten -> Negativ entwickeln -> Stoppen -> Negativ fixieren"
+    },
+    {
+        "input": "In welcher Reihenfolge sollten Entwickler die folgenden Schritte durchführen, um einen Satelliten erfolgreich zu starten: Entwurf, Start, Herstellung, Orbitaleinschuss, Betrieb.",
+        "target": "Um einen Satelliten erfolgreich zu starten, sollten Entwickler die folgenden Schritte in der folgenden Reihenfolge durchführen: Entwurf -> Herstellung -> Start -> Orbitaleinschuss -> Betrieb"
+    },
+    {
+        "input": "Die Angestellten des Weingutes haben erklärt, dass der Herstellungsprozess von Wein die Phasen \"Ernte, Fermentation, Pressen, Abfüllen, Reifen\" umfasst. Können Sie die Phasen in der richtigen Reihenfolge anordnen?",
+        "target": "Ernte -> Pressen -> Fermentation -> Reifen -> Abfüllen"
+    },
+    {
+        "input": "In welcher Reihenfolge finden die folgenden Schritte bei der Ölraffination statt: Fraktionierende Destillation, Entsalzen, Katalytisches Reforming, Lagerung.",
+        "target": "Entsalzen -> Fraktionierende Destillation -> Katalytisches Reforming -> Lagerung"
+    },
+    {
+        "input": "Bitte geben Sie die Reihenfolge dieser fünf Schritte gemäß dem normalen Startprozess einer Rakete an: Raketenentwurf, Start, Herstellung, Betankung, Eintritt in die Umlaufbahn.",
+        "target": "Die richtige Reihenfolge ist: Raketenentwurf -> Herstellung -> Betankung -> Start -> Eintritt in die Umlaufbahn"
+    },
+    {
+        "input": "Der Stromerzeugungsprozess in einem Kernkraftwerk umfasst folgende Schritte: Dampferzeugung, Kernspaltung, Kühlung, Turbinenrotation, Stromerzeugung. Wenn man die Schritte von der Startphase bis zum Ende der Stromerzeugung ordnen möchte, wie lautet die Reihenfolge?",
+        "target": "Kernspaltung -> Dampferzeugung -> Turbinenrotation -> Stromerzeugung -> Kühlung"
+    },
+    {
+        "input": "Mein Großvater wird am Herzen operiert, und ich möchte wissen, in welcher Reihenfolge die einzelnen Phasen der Operation ablaufen: „Präoperative Vorbereitung, Operation, Diagnose, postoperative Erholung, Nachuntersuchung“.",
+        "target": "Diagnose -> Präoperative Vorbereitung -> Operation -> Postoperative Erholung -> Nachuntersuchung"
+    },
+    {
+        "input": "Nächste Woche werde ich eine Flugzeugmanufaktur besuchen. Weißt du, wie die folgenden Herstellungsschritte \"Materialauswahl, Montage, Entwurf, Bauteilfertigung, Test\" zu einem vollständigen Herstellungsprozess zusammenkommen?",
+        "target": "Entwurf -> Materialauswahl -> Bauteilfertigung -> Montage -> Test"
+    },
+    {
+        "input": "Die Automobilherstellung lässt sich in die folgenden Phasen unterteilen: Rohstoffbeschaffung, Konstruktion, Vertrieb, Komponentenherstellung, Montage und Qualitätskontrolle. Können Sie mir helfen, sie in der tatsächlichen Reihenfolge anzuordnen?",
+        "target": "Nach dem tatsächlichen Prozess der Automobilherstellung ist die Reihenfolge dieser Stufen wie folgt: Konstruktion -> Rohstoffbeschaffung -> Komponentenherstellung -> Montage -> Qualitätsprüfung -> Verkauf"
+    },
+    {
+        "input": "Beim Anbau von Nutzpflanzen auf einem Bauernhof gibt es folgende Phasen: \"Saat, Düngung und Bewässerung, Bodenvorbereitung, Lagerung, Ernte\". Ordnen Sie diese nach Reihenfolge.",
+        "target": "Bodenvorbereitung -> Saat -> Düngung und Bewässerung -> Ernte -> Lagerung"
+    },
+    {
+        "input": "In welcher Reihenfolge laufen bei der Proteinsynthese die Prozesse der RNA-Translation, der DNA-Transkription, der Proteinfaltung und des Spleißens ab?",
+        "target": "DNA-Transkription -> Spleißen -> RNA-Translation -> Proteinfaltung"
+    },
+    {
+        "input": "Wenn ich mein Auto starten möchte, wie soll ich die folgenden Schritte ausführen: Zündschalter einschalten, Gaspedal betätigen, Gang schalten, Bremspedal betätigen. Bitte geben Sie die Reihenfolge an.",
+        "target": "Bremspedal betätigen -> Zündschalter einschalten -> Gang schalten -> Gaspedal betätigen"
+    },
+    {
+        "input": "Der Fermentationsprozess von Hefepilzen besteht normalerweise aus den folgenden Phasen: Die Hefe nimmt Zucker auf, die Hefe stirbt, die Hefe wächst, die Hefe produziert Alkohol. Wie erfolgen diese Phasen gemäß dem normalen Gärungsprozess? Bitte geben Sie die Reihenfolge der Phasen an.",
+        "target": "Die Hefe nimmt Zucker auf -> Die Hefe wächst -> Die Hefe produziert Alkohol -> Die Hefe stirbt"
+    },
+    {
+        "input": "Der Startvorgang eines Computers umfasst normalerweise Folgendes: Betriebssystem laden, Anmeldemaske anzeigen, die Einschalttaste drücken, das Passwort eingeben und sich anmelden. Bitte ordnen Sie diese Schritte in der richtigen Reihenfolge.",
+        "target": "Die Einschalttaste drücken -> Betriebssystem laden -> Anmeldemaske anzeigen -> Das Passwort eingeben und sich anmelden"
+    },
+    {
+        "input": "Wie würden Sie die folgenden Phasen gemäß dem richtigen Atmungsprozess des menschlichen Körpers ordnen: Sauerstoff gelangt in die Lunge, Ausatmen, Kohlendioxid wird ausgeschieden, Einatmen.",
+        "target": "Einatmen -> Sauerstoff gelangt in die Lunge -> Ausatmen -> Kohlendioxid wird ausgeschieden."
+    },
+    {
+        "input": "Um von Wasserdampf zu Wasser zu gelangen, in welcher Reihenfolge müssen folgende Phasen durchlaufen werden: Bildung von Wassertröpfchen, Wasserdampf verliert Wärme,  Ansammlung von Wassermolekülen.",
+        "target": "Wasserdampf verliert Wärme -> Ansammlung von Wassermolekülen -> Bildung von Wassertröpfchen"
+    },
+    {
+        "input": "Wie durchläuft Wasser die folgenden drei Phasen, um von flüssig zu fest zu werden: Gefrieren, Abkühlung und Bildung von Eis. Geben Sie Ihre Antwort in der Reihenfolge an, in der sie auftreten.",
+        "target": "Abkühlung -> Gefrieren -> Bildung von Eis"
+    },
+    {
+        "input": "In welcher Reihenfolge treten die folgenden vier Phasen bei der Bildung und dem Ausbruch eines Vulkans auf: Vulkanbildung, Magmaakkumulation, Erdkrustenbewegung und Magmaausbruch.",
+        "target": "Erdkrustenbewegung -> Magmaakkumulation -> Magmaausbruch -> Vulkanbildung"
+    },
+    {
+        "input": "Vom Roherz zum Metall sind folgende Schritte erforderlich: Erzverhüttung, Erzabbau, Erzaufbereitung und Metallveredelung. Bitte bringen Sie diese in die richtige Reihenfolge.",
+        "target": "Erzabbau -> Erzaufbereitung -> Erzverhüttung -> Metallveredelung"
+    },
+    {
+        "input": "Beim Herstellen von Möbeln aus Stammholz sind mehrere Schritte nötig. Bitte bringen Sie die folgenden Schritte in die richtige Reihenfolge: Fällen des Stammholzes, Sägen des Stammholzes, Trocknen des Holzes, Holzverarbeitung, Möbelherstellung.",
+        "target": "Fällen des Stammholzes -> Sägen des Stammholzes -> Trocknen des Holzes -> Holzverarbeitung -> Möbelherstellung"
+    },
+    {
+        "input": "Ich möchte den Herstellungsprozess von Schokolade lernen. In welcher Reihenfolge sollten die folgenden Schritte durchgeführt werden: Mahlen; Ernte der Kakaobohnen; Fermentation; Trocknung; Temperieren und Formen.",
+        "target": "Ernte der Kakaobohnen -> Fermentation -> Trocknung -> Mahlen -> Temperieren und Formen"
+    },
+    {
+        "input": "In welcher richtigen Reihenfolge sollten die folgenden Schritte beim Herstellungsprozess von Textilien durchgeführt werden: Färben, Rohstoffgewinnung, Spinnen, Weben, Konfektionierung?",
+        "target": "Rohstoffgewinnung -> Spinnen -> Weben -> Färben -> Konfektionierung"
+    },
+    {
+        "input": "In welcher Reihenfolge findet der folgende Prozess des maschinellen Modelllernens in realen Anwendungen statt: Datenerfassung, Problemdefinition, Datenbereinigung, Feature Engineering, Modelltraining, Modellevaluierung, Modelloptimierung, Modellimplementierung.",
+        "target": "Problemdefinition -> Datenerfassung -> Datenbereinigung -> Feature Engineering -> Modelltraining -> Modellevaluierung -> Modelloptimierung -> Modellimplementierung"
+    },
+    {
+        "input": "Der Prozess der Formulierung der Unternehmensstrategie ist in mehrere Teile unterteilt: SMART-Zielsetzung, SWOT-Analyse, Strategieformulierung, Strategieumsetzung und Strategiebewertung. Wie sollten sie in der Reihenfolge der Umsetzung angeordnet werden?",
+        "target": "SWOT-Analyse -> SMART-Zielsetzung -> Strategieformulierung -> Strategieumsetzung -> Strategiebewertung"
+    },
+    {
+        "input": "Ich möchte lernen, Brot zu backen, und würde gerne wissen, wie die richtige Reihenfolge der Schritte Gärung, Teigzubereitung, Formen, Backen und Verpacken lautet?",
+        "target": "Teigzubereitung -> Gärung -> Formen -> Backen -> Verpacken"
+    },
+    {
+        "input": "Die Schritte der Bierherstellung sind Hefegärung, Malzherstellung, Filtration, Abfüllung und Lagerung der Fertigprodukte. Wie ist die richtige Reihenfolge dieser Schritte?",
+        "target": "Malzherstellung -> Hefegärung -> Filtration -> Abfüllung -> Lagerung der Fertigprodukte"
+    },
+    {
+        "input": "Rohstoffsammlung, das Formen des Papiers, das Trocknen, das Schneiden und die Zellstoffgewinnung sind die fünf Schritte des Papierherstellungsprozesses. Ich möchte wissen, welche Schritte vor der Formung des Papiers durchgeführt werden müssen?",
+        "target": "Die folgenden Schritte sollten abgeschlossen sein, bevor das Papier geformt wird: Rohstoffsammlung -> Zellstoffgewinnung"
+    },
+    {
+        "input": "In welcher Reihenfolge finden die vier Phasen der Informationsaufnahme des menschlichen Gehirns statt, vom Eingang der Information bis zum Ausgang des Gedächtnisses: Kodierung, Wahrnehmung, Abruf und Speicherung.",
+        "target": "Wahrnehmung -> Kodierung -> Speicherung -> Abruf"
+    },
+    {
+        "input": "An meinem ersten Tag als Praktikantin in einem Kraftwerk habe ich erfahren, dass bei der Umwandlung in elektrische Energie folgende Prozesse auftreten: Mechanische Energie (Rotordrehung), Wärmeenergie (Dampf), Chemische Energie (Brennstoff), elektrische Energie (Ausgabe des Generators). Aber ich habe die Reihenfolge, in der diese Prozesse ablaufen, vergessen. Können Sie mir die korrekte Reihenfolge sagen?",
+        "target": "Chemische Energie (Brennstoff) -> Wärmeenergie (Dampf) -> Mechanische Energie (Rotordrehung) -> Elektrische Energie (Ausgabe des Generators)"
+    },
+    {
+        "input": "Um ein Gericht aus Tomaten und Eiern zu lernen zu kochen, umfasst das normalerweise folgende Schritte:\n1.Die Tomaten hinzufügen und braten, bis sie weich werden und Saft austreten.\n2.Die Tomaten in Stücke schneiden und die Eier aufschlagen und zur Seite legen.\n3.Eine angemessene Menge Salz und Zucker hinzufügen, um zu würzen, und gut miteinander umrühren.\n4.Zubereitung: Tomaten, Eier, Frühlingszwiebeln, Ingwer und Knoblauch vorbereiten.\n5.Die Eierflüssigkeit einfüllen und schnell braten, bis die Eier durchgekocht sind.\n6.Eine heiße Pfanne mit kaltem Öl nehmen, Frühlingszwiebeln, Ingwer und Knoblauch hinein tun und anbraten, bis ein Aroma entsteht.\nBitte geben Sie die richtige Reihenfolge gemäß dem realen Ablauf an.",
+        "target": "4 -> 2 -> 6 -> 5 -> 1 -> 3"
+    },
+    {
+        "input": "Marie muss der anderen Partei eine Überweisung vornehmen. In welcher Reihenfolge sollte sie die folgenden Schritte ausführen: Überweisungsformular ausfüllen, Quittung unterschreiben und aufbewahren, zum Bankschalter gehen, das Formular an den Bankangestellten überreichen.",
+        "target": "Zum Bankschalter gehen -> Überweisungsformular ausfüllen -> Das Formular an den Bankangestellten überreichen -> Quittung unterschreiben und aufbewahren"
+    },
+    {
+        "input": "Ich möchte eine Süßkartoffel als Abendessen backen. Wie soll ich die folgenden Schritte ausführen, um die meiste Zeit zu sparen? Was soll ich zuerst und was später tun? 1. Mit einer Gabel Löcher in die Süßkartoffel stechen. 2. Herausnehmen und aufschneiden.3. In den Ofen legen4. Die Süßkartoffel waschen. 5. Mit Alufolie umwickeln.6. 45 bis 60 Minuten backen, bis sie weich und gar ist. 7. Würze hinzufügen.",
+        "target": "Die richtige Reihenfolge ist: 4 -> 1 -> 5 -> 3 ->  6 -> 2 -> 7"
+    },
+    {
+        "input": "Ich habe gerade angefangen, Klavier zu spielen, und das erste Stück, das ich lernen will, ist \"Funkel, funkel, kleiner Stern\". Hier ist mein geplantes Trainingsprogramm: Die Grundlagen der Fingertechnik beherrschen, wiederholt üben, nach der Melodie spielen, das Notenblatt von „Funkel, funkel, kleiner Stern“ finden. In welcher Reihenfolge werden normalerweise die obigen Schritte durchgeführt?",
+        "target": "Das Notenblatt von „Funkel, funkel, kleiner Stern“ finden -> Die Grundlagen der Fingertechnik beherrschen -> Nach der Melodie spielen -> Wiederholt üben"
+    },
+    {
+        "input": "Die allgemeinen Schritte zum Zuschneiden von Bildern mit Photoshop umfassen: Die Schaltfläche \"Bestätigen\" in der oberen rechten Ecke klicken, das \"Freistellungswerkzeug\" in der Werkzeugleiste auswählen, mit der Maus ziehen, um den Bereich auszuwählen, den Sie zuschneiden möchten, und das Bild öffnen, das Sie zuschneiden möchten. Bitte ordnen Sie die Schritte in der richtigen Reihenfolge an.",
+        "target": "Das Bild öffnen, das Sie zuschneiden möchten -> Das \"Freistellungswerkzeug\" in der Werkzeugleiste auswählen -> Mit der Maus ziehen, um den Bereich auszuwählen, den Sie zuschneiden möchten -> Die Schaltfläche \"Bestätigen\" in der oberen rechten Ecke klicken"
+    },
+    {
+        "input": "Um erfolgreich Flugtickets online zu kaufen, in welcher Reihenfolge sollte man die folgenden Schritte durchführen:\n1.Passende Flugtickets auswählen und die Online-Zahlung abschließen, danach erhält man die Bestätigung des elektronischen Tickets sowie relevante Reiseinformationen.\n2.Eine zuverlässige Online-Reisewebsite oder die Website einer Fluggesellschaft besuchen.\n3.Die Ergebnisse filtern und verschiedene Flugpreise, Flugzeiten und Bewertungen der Fluggesellschaften vergleichen.\n4.Den Abflugort, den Zielort und das Reisedatum eingeben, um relevante Flugticketinformationen zu erhalten.\nBitte gib mir die richtige Reihenfolge der Schritte.",
+        "target": "Die richtige Reihenfolge lautet: 2 -> 4 -> 3 -> 1"
+    },
+    {
+        "input": "Die Schritte zum Einfügen einer Audiodatei in PowerPoint sind wie folgt: \"Audio\" auswählen, \"Einfügen\" in der Menüleiste klicken, in der Dropdown-Liste \"Audio auf meinem Computer\" auswählen, die Audiodatei auswählen, die Sie einfügen möchten. Bitte geben Sie den vollständigen Ablauf in der richtigen Arbeitsfolge an.",
+        "target": "\"Einfügen\" in der Menüleiste klicken -> \"Audio\" auswählen -> in der Dropdown-Liste \"Audio auf meinem Computer\" auswählen -> die Audiodatei auswählen, die Sie einfügen möchten"
+    },
+    {
+        "input": "Wenn man online ein Hotel bucht, umfasst der Prozess die folgenden vier Schritte:\n1.Die Hoteldetails und die Gästebewertungen ansehen.\n2.Den gewünschten Zimmertyp auswählen, die Angaben zum Gast eintragen und nach Überprüfung die Zahlung vornehmen.\n3.Die Hotelbuchungswebsite oder -App öffnen und Ihr Reiseziel sowie das Check-in-Datum eingeben.\n4.Die Hotels nach Ihrem Budget und Ihren Bedürfnissen filtern.\nIn welcher Reihenfolge sollten diese Schritte durchgeführt werden?",
+        "target": "Die richtige Reihenfolge lautet: 3 -> 4 -> 1 -> 2"
+    },
+    {
+        "input": "Ich möchte nicht zur Bank gehen, aber ich möchte eine Kreditkarte beantragen. In welcher Reihenfolge sollte ich die folgenden Schritte durchführen:\n① Das Antragsformular einreichen und auf die Genehmigung durch die Bank warten.\n② Nach der Genehmigung wird die Kreditkarte von der Bank an die von mir angegebene Adresse geschickt.\n③ Den gewünschten Kreditkartentyp auswählen und das Antragsformular ausfüllen.\n④ Die Website oder App der Bank öffnen und die Option „Kreditkartenantrag“ auswählen.\nBitte gib mir die richtige Reihenfolge der Schritte.",
+        "target": "Die richtige Reihenfolge ist: ④ -> ③ -> ① -> ②"
+    }
+]

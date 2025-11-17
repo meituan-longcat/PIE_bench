@@ -1,0 +1,884 @@
+[
+    {
+        "input": "O paciente é um homem de 45 anos com histórico de úlcera há 10 anos. Desde ontem, ele apresentou intensificação da dor epigástrica e evacuou cinco vezes fezes pastosas semelhantes a piche, aproximadamente 100-200 ml por vez. Nesta manhã, evacuou mais duas vezes fezes semelhantes cerca de 500 ml no total. Posteriormente, apresentou palidez, pele fria e úmida e ficou não responsivo, sendo internado de emergência. Exame físico: o paciente está com consciência confusa, lábios cianóticos, P 125 bpm, R 25 rpm, PA 80/55 mmHg. De acordo com os sinais clínicos do paciente, estima-se que o volume de sangramento seja de quanto?\nA. 250-300 ml\nB. 300-500 ml\nC. 500-800 ml\nD. ＞1000 ml",
+        "target_scores": {
+            "A. 250-300 ml": 0,
+            "B. 300-500 ml": 0,
+            "C. 500-800 ml": 0,
+            "D. ＞1000 ml": 1
+        }
+    },
+    {
+        "input": "Quando a concentração de oxigenoterapia é superior a 60%, por tempo superior a 24 horas, qual efeito colateral pode ocorrer?\nA. Dispneia inspiratória\nB. Indução de asma\nC. Respiração profunda\nD. Toxicidade por oxigênio",
+        "target_scores": {
+            "A. Dispneia inspiratória": 0,
+            "B. Indução de asma": 0,
+            "C. Respiração profunda": 0,
+            "D. Toxicidade por oxigênio": 1
+        }
+    },
+    {
+        "input": "Quando uma hérnia encarcerada evolui para hérnia estrangulada, qual das seguintes opções está incorreta?\nA. Desaparecimento da pulsação da artéria mesentérica\nB. Perda de brilho da parede intestinal\nC. Perda de elasticidade da parede intestinal\nD. Peristaltismo intestinal ainda presente",
+        "target_scores": {
+            "A. Desaparecimento da pulsação da artéria mesentérica": 0,
+            "B. Perda de brilho da parede intestinal": 0,
+            "C. Perda de elasticidade da parede intestinal": 0,
+            "D. Peristaltismo intestinal ainda presente": 1
+        }
+    },
+    {
+        "input": "Em casos de abdômen agudo com diagnóstico incerto, por que é contraindicado o uso de termoterapia ?\nA. Causa diarreia\nB. Dificulta a absorção da inflamação\nC. Pode causar contração reflexa das artérias coronárias\nD. Pode mascarar o quadro clínico",
+        "target_scores": {
+            "A. Causa diarreia": 0,
+            "B. Dificulta a absorção da inflamação": 0,
+            "C. Pode causar contração reflexa das artérias coronárias": 0,
+            "D. Pode mascarar o quadro clínico": 1
+        }
+    },
+    {
+        "input": "Paciente do sexo masculino, 28 anos, sofreu trauma por acidente automobilístico no quadrante superior esquerdo do abdômen há 5 dias. Na ocasião, apresentava distensão dolorosa e dor à palpação local. Foi hospitalizado e recebeu tratamento conservador. Esta manhã, o paciente desmaiou repentinamente, apresentando palidez facial, pulso fino e rápido, sem sinais evidentes de irritação peritoneal. O diagnóstico mais provável é?\nA. Perfuração da vesícula biliar\nB. Ruptura esplênica\nC. Ruptura hepática\nD. Ruptura renal",
+        "target_scores": {
+            "A. Perfuração da vesícula biliar": 0,
+            "B. Ruptura esplênica": 1,
+            "C. Ruptura hepática": 0,
+            "D. Ruptura renal": 0
+        }
+    },
+    {
+        "input": "Paciente hipertenso acorda durante o sono com extrema opressão torácica, dispneia, sudorese profusa, tosse com grande quantidade de expectoração espumosa rosada, ortopneia, pressão arterial 26,6/14,7 kPa (200/110 mmHg), frequência cardíaca 110/min. Qual das seguintes intervenções de enfermagem está incorreta?\nA. A infusão intravenosa deve ser rápida\nB. Estabelecer acesso venoso\nC. Oxigenoterapia umidificada com álcool 4-6 L/min\nD. Posicionar o paciente sentado com as pernas pendentes",
+        "target_scores": {
+            "A. A infusão intravenosa deve ser rápida": 1,
+            "B. Estabelecer acesso venoso": 0,
+            "C. Oxigenoterapia umidificada com álcool 4-6 L/min": 0,
+            "D. Posicionar o paciente sentado com as pernas pendentes": 0
+        }
+    },
+    {
+        "input": "Paciente idoso frequentemente apresenta crises de asma durante a madrugada, acompanhadas de tosse frequente, expectoração espumosa rosada, às vezes sanguinolenta, com estertores úmidos em ambas as bases pulmonares. Qual diagnóstico tem maior probabilidade?\nA. Asma brônquica\nB. Asma cardíaca\nC. Câncer de pulmão\nD. Pneumonite de hipersensibilidade",
+        "target_scores": {
+            "A. Asma brônquica": 0,
+            "B. Asma cardíaca": 1,
+            "C. Câncer de pulmão": 0,
+            "D. Pneumonite de hipersensibilidade": 0
+        }
+    },
+    {
+        "input": "Paciente do sexo masculino, 70 anos, admitido por perda súbita de consciência há 1 hora. Exame físico: sulco nasolabial esquerdo superficial, hemiplegia de membros superior e inferior esquerdos. Qual cuidado de enfermagem está incorreto?\nA. Cateterismo vesical de demora\nB. Decúbito dorsal sem travesseiro\nC. Jejum temporário\nD. Oxigenoterapia",
+        "target_scores": {
+            "A. Cateterismo vesical de demora": 0,
+            "B. Decúbito dorsal sem travesseiro": 1,
+            "C. Jejum temporário": 0,
+            "D. Oxigenoterapia": 0
+        }
+    },
+    {
+        "input": "Paciente do sexo feminino com hipocalemia devido a vômitos recorrentes, apresentando fadiga, fraqueza generalizada e reflexos tendinosos diminuídos. Qual é o diagnóstico de enfermagem mais adequado?\nA. Abaixo das necessidades corporais\nB. Desnutrição\nC. Estado respiratório ineficaz\nD. Intolerância à atividade física",
+        "target_scores": {
+            "A. Abaixo das necessidades corporais": 0,
+            "B. Desnutrição": 0,
+            "C. Estado respiratório ineficaz": 0,
+            "D. Intolerância à atividade física": 1
+        }
+    },
+    {
+        "input": "Paciente com lesão torácica apresentando dor no peito e falta de ar. Ao exame físico: dor à palpação local, dor no local da lesão quando comprimido o tórax anterior e posterior, ausculta com diminuição discreta dos sons respiratórios no lado afetado, sons respiratórios claros no lado saudável, traqueia centralizada, frequência cardíaca 96/min, pressão arterial 120/80 mmHg. A primeira consideração diagnóstica é?\nA. Enfisema mediastinal\nB. Fratura de costela\nC. Pneumotórax hipertensivo\nD. Tamponamento cardíaco",
+        "target_scores": {
+            "A. Enfisema mediastinal": 0,
+            "B. Fratura de costela": 1,
+            "C. Pneumotórax hipertensivo": 0,
+            "D. Tamponamento cardíaco": 0
+        }
+    },
+    {
+        "input": "Um paciente com queimadura extensa, após reposição de líquidos, apresenta pressão arterial de 80/72 mmHg, débito urinário de 20 ml/h, pressão venosa central de 4 cmH₂O. Isto indica que o paciente tem?\nA. Comprometimento da função renal\nB. Edema pulmonar\nC. Hipovolemia\nD. Insuficiência cardíaca",
+        "target_scores": {
+            "A. Comprometimento da função renal": 0,
+            "B. Edema pulmonar": 0,
+            "C. Hipovolemia": 1,
+            "D. Insuficiência cardíaca": 0
+        }
+    },
+    {
+        "input": "Paciente do sexo masculino, 50 anos, com cirrose hepática complicada por hemorragia digestiva alta. Durante o uso de tubo de balão duplo de três lúmens para compressão hemostática, apresenta subitamente agitação, cianose e dificuldade respiratória. A conduta imediata deve ser?\nA. Comunicar ao médico\nB. Liberar o ar do balonete\nC. Oxigenoterapia\nD. Uso de estimulantes respiratórios",
+        "target_scores": {
+            "A. Comunicar ao médico": 0,
+            "B. Liberar o ar do balonete": 1,
+            "C. Oxigenoterapia": 0,
+            "D. Uso de estimulantes respiratórios": 0
+        }
+    },
+    {
+        "input": "A Ana, sexo feminino, 35 anos, vítima de atropelamento, queixa de dor insuportável no hemitórax direito. Exame físico: consciente, face cianótica, respiração rápida, agitação, pulso fino e rápido, extremidades frias e úmidas, temperatura 36,5 °C, pulso 104/min, respiração 25/min, pressão arterial 11/8 kPa. Lesão na parede torácica direita com laceração de $3 cm×2 cm$, quebrada das costelas, sangramento contínuo, respiração paradoxal, som sibilante audível na ferida. O primeiro procedimento no local deve ser?\nA. Compressão com almofada de algodão grosso\nB. Drenagem pleural fechada\nC. Infusão rápida de fluidos e oxigenoterapia\nD. Toracocentese para drenagem de ar",
+        "target_scores": {
+            "A. Compressão com almofada de algodão grosso": 1,
+            "B. Drenagem pleural fechada": 0,
+            "C. Infusão rápida de fluidos e oxigenoterapia": 0,
+            "D. Toracocentese para drenagem de ar": 0
+        }
+    },
+    {
+        "input": "Paciente com lesão craniocerebral apresenta distúrbio de consciência com intervalo lúcido, midríase unilateral sem resposta à luz, hemiplegia contralateral. Isto sugere?\nA. Contusão e laceração cerebral\nB. Hematoma epidural\nC. Hérnia do forame magno\nD. Lesão do tronco cerebral",
+        "target_scores": {
+            "A. Contusão e laceração cerebral": 0,
+            "B. Hematoma epidural": 1,
+            "C. Hérnia do forame magno": 0,
+            "D. Lesão do tronco cerebral": 0
+        }
+    },
+    {
+        "input": "Paciente do sexo masculino, 67 anos, com cardiopatia pulmonar em fase de agudização aguda. Análise de gases no sangue: $pH 7{,}25$, $PaCO_{2} 9{,}3kPa$, $HCO^{-}_{3} 30 mmol/L$. A medida terapêutica para o desequilíbrio ácido-básico deve ser?\nA. Administração de diuréticos\nB. Infusão intravenosa de bicarbonato de sódio a 5%\nC. Infusão intravenosa de cloridrato de arginina\nD. Melhorar a função ventilatória",
+        "target_scores": {
+            "A. Administração de diuréticos": 0,
+            "B. Infusão intravenosa de bicarbonato de sódio a 5%": 0,
+            "C. Infusão intravenosa de cloridrato de arginina": 0,
+            "D. Melhorar a função ventilatória": 1
+        }
+    },
+    {
+        "input": "Paciente do sexo feminino, 60 anos, com febre alta e calafrios há dois dias, tosse, expectoração com estrias de sangue, dor torácica. Exame físico: temperatura 37 °C, face acinzentada, pele fria e úmida, cianose labial, macicez à percussão no lobo superior esquerdo, murmúrio vesicular diminuído, alguns estertores úmidos, frequência cardíaca 128/min, pressão arterial 70/50 mmHg. A medida imediata a ser tomada é?\nA. Contagem de leucócitos com diferencial\nB. Cultura de escarro com teste de suscetibilidade antimicrobiana\nC. Infusão de fluidos e drogas vasoativas\nD. Radiografia de tórax",
+        "target_scores": {
+            "A. Contagem de leucócitos com diferencial": 0,
+            "B. Cultura de escarro com teste de suscetibilidade antimicrobiana": 0,
+            "C. Infusão de fluidos e drogas vasoativas": 1,
+            "D. Radiografia de tórax": 0
+        }
+    },
+    {
+        "input": "Paciente do sexo masculino, 55 anos, portador de bronquite crônica e enfisema pulmonar obstrutivo. Recente exacerbação, há 2 horas iniciou dor aguda em punhalada no hemitórax esquerdo, agravamento da dispneia. Para confirmação diagnóstica, o exame mais apropriado seria?\nA. Eletrocardiograma\nB. Radiografia de tórax\nC. Tomografia computadorizada pulmonar\nD. Ultrassonografia pulmonar",
+        "target_scores": {
+            "A. Eletrocardiograma": 0,
+            "B. Radiografia de tórax": 1,
+            "C. Tomografia computadorizada pulmonar": 0,
+            "D. Ultrassonografia pulmonar": 0
+        }
+    },
+    {
+        "input": "Paciente do sexo masculino, 36 anos, previamente saudável. Após exposição à chuva, apresentou febre e tosse por 2 dias, seguidas de dor no quadrante superior direito do abdômen, dispneia e náuseas há 1 dia. Além de considerar abdômen agudo, qual doença deve ser diferenciada prioritariamente?\nA. Embolia pulmonar\nB. Paralisia do nervo frênico\nC. Pneumonia pneumocócica\nD. Pneumotórax espontâneo",
+        "target_scores": {
+            "A. Embolia pulmonar": 0,
+            "B. Paralisia do nervo frênico": 0,
+            "C. Pneumonia pneumocócica": 1,
+            "D. Pneumotórax espontâneo": 0
+        }
+    },
+    {
+        "input": "Paciente do sexo feminino, 38 anos, admitida com fratura pélvica, ruptura hepática e choque hemorrágico. Durante o tratamento, apresentou taquipneia, desconforto respiratório, cianose labial, estertores úmidos em ambos os pulmões, PaO₂<8,0 kPa. O manejo eficaz seria?\nA. Oxigenoterapia com máscara de alta concentração\nB. Uso de estimulantes respiratórios\nC. Ventilação com pressão negativa no final da expiração\nD. Ventilação com pressão positiva no final da expiração",
+        "target_scores": {
+            "A. Oxigenoterapia com máscara de alta concentração": 0,
+            "B. Uso de estimulantes respiratórios": 0,
+            "C. Ventilação com pressão negativa no final da expiração": 0,
+            "D. Ventilação com pressão positiva no final da expiração": 1
+        }
+    },
+    {
+        "input": "Mulher, 47 anos, sofreu traumatismo craniano em acidente automobilístico. Abre os olhos quando chamada, responde incorretamente às perguntas, esquiva-se à dor durante o exame. Segundo a Escala de Coma de Glasgow, sua pontuação é?\nA. 11 minutos\nB. 12 minutos\nC. 15 minutos\nD. 8 minutos",
+        "target_scores": {
+            "A. 11 minutos": 1,
+            "B. 12 minutos": 0,
+            "C. 15 minutos": 0,
+            "D. 8 minutos": 0
+        }
+    },
+    {
+        "input": "Paciente do sexo feminino, 32 anos, vítima de acidente automobilístico com trauma no quadrante superior esquerdo do abdômen, apresentando dor abdominal, palidez, sudorese fria, pulso fino e rápido, queda da pressão arterial. A primeira consideração diagnóstica é?\nA. Perfuração gástrica\nB. Perfuração intestinal\nC. Ruptura esplênica\nD. Ruptura hepática",
+        "target_scores": {
+            "A. Perfuração gástrica": 0,
+            "B. Perfuração intestinal": 0,
+            "C. Ruptura esplênica": 1,
+            "D. Ruptura hepática": 0
+        }
+    },
+    {
+        "input": "Paciente no pós-operatório de hepatectomia parcial apresenta sonolência, agitação e icterícia. Deve-se considerar?\nA. Abscesso subfrênico\nB. Encefalopatia hepática\nC. Hemorragia interna\nD. Peritonite biliar",
+        "target_scores": {
+            "A. Abscesso subfrênico": 0,
+            "B. Encefalopatia hepática": 1,
+            "C. Hemorragia interna": 0,
+            "D. Peritonite biliar": 0
+        }
+    },
+    {
+        "input": "Paciente do sexo masculino, 62 anos, angina de peito há dois anos, dor intensa no esterno médio há 4 horas, que não pôde ser aliviada com nitroglicerina sublingual. Exame físico: frequência cardíaca aumentada, ritmo diastólico de galope pode ser ouvido na região apical e elevação do segmento ST no eletrocardiograma. Os resultados dos exames deste paciente podem mostrar?\nA. Diminuição da glicemia\nB. Diminuição da proteína C reativa\nC. Elevação das enzimas cardíacas séricas\nD. Leucopenia",
+        "target_scores": {
+            "A. Diminuição da glicemia": 0,
+            "B. Diminuição da proteína C reativa": 0,
+            "C. Elevação das enzimas cardíacas séricas": 1,
+            "D. Leucopenia": 0
+        }
+    },
+    {
+        "input": "Homem, 48 anos, 23 dias após cirurgia para “pancreatite necrosante hemorrágica aguda”, 20 dias após tratamento com TPN com cateter venoso profundo. Hoje, ele desenvolveu calafrios, febre alta, $T39,8 °C, cefaleia, tontura e rubor. O paciente está extremamente irritado, P132 batimentos/min, R36 batimentos/min. Exames de sangue de rotina: contagem de leucócitos $25×10^9/L$, núcleos neutrofílicos deslocados para a esquerda. A essa altura, o paciente deve ser considerado, em primeiro lugar, como ?\nA. Sepse causada por infecção de cateter intravenoso\nB. Sepse devido a infecção entérica\nC. Sepse devido a infecção incisional\nD. Toxemia causada pela absorção de toxinas de tecidos necróticos",
+        "target_scores": {
+            "A. Sepse causada por infecção de cateter intravenoso": 1,
+            "B. Sepse devido a infecção entérica": 0,
+            "C. Sepse devido a infecção incisional": 0,
+            "D. Toxemia causada pela absorção de toxinas de tecidos necróticos": 0
+        }
+    },
+    {
+        "input": "Paciente do sexo masculino, 40 anos de idade, apresentou febre, tosse e dor torácica com confusão por meio dia. O exame físico revela que o paciente está pálido, a pressão arterial é de 70/40 mmHg e o pulso é de 120 batimentos/min.Exame laboratorial: a contagem de glóbulos brancos é de $16×10^9/L$ e a classificação neutra é de 85%.Radiografia de tórax: há uma sombra grande e homogênea de densidade no pulmão superior direito, o que deve ser considerado primeiro no diagnóstico desse paciente?\nA. Bronquiectasia com infecção\nB. Pleurisia tuberculosa\nC. Pneumonia por choque\nD. Pneumonia por micoplasma",
+        "target_scores": {
+            "A. Bronquiectasia com infecção": 0,
+            "B. Pleurisia tuberculosa": 0,
+            "C. Pneumonia por choque": 1,
+            "D. Pneumonia por micoplasma": 0
+        }
+    },
+    {
+        "input": "Qual exame avalia a reatividade das vias aéreas após inalação de histamina ou acetilcolina?\nA. Avaliação da função ventilatória\nB. Medição do pico de fluxo expiratório\nC. Teste de broncodilatação\nD. Teste de provocação brônquica",
+        "target_scores": {
+            "A. Avaliação da função ventilatória": 0,
+            "B. Medição do pico de fluxo expiratório": 0,
+            "C. Teste de broncodilatação": 0,
+            "D. Teste de provocação brônquica": 1
+        }
+    },
+    {
+        "input": "Quando um paciente cirúrgico apresenta dor espasmódica, diminuição dos reflexos tendinosos, alteração da consciência e coma, deve-se considerar primeiramente?\nA. Complicação com acidente vascular cerebral\nB. Hipernatremia\nC. Hipocalemia\nD. Hiponatremia",
+        "target_scores": {
+            "A. Complicação com acidente vascular cerebral": 0,
+            "B. Hipernatremia": 0,
+            "C. Hipocalemia": 0,
+            "D. Hiponatremia": 1
+        }
+    },
+    {
+        "input": "Paciente do sexo masculino, 37 anos de idade. Histórico de úlcera. Dor epigástrica intensa com náusea e vômito após uma refeição completa ao meio-dia. Os músculos abdominais estão tensos, suor frio e choque. A primeira complicação que deve ser considerada é?\nA. Hemorragia grave\nB. Infecção\nC. Perfuração aguda\nD. Transformação maligna",
+        "target_scores": {
+            "A. Hemorragia grave": 0,
+            "B. Infecção": 0,
+            "C. Perfuração aguda": 1,
+            "D. Transformação maligna": 0
+        }
+    },
+    {
+        "input": "Paciente do sexo masculino, 12 anos. Há dois dias, após exposição ao frio, apresentou garganta seca, dor de garganta, congestão nasal, coriza, tosse seca, cefaleia e leves calafrios. Exame físico: T 37,1 °C, hiperemia faríngea, amígdalas sem aumento, murmúrio vesicular diminuído bilateralmente, sem estertores secos ou úmidos. O diagnóstico provável é?\nA. Bronquite viral aguda\nB. Faringite viral aguda\nC. Laringite viral aguda\nD. Resfriado comum",
+        "target_scores": {
+            "A. Bronquite viral aguda": 0,
+            "B. Faringite viral aguda": 0,
+            "C. Laringite viral aguda": 0,
+            "D. Resfriado comum": 1
+        }
+    },
+    {
+        "input": "Paciente com tuberculose pulmonar apresenta hemoptise maciça súbita saindo pelo nariz. Por medo, o paciente prende a respiração, tornando-se agitado, sentando-se com dificuldade respiratória extrema, cianose facial, sudorese profusa e reviramento ocular. A medida de resgate imediata deve ser?\nA. Bombeamento do tórax\nB. Oxigenoterapia por cânula nasal, injeção de estimulantes respiratórios\nC. Realizar respiração artificial\nD. Remoção de coágulos ou traqueostomia",
+        "target_scores": {
+            "A. Bombeamento do tórax": 0,
+            "B. Oxigenoterapia por cânula nasal, injeção de estimulantes respiratórios": 0,
+            "C. Realizar respiração artificial": 0,
+            "D. Remoção de coágulos ou traqueostomia": 1
+        }
+    },
+    {
+        "input": "Paciente do sexo masculino, 65 anos, internado por infarto cerebral, confusão mental há 2 dias, debilitado, sinais vitais estáveis, extremidades frias. A enfermeira utiliza bolsa de água quente para aquecê-lo. O método correto é?\nA. Bolsa de água quente envolta em toalha\nB. Bolsa de água quente no abdômen\nC. Orientar familiares para trocar água quente da bolsa regularmente\nD. Temperatura da água na bolsa de 60 °C",
+        "target_scores": {
+            "A. Bolsa de água quente envolta em toalha": 1,
+            "B. Bolsa de água quente no abdômen": 0,
+            "C. Orientar familiares para trocar água quente da bolsa regularmente": 0,
+            "D. Temperatura da água na bolsa de 60 °C": 0
+        }
+    },
+    {
+        "input": "Paciente com câncer de esôfago, no 3º dia pós-operatório. Após remoção da sonda gástrica, iniciou dieta líquida. No 5º dia apresentou temperatura de 39 °C, dispneia, dor torácica. Radiografia torácica mostra derrame pleural. A complicação mais provável é?\nA. Abscesso subfrênico\nB. Fístula de anastomose esofágica\nC. Infecção da ferida operatória\nD. Pneumonia aspirativa",
+        "target_scores": {
+            "A. Abscesso subfrênico": 0,
+            "B. Fístula de anastomose esofágica": 1,
+            "C. Infecção da ferida operatória": 0,
+            "D. Pneumonia aspirativa": 0
+        }
+    },
+    {
+        "input": "Paciente do sexo masculino, 70 anos, com hemiplegia por trombose cerebral. Após internação, a enfermeira observou área sacrococcígea de coloração vermelho-púrpura, medindo $4 cm×3 cm$, que não embranquece à pressão e apresenta-se endurecida ao toque. No dia seguinte, apareceu uma vesícula de aproximadamente 2 cm de diâmetro na área. A alteração cutânea sacrococcígea deste paciente é?\nA. Estágio de úlcera profunda da úlcera de pressão\nB. Estágio de úlcera superficial da úlcera de pressão\nC. Fase de infiltração inflamatória da úlcera de pressão\nD. Fase hiperêmica da úlcera de pressão",
+        "target_scores": {
+            "A. Estágio de úlcera profunda da úlcera de pressão": 0,
+            "B. Estágio de úlcera superficial da úlcera de pressão": 0,
+            "C. Fase de infiltração inflamatória da úlcera de pressão": 1,
+            "D. Fase hiperêmica da úlcera de pressão": 0
+        }
+    },
+    {
+        "input": "Paciente do sexo masculino, 68 anos, com massa redutível na região inguinal lateral há 7 anos, ocasionalmente extendendo-se ao escroto. Exame físico: massa inguinal redutível, anel externo admite dois dedos, após compressão do anel interno a massa não reaparece. Para diferenciar entre hérnia inguinal indireta e direta, o aspecto mais significativo é?\nA. Idade de início\nB. Redução do conteúdo herniário e compressão do anel inguinal profundo para verificar recorrência\nC. Verificar se o conteúdo herniário se estende até o escroto\nD. Via de protrusão",
+        "target_scores": {
+            "A. Idade de início": 0,
+            "B. Redução do conteúdo herniário e compressão do anel inguinal profundo para verificar recorrência": 1,
+            "C. Verificar se o conteúdo herniário se estende até o escroto": 0,
+            "D. Via de protrusão": 0
+        }
+    },
+    {
+        "input": "Paciente internado com cirrose hepática e hemorragia digestiva alta. Após o tratamento, o sangramento melhorou, mas o paciente passou a desenvolver oligúria (500 ml/dia) de forma gradual, com proteinúria discreta, potássio sérico de 5,0 mmol/L, sódio sérico de 129 mmol/L, cloro sérico de 90 mmol/L e ureia sanguínea de 24,1 mmol/L. O diagnóstico mais provável é？\nA. Acidose\nB. Distúrbio eletrolítico\nC. Hemorragia digestiva\nD. Síndrome hepatorrenal",
+        "target_scores": {
+            "A. Acidose": 0,
+            "B. Distúrbio eletrolítico": 0,
+            "C. Hemorragia digestiva": 0,
+            "D. Síndrome hepatorrenal": 1
+        }
+    },
+    {
+        "input": "Paciente do sexo masculino, 68 anos. Tosse persistente por 3 semanas, sem melhora com antibióticos. Radiografia torácica mostra sombra inexplicada no pulmão direito. Qual exame adicional deve ser realizado?\nA. Avaliação da função pulmonar\nB. Broncoscopia por fibra óptica\nC. Gasometria arterial\nD. Toracocentese",
+        "target_scores": {
+            "A. Avaliação da função pulmonar": 0,
+            "B. Broncoscopia por fibra óptica": 1,
+            "C. Gasometria arterial": 0,
+            "D. Toracocentese": 0
+        }
+    },
+    {
+        "input": "Paciente do sexo feminino, 22 anos de idade, 1 hora após a aplicação de uma bandagem de gesso na panturrilha, desenvolve dor intensa nos dedos dos pés, palidez e frieza, e enfraquecimento da pulsação arterial dorsal do pé, qual deve ser a primeira medida a ser tomada?\nA. Administração de analgésicos\nB. Afrouxamento adequado da bandagem de gesso\nC. Elevação do membro afetado\nD. Manter aquecimento",
+        "target_scores": {
+            "A. Administração de analgésicos": 0,
+            "B. Afrouxamento adequado da bandagem de gesso": 1,
+            "C. Elevação do membro afetado": 0,
+            "D. Manter aquecimento": 0
+        }
+    },
+    {
+        "input": "Paciente do sexo masculino, 31 anos, vítima de traumatismo craniano em acidente automobilístico, sem histórico de perda de consciência, queixa de cefaleia, pequena quantidade de líquido serossanguinolento fluindo do meato acústico direito, sinais vitais normais. O cuidado de enfermagem correto é?\nA. Decúbito lateral esquerdo\nB. Elevação da cabeceira 15-30 cm\nC. Irrigação programada do canal auditivo\nD. Oclusão do canal auditivo externo com algodão estéril",
+        "target_scores": {
+            "A. Decúbito lateral esquerdo": 0,
+            "B. Elevação da cabeceira 15-30 cm": 1,
+            "C. Irrigação programada do canal auditivo": 0,
+            "D. Oclusão do canal auditivo externo com algodão estéril": 0
+        }
+    },
+    {
+        "input": "Criança do sexo masculino, 2 anos de idade. Ele foi admitido no hospital com escarlatina. A criança está na fase de descamação, com descamação furfurácea no tronco e grandes descamações nas mãos e nos pés. Qual é a instrução errada de cuidados com a pele para essa fase da vida da criança?\nA. Limpeza da pele com água morna para evitar infecção\nB. Observar a progressão da descamação\nC. Remover delicadamente pele descamada\nD. Trocar roupas com frequência e areá-las ao sol",
+        "target_scores": {
+            "A. Limpeza da pele com água morna para evitar infecção": 0,
+            "B. Observar a progressão da descamação": 0,
+            "C. Remover delicadamente pele descamada": 1,
+            "D. Trocar roupas com frequência e areá-las ao sol": 0
+        }
+    },
+    {
+        "input": "Na pneumonia complicada por choque séptico, durante a reposição de volume sanguíneo, a pressão venosa central não deve exceder ( ) cmH₂O, e o débito urinário deve ser mantido acima de ( ) ml/h.\nA. 10, 20\nB. 10, 30\nC. 5, 20\nD. 5, 30",
+        "target_scores": {
+            "A. 10, 20": 0,
+            "B. 10, 30": 1,
+            "C. 5, 20": 0,
+            "D. 5, 30": 0
+        }
+    },
+    {
+        "input": "Trabalhador da construção civil, 42 anos, braço direito atingido por um tijolo durante 1 hora. Exame físico: braço superior direito inchado, movimento anormal, articulações do punho e metacarpofalangeanas não dorsiflexionadas, polegar não dorsiflexionado. Possível lesão?\nA. Artéria braquial\nB. Nervo mediano\nC. Nervo radial\nD. Nervo ulnar",
+        "target_scores": {
+            "A. Artéria braquial": 0,
+            "B. Nervo mediano": 0,
+            "C. Nervo radial": 1,
+            "D. Nervo ulnar": 0
+        }
+    },
+    {
+        "input": "Paciente do sexo feminino, 32 anos, com dor frequente na parte superior esquerda do abdome nos últimos 3 anos, geralmente após comer, e que vomitou sangue em 3 ocasiões; o exame gastrointestinal com bário não revela anormalidades significativas e o exame físico revela apenas sensibilidade epigástrica. Qual é o diagnóstico mais provável para esse paciente?\nA. Câncer gástrico\nB. Gastrite crônica\nC. Obstrução intestinal\nD. Úlcera gástrica",
+        "target_scores": {
+            "A. Câncer gástrico": 0,
+            "B. Gastrite crônica": 0,
+            "C. Obstrução intestinal": 0,
+            "D. Úlcera gástrica": 1
+        }
+    },
+    {
+        "input": "Paciente com hipertensão primária apresenta súbita elevação da pressão arterial para 230/130 mmHg, acompanhada de cefaleia intensa, náuseas, vômitos, convulsões e sonolência. A primeira consideração diagnóstica é?\nA. Ataque isquêmico transitório\nB. Crise hipertensiva\nC. Embolia cerebral\nD. Encefalopatia hipertensiva",
+        "target_scores": {
+            "A. Ataque isquêmico transitório": 0,
+            "B. Crise hipertensiva": 0,
+            "C. Embolia cerebral": 0,
+            "D. Encefalopatia hipertensiva": 1
+        }
+    },
+    {
+        "input": "Uma mulher de 18 anos é admitida no hospital com febre, tosse e diagnóstico de pneumonia, com temperatura de 39,5 °C, pele avermelhada, queimação ao toque e aumento da frequência respiratória e da frequência cardíaca. Um dos diagnósticos de enfermagem da paciente: “Hipertermia: associada a infecção bacteriana patogênica”, qual é a principal base diagnóstica?\nA. Eritema cutâneo\nB. Sensação de calor ao tocar a pele\nC. Taquipneia\nD. Temperatura corporal 39,5 °C",
+        "target_scores": {
+            "A. Eritema cutâneo": 0,
+            "B. Sensação de calor ao tocar a pele": 0,
+            "C. Taquipneia": 0,
+            "D. Temperatura corporal 39,5 °C": 1
+        }
+    },
+    {
+        "input": "Uma paciente do sexo feminino, 60 anos de idade, está paralisada na extremidade inferior esquerda após um derrame. A enfermeira está desenvolvendo medidas de enfermagem para prevenir úlceras de pressão na melhor prática de enfermagem?\nA. Almofada de ar em proeminências ósseas\nB. Manter o paciente em decúbito lateral direito\nC. Melhorar o estado nutricional geral\nD. Reposicionar e massagear o paciente a cada 2 horas",
+        "target_scores": {
+            "A. Almofada de ar em proeminências ósseas": 0,
+            "B. Manter o paciente em decúbito lateral direito": 0,
+            "C. Melhorar o estado nutricional geral": 0,
+            "D. Reposicionar e massagear o paciente a cada 2 horas": 1
+        }
+    },
+    {
+        "input": "Um paciente com cirrose hepática, após tratamento diurético, apresentou redução da ascite, mas frequentemente encontra-se em estado de sono profundo, pode ser despertado e responde corretamente às perguntas, mas volta a adormecer rapidamente após remoção do estímulo. Isso deve ser interpretado como?\nA. Delírio\nB. Estupor\nC. Semicoma\nD. Sonolência",
+        "target_scores": {
+            "A. Delírio": 0,
+            "B. Estupor": 0,
+            "C. Semicoma": 0,
+            "D. Sonolência": 1
+        }
+    },
+    {
+        "input": "Paciente do sexo feminino, 35 anos, portadora de leucemia. Após atividade física, apresentou subitamente cefaleia, vômitos, visão turva e alteração da consciência. Qual medida de enfermagem é inadequada?\nA. Bolsa de gelo na cabeça\nB. Cabeça ligeiramente baixa para garantir oxigenação cerebral\nC. Oxigenoterapia\nD. Repouso absoluto no leito",
+        "target_scores": {
+            "A. Bolsa de gelo na cabeça": 0,
+            "B. Cabeça ligeiramente baixa para garantir oxigenação cerebral": 1,
+            "C. Oxigenoterapia": 0,
+            "D. Repouso absoluto no leito": 0
+        }
+    },
+    {
+        "input": "Paciente do sexo masculino, 28 anos, após refeição em restaurante popular, apresentou febre alta e diarreia, sendo diagnosticado com disenteria bacteriana. Qual medida de enfermagem é incorreta?\nA. Coletar amostra de fezes para exame\nB. Dieta líquida ou semilíquida conforme necessário\nC. Fornecer dieta hiperproteica\nD. Isolamento gastrointestinal",
+        "target_scores": {
+            "A. Coletar amostra de fezes para exame": 0,
+            "B. Dieta líquida ou semilíquida conforme necessário": 0,
+            "C. Fornecer dieta hiperproteica": 1,
+            "D. Isolamento gastrointestinal": 0
+        }
+    },
+    {
+        "input": "Um paciente em estágio terminal de câncer apresenta, na admissão, uma lesão de $2 cm×2 cm$ na região glútea, com exsudato amarelo na camada dérmica. O estágio da úlcera de pressão é?\nA. Fase de infiltração inflamatória\nB. Fase de úlcera profunda\nC. Fase de úlcera superficial\nD. Fase hiperêmica",
+        "target_scores": {
+            "A. Fase de infiltração inflamatória": 0,
+            "B. Fase de úlcera profunda": 0,
+            "C. Fase de úlcera superficial": 1,
+            "D. Fase hiperêmica": 0
+        }
+    },
+    {
+        "input": "Paciente do sexo masculino, 10 meses. Há 3 dias apresentou súbito reviramento ocular, espasmos faciais e dos membros, sendo admitido em emergência com diagnóstico de tetania por deficiência de vitamina D. Na alta, qual a orientação de saúde mais importante que a enfermeira deve fornecer aos pais?\nA. Adicionar alimentos ricos em vitamina D\nB. Estimular exercícios em pé\nC. Métodos para tratar convulsões e laringoespasmo\nD. Orientação sobre amamentação",
+        "target_scores": {
+            "A. Adicionar alimentos ricos em vitamina D": 0,
+            "B. Estimular exercícios em pé": 0,
+            "C. Métodos para tratar convulsões e laringoespasmo": 1,
+            "D. Orientação sobre amamentação": 0
+        }
+    },
+    {
+        "input": "Paciente do sexo masculino, 56 anos, internado por hemorragia digestiva, pressão arterial 60/30 mmHg, frequência cardíaca 140/min, hemoglobina 35 g/L. Após fluidoterapia, pressão arterial recuperada para 100/70 mmHg, frequência cardíaca 100/min, porém o paciente apresenta oligúria há 3 dias, potássio sérico 6, 4mmol/L, ureia 28,5 mmol/L. Qual princípio de tratamento está correto?\nA. Administração lenta de 0,4 mg de cedilanide intravenoso\nB. Aumentar o volume de infusão\nC. Continuar a transfusão sanguínea\nD. Hemodiálise de emergência",
+        "target_scores": {
+            "A. Administração lenta de 0,4 mg de cedilanide intravenoso": 0,
+            "B. Aumentar o volume de infusão": 0,
+            "C. Continuar a transfusão sanguínea": 0,
+            "D. Hemodiálise de emergência": 1
+        }
+    },
+    {
+        "input": "Paciente do sexo feminino, 47 anos. Após diagnóstico de abscesso pulmonar e 3 meses de antibioticoterapia, continua com expectoração purulenta. Radiografia mostra cavidade de 6 cm de diâmetro. A próxima etapa de tratamento a ser considerada é?\nA. Aumentar a dose de antibióticos\nB. Drenagem postural aprimorada\nC. Instilação de antibióticos por via intratraqueal\nD. Tratamento cirúrgico",
+        "target_scores": {
+            "A. Aumentar a dose de antibióticos": 0,
+            "B. Drenagem postural aprimorada": 0,
+            "C. Instilação de antibióticos por via intratraqueal": 0,
+            "D. Tratamento cirúrgico": 1
+        }
+    },
+    {
+        "input": "Paciente do sexo masculino com insuficiência cardíaca esquerda crônica, após repouso, restrição de sal, diurético, vasodilatador e uso de digitálicos, apresenta diminuição do apetite, visão turva e apatia. A causa mais provável destes sintomas é?\nA. Dispepsia\nB. Distúrbio eletrolítico\nC. Hipóxia cerebral crônica\nD. Intoxicação digitálica",
+        "target_scores": {
+            "A. Dispepsia": 0,
+            "B. Distúrbio eletrolítico": 0,
+            "C. Hipóxia cerebral crônica": 0,
+            "D. Intoxicação digitálica": 1
+        }
+    },
+    {
+        "input": "Um paciente com \"insuficiência cardíaca\" admitido com dispneia, cianose, incapacidade de assumir decúbito dorsal, edema de membros inferiores e diminuição do apetite. Histórico de \"constipação intestinal\". O problema prioritário é?\nA. Comprometimento das trocas gasosas\nB. Constipação\nC. Desnutrição, abaixo das necessidades corporais\nD. Risco de comprometimento da integridade cutânea",
+        "target_scores": {
+            "A. Comprometimento das trocas gasosas": 1,
+            "B. Constipação": 0,
+            "C. Desnutrição, abaixo das necessidades corporais": 0,
+            "D. Risco de comprometimento da integridade cutânea": 0
+        }
+    },
+    {
+        "input": "Paciente do sexo masculino, 52 anos de idade, com hérnia hiatal do lado direito encarcerada há 5 horas, apresentava dor abdominal persistente com vômitos. O exame mostrou pressão e tensão muscular em todo o abdome, vermelhidão e inchaço da massa da hérnia, sensibilidade acentuada e incapacidade de retração. A que tipo de patologia ele pertence?\nA. Hérnia estrangulada\nB. Hérnia irredutível\nC. Hérnia por deslizamento\nD. Hérnia redutível",
+        "target_scores": {
+            "A. Hérnia estrangulada": 1,
+            "B. Hérnia irredutível": 0,
+            "C. Hérnia por deslizamento": 0,
+            "D. Hérnia redutível": 0
+        }
+    },
+    {
+        "input": "Paciente do sexo masculino, 20 anos, com encefalite tipo B epidêmica e insuficiência respiratória central. Qual medicamento deve ser administrado imediatamente por infusão intravenosa?\nA. Bicarbonato de sódio\nB. Manitol a 20%\nC. Norepinefrina\nD. Solução salina fisiológica",
+        "target_scores": {
+            "A. Bicarbonato de sódio": 0,
+            "B. Manitol a 20%": 1,
+            "C. Norepinefrina": 0,
+            "D. Solução salina fisiológica": 0
+        }
+    },
+    {
+        "input": "Paciente do sexo feminino, 45 anos, com artrite reumatoide há 12 anos. Há 3 dias, apresentou novamente inchaço e dor nos punhos bilateralmente. Entre os exames listados, qual indicador sugere atividade da doença?\nA. Aumento do líquido sinovial na cavidade articular\nB. Proteína C reativa elevada\nC. Radiografia articular mostrando osteoporose nas extremidades articulares\nD. Velocidade de hemossedimentação baixa",
+        "target_scores": {
+            "A. Aumento do líquido sinovial na cavidade articular": 0,
+            "B. Proteína C reativa elevada": 1,
+            "C. Radiografia articular mostrando osteoporose nas extremidades articulares": 0,
+            "D. Velocidade de hemossedimentação baixa": 0
+        }
+    },
+    {
+        "input": "Paciente com apendicite aguda perfurada e peritonite, internado em decorrência dessa condição. No terceiro dia do pós-operatório, apresentou febre de 39 °C, aumento da frequência das evacuações, tenesmo, fezes com muco, ausência de dor na ferida operatória e sem tosse. Qual diagnóstico é o mais provável?\nA. Abscesso pélvico\nB. Disenteria bacilar\nC. Enterite\nD. Infecção da ferida operatória",
+        "target_scores": {
+            "A. Abscesso pélvico": 1,
+            "B. Disenteria bacilar": 0,
+            "C. Enterite": 0,
+            "D. Infecção da ferida operatória": 0
+        }
+    },
+    {
+        "input": "Na hemorragia digestiva alta por hipertensão portal complicada com encefalopatia hepática, qual das seguintes opções é mais adequada para eliminar o sangue intestinal e reduzir a formação de amônia?\nA. Enema com solução fisiológica\nB. Enema com solução levemente alcalina\nC. Enema com solução levemente ácida\nD. Enema com água de sabão",
+        "target_scores": {
+            "A. Enema com solução fisiológica": 0,
+            "B. Enema com solução levemente alcalina": 0,
+            "C. Enema com solução levemente ácida": 1,
+            "D. Enema com água de sabão": 0
+        }
+    },
+    {
+        "input": "Paciente do sexo masculino, 40 anos de idade, mineiro, resgatado após ter ficado soterrado por 6 horas em um desabamento enquanto trabalhava em uma cava, com edema acentuado de ambos os fêmures e nádegas, potássio sérico de 5,5 mmol/L e diagnóstico de lesão por esmagamento. Para observar se há complicações renais, qual das seguintes opções é a mais relevante?\nA. Hemorragia, infecção\nB. Pressão arterial e frequência cardíaca\nC. Pressão venosa central\nD. Volume urinário e sódio urinário",
+        "target_scores": {
+            "A. Hemorragia, infecção": 0,
+            "B. Pressão arterial e frequência cardíaca": 0,
+            "C. Pressão venosa central": 0,
+            "D. Volume urinário e sódio urinário": 1
+        }
+    },
+    {
+        "input": "Paciente do sexo feminino, 38 anos de idade, apresentou episódios intermitentes de dor no abdome inferior com diarreia por 3 anos, com 4-5 evacuações/dia, fezes com pus e sangue, com alívio da dor após a defecação. Uma colonoscopia foi realizada para observar congestão da mucosa, erosão e pequenas úlceras superficiais. Qual é o diagnóstico mais provável para esse paciente?\nA. Colite ulcerativa\nB. Disbiose intestinal\nC. Disenteria bacteriana\nD. Síndrome do intestino irritável",
+        "target_scores": {
+            "A. Colite ulcerativa": 1,
+            "B. Disbiose intestinal": 0,
+            "C. Disenteria bacteriana": 0,
+            "D. Síndrome do intestino irritável": 0
+        }
+    },
+    {
+        "input": "Sra. Ana, 30 anos, duas semanas após gastrectomia subtotal Billroth II. Após as refeições, em 10-20 minutos, apresenta sensação de plenitude no abdômen superior, náuseas, vômitos, diarreia e tontura. A complicação possível é?\nA. Fístula do coto duodenal\nB. Obstrução da alça eferente\nC. Obstrução da anastomose\nD. Síndrome de dumping",
+        "target_scores": {
+            "A. Fístula do coto duodenal": 0,
+            "B. Obstrução da alça eferente": 0,
+            "C. Obstrução da anastomose": 0,
+            "D. Síndrome de dumping": 1
+        }
+    },
+    {
+        "input": "Paciente do sexo masculino, 48 anos. Consulta por tosse, hemoptise e dor torácica direita há 3 semanas. Diagnóstico clínico e imagiológico de câncer pulmonar central no lobo inferior direito. O item mais importante para avaliação adicional neste caso é?\nA. Contagem de células sanguíneas\nB. Estado imunológico\nC. Qualidade de vida\nD. Tipo histológico e estadiamento",
+        "target_scores": {
+            "A. Contagem de células sanguíneas": 0,
+            "B. Estado imunológico": 0,
+            "C. Qualidade de vida": 0,
+            "D. Tipo histológico e estadiamento": 1
+        }
+    },
+    {
+        "input": "Paciente do sexo feminino, 35 anos, com constipação crônica. Nos últimos dois meses, apresenta dor intensa durante e após as evacuações, com pequena quantidade de sangue na superfície das fezes. A consideração diagnóstica mais provável é?\nA. Abscesso perianal\nB. Fissura anal\nC. Hemorroida externa trombosada\nD. Hemorroidas internas",
+        "target_scores": {
+            "A. Abscesso perianal": 0,
+            "B. Fissura anal": 1,
+            "C. Hemorroida externa trombosada": 0,
+            "D. Hemorroidas internas": 0
+        }
+    },
+    {
+        "input": "Sra. Maria, 40 anos. Portadora de uremia há 2 anos, nos últimos 3 dias apresenta náuseas e vômitos matinais consecutivos. Qual medida de enfermagem sintomática está correta?\nA. Evitar alimentos e líquidos antes de dormir\nB. Ingestão de água 1-2 vezes antes de dormir\nC. Pequeno lanche antes de dormir\nD. Tomar antiemético antes de levantar",
+        "target_scores": {
+            "A. Evitar alimentos e líquidos antes de dormir": 0,
+            "B. Ingestão de água 1-2 vezes antes de dormir": 0,
+            "C. Pequeno lanche antes de dormir": 1,
+            "D. Tomar antiemético antes de levantar": 0
+        }
+    },
+    {
+        "input": "Paciente do sexo feminino, 50 anos. No último ano apresenta edema e dor recorrentes nas pequenas articulações das mãos, com rigidez matinal de aproximadamente 1 hora. Exame físico: nódulos subcutâneos visíveis na face extensora das articulações interfalangeanas proximais e distais das mãos, levemente dolorosos à palpação, sem vermelhidão ou inchaço. Radiografia das mãos: estreitamento dos espaços articulares das articulações interfalangeanas proximais e distais dos dedos II, III e IV. Fator reumatoide positivo, VHS e PCR levemente elevados. O diagnóstico mais provável é?\nA. Artrite reumatoide\nB. Espondilite anquilosante\nC. Lúpus eritematoso sistêmico\nD. Osteoartrite",
+        "target_scores": {
+            "A. Artrite reumatoide": 1,
+            "B. Espondilite anquilosante": 0,
+            "C. Lúpus eritematoso sistêmico": 0,
+            "D. Osteoartrite": 0
+        }
+    },
+    {
+        "input": "Paciente do sexo masculino, 50 anos, com histórico de tabagismo e etilismo, portador de colelitíase. Após consumo de álcool e alimentação excessiva na noite anterior, apresentou dor no quadrante superior esquerdo do abdômen. A doença mais provável é?\nA. Cirrose hepática\nB. Obstrução do ducto biliar\nC. Pancreatite aguda\nD. Perfuração da vesícula biliar",
+        "target_scores": {
+            "A. Cirrose hepática": 0,
+            "B. Obstrução do ducto biliar": 0,
+            "C. Pancreatite aguda": 1,
+            "D. Perfuração da vesícula biliar": 0
+        }
+    },
+    {
+        "input": "Paciente do sexo feminino, 50 anos de idade, sofre de colelitíase há muitos anos, deu entrada no hospital há 3 dias com dor abdominal, calafrios, febre alta e crise de icterícia, o tratamento com infusão de antibiótico foi ineficaz, na assistência de enfermagem de hoje a paciente estava confusa e sua pressão arterial era de 85/60 mmHg, que condição deve ser levada em consideração?\nA. Ascaridíase biliar com infecção\nB. Colangite supurativa obstrutiva aguda\nC. Colecistite gangrenosa aguda\nD. Coledocolitíase",
+        "target_scores": {
+            "A. Ascaridíase biliar com infecção": 0,
+            "B. Colangite supurativa obstrutiva aguda": 1,
+            "C. Colecistite gangrenosa aguda": 0,
+            "D. Coledocolitíase": 0
+        }
+    },
+    {
+        "input": "Paciente do sexo masculino, 20 anos de idade, com resfriados frequentes, palpitações recentes, incapacidade de se deitar, edema dos membros inferiores. Exame físico: veias jugulares levemente ingurgitadas, leve aumento da borda do coração, primeira bulha apical diminuída, segunda bulha patológica e sopro. Qual é o diagnóstico mais provável?\nA. Derrame pericárdico tuberculoso\nB. Febre reumática aguda\nC. Insuficiência cardíaca coronariana\nD. Miocardite viral",
+        "target_scores": {
+            "A. Derrame pericárdico tuberculoso": 0,
+            "B. Febre reumática aguda": 0,
+            "C. Insuficiência cardíaca coronariana": 0,
+            "D. Miocardite viral": 1
+        }
+    },
+    {
+        "input": "Paciente do sexo masculino, 65 anos, hipertenso há muitos anos. Há 3 horas, durante um momento de agitação emocional, apresentou cefaleia intensa súbita, vômitos em jato, seguidos de perda de consciência, sendo observado no pronto-socorro. Qual das seguintes condutas está incorreta?\nA. Decúbito dorsal com cabeça voltada para um lado\nB. Monitorização rigorosa das pupilas\nC. Mudança de posição do paciente com regularidade e pontualidade\nD. Remoção imediata de material vomitado",
+        "target_scores": {
+            "A. Decúbito dorsal com cabeça voltada para um lado": 0,
+            "B. Monitorização rigorosa das pupilas": 0,
+            "C. Mudança de posição do paciente com regularidade e pontualidade": 1,
+            "D. Remoção imediata de material vomitado": 0
+        }
+    },
+    {
+        "input": "Paciente do sexo masculino, 59 anos, com tosse e expectoração há 20 anos, agravamento há 10 dias, sonolência há 1 dia, cianose evidente, frequência respiratória de 10 incursões/min superficiais, estertores secos e úmidos em ambos os pulmões, frequência cardíaca de 110 batimentos/min, PA 120/80 mmHg, gasometria arterial: PaO2 32 mmHg, PaCO2 80 mmHg, pH 7,293. A medida de resgate mais importante é?\nA. Infusão de bicarbonato de sódio a 5%\nB. Infusão intravenosa de dopamina\nC. Infusão intravenosa de efedrina\nD. Respiração assistida por ventilador",
+        "target_scores": {
+            "A. Infusão de bicarbonato de sódio a 5%": 0,
+            "B. Infusão intravenosa de dopamina": 0,
+            "C. Infusão intravenosa de efedrina": 0,
+            "D. Respiração assistida por ventilador": 1
+        }
+    },
+    {
+        "input": "Paciente com obstrução intestinal crônica, nos últimos 10 dias apresenta vômitos diários de grande volume de secreções gastrintestinais. Recebe diariamente por via intravenosa: solução de glicose a 10% 3000 ml, solução glicofisiológica a 5% 500 ml. O paciente apresenta confusão mental, ataxia, agitação e coma. Qual condição deve ser considerada?\nA. Coma hiperosmolar não cetótico\nB. Edema pulmonar\nC. Hipocalemia\nD. Intoxicação hídrica",
+        "target_scores": {
+            "A. Coma hiperosmolar não cetótico": 0,
+            "B. Edema pulmonar": 0,
+            "C. Hipocalemia": 0,
+            "D. Intoxicação hídrica": 1
+        }
+    },
+    {
+        "input": "Paciente do sexo masculino, 42 anos, após cateterização venosa central via veia jugular interna, apresenta aperto no peito, dor torácica, dificuldade respiratória e diminuição dos sons respiratórios ipsilaterais. A primeira complicação a ser considerada é?\nA. Embolia aérea\nB. Lesão do ducto torácico\nC. Lesão vascular\nD. Pneumotórax",
+        "target_scores": {
+            "A. Embolia aérea": 0,
+            "B. Lesão do ducto torácico": 0,
+            "C. Lesão vascular": 0,
+            "D. Pneumotórax": 1
+        }
+    },
+    {
+        "input": "Paciente do sexo masculino, 66 anos, com hérnia inguinal direita. Há 10 horas, ao fazer força para evacuar, notou um aumento súbito e significativo da massa, seguido de dor abdominal intensa e múltiplos episódios de vômito, acompanhados de febre e mal-estar geral. Ao exame físico: massa palpável na região inguinal direita e no escroto, com alta tensão e sensibilidade acentuada ao toque. Apresenta sensibilidade difusa à palpação abdominal e defesa muscular. A contagem de leucócitos mostrou-se acentuadamente elevada. Indicada cirurgia de emergência. Qual o tipo desta hérnia?\nA. Hérnia inguinal direta, hérnia encarcerada\nB. Hérnia inguinal direta, hérnia estrangulada\nC. Hérnia inguinal oblíqua, hérnia encarcerada\nD. Hérnia inguinal oblíqua, hérnia estrangulada",
+        "target_scores": {
+            "A. Hérnia inguinal direta, hérnia encarcerada": 0,
+            "B. Hérnia inguinal direta, hérnia estrangulada": 0,
+            "C. Hérnia inguinal oblíqua, hérnia encarcerada": 0,
+            "D. Hérnia inguinal oblíqua, hérnia estrangulada": 1
+        }
+    },
+    {
+        "input": "Mulher, 40 anos, com desconforto no abdômen superior há 4 anos, sensação de plenitude pós-prandial no último mês, às vezes com eructações. Exame sorológico: anticorpos anti-células parietais negativos. Endoscopia gástrica: mucosa granular com rede vascular visível. O diagnóstico mais provável é?\nA. Gastrite atrófica multifocal\nB. Gastrite autoimune\nC. Gastrite crônica superficial\nD. Úlcera gástrica",
+        "target_scores": {
+            "A. Gastrite atrófica multifocal": 1,
+            "B. Gastrite autoimune": 0,
+            "C. Gastrite crônica superficial": 0,
+            "D. Úlcera gástrica": 0
+        }
+    },
+    {
+        "input": "Após hepatectomia parcial, drenagem de líquido sanguinolento da cavidade abdominal excedendo 100 ml por hora por 3 horas consecutivas, deve-se considerar?\nA. Hemorragia biliar\nB. Hemorragia intra-abdominal\nC. Hipoalbuminemia\nD. Infecção intra-abdominal",
+        "target_scores": {
+            "A. Hemorragia biliar": 0,
+            "B. Hemorragia intra-abdominal": 1,
+            "C. Hipoalbuminemia": 0,
+            "D. Infecção intra-abdominal": 0
+        }
+    },
+    {
+        "input": "Paciente do sexo feminino submetida à apendicectomia sob raquianestesia. Quatro horas após a cirurgia, apresenta agitação, queixa de distensão abdominal, sinais vitais normais (pressão arterial, pulso e respiração). Exame físico: distensão do baixo ventre, macicez à percussão. Primeira consideração diagnóstica?\nA. Dilatação gástrica aguda\nB. Obstrução intestinal\nC. Peritonite aguda\nD. Retenção urinária",
+        "target_scores": {
+            "A. Dilatação gástrica aguda": 0,
+            "B. Obstrução intestinal": 0,
+            "C. Peritonite aguda": 0,
+            "D. Retenção urinária": 1
+        }
+    },
+    {
+        "input": "O paciente é um homem em choque pós-traumático há 25 horas, sua pressão arterial volta ao normal após a ressuscitação, mas ele não está urinando, sua bexiga não está cheia e a cateterização resultou em 100 ml de urina. Qual dos seguintes testes seria viável para determinar se ele está ou não em insuficiência renal aguda?\nA. Hemograma completo\nB. Medição da pressão venosa central\nC. Medição do sódio urinário\nD. Teste de PSP",
+        "target_scores": {
+            "A. Hemograma completo": 0,
+            "B. Medição da pressão venosa central": 0,
+            "C. Medição do sódio urinário": 1,
+            "D. Teste de PSP": 0
+        }
+    },
+    {
+        "input": "Paciente Lucas, sexo masculino, 48 anos, paraplégico, com lesão na região sacrococcígea medindo $2 cm×15 cm$, profunda até a camada muscular, com secreção purulenta e tecido necrótico enegrecido ao redor. Como deve ser tratada esta lesão?\nA. Aplicação de álcool a 10% na ferida e pele circundante\nB. Exposição da ferida à luz ultravioleta uma vez por dia\nC. Irrigar com solução fisiológica e cobrir com membrana de ovo fresco\nD. Remover o tecido necrótico, irrigar com água oxigenada e inserir dreno de gaze",
+        "target_scores": {
+            "A. Aplicação de álcool a 10% na ferida e pele circundante": 0,
+            "B. Exposição da ferida à luz ultravioleta uma vez por dia": 0,
+            "C. Irrigar com solução fisiológica e cobrir com membrana de ovo fresco": 0,
+            "D. Remover o tecido necrótico, irrigar com água oxigenada e inserir dreno de gaze": 1
+        }
+    },
+    {
+        "input": "Paciente do sexo masculino, 55 anos, com histórico de tuberculose pulmonar há 20 anos. Nos últimos 4 meses apresenta tosse intermitente, escarro com estrias de sangue, dor torácica direita e febre. Radiografia mostra sombra de 4 cm×5 cm no pulmão superior direito, com margens indefinidas e espiculações periféricas. O diagnóstico a ser considerado é?\nA. Cisto pulmonar\nB. Câncer de pulmão\nC. Tuberculose pulmonar\nD. Tumor pulmonar benigno",
+        "target_scores": {
+            "A. Cisto pulmonar": 0,
+            "B. Câncer de pulmão": 1,
+            "C. Tuberculose pulmonar": 0,
+            "D. Tumor pulmonar benigno": 0
+        }
+    },
+    {
+        "input": "Homem, 58 anos, tosse, expectoração com sibilância por 3 anos, todos os ataques de outono e inverno por 3 meses, os últimos 5 dias após o resfriado, tosse e sibilância agravada com febre, pulmões podem ser ouvidos estertores úmidos e secos, o diagnóstico mais provável é?\nA. Bronquite crônica com sibilância (fase de exacerbação aguda)\nB. Bronquite crônica com sibilância (fase de prolongamento crônico)\nC. Bronquite crônica simples (fase de exacerbação aguda)\nD. Bronquite crônica simples (fase de prolongamento crônico)",
+        "target_scores": {
+            "A. Bronquite crônica com sibilância (fase de exacerbação aguda)": 1,
+            "B. Bronquite crônica com sibilância (fase de prolongamento crônico)": 0,
+            "C. Bronquite crônica simples (fase de exacerbação aguda)": 0,
+            "D. Bronquite crônica simples (fase de prolongamento crônico)": 0
+        }
+    },
+    {
+        "input": "Paciente do sexo feminino, 42 anos, submetida à tireoidectomia parcial unilateral. Doze horas após a cirurgia, observa-se inchaço do pescoço e taquipneia. A conduta imediata deve ser?\nA. Inalação de vapor\nB. Oxigenoterapia\nC. Remoção de suturas, limpeza de coágulos\nD. Traqueostomia",
+        "target_scores": {
+            "A. Inalação de vapor": 0,
+            "B. Oxigenoterapia": 0,
+            "C. Remoção de suturas, limpeza de coágulos": 1,
+            "D. Traqueostomia": 0
+        }
+    },
+    {
+        "input": "A dermatite causada durante o tratamento com acelerador linear para tumores é denominada?\nA. Lesão mecânica\nB. Lesão por radiação\nC. Lesão química\nD. Lesão térmica",
+        "target_scores": {
+            "A. Lesão mecânica": 0,
+            "B. Lesão por radiação": 1,
+            "C. Lesão química": 0,
+            "D. Lesão térmica": 0
+        }
+    },
+    {
+        "input": "Uma gestante com 30 semanas de gestação apresenta apresentação pélvica. Qual posição pode ser usada para corrigir a apresentação fetal?\nA. Posição de cabeça para baixo e pés para cima\nB. Posição de litotomia\nC. Posição genupeitoral\nD. Posição supina com joelhos fletidos",
+        "target_scores": {
+            "A. Posição de cabeça para baixo e pés para cima": 0,
+            "B. Posição de litotomia": 0,
+            "C. Posição genupeitoral": 1,
+            "D. Posição supina com joelhos fletidos": 0
+        }
+    },
+    {
+        "input": "Para pacientes com intoxicação grave, a lavagem gástrica deve ser realizada como?\nA. Decúbito lateral direito\nB. Decúbito lateral do lado afetado\nC. Decúbito lateral esquerdo\nD. Posição semi-deitada",
+        "target_scores": {
+            "A. Decúbito lateral direito": 0,
+            "B. Decúbito lateral do lado afetado": 0,
+            "C. Decúbito lateral esquerdo": 1,
+            "D. Posição semi-deitada": 0
+        }
+    },
+    {
+        "input": "Na disenteria amebiana com lesões na região ileocecal, como deve ser administrado o enema medicamentoso?\nA. Decúbito lateral direito, enema abundante não retentivo\nB. Decúbito lateral direito, enema não retentivo em pequena quantidade\nC. Decúbito lateral direito, enema retentivo\nD. Decúbito lateral esquerdo, enema retentivo",
+        "target_scores": {
+            "A. Decúbito lateral direito, enema abundante não retentivo": 0,
+            "B. Decúbito lateral direito, enema não retentivo em pequena quantidade": 0,
+            "C. Decúbito lateral direito, enema retentivo": 1,
+            "D. Decúbito lateral esquerdo, enema retentivo": 0
+        }
+    },
+    {
+        "input": "O principal objetivo de colocar um paciente com insuficiência cardíaca esquerda em posição sentada é?\nA. Aumentar a cavidade torácica e a capacidade pulmonar\nB. Permitir que o diafragma desça, reduzindo a pressão sobre o coração\nC. Promover dilatação das artérias coronárias e melhorar a nutrição do miocárdio\nD. Reduzir o retorno venoso dos membros inferiores, diminuindo a sobrecarga cardíaca",
+        "target_scores": {
+            "A. Aumentar a cavidade torácica e a capacidade pulmonar": 0,
+            "B. Permitir que o diafragma desça, reduzindo a pressão sobre o coração": 0,
+            "C. Promover dilatação das artérias coronárias e melhorar a nutrição do miocárdio": 0,
+            "D. Reduzir o retorno venoso dos membros inferiores, diminuindo a sobrecarga cardíaca": 1
+        }
+    },
+    {
+        "input": "Um paciente com ruptura esplênica por acidente automobilístico chega à emergência com aperto no peito, falta de ar, sudorese fria, pulso fino e rápido, pressão arterial 9,1/6,7 kPa. A enfermeira deve imediatamente posicioná-lo em?\nA. Decúbito dorsal\nB. Decúbito lateral\nC. Posição de Trendelenburg\nD. Posição em decúbito com depressão central",
+        "target_scores": {
+            "A. Decúbito dorsal": 0,
+            "B. Decúbito lateral": 0,
+            "C. Posição de Trendelenburg": 0,
+            "D. Posição em decúbito com depressão central": 1
+        }
+    },
+    {
+        "input": "Um paciente acamado por longo período com secreções respiratórias espessas e difíceis de expectorar pode desenvolver o quê?\nA. Bronquite crônica\nB. Pneumonia hipostática\nC. Pneumonia por aspiração\nD. Pneumotórax espontâneo",
+        "target_scores": {
+            "A. Bronquite crônica": 0,
+            "B. Pneumonia hipostática": 1,
+            "C. Pneumonia por aspiração": 0,
+            "D. Pneumotórax espontâneo": 0
+        }
+    },
+    {
+        "input": "Criança de 3 anos, admitida com febre alta, convulsões e diarreia, diagnosticada com \"disenteria tóxica\". O método mais adequado para medir a temperatura nesta criança é?\nA. Termômetro de mercúrio para temperatura oral\nB. Termômetro de mercúrio para temperatura retal\nC. Termômetro eletrônico para temperatura axilar\nD. Termômetro infravermelho para medir temperatura",
+        "target_scores": {
+            "A. Termômetro de mercúrio para temperatura oral": 0,
+            "B. Termômetro de mercúrio para temperatura retal": 0,
+            "C. Termômetro eletrônico para temperatura axilar": 1,
+            "D. Termômetro infravermelho para medir temperatura": 0
+        }
+    },
+    {
+        "input": "Paciente do sexo feminino, 43 anos, diagnosticada com \"colecistite\", internada para colecistografia. Para manter o quarto limpo, a enfermeira deve fornecer?\nA. Leito anestésico\nB. Leito cirúrgico\nC. Leito reserva\nD. Leito temporariamente vazio",
+        "target_scores": {
+            "A. Leito anestésico": 0,
+            "B. Leito cirúrgico": 0,
+            "C. Leito reserva": 0,
+            "D. Leito temporariamente vazio": 1
+        }
+    },
+    {
+        "input": "Um paciente relata opressão torácica, dificuldade respiratória e incapacidade de assumir decúbito dorsal. Observa-se tempo expiratório prolongado em relação ao inspiratório, respiração laboriosa, sem três sinais côncavos evidentes. Este tipo de respiração possivelmente é?\nA. Acidose metabólica\nB. Crise asmática\nC. Edema de laringe\nD. Pneumonia lobar",
+        "target_scores": {
+            "A. Acidose metabólica": 0,
+            "B. Crise asmática": 1,
+            "C. Edema de laringe": 0,
+            "D. Pneumonia lobar": 0
+        }
+    },
+    {
+        "input": "Paciente do sexo masculino, 18 anos. Após refeição e exercício físico intenso, apresentou dor abdominal súbita e intensa, irradiada para região lombar e dorsal, com vômitos, sendo admitido na emergência. Esta doença frequentemente complica-se com?\nA. Obstrução intestinal adesiva\nB. Obstrução intestinal espasmódica\nC. Obstrução intestinal estrangulada\nD. Obstrução intestinal simples",
+        "target_scores": {
+            "A. Obstrução intestinal adesiva": 0,
+            "B. Obstrução intestinal espasmódica": 0,
+            "C. Obstrução intestinal estrangulada": 1,
+            "D. Obstrução intestinal simples": 0
+        }
+    },
+    {
+        "input": "Paciente do sexo masculino, 18 anos. Após refeição e exercício físico intenso, apresentou dor abdominal súbita e intensa, irradiada para região lombar e dorsal, com vômitos, sendo admitido na emergência. Com base na apresentação clínica, o diagnóstico a considerar é?\nA. Aderência intestinal\nB. Intussuscepção intestinal\nC. Tumor intestinal\nD. Volvo intestinal",
+        "target_scores": {
+            "A. Aderência intestinal": 0,
+            "B. Intussuscepção intestinal": 0,
+            "C. Tumor intestinal": 0,
+            "D. Volvo intestinal": 1
+        }
+    },
+    {
+        "input": "Paciente do sexo masculino, 45 anos de idade, há uma semana, devido a apendicite aguda, tratamento cirúrgico, sangramento peritoneal apendicular, hemostasia por sutura levou à isquemia terminal do íleo, anastomose de ressecção parcial do íleo, drenagem da cavidade abdominal e drenagem intermitente de fluido sanguinolento de cerca de 200 ml por dia. Ao exame: abdome distendido, sensibilidade abdominal do lado direito, sem massa palpável, ruídos intestinais fracos, pressão arterial 16/11 kPa, pulso 120 batimentos/min, glóbulos brancos $12 x 10^9/L$, neutrófilos 80%. O diagnóstico mais provável para esse paciente é?\nA. Estenose da anastomose\nB. Obstrução intestinal adesiva\nC. Obstrução intestinal estrangulada\nD. Íleo paralítico",
+        "target_scores": {
+            "A. Estenose da anastomose": 0,
+            "B. Obstrução intestinal adesiva": 0,
+            "C. Obstrução intestinal estrangulada": 0,
+            "D. Íleo paralítico": 1
+        }
+    },
+    {
+        "input": "Paciente do sexo masculino, 45 anos de idade, há uma semana, devido a apendicite aguda, tratamento cirúrgico, sangramento peritoneal apendicular, hemostasia por sutura levou à isquemia terminal do íleo, anastomose de ressecção parcial do íleo, drenagem da cavidade abdominal e drenagem intermitente de fluido sanguinolento de cerca de 200 ml por dia. Ao exame: distensão abdominal, sensibilidade abdominal do lado direito, sem massa palpável, ruídos intestinais fracos, pressão arterial de 16/11 kPa, pulso de 120 batimentos/min, glóbulos brancos de $12×10^9/L$, neutrófilos de 80%. O exame a ser realizado para esclarecer esse diagnóstico é?\nA. Endoscopia intestinal\nB. Radiografia abdominal\nC. Tomografia computadorizada abdominal\nD. Ultrassonografia abdominal",
+        "target_scores": {
+            "A. Endoscopia intestinal": 0,
+            "B. Radiografia abdominal": 1,
+            "C. Tomografia computadorizada abdominal": 0,
+            "D. Ultrassonografia abdominal": 0
+        }
+    },
+    {
+        "input": "Paciente do sexo masculino, 6 anos. Sofreu queimadura por água fervente no tórax e abdômen, com formação de bolhas e dor intensa. A profundidade desta queimadura é?\nA. Queimadura de primeiro grau\nB. Queimadura de segundo a terceiro grau, profundidade de transição\nC. Queimadura de segundo grau profunda\nD. Queimadura de segundo grau superficial",
+        "target_scores": {
+            "A. Queimadura de primeiro grau": 0,
+            "B. Queimadura de segundo a terceiro grau, profundidade de transição": 0,
+            "C. Queimadura de segundo grau profunda": 0,
+            "D. Queimadura de segundo grau superficial": 1
+        }
+    },
+    {
+        "input": "Em pacientes submetidos à pneumonectomia, a velocidade de infusão intravenosa deve ser controlada em?\nA. Não exceder 1000 ml/dia, 15-20 gotas/minuto\nB. Não exceder 1500 ml/dia, 20-30 gotas/minuto\nC. Não exceder 2000 ml/dia, 20-30 gotas/minuto\nD. Não exceder 2500 ml/dia, 30-40 gotas/minuto",
+        "target_scores": {
+            "A. Não exceder 1000 ml/dia, 15-20 gotas/minuto": 0,
+            "B. Não exceder 1500 ml/dia, 20-30 gotas/minuto": 0,
+            "C. Não exceder 2000 ml/dia, 20-30 gotas/minuto": 1,
+            "D. Não exceder 2500 ml/dia, 30-40 gotas/minuto": 0
+        }
+    }
+]

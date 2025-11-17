@@ -1,0 +1,734 @@
+[
+    {
+        "input": "\"Construção, projeto de ponte, abertura ao uso, preparação de materiais, realização de inspeção de qualidade\" são cinco etapas para construir uma ponte com sucesso. Por favor, forneça a sequência correta com base na realidade.",
+        "target": "Projetar ponte -> Preparar materiais -> Construir -> Realizar inspeção de qualidade -> Abrir para uso"
+    },
+    {
+        "input": "\"Planejamento da missão, testes integrados e inspeção final, fabricação da nave espacial, lançamento, execução da missão, retorno à Terra\" são as etapas que resumi sobre a execução de uma missão espacial. Apenas com base no conteúdo que resumi, verifique se a ordem acima está correta.",
+        "target": "Incorreto, a ordem correta é: Planejamento da missão -> Fabricação da nave espacial -> Testes integrados e inspeção final -> Lançamento -> Execução da missão -> Retorno à Terra"
+    },
+    {
+        "input": "Para desenvolver um software com sucesso, geralmente é necessário completar as seguintes tarefas: \"Escrever código, analisar requisitos, lançar o software, projetar o software, testar o software\". Por favor, indique a sequência correta com base no senso comum.",
+        "target": "Análise de requisitos -> Projeto do software -> Escrita de código -> Teste do software -> Lançamento do software"
+    },
+    {
+        "input": "Para realizar um experimento científico com sucesso, além de coletar dados, geralmente há estas etapas: \"Projetar o experimento, formular hipóteses, tirar conclusões, analisar dados\". Por favor, indique a sequência correta de acordo com a realidade.",
+        "target": "Formular hipótese -> Projetar experimento -> Coletar dados -> Analisar dados -> Tirar conclusões"
+    },
+    {
+        "input": "Resumi as etapas necessárias para realizar uma atividade física: \"Praticar o exercício, elaborar um plano de exercícios, vestir roupas esportivas, fazer aquecimento, alongar para reduzir o acúmulo de ácido lático\". Por favor, indique a sequência correta com base no senso comum.",
+        "target": "Elaborar plano de exercícios -> Vestir roupa esportiva -> Fazer aquecimento -> Realizar exercício -> Alongar para reduzir acúmulo de ácido lático"
+    },
+    {
+        "input": "\"Escolher o provedor de serviços, preencher informações de registro, verificar e concluir o registro, definir senha, acessar o site oficial\". Com base no resumo acima, por favor, me ajude a listar na ordem correta as etapas necessárias para registrar uma conta de e-mail.",
+        "target": "Escolher o provedor de serviços -> Acessar o site oficial -> Preencher informações de registro -> Definir senha -> Verificar e concluir o registro"
+    },
+    {
+        "input": "O pagamento com telefone geralmente envolve as seguintes etapas: \"Inserir o valor do pagamento, escanear o código QR fornecido pelo comerciante, confirmar o pagamento, abrir o aplicativo de pagamento\". Por favor, reorganize na sequência correta.",
+        "target": "Abrir o aplicativo de pagamento -> Escanear o código QR fornecido pelo comerciante -> Inserir o valor do pagamento -> Confirmar o pagamento"
+    },
+    {
+        "input": "Resumi as etapas necessárias para montar um móvel, que geralmente incluem: \"Ler o manual de montagem, montar as peças do móvel, confirmar que todas as ferramentas e acessórios estão completos, fixar com parafusos\". Por favor, indique a sequência correta com base no senso comum.",
+        "target": "Ler o manual de montagem -> Confirmar que todas as ferramentas e acessórios estão completos -> Montar as peças do móvel -> Fixar com parafusos"
+    },
+    {
+        "input": "O uso do micro-ondas geralmente envolve as seguintes etapas: \"Definir o tempo e a potência de aquecimento, abrir o micro-ondas e colocar o alimento, iniciar o aquecimento, fechar a porta do micro-ondas\". Por favor, reorganize na sequência correta.",
+        "target": "Abrir micro-ondas e colocar alimento -> Fechar porta do micro-ondas -> Definir tempo e potência de aquecimento -> Iniciar aquecimento"
+    },
+    {
+        "input": "Como inserir números de página no Word? Por favor, reorganize as etapas que forneci para listar o processo correto: a. Selecione o estilo de numeração desejado no menu suspenso. b. Em seguida, selecione \"Número de página\". c. Clique em \"Inserir\" na barra de menu.",
+        "target": "c. Clique em \"Inserir\" na barra de menu -> b. Em seguida, selecione \"Número de página\" -> a. Selecione o estilo de numeração desejado no menu suspenso"
+    },
+    {
+        "input": "A criação de um modelo simples de aprendizado de máquina em Python envolve estas etapas: \"Escolher um modelo como regressão linear, treinar o modelo com seus dados, carregar e pré-processar seus dados, importar bibliotecas necessárias como numpy, pandas e sklearn, usar o modelo para fazer previsões\". Por favor, reorganize essas etapas na sequência correta.",
+        "target": "Importar bibliotecas necessárias como numpy, pandas e sklearn -> Carregar e pré-processar seus dados -> Escolher um modelo como regressão linear -> Treinar o modelo com seus dados -> Usar o modelo para fazer previsões"
+    },
+    {
+        "input": "Quero criar um efeito 3D no Adobe Illustrator, o que geralmente requer estas etapas: Clicar em \"Efeitos\" na barra de menu e selecionar \"3D\", definir os parâmetros do efeito 3D na caixa de diálogo, escolher \"Rotação\" ou \"Extrusão\", criar um objeto ao qual deseja aplicar o efeito 3D. Por favor, organize essas etapas de acordo com o fluxo correto.",
+        "target": "Criar um objeto ao qual você deseja aplicar efeito 3D -> Clicar em \"Efeitos\" na barra de menu e selecionar \"3D\" -> Escolher \"Rotação\" ou \"Extrusão\" -> Definir parâmetros do efeito 3D na caixa de diálogo"
+    },
+    {
+        "input": "Por favor, escreva as etapas corretas para criar um banco de dados no MySQL. A criação de um banco de dados geralmente envolve estas etapas: \"Abrir o cliente de linha de comando do MySQL, digitar \"USE nome_do_banco\" e pressionar Enter, digitar \"CREATE DATABASE nome_do_banco\" e pressionar Enter\". Responda com base no conteúdo que forneci.",
+        "target": "Abrir o cliente de linha de comando MySQL -> Digitar \"CREATE DATABASE nome_do_banco\" e pressionar Enter -> Digitar \"USE nome_do_banco\" e pressionar Enter"
+    },
+    {
+        "input": "Ao criar uma animação gráfica dinâmica no After Effects, você precisa completar as seguintes etapas: Abrir a propriedade \"Caminho\" da forma e adicionar um keyframe, criar uma nova composição, usar a ferramenta de forma para criar uma forma, o After Effects criará automaticamente uma animação, mover o indicador da linha do tempo e modificar o caminho da forma. Por favor, indique a sequência correta dessas etapas.",
+        "target": "Criar uma nova composição -> Usar a ferramenta de forma para criar uma forma -> Abrir as propriedades de \"Caminho\" da forma e adicionar um keyframe -> Mover o indicador da linha do tempo e modificar o caminho da forma -> O After Effects criará automaticamente uma animação"
+    },
+    {
+        "input": "O desenvolvimento de uma página web envolve várias etapas, como: \"escrever HTML, Projetar a interface, adicionar estilos, publicar online\". Por favor, organize essas etapas na sequência correta.",
+        "target": "Projetar a interface -> Escrever HTML -> Adicionar estilos -> Publicar online"
+    },
+    {
+        "input": "Por favor, escreva as etapas corretas de um ciclo completo da água. Aqui estão as etapas envolvidas: \"Infiltração, escoamento, evaporação, condensação, precipitação\". Começando com \"evaporação\", organize essas etapas na sequência correta.",
+        "target": "Evaporação -> Condensação -> Precipitação -> Infiltração -> Escoamento"
+    },
+    {
+        "input": "Recentemente me interessei pela fotossíntese na natureza e quero entender o processo completo. Aqui estão algumas etapas: \"Redução do dióxido de carbono, absorção de energia luminosa, síntese de compostos orgânicos, decomposição da água\". Você poderia reorganizá-las na sequência correta do processo de fotossíntese?",
+        "target": "Absorção de energia luminosa -> Decomposição da água -> Redução do dióxido de carbono -> Síntese de compostos orgânicos"
+    },
+    {
+        "input": "\"Excreção, mastigação, deglutição, digestão gástrica, absorção no intestino delgado, absorção no intestino grosso\". Com base no processo digestivo acima, poderia me dizer qual é a sequência completa correta da digestão dos alimentos?",
+        "target": "Mastigação -> Deglutição -> Digestão gástrica -> Absorção no intestino delgado -> Absorção no intestino grosso -> Excreção"
+    },
+    {
+        "input": "\"Preparar os materiais, ferver, misturar açúcar e água, despejar nos moldes\". Com base nessas informações, poderia me dar as etapas corretas para fazer doces?",
+        "target": "Preparar os materiais -> Misturar açúcar e água -> Ferver -> Despejar nos moldes"
+    },
+    {
+        "input": "Encontrei na internet o processo de fabricação de sofás: \"Construir estrutura, cortar madeira, preencher com espuma, costurar capa\". Você poderia organizar essas etapas na ordem correta?",
+        "target": "Cortar madeira -> Construir estrutura -> Preencher com espuma -> Costurar capa"
+    },
+    {
+        "input": "Estou ensinando uma pessoa sem nenhum conhecimento prático como fazer uma corrida matinal. Aqui estão algumas etapas: \"Realizar o exercício principal, vestir roupas esportivas, fazer aquecimento, fazer alongamento\". Por favor, reorganize essas etapas de acordo com o fluxo correto.",
+        "target": "Vestir roupa esportiva -> Fazer aquecimento -> Realizar exercício principal -> Fazer alongamento"
+    },
+    {
+        "input": "Para ensinar uma pessoa sem nenhum conhecimento prático a organizar uma estante de livros, como você organizaria as seguintes etapas: \"Recolocar os livros, classificar os livros, esvaziar a estante, limpar a estante\"? Por favor, liste na sequência correta.",
+        "target": "Esvaziar estante -> Limpar estante -> Classificar livros -> Recolocar livros"
+    },
+    {
+        "input": "Preparar o jantar geralmente inclui estas etapas: cozinhar os alimentos, desfrutar do jantar, preparar os ingredientes, servir os alimentos. Indique a sequência correta de acordo com a realidade.",
+        "target": "Preparar ingredientes -> Cozinhar alimentos -> Servir alimentos -> Desfrutar do jantar"
+    },
+    {
+        "input": "Quero entender as etapas corretas para mesclar arquivos PDF no Adobe Acrobat. Aqui estão algumas operações: Adicionar os arquivos que deseja mesclar na caixa de diálogo, selecionar \"Combinar arquivos\", clicar em \"Ferramentas\" na barra de menu, clicar em \"Combinar\". Por favor, organize essas etapas na sequência correta.",
+        "target": "Clicar em \"Ferramentas\" na barra de menu -> Selecionar \"Combinar arquivos\" -> Adicionar os arquivos que deseja mesclar na caixa de diálogo -> Clicar em \"Combinar\""
+    },
+    {
+        "input": "As etapas para configurar o espaçamento entre linhas no Word2003 geralmente são: \"Definir o espaçamento entre linhas na caixa de diálogo, selecionar 'Parágrafo', clicar em 'Formatar' na barra de menu\". Por favor, reorganize na sequência correta.",
+        "target": "Clicar em \"Formatar\" na barra de menu -> Selecionar \"Parágrafo\" -> Definir o espaçamento entre linhas na caixa de diálogo"
+    },
+    {
+        "input": "Quero saber como fazer uma salada. A seguinte sequência de etapas está correta? \"Colocar vegetais e frutas na tigela, picar vegetais e frutas, adicionar molho, lavar vegetais e frutas\"",
+        "target": "Não, a ordem correta é: Lavar vegetais e frutas -> Picar vegetais e frutas -> Colocar vegetais e frutas na tigela -> Adicionar molho"
+    },
+    {
+        "input": "Para ensinar uma pessoa sem nenhuma experiência em fazer café, como preparar café usando grãos, como você organizaria as seguintes etapas: \"Moer os grãos de café, adicionar o café moído, preparar o moedor, adicionar água quente na quantidade adequada\"? Por favor, liste na sequência correta.",
+        "target": "Preparar o moedor -> Moer os grãos de café -> Adicionar o café moído -> Adicionar água quente na quantidade adequada"
+    },
+    {
+        "input": "Quero tricotar um cachecol para dar de presente a um amigo antes do Natal. Por favor, organize as seguintes etapas de acordo com o fluxo correto: \"Preparar o fio adequado; continuar tricotando conforme o design; determinar comprimento, largura e padrão; iniciar o tricô; processar o final do tricô; concluir o trabalho\".",
+        "target": "Determinar comprimento, largura e padrão -> Preparar fio adequado -> Iniciar o tricô -> Continuar tricotando conforme o design -> Processar o final do tricô -> Finalizar"
+    },
+    {
+        "input": "Nossa família quer viajar para o exterior antes do Natal. Viajar para o exterior envolve vários preparativos, como: \"Definir o destino e as datas da viagem, preparar as malas, reservar passagens aéreas e hotel, verificar a validade do passaporte e visto\". Você poderia me ajudar a planejar a sequência?",
+        "target": "Definir o destino e as datas da viagem -> Verificar a validade do passaporte e visto -> Reservar passagens aéreas e hotel -> Preparar as malas"
+    },
+    {
+        "input": "Você precisa ensinar uma pessoa sem nenhum conhecimento musical a aprender uma música antes do Natal. Por favor, liste a sequência correta de etapas. Aqui estão algumas etapas: \"Baixar a letra e o playback, praticar com o playback, escolher a música, praticar frase por frase\".",
+        "target": "Escolher a música -> Baixar a letra e o playback -> Praticar frase por frase -> Praticar com o playback"
+    },
+    {
+        "input": "Com base no processo real de compra de bilhete de cinema, reorganize as seguintes etapas: \"Desbloquear o celular, escolher o filme, abrir o aplicativo de cinema, verificar os horários\"",
+        "target": "Desbloquear o celular -> abrir o aplicativo de cinema -> Escolher o filme -> Verificar os horários"
+    },
+    {
+        "input": "Para aprender a patinar no gelo, em que ordem devem ser realizadas as seguintes etapas: \"Praticar ficar em pé, aprender a deslizar, aprender a dar os primeiros passos, comprar patins\"?",
+        "target": "Comprar patins -> Praticar ficar em pé -> Aprender a dar os primeiros passos -> Aprender a deslizar"
+    },
+    {
+        "input": "Para ensinar uma pessoa sem nenhuma experiência em confeitaria a fazer muffins de mirtilo, como você organizaria as seguintes etapas: \"Adicionar os mirtilos lentamente; misturar farinha, açúcar, fermento e sal; adicionar leite e ovos; assar por 20-25 minutos até dourar; despejar nas formas de muffin\"? Por favor, liste na sequência correta.",
+        "target": "Misturar farinha, açúcar, fermento e sal -> Adicionar leite e ovos -> Adicionar lentamente mirtilos -> Despejar em formas de muffin -> Assar por 20-25 minutos até dourar"
+    },
+    {
+        "input": "Anna vai viajar de avião. Em que ordem devem ser realizadas as seguintes etapas: \"Comprar passagem aérea, aguardar o embarque, fazer check-in, embarcar, chegar ao destino\"?",
+        "target": "Comprar passagens -> Fazer check-in -> Aguardar embarque -> Embarcar -> Chegar ao destino"
+    },
+    {
+        "input": "Quero tentar fazer sorvete caseiro. Em que ordem devem ser realizadas as seguintes etapas: \"Adicionar os ingredientes desejados, como frutas, pedaços de chocolate, etc.; esperar até que endureça completamente; colocar a mistura em formas de sorvete e levar ao congelador; misturar os ingredientes; preparar creme, leite e açúcar\"?",
+        "target": "Preparar creme, leite e açúcar -> Misturar -> Adicionar sabores desejados como frutas, pedaços de chocolate, etc. -> Colocar a mistura em formas de sorvete e levar ao freezer -> Aguardar até endurecer completamente"
+    },
+    {
+        "input": "Ana quer mudar seu penteado e pensou nas seguintes etapas: \"Cabeleireiro trabalha no cabelo, comunicação com o cabeleireiro, pagamento, busca de imagens de referência, visita ao salão\". Você poderia dar a sequência correta dessas etapas?",
+        "target": "Busca de imagens de referência -> Visita ao salão -> Comunicação com o cabeleireiro -> Cabeleireiro trabalha no cabelo -> Pagamento"
+    },
+    {
+        "input": "Tenho apenas uma air fryer e quero tentar fazer frango frito. Esta sequência de etapas está correta? a. Temperar os pedaços de frango com sal e pimenta b. Preparar frango, farinha, sal, pimenta, ovo batido c. Passar os pedaços de frango na farinha e depois no ovo batido d. Fritar por 10-15 minutos até dourar e ficar crocante e. Passar na farinha novamente e colocar os pedaços de frango na air fryer.",
+        "target": "Incorreto, a ordem correta é: b, a, c, e, d"
+    },
+    {
+        "input": "Estou planejando uma festa de aniversário e pensei em alguns processos: \"Decoração do local; definir hora, local e orçamento; limpeza do local; momento de celebração; elaborar lista de convidados; preparar comida e bebida\". Você poderia me ajudar a planejar a ordem de prioridade?",
+        "target": "Definir data, local e orçamento -> Elaborar lista de convidados -> Decorar e organizar o local -> Preparar comida e bebida -> Realizar celebração -> Limpar o local"
+    },
+    {
+        "input": "A lâmpada de casa queimou. Em que ordem devem ser realizadas as seguintes etapas: \"Remover a lâmpada existente, desligar a energia, restaurar a energia e testar a nova lâmpada, substituir por uma nova lâmpada\"?",
+        "target": "Desligar energia -> Remover lâmpada existente -> Substituir por lâmpada nova -> Restaurar energia e testar nova lâmpada"
+    },
+    {
+        "input": "Comecei a aprender caligrafia chinesa recentemente e pensei em alguns planos de estudo: \"imitar obras de mestres; escolher ferramentas de caligrafia; aprender traços; aprender estruturas básicas; criar obras de caligrafia\". Em que ordem devo organizá-los?",
+        "target": "Escolher ferramentas de caligrafia -> aprender traços -> aprender estruturas básicas -> imitar obras de mestres -> criar obras de caligrafia"
+    },
+    {
+        "input": "Para uma pessoa sem conhecimento básico de inglês, quais são as etapas corretas para aprender inglês? Por favor, reorganize as seguintes etapas: entender gramática básica e vocabulário; aprender as 26 letras do alfabeto; praticar fala, audição, escrita e leitura; assistir filmes em língua estrangeira; participar de atividades de intercâmbio em língua estrangeira.",
+        "target": "Aprender 26 letras do alfabeto -> Entender gramática básica e vocabulário -> Praticar fala, audição, escrita e leitura -> Assistir filmes em língua estrangeira -> Participar de atividades de intercâmbio linguístico"
+    },
+    {
+        "input": "Estou me preparando para um concurso de oratória. Estas são as etapas corretas? \"Definir o tema, pesquisar material, familiarizar-se com o discurso, elaborar um esboço, revisar e melhorar, escrever o rascunho inicial, realizar o discurso\"",
+        "target": "Não, a ordem correta é: Definir o tema -> Pesquisar material -> Elaborar um esboço -> Escrever o rascunho inicial -> Revisar e melhorar -> Familiarizar-se com o discurso -> Realizar o discurso"
+    },
+    {
+        "input": "Na próxima semana teremos uma reunião de negócios que geralmente inclui os seguintes processos: \"Convidar participantes, definir a agenda, resumir a ata da reunião, realizar a reunião, discussão da reunião, preparar documentos e relatórios relevantes\". Por favor, liste a sequência correta do processo.",
+        "target": "Definir a agenda -> Convidar participantes -> Preparar documentos e relatórios relevantes -> Realizar a reunião -> Discussão da reunião -> Resumir a ata da reunião"
+    },
+    {
+        "input": "Tenho um exame IELTS em 25 dias e minha lista de tarefas inclui: \"Elaborar plano de estudos - estudar sistematicamente - fazer autotestes - praticar e revisar - entender o conteúdo e requisitos do exame - organizar materiais de estudo\". Você pode me ajudar a organizar a ordem?",
+        "target": "Entender o conteúdo e requisitos do exame -> Elaborar plano de estudos -> Organizar materiais de estudo -> Estudar sistematicamente -> Praticar e revisar -> Fazer autotestes"
+    },
+    {
+        "input": "Quero projetar meu próprio site. Aqui estão algumas etapas: \"Definir objetivos, desenvolver o site, pesquisar o mercado, projetar a estrutura e layout do site, elaborar plano de conteúdo, testar e publicar online\". Por favor, indique a sequência correta das etapas de acordo com a lógica.",
+        "target": "Definir objetivos -> Pesquisar o mercado -> Elaborar plano de conteúdo -> Projetar a estrutura e layout do site -> Desenvolver o site -> Testar e publicar online"
+    },
+    {
+        "input": "Quero entender um tutorial de dança latina para iniciantes. Em que ordem devem ser realizadas as seguintes etapas de aprendizado: \"Praticar especificamente com um parceiro de dança, aprender os passos básicos, praticar individualmente, condicionamento físico e flexibilidade\"",
+        "target": "Condicionamento físico e flexibilidade -> Aprender passos básicos de dança -> Praticar individualmente -> Praticar com parceiro"
+    },
+    {
+        "input": "Planejo me inscrever em uma aula de fitness. Em que ordem devo planejar as seguintes etapas: \"Definir objetivos, acompanhar o progresso, escolher o tipo de exercício adequado, organizar frequência e duração razoáveis de treinamento, começar a se exercitar\"",
+        "target": "Definir objetivos -> Escolher forma adequada de exercício -> Organizar frequência e duração razoáveis de treinamento -> Iniciar exercícios -> Acompanhar progresso"
+    },
+    {
+        "input": "Para gerenciar as finanças familiares, em que ordem devem ser realizadas as seguintes etapas: \"Implementar o planejamento estabelecido, avaliar e ajustar periodicamente a situação financeira, estabelecer um plano com base na situação real da família, definir metas de planejamento financeiro\"?",
+        "target": "Definir objetivos de planejamento financeiro -> Elaborar plano baseado na situação familiar -> Implementar planejamento estabelecido -> Avaliar e ajustar situação financeira periodicamente"
+    },
+    {
+        "input": "Por favor, indique a ordem sequencial para completar estas três etapas de marketing em mídias sociais: \"Elaborar plano de conteúdo e frequência de publicação, estabelecer imagem de marca e contas em mídias sociais, definir público-alvo e estratégias de marketing\".",
+        "target": "Definir público-alvo e estratégia de marketing -> Estabelecer imagem da marca e contas em redes sociais -> Elaborar plano de conteúdo e frequência de publicação"
+    },
+    {
+        "input": "Na próxima semana, nossa empresa organizará um evento beneficente. Estas são as etapas que o evento incluirá: \"Promover o evento, resumir os resultados do evento, elaborar plano e cronograma do evento, definir propósito e beneficiários, executar o evento\". Você poderia ajudar a planejar um fluxo razoável?",
+        "target": "Definir propósito e beneficiários -> Elaborar plano de atividades e cronograma -> Divulgar atividade -> Executar atividade -> Resumir resultados da atividade"
+    },
+    {
+        "input": "Aqui estão algumas etapas para usar palitos de fio dental: \"Posicionar o fio dental entre os dentes, preparar os palitos de fio dental, continuar a limpar outros dentes, mover para cima e para baixo com força uniforme, enxaguar com água para remover resíduos de alimentos\". Você poderia me ajudar a organizá-las em uma sequência razoável?",
+        "target": "Preparar os palitos de fio dental -> Posicionar o fio dental entre os dentes -> Mover para cima e para baixo com força uniforme -> Continuar a limpar outros dentes -> Enxaguar com água para remover resíduos de alimentos"
+    },
+    {
+        "input": "A poda de plantas de folhas grandes pode ser dividida nas seguintes etapas: \"Ao podar folhas grandes, tenha cuidado para proteger outras partes da planta; podar na forma desejada conforme necessário; preparar tesouras adequadas; selecionar as folhas que precisam ser podadas; pulverizar água em ambos os lados das folhas para mantê-las úmidas\". Por favor, reorganize na sequência correta.",
+        "target": "Preparar tesoura adequada -> Selecionar folhas que precisam ser podadas -> Ao podar folhas grandes, tenha cuidado para proteger outras partes da planta -> Podar na forma desejada conforme necessário -> Pulverizar água em ambos os lados das folhas para mantê-las úmidas"
+    },
+    {
+        "input": "Preparar café instantâneo geralmente envolve estas etapas: \"Colocar o café em pó na xícara, adicionar água quente, misturar bem, adicionar açúcar e creme a gosto e misturar novamente, ferver água\". Por favor, organize na sequência correta.",
+        "target": "Ferver água -> Colocar pó de café na xícara -> Adicionar água quente -> Misturar bem -> Adicionar açúcar e creme a gosto e misturar novamente"
+    },
+    {
+        "input": "\"Adicionar açúcar ou outro adoçante → despejar a espuma de leite → preparar os materiais necessários → dissolver o café → fazer espuma de leite → aquecer a água\" Acima estão alguns passos para preparar um latte. Organize-os na ordem correta.",
+        "target": "Preparar os materiais necessários -> Aquecer a água -> Dissolver o café -> Fazer espuma de leite -> Despejar a espuma de leite -> Adicionar açúcar ou outro adoçante"
+    },
+    {
+        "input": "Preparar carne de porco cozida em molho de soja geralmente envolve as seguintes etapas: \"Caramelizar o açúcar, cozinhar lentamente, escaldar para remover o sangue, selecionar os ingredientes, cortar a carne em cubos, refogar temperos e carne\". Você poderia me dizer a sequência correta de preparo?",
+        "target": "Selecionar ingredientes -> Cortar carne em pedaços -> Escaldar para remover sangue -> Caramelizar açúcar -> Refogar temperos e carne -> Cozinhar lentamente"
+    },
+    {
+        "input": "\"Cavar um buraco, regar abundantemente, preencher o buraco, selecionar mudas de macieira, colocar a muda de macieira\". Com base nas etapas acima, por favor, indique as etapas corretas para plantar uma macieira.",
+        "target": "Selecionar mudas de macieira -> Cavar buraco -> Colocar muda de macieira -> Preencher buraco -> Regar abundantemente"
+    },
+    {
+        "input": "O cultivo de rosas pode ser dividido nas seguintes etapas: \"Preparar solo rico em nutrientes/cavar um buraco de tamanho adequado/plantar a muda de rosa/escolher variedade adequada/regar e manter o solo úmido/fertilizar e podar regularmente\". Por favor, organize na sequência correta.",
+        "target": "Escolher variedade adequada -> Preparar solo rico em nutrientes -> Cavar buraco de tamanho adequado -> Plantar roseira -> Regar e manter solo úmido -> Adubar e podar roseiras regularmente"
+    },
+    {
+        "input": "Recentemente quero criar um aquário. Entendi que geralmente há estes preparativos: \"Preparar o aquário e equipamento de filtragem, alimentar no momento adequado, primeiro colocar água e ajustar temperatura e qualidade, depois adicionar os peixes\". Você poderia me dizer a sequência correta?",
+        "target": "Preparar aquário e equipamento de filtragem -> Adicionar água e ajustar temperatura e qualidade -> Adicionar peixes -> Alimentar adequadamente"
+    },
+    {
+        "input": "Quero criar abelhas no jardim para produzir mel. Esta é minha lista de tarefas: \"Escolher local adequado para colocar as colmeias, comprar ou fazer colmeias e outros equipamentos apícolas, entender leis e regulamentos relevantes, escolher espécies de abelhas adequadas para criação\". O que devo fazer primeiro?",
+        "target": "Entender leis e regulamentos relevantes"
+    },
+    {
+        "input": "Por favor, liste em ordem as etapas para fazer sabonete artesanal: 1. Adicionar óleos essenciais e corantes naturais. 2. Misturar bem. 3. Preparar base de sabão + óleos essenciais + corantes naturais + moldes. 4. Derreter a base de sabão. 5. Despejar nos moldes. 6. Deixar solidificar por 24 horas e desmoldar para secar.",
+        "target": "A ordem correta é: 3. Preparar base de sabão + óleos essenciais + corantes naturais + moldes -> 4. Derreter base de sabão -> 1. Adicionar óleos essenciais e corantes naturais -> 2. Misturar bem -> 5. Despejar em moldes -> 6. Deixar solidificar por 24 horas e desmoldar para secar"
+    },
+    {
+        "input": "Os pneus estão muito desgastados e quero trocá-los eu mesmo. Aqui estão algumas etapas para trocar pneus: \"Remover o pneu velho, abaixar o macaco e remover o alerta, usar o macaco para levantar o carro, estacionar o carro em superfície plana, instalar o novo pneu, ligar o pisca-alerta\". Você poderia me ajudar a organizar corretamente essas etapas?",
+        "target": "Estacionar o carro em superfície plana -> Ligar o pisca-alerta -> Usar o macaco para levantar o carro -> Remover o pneu velho -> Instalar o novo pneu -> Abaixar o macaco e remover o alerta"
+    },
+    {
+        "input": "O gramado não é aparado há muito tempo. Aqui estão algumas etapas para aparar o gramado: \"1. Começar por uma extremidade do gramado e garantir altura uniforme; 2. Ajustar a altura de corte do cortador; 3. Preparar o cortador e o coletor de grama; 4. Limpar os resíduos de grama do cortador e do coletor\". Você poderia reorganizar de acordo com a situação real?",
+        "target": "A ordem correta é: 3. Preparar cortador e coletor de grama -> 2. Ajustar altura de corte do cortador -> 1. Começar de uma extremidade do gramado e garantir altura uniforme -> 4. Limpar resíduos de grama do cortador e coletor"
+    },
+    {
+        "input": "O chuveiro do banheiro está entupido e quero substituí-lo. Siga estes passos na ordem correta: 1. Apertar a porca de conexão do chuveiro. 2. Abrir o registro de água para verificar se o chuveiro funciona normalmente. 3. Usar uma chave para remover o chuveiro existente. 4. Usar uma junta de borracha para conectar o novo chuveiro ao cano. 5. Fechar o registro de água.",
+        "target": "5. Fechar o registro de água. -> 3. Usar uma chave para remover o chuveiro existente. -> 4. Usar uma junta de borracha para conectar o novo chuveiro ao cano. -> 1. Apertar a porca de conexão do chuveiro. -> 2. Abrir o registro de água para verificar se o chuveiro funciona normalmente."
+    },
+    {
+        "input": "Quero aprender a fazer macarrão italiano. Entendi que geralmente há estas etapas: 1. Escorrer o macarrão, reservando um pouco da água do cozimento. 2. Misturar bem e servir. 3. Adicionar sal e macarrão na quantidade adequada. 4. Adicionar o molho e os ingredientes desejados. 5. Ferver a água na panela. 6. Cozinhar de acordo com o tempo indicado na embalagem. Qual é a sequência correta?",
+        "target": "A ordem correta é: 5. Ferver água na panela -> 3. Adicionar sal e macarrão -> 6. Cozinhar conforme tempo indicado na embalagem -> 1. Escorrer macarrão reservando um pouco da água -> 4. Adicionar molho e ingredientes desejados -> 2. Misturar bem e servir."
+    },
+    {
+        "input": "Para usar a máquina de lavar roupa, em que ordem devem ser realizadas as seguintes etapas? 1. Selecionar o modo e temperatura de lavagem de acordo com o tipo de roupa. 2. Iniciar a máquina e aguardar o fim da lavagem. 3. Adicionar quantidade adequada de sabão líquido ou em pó. 4. Verificar as etiquetas das roupas para entender as instruções de lavagem. 5. Separar as roupas por cor e material antes de colocá-las na máquina.",
+        "target": "4. Verificar as etiquetas das roupas para entender as instruções de lavagem -> 5. Separar as roupas por cor e material antes de colocá-las na máquina -> 3. Adicionar quantidade adequada de sabão líquido ou em pó -> 1. Selecionar o modo e temperatura de lavagem de acordo com o tipo de roupa -> 2. Iniciar a máquina e aguardar o fim da lavagem"
+    },
+    {
+        "input": "Amarrar cadarços geralmente envolve estas etapas: 1. Fazer com que as duas pontas tenham o mesmo comprimento. 2. Cruzar uma ponta sobre a outra. 3. Apertar os cadarços para garantir um ajuste confortável. 4. Passar os cadarços pelos ilhós. Você poderia me dizer a sequência correta?",
+        "target": "A ordem correta é: 4. Passar os cadarços pelos ilhós -> 1. Fazer com que as duas pontas tenham o mesmo comprimento -> 2. Cruzar uma ponta sobre a outra -> 3. Apertar os cadarços para garantir um ajuste confortável"
+    },
+    {
+        "input": "Li online que aprender ioga pode ser dividido nestas etapas: 1. Encontrar um espaço tranquilo; 2. Seguir vídeos ou instruções de ioga para começar a praticar; 3. Estender o tapete de ioga; 4. Comprar equipamento adequado ao seu nível. O que devo fazer primeiro e depois? Poderia me ajudar a organizar as prioridades?",
+        "target": "A ordem correta é: 4. Comprar equipamento adequado ao seu nível -> 1. Encontrar espaço tranquilo -> 3. Estender tapete de yoga -> 2. Seguir vídeo ou instruções de yoga para começar a prática"
+    },
+    {
+        "input": "\"Colocar o vaso em local ensolarado, espalhar sementes de tomate, cobrir com uma fina camada de terra e compactar, manter o solo úmido, escolher solo e vaso adequados\". Com base nas etapas acima, poderia indicar o processo correto para plantar tomates?",
+        "target": "Escolher solo e vaso adequados -> Semear tomates -> Cobrir com camada fina de terra e compactar -> Manter solo úmido -> Colocar vaso em local ensolarado"
+    },
+    {
+        "input": "Quero começar a aprender fotografia. Aqui estão algumas metas que dividi: Escolher câmera e lentes adequadas; experimentar diferentes ângulos e perspectivas; escolher cenários e condições de iluminação adequados; entender princípios básicos de fotografia e estrutura da câmera. Quero começar a aprender gradualmente. Você pode me ajudar a priorizar esses objetivos?",
+        "target": "Entender princípios básicos de fotografia e estrutura da câmera -> Escolher câmera e lentes adequadas -> Escolher cenários e condições de iluminação adequados -> Experimentar diferentes ângulos e perspectivas"
+    },
+    {
+        "input": "Para verificar conteúdo duplicado usando as funções do Excel, há estas etapas: 1. Clicar em \"Início\" na barra de menu e encontrar \"Formatação Condicional\" no grupo \"Estilos\". 2. Na caixa de diálogo \"Destacar Células\", selecionar \"Valores Duplicados\". 3. Abrir o Excel e selecionar o intervalo que deseja verificar. 4. Após confirmar as opções, clicar em OK. Por favor, organize essas etapas na sequência correta de operação.",
+        "target": "A ordem correta é: 3. Abrir Excel e selecionar intervalo desejado -> 1. Clicar em \"Início\" na barra de menu e encontrar \"Formatação Condicional\" no grupo \"Estilos\" -> 2. Na caixa de diálogo \"Destacar Células\", selecionar \"Valores Duplicados\" -> 4. Confirmar opções e clicar em OK"
+    },
+    {
+        "input": "Quero adicionar um sumário à minha tese no Word. Posso seguir com sucesso esta sequência de etapas que encontrei online? 1. Selecionar \"Sumário\" e escolher o estilo de sumário desejado no menu. 2. Clicar em \"OK\" e o sumário será criado automaticamente. 3. Definir estilos para seus títulos, como Título 1, Título 2, etc. 4. Clicar em \"Referências\" na barra de menu.",
+        "target": "A ordem de operação precisa ser ajustada. A ordem correta é: 3. Definir estilos para seus títulos, como Título 1, Título 2, etc. -> 4. Clicar em \"Referências\" na barra de menu -> 1. Selecionar \"Sumário\" e escolher estilo de sumário desejado no menu -> 2. Clicar em \"OK\" para criar sumário automaticamente"
+    },
+    {
+        "input": "Para limpar o cache no navegador Chrome, em que ordem devem ser realizadas as seguintes etapas? Clicar nos três pontos no canto superior direito; clicar em \"Limpar dados\"; selecionar \"Limpar dados de navegação\", na caixa de diálogo selecionar \"Imagens e arquivos em cache\"; selecionar \"Mais ferramentas\".",
+        "target": "Clicar nos três pontos no canto superior direito -> Selecionar \"Mais ferramentas\" -> Selecionar \"Limpar dados de navegação\", na caixa de diálogo selecionar \"Imagens e arquivos em cache\" -> Clicar em \"Limpar dados\""
+    },
+    {
+        "input": "Para usar máscaras de camada no Photoshop, em que ordem devem ser realizadas as seguintes operações: 1. Selecionar \"Máscara de camada\" e depois \"Revelar tudo\" ou \"Ocultar tudo\"; 2. Usar a ferramenta pincel para pintar na máscara, revelando ou ocultando partes da camada; 3. Selecionar a camada à qual deseja adicionar a máscara; 4. Clicar em \"Camada\" na barra de menu.",
+        "target": "A ordem correta é: 3. Selecionar camada à qual deseja adicionar máscara -> 4. Clicar em \"Camada\" na barra de menu -> 1. Selecionar \"Máscara de camada\" e depois \"Revelar tudo\" ou \"Ocultar tudo\" -> 2. Usar ferramenta pincel para desenhar na máscara, revelando ou ocultando partes da camada"
+    },
+    {
+        "input": "Quero saber como criar um jogo simples no Unity. Encontrei uma descrição geral: \"Criar uma nova cena e objeto de jogo, adicionar iluminação e câmera, escrever scripts para controlar o comportamento dos objetos de jogo, criar um novo projeto\". Por favor, organize na sequência correta de operação.",
+        "target": "Criar novo projeto -> Criar nova cena e objeto de jogo -> Adicionar fontes de luz e câmera -> Escrever script para controlar comportamento do objeto"
+    },
+    {
+        "input": "Para enviar um e-mail usando um telefone, em que ordem você deve realizar as seguintes etapas: inserir o destinatário e o conteúdo do e-mail, abrir o aplicativo de e-mail, clicar em escrever e-mail, clicar em enviar.",
+        "target": "Abrir aplicativo de e-mail -> Clicar em escrever e-mail -> Inserir destinatário e conteúdo do e-mail -> Clicar em enviar"
+    },
+    {
+        "input": "Para reproduzir música em um telefone, geralmente há estas etapas: abrir o aplicativo de música, clicar em reproduzir, desbloquear o telefone, procurar a música. Qual é a ordem correta de operação?",
+        "target": "Desbloquear telefone -> Abrir aplicativo de música -> Procurar música -> Clicar em reproduzir"
+    },
+    {
+        "input": "Para visualizar notícias em um telefone, você precisa realizar as seguintes etapas: selecionar a categoria de notícias, desbloquear o telefone, ler as notícias, abrir o aplicativo de notícias. Em ordem cronológica, como elas devem ser organizadas?",
+        "target": "Desbloquear telefone -> Abrir aplicativo de notícias -> Selecionar categoria de notícias -> Ler notícias"
+    },
+    {
+        "input": "Por favor, indique a ordem correta para usar um telefone para visualizar mapas: inserir o destino, desbloquear o telefone, verificar a rota, abrir o aplicativo de mapas.",
+        "target": "As etapas corretas para usar um telefone para visualizar mapas são: Desbloquear telefone -> Abrir aplicativo de mapas -> Inserir destino -> Verificar rota"
+    },
+    {
+        "input": "Para usar um telefone para tradução online, geralmente há estas etapas: inserir o conteúdo, visualizar o resultado da tradução, desbloquear o telefone, abrir o aplicativo de tradução. Você pode me dizer a ordem correta?",
+        "target": "Desbloquear telefone -> Abrir aplicativo de tradução -> Inserir conteúdo -> Visualizar resultado da tradução"
+    },
+    {
+        "input": "\"Abrir a garrafa de água, beber água, sentir sede, fechar a garrafa\", qual seria a ordem correta para beber água?",
+        "target": "Sentir sede -> Abrir garrafa de água -> Beber água -> Fechar garrafa"
+    },
+    {
+        "input": "\"Tirar a camisa, tirar a roupa íntima, tirar o casaco\", qual seria a ordem correta para tirar a roupa?",
+        "target": "Tirar casaco -> Tirar camisa -> Tirar roupa íntima"
+    },
+    {
+        "input": "Vi no TikTok um método eficiente de quatro etapas para lavar o rosto que inclui: Aplicar produto de limpeza facial, aplicar hidratante, umedecer com água morna, enxaguar com água limpa. Qual é a ordem correta?",
+        "target": "Umedecer com água morna -> Aplicar produto de limpeza facial -> Enxaguar com água limpa -> Aplicar hidratante"
+    },
+    {
+        "input": "\"Colocar pasta de dente, escovar os dentes, enxaguar a pasta, pegar a escova\", qual seria a ordem correta para escovar os dentes?",
+        "target": "Pegar escova -> Colocar pasta de dente -> Escovar os dentes -> Enxaguar pasta"
+    },
+    {
+        "input": "Quero aprender a fazer bolos. Aqui estão algumas etapas para assar um bolo: misturar os ingredientes, assar, preparar os materiais, decorar. Você pode me ajudar a reorganizar de acordo com a situação real?",
+        "target": "Preparar materiais -> Misturar ingredientes -> Assar -> Decorar"
+    },
+    {
+        "input": "\"Teste de voo, dobrar o papel, ajustar com base no desempenho do voo, finalizar\" são quatro etapas para fazer um avião de papel. Por favor, forneça a ordem correta com base na realidade.",
+        "target": "A ordem correta para fazer um avião de papel é: Dobrar o papel -> Testar o voo -> Ajustar com base no desempenho do voo -> Finalizar"
+    },
+    {
+        "input": "\"Adicionar vegetais e hambúrguer, cobrir com pão, servir, tostar o pão\", de acordo com o processo de fazer um hambúrguer, como essas etapas devem ser organizadas?",
+        "target": "De acordo com o processo de fazer hambúrguer, a ordem correta das etapas é: Tostar o pão -> Adicionar vegetais e hambúrguer -> Cobrir com pão -> Servir"
+    },
+    {
+        "input": "Sobre as etapas do banho, em que ordem devem ser realizadas? \"Secar-se, ajustar a temperatura da água, tirar a roupa, tomar banho\"",
+        "target": "Tirar a roupa -> Ajustar temperatura da água -> Tomar banho -> Secar-se"
+    },
+    {
+        "input": "\"Escolher a loja, fazer uma lista de compras, pagar, selecionar produtos\", como essas etapas devem ser organizadas de acordo com o processo de compras físicas?",
+        "target": "Elaborar lista de compras -> Escolher loja -> Selecionar produtos -> Pagar"
+    },
+    {
+        "input": "O processo de fazer suco inclui: cortar as frutas, adicionar cubos de gelo conforme o gosto após experimentar, servir no copo, espremer. Por favor, organize na ordem correta.",
+        "target": "Cortar frutas -> Espremer -> Servir no copo -> Adicionar cubos de gelo conforme o gosto após experimentar"
+    },
+    {
+        "input": "Dividi a leitura de um livro em quatro etapas: ler o conteúdo, abrir o livro, devolver à estante, fechar o livro. Por favor, organize em ordem cronológica para tornar as etapas mais claras.",
+        "target": "Abrir o livro -> Ler o conteúdo -> Fechar o livro -> Devolver à estante"
+    },
+    {
+        "input": "O processo de montagem de um quebra-cabeça envolve: conectar progressivamente, completar o quebra-cabeça, desembalar o quebra-cabeça, encontrar as bordas. Em que ordem essas etapas devem ser realizadas?",
+        "target": "Desembalar quebra-cabeça -> Encontrar bordas -> Conectar progressivamente -> Completar quebra-cabeça"
+    },
+    {
+        "input": "Estou aprendendo pintura em aquarela e o professor mencionou estes pontos principais: observar a posição e relação de cores dos objetos, colocar os objetos na mesa, esboçar o layout da composição, ajustar a disposição dos objetos, pintar os detalhes, aplicar as cores de base, deixar secar. Na prática, como essas etapas são implementadas?",
+        "target": "Colocar objetos na mesa de desenho -> Ajustar disposição dos itens -> Observar posição e relação de cores dos objetos -> Esboçar layout da composição -> Aplicar cores de base -> Desenhar detalhes -> Deixar secar"
+    },
+    {
+        "input": "Dividi a construção com blocos em quatro etapas: construir a base, finalizar a construção, adicionar detalhes, construir por camadas. Se começar do zero, em que ordem devo proceder?",
+        "target": "Construir base -> Construir por camadas -> Adicionar detalhes -> Finalizar construção"
+    },
+    {
+        "input": "\"Criação do roteiro, lançamento, filmagem, pós-produção\", qual é a ordem cronológica dessas quatro etapas no processo real de produção de filmes?",
+        "target": "Criação do roteiro -> Filmagem -> Pós-produção -> Lançamento"
+    },
+    {
+        "input": "Preciso escrever um relatório de pesquisa. \"Escrever o conteúdo principal, coletar materiais, editar e revisar, organizar a estrutura\" - qual dessas quatro etapas devo fazer primeiro?",
+        "target": "Coletar material"
+    },
+    {
+        "input": "Reuniões de escritório geralmente têm estes processos: convocar os participantes, definir a agenda, realizar a discussão, registrar os pontos principais da reunião. Você pode me dizer a ordem cronológica correta?",
+        "target": "Definir agenda -> Convocar participantes -> Realizar discussão -> Registrar pontos principais da reunião"
+    },
+    {
+        "input": "Se eu quiser aprender uma nova habilidade em um ano, como devo organizar sequencialmente estes planos de estudo: \"obter recursos de aprendizado, praticar a aplicação, definir objetivos, avaliar o progresso\"?",
+        "target": "Definir objetivos -> Obter recursos de aprendizagem -> Aplicar na prática -> Avaliar progresso"
+    },
+    {
+        "input": "De acordo com o processo geral de organização de atividades, como as quatro etapas a seguir são realizadas: elaborar um plano, preparar materiais, definir os objetivos da atividade, executar a atividade?",
+        "target": "Definir objetivos da atividade -> Elaborar plano -> Preparar materiais -> Executar atividade"
+    },
+    {
+        "input": "De acordo com a ordem de uso de um computador portátil, como organizar as seguintes etapas: usar o notebook, abrir a tampa do notebook, desligar o notebook, ligar o notebook?",
+        "target": "Abrir tampa do computador portátil -> Ligar -> Usar notebook -> Desligar notebook"
+    },
+    {
+        "input": "Trancar uma porta envolve estes processos: girar a chave, inserir a chave, fechar a porta, verificar se a porta está trancada. Por favor, organize na ordem correta.",
+        "target": "Fechar porta -> Inserir chave -> Girar chave -> Verificar se a porta está trancada"
+    },
+    {
+        "input": "\"Colocar as folhas de chá, ferver a água, adicionar água quente, beber o chá\", qual é a ordem cronológica dessas quatro etapas no processo real de preparar chá?",
+        "target": "Ferver água -> Colocar as folhas de chá -> Adicionar água quente -> Beber chá"
+    },
+    {
+        "input": "\"Selar o recipiente, esperar as sobras esfriarem completamente, colocar a comida quente no recipiente, colocar na geladeira\", de acordo com o processo de guardar sobras na geladeira, como essas etapas devem ser organizadas?",
+        "target": "Colocar a comida quente no recipiente -> Esperar as sobras esfriarem completamente -> Selar o recipiente -> Colocar na geladeira"
+    },
+    {
+        "input": "Encontrei online que instalar uma nova placa de vídeo geralmente tem estas sete etapas: 1. Conectar a placa de vídeo à fonte de alimentação. Algumas placas de alto desempenho precisam de energia adicional, então você precisa conectar os cabos de alimentação à placa. 2. Retirar a nova placa de vídeo e inseri-la cuidadosamente no slot PCIe vazio. Certifique-se de que a placa esteja firmemente inserida e fixada com parafusos. 3. Localizar a placa de vídeo antiga, geralmente inserida no slot PCIe da placa-mãe. Antes de remover a placa antiga, lembre-se de soltar os fixadores. 4. Desligar o computador e desconectar a fonte de alimentação. 5. Abrir o gabinete do computador. 6. Desparafusar a placa antiga e desconectar cuidadosamente a placa de vídeo da placa-mãe. 7. Fechar o gabinete, reconectar a fonte de alimentação e ligar. Você pode me ajudar a organizar isso de acordo com a ordem real de operação?",
+        "target": "A ordem correta é: 4. Desligar o computador e desconectar a fonte de alimentação -> 5. Abrir o gabinete do computador -> 3. Localizar a placa de vídeo antiga, geralmente inserida no slot PCIe da placa-mãe. Antes de remover a placa antiga, lembre-se de soltar os fixadores -> 6. Desparafusar a placa antiga e desconectar cuidadosamente a placa de vídeo da placa-mãe -> 2. Retirar a nova placa de vídeo e inseri-la cuidadosamente no slot PCIe vazio. Certifique-se de que a placa esteja firmemente inserida e fixada com parafusos -> 1. Conectar a placa de vídeo à fonte de alimentação. Algumas placas de alto desempenho precisam de energia adicional, então você precisa conectar os cabos de alimentação à placa -> 7. Fechar o gabinete, reconectar a fonte de alimentação e ligar"
+    },
+    {
+        "input": "Para instalar um novo aplicativo em um iPhone, como implementar as seguintes etapas: abrir a App Store, aguardar o download e instalação do aplicativo, clicar no aplicativo nos resultados da pesquisa e clicar em \"Instalar\", digitar o nome do aplicativo na barra de pesquisa.",
+        "target": "Para instalar um novo aplicativo em um iPhone, os passos corretos são: Abrir App Store -> Digitar nome do aplicativo na barra de pesquisa -> Clicar no aplicativo nos resultados de pesquisa -> Clicar em \"Instalar\" -> Aguardar download e instalação completa do aplicativo."
+    },
+    {
+        "input": "Instalar um novo SSD (Solid State Drive) em um computador portátil geralmente envolve estes processos: 1. Remover o disco rígido antigo e colocar o novo SSD no compartimento, fixando-o. 2. Abrir a tampa inferior do computador portátil  e localizar o compartimento do disco. 3. Recolocar a tampa inferior do computador portátil . 4. Ligar e inicializar o SSD no sistema. 5. Desligar o computador portátil e desconectar a fonte de energia. O processo real segue a ordem que listei?",
+        "target": "Não. De acordo com o processo real, os passos corretos para instalar um novo SSD são: 5. Desligar computador e desconectar fonte de energia -> 2. Abrir tampa inferior do computador e localizar compartimento do disco rígido -> 1. Remover disco antigo e inserir novo SSD no compartimento, fixando-o corretamente -> 3. Recolocar tampa inferior do computador -> 4. Ligar e inicializar SSD no sistema."
+    },
+    {
+        "input": "Instalar um novo chuveiro geralmente inclui estas etapas: usar uma chave para remover o chuveiro antigo, parafusar o novo chuveiro, fechar o registro de água, abrir o registro para verificar vazamentos, limpar as roscas de conexão do chuveiro. Por favor, forneça a ordem correta de instalação.",
+        "target": "Fechar registro de água -> Usar chave para remover chuveiro antigo -> Limpar parte rosqueada da conexão do chuveiro -> Rosquear novo chuveiro -> Abrir registro de água e verificar vazamentos"
+    },
+    {
+        "input": "A lente da minha câmera quebrou e preciso instalar uma nova. Como realizar as quatro etapas a seguir: 1. Ligar a câmera e tirar algumas fotos para verificar se a nova lente funciona corretamente. 2. Instalar a nova lente na câmera na direção e posição corretas. 3. Remover a lente antiga seguindo as instruções do manual para a posição de liberação. 4. Desligar a câmera.",
+        "target": "Os passos corretos para trocar lente de câmera são: 4. Desligar câmera -> 3. Remover lente antiga seguindo posição de trava conforme manual -> 2. Instalar nova lente na direção e posição corretas na câmera -> 1. Ligar câmera e tirar algumas fotos para verificar funcionamento da nova lente"
+    },
+    {
+        "input": "\"Síntese de DNA, ligação de DNA, desenrolamento de DNA, reparo de DNA\", quero saber em que ordem esses quatro processos ocorrem na replicação do DNA?",
+        "target": "Desenrolamento do DNA -> Síntese de DNA -> Ligação do DNA -> Reparo do DNA"
+    },
+    {
+        "input": "Os principais processos da mitose em células animais incluem: divisão celular, separação cromossômica, formação do fuso mitótico, preparação da prófase. Em que ordem eles ocorrem?",
+        "target": "Preparação inicial -> Formação do fuso mitótico -> Separação dos cromossomos -> Divisão celular"
+    },
+    {
+        "input": "Um processo completo de refino de petróleo segue qual ordem para estas etapas: petróleo bruto, destilação fracionada, pré-tratamento, craqueamento catalítico, dessulfurização, produto final.",
+        "target": "Petróleo bruto -> Pré-tratamento -> Destilação fracionada -> Craqueamento catalítico -> Dessulfurização -> Produto final"
+    },
+    {
+        "input": "De acordo com um processo completo de criação musical, como as seguintes etapas são realizadas: concepção do tema, mixagem, produção de demo, composição de letra e música, gravação em estúdio, lançamento. Por favor, forneça a ordem correta.",
+        "target": "Concepção do tema -> Composição de letra e música -> Produção de demo -> Gravação em estúdio -> Mixagem -> Lançamento"
+    },
+    {
+        "input": "No processo real de design arquitetônico, em que ordem estas etapas são implementadas: design conceitual, análise de requisitos, design preliminar, aceitação, design de construção, construção. Por favor, organize de acordo com a ordem real.",
+        "target": "Análise de requisitos -> Design conceitual -> Design preliminar -> Design de construção -> Construção -> Aceitação"
+    },
+    {
+        "input": "A execução de um programa inclui principalmente três partes: \"vinculação, compilação, execução\". Em aplicações reais, em que ordem são executadas?",
+        "target": "Compilação -> Ligação -> Execução"
+    },
+    {
+        "input": "\"Germinação, murchamento, floração, frutificação\", como ocorrem sequencialmente no processo de crescimento das plantas?",
+        "target": "Germinação -> Floração -> Frutificação -> Murchamento"
+    },
+    {
+        "input": "\"Deslizamento, saída do portão, aceleração, decolagem\", em que ordem essas etapas ocorrem no processo de decolagem de um avião?",
+        "target": "Saída do portão -> Deslizamento -> Aceleração -> Decolagem"
+    },
+    {
+        "input": "Se estiver em estágio pré-diabético, qual método de controle da condição geralmente é considerado prioritário: tratamento medicamentoso, mudança no estilo de vida, monitoramento da glicemia?",
+        "target": "Mudar estilo de vida"
+    },
+    {
+        "input": "Quando alguém está engasgado com um objeto estranho, como implementar as seguintes etapas: \"repetir a manobra até que o objeto seja expelido, realizar a manobra de Heimlich, perguntar sobre o estado, posicionar-se atrás da vítima\".",
+        "target": "Verificar estado -> Posicionar-se atrás da vítima -> Realizar manobra de Heimlich -> Repetir manobra até expelir objeto"
+    },
+    {
+        "input": "Para o jantar, quero fazer uma pizza. Como organizar as seguintes etapas: adicionar coberturas, preparar a massa da pizza, assar a pizza, preparar os ingredientes.",
+        "target": "Preparar ingredientes -> Fazer massa da pizza -> Adicionar coberturas -> Assar pizza"
+    },
+    {
+        "input": "\"Coletar sangue, inserir a tira de teste, lavar as mãos, ler o resultado\" são etapas para medir a glicemia. Por favor, liste o processo completo de teste de glicemia na ordem correta.",
+        "target": "Lavar mãos -> Inserir tira de teste -> Coletar sangue -> Ler resultado"
+    },
+    {
+        "input": "\"Realizar treinamento, identificar fontes de perigo, estabelecer medidas preventivas, avaliar a eficácia\", como essas etapas devem ser desenvolvidas no treinamento de segurança? O que deve ser concluído primeiro e depois?",
+        "target": "Identificar fontes de perigo -> Elaborar medidas preventivas -> Realizar treinamento -> Avaliar eficácia"
+    },
+    {
+        "input": "Operar uma máquina de lavar roupa deve seguir qual ordem para estas etapas: configurar o programa, iniciar a máquina, separar as roupas, adicionar detergente, colocar as roupas.",
+        "target": "A ordem correta para operar máquina de lavar é: Separar roupas -> Colocar roupas -> Adicionar sabão -> Configurar programa -> Iniciar máquina"
+    },
+    {
+        "input": "Se ocorrer um acidente de trânsito, geralmente qual ordem é seguida para processar: \"coletar evidências, proteger a cena, investigar a cena, emitir relatório de acidente\"?",
+        "target": "Proteger a cena -> Investigar a cena -> Coletar evidências -> Emitir relatório de acidente"
+    },
+    {
+        "input": "Professores geralmente planejam cursos seguindo qual ordem para estas etapas: implementação, análise de objetivos, elaboração do programa de ensino, elaboração do plano detalhado de ensino?",
+        "target": "Analisar objetivos -> Elaborar programa de ensino -> Elaborar plano detalhado de aula -> Organizar implementação"
+    },
+    {
+        "input": "Um processo completo de design de programa geralmente inclui: \"codificação, design de algoritmo, análise do problema, depuração do programa, execução do programa\". Qual é a ordem dessas tarefas?",
+        "target": "Análise do problema -> Design do algoritmo -> Codificação -> Depuração do programa -> Execução do programa"
+    },
+    {
+        "input": "Como um paraquedista geralmente completa um salto? Por favor, organize estas etapas na ordem correta: \"saltar, assinar o termo de responsabilidade, acionar o paraquedas, pousar suavemente, vestir o equipamento\".",
+        "target": "Assinar termo de responsabilidade para salto -> Vestir equipamento -> Saltar -> Manobrar paraquedas para abertura -> Pousar suavemente"
+    },
+    {
+        "input": "Quero entender o processo básico de armazenamento de vinho. Qual deve ser o primeiro passo entre estes: \"rotular, controlar temperatura e umidade, escolher uma adega adequada, armazenar deitado\"?",
+        "target": "Escolher adega adequada"
+    },
+    {
+        "input": "Sou iniciante em maquiagem e não sei por onde começar. \"Base, limpeza facial, cuidados com a pele, maquiagem, fixação\" - sei que fixação é o último passo, mas como devo organizar os outros?",
+        "target": "Limpeza facial -> Cuidados com a pele -> Base -> Maquiagem -> Fixação"
+    },
+    {
+        "input": "Comprei um aparelho de pressão arterial para meus avós, mas não sei como usar. Medir a pressão geralmente inclui: preparar o monitor, fixar o manguito no ponto de medição, registrar dados, expor o braço superior, medir. Como devo proceder?",
+        "target": "Os passos corretos para medir pressão arterial são: Preparar aparelho -> Expor braço -> Fixar aparelho no ponto de medição -> Medir -> Registrar dados"
+    },
+    {
+        "input": "\"Projetar casos de teste, executar testes, escrever relatório de teste, elaborar plano de teste\", em que ordem cronológica esses processos ocorrem em testes de software reais?",
+        "target": "Elaborar plano de teste -> Projetar casos de teste -> Executar testes -> Escrever relatório de teste"
+    },
+    {
+        "input": "Ao usar a internet para transferir dados pela primeira vez, você pode me dizer a ordem correta destas etapas? \"Transferir dados, encerrar a conexão, estabelecer conexão\".",
+        "target": "Estabelecer conexão -> Transferir dados -> Encerrar conexão"
+    },
+    {
+        "input": "Para planejar uma viagem, como organizar estas etapas: \"escolher o destino, fazer as malas, reservar passagens aéreas e hotel, partir, planejar o itinerário\". Por favor, forneça a ordem correta.",
+        "target": "Escolher destino -> Planejar itinerário -> Reservar passagens e hotel -> Fazer malas -> Partir"
+    },
+    {
+        "input": "Do desenvolvimento do produto ao lançamento no mercado, é necessário passar por \"planejamento do produto, pesquisa de mercado, design e desenvolvimento, teste do produto, produção em massa e lançamento\". Com base nesses processos, você pode listar o fluxo geral?",
+        "target": "Pesquisa de mercado -> Planejamento de produto -> Design e desenvolvimento -> Teste de produto -> Produção em massa e lançamento"
+    },
+    {
+        "input": "Em uma reportagem jornalística completa, seguindo o fluxo comum, como estas etapas progridem: \"entrevista, seleção do tema, edição e revisão, redação, publicação\".",
+        "target": "Seleção do tema -> Entrevista -> Redação -> Edição e revisão -> Publicação"
+    },
+    {
+        "input": "Quero reservar um restaurante para um jantar em família. Como organizar estas etapas: \"chegar ao local, fazer reserva, fazer pedidos, jantar, sair, pagar a conta\".",
+        "target": "Reservar -> Chegar ao restaurante -> Fazer pedido -> Fazer refeição -> Pagar conta -> Sair"
+    },
+    {
+        "input": "De acordo com o processo normal de publicação, qual é a ordem destas seis etapas: \"edição, redação, revisão, impressão, encadernação, distribuição\".",
+        "target": "Escrever -> Editar -> Revisar -> Imprimir -> Encadernar -> Distribuir"
+    },
+    {
+        "input": "\"Otimização do código-fonte, geração do código-objeto, análise sintática, análise léxica\", em que ordem essas etapas ocorrem no processo de compilação de programas de computador?",
+        "target": "Análise léxica -> Análise sintática -> Otimização do código-fonte -> Geração do código-objeto"
+    },
+    {
+        "input": "O processo de criação de aquarela geralmente tem estas etapas: refinar a pintura, adicionar detalhes, esboçar o contorno, colorir. Por favor, organize-as na ordem correta.",
+        "target": "Esboçar contorno -> Colorir -> Adicionar detalhes -> Refinar imagem"
+    },
+    {
+        "input": "Na terapia psicológica, geralmente há estes processos: \"consulta inicial, avaliação de eficácia, avaliação e diagnóstico, implementação do tratamento, elaboração do plano de tratamento, encerramento da terapia\". Em que ordem esses processos ocorrem?",
+        "target": "Consulta inicial -> Avaliação e diagnóstico -> Elaboração de plano de tratamento -> Implementação do tratamento -> Avaliação de resultados -> Encerramento da consulta"
+    },
+    {
+        "input": "Com base no processo real de comércio eletrônico, organize adequadamente estas etapas: \"identificação de necessidades, serviço pós-venda, avaliação e seleção, busca de informações, decisão de compra, processamento da transação\". Por favor, forneça a ordem cronológica correta.",
+        "target": "De acordo com o processo real de comércio eletrônico, a ordem correta dos passos é: Identificação da necessidade -> Busca de informações -> Avaliação e seleção -> Decisão de compra -> Processamento da transação -> Serviço pós-venda"
+    },
+    {
+        "input": "\"Descoberta do medicamento, pesquisa pré-clínica, aprovação para comercialização, ensaios clínicos\" são etapas necessárias para um processo completo de desenvolvimento de medicamentos. Você pode me dar a ordem correta com base na realidade?",
+        "target": "Descoberta do medicamento -> Pesquisa pré-clínica -> Ensaios clínicos -> Aprovação para comercialização"
+    },
+    {
+        "input": "O processo de avaliação de impacto ambiental envolve \"coleta de informações do projeto, previsão de impacto ambiental, pesquisa da situação ambiental atual, avaliação de impacto ambiental, elaboração do relatório de impacto ambiental, participação pública, revisão e aprovação\". Por favor, organize de acordo com a situação real.",
+        "target": "Coleta de informações do projeto -> Levantamento da situação ambiental atual -> Previsão de impacto ambiental -> Avaliação de impacto ambiental -> Elaboração de relatório de impacto ambiental -> Participação pública -> Revisão e aprovação"
+    },
+    {
+        "input": "\"Consumidores, produtores, decompositores\", como esses três papéis realizam o fluxo de energia no ecossistema? Por favor, liste a ordem do fluxo de energia.",
+        "target": "Produtores -> Consumidores -> Decompositores"
+    },
+    {
+        "input": "Tirar fotos com uma câmera inclui \"pressionar o obturador, enquadrar a imagem, focar, armazenar a foto\". O que deve ser feito primeiro e depois?",
+        "target": "Enquadrar a imagem -> Focar -> Pressionar o obturador -> Armazenar a foto"
+    },
+    {
+        "input": "O comportamento reprodutivo das aves inclui as seguintes fases: \"incubação, acasalamento, postura de ovos, construção do ninho, criação dos filhotes e corte\". Qual é a primeira fase a começar e a última a terminar?",
+        "target": "Na reprodução das aves, a primeira fase a começar é a \"corte\", e a última a terminar é a \"criação dos filhotes\"."
+    },
+    {
+        "input": "Em uma pesquisa de mercado, em que ordem estas etapas devem ser concluídas: coletar informações, analisar informações, definir o problema e objetivos da pesquisa, projetar o plano de pesquisa, apresentar resultados, tomar decisões.",
+        "target": "Definir problema e objetivos de pesquisa -> Projetar plano de pesquisa -> Coletar informações -> Analisar informações -> Apresentar resultados -> Tomar decisão"
+    },
+    {
+        "input": "De acordo com o processo de gerenciamento de projetos, entre \"execução do projeto, iniciação do projeto, planejamento do projeto, monitoramento e controle do projeto, encerramento do projeto\", quais são as três primeiras etapas concluídas?",
+        "target": "Iniciação do projeto -> Planejamento do projeto -> Execução do projeto"
+    },
+    {
+        "input": "Ao revelar fotos, há etapas como \"revelar negativo, banho de paragem, fixação do negativo, expor negativo\". Liste essas etapas em ordem.",
+        "target": "Expor negativo -> Revelar negativo -> Banho de paragem -> Fixação do negativo"
+    },
+    {
+        "input": "Para lançar um satélite com sucesso, em que ordem os desenvolvedores devem completar estas etapas: design, lançamento, invenção, entrada em órbita, operação.",
+        "target": "Para lançar um satélite com sucesso, os desenvolvedores devem seguir estes passos: Design -> Invenção -> Lançamento -> Entrada em órbita -> Operação"
+    },
+    {
+        "input": "Os funcionários da vinícola explicam que a produção de vinho passa por \"colheita, fermentação, prensagem, engarrafamento, envelhecimento\". Você pode descrever a ordem dessas etapas?",
+        "target": "Colheita -> Prensagem -> Fermentação -> Envelhecimento -> Engarrafamento"
+    },
+    {
+        "input": "De acordo com o processo de refino de petróleo, como organizar estas etapas: destilação fracionada, dessalinização, reforma catalítica, armazenamento.",
+        "target": "Dessalinização -> Destilação fracionada -> Reforma catalítica-> Armazenamento"
+    },
+    {
+        "input": "De acordo com o processo normal de lançamento de foguetes, qual é a ordem destas cinco etapas: design do foguete, lançamento, invenção, carregamento de combustível, entrada em órbita.",
+        "target": "Design do foguete -> Invençãoo -> Carregamento de combustível -> Lançamento -> Entrada em órbita"
+    },
+    {
+        "input": "O processo de geração de energia em uma usina nuclear inclui: geração de vapor, fissão, resfriamento, rotação da turbina, geração de eletricidade. Se organizarmos do início ao fim da geração, qual é a ordem?",
+        "target": "Fissão -> Geração de vapor -> Rotação da turbina -> Geração de eletricidade -> Resfriamento"
+    },
+    {
+        "input": "Meu avô vai fazer uma cirurgia cardíaca. Gostaria de entender a ordem destas etapas cirúrgicas: \"preparação pré-operatória, cirurgia, diagnóstico, recuperação pós-operatória, acompanhamento\".",
+        "target": "Diagnóstico -> Preparação pré-operatória -> Cirurgia -> Recuperação pós-operatória -> Acompanhamento"
+    },
+    {
+        "input": "Na próxima semana vou visitar uma fábrica de aviões. Você sabe como \"seleção de materiais, montagem, design, fabricação de componentes, teste\" formam um processo completo de fabricação?",
+        "target": "Design -> Seleção de materiais -> Fabricação de componentes -> Montagem -> Teste"
+    },
+    {
+        "input": "A fabricação de automóveis pode ser dividida nestas etapas: aquisição de matérias-primas, design, vendas, fabricação de componentes, montagem, controle de qualidade. Pode reorganizá-las na ordem real?",
+        "target": "De acordo com o processo real de fabricação de automóveis, a ordem das etapas é: Design -> Aquisição de matérias-primas -> Fabricação de peças -> Montagem -> Controle de qualidade -> Vendas"
+    },
+    {
+        "input": "No cultivo de lavouras em uma fazenda, há estas etapas: \"semeadura, fertilização e irrigação, preparação do solo, armazenamento, colheita\". Organize em ordem cronológica.",
+        "target": "A ordem correta para cultivar em uma fazenda é: Preparação do solo -> Semeadura -> Fertilização e irrigação -> Colheita -> Armazenamento"
+    },
+    {
+        "input": "Tradução de RNA, transcrição de DNA, dobramento de proteínas e splicing - em que ordem esses processos ocorrem na síntese de proteínas?",
+        "target": "Transcrição do DNA -> Splicing -> Tradução do RNA -> Dobramento de proteínas"
+    },
+    {
+        "input": "Ao dar partida no carro, como implementar estas etapas: ligar a ignição, pressionar o acelerador, engatar a marcha, pressionar o freio. Por favor, liste a ordem.",
+        "target": "Pressionar freio ->Ligar ignição -> Engatar marcha -> Pressionar acelerador"
+    },
+    {
+        "input": "O processo de fermentação da levedura de cerveja geralmente pode ser dividido nestas etapas: absorção de açúcar pela levedura, morte da levedura, crescimento da levedura, produção de álcool pela levedura. De acordo com o processo normal de produção de cerveja, como essas etapas ocorrem? Por favor, liste a ordem cronológica.",
+        "target": "Absorção de açúcar pela levedura -> Crescimento da levedura -> Produção de álcool pela levedura -> Morte da levedura"
+    },
+    {
+        "input": "O processo de inicialização do computador geralmente inclui: carregamento do sistema operacional, exibição da tela de login, pressionar o botão liga/desliga, inserir a senha para login. Por favor, organize na ordem correta.",
+        "target": "Pressionar botão liga/desliga -> Carregamento do sistema operacional -> Exibição da tela de login -> Inserir senha para login"
+    },
+    {
+        "input": "Com base no processo correto de respiração humana, como você organizaria estas etapas: oxigênio entra nos pulmões, expiração, dióxido de carbono é eliminado, inspiração.",
+        "target": "Inspiração -> Oxigênio entra nos pulmões -> Expiração -> Dióxido de carbono é eliminado"
+    },
+    {
+        "input": "Do vapor d'água à água, em que ordem estas etapas ocorrem: perda de calor do vapor d'água, condensação em água, agrupamento de moléculas de água.",
+        "target": "Vapor d'água perde calor -> Moléculas de água se agrupam -> Condensação em água"
+    },
+    {
+        "input": "Para a água passar do estado líquido ao sólido, como ela passa por estas três etapas: solidificação, resfriamento, formação de gelo. Por favor, forneça a resposta em ordem cronológica.",
+        "target": "Resfriamento -> Solidificação -> Formação de gelo"
+    },
+    {
+        "input": "Na formação e erupção de vulcões, em que ordem estas quatro etapas ocorrem: formação do vulcão, acúmulo de magma, movimento da crosta terrestre, erupção de magma.",
+        "target": "A formação e erupção de um vulcão ocorrem nesta ordem: Movimento da crosta terrestre -> Acúmulo de magma -> Erupção de magma -> Formação do vulcão"
+    },
+    {
+        "input": "Do minério ao metal, é necessário passar por estas etapas: fundição do minério, extração do minério, trituração do minério, refinamento do metal. Por favor, reorganize de acordo com a situação real.",
+        "target": "Extração de minério -> Trituração de minério -> Fundição de minério -> Refinamento de metal"
+    },
+    {
+        "input": "Ao fazer móveis de madeira maciça, deve-se primeiro serrar a madeira, cortar a árvore e fabricar os móveis, ou primeiro secar a madeira e processá-la? Por favor, liste a sequência correta de etapas.",
+        "target": "Exploração de toras -> Serragem de toras -> Secagem da madeira -> Processamento da madeira -> Fabricação de móveis"
+    },
+    {
+        "input": "Quero aprender o processo de fabricação de chocolate. Em que ordem estas etapas devem ser realizadas: moagem, colheita dos grãos de cacau, fermentação, secagem, produção do chocolate.",
+        "target": "Colheita de cacau -> Fermentação -> Secagem -> Moagem -> Produção de chocolate"
+    },
+    {
+        "input": "No processo de fabricação têxtil, qual é a ordem correta destas etapas? \"Tingimento, coleta de matéria-prima, fiação, tecelagem, fabricação do produto final\".",
+        "target": "Coleta de matéria-prima -> Fiação -> Tecelagem -> Tingimento -> Produção final"
+    },
+    {
+        "input": "Em aplicações reais, em que ordem ocorrem estas etapas de aprendizado de máquina: coleta de dados, definição do problema, limpeza de dados, engenharia de características, treinamento do modelo, avaliação do modelo, otimização do modelo, implantação do modelo.",
+        "target": "Definição do problema -> Coleta de dados -> Limpeza de dados -> Engenharia de características -> Treinamento do modelo -> Avaliação do modelo -> Otimização do modelo -> Implantação do modelo"
+    },
+    {
+        "input": "O processo de formulação de estratégia empresarial é dividido em definir objetivos, analisar o ambiente, formular estratégia, implementar estratégia e avaliar estratégia. Como devem ser organizadas em ordem de execução?",
+        "target": "Analisar o ambiente -> Definir objetivos -> Formular estratégia -> Implementar estratégia -> Avaliar estratégia"
+    },
+    {
+        "input": "Quero aprender a fazer pão e gostaria de entender a ordem correta das etapas de fermentação, mistura da farinha, modelagem, assamento e embalagem.",
+        "target": "Mistura de farinha -> Fermentação -> Modelagem -> Assamento -> Embalagem"
+    },
+    {
+        "input": "As etapas de produção de cerveja incluem fermentação de levedura, produção de malte, filtração, engarrafamento e armazenamento. Qual é a ordem dessas etapas?",
+        "target": "Produção de malte -> Fermentação de levedura -> Filtração -> Engarrafamento -> Armazenamento"
+    },
+    {
+        "input": "Coleta de matérias-primas, formação do papel, secagem, corte e produção de polpa são cinco etapas na produção de papel. Quero saber quais etapas devem ser concluídas antes da formação do papel.",
+        "target": "Antes da formação do papel, deve-se completar estas etapas: Coleta de matéria-prima -> Produção de polpa"
+    },
+    {
+        "input": "Da entrada de informações à saída da memória, em que ordem ocorrem as quatro etapas de registro de informações no cérebro humano: codificação, percepção, recuperação, armazenamento.",
+        "target": "Percepção -> Codificação -> Armazenamento -> Recuperação"
+    },
+    {
+        "input": "No meu primeiro dia de estágio na usina elétrica, aprendi que a conversão de energia tem estas etapas: energia mecânica (rotação do rotor), energia térmica (vapor), energia química (combustível), energia elétrica (saída do gerador). Esqueci a ordem dessas etapas, você pode me dizer?",
+        "target": "Energia química (combustível) -> Energia térmica (vapor) -> Energia mecânica (rotação do rotor) -> Energia elétrica (saída do gerador)"
+    },
+    {
+        "input": "Lucia precisa fazer uma transferência bancária. Em que ordem deve realizar estas etapas: preencher o formulário de transferência, assinar e guardar o recibo, ir ao caixa do banco, entregar o formulário ao caixa.",
+        "target": "Ir ao caixa do banco -> Preencher formulário de transferência -> Entregar formulário ao caixa -> Assinar e guardar recibo"
+    },
+    {
+        "input": "Quero assar uma batata-doce roxa para o jantar. Como completar estas etapas para economizar tempo? O que fazer primeiro e depois? 1. Furar a batata-doce com um garfo, 2. Retirar e cortar, 3. Colocar no forno, 4. Lavar a batata-doce, 5. Embrulhar em papel alumínio, 6. Assar por 45-60 minutos até ficar macia, 7. Adicionar temperos.",
+        "target": "4-1-5-3-6-2-7"
+    },
+    {
+        "input": "Comecei a aprender piano e a primeira música que vou aprender é \"Brilha, Brilha, Estrelinha\". Este é meu plano: dominar técnicas básicas de dedilhado, praticar repetidamente, tocar seguindo a melodia, encontrar a partitura de \"Brilha, Brilha, Estrelinha\". Geralmente, em que ordem essas etapas são realizadas?",
+        "target": "Encontrar partitura de \"Brilha, Brilha, Estrelinha\" -> Dominar técnicas básicas de dedilhado -> Tocar seguindo a melodia -> Praticar repetidamente"
+    },
+    {
+        "input": "As etapas para recortar uma imagem no Photoshop geralmente incluem: clicar no botão \"Confirmar\" no canto superior direito, selecionar a \"Ferramenta de Recorte\" na barra de ferramentas, arrastar o mouse para selecionar a área que deseja recortar, abrir a imagem que deseja recortar. Por favor, organize na ordem correta.",
+        "target": "Abrir imagem que deseja recortar -> Selecionar \"Ferramenta de Recorte\" na barra de ferramentas -> Arrastar mouse para selecionar área que deseja recortar -> Clicar no botão \"Confirmar\" no canto superior direito"
+    },
+    {
+        "input": "Para comprar passagens aéreas online com sucesso, em que ordem devo completar estas etapas: 1. Selecionar a passagem adequada e concluir o pagamento online, após o qual receberei a confirmação do bilhete eletrônico e informações de viagem. 2. Visitar um site confiável de viagens online ou o site da companhia aérea. 3. Filtrar os resultados e comparar diferentes voos quanto a preço, horário e avaliações da companhia aérea. 4. Inserir origem, destino e data de viagem para obter informações sobre passagens disponíveis. Por favor, forneça a ordem correta.",
+        "target": "A ordem correta é: 2. Visitar um site confiável de viagens online ou o site da companhia aérea -> 4. Inserir origem, destino e data de viagem para obter informações sobre passagens disponíveis -> 3. Filtrar os resultados e comparar diferentes voos quanto a preço, horário e avaliações da companhia aérea -> 1. Selecionar a passagem adequada e concluir o pagamento online, após o qual receberá a confirmação do bilhete eletrônico e informações de viagem"
+    },
+    {
+        "input": "Inserir um arquivo de áudio no PowerPoint inclui estas etapas: selecionar \"Áudio\", clicar em \"Inserir\" na barra de menu, escolher \"Áudio no meu computador\" no menu suspenso, selecionar o arquivo de áudio que deseja inserir. Por favor, forneça o processo completo na ordem correta de operação.",
+        "target": "Clicar em \"Inserir\" na barra de menu -> Selecionar \"Áudio\" -> Escolher \"Áudio no meu computador\" no menu suspenso -> Selecionar o arquivo de áudio que deseja inserir"
+    },
+    {
+        "input": "Ao reservar um hotel online, há quatro etapas: 1. Verificar informações detalhadas e avaliações de usuários sobre o hotel. 2. Selecionar o tipo de quarto desejado, preencher informações do hóspede e, após confirmar, efetuar o pagamento. 3. Abrir o site ou aplicativo de reservas de hotel e inserir seu destino e datas de hospedagem. 4. Filtrar hotéis de acordo com seu orçamento e necessidades. Qual é a ordem dessas etapas?",
+        "target": "A ordem correta é: 3. Abrir o site ou aplicativo de reservas de hotel e inserir seu destino e datas de hospedagem -> 4. Filtrar hotéis de acordo com seu orçamento e necessidades -> 1. Verificar informações detalhadas e avaliações de usuários sobre o hotel -> 2. Selecionar o tipo de quarto desejado, preencher informações do hóspede e, após confirmar, efetuar o pagamento"
+    },
+    {
+        "input": "Não quero ir ao banco, mas quero solicitar um cartão de crédito. Em que ordem devo realizar estas etapas: ① Enviar o formulário de inscrição e aguardar a aprovação do banco. ② Após a aprovação, o banco enviará o cartão de crédito para o endereço fornecido. ③ Escolher o tipo de cartão de crédito desejado e preencher o formulário. ④ Abrir o site ou aplicativo do banco e encontrar a opção \"Solicitar cartão de crédito\". Por favor, forneça a ordem correta.",
+        "target": "A ordem correta é: ④ Abrir o site ou aplicativo do banco e encontrar a opção \"Solicitar cartão de crédito\" -> ③ Escolher o tipo de cartão de crédito desejado e preencher o formulário -> ① Enviar o formulário de inscrição e aguardar a aprovação do banco -> ② Após a aprovação, o banco enviará o cartão de crédito para o endereço fornecido"
+    }
+]

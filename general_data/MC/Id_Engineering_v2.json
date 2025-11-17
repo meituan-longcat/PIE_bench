@@ -1,0 +1,947 @@
+[
+    {
+        "input": "Waktu yang dibutuhkan benda kerja untuk menyelesaikan proses karburisasi pada suhu 900°C adalah 2 jam. Jika kondisi karburisasi tetap tidak berubah dan kedalaman lapisan karburisasi berlipat ganda, berapa waktu karburisasi yang dibutuhkan?______\nA. 2 jam\nB. 2,8 jam\nC. 4 jam\nD. 8 jam",
+        "target_scores": {
+            "A. 2 jam": 0,
+            "B. 2,8 jam": 0,
+            "C. 4 jam": 0,
+            "D. 8 jam": 1
+        }
+    },
+    {
+        "input": "Pada malam hari yang sangat dingin, dua ruangan memiliki suhu dan kelembapan udara dalam ruangan yang sama. Satu ruangan memiliki dinding luar dan jendela, sedangkan ruangan lainnya tidak. Penghuni di kedua ruangan mengenakan pakaian yang sama. Apakah sensasi termal penghuni di kedua ruangan akan sama? （   ）\nA. Tidak ada perbedaan suhu dan kelembapan udara dalam ruangan, jadi tidak ada perbedaan sensasi termal antara keduanya.\nB. Yang kedua lebih sejuk daripada yang pertama karena perpindahan panas konvektif antara orang tersebut dan udara dalam ruangan lebih intens.\nC. Yang pertama lebih sejuk daripada yang kedua karena konduksi panas antara orang tersebut dan lantai lebih kuat.\nD. Yang pertama lebih sejuk daripada yang kedua karena radiasi panas antara orang tersebut dan dinding luar serta jendela lebih kuat.",
+        "target_scores": {
+            "A. Tidak ada perbedaan suhu dan kelembapan udara dalam ruangan, jadi tidak ada perbedaan sensasi termal antara keduanya.": 0,
+            "B. Yang kedua lebih sejuk daripada yang pertama karena perpindahan panas konvektif antara orang tersebut dan udara dalam ruangan lebih intens.": 0,
+            "C. Yang pertama lebih sejuk daripada yang kedua karena konduksi panas antara orang tersebut dan lantai lebih kuat.": 0,
+            "D. Yang pertama lebih sejuk daripada yang kedua karena radiasi panas antara orang tersebut dan dinding luar serta jendela lebih kuat.": 1
+        }
+    },
+    {
+        "input": "Uap air jenuh mengembun di permukaan luar sebuah tabung silinder, dan L>d. Suhu dinding tabung dijaga konstan. Manakah dari metode berikut yang dapat meningkatkan laju kondensasi per satuan waktu? （    ）\nA. Sirip profil rendah ditambahkan ke bagian luar tabung.\nB. Tabung diletakkan secara horizontal.\nC. Tabung ditempatkan pada sudut tertentu.\nD. Tabung ditempatkan secara vertikal.",
+        "target_scores": {
+            "A. Sirip profil rendah ditambahkan ke bagian luar tabung.": 1,
+            "B. Tabung diletakkan secara horizontal.": 0,
+            "C. Tabung ditempatkan pada sudut tertentu.": 0,
+            "D. Tabung ditempatkan secara vertikal.": 0
+        }
+    },
+    {
+        "input": "Selama proses penyetelan sistem loop tertutup, penguatan loop terbuka secara bertahap ditingkatkan. Ditemukan bahwa ketika kecepatan dan stabilitas sistem memenuhi persyaratan desain, akurasi kontrol tidak memuaskan. Manakah dari tindakan berikut yang harus diambil? ______\nA. Koreksi lag digunakan.\nB. Koreksi lag-lead digunakan.\nC. Koreksi lead digunakan.\nD. Penguatan loop terbuka terus ditingkatkan.",
+        "target_scores": {
+            "A. Koreksi lag digunakan.": 1,
+            "B. Koreksi lag-lead digunakan.": 0,
+            "C. Koreksi lead digunakan.": 0,
+            "D. Penguatan loop terbuka terus ditingkatkan.": 0
+        }
+    },
+    {
+        "input": "Di antara situasi berikut, manakah yang tidak memerlukan kerja disipasi energi (di mana ht adalah kedalaman air hilir dan hc adalah kedalaman pasca-lompatan dari lompatan hidrolik kritis)? (    )\nA. $hc<1{,}05ht$\nB. $hc<ht／1{,}05$\nC. $hc=ht$\nD. $hc>ht／1{,}05$",
+        "target_scores": {
+            "A. $hc<1{,}05ht$": 0,
+            "B. $hc<ht／1{,}05$": 1,
+            "C. $hc=ht$": 0,
+            "D. $hc>ht／1{,}05$": 0
+        }
+    },
+    {
+        "input": "Jika dua pipa memiliki panjang L, diameter d, laju aliran Q, dan suhu air t yang sama, tetapi koefisien kekasaran $n1>n2$ untuk panjang segmen pipa yang sama, hubungan antara perbedaan tinggi permukaan air $h1 dan h2$ untuk kedua pipa tersebut adalah _________. (     )\nA. $h1<h2$\nB. $h1=h2$\nC. $h1>h2$\nD. Tidak dapat ditentukan",
+        "target_scores": {
+            "A. $h1<h2$": 0,
+            "B. $h1=h2$": 0,
+            "C. $h1>h2$": 1,
+            "D. Tidak dapat ditentukan": 0
+        }
+    },
+    {
+        "input": "Terdapat empat saluran prisma berpenampang persegi panjang dengan luas penampang, koefisien kekasaran, dan kemiringan dasar yang sama. Lebar dasar b dan kedalaman aliran seragam h0 adalah sebagai berikut. Saluran yang memiliki laju aliran maksimum adalah ________. (    )\nA. $b1=4m$，$h01=1 m$\nB. $b2=2m$，$h02=2m$\nC. $b3=2{,}83m$，$h03=1{,}414m$\nD. $b4=2{,}67m$，$h04=1{,}5m$",
+        "target_scores": {
+            "A. $b1=4m$，$h01=1 m$": 0,
+            "B. $b2=2m$，$h02=2m$": 0,
+            "C. $b3=2{,}83m$，$h03=1{,}414m$": 1,
+            "D. $b4=2{,}67m$，$h04=1{,}5m$": 0
+        }
+    },
+    {
+        "input": "Ada dua saluran berpenampang trapesium dengan laju aliran, koefisien kemiringan sisi, koefisien kekasaran, dan lebar dasar yang sama, tetapi kemiringan dasar berbeda $i1>i2$. Hubungan antara kedalaman aliran seragam h01 dan h02 untuk kedua saluran tersebut adalah________. (    )\nA. $h01<h02$\nB. $h01=h02$\nC. $h01>h02$\nD. Tidak dapat ditentukan",
+        "target_scores": {
+            "A. $h01<h02$": 1,
+            "B. $h01=h02$": 0,
+            "C. $h01>h02$": 0,
+            "D. Tidak dapat ditentukan": 0
+        }
+    },
+    {
+        "input": "Ada dua saluran berpenampang trapesium dengan laju debit, koefisien kemiringan sisi, lebar dasar, dan kemiringan dasar yang sama, tetapi koefisien kekasarannya berbeda $n1>n2$. Hubungan antara kedalaman aliran seragam h01 dan h02 untuk kedua saluran tersebut adalah _____.()\nA. $h01<h02$\nB. $h01=h02$\nC. $h01>h02$\nD. Tidak dapat ditentukan",
+        "target_scores": {
+            "A. $h01<h02$": 0,
+            "B. $h01=h02$": 0,
+            "C. $h01>h02$": 1,
+            "D. Tidak dapat ditentukan": 0
+        }
+    },
+    {
+        "input": "Bila muka air di atas ambang praktis lebih besar daripada muka air desain, hubungan antara koefisien aliran m dan koefisien aliran md pada muka air desain adalah ____. (   )\nA. $m<md$\nB. $m=md$\nC. $m>md$\nD. Tidak dapat ditentukan",
+        "target_scores": {
+            "A. $m<md$": 0,
+            "B. $m=md$": 0,
+            "C. $m>md$": 1,
+            "D. Tidak dapat ditentukan": 0
+        }
+    },
+    {
+        "input": "Dua bendung praktis tipe WES, keduanya tergolong bendung tinggi, memiliki tinggi desain $Hd1＞Hd2$, tetapi tinggi muka air di atas mercu bendung adalah $H1=Hd1$, $H2=Hd2$. Hubungan antara koefisien aliran kedua bendung tersebut adalah _____.(    )\nA. $m1<m2$\nB. $m1=m2$\nC. $m1>m2$\nD. Tidak dapat ditentukan",
+        "target_scores": {
+            "A. $m1<m2$": 0,
+            "B. $m1=m2$": 1,
+            "C. $m1>m2$": 0,
+            "D. Tidak dapat ditentukan": 0
+        }
+    },
+    {
+        "input": "Diberikan polinomial karakteristik sistem pengambilan sampel loop tertutup sebagai $\\Phi(z)=(z+1)(z+0{,}5)(z+2)$, sistem tersebut adalah ______.\nA. Stabil\nB. Stabilitas kritis\nC. Tidak bisa ditentukan\nD. Tidak stabil",
+        "target_scores": {
+            "A. Stabil": 0,
+            "B. Stabilitas kritis": 0,
+            "C. Tidak bisa ditentukan": 0,
+            "D. Tidak stabil": 1
+        }
+    },
+    {
+        "input": "Diberikan fungsi transfer pulsa loop terbuka dari sistem kontrol diskrit sebagai $G(z)=\\frac{1{,}264z}{(z-1)(z-0{,}368)}$, sistem ini adalah ______.\nA. Sistem tipe 0\nB. Sistem tipe 1\nC. Sistem tipe 2\nD. Sistem tipe 3",
+        "target_scores": {
+            "A. Sistem tipe 0": 0,
+            "B. Sistem tipe 1": 1,
+            "C. Sistem tipe 2": 0,
+            "D. Sistem tipe 3": 0
+        }
+    },
+    {
+        "input": "Kecepatan gelombang longitudinal elastis massa batuan di lokasi proyek diukur sebesar 5400 m/s. Di laboratorium, kecepatan gelombang longitudinal elastis pada sampel batuan utuh dengan jenis yang sama diukur sebesar 6000 m/s, dan kekuatan tekan uniaxial ditentukan sebesar 110 MPa. Hitunglah koefisien integritas massa batuan di lokasi proyek, dan nilailah kondisi integritasnya.\nA. $K<0{,}81$, massa batuan tidak utuh\nB. $K<0{,}81$, massa batuan utuh\nC. $K=0{,}81$, massa batuan tidak utuh\nD. $K=0{,}81$, massa batuan utuh",
+        "target_scores": {
+            "A. $K<0{,}81$, massa batuan tidak utuh": 0,
+            "B. $K<0{,}81$, massa batuan utuh": 0,
+            "C. $K=0{,}81$, massa batuan tidak utuh": 0,
+            "D. $K=0{,}81$, massa batuan utuh": 1
+        }
+    },
+    {
+        "input": "Sebuah lubang bor memiliki kedalaman 2,0 m, dan panjang segmen inti batuan (dari atas ke bawah) adalah 3,5, 6,0, 7,5, 10,0, 15,2, 17,8, 10,0, 9,9, 5,0, 12,5, 4,5, 3,2, 10,2, 7,5, 15,7, 12,8, 21,0, 17,7, 10,0 (dalam cm). Hitung nilai Rock Quality Designation (RQD) untuk lubang bor ini.\nA. 0,6743\nB. 0,7645\nC. 0,8345\nD. 0,8534",
+        "target_scores": {
+            "A. 0,6743": 0,
+            "B. 0,7645": 1,
+            "C. 0,8345": 0,
+            "D. 0,8534": 0
+        }
+    },
+    {
+        "input": "Menggunakan mata bor berlian berdiameter 75 mm dan laras inti ganda untuk pengoboran dan pengambilan inti secara terus-menerus pada batuan, sampel inti sepanjang 1 m diambil. Panjang 5 bagian terbesar adalah 330 mm, 240 mm, 160 mm, 110 mm, dan 80 mm. Hitung nilai RQD untuk batuan ini.\nA. 0,75\nB. 0,84\nC. 0,85\nD. 0,88",
+        "target_scores": {
+            "A. 0,75": 0,
+            "B. 0,84": 1,
+            "C. 0,85": 0,
+            "D. 0,88": 0
+        }
+    },
+    {
+        "input": "Pada pondasi tanah pasir, kedalaman air tanah adalah 1{,}5 m. Berat satuan alami tanah pasir di atas air tanah adalah $17kN/m^3$, dan berat satuan lapisan tanah pasir jenuh adalah $19kN/m^3$. Berapa total tegangan tanah vertikal pada kedalaman 4,5 m? (    )\nA. 111 kPa\nB. 162 kPa\nC. 82,5 kPa\nD. 85,5 kPa",
+        "target_scores": {
+            "A. 111 kPa": 0,
+            "B. 162 kPa": 0,
+            "C. 82,5 kPa": 1,
+            "D. 85,5 kPa": 0
+        }
+    },
+    {
+        "input": "Porositas tanah adalah 52,29%, rasio pori tanah tersebut adalah (    ).\nA. 0,3134\nB. 0,4771\nC. 0,9124\nD. 1,096",
+        "target_scores": {
+            "A. 0,3134": 0,
+            "B. 0,4771": 0,
+            "C. 0,9124": 0,
+            "D. 1,096": 1
+        }
+    },
+    {
+        "input": "Terdapat pondasi tanah liat lunak yang jenuh air. Beban berat yang telah menumpuk dalam waktu lama disingkirkan dengan cepat. Jika terdapat piezometer yang ditanam pada kedalaman tertentu tepat di bawah beban berat, maka setelah beban dihilangkan, seiring berjalannya waktu, head piezometrik akan ( ).\nA. Naik\nB. Tidak berubah\nC. Tidak dapat ditentukan\nD. Turun",
+        "target_scores": {
+            "A. Naik": 0,
+            "B. Tidak berubah": 1,
+            "C. Tidak dapat ditentukan": 0,
+            "D. Turun": 0
+        }
+    },
+    {
+        "input": "Sebuah pondasi strip dipasang pada kedalaman 3 m dan menerima beban aksial dari bangunan atas sebesar 600 kN/m. Berat sendiri pondasi dan berat tanah pada pondasi diperhitungkan dengan berat satuan gabungan sebesar $20 kN/m^3$. Jika nilai karakteristik daya dukung tanah dasar yang dikoreksi adalah 260 kPa, maka lebar minimum pondasi strip yang diperlukan untuk memenuhi persyaratan daya dukung tanah dasar adalah (     ).\nA. 3 m\nB. 4 m\nC. 5 m\nD. 6 m",
+        "target_scores": {
+            "A. 3 m": 1,
+            "B. 4 m": 0,
+            "C. 5 m": 0,
+            "D. 6 m": 0
+        }
+    },
+    {
+        "input": "Luas bagian depan mobil yang didesain baru adalah $1{,}5m^2$ dan kecepatan berkendara maksimumnya adalah 108 km/jam. Direncanakan pengujian model akan dilakukan di terowongan angin. Mengingat kecepatan angin maksimum di bagian pengujian terowongan angin adalah 45 m/s, luas bagian depan model tersebut adalah (     ).\nA. $0{,}28m^2$\nB. $1m^2$\nC. $2{,}25m^2$\nD. $3{,}6m^2$",
+        "target_scores": {
+            "A. $0{,}28m^2$": 0,
+            "B. $1m^2$": 1,
+            "C. $2{,}25m^2$": 0,
+            "D. $3{,}6m^2$": 0
+        }
+    },
+    {
+        "input": "Investasi awal sebesar sepuluh miliar rupiah dilakukan pada awal tahun pertama untuk proyek konstruksi. Dimulai dari akhir tahun pertama, laba bersih sebesar dua miliar rupiah akan diperoleh pada akhir setiap tahun, dengan periode operasional 10 tahun. Nilai sisa bersih pada akhir periode umur adalah nol, dan tingkat hasil acuan adalah 12%. Oleh karena itu, nilai tahunan bersih proyek tersebut adalah sekitar (       ). [Diberikan $(P/A,12%,10) =5{,}6502$]\nA. Rp123.400.000\nB. Rp230.200.000\nC. Rp360.400.000\nD. Rp646.000.000",
+        "target_scores": {
+            "A. Rp123.400.000": 0,
+            "B. Rp230.200.000": 1,
+            "C. Rp360.400.000": 0,
+            "D. Rp646.000.000": 0
+        }
+    },
+    {
+        "input": "Sebuah proyek tertentu terdiri dari lima proses konstruksi, yang diorganisasikan menjadi tiga segmen untuk Konstruksi Jalur Aliran (Line-of-Balance). Periode konstruksi adalah 55 hari, dan jumlah total interval teknologi dan organisasi adalah 6 hari. Oleh karena itu, langkah aliran antara setiap proses konstruksi adalah (      ).\nA. 3 hari\nB. 5 hari\nC. 7 hari\nD. 8 hari",
+        "target_scores": {
+            "A. 3 hari": 0,
+            "B. 5 hari": 0,
+            "C. 7 hari": 1,
+            "D. 8 hari": 0
+        }
+    },
+    {
+        "input": "Pada peta topografi dengan skala 1:20000, luas daerah tangkapan air waduk diukur sebesar $P＝1{,}6cm×10cm$ . Selama proses hujan tertentu, curah hujan (rata-rata curah hujan per jam) adalah $m＝50mm$, dan durasi presipitasi adalah 2,5 jam (n). Dengan asumsi koefisien penguapan $k＝0{,}4$, menurut rumus volume air yang terkumpul $Q＝P·m·n·k$, volume daerah tangkapan air hujan ini adalah (     ).\nA. $1{,}0×10^7m^3$\nB. $1{,}0×10^{11}m^3$\nC. $2{,}0×10^4m^3$\nD. $3{,}2×10^4m^3$",
+        "target_scores": {
+            "A. $1{,}0×10^7m^3$": 0,
+            "B. $1{,}0×10^{11}m^3$": 0,
+            "C. $2{,}0×10^4m^3$": 0,
+            "D. $3{,}2×10^4m^3$": 1
+        }
+    },
+    {
+        "input": "Parit selebar 10 meter direncanakan akan dikeringkan menggunakan sistem wellpoint. Tata letak yang tepat untuk tujuan ini adalah (        ).\nA. Baris ganda\nB. Baris tunggal\nC. Berbentuk U\nD. Berbentuk cincin",
+        "target_scores": {
+            "A. Baris ganda": 1,
+            "B. Baris tunggal": 0,
+            "C. Berbentuk U": 0,
+            "D. Berbentuk cincin": 0
+        }
+    },
+    {
+        "input": "Subproyek dengan volume pekerjaan $1000m^3$ dijadwalkan akan selesai dalam 5 hari, dengan jumlah pekerjaan yang sama per hari. Harga satuan yang dianggarkan adalah $200 dolar/m^3$. Sebelum memulai pekerjaan pada hari ketiga, ditemukan bahwa $600m^3$ telah selesai dan pengeluaran aktual adalah 130.000 dolar. Manakah dari pernyataan berikut yang benar? (    )\nA. Kemajuan aktual adalah 1 hari lebih cepat.\nB. Varian biaya adalah 10.000 dolar, yang menunjukkan penghematan biaya.\nC. Varian jadwal adalah 100m^3, yang menunjukkan jadwal lebih cepat.\nD. Varian jadwal adalah 20.000 dolar, yang menunjukkan jadwal lebih cepat.",
+        "target_scores": {
+            "A. Kemajuan aktual adalah 1 hari lebih cepat.": 1,
+            "B. Varian biaya adalah 10.000 dolar, yang menunjukkan penghematan biaya.": 0,
+            "C. Varian jadwal adalah 100m^3, yang menunjukkan jadwal lebih cepat.": 0,
+            "D. Varian jadwal adalah 20.000 dolar, yang menunjukkan jadwal lebih cepat.": 0
+        }
+    },
+    {
+        "input": "Hasil uji konsolidasi sampel tanah liat dengan ketebalan 25,0 mm menunjukkan bahwa tekanan air pori menurun dari nilai awal menjadi nol dalam waktu 2 menit 45 detik. Jika terdapat lapisan tanah liat yang sama setebal 4,6 m pada pondasi, dan baik lapisan tanah liat di lapangan maupun sampel uji sama-sama memiliki drainase dua arah (permukaan atas dan bawah dapat mengalirkan air), maka waktu konsolidasi lapisan tanah liat adalah ( ).\nA. 120 hari\nB. 15,5 hari\nC. 258,5 hari\nD. 64,7 hari",
+        "target_scores": {
+            "A. 120 hari": 0,
+            "B. 15,5 hari": 0,
+            "C. 258,5 hari": 0,
+            "D. 64,7 hari": 1
+        }
+    },
+    {
+        "input": "Selama proses penimbunan cepat pada pondasi tanah berpasir lunak yang jenuh, jika piezometer dikubur pada kedalaman tertentu tepat di bawah timbunan pasir, kepala piezometer akan ( ) seiring waktu.\nA. Naik\nB. Tidak berubah\nC. Tidak dapat ditentukan\nD. Turun",
+        "target_scores": {
+            "A. Naik": 0,
+            "B. Tidak berubah": 1,
+            "C. Tidak dapat ditentukan": 0,
+            "D. Turun": 0
+        }
+    },
+    {
+        "input": "Saat menghitung koefisien kompresi (konstanta) sampel tanah menggunakan hasil uji konsolidasi di negara asing tertentu, logaritma natural digunakan sebagai ganti logaritma umum. Jika indeks kompresi (konstanta) sampel tanah adalah 0,00485, dan tegangan vertikal sampel tanah tersebut ditingkatkan hingga 100 kali nilai awalnya, maka perubahan rasio pori sampel tanah adalah ( ).\nA. Meningkat 0,0112\nB. Meningkat 0,0224\nC. Menurun 0,0112\nD. Menurun 0,0224",
+        "target_scores": {
+            "A. Meningkat 0,0112": 0,
+            "B. Meningkat 0,0224": 0,
+            "C. Menurun 0,0112": 0,
+            "D. Menurun 0,0224": 1
+        }
+    },
+    {
+        "input": "Dalam uji penetrasi standar, jika jumlah pukulan palu telah mencapai 50 dan kedalaman penetrasi aktual adalah 25 cm, nilai N untuk kedalaman 30 cm adalah ( ).\nA. 40\nB. 50\nC. 60\nD. 80",
+        "target_scores": {
+            "A. 40": 0,
+            "B. 50": 0,
+            "C. 60": 1,
+            "D. 80": 0
+        }
+    },
+    {
+        "input": "Strain gauge genggam dengan panjang pengukur L = 200 mm, pengukuran dilakukan dengan menggunakan dial indikator dengan ketelitian 0,001 mm, terbaca 3 skala kecil, nilai regangan yang diukur adalah (   ) (di mana $μ_E$ mewakili regangan mikro).\nA. $12μ_E$\nB. $15μ_E$\nC. $1{,}5μ_E$\nD. $6μ_E$",
+        "target_scores": {
+            "A. $12μ_E$": 0,
+            "B. $15μ_E$": 1,
+            "C. $1{,}5μ_E$": 0,
+            "D. $6μ_E$": 0
+        }
+    },
+    {
+        "input": "Tekanan air pori dalam sampel tanah liat dengan ketebalan 25 mm diketahui menghilang hingga nol dalam waktu 11 menit, dengan drainase hanya terjadi di permukaan atas sampel. Jika terdapat lapisan tanah liat setebal 4,6 m di pondasi, dengan permukaan atas dan bawah mampu mengalirkan air, maka waktu konsolidasi untuk lapisan tanah liat ini adalah (    ).\nA. 120 hari\nB. 15,5 hari\nC. 258,6 hari\nD. 64,7 hari",
+        "target_scores": {
+            "A. 120 hari": 0,
+            "B. 15,5 hari": 0,
+            "C. 258,6 hari": 0,
+            "D. 64,7 hari": 1
+        }
+    },
+    {
+        "input": "Tanggul model sentrifus dengan tinggi 0,10 m diketahui runtuh pada percepatan sentrifugal 61 g. Tinggi maksimum tanggul sebenarnya yang dibangun dengan bahan yang sama adalah (    ).\nA. 1 m\nB. 10 m\nC. 6,1 m\nD. 61,1 m",
+        "target_scores": {
+            "A. 1 m": 0,
+            "B. 10 m": 0,
+            "C. 6,1 m": 1,
+            "D. 61,1 m": 0
+        }
+    },
+    {
+        "input": "Agregat tanah yang terbentuk oleh kohesi vakum jatuh ke dasar kolam sedalam 10 m. Perubahan kekakuannya adalah (     ).\nA. Kira-kira berlipat ganda\nB. Kira-kira meningkat sebesar 10 kali lipat\nC. Kira-kira meningkat sebesar 10%\nD. Pada dasarnya tidak berubah",
+        "target_scores": {
+            "A. Kira-kira berlipat ganda": 0,
+            "B. Kira-kira meningkat sebesar 10 kali lipat": 0,
+            "C. Kira-kira meningkat sebesar 10%": 0,
+            "D. Pada dasarnya tidak berubah": 1
+        }
+    },
+    {
+        "input": "Kapasitas dukung ultimit momen negatif pada tumpuan dan momen positif balok beton bertulang dengan kedua ujung tetap yang dikenai beban terdistribusi seragam adalah sama dalam nilai absolut. Jika perhitungan didasarkan pada redistribusi gaya internal plastis, faktor penyesuaian momen tumpuan adalah ( ).\nA. 0,65\nB. 0,7\nC. 0,75\nD. 0,8",
+        "target_scores": {
+            "A. 0,65": 0,
+            "B. 0,7": 0,
+            "C. 0,75": 1,
+            "D. 0,8": 0
+        }
+    },
+    {
+        "input": "Lapisan tanah liat setebal 5,1 m dikenakan beban permukaan sebesar 30,0 kPa. Koefisien permeabilitasnya adalah 0,0004 m/d. Berdasarkan pengalaman sebelumnya, lapisan tanah liat ini akan terkompresi sebesar 0,040 m. Jika drainase hanya terjadi di permukaan atas atau bawah, waktu yang diperlukan untuk menyelesaikan konsolidasi primer dihitung kira-kira sebagai (    ).\nA. 170 d\nB. 240 d\nC. 340 d\nD. 50 d",
+        "target_scores": {
+            "A. 170 d": 1,
+            "B. 240 d": 0,
+            "C. 340 d": 0,
+            "D. 50 d": 0
+        }
+    },
+    {
+        "input": "Pada pondasi homogen, muka air tanah terkubur pada kedalaman 1,80 m, dan air kapiler naik sebesar 0,60 m. Jika berat satuan tanah kering adalah 15,9 kN/m³ dan berat satuan tanah jenuh adalah 17 kN/m³, dengan beban permukaan sebesar 25,60 kN/m², maka tegangan efektif vertikal pada kedalaman pondasi 3,50  m adalah (     ).\nA. 41,39 kPa\nB. 66,78 kPa\nC. 70,71 kPa\nD. 72,99 kPa",
+        "target_scores": {
+            "A. 41,39 kPa": 0,
+            "B. 66,78 kPa": 1,
+            "C. 70,71 kPa": 0,
+            "D. 72,99 kPa": 0
+        }
+    },
+    {
+        "input": "Untuk pondasi tiang pancang dengan penampang melintang tiang pancang 400 mm × 400 mm, lapisan tanah dasar bangunan dari atas ke bawah berupa lempung berdebu (ketebalan 3 m), pasir kasar berdensitas sedang (ketebalan 4 m), dan batuan lunak yang sedikit lapuk (ketebalan 5 m). Nilai karakteristik yang sesuai dari gesekan tanah di sekitar tiang pancang masing-masing adalah 20 kPa, 40 kPa, dan 65 kPa. Panjang tiang pancang adalah 9 m, dan nilai karakteristik daya dukung ujung tiang pancang adalah 6.000 kPa. Oleh karena itu, nilai karakteristik daya dukung vertikal tiang pancang tunggal dihitung sebagai (     ).\nA. 1120kN\nB. 1420kN\nC. 1520kN\nD. 1680kN",
+        "target_scores": {
+            "A. 1120kN": 0,
+            "B. 1420kN": 0,
+            "C. 1520kN": 1,
+            "D. 1680kN": 0
+        }
+    },
+    {
+        "input": "Pengukur jarak frekuensi ganda, dengan jangkauan 1 km, dirancang dengan dua skala pengukuran: skala halus 10 m (frekuensi pembawa f=15MHz) dan skala kasar 1000 m (frekuensi pembawa f=150kHz). Akurasi pengukuran fase adalah 1/1000. Manakah dari berikut ini yang merupakan akurasi yang dapat dicapai dari instrumen tersebut? (    )\nA. cm\nB. dm\nC. m\nD. mm",
+        "target_scores": {
+            "A. cm": 1,
+            "B. dm": 0,
+            "C. m": 0,
+            "D. mm": 0
+        }
+    },
+    {
+        "input": "Pada pondasi homogen, muka air tanah terkubur pada kedalaman 1,40 m. Tanpa mempertimbangkan efek kapiler pada pondasi, berat satuan tanah adalah 15,8 kN/m³, dan berat satuan jenuh tanah di bawah muka air tanah adalah 19,8 kN/m³. Tegangan efektif vertikal pada kedalaman 3,60 m dari permukaan tanah dihitung sebagai (    ).\nA. 34,68kPa\nB. 43,68kPa\nC. 64,45kPa\nD. 71,28kPa",
+        "target_scores": {
+            "A. 34,68kPa": 0,
+            "B. 43,68kPa": 1,
+            "C. 64,45kPa": 0,
+            "D. 71,28kPa": 0
+        }
+    },
+    {
+        "input": "Pada tanah kohesif dengan kohesi 10 kPa, sudut gesekan internal 10 derajat, dan berat satuan $18kN/m^3$, penggalian vertikal dilakukan dengan dinding samping dijaga agar tidak bergeser. Tinggi maksimum yang dapat dicapai ditentukan sebesar (    ).\nA. 0 m\nB. 1,3 m\nC. 10 m\nD. 5,2 m",
+        "target_scores": {
+            "A. 0 m": 0,
+            "B. 1,3 m": 1,
+            "C. 10 m": 0,
+            "D. 5,2 m": 0
+        }
+    },
+    {
+        "input": "Uji beban pelat dangkal dilakukan pada pondasi tanah kohesif menggunakan pelat beban berukuran 0,5 m × 0,5 m. Hasilnya menunjukkan bahwa segmen awal kurva tekanan-penurunan (kurva p-s) bersifat linier, dengan rasio tekanan dasar pelat terhadap penurunan sebesar 25 kPa/mm. Faktor bentuk untuk pelat beban persegi diambil sebesar 0,886, dan rasio Poisson tanah kohesif diambil sebesar 0,4. Berdasarkan rumus $E_{0} = \\omega(1-\\mu^{2}) \\dfrac{Pb}{s}$, modulus deformasi tanah pondasi adalah ( ).\nA. 8243 kPa\nB. 9121 kPa\nC. 9303 kPa\nD. 9653 kPa",
+        "target_scores": {
+            "A. 8243 kPa": 0,
+            "B. 9121 kPa": 0,
+            "C. 9303 kPa": 1,
+            "D. 9653 kPa": 0
+        }
+    },
+    {
+        "input": "Pondasi jalur dengan kedalaman tertanam 3 m dan lebar 3,5 m, menerima gaya vertikal dari struktur atas yang diteruskan ke permukaan atas pondasi sebesar 200 kN/m, dengan momen eksentris sebesar 50 kN·m/m. Berat sendiri pondasi dan tanah di atas pondasi dapat dianggap dengan berat jenis gabungan sebesar 20 kN/m³. Maka, nilai tekanan maksimum pada tepi dasar pondasi adalah ( ).\nA. 141,6kPa\nB. 180,5kPa\nC. 212,1kPa\nD. 340,3kPa",
+        "target_scores": {
+            "A. 141,6kPa": 1,
+            "B. 180,5kPa": 0,
+            "C. 212,1kPa": 0,
+            "D. 340,3kPa": 0
+        }
+    },
+    {
+        "input": "Pengukur jarak gelombang elektromagnetik memiliki akurasi nominal ±(3 + 3ppm) mm. Dengan menggunakan instrumen ini, jarak 500 m diukur. Jika tidak ada faktor lain yang dipertimbangkan, kesalahan pengukuran jarak yang dihasilkan adalah (    ).\nA. ±18mm\nB. ±3mm\nC. ±4,5mm\nD. ±6mm",
+        "target_scores": {
+            "A. ±18mm": 0,
+            "B. ±3mm": 0,
+            "C. ±4,5mm": 1,
+            "D. ±6mm": 0
+        }
+    },
+    {
+        "input": "Lapisan tanah memiliki koefisien kompresi $0{,}50\\,\\text{MPa}^{-1}$ dan rasio rongga alami 0,8. Lapisan tanah setebal 1 m. Diketahui bahwa tegangan tambahan rata-rata $\\overline{\\mathbf{\\sigma}}_\\mathbf{z}=\\mathbf{60kPa}$ diberikan pada lapisan tanah ini. Oleh karena itu, penurunan lapisan tanah adalah (    ).\nA. 16,3mm\nB. 16,7mm\nC. 30mm\nD. 33,6mm",
+        "target_scores": {
+            "A. 16,3mm": 0,
+            "B. 16,7mm": 1,
+            "C. 30mm": 0,
+            "D. 33,6mm": 0
+        }
+    },
+    {
+        "input": "Untuk lereng tanah dengan tinggi 8 m, sudut gesek internal $\\mathbf{\\phi=10^{\\circ}}$($N_s＝9{,}2$), $c＝25kPa$, $\\gamma=18\\mathbf{kN/m}^3$, faktor keamanan stabilitas lereng adalah (    ).\nA. 0,5\nB. 1\nC. 1,6\nD. 2",
+        "target_scores": {
+            "A. 0,5": 0,
+            "B. 1": 0,
+            "C. 1,6": 1,
+            "D. 2": 0
+        }
+    },
+    {
+        "input": "Kolom pencampur dalam dengan panjang 8 m dan diameter 0,5 m memiliki modulus kompresi 120 MPa. Tingkat penggantian adalah 25%, nilai karakteristik daya dukung tanah antar tiang adalah 110 kPa, dan modulus kompresi tanah antar tiang adalah 6 MPa. Area yang diperkuat mengalami tegangan rata-rata 121 kPa. Deformasi area yang diperkuat adalah (    ).\nA. 13mm\nB. 25mm\nC. 26mm\nD. 28mm",
+        "target_scores": {
+            "A. 13mm": 0,
+            "B. 25mm": 0,
+            "C. 26mm": 0,
+            "D. 28mm": 1
+        }
+    },
+    {
+        "input": "Pondasi terdiri dari lapisan atas tanah kering setebal 1,50 m dan lapisan tanah jenuh bawah. Berat satuan lapisan tanah kering adalah 15,6 kN/m³, dan berat satuan lapisan tanah jenuh adalah 19,8 kN/m³. Tegangan tanah vertikal total pada kedalaman 3,50 m adalah (    ).\nA. 23,4kPa\nB. 43kPa\nC. 54,6kPa\nD. 63kPa",
+        "target_scores": {
+            "A. 23,4kPa": 0,
+            "B. 43kPa": 0,
+            "C. 54,6kPa": 0,
+            "D. 63kPa": 1
+        }
+    },
+    {
+        "input": "Bentang terhitung pelat beton bertulang pracetak adalah $l_0＝3{,}3 m$, lebar pelat adalah $b＝0{,}6 m$, nilai standar beban permanen adalah $g_k＝5{,}0 kN/m^2$, nilai standar beban variabel adalah $q_k＝2{,}0 kN/m^2$, dan berat sendiri pelat adalah $g＝2{,}0 kN/m^2$. Ketika pelat pracetak diuji, pelat tersebut diuji dengan metode pembebanan empat titik. Nilai desain beban uji daya dukung beban ditentukan sebagai (     ). (Di mana $γ_G＝1{,}2$，$γ_Q＝1{,}4$)\nA. 3,712kN\nB. 4,95kN\nC. 5,049kN\nD. 6,732kN",
+        "target_scores": {
+            "A. 3,712kN": 0,
+            "B. 4,95kN": 0,
+            "C. 5,049kN": 0,
+            "D. 6,732kN": 1
+        }
+    },
+    {
+        "input": "angka pori alami sampel tanah pasir adalah 0,461, angka pori maksimum adalah 0,943, dan angka pori minimum adalah 0,396. Kepadatan relatif tanah pasir ini dihitung sebagai (     ).\nA. 0,404\nB. 0,615\nC. 0,679\nD. 0,881",
+        "target_scores": {
+            "A. 0,404": 0,
+            "B. 0,615": 0,
+            "C. 0,679": 0,
+            "D. 0,881": 1
+        }
+    },
+    {
+        "input": "Keadaan tegangan suatu titik adalah $\\mathbf{\\sigma_{1}=400kPa}$, $\\mathbf{\\sigma_{3}=200kPa}$, $c＝20kPa$, $\\phi=20^\\circ$, maka dalam situasi manakah titik tersebut berada? (     )\nA. Keadaan keseimbangan batas\nB. Keadaan runtuh\nC. Keadaan stabil\nD. Tidak dapat ditentukan",
+        "target_scores": {
+            "A. Keadaan keseimbangan batas": 0,
+            "B. Keadaan runtuh": 0,
+            "C. Keadaan stabil": 1,
+            "D. Tidak dapat ditentukan": 0
+        }
+    },
+    {
+        "input": "Tumpukan kerikil digunakan untuk merawat pondasi tanah liat lunak. Daya dukung tanah diketahui sebesar 100 kPa. Diameter tumpukan kerikil adalah $d＝0{,}6m$, disusun dalam pola persegi dengan jarak $s＝1m$. Rasio tegangan antara tumpukan dan tanah adalah $n＝5$. Daya dukung pondasi komposit dihitung sebagai (    ).\nA. 120kPa\nB. 151,1kPa\nC. 171,1kPa\nD. 212,8kPa",
+        "target_scores": {
+            "A. 120kPa": 0,
+            "B. 151,1kPa": 0,
+            "C. 171,1kPa": 0,
+            "D. 212,8kPa": 1
+        }
+    },
+    {
+        "input": "Untuk pondasi strip dengan lebar 3 m dan eksentrisitas e=0,7m, dikenai beban vertikal N=1000kN/m. Tekanan maksimum di dasar pondasi dihitung sebagai (    ).\nA. 210kPa\nB. 700kPa\nC. 733kPa\nD. 833kPa",
+        "target_scores": {
+            "A. 210kPa": 0,
+            "B. 700kPa": 0,
+            "C. 733kPa": 0,
+            "D. 833kPa": 1
+        }
+    },
+    {
+        "input": "Struktur rangka beton bertulang lima lantai (tanpa basement) memiliki dimensi denah $60 m×180 m$. Dalam desain struktur dengan denah memanjang (struktur superpanjang), pernyataan yang salah adalah (   ).\nA. Gunakan beton mutu tinggi untuk pelat\nB. Gunakan tulangan halus dan berjarak rapat pada pelat\nC. Sediakan sambungan dilatasi\nD. Sediakan strip pengecoran tunda",
+        "target_scores": {
+            "A. Gunakan beton mutu tinggi untuk pelat": 1,
+            "B. Gunakan tulangan halus dan berjarak rapat pada pelat": 0,
+            "C. Sediakan sambungan dilatasi": 0,
+            "D. Sediakan strip pengecoran tunda": 0
+        }
+    },
+    {
+        "input": "Di antara keempat jenis kolom berikut dengan luas penampang yang sama, rasio baja total yang sama dan sedang, dan mutu beton yang sama, kolom dengan daya dukung tekan aksial tertinggi adalah ( ).\nA. Kolom SRC melingkar\nB. Kolom SRC persegi\nC. Kolom beton tabung baja melingkar\nD. Kolom beton tabung baja persegi",
+        "target_scores": {
+            "A. Kolom SRC melingkar": 0,
+            "B. Kolom SRC persegi": 0,
+            "C. Kolom beton tabung baja melingkar": 1,
+            "D. Kolom beton tabung baja persegi": 0
+        }
+    },
+    {
+        "input": "Untuk sebuah aula pameran sementara satu lantai dengan bentang besar yang perlu diselesaikan secara cepat, bentuk struktur yang paling sesuai adalah ( ).\nA. Beton bertulang profil baja + struktur rangka baja\nB. Beton prategang\nC. Kolom beton + struktur atap baja\nD. Struktur membran kabel",
+        "target_scores": {
+            "A. Beton bertulang profil baja + struktur rangka baja": 0,
+            "B. Beton prategang": 0,
+            "C. Kolom beton + struktur atap baja": 0,
+            "D. Struktur membran kabel": 1
+        }
+    },
+    {
+        "input": "Untuk lokasi bangunan tertentu, lapisan ② (lapisan tanah keras, terdiri dari tanah liat) melapisi lapisan ③ (lapisan lumpur). Hubungan yang benar antara nilai karakteristik daya dukung $f_{ak}$ dan modulus kompresi $E_s$ dari lapisan ② dan ③ adalah (   ).\nA. $f_{ak2}≤f_{ak3}$，$E_{s2}≤E_{s3}$\nB. $f_{ak2}≤f_{ak3}$，$E_{s2}≥E_{s3}$\nC. $f_{ak2}≥f_{ak3}$，$E_{s2}≤E_{s3}$\nD. $f_{ak2}≥f_{ak3}$，$E_{s2}≥E_{s3}$",
+        "target_scores": {
+            "A. $f_{ak2}≤f_{ak3}$，$E_{s2}≤E_{s3}$": 0,
+            "B. $f_{ak2}≤f_{ak3}$，$E_{s2}≥E_{s3}$": 0,
+            "C. $f_{ak2}≥f_{ak3}$，$E_{s2}≤E_{s3}$": 0,
+            "D. $f_{ak2}≥f_{ak3}$，$E_{s2}≥E_{s3}$": 1
+        }
+    },
+    {
+        "input": "Untuk pondasi strip dengan lebar dasar 2 m dan nilai karakteristik daya dukung seismik terkoreksi $f_a＝150kPa$, beban vertikal maksimum yang dapat ditanggung pondasi adalah (   ).\nA. 300kN/m\nB. 400kN/m\nC. 500kN/m\nD. 600kN/m",
+        "target_scores": {
+            "A. 300kN/m": 1,
+            "B. 400kN/m": 0,
+            "C. 500kN/m": 0,
+            "D. 600kN/m": 0
+        }
+    },
+    {
+        "input": "Untuk bangunan kantor rangka tiga lantai dengan kisi kolom 9 m × 9 m dan tanpa basement, di mana tanah dalam jarak 20 meter di bawah permukaan tanah berupa tanah lanau dengan kompresibilitas rendah dan di bawahnya terdapat lapisan pasir berkerikil, jenis pondasi yang sesuai adalah (   ).\nA. Pondasi rakit\nB. Pondasi strip\nC. Pondasi terisolasi\nD. Pondasi tiang pancang",
+        "target_scores": {
+            "A. Pondasi rakit": 0,
+            "B. Pondasi strip": 0,
+            "C. Pondasi terisolasi": 1,
+            "D. Pondasi tiang pancang": 0
+        }
+    },
+    {
+        "input": "Untuk bangunan kantor rangka dua lantai di atas lapisan tanah lunak, ketika sejumlah besar beban ditumpuk di satu sisi bangunan, pondasi dapat mengalami (   ).\nA. Pengangkatan keseluruhan\nB. Pengangkatan miring\nC. Penurunan keseluruhan\nD. Penurunan miring",
+        "target_scores": {
+            "A. Pengangkatan keseluruhan": 0,
+            "B. Pengangkatan miring": 0,
+            "C. Penurunan keseluruhan": 0,
+            "D. Penurunan miring": 1
+        }
+    },
+    {
+        "input": "Untuk penampang balok 300 mm×700 mm, menggunakan sengkang berkaki ganda dengan jarak 100 mm, jika pertimbangan seismik tidak diperhitungkan dan luas sengkang yang dibutuhkan per meter adalah $1254mm^2$, diameter minimum sengkang ditentukan sebesar (    ).\n(Luas sengkang yang sesuai untuk diameter 6 mm adalah $566mm^2$, untuk 8 mm adalah $1006mm^2$, untuk 10 mm adalah $1571mm^2$, dan untuk 12 mm adalah $2262mm^2$)\nA. 10\nB. 12\nC. 6\nD. 8",
+        "target_scores": {
+            "A. 10": 1,
+            "B. 12": 0,
+            "C. 6": 0,
+            "D. 8": 0
+        }
+    },
+    {
+        "input": "Suatu proyek memiliki dua rencana konstruksi, A dan B, dengan investasi masing-masing sebesar 5 juta dolar dan 10 juta dolar . Periode proyek untuk keduanya adalah 10 tahun, dengan rencana A menghasilkan pendapatan tahunan sebesar 1,4 juta dolar dan rencana B menghasilkan 2,5 juta dolar . Dengan asumsi tingkat hasil acuan adalah 10%, perbedaan nilai sekarang bersih antara kedua rencana tersebut dihitung sebagai (   ). (Diberikan: $(P/A，10\\%，10)＝6{,}1446$)\nA. 1,759 juta dolar\nB. 3,6024 juta dolar\nC. 5,3614 juta dolar\nD. 8,9638 juta dolar",
+        "target_scores": {
+            "A. 1,759 juta dolar": 1,
+            "B. 3,6024 juta dolar": 0,
+            "C. 5,3614 juta dolar": 0,
+            "D. 8,9638 juta dolar": 0
+        }
+    },
+    {
+        "input": "Suatu proyek awalnya direncanakan untuk menggunakan Proses A untuk konstruksi. Akan tetapi, setelah riset pasar dan evaluasi teknis yang ekstensif, diputuskan untuk mengganti Proses A dengan Proses B, yang menghasilkan kualitas konstruksi yang sama sekaligus mengurangi biaya hingga 15%. Menurut prinsip rekayasa nilai, metode yang digunakan untuk meningkatkan nilai proyek diidentifikasi sebagai (   ).\nA. Baik fungsi maupun biaya menurun, tetapi pengurangan biaya lebih besar\nB. Fungsi ditingkatkan, biaya berkurang\nC. Fungsi ditingkatkan, biaya tidak berubah\nD. Fungsi tidak berubah, biaya berkurang",
+        "target_scores": {
+            "A. Baik fungsi maupun biaya menurun, tetapi pengurangan biaya lebih besar": 0,
+            "B. Fungsi ditingkatkan, biaya berkurang": 0,
+            "C. Fungsi ditingkatkan, biaya tidak berubah": 0,
+            "D. Fungsi tidak berubah, biaya berkurang": 1
+        }
+    },
+    {
+        "input": "Untuk bangunan bertingkat tinggi dengan tiga lantai bawah yang didedikasikan untuk ruang komersial besar dan lantai atas untuk penggunaan perumahan, sistem struktur yang sesuai untuk dipilih adalah (    ).\nA. Struktur Transfer Penuh\nB. Struktur Transfer Sebagian\nC. Struktur dinding geser\nD. Struktur rangka",
+        "target_scores": {
+            "A. Struktur Transfer Penuh": 0,
+            "B. Struktur Transfer Sebagian": 1,
+            "C. Struktur dinding geser": 0,
+            "D. Struktur rangka": 0
+        }
+    },
+    {
+        "input": "Untuk aula tenis satu lantai dengan bentang 40 meter, manakah bentuk komponen penahan beban atap yang paling rasional ( ).\nA. Balok baja perut padat\nB. Balok beton bertulang\nC. Balok beton bertulang prategang\nD. Rangka baja",
+        "target_scores": {
+            "A. Balok baja perut padat": 0,
+            "B. Balok beton bertulang": 0,
+            "C. Balok beton bertulang prategang": 0,
+            "D. Rangka baja": 1
+        }
+    },
+    {
+        "input": "Untuk rumah pasangan dinding tiga lantai tanpa basement, di mana tanah 10 meter di bawah permukaan tanah berupa lanau dengan kompresibilitas rendah dan di bawahnya terdapat lapisan kerikil, jenis pondasi yang sesuai adalah ( ).\nA. Pondasi rakit\nB. Pondasi strip\nC. Pondasi terisolasi\nD. Pondasi tiang pancang",
+        "target_scores": {
+            "A. Pondasi rakit": 0,
+            "B. Pondasi strip": 1,
+            "C. Pondasi terisolasi": 0,
+            "D. Pondasi tiang pancang": 0
+        }
+    },
+    {
+        "input": "Penyangga pipa baja melingkar dengan kedua ujung bersendi, panjang 8 meter, $f=305N/mm^2$, dan nilai desain tekanan aksial 1300 kN, dengan faktor stabilitas $φ=0{,}5$, luas penampang melintang minimum pipa baja yang diperlukan adalah ( ). (Pemeriksaan kekuatan: $\\mathbb{N}/\\mathbb{A}\\leqslant\\mathbb{f}$, Pemeriksaan stabilitas: $\\mathbb{N}/(\\phi\\mathbb{f}\\mathbb{A})\\leqslant 1$)\nA. 12.600 mm²\nB. 4.300 mm²\nC. 6.300 mm²\nD. 8.600 mm²",
+        "target_scores": {
+            "A. 12.600 mm²": 0,
+            "B. 4.300 mm²": 0,
+            "C. 6.300 mm²": 0,
+            "D. 8.600 mm²": 1
+        }
+    },
+    {
+        "input": "Untuk pemadatan bendungan tanah menggunakan metode tumpang tindih progresif, jumlah lintasan pemadatan yang dirancang adalah 5, dan lebar bersih rol pemadatan adalah 4 m. Lebar langkah bergeser ditentukan sebesar ( ) m.\nA. 0,3\nB. 0,8\nC. 1\nD. 1,25",
+        "target_scores": {
+            "A. 0,3": 0,
+            "B. 0,8": 1,
+            "C. 1": 0,
+            "D. 1,25": 0
+        }
+    },
+    {
+        "input": "Awalnya, pasir dengan modulus kehalusan 2,65 digunakan untuk mencampur beton. Karena masalah pasokan material, pasir dengan modulus kehalusan 1,95 sekarang digunakan. Untuk mempertahankan nilai slump dan kekuatan yang sama dari campuran beton asli, metode yang paling tepat adalah (  ).\nA. Kurangi jumlah semen.\nB. Kurangi rasio pasir.\nC. Tingkatkan jumlah air untuk mencampur.\nD. Tingkatkan rasio pasir.",
+        "target_scores": {
+            "A. Kurangi jumlah semen.": 0,
+            "B. Kurangi rasio pasir.": 1,
+            "C. Tingkatkan jumlah air untuk mencampur.": 0,
+            "D. Tingkatkan rasio pasir.": 0
+        }
+    },
+    {
+        "input": "Pondasi bangunan dengan dimensi 2 m × 2 m dikubur pada kedalaman 2 m. Tegangan tambahan pada dasar P = 100 kPa. Tegangan tambahan pada titik 4 m di bawah permukaan tanah sepanjang garis vertikal melalui pusat pondasi dihitung menjadi (   ).\nA. 10kPa\nB. 25kPa\nC. 33,6kPa\nD. 50kPa",
+        "target_scores": {
+            "A. 10kPa": 0,
+            "B. 25kPa": 0,
+            "C. 33,6kPa": 1,
+            "D. 50kPa": 0
+        }
+    },
+    {
+        "input": "Untuk struktur pasangan bata empat lantai dengan dinding penahan beban, pondasi strip dengan lebar 1,2 m dikubur pada kedalaman 1 m. Nilai standar beban dari struktur atas yang bekerja pada pondasi adalah 120 kN/m. Pondasi terdiri dari lempung berlumpur dengan berat satuan $17{,}8 kN/m^3$ dan daya dukung karakteristik 50 kPa. Faktor koreksi kedalaman untuk daya dukung lempung berlumpur adalah $η_d＝1{,}0$. Pondasi diperlakukan menggunakan metode penggantian tanah dengan lapisan pasir pengganti. Sudut difusi tekanan lapisan pasir pengganti adalah 30°. Setelah dihitung, ketebalan lapisan pasir pengganti adalah 2 m, yang memenuhi persyaratan daya dukung. Lebar minimum lapisan pasir pengganti ditentukan sebesar (   ).\nA. 2,5m\nB. 3,2m\nC. 3,5m\nD. 5m",
+        "target_scores": {
+            "A. 2,5m": 0,
+            "B. 3,2m": 0,
+            "C. 3,5m": 1,
+            "D. 5m": 0
+        }
+    },
+    {
+        "input": "Dalam 250 g pasir yang memiliki kadar air 5%, terdapat air seberat ( )\nA. 11,0g\nB. 11,9g\nC. 12,5g\nD. 12,9g",
+        "target_scores": {
+            "A. 11,0g": 0,
+            "B. 11,9g": 1,
+            "C. 12,5g": 0,
+            "D. 12,9g": 0
+        }
+    },
+    {
+        "input": "Pada pondasi yang terdiri dari dua lapisan tanah, di mana lapisan atas berupa lapisan pasir halus setebal 4 m dan lapisan bawah berupa lempung lanauan, dengan berat satuan alami pasir halus sebesar $17kN/m^3$ dan berat satuan lempung lanauan sebesar $20kN/m^3$, total tegangan tanah vertikal pada kedalaman 6 m ditentukan sebesar ( ).\nA. 108kPa\nB. 120kPa\nC. 188kPa\nD. 222kPa",
+        "target_scores": {
+            "A. 108kPa": 1,
+            "B. 120kPa": 0,
+            "C. 188kPa": 0,
+            "D. 222kPa": 0
+        }
+    },
+    {
+        "input": "Jika angka pori tanah sebesar 47,71%, maka porositasnya adalah ( )%.\nA. 109,6\nB. 32,3\nC. 67,7\nD. 91,24",
+        "target_scores": {
+            "A. 109,6": 0,
+            "B. 32,3": 1,
+            "C. 67,7": 0,
+            "D. 91,24": 0
+        }
+    },
+    {
+        "input": "Ketika suatu material jenuh dengan air, beratnya 100 g, yang berarti 10 g lebih berat dari berat keringnya. Rasio penyerapan air material ini adalah (    ).\nA. 10%\nB. 11,1%\nC. 12%\nD. 12,6%",
+        "target_scores": {
+            "A. 10%": 0,
+            "B. 11,1%": 1,
+            "C. 12%": 0,
+            "D. 12,6%": 0
+        }
+    },
+    {
+        "input": "Selama pengukuran stadia, teodolit ditempatkan di titik S dengan elevasi 162,382m. Tinggi instrumen adalah 1,40m. Pembacaan stadia atas, tengah, dan bawah masing-masing adalah 1,019m, 1,400m, dan 1,781m. Sudut vertikal $\\mathfrak{a}=\\text{3॰}12^{\\prime}10^{\\prime\\prime}$ diukur. Jarak horizontal SP dan elevasi titik P ditentukan sebagai (   ).\nA. 75,962m, 158,125m\nB. 75,962m, 166,633m\nC. 76,081m, 158,125m\nD. 76,081m, 166,633m",
+        "target_scores": {
+            "A. 75,962m, 158,125m": 0,
+            "B. 75,962m, 166,633m": 1,
+            "C. 76,081m, 158,125m": 0,
+            "D. 76,081m, 166,633m": 0
+        }
+    },
+    {
+        "input": "Untuk tanah loess kolapsibel setebal 10 m yang akan diperlakukan dengan pemadatan dinamis, dengan asumsi faktor pengaruh pemadatan sebesar 0,5 dan berat palu sebesar 100 kN, tinggi jatuh h yang diperlukan untuk memenuhi persyaratan desain adalah (   ).\nA. 10m\nB. 15m\nC. 20m\nD. 40m",
+        "target_scores": {
+            "A. 10m": 0,
+            "B. 15m": 0,
+            "C. 20m": 0,
+            "D. 40m": 1
+        }
+    },
+    {
+        "input": "Terdapat tiga balok a, b, dan c yang ditopang sederhana dan dikenai beban terpusat di tengah bentang. Rasio tulangan masing-masing adalah $p_a=0,8\\%$, $p_b=1,6\\%=p_{max}$, dan $p_c=2,0\\%$, dengan kondisi lainnya sama. Dengan asumsi balok tidak akan mengalami kegagalan geser, hubungan antara nilai desain beban terpusat P yang dapat ditanggung setiap balok adalah ( ).\nA. $2\\mathbb{P}_a<\\mathbb{P}_b<\\mathbb{P}_c$\nB. $\\mathbb{P}_a<\\mathbb{P}_b<\\mathbb{P}_c$\nC. $\\mathbb{P}_b=\\mathbb{P}_c<2\\mathbb{P}_a$\nD. $\\mathrm{P_b=2P_a=P_c}$",
+        "target_scores": {
+            "A. $2\\mathbb{P}_a<\\mathbb{P}_b<\\mathbb{P}_c$": 0,
+            "B. $\\mathbb{P}_a<\\mathbb{P}_b<\\mathbb{P}_c$": 0,
+            "C. $\\mathbb{P}_b=\\mathbb{P}_c<2\\mathbb{P}_a$": 1,
+            "D. $\\mathrm{P_b=2P_a=P_c}$": 0
+        }
+    },
+    {
+        "input": "Untuk terowongan berlapis beton dengan diameter d=2m dan koefisien kekasaran n=0,014, saat mendesain model dengan skala panjang 40, dan debit terukur 35 L/s dalam model, debit prototipe yang sesuai dan koefisien kekasaran material model masing-masing adalah (   ).\nA. $354{,}18m^3/s$ dan 0,0067\nB. $354{,}18m^3/s$ dan 0,0076\nC. $56m^3/s$ dan 0,0067\nD. $56m^3/s$ dan 0,0076",
+        "target_scores": {
+            "A. $354{,}18m^3/s$ dan 0,0067": 0,
+            "B. $354{,}18m^3/s$ dan 0,0076": 1,
+            "C. $56m^3/s$ dan 0,0067": 0,
+            "D. $56m^3/s$ dan 0,0076": 0
+        }
+    },
+    {
+        "input": "Air mengalir melalui pipa melingkar dengan diameter 1 cm dengan kecepatan 1 m/s. Viskositas kinematiknya adalah 0,01 cm²/s. Bentuk aliran dalam pipa adalah (   ).\nA. Aliran kritis\nB. Aliran laminar\nC. Aliran turbulen\nD. Tidak dapat ditentukan",
+        "target_scores": {
+            "A. Aliran kritis": 0,
+            "B. Aliran laminar": 0,
+            "C. Aliran turbulen": 1,
+            "D. Tidak dapat ditentukan": 0
+        }
+    },
+    {
+        "input": "Pipa dengan diameter 100 mm dan panjang 10 m memiliki dua tikungan (setiap tikungan memiliki koefisien kehilangan ketinggian hidrolik lokal sebesar 0,8), dan koefisien kehilangan ketinggian hidrolik sepanjang pipa adalah 0,037. Jika tikungan ini dihilangkan sambil menjaga panjang pipa dan perbedaan ketinggian hidrolik antara kedua ujung pipa tidak berubah, laju aliran dalam pipa akan meningkat sebesar (   ).\nA. 10%\nB. 20%\nC. 30%\nD. 40%",
+        "target_scores": {
+            "A. 10%": 0,
+            "B. 20%": 1,
+            "C. 30%": 0,
+            "D. 40%": 0
+        }
+    },
+    {
+        "input": "Volume air diukur sebesar $1{,}0m^3$ pada tekanan $3500kN/m^2$ , dan berkurang menjadi $0{,}99m^3$ \nsaat tekanan meningkat menjadi $24000kN/m^2$ . Oleh karena itu, volume air saat tekanan menjadi $7000kN/m^2$ dihitung sebesar ( ).\nA. $0{,}9945m^3$\nB. $0{,}9956m^3$\nC. $0{,}9974m^3$\nD. $0{,}9983m^3$",
+        "target_scores": {
+            "A. $0{,}9945m^3$": 0,
+            "B. $0{,}9956m^3$": 0,
+            "C. $0{,}9974m^3$": 0,
+            "D. $0{,}9983m^3$": 1
+        }
+    },
+    {
+        "input": "Pada peta skala 1:2000, jarak antara titik A dan B diukur sebesar 43,4 cm. Untuk membangun jalan antara dua titik ini dengan gradien maksimum 3%, berapakah perbedaan tinggi maksimum antara titik A dan B ( ).\nA. 1,2m\nB. 10,8m\nC. 2,6m\nD. 26,0m",
+        "target_scores": {
+            "A. 1,2m": 0,
+            "B. 10,8m": 0,
+            "C. 2,6m": 0,
+            "D. 26,0m": 1
+        }
+    },
+    {
+        "input": "Luas daerah aliran sungai adalah $10000km^2$. Berapa total volume banjir yang dibatasi oleh hidrograf satuan (10 mm) dengan jangka waktu 2 jam? (Satuan: juta $m^3$) (   ).\nA. 100\nB. 200\nC. 360\nD. 72",
+        "target_scores": {
+            "A. 100": 1,
+            "B. 200": 0,
+            "C. 360": 0,
+            "D. 72": 0
+        }
+    },
+    {
+        "input": "Ketika sungai melepaskan debit, laju aliran $Q＝120m^3/s$ diukur, dan penampang aliran berbentuk persegi panjang dengan lebar b=60m dan kecepatan v=5m/s. Jenis aliran di sungai ditentukan sebagai (   ).\nA. Aliran cepat\nB. Aliran kritis\nC. Aliran lambat\nD. Tidak dapat ditentukan",
+        "target_scores": {
+            "A. Aliran cepat": 1,
+            "B. Aliran kritis": 0,
+            "C. Aliran lambat": 0,
+            "D. Tidak dapat ditentukan": 0
+        }
+    },
+    {
+        "input": "Jika modulus kompresi tanah A adalah 5 MPa dan tanah B adalah 10 MPa, pernyataan yang benar mengenai perbandingan kompresibilitas kedua tanah tersebut adalah (   ).\nA. Tanah A memiliki kompresibilitas yang lebih rendah daripada tanah B\nB. Tanah A memiliki kompresibilitas yang lebih tinggi daripada tanah B\nC. Tidak dapat dinilai, rasio Poisson dari kedua tanah tersebut perlu dilengkapi\nD. Tidak dapat ditentukan, beban atas pada kedua tanah perlu dilengkapi",
+        "target_scores": {
+            "A. Tanah A memiliki kompresibilitas yang lebih rendah daripada tanah B": 0,
+            "B. Tanah A memiliki kompresibilitas yang lebih tinggi daripada tanah B": 1,
+            "C. Tidak dapat dinilai, rasio Poisson dari kedua tanah tersebut perlu dilengkapi": 0,
+            "D. Tidak dapat ditentukan, beban atas pada kedua tanah perlu dilengkapi": 0
+        }
+    },
+    {
+        "input": "Pada sebuah wadah, terdapat lubang keluar berdinding tipis dengan diameter d. Jika pada lubang tersebut dipasang sebuah pipa pendek dengan panjang 4d, maka debit alirannya akan menjadi ... dari debit semula.\nA. 1 kali lipat\nB. 1,22 kali lipat\nC. 1,32 kali lipat\nD. 2 kali lipat",
+        "target_scores": {
+            "A. 1 kali lipat": 0,
+            "B. 1,22 kali lipat": 0,
+            "C. 1,32 kali lipat": 1,
+            "D. 2 kali lipat": 0
+        }
+    },
+    {
+        "input": "Untuk dua saluran terbuka dengan koefisien kekasaran n_1 sebesar 0,015 dan n_2 sebesar 0,016, dan semua parameter lainnya sama, kedalaman air kritis ditentukan sebesar (   ).\nA. $h_1<h_2$\nB. $h_1=h_2$\nC. $h_1>h_2$\nD. Tidak dapat ditentukan",
+        "target_scores": {
+            "A. $h_1<h_2$": 0,
+            "B. $h_1=h_2$": 1,
+            "C. $h_1>h_2$": 0,
+            "D. Tidak dapat ditentukan": 0
+        }
+    },
+    {
+        "input": "Untuk pipa minyak dengan diameter 300 mm dan laju aliran $0{,}3m^3/s$ , jika air digunakan di laboratorium untuk melakukan uji model dengan skala panjang 3, dan diberikan bahwa viskositas minyak adalah $0{,}045cm^2/s$ dan viskositas air adalah $0{,}01cm^2/s$, laju aliran model dihitung sebesar (   ).\nA. $0{,}006m^3/s$\nB. $0{,}0074m^3/s$\nC. $0{,}022m^3/s$\nD. $0{,}06m^3/s$",
+        "target_scores": {
+            "A. $0{,}006m^3/s$": 0,
+            "B. $0{,}0074m^3/s$": 0,
+            "C. $0{,}022m^3/s$": 1,
+            "D. $0{,}06m^3/s$": 0
+        }
+    },
+    {
+        "input": "Menggunakan patokan berelevasi 9,125 m untuk menetapkan level lantai dalam ruangan ±0 dengan elevasi 8,586 m, setelah memasang rambu ukur pada patokan, pembacaan pada rambu ukur dari alat sipat datar (level) adalah 1,462 m. Berapakah pembacaan pada rambu ukur di lantai dalam ruangan ( ).\nA. 0,539m\nB. 0,923m\nC. 1,743m\nD. 2,001m",
+        "target_scores": {
+            "A. 0,539m": 0,
+            "B. 0,923m": 0,
+            "C. 1,743m": 0,
+            "D. 2,001m": 1
+        }
+    },
+    {
+        "input": "Cairan dengan massa jenis 830 kg/m^3 dan viskositas dinamis 0,035 N·s/m^2 mengalir melalui pipa dengan diameter dalam 5 cm pada laju aliran 3 L/s. Rezim alirannya adalah (   ).\nA. Aliran cepat\nB. Aliran lambat\nC. Aliran laminar\nD. Aliran turbulen",
+        "target_scores": {
+            "A. Aliran cepat": 0,
+            "B. Aliran lambat": 0,
+            "C. Aliran laminar": 1,
+            "D. Aliran turbulen": 0
+        }
+    },
+    {
+        "input": "Dalam pipa tertentu, kecepatan cairan adalah $v＝0{,}4m/s$, dan viskositas kinematik cairan adalah $υ＝0{,}01139cm^2/s$. Diameter d pipa yang memastikan aliran laminar adalah (   ).\nA. 10mm\nB. 12mm\nC. 5mm\nD. 8mm",
+        "target_scores": {
+            "A. 10mm": 0,
+            "B. 12mm": 0,
+            "C. 5mm": 1,
+            "D. 8mm": 0
+        }
+    },
+    {
+        "input": "Dalam pondasi, berat satuan lempung berlumpur adalah $16kN/m^3$, dan muka air tanah terletak 2 meter di bawah permukaan tanah. Berat satuan jenuh lempung berlumpur adalah $18kN/m^3$. Tegangan efektif tanah pada kedalaman 4 meter di bawah permukaan tanah dihitung sebesar (   ).\nA. 45kPa\nB. 48kPa\nC. 65kPa\nD. 68kPa",
+        "target_scores": {
+            "A. 45kPa": 0,
+            "B. 48kPa": 1,
+            "C. 65kPa": 0,
+            "D. 68kPa": 0
+        }
+    },
+    {
+        "input": "Suatu sampel tanah diuji dan diketahui memiliki indeks plastisitas 20. Berdasarkan klasifikasi indeks plastisitas, sampel tanah tersebut harus diberi nama (    ).\nA. Lanau\nB. Lempung\nC. Lempung lanau\nD. Pasir",
+        "target_scores": {
+            "A. Lanau": 0,
+            "B. Lempung": 1,
+            "C. Lempung lanau": 0,
+            "D. Pasir": 0
+        }
+    },
+    {
+        "input": "Untuk lokasi dengan tanah berpasir, berat satuannya adalah $γ＝18kN/m^3$, berat satuan jenuh adalah $γ_sat＝19kN/m^3$, koefisien tekanan lateral $K_0＝0{,}3$, muka air tanah 2m di bawah permukaan, dan berat satuan air $γ_w＝10kN/m^3$. Maka tegangan berat sendiri horizontal tanah pada kedalaman 3m di bawah permukaan adalah (　　).\nA. 10,8kPa\nB. 13,5kPa\nC. 17,4kPa\nD. 45,0kPa",
+        "target_scores": {
+            "A. 10,8kPa": 0,
+            "B. 13,5kPa": 1,
+            "C. 17,4kPa": 0,
+            "D. 45,0kPa": 0
+        }
+    },
+    {
+        "input": "Sebuah dinding penahan setinggi 5 m memiliki bagian belakang yang vertikal dan halus, serta permukaan timbunan yang horizontal. Apabila berat satuan timbunan $γ = 17\\ \\mathrm{kN/m^3}$, kohesi $c = 0$, dan sudut gesekan internal $φ = 32°$, tentukan besar tekanan tanah aktif resultan $E_a$. (    ).\nA. 55kN/m\nB. 65,2kN/m\nC. 68,2kN/m\nD. 76,7kN/m",
+        "target_scores": {
+            "A. 55kN/m": 0,
+            "B. 65,2kN/m": 1,
+            "C. 68,2kN/m": 0,
+            "D. 76,7kN/m": 0
+        }
+    },
+    {
+        "input": "Untuk pondasi strip yang dikenai beban 250 kN/m, dengan kedalaman pondasi 1,5 m, dan berat satuan tanah di atas dasar sebesar $16 kN/m^3$, nilai karakteristik daya dukung setelah koreksi kedalaman adalah 130 kPa. Lebar dasar pondasi yang memenuhi persyaratan daya dukung sekaligus ekonomis adalah ( ).\nA. 1,5\nB. 2\nC. 2,5\nD. 3",
+        "target_scores": {
+            "A. 1,5": 0,
+            "B. 2": 0,
+            "C. 2,5": 1,
+            "D. 3": 0
+        }
+    },
+    {
+        "input": "Diketahui bahwa dinding penahan tanah tingginya 4,5 m, bagian belakang dinding tegak dan halus, tanah timbunan di belakang dinding berupa pasir dan ditimbun sampai ke atas dinding, $c＝0$, $φ＝30°$, $\\gamma=18\\mathbf{kN/m^3}$, $\\gamma^{\\prime}=\\mathbf{9kN/m^3}$, dan muka air tanah berada di bagian atas dinding. Maka intensitas tekanan tanah aktif pada kedalaman 4m dari atas dinding adalah (　　).\nA. 10,8kPa\nB. 12,0kPa\nC. 16,1kPa\nD. 18,0kPa",
+        "target_scores": {
+            "A. 10,8kPa": 0,
+            "B. 12,0kPa": 1,
+            "C. 16,1kPa": 0,
+            "D. 18,0kPa": 0
+        }
+    },
+    {
+        "input": "Diketahui parameter kekuatan geser efektif tanah pondasi adalah $c＝20kPa$, $φ＝32°$. Jika tekanan pori pada titik dasar pondasi $u = 50kPa$, tegangan utama minor $\\sigma_3 = 150kPa$, maka berapakah nilai tegangan utama mayor $σ_1$ pada titik tersebut agar terjadi kegagalan geser? (　　)\nA. 325,5kPa\nB. 375,5kPa\nC. 397,6kPa\nD. 447,6kPa",
+        "target_scores": {
+            "A. 325,5kPa": 0,
+            "B. 375,5kPa": 0,
+            "C. 397,6kPa": 0,
+            "D. 447,6kPa": 1
+        }
+    },
+    {
+        "input": "Diberikan sampel tanah dengan parameter kuat geser efektif $\\mathbf{c^{\\prime}=20kPa}$, $\\phi^{\\prime}=30^{\\circ}$, ketika tegangan total adalah $σ_1＝500kPa$, $σ_3＝120kPa$, dan tekanan air pori sebesar 50 kPa ada dalam sampel tanah tersebut, keadaan sampel tanah tersebut ditentukan sebagai (   ).\nA. Keadaan keamanan\nB. Keadaan kehancuran\nC. Keadaan keseimbangan batas\nD. Keadaan keseimbangan statis",
+        "target_scores": {
+            "A. Keadaan keamanan": 0,
+            "B. Keadaan kehancuran": 1,
+            "C. Keadaan keseimbangan batas": 0,
+            "D. Keadaan keseimbangan statis": 0
+        }
+    },
+    {
+        "input": "Sampel pasir kering dengan diameter 38 mm dikenakan uji triaksial konvensional, dengan tekanan pengurung konstan sebesar 48,7 kPa. Gaya aksial yang diberikan oleh batang pembeban adalah 75,2 N. Sudut gesekan internal sampel ditentukan sebesar ( ).\nA. 20,1 derajat\nB. 22,0 derajat\nC. 23,9 derajat\nD. 30,5 derajat",
+        "target_scores": {
+            "A. 20,1 derajat": 0,
+            "B. 22,0 derajat": 0,
+            "C. 23,9 derajat": 1,
+            "D. 30,5 derajat": 0
+        }
+    },
+    {
+        "input": "Spesimen pasir kering dengan ketebalan 21,7 mm dikompresi dalam konsolidometer. Ketika tegangan vertikal meningkat dari nilai awal 10,0 kPa menjadi 40,0 kPa, ketebalan spesimen berkurang sebesar 0,043 mm. Koefisien kompresibilitas volume $m_v$（$MPa^{-1}$）dari spesimen dihitung sebesar (   ).\nA. $3{,}29×10^-2$\nB. $3{,}40×10^-2$\nC. $6{,}60×10^-2$\nD. $8{,}40×10^-2$",
+        "target_scores": {
+            "A. $3{,}29×10^-2$": 0,
+            "B. $3{,}40×10^-2$": 0,
+            "C. $6{,}60×10^-2$": 1,
+            "D. $8{,}40×10^-2$": 0
+        }
+    },
+    {
+        "input": "Untuk tanah jenuh dengan berat jenis butiran tanah $d_s＝2{,}70$, kadar air $w＝30%$, dan berat satuan air diambil sebagai $γ_w＝10kN/m^3$, berat satuan jenuh tanah dihitung menjadi (  ).\nA. $19{,}4kN/m^3$\nB. $20{,}2kN/m^3$\nC. $20{,}8kN/m^3$\nD. $21{,}2kN/m^3$",
+        "target_scores": {
+            "A. $19{,}4kN/m^3$": 1,
+            "B. $20{,}2kN/m^3$": 0,
+            "C. $20{,}8kN/m^3$": 0,
+            "D. $21{,}2kN/m^3$": 0
+        }
+    },
+    {
+        "input": "Diketahui suatu sampel tanah memiliki koefisien kompresi $a_1-2＝0{,}5MPa⁻¹$. Setelah dikompresi selama 24 jam di bawah tekanan 100 kPa, rasio rongganya sebesar 0,96. Maka, angka pori sampel tersebut setelah dikompresi selama 24 jam di bawah tekanan 200 kPa adalah ( ).\nA. 0,43\nB. 0,88\nC. 0,91\nD. 1,02",
+        "target_scores": {
+            "A. 0,43": 0,
+            "B. 0,88": 0,
+            "C. 0,91": 1,
+            "D. 1,02": 0
+        }
+    },
+    {
+        "input": "Beban yang bekerja pada balok lintel meliputi berat sendiri pasangan bata dan beban dari balok dan pelat dalam kisaran tinggi balok lintel yang dihitung.\nUntuk pasangan bata, berat sendiri dinding di atas $l_n/3$（$l_n$ adalah bentang bersih balok lintel) dan beban dari balok dan pelat di atas ketinggian lebih besar dari $l_n$ dapat diabaikan, karena pertimbangan (   ).\nA. Difusi tegangan\nB. Interaksi antara balok dan dinding\nC. Pelepasan beban yang disebabkan oleh lengkungan\nD. Redistribusi tegangan",
+        "target_scores": {
+            "A. Difusi tegangan": 0,
+            "B. Interaksi antara balok dan dinding": 0,
+            "C. Pelepasan beban yang disebabkan oleh lengkungan": 1,
+            "D. Redistribusi tegangan": 0
+        }
+    }
+]

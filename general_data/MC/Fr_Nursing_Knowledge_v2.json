@@ -1,0 +1,884 @@
+[
+    {
+        "input": "Un patient de 45 ans, souffrant d'ulcère gastrique depuis 10 ans, a ressenti une douleur abdominale supérieure aiguë hier, accompagnée de cinq épisodes de selles méléniques (noires et gluantes) de 100 à 200 ml. Ce matin, il a eu deux épisodes supplémentaires de selles méléniques d'environ 500 ml. Il a ensuite présenté une pâleur faciale, une peau froide et humide, et est devenu inconscient, nécessitant une admission d'urgence. Examen physique : le patient est confus, avec des lèvres cyanosées, une fréquence cardiaque de 125 bpm, une fréquence respiratoire de 25 bpm et une tension artérielle de 80/55 mmHg. Selon les symptômes cliniques du patient, estimez la quantité de saignement.\nA. 250～300ml\nB. 300～500ml\nC. 500～800ml\nD. ＞1000ml",
+        "target_scores": {
+            "A. 250～300ml": 0,
+            "B. 300～500ml": 0,
+            "C. 500～800ml": 0,
+            "D. ＞1000ml": 1
+        }
+    },
+    {
+        "input": "Quelles sont les complications possibles de l'oxygénothérapie lorsque la concentration en oxygène dépasse 60 % et dure plus de 24 heures ?\nA. Dyspnée inspiratoire\nB. Déclenchement d’asthme\nC. Intoxication par l'oxygène\nD. Respiration profonde",
+        "target_scores": {
+            "A. Dyspnée inspiratoire": 0,
+            "B. Déclenchement d’asthme": 0,
+            "C. Intoxication par l'oxygène": 1,
+            "D. Respiration profonde": 0
+        }
+    },
+    {
+        "input": "Lorsqu’une hernie incarcérée se transforme en hernie étranglée, laquelle des options suivantes est mauvaise ?\nA. La motilité intestinale est toujours présente\nB. La paroi intestinale perd de son éclat\nC. La paroi intestinale perd de son élasticité\nD. Le pouls de l’artère mésentérique disparaît",
+        "target_scores": {
+            "A. La motilité intestinale est toujours présente": 1,
+            "B. La paroi intestinale perd de son éclat": 0,
+            "C. La paroi intestinale perd de son élasticité": 0,
+            "D. Le pouls de l’artère mésentérique disparaît": 0
+        }
+    },
+    {
+        "input": "Quelle est la raison pour laquelle l’hyperthermie est contre-indiquée lorsque le diagnostic d’abdomen aigu est inconnu ?\nA. Masquer la condition\nB. Obstruer l’absorption inflammatoire\nC. Provoquer la diarrhée\nD. Provoquer une constriction réflexe de l’artère coronaire",
+        "target_scores": {
+            "A. Masquer la condition": 1,
+            "B. Obstruer l’absorption inflammatoire": 0,
+            "C. Provoquer la diarrhée": 0,
+            "D. Provoquer une constriction réflexe de l’artère coronaire": 0
+        }
+    },
+    {
+        "input": "Un patient de 28 ans, homme, a été heurté au niveau de l'abdomen supérieur gauche par une voiture il y a 5 jours. Il a ressenti une douleur et une tendresse locales à ce niveau. Le médecin a prescrit une prise en charge conservatrice après l'admission. Ce matin, le patient s'est évanoui soudainement, avec une pâleur faciale et un pouls rapide et filiforme. L'examen physique n'a révélé aucun signe d'irritation péritonéale. Quelle est la diagnostic la plus probable ?\nA. Perforation de la vésicule biliaire\nB. Rupture de la rate\nC. Rupture du foie\nD. Rupture du rein",
+        "target_scores": {
+            "A. Perforation de la vésicule biliaire": 0,
+            "B. Rupture de la rate": 1,
+            "C. Rupture du foie": 0,
+            "D. Rupture du rein": 0
+        }
+    },
+    {
+        "input": "Un patient souffrant d'hypertension artérielle ressent soudainement une oppression thoracique intense, une dyspnée, une sueur abondante, une toux avec expectoration de mucus rose et mousseux, et doit s'asseoir pour respirer au cours de son sommeil. Sa tension artérielle est de 26,6/14,7 kPa (200/110 mmHg) et son rythme cardiaque est de 110 bpm. Quelle est la mesure de soins incorrecte parmi les suivantes ?\nA. Administration rapide de médicaments par perfusion intraveineuse\nB. Mise en place d'une voie veineuse\nC. Oxygénothérapie avec humidification à l’éthanol à 4–6 L/min\nD. Position assise avec les jambes pendantes",
+        "target_scores": {
+            "A. Administration rapide de médicaments par perfusion intraveineuse": 1,
+            "B. Mise en place d'une voie veineuse": 0,
+            "C. Oxygénothérapie avec humidification à l’éthanol à 4–6 L/min": 0,
+            "D. Position assise avec les jambes pendantes": 0
+        }
+    },
+    {
+        "input": "Un patient âgé souffre d'asthme qui s'aggrave fréquemment la nuit, accompagné de toux fréquente et d'expectoration de mucus rose et mousseux, parfois teinté de sang, avec des râles humides au fond des deux poumons. Quelle est la maladie la plus probable ?\nA. Asthme bronchique\nB. Asthme cardiaque\nC. Cancer du poumon\nD. Pneumonie allergique",
+        "target_scores": {
+            "A. Asthme bronchique": 0,
+            "B. Asthme cardiaque": 1,
+            "C. Cancer du poumon": 0,
+            "D. Pneumonie allergique": 0
+        }
+    },
+    {
+        "input": "Un patient de 70 ans, homme, a été admis à l'hôpital après une perte de connaissance soudaine d'une durée d'une heure. L'examen physique révèle une diminution du sillon nasolabiale gauche et une paralysie des membres supérieurs et inférieurs gauches. Quelle est la mesure de soins incorrecte ?\nA. Cathétérisme urinaire\nB. Jeûne temporaire\nC. Oxygénothérapie\nD. Position allongée sans oreiller",
+        "target_scores": {
+            "A. Cathétérisme urinaire": 0,
+            "B. Jeûne temporaire": 0,
+            "C. Oxygénothérapie": 0,
+            "D. Position allongée sans oreiller": 1
+        }
+    },
+    {
+        "input": "Une patiente présente une hypokaliémie due à des vomissements répétés. Elle souffre de fatigue mentale, de faiblesse généralisée et d'une diminution des réflexes tendineux. Quel est le diagnostic infirmier approprié parmi les suivants ?\nA. Diminution de la tolérance à l’activité\nB. Désumance nutritionnel (Inférieur aux besoins du corps)\nC. Nettoyage inefficace des voies respiratoires\nD. Risque de blessure",
+        "target_scores": {
+            "A. Diminution de la tolérance à l’activité": 1,
+            "B. Désumance nutritionnel (Inférieur aux besoins du corps)": 0,
+            "C. Nettoyage inefficace des voies respiratoires": 0,
+            "D. Risque de blessure": 0
+        }
+    },
+    {
+        "input": "Un patient souffre de douleur thoracique et de dyspnée après une blessure à la poitrine. L'examen physique révèle une douleur à la pression locale, une augmentation de la douleur à la compression de la poitrine, des bruits respiratoires légèrement affaiblis du côté blessé, des bruits respiratoires clairs du côté sain, une trachée centrée, une fréquence cardiaque de 96 bpm et une tension artérielle de 120/80 mmHg. Quelle est la première considération ?\nA. Emphysème médiastinal\nB. Fracture des côtes\nC. Pneumothorax tensionnel\nD. Tamponnade cardiaque",
+        "target_scores": {
+            "A. Emphysème médiastinal": 0,
+            "B. Fracture des côtes": 1,
+            "C. Pneumothorax tensionnel": 0,
+            "D. Tamponnade cardiaque": 0
+        }
+    },
+    {
+        "input": "Un patient avec de grandes brûlures a une tension artérielle de 80/72 mmHg après réhydratation, un débit urinaire de 20 ml/h et une pression veineuse centrale de 4 cmH₂O. Que représente cela pour le patient ?Un patient avec de grandes brûlures a une tension artérielle de 80/72 mmHg après réhydratation, un débit urinaire de 20 ml/h et une pression veineuse centrale de 4 cmH₂O. Que représente cela pour le patient ?\nA. Hypovolémie\nB. Insuffisance cardiaque\nC. Insuffisance rénale\nD. Édème pulmonaire",
+        "target_scores": {
+            "A. Hypovolémie": 1,
+            "B. Insuffisance cardiaque": 0,
+            "C. Insuffisance rénale": 0,
+            "D. Édème pulmonaire": 0
+        }
+    },
+    {
+        "input": "Un patient de 50 ans, homme, souffrant d'une cirrhose du foie avec hémorragie digestive haute, présente une agitation, une cyanose et des difficultés respiratoires pendant l'utilisation d'un tube à trois cavités et deux ballons pour la compression hémostatique. Que faut-il faire immédiatement ?\nA. Administer de l'oxygène\nB. Dégonfler les ballons\nC. Informer le médecin\nD. Utiliser un stimulant respiratoire",
+        "target_scores": {
+            "A. Administer de l'oxygène": 0,
+            "B. Dégonfler les ballons": 1,
+            "C. Informer le médecin": 0,
+            "D. Utiliser un stimulant respiratoire": 0
+        }
+    },
+    {
+        "input": "Alice, une femme de 35 ans, a été blessée par une voiture et se plaint de douleurs thoraciques intolérables à droite. L'examen physique révèle une conscience claire, une cyanose faciale, une respiration rapide, une agitation, un pouls rapide et filiforme, des membres froids et humides, une température de 36,5 °C, une fréquence cardiaque de 104 bpm, une fréquence respiratoire de 25 bpm et une tension artérielle de 11/8 kPa. La paroi thoracique droite est blessée avec une déchirure de 3 cm × 2 cm, une extrémité de côte cassée, une hémorragie continue et une respiration paradoxale. On entend un sifflement au niveau de la plaie. Quelle est la première mesure à prendre sur place ?\nA. Compression avec un coussin en coton épais\nB. Drainage pleural fermé\nC. Puncture thoracique pour évacuer l'air\nD. Réhydratation rapide et oxygénothérapie",
+        "target_scores": {
+            "A. Compression avec un coussin en coton épais": 1,
+            "B. Drainage pleural fermé": 0,
+            "C. Puncture thoracique pour évacuer l'air": 0,
+            "D. Réhydratation rapide et oxygénothérapie": 0
+        }
+    },
+    {
+        "input": "Un patient avec une blessure crânienne présente une altération de la conscience avec une période de lucidité intermédiaire, une pupille dilatée d'un côté sans réaction à la lumière et une hémiplégie du côté opposé. Quelle est la maladie la plus probable ?\nA. Contusion cérébrale\nB. Hernie cérébrale par le foramen magnum\nC. Hématome extradural\nD. Lésion du tronc cérébral",
+        "target_scores": {
+            "A. Contusion cérébrale": 0,
+            "B. Hernie cérébrale par le foramen magnum": 0,
+            "C. Hématome extradural": 1,
+            "D. Lésion du tronc cérébral": 0
+        }
+    },
+    {
+        "input": "Un patient de 67 ans, homme, souffrant d'une exacerbation aiguë de cardiopathie pulmonaire. L'analyse des gaz du sang montre : pH 7,25, PaCO₂ 9,3 kPa, HCO₃⁻ 30 mmol/L. Quelle mesure thérapeutique doit être prise pour corriger le déséquilibre acido-basique ?\nA. Administration de diurétiques\nB. Administration intraveineuse d'arginine hydrochlorique\nC. Administration intraveineuse de 5% de bicarbonate de sodium\nD. Amélioration de la ventilation",
+        "target_scores": {
+            "A. Administration de diurétiques": 0,
+            "B. Administration intraveineuse d'arginine hydrochlorique": 0,
+            "C. Administration intraveineuse de 5% de bicarbonate de sodium": 0,
+            "D. Amélioration de la ventilation": 1
+        }
+    },
+    {
+        "input": "Une patiente de 60 ans présente depuis deux jours une fièvre élevée, des frissons, une toux avec expectoration sanglante et une douleur thoracique. L'examen physique révèle une température de 37°C, une face grise, une peau froide et humide, des lèvres cyanosées, une percussion sourde au niveau du lobe supérieur gauche, des râles respiratoires affaiblis et quelques râles humides, une fréquence cardiaque de 128 bpm et une tension artérielle de 70/50 mmHg. Quelle mesure doit être prise immédiatement ?\nA. Comptage des leucocytes + classification\nB. Culture de sputum + test de sensibilité aux antibiotiques\nC. Radiographie thoracique\nD. Réhydratation + médicaments vasactifs",
+        "target_scores": {
+            "A. Comptage des leucocytes + classification": 0,
+            "B. Culture de sputum + test de sensibilité aux antibiotiques": 0,
+            "C. Radiographie thoracique": 0,
+            "D. Réhydratation + médicaments vasactifs": 1
+        }
+    },
+    {
+        "input": "Un patient de 55 ans, homme, atteint de bronchopneumopathie chronique obstructive, a récemment présenté une exacerbation de sa maladie. Il a ressenti une douleur aiguë à la poitrine gauche il y a 2 heures, accompagnée d'une aggravation des difficultés respiratoires. Pour établir un diagnostic précis, quel examen est le plus approprié ?\nA. Radiographie thoracique\nB. Scanner pulmonaire\nC. Échographie pulmonaire\nD. Électrocardiogramme",
+        "target_scores": {
+            "A. Radiographie thoracique": 1,
+            "B. Scanner pulmonaire": 0,
+            "C. Échographie pulmonaire": 0,
+            "D. Électrocardiogramme": 0
+        }
+    },
+    {
+        "input": "Un patient de 36 ans, homme, en bonne santé habituellement, a présenté une fièvre et une toux après avoir été exposé à la pluie il y a 2 jours, ainsi qu'une douleur à l'abdomen supérieur droit, une dyspnée et des nausées depuis 1 jour. En dehors des pathologies aiguës abdominales, quelle est la maladie à différencier ?\nA. Infarctus pulmonaire\nB. Paralysie du nerf phrénique\nC. Pneumonie à pneumocoque\nD. Pneumothorax spontané",
+        "target_scores": {
+            "A. Infarctus pulmonaire": 0,
+            "B. Paralysie du nerf phrénique": 0,
+            "C. Pneumonie à pneumocoque": 1,
+            "D. Pneumothorax spontané": 0
+        }
+    },
+    {
+        "input": "Une patiente de 38 ans a été hospitalisée pour une fracture du bassin, une rupture hépatique et un choc hémorragique. Lors du traitement, elle a présenté une augmentation de la fréquence respiratoire, une détresse respiratoire, des lèvres cyanosées et des râles humides dans les deux poumons, avec une PaO₂ < 8,0 kPa. Quelle est la mesure de traitement efficace ?\nA. Oxygénothérapie à haute concentration par masque\nB. Utilisation d'un excitant respiratoire\nC. Ventilation avec pression négative en fin d'expiration\nD. Ventilation avec pression positive en fin d'expiration",
+        "target_scores": {
+            "A. Oxygénothérapie à haute concentration par masque": 0,
+            "B. Utilisation d'un excitant respiratoire": 0,
+            "C. Ventilation avec pression négative en fin d'expiration": 0,
+            "D. Ventilation avec pression positive en fin d'expiration": 1
+        }
+    },
+    {
+        "input": "Une femme de 47 ans a été blessée à la tête par une voiture. Elle peut ouvrir les yeux en réponse à un appel, mais répond de manière incohérente et évite la douleur lors de l'examen. Quel est son score selon l'échelle de coma de Glasgow ?\nA. 11 points\nB. 12 points\nC. 15 points\nD. 8 points",
+        "target_scores": {
+            "A. 11 points": 1,
+            "B. 12 points": 0,
+            "C. 15 points": 0,
+            "D. 8 points": 0
+        }
+    },
+    {
+        "input": "Une patiente de 32 ans a été blessée au niveau de l'abdomen supérieur gauche par un accident de voiture. Elle présente une douleur abdominale, une pâleur faciale, une sueur froide, un pouls rapide et filiforme, ainsi qu'une baisse de la tension artérielle. Quelle est la première considération ?\nA. Perforation gastrique\nB. Perforation intestinale\nC. Rupture de la rate\nD. Rupture du foie",
+        "target_scores": {
+            "A. Perforation gastrique": 0,
+            "B. Perforation intestinale": 0,
+            "C. Rupture de la rate": 1,
+            "D. Rupture du foie": 0
+        }
+    },
+    {
+        "input": "Un patient après une hépatectomie présente une somnolence, une agitation et une jaunisse. Quelle est la maladie la plus probable ?\nA. Abcès sous-diaphragmatique\nB. Encéphalopathie hépatique\nC. Hémorragie interne\nD. Péritonite biliaire",
+        "target_scores": {
+            "A. Abcès sous-diaphragmatique": 0,
+            "B. Encéphalopathie hépatique": 1,
+            "C. Hémorragie interne": 0,
+            "D. Péritonite biliaire": 0
+        }
+    },
+    {
+        "input": "Un patient de 62 ans, homme, souffrant d'angor depuis deux ans, a ressenti une douleur thoracique intense au niveau du sternum il y a 4 heures. La prise de nitroglycérine sous la langue n'a pas soulagé la douleur. L'examen physique révèle une augmentation du rythme cardiaque et une galop diastolique au niveau du sommet cardiaque. L'électrocardiogramme montre une élévation du segment ST. Quels résultats d'examen peuvent apparaître chez ce patient ?\nA. Augmentation des enzymes myocardiques sériques\nB. Diminution de la glycémie\nC. Diminution de la protéine C réactive\nD. Diminution des leucocytes",
+        "target_scores": {
+            "A. Augmentation des enzymes myocardiques sériques": 1,
+            "B. Diminution de la glycémie": 0,
+            "C. Diminution de la protéine C réactive": 0,
+            "D. Diminution des leucocytes": 0
+        }
+    },
+    {
+        "input": "Un homme de 48 ans, 23 jours après une opération pour \"pancréatite hémorragique nécrosante aiguë\", a reçu une nutrition parentérale totale (NPT) par cathéter veineux central pendant 20 jours. Aujourd'hui, il présente des frissons, une fièvre élevée (T39,8°C), des céphalées, des vertiges et une face érythémateuse. Le patient est extrêmement agité, avec une fréquence cardiaque de 132 bpm et une fréquence respiratoire de 36 bpm. L'examen sanguin montre un comptage de leucocytes de 25×10⁹/L avec un décalage à gauche des neutrophiles. Quelle est la maladie la plus probable ?\nA. Septicémie causée par l'absorption de toxines des tissus nécrosés\nB. Septicémie causée par une infection de la cicatrice chirurgicale\nC. Septicémie causée par une infection du cathéter veineux\nD. Septicémie causée par une infection intestinale",
+        "target_scores": {
+            "A. Septicémie causée par l'absorption de toxines des tissus nécrosés": 0,
+            "B. Septicémie causée par une infection de la cicatrice chirurgicale": 0,
+            "C. Septicémie causée par une infection du cathéter veineux": 1,
+            "D. Septicémie causée par une infection intestinale": 0
+        }
+    },
+    {
+        "input": "Un patient de 40 ans, homme, présente une fièvre, une toux, une douleur thoracique et une confusion mentale depuis 12 heures. L'examen physique révèle une pâleur faciale, une tension artérielle de 70/40 mmHg et une fréquence cardiaque de 120 bpm. L'examen de laboratoire montre un comptage de leucocytes de 16×10⁹/L avec 85% de neutrophiles. La radiographie thoracique révèle une large opacité homogène étendue dans le lobe supérieur droit. Quel diagnostic doit être envisagé en premier ?\nA. Bronchectasie avec infection\n\nB. Pleurésie tuberculeuse\nC. Pneumonie de choc\nD. Pneumonie à mycoplasme",
+        "target_scores": {
+            "A. Bronchectasie avec infection\n": 0,
+            "B. Pleurésie tuberculeuse": 0,
+            "C. Pneumonie de choc": 1,
+            "D. Pneumonie à mycoplasme": 0
+        }
+    },
+    {
+        "input": "L'examen qui mesure la réactivité des voies respiratoires après inhalation de l'histamine ou du méthacholine est ? \nA. Mesure du débit expiratoire maximal\n\nB. Test de dilatation bronchique\n\nC. Test de fonction ventilatoire\n\nD. Test de provocation bronchique",
+        "target_scores": {
+            "A. Mesure du débit expiratoire maximal\n": 0,
+            "B. Test de dilatation bronchique\n": 0,
+            "C. Test de fonction ventilatoire\n": 0,
+            "D. Test de provocation bronchique": 1
+        }
+    },
+    {
+        "input": "Chez un patient chirurgical présentant des douleurs spasmodiques, une diminution des réflexes tendineux, une confusion mentale et un coma, il faut d'abord envisager ? \nA. Accident vasculaire cérébral\n\nB. Hypernatrémie\nC. Hypokaliémie\n\nD. Hyponatrémie",
+        "target_scores": {
+            "A. Accident vasculaire cérébral\n": 0,
+            "B. Hypernatrémie": 0,
+            "C. Hypokaliémie\n": 0,
+            "D. Hyponatrémie": 1
+        }
+    },
+    {
+        "input": "Un patient de 37 ans, homme, souffrant d'ulcère gastrique, a ressenti une douleur abdominale supérieure intense après un repas copieux, accompagnée de nausées et de vomissements. Les muscles abdominaux sont tendus, avec sueur froide et choc. Quelle complication doit être envisagée en premier ?\nA. Cancérisation\n\nB. Hémorragie massive\n\nC. Infection\n\nD. Perforation aiguë",
+        "target_scores": {
+            "A. Cancérisation\n": 0,
+            "B. Hémorragie massive\n": 0,
+            "C. Infection\n": 0,
+            "D. Perforation aiguë": 1
+        }
+    },
+    {
+        "input": "Un enfant de 12 ans, garçon, a présenté une gorge sèche, une douleur à la gorge, un nez bouché, un écoulement nasal, une toux sèche, des céphalées et des frissons légers deux jours après avoir été exposé au froid. L'examen physique révèle une température de 37,1°C, une gorge rouge, des amygdales non enflées et des bruits respiratoires sont diminués dans les deux poumons, sans râles secs ni crépitants. Quel est le diagnostic possible ?\nA. Bronchite virale aiguë\nB. Laryngite virale aiguë\nC. Pharyngite virale aiguë\nD. Rhume ordinaire",
+        "target_scores": {
+            "A. Bronchite virale aiguë": 0,
+            "B. Laryngite virale aiguë": 0,
+            "C. Pharyngite virale aiguë": 0,
+            "D. Rhume ordinaire": 1
+        }
+    },
+    {
+        "input": "Un patient atteint de tuberculose pulmonaire a eu une hémoptysie massive qui s'est échappée par le nez. Craignant, le patient a retenu sa respiration, ce qui a provoqué une agitation, une tentative de s'asseoir, des difficultés respiratoires extrêmes, une cyanose faciale, une sueur abondante et les yeux  révulsés. Quelle mesure de secours doit être prise immédiatement ?\nA. Administrer de l'oxygène par un cathéter nasal et injecter un excitant respiratoire\nB. Effectuer une respiration artificielle\n\nC. Puncture thoracique pour évacuer l'air\n\nD. Éliminer les caillots de sang ou pratiquer une trachéotomie\n",
+        "target_scores": {
+            "A. Administrer de l'oxygène par un cathéter nasal et injecter un excitant respiratoire": 0,
+            "B. Effectuer une respiration artificielle\n": 0,
+            "C. Puncture thoracique pour évacuer l'air\n": 0,
+            "D. Éliminer les caillots de sang ou pratiquer une trachéotomie\n": 1
+        }
+    },
+    {
+        "input": "Un patient de 65 ans, homme, hospitalisé pour un accident vasculaire cérébral, est confus depuis 2 jours, affaibli, mais ses signes vitaux sont stables et ses membres sont froids. L'infirmière utilise une bouillotte pour le réchauffer. Quelle est la méthode correcte ?\nA. Demander à la famille de remplacer l'eau chaude dans la bouillotte à tout moment\nB. Envelopper la bouillotte dans une serviette\nC. La température de l'eau dans la bouillotte est de 60 °C\nD. Placer la bouillotte sur l'abdomen",
+        "target_scores": {
+            "A. Demander à la famille de remplacer l'eau chaude dans la bouillotte à tout moment": 0,
+            "B. Envelopper la bouillotte dans une serviette": 1,
+            "C. La température de l'eau dans la bouillotte est de 60 °C": 0,
+            "D. Placer la bouillotte sur l'abdomen": 0
+        }
+    },
+    {
+        "input": "Trois jours après une opération pour le cancer de l'œsophage, un patient a été nourri avec une alimentation liquide après la suppression du tube gastrique. Le cinquième jour, il a une fièvre de 39 °C, des difficultés respiratoires et une douleur thoracique. La radiographie thoracique révèle un épanchement pleural. Quelle complication doit être envisagée en premier ?\nA. Abcès sous-diaphragmatique\n\nB. Fuite anastomotique œsophagienne\nC. Infection de la plaie opératoire\nD. Pneumonie par aspiration",
+        "target_scores": {
+            "A. Abcès sous-diaphragmatique\n": 0,
+            "B. Fuite anastomotique œsophagienne": 1,
+            "C. Infection de la plaie opératoire": 0,
+            "D. Pneumonie par aspiration": 0
+        }
+    },
+    {
+        "input": "Un patient de 70 ans, homme, a été hospitalisé pour une hémiplégie causée par un thrombus cérébral. L'infirmière a constaté que la peau de son sacrum était violacée, d'une superficie de 4 cm × 3 cm, ne blanchissait pas sous la pression et était dure au toucher. Le lendemain, une bulle d'environ 2 cm de diamètre est apparue sur cette zone. Quelle est la modification de la peau du sacrum de ce patient ?\nA. Stade d'engorgement hémorragique de l'escarre\nB. Stade d'inflammation et d'infiltration de l'escarre\nC. Stade d'ulcère profond de l'escarre\nD. Stade d'ulcère superficiel de l'escarre",
+        "target_scores": {
+            "A. Stade d'engorgement hémorragique de l'escarre": 0,
+            "B. Stade d'inflammation et d'infiltration de l'escarre": 1,
+            "C. Stade d'ulcère profond de l'escarre": 0,
+            "D. Stade d'ulcère superficiel de l'escarre": 0
+        }
+    },
+    {
+        "input": "Un patient de 68 ans, homme, a une hernie inguinale réductible depuis 7 ans, parfois entrant dans le scrotum. L'examen physique révèle une masse inguinale réductible, avec une ouverture externe pouvant accueillir deux doigts. Après compression de l'anneau interne, la masse disparaît. Quel est le point le plus significatif pour distinguer une hernie inguinale oblique d'une hernie directe ?\nA. Le contenu de la hernie entre dans le scrotum ou pas\nB. Réapparition du contenu de la hernie après réduction du contenu de la hernie et compression de l'anneau profond\nC. Voie de protrusion\nD. Âge de l'apparition de la maladie",
+        "target_scores": {
+            "A. Le contenu de la hernie entre dans le scrotum ou pas": 0,
+            "B. Réapparition du contenu de la hernie après réduction du contenu de la hernie et compression de l'anneau profond": 1,
+            "C. Voie de protrusion": 0,
+            "D. Âge de l'apparition de la maladie": 0
+        }
+    },
+    {
+        "input": "Un patient hospitalisé pour une cirrhose du foie avec hémorragie digestive haute a vu son hémorragie s'améliorer après traitement, mais il a progressivement moins d'urine (500 ml par jour), avec une trace de protéines dans les urines, un potassium sanguin de 5,0 mmol/L, un sodium de 129 mmol/L, un chlore de 90 mmol/L et une urée sanguine de 24,1 mmol/L. Quel est le diagnostic le plus probable ?\nA. Acidose\nB. Hémorragie digestive\nC. Syndrome hépatorénal\nD. Troubles électrolytiques",
+        "target_scores": {
+            "A. Acidose": 0,
+            "B. Hémorragie digestive": 0,
+            "C. Syndrome hépatorénal": 1,
+            "D. Troubles électrolytiques": 0
+        }
+    },
+    {
+        "input": "Un patient de 68 ans, homme, a une toux irritative depuis 3 semaines, sans amélioration après traitement antibiotique. La radiographie thoracique révèle une ombre non expliquée dans le poumon droit. Quelle autre investigation doit être réalisée ?\nA. Analyse des gaz du sang artériel\n\nB. Fibroscopie bronchique\n\nC. Puncture thoracique\nD. Test de fonction pulmonaire\n",
+        "target_scores": {
+            "A. Analyse des gaz du sang artériel\n": 0,
+            "B. Fibroscopie bronchique\n": 1,
+            "C. Puncture thoracique": 0,
+            "D. Test de fonction pulmonaire\n": 0
+        }
+    },
+    {
+        "input": "Une patiente de 22 ans a une douleur intense aux orteils, une pâleur et une froideur, ainsi qu'une diminution du pouls artériel dorsopédien, une heure après l'immobilisation de son mollet avec une attelle plâtrée. Quelle mesure doit être prise en premier ?\nA. Administrer un analgésique\nB. Assurer une bonne chaleur\n\nC. Desserrer légèrement l'attelle plâtrée\n\nD. Élever le membre affecté\n",
+        "target_scores": {
+            "A. Administrer un analgésique": 0,
+            "B. Assurer une bonne chaleur\n": 0,
+            "C. Desserrer légèrement l'attelle plâtrée\n": 1,
+            "D. Élever le membre affecté\n": 0
+        }
+    },
+    {
+        "input": "Un patient de 31 ans, homme, a été blessé à la tête dans un accident de voiture, sans perte de conscience, se plaint de maux de tête et a une petite quantité de liquide sanguinolent s'écoulant du conduit auditif droit, avec des signes vitaux normaux. Quelle est la mesure de soins correcte ?\nA. Obturer le conduit auditif externe avec des boules de coton stériles\nB. Position latérale gauche\n\nC. Rincer régulièrement le conduit auditif\n\nD. Élever la tête du lit de 15 à 30 cm\n",
+        "target_scores": {
+            "A. Obturer le conduit auditif externe avec des boules de coton stériles": 0,
+            "B. Position latérale gauche\n": 0,
+            "C. Rincer régulièrement le conduit auditif\n": 0,
+            "D. Élever la tête du lit de 15 à 30 cm\n": 1
+        }
+    },
+    {
+        "input": "Un enfant de 2 ans, garçon, hospitalisé pour scarlatine, est actuellement en phase de desquamation, avec des squames de peau sur le tronc et de grandes zones de desquamation sur les mains et les pieds. Quelle est la mauvaise recommandation pour les soins de la peau à ce stade ?\nA. Changer fréquemment de vêtements et aérer les vêtements et les couvertures\n\nB. Lorsque la desquamation est importante, il est permis d’enlever doucement les peaux mortes à la main.\nC. Nettoyer la peau avec de l'eau tiède pour éviter les infections\n\nD. Observer l'évolution de la desquamation",
+        "target_scores": {
+            "A. Changer fréquemment de vêtements et aérer les vêtements et les couvertures\n": 0,
+            "B. Lorsque la desquamation est importante, il est permis d’enlever doucement les peaux mortes à la main.": 1,
+            "C. Nettoyer la peau avec de l'eau tiède pour éviter les infections\n": 0,
+            "D. Observer l'évolution de la desquamation": 0
+        }
+    },
+    {
+        "input": "Lors de la réanimation pour pneumonie associée à un choc septique, il est préférable que la pression veineuse centrale n'excède pas （）cmH₂O et que le débit urinaire soit supérieur à （）ml/h.\nA. 10, 20\nB. 10, 30\nC. 5, 20\nD. 5, 30",
+        "target_scores": {
+            "A. 10, 20": 0,
+            "B. 10, 30": 1,
+            "C. 5, 20": 0,
+            "D. 5, 30": 0
+        }
+    },
+    {
+        "input": "Un ouvrier de 42 ans a été blessé au bras droit par un bloc de brique il y a une heure. L'examen physique révèle un gonflement du bras droit, une activité anormale, une incapacité à fléchir le poignet et les jointures des doigts, ainsi qu'uneincapacité à étendre le poignet et les articulations des doigts, et à étendre le pouce. Quelle structure a probablement été endommagée ?\nA. Artère brachiale\nB. Nerf médian\nC. Nerf radial\nD. Nerf ulnaire",
+        "target_scores": {
+            "A. Artère brachiale": 0,
+            "B. Nerf médian": 0,
+            "C. Nerf radial": 1,
+            "D. Nerf ulnaire": 0
+        }
+    },
+    {
+        "input": "Une patiente de 32 ans a souvent des douleurs abdominales supérieures gauche depuis 3 ans, surtout après avoir mangé. Elle a vomi du sang trois fois. L'examen radiologique des voies digestives avec du sulfate de baryum n'a révélé aucune anomalie évidente, et l'examen physique a seulement montré une douleur à la pression dans l'abdomen supérieur. Quel est le diagnostic le plus probable pour cette patiente ?\nA. Cancer gastrique\n\nB. Gastrite chronique\nC. Obstruction intestinale\n\nD. Ulcère gastrique",
+        "target_scores": {
+            "A. Cancer gastrique\n": 0,
+            "B. Gastrite chronique": 0,
+            "C. Obstruction intestinale\n": 0,
+            "D. Ulcère gastrique": 1
+        }
+    },
+    {
+        "input": "Chez un patient atteint d'hypertension artérielle essentielle, une élévation soudaine de la tension artérielle à 230/130 mmHg, accompagnée de céphalées intenses, de nausées, de vomissements, de convulsions et de somnolence, doit d'abord faire penser à ?\nA. Accident ischémique transitoire\nB. Crise hypertensive\n\nC. Embolie cérébrale\nD. Encéphalopathie hypertensive",
+        "target_scores": {
+            "A. Accident ischémique transitoire": 0,
+            "B. Crise hypertensive\n": 0,
+            "C. Embolie cérébrale": 0,
+            "D. Encéphalopathie hypertensive": 1
+        }
+    },
+    {
+        "input": "Une fille de 18 ans est hospitalisée pour fièvre et toux, diagnostiquée comme ayant une « pneumonie », avec une température de 39,5 °C, une peau rouge et brûlante au toucher, ainsi qu'une augmentation de la fréquence respiratoire et cardiaque. L'un des diagnostics de soins pour cette patiente est : « Hyperthermie : liée à une infection bactérienne ». Quelle est la principale base de ce diagnostic ?\nA. Peau rouge\nB. Respiration accélérée\nC. Sensation de chaleur au toucher\nD. Température de 39,5 °C",
+        "target_scores": {
+            "A. Peau rouge": 0,
+            "B. Respiration accélérée": 0,
+            "C. Sensation de chaleur au toucher": 0,
+            "D. Température de 39,5 °C": 1
+        }
+    },
+    {
+        "input": "Une patiente de 60 ans, atteinte d'un accident vasculaire cérébral avec paralysie du membre inférieur gauche, doit bénéficier de soins pour prévenir les escarres. Quelle est la meilleure méthode de soins ?\nA. Améliorer l'état nutritionnel général\n\nB. Maintenir la patiente en position latérale droite\nC. Retourner et masser la patiente toutes les 2 heures\n\nD. Utiliser un anneau pneumatique sur les protubérances osseuses\n",
+        "target_scores": {
+            "A. Améliorer l'état nutritionnel général\n": 0,
+            "B. Maintenir la patiente en position latérale droite": 0,
+            "C. Retourner et masser la patiente toutes les 2 heures\n": 1,
+            "D. Utiliser un anneau pneumatique sur les protubérances osseuses\n": 0
+        }
+    },
+    {
+        "input": "Un patient atteint de cirrhose du foie, après un traitement diurétique, a vu son ascite disparaître, mais il est souvent dans un état de sommeil profond, peut être réveillé, répond correctement aux questions après réveil, mais retombe rapidement dans le sommeil après la suppression du stimulus. Quel est le diagnostic ?\nA. Coma superficiel\nB. Délire\nC. Obnubilation\nD. Somnolence excessive",
+        "target_scores": {
+            "A. Coma superficiel": 0,
+            "B. Délire": 0,
+            "C. Obnubilation": 0,
+            "D. Somnolence excessive": 1
+        }
+    },
+    {
+        "input": "Une patiente de 35 ans, atteinte de leucémie, a soudainement des maux de tête, des vomissements, une vision trouble et une perte de conscience après une activité physique. Quelle mesure de soins est inappropriée ?\nA. Abaisser légèrement la tête pour assurer l'oxygénation cérébrale\nB. Application d'un bonnet de glace sur la tête\nC. Oxygénothérapie\nD. Repos strict au lit",
+        "target_scores": {
+            "A. Abaisser légèrement la tête pour assurer l'oxygénation cérébrale": 1,
+            "B. Application d'un bonnet de glace sur la tête": 0,
+            "C. Oxygénothérapie": 0,
+            "D. Repos strict au lit": 0
+        }
+    },
+    {
+        "input": "Un patient de 28 ans, homme, a une fièvre élevée et des diarrhées après un repas en plein air, diagnostiqué comme ayant une dysenterie bactérienne. Quelle mesure de soins est incorrecte pour ce patient ?\nA. Alimentation riche en protéines\nB. Donner un régime liquide ou semi-liquide selon la situation\nC. Isolation gastro-intestinale\nD. Prendre un échantillon de selles pour examen",
+        "target_scores": {
+            "A. Alimentation riche en protéines": 1,
+            "B. Donner un régime liquide ou semi-liquide selon la situation": 0,
+            "C. Isolation gastro-intestinale": 0,
+            "D. Prendre un échantillon de selles pour examen": 0
+        }
+    },
+    {
+        "input": "Un patient en phase terminale du cancer, avec une plaie de 2 cm × 2 cm au niveau des fesses et une exsudation jaune au niveau du derme. Quel est le stade de la plaie par pression ?\nA. Stade d'engorgement hémorragique\nB. Stade d'inflammation et d'infiltration\nC. Stade d'ulcère profond\nD. Stade d'ulcère superficiel",
+        "target_scores": {
+            "A. Stade d'engorgement hémorragique": 0,
+            "B. Stade d'inflammation et d'infiltration": 0,
+            "C. Stade d'ulcère profond": 0,
+            "D. Stade d'ulcère superficiel": 1
+        }
+    },
+    {
+        "input": "Un enfant de 10 mois, garçon, a été hospitalisé d'urgence après une crise de convulsions avec rotation des yeux et spasmes des membres il y a 3 jours. Il a été diagnostiqué avec une convulsion hypocalcémique due à une carence en vitamine D. Quelle est la recommandation la plus importante pour les parents lors de la sortie de l'hôpital ?\nA. Ajouter des aliments riches en vitamine D\nB. Encourager l'exercice debout\nC. Guider l'allaitement maternel\nD. Méthodes de prise en charge des convulsions et du spasme laryngé",
+        "target_scores": {
+            "A. Ajouter des aliments riches en vitamine D": 0,
+            "B. Encourager l'exercice debout": 0,
+            "C. Guider l'allaitement maternel": 0,
+            "D. Méthodes de prise en charge des convulsions et du spasme laryngé": 1
+        }
+    },
+    {
+        "input": "Un patient de 56 ans, homme, hospitalisé pour une hémorragie digestive, avec une tension artérielle de 60/30 mmHg, une fréquence cardiaque de 140 bpm et une hémoglobine de 35 g/L. Après une réhydratation intraveineuse, sa tension artérielle est revenue à 100/70 mmHg et sa fréquence cardiaque à 100 bpm. Cependant, il a oligurie depuis 3 jours, avec une kaliémie de 6,4 mmol/L et une BUN de 28,5 mmol/L. Quelle est la mesure de traitement correcte ?\nA. Augmenter le volume de perfusion\nB. Continuer la transfusion sanguine\nC. Dialyse urgente\nD. Injection intraveineuse lente de 0,4 mg de digoxine",
+        "target_scores": {
+            "A. Augmenter le volume de perfusion": 0,
+            "B. Continuer la transfusion sanguine": 0,
+            "C. Dialyse urgente": 1,
+            "D. Injection intraveineuse lente de 0,4 mg de digoxine": 0
+        }
+    },
+    {
+        "input": "Une patiente de 47 ans, diagnostiquée avec une abcès pulmonaire, a été traitée par antibiotiques pendant 3 mois mais continue à expectorer du pus. La radiographie thoracique montre une cavité purulente de 6 cm de diamètre. Quelle est la prochaine étape de traitement ?\nA. Augmenter la dose d'antibiotiques\nB. Instillation intratrachéale d’antibiotiques\nC. Renforcer le drainage postural\nD. Traitement chirurgical",
+        "target_scores": {
+            "A. Augmenter la dose d'antibiotiques": 0,
+            "B. Instillation intratrachéale d’antibiotiques": 0,
+            "C. Renforcer le drainage postural": 0,
+            "D. Traitement chirurgical": 1
+        }
+    },
+    {
+        "input": "Un patient de sexe masculin, souffrant d'une insuffisance cardiaque gauche chronique, présente une anorexie, une vision trouble et une indifférence après un traitement par repos, restriction de sel, diurétiques, vasodilatateurs et digitaliques. Quelle est la cause la plus probable de ces symptômes ?\nA. Déséquilibre électrolytique\nB. Hypoxie cérébrale chronique\nC. Intoxication par les digitaliques\nD. Troubles digestifs",
+        "target_scores": {
+            "A. Déséquilibre électrolytique": 0,
+            "B. Hypoxie cérébrale chronique": 0,
+            "C. Intoxication par les digitaliques": 1,
+            "D. Troubles digestifs": 0
+        }
+    },
+    {
+        "input": "Un patient souffrant d'une « insuffisance cardiaque » est hospitalisé avec des symptômes de dyspnée, cyanose, impossibilité de s'allonger, œdème des membres inférieurs et anorexie. Il a également un antécédent de « constipation ». Quel est le problème prioritaire ?\nA. Altération de l'échange gazeux\nB. Constipation\nC. Déséquilibre nutritionnel, inférieur aux besoins du corps\nD. Risque de lésion de l'intégrité cutanée",
+        "target_scores": {
+            "A. Altération de l'échange gazeux": 1,
+            "B. Constipation": 0,
+            "C. Déséquilibre nutritionnel, inférieur aux besoins du corps": 0,
+            "D. Risque de lésion de l'intégrité cutanée": 0
+        }
+    },
+    {
+        "input": "Un patient de 52 ans, homme, souffre d'une hernie inguinale oblique incarcerated depuis 5 heures, avec des douleurs abdominales persistantes et des vomissements. L'examen révèle une douleur à la pression, une tension musculaire, une tuméfaction rouge et douloureuse de la hernie, et une impossibilité de réduction. Quel est le type pathologique ?\nA. Hernie coulissante\nB. Hernie irréductible\nC. Hernie réductible\nD. Hernie strrangulaire",
+        "target_scores": {
+            "A. Hernie coulissante": 0,
+            "B. Hernie irréductible": 0,
+            "C. Hernie réductible": 0,
+            "D. Hernie strrangulaire": 1
+        }
+    },
+    {
+        "input": "Un patient de 20 ans, homme, souffre d'une encéphalite japonaise et présente une insuffisance respiratoire centrale. Quelle solution doit être administrée immédiatement par perfusion intraveineuse ?\nA. 20% de mannitol\nB. Bicarbonate de sodium\nC. Norepinephrine\nD. Sérum physiologique",
+        "target_scores": {
+            "A. 20% de mannitol": 1,
+            "B. Bicarbonate de sodium": 0,
+            "C. Norepinephrine": 0,
+            "D. Sérum physiologique": 0
+        }
+    },
+    {
+        "input": "Une patiente de 45 ans souffre d'arthrite rhumatoïde depuis 12 ans. Trois jours plus tôt, elle a à nouveau ressenti des douleurs et des gonflements aux poignets. Parmi les examens suivants, quel indicateur suggère une exacerbation de la maladie ?\nA. Augmentation de la protéine C réactive\nB. Augmentation du liquide synovial dans la cavité articulaire\nC. L'examen radiologique des articulations montre une ostéoporose des extrémités articulaires\nD. Vitesse de sédimentation des érythrocytes faible",
+        "target_scores": {
+            "A. Augmentation de la protéine C réactive": 1,
+            "B. Augmentation du liquide synovial dans la cavité articulaire": 0,
+            "C. L'examen radiologique des articulations montre une ostéoporose des extrémités articulaires": 0,
+            "D. Vitesse de sédimentation des érythrocytes faible": 0
+        }
+    },
+    {
+        "input": "Un patient opéré d'une perforation d'appendicite aiguë et d'une péritonite a une température de 39 °C le troisième jour après l'opération, avec une augmentation du nombre de selles, une sensation d'urgence et un ténesme rectal, des selles muqueuses, sans douleur à la plaie et sans toux. Quelle complication est la plus probable ?\nA. Abcès pelvien\nB. Dysenterie bacillaire\nC. Entérite\nD. Infection de la cicatrice chirurgicale\n",
+        "target_scores": {
+            "A. Abcès pelvien": 1,
+            "B. Dysenterie bacillaire": 0,
+            "C. Entérite": 0,
+            "D. Infection de la cicatrice chirurgicale\n": 0
+        }
+    },
+    {
+        "input": "En cas de saignement digestif supérieur associé à une encéphalopathie hépatique due à une hypertension portale due à une hypertension portale, quelle mesure est la plus appropriée pour éliminer le sang intestinal et réduire la formation d'ammoniac ?\nA. Lavage intestinal au savon\nB. Lavage intestinal au sérum physiologique\nC. Lavage intestinal avec une solution faiblement acide\nD. Lavage intestinal avec une solution faiblement alcaline",
+        "target_scores": {
+            "A. Lavage intestinal au savon": 0,
+            "B. Lavage intestinal au sérum physiologique": 0,
+            "C. Lavage intestinal avec une solution faiblement acide": 1,
+            "D. Lavage intestinal avec une solution faiblement alcaline": 0
+        }
+    },
+    {
+        "input": "Un patient de 40 ans, mineur, a été enseveli pendant 6 heures lors d'un effondrement de galerie avant d'être sauvé. Il présente un gonflement marqué des cuisses et des fesses, avec une concentration en potassium sérique de 5,5 mmol/L, diagnostiqué comme une syndrome de compression. Pour surveiller d'éventuelles complications rénales, quel indicateur est le plus significatif ?\nA. Débit urinaire, sodium urinaire\nB. Hémorragie, infection\nC. Pression veineuse centrale\nD. Tension artérielle, fréquence cardiaque",
+        "target_scores": {
+            "A. Débit urinaire, sodium urinaire": 1,
+            "B. Hémorragie, infection": 0,
+            "C. Pression veineuse centrale": 0,
+            "D. Tension artérielle, fréquence cardiaque": 0
+        }
+    },
+    {
+        "input": "Une patiente de 38 ans a des douleurs intermittentes dans l'abdomen inférieur avec des diarrhées depuis 3 ans, avec 4 à 5 selles par jour, des selles purulentes et sanglantes, et une diminution de la douleur après la selle. Une coloscopie a révélé une congestion muqueuse, des érosions et de petites ulcérations superficielles. Quel est le diagnostic le plus probable pour cette patiente ?\nA. Colite ulcéreuse\n\nB. Dysbiose intestinale\nC. Dysenterie bacillaire\nD. Syndrome de l'intestin irritable",
+        "target_scores": {
+            "A. Colite ulcéreuse\n": 1,
+            "B. Dysbiose intestinale": 0,
+            "C. Dysenterie bacillaire": 0,
+            "D. Syndrome de l'intestin irritable": 0
+        }
+    },
+    {
+        "input": "Anne, 30 ans, a subi une gastrectomie partielle selon la méthode de Billroth II il y a 2 semaines. Après avoir mangé, elle ressent une satiété abdominale supérieure, des nausées, des vomissements, de la diarrhée et des vertiges 10 à 20 minutes après le repas. Quelle complication est possible ?\nA. Fistule à l'extrémité duodénale\nB. Obstruction de l'anastomose\nC. Obstruction de la boucle de sortie\nD. Syndrome de dumping",
+        "target_scores": {
+            "A. Fistule à l'extrémité duodénale": 0,
+            "B. Obstruction de l'anastomose": 0,
+            "C. Obstruction de la boucle de sortie": 0,
+            "D. Syndrome de dumping": 1
+        }
+    },
+    {
+        "input": "Un patient de 48 ans, homme, consulte pour une toux, une hémoptysie et une douleur thoracique droite depuis 3 semaines. Le diagnostic clinique et radiologique est un cancer bronchique central du lobe inférieur droit. Quel élément est le plus important à déterminer et à évaluer pour ce patient ?\nA. Comptage des cellules sanguines\nB. Qualité de vie\nC. Type histologique et stade\nD. État immunitaire",
+        "target_scores": {
+            "A. Comptage des cellules sanguines": 0,
+            "B. Qualité de vie": 0,
+            "C. Type histologique et stade": 1,
+            "D. État immunitaire": 0
+        }
+    },
+    {
+        "input": "Une patiente de 35 ans, souffrant de constipation chronique, a des douleurs intenses pendant et après les selles depuis deux mois, avec une légère hémorragie à la surface des selles. Quelle est la complication la plus probable ?\nA. Abcès péri-anal\nB. Fissure anale\nC. Hémorroïdes externes thrombosées\nD. Hémorroïdes internes",
+        "target_scores": {
+            "A. Abcès péri-anal": 0,
+            "B. Fissure anale": 1,
+            "C. Hémorroïdes externes thrombosées": 0,
+            "D. Hémorroïdes internes": 0
+        }
+    },
+    {
+        "input": "Anne, 40 ans, souffre d'urémie depuis 2 ans et a des nausées et des vomissements chaque matin depuis 3 jours. Quelle mesure de soins symptomatiques est correcte ?\nA. Boire de l'eau 1 à 2 fois avant de dormir le soir\nB. Manger un peu de collation avant de dormir\nC. Ne pas manger ni boire avant de dormir\nD. Prendre un antiémétique après s'être levé",
+        "target_scores": {
+            "A. Boire de l'eau 1 à 2 fois avant de dormir le soir": 0,
+            "B. Manger un peu de collation avant de dormir": 1,
+            "C. Ne pas manger ni boire avant de dormir": 0,
+            "D. Prendre un antiémétique après s'être levé": 0
+        }
+    },
+    {
+        "input": "Une patiente de 50 ans a des douleurs et des gonflements répétés des petites articulations des mains depuis 1 an, avec une rigidité matinale d'environ 1 heure. L'examen physique révèle des nodules sous-cutanés au niveau des articulations interphalangiennes proximales et distales des mains, avec une légère douleur à la pression, sans rougeur ni gonflement. La radiographie des mains montre un pincement des articulations interphalangiennes proximales et distales des doigts II, III et IV. Le RF est positif, et l'ESR et le CRP sont légèrement élevés. Quel est le diagnostic le plus probable pour cette patiente ?\nA. Arthrite rhumatoïde\nB. Arthrose\nC. Lupus érythémateux systémique\nD. Spondylarthrite ankylosante",
+        "target_scores": {
+            "A. Arthrite rhumatoïde": 1,
+            "B. Arthrose": 0,
+            "C. Lupus érythémateux systémique": 0,
+            "D. Spondylarthrite ankylosante": 0
+        }
+    },
+    {
+        "input": "Un patient de 50 ans, homme, fumeur et buveur invétéré, avec un antécédent de lithiase biliaire, a ressenti une douleur à l'abdomen supérieur gauche après une soirée de beuverie et de suralimentation. Quelle est la maladie la plus probable ?\nA. Cirrhose du foie\n\nB. Obstruction du canal biliaire\n\nC. Pancréatite aiguë\n\nD. Perforation de la vésicule biliaire",
+        "target_scores": {
+            "A. Cirrhose du foie\n": 0,
+            "B. Obstruction du canal biliaire\n": 0,
+            "C. Pancréatite aiguë\n": 1,
+            "D. Perforation de la vésicule biliaire": 0
+        }
+    },
+    {
+        "input": "Une patiente de 50 ans, souffrant de lithiase biliaire depuis de nombreuses années, a été hospitalisée il y a 3 jours pour une crise de douleur abdominale, des frissons, une fièvre élevée et une jaunisse. Le traitement par perfusion antibiotique n'a pas été efficace. Aujourd'hui, l'infirmière a constaté que la patiente était confuse et avait une tension artérielle de 85/60 mmHg. Quelle est la maladie la plus probable ?\nA. Cholangite obstructive purulente aiguë\nB. Cholecystite gangreneuse aiguë\n\nC. Infection par Ascaris du tractus biliaire\n\nD. Lithiase du canal biliaire commun\n",
+        "target_scores": {
+            "A. Cholangite obstructive purulente aiguë": 1,
+            "B. Cholecystite gangreneuse aiguë\n": 0,
+            "C. Infection par Ascaris du tractus biliaire\n": 0,
+            "D. Lithiase du canal biliaire commun\n": 0
+        }
+    },
+    {
+        "input": "Un patient de 20 ans, homme, qui a souvent des rhumes, a récemment des palpitations, ne peut pas s'allonger et a des œdèmes des membres inférieurs. L'examen physique révèle une légère congestion des veines jugulaires, une légère augmentation de la taille du cœur, une diminution du premier bruit cardiaque au foyer mitral, ainsi qu'un deuxième bruit cardiaque pathologique et un souffle cardiaque. Quel est le diagnostic le plus probable ?\nA. Effusion de liquide péricardique tuberculeuse\nB. Fièvre rhumatismale aiguë\nC. Insuffisance cardiaque coronaire\nD. Myocardite virale",
+        "target_scores": {
+            "A. Effusion de liquide péricardique tuberculeuse": 0,
+            "B. Fièvre rhumatismale aiguë": 0,
+            "C. Insuffisance cardiaque coronaire": 0,
+            "D. Myocardite virale": 1
+        }
+    },
+    {
+        "input": "Un patient de 65 ans, homme, avec une longue histoire d'hypertension artérielle, a eu une violente douleur de tête et des vomissements projectiles il y a 3 heures, après une agitation émotionnelle, suivis d'une perte de conscience. Il a été admis aux urgences pour observation. Quelle mesure de traitement est incorrecte ?\nA. Observer attentivement les changements des pupilles\n\nB. Position allongée avec la tête tournée sur le côté\nC. Tourner le patient fréquemment et à heure fixe\n\nD. Éliminer les vomissements en temps opportun\n",
+        "target_scores": {
+            "A. Observer attentivement les changements des pupilles\n": 0,
+            "B. Position allongée avec la tête tournée sur le côté": 0,
+            "C. Tourner le patient fréquemment et à heure fixe\n": 1,
+            "D. Éliminer les vomissements en temps opportun\n": 0
+        }
+    },
+    {
+        "input": "Un patient de 59 ans, homme, a une toux et des expectorations depuis 20 ans, aggravées depuis 10 jours, avec une somnolence depuis 1 jour, une cyanose marquée, une respiration superficielle et 10 fois/min, des râles secs et humides dans les deux poumons, une fréquence cardiaque de 110 bpm, une tension artérielle de 120/80 mmHg. L'analyse des gaz du sang montre une PaO₂ de 32 mmHg, une PaCO₂ de 80 mmHg et un pH de 7,293. Quelle est la mesure de sauvetage la plus importante ?\nA. Assistance respiratoire par ventilateur\n\nB. Perfusion intraveineuse de 5% de bicarbonate de sodium\n\nC. Perfusion intraveineuse de coramine\nD. Perfusion intraveineuse de dopamine\n",
+        "target_scores": {
+            "A. Assistance respiratoire par ventilateur\n": 1,
+            "B. Perfusion intraveineuse de 5% de bicarbonate de sodium\n": 0,
+            "C. Perfusion intraveineuse de coramine": 0,
+            "D. Perfusion intraveineuse de dopamine\n": 0
+        }
+    },
+    {
+        "input": "Un patient souffrant d'une obstruction intestinale chronique vomit de grandes quantités de liquide gastro-intestinal chaque jour depuis 10 jours. Il reçoit chaque jour 3000 ml de solution de glucose à 10% et 500 ml de solution saline de glucose à 5%. Le patient présente une confusion mentale, une ataxie, une agitation et un coma. Quelle complication doit être envisagée ?\nA. Coma hyperosmolaire non cétotique\nB. Hypokaliémie\nC. Intoxication hydrique\nD. Édème pulmonaire",
+        "target_scores": {
+            "A. Coma hyperosmolaire non cétotique": 0,
+            "B. Hypokaliémie": 0,
+            "C. Intoxication hydrique": 1,
+            "D. Édème pulmonaire": 0
+        }
+    },
+    {
+        "input": "Un patient de 42 ans, homme, a subi une ponction de la veine jugulaire interne pour la pose d'une sonde veineuse centrale. Il présente ensuite une oppression thoracique, une douleur thoracique, des difficultés respiratoires et une diminution des bruits respiratoires du côté affecté. Quelle complication doit être envisagée en premier ?\nA. Embolie gazeuse\nB. Lésion du canal thoracique\nC. Lésion vasculaire\nD. Pneumothorax",
+        "target_scores": {
+            "A. Embolie gazeuse": 0,
+            "B. Lésion du canal thoracique": 0,
+            "C. Lésion vasculaire": 0,
+            "D. Pneumothorax": 1
+        }
+    },
+    {
+        "input": "Un homme de 66 ans a une hernie inguinale droite. Il y a 10 heures, lors d'une selle difficile, il a ressenti une augmentation soudaine de la taille de la masse, des douleurs abdominales intenses, des vomissements répétés, ainsi que de la fièvre et une sensation de malaise général. L'examen physique révèle une masse palpable dans le canal inguinal droit et le scrotum, avec une tension élevée et une douleur à la pression, ainsi que des douleurs à la pression dans tout l'abdomen et une tension musculaire abdominale. Le comptage des leucocytes est nettement élevé. Une opération d'urgence est envisagée. Quel type de hernie est-ce ?\nA. Hernie inguinale directe, hernie incarcerated\nB. Hernie inguinale directe, hernie strangulée\nC. Hernie inguinale oblique, hernie incarcerated\nD. Hernie inguinale oblique, hernie strangulée",
+        "target_scores": {
+            "A. Hernie inguinale directe, hernie incarcerated": 0,
+            "B. Hernie inguinale directe, hernie strangulée": 0,
+            "C. Hernie inguinale oblique, hernie incarcerated": 0,
+            "D. Hernie inguinale oblique, hernie strangulée": 1
+        }
+    },
+    {
+        "input": "Une femme de 40 ans a un inconfort abdominal supérieur depuis 4 ans, avec une sensation de satiété après les repas et des renvois gazeux depuis 1 mois. Les tests sérologiques montrent des anticorps anti-parietaux négatifs. L'endoscopie gastrique révèle une muqueuse granuleuse avec des vaisseaux visibles. Quel est le diagnostic le plus probable pour cette patiente ?\nA. Gastrite atrophique multifocale\nB. Gastrite auto-immune\nC. Gastrite chronique superficielle\nD. Ulcère gastrique\n",
+        "target_scores": {
+            "A. Gastrite atrophique multifocale": 1,
+            "B. Gastrite auto-immune": 0,
+            "C. Gastrite chronique superficielle": 0,
+            "D. Ulcère gastrique\n": 0
+        }
+    },
+    {
+        "input": "Après une hépatectomie partielle, un drainage abdominal de plus de 100 ml d'un liquide sanguinolent par heure pendant 3 heures consécutives doit faire penser à ?\nA. Hypoprotéinémie\nB. Hémorragie biliaire\nC. Hémorragie intra-abdominale\nD. Infection abdominale",
+        "target_scores": {
+            "A. Hypoprotéinémie": 0,
+            "B. Hémorragie biliaire": 0,
+            "C. Hémorragie intra-abdominale": 1,
+            "D. Infection abdominale": 0
+        }
+    },
+    {
+        "input": "Une patiente a subi une appendicectomie sous anesthésie péridurale. Quatre heures après l'opération, elle est agitée et se plaint de distension abdominale. Sa tension artérielle, sa fréquence cardiaque et sa respiration sont normales. L'examen physique révèle une distension du bas-ventre avec une percussion sourde. Quelle complication doit être envisagée en premier ?\nA. Dilatation aiguë de l'estomac\nB. Obstruction intestinale\nC. Péritonite aiguë\nD. Rétention urinaire",
+        "target_scores": {
+            "A. Dilatation aiguë de l'estomac": 0,
+            "B. Obstruction intestinale": 0,
+            "C. Péritonite aiguë": 0,
+            "D. Rétention urinaire": 1
+        }
+    },
+    {
+        "input": "Un patient masculin, 25 heures après un choc traumatique, a vu sa tension artérielle revenir à la normale après une réanimation, mais il n'a toujours pas uriné, la vessie n'est pas gonflée et 100 ml d'urine ont été drainés par un cathéter urinaire. Pour déterminer s'il s'agit d'une insuffisance rénale aiguë, quelle est la meilleure investigation à réaliser ?\nA. Détermination du sodium urinaire\nB. Hémogramme\nC. Mesure de la pression veineuse centrale\nD. Test PSP",
+        "target_scores": {
+            "A. Détermination du sodium urinaire": 1,
+            "B. Hémogramme": 0,
+            "C. Mesure de la pression veineuse centrale": 0,
+            "D. Test PSP": 0
+        }
+    },
+    {
+        "input": "Adam, 48 ans, souffre de paraplégie et a une plaie de 2 cm × 15 cm au niveau du sacrum, atteignant la couche musculaire, avec des sécrétions purulentes et des tissus nécrosés noirs autour de la plaie. Comment devrait-on traiter cette plaie ?\nA. Exposer la plaie à des rayons ultraviolets une fois par jour\nB. Laver avec du sérum physiologique et recouvrir d'une membrane d'œuf fraîche\nC. Masser la plaie et les tissus environnants avec de l'éthanol à 10%\nD. Retirer les tissus nécrosés, laver avec du peroxyde d'hydrogène et placer une compresse drainante",
+        "target_scores": {
+            "A. Exposer la plaie à des rayons ultraviolets une fois par jour": 0,
+            "B. Laver avec du sérum physiologique et recouvrir d'une membrane d'œuf fraîche": 0,
+            "C. Masser la plaie et les tissus environnants avec de l'éthanol à 10%": 0,
+            "D. Retirer les tissus nécrosés, laver avec du peroxyde d'hydrogène et placer une compresse drainante": 1
+        }
+    },
+    {
+        "input": "Un patient de 55 ans, homme, a souffert de tuberculose il y a 20 ans. Depuis 4 mois, il a une toux irritative, des crachats hémoptoïques, des douleurs thoraciques droites et de la fièvre. La radiographie montre une ombre de 4 cm × 5 cm dans le lobe supérieur droit, avec des bords flous avec spiculations périphériques. Quel diagnostic doit être envisagé ?\nA. Cancer du poumon\nB. Kyste pulmonaire\nC. Tuberculose pulmonaire\nD. Tumeur bénigne du poumon",
+        "target_scores": {
+            "A. Cancer du poumon": 1,
+            "B. Kyste pulmonaire": 0,
+            "C. Tuberculose pulmonaire": 0,
+            "D. Tumeur bénigne du poumon": 0
+        }
+    },
+    {
+        "input": "Un homme de 58 ans a une toux, des expectorations et des sifflements depuis 3 ans, avec des épisodes de 3 mois chaque automne et hiver. Depuis 5 jours, après un rhume, la toux et les sifflements se sont aggravés avec de la fièvre, et des râles secs et humides sont audibles dans les poumons. Quel est le diagnostic le plus probable ?\nA. Bronchite chronique asthmatiforme (période d'exacerbation aiguë)\n\nB. Bronchite chronique asthmatiforme (période de phase chronique de rémission)\n\nC. Bronchite chronique simple (période d'exacerbation aiguë)\nD. Bronchite chronique simple (période de phase chronique de rémission)\n",
+        "target_scores": {
+            "A. Bronchite chronique asthmatiforme (période d'exacerbation aiguë)\n": 1,
+            "B. Bronchite chronique asthmatiforme (période de phase chronique de rémission)\n": 0,
+            "C. Bronchite chronique simple (période d'exacerbation aiguë)": 0,
+            "D. Bronchite chronique simple (période de phase chronique de rémission)\n": 0
+        }
+    },
+    {
+        "input": "Une patiente de 42 ans a subi une hémithyroïdectomie subtotale. Douze heures après l'opération, on constate un gonflement du cou et une respiration rapide. Que faut-il faire immédiatement ?\nA. Inhalation de vapeur\nB. Oxygénothérapie\nC. Retirer les points de suture et éliminer les caillots sanguins\nD. Trachéotomie",
+        "target_scores": {
+            "A. Inhalation de vapeur": 0,
+            "B. Oxygénothérapie": 0,
+            "C. Retirer les points de suture et éliminer les caillots sanguins": 1,
+            "D. Trachéotomie": 0
+        }
+    },
+    {
+        "input": "Lors du traitement d’une tumor par un accélérateur linéaire, une dermatite est survenue. Comment appelle-t-on cela ?\nA. Lésion chimique\n\nB. Lésion mécanique\n\nC. Lésion radiologique\nD. Lésion thermique\n",
+        "target_scores": {
+            "A. Lésion chimique\n": 0,
+            "B. Lésion mécanique\n": 0,
+            "C. Lésion radiologique": 1,
+            "D. Lésion thermique\n": 0
+        }
+    },
+    {
+        "input": "Une femme enceinte de 30 semaines a une présentation en siège. Quelle position peut être utilisée pour corriger la position du fœtus ?\nA. Position allongée sur le dos avec les genoux fléchis\nB. Position avec la tête basse et les pieds élevés\nC. Position genou-poitrine\nD. Position lithotomique",
+        "target_scores": {
+            "A. Position allongée sur le dos avec les genoux fléchis": 0,
+            "B. Position avec la tête basse et les pieds élevés": 0,
+            "C. Position genou-poitrine": 1,
+            "D. Position lithotomique": 0
+        }
+    },
+    {
+        "input": "Pour un patient avec une intoxication grave, quelle position doit être adoptée lors du lavage gastrique ?\nA. Position latérale droite\nB. Position latérale du côté atteint\nC. Position latérale gauche\nD. Position semi-assise",
+        "target_scores": {
+            "A. Position latérale droite": 0,
+            "B. Position latérale du côté atteint": 0,
+            "C. Position latérale gauche": 1,
+            "D. Position semi-assise": 0
+        }
+    },
+    {
+        "input": "Pour une dysenterie amibienne avec lésion au niveau de l'iléon terminal, quelle position peut être adoptée lors d'une lavement médicamenteux ?\nA. Position latérale droite, lavement conservateur\nB. Position latérale droite, lavement en grande quantité sans conservation\nC. Position latérale droite, lavement en petite quantité sans conservation\nD. Position latérale gauche, lavement conservateur",
+        "target_scores": {
+            "A. Position latérale droite, lavement conservateur": 1,
+            "B. Position latérale droite, lavement en grande quantité sans conservation": 0,
+            "C. Position latérale droite, lavement en petite quantité sans conservation": 0,
+            "D. Position latérale gauche, lavement conservateur": 0
+        }
+    },
+    {
+        "input": "Le but principal de la position assise pour un patient avec une insuffisance cardiaque gauche est de ?\nA. Dilater les vaisseaux coronariens pour améliorer la nutrition du myocarde\nB. Faire descendre le diaphragme pour réduire la pression sur le cœur\nC. Réduire le retour veineux des membres inférieurs pour alléger la charge cardiaque\nD. Élargir la cavité thoracique pour augmenter la capacité pulmonaire",
+        "target_scores": {
+            "A. Dilater les vaisseaux coronariens pour améliorer la nutrition du myocarde": 0,
+            "B. Faire descendre le diaphragme pour réduire la pression sur le cœur": 0,
+            "C. Réduire le retour veineux des membres inférieurs pour alléger la charge cardiaque": 0,
+            "D. Élargir la cavité thoracique pour augmenter la capacité pulmonaire": 1
+        }
+    },
+    {
+        "input": "Un patient a été admis aux urgences pour une rupture splénique suite à un accident de voiture. Il présente une oppression thoracique, une dyspnée, une sueur froide, un pouls rapide et filiforme, une tension artérielle de 9,1/6,7 Kpa. Quelle position doit être immédiatement adoptée par l'infirmière ?\nA.  Position de Trendelenburg modifiée\n\nB. Position allongée sur le dos\n\nC. Position avec la tête basse et les pieds élevés\n\nD. Position latérale",
+        "target_scores": {
+            "A.  Position de Trendelenburg modifiée\n": 1,
+            "B. Position allongée sur le dos\n": 0,
+            "C. Position avec la tête basse et les pieds élevés\n": 0,
+            "D. Position latérale": 0
+        }
+    },
+    {
+        "input": "Pour un patient alité de longue durée, des sécrétions respiratoires visqueuses et difficiles à expectorer peuvent provoquer ?\nA. Bronchite chronique\nB. Pneumonie de stase\nC. Pneumonie par aspiration\nD. Pneumothorax spontané",
+        "target_scores": {
+            "A. Bronchite chronique": 0,
+            "B. Pneumonie de stase": 1,
+            "C. Pneumonie par aspiration": 0,
+            "D. Pneumothorax spontané": 0
+        }
+    },
+    {
+        "input": "Un enfant de 3 ans est hospitalisé pour une fièvre élevée, des convulsions et de la diarrhée, diagnostiqué comme une \"dysenterie toxique\". Quelle est la méthode la plus appropriée pour mesurer la température corporelle de cet enfant ?\nA. Thermomètre infrarouge pour mesurer la température corporelle\nB. Thermomètre à mercure pour mesurer la température buccale\nC. Thermomètre à mercure pour mesurer la température rectale\nD. Thermomètre électronique pour mesurer la température axillaire",
+        "target_scores": {
+            "A. Thermomètre infrarouge pour mesurer la température corporelle": 0,
+            "B. Thermomètre à mercure pour mesurer la température buccale": 0,
+            "C. Thermomètre à mercure pour mesurer la température rectale": 0,
+            "D. Thermomètre électronique pour mesurer la température axillaire": 1
+        }
+    },
+    {
+        "input": "Une patiente de 43 ans est hospitalisée pour une \"cholecystite\". Elle va subir une cholangiographie. Quelle préparation de lit l’infirmière doit-elle choisir pour maintenir la chambre propre ?\nA. Lit de pré-anesthésie\nB. Lit de réserve\nC. Lit d’attente\nD. Lit opératoire",
+        "target_scores": {
+            "A. Lit de pré-anesthésie": 0,
+            "B. Lit de réserve": 0,
+            "C. Lit d’attente": 1,
+            "D. Lit opératoire": 0
+        }
+    },
+    {
+        "input": "Un patient se plaint d'une oppression thoracique, de difficultés respiratoires et de ne pas pouvoir s'allonger. On observe que le temps d'expiration est plus long que celui de l'inspiration, avec des difficultés respiratoires, sans signe de tirage. Quelle est la cause probable de cette respiration ?\nA. Acidose métabolique\nB. Crise d'asthme\nC. Pneumonie lobaire\nD. Œdème laryngé",
+        "target_scores": {
+            "A. Acidose métabolique": 0,
+            "B. Crise d'asthme": 1,
+            "C. Pneumonie lobaire": 0,
+            "D. Œdème laryngé": 0
+        }
+    },
+    {
+        "input": "Un patient de 18 ans, homme, a une douleur abdominale intense après un exercice intense postprandial, avec des vomissements et une irradiation des douleurs vers le dos. Il est admis aux urgences. Quelle complication est fréquente pour cette maladie ?\nA. Obstruction intestinale adhésive\nB. Obstruction intestinale simple\n\nC. Obstruction intestinale spasmodique\n\nD. Obstruction intestinale strangulée\n",
+        "target_scores": {
+            "A. Obstruction intestinale adhésive": 0,
+            "B. Obstruction intestinale simple\n": 0,
+            "C. Obstruction intestinale spasmodique\n": 0,
+            "D. Obstruction intestinale strangulée\n": 1
+        }
+    },
+    {
+        "input": "Un patient de 18 ans, homme, a une douleur abdominale intense après un exercice intense postprandial, avec des vomissements et une irradiation des douleurs vers le dos. Il est admis aux urgences. Quel est le diagnostic le plus probable ?\nA. Adhésion intestinale\nB. Intussusception intestinale\nC. Tumeur intestinale\nD. Volvolus intestinal",
+        "target_scores": {
+            "A. Adhésion intestinale": 0,
+            "B. Intussusception intestinale": 0,
+            "C. Tumeur intestinale": 0,
+            "D. Volvolus intestinal": 1
+        }
+    },
+    {
+        "input": "Un patient de 45 ans, homme, a été opéré pour une appendicite aiguë il y a une semaine. Lors de l'opération, une hémorragie de la mésentère appendiculaire a été traitée par ligature, ce qui a provoqué une ischémie de l'extrémité de l'iléon. Une résection partielle de l'iléon avec anastomose a été réalisée, ainsi qu'une drainage abdominal. Le patient a une production quotidienne d'environ 200 ml de liquide sanguinolent. Actuellement, il se plaint de distension abdominale. L'examen physique révèle une distension abdominale, une douleur à la pression du côté droit, aucun masse palpable, des bruits d'intestin faibles, une tension artérielle de 16/11 kPa, une fréquence cardiaque de 120 bpm, un comptage de leucocytes de 12×10⁹/L avec 80% de neutrophiles. Quel est le diagnostic le plus probable pour ce patient ?\nA. Obstruction intestinale adhésive\nB. Obstruction intestinale strangulée\nC. Paralysie intestinale\nD. Sténose de l'anastomose",
+        "target_scores": {
+            "A. Obstruction intestinale adhésive": 0,
+            "B. Obstruction intestinale strangulée": 0,
+            "C. Paralysie intestinale": 1,
+            "D. Sténose de l'anastomose": 0
+        }
+    },
+    {
+        "input": "Un patient de 45 ans, homme, a été opéré pour une appendicite aiguë il y a une semaine. Lors de l'opération, une hémorragie de la mésentère appendiculaire a été traitée par ligature, ce qui a provoqué une ischémie de l'extrémité de l'iléon. Une résection partielle de l'iléon avec anastomose a été réalisée, ainsi qu'un drainage abdominal. Le patient a une production quotidienne d'environ 200 ml de liquide sanguinolent. Actuellement, il se plaint de distension abdominale. L'examen physique révèle une distension abdominale, une douleur à la pression du côté droit, aucune masse palpable, des bruits d'intestin faibles, une tension artérielle de 16/11 kPa, une fréquence cardiaque de 120 bpm, un comptage de leucocytes de 12×10⁹/L avec 80% de neutrophiles. Pour établir un diagnostic précis, quel examen doit être réalisé ?\nA. Coloscopie\nB. Radiographie abdominale\nC. Scanner abdominal\nD. Échographie abdominale",
+        "target_scores": {
+            "A. Coloscopie": 0,
+            "B. Radiographie abdominale": 1,
+            "C. Scanner abdominal": 0,
+            "D. Échographie abdominale": 0
+        }
+    },
+    {
+        "input": "Un enfant de 6 ans, garçon, a été brûlé par de l'eau bouillante au niveau du thorax et de l'abdomen, avec formation de vésicules et des douleurs intenses. Quelle est la profondeur de la brûlure ?\nA. Degré I\nB. Degré II profond\nC. Degré II superficiel\nD. Profondeur en transition entre les degrés II et III",
+        "target_scores": {
+            "A. Degré I": 0,
+            "B. Degré II profond": 0,
+            "C. Degré II superficiel": 1,
+            "D. Profondeur en transition entre les degrés II et III": 0
+        }
+    },
+    {
+        "input": "Pour un patient ayant subi une pneumonectomie, la vitesse d'infusion doit être contrôlée à ?\nA. Pas plus de 1000 ml/jour, 15 à 20 gouttes/minute\nB. Pas plus de 1500 ml/jour, 20 à 30 gouttes/minute\nC. Pas plus de 2000 ml/jour, 20 à 30 gouttes/minute\nD. Pas plus de 2500 ml/jour, 30 à 40 gouttes/minute",
+        "target_scores": {
+            "A. Pas plus de 1000 ml/jour, 15 à 20 gouttes/minute": 0,
+            "B. Pas plus de 1500 ml/jour, 20 à 30 gouttes/minute": 0,
+            "C. Pas plus de 2000 ml/jour, 20 à 30 gouttes/minute": 1,
+            "D. Pas plus de 2500 ml/jour, 30 à 40 gouttes/minute": 0
+        }
+    }
+]

@@ -1,0 +1,893 @@
+[
+    {
+        "input": "Wenn das Buch Mathematische Prinzipien der Naturphilosophie nicht erschienen wäre, welche Krankheit hätte Isaac Newton 1693 nicht bekommen können?\nA. Empfindungsstörung.\nB. Katzenpest.\nC. Neurasthenie.\nD. Rinderwahn.",
+        "target_scores": {
+            "A. Empfindungsstörung.": 0,
+            "B. Katzenpest.": 0,
+            "C. Neurasthenie.": 1,
+            "D. Rinderwahn.": 0
+        }
+    },
+    {
+        "input": "Wenn Francis Bacon 1582 die ärztliche Zulassung erhalten hätte, was hätte er sieben Jahre später wahrscheinlich nicht erreichen können?\nA. Er hätte nicht als Gerichtsschreiber eingesetzt werden können.\nB. Er hätte nicht im Tower of London eingesperrt werden können.\nC. Er hätte nicht wegen Bestechung angeklagt werden können.\nD. Er hätte nicht zum Präsidenten des Gerichtshofs gewählt werden können.",
+        "target_scores": {
+            "A. Er hätte nicht als Gerichtsschreiber eingesetzt werden können.": 1,
+            "B. Er hätte nicht im Tower of London eingesperrt werden können.": 0,
+            "C. Er hätte nicht wegen Bestechung angeklagt werden können.": 0,
+            "D. Er hätte nicht zum Präsidenten des Gerichtshofs gewählt werden können.": 0
+        }
+    },
+    {
+        "input": "Wenn Antoine-Laurent de Lavoisier 1761 an der Universität Paris das Rechtsstudium aufgenommen und sich nach Erwerb der Anwaltszulassung ausschließlich der Rechtslaufbahn gewidmet hätte, was hätte er im Alter von 34 Jahren nicht erreichen können?\nA. Er hätte 100 Gerichtsprozesse in Folge nicht gewinnen können.\nB. Er hätte die Phlogistonstheorie nicht vollständig widerlegen können.\nC. Er hätte keine Mineraluntersuchung in der Region Elsaß-Lothringen mit Jean-Étienne Guettard durchführen können.\nD. Er hätte nicht als Mitglied der Akademie der Wissenschaften gewählt werden können.",
+        "target_scores": {
+            "A. Er hätte 100 Gerichtsprozesse in Folge nicht gewinnen können.": 0,
+            "B. Er hätte die Phlogistonstheorie nicht vollständig widerlegen können.": 1,
+            "C. Er hätte keine Mineraluntersuchung in der Region Elsaß-Lothringen mit Jean-Étienne Guettard durchführen können.": 0,
+            "D. Er hätte nicht als Mitglied der Akademie der Wissenschaften gewählt werden können.": 0
+        }
+    },
+    {
+        "input": "Wenn William Herschel ab 1773 primär an geografischer Vermessung interessiert gewesen wäre, welche Leistung hätte er dann acht Jahre später nicht erzielt?\nA. Er hätte Caroline kein Teleskop geschenkt.\nB. Er hätte den Planeten Uranus nicht entdeckt.\nC. Er hätte kein selbstgebautes Teleskop konstruiert.\nD. Er hätte keine Orgel gespielt.",
+        "target_scores": {
+            "A. Er hätte Caroline kein Teleskop geschenkt.": 0,
+            "B. Er hätte den Planeten Uranus nicht entdeckt.": 1,
+            "C. Er hätte kein selbstgebautes Teleskop konstruiert.": 0,
+            "D. Er hätte keine Orgel gespielt.": 0
+        }
+    },
+    {
+        "input": "Wenn William Herschel 1783 Caroline kein Teleskop geschenkt und sie nicht zur astronomischen Beobachtung ermutigt hätte, was hätte Caroline 45 Jahre später nicht getan?\nA. Sie hätte die detaillierten Sternpositionen im Flamsteeds Sternkatalog nicht aktualisiert und korrigiert.\nB. Sie hätte nicht 8 Kometen und 11 Nebel entdeckt und beobachtet.\nC. Sie hätte nicht die Anerkennung der Royal Astronomical Society erhalten.\nD. Sie wäre nicht nach Clay-Hall in Alt-Windsor gezogen.",
+        "target_scores": {
+            "A. Sie hätte die detaillierten Sternpositionen im Flamsteeds Sternkatalog nicht aktualisiert und korrigiert.": 0,
+            "B. Sie hätte nicht 8 Kometen und 11 Nebel entdeckt und beobachtet.": 0,
+            "C. Sie hätte nicht die Anerkennung der Royal Astronomical Society erhalten.": 1,
+            "D. Sie wäre nicht nach Clay-Hall in Alt-Windsor gezogen.": 0
+        }
+    },
+    {
+        "input": "Wenn Napoleon Bonaparte 1799 ermordet worden wäre, was hätte im Juni des folgenden Jahres nicht passieren können?\nA. Die Juni-Revolution hätte nicht stattfinden können.\nB. Die Pariser Revolution hätte nicht erneut ausbrechen können.\nC. Er hätte die Konsulat-Staatsform nicht etablieren können.\nD. Napoleon hätte die Schlacht von Marengo nicht gewinnen können.",
+        "target_scores": {
+            "A. Die Juni-Revolution hätte nicht stattfinden können.": 0,
+            "B. Die Pariser Revolution hätte nicht erneut ausbrechen können.": 0,
+            "C. Er hätte die Konsulat-Staatsform nicht etablieren können.": 0,
+            "D. Napoleon hätte die Schlacht von Marengo nicht gewinnen können.": 1
+        }
+    },
+    {
+        "input": "Wenn Simón Bolívars Ehefrau im Januar 1803 nicht an einer Tropenkrankheit gestorben wäre, was hätte am 2. Dezember des folgenden Jahres wahrscheinlich nicht passieren können?\nA. Andrés Bello hätte Simón Bolívar nicht Literatur und Geographie unterrichten können.\nB. Er hätte an Napoleons Krönung am 2. Dezember 1804 nicht teilnehmen können.\nC. Er hätte keinen Kontakt mit dem Marqués de Ustariz aufnehmen können.\nD. Er hätte nicht in Spanien Französisch lernen können.",
+        "target_scores": {
+            "A. Andrés Bello hätte Simón Bolívar nicht Literatur und Geographie unterrichten können.": 0,
+            "B. Er hätte an Napoleons Krönung am 2. Dezember 1804 nicht teilnehmen können.": 1,
+            "C. Er hätte keinen Kontakt mit dem Marqués de Ustariz aufnehmen können.": 0,
+            "D. Er hätte nicht in Spanien Französisch lernen können.": 0
+        }
+    },
+    {
+        "input": "Wenn König Karl IV. von Spanien 1808 von Militär und Zivilbevölkerung verehrt worden wäre, was hätte Napoleon wenige Monate später nicht getan?\nA. Er hätte Ferdinand VII. nicht zum Rücktritt zwingen können.\nB. Er hätte die Krone nicht selbst auf sich und seine Gattin Josephine setzen können.\nC. Er hätte nicht gegen Preußen militärisch vorgehen können.\nD. Er hätte sich nicht mit Zaren Alexander I. von Russland treffen können.",
+        "target_scores": {
+            "A. Er hätte Ferdinand VII. nicht zum Rücktritt zwingen können.": 1,
+            "B. Er hätte die Krone nicht selbst auf sich und seine Gattin Josephine setzen können.": 0,
+            "C. Er hätte nicht gegen Preußen militärisch vorgehen können.": 0,
+            "D. Er hätte sich nicht mit Zaren Alexander I. von Russland treffen können.": 0
+        }
+    },
+    {
+        "input": "An welchem Fach hätte Edison im Jahr 1857 kein Interesse haben müssen, damit er zwei Jahre später vermutlich nicht begonnen hätte, einen Job zu suchen, um Geld für Medikamente und Geräte zu verdienen?\nA. Chemie.\nB. Landwirtschaft.\nC. Literatur.\nD. Mathematik.",
+        "target_scores": {
+            "A. Chemie.": 1,
+            "B. Landwirtschaft.": 0,
+            "C. Literatur.": 0,
+            "D. Mathematik.": 0
+        }
+    },
+    {
+        "input": "Wenn Thomas Edison einen Jungen am 8. August 1862 nicht auf der Eisenbahnstrecke gerettet hätte, welche Technik hätte er in jenem Jahr nicht erlernt?\nA. Drucktechnik.\nB. Magie.\nC. Papierherstellung.\nD. Telegraphie.",
+        "target_scores": {
+            "A. Drucktechnik.": 0,
+            "B. Magie.": 0,
+            "C. Papierherstellung.": 0,
+            "D. Telegraphie.": 1
+        }
+    },
+    {
+        "input": "Wenn Thomas Edison 1870 beim Verkauf des Patents für seine Universal-Druckmaschine nur den erhofften Preis erhalten hätte, was hätte er anschließend in Newark nicht gemacht?\nA. Er hätte kein Gold angelegt.\nB. Er hätte kein Haus gekauft.\nC. Er hätte keine Aktien gekauft.\nD. Er hätte keine Fabrik in Newark gegründet.",
+        "target_scores": {
+            "A. Er hätte kein Gold angelegt.": 0,
+            "B. Er hätte kein Haus gekauft.": 0,
+            "C. Er hätte keine Aktien gekauft.": 0,
+            "D. Er hätte keine Fabrik in Newark gegründet.": 1
+        }
+    },
+    {
+        "input": "Wenn Sigmund Freud im Herbst 1873 hätte nicht die Medizin an der Universität Wien studieren können, was hätte 1885 wahrscheinlich nicht passieren können?\nA. Er hätte nicht als stellvertretender Arzt in einer psychiatrischen Klinik arbeiten können.\nB. Er hätte nicht den Doktorgrad in Medizin erwerben können.\nC. Er hätte nicht in das Allgemeine Krankenhaus Wien aufgenommen werden können.\nD. Er hätte nicht zum Dozenten für Nervenpathologie an der Medizinischen Fakultät der Universität Wien ernannt werden können.",
+        "target_scores": {
+            "A. Er hätte nicht als stellvertretender Arzt in einer psychiatrischen Klinik arbeiten können.": 0,
+            "B. Er hätte nicht den Doktorgrad in Medizin erwerben können.": 0,
+            "C. Er hätte nicht in das Allgemeine Krankenhaus Wien aufgenommen werden können.": 0,
+            "D. Er hätte nicht zum Dozenten für Nervenpathologie an der Medizinischen Fakultät der Universität Wien ernannt werden können.": 1
+        }
+    },
+    {
+        "input": "Wenn Max Planck 1874 an der Ludwig-Maximilians-Universität München Mathematik studiert hätte und nie in ein anderes Fach gewechselt wäre, was hätte er im Februar fünf Jahre später nicht getan?\nA. Er hätte die Habilitationsprüfung nicht bestehen können.\nB. Er hätte die Vorlesungsunterlagen von Rudolf Clausius nicht selbstständig studieren können.\nC. Er hätte nicht von Mathematik zu Physik gewechselt können.\nD. Er hätte seine Dissertation Über den zweiten Hauptsatz der Thermodynamik nicht einreichen können.",
+        "target_scores": {
+            "A. Er hätte die Habilitationsprüfung nicht bestehen können.": 0,
+            "B. Er hätte die Vorlesungsunterlagen von Rudolf Clausius nicht selbstständig studieren können.": 0,
+            "C. Er hätte nicht von Mathematik zu Physik gewechselt können.": 0,
+            "D. Er hätte seine Dissertation Über den zweiten Hauptsatz der Thermodynamik nicht einreichen können.": 1
+        }
+    },
+    {
+        "input": "Wenn Sigmund Freud 1884 keine Begegnung mit Josef Breuer gehabt hätte, was hätte er im Sommer fünf Jahre später wahrscheinlich nicht getan?\nA. Er hätte den Begriff „Psychoanalyse“ nicht erstmals verwendet.\nB. Er hätte nicht als Nervenarzt in Privatpraxis tätig werden können.\nC. Er hätte nicht das Salpêtrière-Krankenhaus in Paris aufgesucht, um bei Jean-Martin Charcot zu studieren.\nD. Er hätte nicht nach Nancy in Frankreich gereist, um bei Hippolyte Bernheim zu lernen.",
+        "target_scores": {
+            "A. Er hätte den Begriff „Psychoanalyse“ nicht erstmals verwendet.": 0,
+            "B. Er hätte nicht als Nervenarzt in Privatpraxis tätig werden können.": 0,
+            "C. Er hätte nicht das Salpêtrière-Krankenhaus in Paris aufgesucht, um bei Jean-Martin Charcot zu studieren.": 0,
+            "D. Er hätte nicht nach Nancy in Frankreich gereist, um bei Hippolyte Bernheim zu lernen.": 1
+        }
+    },
+    {
+        "input": "Wenn Sun Yat-sen im Juni 1894 nicht die Korruption der Qing-Regierungsbeamten bemerkt hätte, was wäre am siebtletzten Tag im November nicht passiert?\nA. Er hätte die Xingzhonghui (Revolutionsgesellschaft) in Honolulu nicht gegründet.\nB. Er hätte nicht in Hongkong Medizin studieren können.\nC. Er hätte seine Schrift The International Development of China nicht fertigstellen können.\nD. Er wäre nicht mit seiner Mutter nach Honolulu gereist.",
+        "target_scores": {
+            "A. Er hätte die Xingzhonghui (Revolutionsgesellschaft) in Honolulu nicht gegründet.": 1,
+            "B. Er hätte nicht in Hongkong Medizin studieren können.": 0,
+            "C. Er hätte seine Schrift The International Development of China nicht fertigstellen können.": 0,
+            "D. Er wäre nicht mit seiner Mutter nach Honolulu gereist.": 0
+        }
+    },
+    {
+        "input": "Wenn der 18-jährige Gauss nicht erfolgreich an die Universität Göttingen gekommen wäre, welche Errungenschaften hätte er möglicherweise ein Jahr später nicht erzielt?\nA. Er hätte nicht an der Georg-August-Universität Göttingen weiter studiert.\nB. Er hätte nicht beweisen können, dass ein regelmäßiges 16-Eck mit Zirkel und Lineal konstruiert werden kann.\nC. Er hätte nicht beweisen können, dass ein regelmäßiges 17-Eck mit Zirkel und Lineal konstruiert werden kann.\nD. Er wäre möglicherweise nicht Professor an der Universität Göttingen geworden.",
+        "target_scores": {
+            "A. Er hätte nicht an der Georg-August-Universität Göttingen weiter studiert.": 0,
+            "B. Er hätte nicht beweisen können, dass ein regelmäßiges 16-Eck mit Zirkel und Lineal konstruiert werden kann.": 0,
+            "C. Er hätte nicht beweisen können, dass ein regelmäßiges 17-Eck mit Zirkel und Lineal konstruiert werden kann.": 1,
+            "D. Er wäre möglicherweise nicht Professor an der Universität Göttingen geworden.": 0
+        }
+    },
+    {
+        "input": "Wenn das Thermometer erst im Jahr 1900 erfunden worden wäre, was hätte William Herschel hundert Jahre zuvor nicht erreichen können?\nA. Er hätte die Infrarotstrahlung der Sonne nicht entdeckt.\nB. Er hätte keine Mondkrater benannt.\nC. Er hätte nicht über 400 Teleskope gebaut.\nD. Er wäre nicht im Observatorium in Slough verstorben.",
+        "target_scores": {
+            "A. Er hätte die Infrarotstrahlung der Sonne nicht entdeckt.": 1,
+            "B. Er hätte keine Mondkrater benannt.": 0,
+            "C. Er hätte nicht über 400 Teleskope gebaut.": 0,
+            "D. Er wäre nicht im Observatorium in Slough verstorben.": 0
+        }
+    },
+    {
+        "input": "Wenn Werner Heisenberg am 5. Dezember 1901 in den Vereinigten Staaten geboren wäre, was hätte er 19 Jahre später wahrscheinlich nicht getan?\nA. Er hätte das Manhattan-Projekt nicht leiten und mitgestalten können.\nB. Er hätte den Nobelpreis für Physik 1932 nicht erhalten können.\nC. Er hätte nicht Präsident der Humboldt-Stiftung werden können.\nD. Er hätte nicht an der Universität München studieren können.",
+        "target_scores": {
+            "A. Er hätte das Manhattan-Projekt nicht leiten und mitgestalten können.": 0,
+            "B. Er hätte den Nobelpreis für Physik 1932 nicht erhalten können.": 0,
+            "C. Er hätte nicht Präsident der Humboldt-Stiftung werden können.": 0,
+            "D. Er hätte nicht an der Universität München studieren können.": 1
+        }
+    },
+    {
+        "input": "Wenn Xu Beihong 1907 aufgrund von Muskelschwäche nie wieder einen Pinsel halten könnte, was hätte ein Jahr später während seiner Obdachlosigkeit nicht passieren können?\nA. Er hätte keine Honorare von der Mingzhi-Universität erhalten und sich nicht in Japan für Malerei weiterbilden können.\nB. Er hätte nicht die Angewohnheit entwickelt, den Pinsel nie aus der Hand zu legen.\nC. Er hätte nicht in die Zhendan Universität aufgenommen werden können, um Französisch zu studieren und in seiner Freizeit weiter zu malen.\nD. Er hätte nicht zu Hause krank liegen bleiben können, ohne auszugehen.",
+        "target_scores": {
+            "A. Er hätte keine Honorare von der Mingzhi-Universität erhalten und sich nicht in Japan für Malerei weiterbilden können.": 0,
+            "B. Er hätte nicht die Angewohnheit entwickelt, den Pinsel nie aus der Hand zu legen.": 1,
+            "C. Er hätte nicht in die Zhendan Universität aufgenommen werden können, um Französisch zu studieren und in seiner Freizeit weiter zu malen.": 0,
+            "D. Er hätte nicht zu Hause krank liegen bleiben können, ohne auszugehen.": 0
+        }
+    },
+    {
+        "input": "Wenn Alexander Fleming 1918 vollständig erblindet wäre, was hätte er vier Jahre später nicht erreichen können?\nA. Die Post hätte keine Gedenkmarke für Fleming's 100. Geburtstag herausbringen können.\nB. Er hätte das Lysozym nicht entdecken können.\nC. Er hätte nicht die Methode zur Massenproduktion von Penicillin finden können.\nD. Er hätte nicht zurück zur St. Mary's Hospital Medical School gehen können.",
+        "target_scores": {
+            "A. Die Post hätte keine Gedenkmarke für Fleming's 100. Geburtstag herausbringen können.": 0,
+            "B. Er hätte das Lysozym nicht entdecken können.": 1,
+            "C. Er hätte nicht die Methode zur Massenproduktion von Penicillin finden können.": 0,
+            "D. Er hätte nicht zurück zur St. Mary's Hospital Medical School gehen können.": 0
+        }
+    },
+    {
+        "input": "Wenn Enrico Fermi sich ab 1918 ausschließlich der Mathematik gewidmet hätte, welche Lebenserfahrung hätte er im Dezember 1938 möglicherweise nicht gemacht?\nA. Er hätte nicht als Physikprofessor an der Universität Chicago gedient.\nB. Er hätte nicht mit seiner Familie das Land verlassen, um den Nobelpreis entgegenzunehmen.\nC. Er wäre nicht US-Bürger geworden.\nD. Er wäre nicht von Los Alamos nach Chicago gezogen.",
+        "target_scores": {
+            "A. Er hätte nicht als Physikprofessor an der Universität Chicago gedient.": 0,
+            "B. Er hätte nicht mit seiner Familie das Land verlassen, um den Nobelpreis entgegenzunehmen.": 1,
+            "C. Er wäre nicht US-Bürger geworden.": 0,
+            "D. Er wäre nicht von Los Alamos nach Chicago gezogen.": 0
+        }
+    },
+    {
+        "input": "Wenn Enrico Fermi 1922 als letzter im Jahrgang bestanden hätte, was hätte er im folgenden Jahr wahrscheinlich nicht erreichen können?\nA. Er hätte das italienische Regierungsstipendium nicht erhalten können, um nach Deutschland zu reisen.\nB. Er hätte den Doktorgrad in Physik nicht erwerben können.\nC. Er hätte nicht am Leiden-Institut in den Niederlanden arbeiten können.\nD. Er hätte nicht von der Scuola Normale Superiore di Pisa absolvieren können.",
+        "target_scores": {
+            "A. Er hätte das italienische Regierungsstipendium nicht erhalten können, um nach Deutschland zu reisen.": 1,
+            "B. Er hätte den Doktorgrad in Physik nicht erwerben können.": 0,
+            "C. Er hätte nicht am Leiden-Institut in den Niederlanden arbeiten können.": 0,
+            "D. Er hätte nicht von der Scuola Normale Superiore di Pisa absolvieren können.": 0
+        }
+    },
+    {
+        "input": "Wenn Fleming im Jahr 1929 nicht darauf hingewiesen hätte, dass Penicillin wichtige Verwendungen haben würde, was hätte 16 Jahre später vermutlich nicht stattgefunden?\nA. Die Entdeckung von Artemisinin wäre nicht erfolgt.\nB. Es wäre nicht zur Ausgabe von Gedenkbriefmarken anlässlich von Flemings 100. Geburtstag gekommen.\nC. Fleming hätte seine Forschungsarbeit Über die bakterizide Wirkung von Schimmelpilzkulturen nicht veröffentlicht.\nD. Fleming, Florey und Chain hätten gemeinsam nicht den Nobelpreis für Physiologie oder Medizin erhalten.",
+        "target_scores": {
+            "A. Die Entdeckung von Artemisinin wäre nicht erfolgt.": 0,
+            "B. Es wäre nicht zur Ausgabe von Gedenkbriefmarken anlässlich von Flemings 100. Geburtstag gekommen.": 0,
+            "C. Fleming hätte seine Forschungsarbeit Über die bakterizide Wirkung von Schimmelpilzkulturen nicht veröffentlicht.": 0,
+            "D. Fleming, Florey und Chain hätten gemeinsam nicht den Nobelpreis für Physiologie oder Medizin erhalten.": 1
+        }
+    },
+    {
+        "input": "Wenn Einstein am 11. Dezember 1930 nicht zum ersten Mal in die USA gereist wäre, was hätte er zwei Tage später vermutlich nicht erfahren?\nA. Er hätte keinen goldenen Löffel als Geschenk erhalten.\nB. Er hätte keinen goldenen Schlüssel als Geschenk erhalten.\nC. Er hätte sich nicht selbst das Studium der euklidischen Geometrie angeeignet.\nD. Er wäre nicht mit seinen Eltern nach München gezogen.",
+        "target_scores": {
+            "A. Er hätte keinen goldenen Löffel als Geschenk erhalten.": 0,
+            "B. Er hätte keinen goldenen Schlüssel als Geschenk erhalten.": 1,
+            "C. Er hätte sich nicht selbst das Studium der euklidischen Geometrie angeeignet.": 0,
+            "D. Er wäre nicht mit seinen Eltern nach München gezogen.": 0
+        }
+    },
+    {
+        "input": "Wenn Shannon in seiner Masterarbeit nicht die Themen Boolesche Algebra und Relais behandelt hätte, welche folgende Auszeichnung hätte er drei Jahre später möglicherweise nicht erhalten:\nA. Amerikanischer Ingenieurpreis der Alfred Noble Gesellschaft\nB. Deutscher Ingenieurpreis der Qlfred Noble Gesellschaft\nC. National Medal of Science der Vereinigten Staaten\nD. Shannon-Preis",
+        "target_scores": {
+            "A. Amerikanischer Ingenieurpreis der Alfred Noble Gesellschaft": 1,
+            "B. Deutscher Ingenieurpreis der Qlfred Noble Gesellschaft": 0,
+            "C. National Medal of Science der Vereinigten Staaten": 0,
+            "D. Shannon-Preis": 0
+        }
+    },
+    {
+        "input": "Wenn Microsoft vor dem 21. Jahrhundert keine Betriebssysteme und Bürosoftware entwickelt hätte, welche der folgenden Situationen wäre in der Computerbranche möglicherweise nicht eingetreten?\nA. Bill Gates und Paul Allen trafen sich in der High School.\nB. Die Fotolithografie wurde erfunden.\nC. Lineare Algebra wurde ein Pflichtkurs an Hochschulen.\nD. Windows und Microsoft Office hätten in ihren jeweiligen Bereichen keine dominierende Stellung erreicht.",
+        "target_scores": {
+            "A. Bill Gates und Paul Allen trafen sich in der High School.": 0,
+            "B. Die Fotolithografie wurde erfunden.": 0,
+            "C. Lineare Algebra wurde ein Pflichtkurs an Hochschulen.": 0,
+            "D. Windows und Microsoft Office hätten in ihren jeweiligen Bereichen keine dominierende Stellung erreicht.": 1
+        }
+    },
+    {
+        "input": "Wenn Thomas Edison niemals Eifersucht auf andere empfunden hätte, welche Firma wäre 1886 nicht gegründet worden?\nA. ExxonMobil.\nB. General Electric Company.\nC. J.P. Morgan & Co.\nD. Tesla Electric Light & Manufacturing Company.",
+        "target_scores": {
+            "A. ExxonMobil.": 0,
+            "B. General Electric Company.": 0,
+            "C. J.P. Morgan & Co.": 0,
+            "D. Tesla Electric Light & Manufacturing Company.": 1
+        }
+    },
+    {
+        "input": "Wenn niemand Thomas Edison beim Erfinden des Stimmzählungsgeräts gesagt hätte, dass langsames Stimmen politisch motiviert sei, welche Errungenschaft hätte er elf Jahre später nicht erreicht?\nA. Er hätte das Telefon, das ursprünglich von Alexander Graham Bell erfunden wurde, nicht verbessert.\nB. Er hätte die weltweit erste praxistaugliche elektrische Glühlampe nicht entwickelt.\nC. Er hätte sich nicht mit der Entwicklung des synchronen Telegrammgeräts beschäftigt.\nD. Er hätte zwar eine elektrische Glühlampe entwickelt, aber sie hätte keine breite Praxistauglichkeit gehabt.",
+        "target_scores": {
+            "A. Er hätte das Telefon, das ursprünglich von Alexander Graham Bell erfunden wurde, nicht verbessert.": 0,
+            "B. Er hätte die weltweit erste praxistaugliche elektrische Glühlampe nicht entwickelt.": 1,
+            "C. Er hätte sich nicht mit der Entwicklung des synchronen Telegrammgeräts beschäftigt.": 0,
+            "D. Er hätte zwar eine elektrische Glühlampe entwickelt, aber sie hätte keine breite Praxistauglichkeit gehabt.": 0
+        }
+    },
+    {
+        "input": "Wenn Thomas Edison während der Amtszeit von Franklin D. Roosevelt geboren wäre, was hätte Herbert Hoover nicht gesagt?\nA. Edison ist die größte Persönlichkeit der Welt.\nB. Er war ein seltenes Genie. Er war ein wertvoller Gewinn für die ganze Welt.\nC. Fleiß ist die Grundlage des Erfolgs.\nD. Präsidenten kommen und gehen, aber Hoover bleibt immer bestehen.",
+        "target_scores": {
+            "A. Edison ist die größte Persönlichkeit der Welt.": 0,
+            "B. Er war ein seltenes Genie. Er war ein wertvoller Gewinn für die ganze Welt.": 1,
+            "C. Fleiß ist die Grundlage des Erfolgs.": 0,
+            "D. Präsidenten kommen und gehen, aber Hoover bleibt immer bestehen.": 0
+        }
+    },
+    {
+        "input": "Wenn die Royalisten im Februar 1648 im Südwesten Englands ihre Kräfte gesammelt hätten und erst im folgenden Jahr einen Aufstand angezettelt hätten, was hätte am 11. Juli 1648 wahrscheinlich nicht geschehen?\nA. Die Parlamentarier hätten Danby nicht erobern können.\nB. Die Volksvereinbarung hätte nicht in Kraft gesetzt werden können.\nC. Oliver Cromwell hätte nicht nach Wales marschieren können.\nD. Pembroke hätte nicht von den Parlamentariern eingenommen werden können.",
+        "target_scores": {
+            "A. Die Parlamentarier hätten Danby nicht erobern können.": 0,
+            "B. Die Volksvereinbarung hätte nicht in Kraft gesetzt werden können.": 0,
+            "C. Oliver Cromwell hätte nicht nach Wales marschieren können.": 0,
+            "D. Pembroke hätte nicht von den Parlamentariern eingenommen werden können.": 1
+        }
+    },
+    {
+        "input": "Nach dem Misserfolg seiner Bergbau-Karriere gründete Edison neue Fabriken in neuen Branchen. Wenn er dort keine mechanischen Antriebe vollständig eingesetzt hätte, was hätte mit ihm 1905 nicht geschehen können?\nA. Er hätte den ersten Film Der große Zugraub nicht produzieren können.\nB. Er hätte keine neuen Akkumulatoren verkaufen können.\nC. Er hätte nicht zwei Millionen US-Dollar an Investitionen verloren.\nD. Seine Zementfabrik hätte nicht zu den Top 5 der Vereinigten Staaten werden können.",
+        "target_scores": {
+            "A. Er hätte den ersten Film Der große Zugraub nicht produzieren können.": 0,
+            "B. Er hätte keine neuen Akkumulatoren verkaufen können.": 0,
+            "C. Er hätte nicht zwei Millionen US-Dollar an Investitionen verloren.": 0,
+            "D. Seine Zementfabrik hätte nicht zu den Top 5 der Vereinigten Staaten werden können.": 1
+        }
+    },
+    {
+        "input": "Wenn es nichts Besonderes an Chen Jingrun in 1996 bei seinem Tod gegeben hätte, was wäre dann drei Jahre später im Oktober nicht passiert?\nA. Der „Chen Jingrun Future Star Plan“ wäre nicht ins Leben gerufen worden.\nB. Der „Chen Jingrun-Stern“ wäre nicht erschienen.\nC. Die Einweihung der Chen-Jingrun-Bronzestatue hätte nicht stattgefunden.\nD. Die Enthüllung der Chen Jingrun-Statue hätte nicht stattgefunden.",
+        "target_scores": {
+            "A. Der „Chen Jingrun Future Star Plan“ wäre nicht ins Leben gerufen worden.": 0,
+            "B. Der „Chen Jingrun-Stern“ wäre nicht erschienen.": 1,
+            "C. Die Einweihung der Chen-Jingrun-Bronzestatue hätte nicht stattgefunden.": 0,
+            "D. Die Enthüllung der Chen Jingrun-Statue hätte nicht stattgefunden.": 0
+        }
+    },
+    {
+        "input": "Wenn Shakespeare früher Ein Sommernachtstraum nicht erschaffen hätte, was wäre dann mit Uranus III nicht geschehen?\nA. Ein Sommernachtstraum wäre nicht vor dem Hintergrund von Uranus III geschrieben worden.\nB. Er hätte keinen extremen saisonalen Zyklus durchlaufen.\nC. Er wäre 1787 nicht von William Herschel entdeckt worden.\nD. Er wäre nicht als Titania benannt worden.",
+        "target_scores": {
+            "A. Ein Sommernachtstraum wäre nicht vor dem Hintergrund von Uranus III geschrieben worden.": 0,
+            "B. Er hätte keinen extremen saisonalen Zyklus durchlaufen.": 0,
+            "C. Er wäre 1787 nicht von William Herschel entdeckt worden.": 0,
+            "D. Er wäre nicht als Titania benannt worden.": 1
+        }
+    },
+    {
+        "input": "Wenn Descartes und Fermat nicht dafür plädiert hätten, Geometrie mit algebraischen Methoden zu untersuchen, welche Auffassung wäre damals nicht gewandelt worden?\nA. Algebra war nur ein Hilfsmittel.\nB. Das Buch Mathematische Prinzipien der Naturlehre ist die absolute Wahrheit.\nC. Die Infinitesimalrechnung ist eine Wissenschaft, die sich mit der Untersuchung kontinuierlicher Veränderungen beschäftigt.\nD. Differential- und Integralrechnung werden als eigenständige Disziplinen angesehen.",
+        "target_scores": {
+            "A. Algebra war nur ein Hilfsmittel.": 1,
+            "B. Das Buch Mathematische Prinzipien der Naturlehre ist die absolute Wahrheit.": 0,
+            "C. Die Infinitesimalrechnung ist eine Wissenschaft, die sich mit der Untersuchung kontinuierlicher Veränderungen beschäftigt.": 0,
+            "D. Differential- und Integralrechnung werden als eigenständige Disziplinen angesehen.": 0
+        }
+    },
+    {
+        "input": "Wenn Norbert Wiener in der Mitte der 1930er Jahre nicht nach China gereist wäre, was hätte Hua Luogeng bald darauf möglicherweise nicht getan?\nA. Er hätte den \"Offenen Brief an alle in den USA studierenden chinesischen Studenten\" nicht verfasst.\nB. Er hätte keine Artikel in Fachzeitschriften wie der Shanghaier 'Wissenschaft' veröffentlicht.\nC. Er hätte nicht an der Universität Cambridge studiert.\nD. Er hätte nicht in die Mathematikabteilung der Tsinghua-Universität eintreten können.",
+        "target_scores": {
+            "A. Er hätte den \"Offenen Brief an alle in den USA studierenden chinesischen Studenten\" nicht verfasst.": 0,
+            "B. Er hätte keine Artikel in Fachzeitschriften wie der Shanghaier 'Wissenschaft' veröffentlicht.": 0,
+            "C. Er hätte nicht an der Universität Cambridge studiert.": 1,
+            "D. Er hätte nicht in die Mathematikabteilung der Tsinghua-Universität eintreten können.": 0
+        }
+    },
+    {
+        "input": "Wenn Francis Bacon in seiner Kindheit so schwach und krank wäre, dass er sich nicht auf das Lernen konzentrieren könnte, was hätte er im Alter von 12 Jahren möglicherweise nicht tun können?\nA. Er wäre möglicherweise nicht als Abgeordneter gewählt worden.\nB. Er wäre möglicherweise nicht an das Trinity College, Cambridge zur weiteren Ausbildung geschickt worden.\nC. Er wäre möglicherweise nicht an einer Krankheit gestorben.\nD. Er wäre möglicherweise nicht nach Frankreich gereist und hätte nicht dort gelebt.",
+        "target_scores": {
+            "A. Er wäre möglicherweise nicht als Abgeordneter gewählt worden.": 0,
+            "B. Er wäre möglicherweise nicht an das Trinity College, Cambridge zur weiteren Ausbildung geschickt worden.": 1,
+            "C. Er wäre möglicherweise nicht an einer Krankheit gestorben.": 0,
+            "D. Er wäre möglicherweise nicht nach Frankreich gereist und hätte nicht dort gelebt.": 0
+        }
+    },
+    {
+        "input": "Wenn Freud nach dem Tod seines Vaters kein Interesse mehr an der Wissenschaft gehabt hätte, was hätte er im letzten Jahr des 19. Jahrhunderts vermutlich nicht getan?\nA. Er hätte nicht Die Psychopathologie des Alltagslebens verfasst.\nB. Er hätte nicht Die Traumdeutung geschrieben.\nC. Er hätte nicht Studien über Hysterie verfasst.\nD. Er hätte nicht Totem und Tabu geschrieben.",
+        "target_scores": {
+            "A. Er hätte nicht Die Psychopathologie des Alltagslebens verfasst.": 0,
+            "B. Er hätte nicht Die Traumdeutung geschrieben.": 1,
+            "C. Er hätte nicht Studien über Hysterie verfasst.": 0,
+            "D. Er hätte nicht Totem und Tabu geschrieben.": 0
+        }
+    },
+    {
+        "input": "Wenn Gauss im siebzehnten Jahr nach seiner Geburt die Methode der kleinsten Quadrate nicht entdeckt hätte, hätte er zwischen seinem einundvierzigsten und neunundvierzigsten Jahr möglicherweise folgende Projekte nicht geleitet:\nA. Die Abfassung des Werks Geometrische Untersuchungen zur Theorie der Parallellinien in deutscher Sprache.\nB. Die Ableitung der Berechnungsformel für das Datum des Osterfestes.\nC. Die geodätischen Vermessungsarbeiten im Königreich Hannover.\nD. Die geodätischen Vermessungsarbeiten im Park von Hannover.",
+        "target_scores": {
+            "A. Die Abfassung des Werks Geometrische Untersuchungen zur Theorie der Parallellinien in deutscher Sprache.": 0,
+            "B. Die Ableitung der Berechnungsformel für das Datum des Osterfestes.": 0,
+            "C. Die geodätischen Vermessungsarbeiten im Königreich Hannover.": 1,
+            "D. Die geodätischen Vermessungsarbeiten im Park von Hannover.": 0
+        }
+    },
+    {
+        "input": "Wenn Gauss im Alter von 63 Jahren nicht auf den Artikel von Lobatschewski aufmerksam geworden wäre, hätte er in diesem Jahr möglicherweise Folgendes nicht getan:\nA. Das Erlernen der deutschen Sprache.\nB. Das Erlernen der russischen Sprache.\nC. Die Erfindung des Sonnenreflektors.\nD. Die Übersetzung von Geometrische Untersuchungen zur Theorie der Parallellinien.",
+        "target_scores": {
+            "A. Das Erlernen der deutschen Sprache.": 0,
+            "B. Das Erlernen der russischen Sprache.": 1,
+            "C. Die Erfindung des Sonnenreflektors.": 0,
+            "D. Die Übersetzung von Geometrische Untersuchungen zur Theorie der Parallellinien.": 0
+        }
+    },
+    {
+        "input": "Wenn die industrielle Revolution nicht Deutschland erfasst hätte, welchen Artikel hätte Karl Marx 1842 nicht veröffentlichen können, um seine Gesetzgebungsideen auszudrücken?\nA. Das Kapital.\nB. Debatten über das Holzdiebstahlsgesetz.\nC. Manifest der Kommunistischen Partei.\nD. Rheinische Zeitung.",
+        "target_scores": {
+            "A. Das Kapital.": 0,
+            "B. Debatten über das Holzdiebstahlsgesetz.": 1,
+            "C. Manifest der Kommunistischen Partei.": 0,
+            "D. Rheinische Zeitung.": 0
+        }
+    },
+    {
+        "input": "Wenn König Philipp II. Aristoteles nicht gekannt hätte, was wäre im Jahr 343 v. Chr. nicht passiert?\nA. Aristoteles hätte Alexander den Großen bei seiner Thronbesteigung unterstützt.\nB. Aristoteles wäre als Lehrer von Alexander dem Großen eingestellt worden.\nC. Aristoteles wäre in seinen Heimatort zurückgekehrt.\nD. Aristoteles wäre von König Philipp II. zum Ritter geschlagen worden.",
+        "target_scores": {
+            "A. Aristoteles hätte Alexander den Großen bei seiner Thronbesteigung unterstützt.": 0,
+            "B. Aristoteles wäre als Lehrer von Alexander dem Großen eingestellt worden.": 1,
+            "C. Aristoteles wäre in seinen Heimatort zurückgekehrt.": 0,
+            "D. Aristoteles wäre von König Philipp II. zum Ritter geschlagen worden.": 0
+        }
+    },
+    {
+        "input": "Wenn der  Marineminister Josephus Daniels nie Kontakt zu Thomas Edison gehabt hätte, was hätte Edison 1917 nicht zwei Jahre lang gemacht?\nA. Er hätte nicht an Kriegsplänen und militärischen Erfindungen gearbeitet.\nB. Er hätte nicht den Schwerpunkt seiner Schallplattenfirma von der Wachsröhrchenproduktion verlagert.\nC. Er hätte nicht leistungsfähigere Akkumulatoren entwickelt.\nD. Er hätte sich nicht auf die Schallplattenproduktion konzentriert.",
+        "target_scores": {
+            "A. Er hätte nicht an Kriegsplänen und militärischen Erfindungen gearbeitet.": 1,
+            "B. Er hätte nicht den Schwerpunkt seiner Schallplattenfirma von der Wachsröhrchenproduktion verlagert.": 0,
+            "C. Er hätte nicht leistungsfähigere Akkumulatoren entwickelt.": 0,
+            "D. Er hätte sich nicht auf die Schallplattenproduktion konzentriert.": 0
+        }
+    },
+    {
+        "input": "Wenn Thomas Edison Ende 1868 beschlossen hätte, nie wieder zu erfinden, was hätte er elf Jahre später am elften Tag vor Ende des Oktober nicht erfunden?\nA. Das Telefon.\nB. Die Energiesparlampe.\nC. Die Kohlefadenlampe.\nD. Die Laterne.",
+        "target_scores": {
+            "A. Das Telefon.": 0,
+            "B. Die Energiesparlampe.": 0,
+            "C. Die Kohlefadenlampe.": 1,
+            "D. Die Laterne.": 0
+        }
+    },
+    {
+        "input": "Wenn die Menschen erst im 20. Jahrhundert begonnen hätten, Eiswürfel zu verwenden, was hätte Faraday im Jahr 1843 vermutlich nicht können?\nA. Er hätte das Faradaysche Gesetz der Elektrolyse nicht zusammenfassen können.\nB. Er hätte das Gesetz der Ladungserhaltung nicht durch das Ice Pail Experiment überprüfen können.\nC. Er hätte das Phänomen der elektromagnetischen Induktion nicht zum ersten Mal entdecken können.\nD. Er hätte keinen Scheibengenerator erfinden können.",
+        "target_scores": {
+            "A. Er hätte das Faradaysche Gesetz der Elektrolyse nicht zusammenfassen können.": 0,
+            "B. Er hätte das Gesetz der Ladungserhaltung nicht durch das Ice Pail Experiment überprüfen können.": 1,
+            "C. Er hätte das Phänomen der elektromagnetischen Induktion nicht zum ersten Mal entdecken können.": 0,
+            "D. Er hätte keinen Scheibengenerator erfinden können.": 0
+        }
+    },
+    {
+        "input": "Wenn der Zweite Weltkrieg im Jahr 1941 bereits beendet gewesen wäre, was hätte Shannon in diesem Sommer möglicherweise nicht getan?\nA. Die Entwicklung der Rate-Distortion-Theorie.\nB. Die Entwicklung der „Mind-Reading“-Maschine.\nC. Die Erfindung der mechanischen Maus.\nD. Die Konstruktion des Richtungsgeräts zur Unterstützung Großbritanniens im Kampf gegen Deutschland.",
+        "target_scores": {
+            "A. Die Entwicklung der Rate-Distortion-Theorie.": 0,
+            "B. Die Entwicklung der „Mind-Reading“-Maschine.": 0,
+            "C. Die Erfindung der mechanischen Maus.": 0,
+            "D. Die Konstruktion des Richtungsgeräts zur Unterstützung Großbritanniens im Kampf gegen Deutschland.": 1
+        }
+    },
+    {
+        "input": "Wenn Anna Freud ab 1923 ausschließlich klinische Praktiken in der Obduktion durchgeführt hätte, was würde sie 1927 vermutlich nicht getan haben?\nA. Sie hätte nicht das Buch Das Ich und die Abwehrmechanismen veröffentlicht.\nB. Sie hätte nicht das Werk Einführung in die Techniken der Kinderanalyse veröffentlicht.\nC. Sie hätte nicht die Position als Leiterin der Hampstead-Klinik übernommen.\nD. Sie hätte nicht einen Forschungsbericht mit dem Titel Schlagephantasie und Tagtraum veröffentlicht.",
+        "target_scores": {
+            "A. Sie hätte nicht das Buch Das Ich und die Abwehrmechanismen veröffentlicht.": 0,
+            "B. Sie hätte nicht das Werk Einführung in die Techniken der Kinderanalyse veröffentlicht.": 1,
+            "C. Sie hätte nicht die Position als Leiterin der Hampstead-Klinik übernommen.": 0,
+            "D. Sie hätte nicht einen Forschungsbericht mit dem Titel Schlagephantasie und Tagtraum veröffentlicht.": 0
+        }
+    },
+    {
+        "input": "Wenn Enrico Fermi in seinem Leben niemals an Magenkrankheiten gelitten hätte, was wäre am 28. November 1954 an diesem Tag nicht geschehen?\nA. Er hätte das Gastroskop nicht erfunden.\nB. Er wäre in San Francisco nicht verstorben.\nC. Er wäre nicht an Magenkrebs gestorben.\nD. Er wäre nicht zum Mitglied der US National Academy of Sciences gewählt worden.",
+        "target_scores": {
+            "A. Er hätte das Gastroskop nicht erfunden.": 0,
+            "B. Er wäre in San Francisco nicht verstorben.": 0,
+            "C. Er wäre nicht an Magenkrebs gestorben.": 1,
+            "D. Er wäre nicht zum Mitglied der US National Academy of Sciences gewählt worden.": 0
+        }
+    },
+    {
+        "input": "Wenn Hua Luogeng nicht gezwungen worden wäre, die Shanghai Zhonghua Berufsschule zu verlassen, was hätte er in den nächsten fünf Jahren nicht getan?\nA. Er hätte nicht alle Mathematikkurse der Oberstufe und der ersten Jahre der Universität im Selbststudium abgeschlossen.\nB. Er wäre nicht auf die Kreisbezirksschule Jintan gegangen.\nC. Er wäre nicht von Lehrer Wang Weike intensiv gefördert worden.\nD. Er wäre nicht von seinen Mitschülern als „Bücherwurm“ verspottet worden.",
+        "target_scores": {
+            "A. Er hätte nicht alle Mathematikkurse der Oberstufe und der ersten Jahre der Universität im Selbststudium abgeschlossen.": 1,
+            "B. Er wäre nicht auf die Kreisbezirksschule Jintan gegangen.": 0,
+            "C. Er wäre nicht von Lehrer Wang Weike intensiv gefördert worden.": 0,
+            "D. Er wäre nicht von seinen Mitschülern als „Bücherwurm“ verspottet worden.": 0
+        }
+    },
+    {
+        "input": "Wenn die US-Mannschaft nicht an der 31. Tischtennis-Weltmeisterschaft teilgenommen hätte, was wäre am 24. April 2021 möglicherweise nicht passiert?\nA. China und die USA hätten das Chinesisch-amerikanische Gemeinsame Kommuniqué in Shanghai nicht veröffentlichen können.\nB. Der 19-jährige US-Athlet Glenn Cowan aus Los Angeles hätte den Team-Bus der chinesischen Mannschaft nehmen können.\nC. Der nationale Sicherheitsberater des US-Präsidenten Dr. Henry Kissinger hätte seine geheime Reise nach China nicht durchführen können.\nD. Die 50-Jahr-Feierlichkeiten der chinesisch-amerikanischen \"Ping-Pong-Diplomatie\" hätten nicht stattfinden können.",
+        "target_scores": {
+            "A. China und die USA hätten das Chinesisch-amerikanische Gemeinsame Kommuniqué in Shanghai nicht veröffentlichen können.": 0,
+            "B. Der 19-jährige US-Athlet Glenn Cowan aus Los Angeles hätte den Team-Bus der chinesischen Mannschaft nehmen können.": 0,
+            "C. Der nationale Sicherheitsberater des US-Präsidenten Dr. Henry Kissinger hätte seine geheime Reise nach China nicht durchführen können.": 0,
+            "D. Die 50-Jahr-Feierlichkeiten der chinesisch-amerikanischen \"Ping-Pong-Diplomatie\" hätten nicht stattfinden können.": 1
+        }
+    },
+    {
+        "input": "Wenn Shakespeare in seinem Leben nie Komödien geschrieben hätte, welches Ereignis im Jahr 1595 wäre dann höchst unwahrscheinlich eingetreten?\nA. Die Uraufführung von Ein Sommernachtstraum.\nB. Die Uraufführung von Maß für Maß.\nC. Die Veröffentlichung des langen Gedichts Die Vergewaltigung der Lucrezia.\nD. Die Veröffentlichung von Die lustigen Weiber von Windsor.",
+        "target_scores": {
+            "A. Die Uraufführung von Ein Sommernachtstraum.": 1,
+            "B. Die Uraufführung von Maß für Maß.": 0,
+            "C. Die Veröffentlichung des langen Gedichts Die Vergewaltigung der Lucrezia.": 0,
+            "D. Die Veröffentlichung von Die lustigen Weiber von Windsor.": 0
+        }
+    },
+    {
+        "input": "Wenn das chinesische Wunder unter den neuen sieben Weltwundern in der Geschichte nie existiert hätte, welche englischen Wörter wären dann nicht in der ersten E-Mail Chinas, die von Peking ins Ausland verschickt wurde, enthalten?\nA. the Great Wall\nB. the Palace Museum\nC. the Summer Palace\nD. the Yangtze River",
+        "target_scores": {
+            "A. the Great Wall": 1,
+            "B. the Palace Museum": 0,
+            "C. the Summer Palace": 0,
+            "D. the Yangtze River": 0
+        }
+    },
+    {
+        "input": "Wenn Rabindranath Tagore ein autochthoner Amerikaner gewesen wäre, was hätte er nach dem Besuch von Mei Lanfangs Aufführung im Jahr 1924 nicht getan?\nA. Er hätte Mei Lanfang nicht beibringen können, in Bengali Oper zu singen.\nB. Er hätte kein Gedicht in Bengali verfasst.\nC. Er hätte kein Gedicht in Thai verfasst.\nD. Er hätte keine Sprüchepaare in Bengali geschrieben.",
+        "target_scores": {
+            "A. Er hätte Mei Lanfang nicht beibringen können, in Bengali Oper zu singen.": 0,
+            "B. Er hätte kein Gedicht in Bengali verfasst.": 1,
+            "C. Er hätte kein Gedicht in Thai verfasst.": 0,
+            "D. Er hätte keine Sprüchepaare in Bengali geschrieben.": 0
+        }
+    },
+    {
+        "input": "Wenn Aristoteles keine Beziehung zu Alexander gehabt hätte, was hätte er nach Alexanders Tod nicht getan?\nA. Er hätte die Herrschaft Makedoniens nicht bekämpfen müssen.\nB. Er hätte nicht den Thron besteigen müssen.\nC. Er hätte nicht nach Carystos fliehen müssen.\nD. Er hätte nicht nach Chalcis fliehen müssen.",
+        "target_scores": {
+            "A. Er hätte die Herrschaft Makedoniens nicht bekämpfen müssen.": 0,
+            "B. Er hätte nicht den Thron besteigen müssen.": 0,
+            "C. Er hätte nicht nach Carystos fliehen müssen.": 0,
+            "D. Er hätte nicht nach Chalcis fliehen müssen.": 1
+        }
+    },
+    {
+        "input": "Wenn es bis 1900 keine Nadel gegeben hätte, was hätte Thomas Edison 23 Jahre zuvor nicht erfunden?\nA. Das Telefon.\nB. Den Phonographen.\nC. Die Elektronenröhre.\nD. Die elektrische Glühlampe.",
+        "target_scores": {
+            "A. Das Telefon.": 0,
+            "B. Den Phonographen.": 1,
+            "C. Die Elektronenröhre.": 0,
+            "D. Die elektrische Glühlampe.": 0
+        }
+    },
+    {
+        "input": "Wenn Papst Urban II im Jahr 1042 in Nordamerika geboren worden wäre, welches Amt hätte er 42 Jahre später möglicherweise nicht erhalten?\nA. Der Abt des Klosters Cluny.\nB. Der Archdiakon des Bistums Reims.\nC. Der Mitarbeiter von Papst Gregor VII.\nD. Der päpstliche Gesandte.",
+        "target_scores": {
+            "A. Der Abt des Klosters Cluny.": 0,
+            "B. Der Archdiakon des Bistums Reims.": 0,
+            "C. Der Mitarbeiter von Papst Gregor VII.": 0,
+            "D. Der päpstliche Gesandte.": 1
+        }
+    },
+    {
+        "input": "Wenn Kang Youwei sein Leben lang ausschließlich das politische System der Vereinigten Staaten erforscht hätte, welches Werk hätte er vor der Hundert-Tage-Reform vermutlich nicht verfassen können?\nA. Allgemeine Geschichte der Vereinigten Staaten.\nB. Die Schönheit der Mathematik.\nC. Eine kurze Geschichte der Zeit.\nD. Konfuzius als Reformer.",
+        "target_scores": {
+            "A. Allgemeine Geschichte der Vereinigten Staaten.": 0,
+            "B. Die Schönheit der Mathematik.": 0,
+            "C. Eine kurze Geschichte der Zeit.": 0,
+            "D. Konfuzius als Reformer.": 1
+        }
+    },
+    {
+        "input": "Wenn die Wright-Brüder in ihrer Jugend kein ausgeprägtes Interesse an Maschinen entwickelt hätten, was hätten sie ab dem Sommer 1903 vermutlich nicht getan?\nA. Sie hätten nicht damit begonnen, ein Biplan zu konstruieren.\nB. Sie hätten nicht den zweiten „Flyer“ gebaut.\nC. Sie hätten nicht einen Testflug mit einem Dampfflugzeugmodell durchgeführt.\nD. Sie hätten nicht ihren Fahrradreparaturbetrieb eröffnet.",
+        "target_scores": {
+            "A. Sie hätten nicht damit begonnen, ein Biplan zu konstruieren.": 1,
+            "B. Sie hätten nicht den zweiten „Flyer“ gebaut.": 0,
+            "C. Sie hätten nicht einen Testflug mit einem Dampfflugzeugmodell durchgeführt.": 0,
+            "D. Sie hätten nicht ihren Fahrradreparaturbetrieb eröffnet.": 0
+        }
+    },
+    {
+        "input": "Wenn Laura Capon keine jüdische Herkunft gehabt hätte, was hätte Enrico Fermi Ende 1938 wahrscheinlich nicht getan?\nA. Er hätte nicht am Metallurgischen Labor der Universität Chicago an Plutonium und Reaktoren gearbeitet.\nB. Er hätte nicht an der Columbia-Universität gearbeitet.\nC. Er wäre nicht nach Italien zurückgekehrt.\nD. Er wäre nicht nach den Vereinigten Staaten ausgewandert.",
+        "target_scores": {
+            "A. Er hätte nicht am Metallurgischen Labor der Universität Chicago an Plutonium und Reaktoren gearbeitet.": 0,
+            "B. Er hätte nicht an der Columbia-Universität gearbeitet.": 0,
+            "C. Er wäre nicht nach Italien zurückgekehrt.": 0,
+            "D. Er wäre nicht nach den Vereinigten Staaten ausgewandert.": 1
+        }
+    },
+    {
+        "input": "Wenn Büttner und Martin Bartels nie mit Carl Friedrich Gauss in Kontakt gekommen wären, welche Erfahrungen hätte Gauss im vierzehnten Jahr nach seiner Geburt möglicherweise nicht gemacht?\nA. Er hätte die Entstehung der nichteuklidischen Geometrie nicht vorhergesagt.\nB. Er hätte die allgemeine Form des binomischen Lehrsatzes nicht abgeleitet.\nC. Er hätte die finanzielle Unterstützung von den genannten Personen nicht angenommen.\nD. Er hätte grundlegende Beweise in der Elementargeometrie möglicherweise nicht infragegestellt.",
+        "target_scores": {
+            "A. Er hätte die Entstehung der nichteuklidischen Geometrie nicht vorhergesagt.": 0,
+            "B. Er hätte die allgemeine Form des binomischen Lehrsatzes nicht abgeleitet.": 0,
+            "C. Er hätte die finanzielle Unterstützung von den genannten Personen nicht angenommen.": 1,
+            "D. Er hätte grundlegende Beweise in der Elementargeometrie möglicherweise nicht infragegestellt.": 0
+        }
+    },
+    {
+        "input": "Wenn Malthus' Eltern beide Analphabeten gewesen wären und er in seiner Kindheit stets von seinen Eltern dazu verpflichtet worden wäre, auf dem Bauernhof zu arbeiten, welches Ereignis im Jahr 1784 hätte möglicherweise nicht stattfinden können?\nA. Er hätte keinen Masterabschluss erworben.\nB. Er wäre in Cambridge aufgenommen worden.\nC. Er wäre in der Mathematik nicht begabt gewesen.\nD. Er wäre in einem Kloster beigesetzt worden.",
+        "target_scores": {
+            "A. Er hätte keinen Masterabschluss erworben.": 0,
+            "B. Er wäre in Cambridge aufgenommen worden.": 1,
+            "C. Er wäre in der Mathematik nicht begabt gewesen.": 0,
+            "D. Er wäre in einem Kloster beigesetzt worden.": 0
+        }
+    },
+    {
+        "input": "Wenn Michelangelo im Alter von 60 Jahren in seinem Atelier verstorben wäre, was hätte ein Jahr später nicht passieren können?\nA. Er hätte das Kirchenfresko Das Jüngste Gericht nicht schaffen können.\nB. Er hätte die Deckenfresko der Sixtinischen Kapelle nicht fertigstellen können.\nC. Er hätte kein Grabmal für einen Papst errichten können.\nD. Er hätte nicht zum Ehrenrektor der Accademia delle Arti del Disegno ernannt werden können.",
+        "target_scores": {
+            "A. Er hätte das Kirchenfresko Das Jüngste Gericht nicht schaffen können.": 1,
+            "B. Er hätte die Deckenfresko der Sixtinischen Kapelle nicht fertigstellen können.": 0,
+            "C. Er hätte kein Grabmal für einen Papst errichten können.": 0,
+            "D. Er hätte nicht zum Ehrenrektor der Accademia delle Arti del Disegno ernannt werden können.": 0
+        }
+    },
+    {
+        "input": "Wenn es in Minnesota kein Eisenerz gäbe, was hätte der 51-jährige Thomas Edison nicht erfahren?\nA. Den Bankrott der Edison Phonograph Company.\nB. Den Verlust seines Vermögens und Schulden.\nC. Einen zweiten Karrierehöhepunkt in seinem Leben.\nD. Seine Nominierung für den Nobelpreis.",
+        "target_scores": {
+            "A. Den Bankrott der Edison Phonograph Company.": 0,
+            "B. Den Verlust seines Vermögens und Schulden.": 1,
+            "C. Einen zweiten Karrierehöhepunkt in seinem Leben.": 0,
+            "D. Seine Nominierung für den Nobelpreis.": 0
+        }
+    },
+    {
+        "input": "Wenn Napoleon Bonaparte 1814 in Verbannung verschwunden wäre und nie wieder gehört worden wäre, was hätte ein Jahr später nicht passieren können?\nA. Er hätte die Hunderttage-Dynastie nicht gründen können.\nB. Er hätte nicht auf die Insel Elba verbannt werden können.\nC. Er hätte nicht auf die Insel St. Helena verbannt werden können.\nD. Sein Sarg hätte nicht ins Pariser Invalidenhaus zurückgebracht werden können.",
+        "target_scores": {
+            "A. Er hätte die Hunderttage-Dynastie nicht gründen können.": 1,
+            "B. Er hätte nicht auf die Insel Elba verbannt werden können.": 0,
+            "C. Er hätte nicht auf die Insel St. Helena verbannt werden können.": 0,
+            "D. Sein Sarg hätte nicht ins Pariser Invalidenhaus zurückgebracht werden können.": 0
+        }
+    },
+    {
+        "input": "Wenn Newton seit 1690 in den Vereinigten Staaten verbracht hätte, welches Ereignis aus seiner Biographie wäre sechs Jahre später wahrscheinlich nicht passiert?\nA. Er hätte die Lucas-Professur für Mathematik nicht übernommen.\nB. Er hätte nicht an der King's School in Grantham studiert.\nC. Er hätte nicht bei der königlichen Münze in London gearbeitet.\nD. Er wäre von Königin Anne nicht zum Ritter geschlagen worden.",
+        "target_scores": {
+            "A. Er hätte die Lucas-Professur für Mathematik nicht übernommen.": 0,
+            "B. Er hätte nicht an der King's School in Grantham studiert.": 0,
+            "C. Er hätte nicht bei der königlichen Münze in London gearbeitet.": 1,
+            "D. Er wäre von Königin Anne nicht zum Ritter geschlagen worden.": 0
+        }
+    },
+    {
+        "input": "Wenn Freud im Jahr 1893 sein Forschungsgebiet vollständig der Astrophysik zugewandt hätte, welches Ereignis wäre dann zwei Jahre später nicht eingetreten?\nA. Er hätte die Veröffentlichung von Studien über Hysterie nicht erlebt.\nB. Er hätte nicht die Position als stellvertretender Arzt in einer psychiatrischen Klinik übernommen.\nC. Er hätte nicht die Veröffentlichung von Der Witz und seine Beziehung zum Unbewussten erlebt.\nD. Er hätte nicht ein Jahr in Brücks Labor gearbeitet.",
+        "target_scores": {
+            "A. Er hätte die Veröffentlichung von Studien über Hysterie nicht erlebt.": 1,
+            "B. Er hätte nicht die Position als stellvertretender Arzt in einer psychiatrischen Klinik übernommen.": 0,
+            "C. Er hätte nicht die Veröffentlichung von Der Witz und seine Beziehung zum Unbewussten erlebt.": 0,
+            "D. Er hätte nicht ein Jahr in Brücks Labor gearbeitet.": 0
+        }
+    },
+    {
+        "input": "Wenn die Wright-Brüder im Jahr 1907 bei ihren Flugzeugexperimenten unglücklicherweise durch einen Unfall ums Leben gekommen wären, was hätte das US-Kriegsministerium im August zwei Jahre später vermutlich nicht getan?\nA. Es hätte das erste Militärflugzeug an die Wright-Brüder übergeben.\nB. Es hätte den Weltflugrekord für einen ununterbrochenen einstündigen Flug nicht aufgestellt.\nC. Es hätte die Wright-Brüder nicht zum Oberbefehlshaber des US-Kriegsministeriums ernannt.\nD. Es hätte keine Flugzeuge von den Wright-Brüdern gekauft.",
+        "target_scores": {
+            "A. Es hätte das erste Militärflugzeug an die Wright-Brüder übergeben.": 0,
+            "B. Es hätte den Weltflugrekord für einen ununterbrochenen einstündigen Flug nicht aufgestellt.": 0,
+            "C. Es hätte die Wright-Brüder nicht zum Oberbefehlshaber des US-Kriegsministeriums ernannt.": 0,
+            "D. Es hätte keine Flugzeuge von den Wright-Brüdern gekauft.": 1
+        }
+    },
+    {
+        "input": "Wenn die Entdeckung der Maus als Tierart erst im Jahr 2000 stattgefunden hätte, was hätte Shannon ein halbes Jahrhundert zuvor möglicherweise nicht getan?\nA. Er hätte die mechanische Katze nicht erfunden.\nB. Er hätte die mechanische Maus nicht erfunden.\nC. Er hätte keine Forschung am Differenzial-Analysator betrieben.\nD. Er hätte nicht an der Produktion des Zeichentrickfilms Tom und Jerry mitgewirkt.",
+        "target_scores": {
+            "A. Er hätte die mechanische Katze nicht erfunden.": 0,
+            "B. Er hätte die mechanische Maus nicht erfunden.": 1,
+            "C. Er hätte keine Forschung am Differenzial-Analysator betrieben.": 0,
+            "D. Er hätte nicht an der Produktion des Zeichentrickfilms Tom und Jerry mitgewirkt.": 0
+        }
+    },
+    {
+        "input": "Wenn Chen Jingrun im 20. Jahrhundert nie an der Xiamen-Universität studiert, gearbeitet und gelebt hätte, was wäre dann im April 2019 an dieser Universität nicht passiert?\nA. Die Aufführung des Theaterstücks Die Goldbachsche Vermutung in zwei Vorstellungen.\nB. Die Aufnahme von Chen Jingrun in die Gedenkbriefmarkenserie Die modernen chinesischen Wissenschaftler (VIII).\nC. Die Feierlichkeiten zum 80. Geburtstag von Chen Jingrun und die Enthüllung seiner Bronzestatue.\nD. Die Premiere der 13-teiligen Fernsehserie Chen Jingrun.",
+        "target_scores": {
+            "A. Die Aufführung des Theaterstücks Die Goldbachsche Vermutung in zwei Vorstellungen.": 1,
+            "B. Die Aufnahme von Chen Jingrun in die Gedenkbriefmarkenserie Die modernen chinesischen Wissenschaftler (VIII).": 0,
+            "C. Die Feierlichkeiten zum 80. Geburtstag von Chen Jingrun und die Enthüllung seiner Bronzestatue.": 0,
+            "D. Die Premiere der 13-teiligen Fernsehserie Chen Jingrun.": 0
+        }
+    },
+    {
+        "input": "Wenn Thomas Edison nicht so beobachtungsfähig gewesen wäre, was wäre 1904 in Großbritannien durch ihn nicht passiert?\nA. Die Geburt der Elektronenröhre.\nB. Die Geburt der Kohlefadenlampe mit Bambusfilament.\nC. Die Geburt der Triode.\nD. Die Geburt des Transistors.",
+        "target_scores": {
+            "A. Die Geburt der Elektronenröhre.": 1,
+            "B. Die Geburt der Kohlefadenlampe mit Bambusfilament.": 0,
+            "C. Die Geburt der Triode.": 0,
+            "D. Die Geburt des Transistors.": 0
+        }
+    },
+    {
+        "input": "Wenn Edisons Firma in den 1880er Jahren die Grundlagen ihrer Produkte auf Wechselstrom umgestellt hätte, welche Entscheidung hätte J.P. Morgan Anfang der 1890er Jahre nicht leitend getroffen?\nA. Das Monopol auf Gleichstromtechnologie.\nB. Der Einstieg in die Zementindustrie.\nC. Die Anschaffung von Mineralressourcen.\nD. Die Fusion von Edison General Electric Company und Thomson-Houston Electric Company.",
+        "target_scores": {
+            "A. Das Monopol auf Gleichstromtechnologie.": 0,
+            "B. Der Einstieg in die Zementindustrie.": 0,
+            "C. Die Anschaffung von Mineralressourcen.": 0,
+            "D. Die Fusion von Edison General Electric Company und Thomson-Houston Electric Company.": 1
+        }
+    },
+    {
+        "input": "Wenn Edison sich nicht im Geschäftsleben engagiert hätte, welcher Gigant Ende des 19. Jahrhunderts, dessen Vorläufer die Thomson-Houston Company war, wäre nicht entstanden?\nA. Boeing Company.\nB. ExxonMobil.\nC. General Electric Company.\nD. Microsoft.",
+        "target_scores": {
+            "A. Boeing Company.": 0,
+            "B. ExxonMobil.": 0,
+            "C. General Electric Company.": 1,
+            "D. Microsoft.": 0
+        }
+    },
+    {
+        "input": "Wenn Thomas Edison sich nicht mit Elektrizität beschäftigt hätte, was hätte die US-Regierung in den Tagen nach seinem Tod nicht getan?\nA. Sie hätte das Verkaufsverbot von Petroleumlampen nicht verhängt.\nB. Sie hätte nicht die ganze Nation aufgerufen, für eine Minute das Licht auszuschalten.\nC. Sie hätte nicht die ganze Nation für sechs Minuten keinen Strom haben lassen.\nD. Sie hätte nicht zwei Minuten lang kostenlosen Strom für alle angeboten.",
+        "target_scores": {
+            "A. Sie hätte das Verkaufsverbot von Petroleumlampen nicht verhängt.": 0,
+            "B. Sie hätte nicht die ganze Nation aufgerufen, für eine Minute das Licht auszuschalten.": 1,
+            "C. Sie hätte nicht die ganze Nation für sechs Minuten keinen Strom haben lassen.": 0,
+            "D. Sie hätte nicht zwei Minuten lang kostenlosen Strom für alle angeboten.": 0
+        }
+    },
+    {
+        "input": "Wenn der neue Leiter der Akademie Platons die mathematische Ausrichtung in Platons Philosophie nicht befürwortet hätte, was hätte Aristoteles nicht getan?\nA. Er hätte Athen nicht verlassen und wäre nicht umhergereist.\nB. Er hätte nicht weiter an der Akademie Platons studiert.\nC. Er wäre nicht in Athen geblieben.\nD. Er wäre nicht in seine Heimat zurückgekehrt.",
+        "target_scores": {
+            "A. Er hätte Athen nicht verlassen und wäre nicht umhergereist.": 1,
+            "B. Er hätte nicht weiter an der Akademie Platons studiert.": 0,
+            "C. Er wäre nicht in Athen geblieben.": 0,
+            "D. Er wäre nicht in seine Heimat zurückgekehrt.": 0
+        }
+    },
+    {
+        "input": "Wenn Ieoh Ming Pei sein ganzes Leben nicht mit Architekturdesign verbracht hätte, was wäre am 11. August 2014 im Stadtteil Xuanwu in Nanjing wahrscheinlich nicht passiert?\nA. Das Büro von Pei und Partners wäre nicht gegründet worden.\nB. Das Sechs-Dynastien-Museum wäre nicht fertiggestellt und eröffnet worden.\nC. Der Bau des Sechs-Dynastien-Museums auf den Ruinen des Palastes der Sechs-Dynastien in Jian'kang hätte nicht begonnen.\nD. Ieoh Ming Pei hätte seinen Bachelor-Abschluss vom Massachusetts Institute of Technology nicht erhalten.",
+        "target_scores": {
+            "A. Das Büro von Pei und Partners wäre nicht gegründet worden.": 0,
+            "B. Das Sechs-Dynastien-Museum wäre nicht fertiggestellt und eröffnet worden.": 1,
+            "C. Der Bau des Sechs-Dynastien-Museums auf den Ruinen des Palastes der Sechs-Dynastien in Jian'kang hätte nicht begonnen.": 0,
+            "D. Ieoh Ming Pei hätte seinen Bachelor-Abschluss vom Massachusetts Institute of Technology nicht erhalten.": 0
+        }
+    },
+    {
+        "input": "Wenn Chen Jingrun in seinem Forschungsgebiet nie mit der Goldbach-Vermutung konfrontiert worden wäre, welches Ereignis im Jahr 1973 hätte nicht stattgefunden?\nA. Das Chen-Theorem wäre nicht entstanden.\nB. Er hätte seine Leiche nicht für medizinische Untersuchungen gespendet.\nC. Er wäre nicht für einen Studienaufenthalt ins Princeton Institute for Advanced Study in den Vereinigten Staaten gereist.\nD. Er wäre nicht in Fuzhou, Fujian Provinz geboren worden.",
+        "target_scores": {
+            "A. Das Chen-Theorem wäre nicht entstanden.": 1,
+            "B. Er hätte seine Leiche nicht für medizinische Untersuchungen gespendet.": 0,
+            "C. Er wäre nicht für einen Studienaufenthalt ins Princeton Institute for Advanced Study in den Vereinigten Staaten gereist.": 0,
+            "D. Er wäre nicht in Fuzhou, Fujian Provinz geboren worden.": 0
+        }
+    },
+    {
+        "input": "Wenn E-Mails erst im 21. Jahrhundert eingeführt worden wären, was wäre dann im September 1987 nicht passiert?\nA. Das ARPANET wäre nicht in China eingeführt worden.\nB. Die erste E-Mail Chinas, von Peking nach Deutschland, wäre nicht gesendet worden.\nC. Die erste E-Mail Chinas, von Peking nach den USA, wäre nicht gesendet worden.\nD. Professor Leonard K. wäre nicht als Vater der E-Mail bezeichnet worden.",
+        "target_scores": {
+            "A. Das ARPANET wäre nicht in China eingeführt worden.": 0,
+            "B. Die erste E-Mail Chinas, von Peking nach Deutschland, wäre nicht gesendet worden.": 1,
+            "C. Die erste E-Mail Chinas, von Peking nach den USA, wäre nicht gesendet worden.": 0,
+            "D. Professor Leonard K. wäre nicht als Vater der E-Mail bezeichnet worden.": 0
+        }
+    },
+    {
+        "input": "Wenn Michael Faraday 1813 nicht als Assistent von Humphry Davy angestellt worden wäre, was hätte er drei Jahre später nicht erreichen können?\nA. Er hätte den ersten Elektromotor nicht erfinden können.\nB. Er hätte die Verflüssigung von Chlorgas und anderen Gasen nicht entdecken können.\nC. Er hätte seine erste bedeutende elektrische Erfindung nicht vollbringen können.\nD. Er hätte seine erste wissenschaftliche Abhandlung nicht veröffentlichen können.",
+        "target_scores": {
+            "A. Er hätte den ersten Elektromotor nicht erfinden können.": 0,
+            "B. Er hätte die Verflüssigung von Chlorgas und anderen Gasen nicht entdecken können.": 0,
+            "C. Er hätte seine erste bedeutende elektrische Erfindung nicht vollbringen können.": 0,
+            "D. Er hätte seine erste wissenschaftliche Abhandlung nicht veröffentlichen können.": 1
+        }
+    },
+    {
+        "input": "Wenn Gauss im Alter von 16 Jahren in Chemie bewandert gewesen wäre, was hätte er dann ein Jahr später nicht getan?\nA. Er hätte den Satz über die Verteilung der Primzahlen sowie die Methode der kleinsten Quadrate nicht entdeckt.​\nB. Er hätte den Satz über die Verteilung der reellen Zahlen sowie die Methode der kleinsten Quadrate nicht entdeckt.​\nC. Er hätte die Berechnung der Umlaufbahn des Asteroiden Ceres nicht durchgeführt.\nD. Er hätte sein Werk Über die Bewegung der Himmelskörper nicht veröffentlicht.",
+        "target_scores": {
+            "A. Er hätte den Satz über die Verteilung der Primzahlen sowie die Methode der kleinsten Quadrate nicht entdeckt.​": 1,
+            "B. Er hätte den Satz über die Verteilung der reellen Zahlen sowie die Methode der kleinsten Quadrate nicht entdeckt.​": 0,
+            "C. Er hätte die Berechnung der Umlaufbahn des Asteroiden Ceres nicht durchgeführt.": 0,
+            "D. Er hätte sein Werk Über die Bewegung der Himmelskörper nicht veröffentlicht.": 0
+        }
+    },
+    {
+        "input": "Wenn der Ingenieur Robert Whitehead erst 1867 geboren wäre, was hätte im Jahr davor nicht passieren können?\nA. Der Filet-O-Fish hätte nicht auf den Markt kommen können.\nB. Die Torpedo-Technologie hätte nicht entwickelt werden können.\nC. Robert Whitehead hätte nicht die Gesellschaft „Whitehead Torpedo Company“ gegründet.\nD. Robert Whitehead hätte nicht durch Europa gereist, um Textilmaschinen zu verkaufen.",
+        "target_scores": {
+            "A. Der Filet-O-Fish hätte nicht auf den Markt kommen können.": 0,
+            "B. Die Torpedo-Technologie hätte nicht entwickelt werden können.": 1,
+            "C. Robert Whitehead hätte nicht die Gesellschaft „Whitehead Torpedo Company“ gegründet.": 0,
+            "D. Robert Whitehead hätte nicht durch Europa gereist, um Textilmaschinen zu verkaufen.": 0
+        }
+    },
+    {
+        "input": "Wenn Galileo sich nur oberflächlich mit der Bewegung des Pendels beschäftigt hätte, was hätte er nach seinem Erblinden im Jahr 1641 vermutlich nicht getan?\nA. Er hätte nicht seine Tochter beauftragt, einen Entwurf für eine Pendeluhr zu zeichnen.\nB. Er hätte nicht seinen Sohn beauftragt, einen Entwurf für ein Armband zu zeichnen.\nC. Er hätte nicht seinen Sohn beauftragt, einen Entwurf für eine Armbanduhr zu zeichnen.\nD. Er hätte nicht seinen Sohn beauftragt, einen Entwurf für eine Pendeluhr zu zeichnen.",
+        "target_scores": {
+            "A. Er hätte nicht seine Tochter beauftragt, einen Entwurf für eine Pendeluhr zu zeichnen.": 0,
+            "B. Er hätte nicht seinen Sohn beauftragt, einen Entwurf für ein Armband zu zeichnen.": 0,
+            "C. Er hätte nicht seinen Sohn beauftragt, einen Entwurf für eine Armbanduhr zu zeichnen.": 0,
+            "D. Er hätte nicht seinen Sohn beauftragt, einen Entwurf für eine Pendeluhr zu zeichnen.": 1
+        }
+    },
+    {
+        "input": "Wenn Galileo ein Mensch gewesen wäre, der Experimenten niemals Beachtung schenkte, was hätte er im Jahr 1589 und in den folgenden zwei Jahren vermutlich nicht widerlegt?\nA. Das Konzept eines Inertialsystems.\nB. Das erste Gesetz von Newton.\nC. Das heliozentrische Weltbild.\nD. Die aristotelische Auffassung der Fallbewegung.",
+        "target_scores": {
+            "A. Das Konzept eines Inertialsystems.": 0,
+            "B. Das erste Gesetz von Newton.": 0,
+            "C. Das heliozentrische Weltbild.": 0,
+            "D. Die aristotelische Auffassung der Fallbewegung.": 1
+        }
+    },
+    {
+        "input": "Wenn Galileo Galilei Ende des 16. Jahrhunderts verstorben wäre, was wäre 1609 nicht passiert?\nA. Er hätte das astronomische Fernrohr nicht erfunden.\nB. Er hätte den Kompass nicht erfunden.\nC. Er hätte die Dynamik nicht analysiert.\nD. Er hätte ein Thermometer nicht gebaut.",
+        "target_scores": {
+            "A. Er hätte das astronomische Fernrohr nicht erfunden.": 1,
+            "B. Er hätte den Kompass nicht erfunden.": 0,
+            "C. Er hätte die Dynamik nicht analysiert.": 0,
+            "D. Er hätte ein Thermometer nicht gebaut.": 0
+        }
+    },
+    {
+        "input": "Wenn Max Planck keine Vorstellung von Vaterland gehabt hätte, was hätte er 1907 nicht getan?\nA. Er hätte den Promotionsgrad der Universität Berlin nicht erhalten können.\nB. Er hätte die Berufung der Universität Wien abgelehnt und wäre nicht in Berlin geblieben.\nC. Er hätte nicht an der Ludwig-Maximilians-Universität München Mathematik studiert.\nD. Er hätte nicht die Habilitationsprüfung in München bestehen können.",
+        "target_scores": {
+            "A. Er hätte den Promotionsgrad der Universität Berlin nicht erhalten können.": 0,
+            "B. Er hätte die Berufung der Universität Wien abgelehnt und wäre nicht in Berlin geblieben.": 1,
+            "C. Er hätte nicht an der Ludwig-Maximilians-Universität München Mathematik studiert.": 0,
+            "D. Er hätte nicht die Habilitationsprüfung in München bestehen können.": 0
+        }
+    },
+    {
+        "input": "Wenn es vor dem 17. Jahrhundert keine literarische Werke gegeben hätte, was wären dann mit allen Satelliten des Uranus nicht geschehen?\nA. Der vierte Satellit des Uranus, Oberon, wäre ursprünglich nicht als „der zweite Satellit des Uranus“ bezeichnet worden.\nB. Die Benennung wäre nicht mittels römischer Zahlen für alle zu der Zeit bekannten Satelliten des Uranus erfolgt.\nC. Sie wären nicht nach Figuren aus den Werken von William Shakespeare und Alexander Pope benannt worden.\nD. Voyager 2 wäre im Januar 1986 nicht in engem Vorbeiflug an Uranus' viertem Satelliten vorbeigeflogen.",
+        "target_scores": {
+            "A. Der vierte Satellit des Uranus, Oberon, wäre ursprünglich nicht als „der zweite Satellit des Uranus“ bezeichnet worden.": 0,
+            "B. Die Benennung wäre nicht mittels römischer Zahlen für alle zu der Zeit bekannten Satelliten des Uranus erfolgt.": 0,
+            "C. Sie wären nicht nach Figuren aus den Werken von William Shakespeare und Alexander Pope benannt worden.": 1,
+            "D. Voyager 2 wäre im Januar 1986 nicht in engem Vorbeiflug an Uranus' viertem Satelliten vorbeigeflogen.": 0
+        }
+    },
+    {
+        "input": "Wenn William Shakespeare im Jahr 1587 eine Karriere als Rechtsanwalt begonnen hätte, welches Ereignis wäre acht Jahre später vermutlich nicht eingetreten?\nA. Er hätte nicht die Uraufführung seiner Dramen Heinrich VI, Teil 2 und Heinrich VI, Teil 3 erlebt.\nB. Er hätte nicht die Uraufführung seines Dramas Der Kaufmann von Venedig erlebt.\nC. Er hätte nicht die Uraufführung seines Dramas Ein Sommernachtstraum erlebt.\nD. Er hätte nicht die Uraufführung seines Dramas Richard III erlebt.",
+        "target_scores": {
+            "A. Er hätte nicht die Uraufführung seiner Dramen Heinrich VI, Teil 2 und Heinrich VI, Teil 3 erlebt.": 0,
+            "B. Er hätte nicht die Uraufführung seines Dramas Der Kaufmann von Venedig erlebt.": 0,
+            "C. Er hätte nicht die Uraufführung seines Dramas Ein Sommernachtstraum erlebt.": 1,
+            "D. Er hätte nicht die Uraufführung seines Dramas Richard III erlebt.": 0
+        }
+    },
+    {
+        "input": "Wenn die Differentialrechnung erst Anfang des 20. Jahrhunderts aufgetaucht wäre, was hätte Maxwell in seiner Theorie nicht getan?\nA. Er hätte Differentialrechnung in der Allgemeinen Relativitätstheorie nicht angewendet.\nB. Er hätte Differentialrechnung in der Theorie des Elektromagnetismus nicht angewendet.\nC. Er hätte nicht das Smith-Stipendium erhalten.\nD. Er wäre nicht der erste Direktor des Cavendish-Laboratoriums geworden.",
+        "target_scores": {
+            "A. Er hätte Differentialrechnung in der Allgemeinen Relativitätstheorie nicht angewendet.": 0,
+            "B. Er hätte Differentialrechnung in der Theorie des Elektromagnetismus nicht angewendet.": 1,
+            "C. Er hätte nicht das Smith-Stipendium erhalten.": 0,
+            "D. Er wäre nicht der erste Direktor des Cavendish-Laboratoriums geworden.": 0
+        }
+    },
+    {
+        "input": "Wenn Claude Shannon im Jahr 1941 an Alzheimer erkrankt wäre, hätte er möglicherweise 17 Jahre später Folgendes nicht erreicht:\nA. Er hätte nicht als Forscher am Institute for Advanced Study in Princeton tätig gewesen sein können.\nB. Er hätte nicht den Master-Abschluss in Elektrotechnik und den Doktortitel in Mathematik am Massachusetts Institute of Technology erworben.\nC. Er hätte nicht die Position des Donner-Professor für Wissenschaft am MIT innegehabt.\nD. Er hätte nicht für die Bell Laboratories gearbeitet.",
+        "target_scores": {
+            "A. Er hätte nicht als Forscher am Institute for Advanced Study in Princeton tätig gewesen sein können.": 0,
+            "B. Er hätte nicht den Master-Abschluss in Elektrotechnik und den Doktortitel in Mathematik am Massachusetts Institute of Technology erworben.": 0,
+            "C. Er hätte nicht die Position des Donner-Professor für Wissenschaft am MIT innegehabt.": 1,
+            "D. Er hätte nicht für die Bell Laboratories gearbeitet.": 0
+        }
+    },
+    {
+        "input": "Wenn Xu Beihong nicht von der Mingzhi-Universität eingeladen worden wäre, Gemälde zu malen und Vorlesungen zu halten, für wen hätte er kein Porträt gemalt?\nA. Cai Yuanpei und Fu Zengxiang.\nB. Gao Jianfu und Gao Qifeng.\nC. Kang Youwei, seine verstorbene Ehefrau He Zhanli und seine Freunde.\nD. Nakamura Fusa.",
+        "target_scores": {
+            "A. Cai Yuanpei und Fu Zengxiang.": 0,
+            "B. Gao Jianfu und Gao Qifeng.": 0,
+            "C. Kang Youwei, seine verstorbene Ehefrau He Zhanli und seine Freunde.": 1,
+            "D. Nakamura Fusa.": 0
+        }
+    },
+    {
+        "input": "Wenn Zhan Tianyou im Alter von 12 Jahren nach Deutschland statt in die Vereinigten Staaten studiert hätte, welcher Schulaufstieg hätte dann 1878 für ihn wahrscheinlich nicht stattgefunden?\nA. Er hätte nicht an der New Haven's Hillhouse High School studieren können.\nB. Er hätte nicht an der Yale Universität für Zivilingenieurwesen zugelassen werden können.\nC. Er hätte nicht an einer traditionellen chinesischen privaten Schule studieren können.\nD. Er hätte nicht das Mathematik-Preis an der Yale Universität zum zweiten Mal erhalten können.",
+        "target_scores": {
+            "A. Er hätte nicht an der New Haven's Hillhouse High School studieren können.": 0,
+            "B. Er hätte nicht an der Yale Universität für Zivilingenieurwesen zugelassen werden können.": 1,
+            "C. Er hätte nicht an einer traditionellen chinesischen privaten Schule studieren können.": 0,
+            "D. Er hätte nicht das Mathematik-Preis an der Yale Universität zum zweiten Mal erhalten können.": 0
+        }
+    },
+    {
+        "input": "Wenn die Menschen erst mit dem Tod von Zu Chongzhi begännen würden, geometrische Figuren zu verstehen, dann hätte er niemals folgende großartige Leistung vollbracht:\nA. Er hätte keinen berechneten Wert der Kreiszahl von 3,155 ermittelt.\nB. Er hätte keinen berechneten Wert der Kreiszahl von 3,162 ermittelt.\nC. Er hätte nicht den Wert der Kreiszahl als 22/7 ≈ 3,14 berechnet.\nD. Er hätte nicht den wahren Wert der Kreiszahl (π) zwischen 3,1415926 und 3,1415927 bestimmt.",
+        "target_scores": {
+            "A. Er hätte keinen berechneten Wert der Kreiszahl von 3,155 ermittelt.": 0,
+            "B. Er hätte keinen berechneten Wert der Kreiszahl von 3,162 ermittelt.": 0,
+            "C. Er hätte nicht den Wert der Kreiszahl als 22/7 ≈ 3,14 berechnet.": 0,
+            "D. Er hätte nicht den wahren Wert der Kreiszahl (π) zwischen 3,1415926 und 3,1415927 bestimmt.": 1
+        }
+    },
+    {
+        "input": "Wenn Thomas Edison 1869 nicht gemeinsam mit Pope eine Firma gegründet hätte, welche Position hätte er nicht erlangen können?\nA. Elektroingenieur.\nB. Stimmzähler-Bediensteter.\nC. Telefonist.\nD. Telegrafist.",
+        "target_scores": {
+            "A. Elektroingenieur.": 1,
+            "B. Stimmzähler-Bediensteter.": 0,
+            "C. Telefonist.": 0,
+            "D. Telegrafist.": 0
+        }
+    },
+    {
+        "input": "Wenn die Nachbildwirkung erst im 20. Jahrhundert entdeckt worden wäre, welche Technik hätte Thomas Edison am späten Mai 1891 in seinem Labor nicht demonstrieren können?\nA. Die Kinetoskop-Technologie.\nB. Die Telegraphie-Technologie.\nC. Die Wechselstrom-Technologie.\nD. Magie.",
+        "target_scores": {
+            "A. Die Kinetoskop-Technologie.": 1,
+            "B. Die Telegraphie-Technologie.": 0,
+            "C. Die Wechselstrom-Technologie.": 0,
+            "D. Magie.": 0
+        }
+    },
+    {
+        "input": "Wenn Wilhelm Herschel zeitlebens keine astronomische Forschung betrieben hätte, was wäre aus John Herschel möglicherweise nicht geworden?\nA. Astronom.\nB. Ein großer Baum.\nC. Pioniere der Atombombe und Wasserstoffbombe.\nD. Vater der Sternastronomie.",
+        "target_scores": {
+            "A. Astronom.": 1,
+            "B. Ein großer Baum.": 0,
+            "C. Pioniere der Atombombe und Wasserstoffbombe.": 0,
+            "D. Vater der Sternastronomie.": 0
+        }
+    },
+    {
+        "input": "Wenn Xu Beihongs Vater ihm 1901 erlaubt hätte, Malerei zu lernen, was hätte er nicht getan?\nA. Er hätte Seerosen nicht offen und ehrlich gemalt.\nB. Er hätte Sonnenblumen nicht offen und ehrlich gemalt.\nC. Er hätte die Hühner, Enten, Katzen und Hunde am Flussufer nicht verstohlen gemalt.\nD. Er hätte die Seerosen im Mondlicht nicht verstohlen gemalt.",
+        "target_scores": {
+            "A. Er hätte Seerosen nicht offen und ehrlich gemalt.": 0,
+            "B. Er hätte Sonnenblumen nicht offen und ehrlich gemalt.": 0,
+            "C. Er hätte die Hühner, Enten, Katzen und Hunde am Flussufer nicht verstohlen gemalt.": 1,
+            "D. Er hätte die Seerosen im Mondlicht nicht verstohlen gemalt.": 0
+        }
+    },
+    {
+        "input": "Wenn Thomas Edison Anfang des 20. Jahrhunderts, als der Wechselstrom eindeutig siegreich war, nicht so eigensinnig gewesen wäre, was hätte er nicht gemacht?\nA. Er hätte das Telefon nicht verbessert.\nB. Er hätte einen Elefanten mit 6.600 Volt Wechselstrom nicht elektrisch exekutiert.\nC. Er hätte einen Elefanten mit 6.700 Volt Wechselstrom nicht elektrisch exekutiert.\nD. Er hätte lange Zementöfen nicht entworfen.",
+        "target_scores": {
+            "A. Er hätte das Telefon nicht verbessert.": 0,
+            "B. Er hätte einen Elefanten mit 6.600 Volt Wechselstrom nicht elektrisch exekutiert.": 1,
+            "C. Er hätte einen Elefanten mit 6.700 Volt Wechselstrom nicht elektrisch exekutiert.": 0,
+            "D. Er hätte lange Zementöfen nicht entworfen.": 0
+        }
+    },
+    {
+        "input": "Wenn Michelangelo Buonarroti erst im Jahr 1500 zum ersten Mal einen Pinsel in die Hand genommen hätte, was hätte er vier Jahre zuvor nicht geschaffen?\nA. Das Gemälde Das Jüngste Gericht.\nB. Die Deckenfresko der Sixtinischen Kapelle.\nC. Die Skulptur Bacchus.\nD. Die Skulptur David.",
+        "target_scores": {
+            "A. Das Gemälde Das Jüngste Gericht.": 0,
+            "B. Die Deckenfresko der Sixtinischen Kapelle.": 0,
+            "C. Die Skulptur Bacchus.": 1,
+            "D. Die Skulptur David.": 0
+        }
+    },
+    {
+        "input": "Wenn der Earl of Shaftesbury erst im Jahr 1676 an Einfluss verloren hätte, was hätte John Locke im Vorjahr weniger wahrscheinlich getan?\nA. Er hätte die „Glorreiche Revolution\" verteidigt.\nB. Er hätte eine Reise nach Frankreich unternommen.\nC. Er hätte seine Manuskripte zu „Ein Versuch über den menschlichen Verstand\" und „Ein Brief über die Toleranz\" überarbeitet.\nD. Er wäre in die Niederlande geflohen.",
+        "target_scores": {
+            "A. Er hätte die „Glorreiche Revolution\" verteidigt.": 0,
+            "B. Er hätte eine Reise nach Frankreich unternommen.": 1,
+            "C. Er hätte seine Manuskripte zu „Ein Versuch über den menschlichen Verstand\" und „Ein Brief über die Toleranz\" überarbeitet.": 0,
+            "D. Er wäre in die Niederlande geflohen.": 0
+        }
+    },
+    {
+        "input": "Wenn Lavoisier bis 1778 niemals Metallkalzinierungsexperimente durchgeführt hätte, was hätte er ein Jahr zuvor vermutlich nicht verfasst?\nA. Grundlegende Abhandlung der Chemie.\nB. Grundriss der Verbrennung.\nC. Philosophiae Naturalis Principia Mathematica.\nD. Über die Entstehung der Arten.",
+        "target_scores": {
+            "A. Grundlegende Abhandlung der Chemie.": 0,
+            "B. Grundriss der Verbrennung.": 1,
+            "C. Philosophiae Naturalis Principia Mathematica.": 0,
+            "D. Über die Entstehung der Arten.": 0
+        }
+    },
+    {
+        "input": "Wenn Werner Heisenberg nach der Oberschule an der Ludwig-Maximilians-Universität München Medizin studiert hätte, was wäre 1925 nicht passiert?\nA. Heisenberg hätte den Nobelpreis für Physik nicht erhalten können.\nB. Heisenberg hätte die Matrizenmechanik nicht begründen können.\nC. Heisenberg hätte nicht als Direktor des Physikalischen Instituts der Georg-August-Universität Göttingen ernannt werden können.\nD. Heisenberg wäre nicht am 5. Dezember 1901 in Würzburg geboren worden.",
+        "target_scores": {
+            "A. Heisenberg hätte den Nobelpreis für Physik nicht erhalten können.": 0,
+            "B. Heisenberg hätte die Matrizenmechanik nicht begründen können.": 1,
+            "C. Heisenberg hätte nicht als Direktor des Physikalischen Instituts der Georg-August-Universität Göttingen ernannt werden können.": 0,
+            "D. Heisenberg wäre nicht am 5. Dezember 1901 in Würzburg geboren worden.": 0
+        }
+    }
+]

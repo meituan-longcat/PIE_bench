@@ -1,0 +1,848 @@
+[
+    {
+        "input": "Quelle est la caractéristique commune du potentiel postsynaptique excitateur (EPSP) et du potentiel postsynaptique inhibiteur (IPSP) parmi les options suivantes ?\nA. Dépolarisation de la membrane postsynaptique\nB. Dépolarisation de la membrane présynaptique\nC. Hyperpolarisation de la membrane postsynaptique\nD. Hyperpolarisation de la membrane présynaptique",
+        "target_scores": {
+            "A. Dépolarisation de la membrane postsynaptique": 0,
+            "B. Dépolarisation de la membrane présynaptique": 1,
+            "C. Hyperpolarisation de la membrane postsynaptique": 0,
+            "D. Hyperpolarisation de la membrane présynaptique": 0
+        }
+    },
+    {
+        "input": "Quel est l'aliment dont la valeur calorique est la plus élevée ?\nA. Lipides\nB. Protéines\nC. Sucre\nD. Vitamines",
+        "target_scores": {
+            "A. Lipides": 1,
+            "B. Protéines": 0,
+            "C. Sucre": 0,
+            "D. Vitamines": 0
+        }
+    },
+    {
+        "input": "Lorsque la moelle épinière d'un animal est sectionnée au niveau du cinquième segment cervical, quelle description de son comportement est correcte ?\nA. Diminution de la pression artérielle\nB. Le tonus musculaire des muscles squelettiques du corps entier diminue\nC. Les pertes involontaires de selles et de la vessie\nD. Troubles de la sensibilité du corps entier",
+        "target_scores": {
+            "A. Diminution de la pression artérielle": 1,
+            "B. Le tonus musculaire des muscles squelettiques du corps entier diminue": 0,
+            "C. Les pertes involontaires de selles et de la vessie": 0,
+            "D. Troubles de la sensibilité du corps entier": 0
+        }
+    },
+    {
+        "input": "Un sujet a une diurèse d'une heure de 60 ml. La concentration d'acide para-aminohippurique dans le plasma sanguin est de 0,02 mg/ml, et la concentration dans l'urine est de 12,6 mg/ml. Le débit sanguin effectif rénal devrait être de ______.\nA. 125 ml/min\nB. 31,1 ml/min\nC. 378 ml/min\nD. 630 ml/min",
+        "target_scores": {
+            "A. 125 ml/min": 0,
+            "B. 31,1 ml/min": 0,
+            "C. 378 ml/min": 0,
+            "D. 630 ml/min": 1
+        }
+    },
+    {
+        "input": "Le patient ne peut pas parler, mais toutes les autres fonctions langagières sont intactes, et les fonctions des organes phonateurs sont également normales. Quel est le site de la lésion du centre de la parole ?\nA. Aire de Broca\nB. Aire de Wernicke\nC. Partie postérieure du gyrus frontal moyen\nD. Partie postérieure du gyrus supérieur temporal",
+        "target_scores": {
+            "A. Aire de Broca": 1,
+            "B. Aire de Wernicke": 0,
+            "C. Partie postérieure du gyrus frontal moyen": 0,
+            "D. Partie postérieure du gyrus supérieur temporal": 0
+        }
+    },
+    {
+        "input": "Un patient atteint d'ictère a une augmentation significative de la bilirubine non conjuguée dans le sérum, une bilirubine urinaire négative, et une augmentation significative des urobilinogènes dans l'urine et les selles. Quelle est la cause la plus probable de cet ictère ?\nA. Cancer du pancréas\nB. Cirrhose du foie\nC. Hémolyse aiguë\nD. Hépatite aiguë",
+        "target_scores": {
+            "A. Cancer du pancréas": 0,
+            "B. Cirrhose du foie": 0,
+            "C. Hémolyse aiguë": 1,
+            "D. Hépatite aiguë": 0
+        }
+    },
+    {
+        "input": "Quelle est la caractéristique de liaison récepteur-ligand que reflète la courbe rectangulaire hyperbolique ?\nA. Affinité élevée\nB. Réversibilité\nC. Saturation possible\nD. Spécificité élevée",
+        "target_scores": {
+            "A. Affinité élevée": 0,
+            "B. Réversibilité": 0,
+            "C. Saturation possible": 1,
+            "D. Spécificité élevée": 0
+        }
+    },
+    {
+        "input": "Les macrophages avec une distribution diffuse dans les poumons et contenant de nombreuses particules de sidérophages dans le cytoplasme sont les plus courants dans ( )\nA. Insuffisance cardiaque gauche\nB. Pneumonie lobaire\nC. Pneumonie lobulaire\nD. Pneumopathie interstitielle diffuse",
+        "target_scores": {
+            "A. Insuffisance cardiaque gauche": 1,
+            "B. Pneumonie lobaire": 0,
+            "C. Pneumonie lobulaire": 0,
+            "D. Pneumopathie interstitielle diffuse": 0
+        }
+    },
+    {
+        "input": "Par rapport aux néphrons juxtamédullaires, quelle est la caractéristique des néphrons corticals ?\nA. Un calibre similaire de l'artériole glomérulaire afférente et l'artériole glomérulaire efférente\nB. Un nombre réduit, un volume élevé et une longue boucle de Henle\nC. Une fonction principale de filtration et de réabsorption\nD. Une formation de vasa recta après l'artériole glomérulaire efférente du rein",
+        "target_scores": {
+            "A. Un calibre similaire de l'artériole glomérulaire afférente et l'artériole glomérulaire efférente": 0,
+            "B. Un nombre réduit, un volume élevé et une longue boucle de Henle": 0,
+            "C. Une fonction principale de filtration et de réabsorption": 1,
+            "D. Une formation de vasa recta après l'artériole glomérulaire efférente du rein": 0
+        }
+    },
+    {
+        "input": "Une femme de 50 ans a une toux chronique depuis plus de 3 ans, avec une expectoration de mucus blanc mousseux, qui se produit chaque automne et hiver et dure environ 3 mois. Quelle est la description qui ne correspond pas à la maladie du patient ?\nA. Augmentation des cellules caliciformes de l'épithélium de la muqueuse bronchique\nB. Hyperplasie des fibres élastiques de la paroi bronchique\nC. Hypertrophie des glandes muqueuses bronchiques\nD. Nécrose et dégénérescence de l'épithélium de la muqueuse bronchique",
+        "target_scores": {
+            "A. Augmentation des cellules caliciformes de l'épithélium de la muqueuse bronchique": 0,
+            "B. Hyperplasie des fibres élastiques de la paroi bronchique": 1,
+            "C. Hypertrophie des glandes muqueuses bronchiques": 0,
+            "D. Nécrose et dégénérescence de l'épithélium de la muqueuse bronchique": 0
+        }
+    },
+    {
+        "input": "La principale différence entre le sérum et le plasma est que le premier ne contient pas ______.\nA. Albumine\nB. Fibrinogène\nC. Globulines\nD. Ions calcium",
+        "target_scores": {
+            "A. Albumine": 0,
+            "B. Fibrinogène": 1,
+            "C. Globulines": 0,
+            "D. Ions calcium": 0
+        }
+    },
+    {
+        "input": "Homme de 76 ans, en bonne santé auparavant, mort subitement il y a quelques heures. Résultat de l'autopsie : formation de plaques d'athérome étendue dans l'aorte, des plaques d'athérosclérose visibles dans les troncs des deux artères coronaires avec une sténose du lumen vasculaire, sans thrombus. Le myocarde est rouge foncé et lustré. Quelle est la description qui correspond le mieux à la cause de la mort du patient ?\nA. Angine de poitrine\nB. Cardiopathie\nC. Mort subite d’origine cardiaque\nD. Myocardite",
+        "target_scores": {
+            "A. Angine de poitrine": 0,
+            "B. Cardiopathie": 0,
+            "C. Mort subite d’origine cardiaque": 1,
+            "D. Myocardite": 0
+        }
+    },
+    {
+        "input": "Quel est le point de distinction le plus important entre la pleurésie exsudative tuberculeuse et la pleurésie cancéreuse ?\nA. Analyse des cellules du liquide pleural et biopsie pleurale\nB. Examen de routine du liquide pleural\nC. Présence de frissons et de fièvre\nD. Âge",
+        "target_scores": {
+            "A. Analyse des cellules du liquide pleural et biopsie pleurale": 1,
+            "B. Examen de routine du liquide pleural": 0,
+            "C. Présence de frissons et de fièvre": 0,
+            "D. Âge": 0
+        }
+    },
+    {
+        "input": "Homme de 27 ans, il y a 5 ans, perte d'appétit, nausées, fatigue, jaunisse de la peau et du sclérotique. Douleur hépatique, examen des fonctions hépatiques : ALT 100 U, bilirubine totale dans le sang 18 mg/dl, $HBsAg(+)$. La poncture du foie a diagnostiqué une hépatite aiguë ordinaire, qui s'est améliorée après traitement. Au cours des six derniers mois, la fatigue et la douleur hépatique intermittente sont réapparues, avec une ALT de 60 U à 80 U. Quelle est la description qui correspond à la maladie du patient ?\nA. Nécrose fragmentaire des cellules hépatiques\nB. Nécrose massive des cellules hépatiques\nC. Nécrose ponctuelle (spotty necrosis) des cellules hépatiques\nD. Nécrose sous-massive des cellules hépatiques",
+        "target_scores": {
+            "A. Nécrose fragmentaire des cellules hépatiques": 1,
+            "B. Nécrose massive des cellules hépatiques": 0,
+            "C. Nécrose ponctuelle (spotty necrosis) des cellules hépatiques": 0,
+            "D. Nécrose sous-massive des cellules hépatiques": 0
+        }
+    },
+    {
+        "input": "Le sujet penche la tête en avant de 30° et tourne autour de l'axe vertical du corps vers la gauche. Quelles sont les directions du nystagmus au début de la rotation ?\nA. Phase lente vers la droite, phase rapide vers la droite\nB. Phase lente vers la droite, phase rapide vers la gauche\nC. Phase lente vers la gauche, phase rapide vers la droite\nD. Phase lente vers la gauche, phase rapide vers la gauche",
+        "target_scores": {
+            "A. Phase lente vers la droite, phase rapide vers la droite": 0,
+            "B. Phase lente vers la droite, phase rapide vers la gauche": 1,
+            "C. Phase lente vers la gauche, phase rapide vers la droite": 0,
+            "D. Phase lente vers la gauche, phase rapide vers la gauche": 0
+        }
+    },
+    {
+        "input": "Patient, homme de 62 ans, toux sèche, expectoration avec des filaments de sang depuis un an et demi. Le patient a fumé depuis l'enfance, 2 à 3 paquets par jour. Examen physique : le thorax gauche est gonflé, et une poncture pleurale gauche a drainé 57,3 ml de liquide pleural hémorragique. La radiographie montre une ombre dense de $3cm \\times 5cm$ de taille, avec des contours irréguliers, en bordure du poumon inférieur gauche. Quel est le diagnostic le plus probable ?\nA. Abcès pulmonaire\nB. Bronchectasies\nC. Cancer du poumon périphérique\nD. Tuberculose pulmonaire",
+        "target_scores": {
+            "A. Abcès pulmonaire": 0,
+            "B. Bronchectasies": 0,
+            "C. Cancer du poumon périphérique": 1,
+            "D. Tuberculose pulmonaire": 0
+        }
+    },
+    {
+        "input": "La principale raison pour laquelle $CO_2$ diffuse plus rapidement à travers la membrane respiratoire que $O_2$ est que ______.\nA. La masse moléculaire du $CO_2$ est supérieure à celle du $O_2$\nB. La solubilité du $CO_2$ dans le plasma est supérieure à celle du $O_2$\nC. Le $CO_2$   est transporté par simple diffusion\nD. Le gradient de pression est supérieur à celui du $O_2$",
+        "target_scores": {
+            "A. La masse moléculaire du $CO_2$ est supérieure à celle du $O_2$": 0,
+            "B. La solubilité du $CO_2$ dans le plasma est supérieure à celle du $O_2$": 1,
+            "C. Le $CO_2$   est transporté par simple diffusion": 0,
+            "D. Le gradient de pression est supérieur à celui du $O_2$": 0
+        }
+    },
+    {
+        "input": "Après l'amputation d'un doigt chez un singe, la zone représentative du doigt amputé dans la couche corticale du cerveau  ______.\nA. Sera partiellement atrophiée, avec perte de fonction\nB. Sera remplacée par la zone représentative d'un doigt voisin\nC. Sera remplacée par une hyperplasie des cellules gliales\nD. ne changera pas, mais sera abandonnée par la suite",
+        "target_scores": {
+            "A. Sera partiellement atrophiée, avec perte de fonction": 0,
+            "B. Sera remplacée par la zone représentative d'un doigt voisin": 1,
+            "C. Sera remplacée par une hyperplasie des cellules gliales": 0,
+            "D. ne changera pas, mais sera abandonnée par la suite": 0
+        }
+    },
+    {
+        "input": "En état de repos, l'organe le plus chaud du corps est ______.\nA. Cerveau\nB. Foie\nC. Muscle squelettique\nD. Rein",
+        "target_scores": {
+            "A. Cerveau": 0,
+            "B. Foie": 1,
+            "C. Muscle squelettique": 0,
+            "D. Rein": 0
+        }
+    },
+    {
+        "input": "Homme de 45 ans, accident de vélo, fracture comminutive du fémur gauche. En salle d'urgence, il a soudainement présenté des difficultés respiratoires et une douleur thoracique. Examen physique : augmentation de la fréquence respiratoire, cyanose, râles humides audibles dans les poumons. Radiographie : atelectasie pulmonaire, présence d'une petite quantité de liquide dans la cavité thoracique. La lésion pulmonaire la plus probable est ______.\nA. Embolie pulmonaire\nB. Embolie pulmonaire par des graisses\nC. Emphysème\nD. Pneumonie",
+        "target_scores": {
+            "A. Embolie pulmonaire": 0,
+            "B. Embolie pulmonaire par des graisses": 1,
+            "C. Emphysème": 0,
+            "D. Pneumonie": 0
+        }
+    },
+    {
+        "input": "Quel est la partie commune du centre nerveux dans le système nerveux central pour le réflexe pupillaire à l'accommodation et le réflexe pupillaire à la lumière ?\nA. Hypothalamus\nB. Médulla allongée\nC. Mésencéphale\nD. Pont de Varole",
+        "target_scores": {
+            "A. Hypothalamus": 0,
+            "B. Médulla allongée": 0,
+            "C. Mésencéphale": 1,
+            "D. Pont de Varole": 0
+        }
+    },
+    {
+        "input": "Homme de 34 ans, présentant un syndrome néphrotique depuis de nombreuses années. Hypertension, polyurie et nycturie ces dernières années. Anémie, diminution de la vision, odeur urinaire sur tout le corps, faiblesse, vomissements, convulsions, et finalement mort dans un coma. Quelle est la manifestation pathologique rénale possible du patient ?\nA. Petites taches ressemblant à des piqûres de puces sur la surface rénale\nB. Rein atrophique à surface granuleuse\nC. Rein hypertrophié de couleur blanche\nD. Rein hypertrophié de couleur rouge",
+        "target_scores": {
+            "A. Petites taches ressemblant à des piqûres de puces sur la surface rénale": 0,
+            "B. Rein atrophique à surface granuleuse": 1,
+            "C. Rein hypertrophié de couleur blanche": 0,
+            "D. Rein hypertrophié de couleur rouge": 0
+        }
+    },
+    {
+        "input": "Quel est le composant qui diffère le plus entre le liquide tissulaire et le plasma d'un organisme ?\nA. Composés organiques à grande molécule\nB. Composés organiques à petite molécule\nC. Protéines\nD. Électrolytes",
+        "target_scores": {
+            "A. Composés organiques à grande molécule": 0,
+            "B. Composés organiques à petite molécule": 0,
+            "C. Protéines": 1,
+            "D. Électrolytes": 0
+        }
+    },
+    {
+        "input": "Par rapport aux cellules musculaires cardiaques, quelle est la caractéristique principale du potentiel d'action des cellules de Purkinje ?\nA. En phase 4, une dépolarisation automatique se produit\nB. La phase plateau est prolongée dans les cellules de Purkinje\nC. Le potentiel membranaire est stabilisé en phase 4\nD. Les cellules de Purkinje se caractérisent par une amplitude élevée de leur potentiel d'action",
+        "target_scores": {
+            "A. En phase 4, une dépolarisation automatique se produit": 1,
+            "B. La phase plateau est prolongée dans les cellules de Purkinje": 0,
+            "C. Le potentiel membranaire est stabilisé en phase 4": 0,
+            "D. Les cellules de Purkinje se caractérisent par une amplitude élevée de leur potentiel d'action": 0
+        }
+    },
+    {
+        "input": "Si le taux de clairance rénale d'une substance est de 80 ml/min, on peut penser que les tubules rénaux ______.\nA. ne peuvent certainement pas réabsorber cette substance, ni sécréter non plus cette substance\nB. peuvent certainement la réabsorber, mais on n'est pas sûr s'ils peuvent la sécréter\nC. peuvent certainement réabsorber cette substance et peuvent également certainement la sécréter\nD. peuvent certainement sécréter cette substance, mais on n'est pas sûr s'ils peuvent la réabsorber",
+        "target_scores": {
+            "A. ne peuvent certainement pas réabsorber cette substance, ni sécréter non plus cette substance": 0,
+            "B. peuvent certainement la réabsorber, mais on n'est pas sûr s'ils peuvent la sécréter": 1,
+            "C. peuvent certainement réabsorber cette substance et peuvent également certainement la sécréter": 0,
+            "D. peuvent certainement sécréter cette substance, mais on n'est pas sûr s'ils peuvent la réabsorber": 0
+        }
+    },
+    {
+        "input": "Homme de 40 ans, histoire de tabagisme de 20 ans, 2 à 3 paquets par jour. La toux s'est aggravée récemment, et une radiographie a montré une ombre dans le poumon supérieur gauche. Biopsie de la muqueuse bronchique, présence d'épithélium squameux. Ce type de modification pathologique est une ______.\nA. Atrophie de la muqueuse bronchique\nB. Hyperplasie de l'épithélium squameux de la muqueuse bronchique\nC. Hyperplasie de la muqueuse bronchique\nD. Métaplasie épithéliale en épithélium squameux de la muqueuse bronchique",
+        "target_scores": {
+            "A. Atrophie de la muqueuse bronchique": 0,
+            "B. Hyperplasie de l'épithélium squameux de la muqueuse bronchique": 0,
+            "C. Hyperplasie de la muqueuse bronchique": 0,
+            "D. Métaplasie épithéliale en épithélium squameux de la muqueuse bronchique": 1
+        }
+    },
+    {
+        "input": "Femme de 67 ans, admise aux urgences pour une intoxication au monoxyde de carbone, qui n'a pas repris conscience malgré le traitement dans un caisson hyperbare. La raison est ______.\nA. Un décalage de la courbe de dissociation de l'oxyhémoglobine vers la droite\nB. Une diminution de la libération d'O2 de l'oxyhémoglobine\nC. Une faible pression partielle en O2 dans le sang artériel\nD. Élargissement de la différence artério-veineuse en oxygène",
+        "target_scores": {
+            "A. Un décalage de la courbe de dissociation de l'oxyhémoglobine vers la droite": 0,
+            "B. Une diminution de la libération d'O2 de l'oxyhémoglobine": 1,
+            "C. Une faible pression partielle en O2 dans le sang artériel": 0,
+            "D. Élargissement de la différence artério-veineuse en oxygène": 0
+        }
+    },
+    {
+        "input": "Le sixième jour après une opération de resection des intestins nécrosés suite à une obstruction intestinale aiguë et une anastomose intestinale, le patient a eu une toux suivie d'une émission de liquide rose pâle à travers l'incision. La raison la plus probable est ______.\nA. Un éclatement de l'incision\nB. Une accumulation de liquide sous-cutané dans l'incision\nC. Une formation d'ascite\nD. Une infection de l'incision",
+        "target_scores": {
+            "A. Un éclatement de l'incision": 1,
+            "B. Une accumulation de liquide sous-cutané dans l'incision": 0,
+            "C. Une formation d'ascite": 0,
+            "D. Une infection de l'incision": 0
+        }
+    },
+    {
+        "input": "Parmi les descriptions de la consolidation osseuse, celle où la fracture est caractérisée par la présence de tissu de granulation et des trabécules osseuses désordonnées est : ______.\nA. Formation de cal fibreuse\nB. Formation de cal osseux\nC. Non-union osseuse\nD. Remodelage complet du cal",
+        "target_scores": {
+            "A. Formation de cal fibreuse": 0,
+            "B. Formation de cal osseux": 1,
+            "C. Non-union osseuse": 0,
+            "D. Remodelage complet du cal": 0
+        }
+    },
+    {
+        "input": "Une femme de 50 ans est admise pour une douleur abdominale aiguë. Antécédent d'hypertension artérielle. Examen physique : tension artérielle de 90/50 mmHg, membres froids, extrémités pâles, absence de masse abdominale palpable, absence de rigidité abdominale et de douleur à la percussion. Diagnostic échographique d'une dissection aortique. Ce qui peut provoquer une dissection aortique est ______.\nA. L'aortite rhumatoïde\nB. L'artérite de Takayasu\nC. L'artérite à cellules géantes\nD. L'athérosclérose",
+        "target_scores": {
+            "A. L'aortite rhumatoïde": 0,
+            "B. L'artérite de Takayasu": 0,
+            "C. L'artérite à cellules géantes": 0,
+            "D. L'athérosclérose": 1
+        }
+    },
+    {
+        "input": "Un homme de 30 ans présente une consommation excessive d'alcool depuis environ 8 ans, consommant quotidiennement environ 500 ml de cognac par jour. Depuis environ six mois, il présente fréquemment des nausées, des vomissements et une anorexie. La biopsie hépatique révèle une stéatose hépatique diffuse, une nécrose focale des hépatocytes. On observe dans les hépatocytes des corps transparents de taille variable, teintés en rouge. Quelle est la composition de ces corps transparents ?\nA. Antigène de surface de l'hépatite B\nB. Immunoglobuline\nC. Protéine plasmatique\nD. Prékératine",
+        "target_scores": {
+            "A. Antigène de surface de l'hépatite B": 0,
+            "B. Immunoglobuline": 0,
+            "C. Protéine plasmatique": 0,
+            "D. Prékératine": 1
+        }
+    },
+    {
+        "input": "Patient masculin, 40 ans, avec une rougeur, une tuméfaction, une chaleur et une douleur au niveau du dos depuis 7 jours, avec trois ou quatre orifices de drainage sur la surface, émettant un liquide jaune. L'étiologie de la lésion est ______.\nA. Causée par une infection à Escherichia coli\nB. Causée par une infection à Staphylococcus aureus\nC. Causée par une infection à proteus spp\nD. Causée par unene infection à Streptococcus pyogenes",
+        "target_scores": {
+            "A. Causée par une infection à Escherichia coli": 0,
+            "B. Causée par une infection à Staphylococcus aureus": 1,
+            "C. Causée par une infection à proteus spp": 0,
+            "D. Causée par unene infection à Streptococcus pyogenes": 0
+        }
+    },
+    {
+        "input": "Homme, 38 ans. Depuis plus de dix ans, il présente des symptômes de régurgitation acide, éructations, sensation de satiété épigastrique, accompagnés de douleurs épigastriques régulières, apparaissant à jeun, plus intenses la nuit, soulagées par la prise alimentaire. La gastroscopie révèle un ulcère rond d’environ 1 cm de diamètre au niveau du bulbe duodénal. Quelle description ne correspond pas à la maladie de ce patient ?\nA. La prédisposition à l'hémorragie\nB. La prédisposition à l'obstruction pylorique(pyloric obstruction)\nC. La prédisposition à la perforation\nD. La prédisposition à la transformation maligne",
+        "target_scores": {
+            "A. La prédisposition à l'hémorragie": 0,
+            "B. La prédisposition à l'obstruction pylorique(pyloric obstruction)": 0,
+            "C. La prédisposition à la perforation": 0,
+            "D. La prédisposition à la transformation maligne": 1
+        }
+    },
+    {
+        "input": "Patient décédé d'une hémorragie cérébrale due à l'hypertension artérielle, avec un cœur pesant 550 g, une paroi ventriculaire gauche de 1,6 cm, des muscles papillaires et des trabécules épaissis, sans dilatation des cavités cardiaques. Le diagnostic est compatible avec une ______.\nA. Cardiomyopathie hypertrophique\nB. Hypertrophie cardiaque compensée\nC. Hypertrophie cardiaque décompensée\nD. Stéatose cardiaque",
+        "target_scores": {
+            "A. Cardiomyopathie hypertrophique": 0,
+            "B. Hypertrophie cardiaque compensée": 1,
+            "C. Hypertrophie cardiaque décompensée": 0,
+            "D. Stéatose cardiaque": 0
+        }
+    },
+    {
+        "input": "Homme de 60 ans, avec une hématurie sans douleur depuis plus de six mois. L'examen cystoscopique révèle une tumeur papillaire avec un pédicule dans la zone trigonale de la vessie. Le rapport de biopsie indique un papillome. La lésion correspondant à ce diagnostic est ______.\nA. Constituée de papilles recouvertes d'épithélium glandulaire bien différencié\nB. Constituée de papilles recouvertes de cellules de transition bien différenciées\nC. Constituée de présence de glandes\nD. Constituée de résence de grappes de cellules squameuses",
+        "target_scores": {
+            "A. Constituée de papilles recouvertes d'épithélium glandulaire bien différencié": 0,
+            "B. Constituée de papilles recouvertes de cellules de transition bien différenciées": 1,
+            "C. Constituée de présence de glandes": 0,
+            "D. Constituée de résence de grappes de cellules squameuses": 0
+        }
+    },
+    {
+        "input": "Homme de 58 ans, décédé d'un cancer de l'estomac avec une métastase généralisée. L'examen anatomopathologique du cœur, pesant 200 g, révèle des granules brun foncé visibles des deux côtés des noyaux des cellules myocardiques. Ce pigment est : ______.\nA. Aggrégation de kératine\nB. Bilirubine\nC. Lipofuscine\nD. Mélanine",
+        "target_scores": {
+            "A. Aggrégation de kératine": 0,
+            "B. Bilirubine": 0,
+            "C. Lipofuscine": 1,
+            "D. Mélanine": 0
+        }
+    },
+    {
+        "input": "Patient de 20 ans présentant une consolidation osseuse satisfaisante après une fracture. Après 5 ans, l'examen histopathologique du tissu osseux au site de fracture révèle :\nA. De nombreuses cellules géantes multinucléées\nB. De nombreux capillaires néoformés\nC. De nombreux fibroblastes\nD. Un tissu osseux normal",
+        "target_scores": {
+            "A. De nombreuses cellules géantes multinucléées": 0,
+            "B. De nombreux capillaires néoformés": 0,
+            "C. De nombreux fibroblastes": 0,
+            "D. Un tissu osseux normal": 1
+        }
+    },
+    {
+        "input": "Homme de 58 ans, opéré d'une cholécystectomie pour calculs biliaires et cholécystite il y a 3 jours. Le patient a une fièvre persistante, une toux avec expectoration purulente jaune et une douleur thoracique du côté droit. La radiographie thoracique montre une consolidation pulmonaire en masse dans le lobe inférieur droit avec des zones de transparence irrégulières. Le pathogène le plus probable de cette pneumonie acquise à l'hôpital est :  ______.\nA. Bacilles à Gram négatif\nB. Bactéries anaérobies\nC. Pneumocoque (Streptococcus pneumoniae)\nD. Streptocoque pyogène",
+        "target_scores": {
+            "A. Bacilles à Gram négatif": 1,
+            "B. Bactéries anaérobies": 0,
+            "C. Pneumocoque (Streptococcus pneumoniae)": 0,
+            "D. Streptocoque pyogène": 0
+        }
+    },
+    {
+        "input": "Une diminution de la concentration en Na⁺ et une augmentation de la concentration en K⁺ peuvent provoquer une ______.\nA. Augmentation de la libération de l'hormone antidiurétique (ADH)\nB. Augmentation de la sécrétion d'aldostérone\nC. Réduction de la libération de l'hormone antidiurétique (ADH)\nD. Réduction de la sécrétion d'aldostérone",
+        "target_scores": {
+            "A. Augmentation de la libération de l'hormone antidiurétique (ADH)": 0,
+            "B. Augmentation de la sécrétion d'aldostérone": 1,
+            "C. Réduction de la libération de l'hormone antidiurétique (ADH)": 0,
+            "D. Réduction de la sécrétion d'aldostérone": 0
+        }
+    },
+    {
+        "input": "Homme de 30 ans, présentant un érythème et une tuméfaction au niveau du cou depuis 8 jours. L'examen révèle une zone de peau érythémateuse et tuméfiée d’environ 6 × 5 cm, avec plusieurs têtes purulentes en surface et une douleur marquée à la pression. La lésion est compatible avec         .\nA. Un anthrax\nB. Un furoncle\nC. Une cellulite\nD. Une lymphangite",
+        "target_scores": {
+            "A. Un anthrax": 1,
+            "B. Un furoncle": 0,
+            "C. Une cellulite": 0,
+            "D. Une lymphangite": 0
+        }
+    },
+    {
+        "input": "Homme de 60 ans présentant une douleur thoracique, une toux et une hémoptysie depuis deux mois. La radiographie thoracique révèle une opacité nodulaire de 5 cm de diamètre en périphérie du lobe supérieur droit, avec des bords irréguliers en dents de scie.              doit être évoqué en premier lieu.\nA. Abscesses pulmonaires\nB. Nodules silicotiques en masse\nC. Tuberculome pulmonaire\nD. Un cancer du poumon périphérique",
+        "target_scores": {
+            "A. Abscesses pulmonaires": 0,
+            "B. Nodules silicotiques en masse": 0,
+            "C. Tuberculome pulmonaire": 0,
+            "D. Un cancer du poumon périphérique": 1
+        }
+    },
+    {
+        "input": "La capacité de l'espace mort d'un individu est de 125 ml, le volume de ventilation pulmonaire est de 7 500 ml/min, la fréquence respiratoire est de 20 fois par minute, et le débit cardiaque est de 5 000 ml. Le rapport ventilation/perfusion devrait être  ______.\nA. 0,8\nB. 0,9\nC. 1\nD. 1,1",
+        "target_scores": {
+            "A. 0,8": 0,
+            "B. 0,9": 0,
+            "C. 1": 1,
+            "D. 1,1": 0
+        }
+    },
+    {
+        "input": "Si deux individus ont le même quotient respiratoire, cela signifie que  ______.\nA. Ils utilisent des sources d'énergie similaires\nB. Leur métabolisme de base est similaire\nC. Leur superficie corporelle est similaire\nD. Leur taux d'utilisation de l'énergie est similaire",
+        "target_scores": {
+            "A. Ils utilisent des sources d'énergie similaires": 1,
+            "B. Leur métabolisme de base est similaire": 0,
+            "C. Leur superficie corporelle est similaire": 0,
+            "D. Leur taux d'utilisation de l'énergie est similaire": 0
+        }
+    },
+    {
+        "input": "Patiente de 25 ans présentant une perte d'appétit, des nausées, une fatigue, une ictère cutanéo-muqueux (peau et sclérotique) et une douleur hépatique évoluant depuis deux semaines. Les tests de fonction hépatique révèlent une ALT à 100 U/L et une bilirubine totale à 180 mg/L. Le test pour $HBsAg$ est positif. La biopsie hépatique montre les altérations histologiques suivantes : œdème diffus des hépatocytes, prolifération des cellules de Kupffer, stéatose focale des hépatocytes, infiltration lymphocytaire au sein des lobules hépatiques, et nécrose ponctuelle et focale des cellules hépatiques. L’ensemble est compatible avec une           .\nA. Hépatite aiguë ordinaire\nB. Hépatite aiguë sévère\nC. Hépatite chronique active\nD. Hépatite subaiguë sévère",
+        "target_scores": {
+            "A. Hépatite aiguë ordinaire": 1,
+            "B. Hépatite aiguë sévère": 0,
+            "C. Hépatite chronique active": 0,
+            "D. Hépatite subaiguë sévère": 0
+        }
+    },
+    {
+        "input": "Femme de 73 ans, qui a chuté accidentellement en descendant les escaliers, avec une fracture du fémur. Lors de l'opération de fixation interne, elle a soudainement présenté des difficultés respiratoires, une cyanose, une hypotension, des convulsions généralisées, une perte de conscience et est décédée malgré les efforts de réanimation. Que retrouve-t-on le plus probablement dans les vaisseaux pulmonaires selon l’examen anatomopathologique ?\nA. Air\nB. Gouttelettes lipidiques\nC. Thrombus\nD. Épithélium kératinisé",
+        "target_scores": {
+            "A. Air": 0,
+            "B. Gouttelettes lipidiques": 1,
+            "C. Thrombus": 0,
+            "D. Épithélium kératinisé": 0
+        }
+    },
+    {
+        "input": "Chez les patients atteints de SIDA(syndrome d'immunodéficience acquise), la diminution la plus significative des cellules sanguines périphériques en phase terminale concerne les          .\nA. Cellules CD14+\nB. Cellules CD16+\nC. Cellules CD4+\nD. Cellules CD8+",
+        "target_scores": {
+            "A. Cellules CD14+": 0,
+            "B. Cellules CD16+": 0,
+            "C. Cellules CD4+": 1,
+            "D. Cellules CD8+": 0
+        }
+    },
+    {
+        "input": "Un homme de groupe sanguin A a deux enfants, un garçon et une fille. Le sérum de la fille ne provoque pas d'agglutination avec les érythrocytes de son père, tandis que le sérum du garçon provoque une agglutination avec les érythrocytes de son père. Le groupe sanguin du garçon pourrait donc être ______. \nA. A ou AB\nB. A ou B\nC. A ou O\nD. B ou O",
+        "target_scores": {
+            "A. A ou AB": 0,
+            "B. A ou B": 0,
+            "C. A ou O": 0,
+            "D. B ou O": 1
+        }
+    },
+    {
+        "input": "Homme de 60 ans, fumeur depuis longtemps, avec une histoire de cardiopathie pulmonaire de près de 3 ans, toux récente, essoufflement et palpitations. L'examen révèle une hépatomégalie avec douleur. La modification pathologique correspondant au foie du patient est  ______.\nA. Un œdème des cellules hépatiques, transformation en ballon\nB. Une atrophie et stéatose des cellules hépatiques\nC. Une nécrose fragmentaire des cellules hépatiques\nD. Une nécrose massive des cellules hépatiques",
+        "target_scores": {
+            "A. Un œdème des cellules hépatiques, transformation en ballon": 0,
+            "B. Une atrophie et stéatose des cellules hépatiques": 1,
+            "C. Une nécrose fragmentaire des cellules hépatiques": 0,
+            "D. Une nécrose massive des cellules hépatiques": 0
+        }
+    },
+    {
+        "input": "Patiente de 22 ans, présentant une masse abdominale inférieure droite depuis 3 mois. L’opération révèle une destruction de l’ovaire droit, remplacé par une tumeur kystique, contenant des matières grasses et des cheveux, avec des dents visibles dans la paroi kystique. Le diagnostic devrait être  ______.\nA. Un choristome\nB. Un dysgerminome\nC. Un hamartome\nD. Un teratome",
+        "target_scores": {
+            "A. Un choristome": 0,
+            "B. Un dysgerminome": 0,
+            "C. Un hamartome": 0,
+            "D. Un teratome": 1
+        }
+    },
+    {
+        "input": "Parmi les hormones suivantes, laquelle peut induire le pic de LH nécessaire à l'ovulation environ un jour avant l'ovulation ?\nA. Androgène\nB. Estradiol\nC. Hormone folliculo-stimulante (HFS)\nD. Progestérone",
+        "target_scores": {
+            "A. Androgène": 0,
+            "B. Estradiol": 1,
+            "C. Hormone folliculo-stimulante (HFS)": 0,
+            "D. Progestérone": 0
+        }
+    },
+    {
+        "input": "Un homme de 70 ans est admis aux urgences pour une hémorragie digestive massive. L'examen histologique d'un échantillon chirurgical révèle un ulcère géant en forme de cratère au niveau de la partie antrale de l'estomac. La coupe est dure, de couleur blanche cireuse, envahissant la couche musculaire. Des nodules sont visibles dans le foie, envoyés simultanément pour un examen histologique. Le diagnostic est une métastase hépatique d'un cancer de l'estomac. Quelle altération pathologique se montre ?\nA. Des petits nodules composés de cellules de carcinome épidermoïde\nB. Des petits nodules composés de cellules en bague\nC. Des petits nodules composés de cellules hépatiques\nD. Des petits nodules composés de lobules faux",
+        "target_scores": {
+            "A. Des petits nodules composés de cellules de carcinome épidermoïde": 0,
+            "B. Des petits nodules composés de cellules en bague": 1,
+            "C. Des petits nodules composés de cellules hépatiques": 0,
+            "D. Des petits nodules composés de lobules faux": 0
+        }
+    },
+    {
+        "input": "Pascal, 5 ans, est un enfant difficile à nourrir et maigre. Une malnutrition a été diagnostiquée lors d’une consultation ambulatoire. Le médecin a conseillé de corriger les habitudes alimentaires et d'augmenter l'apport en protéines, principalement parce que les protéines peuvent être ______.\nA. Associées à une oxydation directe pour fournir de l'énergie et maintenir l'équilibre énergétique\nB. Associées à une supplémentation en acides aminés divers pour maintenir l'effet complémentaire et favoriser la croissance\nC. Converties en graisse pour maintenir l'équilibre énergétique\nD. Converties en sucre pour fournir de l'énergie",
+        "target_scores": {
+            "A. Associées à une oxydation directe pour fournir de l'énergie et maintenir l'équilibre énergétique": 0,
+            "B. Associées à une supplémentation en acides aminés divers pour maintenir l'effet complémentaire et favoriser la croissance": 1,
+            "C. Converties en graisse pour maintenir l'équilibre énergétique": 0,
+            "D. Converties en sucre pour fournir de l'énergie": 0
+        }
+    },
+    {
+        "input": "Question à choix unique sur l'stase sanguine pulmonaire : Femme de 60 ans, avec une sténose mitrale depuis environ 15 ans, la dyspnée s'est récemment aggravée, avec une toux de crachats rosâtres mousseux. Quelle est la modification pathologique qui ne correspond pas aux poumons du patient ?\nA. Présence d'exsudation de globules rouges dans les cavités alvéolaires\nB. Présence d'exsudation massive de fibrine dans les alvéoles pulmonaires\nC. Présence d'une grande quantité de liquide protéique dans la cavité alvéolaire\nD. Présence de dilatation des capillaires des alvéoles",
+        "target_scores": {
+            "A. Présence d'exsudation de globules rouges dans les cavités alvéolaires": 0,
+            "B. Présence d'exsudation massive de fibrine dans les alvéoles pulmonaires": 1,
+            "C. Présence d'une grande quantité de liquide protéique dans la cavité alvéolaire": 0,
+            "D. Présence de dilatation des capillaires des alvéoles": 0
+        }
+    },
+    {
+        "input": "Dans le diagnostic différentiel des tumeurs malignes, la coloration immunohistochimique positive pour la vimentine et négative pour la kératine indique que la tumeur est  ______.\nA. Les tumeurs neuroendocriniennes\nB. Un cancer\nC. Un mélanome\nD. Un sarcome",
+        "target_scores": {
+            "A. Les tumeurs neuroendocriniennes": 0,
+            "B. Un cancer": 0,
+            "C. Un mélanome": 0,
+            "D. Un sarcome": 1
+        }
+    },
+    {
+        "input": "Lorsque la pression artérielle varie entre 80 et 180 mmHg, le débit sanguin rénal peut rester relativement stable, ce qui est le résultat de la régulation suivante : ______.\nA. Régulation autonome\nB. Régulation par le système nerveux parasympathique\nC. Régulation par le système rénine-angiotensine\nD. Régulation par le système sympathique-surrénale médullaire",
+        "target_scores": {
+            "A. Régulation autonome": 1,
+            "B. Régulation par le système nerveux parasympathique": 0,
+            "C. Régulation par le système rénine-angiotensine": 0,
+            "D. Régulation par le système sympathique-surrénale médullaire": 0
+        }
+    },
+    {
+        "input": "Lorsque l'avion monte et descend, les hôtesses demandent aux passagers de faire des mouvements de déglutition, ce qui a pour but de  ______. \nA. Réguler l'équilibre de pression des deux côtés de la membrane basilaire\nB. Réguler l'équilibre de pression des deux côtés de la membrane vestibulaire\nC. Réguler l'équilibre de pression entre la cavité tympanique et l'atmosphère\nD. Réguler l'équilibre de pression entre les deux côtés de la fenêtre ovale",
+        "target_scores": {
+            "A. Réguler l'équilibre de pression des deux côtés de la membrane basilaire": 0,
+            "B. Réguler l'équilibre de pression des deux côtés de la membrane vestibulaire": 0,
+            "C. Réguler l'équilibre de pression entre la cavité tympanique et l'atmosphère": 1,
+            "D. Réguler l'équilibre de pression entre les deux côtés de la fenêtre ovale": 0
+        }
+    },
+    {
+        "input": "Lors de la respiration calme, la pression intra-pulmonaire est inférieure à la pression atmosphérique pendant la phase suivante :  ______.\nA. Début de l'expiration\nB. Début de l'inspiration\nC. Fin de l'expiration\nD. Fin de l'inspiration",
+        "target_scores": {
+            "A. Début de l'expiration": 0,
+            "B. Début de l'inspiration": 1,
+            "C. Fin de l'expiration": 0,
+            "D. Fin de l'inspiration": 0
+        }
+    },
+    {
+        "input": "Patient masculin de 35 ans, ayant contracté une infection des voies respiratoires supérieures il y a 2 jours, la maladie s'est rapidement aggravée avec une fièvre (39,8 °C), des frissons, des douleurs thoraciques et des crachats de couleur rouille. L'examen radiographique montre une ombre dense en masse dans le lobe inférieur gauche du poumon. La description qui ne correspond pas à la maladie du patient est :  ______.\nA. Cette maladie peut compliquer un abcès pulmonaire\nB. Cette maladie peut compliquer un choc infectieux\nC. Cette maladie peut compliquer une bronchiectasie\nD. Cette maladie peut compliquer une carnification de la pneumonie (pulmonary carnification)",
+        "target_scores": {
+            "A. Cette maladie peut compliquer un abcès pulmonaire": 0,
+            "B. Cette maladie peut compliquer un choc infectieux": 0,
+            "C. Cette maladie peut compliquer une bronchiectasie": 1,
+            "D. Cette maladie peut compliquer une carnification de la pneumonie (pulmonary carnification)": 0
+        }
+    },
+    {
+        "input": "Pour une fibre nerveuse unique, lorsque l'intensité du stimulus est doublée sur la base de l'intensité seuil, comment varie l'amplitude du potentiel d'action ?\nA. Augmentation d'une fois\nB. Augmentation de deux fois\nC. Rester inchangé\nD. Réduction de moitié",
+        "target_scores": {
+            "A. Augmentation d'une fois": 0,
+            "B. Augmentation de deux fois": 0,
+            "C. Rester inchangé": 1,
+            "D. Réduction de moitié": 0
+        }
+    },
+    {
+        "input": "Sous la précharge constante, à quel moment la vitesse initiale de contraction musculaire atteint-elle sa valeur maximale en fonction de la post-charge ?\nA. Infiniment grande\nB. Nulle\nC. Trop faible\nD. Trop grande",
+        "target_scores": {
+            "A. Infiniment grande": 0,
+            "B. Nulle": 1,
+            "C. Trop faible": 0,
+            "D. Trop grande": 0
+        }
+    },
+    {
+        "input": "Patient masculin de 50 ans, avec une hernie inguinale droite. Après une opération de réparation de la hernie, à quel moment la résistance à la traction de la plaie atteint-elle son maximum ?\nA. 2 mois\nB. 3 mois\nC. 3 semaines\nD. 5 semaines",
+        "target_scores": {
+            "A. 2 mois": 0,
+            "B. 3 mois": 1,
+            "C. 3 semaines": 0,
+            "D. 5 semaines": 0
+        }
+    },
+    {
+        "input": "Patiente de 26 ans, présentant une masse ronde d'environ 2 cm de diamètre dans le quadrant supérieur externe du sein droit. Les bords sont nets, la surface est lisse, mobile et non douloureuse. Quelle est la probabilité que cette masse soit ______ ?\nA. Cancer du sein\nB. Fibroadénome mammaire\nC. Hyperplasie mammaire\nD. Kyste mammaire",
+        "target_scores": {
+            "A. Cancer du sein": 0,
+            "B. Fibroadénome mammaire": 1,
+            "C. Hyperplasie mammaire": 0,
+            "D. Kyste mammaire": 0
+        }
+    },
+    {
+        "input": "Parmi les effets produits par la liaison des catécholamines aux récepteurs bêta, laquelle des affirmations suivantes est fausse ?\nA. Affaiblissement de l'activité cardiaque\nB. Dilatation du muscle lisse de l'intestin grêle\nC. Dilatation utérine\nD. Dilatation vasculaire",
+        "target_scores": {
+            "A. Affaiblissement de l'activité cardiaque": 1,
+            "B. Dilatation du muscle lisse de l'intestin grêle": 0,
+            "C. Dilatation utérine": 0,
+            "D. Dilatation vasculaire": 0
+        }
+    },
+    {
+        "input": "Parmi les substances suivantes, laquelle est à la fois un substrat d'énergie et une source d'énergie directe ?\nA. Acides gras\nB. Adénosine diphosphate (ADP)\nC. Adénosine triphosphate (ATP)\nD. Glucose",
+        "target_scores": {
+            "A. Acides gras": 0,
+            "B. Adénosine diphosphate (ADP)": 0,
+            "C. Adénosine triphosphate (ATP)": 1,
+            "D. Glucose": 0
+        }
+    },
+    {
+        "input": "Patiente de 40 ans, avec des douleurs au niveau du flanc gauche depuis un an, des traces de sang dans les urines, parfois des urines purulentes, et des bacilles de Koch détectés dans les urines. L'examen de la pyélographie révèle une cavité dans le rein gauche. Le diagnostic qui correspond à la maladie du patient est : ______.\nA. Carcinome rénal gauche\nB. Hydronéphrose du rein gauche\nC. Lithiase urinaire du rein gauche\nD. Tuberculose du rein gauche",
+        "target_scores": {
+            "A. Carcinome rénal gauche": 0,
+            "B. Hydronéphrose du rein gauche": 0,
+            "C. Lithiase urinaire du rein gauche": 0,
+            "D. Tuberculose du rein gauche": 1
+        }
+    },
+    {
+        "input": "Parmi les lésions pré-cancéreuses suivantes, celle qui a la plus haute probabilité de devenir cancéreuse est :______.\nA. Gastrite atrophique chronique\nB. Hyperplasie atypique\nC. Métaplasie en épithélium intestinal\nD. Ulcère peptique",
+        "target_scores": {
+            "A. Gastrite atrophique chronique": 0,
+            "B. Hyperplasie atypique": 1,
+            "C. Métaplasie en épithélium intestinal": 0,
+            "D. Ulcère peptique": 0
+        }
+    },
+    {
+        "input": "Femme de 30 ans, avec une tuberculose de la colonne vertébrale et un abcès froid dans le dos, l'abcès froid s'est rompu et le pus s'écoule continuellement. Cette lésion est : ______.\nA. Cavité\nB. Fistule\nC. Sinus\nD. Ulcère",
+        "target_scores": {
+            "A. Cavité": 0,
+            "B. Fistule": 0,
+            "C. Sinus": 1,
+            "D. Ulcère": 0
+        }
+    },
+    {
+        "input": "Un patient présente une polydipsie, une polyurie, une polyphagie, une concentration de glucose sanguin de 200 mg/100 ml et une glucosurie (+). La principale raison de l'augmentation de la diurèse est ______.\nA. L'augmentation de la concentration des solutés dans les tubules rénaux\nB. L'augmentation du débit de filtration glomérulaire\nC. L'hypertonie osmotique du plasma\nD. La réduction de la réabsorption tubulaire rénale",
+        "target_scores": {
+            "A. L'augmentation de la concentration des solutés dans les tubules rénaux": 1,
+            "B. L'augmentation du débit de filtration glomérulaire": 0,
+            "C. L'hypertonie osmotique du plasma": 0,
+            "D. La réduction de la réabsorption tubulaire rénale": 0
+        }
+    },
+    {
+        "input": "Patiente de 60 ans, l'examen macroscopique du tissu tumoral de la vessie révèle une tumeur d'environ 3 cm de diamètre, en forme papillaire, avec une ulcération en surface, une coupe grise et dure, envahissant la paroi musculaire de la vessie. Le diagnostic le plus probable pour cette tumeur est : ______.\nA. Carcinome indifférencié\nB. Carcinome urothélial\nC. Carcinome épidermoïde\nD. Léiomyosarcome",
+        "target_scores": {
+            "A. Carcinome indifférencié": 0,
+            "B. Carcinome urothélial": 1,
+            "C. Carcinome épidermoïde": 0,
+            "D. Léiomyosarcome": 0
+        }
+    },
+    {
+        "input": "Femme de 18 ans, avec une fièvre élevée, des nausées, des vomissements, une somnolence, une jaunisse de la peau et du sclérotique, une douleur hépatique depuis une semaine. L'ALT est de 150 U, la bilirubine est de 35mg\\%, $HBsAg(+)$. Hospitalisée pendant 2 jours, elle a développé une odeur hépatique et une hépatocéphalopathie. Elle est décédée d'une hémorragie digestive généralisée. Parmi les modifications pathologiques suivantes, laquelle correspond à la biopsie hépatique ?\nA. Nécrose fragmentaire des cellules hépatiques\nB. Nécrose massive des cellules hépatiques\nC. Nécrose ponctuelle des cellules hépatiques\nD. Nécrose sous-massive des cellules hépatiques",
+        "target_scores": {
+            "A. Nécrose fragmentaire des cellules hépatiques": 0,
+            "B. Nécrose massive des cellules hépatiques": 1,
+            "C. Nécrose ponctuelle des cellules hépatiques": 0,
+            "D. Nécrose sous-massive des cellules hépatiques": 0
+        }
+    },
+    {
+        "input": "Homme de 16 ans. Brûlure de la main gauche, rougeur et œdème, quelques vésicules, sans infection. Quelle est la modification pathologique des tissus cutanés locaux après la guérison du patient ?\nA. Angiogenèse capillaire\nB. Destruction des annexes cutanées\nC. Formation de cicatrice fibreuse\nD. Peau normale",
+        "target_scores": {
+            "A. Angiogenèse capillaire": 0,
+            "B. Destruction des annexes cutanées": 0,
+            "C. Formation de cicatrice fibreuse": 0,
+            "D. Peau normale": 1
+        }
+    },
+    {
+        "input": "La métaplasie épithéliale en épithélium squameux dans les muqueuses bronchiques appartient généralement à quelle modification ?\nA. Changements adaptatifs\nB. Dysplasie\nC. Hyperplasie atypique\nD. Régénération incomplète",
+        "target_scores": {
+            "A. Changements adaptatifs": 1,
+            "B. Dysplasie": 0,
+            "C. Hyperplasie atypique": 0,
+            "D. Régénération incomplète": 0
+        }
+    },
+    {
+        "input": "Femme de 23 ans, premier accouchement à terme, sans complications de grossesse, en cours d'accouchement vaginal, qui présente soudainement des difficultés respiratoires, une cyanose, une hypotension, des convulsions généralisées, une perte de conscience et décède malgré les efforts de réanimation. Que retrouve-t-on le plus probablement dans les petites artères pulmonaires et les capillaires selon l’examen anatomopathologique ?\nA. Embolie amniotique\nB. Embolie gazeuse\nC. Embolie graisseuse\nD. Embolie pulmonaire",
+        "target_scores": {
+            "A. Embolie amniotique": 0,
+            "B. Embolie gazeuse": 0,
+            "C. Embolie graisseuse": 1,
+            "D. Embolie pulmonaire": 0
+        }
+    },
+    {
+        "input": "Un adulte normal doit éliminer 900 mmol de soluté chaque jour. Si une personne a une fonction de concentration et de dilution urinaire altérée, avec une concentration osmotique maximale de l'urine de 300 mmol/L, combien d'eau doit-il boire au minimum chaque jour pour empêcher l'augmentation de la concentration osmotique des liquides corporels (en supposant une perte d'eau insensible de 1,5 L/jour) ?\nA. 1L\nB. 3L\nC. 4.5L\nD. 6L",
+        "target_scores": {
+            "A. 1L": 0,
+            "B. 3L": 0,
+            "C. 4.5L": 1,
+            "D. 6L": 0
+        }
+    },
+    {
+        "input": "Si une substance a une certaine concentration dans l'artère rénale, mais est absente dans la veine rénale, son taux de clairance plasmatique est ( )\nA. Égal au débit de filtration glomérulaire\nB. Égal au débit de plasma rénal par minute\nC. Égal au débit sanguin rénal par minute\nD. Égal à zéro",
+        "target_scores": {
+            "A. Égal au débit de filtration glomérulaire": 0,
+            "B. Égal au débit de plasma rénal par minute": 1,
+            "C. Égal au débit sanguin rénal par minute": 0,
+            "D. Égal à zéro": 0
+        }
+    },
+    {
+        "input": "Le patient ne peut pas écrire, mais toutes les autres fonctions langagières sont intactes, et il n'y a pas d'autres obstacles aux mouvements de la main. Le site de la lésion du centre de la parole est _____.\nA. La partie postérieure du fond du gyrus précentral\nB. La partie postérieure du gyrus frontal moyen\nC. La partie postérieure du gyrus temporal supérieur\nD. La troisième partie postérieure du gyrus frontal inférieur",
+        "target_scores": {
+            "A. La partie postérieure du fond du gyrus précentral": 0,
+            "B. La partie postérieure du gyrus frontal moyen": 1,
+            "C. La partie postérieure du gyrus temporal supérieur": 0,
+            "D. La troisième partie postérieure du gyrus frontal inférieur": 0
+        }
+    },
+    {
+        "input": "Un individu a un nombre total de leucocytes de $11 \\times 10^9/L$. Les neutrophiles sont $5 \\times 10^9/L$, les éosinophiles $3 \\times 10^9/L$, ce qui peut être observé dans ______.\nA. L'habitant des hauteurs\nB. La personne normale\nC. Le nourrisson\nD. Un patient atteint de la schistosomiase",
+        "target_scores": {
+            "A. L'habitant des hauteurs": 0,
+            "B. La personne normale": 0,
+            "C. Le nourrisson": 0,
+            "D. Un patient atteint de la schistosomiase": 1
+        }
+    },
+    {
+        "input": "Lors d'une lésion cérébrale, les cellules gliales peuvent être affaiblies par une hyperplasie excessive. Parmi les fonctions affaiblies suivantes, celle qui est liée à la formation de la lésion épileptique locale est ______.\nA. L'action barrière\nB. L'action isolante\nC. L'action nutritionnelle\nD. La capacité de pompage du K⁺",
+        "target_scores": {
+            "A. L'action barrière": 0,
+            "B. L'action isolante": 0,
+            "C. L'action nutritionnelle": 0,
+            "D. La capacité de pompage du K⁺": 1
+        }
+    },
+    {
+        "input": "En respiration calme, la pression intrapleurale est de -5 à -3 mmHg à la fin de l'expiration, et à la fin de l'inspiration, la pression intrapleurale est de ______.\nA.  -10 à -5 mmHg\nB.  -3 à 5 mmHg\nC. 0 à 5 mmHg\nD. 5 à 10 mmHg",
+        "target_scores": {
+            "A.  -10 à -5 mmHg": 1,
+            "B.  -3 à 5 mmHg": 0,
+            "C. 0 à 5 mmHg": 0,
+            "D. 5 à 10 mmHg": 0
+        }
+    },
+    {
+        "input": "Dans la séquence d’un certain ARNm, une mutation du brin matrice d’ADN modifie le 91ᵉ codon, le changeant de UAG en UAA. Ce type de mutation est ______.\nA. Une mutation faux-sens\nB. Une mutation non-sens\nC. Une mutation par décalage de lecture\nD. Une mutation silencieuse",
+        "target_scores": {
+            "A. Une mutation faux-sens": 0,
+            "B. Une mutation non-sens": 0,
+            "C. Une mutation par décalage de lecture": 0,
+            "D. Une mutation silencieuse": 1
+        }
+    },
+    {
+        "input": "Patient masculin de 73 ans, sans antécédents d'hypertension artérielle. Il y a 3 jours, il a soudainement ressenti une lourdeur et une limitation du mouvement dans la jambe droite, ainsi qu'une limitation du mouvement du bras droit. Un jour plus tard, la fonction motrice des membres supérieurs et inférieurs droits a été complètement perdue. La description qui correspond à la maladie du patient est ______.\nA. L'abcès cérébral\nB. L'artériosclérose cérébrale avec thrombose\nC. L'hémorragie cérébrale\nD. La tumeur cérébrale",
+        "target_scores": {
+            "A. L'abcès cérébral": 0,
+            "B. L'artériosclérose cérébrale avec thrombose": 1,
+            "C. L'hémorragie cérébrale": 0,
+            "D. La tumeur cérébrale": 0
+        }
+    },
+    {
+        "input": "Lors de la pancréatite aiguë, on peut observer des taches de saponification, le type de nécrose est ______.\nA. Une nécrose caséeuse\nB. Une nécrose coagulative\nC. Une nécrose graisseuse\nD. Une nécrose liquéfiante",
+        "target_scores": {
+            "A. Une nécrose caséeuse": 0,
+            "B. Une nécrose coagulative": 0,
+            "C. Une nécrose graisseuse": 1,
+            "D. Une nécrose liquéfiante": 0
+        }
+    },
+    {
+        "input": "Parmi les lésions suivantes, l'amyloïdose est rare dans ______.\nA. Artériosclérose\nB. Carcinome médullaire de la thyroïde\nC. Maladie de la moelle osseuse\nD. Tuberculose",
+        "target_scores": {
+            "A. Artériosclérose": 1,
+            "B. Carcinome médullaire de la thyroïde": 0,
+            "C. Maladie de la moelle osseuse": 0,
+            "D. Tuberculose": 0
+        }
+    },
+    {
+        "input": "Si la période absolument réfractaire d'un cycle d'excitabilité cellulaire est de 2 ms, théoriquement, le nombre maximal de potentiels d'action qui peuvent être produits et conduits par seconde n'excède pas ______.\nA. 100 fois\nB. 400 fois\nC. 50 fois\nD. 500 fois",
+        "target_scores": {
+            "A. 100 fois": 0,
+            "B. 400 fois": 0,
+            "C. 50 fois": 0,
+            "D. 500 fois": 1
+        }
+    },
+    {
+        "input": "Des prolongements de la membrane basale du glomérulaire, reliés perpendiculairement à la membrane basale et ressemblant à des dents de peigne, sont des symptômes fréquents dans quelle maladie parmi les suivantes ?\nA. Glomérulonéphrite extra-capillaire\nB. Glomérulonéphrite extramembraneuse\nC. Glomérulonéphrite membranoproliférative type I\nD. Glomérulonéphrite membranoproliférative type II",
+        "target_scores": {
+            "A. Glomérulonéphrite extra-capillaire": 0,
+            "B. Glomérulonéphrite extramembraneuse": 1,
+            "C. Glomérulonéphrite membranoproliférative type I": 0,
+            "D. Glomérulonéphrite membranoproliférative type II": 0
+        }
+    },
+    {
+        "input": "Femme de 58 ans. Hospitalisée pour une masse dans le quadrant supérieur externe du sein gauche et une augmentation des ganglions lymphatiques axillaires. Le diagnostic pathologique du spécimen chirurgical est un carcinome ductal infiltrant du sein gauche avec métastase ganglionnaire (2/10). Parmi les modifications pathologiques suivantes, celle qui est la plus étroitement liée à la métastase de la patiente est une ______.\nA. Apparition de lésions de nécrose\nB. Augmentation de l'apoptose\nC. Augmentation de l'expression de la kératine\nD. Augmentation des récepteurs de la laminine",
+        "target_scores": {
+            "A. Apparition de lésions de nécrose": 0,
+            "B. Augmentation de l'apoptose": 0,
+            "C. Augmentation de l'expression de la kératine": 0,
+            "D. Augmentation des récepteurs de la laminine": 1
+        }
+    },
+    {
+        "input": "Deux jours après une blessure par écrasement du doigt, la douleur s'intensifie, l'œdème s'étend vers la paume de la main, sans limite claire avec les tissus normaux. Quel est le diagnostic le plus probable pour ce type de lésion ?\nA. Abcès\nB. Cellulite\nC. Inflammation fibrineuse\nD. Inflammation séreuse",
+        "target_scores": {
+            "A. Abcès": 0,
+            "B. Cellulite": 1,
+            "C. Inflammation fibrineuse": 0,
+            "D. Inflammation séreuse": 0
+        }
+    },
+    {
+        "input": "Garçon de 8 ans, depuis un an, il a une fièvre basse, de la fatigue, de l'épuisement, des sueurs nocturnes, ainsi que de la toux. L'examen radiographique montre une ombre floue en masse dans la partie supérieure du lobe inférieur droit du poumon, près de la plèvre, et une augmentation des ganglions lymphatiques hilaires. Le test tuberculinique est positif. La maladie du patient est probablement une ______.\nA. Tuberculose pulmonaire fibrocavitante chronique\nB. Tuberculose pulmonaire focale\nC. Tuberculose pulmonaire infiltrative\nD. Tuberculose pulmonaire primaire avec diffusion lymphatique",
+        "target_scores": {
+            "A. Tuberculose pulmonaire fibrocavitante chronique": 0,
+            "B. Tuberculose pulmonaire focale": 0,
+            "C. Tuberculose pulmonaire infiltrative": 0,
+            "D. Tuberculose pulmonaire primaire avec diffusion lymphatique": 1
+        }
+    },
+    {
+        "input": "Garçon de 10 ans, ayant souffert d'une amygdalite il y a 2 semaines, qui s'est améliorée après traitement. Depuis 2 jours, il présente des œdèmes des paupières, une oligurie, une hématurie, des protéinures (+++), et une augmentation de la tension artérielle (150/90 mmHg). Les manifestations cliniques du patient correspondent à ______.\nA. Syndrome de glomérulonéphrite aiguë\nB. Syndrome de glomérulonéphrite chronique\nC. Syndrome de glomérulonéphrite latente\nD. Syndrome de glomérulonéphrite rapidement progressive",
+        "target_scores": {
+            "A. Syndrome de glomérulonéphrite aiguë": 1,
+            "B. Syndrome de glomérulonéphrite chronique": 0,
+            "C. Syndrome de glomérulonéphrite latente": 0,
+            "D. Syndrome de glomérulonéphrite rapidement progressive": 0
+        }
+    },
+    {
+        "input": "Patiente de 50 ans, une tumeur dorsale a été découverte il y a 5 ans, avec une croissance lente. L'examen révèle une tumeur d'environ 5 cm de diamètre, mobile, avec des limites claires. La tumeur est enlevée chirurgicalement, elle est jaune pâle, lobulée, avec une capsule complète et une texture molle. Ce nodule est probablement ______.\nA. Des léiomyosarcomes\nB. Un fibrome\nC. Un hémangiome\nD. Un lipome",
+        "target_scores": {
+            "A. Des léiomyosarcomes": 0,
+            "B. Un fibrome": 0,
+            "C. Un hémangiome": 0,
+            "D. Un lipome": 1
+        }
+    },
+    {
+        "input": "Dans l'hémostase physiologique, l'activation de la phospholipase A2 des plaquettes peut conduire à la synthèse et la libération par les plaquettes de ______.\nA. Adénosine diphosphate (ADP)\nB. Adénosine triphosphate (ATP)\nC. Facteur d'activation plaquettaire\nD. Thromboxane A2 (TXA2)",
+        "target_scores": {
+            "A. Adénosine diphosphate (ADP)": 0,
+            "B. Adénosine triphosphate (ATP)": 0,
+            "C. Facteur d'activation plaquettaire": 0,
+            "D. Thromboxane A2 (TXA2)": 1
+        }
+    },
+    {
+        "input": "Parmi les types pathologiques du cancer de l'endomètre, celui qui est étroitement lié à la métaplasie est : ______.\nA. Adénocarcinome de type endométrioïde\nB. Adénocarcinome séreux\nC. Carcinome à cellules claires\nD. Carcinome épidermoïde",
+        "target_scores": {
+            "A. Adénocarcinome de type endométrioïde": 0,
+            "B. Adénocarcinome séreux": 0,
+            "C. Carcinome à cellules claires": 0,
+            "D. Carcinome épidermoïde": 1
+        }
+    },
+    {
+        "input": "Une mère Rh négative peut donner naissance à un enfant Rh positif, ce qui peut entraîner ( )\nA. L'anémie hémolytique du nouveau-né\nB. L'anémie mégaloblastique\nC. L'hémophilie\nD. L'érythrocytose",
+        "target_scores": {
+            "A. L'anémie hémolytique du nouveau-né": 1,
+            "B. L'anémie mégaloblastique": 0,
+            "C. L'hémophilie": 0,
+            "D. L'érythrocytose": 0
+        }
+    },
+    {
+        "input": "Femme de 28 ans, examen pour des douleurs pelviennes, une masse pelvienne est palpée, une hystérectomie est pratiquée. L'examen macroscopique révèle des nodules gris-blancs, gris-jaunes dans la paroi musculaire utérine, d'environ 2 cm de diamètre, avec des limites claires. L'examen microscopique montre que les cellules tumorales sont de taille uniforme, avec une coloration homogène, des mitoses rares (3/10HP), le tumor est riche en vaisseaux sanguins, mais sans invasion vasculaire. L'immunohistochimie montre DES(-) et CD10(+). Le diagnostic devrait être : ______.\nA. Léiomyome utérin\nB. Léiomyosarcome utérin\nC. Nodule de stroma endométrial\nD. Sarcome utérin indifférencié",
+        "target_scores": {
+            "A. Léiomyome utérin": 0,
+            "B. Léiomyosarcome utérin": 0,
+            "C. Nodule de stroma endométrial": 1,
+            "D. Sarcome utérin indifférencié": 0
+        }
+    }
+]

@@ -1,0 +1,884 @@
+[
+    {
+        "input": "Ein 45-jähriger Patient leidet seit 10 Jahren an einer Ulkuskrankheit. Gestern verschlimmerten sich seine Oberbauchschmerzen, und er setzte fünfmal Teerstuhl von jeweils 100–200 ml ab. Heute Morgen setzte er erneut zweimal Teerstuhl mit einem Gesamtvolumen von ca. 500 ml ab. Anschließend traten Blässe, kaltschweißige Haut und Reaktionslosigkeit auf, woraufhin er notfallmäßig eingewiesen wurde. Die körperliche Untersuchung bei Aufnahme zeigte: Bewusstseinstrübung, Lippenzyanose, Puls 125/min, Atemfrequenz 25/min und einen Blutdruck von 80/55 mmHg. Wie hoch wird der Blutverlust anhand der klinischen Befunde des Patienten geschätzt?\nA. 250 - 300ml\nB. 300 - 500ml\nC. 500 - 800ml\nD. >1000ml",
+        "target_scores": {
+            "A. 250 - 300ml": 0,
+            "B. 300 - 500ml": 0,
+            "C. 500 - 800ml": 0,
+            "D. >1000ml": 1
+        }
+    },
+    {
+        "input": "Welche Nebenwirkungen können bei einer Sauerstofftherapie auftreten, wenn die Inspirationskonzentration über  60 % beträgt und die Behandlungsdauer über 24 Stunden hinausgeht?\nA. Auslösung eines Asthmaanfalls\nB. Inspiratorische Dyspnoe\nC. Sauerstofftoxizität\nD. Tiefe Atmung",
+        "target_scores": {
+            "A. Auslösung eines Asthmaanfalls": 0,
+            "B. Inspiratorische Dyspnoe": 0,
+            "C. Sauerstofftoxizität": 1,
+            "D. Tiefe Atmung": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Aussagen ist falsch, wenn sich eine eingeklemmte Hernie zu einer strangulierten Hernie entwickelt hat?\nA. Die Darmperistaltik bleibt erhalten.\nB. Die Darmwand verliert ihre Elastizität.\nC. Die Darmwand verliert ihren Glanz.\nD. Die Pulsation der Mesenterialarterien verschwindet.",
+        "target_scores": {
+            "A. Die Darmperistaltik bleibt erhalten.": 1,
+            "B. Die Darmwand verliert ihre Elastizität.": 0,
+            "C. Die Darmwand verliert ihren Glanz.": 0,
+            "D. Die Pulsation der Mesenterialarterien verschwindet.": 0
+        }
+    },
+    {
+        "input": "Warum ist Wärmetherapie beim unklaren akuten Abdomen kontraindiziert?\nA. Sie behindert die Entzündungsresorption.\nB. Sie führt zu Durchfall.\nC. Sie kann den Krankheitsverlauf verbergen.\nD. Sie kann reflektorische Koronararterienverengung verursachen.",
+        "target_scores": {
+            "A. Sie behindert die Entzündungsresorption.": 0,
+            "B. Sie führt zu Durchfall.": 0,
+            "C. Sie kann den Krankheitsverlauf verbergen.": 1,
+            "D. Sie kann reflektorische Koronararterienverengung verursachen.": 0
+        }
+    },
+    {
+        "input": "Ein 28‑jähriger Patient wurde vor 5 Tagen bei einem Autounfall am linken Oberbauch verletzt und klagte damals über dumpfe Schmerzen mit Druckempfindlichkeit. Nach konservativer Therapie kollabierte er heute Morgen plötzlich, war blass, hatte einen feinen, schnellen Puls, und es bestanden keine Peritonismuszeichen. Welche Diagnose ist am wahrscheinlichsten?\nA. Gallblasenperforation\nB. Leberruptur\nC. Milzruptur\nD. Nierenruptur",
+        "target_scores": {
+            "A. Gallblasenperforation": 0,
+            "B. Leberruptur": 0,
+            "C. Milzruptur": 1,
+            "D. Nierenruptur": 0
+        }
+    },
+    {
+        "input": "Ein Hypertoniker entwickelt während des Schlafs plötzlich starke Brustenge, Dyspnoe, starkes Schwitzen und hustet viel schaumiges, rosafarbenes Sputum. Er zeigt Orthopnoe, hat einen Blutdruck von 26,6/14,7 kPa (200/110 mmHg) und eine HF von 110/min. Welche der folgenden Pflegemaßnahmen ist fehlerhaft?\nA. Alkoholbefeuchtete Sauerstoffinhalation mit 4–6 L/min\nB. Den Patienten in eine Sitzposition mit herabhängenden Beinen positionieren\nC. Einen intravenösen Zugang legen\nD. Schnelle intravenöse Medikamentengabe",
+        "target_scores": {
+            "A. Alkoholbefeuchtete Sauerstoffinhalation mit 4–6 L/min": 0,
+            "B. Den Patienten in eine Sitzposition mit herabhängenden Beinen positionieren": 0,
+            "C. Einen intravenösen Zugang legen": 0,
+            "D. Schnelle intravenöse Medikamentengabe": 1
+        }
+    },
+    {
+        "input": "Ein älterer Patient hat häufig nocturnale Asthmaanfälle, begleitet von häufigem Husten und dem Auswurf von rosafarbenem schaumigem Sputum, manchmal mit blutigen Anteilen. An den unteren Lungenbasen sind feuchte Rasselgeräusche zu hören. Welche Diagnose ist am wahrscheinlichsten?\nA. Allergische Pneumonie\nB. Bronchialasthma\nC. Kardiales Asthma\nD. Lungenkrebs",
+        "target_scores": {
+            "A. Allergische Pneumonie": 0,
+            "B. Bronchialasthma": 0,
+            "C. Kardiales Asthma": 1,
+            "D. Lungenkrebs": 0
+        }
+    },
+    {
+        "input": "Ein 70‑jähriger männlicher Patient wurde nach plötzlichem Bewusstseinsverlust von 1 Stunde eingeliefert. Die Untersuchung zeigt eine Abflachung der linken Nasolabialfalte und eine linksseitige Arm- und Beinparese. Welche Pflegemaßnahme ist falsch?\nA. Einlage eines Blasenkatheters\nB. Lagerung in Rückenlage ohne Kissen\nC. Sauerstoffgabe\nD. Vorübergehendes Fasten",
+        "target_scores": {
+            "A. Einlage eines Blasenkatheters": 0,
+            "B. Lagerung in Rückenlage ohne Kissen": 1,
+            "C. Sauerstoffgabe": 0,
+            "D. Vorübergehendes Fasten": 0
+        }
+    },
+    {
+        "input": "Eine Patientin wurde wegen wiederholtem Erbrechen mit Hypokaliämie aufgenommen. Die Patientin zeigt geistige Ermüdung, allgemeine Schwäche und abgeschwächte Sehnenreflexe. Welche der folgenden Pflegediagnosen ist am geeignetsten?\nA. Aktivitätsintoleranz\nB. Ineffektives Atemmuster\nC. Risiko einer Verletzung\nD. Unausgeglichene Ernährung",
+        "target_scores": {
+            "A. Aktivitätsintoleranz": 1,
+            "B. Ineffektives Atemmuster": 0,
+            "C. Risiko einer Verletzung": 0,
+            "D. Unausgeglichene Ernährung": 0
+        }
+    },
+    {
+        "input": "Eine Patientin erlitt nach einer Brustverletzung Brustschmerzen und Atemnot. Bei der körperlichen Untersuchung zeigte sich lokale Druckempfindlichkeit, Schmerzen bei Druck auf die Vorder- und Rückseite des Brustkorbs auf der verletzten Seite, leicht abgeschwächtes Atemgeräusch auf der verletzten Seite, klares Atemgeräusch auf der gesunden Seite, zentrierte Trachea, Herzfrequenz 96/min und Blutdruck 120/80 mmHg. Welche der folgenden Diagnosen ist am wahrscheinlichsten?\nA. Mediastinalemphysem\nB. Perikardtamponade\nC. Rippenfraktur\nD. Spannungspneumothorax",
+        "target_scores": {
+            "A. Mediastinalemphysem": 0,
+            "B. Perikardtamponade": 0,
+            "C. Rippenfraktur": 1,
+            "D. Spannungspneumothorax": 0
+        }
+    },
+    {
+        "input": "Ein Patient mit großflächigen Verbrennungen zeigt nach der Rehydratation einen Blutdruck von 80/72 mmHg, eine Urinausscheidung von 20 ml/h und einen zentralen Venendruck von 4 cmH₂O. Worauf weist dies am ehesten hin?\nA. Herzinsuffizienz\nB. Hypovolämie\nC. Lungenödem\nD. Nierenfunktionsstörung",
+        "target_scores": {
+            "A. Herzinsuffizienz": 0,
+            "B. Hypovolämie": 1,
+            "C. Lungenödem": 0,
+            "D. Nierenfunktionsstörung": 0
+        }
+    },
+    {
+        "input": "Ein 50-jähriger Patient mit Leberzirrhose und oberer gastrointestinaler Blutung zeigte während der Kompressionstherapie mit einem Doppelballon-Dreikammer-Schlauch zur Blutstillung plötzlich Agitation, Zyanose und Atemnot. Was sollte in diesem Fall sofort unternommen werden?\nA. Ablassen der Luft aus dem Ballon\nB. Anwendung von Atmungsstimulanzien\nC. Arzt informieren\nD. Sauerstoffgabe",
+        "target_scores": {
+            "A. Ablassen der Luft aus dem Ballon": 1,
+            "B. Anwendung von Atmungsstimulanzien": 0,
+            "C. Arzt informieren": 0,
+            "D. Sauerstoffgabe": 0
+        }
+    },
+    {
+        "input": "Frau Becker, 35 Jahre alt, wurde von einem Auto angefahren und klagt über schwere Schmerzen in der rechten Brust. Die körperliche Untersuchung zeigt: Klarer Bewusstseinszustand, Zyanose, schneller Atem, Rastlosigkeit, feiner und rascher Puls, nasse kalte Extremitäten, Temperatur 36,5°C, Puls 104/min, Atemrate 25/min, Blutdruck 11/8 kPa. Die rechte Thoraxwand weist eine Wunde von $3cm×2cm$ auf, in der Rippenstümpfe sichtbar sind, es besteht ununterbrochene Blutung und Paradoxatmung. An der Wunde sind sibilierende Geräusche hörbar. Was ist die erste Notfallmaßnahme vor Ort?\nA. Druckverband mit dicken Wattenauflagen\nB. Geschlossene Drainage des Brustraums\nC. Schnelle Flüssigkeitszufuhr und Sauerstoffgabe\nD. Thorakozentese zur Entlastung",
+        "target_scores": {
+            "A. Druckverband mit dicken Wattenauflagen": 1,
+            "B. Geschlossene Drainage des Brustraums": 0,
+            "C. Schnelle Flüssigkeitszufuhr und Sauerstoffgabe": 0,
+            "D. Thorakozentese zur Entlastung": 0
+        }
+    },
+    {
+        "input": "Bei einem Patienten mit Schädel-Hirn-Trauma zeigen sich Bewusstseinsstörung mit einer intermediären Klarheitsphase, Dilatation einer Pupille mit Lichtreflexausfall und eine kontralaterale Hemiparese. Welches der folgenden liegt vor?\nA. Epidurales Hämatom\nB. Foramen-Magnum-Hernie\nC. Hirnkontusion\nD. Hirnstammverletzung",
+        "target_scores": {
+            "A. Epidurales Hämatom": 1,
+            "B. Foramen-Magnum-Hernie": 0,
+            "C. Hirnkontusion": 0,
+            "D. Hirnstammverletzung": 0
+        }
+    },
+    {
+        "input": "Ein 67-jähriger Patient mit akuter Exazerbation eines Cor pulmonale. Blutgasanalyse: $pH 7{,}25$，$PaCO_{2}  9{,}3kPa$，$HCO^{-} _{3}  30mmol/L$. Welche Maßnahme ist zur Behandlung der vorliegenden Säure-Basen-Störung am besten geeignet?\nA. Gabe von Diuretika\nB. Intravenöse Infusion einer 5%igen Natriumhydrogencarbonat-Lösung\nC. Intravenöse Infusion von Arginin-Hydrochlorid\nD. Optimierung der Ventilation",
+        "target_scores": {
+            "A. Gabe von Diuretika": 0,
+            "B. Intravenöse Infusion einer 5%igen Natriumhydrogencarbonat-Lösung": 0,
+            "C. Intravenöse Infusion von Arginin-Hydrochlorid": 0,
+            "D. Optimierung der Ventilation": 1
+        }
+    },
+    {
+        "input": "Eine 60-jährige Patientin leidet seit zwei Tagen an hohem Fieber mit Schüttelfrost, Husten mit bluthaltigem Sputum und Brustschmerzen. Die körperliche Untersuchung zeigt: Temperatur 37°C, bleiches Gesicht, nasse kalte Haut, Lippenzyanose, gedämpfter Klopfschall in der linken oberen Lunge, abgeschwächte Atemgeräusche, vereinzelte Feuchtgeräusche, Herzfrequenz 128/min, Blutdruck 70/50 mmHg. Welche Maßnahme ist sofort einzuleiten?\nA. Flüssigkeitszufuhr und Gabe von Vasopressoren\nB. Leukozytenzahl und Differenzialblutbild\nC. Röntgenaufnahme des Brustkorbs\nD. Sputumkultur und Antibiogramm",
+        "target_scores": {
+            "A. Flüssigkeitszufuhr und Gabe von Vasopressoren": 1,
+            "B. Leukozytenzahl und Differenzialblutbild": 0,
+            "C. Röntgenaufnahme des Brustkorbs": 0,
+            "D. Sputumkultur und Antibiogramm": 0
+        }
+    },
+    {
+        "input": "Ein 55-jähriger männlicher Patient mit chronischer Bronchitis und obstruktivem Emphysem hat kürzlich eine Verschlechterung erfahren. Vor 2 Stunden trat plötzlich ein stechender Schmerz in der linken Brust auf, begleitet von zunehmender Atemnot. Welche der folgenden Untersuchungen ist am besten geeignet, um die Diagnose zu klären?\nA. Computertomographie von Lungen\nB. Elektrokardiogramm\nC. Lungenultraschall\nD. Röntgenaufnahme des Brustraums",
+        "target_scores": {
+            "A. Computertomographie von Lungen": 0,
+            "B. Elektrokardiogramm": 0,
+            "C. Lungenultraschall": 0,
+            "D. Röntgenaufnahme des Brustraums": 1
+        }
+    },
+    {
+        "input": "Ein 36-jähriger männlicher Patient mit einem unauffälligen bisherigen Gesundheitszustand, klagt nach dem Aufenthalt im Regen über Fieber und Husten seit 2 Tagen sowie über Schmerzen im rechten Oberbauch, Atemnot und Übelkeit seit 1 Tag. Neben der Überlegung einer akuten Bauchkrankheit, welche der folgenden Erkrankungen sollte besonders differenzialdiagnostisch berücksichtigt werden?\nA. Lungeninfarkt\nB. Phrenikusparese\nC. Pneumokokkenpneumonie\nD. Spontaner Pneumothorax",
+        "target_scores": {
+            "A. Lungeninfarkt": 0,
+            "B. Phrenikusparese": 0,
+            "C. Pneumokokkenpneumonie": 1,
+            "D. Spontaner Pneumothorax": 0
+        }
+    },
+    {
+        "input": "Eine 38-jährige Patientin mit Beckenfraktur, Leberruptur und hypovolämischem Schock wurde aufgenommen. Während der Behandlung entwickelte sie eine beschleunigte Atmung, Atemnot, Zyanose der Lippen, feuchte Rasselgeräusche in beiden Lungen und einen PaO₂-Wert von <8,0 kPa. Welche Maßnahme sollte sofort ergriffen werden?\nA. Gabe von Atemstimulanzien\nB. Negative endexspiratorische Druck\nC. Positive endexspiratorische Druck\nD. Sauerstoffgabe über eine hochkonzentrierte Maske",
+        "target_scores": {
+            "A. Gabe von Atemstimulanzien": 0,
+            "B. Negative endexspiratorische Druck": 0,
+            "C. Positive endexspiratorische Druck": 1,
+            "D. Sauerstoffgabe über eine hochkonzentrierte Maske": 0
+        }
+    },
+    {
+        "input": "Eine 47-jährige Patientin wird von einem Auto am Kopf verletzt. Sie öffnet die Augen bei Ansprache, gibt aber fehlerhafte Antworten auf Fragen und weicht bei Schmerzprüfung zurück. Was beträgt die Glasgow-Koma-Skala (GCS)?\nA. 11 Punkte.\nB. 12 Punkte.\nC. 15 Punkte.\nD. 8 Punkte.",
+        "target_scores": {
+            "A. 11 Punkte.": 1,
+            "B. 12 Punkte.": 0,
+            "C. 15 Punkte.": 0,
+            "D. 8 Punkte.": 0
+        }
+    },
+    {
+        "input": "Eine 32-jährige Patientin erlitt bei einem Autounfall eine Verletzung im linken Oberbauch und zeigte Symptome wie Bauchschmerzen, blasse Hautfarbe, kalter Schweiß, schnellen und feinen Puls sowie einen Blutdruckabfall. Welche Diagnose zieht man zuerst in Betracht?\nA. Darmperforation\nB. Leberruptur\nC. Magenperforation\nD. Milzruptur",
+        "target_scores": {
+            "A. Darmperforation": 0,
+            "B. Leberruptur": 0,
+            "C. Magenperforation": 0,
+            "D. Milzruptur": 1
+        }
+    },
+    {
+        "input": "Bei einer Patientin nach Leberlobektomie treten Schläfrigkeit, Unruhe und Ikterus auf. An welche Komplikation muss man denken?\nA. Biliäre Peritonitis\nB. Hepatische Enzephalopathie\nC. Innere Blutung\nD. Unterphrenischer Abszess",
+        "target_scores": {
+            "A. Biliäre Peritonitis": 0,
+            "B. Hepatische Enzephalopathie": 1,
+            "C. Innere Blutung": 0,
+            "D. Unterphrenischer Abszess": 0
+        }
+    },
+    {
+        "input": "Ein 62-jähriger männlicher Patient leidet seit zwei Jahren an Angina pectoris und hat vor 4 Stunden starke Schmerzen im mittleren Teil des Brustbeins. Das sublingual verabreichte Nitroglycerin zeigt keine Wirkung. Die körperliche Untersuchung: Erhöhte Herzfrequenz, Diastolischer Galopprhythmus über der Herzspitze auskultierbar, das Elektrokardiogramm zeigt eine ST-Streckenhebung. Welche der folgenden Untersuchungsergebnisse könnte bei diesem Patienten auftreten?\nA. Erhöhte kardiale Enzyme\nB. Leukopenie\nC. Niedriger Blutzucker\nD. Niedriges C-reaktives Protein",
+        "target_scores": {
+            "A. Erhöhte kardiale Enzyme": 1,
+            "B. Leukopenie": 0,
+            "C. Niedriger Blutzucker": 0,
+            "D. Niedriges C-reaktives Protein": 0
+        }
+    },
+    {
+        "input": "Ein 48-jähriger Patient, der sich vor 23 Tagen einer Operation wegen einer „akuten hämorrhagisch-nekrotisierenden Pankreatitis“ unterzogen hat, erhält seit 20 Tagen eine totale parenterale Ernährung (TPN) über einen zentralvenösen Katheter. Heute tritt plötzlich Schüttelfrost mit hohem Fieber von $T39{,}8℃$, Kopfschmerzen, Schwindel und gerötetem Gesicht auf. Der Patient hat extreme Agitation, Puls 132/min, Atemfrequenz 36/min. Blutbild: Leukozytenzahl $25×10^9/L$, Linksverschiebung der neutrophilen Granulozyten. Was ist in diesem Fall als erstes in Betracht zu ziehen?\nA. Sepsis aufgrund einer Wundinfektion\nB. Sepsis durch Katheterinfektion\nC. Sepsis infolge einer infektiösen Quelle aus dem Darm\nD. Toxämie durch Resorption nekrotischer Gewebestoffe",
+        "target_scores": {
+            "A. Sepsis aufgrund einer Wundinfektion": 0,
+            "B. Sepsis durch Katheterinfektion": 1,
+            "C. Sepsis infolge einer infektiösen Quelle aus dem Darm": 0,
+            "D. Toxämie durch Resorption nekrotischer Gewebestoffe": 0
+        }
+    },
+    {
+        "input": "Ein 40-jähriger Patient stellt sich mit Fieber, Husten, Brustschmerzen und Bewusstseinsstörungen seit einem halben Tag vor. Bei der körperlichen Untersuchung zeigt sich eine blasse Gesichtsfarbe, der Blutdruck beträgt 70/40 mmHg, der Puls liegt bei 120 Schlägen/min. Laboruntersuchung: Leukozytenzahl $16×10^9/L$, 85 % neutrophile Granulozyten. Röntgen-Thorax-Aufnahme: homogene Verschattung im rechten Oberlappen. Welche Diagnose sollte in erster Linie in Betracht gezogen werden?\nA. Bronchiektasen mit Superinfektion\nB. Mykoplasmapneumonie\nC. Pneumonie mit septischem schock\nD. Tuberkulöse Pleuritis",
+        "target_scores": {
+            "A. Bronchiektasen mit Superinfektion": 0,
+            "B. Mykoplasmapneumonie": 0,
+            "C. Pneumonie mit septischem schock": 1,
+            "D. Tuberkulöse Pleuritis": 0
+        }
+    },
+    {
+        "input": "Der Test zur Bestimmung der Atemwegsreaktivität nach Inhalation von Histamin oder Acetylcholin ist?\nA. Bronchialprovokationstest\nB. Bronchodilatationstest\nC. Messung des maximalen exspiratorischen Flusses\nD. Ventilationsfunktionstest",
+        "target_scores": {
+            "A. Bronchialprovokationstest": 1,
+            "B. Bronchodilatationstest": 0,
+            "C. Messung des maximalen exspiratorischen Flusses": 0,
+            "D. Ventilationsfunktionstest": 0
+        }
+    },
+    {
+        "input": "Wenn bei einem chirurgischen Patienten spastische Schmerzen, abgeschwächte Sehnenreflexe, Bewusstseinsstörungen und Koma auftreten, was sollte zunächst in Betracht gezogen werden?\nA. Begleitende zerebrovaskuläre Ereignisse\nB. Hypernatriämie\nC. Hypokaliämie\nD. Hyponatriämie",
+        "target_scores": {
+            "A. Begleitende zerebrovaskuläre Ereignisse": 0,
+            "B. Hypernatriämie": 0,
+            "C. Hypokaliämie": 0,
+            "D. Hyponatriämie": 1
+        }
+    },
+    {
+        "input": "Ein 37‑jähriger Patient mit Ulkuskrankheit in der Anamnese entwickelt nach einem reichhaltigen Mittagessen heftige Oberbauchschmerzen, Übelkeit, Erbrechen, Abwehrspannung, Kaltschweißigkeit und Schock. Welche Komplikation muss man zuerst in Betracht ziehen?\nA. Akute Perforation\nB. Infektion\nC. Maligne Transformation\nD. Massive Blutung",
+        "target_scores": {
+            "A. Akute Perforation": 1,
+            "B. Infektion": 0,
+            "C. Maligne Transformation": 0,
+            "D. Massive Blutung": 0
+        }
+    },
+    {
+        "input": "Ein 12-jähriger Junge hat seit zwei Tagen Erkältung mit trockenem Hals, Halsschmerzen, Nasenverstopfung, Schnupfen, trockenen Husten, Kopfschmerzen und leichte Schüttelfrost. Die körperliche Untersuchung zeigt: Temperatur 37,1°C, Rötung des Pharynx, nicht vergrößerte Tonsillen, vesikuläres Atemgeräusch in beiden Lungen ohne feuchte oder trockene Rasselgeräusche. Welche Diagnose ist wahrscheinlich?\nA. Akute virale Bronchitis\nB. Akute virale Laryngitis\nC. Akute virale Pharyngitis\nD. Erkältung",
+        "target_scores": {
+            "A. Akute virale Bronchitis": 0,
+            "B. Akute virale Laryngitis": 0,
+            "C. Akute virale Pharyngitis": 0,
+            "D. Erkältung": 1
+        }
+    },
+    {
+        "input": "Ein Patient mit Tuberkulose entwickelt plötzlich massive Hämoptysis, wobei Blut aus der Nase strömt. Aus Angst versucht der Patient, extrem Luft anzuhalten, woraufhin er plötzlich ruhelos wird, sich aufrichten will, extreme Atemnot entwickelt, Gesichtszyanose aufweist, profuse Schweißausbrüche hat und die Augen nach oben rollt. Welche Notfallmaßnahmen sollten sofort ergriffen werden?\nA. Entfernen von Blutgerinnseln oder Tracheotomie\nB. Künstliche Beatmung durchführen\nC. Sauerstoffgabe über Nasentubus, Injektion von Atemstimulanzien\nD. Thoraxpunktion zur Entlüftung",
+        "target_scores": {
+            "A. Entfernen von Blutgerinnseln oder Tracheotomie": 1,
+            "B. Künstliche Beatmung durchführen": 0,
+            "C. Sauerstoffgabe über Nasentubus, Injektion von Atemstimulanzien": 0,
+            "D. Thoraxpunktion zur Entlüftung": 0
+        }
+    },
+    {
+        "input": "Ein 65-jähriger Patient wurde wegen eines Hirninfarkts ins Krankenhaus eingeliefert, ist seit zwei Tagen bewusstseinsgetrübt, körperlich geschwächt, aber die Vitalzeichen sind stabil. Die Extremitäten sind kühl. Die Pflegekraft verwendet eine Wärmflasche zur Wärmeerhaltung. Welche der folgenden Maßnahmen ist korrekt?\nA. Die Angehörigen anweisen, das Wasser regelmäßig zu wechseln\nB. Wassertemperatur in der Flasche auf 60°C einstellen\nC. Wärmflasche auf den Bauch legen\nD. Wärmflasche mit einem Handtuch umwickeln",
+        "target_scores": {
+            "A. Die Angehörigen anweisen, das Wasser regelmäßig zu wechseln": 0,
+            "B. Wassertemperatur in der Flasche auf 60°C einstellen": 0,
+            "C. Wärmflasche auf den Bauch legen": 0,
+            "D. Wärmflasche mit einem Handtuch umwickeln": 1
+        }
+    },
+    {
+        "input": "Ein Patient befindet sich am 3. Tag nach einer Operation wegen Ösophaguskarzinoms. Nach Entfernung der Magensonde wird mit Flüssignahrung begonnen. Am 5. Tag steigt die Körpertemperatur auf 39 °C, es treten Atemnot und Brustschmerzen auf. Eine Röntgendurchleuchtung des Thorax zeigt einen Pleuraerguss. Welche Komplikation muss man zuerst in Betracht ziehen?\nA. Aspirationspneumonie\nB. Unterphrenischer Abszess\nC. Wundinfektion\nD. Ösophagus-Anastomosenfistel",
+        "target_scores": {
+            "A. Aspirationspneumonie": 0,
+            "B. Unterphrenischer Abszess": 0,
+            "C. Wundinfektion": 0,
+            "D. Ösophagus-Anastomosenfistel": 1
+        }
+    },
+    {
+        "input": "Ein 70-jähriger männlicher Patient erleidet aufgrund eines zerebralen Thrombus eine halbseitige Lähmung. Nach der Aufnahme stellte die Pflegekraft verfärbte Haut im sakrokokzygealen Bereich mit der Größe 4 cm × 3 cm fest, die sich bei Druck nicht zurückbildete und sich verhärtet anfühlte. Am nächsten Tag bildete sich an dieser Stelle eine ca. 2 cm große Blase. Welche Veränderung der Haut in der Steißbeinregion liegt bei diesem Patienten vor?\nA. Entzündliches Infiltrationsstadium eines Dekubitus \nB. Initialstadium mit persistierender Hautrötung eines Dekubitus\nC. Oberflächliches Ulkusstadium eines Dekubitus\nD. Tiefes nekrotisches Ulzerationsstadium eines Dekubitus",
+        "target_scores": {
+            "A. Entzündliches Infiltrationsstadium eines Dekubitus ": 1,
+            "B. Initialstadium mit persistierender Hautrötung eines Dekubitus": 0,
+            "C. Oberflächliches Ulkusstadium eines Dekubitus": 0,
+            "D. Tiefes nekrotisches Ulzerationsstadium eines Dekubitus": 0
+        }
+    },
+    {
+        "input": "Ein 68-jähriger Patient hat seit 7 Jahren eine reduzierbare Schwellung an der rechten Seite der Leistenregion, die gelegentlich in den Skrotum eintritt. Die körperliche Untersuchung zeigt: Eine Schwellung in der rechten Leistenregion, reponierbar, der äußere Leistenring lässt zwei Finger zu. Bei Kompression des inneren Leistenrings tritt die Schwellung nicht erneut auf. Welches Kriterium ist am wichtigsten für die Unterscheidung zwischen einer indirekten und einer direkten Leistenhernie?\nA. Durchtrittspfad\nB. Erkrankungsalter\nC. Ob der Bruchinhalt in den Skrotum eintritt\nD. Ob der Bruchinhalt nach Reposition und Druck auf den inneren Leistenring erneut hervortritt",
+        "target_scores": {
+            "A. Durchtrittspfad": 0,
+            "B. Erkrankungsalter": 0,
+            "C. Ob der Bruchinhalt in den Skrotum eintritt": 0,
+            "D. Ob der Bruchinhalt nach Reposition und Druck auf den inneren Leistenring erneut hervortritt": 1
+        }
+    },
+    {
+        "input": "Ein Patient wird wegen Leberzirrhose mit oberer gastrointestinaler Blutung ins Krankenhaus eingeliefert. Nach erfolgreicher Blutstillung entwickelt sich allmählich eine Oligurie mit einer täglichen Urinmenge von 500 ml. Urinstatus: geringe Proteinurie. Laborwerte: Kalium 5,0 mmol/l, Natrium 129 mmol/l, Chlorid 90 mmol/l, Blut-Harnstoff-Stickstoff 24,1 mmol/l. Welche ist die wahrscheinlichste Diagnose?\nA. Azidose\nB. Gastrointestinale Blutung\nC. Hepatorenales Syndrom\nD. Störung des Elektrolythaushalts",
+        "target_scores": {
+            "A. Azidose": 0,
+            "B. Gastrointestinale Blutung": 0,
+            "C. Hepatorenales Syndrom": 1,
+            "D. Störung des Elektrolythaushalts": 0
+        }
+    },
+    {
+        "input": "Ein 68-jähriger Patient leidet seit drei Wochen an Reizhusten, der sich unter Antibiotikatherapie nicht gebessert hat. Eine Röntgenaufnahme des Thorax zeigt einen unklaren Schatten im rechten Lungenlappen. Welche der folgenden Untersuchungen sollte in diesem Fall als nächstes durchgeführt werden?\nA. Arterielle Blutgasanalyse\nB. Flexible Bronchoskopie\nC. Lungenfunktionstest\nD. Thorakozentese",
+        "target_scores": {
+            "A. Arterielle Blutgasanalyse": 0,
+            "B. Flexible Bronchoskopie": 1,
+            "C. Lungenfunktionstest": 0,
+            "D. Thorakozentese": 0
+        }
+    },
+    {
+        "input": "Eine 22-jährige Patientin entwickelt eine Stunde nach Anlegen eines Gipsverbands am Schienbein heftige Zehenschmerzen, blasse und kalte Zehen sowie einen abgeschwächten Puls der A. dorsalis pedis. Welche Maßnahme sollte als erstes ergriffen werden?\nA. Extremität hochlagern\nB. Gipsbandage geeigneter entspannen\nC. Schmerzmittel verabreichen\nD. Wärmeregulierung beachten",
+        "target_scores": {
+            "A. Extremität hochlagern": 0,
+            "B. Gipsbandage geeigneter entspannen": 1,
+            "C. Schmerzmittel verabreichen": 0,
+            "D. Wärmeregulierung beachten": 0
+        }
+    },
+    {
+        "input": "Ein 31-jähriger Patient erlitt bei einem Verkehrsunfall eine Kopfverletzung. Es bestand keine Bewusstlosigkeit. Er klagt über Kopfschmerzen und hat Serosanguinöse Sekretion aus dem rechten Gehörgang. Die Vitalzeichen sind stabil. Welche Pflegemaßnahme ist korrekt?\nA. Hochlagerung des Kopfendes um 15–30 cm\nB. Linke Seitenlage\nC. Regelmäßiges Spülen des Gehörgangs\nD. Verschluss des äußeren Gehörgangs mit einem sterilen Wattebausch",
+        "target_scores": {
+            "A. Hochlagerung des Kopfendes um 15–30 cm": 1,
+            "B. Linke Seitenlage": 0,
+            "C. Regelmäßiges Spülen des Gehörgangs": 0,
+            "D. Verschluss des äußeren Gehörgangs mit einem sterilen Wattebausch": 0
+        }
+    },
+    {
+        "input": "Ein 2-jähriger Junge wird wegen Scharlach stationär behandelt. Der Patient befindet sich nun in der Desquamationsphase: am Rumpf zeigt sich feinschuppige Abschuppung, an Händen und Füßen lamellöse Hautabschilferung. Welche der folgenden Anweisungen zur Hautpflege in dieser Phase ist falsch?\nA. Den Fortschritt der Hautabschuppung beobachten\nB. Die Haut mit warmem Wasser reinigen, um Infektionen zu vermeiden\nC. Kleidung häufig wechseln und Bettwäsche regelmäßig in der Sonne trocknen\nD. Lamellöse Hautabschilferung kann vorsichtig mit der Hand abgezogen werden",
+        "target_scores": {
+            "A. Den Fortschritt der Hautabschuppung beobachten": 0,
+            "B. Die Haut mit warmem Wasser reinigen, um Infektionen zu vermeiden": 0,
+            "C. Kleidung häufig wechseln und Bettwäsche regelmäßig in der Sonne trocknen": 0,
+            "D. Lamellöse Hautabschilferung kann vorsichtig mit der Hand abgezogen werden": 1
+        }
+    },
+    {
+        "input": "Bei einer Pneumonie mit septischem Schock sollte bei der Volumenersatztherapie der zentrale Venendruck nicht über ( ) cmH₂O liegen und die Harnausscheidung bei mindestens ( ) ml/h liegen sollte.\nA. 10,20\nB. 10,30\nC. 5,20\nD. 5,30",
+        "target_scores": {
+            "A. 10,20": 0,
+            "B. 10,30": 1,
+            "C. 5,20": 0,
+            "D. 5,30": 0
+        }
+    },
+    {
+        "input": "Ein 42-jähriger Bauarbeiter wurde vor einer Stunde am rechten Oberarm von einem Ziegel getroffen. Die körperliche Untersuchung: Schwellung des rechten Oberarms, abnorme Beweglichkeit, das Handgelenk, die Fingergrundgelenke und der Daumen haben eingeschränkte Dorsalextension. Welche Struktur könnte hier verletzt sein?\nA. Arteria brachialis\nB. Medianusnerv\nC. Radialisnerv\nD. Ulnarisnerv",
+        "target_scores": {
+            "A. Arteria brachialis": 0,
+            "B. Medianusnerv": 0,
+            "C. Radialisnerv": 1,
+            "D. Ulnarisnerv": 0
+        }
+    },
+    {
+        "input": "Eine 32‑jährige Patientin klagt seit 3 Jahren über wiederkehrende Schmerzen im linken Oberbauch, meist postprandial, sowie über drei Episoden von Hämatemesis. Es gibt keine pathologischen Befunde in der Magen-Darm-Passage mit Bariumkontrast, und die körperliche Untersuchung zeigt nur Druckempfindlichkeit im Oberbauch. Welche Diagnose ist am wahrscheinlichsten?\nA. Chronische Gastritis\nB. Darmverschluss\nC. Magengeschwür\nD. Magenkrebs",
+        "target_scores": {
+            "A. Chronische Gastritis": 0,
+            "B. Darmverschluss": 0,
+            "C. Magengeschwür": 1,
+            "D. Magenkrebs": 0
+        }
+    },
+    {
+        "input": "Ein Patient mit primärer Hypertonie hat plötzlich einen Blutdruckanstieg auf 230/130 mmHg, begleitet von starken Kopfschmerzen, Übelkeit, Erbrechen, Krampfanfällen und Somnolenz. Was sollte zunächst in Betracht gezogen werden?\nA. Hypertensive Enzephalopathie\nB. Hypertensive Krise\nC. Transiente ischämische Attacke\nD. Zerebrale Embolie",
+        "target_scores": {
+            "A. Hypertensive Enzephalopathie": 1,
+            "B. Hypertensive Krise": 0,
+            "C. Transiente ischämische Attacke": 0,
+            "D. Zerebrale Embolie": 0
+        }
+    },
+    {
+        "input": "Eine 18-jährige Patientin wurde wegen Fieber und Husten ins Krankenhaus eingeliefert, mit der Diagnose „Pneumonie“. Die Körpertemperatur liegt bei 39,5 °C, die Haut ist gerötet und fühlt sich heiß an, die Atemfrequenz und Herzfrequenz sind erhöht. Eine der Pflegediagnosen lautet: „Zu hohe Körpertemperatur: im Zusammenhang mit einer bakteriellen Infektion“. Was ist die Hauptdiagnosegrundlage?\nA. Erhöhte Atemfrequenz\nB. Hautrötung\nC. Körpertemperatur von 39,5 ℃\nD. Wärmeempfindung bei Hautkontakt",
+        "target_scores": {
+            "A. Erhöhte Atemfrequenz": 0,
+            "B. Hautrötung": 0,
+            "C. Körpertemperatur von 39,5 ℃": 1,
+            "D. Wärmeempfindung bei Hautkontakt": 0
+        }
+    },
+    {
+        "input": "Eine 60-jährige Patientin hat linksseitige untere Extremitätenlähmung nach Schlaganfall. Die Pflegekraft hat Maßnahmen zur Prävention von Dekubitus zu treffen. Welche der folgenden Pflegemaßnahmen ist am besten, um Dekubitus vorzubeugen?\nA. Die Patientin in Rechtsseitenlage belassen\nB. Umlagerung und Massage alle zwei Stunden\nC. Verbesserung des allgemeinen Ernährungszustands\nD. Verwendung eines Luftkissens an den Knochenvorsprüngen",
+        "target_scores": {
+            "A. Die Patientin in Rechtsseitenlage belassen": 0,
+            "B. Umlagerung und Massage alle zwei Stunden": 1,
+            "C. Verbesserung des allgemeinen Ernährungszustands": 0,
+            "D. Verwendung eines Luftkissens an den Knochenvorsprüngen": 0
+        }
+    },
+    {
+        "input": "Ein Patient mit Leberzirrhose hat nach einer Diuretikatherapie eine Rückbildung des Aszites, befindet sich jedoch häufig in einem tiefen Schlafzustand, kann erweckt werden. Nach dem Aufwachen beantwortet er Fragen korrekt, fällt jedoch schnell wieder in den Schlaf, sobald der Reiz entfernt wird. Wie sollte dieser Zustand eingestuft werden?\nA. Delirium\nB. Hypersomnie\nC. Somnolenz\nD. Sopor  ",
+        "target_scores": {
+            "A. Delirium": 0,
+            "B. Hypersomnie": 1,
+            "C. Somnolenz": 0,
+            "D. Sopor  ": 0
+        }
+    },
+    {
+        "input": "Eine 35-jährige Patientin mit Leukämie klagt nach körperlicher Aktivität plötzlich über Kopfschmerzen, Erbrechen, verschwommenes Sehen und Bewusstseinsstörungen. Welche der folgenden Pflegemaßnahmen ist ungeeignet?\nA. Absolute Bettruhe\nB. Anlegen einer Kühlkappe auf den Kopf\nC. Kopf leicht abgesenkt lagern, um die Sauerstoffversorgung des Gehirns zu gewährleisten\nD. Sauerstoffgabe",
+        "target_scores": {
+            "A. Absolute Bettruhe": 0,
+            "B. Anlegen einer Kühlkappe auf den Kopf": 0,
+            "C. Kopf leicht abgesenkt lagern, um die Sauerstoffversorgung des Gehirns zu gewährleisten": 1,
+            "D. Sauerstoffgabe": 0
+        }
+    },
+    {
+        "input": "Ein 28-jähriger Patient entwickelte nach einem Essen in einer Imbissstube hohes Fieber und Durchfall. Die Diagnose lautet Shigellose. Welche der folgenden Pflegemaßnahmen ist ungeeignet?\nA. Bei Bedarf Flüssig- oder Halbfestkost anbieten\nB. Gastrointestinale Isolation durchführen\nC. Hochproteinhaltige Diät verabreichen\nD. Stuhlprobe entnehmen",
+        "target_scores": {
+            "A. Bei Bedarf Flüssig- oder Halbfestkost anbieten": 0,
+            "B. Gastrointestinale Isolation durchführen": 0,
+            "C. Hochproteinhaltige Diät verabreichen": 1,
+            "D. Stuhlprobe entnehmen": 0
+        }
+    },
+    {
+        "input": "Ein Patient im Endstadium einer Krebserkrankung wird mit einem etwa $2cm×2cm$ großen Wundbereich an den Gesäßbacken aufgenommen. Die Dermis weist gelbliches Exsudat auf. In welchem Stadium befindet sich das Dekubitus des Patienten?\nA. Oberflächliches Ulkusstadium\nB. Stadium der Blutstase\nC. Stadium der entzündlichen Infiltration\nD. Tiefes Ulkusstadium",
+        "target_scores": {
+            "A. Oberflächliches Ulkusstadium": 1,
+            "B. Stadium der Blutstase": 0,
+            "C. Stadium der entzündlichen Infiltration": 0,
+            "D. Tiefes Ulkusstadium": 0
+        }
+    },
+    {
+        "input": "Ein 10 Monate alter Junge wurde 3 Tage zuvor wegen plötzlich auftretendem Augenverdrehen nach oben sowie Zuckungen der Gesichtsmuskulatur und Gliedmaßen in die Notaufnahme eingeliefert. Die Diagnose lautet Tetanie bei Vitamin-D-Mangel. Welche der folgenden Gesundheitsempfehlungen ist beim Entlassungsgespräch mit den Eltern am wichtigsten?\nA. Anleitung zum Stillen\nB. Der Umgang mit Krampfanfällen und Stimmritzenkrampf\nC. Förderung von Stehübungen\nD. Vitamin-D-haltige Nahrungsmittel zufüttern",
+        "target_scores": {
+            "A. Anleitung zum Stillen": 0,
+            "B. Der Umgang mit Krampfanfällen und Stimmritzenkrampf": 1,
+            "C. Förderung von Stehübungen": 0,
+            "D. Vitamin-D-haltige Nahrungsmittel zufüttern": 0
+        }
+    },
+    {
+        "input": "Ein 56-jähriger Patient wird aufgrund einer gastrointestinalen Blutung stationär behandelt. Sein Blutdruck beträgt 60/30 mmHg, die Herzfrequenz 140/min, und das Hämoglobinlevel ist 35 g/L. Nach Infusionstherapie normalisiert sich der Blutdruck auf 100/70 mmHg, die Herzfrequenz sinkt auf 100/min. Allerdings leidet der Patient seit drei Tagen unter Oligurie. Laboruntersuchungen zeigen Kalium 6,4 mmol/L und Harnstoff (BUN) 28,5 mmol/L. Welche der folgenden Behandlungsrichtlinien ist korrekt?\nA. Deslanoside 0,4 mg langsam i.v. injizieren\nB. Erhöhen der Infusionsmenge\nC. Notfallmäßige Hämodialyse\nD. Weiterführen der Bluttransfusion",
+        "target_scores": {
+            "A. Deslanoside 0,4 mg langsam i.v. injizieren": 0,
+            "B. Erhöhen der Infusionsmenge": 0,
+            "C. Notfallmäßige Hämodialyse": 1,
+            "D. Weiterführen der Bluttransfusion": 0
+        }
+    },
+    {
+        "input": "Eine 47-jährige Patientin wurde seit 3 Monaten mit Lungenabszess diagnostiziert. Trotz einer dreimonatigen Antibiotikatherapie hustet sie weiterhin eitrigen Auswurf. Das Röntgenbild zeigt eine Abszesshöhle mit einem Durchmesser von 6 cm. Welche Maßnahme sollte als nächstes in Erwägung gezogen werden?\nA. Erhöhung der Antibiotikadosis\nB. Instillation von Antibiotika über den Trachea\nC. Intensivierte Lagerungsdrainage\nD. Operative Behandlung",
+        "target_scores": {
+            "A. Erhöhung der Antibiotikadosis": 0,
+            "B. Instillation von Antibiotika über den Trachea": 0,
+            "C. Intensivierte Lagerungsdrainage": 0,
+            "D. Operative Behandlung": 1
+        }
+    },
+    {
+        "input": "Ein männlicher Patient mit chronischer linksventrikulärer Herzinsuffizienz zeigt nach Ruhe, salzarmer Diät, Diuretikatherapie, Vasodilatatoren und der Anwendung von Digitalispräparaten Symptome wie Appetitlosigkeit, verschwommenes Sehen und Teilnahmslosigkeit. Was ist die wahrscheinlichste Ursache für diese Beschwerden?\nA. Chronischer Sauerstoffmangel im Gehirn\nB. Digitalisvergiftung\nC. Elektrolytstörung\nD. Verdauungsstörung",
+        "target_scores": {
+            "A. Chronischer Sauerstoffmangel im Gehirn": 0,
+            "B. Digitalisvergiftung": 1,
+            "C. Elektrolytstörung": 0,
+            "D. Verdauungsstörung": 0
+        }
+    },
+    {
+        "input": "Ein Patient mit Herzinsuffizienz wird mit Dyspnoe, Zyanose, Orthopnoe, beidseitigen Beinödemen und Appetitmangel stationär aufgenommen. In der Anamnese besteht eine bekannte Obstipation. Welches Pflegeproblem hat höchste Priorität?\nA. Beeinträchtigter Gasaustausch\nB. Ernährungsmangel unter dem Körperbedarf\nC. Gefahr einer Beeinträchtigung der Hautintegrität\nD. Obstipation",
+        "target_scores": {
+            "A. Beeinträchtigter Gasaustausch": 1,
+            "B. Ernährungsmangel unter dem Körperbedarf": 0,
+            "C. Gefahr einer Beeinträchtigung der Hautintegrität": 0,
+            "D. Obstipation": 0
+        }
+    },
+    {
+        "input": "Ein 52-jähriger Patient leidet seit 5 Stunden an einer inkarzerierten rechten indirekten Leistenhernie mit anhaltenden Bauchschmerzen und Erbrechen. Bei der Untersuchung zeigt sich Druckschmerz und Abwehrspannung im gesamten Abdomen, die Hernie ist gerötet, schmerzhaft und kann nicht zurückgeführt werden. Welcher pathologische Typ liegt am ehesten vor?\nA. Gleithernie\nB. Irreduzierbare Hernie\nC. Reduzierbare Hernie\nD. Strangulierte Hernie",
+        "target_scores": {
+            "A. Gleithernie": 0,
+            "B. Irreduzierbare Hernie": 0,
+            "C. Reduzierbare Hernie": 0,
+            "D. Strangulierte Hernie": 1
+        }
+    },
+    {
+        "input": "Ein 20-jähriger Patient leidet an epidemischer Enzephalitis B und zeigt zentrale Ateminsuffizienz. Welche Substanz sollte sofort intravenös verabreicht werden?\nA. 20% Mannitol-Lösung\nB. Kochsalzlösung\nC. Natriumhydrogencarbonat\nD. Noradrenalin",
+        "target_scores": {
+            "A. 20% Mannitol-Lösung": 1,
+            "B. Kochsalzlösung": 0,
+            "C. Natriumhydrogencarbonat": 0,
+            "D. Noradrenalin": 0
+        }
+    },
+    {
+        "input": "Eine 45-jährige Patientin leidet seit 12 Jahren an rheumatoider Arthritis. Seit drei Tagen erneut Schwellung und Schmerzen beider Handgelenke. Welcher der folgenden Befunde weist auf eine aktive Krankheitsphase hin?\nA. Erhöhtes C-reaktives Protein\nB. Erniedrigte Blutsenkungsgeschwindigkeit\nC. Röntgenuntersuchung der Gelenke zeigt Osteoporose an den Gelenkenden\nD. Zunahme der Gelenkflüssigkeit in der Gelenkhöhle",
+        "target_scores": {
+            "A. Erhöhtes C-reaktives Protein": 1,
+            "B. Erniedrigte Blutsenkungsgeschwindigkeit": 0,
+            "C. Röntgenuntersuchung der Gelenke zeigt Osteoporose an den Gelenkenden": 0,
+            "D. Zunahme der Gelenkflüssigkeit in der Gelenkhöhle": 0
+        }
+    },
+    {
+        "input": "Ein Patient leidet an einer perforierten akuten Appendizitis mit Peritonitis und entwickelt drei Tage nach der Operation Fieber bis 39°C, vermehrten Stuhlgang und Tenesmus, schleimigem Stuhl. Die Wunde ist schmerzfrei, und es besteht kein Husten. Welche Diagnose ist wahrscheinlich?\nA. Bakterielle Dysenterie\nB. Beckenabszess\nC. Enteritis\nD. Wundinfektion",
+        "target_scores": {
+            "A. Bakterielle Dysenterie": 0,
+            "B. Beckenabszess": 1,
+            "C. Enteritis": 0,
+            "D. Wundinfektion": 0
+        }
+    },
+    {
+        "input": "Bei portaler Hypertonie mit oberer gastrointestinaler Blutung und begleitender hepatischer Enzephalopathie, welche der folgenden Maßnahmen ist am besten geeignet, um angesammeltes Blut im Darm zu beseitigen und die Ammoniakbildung zu reduzieren?\nA. Einlauf mit Seifenlösung\nB. Einlauf mit physiologischer Kochsalzlösung\nC. Einlauf mit schwach alkalischer Lösung\nD. Einlauf mit schwach saurer Lösung",
+        "target_scores": {
+            "A. Einlauf mit Seifenlösung": 0,
+            "B. Einlauf mit physiologischer Kochsalzlösung": 0,
+            "C. Einlauf mit schwach alkalischer Lösung": 0,
+            "D. Einlauf mit schwach saurer Lösung": 1
+        }
+    },
+    {
+        "input": "Ein 40-jähriger Patient, Bergarbeiter, wurde nach einem Grubenunglück 6 Stunden verschüttet und anschließend gerettet. Beide Oberschenkel und das Gesäß sind deutlich geschwollen, das Serumkalium beträgt 5,5 mmol/L. Die Diagnose lautet Crush-Syndrom. Welche der folgenden Maßnahmen ist am sinnvollsten zur Überwachung möglicher Komplikationen der Nieren?\nA. Blutdruck, Pulsfrequenz\nB. Blutungen, Infektionen\nC. Urinmenge, Natrium im Urin\nD. Zentraler Venendruck",
+        "target_scores": {
+            "A. Blutdruck, Pulsfrequenz": 0,
+            "B. Blutungen, Infektionen": 0,
+            "C. Urinmenge, Natrium im Urin": 1,
+            "D. Zentraler Venendruck": 0
+        }
+    },
+    {
+        "input": "Eine 38-jährige Patientin leidet seit 3 Jahren an intermittierenden Schmerzen im Unterbauch, begleitet von Durchfall. Sie hat 4–5 Stuhlgänge pro Tag, wobei Blut und Eiter im Stuhl vorhanden sind. Die Schmerzen bessern sich nach dem Stuhlgang. Eine Koloskopie zeigte eine gerötete Schleimhaut mit Erosionen und oberflächlichen Ulzera. Welche der folgenden Diagnosen ist am wahrscheinlichsten?\nA. Bakterielle Dysenterie\nB. Colitis ulcerosa\nC. Mikrobiotadysbiose\nD. Reizdarm",
+        "target_scores": {
+            "A. Bakterielle Dysenterie": 0,
+            "B. Colitis ulcerosa": 1,
+            "C. Mikrobiotadysbiose": 0,
+            "D. Reizdarm": 0
+        }
+    },
+    {
+        "input": "Frau Meier, 30 Jahre alt, zwei Wochen nach einer Billroth-II-Resektion. Etwa 10–20 Minuten nach der Nahrungsaufnahme treten Völlegefühl im Oberbauch, Übelkeit, Erbrechen, Durchfall und Schwindel auf. Welche der folgenden Komplikationen ist am wahrscheinlichsten?\nA. Anastomosen-Obstruktion\nB. Dumping-Syndrom\nC. Duodenalstumpf-Fistel\nD. Efferent-loop-Syndrom",
+        "target_scores": {
+            "A. Anastomosen-Obstruktion": 0,
+            "B. Dumping-Syndrom": 1,
+            "C. Duodenalstumpf-Fistel": 0,
+            "D. Efferent-loop-Syndrom": 0
+        }
+    },
+    {
+        "input": "Ein 48‑jähriger männlicher Patient berichtet seit drei Wochen über Husten, Hämoptysen und Brustschmerzen rechts. Klinik und Bildgebung sprechen für ein zentrales Lungenkarzinom im rechten Unterlappen. Welche Untersuchung ist zur weiteren Stadieneinteilung und Therapieplanung am wichtigsten?\nA. Blutbild\nB. Histologischer Typ und Tumorstadium\nC. Immunstatus\nD. Lebensqualität",
+        "target_scores": {
+            "A. Blutbild": 0,
+            "B. Histologischer Typ und Tumorstadium": 1,
+            "C. Immunstatus": 0,
+            "D. Lebensqualität": 0
+        }
+    },
+    {
+        "input": "Eine 35-jährige Patientin leidet seit Langem an Obstipation. Seit etwa zwei Monaten treten beim und nach dem Stuhlgang starke Schmerzen auf, der Stuhl ist oberflächlich mit etwas Blut bedeckt. Welche Diagnose ist am wahrscheinlichsten?\nA. Analfissur\nB. Innere Hämorrhoiden\nC. Perianaler Abszess\nD. Thrombosierte äußere Hämorrhoiden",
+        "target_scores": {
+            "A. Analfissur": 1,
+            "B. Innere Hämorrhoiden": 0,
+            "C. Perianaler Abszess": 0,
+            "D. Thrombosierte äußere Hämorrhoiden": 0
+        }
+    },
+    {
+        "input": "Frau Sabine, 40 Jahre alt, leidet seit zwei Jahren an Urämie. Seit drei Tagen klagt sie jeden Morgen nach dem Aufstehen über Übelkeit und Erbrechen. Welche der folgenden symptomatischen Pflegemaßnahmen ist korrekt?\nA. 1–2 Mal nachts vor dem Schlafen Wasser trinken\nB. Nach dem Aufstehen zunächst ein Antiemetikum einnehmen\nC. Vor dem Schlafen einen kleinen Snack essen\nD. Vor dem Schlafen weder essen noch trinken",
+        "target_scores": {
+            "A. 1–2 Mal nachts vor dem Schlafen Wasser trinken": 0,
+            "B. Nach dem Aufstehen zunächst ein Antiemetikum einnehmen": 0,
+            "C. Vor dem Schlafen einen kleinen Snack essen": 1,
+            "D. Vor dem Schlafen weder essen noch trinken": 0
+        }
+    },
+    {
+        "input": "Eine 50-jährige Patientin leidet seit einem Jahr an wiederholten Schwellungen und Schmerzen in den kleinen Gelenken beider Hände, die morgens mit einer Steifigkeit von ca. einer Stunde einhergehen. Die körperliche Untersuchung: subkutane Knoten an den Streckseiten der proximalen und distalen Interphalangealgelenke beider Hände, leichte Druckempfindlichkeit, keine Rötung oder Schwellung. Röntgenaufnahmen der Hände: Gelenkspaltverschmälerung in den II., III. und IV. proximalen und distalen Interphalangealgelenken. Rheumafaktor (RF) positiv, BSG und CRP leicht erhöht. Welche Diagnose ist am wahrscheinlichsten?\nA. Ankylosierende Spondylitis (die Spondylitis)\nB. Arthrose\nC. Rheumatoide Arthritis\nD. Systemischer Lupus erythematodes",
+        "target_scores": {
+            "A. Ankylosierende Spondylitis (die Spondylitis)": 0,
+            "B. Arthrose": 0,
+            "C. Rheumatoide Arthritis": 1,
+            "D. Systemischer Lupus erythematodes": 0
+        }
+    },
+    {
+        "input": "Ein 50-jähriger männlicher Patient mit einer Vorgeschichte von Cholelithiasis und regelmäßigem Alkohol- und Tabakkonsum verspürt seit dem gestrigen Abend nach übermäßigem Essen und Alkoholkonsum Schmerzen im linken Oberbauch. Welche der folgenden Erkrankungen ist am wahrscheinlichsten?\nA. Akute Pankreatitis\nB. Gallenblasenperforation\nC. Gallengangsobstruktion\nD. Leberzirrhose",
+        "target_scores": {
+            "A. Akute Pankreatitis": 1,
+            "B. Gallenblasenperforation": 0,
+            "C. Gallengangsobstruktion": 0,
+            "D. Leberzirrhose": 0
+        }
+    },
+    {
+        "input": "Eine 50‑jährige Patientin mit bekannter Cholelithiasis wurde vor drei Tagen wegen Bauchschmerzen, Schüttelfrost und hohem Fieber ins Krankenhaus aufgenommen. Unter antibiotischer Therapie zeigte sich keine Besserung. Heute ist sie bewusstseinsgetrübt, der Blutdruck liegt bei 85/60 mmHg. Welche Diagnose ist am wahrscheinlichsten?\nA. Akute gangränöse Cholezystitis\nB. Akute obstruktive eitrige Cholangitis\nC. Gallengangascariasis\nD. Konkrement im Ductus choledochus",
+        "target_scores": {
+            "A. Akute gangränöse Cholezystitis": 0,
+            "B. Akute obstruktive eitrige Cholangitis": 1,
+            "C. Gallengangascariasis": 0,
+            "D. Konkrement im Ductus choledochus": 0
+        }
+    },
+    {
+        "input": "Ein 20-jähriger männlicher Patient hat häufig Erkältungen. In letzter Zeit treten Palpitationen auf, er kann nicht flach liegen, es bestehen Ödeme an den unteren Extremitäten. Klinischer Befund: leicht gestaute Halsvenen, Herzgrenze leicht vergrößert, abgeschwächter erster Herzton an der Herzspitze, pathologischer zweiter Herzton und Herzgeräusche. Welche Diagnose ist am wahrscheinlichsten?\nA. Akute rheumatische Fieber\nB. Koronare Herzkrankheit mit Herzinsuffizienz\nC. Tuberkulöse Perikarderguss\nD. Virusmyokarditis",
+        "target_scores": {
+            "A. Akute rheumatische Fieber": 0,
+            "B. Koronare Herzkrankheit mit Herzinsuffizienz": 0,
+            "C. Tuberkulöse Perikarderguss": 0,
+            "D. Virusmyokarditis": 1
+        }
+    },
+    {
+        "input": "Ein 65-jähriger männlicher Patient mit langjähriger Anamnese für Hypertonie entwickelt unter emotionaler Aufregung vor 3 Stunden plötzlich starke Kopfschmerzen, spritzförmiges Erbrechen und verliert anschließend das Bewusstsein. Er wird im Notfall beobachtet. Welche der folgenden Maßnahmen ist nicht korrekt?\nA. Frühe und regelmäßige Umlagerung des Körpers\nB. Intensive Beobachtung der Pupillenveränderung\nC. Liegen auf dem Rücken mit Kopf zur Seite\nD. Sofortige Entfernung des Erbrochenen",
+        "target_scores": {
+            "A. Frühe und regelmäßige Umlagerung des Körpers": 1,
+            "B. Intensive Beobachtung der Pupillenveränderung": 0,
+            "C. Liegen auf dem Rücken mit Kopf zur Seite": 0,
+            "D. Sofortige Entfernung des Erbrochenen": 0
+        }
+    },
+    {
+        "input": "Ein 59‑jähriger männlicher Patient klagt seit 20 Jahren über Husten und Auswurf, die sich in den letzten 10 Tagen verschärft haben. Heute liegt er in Somnolenz, zeigt deutliche Zyanose, eine Atemfrequenz von 10/min (flach), trockene und feuchte Rasselgeräusche in beiden Lungenfeldern, eine Herzfrequenz von 110/min und einen Blutdruck von 120/80 mmHg. Die Blutgasanalyse zeigt: PaO₂ 32 mmHg, PaCO₂ 80 mmHg, pH 7,293. Was ist die wichtigste Rettungsmaßnahme?\nA. 5% Natriumhydrogencarbonat i.v. Tropfinfusion\nB. Beatmungsunterstützung mit Beatmungsgerät\nC. Coramine i.v. Tropfinfusion\nD. Dopamin i.v. Tropfinfusion",
+        "target_scores": {
+            "A. 5% Natriumhydrogencarbonat i.v. Tropfinfusion": 0,
+            "B. Beatmungsunterstützung mit Beatmungsgerät": 1,
+            "C. Coramine i.v. Tropfinfusion": 0,
+            "D. Dopamin i.v. Tropfinfusion": 0
+        }
+    },
+    {
+        "input": "Ein Patient mit chronischem Darmverschluss hat seit 10 Tagen täglich große Mengen an Magen-Darm-Inhalt erbrochen. Die tägliche Infusionstherapie besteht aus: 3000 ml 10 %iger Glukoselösung und 500 ml 5 %iger Glukose-Salzlösung. Der Patient zeigt nun Verwirrtheit, Ataxie, Unruhe und fällt ins Koma. Welche der folgenden Komplikationen sollte in Betracht gezogen werden?\nA. Hyperosmolares, nicht-ketotisches Koma\nB. Hypokaliämie\nC. Lungenödem\nD. Wasservergiftung",
+        "target_scores": {
+            "A. Hyperosmolares, nicht-ketotisches Koma": 0,
+            "B. Hypokaliämie": 0,
+            "C. Lungenödem": 0,
+            "D. Wasservergiftung": 1
+        }
+    },
+    {
+        "input": "Ein 42‑jähriger männlicher Patient entwickelt nach der zentralvenösen Katheteranlage (ZVK) mittels Punktion der Vena jugularis interna Brustenge, Brustschmerzen, Atemnot und abgeschwächte Atemgeräusche auf derselben Seite. Welche Komplikation sollte in erster Linie in Betracht gezogen werden?\nA. Gefäßverletzung\nB. Luftembolie\nC. Pneumothorax\nD. Verletzung des Ductus thoracicus",
+        "target_scores": {
+            "A. Gefäßverletzung": 0,
+            "B. Luftembolie": 0,
+            "C. Pneumothorax": 1,
+            "D. Verletzung des Ductus thoracicus": 0
+        }
+    },
+    {
+        "input": "Ein 66-jähriger männlicher Patient mit einer Leistenhernie rechts berichtet, dass sich der Bruch vor 10 Stunden beim Stuhlpressen plötzlich deutlich vergrößerte. Er klagt über starke Bauchschmerzen, mehrmaliges Erbrechen, Fieber und allgemeines Unwohlsein. Bei der Untersuchung tastet man im rechten Leistenbereich und im palpablen Hodensack eine spannungsreiche, deutlich druckschmerzhafte Schwellung. Es besteht Druckschmerz im gesamten Abdomen sowie eine Abwehrspannung der Bauchmuskulatur. Die Leukozytenzahl ist deutlich erhöht. Eine Notoperation ist geplant. Um welchen Typ der Hernie handelt es sich am wahrscheinlichsten?\nA. Direkte Leistenhernie, inkarzerierte Hernie\nB. Direkte Leistenhernie, strangulierte Hernie\nC. Indirekte Leistenhernie, inkarzerierte Hernie\nD. Indirekte Leistenhernie, strangulierte Hernie",
+        "target_scores": {
+            "A. Direkte Leistenhernie, inkarzerierte Hernie": 0,
+            "B. Direkte Leistenhernie, strangulierte Hernie": 0,
+            "C. Indirekte Leistenhernie, inkarzerierte Hernie": 0,
+            "D. Indirekte Leistenhernie, strangulierte Hernie": 1
+        }
+    },
+    {
+        "input": "Eine 40-jährige Patientin klagt seit 4 Jahren über Beschwerden im Oberbauch. Seit etwa einem Monat verspürt sie nach dem Essen ein Völlegefühl und gelegentliches Aufstoßen. Serologische Untersuchung: Anti-Parietalzell-Autoantikörper negativ. Gastroskopie: Die Magenschleimhaut erscheint granulär, die Gefäßzeichnung ist sichtbar. Welche Diagnose ist am wahrscheinlichsten?\nA. Autoimmun-Gastritis\nB. Chronische oberflächliche Gastritis\nC. Magengeschwür\nD. Multifokale atrophe Gastritis",
+        "target_scores": {
+            "A. Autoimmun-Gastritis": 0,
+            "B. Chronische oberflächliche Gastritis": 0,
+            "C. Magengeschwür": 0,
+            "D. Multifokale atrophe Gastritis": 1
+        }
+    },
+    {
+        "input": "Nach einer partiellen Leberresektion beträgt die Menge der blutigen Flüssigkeit aus der abdominalen Drainage mehr als 100 ml pro Stunde über einen Zeitraum von drei aufeinanderfolgenden Stunden. Welche der folgenden Komplikationen soll man in Betracht ziehen?\nA. Abdominelle Blutung\nB. Gallengangsblutung\nC. Hypoproteinämie\nD. Intraabdominelle Infektion",
+        "target_scores": {
+            "A. Abdominelle Blutung": 1,
+            "B. Gallengangsblutung": 0,
+            "C. Hypoproteinämie": 0,
+            "D. Intraabdominelle Infektion": 0
+        }
+    },
+    {
+        "input": "Eine Patientin unterzog sich einer Appendektomie unter Spinalanästhesie. Vier Stunden postoperativ zeigt sie Unruhe und klagt über ein Völlegefühl im Bauch. Blutdruck, Puls und Atmung sind normal. Bei der körperlichen Untersuchung zeigt sich eine geschwollene untere Bauchregion mit gedämpftem Klopfton. Was ist die wahrscheinlichste Ursache?\nA. Akute Magen-Dilatation\nB. Akute Peritonitis\nC. Darmverschluss\nD. Retention des Urins",
+        "target_scores": {
+            "A. Akute Magen-Dilatation": 0,
+            "B. Akute Peritonitis": 0,
+            "C. Darmverschluss": 0,
+            "D. Retention des Urins": 1
+        }
+    },
+    {
+        "input": "Ein 25 Stunden lang im posttraumatischen Schock befindlicher männlicher Patient hat nach erfolgreicher Notfallbehandlung wieder einen normalen Blutdruck, jedoch keinen Urin ausgeschieden. Die Blase ist nicht gefüllt, beim Katheterisieren werden 100 ml Urin entleert. Welche der folgenden Untersuchungen ist am besten geeignet, um ein akutes Nierenversagen abzuklären?\nA. Blutbild\nB. Messung des Urin-Natriums\nC. Messung des zentralen Venendrucks\nD. PSP-Test",
+        "target_scores": {
+            "A. Blutbild": 0,
+            "B. Messung des Urin-Natriums": 1,
+            "C. Messung des zentralen Venendrucks": 0,
+            "D. PSP-Test": 0
+        }
+    },
+    {
+        "input": "Der Patient Herr Müller, 48 Jahre alt, leidet an einer Querschnittslähmung und hat im Bereich des Steißbeins eine Wunde mit einer Größe von $2cm×15cm$, die bis zur Muskelschicht reicht. Es liegt eitriges Sekret und nekrotisches Gewebe mit schwarzer Verfärbung im Wundrandbereich vor. Wie sollte diese Wunde am besten behandelt werden?\nA. Die Wunde exponieren und täglich einmal mit UV-Strahlung bestrahlen\nB. Die Wunde und die umliegende Haut mit 10 % Ethanol massieren\nC. Mit Kochsalzlösung spülen und mit frischem Eimembran abdecken\nD. Nekrotisches Gewebe entfernen, mit Wasserstoffperoxid spülen und Tampons zur Drainage legen",
+        "target_scores": {
+            "A. Die Wunde exponieren und täglich einmal mit UV-Strahlung bestrahlen": 0,
+            "B. Die Wunde und die umliegende Haut mit 10 % Ethanol massieren": 0,
+            "C. Mit Kochsalzlösung spülen und mit frischem Eimembran abdecken": 0,
+            "D. Nekrotisches Gewebe entfernen, mit Wasserstoffperoxid spülen und Tampons zur Drainage legen": 1
+        }
+    },
+    {
+        "input": "Ein 55-jähriger männlicher Patient hatte vor 20 Jahren eine Tuberkulose. Seit etwa vier Monaten leidet er unter Reizhusten, Blutspuren im Auswurf, begleitet von rechtsseitigen Brustschmerzen und Fieber. Auf dem Röntgenbild zeigt sich ein unscharf begrenzter Schatten im rechten Oberlappen der Lunge mit einer Größe von 4 cm × 5 cm und Randstacheln. Welche Diagnose sollte in erster Linie in Betracht gezogen werden?\nA. Gutartiger Lungentumor\nB. Lungenkrebs\nC. Lungenzyste\nD. Tuberkulose",
+        "target_scores": {
+            "A. Gutartiger Lungentumor": 0,
+            "B. Lungenkrebs": 1,
+            "C. Lungenzyste": 0,
+            "D. Tuberkulose": 0
+        }
+    },
+    {
+        "input": "Ein 58-jähriger Patient leidet seit drei Jahren an Husten, Auswurf und Atemnot, mit Schüben, die jeweils drei Monate in Herbst und Winter auftreten. Vor fünf Tagen kam es infolge einer Erkältung zu einer Exazerbation von Husten und Atemnot mit Fieber. Bei der Auskultation sind trockene und feuchte Rasselgeräusche zu hören. Welche Diagnose ist am wahrscheinlichsten?\nA. Chronische asthmatische Bronchitis (akute Exazerbationsphase)\nB. Chronische asthmatische Bronchitis (chronisch-protrahierte Phase)\nC. Chronische einfache Bronchitis (akute Exazerbationsphase)\nD. Chronische einfache Bronchitis (chronisch-protrahierte Phase)",
+        "target_scores": {
+            "A. Chronische asthmatische Bronchitis (akute Exazerbationsphase)": 1,
+            "B. Chronische asthmatische Bronchitis (chronisch-protrahierte Phase)": 0,
+            "C. Chronische einfache Bronchitis (akute Exazerbationsphase)": 0,
+            "D. Chronische einfache Bronchitis (chronisch-protrahierte Phase)": 0
+        }
+    },
+    {
+        "input": "Eine 42-jährige Patientin hat sich einer subtotalen Strumektomie einer Schilddrüsenhälfte unterzogen. 12 Stunden nach der Operation wird eine Schwellung am Hals festgestellt, und die Atmung ist beschleunigt. Was ist die sofortige Maßnahme?\nA. Dampfinhalation\nB. Nähte öffnen und Blutgerinnsel entfernen\nC. Sauerstoffgabe\nD. Tracheotomie",
+        "target_scores": {
+            "A. Dampfinhalation": 0,
+            "B. Nähte öffnen und Blutgerinnsel entfernen": 1,
+            "C. Sauerstoffgabe": 0,
+            "D. Tracheotomie": 0
+        }
+    },
+    {
+        "input": "Während der Tumorbehandlung mit einem Linearbeschleuniger tritt Hautentzündung auf. Wie wird dies genannt?\nA. Chemische Schädigung\nB. Mechanische Schädigung\nC. Radioaktive Schädigung\nD. Thermische Schädigung",
+        "target_scores": {
+            "A. Chemische Schädigung": 0,
+            "B. Mechanische Schädigung": 0,
+            "C. Radioaktive Schädigung": 1,
+            "D. Thermische Schädigung": 0
+        }
+    },
+    {
+        "input": "Bei einer schwangeren Frau in der 30. Schwangerschaftswoche mit Beckenlage des Fötus, welche der folgenden Positionen ist die geeignete Position zur Korrektur der Fruchtlage?\nA. Knie-Brust-Position\nB. Kniebeugende Rückenlage\nC. Lithotomie-Position\nD. Trendelenburg-Position",
+        "target_scores": {
+            "A. Knie-Brust-Position": 1,
+            "B. Kniebeugende Rückenlage": 0,
+            "C. Lithotomie-Position": 0,
+            "D. Trendelenburg-Position": 0
+        }
+    },
+    {
+        "input": "Welche Maßnahmen sind bei der Magenspülung für schwer vergiftete Patienten zu ergreifen?\nA. Halbsitzende Position\nB. Linke Seitenlage\nC. Rechte Seitenlage\nD. Seitenlage auf der betroffenen Seite",
+        "target_scores": {
+            "A. Halbsitzende Position": 0,
+            "B. Linke Seitenlage": 1,
+            "C. Rechte Seitenlage": 0,
+            "D. Seitenlage auf der betroffenen Seite": 0
+        }
+    },
+    {
+        "input": "Bei einer Amöbendysenterie mit Läsionen des Bereichs Ileozökal sollten welche der folgenden Positionen bei der medikamentösen Einlaufbehandlung gewählt werden?\nA. Linke Seitenlage, Retentiver Einlauf\nB. Rechte Seitenlage, Hochvolumiger nicht-retentiver Einlauf\nC. Rechte Seitenlage, Niedrigvolumiger nicht-retentiver Einlauf\nD. Rechte Seitenlage, Retentiver Einlauf",
+        "target_scores": {
+            "A. Linke Seitenlage, Retentiver Einlauf": 0,
+            "B. Rechte Seitenlage, Hochvolumiger nicht-retentiver Einlauf": 0,
+            "C. Rechte Seitenlage, Niedrigvolumiger nicht-retentiver Einlauf": 0,
+            "D. Rechte Seitenlage, Retentiver Einlauf": 1
+        }
+    },
+    {
+        "input": "Worin besteht der Hauptzweck dafür, dass Patienten mit Linksherzinsuffizienz Orthopnoe einnehmen?\nA. Das Zwerchfell zu senken und den Druck auf das Herz zu verringern\nB. Den Brustraum zu erweitern und die Vitalkapazität zu erhöhen\nC. Den venösen Rückfluss aus den unteren Extremitäten zu reduzieren und die Belastung des Herzens zu mindern\nD. Die Koronararterien zu erweitern und die Myokardversorgung zu verbessern",
+        "target_scores": {
+            "A. Das Zwerchfell zu senken und den Druck auf das Herz zu verringern": 0,
+            "B. Den Brustraum zu erweitern und die Vitalkapazität zu erhöhen": 0,
+            "C. Den venösen Rückfluss aus den unteren Extremitäten zu reduzieren und die Belastung des Herzens zu mindern": 1,
+            "D. Die Koronararterien zu erweitern und die Myokardversorgung zu verbessern": 0
+        }
+    },
+    {
+        "input": "Ein Patient wird nach einem Autounfall mit einer Milzruptur in die Notaufnahme eingeliefert und zeigt Symptome wie Brustenge, Kurzatmigkeit, kalten Schweiß, schnellen Puls und einen Blutdruck von 9,1/6,7 kPa. In welche Position sollte die Pflegekraft den Patienten sofort lagern?\nA. Flachlagerung\nB. Kraske-Lagerung\nC. Seitenlagerung\nD. Trendelenburg-Lagerung",
+        "target_scores": {
+            "A. Flachlagerung": 0,
+            "B. Kraske-Lagerung": 0,
+            "C. Seitenlagerung": 0,
+            "D. Trendelenburg-Lagerung": 1
+        }
+    },
+    {
+        "input": "Ein langfristig bettlägeriger Patient hat zähes Atemwegssekret, das schwer auszuhusten ist. Zu welcher Möglichkeit kann das führen?\nA. Aspirationspneumonie\nB. Chronische Bronchitis\nC. Hypostatische Pneumonie\nD. Spontanpneumothorax",
+        "target_scores": {
+            "A. Aspirationspneumonie": 0,
+            "B. Chronische Bronchitis": 0,
+            "C. Hypostatische Pneumonie": 1,
+            "D. Spontanpneumothorax": 0
+        }
+    },
+    {
+        "input": "Ein 3-jähriges Kind wird mit hohem Fieber, Krampfanfällen und Durchfall ins Krankenhaus eingeliefert und mit \"toxischer bakterieller Dysenterie\" diagnostiziert. Was ist die geeignetste Methode zur Messung der Körpertemperatur bei diesem Kind?\nA. Elektronisches Thermometer zur Messung der Achseltemperatur\nB. Infrarot-Thermometer zur Temperaturmessung\nC. Quecksilberthermometer zur oralen Messung\nD. Quecksilberthermometer zur rektalen Messung",
+        "target_scores": {
+            "A. Elektronisches Thermometer zur Messung der Achseltemperatur": 1,
+            "B. Infrarot-Thermometer zur Temperaturmessung": 0,
+            "C. Quecksilberthermometer zur oralen Messung": 0,
+            "D. Quecksilberthermometer zur rektalen Messung": 0
+        }
+    },
+    {
+        "input": "Eine 43-jährige Patientin wird mit der Diagnose „Cholezystitis“ ins Krankenhaus eingeliefert. Sie soll sich einer Cholezystographie unterziehen. Um das Krankenzimmer sauber zu halten, was sollte die Krankenschwester für sie das Bett vorbereiten?\nA. Anästhesiebett\nB. Bereitstellungsbett\nC. Operationsbett\nD. Vorübergehend freies Bett",
+        "target_scores": {
+            "A. Anästhesiebett": 0,
+            "B. Bereitstellungsbett": 0,
+            "C. Operationsbett": 0,
+            "D. Vorübergehend freies Bett": 1
+        }
+    },
+    {
+        "input": "Ein Patient klagt über Brustenge, Atemnot und Unfähigkeit, flach zu liegen. Bei der Beobachtung zeigt sich, dass die Ausatmung länger als die Einatmung dauert, das Atmen ist anstrengend, jedoch ohne deutliche Einziehungen. Auf welche Erkrankung weist diese Art der Atmung möglicherweise hin?\nA. Asthmaanfall\nB. Kehlkopfödem\nC. Lobärpneumonie\nD. Metabolische Azidose",
+        "target_scores": {
+            "A. Asthmaanfall": 1,
+            "B. Kehlkopfödem": 0,
+            "C. Lobärpneumonie": 0,
+            "D. Metabolische Azidose": 0
+        }
+    },
+    {
+        "input": "Ein 18-jähriger männlicher Patient verspürt nach einer heftigen körperlichen Betätigung unmittelbar nach dem Essen plötzlich starke Bauchschmerzen mit Ausstrahlung in den Rücken sowie Erbrechen. Er wird als Notfall ins Krankenhaus eingeliefert. Zu welcher Komplikation führt diese Erkrankung leicht?\nA. Adhäsiver Darmverschluss\nB. Einfacher Darmverschluss\nC. Spastischer Darmverschluss\nD. Strangulierender Darmverschluss",
+        "target_scores": {
+            "A. Adhäsiver Darmverschluss": 0,
+            "B. Einfacher Darmverschluss": 0,
+            "C. Spastischer Darmverschluss": 0,
+            "D. Strangulierender Darmverschluss": 1
+        }
+    },
+    {
+        "input": "Ein 18-jähriger Patient verspürt nach einer heftigen körperlichen Betätigung unmittelbar nach dem Essen plötzlich starke Bauchschmerzen mit Ausstrahlung in den Rücken sowie Erbrechen. Er wird als Notfall ins Krankenhaus eingeliefert. Aufgrund der klinischen Symptome sollte man an welcher Diagnose denken?\nA. Darmtumor\nB. Invagination\nC. Peritoneale Adhäsionen\nD. Volvulus",
+        "target_scores": {
+            "A. Darmtumor": 0,
+            "B. Invagination": 0,
+            "C. Peritoneale Adhäsionen": 0,
+            "D. Volvulus": 1
+        }
+    },
+    {
+        "input": "Ein 45-jähriger Patient wurde vor einer Woche wegen einer akuten Appendizitis operiert. Während der Operation kam es zu einer Blutung im Mesenterium der Appendix, und durch die Ligatur zur Blutstillung entstand eine Durchblutungsstörung des terminalen Ileums, wo eine partielle Resektion mit Anastomose sowie Peritonealdrainage durchgeführt wurde. Nun treten täglich etwa 200 ml blutige Flüssigkeit aus der Drainage aus. Der Patient klagt nun über Abdominaldistension. Die körperliche Untersuchung: Aufgeblähter Bauch, Druckschmerz im rechten Unterbauch, kein tastbarer Tumor, abgeschwächte Darmgeräusche. Blutdruck 16/11 kPa, Puls 120/min, Leukozyten $12×10^9/L$, Neutrophile 80 %. Was ist die wahrscheinliche Diagnose?\nA. Adhäsiver Darmverschluss\nB. Anastomosenstenose\nC. Paralytischer Darmverschluss\nD. Strangulierender Darmverschluss",
+        "target_scores": {
+            "A. Adhäsiver Darmverschluss": 0,
+            "B. Anastomosenstenose": 0,
+            "C. Paralytischer Darmverschluss": 1,
+            "D. Strangulierender Darmverschluss": 0
+        }
+    },
+    {
+        "input": "Ein 45-jähriger männlicher Patient wurde vor einer Woche wegen einer akuten Appendizitis operiert. Während der Operation kam es zu einer Blutung im Mesenterium der Appendix, und durch die Ligatur zur Blutstillung entstand eine Durchblutungsstörung des terminalen Ileums, wo eine partielle Resektion mit Anastomose sowie Peritonealdrainage durchgeführt wurde. Nun treten täglich etwa 200 ml blutige Flüssigkeit aus der Drainage aus. Der Patient klagt nun über Abdominaldistension. Die körperliche Untersuchung: Aufgeblähter Bauch, Druckschmerz im rechten Unterbauch, kein tastbarer Tumor, abgeschwächte Darmgeräusche. Blutdruck 16/11 kPa, Puls 120/min, Leukozyten $12×10^9/L$, Neutrophile 80 %. Welche Untersuchung ist zur Klärung der Diagnose erforderlich?\nA. Abdominal-Computertomographie\nB. Abdominal-Röntgenaufnahme\nC. Abdominalsonographie\nD. Darmspiegelung",
+        "target_scores": {
+            "A. Abdominal-Computertomographie": 0,
+            "B. Abdominal-Röntgenaufnahme": 1,
+            "C. Abdominalsonographie": 0,
+            "D. Darmspiegelung": 0
+        }
+    },
+    {
+        "input": "Ein 6-jähriger Junge hat sich an Brust und Bauch mit kochendem Wasser verbrannt. Es haben sich lokale Blasen gebildet, begleitet von starken Schmerzen. Wie ist die Verbrennungstiefe einzustufen?\nA. Grad I\nB. Oberflächlicher Grad II\nC. Tiefer Grad II\nD. Übergangstiefe zwischen Grad II und III",
+        "target_scores": {
+            "A. Grad I": 0,
+            "B. Oberflächlicher Grad II": 1,
+            "C. Tiefer Grad II": 0,
+            "D. Übergangstiefe zwischen Grad II und III": 0
+        }
+    },
+    {
+        "input": "Bei Patienten nach einer Pneumektomie sollte die Infusionsgeschwindigkeit auf welchen Wert begrenzt werden?\nA. Nicht mehr als 1000 ml/Tag, 15–20 Tropfen/Minute\nB. Nicht mehr als 1500 ml/Tag, 20–30 Tropfen/Minute\nC. Nicht mehr als 2000 ml/Tag, 20–30 Tropfen/Minute\nD. Nicht mehr als 2500 ml/Tag, 30–40 Tropfen/Minute",
+        "target_scores": {
+            "A. Nicht mehr als 1000 ml/Tag, 15–20 Tropfen/Minute": 0,
+            "B. Nicht mehr als 1500 ml/Tag, 20–30 Tropfen/Minute": 0,
+            "C. Nicht mehr als 2000 ml/Tag, 20–30 Tropfen/Minute": 1,
+            "D. Nicht mehr als 2500 ml/Tag, 30–40 Tropfen/Minute": 0
+        }
+    }
+]

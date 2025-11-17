@@ -1,0 +1,482 @@
+[
+    {
+        "input": "Claus ist ein Lehrer für Innovations- und Gründungstrainingskurse. Seine Kurse finden wochentags von 10:00 bis 18:00 Uhr statt (mit 1 Stunde Mittagspause). Ab nächstem Montagmorgen beginnen die Kurse in folgender Reihenfolge: Innovationsmethoden (5 Stunden), Gründungsplanung (10 Stunden) und Geschäftsmodell (4 Stunden). An welchem Wochentag wird das Geschäftsmodell abgeschlossen?",
+        "target": "Nächster Mittwoch."
+    },
+    {
+        "input": "Jana ist in Berlin unterwegs. Momentan besucht sie den Berliner Zoo und möchte danach zur East-Side-Gallery fahren. Es ist jetzt 13:00 Uhr. Fürs Essen benötigt sie etwa 30 Minuten, die Fahrt dauert ebenfalls 30 Minuten. Wann kann sie frühestens an der East-Side-Gallery ankommen?",
+        "target": "um 14:00 Uhr frühestens"
+    },
+    {
+        "input": "Emma möchte das berühmte koreanische Grillfleisch in Seoul essen. Sie schlendert gerade in der Gegend Myeongdong herum und wird dort noch etwa 1 Stunde bleiben. Es ist jetzt 16:00 Uhr. Die Fahrt zum Grillrestaurant dauert zusätzlich 30 Minuten. Wann kann sie im Restaurant ankommen?",
+        "target": "Sie kann um 17:30 Uhr im Restaurant ankommen."
+    },
+    {
+        "input": "Lena ist Schriftstellerin und arbeitet an jedem Werktag von 10:00 bis 19:00 Uhr. Ihre Aufgaben beginnen in der folgenden Reihenfolge: das Schreiben neuer Kapitel oder Abschnitte dauert 4 Stunden, das Bearbeiten und Überarbeiten der am Vortag geschriebenen Inhalte dauert 1 Stunde, die Organisation der Handlung oder Inhaltsstruktur dauert 1 Stunde sowie die Markt- und Wettbewerbsanalyse dauert 3 Stunden. Um wie viel Uhr wird sie die Organisation der Handlung oder Inhaltsstruktur abschließen?",
+        "target": "Um 16:00 Uhr."
+    },
+    {
+        "input": "Wenn ich nächste Woche an einem kurzen Malkurs teilnehme, der täglich von 10:00 bis 18:00 Uhr an Werktagen stattfindet, und ab nächstem Montag die folgenden Kurse in dieser Reihenfolge besuche: Linienzeichnen benötigt 6 Stunden, Farbenlehre 11 Stunden und Perspektivzeichnen 8 Stunden, an welchem Wochentag wird das Perspektivzeichnen abgeschlossen sein?",
+        "target": "Am nächsten Donnerstag."
+    },
+    {
+        "input": "Emma hat 60 Tage Zeit, sich auf die FRM-Prüfung vorzubereiten. Davon entfallen 5 Tage auf Simulationsprüfungen, 5 Tage auf Finanzmärkte und -produkte, 10 Tage auf die quantitative Analyse finanzieller Risiken und 20 Tage auf Risiko- und Investmentmanagement. Wie viele Tage kann sie für das Üben von Bewertung und Risikomodellen aufwenden?",
+        "target": "20 Tage"
+    },
+    {
+        "input": "Kevin steht um 10 Uhr auf, von 10 bis 12 Uhr hat er Unterricht in der Schule, von 15 bis 19 Uhr ist er in der Kirche, von 20 bis 23 Uhr ist er bei Lukas, um 23 Uhr geht er ins Bett. Wenn er 3 Stunden Basketball spielen möchte, welcher Zeitraum wäre am besten geeignet?",
+        "target": "Von 12:00 bis 15:00 Uhr."
+    },
+    {
+        "input": "Ich bin Schriftstellerin und arbeite jeden Werktag von 10:00 bis 16:00 Uhr. Ab nächstem Montag plane ich, folgende Aufgaben in dieser Reihenfolge zu erledigen: Inspiration und Ideen sammeln (4 Stunden), neue Kapitel oder Abschnitte schreiben (8 Stunden), Notizen und Gliederungen erstellen (6 Stunden) sowie Selbstbewertung und Reflexion durchführen (3 Stunden). An welchem Wochentag werde ich die Selbstbewertung und Reflexion abschließen?",
+        "target": "Nächsten Donnerstag."
+    },
+    {
+        "input": "Fiona ist eine Gemeindearbeiterin und hat nächste Woche 5 Tage Zeit, um eine Gemeinschaftsaktivität zu organisieren. Die Planung und Vorbereitung der spezifischen Inhalte und Abläufe benötigt 1 Tag, die Kommunikation und Schulung des Freiwilligenteams einen halben Tag, der Austausch und die Interaktion mit den Gemeindebewohnern einen halben Tag sowie die Zusammenfassung der Aktivitätsdaten und Rückmeldungen einen halben Tag. Wie viele Tage bleiben ihr, um die Probleme der Gemeindebewohner zu lösen oder Hilfe anzubieten?",
+        "target": "2,5 Tage"
+    },
+    {
+        "input": "Wenn ich 90 Tage Zeit habe, um mich auf die TOEFL-Prüfung vorzubereiten, wobei 7 Tage für Simulationsprüfungen, 20 Tage für Hörverständnis, 15 Tage für Schreiben und 20 Tage für Leseverständnis verwendet werden, wie viele Tage bleiben dann für das Sprechen-Üben?",
+        "target": "28 Tage."
+    },
+    {
+        "input": "Mein Bruder ist heute um 8:00 Uhr morgens aufgestanden. Er hat von 9:30 bis 12:00 Uhr Matheunterricht, von 12:00 bis 15:00 Uhr Mittagspause, von 15:00 bis 17:00 Uhr Englischunterricht und von 20:00 bis 22:00 Uhr spielt er Computerspiele. Um 22:00 Uhr schläft er ein. Heute muss er noch ein 3-stündiges Fußballspiel absolvieren. Welcher Zeitraum wäre am besten geeignet?",
+        "target": "von 17:00 bis 20:00 Uhr."
+    },
+    {
+        "input": "Eine akademische Konferenz besteht normalerweise aus den folgenden Teilen: Eröffnungszeremonie, Keynote-Vorträge, Gruppendiskussionen, akademische Präsentationen und akademischer Austausch. Wenn Annas Konferenz von 10:00 bis 18:00 Uhr geplant ist, wobei die Eröffnungszeremonie 1 Stunde, Gruppendiskussionen 1 Stunde, Mittagspause 1 Stunde, Keynote-Vorträge 1 Stunde und akademische Präsentationen 3 Stunden in Anspruch nehmen, wie viele Stunden bleiben für den akademischen Austausch?",
+        "target": "1 Stunde."
+    },
+    {
+        "input": "Linda hat jetzt 50 Tage Zeit, um sich auf die ACT-Prüfung vorzubereiten, wobei 10 Tage für Simulationsprüfungen, 10 Tage für Englisch, 7 Tage für Mathematik und 15 Tage für Leseverständnis verwendet werden. Wie viele Tage bleiben für das Üben von wissenschaftlichem Schlussfolgern?",
+        "target": "8 Tage"
+    },
+    {
+        "input": "Kate ist IT-Trainerin und gibt ihre Kurse an Werktagen von 10:00 bis 18:00 Uhr. Ab nächstem Montag finden die Kurse in folgender Reihenfolge statt: Grundlagen der Informatik (8 Stunden), Programmiersprachen (4 Stunden) und Datenanalyse (10 Stunden). An welchem Wochentag wird die Datenanalyse abgeschlossen?",
+        "target": "Nächsten Mittwoch."
+    },
+    {
+        "input": "Heute ist der 1. August. Lily hat Babyhandtücher (5 Tage Lieferzeit), Babyflaschen (8 Tage) und Babymilchpulver (3 Tage) bestellt. Bis wann werden alle Artikel geliefert sein?",
+        "target": "Am 9. August."
+    },
+    {
+        "input": "Simon ist Hochzeitsplaner und hat 5 Tage Zeit für die Vorbereitung. Aufgaben: Standortwahl nimmt 1 Tag, Buchung eines Eventteams 0,5 Tage, Hochzeitskleid-Anprobe und Maßanfertigung 0,5 Tage, Ringe auswählen und kaufen 1 Tag, Bestätigung der Unterkunfts- und Verkehrsarrangements für die Gäste 0,5 Tage und Dekoration planen 0,5 Tage. Wie viele Tage bleiben für die Buchung von Fotografen und Kameramännern?",
+        "target": "1 Tag."
+    },
+    {
+        "input": "Xaver plant eine 5-tägige Freiwilligenaktion. Aufgaben: Werbung (1 Tag), Spenden- und Verkaufsaktion (0,5 Tage), Planung von Personal und Ressourcen (0,5 Tage), Feedback und Abschluss mit dem Freiwilligenteam (0,5 Tage). Wie viele Tage bleiben für Bewertung und Verbesserungen?",
+        "target": "2,5 Tage."
+    },
+    {
+        "input": "Lily ist Kommunikationstrainerin und gibt ihre Kurse an Werktagen von 10:00 bis 18:00 Uhr. Ab nächstem Montag finden die Kurse in folgender Reihenfolge statt: Effektive Kommunikation (6 Stunden), Beziehungsmanagement (12 Stunden) und Redetechniken (7 Stunden). An welchem Wochentag enden die Redetechniken?",
+        "target": "Nächsten Donnerstag."
+    },
+    {
+        "input": "Sabines Tagesablauf ist wie folgt: Sie steht um 9:00 Uhr auf. Von 9:00 bis 12:00 arbeitet sie in der Bäckerei, von 12:00 bis 13:00 isst sie zu Mittag, von 15:00 bis 19:00 arbeitet sie im Café, von 19:00 bis 20:00 fährt sie nach Hause und spielt danach allein zu Hause bis 23:00 Uhr. Sabine und Lukas haben gemeinsam eine 2-stündige Tanzstunde absolviert. In welchem Zeitraum fand der Unterricht statt?",
+        "target": "13:00–15:00 Uhr."
+    },
+    {
+        "input": "Ich gehe heute zu meiner Großmutter, um ihre Katze zu betreuen. Die Hin- und Rückfahrt dauert 2 Stunden, das Füttern 30 Minuten, das Bürsten des Fells 30 Minuten und das Spielen mit der Katze 1 Stunde. Wenn ich gegen 18:00 Uhr nach Hause kommen möchte, wann muss ich spätestens losgehen?",
+        "target": "Spätestens um 14:00 Uhr."
+    },
+    {
+        "input": "Luise hat am 21. um 17:00 Uhr eine dringende Sitzung und reist dafür von Stuttgart nach Flensburg. Flugtickets sind ausverkauft, daher plant sie, den Zug zu nehmen. Dieser fährt täglich um 8:00 Uhr, 12:00 Uhr und 16:00 Uhr ab. Die Reise dauert 7 Stunden. Vom Bahnhof zum Tagungsort benötigt sie 1 Stunde Fahrtzeit, und zusätzlich 1 Stunde zur Vorbereitung. Es ist jetzt 6:00 Uhr am 21. Welchen Zug muss sie spätestens nehmen?",
+        "target": "Sie muss den 8:00-Uhr-Zug nehmen."
+    },
+    {
+        "input": "Tina plant Hochzeiten und hat vier Tage Zeit. Die Planung des Menüs und der Getränke dauert einen halben Tag. Die Buchung der Fahrzeuge und des Transfers benötigt einen halben Tag. Die Bestellung von Torte und Desserts erfordert einen halben Tag. Die Organisation der Probe und Musikauswahl nimmt einen ganzen Tag in Anspruch. Die Erledigung der Heiratspapiere und Anmeldung fordert einen halben Tag. Wie viel Zeit verbleibt für die Ablaufbestätigung?",
+        "target": "1 Tag."
+    },
+    {
+        "input": "Viola möchte an diesem Sonntag im Hypermarket einkaufen. Sie hat insgesamt 2 Stunden zum Auswählen und Bezahlen. Das Auswählen von Gemüse dauert 30 Minuten, das Auswählen von Fleisch 30 Minuten und die Bezahlung 30 Minuten. Wie viel Zeit bleibt ihr noch, um Haushaltsartikel auszuwählen?",
+        "target": "0,5 Stunden."
+    },
+    {
+        "input": "Ich plane, eine britische unbefristete Aufenthaltserlaubnis zu beantragen. Heute ist der 20. Januar. Die Einreichung des Antrags dauert 2 Monate, das Interview 1 Monat und die Beschaffung von Unterlagen sowie die medizinische Untersuchung 6 Monate. Wann kann ich frühestens die britische unbefristete Aufenthaltserlaubnis erhalten?",
+        "target": "Frühestens am 20. Oktober."
+    },
+    {
+        "input": "Direktor Schmidt aus der neurologischen Abteilung veranstaltet an diesem Sonntag von 10:00 bis 16:00 Uhr ein akademisches Symposium. Die Mittagspause ist von 12:00 bis 13:00 Uhr. Die Eröffnung und Keynote finden von 10:00 bis 11:00 Uhr statt, die interaktive akademische Sitzung von 13:00 bis 14:00 Uhr, gesellschaftlicher Empfang von 14:00 bis 15:30 Uhr und die Abschlusszeremonie von 15:30 bis 16:00 Uhr. Wann finden die wissenschaftlichen Vorträge statt?",
+        "target": "11:00 bis 12:00 Uhr."
+    },
+    {
+        "input": "Linda arbeitet als Hochzeitsplanerin und hat 5 Tage Zeit. Die Bearbeitung der Heiratsurkunde und der Anmeldung benötigt einen halben Tag, die Anprobe und Maßanfertigung des Hochzeitskleids benötigt einen halben Tag, die Planung der Flitterwochen benötigt einen ganzen Tag, die Bestätigung der Unterkunfts- und Transportarrangements für die Gäste benötigt einen ganzen Tag und die Dekoration des Veranstaltungsorts sowie das Eindecken der Tische benötigt einen halben Tag. Wie viel Zeit bleibt für die Auswahl des Hochzeitsmoderators?",
+        "target": "1,5 Tage."
+    },
+    {
+        "input": "Ich nehme nächste Woche an einem Fitness-Kurzlehrgang teil. Der Kurs findet an allen Werktagen von 10:00 bis 18:00 Uhr statt und beginnt am kommenden Montagmorgen. Der Unterricht ist in folgender Reihenfolge geplant: Das Kardiotraining dauert 3 Stunden, das Krafttraining dauert 2 Stunden und das Training für Flexibilität und Rumpfstabilität dauert 4 Stunden. An welchem Wochentag endet das Training für Flexibilität und Rumpfstabilität?",
+        "target": "Nächsten Dienstag."
+    },
+    {
+        "input": "Meine Familie und ich planen die Einwanderung nach Frankreich. Heute ist der 5. Januar. Die Recherche der Einwanderungspolitik dauert 1 Monat, die Antragstellung und Materialvorbereitung dauert 1 Monat, die Bearbeitung durch die Behörden 3 Monate und die Visumserteilung 4 Monate. Wann können wir frühestens nach Frankreich einwandern?",
+        "target": "Am 5. Oktober."
+    },
+    {
+        "input": "Wenn ich 30 Minuten zum Füttern meines Kaninchens, 30 Minuten zum Reinigen des Stalls und 1 Stunde zum Spielen mit ihm brauche und es jetzt 10:00 Uhr ist, wann bin ich dann frühestens fertig?",
+        "target": "12:00 Uhr."
+    },
+    {
+        "input": "Bill hat 30 Tage Zeit, um sich auf die HSK-Prüfung (Chinesische Sprachprüfung) vorzubereiten. Davon plant er 5 Tage für mündliche Übungen, 5 Tage für Hörverständnis, 10 Tage für Schreiben und 5 Tage für Leseverständnis ein. Wie viele Tage bleiben für Simulationsprüfungen?",
+        "target": "5 Tage."
+    },
+    {
+        "input": "Wielands Fachrichtung Informatik veranstaltet ein akademisches Symposium an diesem Samstag von 10:00 bis 17:00 Uhr. Die Mittagspause ist von 11:00 bis 12:00 Uhr. Die Eröffnung und Keynote finden von 10:00 bis 11:00 Uhr statt, die interaktive akademische Sitzung von 12:00 bis 14:00 Uhr, die Kaffeepause oder Networking von 14:00 bis 15:00 Uhr und die Abschlusszeremonie von 16:30 bis 17:00 Uhr. Wann ist die Zeit für wissenschaftliche Präsentationen?",
+        "target": "15:00 bis 16:30 Uhr."
+    },
+    {
+        "input": "Rosie ist Tuina-Massage-Lehrerin und plant Kurse an Werktagen von 10:00 bis 17:00 Uhr ab nächstem Montagmorgen, und sie bereitet die Kursorganisation nach folgender Reihenfolge vor: Grundlagen der Massagetechniken 5 Stunden, Behandlung häufiger Krankheiten und Massage 4 Stunden, Praxis der Tuina-Techniken 10 Stunden, Tuina-Regulierung und Gesundheitspflege 4 Stunden. An welchem Wochentag beginnt Tuina-Regulierung und Gesundheitspflege?",
+        "target": "Nächsten Mittwoch."
+    },
+    {
+        "input": "Jana ist Autorin und arbeitet täglich von 11:00 bis 20:00 Uhr an Werktagen. Ihre Aufgaben beginnen in der folgenden Reihenfolge: Schreiben neuer Kapitel benötigt 6 Stunden, Bearbeiten früherer Texte 1 Stunde, Strukturierung der Handlung 1 Stunde, Marktanalyse 1 Stunde. Um wie viel Uhr schließt sie die Strukturierung der Handlung ab?",
+        "target": "19:00 Uhr."
+    },
+    {
+        "input": "Ich möchte diesen Sonntag bei Metro AG einkaufen. Insgesamt haben wir 4 Stunden für Einkauf, Essen und Bezahlung. Gemüse dauert 30 Minuten, Fleisch dauert 30 Minuten, Essen dauert 1 Stunde, Einkäufe von Haushaltsartikeln (z. B. Reinigungsmittel, Küchenzubehör) dauern 30 Minuten, Bezahlung dauert 30 Minuten. Wie viel Zeit bleibt für den Möbelkauf?",
+        "target": "1 Stunde."
+    },
+    {
+        "input": "Mein Büro ist 2,5 km von zu Hause entfernt. Ich möchte etwas für meine Fitness tun und habe deshalb beschlossen, jeden Tag zu Fuß zur Arbeit und zurück zu gehen. Ich gehe zu Fuß mit 5 km/h. Jeden Morgen brauche ich noch zusätzlich 15 Minuten zum Frühstücken, 10 Minuten zum Ordnen meiner persönlichen Sachen und 15 Minuten zum Aufräumen des Zimmers, und ich muss um 8:30 Uhr im Büro sein. Wann muss ich spätestens aufstehen?",
+        "target": "7:20 Uhr."
+    },
+    {
+        "input": "Meine Schwester hat 60 Tage Zeit, um sich auf die MCAT-Prüfung vorzubereiten. Davon plant sie 7 Tage für Biowissenschaften, 10 für Physik, 15 für Sozialwissenschaften und 15 für kritische Analyse ein. Wie viele Tage bleiben, um ihre Argumentationsfähigkeiten zu trainieren?",
+        "target": "13 Tage."
+    },
+    {
+        "input": "Hannas Entbindungstermin ist der 2. Oktober. Sie möchte vor dem Geburtstermin ihre Kliniktasche fertig vorbereitet haben. Heute ist der 2. August. Die von ihr bestellten Flaschen kommen in 5 Tagen an, das von ihr bestellte Babymilchpulver kommt in 3 Tagen an, die von ihr bestellte Wochenbettkleidung kommt in 4 Tagen an. Bis wann sind alle Artikel geliefert?",
+        "target": "7. August."
+    },
+    {
+        "input": "Jekob steht um 10:00 Uhr auf, ist von 11:00 bis 15:00 Uhr bei Lukas, arbeitet von 18:00 bis 22:00 Uhr in der Kirche, isst zu Abend von 22:00 bis 23:00 Uhr und schläft um 23:00 Uhr. Wenn Jekob eine 3-stündige Aufführung besuchen möchte, welcher Zeitraum wäre am besten geeignet?",
+        "target": "15:00 bis 18:00 Uhr."
+    },
+    {
+        "input": "Jana plant eine 6-tägige Freiwilligenaktion. Aufgaben: Kontakt zu Partnern benötigt 2 Tage, Rollenverteilung benötigt 0,5 Tage, Ressourcenplanung benötigt 1 Tag, Werbung benötigt 1 Tag. Wie viele Tage bleiben für Feedback und Feier mit dem Freiwilligenteam?",
+        "target": "1,5 Tage."
+    },
+    {
+        "input": "Mein Entbindungstermin ist der 20. Oktober, und ich möchte meine Kliniktasche bis dahin vorbereitet haben. Heute ist der 20. September. Die Wiege wird in 15 Tagen geliefert, die Babyflasche kommt nächste Woche, Wochenbettunterwäsche und Hygieneartikel kommen in 10 Tagen, und das Milchpulver ebenfalls nächste Woche. An welchem Datum werde ich alle diese Dinge erhalten haben?",
+        "target": "5. Oktober."
+    },
+    {
+        "input": "Nächste Woche nehme ich an einem Fotografiekurs teil. Er beginnt am Dienstag und findet an Arbeitstagen von 10:00 bis 18:00 Uhr statt. Die Inhalte sind in der folgenden Reihenfolge geplant: Auswahl und Nutzung von Kameraausrüstung (8 Stunden), Bildkomposition (6 Stunden) und Lichtsteuerung und Nachbearbeitung (8 Stunden). An welchem Wochentag endet die Lichtsteuerung und Nachbearbeitung?",
+        "target": "nächsten Donnerstag."
+    },
+    {
+        "input": "Ich bin mobiler Tierpfleger und muss zum Kunden fahren, um ein Kätzchen zu betreuen. Hin- und Rückfahrt dauert zusammen 1 Stunde. Die Überprüfung von Ohren, Augen und Zähnen der Katze benötigt 1 Stunde, die Fellpflege benötigt 1 Stunde, und die Entwurmung benötigt 1 Stunde. Um 17:00 Uhr möchte ich zu Hause sein. Wann muss ich spätestens losgehen?",
+        "target": "13:00 Uhr."
+    },
+    {
+        "input": "Wenn ich 30 Tage für die IELTS-Vorbereitung habe, mit 8 Tagen für Sprechen, 7 Tagen für Schreiben, 5 Tagen für Lesen und 7 Tagen für Simulationstests, wie viele Tage bleiben für das Hörverständnis?",
+        "target": "3 Tage."
+    },
+    {
+        "input": "Rita ist Autorin und arbeitet an Werktagen von 9:00 bis 17:00 Uhr. Sie folgt dabei in der Regel der folgenden Reihenfolge ihrer täglichen Aufgaben: Schreiben neuer Kapitel und Absätze 5 Stunden, Notizen und Gliederung 1 Stunde, Recherche und Interviews für schriftliche Arbeiten 1 Stunde, Selbstreflexion 1 Stunde. Um wie viel Uhr schließt sie die Recherche und Interviews ab?",
+        "target": "16:00 Uhr."
+    },
+    {
+        "input": "Julia arbeitet als Hochzeitsplanerin und hat 6 Tage Zeit, eine Hochzeit zu planen. Ihre Aufgaben sind: Buchung von Musik und Künstlern 1 Tag, Festlegung von Blumen- und Dekorationskonzept 0,5 Tage, Buchung von Hochzeitsautos und Abholservice 0,5 Tage, Buchung von Fotograf und Videograf 1 Tag, Bestätigung des Veranstaltungsorts und Hotels 2 Tage. Wie viele Tage bleiben für die Festlegung des Ablaufs der Hochzeit?",
+        "target": "1 Tag."
+    },
+    {
+        "input": "Wolfgang und seine Freunde kaufen für den Schulanfang bei IKEA ein. Sie haben 4 Stunden für Einkauf, Essen und Bezahlung. Geschirr benötigt 1 Stunde, Essen 1 Stunde, Bettwäsche 0,5 Stunden, Bezahlung 0,5 Stunden. Wie viel Zeit bleibt für Möbel?",
+        "target": "1 Stunde."
+    },
+    {
+        "input": "Jutta ist Leadership-Trainerin und plant Kurse an Werktagen von 10:00 bis 18:00 Uhr ab nächstem Montag. Sie plant folgende Kurse: Führungskonzepte 9 Stunden, Führungsstile 7 Stunden, Teamführung 18 Stunden. An welchem Wochentag endet die Teamführung?",
+        "target": "Am nächsten Freitag."
+    },
+    {
+        "input": "Die Technische Universität München veranstaltet eine wissenschaftliche Konferenz am Samstag von 10:00 bis 17:00 Uhr. Mittagspause 12:00–14:00 Uhr, Eröffnung und Keynote-Vortrag 10:00–11:00 Uhr, Diskussionsrunde 14:00–15:30 Uhr, Networking 15:30–16:30 Uhr, Abschluss 16:30–17:00 Uhr. Wann findet der akademische Austausch statt?",
+        "target": "11:00–12:00 Uhr."
+    },
+    {
+        "input": "Silke plant eine 3-tägige Freiwilligenaktion. Davon nehmen die Kontaktaufnahme mit relevanten Einrichtungen und Partnern, die Zuteilung konkreter Rollen und Aufgaben an Freiwillige, die Organisation von Personal und Ressourcen sowie die Öffentlichkeitsarbeit jeweils einen halben Tag in Anspruch. Wie viele Tage bleiben für die Evaluierung und Verbesserung verfügbar?",
+        "target": "1 Tag."
+    },
+    {
+        "input": "Ich plane, eine Daueraufenthaltsgenehmigung für Singapur zu beantragen. Heute ist der 1. Februar. Die Recherche der Einwanderungspolitik dauert 1 Monat, die Antragsvorbereitung 1 Monat, die Bearbeitung durch die Behörden 3 Monate und die Ausstellung der Aufenthaltserlaubnis 1 Monat. Wann kann ich frühestens die singapurische Daueraufenthaltsgenehmigung erhalten?",
+        "target": "Am 1. August."
+    },
+    {
+        "input": "Lily hat 30 Tage Zeit, um sich auf die PMP-Prüfung vorzubereiten. Die Projektinitiierung benötigt 5 Tage, die Projektplanung benötigt 5 Tage, die Projektdurchführung benötigt 7 Tage und die Projektüberwachung und -kontrolle benötigt 10 Tage. Wie viele Tage bleiben ihr noch für den Projektabschluss?",
+        "target": "3 Tage."
+    },
+    {
+        "input": "Die Technische Universität München veranstaltet ein akademisches Symposium an diesem Samstag von 9:00 bis 17:00 Uhr. Die Mittagspause ist von 12:00 bis 14:00 Uhr. Die Eröffnung und Keynote finden von 9:00 bis 10:00 Uhr statt, die Diskussionsrunde von 14:00 bis 15:30 Uhr, das Networking von 15:30 bis 16:30 Uhr und die Abschlusszeremonie von 16:30 bis 17:00 Uhr. Wann ist möglicherweise Zeit für akademische Diskussionen?",
+        "target": "10:00–12:00 Uhr."
+    },
+    {
+        "input": "Anna hat 30 Tage Zeit, um sich auf die japanische N2-Prüfung vorzubereiten. Schriftzeichen und Vokabeln benötigen 5 Tage, Hörverständnis 10 Tage, Leseverständnis 10 Tage. Wie viele Tage bleiben für Grammatikübungen?",
+        "target": "5 Tage."
+    },
+    {
+        "input": "Fiona ist Bildungswissenschaftlerin und plant ab nächstem Montag an Werktagen von 10:00 bis 17:00 Uhr Kurse, die sie in der folgenden Reihenfolge durchführt: Bildungstheorie 5 Stunden, Lehrdesign 4 Stunden, Lehrbewertung 5 Stunden. An welchem Wochentag beginnt die Lehrbewertung?",
+        "target": "Am nächsten Dienstag."
+    },
+    {
+        "input": "Ich möchte ab dem 30. November von Berlin nach Hongkong ein Praktikum absolvieren. Für eine reibungslose Durchführung des Praktikums sind detaillierte Vorbereitungen und Zeitplanung erforderlich: Zuerst muss ich ein Visum beantragen (voraussichtlich 2 Wochen), anschließend die Hin- und Rückflüge buchen (voraussichtlich 1 Tag) und eine geeignete kurzfristige Unterkunft finden (voraussichtlich 7 Tage). Außerdem muss ich eine Woche vor Praktikumsbeginn Zeit einplanen, um mich mit dem Verkehr und der Lebensumgebung in Hongkong vertraut zu machen. Während des Praktikums plane ich, an den Wochenenden lokale Sehenswürdigkeiten zu besuchen und am Ende des Praktikums eine Woche lang Hongkong intensiv zu erkunden. Wann muss ich spätestens mit der Visumsbeantragung beginnen?",
+        "target": "Bis zum 1. November."
+    },
+    {
+        "input": "Wenn Bettina 25 Tage Zeit hat, sich auf die GRE-Prüfung vorzubereiten, wobei 5 Tage für Simulationen, 8 Tage für Verbalfähigkeiten und 7 Tage für Schreiben vorgesehen sind, wie viele Tage bleiben ihr noch für Mathematik?",
+        "target": "5 Tage."
+    },
+    {
+        "input": "Jessica ist Autorin und arbeitet werktags von 10:00 bis 19:00 Uhr. Ihr Tagesablauf ist in folgender Reihenfolge: Das Schreiben neuer Kapitel und Absätze dauert 4 Stunden, Notizen und Gliederung dauern 2 Stunden, das Organisieren und Strukturieren der Handlung dauert 1 Stunde, Markt- und Wettbewerbsanalyse dauert 2 Stunden. Um wie viel Uhr beendet sie das Organisieren und Strukturieren der Handlung?",
+        "target": "17:00 Uhr."
+    },
+    {
+        "input": "Lily möchte schon lange französisches Brot probieren. Sie befindet sich gerade in der Nähe des Eiffelturms. Es ist 15:00 Uhr, sie wird noch etwa zwei Stunden dort verbringen, und vom Eiffelturm zur Bäckerei braucht sie eine Stunde. Wann kann sie in der Bäckerei ankommen?",
+        "target": "18:00 Uhr."
+    },
+    {
+        "input": "Wenn ich nächste Woche an einem digitalen Marketing-Schulungskurs teilnehme, der jeden Werktag von 10:00 bis 18:00 Uhr stattfindet, und ab nächsten Dienstagmorgen in folgender Reihenfolge lerne: Suchmaschinenoptimierung 6 Stunden, Social-Media-Marketing 6 Stunden, E-Mail-Marketing 9 Stunden – an welchem Wochentag werde ich das E-Mail-Marketing abgeschlossen haben?",
+        "target": "Am nächsten Donnerstag."
+    },
+    {
+        "input": "Anna geht diesen Freitag mit ihrer Schwester zu IKEA einkaufen. Sie haben 4 Stunden für Einkauf, Essen und Bezahlung. Der Kauf von Geschirr dauert 0,5 Stunden, das Essen dauert 1 Stunde, der Kauf von Bettwäsche dauert 0,5 Stunden, und die Bezahlung dauert 0,5 Stunden. Wie viel Zeit bleibt ihnen zur freien Verfügung?",
+        "target": "1,5 Stunden."
+    },
+    {
+        "input": "Vera ist Autorin und arbeitet werktags von 9:00 bis 18:00 Uhr. Ihr Tagesablauf ist in folgender Reihenfolge: Das Verfassen neuer Kapitel oder Abschnitte dauert 5 Stunden, die Bearbeitung und Überarbeitung des am Vortag geschriebenen Inhalts dauert 2 Stunden, das Organisieren und Strukturieren der Handlung dauert 1 Stunde, die Durchführung von Markt- und Wettbewerbsanalysen dauert 1 Stunde. Um wie viel Uhr beendet sie das Organisieren und Strukturieren der Handlung?",
+        "target": "17:00 Uhr."
+    },
+    {
+        "input": "Das aktuelle Wetter ist sehr angenehm und eignet sich perfekt für eine Reise. Ich möchte von Berlin nach Singapur reisen und habe nur 5 Tage Urlaub. Zuerst benötige ich für die Buchung von Flug und Hotel 0,5 Tage, dann für die Reisevorbereitungen 0,5 Tage, die Hin- und Rückreise beansprucht 1 Tag. Nach der Ankunft in Singapur brauche ich 0,5 Tage, um mich mit dem örtlichen Verkehr und meiner Unterkunft vertraut zu machen. Die restliche Zeit plane ich, die wichtigsten Sehenswürdigkeiten zu besichtigen und das lokale Essen zu probieren. Wie viel Zeit bleibt für Sehenswürdigkeiten und Essen?",
+        "target": "2,5 Tage."
+    },
+    {
+        "input": "Wenn ich nächste Woche an einem Kreativitätstraining teilnehme, das an Werktagen von 10:00 bis 16:00 Uhr stattfindet und am Montag in folgender Reihenfolge beginnt: Brainstorming dauert 9 Stunden, Design Thinking dauert 2 Stunden. An welchem Wochentag werde ich mit Design Thinking fertig sein?",
+        "target": "Nächsten Dienstag."
+    },
+    {
+        "input": "Vitus ist ein Schriftsteller, dessen Arbeitszeit an jedem Werktag von 10:00 bis 20:00 Uhr ist. Seine tägliche Arbeitsplanung wird in folgender Reihenfolge erledigt: Das Verfassen neuer Kapitel oder Abschnitte benötigt 5 Stunden, die Bearbeitung und Überarbeitung des am Vortag geschriebenen Inhalts benötigt 2 Stunden, die Durchführung von Literaturrecherchen oder die Lektüre relevanter Werke benötigt 1 Stunde, die Durchführung von Markt- und Wettbewerbsanalysen benötigt 2 Stunden. Zu welcher Uhrzeit wird er dann die Durchführung von Literaturrecherchen oder die Lektüre relevanter Werke abschließen?",
+        "target": "18:00 Uhr."
+    },
+    {
+        "input": "Wenn ich nächste Woche an einem Kurzzeitkurs für Datenanalyse teilnehme, der jeden Werktag von 10:00 bis 18:00 Uhr stattfindet, und ab nächsten Montagmorgen mit dem Unterricht in der folgenden Reihenfolge beginne: Datenerfassung benötigt 6 Stunden, Datenbereinigung benötigt 12 Stunden, Datenanalyse und Visualisierung benötigen 8 Stunden, an welchem Wochentag wird dann die Datenanalyse und Visualisierung abgeschlossen sein?",
+        "target": "Nächsten Donnerstag."
+    },
+    {
+        "input": "Ich plane, ein australisches Aufenthaltsrecht zu beantragen. Heute ist der 1. Januar. Die Recherche der Einwanderungspolitik dauert 1 Monat, das EOI-Verfahren 3 Monate, die Bearbeitung durch die Behörden 3 Monate und die Visumserteilung 3 Monate. Wann kann ich frühestens das australische Aufenthaltsrecht erhalten?",
+        "target": "1. November."
+    },
+    {
+        "input": "Wenn ich nächste Woche an einem Backkurs teilnehme, der an Werktagen von 10:00 bis 18:00 Uhr stattfindet und am Montag in folgender Reihenfolge beginnt: Teigherstellung dauert 5 Stunden, Ofenkontrolle dauert 4 Stunden, Dekorationstechniken dauern 5 Stunden. An welchem Wochentag lerne ich Dekorationstechniken?",
+        "target": "Nächsten Dienstag."
+    },
+    {
+        "input": "Ruth plant eine viertägige Freiwilligenaktion. Zu den Aufgaben gehören: die Vorbereitung der Veranstaltungsorte vor Ort in der Gemeinde (1 Tag), die Zuweisung konkreter Rollen und Aufgaben an die Freiwilligen (0,5 Tage), das Anbieten von Unterstützung und das Lösen von Problemen für die Gemeindemitglieder (0,5 Tage) sowie Maßnahmen zur Öffentlichkeitsarbeit (0,5 Tage). Wie viele Tage verbleiben für Evaluation und Verbesserungen?",
+        "target": "1,5 Tage."
+    },
+    {
+        "input": "Lily hat 80 Tage Zeit für die Prüfung. Für das Leseverständnis plant sie 20 Tage ein, für analytisches Denken 20 Tage und für logisches Denken 15 Tage. Wie viele Tage bleiben für Schreibübungen?",
+        "target": "25 Tage."
+    },
+    {
+        "input": "Julia ist Gemeindearbeiterin und hat nächste Woche fünf Tage Zeit, um eine Gemeinschaftsaktion zu organisieren. Die Planung und Vorbereitung der konkreten Inhalte und Abläufe der Aktion benötigt einen Tag, die Zuweisung konkreter Rollen und Aufgaben an die Freiwilligen einen weiteren Tag, der Austausch und die Interaktion mit den Gemeindemitgliedern ebenfalls einen Tag, und die Auswertung sowie Zusammenfassung der Daten und Rückmeldungen zur Aktion einen halben Tag. Wie viele Tage bleiben für die Öffentlichkeitsarbeit?",
+        "target": "1,5 Tage."
+    },
+    {
+        "input": "Wenn das Bürsten und Baden meines Haustieres 1 Stunde dauert, das Trocknen des Fells 30 Minuten, die Haustierpflege 1,5 Stunden und das Spielen mit dem Haustier 1 Stunde und es jetzt 12:00 Uhr ist – um wie viel Uhr bin ich dann frühestens fertig?",
+        "target": "16:00 Uhr."
+    },
+    {
+        "input": "Zoe möchte diese Woche zu Metro AG gehen, um ihre Einkäufe zum Schulanfang zu erledigen. Sie hat 3 Stunden freie Zeit. Davon dauert der Kauf von Haushaltswaren eine halbe Stunde, Obstkauf eine halbe Stunde, das Essen eine Stunde und das Bezahlen eine halbe Stunde. Wie viele Stunden bleiben ihr dann für den Kauf von Schreibwaren?",
+        "target": "0,5 Stunden."
+    },
+    {
+        "input": "Eva ist Vertriebstrainerin und plant ihre Kurse an jedem Werktag von 10:00 bis 18:00 Uhr, beginnend ab nächsten Montag. Die Kurse werden in folgender Reihenfolge geplant: Marktforschung (8 Stunden), Marktpositionierung (12 Stunden), Markenpromotion (6 Stunden) und Marketingstrategie (8 Stunden). An welchem Wochentag endet die Marketingstrategie?",
+        "target": "Nächsten Freitag."
+    },
+    {
+        "input": "Wanda verbringt 3 Stunden bei IKEA. Der Geschirrkauf dauert 0,5 Stunden, Essen dauert 0,5 Stunden, Bezahlung dauert 0,5 Stunden. Wie viel Zeit hat sie für den Möbelkauf?",
+        "target": "1,5 Stunden."
+    },
+    {
+        "input": "Mein Mitbewohner beginnt am 25. November sein Studium und reist von Berlin nach New York. Er hat nur 3 Tage Vorbereitungszeit. Für Flugbuchung und Kofferpacken benötigt er 1 Tag, für Verwaltungssachen vor der Abreise 0,5 Tage, anschließend nehmen die Fahrt zum Flughafen, die Sicherheitskontrolle und der Flug insgesamt etwa 1 Tag in Anspruch. In New York benötigt er 0,5 Tage für die Immatrikulation und das Einrichten der Unterkunft. Wie viel Zeit bleibt ihm, um den Campus zu erkunden und sich auf den Unterricht vorzubereiten?",
+        "target": "Keine Zeit mehr."
+    },
+    {
+        "input": "Ein akademisches Symposium besteht in der Regel aus mehreren Programmpunkten: Eröffnung, Hauptvortrag, Gruppendiskussionen, Fachvorträge und akademischer Austausch.\nWenn Weile ein solches Symposium von 10:00 bis 18:00 Uhr organisiert – mit einer einstündigen Mittagspause, einer einstündigen Gruppendiskussion, einem einstündigen Hauptvortrag, zwei Stunden Fachvorträgen und zwei Stunden akademischem Austausch – wie viel Zeit bleibt dann für die Eröffnung?",
+        "target": "1 Stunde."
+    },
+    {
+        "input": "Der Weg von meinem Zuhause zur Firma beträgt 0,5 km, und ich brauche jeden Tag 10 Minuten, um zur Arbeit zu Fuß zu gehen. Morgens benötige ich 15 Minuten zum Frühstücken, 10 Minuten zum Waschen und Anziehen sowie 5 Minuten, um die für die Arbeit benötigten Sachen vorzubereiten. Nach meiner Ankunft im Büro brauche ich noch 5 Minuten zum Einchecken und zum Ordnen meines Schreibtischs. Wenn ich pünktlich um 9:00 Uhr mit der Arbeit beginnen möchte, wann muss ich spätestens aufstehen?",
+        "target": "Spätestens um 8:15 Uhr."
+    },
+    {
+        "input": "Lukas verlässt um 9:00 Uhr das Haus, arbeitet von 9:00 bis 15:00 Uhr bei McDonald's und von 18:00 bis 22:00 Uhr bei KFC. Er benötigt ab 22:00 Uhr eine Stunde für den Heimweg, sodass er um 23:00 Uhr zu Hause ist und schlafen geht. Wenn Lukas drei Stunden für Sport einplant, in welchem Zeitraum hat er dann Zeit fürs Fitnessstudio?",
+        "target": "15:00–18:00 Uhr."
+    },
+    {
+        "input": "Lily hat derzeit 40 Tage Zeit, um sich auf die CMA-Prüfung vorzubereiten. Davon entfallen 5 Tage auf Simulationen, 5 Tage auf Finanzplanung und 15 Tage auf Leistung und Kontrolle. Wie viele Tage bleiben ihr also, um die finanzielle Entscheidungsfindung zu üben?",
+        "target": "15 Tage."
+    },
+    {
+        "input": "Ich möchte von Hongkong nach Tokio reisen. Ich habe viel Zeit, aber ich hoffe, meine Reise vernünftig planen zu können. Zuerst benötige ich 1 Tag für Flugbuchung und Gepäckvorbereitung. Dann plane ich 2 Tage für die Besichtigung der wichtigsten Sehenswürdigkeiten in Tokio. Danach möchte ich 1 Tag im Disneyland verbringen. Schließlich brauche ich 1 Tag zum Einkaufen und um lokale Spezialitäten zu probieren. Wenn ich insgesamt eine 7-tägige Reise plane, wie viele Tage bleiben mir dann noch zur freien Verfügung für andere Aktivitäten?",
+        "target": "2 Tage."
+    },
+    {
+        "input": "Lukas steht täglich um 9:00 Uhr auf. Sein Tagesablauf sieht wie folgt aus: 9:00–10:00 Uhr Frühstück, 10:00–12:00 Uhr Wissenschaftskurs, 12:00–13:00 Uhr Mittagessen, 13:00–15:00 Uhr Mittagspause, 15:00–17:00 Uhr Geschichtskurs, 17:00–20:00 Uhr Tanzkurs, 23:00 Uhr Schlafenszeit. Wenn er zusätzlich drei Stunden in der Kirche verbringt, welcher Zeitraum wäre am wahrscheinlichsten?",
+        "target": "20:00–23:00 Uhr."
+    },
+    {
+        "input": "Ich muss heute zum Haus meines Lehrers, um mich um seinen Hund zu kümmern. Die Hin- und Rückfahrt dauert 2 Stunden, das Füttern dauert 0,5 Stunden, das Bürsten dauert 0,5 Stunden und mit dem Hund spielen dauert 1 Stunde. Wenn ich gegen 16:00 Uhr wieder zu Hause sein möchte, wann muss ich spätestens losgehen?",
+        "target": "12:00 Uhr."
+    },
+    {
+        "input": "Wenn es jetzt 9:00 Uhr ist und ich meine Wohnung putzen möchte, dauert das Reinigen des Tisches 1 Stunde, das Wischen des Bodens 1 Stunde, das Entfernen von Milben 1 Stunde, das Reinigen der Möbel 1 Stunde und das Desinfizieren 2 Stunden. Wann bin ich frühestens fertig?",
+        "target": "15:00 Uhr."
+    },
+    {
+        "input": "Der Tagesablauf meiner Schwester ist wie folgt: Sie steht um 9:00 Uhr auf. 9:00–11:00 Uhr Matheunterricht, 13:00–15:00 Uhr Deutschunterricht, 16:00–18:00 Uhr Englischunterricht, 19:00–20:00 Uhr Essen, 21:00–22:00 Uhr Spiele. Um 22:00 Uhr geht sie schlafen. Wenn meine Schwester an einer zweistündigen Prüfung teilgenommen hat, zu welcher Zeit fand die Prüfung statt?",
+        "target": "11:00–13:00 Uhr."
+    },
+    {
+        "input": "Lily plant eine 7-tägige Freiwilligenaktion. Die Kommunikation und Schulung mit dem Team dauert 1,5 Tage, die Zuweisung konkreter Rollen und Aufgaben an die Freiwilligen dauert 0,5 Tage, die Planung von Personal und Ressourcen dauert 2 Tage, die Öffentlichkeitsarbeit dauert 0,5 Tage. Wie viel Zeit bleibt für Evaluierung und Verbesserung?",
+        "target": "2,5 Tage."
+    },
+    {
+        "input": "Jana ist Schriftstellerin und arbeitet an Werktagen von 10:00 bis 18:00 Uhr. Ab nächstem Montag plant sie die folgenden Aufgaben in dieser Reihenfolge: Lesen und Erforschen relevanter Themen oder Materialien, um Inspiration und Perspektiven zu gewinnen (5 Stunden), Verfassen neuer Kapitel oder Abschnitte (15 Stunden), Bearbeiten und Überarbeiten des am Vortag geschriebenen Inhalts, einschließlich der Überprüfung auf Fehler und Lesefluss (1 Stunde), Anfertigen von Notizen und Gliederungen zur Organisation und Strukturierung der Handlung oder des Inhaltsaufbaus (9 Stunden), Durchführen von Recherchen und Interviews für das Schreiben, um zusätzliche Informationen und Perspektiven zu erhalten (10 Stunden). An welchem Wochentag beginnt sie dann mit den Recherchen und Interviews?",
+        "target": "Nächsten Donnerstag."
+    },
+    {
+        "input": "Sion ist Finanztrainer. Er plant seine Kurse, die an Werktagen von 10:00 bis 17:00 Uhr stattfinden, ab nächstem Montag in der folgenden Reihenfolge: Analyse der Finanzberichte (7 Stunden), Budgetmanagement (7 Stunden), Investitionsentscheidungen (15 Stunden). An welchem Tag endet das Lernen der Investitionsentscheidungen?",
+        "target": "Nächsten Freitag."
+    },
+    {
+        "input": "Mille ist Vertriebstrainerin und plant ihre Kurse, die an Werktagen von 10:00 bis 17:00 Uhr stattfinden, ab kommenden Montagmorgen in folgender Reihenfolge: Verkaufskommunikation 8 Stunden, Kundenbeziehungsmanagement 12 Stunden, Verkaufsgespräche 5 Stunden. An welchem Tag enden die Verkaufsgespräche?",
+        "target": "Nächsten Donnerstag."
+    },
+    {
+        "input": "Wenn ich nächste Woche an einem Boxkurs teilnehme, an Werktagen von 10:00 bis 17:00 Uhr, beginnt der Kurs am Montag mit folgendem Ablauf: Die Grundtechniken des Boxens benötigen 6 Stunden, das Erlernen von Abwehrtechniken ebenfalls 6 Stunden, und das Training zur Verbesserung der körperlichen Fitness und Koordination nimmt weitere 6 Stunden in Anspruch. Wann endet das Training zur Verbesserung der körperlichen Fitness und Koordination?",
+        "target": "nächsten Mittwoch."
+    },
+    {
+        "input": "Zoe ist Sozialarbeiterin und hat nächste Woche 5 Tage Zeit, um eine Gemeinschaftsveranstaltung zu organisieren. Die Kontaktaufnahme mit relevanten Einrichtungen und Partnern dauert 2 Tage. Die Kommunikation und Schulung mit dem Freiwilligenteam dauert einen halben Tag. Der Austausch und die Interaktion mit den Anwohnern dauert einen halben Tag. Die Zuteilung konkreter Rollen und Aufgaben an Freiwillige dauert einen halben Tag. Wie viele Tage bleiben dann noch, um die Probleme der Anwohner zu lösen oder Hilfe anzubieten?",
+        "target": "1,5 Tage."
+    },
+    {
+        "input": "Jessica ist Schriftstellerin und arbeitet an jedem Werktag von 10:00 bis 20:00 Uhr. Sie muss ihre tägliche Arbeit in folgender fester Reihenfolge erledigen: das Schreiben neuer Kapitel oder Abschnitte dauert 5 Stunden, das Bearbeiten und Überarbeiten der am Vortag geschriebenen Inhalte dauert 2 Stunden, das Ordnen und Strukturieren der Handlung oder des Inhaltsaufbaus dauert 1 Stunde, und die Markt- und Konkurrenzanalyse dauert 2 Stunden. Um wie viel Uhr beendet sie das Ordnen und Strukturieren der Handlung oder des Inhaltsaufbaus?",
+        "target": "Um 18:00 Uhr."
+    },
+    {
+        "input": "Diesmal bin ich mit meiner Mutter nach Tokio, Japan, gekommen. Wir sind gerade in Ginza unterwegs und werden dort noch etwa eine halbe Stunde bleiben. Sie möchte Sushi essen. Von hier aus brauchen wir ungefähr 1 Stunde dorthin, und außerdem müssen wir noch 1 Stunde anstehen. Jetzt ist es 16:00 Uhr. Um wie viel Uhr kommt sie im Restaurant an?",
+        "target": "um 18:30 Uhr."
+    },
+    {
+        "input": "Herr Müller macht Urlaub in Portland, bewundert Blumen im Rosengarten und plant bald, das Oregon Museum of Science and Industry zu besuchen. Jetzt ist es 12:00 Uhr. Die Fahrt dorthin wird voraussichtlich eine Stunde dauern, außerdem muss er eine Stunde für das Essen einplanen. Zu welcher Uhrzeit kann er dann frühestens am Oregon Museum of Science and Industry ankommen?",
+        "target": "Frühestens um 14:00 Uhr"
+    },
+    {
+        "input": "Meave hat 25 Tage für die Vorbereitung auf die Spanischprüfung. Für das Hörverständnis benötigt sie 2 Tage, für das Lesen 8 Tage, fürs Schreiben 5 Tage und fürs Sprechen 5 Tage. Wie viele Tage bleiben ihr noch für Simulationen?",
+        "target": "5 Tage."
+    },
+    {
+        "input": "Wenn ich nächste Woche an einem Produktionsmanagementkurs teilnehme (täglich an Werktagen 10:00–18:00 Uhr) und ab Montag die folgenden Themen in dieser Reihenfolge bearbeite: Produktionsplanung und -steuerung 7 Stunden, Qualitätsmanagement 12 Stunden, Lieferkettenmanagement 6 Stunden – an welchem Tag habe ich das Lieferkettenmanagement abgeschlossen?",
+        "target": "Am nächsten Donnerstag."
+    },
+    {
+        "input": "Jana verlässt um 11:00 Uhr das Haus, hat von 11:00 bis 13:00 Uhr Mathematikunterricht, von 16:00 bis 18:00 Uhr Informatikunterricht, und von 18:00 bis 20:00 Uhr Clubaktivitäten. Um 20:00 Uhr kehrt sie nach Hause zurück. Wenn Yone und Jana zusammen auf dem Basketballplatz drei Stunden lang Basketball gespielt haben, in welchem Zeitraum fand das statt?",
+        "target": "13:00-16:00"
+    },
+    {
+        "input": "Zacharias ist Mitglied bei Metro AG und möchte diesen Sonntag einen großen Wochenendeinkauf dort erledigen. Ihm stehen dort insgesamt 4 Stunden zur Verfügung. Davon benötigt er 0,5 Stunden für Obst und Gemüse, 0,5 Stunden für Fleisch, 0,5 Stunden für Haushaltsartikel und 0,5 Stunden zum Bezahlen. Wie viele Stunden bleiben ihm dann noch, um Wohnaccessoires auszuwählen?",
+        "target": "2 Stunden."
+    },
+    {
+        "input": "Karin möchte diesen Sonntag zusammen mit ihren Eltern einen Großeinkauf bei Metro AG machen. Sie haben insgesamt 3 Stunden Zeit, um im Supermarkt einzukaufen, zu essen und zu bezahlen: 0,5 Stunden für Fleisch, 0,5 Stunden für Obst, 1 Stunde fürs Essen und 0,5 Stunden für Haushaltswaren. Wie viel Zeit bleibt für die Bezahlung?",
+        "target": "0,5 Stunden."
+    },
+    {
+        "input": "Zoe ist Sozialarbeiterin und hat nächste Woche 3 Tage Zeit, um eine Gemeinschaftsveranstaltung zu organisieren. Die Aufgaben und ihre Dauer sind wie folgt:\nPlanung und Vorbereitung der Inhalte und Arrangements: 1 Tag\nKommunikation und Schulung mit dem Freiwilligenteam: 0,5 Tage\nAustausch und Interaktion mit den Anwohnern: 0,5 Tage\nZusammenfassung der Daten und Rückmeldungen zur Veranstaltung: 0,5 Tage\nWie viel Zeit bleibt dann noch für die Nachbesprechung mit dem Freiwilligenteam?",
+        "target": "0,5 Tage"
+    },
+    {
+        "input": "Bettina möchte schon lange italienische Pizza probieren. Sie besichtigt gerade das Kolosseum in Rom. Es ist jetzt 16:00 Uhr und sie braucht noch etwa 1 Stunde. Der Weg vom Kolosseum zur Pizzeria dauert eine halbe Stunde. Wann kommt sie in der Pizzeria an?",
+        "target": "17:30 Uhr."
+    },
+    {
+        "input": "Meine Schwester und ich können nicht Auto fahren und finden Uber zu teuer. In New York nutzen wir öffentliche Verkehrsmittel. Plan: Abfahrt vom Hotel um 9:00 Uhr, Besuch des Metropolitan Museum, dann U-Bahn zum Central Park für 2,5 Stunden. Mittagessen und Pause in der Nähe, Dauer nach Bedarf. Anschließend Times Square für 1 Stunde, Empire State Building für 1 Stunde und dann 30 Minuten mit der U-Bahn zurück zum Hotel. Um 17:00 Uhr im Hotel sein. Wann müssen wir spätestens vom Central Park zum Times Square aufbrechen?",
+        "target": "Spätestens um ​14:30 Uhr."
+    },
+    {
+        "input": "Ich bin Schriftsteller und arbeite an jedem Werktag von 10:00 bis 17:00 Uhr. Ab nächstem Montag plane ich, folgende Aufgaben in dieser Reihenfolge zu erledigen: neue Kapitel oder Abschnitte schreiben (10 Stunden), das am Vortag Geschriebene bearbeiten und überarbeiten (2 Stunden), die Handlung oder Inhaltsstruktur organisieren (6 Stunden) und eine Markt- und Wettbewerbsanalyse durchführen (5 Stunden). An welchem Wochentag werde ich die Markt- und Wettbewerbsanalyse abgeschlossen haben?",
+        "target": "Am nächsten Donnerstag."
+    },
+    {
+        "input": "Anna muss heute zu ihrer Schwester, um eine Katze zu versorgen. Hin- und Rückfahrt: 1 Stunde, Füttern 0,5 Stunden, Katzenklo reinigen 0,5 Stunden, Spielen 1 Stunde. Aktuelle Zeit: 9:00 Uhr. Wann ist sie frühestens zurück?",
+        "target": "12:00 Uhr."
+    },
+    {
+        "input": "Ich habe heute Morgen verschlafen. Mein Büro ist 10 km entfernt, und ich habe nur noch 20 Minuten Zeit, um pünktlich anzukommen. Zu Fuß zur U-Bahn brauche ich 10 Minuten, die U-Bahn-Fahrt dauert 47 Minuten. Mit dem Fahrrad sind es 67 Minuten. Mit dem Taxi etwa 10 Minuten ohne Stau, im Stau können es zwanzig Minuten oder mehr sein. Soll ich die U-Bahn nehmen, mit dem Fahrrad fahren oder ein Taxi rufen?",
+        "target": "Taxi."
+    },
+    {
+        "input": "Die Humboldt-Universität zu Berlin veranstaltet am Sonntag eine akademische Konferenz von 9:00–18:00 Uhr. Dabei ist von 12:00-14:00 Uhr Mittagszeit, von 9:00-10:00 Uhr sind Eröffnungszeremonie und Hauptvortrag, von 14:00-16:30 Uhr ist die akademische Bewertungsrunde, von 16:30-17:30 Uhr findet akademisches Networking statt, und von 17:30-18:00 Uhr ist die Abschlusszeremonie. Wann findet dann der akademische Austausch statt?",
+        "target": "10:00–12:00 Uhr."
+    },
+    {
+        "input": "Violet ist Nageldesign-Dozentin und plant ihre Schulungen an jedem Werktag von 9:00 bis 17:00 Uhr. Ab Montag nächster Woche beginnt sie mit den Kursen in folgender Reihenfolge: Die Einführung in die grundlegenden theoretischen Kenntnisse des Nageldesigns dauert 3 Stunden, die Erklärung von Pflege- und Schneidetechniken der Nägel dauert 4 Stunden, die Vorstellung gängiger Nageldesigns und -stile dauert 3 Stunden, die Anwendung von Nagellacken und Nagelstickern dauert 2 Stunden, das Erlernen grundlegender Mal- und Auftragungstechniken dauert 5 Stunden und das Üben von einfachen Reparatur- und Ausbesserungstechniken dauert 3 Stunden. An welchem Tag beginnt das Erlernen der grundlegenden Mal- und Auftragungstechniken?",
+        "target": "Nächsten Dienstag."
+    },
+    {
+        "input": "Jana möchte am Samstag zusammen mit ihrer Familie 5 Stunden im Metro AG verbringen, um einzukaufen, zu essen und zu bezahlen. Gemüse dauert 1 Stunde, Fleisch 1 Stunde, Essen 0,5 Stunden, Bezahlung 0,5 Stunden, tägliche Gebrauchsgegenstände 1 Stunde. Wie viel Zeit bleibt für Haushaltswaren?",
+        "target": "1 Stunde."
+    },
+    {
+        "input": "Kim hat 60 Tage für die SAT-Vorbereitung: Simulationen dauern 10 Tage, Mathematik dauert 20 Tage, Physik dauert 5 Tage, Chemie dauert 15 Tage. Wie viele Tage bleiben für Englisch?",
+        "target": "10 Tage."
+    },
+    {
+        "input": "Eine akademische Konferenz gliedert sich typischerweise in folgende Abschnitte: Eröffnung, Hauptvorträge, Gruppendiskussionen, Fachvorträge und wissenschaftlicher Austausch. Das von Lily für 10:00–17:00 Uhr geplante akademische Symposium umfasst eine einstündige Eröffnung, eine einstündige Gruppendiskussion, einen einstündigen Fachvortrag, einen einstündigen Hauptvortrag und einen einstündigen wissenschaftlichen Austausch. Wie lange ist die Mittagspause?",
+        "target": "2 Stunden."
+    },
+    {
+        "input": "Heute ist Haustiertag. Es ist jetzt 11:00 Uhr, und ich möchte meinem Haustier das Fell bürsten und baden (1 Stunde), das Fell trocknen (1 Stunde), den Käfig reinigen (1 Stunde) und mit ihm spielen (1 Stunde). Wann kann ich frühestens fertig sein?",
+        "target": "Um 15:00 Uhr."
+    },
+    {
+        "input": "Leo ist ein Autor und arbeitet werktags von 10:00 bis 17:00 Uhr. Ab nächstem Montag plant er folgende Aufgaben in dieser Reihenfolge: Neue Kapitel oder Abschnitte schreiben (12 Stunden), Überarbeiten und Editieren der Texte vom Vortag (4 Stunden), Notizen und Gliederungen erstellen (4 Stunden) sowie Diskussion und Austausch mit Lektoren oder Schreibpartnern (4 Stunden). An welchem Wochentag beendet er die Diskussion und den Austausch mit den Lektoren oder Partnern?",
+        "target": "Nächsten Donnerstag."
+    },
+    {
+        "input": "Phoebe hat 30 Tage für die PTE-Prüfung. Davon entfallen 2 Tage auf Simulationen, 6 auf Hören, 7 auf Schreiben und 10 auf Lesen. Wie viele Tage stehen ihr dann noch zum Sprechenüben zur Verfügung?",
+        "target": "5 Tage."
+    },
+    {
+        "input": "Die letzte U-Bahn fährt um 23:00 Uhr. Meine Schwester und ich sehen eine Vorstellung, die bis 23:30 Uhr dauert. Zu Hause muss ich eine halbe Stunde aufräumen, bevor ich schlafen gehe. Der Weg von zu Hause zur Arbeit dauert 30 Minuten. Morgen früh um 8:00 Uhr habe ich ein wichtiges Meeting. Um mindestens 7 Stunden Schlaf zu bekommen, wann muss ich spätestens zu Hause sein?",
+        "target": "Spätestens um 00:00 Uhr."
+    },
+    {
+        "input": "Ich muss heute zum Haus eines Kunden gehen, um mich um seinen Hund zu kümmern. Die Fahrt hin und zurück dauert 2 Stunden, das Füttern des Hundes dauert 30 Minuten, die Reinigung 30 Minuten und das Spielen mit dem Hund 1 Stunde. Wenn es jetzt 10:00 Uhr ist, ab wann kann ich frühestens zu Hause sein?",
+        "target": "frühestens um 14:00 Uhr"
+    },
+    {
+        "input": "Emma geht am Freitag mit ihrer Schwester und Elke für 4 Stunden zu Kaufland: Haushaltswaren 1 Stunde, Fleisch 0,5 Stunden, Alltagsgüter 0,5 Stunden, Bezahlung 0,5 Stunden. Wie viel Zeit bleibt für Gemüse?",
+        "target": "1,5 Stunden."
+    },
+    {
+        "input": "Es ist 11:00 Uhr und ich möchte heute meine Wohnung gründlich putzen. Folgende Aufgaben stehen an: Tierhaare entfernen (1 Stunde), Boden wischen (0,5 Stunden), Milben entfernen (0,5 Stunden), Möbel abwischen (1 Stunde) und desinfizieren (1 Stunde). Ab wann kann ich frühestens fertig sein?",
+        "target": "Frühestens um 15:00 Uhr"
+    },
+    {
+        "input": "Ich bin mit meiner Oma am Brandenburger Tor in Berlin. Wir möchten Bratwurst mit Sauerkraut essen. Die Fahrt zum Restaurant dauert 1 Stunde. Es ist aktuell 17:00 Uhr. Wir wollen aber vorher noch eine Stunde spielen, und die Warteschlange im Restaurant wird etwa eine Stunde dauern. Wann kommen wir im Restaurant an?",
+        "target": "20:00 Uhr."
+    },
+    {
+        "input": "Wenn ich nächste Woche an einem kurzen Kreativschreibkurs teilnehme, der an jedem Arbeitstag von 10:00 bis 18:00 Uhr stattfindet und am Dienstagmorgen beginnt, und ich den Kurs in folgender Reihenfolge besuche: Kreatives Denken (6 Stunden) und Schreibtechniken (12 Stunden), an welchem Wochentag bin ich mit den Schreibtechniken fertig?",
+        "target": "Nächsten Donnerstag."
+    },
+    {
+        "input": "Ich gehe heute zu einem Kunden, um seine Katze zu betreuen. Die Hin- und Rückfahrt dauert insgesamt 1 Stunde, das Füttern 30 Minuten, das Bürsten 30 Minuten und das Spielen 1 Stunde. Wenn ich gegen 17:00 Uhr nach Hause kommen möchte, wann muss ich spätestens losgehen?",
+        "target": "Spätestens um 14:00 Uhr."
+    },
+    {
+        "input": "Sabine ist eine Gemeindearbeiterin. Sie hat nächste Woche 3 Tage Zeit, um eine Gemeinschaftsveranstaltung zu organisieren. Die Planung der Veranstaltung benötigt 1 Tag, die Kommunikation und Schulung mit dem Freiwilligenteam 0,5 Tage, der Austausch mit den Nachbarn 0,5 Tage. Wie viele Tage bleiben dann noch übrig, um die Probleme der Nachbarn zu lösen oder Hilfe anzubieten?",
+        "target": "1 Tag."
+    }
+]

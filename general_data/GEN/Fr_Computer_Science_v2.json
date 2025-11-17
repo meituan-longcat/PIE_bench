@@ -1,0 +1,690 @@
+[
+    {
+        "input": "Si x(n)=u(n+2)-u(n-2), alors la séquence x(2n) contient combien de valeurs différentes de zéro?",
+        "target": "2"
+    },
+    {
+        "input": "A quel système appartient le système dont l'équation de l'Analyse Entrées-Sorties est y(t)=cos[x(t)] ? Choisissez les bonnes réponses parmi les options suivantes : système non linéaire, système irréversible, système causal, système non-causal",
+        "target": "Système non linéaire, système irréversible, système causal"
+    },
+    {
+        "input": "Pour quelle plage de valeurs de s l'intégrale \\int_{-\\infty}^{\\infty}sin|t|·e^{-st}dt converge-t-elle ?",
+        "target": "Elle n'existe pas"
+    },
+    {
+        "input": "Lesquelles des mesures suivantes peuvent améliorer le taux de réussite (hit rate) du cache ? \\nⅠ. Augmenter l'associativité \\nⅡ. Configurer le cache de remplacement pour conserver le bloc qui vient d'être remplacé \\nⅢ. Améliorer la localité de référence du programme grâce à l'optimisation de la compilation",
+        "target": "Ⅰ, Ⅱ et Ⅲ"
+    },
+    {
+        "input": "Parmi les techniques de conception de programmes et les structures de données suivantes, lesquelles sont adaptées au système de mémoire virtuelle ? \\nI. Pile Ⅱ. Table de symboles indexée par la fonction de hachage Ⅲ. Recherche séquentielle \\nⅣ. Recherche dichotomique Ⅴ. Code pur.Ⅵ. Opérations sur des vecteurs \\nⅦ. Adressage indirect Ⅷ. Opérations sur les matrices",
+        "target": "Ⅰ, Ⅲ, Ⅴ, Ⅵ, Ⅷ"
+    },
+    {
+        "input": "Quelle est la notation polonaise inverse de la notation infixée a*(b+c)-d ?",
+        "target": "abc+*d-"
+    },
+    {
+        "input": "Si un arbre binaire complet a 100 nœuds, quel est le degré du 60ème nœud ?",
+        "target": "0"
+    },
+    {
+        "input": "Parmi les affirmations suivantes concernant l'anomalie de Bélády et le Working Set, lesquelles sont correctes ? \\nⅠ. L'algorithme de remplacement de pages FIFO (First In First Out) peut engendrer l'anomalie de Bélády \\nⅡ.L’algorithme de remplacement de page le moins récemment utilisé (LRU) peut engendrer l'anomalie de Bélády \\nⅢ. Pour garantir une exécution efficace du processus, les pages de son Working Set doivent résider en mémoire virtuelle, sinon le système risque de subir un phénomène fréquent de chargement/déchargement (phénomène de thrashing) \\nⅣ. Pour garantir une exécution efficace du processus, les pages de son Working Set doivent résider en mémoire principale, sinon le système risque de subir un phénomène fréquent de chargement/déchargement (phénomène de thrashing)",
+        "target": "Ⅰ, Ⅳ"
+    },
+    {
+        "input": "On connaît 31 segments de fusion initiaux de longueur variable, dont 8 de longueur 2 ; 8 segments de longueur de 3 ; 7 segments de longueur 5 ; 5 segments de longueur 12 ; les 3 segments ont une longueur de 20(les unités sont toutes des blocs physiques). Le nombre total d'opérations de lecture - écriture sur la mémoire externe dans le meilleur schéma de fusion à 5 voies est de ",
+        "target": "800"
+    },
+    {
+        "input": "Dans un ordinateur adressé par octet, une instruction de 16 bits de longueur, l’adresse de cette instruction de transfert de branche courante (utilisant l’adresse relative)  est 3 000 et le décalage de cette adresse de l’instruction est -5. Quelle est la valeur du compteur de programme (PC) après l’exécution de cette instruction de transfert?",
+        "target": "2 997"
+    },
+    {
+        "input": "Parmi les affirmations suivantes concernant le thread, lesquelles sont correctes ? \\nⅠ. Lors de l'utilisation de l'algorithme de planification round-robin, si un processus dispose de 10 threads au niveau utilisateur, il occupera 10 unité de temps dans le temps d'exécution de la planification du système \\nII. Les threads individuels appartenant au même processus partagent l'espace de la pile \\nIII. Les threads du même processus peuvent s'exécuter simultanément, mais pas les threads de différents processus \\nIV. Le changement de thread ne provoque pas de changement de processus",
+        "target": "Tout est faux"
+    },
+    {
+        "input": "Le protocole de contrôle de transmissions (TCP) est un protocole de couche transport dans l'Internet, comment le protocole TCP effectue le contrôle du trafic ? Quand une entité TCP émet une demande de connexion (SYN), qu'est-ce qu'elle doit attendre de la part de l'autre ? Veuillez sélectionner la bonne réponse parmi les options suivantes: 1. Utiliser un protocole de fenêtre coulissante de taille fixe, SYN ; 2. Utiliser un protocole Go-back-N ARQ, FIN, ACK ; 3. Utiliser un protocole ARQ de type Stop-Waiting, RST ; 4. Utiliser un protocole de fenêtre coulissante de taille variable, SYN, ACK",
+        "target": "4. utiliser un protocole de fenêtre coulissante de taille variable, SYN, ACK"
+    },
+    {
+        "input": "Dans chacune des catégories de composants fonctionnels des systèmes d’exploitation suivants, quelles situations nécessitent un matériel spécialisé ? \\nI. Mappage d'adresses II. Ordonnancement des processus \\nIII. Système d'interruption IV. Appel système",
+        "target": "Ⅰ, Ⅲ"
+    },
+    {
+        "input": "Si la hauteur d'un arbre de Huffman est de 5,  et si deux caractères ont déjà été codés avec les valeurs 1 et 01, combien de caractères supplémentaires peuvent encore être codés au maximum ?",
+        "target": "4"
+    },
+    {
+        "input": "Pour mettre en œuvre deux listes chaînées circulaires dont la tête est connectée à la queue avec une complexité temporelle de O (1), il faut placer un pointeur pour chacune des deux listes chaînées circulaires. Où ces pointeurs doivent-ils respectivement pointer ? Choisissez la bonne réponse parmi les options suivantes, s’il vous plaît : vers la queue de la liste respective, vers la tête de la première liste, vers la queue de l’autre liste, vers le premier élément de la liste respective, vers la tête de la liste respective.",
+        "target": "Vers la queue de la liste respective"
+    },
+    {
+        "input": "Supposons que les deux sites les plus éloignés d’un réseau ont une longueur de 10 km, un CSMA/CD ethernet avec un taux de transfert de données de 10 Mbit/s et une vitesse de propagation du signal de 200 m/μs. Alors, quelle est la taille minimale de la trame pour ce réseau ?",
+        "target": "1 000 bit"
+    },
+    {
+        "input": "Soit une table linéaire avec n éléments. Parmi les opérations suivantes, laquelle est plus efficace à réaliser sur une table séquentielle (Sequential List) que sur une liste chaînée (Linked List) : produire le numéro de série d’un élément égal à une valeur donnée x dans la table linéaire ; produire la valeur de ces n éléments de manière séquentielle ; afficher la valeur de l’élément d’indice i (1≤i≤n) ; échanger la valeur du premier élément avec le deuxième élément",
+        "target": "Sortie i(1≤i≤n) valeur de l’élément"
+    },
+    {
+        "input": "On sait que [x/2]_{\\mathrm{complément à deux}}=C6H, et la longueur de mot machine de l'ordinateur est codée sur 8 bits binaires. Quelle est la valeur de [x/4]_{\\mathrm{complément à deux}} ?",
+        "target": "E3H"
+    },
+    {
+        "input": "Il existe une partition de disque d’une capacité de 10 Go. L’espace disque est alloué en clusters, dont la taille est de 4 Ko. Si vous utilisez la méthode bitmap pour gérer l’espace libre de cette partition, c’est-à-dire un bit pour identifier si un cluster est alloué, quel est le nombre de clusters nécessaires pour stocker le bitmap ?",
+        "target": "80"
+    },
+    {
+        "input": "Soit k un nœud dans un arbre cousu en inordre, tel que k possède un fils gauche et n’est pas la racine. Parmi les options suivantes, lequel est le prédécesseur direct de k en inordre ? Le nœud atteint en suivant les fils gauches à partir du fils gauche de k jusqu’au nœud terminal ; Le nœud atteint en suivant les fils droits à partir du fils gauche de k jusqu’au nœud terminal ; Le nœud pointé par le fil gauche de k (prédécesseur de l'inordre dans l'indication) ; Le nœud atteint en suivant les fils droits à partir du fils gauche du père de k jusqu’au nœud terminal",
+        "target": "Le nœud atteint en suivant les fils droits à partir du fils gauche de k jusqu’au nœud terminal"
+    },
+    {
+        "input": "Lors de la transmission d'un paquet IP, lequel des champs suivants de l'en-tête du paquet IP reste inchangé ? \\nI. Longueur totale II. La somme de contrôle de la tête \\nIII. Durée de vie IV. Adresse IP source",
+        "target": "Ⅳ uniquement"
+    },
+    {
+        "input": "Un groupe de disques comporte 10 surfaces. Chaque surface contient 100 pistes, et chaque piste comprend 32 secteurs. On suppose que la taille d’un bloc physique est de 2 secteurs et la répartition se fait par blocs physiques. Si l’espace disque est géré à l’aide d’une image matricielle (bitmap), quelle est la taille de l’espace nécessaire pour stocker cette image matricielle ?",
+        "target": "2 000 o"
+    },
+    {
+        "input": "La longueur du réseau Ethernet est de 1 km, le taux de transfert de données est de 10 Mbit/s et la vitesse de propagation du signal électrique sur le réseau est de 200 m/μs. On suppose que la longueur de la trame Ethernet est de 256 bits, y compris les en-têtes de trame de 64 bits, les sommes de contrôle et autres overheads. Après l’envoi réussi de la trame, la première tranche de temps (timeslice) est réservée au destinataire pour l’envoi d’une trame de confirmation de 64 bits. En supposant que la charge du réseau est très faible (sans collision), quel est le taux de transfert de données effectif de cet Ethernet ? (Le résultat doit être arrondi à trois chiffres significatifs)",
+        "target": "4,57 Mbps"
+    },
+    {
+        "input": "En supposant que tous les éléments de la séquence d'éléments à trier ont les mêmes codes de tri, quelle est la vitesse de tri la plus lente parmi les méthodes de tri suivantes ?  Tri par insertion, tri par sélection, tri à bulles et tri par base",
+        "target": "Tri par sélection"
+    },
+    {
+        "input": "Afin de partager les ressources du processeur (CPU), un système d'exploitation prenant en charge la multiprogrammation sélectionne constamment de nouveaux processus pour s'exécuter. Parmi les propositions suivantes, laquelle n’est pas une raison directe pour laquelle le système d’exploitation sélectionne un nouveau processus ? De nouveaux processus ont été créés et sont entrés dans la file d'attente de prêts, le processus en cours d'exécution rencontre une erreur, les tranches de temps (timeslice) du processus en cours d'exécution se sont épuisées, le processus en cours d'exécution attend qu'un certain événement se produise.",
+        "target": "De nouveaux processus ont été créés et sont entrés dans la file d'attente de prêts"
+    },
+    {
+        "input": "Il y a 10 processus qui partagent n ressources, ce qui permet à 3 processus à la fois d’utiliser cette ressource en même temps. Veuillez sélectionner la plage de variation des sémaphores ici : [3n-10, 3n], [3n-10, n], [n-10, n], [n-10/3, n].",
+        "target": "[3n-10, 3n]"
+    },
+    {
+        "input": "Dans une forêt de 4 arbres, le nombre de nœuds dans le premier, deuxième, troisième et quatrième arbres est respectivement de 30, 10, 20, 5. Lorsque les arbres de cette forêt sont convertis en arbre binaire, quel est le nombre de nœuds dans le sous-arbre gauche de la racine de l’arbre binaire correspondant ?",
+        "target": "29"
+    },
+    {
+        "input": "Un sous-programme de deux mots d'adressage direct appelle la commande CALL, dont le premier mot est le code opération et la fonction d'adressage, le deuxième mot est le code d'adresse 5000H. Supposons que la valeur actuelle du PC (compteur ordinal) soit 1000H, que le contenu du SP (pointeur de pile) soit 0100H, que le contenu du haut de la pile soit 1234H, que la mémoire soit adressée par mot (word addressing) et que l'opération de pile soit (SP)-1→sP, puis que les données soient stockées. Une fois la commande CALL exécutée, quel est le contenu du SP et des éléments de la pile ?",
+        "target": "00FFH ; 1002H"
+    },
+    {
+        "input": "Sachant que la valeur du code ASCII de la lettre anglaise minuscule « a » est 61H, la lettre « g » est maintenant stockée dans une certaine unité de stockage. Si le bit de parité paire est adopté (en supposant que le bit le plus élevé est utilisé comme un bit de contrôle), quel est le nombre hexadécimal stocké dans cette unité de stockage ?",
+        "target": "E7H"
+    },
+    {
+        "input": "Un ensemble d’enregistrements dont les clés sont {25,50,15,35,80,85,20,40,36,70} contient cinq tableaux ordonnés de longueur 2. Quel est le résultat après avoir effectué une fusion sur cette séquence en utilisant le tri fusion ?",
+        "target": "15, 25, 35, 50, 20, 40, 80, 85, 36, 70"
+    },
+    {
+        "input": "On stocke une matrice triangulaire supérieure d'ordre n dans un tableau unidimensionnel (linear array) B[0,1,... , {n×(n+1)/2}-1] selon un ordre par colonnes, et le premier élément non-nul a(1,1) est stocké à l’indice B[0]. Pour un élément non nul a(i,j)(1≤i≤n,1≤j≤n) déposé dans B[k] et k, quelle formule parmi les suivantes décrit la relation entre les indices i, j et k ? \nA. k =j×(j-1)/2+i-1\nB. k=j×(j+1)/2+i\nC. k =i×(i-1)/2+j-1\nD. k=i×(i+1)/2+j",
+        "target": "A"
+    },
+    {
+        "input": "Un ordinateur utilise un contrôleur à microprogramme. Il possède 32 instructions, et le microprogramme commun de récupération d’instructions contient 2 microinstructions. Chaque instruction possède en moyenne un microprogramme composé de 4 microinstructions. Si l’on utilise la méthode du champ d’adresse (Address field method) pour déterminer l’adresse de la microinstruction suivante, combien de bits sont au minimum nécessaires dans le champ d’adresse inférieur d’une micro-instruction ?",
+        "target": "8"
+    },
+    {
+        "input": "En supposant que la mémoire principale est adressée par octet (byte addressing), la mémoire cache a un total de 64 lignes et utilise un mappage de groupes de 4 voies. La taille du bloc de mémoire principale est de 32 octets et tous les numéros commencent à 0. Alors, quel est le numéro du groupe de la mémoire cache correspondant au bloc de mémoire principale contenant la cellule numéro 3000 ?",
+        "target": "13"
+    },
+    {
+        "input": "Quelle est la valeur minimale d’un entier binaire de 8 bits représenté par un complément à deux et composé de 3 « 1 » et 5 « 0 » ?",
+        "target": "-125"
+    },
+    {
+        "input": "Pour une recherche séquentielle, on suppose que la recherche a la même probabilité de succès que d’échec et la même probabilité pour chaque enregistrement. Quelle est alors la longueur moyenne de la recherche séquentielle  (Average Search Length) ?",
+        "target": "0,75n+0,25"
+    },
+    {
+        "input": "Quelle est la profondeur d’un arbre B d’ordre 5 sachant qu’il possède 53 clés et que chaque nœud contient un nombre minimal de clés ?",
+        "target": "4"
+    },
+    {
+        "input": "En utilisant le tri de Shell pour trier une série de données, si le résultat du premier tri est 9, 1, 4, 13, 7, 8, 20, 23, 15, quel est l'incrément (intervalle) possible du tri ?\nA. 2\nB. 3\nC. 4\nD. 5",
+        "target": "B"
+    },
+    {
+        "input": "Si le débit de données d'un canal de communication est de 8 000 bit/s et que le retard de propagation unidirectionnel est de 20 ms, si le taux d'utilisation du canal de communication du protocole Stop-and-Wait ARQ (Automatic Repeat reQuest) atteint 50 %, quelle est la longueur minimale de trame ?",
+        "target": "320 bit"
+    },
+    {
+        "input": "Laquelle des affirmations suivantes sur le graphe fortement connexe (strongly connected graph) est vraie ?\\nI. Un graphe fortement connexe de n sommets possède au moins n arêtes\\nII. Un graphe fortement connexe est un graphe orienté dans lequel il existe un chemin de chaque sommet vers tous les autres sommets \\nⅢ.Un graphe complet est toujours une composante fortement connexe",
+        "target": "Uniquement Ⅰ, Ⅲ"
+    },
+    {
+        "input": "Avec une horloge de 50 MHz, le mémoire d'un système avec cache et mémoire principale transmet 8 mots d'affilée à raison d'un mot par cycle d'horloge pour prendre en charge la mémoire cache d'une longueur de bloc de 8 mots et 4 octets par mot. Supposons que le temps nécessaire à l'opération de lecture soit : 1 cycle pour accepter l'adresse, 3 cycles pour retarder, 8 cycles pour transmettre 8 mots. Le temps nécessaire à l'opération d'écriture est de : 1 cycle pour accepter l'adresse, 2 cycles pour retarder, 8 cycles pour transmettre 8 mots, 3 cycles pour récupérer et écrire les codes de correction d'erreur, puis lorsque le système fonctionne avec 35 % d'opération de lecture et 65 % d'opération d'écriture, quelle est la bande passante maximale de la mémoire ?",
+        "target": "120,3 Mo/s"
+    },
+    {
+        "input": "Pour le réseau 193.100.60.0, si le masque de sous-réseau est 255.255.255.192, quel est le nombre maximal d’hôtes pouvant être attribués par sous-réseau ?",
+        "target": "soixante-deux"
+    },
+    {
+        "input": "Parmi les affirmations suivantes concernant le protocole de résolution d'adresse (ARP), laquelle est incorrecte ? \\nⅠ. Les messages de demande ARP sont envoyés en unicast \\nⅡ. Les messages de réponse ARP sont unicast \\nⅢ. Si l'hôte 1 du réseau local A veut communiquer avec l'hôte 2 du réseau local B, mais que l'hôte 1 ne connaît pas l'adresse physique de l'hôte 2, l'hôte 1 peut résoudre le problème en envoyant un message ARP.",
+        "target": "Uniquement Ⅰ, Ⅲ"
+    },
+    {
+        "input": "Parmi les affirmations suivantes, laquelle est incorrecte ? \\nⅠ. En supposant que le numéro de séquence de la trame comporte 3 bits et que le protocole de requête automatique de répétition (ARQ) continu est utilisé, la valeur maximale de la fenêtre d'envoi est de 4\\n Ⅱ. Pour une fenêtre glissante (sliding window) de taille n, il peut y avoir au plus n trames envoyées mais non acquittées \\nⅢ. Dans le protocole Go-back-N, si la taille de la fenêtre d'envoi est de 16, il faut au moins 4 bits du numéro de séquence pour que le protocole ne contienne pas d'erreurs.",
+        "target": "Ⅰ, Ⅱ, Ⅲ"
+    },
+    {
+        "input": "Dans un graphe G avec n sommets, si l'arbre couvrant de poids minimal n'est pas unique, alors parmi les affirmations suivantes, laquelle est correcte ? \\nⅠ. Le nombre d'arêtes de G doit être supérieur à n-1 \\nⅡ. Il doit y avoir plus d'une arête de G avec des poids minimaux \\nⅢ. Les coûts minimaux de l'arbre couvrant de poids minimal de G ne sont pas nécessairement égaux",
+        "target": "Uniquement Ⅰ"
+    },
+    {
+        "input": "Parmi les adresses suivantes, l’adresse appartenant au sous-réseau 86.32.0.0/12 est ? \\n Ⅰ. 86.33.224.123 Ⅱ. 86.79.65.126 Ⅲ. 86.68.65.216",
+        "target": "Uniquement Ⅰ"
+    },
+    {
+        "input": "Supposons qu'un ordinateur a une longueur d'instruction de 20 bits et a trois formes d'instructions : deux opérandes, une seule opérande et sans opérande. L'adresse de chaque opérande est spécifiée en 6 bits. Si le champ de lu code opération n'est pas fixe, m instructions avec deux opérande et n instructions sans opérande sont maintenant données. Dans ce cas, combien d'instructions d'une seule opérande de cet ordinateur peut-il concevoir au maximum?",
+        "target": "[(2^8-m)×2^12-n]/2^6"
+    },
+    {
+        "input": "Il y a 16 registres de processeur dans une machine , et en supposant que la machine ait une longueur de mot de 12 bits, laquelle des instructions suivantes peut être implémentée en utilisant des instructions codées sur un seul mot (Single-word Instruction) ? \\n I. 4 instructions à trois registres de processeur Ⅱ.255 instructions à registre unique de processeur Ⅲ.16 instructions à zéro registre de processeur",
+        "target": "Uniquement Ⅱ et Ⅲ"
+    },
+    {
+        "input": "Une machine utilise des instructions codées sur un seul mot (Single-word Instruction) de 16 bits, avec un code opération de longueur fixe. Le code d'adresse est constitué de 5 bits. 60 instructions à deux adresses sont définies. Combien peut-on définir au maximum d'instructions à une adresse ?",
+        "target": "4"
+    },
+    {
+        "input": "Un micro-ordinateur 8 bits dispose d’un bus d’adresses de 16 bits. Sa mémoire vive (RAM) a une capacité de 32 Ko, à partir de l’adresse 4000 H, avec un adressage continu. Quelle est la plus haute adresse disponible ?",
+        "target": "BFFFH"
+    },
+    {
+        "input": "Il y a maintenant 3 exécutions J1, J2 et J3 qui arrivent en même temps. Leur temps d’exécution est respectivement T1, T2 et T3 et T1 < T2 < T3. Quel est le temps de rotation moyen s’il y a deux processeurs dans le système, chacun fonctionnant en mode piste unique avec un algorithme de travail le plus court en premier (SJF) ?",
+        "target": "(2T1+T2+T3)/3"
+    },
+    {
+        "input": "Si la longueur maximale d'un message autorisée sur un réseau est de 128 o, que le numéro de série est représenté par 8 bits et que la durée de vie du message sur le réseau est de 30 s, quel est le débit binaire maximal pouvant être atteint par chaque connexion du protocole de contrôle de transmissions (TCP) ?",
+        "target": "8,7 kbit/s"
+    },
+    {
+        "input": "Une mémoire d’une capacité de 256 Mo est constituée de plusieurs puces du mémoire vive dynamique (DRAM) de 16 M×8 bits. Quel est le nombre total de broches d'adresse et de données par puce DRAM ?",
+        "target": "20"
+    },
+    {
+        "input": "Si le seuil de démarrage lent d'une fenêtre d'encombrement d'un protocole de contrôle de transmissions (TCP) est initialement de 8messages, et que la longueur maximale d’un message est de 1 Ko, un timeout survient lorsque la fenêtre de congestion atteint 12. Selon les conditions données ci-dessus, quelle est la taille de la fenêtre de congestion sur la 12ᵉ transmission ?",
+        "target": "6"
+    },
+    {
+        "input": "Combien y a-t-il d’arbres binaires de recherche avec 23, 12, 45, 36 ? Combien d’arbres AVL y a-t-il parmi eux?",
+        "target": "14 ; 5"
+    },
+    {
+        "input": "Dans un arbre binaire de recherche, recherchez les nœuds dont la clé est 35. Laquelle des séquences suivantes peut correspondre aux clés comparées successivement ? a : 46, 28, 18, 36, 35 ; b : 18, 36, 28, 46, 35 ; c : 46, 36, 18, 28, 35 ; d: 28, 36, 18, 46, 35",
+        "target": "c : 46, 36, 18, 28, 35"
+    },
+    {
+        "input": "Quel est le taux maximal de transfert d'un canal de communication qui est échantillonné toutes les 1/8 s et qui présente un total de 8 états changeants du signal transmis ?",
+        "target": "24 bit/s"
+    },
+    {
+        "input": "Quel est le nombre d’éléments dans une file circulaire représentée par le tableau A[0... m-1], contenant les valeurs de ses éléments, sachant que les pointeurs front (tête) et rear (queue) indiquent respectivement le début de la file et la position du prochain emplacement libre ?",
+        "target": "(rear_front+m)%m"
+    },
+    {
+        "input": "Combien de nœuds y a-t-il au total dans un arbre N complet de largeur 27 et hauteur 4?",
+        "target": "40"
+    },
+    {
+        "input": "En transmettant l’information ASCII « Goodmorning! » via un réseau local IEEE 802.3, si elle est encapsulée dans une trame MAC, quelle est la taille effective en octets du champ données de cette trame ? Combien d’octets de remplissage (padding) sont nécessaires ?",
+        "target": "12 ; 34"
+    },
+    {
+        "input": "Un système de fichiers utilise une organisation multi-niveaux d’indexation (indexation hiérarchique) pour le stockage des données des fichiers. Supposons que dans l'i_node du fichier, il y ait 13 entrées d’adresse, dont 10 entrées d’index direct, 1 entrée d’index indirect primaire, 1 entrée d’index indirect secondaire et 1 entrée d’index indirect tertiaire. La taille des blocs de données est de 4 Ko et chaque adresse de disque occupe 4 o. Quelle est la taille maximale approximative d’un fichier que ce système de fichiers peut gérer ? (Résultat en To, arrondi à l'entier le plus proche)",
+        "target": "4 To"
+    },
+    {
+        "input": "Un système dispose de n périphériques similaires utilisés en exclusivité mutuelle, et trois processus concurrents nécessitent respectivement 3, 4 et 5 périphériques. Quel est le nombre minimal de périphériques nécessaires pour garantir que le système ne tombe pas en interblocage ?",
+        "target": "dix"
+    },
+    {
+        "input": "Dans un arbre ternaire, le nombre de nœuds de degré 3 est égal au nombre de nœuds de degré 2. Sachant que le nombre de nœuds feuilles est de 13, combien y a-t-il de nœuds de degré 2 ? ",
+        "target": "4"
+    },
+    {
+        "input": "Soit m le nombre de ressources du même type et n le nombre de processus concurrents dans le système. Lorsque n processus partagent m ressources utilisées en exclusion mutuelle et que la demande maximale par processus est w, dans quels cas suivants un interblocage se produit-il ? m=2, n=1, w=2 ; m=2, n=2, w=1 ; m=4, n=3, w=2 ; m=4, n=2, w=3",
+        "target": "m=4, n=2, w=3"
+    },
+    {
+        "input": "Le temps moyen de recherche d’un disque dur est de 12 ms, le taux de transfert est de 10 Mo/s et le retard du contrôleur de disque est de 2 ms. Combien de temps un disque dur avec une vitesse de rotation de 7 200 tr/min peut enregistrer 1 Ko de données ?",
+        "target": "18,27 ms"
+    },
+    {
+        "input": "Considérez le code C suivant: \\nshort si=-8196; \\nunsigned short usi=si; \\n Quelle est la valeur de l’usi après l’exécution du segment de programme ci-dessus ?",
+        "target": "57340"
+    },
+    {
+        "input": "Supposez qu’un arbre binaire soit converti de la forêt. Si la forêt a n nœuds non terminaux, quel est le nombre de nœuds dans l’arbre binaire sans fils droit ?",
+        "target": "n+1"
+    },
+    {
+        "input": "Le mode d'accès direct à la mémoire (DMA) se distingue par le fait que le processeur (CPU) fonctionne en parallèle avec le périphérique, et que la transmission se fait en parallèle avec le programme principal. Quelle est la caractéristique de la méthode d'interruption pour l'échange d'informations entre l'entrée-sortie et l'hôte parmi les propositions suivantes ? Le processeur (CPU) fonctionne en parallèle avec le périphérique, et la transmission fonctionne en série avec le programme principal ; Le processeur (CPU) fonctionne en série avec le périphérique, et la transmission fonctionne en parallèle avec le programme principal ; Le processeur (CPU) fonctionne en série avec le périphérique, et la transmission fonctionne en série avec le programme principal ; Le processeur (CPU) fonctionne en parallèle avec le périphérique, et la transmission fonctionne en parallèle avec le programme principal.",
+        "target": " Le processeur (CPU) fonctionne en parallèle avec le périphérique, et la transmission fonctionne en série avec le programme principal"
+    },
+    {
+        "input": "Un ordinateur dont la fréquence d'horloge est de 2 GHz a un cycle d'horloge par instruction (CPI) de 1,2. Le programme P contient 4×10⁹ instructions sur cet ordinateur. Si le temps total d’exécution de P, du début à la fin, est de 4 secondes, quel est approximativement le pourcentage du temps processeur (CPU) utilisé pour exécuter P par rapport au temps total d’utilisation du processeur  (CPU) ?",
+        "target": "0.6"
+    },
+    {
+        "input": "Soit l'instruction de transfert de l'adressage relatif occupant deux octets, le premier octet est le code opération, et le deuxième octet est la quantité de déplacement relative (notée complément à deux), et chaque fois que le processeur (CPU) retire un octet de la mémoire, le PC est automatiquement incrémenté de 1 (c’est-à-dire PC ← PC+1). Si le contenu du PC actuel est 2008 H et doit être transféré vers 2001 H, quel est le contenu du deuxième octet de l'instruction de transfert ?",
+        "target": "F7H"
+    },
+    {
+        "input": "La vitesse de rotation d’un disque donné est de 10000 tours par minute : le temps moyen de recherche est de 6 ms ; le taux de transfert du disque est de 20 Mo/s ; la latence du contrôleur de disque est de 0,2 ms. Combien de temps faut-il en moyenne pour lire un secteur de 4 Ko ?",
+        "target": "9,4ms"
+    },
+    {
+        "input": "Si un système de commande comporte 200 instructions, combien de bits sont nécessaires pour représenter le code d’opération avec un code binaire de longueur fixe ?",
+        "target": "8"
+    },
+    {
+        "input": "Parmi les nombres suivants, lequel est le plus petit : (2E)_16, (52)_7, (2000)_3, (101001)_2 ?",
+        "target": "(52)_7"
+    },
+    {
+        "input": "Pour vérifier/corriger des données de 8 bits avec le code de Hamming, si vous pouvez corriger une erreur d'un seul bit, combien de bits au moins le nombre de bits de contrôle ?",
+        "target": "19"
+    },
+    {
+        "input": "Dans un système de stockage à deux niveaux composé de la mémoire cache et de mémoire principale, le temps d'accès est de 100 ns pour la mémoire cache et de 1000 ns pour la mémoire principale. Si l'on veut que le temps moyen d'accès effectif ne dépasse pas 115% du temps d'accès de la mémoire cache, quel est le taux de réussite minimum (hit rate) que doit atteindre la mémoire cache ? (Supposons que l'accès de la mémoire principale est après celui du cache)",
+        "target": "98,5 %"
+    },
+    {
+        "input": "Supposons qu’il y ait un disque avec un total de 200 pistes. La capacité de stockage totale du disque est de 1,6 Mo (soit 1 M=10^6, pour des raisons de commodité de calcul). Le temps de rotation du disque est de 25 ms par tour. Il y a 4 zones de données par piste, avec un espace entre chaque zone de données. Le disque a besoin de 1,25 ms pour passer par chaque espace. Alors quel est le taux de transfert maximal lors de la lecture à partir du disque ?",
+        "target": "0,4 Mo/s"
+    },
+    {
+        "input": "Supposons que les instructions soient complétées par 3 sous-composants, y compris la récupération d'instruction, l'analyse et l'exécution, et que le temps de chaque sous-composant soit t, si le processeur à un seul pipeline est utilisé pour exécuter 8 instructions d'affilée, quel est le taux d'accélération du pipeline ?",
+        "target": "2,4"
+    },
+    {
+        "input": "Si le nombre de lignes d’adressage en entrée est de 6 pour le mode de décodage simple, combien y a-t-il respectivement de lignes de sortie en mode de décodage simple et en mode de décodage double ?",
+        "target": "64 ; 16"
+    },
+    {
+        "input": "Considérons une puce de mémoire vive statique (SRAM) dont la capacité est de 512 × 8 bits. À l’exception de borne d'alimentation électrique et de borne de mise à la terre, quel est le nombre minimum de sorties dont cette puce doit disposer ?",
+        "target": "19"
+    },
+    {
+        "input": "Une machine possède un total de 70 signaux de microcommande, répartis en 6 groupes mutuellement exclusifs contenant respectivement 8, 11, 3, 16, 7 et 25 microcommandes. Si l’encodage direct des champs de contrôle est utilisé, combien de bits sont nécessaires pour le champ de contrôle d’une microinstruction ?",
+        "target": "23"
+    },
+    {
+        "input": "Sur une machine 32 bits, la mémoire est adressée octet par octet. Si la valeur actuelle du compteur de programme (PC) est 1000, quelle sera la valeur du PC après la lecture d’une instruction de deux mots ?",
+        "target": "1008"
+    },
+    {
+        "input": "En supposant que plusieurs puces de mémoire de 16 K×8 bits sont utilisées pour former une mémoire de 64 K×32 bits et que les unités des puces sont adressées en continu, quelle est l’adresse minimale dans la puce correspondant à l’adresse BFF0H ?",
+        "target": "8000H"
+    },
+    {
+        "input": "Pendant l'exécution d'un programme par le processeur (CPU), celui-ci effectue 4600 accès à la mémoire cache et 400 accès à la mémoire principale. Si le temps d'accès à la mémoire cache est de 5 ns et à la mémoire principale de 25 ns, quel est le temps moyen d'accès mémoire pour le processeur ?",
+        "target": "6,6"
+    },
+    {
+        "input": "Un ordinateur a 64 Mo de mémoire principale et 4 octets de longueur de mot. Alors combien d’adresses de bits sont nécessaires pour adresser un seul mot dans la mémoire?",
+        "target": "24"
+    },
+    {
+        "input": "Si l’adresse de chip select est 111, n sélectionne une puce mémoire de 32 K×16 pour fonctionner. Alors quelles sont respectivement la première adresse et la dernière adresse de cette puce dans la mémoire ?\nA. 00000H ; 01000H\nB. 38000H ; 3FFFFH\nC. 3800H ; 3FFFH\nD. 0000H ; 0100H",
+        "target": "B"
+    },
+    {
+        "input": "Les données de type float sont généralement représentées en simple précision (format à virgule flottante défini par la norme IEEE 754). Supposons que deux variables de type float x et y soient stockées dans des registres de 32 bits f1 et f2. Si f1=CC900000H et f2=B0C00000H, quelle est la relation entre x et y parmi les suivantes ? x < y avec des signes différents, x < y avec le même signe, x > y avec le même signe, x > y avec des signes différents",
+        "target": "x < y avec le même signe"
+    },
+    {
+        "input": "Si un nombre en virgule flottante simple précision, un true form, un complément à deux ou un offset binary sont représentés par un code machine de 32 bits égal à 0xF0000000. Déterminez l'ordre des nombres suivants du plus élevé au plus petit : Offset binary, Complément à deux, True form, Nombre à virgule flottante simple précision ; Offset binary, True form, Complément à deux, Nombre à virgule flottante simple précision ; Nombre à virgule flottante simple précision, True form, Complément à deux, Offset binary ; Nombre à virgule flottante simple précision, Offset binary, Complément à deux, True form",
+        "target": "Offset binary, True form, Complément à deux, Nombre à virgule flottante simple précision"
+    },
+    {
+        "input": "Supposons que la mémoire d’affichage d’un ordinateur soit implémentée avec une puce de mémoire vive dynamique (DRAM). Quelle est, au moins approximativement, la bande passante totale de mémoire vidéo nécessaire pour une résolution d’affichage de 1 600×1 200, une profondeur de couleur de 24 bits, une fréquence de rafraîchissement de 85 Hz, en considérant que 50 % de la bande passante totale de mémoire vidéo est utilisée pour le rafraîchissement de l’écran ?",
+        "target": "7 834 Mbit/s"
+    },
+    {
+        "input": "Pour transmettre une image d'une résolution de 640×480 pixels et de 65536 couleurs (en mode non compressé), en supposant que le taux de transfert des données est de 56 kbit/s, quel est le temps approximatif nécessaire ?",
+        "target": "87,77 s"
+    },
+    {
+        "input": "Il y a au total 101 instructions différentes dans le système d’instructions d’un ordinateur. Lorsqu’on utilise le mode de contrôle par microprogramme, quel est le nombre minimal de microprogrammes présents dans la mémoire de contrôle ?",
+        "target": "102"
+    },
+    {
+        "input": "En supposant que plusieurs puces de 8 K×8 bits soient utilisées pour former une mémoire de 32 K×32 bits, quelle est l'adresse maximale de la puce contenant l'adresse 41F0H ?",
+        "target": "5FFFH"
+    },
+    {
+        "input": "La capacité de stockage d'un ordinateur 32 bits est de 1 Mo. Si l’adressage est faite par mot (word addressing) , quelle est sa plage d’adressage ?\nA. 0-1M \nB. 0-512KB \nC. 0-256K \nD. 0-256KB",
+        "target": "C"
+    },
+    {
+        "input": "La mémoire cache, d'une capacité de 64 blocs, est organisée en groupes (associativité par groupes) avec une taille de bloc de 128 mots, et une associativité de 4 (groupes de 4 blocs). Si la mémoire principale est constituée de blocs de 4 Ko et qu'elle est adressée par mot (word addressing), quels sont les bits de l'adresse de la mémoire principale et les bits du Tag correspondants ?",
+        "target": "19 ; 8"
+    },
+    {
+        "input": "On sait que le code ASCII de la lettre majuscule « A » est 41H. Supposons que la lettre « F » soit stockée dans une unité de stockage, et que le bit de parité paire soit utilisé comme bit de contrôle (en supposant que le bit le plus élevé sert de bit de contrôle). Quelle est la valeur hexadécimale stockée dans cette unité de stockage ?",
+        "target": "C6H"
+    },
+    {
+        "input": "Une puce du mémoire vive dynamique (DRAM), utilisant la technologie de multiplexage d’adresse, a une capacité de 1024×8 bits. Quel est le nombre minimum de broches nécessaires pour cette puce, à l’exception des broches d’alimentation électrique et de mise à la terre ? (les lignes de contrôle de lecture/écriture sont au nombre de deux)",
+        "target": "Dix-sept"
+    },
+    {
+        "input": "Lors de l’addition de deux nombres à virgule flottante, dont les exposants sont respectivement 7 et 9. Comment déplacer les décimales des nombres à virgule flottante lorsque la valeur de l'exposant est plus petite ?",
+        "target": "Déplacer deux positions à gauche"
+    },
+    {
+        "input": "Si un ordinateur avec un adressage par octet est déjà équipé d’une zone de mémoire morte (ROM) allant de 00000H à 07FFFH, et dispose de 20 lignes d'adresse, et qu'il utilise maintenant des puces de mémoire vive de 16 K×8 bits pour constituer la zone restante de mémoire vive (RAM) allant de 08000H à FFFFFH, combien de ces puces de mémoire vive sont nécessaires ?",
+        "target": "62"
+    },
+    {
+        "input": "Pour former une mémoire de 64 K×8 bits avec une puce de mémoire de 16K×1 bit, combien de fois dans la direction des mots et dans la direction des bits ?",
+        "target": "4 ; 8"
+    },
+    {
+        "input": "Quel est le codage en binaire à décalage (offset binary) sur 8 bits du nombre décimal -0,3125 ?",
+        "target": "01011000/58H"
+    },
+    {
+        "input": "La mémoire est adressée par octet, avec un espace d’adressage allant de 90000H à CFFFFH. Si cette mémoire est constituée avec une puce de 16 K×8 bits de capacité de stockage, quel est le nombre minimal de puces nécessaires ?",
+        "target": "16"
+    },
+    {
+        "input": "En traitant les instructions avec trois sous-composants, y compris la récupération d'instruction, l'analyse et l'exécution, le cycle de travail de chaque sous-composant étant Δt, et en adoptant le processeur de pipeline scalaire conventionnel. Si 10 instructions sont exécutées consécutivement, combien de Δt sont nécessaires?",
+        "target": "12Δt"
+    },
+    {
+        "input": "Soit un nombre à virgule flottante codé sur 12 bits,  dont l'exposant est codé sur 4 bits en base 2 avec un bit de signe, représenté en le complément à deux. La mantissenormalisée, est codée sur 8 bits avec un bit de signe, également en complément à deux. Alors quel est le plus grand nombre positif que ce nombre à virgule flottante peut représenter ?",
+        "target": "2^7-1"
+    },
+    {
+        "input": "Supposons qu’une machine ait 80 instructions. En moyenne, chaque instruction est composée de 4 microinstructions, dont correspond à une phase commune à toutes les instructions. Sachant que la longueur des microinstructions est de 32 bits, quelle est la capacité estimée de la mémoire de contrôle CM ? \\n(Astuce: la capacité de la mémoire de contrôle CM est une puissance de 2)",
+        "target": "1 Ko"
+    },
+    {
+        "input": "On sait que la mémoire cache A utilise un mode de mappage direct, comportant 16 lignes, une taille de bloc de 1 octet, et une pénalité de défaut (miss penalty) de 8 cycles d'horloge. La mémoire cache B utilise également un mappage direct, comportant 4 lignes, une taille de bloc de 4 octets, et une pénalité de défaut de 11 cycles d'horloge. En supposant que ces mémoires cache, adressées par octet, sont vides au départ, la mémoire cache B présente un taux de défaut (miss rate) plus faible pour les séquences d'adresses suivantes. \nQuelle est la séquence pour laquelle la pénalité totale due aux défauts de la mémoire cache B est supérieure à celle de la mémoire cache A ? 0, 2, 4, 8, 0 ; 1, 2, 3, 4 ;  0, 8, 0, 8, 0, 8 ; 0, 1, 0, 1, 0, 1",
+        "target": "0, 2, 4, 8, 0"
+    },
+    {
+        "input": "Quel est le nombre de bits redondants dans les codes de parité à faible densité (n, k) couramment utilisés?",
+        "target": "n-k"
+    },
+    {
+        "input": "Un bus synchrone a une fréquence d’horloge de 100 MHz, une largeur de 32 bits, un multiplexage des lignes d’adresse et de données et occupe un cycle d’horloge pour chaque transmission d’adresse ou de donnée. Si ce bus prend en charge le transfert par rafale (burst transmission), combien de temps faut-il au minimum pour transférer 128 bits de données lors d'une transaction de bus correspondant à une « opération de lecture et d'écriture en mémoire » (Read and Write operations in Memory) ?",
+        "target": "50 ns"
+    },
+    {
+        "input": "Si la fréquence d’horloge est de 120MHz et qu’il faut 8 cycles d’horloge pour transmettre un mot de 32 bits, quel est le taux de transfert de données de ce système de bus ?",
+        "target": "60 Mo/s"
+    },
+    {
+        "input": "Si la mémoire cache d’un hôte contient 256 blocs et utilise un mappage direct, à quel bloc de cache sera associé le bloc i de la mémoire principale ?",
+        "target": "i(mod256)"
+    },
+    {
+        "input": "Une mémoire de 64 Ko, adressée par octet, possède une zone allant de 4000H à 5FFFH correspondant à la mémoire morte (ROM), le reste étant affecté à la mémoire vive (RAM). Si l’on utilise des puces de mémoire vive statique (SRAM) de 8 K×4 bits, combien de puces sont nécessaires ?",
+        "target": "14"
+    },
+    {
+        "input": "On suppose qu'il y a 4 entiers représentés en complément à deux sur 8 bits : r1=FEH, r2=F2H, r3=90H, r4=F8H. Si le résultat de l'opération est stocké dans un registre de 8 bits, laquelle des opérations suivantes provoquera un débordement ? r1×r2, r2×r3, r1×r4, r2×r4",
+        "target": "r2×r3"
+    },
+    {
+        "input": "Supposons qu'un des opérandes utilise un adressage indexé. La valeur du registre d'index variable est 007CH, le contenu de l'adresse 007CH est 0124H, l'adresse formelle donnée dans l'instruction est B000H et le contenu dans l'adresse B000H est C000H. Alors quelle est l'adresse effective de cet opérande ?",
+        "target": "B07CH"
+    },
+    {
+        "input": "Une machine possède un mot de 32 bits, une mémoire principale de 1 Mo, utilise un adressage par mot, et les blocs ont une taille de 512 o. La mémoire cache peut contenir 16 blocs et utilise le mappage direct. Quelle est alors la longueur de l’adresse pour la mémoire cache ?",
+        "target": "11"
+    },
+    {
+        "input": "Un disque comporte 200 pistes. La capacité de stockage totale du disque est de 60 Mo. Le temps de rotation est de 25 ms par tour. Chaque piste contient 8 secteurs, séparés par des espaces. La tête met 1,25 ms pour traverser chaque espace. Alors quel est le taux de transfert de données maximal requis pour le canal disque ?",
+        "target": "20 Mo/s"
+    },
+    {
+        "input": "Combien de bits sont au minimum nécessaires pour représenter le nombre décimal -8196 en complément à deux ?",
+        "target": "15"
+    },
+    {
+        "input": "La mémoire cache d'un ordinateur est composée de 16 blocs.  Elle est mappée en groupes à 2 voies, selon un mode 2-way set associative, soit 2 blocs par groupe. Chaque bloc de la mémoire principale a une taille de 32 octets et la mémoire est adressée par octet. Quel est le numéro du groupe de cache correspondant au bloc de la mémoire principale contenant l’unité 129 ? (numérotation à partir de 0)",
+        "target": "4"
+    },
+    {
+        "input": "La mémoire principale est adressée par octet, avec des adresses allant de 0A4000H à 0CBFFFH. Combien y a-t-il d'octets au total ? Pour constituer cette mémoire principale avec des puces mémoire d'une capacité de stockage de 32 K×8 bits, combien en faut-il au minimum ?",
+        "target": "160 K, 5"
+    },
+    {
+        "input": "Si la machine a une longueur de mot de 64 bits et une capacité mémoire de 128 Mo, en adressage par mot, combien d’unités peuvent être adressées ?",
+        "target": "16 M"
+    },
+    {
+        "input": "Soit une capacité de mémoire de 32 mots et une longueur de mot de 64 bits. Le nombre de modules est m=4, et le mode de croisement par adresses de bas-ordre est adopté. La période de stockage T=200 ns, la largeur du bus de données est de 64 bits et la période de transfert du bus r=50 ns. Quelle est la bande passante de cette mémoire croisée ?",
+        "target": "73×10＾7 bits/s"
+    },
+    {
+        "input": "Sachant qu’un disque dur a une vitesse de rotation de 2 400 tr/min et une capacité de stockage de 96 Ko par piste, quel est le taux de transfert de données du disque?",
+        "target": "3 840 Ko/s"
+    },
+    {
+        "input": "En supposant que plusieurs puces de 2 K×4 bits sont utilisées pour former une mémoire de 8 K×8 bits, quelle est l’adresse minimale de la puce contenant l’adresse 081FH?",
+        "target": "0800H"
+    },
+    {
+        "input": "Un disque dur contient 4 plateaux, un nombre de cylindres de 2 000 pour l'enregistrement de l'information, 3 000 secteurs par piste et 512 o par secteur. Quelle est la capacité approximative de cette mémoire de disque ? (1G=10 ^ 9)",
+        "target": "24 Go"
+    },
+    {
+        "input": "La mémoire cache a une capacité utile de 128 Ko, avec des blocs de 16 octets et une organisation en groupes de 8 voies (associativité 8 voies). L'unité dont l'adresse d'octet est 1234567H est chargée dans cette mémoire cache. Quel devrait être son tag ?",
+        "target": "048DH"
+    },
+    {
+        "input": "Quelle est la bande passante du bus si des données de 64 bits sont transmises en parallèle dans un bus à une fréquence de 66 MHz ?",
+        "target": "528 Mo/s"
+    },
+    {
+        "input": "Quelle est la capacité occupée par un fichier de police contenant 7 500 caractères, si chaque caractère chinois est représenté par une bitmap de 16×16 pixels ?",
+        "target": "240 Ko"
+    },
+    {
+        "input": "Dans l'architecture d'un ordinateur, le processeur (CPU) comprend notamment le compteur ordinal (PC), le registre tampon mémoire (MDR), le registre d'instruction (IR) et le registre d'adresse mémoire (MAR), etc. Si l'instruction à exécuter par le CPU est : MOV R_0, #100 (c'est-à-dire que la valeur 100 est transférée dans le registre R_0), quelle est la première opération que le CPU doit effectuer ?  PC→MAR, 100→R_0, PC→IR ou 100→MDR",
+        "target": "PC→MAR"
+    },
+    {
+        "input": "En supposant que l'instruction de transfert en adressage relatif occupe deux octets, le premier étant le code opération et le second le déplacement (exprimé en complément à deux).\nChaque fois que le processeur (CPU) sort un octet de la mémoire, le PC est automatiquement incrémenté de 1 (c’est-à-dire PC ← PC+1). Si l'adresse de l'instruction actuelle est 3008H et que l'on souhaite passer à 300FH, quel devrait être le contenu du deuxième octet de l'instruction de transfert ? Si l'adresse de l'instruction actuelle est 300FH et que l'on souhaite passer à 3004H, quel devrait être le contenu du deuxième octet de l'instruction de transfert ?",
+        "target": "05H, F3H"
+    },
+    {
+        "input": "Si la mémoire vive dynamique (DRAM) doit être rafraîchie 100 fois par milliseconde, avec un temps de rafraîchissement de 100 ns et un cycle d'accès mémoire de 200 ns, le pourcentage de temps consacré au rafraîchissement par rapport au temps total de fonctionnement de la mémoire est ____.",
+        "target": "1%"
+    },
+    {
+        "input": "Si le bus d’adresses du processeur d’un ordinateur comporte 24 lignes et le bus de données 32 lignes, et que la mémoire principale est constituée de puces de mémoire vive (RAM) de 512 K×8 bits, combien de puces de mémoire sont nécessaires au maximum pour cette mémoire principale ?",
+        "target": "128"
+    },
+    {
+        "input": "Dans un ordinateur pipeline, les types liés aux données où les énoncés suivants se produisent sont : Read after Write (RAW), Read after Read (RAR), Write after Write (WAW) et Write after Read (WAR) ; \\nADD R1, R2, R3 ; (R2)+(R3)→R1\\nADD R4, R1, R5 ; (R1)+(R5)→R4",
+        "target": " Read after Write (RAW)"
+    },
+    {
+        "input": "Dans un système informatique, on suppose que le disque dur effectue des opérations d’entrée/sortie avec le processeur en mode interruption. Avec une unité de transmission de 16 bits, le taux de transfert est de 50 Ko/s. Le temps d’overhead, y compris celui des interruptions, est de 100 cycles d’horloge du processeur par transfert. La fréquence d’horloge du processeur est de 50 MHz.\nQuelle proportion du temps total du processeur est consacrée au transfert de données depuis le disque dur ?",
+        "target": "5,12%"
+    },
+    {
+        "input": "Quel est le résultat de l'addition des deux nombres 7E5H et 4D3H ?",
+        "target": "CB8H"
+    },
+    {
+        "input": "Si une mémoire a un cycle de 250 ns et 16 bits sont lus à chaque fois, quel est le taux de transfert de données de cette mémoire ?",
+        "target": "8×10＾6 o/s"
+    },
+    {
+        "input": "Un processeur avec une fréquence d'horloge f de 15 MHz et un débit de 10 MIPS est utilisé dans une station pour exécuter un programme composite. En supposant que chaque accès mémoire prend 1 cycle, quelle est la valeur valide du nombre de cycles d’horloge par instruction (CPI) pour cet ordinateur ?",
+        "target": "1,5"
+    },
+    {
+        "input": "Dans un système à pagination avec une taille de page de 4 Ko, le contenu de la table des pages est dans l’ordre : 2, 5, 6, 8, 7, 11. Alors, quelle est l'adresse logique correspondant à l'adresse physique 32773 ?",
+        "target": "12293"
+    },
+    {
+        "input": "Quel est le nombre total d'instructions exécutées à la fin de la 15ᵉ période d'horloge d'un processeur avec un pipeline à quatre étages, qui alimente continuellement 15 instructions dans ce pipeline ?",
+        "target": "12"
+    },
+    {
+        "input": "La longueur d’un mot d’instruction dans un système est de 8 bits, chaque code d’adresse faisant 3 bits. En utilisant la technique du code opération étendu, si le système comprend deux instructions à deux adresses et dix instructions à zéro adresse, combien peut-on avoir au maximum d’instructions à une adresse ?",
+        "target": "14"
+    },
+    {
+        "input": "Pour une puce de la mémoire vive statique (SRAM), dont la capacité est de 1024×8 bits, à l’exception de borne d'alimentation électrique et de borne de mise à la terre, quel devrait être le nombre minimum de broches de cette puce ?",
+        "target": "21"
+    },
+    {
+        "input": "Un programme en C tourne sur une machine 32 bits. Trois variables x, y et z sont définies dans le programme, où x et z sont de type int et y de type short. Quelles sont respectivement les valeurs de x, y et z après l'exécution de l'instruction d'affectation z=x+y lorsque x=127 et y=-9 ?\nA. x=0000007FH ; y=FFF9H ; z=00000076H\nB. x=0000007FH ; y=FFF9H ; z=FFFF0076H\nC. x=0000007FH ; y=FFF7H ; z=FFFF0076H\nD. x=0000007FH ; y=FFF7H ; z=00000076H",
+        "target": "D"
+    },
+    {
+        "input": "Les données de type float sont généralement représentées en simple précision (format à virgule flottante défini par la norme IEEE 754). Si le compilateur assigne la variable de type float x dans un registre à virgule flottante 32 bits FR1 avec x=-8.25, alors quel est le contenu de FR1 ?\nA. C1040000H\nB. C1C20000H\nC. C1840000H\nD. C2420000H",
+        "target": "A"
+    },
+    {
+        "input": "Dans le registre de mot d’état du processeur (CPU), si le bit de symbole SF est à « 1 », quel est le résultat de l’opération ?",
+        "target": "Impossible à déterminer"
+    },
+    {
+        "input": "Parmi ces nombres machines à virgule flottante sur 8 bits [x]_offset binary suivants, lequel provoquera un débordement lors du calcul de [-x]_offset binary :  11111111, 01111111, 00000000, 10000000",
+        "target": "00000000"
+    },
+    {
+        "input": "Si la longueur du mot d'instruction est de 24 bits et qu’il est possible d’effectuer 130 opérations différentes en utilisant un format à deux adresses, quelle est la portée maximale de l’adressage direct ?",
+        "target": "256"
+    },
+    {
+        "input": "Un système informatique comprend une mémoire principale de 1 Mo (adressée par octet) et une mémoire cache de 16 Ko. Chaque bloc de cache contient 8 mots de 32 bits, et on utilise un mappage direct. Si l'adresse de la mémoire principale est 35301H et que le processeur (CPU) accède au cache, quel est le numéro du bloc dans le cache correspondant ? (Les blocs de cache sont numérotés à partir de zéro.)",
+        "target": "152"
+    },
+    {
+        "input": "Dans un ordinateur dont la carte graphique dispose de 1 Mo de mémoire vidéo et une résolution de 800 × 600 pixels, combien de couleurs différentes peut-on représenter au maximum par pixel ?",
+        "target": "65536"
+    },
+    {
+        "input": "Si le nombre décimal est 137,5, quel est son équivalent en base octale ?",
+        "target": "211,4"
+    },
+    {
+        "input": "On effectue le codage de Huffman pour n symboles distincts. Si l'arbre de Huffman généré comporte 115 nœuds, quelle est la valeur de n ?",
+        "target": "58"
+    },
+    {
+        "input": "Étant donné un arbre binaire équilibré non vide (arbre AVL) T1, on forme un arbre binaire équilibré T2 après suppression d’un certain nœud v, puis v est réinséré dans T2 pour former un arbre binaire équilibré T3. Parmi les affirmations suivantes concernant T1 et T3, laquelle est correcte ? \\nI.Si v est une feuille de T1, T1 peut ne pas être identique à T3 \\nII. Si v n’est pas une feuille de T1, T1 ne doit pas être identique à T3 \\nIII. Si v n’est pas une feuille de T1, T1 doit être identique à T3",
+        "target": "Seul I"
+    },
+    {
+        "input": "Il existe une table de hachage (HT) de longueur 11, initialement vide. La fonction de hachage est définie par H(key) = key mod 7. Les conflits sont résolus par la méthode de sondage linéaire (Linear Probing). Quelle est la longueur moyenne de recherche en cas d’échec dans cette table de hachage après l’insertion successive des clés suivantes : 87, 40, 30, 6, 11, 22, 98, 20 ",
+        "target": "6"
+    },
+    {
+        "input": "Soit le main string est T=\\abaabaabcabaabc\\ et le pattern string est S=\\abaabc\\. L’algorithme de Knuth-Morris-Pratt (KMP) est utilisé pour rechercher ce motif dans T. Combien de comparaisons de caractères sont effectuées jusqu’à la première correspondance réussie ?",
+        "target": "10"
+    },
+    {
+        "input": "Il y a 120 segments de fusion en mémoire externe. Dans le cadre d’une fusion à 12 voies, quel est le nombre de segments virtuels à ajouter pour obtenir une fusion optimale ?",
+        "target": "2"
+    },
+    {
+        "input": "Considérez le code C suivant : \\nunsigned short usi=65535 ; \\nshort si=usi ; \\n Quelle est la valeur de si après l’exécution du segment de programme ci-dessus?",
+        "target": "-1"
+    },
+    {
+        "input": "Supposant qu’un ordinateur utilise un bus mémoire à 3 canaux, et que la mémoire correspondante est de type DDR3-1333, ce qui signifie que chaque canal fonctionne à 1333 MHz avec une largeur de bus de 64 bits. Quelle est alors la bande passante totale approximative du bus mémoire ?",
+        "target": "32 Go/s"
+    },
+    {
+        "input": "Un périphérique échange des données avec le processeur (CPU) en mode interruption, avec une fréquence d'horloge CPU de 1 GHz, un registre tampon de 32 bits dans l'interface du périphérique et un taux de transfert de données de 50 Ko/s. Si chaque overhead par interruption (incluant la réponse aux interruptions et le traitement des interruptions) est de 1 000 cycles d'horloge, quel est le pourcentage maximal du temps CPU consacré aux entrées/sorties de ce périphérique par rapport au temps CPU total ?",
+        "target": "1,28%"
+    },
+    {
+        "input": "En supposant un réseau local de 100 Mb/s avec le protocole CSMA/CD et une longueur de trame minimale de 128 o, quel est le délai de propagation unidirectionnel maximal entre deux sites dans un domaine de collision parmi les valeurs suivantes : 20,48 µs, 5,12 µs, 2,56 µs, 10,24 µs ?",
+        "target": "5,12 µs"
+    },
+    {
+        "input": "Si le réseau 101.200.16.0/20 est divisé en 5 sous-réseaux, le nombre d’adresses IP assignables pour le plus petit sous-réseau possible est l’un des suivants : 1 022, 126, 254, 510.",
+        "target": "254"
+    },
+    {
+        "input": "Quel est le nombre maximum de nœuds contenant la clé dans un arbre B d'ordre 4 avec 15 clés ?",
+        "target": "15"
+    },
+    {
+        "input": "Une mémoire de 256 Mo est constituée de plusieurs puces de mémoire vive dynamique (DRAM) de 4 M×8 bits. Quel est le nombre total de broches d'adresse et de données par puce DRAM ?",
+        "target": "19"
+    },
+    {
+        "input": "Un ordinateur a 16 registres généraux utilisant des mots d'instructions de longueur fixe de 32 bits et 8 bits pour le champ de l'Operation Code (y compris le bit de mode d'adressage). Les opérandes source et destination Store sont adressés directement par le registre et par l'adresse de base, respectivement. Si le registre d'adresse de base peut utiliser l'un des registres généraux et que le décalage est représenté par un complément à deux, laquelle des valeurs suivantes pour le décalage dans l'instruction Store est : -65536 à +65535, -32767 à +32768, -32768 à +32767, -65535 à +65536",
+        "target": " -32768 à +32767"
+    },
+    {
+        "input": "Si le temps de réponse et de traitement d’une demande d’interruption pour un appareil est de 100 ns, qu'une demande d’interruption est émise toutes les 400 ns, et que le délai maximal autorisé pour y répondre est de 50 ns, quel est le pourcentage minimal du temps d'entrée/sortie du processeur consacré à ce dispositif par rapport au temps total de fonctionnement du processeur ?",
+        "target": "25%"
+    },
+    {
+        "input": "Les données sont transmises entre l'hôte A et l'hôte B en utilisant le protocole Go-back-N (GBN). La taille de la fenêtre d’envoi de A est de 1000 trames, la longueur de la trame de données (Data Frame) est de 1000 octets et la bande passante du canal est de 100 Mbps. Chaque fois que B reçoit une trame de données, il utilise immédiatement une courte trame (en ignorant son délai de transmission) pour l'accuser réception. Si le retard de propagation unidirectionnel entre A et B est de 50ms, quel est approximativement le taux moyen maximum de transfert de données que peut atteindre A ?",
+        "target": "80 Mbps"
+    },
+    {
+        "input": "Les sites A, B et C partagent des liaisons via le code division multiple access (CDMA).  Leurs séquences de codage (chipping sequences) sont respectivement : A → (1, 1, 1, 1), B → (1, -1, 1, -1), C → (1, 1, -1, -1). Si C reçoit la séquence suivante sur la liaison : (2, 0, 2, 0, 0, -2, 0, -2, 0, 2, 0, 2), quelles sont les données envoyées par A et décodées par C ?",
+        "target": "101"
+    },
+    {
+        "input": "Une connexion du protocole de contrôle de transmissions (TCP) est établie entre l'hôte A et l'hôte B. L'hôte A envoie en permanence des données dans des segments de taille MSS=1 Ko, et il y a toujours des données à transmettre. Pour chaque segment reçu, un accusé de réception (ACK) est envoyé avec une fenêtre d’annonce de 10 Ko. Si, au moment t, la fenêtre de congestion est de 8 Ko, et qu'un timeout (expiration de délai) se produit, quelle sera la taille de la fenêtre d'envoi (en Ko) de A après 10 RTT, en supposant qu'aucun autre timeout ne se produit ?",
+        "target": "10 Ko"
+    },
+    {
+        "input": "On suppose que la mémoire principale est adressée par octet et utilise des adresses sur 32 bits. Le mappage entre la mémoire principale et la mémoire cache est direct. Chaque bloc de mémoire principale contient 4 mots de 32 bits. La politique d'écriture est le write-back. Quelle est la capacité minimale, en nombre de bits, nécessaire pour la mémoire cache si elle peut contenir jusqu’à 4 K mots de données ?\n",
+        "target": "148 K"
+    },
+    {
+        "input": "Les nœuds d'index des fichiers contiennent 10 pointeurs directs, un pointeur d'index de premier niveau et un pointeur de deuxième niveau. La taille d'un bloc disque est de 1 Ko, et chaque pointeur d'index occupe 4 octets. Le fichier est adressé par octet, et le nœud d’index est déjà en mémoire. Combien de blocs disque faut-il lire, respectivement, pour accéder aux octets situés aux décalages 1234 et 307400 ?",
+        "target": "1 ; 3"
+    },
+    {
+        "input": "Le système de fichiers utilise la méthode du bitmap pour représenter l'allocation de l'espace disque. Le bitmap est stocké dans les blocs 32 à 127 du disque, chaque bloc occupant 1024 octets. Les blocs, ainsi que les octets à l’intérieur de chaque bloc, sont numérotés à partir de 0. Supposons que le numéro du bloc à libérer soit 409612. Quel est le numéro du bloc du bitmap et et quelle est la position de l’octet dans ce bloc où le bit correspondant doit être modifié ?",
+        "target": "82 ; 1"
+    },
+    {
+        "input": "Les hôtes A et B créent une nouvelle connexion du protocole de contrôle de transmissions (TCP) . Le seuil initial de contrôle de congestion de A est de 32 Ko, A envoie toujours des données à B des segments de taille MSS=1 Ko ; B alloue un tampon de réception de 16 Ko pour cette connexion et envoie un accusé de réception pour chaque segment reçu, sans tenir compte du délai de transmission. Si toutes les données reçues par B sont stockées dans son cache sans être consommées, quelle sera la taille (en Ko) de la fenêtre d'envoi de A après 4 RTT à partir du moment où la connexion est établie avec succès ?",
+        "target": "1 Ko"
+    },
+    {
+        "input": "On sait que le graphe non orienté G contient 16 arêtes, avec 3 sommets de degré 4, 4 sommets de degré 3, et tous les autres sommets de degré strictement inférieur à 3. Quel est le nombre minimum de sommets que peut contenir le graphe le graphe G ?",
+        "target": "onze"
+    },
+    {
+        "input": "On suppose que les ordinateurs M1 et M2 ont la même instruction set architecture (ISA), avec des fréquences d'horloge respectives de 1,5 GHz et 1,2 GHz. Le programme de référence P est exécuté sur M1 et M2 avec un CPI moyen respectif de 2 pour M1 et 1 pour M2. Quel est le rapport entre les temps d’exécution du programme P sur M1 et M2 ?",
+        "target": "1,6"
+    },
+    {
+        "input": "Un ordinateur est adressé par octet, la longueur du mot d’instructions est fixe, et il existe seulement deux formats d’instructions, dont 29 instructions à trois adresses et 107 instructions à deux adresses. Chaque champ d’adresse occupe 6 bits. Quelle doit être, au minimum, la longueur du mot d’instruction ?",
+        "target": "24"
+    },
+    {
+        "input": "Quel est le nombre minimal d’états du signal nécessaire pour que le taux maximal de transfert de données d’un canal de communication, en l’absence de bruit, ne soit pas inférieur au taux maximal de transfert de données dans une condition où le rapport signal/bruit est de 30 dB ?",
+        "target": "32"
+    },
+    {
+        "input": "Soit une matrice symétrique M de taille 12×12. Les éléments m_i,j (1≤i≤j≤12) de sa partie triangulaire supérieure sont placés dans un tableau unidimensionnel N en langage C. Quelle est l'indice de l'élément m_6,6 en N ?",
+        "target": "50"
+    },
+    {
+        "input": "Quel est le nombre minimal de clés contenues dans un arbre B d’ordre 3 et de hauteur 5 ?",
+        "target": "31"
+    },
+    {
+        "input": "Supposant que le nombre de lignes et de colonnes dans la puce du mémoire vive dynamique (DRAM) est r et c, pour une puce DRAM de 2 K×1 bits, quelles sont respectivement les valeurs de r et c pour garantir un nombre minimal de broches d’adresse et minimiser les overheads de rafraîchissement ?",
+        "target": "32 ; 64"
+    }
+]

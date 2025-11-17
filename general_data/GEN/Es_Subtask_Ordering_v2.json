@@ -1,0 +1,734 @@
+[
+    {
+        "input": "\"Construcción, diseño de puentes, puesta en servicio, preparación de materiales e inspección de calidad\" son los cinco pasos para construir un puente con éxito. ¿Cuál es el orden correcto según la realidad?",
+        "target": "Diseño de puentes -> Preparación de materiales -> Construcción -> Inspección de calidad -> Puesta en servicio"
+    },
+    {
+        "input": "\"Planificación de tareas, pruebas integrales y verificación general, fabricación de la nave espacial, lanzamiento al espacio, ejecución de tareas, retorno a la Tierra\" son las fases que he sintetizado para una misión espacial. Verifique si esta secuencia es correcta basándose únicamente en mi orden mencionado. Si no, indique el orden correcto.",
+        "target": "La secuencia es incorrecta. Orden correcto: Planificación de tareas -> Fabricación de la nave espacial -> Pruebas integrales y verificación general -> Lanzamiento al espacio -> Ejecución de tareas -> Retorno a la Tierra"
+    },
+    {
+        "input": "Para desarrollar exitosamente una aplicación generalmente es necesario terminar estas tareas: \"escribir código, analizar requisitos, publicar la aplicación, diseñar la aplicación, probar la aplicación\". Proporcione el orden correcto según los conocimientos básicos.",
+        "target": "Analizar requisitos -> Diseñar la aplicación -> Escribir código -> Probar la aplicación -> Publicar la aplicación"
+    },
+    {
+        "input": "Para realizar un experimento científico exitosamente, además de recopilar datos, generalmente existen estos pasos: \"Diseñar el experimento, plantear hipótesis, obtener conclusiones, analizar datos\". Proporcione la secuencia correcta según las prácticas reales.",
+        "target": "Plantear hipótesis -> Diseñar el experimento -> Recopilar datos -> Analizar datos -> Obtener conclusiones"
+    },
+    {
+        "input": "He resumido los pasos necesarios para realizar actividad física: \"realizar el ejercicio, elaborar plan de entrenamiento, ponerse el equipo deportivo, realizar calentamiento, estirar para reducir acumulación de ácido láctico\". Proporcione el orden correcto según el conocimiento común.",
+        "target": "Elaborar plan de entrenamiento -> Ponerse el equipo deportivo -> Realizar calentamiento -> Realizar el ejercicio -> Estirar para reducir acumulación de ácido láctico"
+    },
+    {
+        "input": "Dados los siguientes pasos, indique la secuencia correcta para registrar una cuenta de correo electrónico: \"Seleccionar proveedor de servicios, completar información de registro, verificar y finalizar registro, establecer contraseña, ingresar al sitio web oficial\".",
+        "target": "eleccionar proveedor de servicios -> Ingresar al sitio web oficial -> Completar información de registro -> Establecer contraseña -> Verificar y finalizar registro"
+    },
+    {
+        "input": "El pago mediante smartphone generalmente incluye estos pasos: \"ingresar monto de pago, escanear código QR del vendedor, confirmar pago, abrir la aplicación de pagos\". Por favor, reordene estos pasos en la secuencia correcta según el proceso real.",
+        "target": "Abrir la aplicación de pagos -> Escanear código QR del vendedor -> Ingresar monto de pago -> Confirmar pago"
+    },
+    {
+        "input": "He sintetizado los pasos para armar muebles, que normalmente incluyen: \"leer instrucciones de ensamblaje, ensamblar componentes de muebles, confirmar que todas las herramientas y accesorios estén completos, utilizar tornillos para fijación\". Proporcione el orden correcto según los conocimientos básicos.",
+        "target": "Leer instrucciones de ensamblaje -> Confirmar que todas las herramientas y accesorios estén completos -> Ensamblar componentes de muebles -> Utilizar tornillos para fijación"
+    },
+    {
+        "input": "El uso del microondas normalmente incluye los siguientes pasos: \"configurar tiempo de calentamiento y potencia, abrir el microondas para colocar los alimentos, iniciar el calentamiento, cerrar la puerta del microondas\". Por favor, reordene estos pasos en la secuencia correcta.",
+        "target": "Abrir el microondas para colocar los alimentos -> Cerrar la puerta del microondas -> Configurar tiempo de calentamiento y potencia -> Iniciar el calentamiento"
+    },
+    {
+        "input": "¿Cómo insertar números de página en Word? Reordene los siguientes pasos para listar el procedimiento correcto: a) Seleccionar el estilo deseado en el menú desplegable. b) Seleccionar la opción \"Número de página\". c) Hacer clic en \"Insertar\" de la barra de menú.",
+        "target": "c) Hacer clic en \"Insertar\" de la barra de menú -> b) Seleccionar la opción \"Número de página\" -> a) Seleccionar el estilo deseado en el menú desplegable"
+    },
+    {
+        "input": "En Python, para crear un modelo simple de aprendizaje automático se involucran los siguientes pasos: \"a)seleccionar un modelo como regresión lineal, b)utilizar los datos para entrenar el modelo, c)cargar y preprocesar los datos, d)importar bibliotecas necesarias como numpy, pandas y sklearn, e)realizar predicciones con el modelo\". Por favor, reordene estos pasos en la secuencia correcta.",
+        "target": "d)importar bibliotecas necesarias como numpy, pandas y sklearn -> c)cargar y preprocesar los datos -> a)seleccionar un modelo como regresión lineal -> b)utilizar los datos para entrenar el modelo -> e)realizar predicciones con el modelo"
+    },
+    {
+        "input": "Para crear efectos 3D en Adobe Illustrator, normalmente se requiere terminar estos pasos: hacer clic en \"Efectos\" de la barra de menú y seleccionar \"3D\", configurar los parámetros del efecto en el cuadro de diálogo emergente, seleccionar \"Rotación\" o \"Extrusión\", crear el objeto al que se aplicará el efecto 3D. Proporcione el orden correcto según el flujo de trabajo estándar.",
+        "target": "Crear el objeto al que se aplicará el efecto 3D -> Hacer clic en \"Efectos\" de la barra de menú y seleccionar \"3D\"-> Seleccionar \"Rotación\" o \"Extrusión\" -> Configurar los parámetros del efecto en el cuadro de diálogo emergente"
+    },
+    {
+        "input": "Indique los pasos correctos para crear una base de datos en MySQL. Normalmente este proceso incluye estos pasos: Abrir el cliente de línea de comandos de MySQL, ejecutar el comando \\\"USE nombre_de_la_base_de_datos\\\" y pulsar Enter, ejecutar el comando \\\"CREATE DATABASE nombre_de_la_base_de_datos\\\" y presionar Enter. Responda según la secuencia operacional estándar.",
+        "target": "Abrir el cliente de línea de comandos de MySQL -> Ejecutar el comando \\\"CREATE DATABASE nombre_de_la_base_de_datos\\\" y presionar Enter-> Ejecutar el comando \\\"USE nombre_de_la_base_de_datos\\\" y pulsar Enter"
+    },
+    {
+        "input": "En After Effects, para crear una animación gráfica dinámica se requieren estos pasos: abrir la propiedad \"Ruta\" de la forma para añadir un fotograma clave, crear una nueva composición, utilizar la herramienta de formas para crear una forma, permitir que After Effects genere automáticamente una animación, mover el indicador de línea de tiempo y modificar la ruta de la forma. Proporcione la secuencia operativa correcta.",
+        "target": "Crear una nueva composición -> Utilizar la herramienta de formas para crear una forma -> Abrir la propiedad \"Ruta\" de la forma para añadir un fotograma clave -> Mover el indicador de línea de tiempo y modificar la ruta de la forma -> Permitir que After Effects genere automáticamente una animación"
+    },
+    {
+        "input": "El desarrollo de una página web implica múltiples etapas como: \"Escribir HTML, diseñar la interfaz de usuario, añadir estilos con CSS, desplegar el sitio web en producción\". Por favor, ordene estos pasos según la secuencia correcta.",
+        "target": "Diseñar la interfaz de usuario -> Escribir HTML -> Añadir estilos con CSS -> Desplegar el sitio web en producción"
+    },
+    {
+        "input": "Describa el orden correcto del ciclo hidrológico completo comenzando desde la evaporación, incluyendo estos procesos: \"infiltración, escorrentía superficial, evaporación, condensación, precipitación\". Por favor, reorganice los términos según la secuencia natural.",
+        "target": "Evaporación -> Condensación -> Precipitación -> Infiltración -> Escorrentía"
+    },
+    {
+        "input": "Recientemente he estado particularmente interesado en la fotosíntesis en la naturaleza y quiero conocer el proceso completo de la fotosíntesis. Estos son algunos de los pasos: \"reducción del dióxido de carbono, absorción de energía lumínica, síntesis de materia orgánica, fotólisis del agua\". ¿Podrías ayudarme a reordenarlos de acuerdo con el proceso fotosintético correcto?",
+        "target": "Absorción de energía lumínica -> Fotólisis del agua -> Reducción del dióxido de carbono -> Síntesis de materia orgánica"
+    },
+    {
+        "input": "En el proceso digestivo completo que he enumerado: \"excreción, masticación, deglución, digestión gástrica, absorción intestinal, absorción colónica\". ¿Podrías responderme cuál es el orden de digestión de los alimentos de una manera completa, basada en el proceso de digestión dado anteriormente?",
+        "target": "Masticación -> Deglución -> Digestión gástrica -> Absorción intestinal -> Absorción colónica -> Excreción"
+    },
+    {
+        "input": "La fabricación de caramelos generalmente incluye estos pasos: \"preparar materiales, hervir, mezclar azúcar y agua, verter en moldes\". ¿Podría proporcionar la secuencia correcta de operaciones de acuerdo con los datos mencionados?",
+        "target": "Preparar materiales -> Mezclar azúcar y agua -> Hervir -> Verter en moldes"
+    },
+    {
+        "input": "He encontrado en internet los pasos para fabricar un sofá: \"construcción de la estructura\", \"corte de la madera\", \"relleno con espuma\" y \"confección de la funda\". Por favor, ordena estos pasos en la secuencia correcta.",
+        "target": "Corte de la madera -> Construcción de la estructura -> Relleno con espuma -> Confección de la funda"
+    },
+    {
+        "input": "Al enseñar a una persona sin conocimientos básicos cómo realizar una rutina de carrera matutina, estos son los pasos: \"Hacer ejercicios principales, ponerse el equipo deportivo, realizar calentamiento, hacer estiramientos\". Por favor, ayúdeme a reordenar estos pasos de acuerdo con el proceso correcto.",
+        "target": "Ponerse el equipo deportivo -> Realizar calentamiento -> Hacer ejercicios principales -> Hacer estiramientos"
+    },
+    {
+        "input": "Para enseñar a una persona que no tiene conocimientos básicos de la vida a organizar sus estanterías, existen estos pasos: \"Colocar los libros, clasificar los libros por categorías, vaciar completamente las estanterías, limpiar las estanterías\". Por favor, indique el orden correcto.",
+        "target": "Vaciar completamente las estanterías -> Limpiar las estanterías -> Clasificar los libros por categorías -> Colocar los libros"
+    },
+    {
+        "input": "En la preparación de una cena estándar, se incluyen estos pasos: \"Cocinar los alimentos, consumir la cena, preparar los ingredientes, servir los alimentos\". Proporcione la secuencia real correcta.",
+        "target": "Preparar los ingredientes -> Cocinar los alimentos -> Servir los alimentos -> Consumir la cena"
+    },
+    {
+        "input": "Quiero conocer los pasos correctos para fusionar archivos PDF en Adobe Acrobat: \"Seleccionar archivos a combinar en el cuadro de diálogo emergente, elegir la opción 'Combinar archivos', hacer clic en el menú 'Herramientas', hacer clic en 'Combinar'\". Reordene estos pasos según el flujo de trabajo oficial.",
+        "target": "Hacer clic en el menú \"Herramientas\" -> Elegir la opción \"Combinar archivos\" -> Seleccionar archivos a combinar en el cuadro de diálogo emergente -> Hacer clic en \"Combinar\""
+    },
+    {
+        "input": "Los pasos típicos para ajustar el interlineado en Word 2003 son: “configurar el interlineado en el cuadro de diálogo que aparece, seleccionar la opción ‘Párrafo’, hacer clic en ‘Formato’ en la barra de menú”. Proporcione el orden correcto, por favor.",
+        "target": "Hacer clic en \"Formato\" en la barra de menú -> Seleccionar la opción \"Párrafo\"-> Configurar el interlineado en el cuadro de diálogo que aparece"
+    },
+    {
+        "input": "Al preparar una ensalada, los pasos que he enumerado son: \"colocar vegetales y frutas en un tazón, picar los ingredientes, añadir el aderezo, lavar vegetales y frutas\". ¿Corresponde esta secuencia al procedimiento correcto de preparación? Si no, indique el orden correcto.",
+        "target": "No. La secuencia correcta es: Lavar vegetales y frutas -> Picar los ingredientes -> Colocar vegetales y frutas en un tazón -> Añadir el aderezo"
+    },
+    {
+        "input": "Para enseñar a hacer café con granos de café a un principiante absoluto, ordene los siguientes pasos: \"moler los granos de café, verter polvo de café molido, preparar el molinillo de café, verter la cantidad adecuada de agua caliente\". Establezca la secuencia correcta.",
+        "target": "Preparar el molinillo de café -> Moler los granos de café -> Verter polvo de café molido -> Verter la cantidad adecuada de agua caliente"
+    },
+    {
+        "input": "Voy a tejer una bufanda para un amigo antes de Navidad, ordene los siguientes pasos: \"a) preparar el hilo adecuado. b) tejer continuamente según el diseño. c) determinar la longitud, la anchura y el diseño. d) comenzar el tejido. e) rematar el tejido. f) cortar y ocultar el hilo\". Proporcione el orden técnico correcto. Por favor, ordene según el flujo operativo correcto:",
+        "target": "c) determinar la longitud, la anchura y el diseño -> a) preparar el hilo adecuado -> d) comenzar el tejido -> b) tejer continuamente según el diseño -> e) rematar el tejido -> f) cortar y ocultar el hilo"
+    },
+    {
+        "input": "Queremos viajar al extranjero con toda la familia antes de Navidad. Viajar al extranjero implica varios preparativos: \"determinar el destino y las fechas del viaje, preparar el equipaje, reservar vuelos y alojamiento, y verificar la validez del pasaporte y los visados\". ¿Puede ayudarnos a planificar el orden correcto?",
+        "target": "Determinar el destino y las fechas del viaje -> Verificar la validez del pasaporte y los visados -> Reservar vuelos y alojamiento -> Preparar el equipaje"
+    },
+    {
+        "input": "Si vas a enseñar a alguien que no tiene absolutamente ninguna base musical cómo aprender una canción antes de Navidad, por favor, haz una lista de la secuencia correcta de pasos. Estos son algunos de los pasos: \"descargar la letra y la música de fondo, practicar con la música de fondo, elegir la canción, practicar frase por frase\". Establece la secuencia pedagógica correcta.",
+        "target": "Elegir la canción -> Descargar la letra y la música de fondo -> Practicar frase por frase -> Practicar con la música de fondo"
+    },
+    {
+        "input": "Por favor, reordene los siguientes pasos según el proceso de compra de entradas de cine en la vida real: \"desbloquear el móvil, seleccionar la película deseada, abrir la aplicación de cine, consultar los horarios disponibles\".",
+        "target": "Desbloquear el móvil -> Abrir la aplicación de cine -> Seleccionar la película deseada -> Consultar los horarios disponibles"
+    },
+    {
+        "input": "Para aprender a patinar sobre hielo, ¿en qué orden se deben realizar los siguientes pasos? \"Practicar estar de pie, aprender a deslizarse, aprender a impulsarse para comenzar, comprar patines\".",
+        "target": "Comprar patines -> Practicar estar de pie -> Aprender a impulsarse para comenzar -> Aprender a deslizarse"
+    },
+    {
+        "input": "Para enseñar a alguien sin experiencia en hornear cómo hacer muffins de arándano, aquí están los pasos: \"Incorporar los arándanos gradualmente, mezclar la harina, el azúcar, el polvo de hornear y la sal, añadir leche y huevos, hornear durante 20-25 minutos hasta dorar, verter la mezcla en moldes de muffins de arándano\". Proporcione el orden correcto de elaboración.",
+        "target": "Mezclar la harina, el azúcar, el polvo de hornear y la sal -> Añadir leche y huevos -> Incorporar los arándanos gradualmente -> Verter la mezcla en moldes de muffins de arándano -> Hornear durante 20-25 minutos hasta dorar"
+    },
+    {
+        "input": "Alicia quiere viajar en avión, y hay un total de los siguientes pasos: \"comprar el billete de avión, esperar en la zona de embarque, realizar el check-in, abordar el avión, llegar al destino\". Establezca la secuencia cronológica correcta.",
+        "target": "Comprar el billete de avión -> Realizar el check-in -> Esperar en la zona de embarque -> Abordar el avión -> Llegar al destino"
+    },
+    {
+        "input": "Para fabricar helado casero, hay un total de los siguientes pasos: \"agregar ingredientes saborizantes como frutas o trozos de chocolate, esperar a que se endurezca completamente, verter la mezcla en moldes para helados y colocarlos en el congelador, mezclar los componentes básicos, preparar los componentes básicos (crema, leche, azúcar)\". Reordene según el proceso correcto.",
+        "target": "Preparar los componentes básicos (crema, leche, azúcar) -> Mezclar los componentes básicos -> Agregar ingredientes saborizantes como frutas o trozos de chocolate -> Verter la mezcla en moldes para helados y colocarlos en el congelador -> Esperar a que se endurezca completamente"
+    },
+    {
+        "input": "Laura quiere cambiar su peinado y ha pensado en los siguientes pasos: \"el peluquero arregla el pelo, comunicarse con el peluquero, pagar el costo, buscar imágenes de referencia, acudir a la peluquería\". ¿Podrías dar el orden correcto de estos pasos?",
+        "target": "Buscar imágenes de referencia -> Acudir a la peluquería -> Comunicarse con el peluquero -> El peluquero arregla el pelo -> Pagar el costo"
+    },
+    {
+        "input": "Al preparar pollo en freidora de aire, los pasos enumerados son: a) Sazonar las piezas de pollo con sal y pimienta, b) Preparar los ingredientes (pollo, harina, huevo, sal, pimienta.), c) Rebozar piezas de pollo en harina, luego en huevo, d) Freír 10-15 minutos hasta dorar, e) Rebozar nuevamente en harina y colocar piezas en la freidora de aire. ¿Es correcta esta secuencia operativa? Si no, indica el orden correcto.",
+        "target": "No. Secuencia correcta: b) Preparar los ingredientes (pollo, harina, huevo, sal, pimienta.)  -> a) Sazonar las piezas con sal y pimienta -> c) Rebozar piezas de pollo en harina, luego en huevo -> e) Rebozar nuevamente en harina y colocar piezas en la freidora de aire -> d) Freír 10-15 minutos hasta dorar"
+    },
+    {
+        "input": "Al organizar una fiesta de cumpleaños, los pasos considerados son: \"decorar y arreglar el lugar del evento, definir la fecha, el lugar y el presupuesto, limpiar el lugar del evento, la sesión de celebración del cumpleaños, elaborar la lista de invitados, preparar alimentos y bebidas\". Establezca el orden lógico de planificación.",
+        "target": "Definir la fecha, la ubicación y el presupuesto -> Elaborar la lista de invitados -> Decorar y arreglar el lugar del evento -> Preparar alimentos y bebidas -> La sesión de celebración del cumpleaños -> Limpiar el lugar del evento"
+    },
+    {
+        "input": "Para reemplazar una bombilla fundida, los pasos son los siguientes: \"retirar la bombilla existente, apagar el interruptor, probar la nueva bombilla tras restaurar la energía, instalar la nueva bombilla\". Proporcione la secuencia de seguridad correcta.",
+        "target": "apagar el interruptor->retirar la bombilla existente->instalar la nueva bombilla->probar la nueva bombilla tras restaurar la energía"
+    },
+    {
+        "input": "Acabo de empezar a aprender caligrafía china, y estos son algunos de los pasos del plan de estudio que se me ocurren: \"imitar los modelos de calígrafos famosos\", \"seleccionar las herramientas de caligrafía\", \"estudiar los trazos básicos\", \"aprender la estructura básica de los caracteres\", \"crear obras de caligrafía\". ¿En qué orden deberían organizarse?",
+        "target": "Seleccionar las herramientas de caligrafía -> Estudiar los trazos básicos -> Aprender la estructura básica de los caracteres -> Imitar los modelos de calígrafos famosos -> Crear obras de caligrafía"
+    },
+    {
+        "input": "Una persona sin conocimientos básicos de inglés quiere aprender inglés, todos los pasos para aprender son los siguientes: \"estudio de gramática y vocabulario básico, aprendizaje del alfabeto, práctica integral de habilidades lingüísticas, participación en actividades de intercambios en inglés, visualización de películas en inglés\". Proporcione la progresión didáctica correcta.",
+        "target": "Aprendizaje del alfabeto-> estudio de gramática y vocabulario básico-> práctica integral de habilidades lingüísticas-> visualización de películas en inglés-> participación en actividades de intercambios en inglés"
+    },
+    {
+        "input": "En la preparación para un concurso de oratoria, ¿es correcta esta secuencia?: \"definición del tema central, investigación documental, familiarización con el discurso, elaboración del esquema, revisión y mejora, redacción del borrador inicial, presentación\". Si no, proporcione el orden correcto.",
+        "target": "No. Secuencia correcta: definición del tema central-> investigación documental-> elaboración del esquema-> redacción del borrador inicial-> revisión y mejora-> familiarización con el discurso-> presentación"
+    },
+    {
+        "input": "La semana que viene tenemos una reunión de negocios, y normalmente se sigue el siguiente proceso: \"envío de invitaciones a los participantes, determinación de la agenda, redacción del resumen de las actas, desarrollo de la reunión, discusión de temas clave durante la reunión, preparación de documentos e informes relevantes\". Proporcione la secuencia correcta.",
+        "target": "Determinación de la agenda -> Envío de invitaciones a los participantes -> Preparación de documentos e informes relevantes -> Desarrollo de la reunión -> Discusión de temas clave durante la reunión -> Redacción del resumen de las actas"
+    },
+    {
+        "input": "En la preparación intensiva para IELTS en 25 días, las tareas listadas son: \"elaboración del plan de estudio, aprendizaje sistemático, autoevaluaciones periódicas, ejercicios y repaso, comprensión del contenido y los requisitos del examen, organización de materiales de estudio\". ¿Puede ayudarme a organizarlas en un orden razonable?",
+        "target": "Comprensión del contenido y los requisitos del examen -> elaboración del plan de estudio -> organización de materiales de estudio -> aprendizaje sistemático -> ejercicios y repaso -> autoevaluaciones periódicas"
+    },
+    {
+        "input": "Quiero diseñar un sitio web propio. A continuación se presentan algunos pasos: \"definir objetivos, realizar el desarrollo del sitio web, investigación de mercado, diseñar la estructura y el diseño del sitio, elaborar un plan de contenidos, realizar pruebas y publicar en línea\". Proporcione la secuencia correcta de pasos según el orden lógico.",
+        "target": "Definir objetivos -> investigación de mercado -> elaborar un plan de contenidos -> diseñar la estructura y el diseño del sitio -> realizar el desarrollo del sitio web -> realizar pruebas y publicar en línea"
+    },
+    {
+        "input": "En el aprendizaje inicial de danza latina, generalmente se siguen los siguientes pasos: \"Ejercicios especializados con parejas de baile, pasos básicos de baile, práctica en solitario, fitness y flexibilidad\". Proporcione la secuencia correcta.",
+        "target": "Fitness y flexibilidad -> pasos básicos de baile -> práctica en solitario -> ejercicios especializados con parejas de baile"
+    },
+    {
+        "input": "Al planificar un programa de entrenamiento físico, los pasos enumerados son: \"definición de objetivos personales, seguimiento periódico de progresos, selección de modalidades deportivas apropiadas, establecimiento de frecuencia y duración de sesiones, inicio del régimen de ejercicios\". Proporcione la secuencia lógica de implementación.",
+        "target": "Definición de objetivos personales -> selección de modalidades deportivas apropiadas -> establecimiento de frecuencia y duración de sesiones -> inicio del régimen de ejercicios -> seguimiento periódico de progresos"
+    },
+    {
+        "input": "La gestión financiera familiar incluye los siguientes pasos: \"implementar el plan establecido, evaluar y ajustar periódicamente la situación financiera, establecer un plan adaptado a las circunstancias familiares, definir objetivos de planificación financiera\". Proporcione la secuencia correcta.",
+        "target": "Definir objetivos de planificación financiera -> Establecer un plan adaptado a las circunstancias familiares -> Implementar el plan establecido -> evaluar y ajustar periódicamente la situación financiera"
+    },
+    {
+        "input": "Completar marketing en redes sociales incluye los siguientes pasos: \"Elaborar plan de contenidos y frecuencia de publicación, crear identidad de marca y cuentas en plataformas sociales, definir audiencia objetivo y estrategia de marketing\". Proporcione la secuencia correcta.",
+        "target": "Definir audiencia objetivo y estrategia de marketing -> crear identidad de marca y cuentas en plataformas sociales -> elaborar plan de contenidos y frecuencia de publicación"
+    },
+    {
+        "input": "Nuestra empresa organizará un evento benéfico la próxima semana que incluye los siguientes pasos: \"Campañas promocionales, evaluación de resultados del evento, planificación de actividades y cronograma, determinación de objetivos y beneficiarios, ejecución práctica\". ¿Podrías ayudar a establecer un orden organizativo adecuado?",
+        "target": "determinación de objetivos y beneficiarios -> planificación de actividades y cronograma-> campañas promocionales -> ejecución práctica-> evaluación de resultados del evento"
+    },
+    {
+        "input": "Los siguientes son pasos para usar palillos de hilo dental: \"Colocar el hilo en el espacio interdental, preparar el palillo de hilo dental, continuar con otros dientes, mover el palillo de hilo dental hacia arriba y hacia abajo de manera uniforme, enjuagar con agua para eliminar residuos de alimentos\". ¿Podrías ordenarlos correctamente?",
+        "target": "Preparar el palillo de hilo dental -> colocar el hilo en el espacio interdental -> mover el palillo de hilo dental hacia arriba y hacia abajo de manera uniforme -> continuar con otros dientes -> enjuagar con agua para eliminar residuos de alimentos"
+    },
+    {
+        "input": "La poda de plantas de hojas grandes puede dividirse en estos pasos: \"a)al podar hojas grandes, es necesario proteger otras partes de la planta, b)recortar según la forma deseada, c)preparar tijeras adecuadas, d)seleccionar las hojas a podar, e)rociar agua uniformemente en ambas caras de las hojas para hidratar\". Por favor, reordénalos según la secuencia correcta.",
+        "target": "c)preparar tijeras adecuadas -> d)seleccionar las hojas a podar -> a)al podar hojas grandes, es necesario proteger otras partes de la planta -> b)recortar según la forma deseada -> e)rociar agua uniformemente en ambas caras de las hojas para hidratar"
+    },
+    {
+        "input": "Los pasos generales para preparar café instantáneo son: \"Verter el café instantáneo en la taza, añadir agua caliente, mezclar uniformemente, agregar cantidad apropiada de azúcar y crema volviendo a mezclar, hervir el agua\". ¿Cuál es el orden correcto?",
+        "target": "Hervir el agua -> verter el café instantáneo en la taza -> añadir agua caliente -> mezclar uniformemente -> agregar cantidad apropiada de azúcar y crema volviendo a mezclar"
+    },
+    {
+        "input": "A continuación se presentan algunos pasos para preparar un café latte: \"Añadir azúcar u otro edulcorante, Verter la espuma sobre el café, Preparar los materiales necesarios, Disolver el café, Espumar la leche, Calentar el agua\". Ordena estos pasos en la secuencia correcta.",
+        "target": "Preparar los materiales necesarios → Calentar el agua → Disolver el café → Espumar la leche → Verter la espuma sobre el café → Añadir azúcar u otro edulcorante"
+    },
+    {
+        "input": "La preparación del estofado de cerdo generalmente incluye los siguientes pasos: “cocinar a fuego lento, blanquear la carne, seleccionar los ingredientes, cortar la carne en trozos, sofreír la carne y los condimentos”. ¿Puedes decirme el orden correcto de preparación?",
+        "target": "Seleccionar los ingredientes → cortar la carne en trozos → blanquear la carne → sofreír la carne y los condimentos → cocinar a fuego lento"
+    },
+    {
+        "input": "\"Excavar un hoyo, regar abundantemente, rellenar el hoyo, comprar un retoño de manzano, colocar el retoño en el hoyo\". Según estos pasos, ¿cuál es el procedimiento correcto para plantar un manzano?",
+        "target": "comprar un retoño de manzano -> excavar un hoyo -> colocar el retoño en el hoyo -> rellenar el hoyo -> regar abundantemente"
+    },
+    {
+        "input": "Los pasos para cultivar rosas pueden dividirse en los siguientes pasos: \"Preparar tierra rica en nutrientes, excavar un hoyo de tamaño adecuado, plantar el retoño de rosa, seleccionar la variedad adecuada, regar manteniendo la tierra húmeda, fertilizar y podar regularmente\". Por favor, ordénalos correctamente.",
+        "target": "seleccionar la variedad adecuada -> preparar tierra rica en nutrientes -> excavar un hoyo de tamaño adecuado -> plantar el retoño de rosa-> regar manteniendo la tierra húmeda -> fertilizar y podar regularmente"
+    },
+    {
+        "input": "Estoy planeando criar peces y sé que estos son los preparativos generales: \"Preparar el acuario y el sistema de filtración, alimentar en momentos adecuados, llenar con agua y ajustar temperatura y calidad del agua, introducir los peces\". ¿Cuál es el orden correcto?",
+        "target": "Preparar el acuario y el sistema de filtración -> llenar el acuario con agua y ajustar temperatura y calidad del agua -> Introducir los peces -> alimentar en momentos adecuados"
+    },
+    {
+        "input": "Quiero criar abejas en mi jardín para producir miel. Esta es mi lista de tareas: \"elegir ubicación adecuada para colocar colmenas, comprar o fabricar colmenas y equipo apícola, conocer las leyes y regulaciones relevantes, seleccionar especie de abejas adecuada\". ¿Qué debo hacer primero?",
+        "target": "Conocer las leyes y regulaciones relevantes"
+    },
+    {
+        "input": "Hacer jabón artesanal según el proceso real generalmente necesita los siguientes pasos: 1. Añadir aceites esenciales y colorantes naturales. 2. Mezclar completamente. 3. Preparar base de jabón + aceites esenciales + moldes. 4. Derretir la base de jabón. 5. Verter en los moldes. 6. Dejar solidificar 24 horas y desmoldar para secar. Proporcione la secuencia correcta.",
+        "target": "Secuencia correcta: 3. Preparar base de jabón + aceites esenciales + moldes -> 4. Derretir la base de jabón -> 1. Añadir aceites esenciales y colorantes naturales -> 2. Mezclar completamente -> 5. Verter en los moldes -> 6. Dejar solidificar 24 horas y desmoldar para secar."
+    },
+    {
+        "input": "Los neumáticos están muy desgastados por el uso prolongado y quieres cambiarlos tú mismo, aquí hay algunos pasos para cambiar los neumáticos: \"Retirar el neumático viejo, bajar el gato y desactivar las luces de emergencia, usar el gato para levantar el vehículo, estacionar en superficie plana, instalar el neumático nuevo, activar las luces de emergencia\". ¿Cuál es el orden correcto?",
+        "target": "Estacionar en superficie plana -> activar las luces de emergencia -> usar el gato para levantar el vehículo -> retirar el neumático viejo -> instalar el neumático nuevo -> bajar el gato y desactivar las luces de emergencia"
+    },
+    {
+        "input": "Para cortar un césped descuidado, estos son los pasos propuestos: \"1. Comenzar en un extremo del césped y asegurarse de cortar el césped a una altura constante; 2. Ajustar la altura de corte de la máquina; 3. Preparar la cortadora y el recolector de césped; 4. Limpiar los residuos de la máquina y el recolector\". Reordénalos según la práctica real.",
+        "target": "Secuencia correcta: 3. Preparar la cortadora y el recolector de césped -> 2. Ajustar la altura de corte de la máquina -> 1. Comenzar en un extremo del césped y asegurarse de cortar el césped a una altura constante -> 4. Limpiar los residuos de la máquina y el recolector"
+    },
+    {
+        "input": "El rociador del baño está obstruido y se necesita reemplazarlo. Ordene los siguientes pasos en la secuencia correcta: 1. Apretar la tuerca de conexión del rociador. 2. Abrir el agua para verificar el funcionamiento normal del rociador. 3. Usar una llave para retirar el rociador viejo. 4. Conectar el nuevo rociador a la tubería usando una junta lubricada. 5. Cerrar el suministro de agua.",
+        "target": "5. Cerrar el suministro de agua → 3. Usar una llave para retirar el rociador viejo → 4. Conectar el nuevo rociador a la tubería usando una junta lubricada → 1. Apretar la tuerca de conexión del rociador → 2. Abrir el agua para verificar el funcionamiento normal del rociador"
+    },
+    {
+        "input": "Al aprender a cocinar pasta italiana, estos son los pasos que he conocido: 1. Escurrir la pasta reservando algo de agua de cocción. 2. Mezclar y servir inmediatamente. 3. Añadir sal adecuada y la pasta al agua. 4. Incorporar salsa e ingredientes necesarios. 5. Hervir agua en una olla. 6. Cocinar según el tiempo indicado en el empaque. ¿Cuál es el orden correcto?",
+        "target": "Secuencia correcta: 5. Hervir agua en una olla -> 3. Añadir sal adecuada y la pasta al agua -> 6. Cocinar según el tiempo indicado en el empaque -> 1. Escurrir la pasta reservando algo de agua de cocción -> 4. Incorporar salsa e ingredientes necesarios -> 2. Mezclar y servir inmediatamente"
+    },
+    {
+        "input": "Usar una lavadora para lavar ropa incluye estos pasos: 1. Seleccionar programa y temperatura según el tipo de prendas. 2. Encender la lavadora y esperar a que termine el lavado. 3. Añadir una cantidad adecuada de detergente o jabón en polvo. 4. Revisar etiquetas de cuidado de las prendas. 5. Clasificar la ropa y meterla en la lavadora por color y material. Proporcione la secuencia correcta.",
+        "target": "4. Revisar etiquetas de cuidado de las prendas -> 5. Clasificar la ropa y meterla en la lavadora por color y material -> 3. Añadir una cantidad adecuada de detergente o jabón en polvo -> 1. Seleccionar programa y temperatura según el tipo de prendas -> 2. Encender la lavadora y esperar a que termine el lavado"
+    },
+    {
+        "input": "Los pasos básicos para amarrar cordones son: 1. Igualar la longitud de ambos extremos. 2. Cruzar un extremo sobre el otro. 3. Apretar los cordones para garantizar su ajuste. 4. Pasar los cordones por los ojales. ¿Cuál es la secuencia correcta?",
+        "target": "Secuencia correcta: 4. Pasar los cordones por los ojales -> 1. Igualar la longitud de ambos extremos -> 2. Cruzar un extremo sobre el otro -> 3. Apretar los cordones para garantizar su ajuste"
+    },
+    {
+        "input": "Al aprender yoga, estos son los pasos sugeridos: 1. Encontrar un espacio tranquilo. 2. Seguir un video de yoga o una guía instructiva para comenzar. 3. Colocar una esterilla de yoga. 4. Adquirir equipo adecuado a tu nivel. Indica el orden correcto.",
+        "target": "4. Adquirir equipo adecuado a tu nivel -> 1. Encontrar un espacio tranquilo -> 3. Colocar una esterilla de yoga -> 2. Seguir un video de yoga o una guía instructiva para comenzar"
+    },
+    {
+        "input": "\"Ubicar la maceta en zona con buena luz solar, esparcir semillas de tomate, cubrir con capa delgada de tierra compactada, mantener el suelo húmedo, seleccionar tierra y maceta adecuadas\". ¿Cuál es el proceso correcto para cultivar tomates?",
+        "target": "Seleccionar tierra y maceta adecuadas -> Esparcir semillas de tomate -> Cubrir con capa delgada de tierra compactada -> Mantener el suelo húmedo -> Ubicar la maceta en zona con buena luz solar"
+    },
+    {
+        "input": "Mis objetivos iniciales para aprender fotografía son: Seleccionar cámara y lentes adecuados; experimentar con diferentes ángulos y perspectivas de captura; elegir escenarios y condiciones de iluminación adecuados; comprender principios básicos de fotografía y componentes de la cámara. Ordene estos objetivos en orden secuencial.",
+        "target": "Comprender principios básicos de fotografía y componentes de la cámara -> seleccionar cámara y lentes adecuados -> elegir escenarios y condiciones de iluminación adecuados -> experimentar con diferentes ángulos y perspectivas de captura"
+    },
+    {
+        "input": "Para buscar contenido duplicado en Excel usando funciones integradas, se siguen estos pasos: 1. Haz clic en \"Inicio\" en la barra de menú, busca y haz clic en \"Formato condicional\" en el grupo \"Estilos\". 2. En el cuadro de diálogo \"Reglas de formato para celdas condicionales\", seleccionar \"Valores duplicados\". 3. Abrir Excel y seleccionar el rango de celdas. 4. Confirmar las opciones y hacer clic en \"Aceptar\". ¿Cuál es el orden correcto de estos pasos?",
+        "target": "Secuencia correcta: 3. Abrir Excel y seleccionar el rango de celdas -> 1. Haz clic en \"Inicio\" en la barra de menú, busca y haz clic en \"Formato condicional\" en el grupo \"Estilos\". -> 2. En el cuadro de diálogo \"Reglas de formato para celdas condicionales\", seleccionar \"Valores duplicados\" -> 4. Confirmar las opciones y hacer clic en \"Aceptar\""
+    },
+    {
+        "input": "Quiero agregar un índice a mi trabajo de investigación en Word. ¿Puedo seguir este procedimiento que encontré en línea para hacerlo correctamente? 1. Selecciona \"Tabla de contenido\" y elige el estilo que prefieras en el menú que aparece. 2. Haz clic en \"Aceptar\" y el índice se creará automáticamente. 3. Debes aplicar estilos a tus títulos, como Título 1, Título 2, etc. 4. Haz clic en la opción \"Referencias\" en la barra de menú. Si no es así, indique el orden correcto.",
+        "target": "El orden de las operaciones necesita ser ajustado; el orden correcto es:\n3. Debes aplicar estilos a tus títulos, como Título 1, Título 2, etc. ->\n4. Haz clic en la opción \"Referencias\" en la barra de menú. ->\n1. Selecciona \"Tabla de contenido\" y elige el estilo que prefieras en el menú que aparece -> 2. Haz clic en \"Aceptar\" y el índice se creará automáticamente."
+    },
+    {
+        "input": "Para borrar la caché en Chrome, ¿en qué orden deben realizarse estos siguientes pasos? a)Hacer clic en los tres puntos en la esquina superior derecha, b)hacer clic en \"Borrar datos\", c)seleccionar \"Borrar datos de navegación\", d)en el cuadro de diálogo emergente, marcar \"Archivos e imágenes en caché\", e)seleccionar \"Más herramientas\" .",
+        "target": "a)Hacer clic en los tres puntos en la esquina superior derecha -> e)Seleccionar \"Más herramientas\" -> c)Seleccionar \"Borrar datos de navegación\" -> d)En el cuadro de diálogo emergente, marcar \"Archivos e imágenes en caché\" -> b)Hacer clic en \"Borrar datos\""
+    },
+    {
+        "input": "Al utilizar máscaras de capa en Photoshop, ¿en qué orden puede operar los siguientes procesos? 1. Seleccionar la opción \"Máscara de capa\" en el menú y elegir entre \"Revelar todo\" u \"Ocultar todo\". 2. Utilizar la herramienta Pincel para pintar sobre la máscara y revelar u ocultar partes de la capa. 3. Seleccionar la capa a la que se aplicará la máscara. 4. Hacer clic en la opción \"Capa\" en la barra de menú.",
+        "target": "Secuencia correcta: 3. Seleccionar la capa a la que se aplicará la máscara. -> 4. Hacer clic en la opción \"Capa\" en la barra de menú. -> 1. Seleccionar la opción \"Máscara de capa\" en el menú y elegir entre \"Revelar todo\" u \"Ocultar todo\" -> 2. Utilizar la herramienta Pincel para pintar sobre la máscara y revelar u ocultar partes de la capa"
+    },
+    {
+        "input": "Quiero saber cómo crear un juego simple en Unity, y encontré una guía general: \"Crear una nueva escena y objetos de juego, añadir luces y cámaras al entorno, programar scripts para controlar el comportamiento de los objetos, crear un nuevo proyecto\". ¿Cuál sería el orden técnico adecuado? Proporcione la secuencia correcta.",
+        "target": "Crear un nuevo proyecto -> crear una nueva escena y objetos de juego -> añadir luces y cámaras al entorno -> programar scripts para controlar el comportamiento de los objetos"
+    },
+    {
+        "input": "Aquí hay algunos pasos para enviar correos electrónicos usando su teléfono inteligente. ¿Cuál es el orden correcto en el que están? Escribir la dirección del destinatario y el contenido del mensaje; Abrir la aplicación de correo electrónico; Hacer clic en el botón \"Redactar\" o \"Nuevo correo\"; Hacer clic en \"Enviar\".",
+        "target": "Abrir la aplicación de correo electrónico -> Hacer clic en el botón \"Redactar\" o \"Nuevo correo\" -> Escribir la dirección del destinatario y el contenido del mensaje -> Hacer clic en \"Enviar\""
+    },
+    {
+        "input": "Al reproducir música en un teléfono inteligente, los pasos comunes son: Abrir la aplicación de música, presionar el botón de reproducción, desbloquear la pantalla del dispositivo, buscar la canción. ¿Cuál es el orden correcto de operación?",
+        "target": "Desbloquear la pantalla del dispositivo -> Abrir la aplicación de música -> Buscar la canción -> Presionar el botón de reproducción"
+    },
+    {
+        "input": "Para leer noticias en un smartphone, ¿cuál es el flujo cronológico correcto? Seleccionar una categoría de noticias específica, desbloquear el teléfono móvil, abrir la aplicación de noticias instalada , leer detenidamente los artículos de interés. Proporcione la secuencia correcta.",
+        "target": "Desbloquear el teléfono móvil -> Abrir la aplicación de noticias instalada -> Seleccionar una categoría de noticias específica -> Leer detenidamente los artículos de interés"
+    },
+    {
+        "input": "¿Cómo utilizar mapas en smartphone siguiendo este orden? Introducir el destino deseado en la barra de búsqueda, desbloquear el dispositivo móvil, abrir la aplicación de mapas seleccionada, revisar detalladamente la ruta generada por el sistema. Proporcione la secuencia precisa.",
+        "target": "Desbloquear el dispositivo móvil -> Abrir la aplicación de mapas seleccionada -> Introducir el destino deseado en la barra de búsqueda -> Revisar detalladamente la ruta generada por el sistema"
+    },
+    {
+        "input": "Al realizar traducciones en línea mediante un teléfono inteligente, los pasos típicos son: Escribir o pegar el texto a traducir, Ver los resultados de la traducción generados, Desbloquear el smartphone, Abrir la aplicación de traducción instalada. ¿Cuál sería el orden lógico correcto?",
+        "target": "Desbloquear el smartphone -> Abrir la aplicación de traducción instalada -> Escribir o pegar el texto a traducir -> Ver los resultados de la traducción generados"
+    },
+    {
+        "input": "\"Abrir botella de agua, beber agua, sentir sed, cerrar bien la botella de agua\". ¿Cómo se deben ordenar los pasos correctos para beber agua?",
+        "target": "Sentir sed -> Abrir botella de agua -> Beber agua -> Cerrar bien la botella de agua"
+    },
+    {
+        "input": "\"Quitarse la camisa, quitarse la ropa interior, quitarse la chaqueta o abrigo\". Establezca la secuencia lógica que seguiría una persona al desvestirse de manera convencional.",
+        "target": "Quitarse la chaqueta o abrigo -> Quitarse la camisa -> Quitarse la ropa interior"
+    },
+    {
+        "input": "Vi en Instagram un método de limpieza facial en 4 pasos: Aplicar producto limpiador, aplicar crema hidratante, humedecer el rostro con agua tibia y enjuagar con agua. ¿Cuál es el orden correcto?",
+        "target": "Aplicar humedecer el rostro con agua tibia -> aplicar producto limpiador -> enjuagar con agua -> crema hidratante"
+    },
+    {
+        "input": "\"Colocar pasta dental sobre el cepillo, cepillar metódicamente todas las superficies dentales, enjuagar la boca con agua, sacar el cepillo de su recipiente\". Establezca la secuencia adecuada para una higiene bucal correcta.",
+        "target": "Sacar el cepillo de su recipiente -> Colocar pasta dental sobre el cepillo -> Cepillar metódicamente todas las superficies dentales -> Enjuagar la boca con agua"
+    },
+    {
+        "input": "Al preparar un pastel casero, los pasos básicos son: Mezclar uniformemente todos los ingredientes, hornear la masa, preparar los materiales y utensilios necesarios, decorar artísticamente el producto. ¿Cuál sería el orden de preparación correcto?",
+        "target": "Preparar los materiales y utensilios necesarios -> Mezclar uniformemente todos los ingredientes -> Hornear la masa -> Decorar artísticamente el producto"
+    },
+    {
+        "input": "\"Realizar pruebas de vuelo experimental, doblar cuidadosamente el papel siguiendo patrones, realizar ajustes de diseño basados en los resultados, finalizar el modelo definitivo\". ¿Cuál es la secuencia correcta para construir un avión de papel?",
+        "target": "Secuencia correcta: Doblar cuidadosamente el papel siguiendo patrones -> Realizar pruebas de vuelo experimental -> Realizar ajustes de diseño basados en los resultados -> Finalizar el modelo definitivo"
+    },
+    {
+        "input": "\"Añadir verduras y pastel de carne, cubrir con la parte superior del pan, disponer elegantemente en el plato de servicio, tostar el pan en la parrilla\". Reordene estos pasos según el proceso estándar de preparación de hamburguesas.",
+        "target": "Tostar el pan en la parrilla -> Añadir verduras y pastel de carne -> Cubrir con la parte superior del pan -> Disponer elegantemente en el plato de servicio"
+    },
+    {
+        "input": "Al tomar una ducha completa, ¿cuál sería el orden lógico?: Secarse con una toalla; Regular la temperatura del agua en la ducha; Quitarse la ropa; Bañarse. Establezca la secuencia correcta.",
+        "target": "Quitarse la ropa -> Regular la temperatura del agua en la ducha -> Bañarse -> Secarse con una toalla"
+    },
+    {
+        "input": "¿Cómo se debe ordenar el proceso de compra en persona? Generalmente, el proceso incluye los siguientes pasos: Seleccionar un establecimiento comercial específico, elaborar una lista de productos necesarios, realizar el pago en caja, escoger individualmente los artículos en los estantes. Proporcione el orden racional del proceso.",
+        "target": "Elaborar una lista de productos necesarios -> Seleccionar un establecimiento comercial específico -> Escoger individualmente los artículos en los estantes -> Realizar el pago en caja"
+    },
+    {
+        "input": "Para preparar jugo natural, se siguen los siguientes pasos: Cortar la fruta en trozos manejables, añadir cubitos de hielo según preferencia personal después de probar, verter el líquido resultante en un vaso adecuado, extraer el jugo mediante licuadora o exprimidor. ¿Cuál es la secuencia correcta?",
+        "target": "Cortar la fruta en trozos manejables -> Extraer el jugo mediante licuadora o exprimidor -> Verter el líquido resultante en un vaso adecuado -> Añadir cubitos de hielo según preferencia personal después de probar"
+    },
+    {
+        "input": "El proceso de leer un libro se puede dividir en cuatro pasos: leer el contenido, abrir el libro, guardar el libro en el estante y cerrar el libro. Ordénelos cronológicamente para que los pasos sean más claros.",
+        "target": "Abrir el libro -> Leer el contenido -> Cerrar el libro -> Guardar el libro en el estante"
+    },
+    {
+        "input": "El proceso de armado de rompecabezas incluye los siguientes pasos: Conectar progresivamente las piezas compatibles, completar totalmente la imagen, abrir el empaque original del juego, identificar y separar las piezas de borde. Proporcione la secuencia correcta.",
+        "target": "Abrir el empaque original del juego -> Identificar y separar las piezas de borde -> Conectar progresivamente las piezas compatibles -> Completar totalmente la imagen"
+    },
+    {
+        "input": "Estoy aprendiendo a dibujar a la acuarela al aire libre, y en clase se mencionan principalmente estos puntos: Observar detenidamente la disposición espacial y relaciones cromáticas de los objetos, colocar objetos estáticos en la mesa de trabajo, dibujar un bosquejo inicial de la composición, realizar ajustes en la disposición de los objetos, detallar objetos, aplicar base de color, secar la obra. Describa el flujo técnico preciso.",
+        "target": "Colocar objetos estáticos en la mesa de trabajo -> Realizar ajustes en la disposición de los objetos -> Observar detenidamente la disposición espacial y relaciones cromáticas de los objetos -> Dibujar un bosquejo inicial de la composición -> Aplicar base de color -> Detallar objetos -> Secar la obra"
+    },
+    {
+        "input": "Al jugar a bloques de construcción, hay los siguientes pasos: Establecer una base estructural sólida, finalizar completamente la forma principal, agregar detalles, construir nivel por nivel de manera progresiva. ¿Cuál sería el orden lógico de ensamblaje?",
+        "target": "Establecer una base estructural sólida -> Construir nivel por nivel de manera progresiva -> Agregar detalles -> Finalizar completamente la forma principal"
+    },
+    {
+        "input": "En producción cinematográfica profesional, se siguen los siguientes pasos: Escribir el guión literario completo, estrenar públicamente la película, rodar las escenas según el plan, realizar procesos de posproducción. Establezca el orden cronológico industrial estándar.",
+        "target": "Escribir el guión literario completo -> Rodar las escenas según el plan -> Realizar procesos de posproducción -> Estrenar públicamente la película"
+    },
+    {
+        "input": "Al redactar un informe de investigación, generalmente se siguen los siguientes pasos: Escribir el cuerpo del texto, recopilar materiales, editar y corregir el texto, organizar la estructura del contenido desarrollado. ¿Cuál es la primera acción que debe realizarse?",
+        "target": "Recopilar materiales"
+    },
+    {
+        "input": "Para reuniones formales en oficina generalmente hay los siguientes pasos: Convocar a todos los participantes necesarios, definir y comunicar la agenda detallada, desarrollar discusiones sobre los temas programados, documentar oficialmente los puntos clave acordados. Proporcione el orden protocolario correcto.",
+        "target": "Definir y comunicar la agenda detallada -> Convocar a todos los participantes necesarios -> Desarrollar discusiones sobre los temas programados -> Documentar oficialmente los puntos clave acordados"
+    },
+    {
+        "input": "Si quiero aprender una nueva habilidad en un año, ¿cómo debo organizar secuencialmente estos planes de estudio? \"Obtener recursos de aprendizaje, aplicación práctica, fijar objetivos, evaluación de progreso\". Proporcione la secuencia correcta.",
+        "target": "Fijar objetivos -> Obtener recursos de aprendizaje -> Aplicación práctica -> Evaluación de progreso"
+    },
+    {
+        "input": "Según el flujo general de organización de eventos, ¿cómo se realizan estos cuatro pasos? Elaborar un plan, preparar materiales, determinar objetivos del evento, ejecutar actividades. Proporcione la secuencia correcta.",
+        "target": "Determinar objetivos del evento -> Elaborar un plan -> Preparar materiales -> Ejecutar actividades"
+    },
+    {
+        "input": "Al usar una computadora portátil, generalmente se siguen los siguientes pasos: Usar la computadora portátil, abrir la tapa de la computadora portátil, apagar la computadora portátil, encender la computadora. Proporcione la secuencia correcta.",
+        "target": "Abrir la tapa de la computadora portátil -> Encender la computadora -> Usar la computadora portátil -> Apagar la computadora portátil"
+    },
+    {
+        "input": "Bloquear una puerta implica los siguientes pasos: Girar la llave en la cerradura, insertar la llave en la cerradura, cerrar la puerta, verificar que la puerta esté asegurada. Por favor, ordene estos pasos según el procedimiento correcto.",
+        "target": "Cerrar la puerta -> Insertar la llave en la cerradura -> Girar la llave en la cerradura -> Verificar que la puerta esté asegurada"
+    },
+    {
+        "input": "\"Poner las hojas de té, hervir el agua, verter el agua caliente, beber té\". ¿Cuál es la secuencia cronológica correcta para preparar té tradicionalmente con estos  pasos?",
+        "target": "Hervir el agua -> Poner las hojas de té -> Verter el agua caliente -> Beber té"
+    },
+    {
+        "input": "Dados los siguientes pasos: \"Sellar el recipiente\", \"Esperar a que las sobras se enfríen\", \"Poner la comida caliente en un recipiente\" y \"Guardar en el refrigerador\". Para guardar correctamente las sobras en el refrigerador, ¿cómo deberían ordenarse estos pasos?",
+        "target": "Poner la comida caliente en un recipiente -> Esperar a que las sobras se enfríen -> Sellar el recipiente -> Guardar en el refrigerador"
+    },
+    {
+        "input": "La instalación de una tarjeta gráfica incluye los siete pasos: 1. Conectar la tarjeta gráfica y la fuente de alimentación. Algunas tarjetas gráficas de alto rendimiento requieren alimentación adicional, por lo que tendrás que conectar el cable de alimentación a la tarjeta gráfica. 2. Retirar la nueva tarjeta de su embalaje e insertarla en la ranura PCIe disponible. Asegurarse de que la tarjeta gráfica esté correctamente insertada en la ranura y fijarla con los tornillos. 3. Buscar la tarjeta gráfica antigua, que suele estar conectada a la ranura PCIe de la placa base. Antes de desconectar su tarjeta gráfica anterior, recordar desbloquear el mecanismo de fijación. 4. Apagar completamente el equipo y desconectar el cable de alimentación. 5. Abrir la caja del ordenador. 6. Desatornillar los tornillos de la tarjeta vieja y desconectar con cuidado la tarjeta gráfica de la placa base. 7. Reensamblar la carcasa, reconectar la energía e iniciar el sistema. ¿Podría reorganizar estos pasos según el orden operativo real?",
+        "target": "Secuencia correcta para tarjeta gráfica:  \n4. Apagar completamente el equipo y desconectar el cable de alimentación ->  \n5. Abrir la caja del ordenador ->  \n3. Buscar la tarjeta gráfica antigua, que suele estar conectada a la ranura PCIe de la placa base. Antes de desconectar su tarjeta gráfica anterior, recordar desbloquear el mecanismo de fijación.  ->  \n6. Desatornillar los tornillos de la tarjeta vieja y desconectar con cuidado la tarjeta gráfica de la placa base. ->  \n2. Retirar la nueva tarjeta de su embalaje e insertarla cuidadosamente en la ranura PCIe disponible. Asegurarse de que la tarjeta gráfica esté correctamente insertada en la ranura y fijarla con los tornillos. ->  \n1. Conectar la tarjeta gráfica y la fuente de alimentación. Algunas tarjetas gráficas de alto rendimiento requieren alimentación adicional, por lo que tendrás que conectar el cable de alimentación a la tarjeta gráfica. ->  \n7. Reensamblar la carcasa, reconectar la energía e iniciar el sistema"
+    },
+    {
+        "input": "Para instalar aplicaciones en iPhone, se siguen los siguientes pasos: \"Abrir la aplicación App Store, esperar que finalice completamente la descarga e instalación, hacer clic en la aplicación en los resultados de búsqueda y luego en 'Instalar', ingresar el nombre exacto de la aplicación en el campo de búsqueda\". ¿Cuál es el procedimiento correcto?",
+        "target": "Abrir la aplicación App Store -> ingresar el nombre exacto de la aplicación en el campo de búsqueda  -> hacer clic en la aplicación en los resultados de búsqueda y luego en 'Instalar' -> esperar que finalice completamente la descarga e instalación"
+    },
+    {
+        "input": "La instalación de SSD en computadora portátil requiere los siguientes pasos: 1. Retirar el disco duro existente y colocar el SSD nuevo en su ubicación designada. 2. Abrir la tapa en la parte inferior de la computadora para encontrar el disco duro. 3. Volver a colocar la tapa en la parte inferior de su computadora. 4. Encender el equipo e inicializar el SSD en el sistema operativo. 5. Apagar la computadora y desconectar la alimentación. ¿Sigue este orden la práctica estándar? Si no, indique el orden correcto.",
+        "target": "No.                      \nLa secuencia correcta de la instalación de SSD:  \n5. Apagar la computadora y desconectar la alimentación. ->  \n2. Abrir la tapa en la parte inferior de la computadora para encontrar el disco duro. ->  \n1. Retirar el disco duro existente y colocar el SSD nuevo en su ubicación designada ->  \n3. Volver a colocar la tapa en la parte inferior de su computadora. ->  \n4. Encender el equipo e inicializar el SSD en el sistema operativo."
+    },
+    {
+        "input": "Al reemplazar un cabezal de ducha, se incluyen estos pasos: \"Utilizar llave ajustable para desinstalar el cabezal viejo, enroscar manualmente el nuevo cabezal en las roscas expuestas, cerrar la válvula principal de agua, abrir gradualmente el flujo hídrico para detectar posibles fugas, limpiar la parte roscada del cabezal de ducha\". Proporcione la secuencia técnica correcta.",
+        "target": "Cerrar la válvula principal de agua -> Utilizar llave ajustable para desinstalar el cabezal viejo-> Limpiar la parte roscada del cabezal de ducha -> Enroscar manualmente el nuevo cabezal en las roscas expuestas -> Abrir gradualmente el flujo hídrico para detectar posibles fugas"
+    },
+    {
+        "input": "La lente de mi cámara está dañada y necesito instalar una nueva. Aquí están los cuatro pasos para hacerlo: 1. Encender la cámara y tomar algunas fotos para verificar si la nueva lente funciona correctamente. 2. Instalar la nueva lente en la cámara en la dirección y posición correctas. 3. Desmontar la lente vieja siguiendo las instrucciones del manual en la posición del cierre. 4. Apagar la cámara. Proporcione la secuencia técnica correcta.",
+        "target": "4. Apagar la cámara ->  \n3. Desmontar la lente vieja siguiendo las instrucciones del manual en la posición del cierre ->  \n2. Instalar la nueva lente en la cámara en la dirección y posición correctas ->  \n1. Encender la cámara y tomar algunas fotos para verificar si la nueva lente funciona correctamente"
+    },
+    {
+        "input": "En la replicación de ADN hay estas etapas: \"Síntesis de nuevas hebras mediante ADN polimerasa, ligación de ADN, desenrollado de ADN, reparación de ADN  \". ¿Qué secuencia sigue este proceso biológico?",
+        "target": "Desenrollado de ADN -> Síntesis de nuevas hebras mediante ADN polimerasa-> Ligación de ADN -> Reparación de ADN"
+    },
+    {
+        "input": "La división celular en células animales consta de cuatro etapas principales: \"División citoplasmática, segregación de cromátidas hermanas hacia polos opuestos, formación del huso mitótico a partir de microtúbulos, condensación inicial de cromosomas durante profase\". Ordene según el proceso real.",
+        "target": "Condensación inicial de cromosomas durante profase -> Formación del huso mitótico a partir de microtúbulos -> Segregación de cromátidas hermanas hacia polos opuestos -> División citoplasmática"
+    },
+    {
+        "input": "Un proceso completo de refinación de petróleo incluye los siguientes pasos: \"Crudo, destilación al vacío, mezcla, productos finales, destilación atmosférica, craqueo, tratamiento\". Establezca el flujo industrial correcto.",
+        "target": "Crudo -> Destilación atmosférica -> Destilación al vacío -> Craqueo -> Tratamiento -> Mezcla  -> productos finales"
+    },
+    {
+        "input": "Una creación musical completa generalmente se siguen los siguientes pasos: \"Idear temas, mezcla de audio, grabación de demo, creación de partituras y letras, sesiones de grabación en estudio profesional, lanzamiento comercial\". Proporcione la correcta secuencia.",
+        "target": "Idear temas -> creación de partituras y letras -> grabación de demo -> sesiones de grabación en estudio profesional -> mezcla de audio -> lanzamiento comercial"
+    },
+    {
+        "input": "El diseño arquitectónico tiene los siguientes pasos: \"Diseño conceptual creativo, análisis detallado de requisitos del cliente, diseño preliminar, inspección de obra terminada, elaboración de planos constructivos detallados, fase de construcción física\". Proporcione la secuencia real.",
+        "target": "Análisis detallado de requisitos del cliente -> diseño conceptual creativo -> diseño preliminar -> elaboración de planos constructivos detallados -> fase de construcción física -> inspección de obra terminada"
+    },
+    {
+        "input": "La ejecución de un programa consta principalmente de tres partes: \"enlace, compilación, ejecución\". ¿En qué orden se realizan en la práctica?",
+        "target": "Compilación -> Enlace -> Ejecución"
+    },
+    {
+        "input": "El proceso de crecimiento de las plantas incluye las siguientes fases: \"Germinación, marchitez, floración, fructificación\". Proporcione la secuencia correcta.",
+        "target": "Germinación -> floración -> fructificación -> marchitez"
+    },
+    {
+        "input": "\"Rodaje, salida de estacionamiento, aceleración, despegue\". ¿En qué orden ocurren estas fases durante el despegue de un avión?",
+        "target": "Salida de estacionamiento -> Rodaje -> Aceleración -> Despegue"
+    },
+    {
+        "input": "Si se encuentra en la etapa de prediabetes, ¿cuál de los siguientes métodos para controlar los niveles de glucosa suele considerarse como prioridad? a) El tratamiento con medicamentos b) Cambios en el estilo de vida c) Monitoreo de glucosa en la sangre.",
+        "target": "b) Cambios en el estilo de vida"
+    },
+    {
+        "input": "Cuando alguien sufre asfixia por cuerpo extraño, se siguen los siguientes pasos: \"Repetir las maniobras hasta que el objeto sea expulsado, aplicar técnica de Heimlich adecuadamente, evaluar estado de conciencia del paciente, estar detrás del paciente\". Proporcione la secuencia correcta .",
+        "target": "Evaluar estado de conciencia del paciente -> estar detrás del paciente -> aplicar técnica de Heimlich adecuadamente -> repetir las maniobras hasta que el objeto sea expulsado"
+    },
+    {
+        "input": "La preparación casera de pizza incluye estos pasos: \"Distribuir uniformemente ingredientes, elaborar base de masa fermentada, hornear a temperatura regulada, preparar todos los componentes necesarios\". ¿Cuál es el orden culinario correcto?",
+        "target": "Preparar todos los componentes necesarios -> elaborar base de masa fermentada -> distribuir uniformemente ingredientes -> hornear a temperatura regulada"
+    },
+    {
+        "input": "Los pasos para medir el azúcar en la sangre son los siguientes: \"Extraer muestra sanguínea mediante lanceta, insertar tira reactiva en glucómetro, higienizar manos con alcohol, interpretar valores numéricos mostrados\". Proporcione la secuencia adecuada.",
+        "target": "Higienizar manos con alcohol -> insertar tira reactiva en glucómetro -> extraer muestra sanguínea mediante lanceta -> interpretar valores numéricos mostrados"
+    },
+    {
+        "input": "La educación y formación en materia de seguridad generalmente abarca los siguientes pasos: \"Implementar formación, conocer las fuentes peligrosas, desarrollar medidas preventivas, evaluar resultados.\". Proporcione la secuencia correcta.",
+        "target": "Conocer las fuentes peligrosas -> desarrollar medidas preventivas -> implementar formación -> evaluar resultados"
+    },
+    {
+        "input": "La operación de lavadora doméstica se siguen los siguientes pasos: \"Configurar el programa, iniciar la lavadora, clasificar prendas, añadir el detergente, colocar la ropa\". Ordene los pasos correctamente.",
+        "target": "Clasificar prendas -> Colocar la ropa-> Añadir el detergente -> Configurar el programa -> Iniciar la lavadora"
+    },
+    {
+        "input": "El manejo de accidente vial suele incluir: \"Recolección de evidencia fotográfica y testimonial, delimitación perimetral con conos, inspección técnica del escenario, emisión de informe oficial con determinación de responsabilidades\". ¿Cuál es el procedimiento policial?",
+        "target": "Delimitación perimetral con conos -> Inspección técnica del escenario -> Recolección de evidencia fotográfica y testimonial -> Emisión de informe oficial con determinación de responsabilidades"
+    },
+    {
+        "input": "El diseño curricular académico suele incluir los siguientes pasos: \"Implementación práctica en aula, análisis de objetivos de aprendizaje, creación de syllabus institucional, desarrollo de planificaciones diarias detalladas\". Establezca el orden correcto de planificación.",
+        "target": "Análisis de objetivos de aprendizaje -> Creación de syllabus institucional -> Desarrollo de planificaciones diarias detalladas -> Implementación práctica en aula"
+    },
+    {
+        "input": "El proceso de diseño completo de un programa suele incluir lo siguiente: \"Escritura de programas, diseño de algoritmos, análisis de problemas, depuración de programas, ejecución de programas\". Proporcione la secuencia correcta.",
+        "target": "Análisis de problemas -> Diseño de algoritmos -> Escritura de programas -> Depuración de programas -> Ejecución de programas"
+    },
+    {
+        "input": "El proceso del paracaidismo incluye: \"Salto desde plataforma aérea, firma del acuerdo de exención de responsabilidad para paracaidismo, manipulación de cuerdas para apertura controlada, aterrizaje suave, equiparse\". Proporcione el orden correcto.",
+        "target": "Firma del acuerdo de exención de responsabilidad para paracaidismo -> Equiparse -> Salto desde plataforma aérea -> Manipulación de cuerdas para apertura controlada -> Aterrizaje suave"
+    },
+    {
+        "input": "Quiero entender el proceso básico de almacenar vino. Entre estos pasos, ¿cuál debe hacerse primero? \"Etiquetado, control de temperatura y humedad, selección de bodega adecuada, colocación horizontal\".",
+        "target": "Selección de bodega adecuada"
+    },
+    {
+        "input": "La rutina básica de maquillaje sigue los pasos: \"Aplicación de base, limpieza cutánea con productos específicos, hidratación facial, maquillaje, fijación con polvos translúcidos\". Sé que la fijación con polvos translúcidos es el último paso, ¿cómo se deben organizar los otros pasos?",
+        "target": "Limpieza cutánea con productos específicos -> Hidratación facial -> Aplicación de base -> Maquillaje -> Fijación con polvos translúcidos"
+    },
+    {
+        "input": "Compré un instrumento de medición de presión arterial para mis mayores, pero no sé cómo usarlo. La medición de la presión arterial generalmente se divide en los pasos: \"Preparar el esfigmomanómetro, fijar el esfigmomanómetro en el punto de medición, registrar los datos, exponer la parte superior del brazo, medir\". Proporcione la secuencia correcta.",
+        "target": "Preparar el esfigmomanómetro -> Exponer la parte superior del brazo-> Fijar el esfigmomanómetro en el punto de medición -> Medir -> Registrar los datos"
+    },
+    {
+        "input": "En el proceso real de pruebas de software consta de los siguientes pasos: \"Diseñar casos de prueba, ejecutar pruebas, redactar informe de pruebas y desarrollar plan de pruebas\". Proporcione la secuencia correcta.",
+        "target": "Desarrollar plan de pruebas -> Diseñar casos de prueba -> Ejecutar pruebas -> Redactar informe de pruebas"
+    },
+    {
+        "input": "La transferencia de datos básica sigue los pasos: \"Transmitir datos, cerrar conexiones, establecer conexiones\". Proporcione la secuencia correcta.",
+        "target": "Establecer conexiones -> Transmitir datos -> Cerrar conexiones"
+    },
+    {
+        "input": "La planificación turística sigue los pasos: \"Selección de destino, preparación de equipaje documentado, reserva de alojamiento y transporte, inicio del viaje programado, diseño de itinerario diario\". Proporcione el orden lógico.",
+        "target": "Selección de destino -> Diseño de itinerario diario -> Reserva de alojamiento y transporte -> Preparación de equipaje documentado -> Inicio del viaje programado"
+    },
+    {
+        "input": "Desde la investigación y desarrollo del producto hasta su lanzamiento al mercado, es necesario pasar por los siguientes pasos: \"Planificación del producto, investigación de mercado, diseño y desarrollo, pruebas del producto, producción en masa y comercialización\". Ordene los pasos correctamente.",
+        "target": "Investigación de mercado -> Planificación del producto -> Diseño y desarrollo -> Pruebas del producto -> Producción en masa y comercialización"
+    },
+    {
+        "input": "Un informe periodístico tiene los siguientes eslabones: \"Realización de entrevistas, selección temática editorial, revisión y edición de contenido, redacción periodística formal, publicación multiplataforma\". Proporcione la secuencia correcta.",
+        "target": "Selección temática editorial -> Realización de entrevistas -> Redacción periodística formal -> Revisión y edición de contenido -> Publicación multiplataforma"
+    },
+    {
+        "input": "Si quiero reservar un restaurante para que coma mi familia, tengo que organizar los siguientes pasos: \"Llegada al restaurante, reserva de habitación privada, selección de platos del menú, comer los platos pedidos, pago mediante método electrónico, salir del restaurante\". Proporcione la secuencia correcta.",
+        "target": "Reserva de habitación privada -> Llegada al restaurante -> Selección de platos del menú -> Comer los platos pedidos -> Pago mediante método electrónico -> Salir del restaurante"
+    },
+    {
+        "input": "El proceso editorial académico incluye los seis pasos: \"Edición, redacción, corrección, impresión, encuadernación, publicación\". Proporcione la secuencia correcta.",
+        "target": "Redacción -> Edición -> Corrección -> Impresión -> Encuadernación -> Publicación"
+    },
+    {
+        "input": "\"Optimización de código fuente, generación de código objeto, análisis sintáctico, análisis léxico\". ¿En qué orden se realizan estos pasos en el proceso de compilación de un programa informático?",
+        "target": "Análisis léxico -> Análisis sintáctico -> Optimización de código fuente -> Generación de código objeto"
+    },
+    {
+        "input": "El proceso de creación de acuarelas generalmente incluye estos pasos: \"Retocar la imagen, añadir detalles, dibujar contornos, colorear\". Proporcione la secuencia correcta.",
+        "target": "Dibujar contornos -> Colorear -> Añadir detalles -> Retocar la imagen"
+    },
+    {
+        "input": "El asesoramiento psicológico incluye los siguientes pasos: \"Consulta inicial, evaluación de efectos, evaluación y diagnóstico, implementación del tratamiento, elaboración del plan de tratamiento, terminación de la consulta\". Proporcione la secuencia correcta .",
+        "target": "Consulta inicial -> Evaluación y diagnóstico -> Elaboración del plan de tratamiento ->  Implementación del tratamiento-> Evaluación de efectos -> Terminación de la consulta"
+    },
+    {
+        "input": "El proceso de  transacción de comercio electrónico incluye estos pasos: \"Identificación de necesidad, gestión postventa (garantías/devoluciones), evaluación de opciones, búsqueda de información, toma de decisión de compra, procesamiento transaccional\". Por favor, indíqueme el orden correcto.",
+        "target": "Identificar necesidad -> Búsqueda de información -> Evaluación de opciones -> Toma de decisión de compra -> Procesamiento transaccional -> Gestión postventa (garantías/devoluciones)"
+    },
+    {
+        "input": "Un desarrollo completo de fármacos incluye los seis pasos: \"Descubrimiento de fármacos, estudios farmacodinámicos, investigación preclínica, aprobación de comercialización, estudios de toxicología farmacológica, ensayos clínicos\". Proporcione el orden correcto en función de la realidad.",
+        "target": "Descubrimiento de fármacos -> Estudios farmacodinámicos -> Estudios de toxicología farmacológica -> Investigación preclínica -> Ensayos clínicos -> Aprobación de comercialización"
+    },
+    {
+        "input": "Un desarrollo completo de fármacos incluye los pasos: \"Descubrimiento de fármacos, investigación preclínica, aprobación de comercialización, ensayos clínicos\". Proporcione el orden correcto en función de la realidad.",
+        "target": "Descubrimiento de fármacos -> Investigación preclínica -> Ensayos clínicos -> Aprobación de comercialización"
+    },
+    {
+        "input": "\"Organismos consumidores, organismos productores, organismos descomponedores\". ¿Cómo fluye la energía a través del ecosistema entre estos tres roles? Enumera el orden en el que fluye la energía.",
+        "target": "Organismos productores  -> Organismos consumidores -> Organismos descomponedores"
+    },
+    {
+        "input": "Tomar una fotografía con una cámara incluye estos pasos: \"Presionar el obturador, encuadrar la composición, enfocar, guardar la foto\". ¿Cuál es la secuencia correcta?",
+        "target": "Encuadrar la composición -> Enfocar -> Presionar el obturador -> Guardar la foto"
+    },
+    {
+        "input": "El comportamiento reproductivo de las aves incluye las siguientes etapas: \"Incubación, apareamiento, puesta de huevos, anidación, crianza de polluelos, cortejo\". ¿Cuáles son las etapas que se inician primero y se completan al final?",
+        "target": "El inicio es el cortejo, y el final es la crianza de polluelos."
+    },
+    {
+        "input": "La investigación de mercado generalmente tiene los siguientes pasos: \"Recopilar información, analizar datos, definir problemas y objetivos de investigación, diseñar plan de estudio, presentar resultados, tomar decisiones.\" Proporcione la secuencia correcta.",
+        "target": "Definir problemas y objetivos de investigación -> Diseñar plan de estudio -> Recopilar información -> Analizar datos -> Presentar resultados -> Tomar decisiones"
+    },
+    {
+        "input": "Según el flujo de gestión de proyectos, entre \"ejecución del proyecto, inicio del proyecto, planificación del proyecto, monitoreo del proyecto y cierre del proyecto\", ¿qué tres etapas se completan primero?",
+        "target": "Inicio del proyecto -> Planificación del proyecto -> Ejecución del proyecto"
+    },
+    {
+        "input": "Al revelar una foto, se involucran los procesos de \"revelado de negativos, baño de paro, fijación de negativos, exposición de negativos\". Enumere estos procesos en orden cronológico.",
+        "target": "Exposición de negativos → Revelado de negativos → Baño de paro → Fijación de negativos"
+    },
+    {
+        "input": "El lanzamiento exitoso de un satélite implica los siguientes pasos: Diseño, lanzamiento, fabricación, inserción orbital, operación. Proporcione la secuencia correcta.",
+        "target": "Diseño -> Fabricación -> Lanzamiento -> Inserción orbital -> Operación"
+    },
+    {
+        "input": "El personal de la bodega menciona que la elaboración de vino incluye \"cosecha, fermentación, prensado, embotellado, envejecimiento\". ¿Podrías indicar el orden correcto de estos pasos?",
+        "target": "Cosecha -> Prensado -> Fermentación -> Envejecimiento -> Embotellado"
+    },
+    {
+        "input": "Según el proceso de refinación de petróleo, ¿cómo se deben ordenar los siguientes pasos: destilación fraccionada, desalación, reformado catalítico, almacenamiento?",
+        "target": "Desalación -> Destilación fraccionada -> Reformado catalítico -> Almacenamiento"
+    },
+    {
+        "input": "Estos son algunos de los pasos del lanzamiento de cohetes, por favor dé la correcta secuencia de estos cinco pasos: \"Diseño del cohete, lanzamiento, fabricación, carga de combustible, entrada en órbita.\"",
+        "target": "Diseño del cohete -> Fabricación -> Carga de combustible -> Lanzamiento -> Entrada en órbita"
+    },
+    {
+        "input": "La generación eléctrica en plantas nucleares incluye estas etapas: Generación de vapor, fisión, enfriamiento, rotación de turbinas, generación de electricidad. ¿Cuál sería el orden desde el inicio hasta el fin de la generación de electricidad?",
+        "target": "Fisión -> Generación de vapor -> Rotación de turbinas -> Generación de electricidad-> Enfriamiento"
+    },
+    {
+        "input": "Mi abuelo va a tener una cirugía de corazón, quiero saber el orden en que estas etapas de la cirugía ocurren: Preparación preoperatoria, intervención quirúrgica, diagnóstico, recuperación postoperatoria, seguimiento médico. Proporcione la secuencia correcta.",
+        "target": "Diagnóstico -> Preparación preoperatoria -> Intervención quirúrgica -> Recuperación postoperatoria -> Seguimiento médico"
+    },
+    {
+        "input": "La fabricación de aviones incluye estas etapas: Selección de materiales, montaje, diseño, fabricación de componentes, pruebas. Proporcione la secuencia correcta.",
+        "target": "Diseño -> Selección de materiales -> Fabricación de componentes -> Montaje -> Pruebas"
+    },
+    {
+        "input": "La fabricación de automóviles incluye estas fases: Adquisición de materias primas, diseño, ventas, fabricación de piezas, montaje, inspección de calidad. ¿Podrías reorganizar estos pasos según el proceso real?",
+        "target": "Diseño -> Adquisición de materias primas -> Fabricación de piezas -> Montaje -> Inspección de calidad -> Ventas"
+    },
+    {
+        "input": "El cultivo en las granjas tiene estas etapas: Siembra, riego, preparación del terreno, almacenamiento, cosecha. Proporcione la secuencia correcta para cultivar.",
+        "target": "Correcta secuencia para cultivar en las granjas:  \nPreparación del terreno -> Siembra -> Riego -> Cosecha -> Almacenamiento"
+    },
+    {
+        "input": "En la síntesis de proteínas existen las siguientes etapas: Traducción de ARN, transcripción de ADN, plegamiento de proteínas, empalme de ARN. Proporcione la secuencia correcta.",
+        "target": "Transcripción de ADN -> Empalme de ARN -> Traducción de ARN -> Plegamiento de proteínas"
+    },
+    {
+        "input": "Al arrancar un vehículo, ¿en qué orden deben realizarse estos pasos?: Pisar el acelerador, encender el contacto, engranar la marcha, pisar el freno. Proporcione la secuencia correcta.",
+        "target": "Pisar el freno -> encender el contacto -> engranar la marcha -> pisar el freno"
+    },
+    {
+        "input": "La fermentación con levadura de vino generalmente se divide en las siguientes etapas: La levadura absorbe el azúcar, la levadura muere, la levadura crece, la levadura produce alcohol. Proporcione la secuencia correcta siguiendo el proceso normal de elaboración del vino.",
+        "target": "La levadura absorbe el azúcar -> La levadura crece -> La levadura produce alcohol -> La levadura muere"
+    },
+    {
+        "input": "El inicio del ordenador generalmente incluye los siguientes pasos: Carga del sistema operativo, se muestra la pantalla de inicio de sesión, pulsar el botón de encendido, ingresar la contraseña. Proporcione la secuencia correcta.",
+        "target": "Pulsar el botón de encendido -> Carga del sistema operativo -> Se muestra la pantalla de inicio de sesión -> Ingresar la contraseña"
+    },
+    {
+        "input": "La respiración humana consta de las siguientes fases: Entrada de oxígeno a los pulmones, exhalación, expulsión de CO2, inhalación. Proporcione la secuencia correcta.",
+        "target": "Inhalación -> Entrada de oxígeno a los pulmones -> Exhalación -> Expulsión de CO2"
+    },
+    {
+        "input": "De vapor de agua a agua, se deben pasar las siguientes etapas: Formación de gotas, pérdida de calor del vapor de agua, agregación de moléculas de agua. Proporcione la secuencia correcta.",
+        "target": "Pérdida de calor del vapor de agua-> Agregación de moléculas de agua -> Formación de gotas"
+    },
+    {
+        "input": "La solidificación del agua incluye tres etapas: Congelación, enfriamiento, formación de hielo. Establezca el orden correcto.",
+        "target": "Enfriamiento -> Congelación -> Formación de hielo"
+    },
+    {
+        "input": "En la formación y erupción volcánica se presentan las siguientes etapas: Formación del volcán, acumulación magmática, movimiento tectónico, erupción. Proporcione la secuencia correcta.",
+        "target": "Movimiento tectónico -> Acumulación magmática -> Erupción -> Formación del volcán"
+    },
+    {
+        "input": "El proceso metalúrgico tiene los siguientes pasos:  Fundición de minerales, extracción de minerales, trituración de minerales, refinación metálica. Reordene los pasos según la práctica industrial.",
+        "target": "Extracción de minerales -> Trituración de minerales -> Fundición de minerales -> Refinación metálica"
+    },
+    {
+        "input": "La fabricación de muebles de madera tiene los siguientes pasos: Corte de troncos, cosecha de troncos, fabricación de muebles, secado de madera y procesamiento de madera. ¿Cuál es el orden correcto de los siguientes pasos en la fabricación de muebles de madera?",
+        "target": "Cosecha de troncos -> Corte de troncos -> Secado de madera -> Procesamiento de madera -> Fabricación de muebles"
+    },
+    {
+        "input": "La elaboración de chocolate tiene los siguientes pasos: Molienda, cosecha de cacao, fermentación, secado, producción de chocolate. ¿Cuál es el orden correcto de estos pasos?",
+        "target": "Cosecha de cacao -> Fermentación -> Secado -> Molienda -> Producción de chocolate"
+    },
+    {
+        "input": "En la producción de textiles hay los siguientes pasos: Teñido, obtención de materias primas, hilado, tejido, confección de productos terminados. ¿Cuál es la secuencia correcta de los siguientes pasos?",
+        "target": "Obtención de materias primas -> Hilado -> Tejido -> Teñido -> Confección de productos terminados"
+    },
+    {
+        "input": "El aprendizaje de modelos automáticos consta de los siguientes pasos: Recolección de datos, definición de problemas, limpieza de datos, ingeniería de características, entrenamiento del modelo, evaluación del modelo, optimización del modelo, implementación del modelo. Proporcione la secuencia correcta en la práctica real.",
+        "target": "Definición de problemas -> Recolección de datos -> Limpieza de datos -> Ingeniería de características -> Entrenamiento del modelo -> Evaluación del modelo -> Optimización del modelo -> Implementación del modelo"
+    },
+    {
+        "input": "El proceso de formulación de la estrategia empresarial se divide en las siguientes etapas: establecimiento de objetivos, análisis del entorno, formulación de estrategias, implementación de estrategias y evaluación de estrategias. ¿Cuál es la secuencia correcta de ejecución?",
+        "target": "Análisis del entorno -> Establecimiento de objetivos -> Formulación de estrategias -> Implementación de estrategias -> Evaluación de estrategias"
+    },
+    {
+        "input": "Los pasos para hacer pan son: fermentación, mezcla de harina, moldeado de la masa, horneado y envasado. Proporcione la secuencia correcta.",
+        "target": "Mezcla de harina -> Fermentación-> Moldeado de la masa-> Horneado -> Envasado"
+    },
+    {
+        "input": "En la producción de cerveza, los pasos son: fermentación con levadura, elaboración de malta, filtración del líquido, embotellado y almacenamiento en bodega. ¿Cuál es el orden correcto de estos pasos?",
+        "target": "Elaboración de malta -> Fermentación con levadura -> Filtración del líquido -> Embotellado -> Almacenamiento en bodega"
+    },
+    {
+        "input": "En la fabricación de papel, los cinco pasos son: Recolección de materias primas, formación de hojas, secado, corte, preparación de la pulpa. Proporcione la secuencia correcta.",
+        "target": "Recolección de materias primas -> Preparación de la pulpa -> Formación de hojas -> Secado -> Corte"
+    },
+    {
+        "input": "Desde la entrada de información hasta la recuperación de la memoria, el cerebro humano registra información en cuatro etapas: Codificación de la información, percepción sensorial, recuperación de datos almacenados, almacenamiento. Proporcione la secuencia correcta.",
+        "target": "Percepción sensorial -> Codificación de la información -> Almacenamiento -> Recuperación de datos almacenados"
+    },
+    {
+        "input": "Durante mi primer día de prácticas en la central eléctrica, aprendí que la conversión de energía implica estos eslabones: energía mecánica (rotación del rotor), energía térmica (generación de vapor), energía química (combustión), energía eléctrica (salida del generador). ¿Podrías indicarme el orden de estos eslabones?",
+        "target": "Energía química (combustión) -> Energía térmica (generación de vapor) -> Energía mecánica (rotación del rotor) -> Energía eléctrica (salida del generador)"
+    },
+    {
+        "input": "Ana necesita transferir fondos a la Parte B. Todos los pasos son los siguientes: Completar el formulario de transferencia bancaria, firmar y guardar el recibo correspondiente, acudir al mostrador del banco, entregar el documento completado al cajero. Proporcione la secuencia correcta.",
+        "target": "Acudir al mostrador del banco -> Completar el formulario de transferencia bancaria -> Entregar el documento completado al cajero -> Firmar y guardar el recibo correspondiente"
+    },
+    {
+        "input": "Quiero hornear camote para la cena. ¿Cómo realizar estos pasos de manera eficiente? 1. Perforar el camote con un tenedor. 2. Cortar el camote después de hornear. 3. Colocar el camote en el horno. 4. Lavar el camote bajo el grifo. 5. Envolver el camote en papel aluminio. 6. Hornear durante 45-60 minutos hasta ablandar. 7. Añadir condimentos al servir. Proporcione la secuencia correcta.",
+        "target": "3. Colocar el camote en el horno ->  \n4. Lavar el camote bajo el grifo ->  \n1. Perforar el camote con un tenedor ->  \n5. Envolver el camote en papel aluminio ->  \n6. Hornear durante 45-60 minutos hasta ablandar ->  \n2. Cortar el camote después de hornear ->  \n7. Añadir condimentos al servir"
+    },
+    {
+        "input": "Acabo de empezar a aprender piano. La primera pieza que voy a estudiar es \"Estrellita, ¿dónde estás?\". Este es mi plan: dominar la digitación básica, practicar repetitivamente, ejecutar la melodía correctamente, obtener la partitura musical. ¿Cuál sería la secuencia de aprendizaje estándar?",
+        "target": "Obtener la partitura musical -> Dominar la digitación básica -> Ejecutar la melodía correctamente -> Practicar repetitivamente"
+    },
+    {
+        "input": "Los pasos para recortar imágenes en Photoshop son: Hacer clic en el botón \"Confirmar\" en la esquina superior derecha, seleccionar la herramienta de recorte en la barra de herramientas, arrastrar el cursor para delimitar el área de recorte, abrir la imagen a editar. Proporcione la secuencia correcta.",
+        "target": "Abrir la imagen a editar -> seleccionar la herramienta de recorte en la barra de herramientas -> Arrastrar el cursor para delimitar el área de recorte -> Hacer clic en el botón \"Confirmar\" en la esquina superior derecha"
+    },
+    {
+        "input": "Existen los siguientes pasos para comprar un boleto aéreo en línea: 1. Seleccionar el vuelo adecuado y completar el pago electrónico, recibiendo posteriormente el boleto electrónico con detalles del viaje. 2. Acceder a un sitio web confiable de viajes o aerolínea. 3. Filtrar resultados y comparar diferentes vuelos según factores como precio, horarios y evaluaciones de las aerolíneas. 4. Ingresar ciudad de origen, destino y fechas de viaje para obtener información de vuelos disponibles. Proporcione el orden correcto.",
+        "target": "El orden correcto es:  \n2. Acceder a un sitio web confiable de viajes o aerolínea ->  \n4. Ingresar ciudad de origen, destino y fechas de viaje para obtener información de vuelos disponibles ->  \n3. Filtrar resultados y comparar diferentes vuelos según factores como precio, horarios y evaluaciones de las aerolíneas ->  \n1. Seleccionar el vuelo adecuado y completar el pago electrónico, recibiendo posteriormente el boleto electrónico con detalles del viaje"
+    },
+    {
+        "input": "Insertar audio en PowerPoint requiere estos pasos: Seleccionar la opción \"Audio\" en el menú, hacer clic en la pestaña \"Insertar\" de la barra de menú, elegir \"Audio desde mi PC\" en el submenú desplegable, seleccionar el archivo de audio deseado. Establezca el flujo operativo preciso.",
+        "target": "Hacer clic en la pestaña \"Insertar\" de la barra de menú -> Seleccionar la opción \"Audio\" en el menú -> Elegir \"Audio desde mi PC\" en el submenú desplegable -> Seleccionar el archivo de audio deseado"
+    },
+    {
+        "input": "Al reservar un hotel por internet, hay cuatro pasos: 1. Revisar información detallada del hotel y evaluaciones de usuarios. 2. Elegir tipo de habitación, completar datos personales y confirmar pago. 3. Abrir la plataforma de reservas e ingresar destino y fechas de estadía. 4. Filtrar opciones según el presupuesto y las necesidades específicas. Proporcione la secuencia correcta.",
+        "target": "La correcta secuencia es:  \n3. Abrir la plataforma de reservas e ingresar destino y fechas de estadía ->  \n4. Filtrar opciones según el presupuesto y las necesidades específicas ->  \n1. Revisar información detallada del hotel y evaluaciones de usuarios ->  \n2. Elegir tipo de habitación, completar datos personales y confirmar pago"
+    },
+    {
+        "input": "Para solicitar una tarjeta de crédito sin ir al banco, hay los siguientes pasos: ① Enviar formulario de solicitud y esperar aprobación del banco. ② Una vez aprobada, el banco enviará la tarjeta de crédito a la dirección que has proporcionado ③ Seleccionar el tipo de tarjeta de crédito que deseas solicitar y rellenar el formulario de solicitud ④ Abrir el sitio web o la aplicación de tu banco y encontrar la opción \"Solicitud de tarjeta de crédito\". Proporciona la secuencia correcta.",
+        "target": "El orden verdadero es:  \n④ Abrir el sitio web o la aplicación de tu banco y encontrar la opción \"Solicitud de tarjeta de crédito\" ->  \n③ Seleccionar el tipo de tarjeta de crédito que deseas solicitar y rellenar el formulario de solicitud ->  \n① Enviar formulario de solicitud y esperar aprobación del banco ->  \n② Una vez aprobada, el banco enviará la tarjeta de crédito a la dirección que has proporcionado"
+    }
+]

@@ -1,0 +1,2072 @@
+[
+    {
+        "input": "Eine Bank des Staates B unterhält in Stadt M des Staates A eine 100%ige Zweigniederlassung, die Kreditgeschäfte betreibt. In einem bestimmten Jahr vergibt die Bank des Staates B direkt ein Darlehen an ein Unternehmen in Stadt M und erzielt daraus Zinserträge. Die Steuerbehörden des Staates A beabsichtigen, diese Zinsen dem steuerpflichtigen Gewinn der Zweigniederlassung in M zuzurechnen und gemeinsam zu besteuern. Ist dieses Vorgehen mit einem der folgenden Prinzipien begründbar?\nA. Attraktionsprinzip bei der Gewinnzurechnung an Betriebsstätten\nB. Prinzip der effektiven Verbindung bei der Gewinnzurechnung an Betriebsstätten\nC. Prinzip der getrennten und unabhängigen Gewinnermittlung der Betriebsstätten\nD. Prinzip der steuerlichen Zweckmäßigkeit",
+        "target_scores": {
+            "A. Attraktionsprinzip bei der Gewinnzurechnung an Betriebsstätten": 1,
+            "B. Prinzip der effektiven Verbindung bei der Gewinnzurechnung an Betriebsstätten": 0,
+            "C. Prinzip der getrennten und unabhängigen Gewinnermittlung der Betriebsstätten": 0,
+            "D. Prinzip der steuerlichen Zweckmäßigkeit": 0
+        }
+    },
+    {
+        "input": "Ein in Staat A ansässiges Mutterunternehmen unterhält eine Zweigniederlassung in Staat B. Im betreffenden Steuerjahr erzielt das Mutterunternehmen im Inland ein Einkommen von 800.000 Euro. Die Zweigniederlassung in Staat B erzielt ein Einkommen von 500.000 Euro, worauf in Staat B 200.000 Euro Körperschaftsteuer zum Steuersatz von 40 % gezahlt wurde. Der Einkommensteuersatz in Staat A beträgt 25 %. Falls Staat A die Vollanrechnung anwendet, wie hoch ist dann die vom Mutterunternehmen in Staat A zu zahlende Einkommensteuer?\nA. 125.000 Euro\nB. 200.000 Euro\nC. 325.000 Euro\nD. 525.000 Euro",
+        "target_scores": {
+            "A. 125.000 Euro": 1,
+            "B. 200.000 Euro": 0,
+            "C. 325.000 Euro": 0,
+            "D. 525.000 Euro": 0
+        }
+    },
+    {
+        "input": "Ein in Staat A ansässiges Mutterunternehmen unterhält eine Zweigniederlassung in Staat B. Im betreffenden Steuerjahr erzielt das Mutterunternehmen in Staat A ein Einkommen von 6 Millionen Euro, während die Zweigniederlassung in Staat B ein Einkommen von 1 Million Euro erzielt. Auf dieses Einkommen zahlt die Zweigniederlassung 300.000 Euro Körperschaftsteuer in Staat B, basierend auf einem Steuersatz von 30 %. Der Einkommensteuersatz in Staat A beträgt 25 %. Staat A wendet das Anrechnungsverfahren mit Höchstbetrag an. Wie hoch ist die Körperschaftsteuer, die das Mutterunternehmen in Staat A zu zahlen hat?\nA. 1.400.000 Euro\nB. 1.450.000 Euro\nC. 1.500.000 Euro\nD. 1.750.000 Euro",
+        "target_scores": {
+            "A. 1.400.000 Euro": 0,
+            "B. 1.450.000 Euro": 0,
+            "C. 1.500.000 Euro": 1,
+            "D. 1.750.000 Euro": 0
+        }
+    },
+    {
+        "input": "Ein Unternehmen mit Sitz in Staat A erzielt im Jahr 2008 ein zu versteuerndes Einkommen von 1.000.000 Euro im Inland. Zusätzlich erwirtschaftet eine Betriebsstätte desselben Unternehmens in Staat B ein zu versteuerndes Einkommen von 500.000 Euro. In Staat A gilt ein progressiver Einkommensteuertarif: 25 % auf Einkommen bis 600.000 Euro, 35 % auf den Teil zwischen 600.000 und 1.200.000 Euro sowie 45 % auf den über 1.200.000 Euro hinausgehenden Teil. Staat B erhebt eine proportionale Einkommensteuer von 30 %. Staat A wendet das Verfahren des Progressionsvorbehalts (Exemption with progression) an. Wie hoch ist die Einkommensteuer, die das Unternehmen in Staat A zu zahlen hat?\nA. 290.000 Euro\nB. 330.000 Euro\nC. 345.000 Euro\nD. 495.000 Euro",
+        "target_scores": {
+            "A. 290.000 Euro": 0,
+            "B. 330.000 Euro": 1,
+            "C. 345.000 Euro": 0,
+            "D. 495.000 Euro": 0
+        }
+    },
+    {
+        "input": "Eine in Staat A ansässige Person erzielt Einkünfte in Höhe von 1.000.000 Euro aus Staat B und 400.000 Euro aus Staat C. Die Einkommensteuersätze betragen 50 % in Staat A, 40 % in Staat B und 30 % in Staat C. Staat A besteuert das Einkommen nach dem Anrechnungsverfahren mit Länder-Höchstbetrag. Wie hoch ist die vom Steuerpflichtigen in Staat A auf diese Einkünfte zu zahlende Einkommensteuer?\nA. 0 Euro\nB. 180.000 Euro\nC. 520.000 Euro\nD. 700.000 Euro",
+        "target_scores": {
+            "A. 0 Euro": 0,
+            "B. 180.000 Euro": 1,
+            "C. 520.000 Euro": 0,
+            "D. 700.000 Euro": 0
+        }
+    },
+    {
+        "input": "Staat A kann in einer bestimmten Arbeitszeit 10 m Wollstoff oder 15 m Leinenstoff herstellen. Staat B kann in derselben Zeit 10 m Wollstoff oder 30 m Leinenstoff produzieren. Wie sollte die Arbeitsteilung gemäß dem Prinzip des komparativen Vorteils aussehen?\nA. Kein Handel möglich\nB. Staat A produziert und exportiert Leinenstoff\nC. Staat B produziert und exportiert Leinenstoff\nD. Staat B produziert und exportiert Wollstoff",
+        "target_scores": {
+            "A. Kein Handel möglich": 0,
+            "B. Staat A produziert und exportiert Leinenstoff": 0,
+            "C. Staat B produziert und exportiert Leinenstoff": 1,
+            "D. Staat B produziert und exportiert Wollstoff": 0
+        }
+    },
+    {
+        "input": "Die USA, Japan und andere Länder erheben auf importierte alkoholische Getränke höhere Verbrauchsteuer als auf inländisch produzierte Erzeugnisse. Diese Maßnahme stellt ein Beispiel für welche Art von Handelshemmnis dar?\nA. Ausfuhrbeschränkung\nB. Exportförderungsmaßnahme\nC. Nichttarifäres Handelshemmnis\nD. Tarifäres Handelshemmnis",
+        "target_scores": {
+            "A. Ausfuhrbeschränkung": 0,
+            "B. Exportförderungsmaßnahme": 0,
+            "C. Nichttarifäres Handelshemmnis": 1,
+            "D. Tarifäres Handelshemmnis": 0
+        }
+    },
+    {
+        "input": "Staat A benötigt zur Herstellung einer Armbanduhr 8 Arbeitstage und für ein Fahrrad 9 Arbeitstage. Staat B benötigt für dieselben Produkte 13 Arbeitstage für eine Uhr und 11 Arbeitstage für ein Fahrrad. Gemäß der Theorie des komparativen Vorteils gilt:\nA. Staat A sollte sich auf die Produktion und den Export von Fahrrädern spezialisieren.\nB. Staat A sollte sich auf die Produktion und den Export von Uhren spezialisieren.\nC. Staat B sollte sich auf die Produktion und den Export von Uhren spezialisieren.\nD. Staat B sollte sich nicht an der internationalen Arbeitsteilung beteiligen",
+        "target_scores": {
+            "A. Staat A sollte sich auf die Produktion und den Export von Fahrrädern spezialisieren.": 0,
+            "B. Staat A sollte sich auf die Produktion und den Export von Uhren spezialisieren.": 1,
+            "C. Staat B sollte sich auf die Produktion und den Export von Uhren spezialisieren.": 0,
+            "D. Staat B sollte sich nicht an der internationalen Arbeitsteilung beteiligen": 0
+        }
+    },
+    {
+        "input": "Die Firma A unterbreitet einem ausländischen Kunden ein Angebot mit einer Bindefrist bis zum 15. März. Am 12. März erhält sie vom Käufer ein Antwort-Telegramm:\n„Wir akzeptieren Ihr Angebot vom 9. März – unter dem Vorbehalt der Erteilung der Importlizenz.“ Wie ist diese Annahme rechtlich zu beurteilen?\nA.  Verspätete Annahme\nB. Annahme durch Schweigen\nC. Gegenangebot\nD. Reine Annahme",
+        "target_scores": {
+            "A.  Verspätete Annahme": 0,
+            "B. Annahme durch Schweigen": 0,
+            "C. Gegenangebot": 1,
+            "D. Reine Annahme": 0
+        }
+    },
+    {
+        "input": "In einem Exportvertrag lautet die Preisvereinbarung: „USD 2000 per M/T CIF New York, less 4% discount“. Wie hoch ist der tatsächliche Stückpreis, den der Verkäufer erhält?\nA.  USD 1.900\nB. USD 1.920\nC. USD 2.000\nD. USD 2.080",
+        "target_scores": {
+            "A.  USD 1.900": 0,
+            "B. USD 1.920": 1,
+            "C. USD 2.000": 0,
+            "D. USD 2.080": 0
+        }
+    },
+    {
+        "input": "Wenn der Spot-Wechselkurs am Devisenmarkt in London bei £1 = US$1{,}4608 liegt und der 3-Monats-Forwardkurs des US-Dollars einen Aufschlag von 0,51 US-Cent auf den Wechselkurs aufweist, beträgt der 3-Monats-Forward-Wechselkurs:\nA.  $￡1 = US$1{,}4659$\nB.  $￡1 = US$1{,}9508$\nC. $￡1 = US$1{,}4557$\nD. $￡1 = US$1{,}9708$",
+        "target_scores": {
+            "A.  $￡1 = US$1{,}4659$": 0,
+            "B.  $￡1 = US$1{,}9508$": 0,
+            "C. $￡1 = US$1{,}4557$": 1,
+            "D. $￡1 = US$1{,}9708$": 0
+        }
+    },
+    {
+        "input": "In einem Vertrag wird zunächst ein vorläufiger Preis vereinbart, der als Grundlage für die Eröffnung des Akkreditivs und die erste Zahlung dient. Nach der endgültigen Preisfestlegung durch beide Parteien erfolgt eine abschließende finanzielle Abrechnung – mit Nachzahlung oder Rückerstattung. Dieser Preis wird bezeichnet als:\nA. Fester Preis\nB. Konkreter Preis unter Vorbehalt\nC. Provisorischer Preis \nD. Teilweise fester Preis",
+        "target_scores": {
+            "A. Fester Preis": 0,
+            "B. Konkreter Preis unter Vorbehalt": 0,
+            "C. Provisorischer Preis ": 1,
+            "D. Teilweise fester Preis": 0
+        }
+    },
+    {
+        "input": "Wenn der Exporteur nach der Verschiffung ein Konnossement erhält, das einen negativen Vermerk über den äußeren Zustand der Ware enthält, dann handelt es sich um ein:\nA. abgelaufenes Konnossement\nB. reines Konnossement\nC. unreines Konnossement\nD. Übernahmekonossement",
+        "target_scores": {
+            "A. abgelaufenes Konnossement": 0,
+            "B. reines Konnossement": 0,
+            "C. unreines Konnossement": 1,
+            "D. Übernahmekonossement": 0
+        }
+    },
+    {
+        "input": "Ein Exporteur A aus Stuttgart schließt mit einem Importeur B aus den USA einen Vertrag im Wert von 1,7 Millionen US-Dollar ab. Drei Monate später bei Zahlung stellt A fest, dass der Euro aufgewertet wurde. Wie wirkt sich das auf die Einnahmen von A im Vergleich zum Zeitpunkt des Vertragsabschlusses aus?\nA. bleiben unverändert\nB. nicht bestimmbar\nC. steigen\nD. verringern sich",
+        "target_scores": {
+            "A. bleiben unverändert": 0,
+            "B. nicht bestimmbar": 0,
+            "C. steigen": 0,
+            "D. verringern sich": 1
+        }
+    },
+    {
+        "input": "Die China National Cereals, Oils and Foodstuffs Import and Export Corporation schloss mit einem Unternehmen in Pennsylvania, USA, einen Vertrag über den Import von amerikanischem Weizen ab, Menge: 1 Million Tonnen. Vor der Weizenernte wurde der Bundesstaat von verheerenden Regenfällen heimgesucht. Als im Oktober der Verkäufer liefern sollte, waren die Weizenpreise gestiegen, und die amerikanische Seite lieferte nicht. Der Vertrag enthielt eine Höhere-Gewalt-Klausel, und Naturkatastrophen fielen in den Anwendungsbereich dieser Klausel. Die amerikanische Seite berief sich darauf und forderte Haftungsbefreiung. In dieser Situation sollte das chinesische Unternehmen folgende Antwort auswählen: ( ).\nA. Alle oben genannten Antworten sind falsch\nB. Dies als höhere Gewalt betrachten, Haftungsbefreiung gewähren und den Vertrag auflösen\nC. Dies als höhere Gewalt betrachten, aber weder Schadensersatz fordern noch den Vertrag auflösen, sondern eine Verschiebung der Lieferung auf das nächste Jahr verlangen\nD. Dies nicht als höhere Gewalt betrachten und darauf bestehen, dass die amerikanische Seite vertragsgemäß liefern soll",
+        "target_scores": {
+            "A. Alle oben genannten Antworten sind falsch": 0,
+            "B. Dies als höhere Gewalt betrachten, Haftungsbefreiung gewähren und den Vertrag auflösen": 0,
+            "C. Dies als höhere Gewalt betrachten, aber weder Schadensersatz fordern noch den Vertrag auflösen, sondern eine Verschiebung der Lieferung auf das nächste Jahr verlangen": 0,
+            "D. Dies nicht als höhere Gewalt betrachten und darauf bestehen, dass die amerikanische Seite vertragsgemäß liefern soll": 1
+        }
+    },
+    {
+        "input": "Die USA erheben auf Mentholimporte einen allgemeinen Steuersatz von 50 Cent pro Pfund und einen Meistbegünstigungssteuersatz von 17 Cent pro Pfund. Diese Art von Zoll ist ( ).\nA. Mengenzoll\nB. Mischzoll\nC. Wahlzoll \nD. Wertzoll",
+        "target_scores": {
+            "A. Mengenzoll": 1,
+            "B. Mischzoll": 0,
+            "C. Wahlzoll ": 0,
+            "D. Wertzoll": 0
+        }
+    },
+    {
+        "input": "Der operative Hebelkoeffizient des Unternehmens beträgt 1,8 und der finanzielle Hebelkoeffizient 1,5. Wenn der Umsatz dieses Unternehmens um das 1-fache steigt, führt dies zu einer Steigerung des Gewinns je Aktie um ( ).\nA. 0,3-fach\nB. 1,2-fach\nC. 1,5-fach\nD. 2,7-fach",
+        "target_scores": {
+            "A. 0,3-fach": 0,
+            "B. 1,2-fach": 0,
+            "C. 1,5-fach": 0,
+            "D. 2,7-fach": 1
+        }
+    },
+    {
+        "input": "Ein Unternehmen hat einen Jahresumsatzerlös von 5 Millionen Euro, eine variable Kostenquote von 40%, einen operativen Hebelkoeffizient von 1,5 und einen Finanzhebelkoeffizient von 2. Falls die Fixkosten um 500.000 Euro steigen, beträgt der Gesamthebelkoeffizient dann ( ).\nA. 2,4\nB. 3\nC. 6\nD. 8",
+        "target_scores": {
+            "A. 2,4": 0,
+            "B. 3": 0,
+            "C. 6": 1,
+            "D. 8": 0
+        }
+    },
+    {
+        "input": "Gemäß dem Prinzip der Risikoadäquanz von Renditen: Wie ist die Kapitalkostenreihenfolge der Finanzierungsarten von niedrig bis hoch typischerweise?\nA. Bankkredite, Unternehmensanleihen, Stammaktien\nB. Stammaktien, Bankkredite, Unternehmensanleihen\nC. Stammaktien, Unternehmensanleihen, Bankkredite\nD. Unternehmensanleihen, Bankkredite, Stammaktien",
+        "target_scores": {
+            "A. Bankkredite, Unternehmensanleihen, Stammaktien": 1,
+            "B. Stammaktien, Bankkredite, Unternehmensanleihen": 0,
+            "C. Stammaktien, Unternehmensanleihen, Bankkredite": 0,
+            "D. Unternehmensanleihen, Bankkredite, Stammaktien": 0
+        }
+    },
+    {
+        "input": "Die Gesellschaft A verwendet Renminbi als Buchungswährung und rechnet die Fremdwährungsgeschäfte des laufenden Monats mit dem Marktkurs vom Monatsanfang als Näherungskurs für den Kassakurs ab und berechnet monatlich die Wechselkursgewinne und -verluste. Der Marktkurs am 1. September eines bestimmten Jahres betrug 1 US-Dollar = 6,2 Yuan Renminbi (angenommen, dass dieser dem Marktkurs zum Monatsende des Vormonats entspricht). Die Anfangssalden der verschiedenen Fremdwährungskonten am 1. September betrugen jeweils: Bankguthaben 100.000 US-Dollar, Forderungen 10.000 US-Dollar, Verbindlichkeiten 10.000 US-Dollar, kurzfristige Kredite 15.000 US-Dollar. Die Fremdwährungsein- und -ausgänge der Gesellschaft im September des betreffenden Jahres waren wie folgt: am 5. wurden Forderungen in Höhe von 8.000 US-Dollar eingezogen; am 8. wurden Verbindlichkeiten in Höhe von 5.000 US-Dollar beglichen; am 20. wurden kurzfristige Kredite in Höhe von 10.000 US-Dollar zurückgezahlt; am 23. wurde eine Warenpartie im Wert von 25.000 US-Dollar verkauft, die Ware wurde versandt, der Betrag ist noch nicht eingegangen. Unter der Annahme, dass entsprechende Steuern und Gebühren nicht berücksichtigt werden, betrug der Marktkurs am 30. September des betreffenden Jahres 1 US-Dollar = 6,15 Yuan Renminbi. In der buchhalterischen Behandlung der Anpassung der verschiedenen Fremdwährungskonten zum Monatsende September ist die richtige Option ( )\nA. Soll Bankguthaben (USD-Konto) 4650 CNY\nB. Soll Forderungen aus Lieferungen und Leistungen (USD-Konto) 1350 CNY\nC. Soll Verbindlichkeiten aus Lieferungen und Leistungen (USD-Konto) 250 CNY\nD. Soll kurzfristige Darlehen (USD-Konto) 350 CNY",
+        "target_scores": {
+            "A. Soll Bankguthaben (USD-Konto) 4650 CNY": 0,
+            "B. Soll Forderungen aus Lieferungen und Leistungen (USD-Konto) 1350 CNY": 0,
+            "C. Soll Verbindlichkeiten aus Lieferungen und Leistungen (USD-Konto) 250 CNY": 1,
+            "D. Soll kurzfristige Darlehen (USD-Konto) 350 CNY": 0
+        }
+    },
+    {
+        "input": "Der risikofreie Zinssatz beträgt 6 %, die durchschnittliche Marktrendite liegt bei 10 %. Eine bestimmte Aktie hat einen Beta-Faktor von 1,5. Wie hoch ist die Rendite dieser Aktie?\nA. 12%\nB. 14%\nC. 16%\nD. 7,5%",
+        "target_scores": {
+            "A. 12%": 1,
+            "B. 14%": 0,
+            "C. 16%": 0,
+            "D. 7,5%": 0
+        }
+    },
+    {
+        "input": "Es ist bekannt, dass der Anteil langfristiger Schulden an der Zielkapitalstruktur eines Unternehmens 40 % beträgt. Der Anstieg der Schuldenmittel liegt im Bereich von 0 bis 20000 Euro, und der Zinssatz bleibt bei 10 % pro Jahr konstant. Der Grenzwert des gesamten Finanzierungsbedarfs dieses Unternehmens in Bezug darauf beträgt ( ) Euro.\nA. 10000\nB. 200000\nC. 50000\nD. 8000",
+        "target_scores": {
+            "A. 10000": 0,
+            "B. 200000": 0,
+            "C. 50000": 1,
+            "D. 8000": 0
+        }
+    },
+    {
+        "input": "Ein Unternehmen emittiert eine Anleihe zum Nennwert, deren Kuponzinssatz 12 % beträgt, mit einer Emissionsgebühr von 2 % und einer Körperschaftsteuer von 25 %. Der Kostenaufwand dieser Anleihe beträgt ( ).\nA. 10%\nB. 12%\nC. 9%\nD. 9,18 %",
+        "target_scores": {
+            "A. 10%": 0,
+            "B. 12%": 0,
+            "C. 9%": 0,
+            "D. 9,18 %": 1
+        }
+    },
+    {
+        "input": "Ein Unternehmen weist in der aktuellen Periode ein EBIT von 60 Millionen Euro und Zinsaufwendungen von 10 Millionen Euro aus. Wie hoch ist der Finanzhebel des Unternehmens?\nA. 0,83\nB. 1,2\nC. 2\nD. 6",
+        "target_scores": {
+            "A. 0,83": 0,
+            "B. 1,2": 1,
+            "C. 2": 0,
+            "D. 6": 0
+        }
+    },
+    {
+        "input": "Die Vereinigten Staaten erheben Einfuhrzölle auf Waren aus Federn. Der allgemeine Zollsatz beträgt 60 %, der Meistbegünstigtentarif 4,7 %. Diese Art von Zoll ist ( ).\nA. Mengenzoll\nB. Mischzoll\nC. Wahlzoll \nD. Wertzoll",
+        "target_scores": {
+            "A. Mengenzoll": 0,
+            "B. Mischzoll": 0,
+            "C. Wahlzoll ": 0,
+            "D. Wertzoll": 1
+        }
+    },
+    {
+        "input": "Frankreich erhob früher eine Kraftfahrzeugsteuer von 12,15 USD für Autos mit 5 PS und eine Steuer von 30 USD für Fahrzeuge mit 16 PS. Dabei lag die höchste Motorleistung inländischer französischer Fahrzeuge damals bei nur 12 PS. Wie nennt man diese Maßnahme?\nA. Diskriminierende Inlandsbesteuerung\nB. Diskriminierende öffentliche Auftragsvergabe\nC. Mindestpreisregelung\nD. Willkürliche Zollbewertung",
+        "target_scores": {
+            "A. Diskriminierende Inlandsbesteuerung": 1,
+            "B. Diskriminierende öffentliche Auftragsvergabe": 0,
+            "C. Mindestpreisregelung": 0,
+            "D. Willkürliche Zollbewertung": 0
+        }
+    },
+    {
+        "input": "Ein Unternehmen machte am 5. Mai ein Angebot per Telegramm an einen französischen Händler, gültig bis zum 8. Mai (Eingang beim Anbieter). Der französische Geschäftspartner sendete am 7. Mai eine Annahmeerklärung per Telegramm, die jedoch aufgrund einer Verzögerung bei der Telekommunikation erst am 9. Mai beim Anbieter eintraf. Das Unternehmen äußerte sich daraufhin nicht. Was gilt gemäß dem UN-Kaufrecht (CISG)?\nA. Da das Unternehmen nicht rechtzeitig widersprochen hat, gilt die Annahme als wirksam und der Vertrag ist zustande gekommen.\nB. Die Annahme ist nur wirksam, wenn das Unternehmen sie unverzüglich bestätigt, sonst kein Vertrag.\nC. Die Annahme ist nur wirksam, wenn der Annehmende sie erneut übermittelt, sonst kein Vertrag.\n\nD. Die verspätete Annahme ist unwirksam, es kommt kein Vertrag zustande.",
+        "target_scores": {
+            "A. Da das Unternehmen nicht rechtzeitig widersprochen hat, gilt die Annahme als wirksam und der Vertrag ist zustande gekommen.": 1,
+            "B. Die Annahme ist nur wirksam, wenn das Unternehmen sie unverzüglich bestätigt, sonst kein Vertrag.": 0,
+            "C. Die Annahme ist nur wirksam, wenn der Annehmende sie erneut übermittelt, sonst kein Vertrag.\n": 0,
+            "D. Die verspätete Annahme ist unwirksam, es kommt kein Vertrag zustande.": 0
+        }
+    },
+    {
+        "input": "Ein US-amerikanischer Händler kauft Obst in Spanien, lässt es per Landweg nach Italien transportieren und von dort per Luftfracht über die USA nach Kanada liefern. Welches Land gilt als Endbestimmungsland?\nA. Italien\nB. Kanada\nC. Spanien\nD. USA",
+        "target_scores": {
+            "A. Italien": 0,
+            "B. Kanada": 1,
+            "C. Spanien": 0,
+            "D. USA": 0
+        }
+    },
+    {
+        "input": "Bei der Ausfuhr chinesischer Waren wird einer der folgenden Incoterms nicht korrekt verwendet. Welcher ist falsch?\nA. CFR BUSAN\nB. CIF TOKYO\nC. FCA SHANGHAI\nD. FOB LONDON",
+        "target_scores": {
+            "A. CFR BUSAN": 0,
+            "B. CIF TOKYO": 0,
+            "C. FCA SHANGHAI": 0,
+            "D. FOB LONDON": 1
+        }
+    },
+    {
+        "input": "Angenommen, das Netto-Handelsverhältnis (Terms of Trade) eines Landes beträgt im Basisjahr 1990 100. Im Jahr 2000 beträgt der Exportpreisindex infolge eines Rückgangs von 10 % 90, und der Importpreisindex steigt um 20 % auf 120. Die Arbeitsproduktivität der Exportgüter erhöht sich von 100 (im Jahr 1990) auf 150 (im Jahr 2000), während die Arbeitsproduktivität der Importgüter von 100 auf 110 steigt. Wie hoch sind im Jahr 2000 die doppelte Faktorenaustauschverhältnisse des Landes?\nA. 102,27\nB. 107,14\nC. 108,57\nD. 112,50",
+        "target_scores": {
+            "A. 102,27": 1,
+            "B. 107,14": 0,
+            "C. 108,57": 0,
+            "D. 112,50": 0
+        }
+    },
+    {
+        "input": "Im Nachrichtenformat MT 701 Issue of a Documentary Credit bezeichnet der Code 40E welches der folgenden Elemente?\nA. Additional Conditions\nB. Applicable Rules\nC. Date of Amendment\nD. Description of Goods and/or Services",
+        "target_scores": {
+            "A. Additional Conditions": 0,
+            "B. Applicable Rules": 1,
+            "C. Date of Amendment": 0,
+            "D. Description of Goods and/or Services": 0
+        }
+    },
+    {
+        "input": "Im Außenhandelsgeschäft werden für die Abwicklung der Zahlungen häufig drei Zahlungsformen verwendet: L/C (Akkreditiv), D/P (Dokumente gegen Zahlung) und D/A (Dokumente gegen Akzept). Wie lautet die richtige Reihenfolge dieser Zahlungsformen in Bezug auf das Zahlungsrisiko für den Exporteur, vom geringsten bis zum höchsten Risiko?\nA. D/A, D/P, L/C\nB. D/P, D/A, L/C\nC. L/C, D/A, D/P\nD. L/C, D/P, D/A",
+        "target_scores": {
+            "A. D/A, D/P, L/C": 0,
+            "B. D/P, D/A, L/C": 0,
+            "C. L/C, D/A, D/P": 0,
+            "D. L/C, D/P, D/A": 1
+        }
+    },
+    {
+        "input": "Bezogen auf die vom Verkäufer zu tragenden Kosten, wie lautet die richtige Reihenfolge der folgenden Incoterms von den höchsten zu den niedrigsten Kosten?\nA. CIF, CFR, FOB\nB. CIF, FOB, CFR\nC. FOB, CFR, CIF\nD. FOB, CIF, CFR",
+        "target_scores": {
+            "A. CIF, CFR, FOB": 1,
+            "B. CIF, FOB, CFR": 0,
+            "C. FOB, CFR, CIF": 0,
+            "D. FOB, CIF, CFR": 0
+        }
+    },
+    {
+        "input": "Unsere Firma machte am Montag ein Angebot mit der Gültigkeit „Antwort bis Freitag“.Der Kunde antwortete am Dienstag mit einem Gegenangebot des Kunden und bat um eine Rückmeldung.Inzwischen stieg der internationale Marktpreis, woraufhin wir nicht reagierten.Am Mittwoch meldete sich der Kunde erneut und erklärte, dass er unser ursprüngliches Angebot vom Montag annehme. Wie ist diese Annahmeerklärung rechtlich zu beurteilen?\nA.  Wenn wir keinen Widerspruch äußern, gilt der Vertrag als abgeschlossen.\nB. Die Annahme ist unwirksam.\nC. Die Annahme ist wirksam.\nD. Es handelt sich um eine Annahme unter Vorbehalt.",
+        "target_scores": {
+            "A.  Wenn wir keinen Widerspruch äußern, gilt der Vertrag als abgeschlossen.": 0,
+            "B. Die Annahme ist unwirksam.": 1,
+            "C. Die Annahme ist wirksam.": 0,
+            "D. Es handelt sich um eine Annahme unter Vorbehalt.": 0
+        }
+    },
+    {
+        "input": "Unsere Firma exportierte eine Lieferung von 1.000 Kisten unter CIF-Bedingungen, wobei eine Toleranz von ±5 % Über- oder Unterlieferung erlaubt ist. Tatsächlich wurden 1.000 Kisten verladen, und dies wurde auch im Konnossement bestätigt. Beim Eintreffen der Ware im Bestimmungshafen meldete der Käufer, er habe nur 948 Kisten erhalten und verfügt über eine entsprechende Shortage-Bescheinigung der Reederei. Daraufhin verlangt der Käufer Schadenersatz von uns. Was ist die richtige Antwort unseres Unternehmens?\nA. Bitte kontaktieren Sie die Reederei oder die Versicherungsgesellschaft\nB. Zustimmung zur Nachlieferung von 2 Kisten\nC. Zustimmung zur Nachlieferung von 52 Kisten\nD. Zustimmung zur Rückerstattung des Warenwerts von 52 Kisten",
+        "target_scores": {
+            "A. Bitte kontaktieren Sie die Reederei oder die Versicherungsgesellschaft": 1,
+            "B. Zustimmung zur Nachlieferung von 2 Kisten": 0,
+            "C. Zustimmung zur Nachlieferung von 52 Kisten": 0,
+            "D. Zustimmung zur Rückerstattung des Warenwerts von 52 Kisten": 0
+        }
+    },
+    {
+        "input": "Die Ware wurde durch den Carrier COSCO befördert, der Kapitän des Schiffes heißt Alex.Das Konnossement wurde von der Agentur ABC SHIPPING CO. unterzeichnet,\nder Unterzeichner ist Thomas. Die Identität des Carriers (COSCO) ist im Konnossement bereits klar angegeben. Wie sollte die korrekte Unterzeichnung im Konnossement lauten?\nA. ABC SHIPPING CO．Alex AS AGENT FOR THE CARRIER NAMED ABOVE\nB. ABC SHIPPING CO．Thomas AS AGENT FOR THE CARRIER NAMED ABOVE\nC. ABC SHIPPING CO．Thomas AS CARRIER\nD. COSCO Alex AS CARRIER",
+        "target_scores": {
+            "A. ABC SHIPPING CO．Alex AS AGENT FOR THE CARRIER NAMED ABOVE": 0,
+            "B. ABC SHIPPING CO．Thomas AS AGENT FOR THE CARRIER NAMED ABOVE": 1,
+            "C. ABC SHIPPING CO．Thomas AS CARRIER": 0,
+            "D. COSCO Alex AS CARRIER": 0
+        }
+    },
+    {
+        "input": "Ein britischer Käufer richtete ein Telegramm an unser Außenhandelsunternehmen für Konsumgüter mit folgendem Inhalt: „Wir beabsichtigen, 10.000 Kinderrucksäcke zu kaufen. Bitte teilen Sie uns Ihren niedrigsten Preis sowie den frühestmöglichen Liefertermin per Telegramm mit.“ Diese Mitteilung ist Teil welcher Phase der Handelsverhandlung?\nA. Anfrage\nB. Angebot\nC. Annahme\nD. Gegenangebot",
+        "target_scores": {
+            "A. Anfrage": 1,
+            "B. Angebot": 0,
+            "C. Annahme": 0,
+            "D. Gegenangebot": 0
+        }
+    },
+    {
+        "input": "Wenn die langfristigen Durchschnittskosten einer vollkommen wettbewerbsfähigen Branche steigen, wie sieht dann die Angebotskurve für diese Branche aus?\nA. horizontal\nB. nach links oben geneigt\nC. nach rechts oben geneigt\nD. senkrecht",
+        "target_scores": {
+            "A. horizontal": 0,
+            "B. nach links oben geneigt": 0,
+            "C. nach rechts oben geneigt": 1,
+            "D. senkrecht": 0
+        }
+    },
+    {
+        "input": "Was ist mittelfristig zu erwarten, wenn die Regierung ihre Beschaffungsausgaben erhöht, während die nominale Währungsmenge sinkt?\nA. Der Zinssatz wird steigen und die Gesamtnachfrage und die Preise können steigen, fallen oder gleich bleiben\nB. Die AD-Kurve wird sich nach rechts verschieben und die AS-Kurve wird sich nach oben verschieben\nC. Die Gesamtnachfrage und der Zinssatz werden sinken und die Preise werden steigen\nD. Die Gesamtnachfrage und die Preise werden sinken und der Zinssatz wird steigen",
+        "target_scores": {
+            "A. Der Zinssatz wird steigen und die Gesamtnachfrage und die Preise können steigen, fallen oder gleich bleiben": 1,
+            "B. Die AD-Kurve wird sich nach rechts verschieben und die AS-Kurve wird sich nach oben verschieben": 0,
+            "C. Die Gesamtnachfrage und der Zinssatz werden sinken und die Preise werden steigen": 0,
+            "D. Die Gesamtnachfrage und die Preise werden sinken und der Zinssatz wird steigen": 0
+        }
+    },
+    {
+        "input": "Was passiert mit dem Gewinn, wenn das Unternehmen bei vollkommenem Wettbewerb die Produktion auf das Niveau anpasst, das dem niedrigsten Punkt der Durchschnittskostenkurve entspricht?\nA. Es maximiert nicht den Gewinn\nB. Es wird definitiv einen Verlust machen\nC. Es wird den Gewinn maximieren\nD. Ob es den Gewinn maximiert oder nicht, kann nicht festgestellt werden",
+        "target_scores": {
+            "A. Es maximiert nicht den Gewinn": 0,
+            "B. Es wird definitiv einen Verlust machen": 0,
+            "C. Es wird den Gewinn maximieren": 0,
+            "D. Ob es den Gewinn maximiert oder nicht, kann nicht festgestellt werden": 1
+        }
+    },
+    {
+        "input": "Betrachten Sie das Problem, vor dem ein Hersteller steht, wenn er einen Preisanstieg für das von ihm hergestellte Produkt feststellt und plant, seinen Produktionsplan auf der Grundlage einer der folgenden Erwartungen neu zu gestalten. In welchem der folgenden Fälle nimmt der Hersteller eine geringe oder gar keine Anpassung der Angebotsmenge vor?\nA. Die von ihm gezahlten Löhne und die Preise der Vorleistungen werden voraussichtlich bald in gleichem Maße steigen wie der Preis des Produkts.\nB. Die von ihm gezahlten Löhne und die Preise der Vorleistungen werden voraussichtlich weiter steigen, aber es gibt kein Muster für den Anstieg.\nC. Es wird erwartet, dass die von ihm gezahlten Löhne und die Preise der Vorleistungen in gleichem Maße steigen wie der Preis des Produkts, aber das wird mehrere Jahre dauern.\nD. Es wird erwartet, dass die von ihm gezahlten Löhne und die Preise der Vorleistungen nicht mehr steigen werden.",
+        "target_scores": {
+            "A. Die von ihm gezahlten Löhne und die Preise der Vorleistungen werden voraussichtlich bald in gleichem Maße steigen wie der Preis des Produkts.": 1,
+            "B. Die von ihm gezahlten Löhne und die Preise der Vorleistungen werden voraussichtlich weiter steigen, aber es gibt kein Muster für den Anstieg.": 0,
+            "C. Es wird erwartet, dass die von ihm gezahlten Löhne und die Preise der Vorleistungen in gleichem Maße steigen wie der Preis des Produkts, aber das wird mehrere Jahre dauern.": 0,
+            "D. Es wird erwartet, dass die von ihm gezahlten Löhne und die Preise der Vorleistungen nicht mehr steigen werden.": 0
+        }
+    },
+    {
+        "input": "Nehmen wir folgendes Szenario an: In der Wirtschaft herrscht Vollbeschäftigung, und die Steigung der Gesamtangebotskurve ist positiv. Welche der folgenden Auswirkungen würde eintreten, wenn die Regierung die Steuersätze erhöht?\nA. Rückgang der Nominal- und Reallöhne\nB. Rückgang der realen Produktion ohne Auswirkungen auf das Preisniveau\nC. Rückgang sowohl des Preisniveaus als auch der realen Produktion\nD. Senkung des Preisniveaus ohne Auswirkungen auf die reale Produktion",
+        "target_scores": {
+            "A. Rückgang der Nominal- und Reallöhne": 0,
+            "B. Rückgang der realen Produktion ohne Auswirkungen auf das Preisniveau": 0,
+            "C. Rückgang sowohl des Preisniveaus als auch der realen Produktion": 1,
+            "D. Senkung des Preisniveaus ohne Auswirkungen auf die reale Produktion": 0
+        }
+    },
+    {
+        "input": "Sie sind Wirtschaftsexperte in Land A. Die Wirtschaft befindet sich bekanntermaßen im langfristigen Gleichgewicht. In einem relativ kurzen Zeitraum sind jedoch eine Reihe von Veränderungen eingetreten, wie z. B. ein Börsencrash, ein Rückgang der Steuereinnahmen, ein Anstieg der Geldmenge und eine Abwertung der Landeswährung. Bitte beurteilen Sie, welche Erwartung richtig ist?\nA. All dies ist möglich\nB. Sowohl das Preisniveau als auch das reale BIP werden gleich bleiben\nC. Sowohl das Preisniveau als auch das reale BIP werden sinken\nD. Sowohl das Preisniveau als auch das reale BIP werden steigen",
+        "target_scores": {
+            "A. All dies ist möglich": 1,
+            "B. Sowohl das Preisniveau als auch das reale BIP werden gleich bleiben": 0,
+            "C. Sowohl das Preisniveau als auch das reale BIP werden sinken": 0,
+            "D. Sowohl das Preisniveau als auch das reale BIP werden steigen": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Erhöhungen wird gleichzeitig die nominale Währungsnachfrage erhöhen, ohne andere Faktoren zu berücksichtigen?\nA. Effizienz der Zahlungsmittel\nB. Nominale Zinssätze für Währungen\nC. Realzinsen\nD. Risiko in Geldvermögen",
+        "target_scores": {
+            "A. Effizienz der Zahlungsmittel": 0,
+            "B. Nominale Zinssätze für Währungen": 1,
+            "C. Realzinsen": 0,
+            "D. Risiko in Geldvermögen": 0
+        }
+    },
+    {
+        "input": "Ein Hersteller ist ein Monopolist und hat eine lineare Nachfragefunktion, was passiert dann mit dem Grenzerlös, wenn der Gesamtertrag steigt?\nA. Der Grenzerlös ist gleich Null\nB. Der Grenzerlös ist negativ\nC. Der Grenzerlös ist positiv und abnehmend\nD. Der Grenzerlös ist positiv und steigend",
+        "target_scores": {
+            "A. Der Grenzerlös ist gleich Null": 0,
+            "B. Der Grenzerlös ist negativ": 0,
+            "C. Der Grenzerlös ist positiv und abnehmend": 1,
+            "D. Der Grenzerlös ist positiv und steigend": 0
+        }
+    },
+    {
+        "input": "Was sind die Ergebnisse des technologischen Fortschritts bei SAS- und LAS-Kurven?\nA. Die LAS-Kurve verschiebt sich nach rechts, aber die SAS-Kurve bleibt unverändert\nB. Die SAS-Kurve verschiebt sich nach rechts, aber die LAS-Kurve bleibt unverändert\nC. Sowohl die SAS- als auch die LAS-Kurve verschieben sich nach links\nD. Sowohl die SAS- als auch die LAS-Kurve verschieben sich nach rechts",
+        "target_scores": {
+            "A. Die LAS-Kurve verschiebt sich nach rechts, aber die SAS-Kurve bleibt unverändert": 0,
+            "B. Die SAS-Kurve verschiebt sich nach rechts, aber die LAS-Kurve bleibt unverändert": 0,
+            "C. Sowohl die SAS- als auch die LAS-Kurve verschieben sich nach links": 0,
+            "D. Sowohl die SAS- als auch die LAS-Kurve verschieben sich nach rechts": 1
+        }
+    },
+    {
+        "input": "Kann ein vollkommenes Monopolunternehmen auf zwei segmentierten Märkten unterschiedliche Preise durchsetzen, wenn es die gleiche Nachfragekurve hat?\nA. Keine der oben genannten Schlussfolgerungen ist richtig\nB. Preisdifferenzierung ist möglich\nC. Preisdifferenzierung ist sowohl möglich als auch unmöglich\nD. Preisdifferenzierung ist unmöglich",
+        "target_scores": {
+            "A. Keine der oben genannten Schlussfolgerungen ist richtig": 0,
+            "B. Preisdifferenzierung ist möglich": 0,
+            "C. Preisdifferenzierung ist sowohl möglich als auch unmöglich": 0,
+            "D. Preisdifferenzierung ist unmöglich": 1
+        }
+    },
+    {
+        "input": "Wählen Sie eines der folgenden vier Szenarien, in denen die Produktion, die Preise und die Beschäftigung steigen, wenn Sie wissen, dass die Gesamtangebotskurve nicht senkrecht verläuft.\nA. Ein neuer Steuersenkungsplan hat die Verbraucher veranlasst, ihre Ersparnisse zu erhöhen\nB. Eine bestimmte Einfuhrsteuer veranlasst die Menschen, einheimische Autos anstelle von importierten zu kaufen\nC. Um den Haushalt auszugleichen, erhöht die Regierung die Steuersätze\nD. Um den Haushalt auszugleichen, kürzt die Regierung die Ausgaben",
+        "target_scores": {
+            "A. Ein neuer Steuersenkungsplan hat die Verbraucher veranlasst, ihre Ersparnisse zu erhöhen": 0,
+            "B. Eine bestimmte Einfuhrsteuer veranlasst die Menschen, einheimische Autos anstelle von importierten zu kaufen": 1,
+            "C. Um den Haushalt auszugleichen, erhöht die Regierung die Steuersätze": 0,
+            "D. Um den Haushalt auszugleichen, kürzt die Regierung die Ausgaben": 0
+        }
+    },
+    {
+        "input": "Unter der Annahme, dass der Marktpreis dauerhaft niedriger ist als die langfristigen Durchschnittskosten des Monopolisten, welche der folgenden Beschreibungen würde auf das Unternehmen zutreffen?\nA. Das Unternehmen bleibt auf diesem Geschäftsniveau, auch wenn die Fixkosten nicht gedeckt werden\nB. Das Unternehmen bleibt auf diesem Geschäftsniveau, weil es dem Kapital eine normale Rendite ermöglicht\nC. Das Unternehmen schließt und liquidiert die Vermögenswerte\nD. Das Unternehmen stellt den Betrieb vorübergehend ein",
+        "target_scores": {
+            "A. Das Unternehmen bleibt auf diesem Geschäftsniveau, auch wenn die Fixkosten nicht gedeckt werden": 0,
+            "B. Das Unternehmen bleibt auf diesem Geschäftsniveau, weil es dem Kapital eine normale Rendite ermöglicht": 0,
+            "C. Das Unternehmen schließt und liquidiert die Vermögenswerte": 1,
+            "D. Das Unternehmen stellt den Betrieb vorübergehend ein": 0
+        }
+    },
+    {
+        "input": "Wählen Sie aus, zu welchem Wirtschaftstheorem die folgende Behauptung gehört: „Das allgemeine Gleichgewicht eines Marktes mit vollkommenem Wettbewerb ist Pareto-optimal.“\nA. Das dritte Theorem der Wohlfahrtsökonomie\nB. Das erste Theorem der Wohlfahrtsökonomie\nC. Das vierte Theorem der Wohlfahrtsökonomie\nD. Das zweite Theorem der Wohlfahrtsökonomie",
+        "target_scores": {
+            "A. Das dritte Theorem der Wohlfahrtsökonomie": 0,
+            "B. Das erste Theorem der Wohlfahrtsökonomie": 1,
+            "C. Das vierte Theorem der Wohlfahrtsökonomie": 0,
+            "D. Das zweite Theorem der Wohlfahrtsökonomie": 0
+        }
+    },
+    {
+        "input": "Welcher der folgenden Faktoren kann dazu führen, dass die gesamtwirtschaftliche Angebotskurve eine positive Steigung hat?\nA. Ausbau der Infrastruktur durch die Regierung\nB. Lohnstarrheit\nC. Staatliche Politik der Investitionsförderung\nD. Zum Zeitpunkt der Preiserhöhung für alle Produkte stellten die Hersteller fest, dass sich die relativen Preise der von ihnen hergestellten Produkte nicht verändert hatten",
+        "target_scores": {
+            "A. Ausbau der Infrastruktur durch die Regierung": 0,
+            "B. Lohnstarrheit": 1,
+            "C. Staatliche Politik der Investitionsförderung": 0,
+            "D. Zum Zeitpunkt der Preiserhöhung für alle Produkte stellten die Hersteller fest, dass sich die relativen Preise der von ihnen hergestellten Produkte nicht verändert hatten": 0
+        }
+    },
+    {
+        "input": "Wie wirkt sich ein Preisanstieg auf dem Gebrauchtwagenmarkt auf die durchschnittliche Qualität der zum Verkauf stehenden Fahrzeuge aus?\nA. sinkend\nB. steigend\nC. unbestimmt\nD. unverändert",
+        "target_scores": {
+            "A. sinkend": 0,
+            "B. steigend": 1,
+            "C. unbestimmt": 0,
+            "D. unverändert": 0
+        }
+    },
+    {
+        "input": "Damit die Preisdifferenzierung wirksam ist, müssen alle bis auf welche der folgenden Bedingungen erfüllt sein?\nA. Beibehaltung der Marktsegmentierung, um zu verhindern, dass Waren von Kunden aus dem Teilmarkt mit elastischerer Nachfrage weiterverkauft werden\nB. Eine große unelastische Gesamtnachfrage\nC. Fähigkeit zur Segmentierung des Marktes\nD. Unterschiedliche Preiselastizitäten der Nachfrage in jedem Teilmarkt",
+        "target_scores": {
+            "A. Beibehaltung der Marktsegmentierung, um zu verhindern, dass Waren von Kunden aus dem Teilmarkt mit elastischerer Nachfrage weiterverkauft werden": 0,
+            "B. Eine große unelastische Gesamtnachfrage": 1,
+            "C. Fähigkeit zur Segmentierung des Marktes": 0,
+            "D. Unterschiedliche Preiselastizitäten der Nachfrage in jedem Teilmarkt": 0
+        }
+    },
+    {
+        "input": "Wenn es unter der Voraussetzung, dass es sich um einen vollkommenen Monopolmarkt handelt, einen Markt gibt, auf dem der Preis in Markt A niedriger ist als der Preis in Markt B, ist dann die folgende Aussage richtig?\nA. Alle oben genannten Aussagen sind richtig\nB. Die Elastizität der Nachfrage auf Markt B ist geringer als die Elastizität der Nachfrage auf Markt A\nC. Die Elastizität der Nachfrage auf Markt B ist größer als die Elastizität der Nachfrage auf Markt A\nD. Die Elastizität der Nachfrage ist auf beiden Märkten gleich",
+        "target_scores": {
+            "A. Alle oben genannten Aussagen sind richtig": 0,
+            "B. Die Elastizität der Nachfrage auf Markt B ist geringer als die Elastizität der Nachfrage auf Markt A": 1,
+            "C. Die Elastizität der Nachfrage auf Markt B ist größer als die Elastizität der Nachfrage auf Markt A": 0,
+            "D. Die Elastizität der Nachfrage ist auf beiden Märkten gleich": 0
+        }
+    },
+    {
+        "input": "Unter der Annahme einer Wirtschaft mit einer Phillipskurve von $\\pi=\\pi_{-1}-0{,}5\\quad\\mathrm{(u-0{,}08)}$, wie hoch ist die natürliche Arbeitslosenquote un?\nA. 0,06\nB. 0,08\nC. 0,1\nD. 0,12",
+        "target_scores": {
+            "A. 0,06": 0,
+            "B. 0,08": 1,
+            "C. 0,1": 0,
+            "D. 0,12": 0
+        }
+    },
+    {
+        "input": "Die individuelle Nachfragekurve für eine Ware wurde abgeleitet. Welcher der folgenden Faktoren führt nicht zu einer Verschiebung der individuellen Nachfragekurve?\nA. Preis der betreffenden Ware\nB. Preise der übrigen Waren\nC. persönliche Vorliebe\nD. persönliches Einkommen",
+        "target_scores": {
+            "A. Preis der betreffenden Ware": 1,
+            "B. Preise der übrigen Waren": 0,
+            "C. persönliche Vorliebe": 0,
+            "D. persönliches Einkommen": 0
+        }
+    },
+    {
+        "input": "Welche Beziehung besteht zwischen der Nachfrageänderung und dem Substitutionseffekt bei einer Preiserhöhung eines Gutes?\nA. Die Nachfrageänderung ist genauso groß wie der Substitutionseffekt\nB. Die Nachfrageänderung ist größer als der Substitutionseffekt\nC. Die Nachfrageänderung ist kleiner als der Substitutionseffekt\nD. Die Nachfrageänderung kann größer oder kleiner sein als der Substitutionseffekt",
+        "target_scores": {
+            "A. Die Nachfrageänderung ist genauso groß wie der Substitutionseffekt": 0,
+            "B. Die Nachfrageänderung ist größer als der Substitutionseffekt": 0,
+            "C. Die Nachfrageänderung ist kleiner als der Substitutionseffekt": 0,
+            "D. Die Nachfrageänderung kann größer oder kleiner sein als der Substitutionseffekt": 1
+        }
+    },
+    {
+        "input": "Sie sind Wirtschaftsexperte und die Regierung möchte die Einnahmen erhöhen und beabsichtigt, die Verkäufer auf der Grundlage des Umsatzvolumens zu besteuern. Welche Bedingungen sollten erfüllt sein, um das Ziel zu erreichen, dass die Steuerlast vollständig von den Käufern getragen wird, mit möglichst geringen Auswirkungen auf das Transaktionsvolumen?\nA. Die Preiselastizität der Nachfrage ist gleich Null und die Preiselastizität des Angebots ist positiv und endlich\nB. Die Preiselastizität der Nachfrage ist positiv und endlich und die Preiselastizität des Angebots ist gleich Null\nC. Die Preiselastizität der Nachfrage und des Angebots sind beide Einheitselastizitäten\nD. Die Preiselastizität von Angebot und Nachfrage ist positiv und endlich",
+        "target_scores": {
+            "A. Die Preiselastizität der Nachfrage ist gleich Null und die Preiselastizität des Angebots ist positiv und endlich": 1,
+            "B. Die Preiselastizität der Nachfrage ist positiv und endlich und die Preiselastizität des Angebots ist gleich Null": 0,
+            "C. Die Preiselastizität der Nachfrage und des Angebots sind beide Einheitselastizitäten": 0,
+            "D. Die Preiselastizität von Angebot und Nachfrage ist positiv und endlich": 0
+        }
+    },
+    {
+        "input": "Der einfache Multiplikator neigt dazu, Ergebnisse auszudrücken, die größer sind als die tatsächlichen Auswirkungen der Finanzpolitik. Was ist der Hauptgrund hierfür?\nA. Nichtberücksichtigung der Auswirkungen der internationalen Marktfaktoren auf den heimischen Markt\nB. Nichtberücksichtigung der Rolle der Geldpolitik\nC. Nichtberücksichtigung des Zeitfaktors\nD. Nichtberücksichtigung von monetären und Preisfaktoren",
+        "target_scores": {
+            "A. Nichtberücksichtigung der Auswirkungen der internationalen Marktfaktoren auf den heimischen Markt": 0,
+            "B. Nichtberücksichtigung der Rolle der Geldpolitik": 0,
+            "C. Nichtberücksichtigung des Zeitfaktors": 0,
+            "D. Nichtberücksichtigung von monetären und Preisfaktoren": 1
+        }
+    },
+    {
+        "input": "Unter welcher der folgenden Bedingungen ist die Preiskonsumkurve für zwei Güter nach rechts oben geneigt?\nA. Komplementärgüter\nB. Substitutionsgüter\nC. minderwertige Güter\nD. normale Güter",
+        "target_scores": {
+            "A. Komplementärgüter": 1,
+            "B. Substitutionsgüter": 0,
+            "C. minderwertige Güter": 0,
+            "D. normale Güter": 0
+        }
+    },
+    {
+        "input": "Bei welcher der folgenden Bedingungen für die Preiselastizität des Angebots ist die Angebotskurve eine Gerade durch den Ursprung?\nA. entspricht dem Steigungswert\nB. konstant gleich 1\nC. unbestimmt\nD. variiert mit dem Preis",
+        "target_scores": {
+            "A. entspricht dem Steigungswert": 0,
+            "B. konstant gleich 1": 1,
+            "C. unbestimmt": 0,
+            "D. variiert mit dem Preis": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Aussagen zu den notwendigen Bedingungen für die Wirkung von Multiplikatoren ist falsch?\nA. Der Multiplikator ist weniger wirksam, wenn der Einkommenszuwachs in hohem Maße zum Kauf importierter Waren und Dienstleistungen verwendet wird.\nB. Der Multiplikator ist weniger wirksam, wenn die Geldmenge nicht mit dem Anstieg der Ausgaben Schritt halten kann.\nC. Wenn die Gesellschaft mehr Überkapazitäten und mehr ungenutzte Ressourcen hat, ist der Multiplikator weniger wirksam.\nD. Wenn ein Anstieg der Investitionsnachfrage einen starken Anstieg der Zinssätze verursacht, ist der Multiplikator weniger wirksam.",
+        "target_scores": {
+            "A. Der Multiplikator ist weniger wirksam, wenn der Einkommenszuwachs in hohem Maße zum Kauf importierter Waren und Dienstleistungen verwendet wird.": 0,
+            "B. Der Multiplikator ist weniger wirksam, wenn die Geldmenge nicht mit dem Anstieg der Ausgaben Schritt halten kann.": 0,
+            "C. Wenn die Gesellschaft mehr Überkapazitäten und mehr ungenutzte Ressourcen hat, ist der Multiplikator weniger wirksam.": 1,
+            "D. Wenn ein Anstieg der Investitionsnachfrage einen starken Anstieg der Zinssätze verursacht, ist der Multiplikator weniger wirksam.": 0
+        }
+    },
+    {
+        "input": "Auf einer schmalen Brücke fahren zwei Radfahrer in entgegengesetzter Richtung aufeinander zu. Jeder von ihnen hat zwei Strategien, d.h. sie können entweder „durchfahren\" oder „ausweichen\" wählen. Wenn einer von ihnen „ausweichen\" wählt, ist sein Gewinn gleich Null, unabhängig von der Strategie des anderen. Wenn einer der Radfahrer die Strategie „durchfahren\" wählt, beträgt seine Auszahlung 9, wenn der andere Radfahrer die Strategie „ausweichen\" wählt, und -36, wenn der andere Radfahrer nicht ausweicht. Dieses Spiel hat zwei Nash-Gleichgewichte in reinen Strategien und welche der folgenden Situationen trifft ebenfalls zu?\nA. Ein Nash-Gleichgewicht mit gemischten Strategien, bei dem sich beide Spieler mit einer Wahrscheinlichkeit von 40 % für „ausweichen\" und mit einer Wahrscheinlichkeit von 60 % für „durchfahren\" entscheiden.\nB. Ein Nash-Gleichgewicht mit gemischten Strategien, bei dem sich beide Spieler mit einer Wahrscheinlichkeit von 80 % für „ausweichen\" und mit einer Wahrscheinlichkeit von 20 % für „weiterfahren\" entscheiden.\nC. Ein Nash-Gleichgewicht mit gemischten Strategien, bei dem sich eine Person mit einer Wahrscheinlichkeit von 80 % für „ausweichen\" und die andere Person mit einer Wahrscheinlichkeit von 20 % für „durchfahren\" entscheiden.\nD. zwei Nash-Gleichgewichte in gemischten Strategien, bei denen jeder Radfahrer abwechselnd ausweicht oder durchfährt",
+        "target_scores": {
+            "A. Ein Nash-Gleichgewicht mit gemischten Strategien, bei dem sich beide Spieler mit einer Wahrscheinlichkeit von 40 % für „ausweichen\" und mit einer Wahrscheinlichkeit von 60 % für „durchfahren\" entscheiden.": 0,
+            "B. Ein Nash-Gleichgewicht mit gemischten Strategien, bei dem sich beide Spieler mit einer Wahrscheinlichkeit von 80 % für „ausweichen\" und mit einer Wahrscheinlichkeit von 20 % für „weiterfahren\" entscheiden.": 1,
+            "C. Ein Nash-Gleichgewicht mit gemischten Strategien, bei dem sich eine Person mit einer Wahrscheinlichkeit von 80 % für „ausweichen\" und die andere Person mit einer Wahrscheinlichkeit von 20 % für „durchfahren\" entscheiden.": 0,
+            "D. zwei Nash-Gleichgewichte in gemischten Strategien, bei denen jeder Radfahrer abwechselnd ausweicht oder durchfährt": 0
+        }
+    },
+    {
+        "input": "Was ist die richtige Beschreibung dessen, was die Punkte auf einer Isoquante darstellen?\nA. Alle Kombinationen von Inputfaktoren ergeben den gleichen Output\nB. Der Output ist immer ungleich, unabhängig von der Menge der verschiedenen Inputfaktoren\nC. Die Preise der Inputfaktoren sind konstant, um die gleiche Menge an Output zu produzieren.\nD. Die Proportionen der verschiedenen Kombinationen von Inputfaktoren zur Erzeugung desselben Outputs können nicht variiert werden.",
+        "target_scores": {
+            "A. Alle Kombinationen von Inputfaktoren ergeben den gleichen Output": 1,
+            "B. Der Output ist immer ungleich, unabhängig von der Menge der verschiedenen Inputfaktoren": 0,
+            "C. Die Preise der Inputfaktoren sind konstant, um die gleiche Menge an Output zu produzieren.": 0,
+            "D. Die Proportionen der verschiedenen Kombinationen von Inputfaktoren zur Erzeugung desselben Outputs können nicht variiert werden.": 0
+        }
+    },
+    {
+        "input": "Nehmen wir folgendes Szenario an: Auf einem Markt ist Unternehmen A ein Monopolist mit einem Gewinn von 1.000.000 Euro. Unternehmen B möchte ebenfalls in diesen Markt eintreten, und wenn Unternehmen B eintritt, kann Unternehmen A wählen, den Markteintritt zu akzeptieren oder zu verhindern; wenn es ihn akzeptiert, können sowohl Unternehmen A als auch Unternehmen B einen Gewinn von 500.000 Euro erzielen, und wenn es ihn verhindert, verlieren beide Unternehmen 500.000 Euro. Wenn Unternehmen B nicht eintritt, erzielt Unternehmen B keinen Gewinn. Wie lautet die Gleichgewichtslösung für dieses Spiel?\nA. Unternehmen B tritt ein, Unternehmen A akzeptiert\nB. Unternehmen B tritt ein, Unternehmen A verhindert\nC. Unternehmen B tritt nicht ein, Unternehmen A akzeptiert\nD. Unternehmen B tritt nicht ein, Unternehmen A verhindert",
+        "target_scores": {
+            "A. Unternehmen B tritt ein, Unternehmen A akzeptiert": 1,
+            "B. Unternehmen B tritt ein, Unternehmen A verhindert": 0,
+            "C. Unternehmen B tritt nicht ein, Unternehmen A akzeptiert": 0,
+            "D. Unternehmen B tritt nicht ein, Unternehmen A verhindert": 0
+        }
+    },
+    {
+        "input": "Wenn sich die LM-Kurve durch eine Erhöhung der Geldmenge nach rechts verschiebt, welches der folgenden Szenarien muss erfüllt sein, damit die Veränderung des Gleichgewichtseinkommens annähernd dem Ausmaß der Verschiebung dieser LM-Kurve entspricht?\nA. Flache LM-Kurve, flache IS-Kurve\nB. Flache LM-Kurve, steile IS-Kurve\nC. Steile LM-Kurve, flache IS-Kurve\nD. Steile LM-Kurve, steile IS-Kurve",
+        "target_scores": {
+            "A. Flache LM-Kurve, flache IS-Kurve": 0,
+            "B. Flache LM-Kurve, steile IS-Kurve": 0,
+            "C. Steile LM-Kurve, flache IS-Kurve": 1,
+            "D. Steile LM-Kurve, steile IS-Kurve": 0
+        }
+    },
+    {
+        "input": "Bitte wählen Sie aus den folgenden vier Aussagen die richtige aus\nA. Abschreibungskosten zum Ausgleich des immateriellen Werteverzehrs von Anlagevermögen sind Fixkosten\nB. Ausgaben für Kreditzinsen sind variable Kosten\nC. Die Gesamtkosten können über einen langen Zeitraum in fixe und variable Kosten aufgeteilt werden\nD. Zinsen für Investitionen in Produktionsanlagen und Ausrüstungen sind variable Kosten",
+        "target_scores": {
+            "A. Abschreibungskosten zum Ausgleich des immateriellen Werteverzehrs von Anlagevermögen sind Fixkosten": 1,
+            "B. Ausgaben für Kreditzinsen sind variable Kosten": 0,
+            "C. Die Gesamtkosten können über einen langen Zeitraum in fixe und variable Kosten aufgeteilt werden": 0,
+            "D. Zinsen für Investitionen in Produktionsanlagen und Ausrüstungen sind variable Kosten": 0
+        }
+    },
+    {
+        "input": "In welchem der folgenden Fälle ist die Konsumentenrente gleich Null?\nA. Die Preiselastizität der Nachfrage ist größer als 1\nB. Die Preiselastizität der Nachfrage ist kleiner als 1\nC. Die erste gekaufte Wareneinheit\nD. Die letzte gekaufte Wareneinheit",
+        "target_scores": {
+            "A. Die Preiselastizität der Nachfrage ist größer als 1": 0,
+            "B. Die Preiselastizität der Nachfrage ist kleiner als 1": 0,
+            "C. Die erste gekaufte Wareneinheit": 0,
+            "D. Die letzte gekaufte Wareneinheit": 1
+        }
+    },
+    {
+        "input": "Es ist bekannt, dass es ein Unternehmen A gibt, das eine langfristige Technologie mit konstanten Skalenerträgen hat. Welche der folgenden Optionen ist nicht korrekt?\nA. Die Kostenfunktion ist linear\nB. Die Produktionsfunktion ist linear\nC. Die langfristige Angebotskurve eines vollkommen wettbewerbsfähigen Unternehmens ist die langfristige Grenzkostenkurve oberhalb der langfristigen Durchschnittskostenkurve\nD. Die langfristige Angebotskurve eines vollkommen wettbewerbsfähigen Unternehmens ist eine horizontale Linie",
+        "target_scores": {
+            "A. Die Kostenfunktion ist linear": 0,
+            "B. Die Produktionsfunktion ist linear": 0,
+            "C. Die langfristige Angebotskurve eines vollkommen wettbewerbsfähigen Unternehmens ist die langfristige Grenzkostenkurve oberhalb der langfristigen Durchschnittskostenkurve": 1,
+            "D. Die langfristige Angebotskurve eines vollkommen wettbewerbsfähigen Unternehmens ist eine horizontale Linie": 0
+        }
+    },
+    {
+        "input": "Betrachten wir einen Produzenten in der kurzen Frist. Er hat ein Produktionsniveau gefunden, bei dem seine Durchschnittskosten minimal sind. Welche der folgenden Beschreibungen ist für diese Situation zutreffend?\nA. Das Unternehmen hat einen maximalen Gewinn erzielt\nB. Das Unternehmen hat einen minimalen Gewinn erzielt\nC. Der wirtschaftliche Gewinn des Unternehmens ist gleich Null\nD. Die Grenzkosten entsprechen den Durchschnittskosten",
+        "target_scores": {
+            "A. Das Unternehmen hat einen maximalen Gewinn erzielt": 0,
+            "B. Das Unternehmen hat einen minimalen Gewinn erzielt": 0,
+            "C. Der wirtschaftliche Gewinn des Unternehmens ist gleich Null": 0,
+            "D. Die Grenzkosten entsprechen den Durchschnittskosten": 1
+        }
+    },
+    {
+        "input": "Wo schneiden sich die Kurve der durchschnittlichen variablen Kosten und die Grenzkostenkurve?\nA. Der Gewinnschwellenpunkt\nB. Der Gleichgewichtspunkt des Unternehmens\nC. Der Punkt der Betriebseinstellung\nD. Der Punkt der minimalen Durchschnittskosten",
+        "target_scores": {
+            "A. Der Gewinnschwellenpunkt": 0,
+            "B. Der Gleichgewichtspunkt des Unternehmens": 0,
+            "C. Der Punkt der Betriebseinstellung": 1,
+            "D. Der Punkt der minimalen Durchschnittskosten": 0
+        }
+    },
+    {
+        "input": "Es gibt eine Gesamtkostenkurve (TC). Ein vom Ursprung ausgehender Strahl tangiert diese Gesamtkostenkurve. Welche Aussage über die Produktionsmenge im Tangentialpunkt ist falsch?\nA. $\\text{AC=MC}$\nB. AC erreicht einen Mindestwert\nC. MC erreicht einen Mindestwert\nD. MC-Kurve befindet sich in einer Aufwärtsphase",
+        "target_scores": {
+            "A. $\\text{AC=MC}$": 0,
+            "B. AC erreicht einen Mindestwert": 0,
+            "C. MC erreicht einen Mindestwert": 1,
+            "D. MC-Kurve befindet sich in einer Aufwärtsphase": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Aussagen über das vollkommene Wettbewerbsgleichgewicht und das Cournot-Gleichgewicht ist richtig?\nA. Im Cournot-Gleichgewicht sind die Gewinne höher, die Produktion niedriger\nB. Im Cournot-Gleichgewicht sind die Produktion und die Gewinne höher\nC. Im vollkommenen Wettbewerbsgleichgewicht sind die Gewinne höher, die Produktion ist niedriger\nD. Im vollkommenen Wettbewerbsgleichgewicht sind sowohl die Produktion als auch die Gewinne höher",
+        "target_scores": {
+            "A. Im Cournot-Gleichgewicht sind die Gewinne höher, die Produktion niedriger": 1,
+            "B. Im Cournot-Gleichgewicht sind die Produktion und die Gewinne höher": 0,
+            "C. Im vollkommenen Wettbewerbsgleichgewicht sind die Gewinne höher, die Produktion ist niedriger": 0,
+            "D. Im vollkommenen Wettbewerbsgleichgewicht sind sowohl die Produktion als auch die Gewinne höher": 0
+        }
+    },
+    {
+        "input": "Bei der Analyse der Wirtschaft eines Landes zeigt sich, dass die Produktionsmöglichkeitenkurve nach außen gewölbt ist. Warum ist das so?\nA. Bestimmte Ressourcen sind besser für die Produktion eines dieser Güter geeignet.\nB. Die Ressourcen werden gleichmäßig auf die Produktion aller Güter verteilt.\nC. Märkte für unterschiedliche Waren erfordern unterschiedliche Kombinationen von Arbeit und Kapital\nD. Ressourcen sind knapp, aber einige sind knapper als andere",
+        "target_scores": {
+            "A. Bestimmte Ressourcen sind besser für die Produktion eines dieser Güter geeignet.": 1,
+            "B. Die Ressourcen werden gleichmäßig auf die Produktion aller Güter verteilt.": 0,
+            "C. Märkte für unterschiedliche Waren erfordern unterschiedliche Kombinationen von Arbeit und Kapital": 0,
+            "D. Ressourcen sind knapp, aber einige sind knapper als andere": 0
+        }
+    },
+    {
+        "input": "Es ist bekannt, dass sich ein Unternehmen A in einem Markt mit vollkommenem Wettbewerb befindet. Zu diesem Zeitpunkt möchte das Unternehmen einige Anpassungen vornehmen. Welche der folgenden Variablen kann das Unternehmen in seiner kurzfristigen Entscheidung anpassen?\nA. Anfänglicher Kapitalstock\nB. Grenzproduktivität der Arbeit\nC. Nominallohn\nD. Realer Lohn",
+        "target_scores": {
+            "A. Anfänglicher Kapitalstock": 0,
+            "B. Grenzproduktivität der Arbeit": 1,
+            "C. Nominallohn": 0,
+            "D. Realer Lohn": 0
+        }
+    },
+    {
+        "input": "Sie untersuchen die Verteilung von Löhnen und Einkommen und stellen fest, dass die Verteilung der Löhne zwar glockenförmig und gleichmäßig ist, die Verteilung der Einkommen aber schief ist. Wählen Sie den richtigen Grund dafür\nA. Besserverdienende stellen tendenziell mehr Arbeit zur Verfügung\nB. Geringverdiener stellen tendenziell weniger Arbeit zur Verfügung\nC. Talente sind gleichmäßig verteilt\nD. Talente sind ungleichmäßig verteilt",
+        "target_scores": {
+            "A. Besserverdienende stellen tendenziell mehr Arbeit zur Verfügung": 1,
+            "B. Geringverdiener stellen tendenziell weniger Arbeit zur Verfügung": 0,
+            "C. Talente sind gleichmäßig verteilt": 0,
+            "D. Talente sind ungleichmäßig verteilt": 0
+        }
+    },
+    {
+        "input": "Für ein Unternehmen bei vollkommenem Wettbewerb ist die Nachfragekurve gleichzeitig auch?\nA. Durchschnittserlöskurve\nB. Durchschnittserlöskurve und Grenzerlöskurve\nC. Gesamterlöskurve\nD. Grenzerlöskurve",
+        "target_scores": {
+            "A. Durchschnittserlöskurve": 0,
+            "B. Durchschnittserlöskurve und Grenzerlöskurve": 1,
+            "C. Gesamterlöskurve": 0,
+            "D. Grenzerlöskurve": 0
+        }
+    },
+    {
+        "input": "Bei Anbieter A, einem Unternehmen in vollkommener Konkurrenz, tritt kurzfristig der Shutdown-Punkt ein. Unter welcher der folgenden Bedingungen ist dies der Fall?\nA. Durchschnittliche variable Kosten entsprechen den durchschnittlichen Fixkosten\nB. Durchschnittskosten entsprechen den durchschnittlichen variablen Kosten\nC. Grenzkosten entsprechen den Durchschnittskosten\nD. Grenzkosten entsprechen den durchschnittlichen variablen Kosten",
+        "target_scores": {
+            "A. Durchschnittliche variable Kosten entsprechen den durchschnittlichen Fixkosten": 0,
+            "B. Durchschnittskosten entsprechen den durchschnittlichen variablen Kosten": 0,
+            "C. Grenzkosten entsprechen den Durchschnittskosten": 0,
+            "D. Grenzkosten entsprechen den durchschnittlichen variablen Kosten": 1
+        }
+    },
+    {
+        "input": "Welches Verhältnis besteht zwischen den Produkten A und B, wenn ihre Kreuzpreiselastizität der Nachfrage -1,3 beträgt?\nA. A und B sind Substitute\nB. A und B sind komplementäre Güter\nC. A und B sind minderwertige Güter\nD. A und B sind normale Waren",
+        "target_scores": {
+            "A. A und B sind Substitute": 0,
+            "B. A und B sind komplementäre Güter": 1,
+            "C. A und B sind minderwertige Güter": 0,
+            "D. A und B sind normale Waren": 0
+        }
+    },
+    {
+        "input": "Wie definiert die Hicks-Zerlegung die Invarianz des Realeinkommens?\nA. Das zum neuen Preisniveau erwerbbare Güterbündel bleibt unverändert\nB. Keine Veränderung der Geldausgaben\nC. Keine Änderung des ursprünglichen Nutzniveaus\nD. Unveränderte Kaufkraft auf dem neuen Preisniveau",
+        "target_scores": {
+            "A. Das zum neuen Preisniveau erwerbbare Güterbündel bleibt unverändert": 0,
+            "B. Keine Veränderung der Geldausgaben": 0,
+            "C. Keine Änderung des ursprünglichen Nutzniveaus": 1,
+            "D. Unveränderte Kaufkraft auf dem neuen Preisniveau": 0
+        }
+    },
+    {
+        "input": "Angenommen, die Nachfragekurve hat eine nach oben geneigte Form. Welche der folgenden Analysen ist richtig?\nA. Das Gut ist definitiv ein inferiores Gut, und der Einkommenseffekt ist definitiv größer als der Substitutionseffekt\nB. Das Gut kann sowohl ein inferiores Gut als auch ein normales Gut sein\nC. Der Einkommenseffekt ist definitiv größer als der Substitutionseffekt, und das Gut ist definitiv ein normales Gut\nD. Keine der obigen Aussagen ist richtig",
+        "target_scores": {
+            "A. Das Gut ist definitiv ein inferiores Gut, und der Einkommenseffekt ist definitiv größer als der Substitutionseffekt": 1,
+            "B. Das Gut kann sowohl ein inferiores Gut als auch ein normales Gut sein": 0,
+            "C. Der Einkommenseffekt ist definitiv größer als der Substitutionseffekt, und das Gut ist definitiv ein normales Gut": 0,
+            "D. Keine der obigen Aussagen ist richtig": 0
+        }
+    },
+    {
+        "input": "Wenn ein Moderator 100.000 Euro im Jahr verdient und er höchstens 30.000 Euro verdienen könnte, wenn er eine andere Tätigkeit ausüben würde, wie hoch ist dann die wirtschaftliche Rente, die der Moderator erhält?\nA. 100.000 Euro\nB. 30.000 Euro\nC. 70.000 Euro\nD. unbestimmt",
+        "target_scores": {
+            "A. 100.000 Euro": 0,
+            "B. 30.000 Euro": 0,
+            "C. 70.000 Euro": 1,
+            "D. unbestimmt": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Beschreibungen der Nachfragekurve eines vollkommenen Monopolunternehmens ist korrekt?\nA. Sie ist die Branchen-Nachfragekurve\nB. Sie ist einheitselastisch\nC. Sie ist unendlich elastisch\nD. Sie ist völlig unelastisch",
+        "target_scores": {
+            "A. Sie ist die Branchen-Nachfragekurve": 1,
+            "B. Sie ist einheitselastisch": 0,
+            "C. Sie ist unendlich elastisch": 0,
+            "D. Sie ist völlig unelastisch": 0
+        }
+    },
+    {
+        "input": "Wenn das Wechselkurssystem eines Landes ein festes Wechselkurssystem in einer offenen Wirtschaft ist, was ist das Ergebnis, wenn die Zentralbank dieses Landes die Geldmenge erhöht?\nA. Alle oben genannten Aussagen sind richtig\nB. Der anfängliche Zuwachs der Geldmenge wird wieder aufgehoben\nC. LM-Kurve zurück in ihre ursprüngliche Position\nD. Nationaleinkommen unberührt",
+        "target_scores": {
+            "A. Alle oben genannten Aussagen sind richtig": 1,
+            "B. Der anfängliche Zuwachs der Geldmenge wird wieder aufgehoben": 0,
+            "C. LM-Kurve zurück in ihre ursprüngliche Position": 0,
+            "D. Nationaleinkommen unberührt": 0
+        }
+    },
+    {
+        "input": "Eine Isoquante stellt die Kombination aller Möglichkeiten von zwei Produktionsfaktoren dar, die bei konstantem Technologieniveau den gleichen Output erzeugen. Wie verändert sich die marginale technologische Substitutionsrate, wenn die von den beiden Produktionsfaktoren gebildete Isoquante konvex zum Ursprung ist?\nA. Abnehmend\nB. Unverändert\nC. Variabel\nD. Zunehmend",
+        "target_scores": {
+            "A. Abnehmend": 1,
+            "B. Unverändert": 0,
+            "C. Variabel": 0,
+            "D. Zunehmend": 0
+        }
+    },
+    {
+        "input": "Wenn ein monopolistisch konkurrierender Hersteller ein kurzfristiges Gleichgewicht erreicht, welche Analyse bezüglich des Gewinns des Herstellers ist korrekt?\nA. Es ist möglich, Überschussgewinne, Verluste oder normale Gewinne zu erzielen\nB. Hersteller erhalten nur normale Gewinne\nC. Hersteller erzielen bestimmt Überschussgewinne\nD. Hersteller erzielen nicht unbedingt Überschussgewinne",
+        "target_scores": {
+            "A. Es ist möglich, Überschussgewinne, Verluste oder normale Gewinne zu erzielen": 1,
+            "B. Hersteller erhalten nur normale Gewinne": 0,
+            "C. Hersteller erzielen bestimmt Überschussgewinne": 0,
+            "D. Hersteller erzielen nicht unbedingt Überschussgewinne": 0
+        }
+    },
+    {
+        "input": "Sie analysieren die Branche A und stellen fest, dass es sich um einen Wirtschaftszweig mit steigenden Kosten handelt. Welche der folgenden Aussagen ist richtig?\nA. Die Kurve der kurzfristigen Durchschnittskosten ist nicht U-förmig\nB. Die langfristige Angebotskurve der Branche hat eine negative Steigung\nC. Die langfristige Angebotskurve der Branche hat eine positive Steigung\nD. Keine der oben genannten Aussagen ist richtig",
+        "target_scores": {
+            "A. Die Kurve der kurzfristigen Durchschnittskosten ist nicht U-förmig": 0,
+            "B. Die langfristige Angebotskurve der Branche hat eine negative Steigung": 0,
+            "C. Die langfristige Angebotskurve der Branche hat eine positive Steigung": 1,
+            "D. Keine der oben genannten Aussagen ist richtig": 0
+        }
+    },
+    {
+        "input": "Bestimmen Sie auf der Grundlage des Cournot-Modells, welche der folgenden Aussagen falsch ist:\nA. Das Cournot-Gleichgewicht ist ein Nash-Gleichgewicht\nB. Die Duopolisten treffen gleichzeitige Entscheidungen über die Produktion\nC. Jeder Duopolist geht davon aus, dass der Preis des anderen konstant bleibt.\nD. Jeder Duopolist geht davon aus, dass der andere die Produktion konstant hält",
+        "target_scores": {
+            "A. Das Cournot-Gleichgewicht ist ein Nash-Gleichgewicht": 0,
+            "B. Die Duopolisten treffen gleichzeitige Entscheidungen über die Produktion": 0,
+            "C. Jeder Duopolist geht davon aus, dass der Preis des anderen konstant bleibt.": 1,
+            "D. Jeder Duopolist geht davon aus, dass der andere die Produktion konstant hält": 0
+        }
+    },
+    {
+        "input": "Geht man davon aus, dass ein Arbeitnehmer bei einem Stundenlohn von 20 Euro 800 Euro und bei einem Stundenlohn von 30 Euro 1.050 Euro verdient, so lässt sich daraus schließen, dass ( )\nA. Einkommenseffekte eine große Rolle spielen\nB. Keine der oben genannten Aussagen ist richtig\nC. Substitutionseffekte eine große Rolle spielen\nD. Weder der Einkommenseffekt noch der Substitutionseffekt wirken",
+        "target_scores": {
+            "A. Einkommenseffekte eine große Rolle spielen": 1,
+            "B. Keine der oben genannten Aussagen ist richtig": 0,
+            "C. Substitutionseffekte eine große Rolle spielen": 0,
+            "D. Weder der Einkommenseffekt noch der Substitutionseffekt wirken": 0
+        }
+    },
+    {
+        "input": "Sie sind Wirtschaftsexperte eines Landes und müssen entscheiden, in welchem der folgenden Szenarien Sie Steuern erheben sollten, um die Steuereinnahmen möglichst effizient zu erhöhen?\nA. Inputs mit völlig unelastischem Angebot\nB. Jede der oben genannten Situationen\nC. Produkte mit unelastischem Angebot\nD. Produkte mit unelastischer Nachfrage, ähnlich wie Grundbedarfsgüter",
+        "target_scores": {
+            "A. Inputs mit völlig unelastischem Angebot": 0,
+            "B. Jede der oben genannten Situationen": 0,
+            "C. Produkte mit unelastischem Angebot": 0,
+            "D. Produkte mit unelastischer Nachfrage, ähnlich wie Grundbedarfsgüter": 1
+        }
+    },
+    {
+        "input": "Unter der Annahme, dass es auf einem Produktmarkt positive externe Effekte gibt, ist die folgende Aussage richtig?\nA. Der soziale Grenzerlös übersteigt den privaten Grenzerlös\nB. Die privaten Grenzkosten übersteigen die sozialen Grenzkosten\nC. Die sozialen Grenzkosten übersteigen die privaten Grenzkosten\nD. Privater Grenzerlös übersteigt sozialen Grenzerlös",
+        "target_scores": {
+            "A. Der soziale Grenzerlös übersteigt den privaten Grenzerlös": 1,
+            "B. Die privaten Grenzkosten übersteigen die sozialen Grenzkosten": 0,
+            "C. Die sozialen Grenzkosten übersteigen die privaten Grenzkosten": 0,
+            "D. Privater Grenzerlös übersteigt sozialen Grenzerlös": 0
+        }
+    },
+    {
+        "input": "Sie sind ein analytischer Experte, der von Hersteller A beauftragt wurde. Sie stellen fest, dass der Hersteller bei einem bestimmten Produktionsniveau kurzfristig das Minimum seiner Durchschnittskosten erreicht, und auf dieser Grundlage geben Sie ein Urteil ab?\nA. Der Hersteller hat minimale Gewinne erzielt\nB. Der Hersteller hat seine Gewinne maximiert\nC. Der wirtschaftliche Gewinn des Herstellers ist gleich Null\nD. Grenzkosten entsprechen den Durchschnittskosten",
+        "target_scores": {
+            "A. Der Hersteller hat minimale Gewinne erzielt": 0,
+            "B. Der Hersteller hat seine Gewinne maximiert": 0,
+            "C. Der wirtschaftliche Gewinn des Herstellers ist gleich Null": 0,
+            "D. Grenzkosten entsprechen den Durchschnittskosten": 1
+        }
+    },
+    {
+        "input": "Nehmen wir an, dass Kapital ein perfektes Substitut für Arbeit ist und der Kapitalpreis fällt. Welche der folgenden Schlussfolgerungen kann gezogen werden?\nA. Der Substitutionseffekt verringert die Nachfrage nach Arbeitskräften\nB. Die Nachfrage nach Arbeitskräften wird zwangsläufig geringer sein\nC. Die Nachfrage nach Arbeitskräften wird zwangsläufig steigen\nD. Die Nachfrage nach Kapital wird geringer",
+        "target_scores": {
+            "A. Der Substitutionseffekt verringert die Nachfrage nach Arbeitskräften": 1,
+            "B. Die Nachfrage nach Arbeitskräften wird zwangsläufig geringer sein": 0,
+            "C. Die Nachfrage nach Arbeitskräften wird zwangsläufig steigen": 0,
+            "D. Die Nachfrage nach Kapital wird geringer": 0
+        }
+    },
+    {
+        "input": "Es ist bekannt, dass der Meeresfrüchte-Markt eines Landes aus inländischen und importierten Meeresfrüchten besteht. In letzter Zeit sind Meldungen über übermäßige Schwermetalle und Karzinogene bei inländischen Meeresfrüchten aufgekommen. Wie würde sich unter sonst gleichen Bedingungen die Nachfragekurve der inländischen Verbraucher für importierte Meeresfrüchte verändern?\nA. Nach links verschieben\nB. Nach rechts verschieben\nC. Nicht zu beurteilen\nD. Unverändert bleiben",
+        "target_scores": {
+            "A. Nach links verschieben": 0,
+            "B. Nach rechts verschieben": 1,
+            "C. Nicht zu beurteilen": 0,
+            "D. Unverändert bleiben": 0
+        }
+    },
+    {
+        "input": "Angenommen, Einkommen und Preise ändern sich im gleichen Verhältnis, was passiert dann mit der Budgetgeraden in diesem Szenario?\nA. Parallelverschiebung nach links\nB. Parallelverschiebung nach rechts\nC. Vertikaler Achsenabschnitt, horizontaler Achsenabschnitt und Steigung bleiben konstant\nD. Vertikaler und horizontaler Achsenabschnitt ändern sich, aber die Steigung bleibt gleich",
+        "target_scores": {
+            "A. Parallelverschiebung nach links": 0,
+            "B. Parallelverschiebung nach rechts": 0,
+            "C. Vertikaler Achsenabschnitt, horizontaler Achsenabschnitt und Steigung bleiben konstant": 1,
+            "D. Vertikaler und horizontaler Achsenabschnitt ändern sich, aber die Steigung bleibt gleich": 0
+        }
+    },
+    {
+        "input": "Bei der Analyse von Märkten sind die Wirtschaftswissenschaftler zu dem Schluss gekommen, dass monopolistisch konkurrierende Unternehmen ein langfristiges Gleichgewicht erreichen. Ausgehend von dieser Schlussfolgerung ist die folgende Aussage falsch?\nA. Das Equilibrium ist Pareto-effizient\nB. Der Gewinn des Herstellers ist gleich Null\nC. Der Grenzerlös ist gleich den Grenzkosten\nD. Die Nachfragekurve verläuft tangential zur Durchschnittskostenkurve",
+        "target_scores": {
+            "A. Das Equilibrium ist Pareto-effizient": 1,
+            "B. Der Gewinn des Herstellers ist gleich Null": 0,
+            "C. Der Grenzerlös ist gleich den Grenzkosten": 0,
+            "D. Die Nachfragekurve verläuft tangential zur Durchschnittskostenkurve": 0
+        }
+    },
+    {
+        "input": "Sie sind Wirtschaftsexperte in einem Land, in dem derzeit eine Inflation herrscht. Um die Inflationsrate zu senken, werden Sie eine Entscheidung auf der Grundlage der Phillips-Kurve treffen, d. h. Sie wählen folgende Methode?\nA. Anstieg der Arbeitslosenquote\nB. Erhöhung des Haushaltsdefizits\nC. Senkung der Arbeitslosigkeit\nD. Verringerung der Geldmenge",
+        "target_scores": {
+            "A. Anstieg der Arbeitslosenquote": 1,
+            "B. Erhöhung des Haushaltsdefizits": 0,
+            "C. Senkung der Arbeitslosigkeit": 0,
+            "D. Verringerung der Geldmenge": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Situationen ist ein Beispiel für sekundäre Preisdiskriminierung?\nA. Der Wasserversorgungssektor legt je nach verbrauchter Wassermenge unterschiedliche Preise fest\nB. Die Fluggesellschaften legen je nach Art des Reisenden unterschiedliche Preise fest\nC. Die Unternehmen setzen unterschiedliche Preise fest, je nachdem, wie hoch die Zahlungsbereitschaft der Verbraucher ist.\nD. Keine der Angaben",
+        "target_scores": {
+            "A. Der Wasserversorgungssektor legt je nach verbrauchter Wassermenge unterschiedliche Preise fest": 1,
+            "B. Die Fluggesellschaften legen je nach Art des Reisenden unterschiedliche Preise fest": 0,
+            "C. Die Unternehmen setzen unterschiedliche Preise fest, je nachdem, wie hoch die Zahlungsbereitschaft der Verbraucher ist.": 0,
+            "D. Keine der Angaben": 0
+        }
+    },
+    {
+        "input": "Als Leo sich mit Wirtschaftstheorie beschäftigte, stieß er auf einen Begriff namens Nominallohnstarrheit. Er wollte mehr darüber erfahren, wie dieser Begriff zu erklären ist, also welche der folgenden Theorien sollte er untersuchen?\nA. Effizienzlohntheorie\nB. Insider-Outsider-Theorie\nC. Theorie der impliziten Verträge\nD. Theorie langfristiger Lohnverträge",
+        "target_scores": {
+            "A. Effizienzlohntheorie": 0,
+            "B. Insider-Outsider-Theorie": 0,
+            "C. Theorie der impliziten Verträge": 0,
+            "D. Theorie langfristiger Lohnverträge": 1
+        }
+    },
+    {
+        "input": "Es ist bekannt, dass Ware A eine normale Ware ist. Wenn der Preis von Ware A steigt, welche der folgenden Aussagen ist richtig?\nA. Negativer Substitutionseffekt, negativer Einkommenseffekt\nB. Negativer Substitutionseffekt, positiver Einkommenseffekt\nC. Positiver Substitutionseffekt, negativer Einkommenseffekt\nD. Positiver Substitutionseffekt, positiver Einkommenseffekt",
+        "target_scores": {
+            "A. Negativer Substitutionseffekt, negativer Einkommenseffekt": 1,
+            "B. Negativer Substitutionseffekt, positiver Einkommenseffekt": 0,
+            "C. Positiver Substitutionseffekt, negativer Einkommenseffekt": 0,
+            "D. Positiver Substitutionseffekt, positiver Einkommenseffekt": 0
+        }
+    },
+    {
+        "input": "In Bezug auf die Wechselkurse ist eine der folgenden Aussagen richtig\nA. Die Geldpolitik ist in einem System fester Wechselkurse wirksamer als in einem System freier Wechselkurse.\nB. Nach der indirekten Quotation ist die Währung eines Landes überbewertet, wenn der reale Wechselkurs kleiner als eins ist.\nC. Steigen in einer offenen Volkswirtschaft mit flexiblen Wechselkursen die ausländischen Zinssätze, wertet die heimische Währung auf und die inländischen Zinsen fallen.\nD. Wenn die Zentralbank eines Landes nur über sehr geringe Devisenreserven verfügt, ist es für das Land sehr schwierig, den Wechselkurs konstant zu halten.",
+        "target_scores": {
+            "A. Die Geldpolitik ist in einem System fester Wechselkurse wirksamer als in einem System freier Wechselkurse.": 0,
+            "B. Nach der indirekten Quotation ist die Währung eines Landes überbewertet, wenn der reale Wechselkurs kleiner als eins ist.": 0,
+            "C. Steigen in einer offenen Volkswirtschaft mit flexiblen Wechselkursen die ausländischen Zinssätze, wertet die heimische Währung auf und die inländischen Zinsen fallen.": 0,
+            "D. Wenn die Zentralbank eines Landes nur über sehr geringe Devisenreserven verfügt, ist es für das Land sehr schwierig, den Wechselkurs konstant zu halten.": 1
+        }
+    },
+    {
+        "input": "Welche Annahme über die Verbraucherpräferenzen kann verwendet werden, wenn man das Vorhandensein eines Sättigungspunktes (Satiation) ausschließen will?\nA. Konvexität\nB. Monotonie\nC. Transitivität\nD. Vollständigkeit",
+        "target_scores": {
+            "A. Konvexität": 0,
+            "B. Monotonie": 1,
+            "C. Transitivität": 0,
+            "D. Vollständigkeit": 0
+        }
+    },
+    {
+        "input": "Welcher der folgenden Faktoren führt zu einem Anstieg der Nachfrage? Diese Frage ist im Kontext der Erklärung des Substitutionseffekts zu verstehen.\nA. Alle Preisänderungen\nB. Keiner der oben genannten Punkte.\nC. Neue Alternativen wurden gefunden\nD. Veränderung des Geschmacks aufgrund einer Werbung für ein alternatives Produkt",
+        "target_scores": {
+            "A. Alle Preisänderungen": 0,
+            "B. Keiner der oben genannten Punkte.": 1,
+            "C. Neue Alternativen wurden gefunden": 0,
+            "D. Veränderung des Geschmacks aufgrund einer Werbung für ein alternatives Produkt": 0
+        }
+    },
+    {
+        "input": "Auf der Grundlage der Analyse des Mundell-Fleming-Modells, welche der folgenden Beschreibungen einer kleinen offenen Volkswirtschaft ist korrekt?\nA. Die Auswirkungen der nationalen Wirtschaftspolitik auf die Volkswirtschaft sind dieselben wie in einer großen geschlossenen Volkswirtschaft\nB. Die Auswirkungen der nationalen Wirtschaftspolitik auf die Wirtschaft hängen vom Wechselkurssystem ab\nC. Die Fiskalpolitik hat keinen Einfluss auf das Gesamteinkommen, unabhängig vom Wechselkurssystem\nD. Die Geldpolitik hat keinen Einfluss auf den Wechselkurs, unabhängig vom Wechselkurssystem",
+        "target_scores": {
+            "A. Die Auswirkungen der nationalen Wirtschaftspolitik auf die Volkswirtschaft sind dieselben wie in einer großen geschlossenen Volkswirtschaft": 0,
+            "B. Die Auswirkungen der nationalen Wirtschaftspolitik auf die Wirtschaft hängen vom Wechselkurssystem ab": 1,
+            "C. Die Fiskalpolitik hat keinen Einfluss auf das Gesamteinkommen, unabhängig vom Wechselkurssystem": 0,
+            "D. Die Geldpolitik hat keinen Einfluss auf den Wechselkurs, unabhängig vom Wechselkurssystem": 0
+        }
+    },
+    {
+        "input": "Am Punkt des langfristigen Gleichgewichts eines monopolistisch konkurrierenden Unternehmens, welche Beschreibung der langfristigen Durchschnittskostenkurve ist korrekt?\nA. Alle drei oben genannten Situationen sind möglich\nB. Fallender Abschnitt der Kurve\nC. Horizontaler Abschnitt der Kurve\nD. Steigender Abschnitt der Kurve",
+        "target_scores": {
+            "A. Alle drei oben genannten Situationen sind möglich": 0,
+            "B. Fallender Abschnitt der Kurve": 1,
+            "C. Horizontaler Abschnitt der Kurve": 0,
+            "D. Steigender Abschnitt der Kurve": 0
+        }
+    },
+    {
+        "input": "Als Wirtschaftsexperten bei der Formulierung der Fiskalpolitik zunächst eine Analyse durchführten, kamen sie zu dem Schluss, dass die LM-Kurve vertikal und die Gesamtangebotskurve extrem keynesianisch ist. Was wäre das Ergebnis einer expansiven Fiskalpolitik in diesem Fall?\nA. Höhere Produktion, aber keine Veränderung des Preisniveaus\nB. Keine Veränderung der Produktion und des Preisniveaus\nC. Keine Veränderung der Produktion, aber höheres Preisniveau\nD. Steigerung der Produktion und des Preisniveaus",
+        "target_scores": {
+            "A. Höhere Produktion, aber keine Veränderung des Preisniveaus": 0,
+            "B. Keine Veränderung der Produktion und des Preisniveaus": 1,
+            "C. Keine Veränderung der Produktion, aber höheres Preisniveau": 0,
+            "D. Steigerung der Produktion und des Preisniveaus": 0
+        }
+    },
+    {
+        "input": "Unter der Annahme, dass sich ein Markt in einem langfristigen Gleichgewicht mit vollkommenem Wettbewerb befindet, und unter der Voraussetzung, dass die Kosten der Unternehmen konstant sind, welche der folgenden Aussagen über die Erhöhung des Marktangebots ist richtig?\nA. Das gesamte Angebot stammt von den bestehenden Unternehmen\nB. Das gesamte Angebot stammt von neuen Unternehmen\nC. Nicht beurteilbar\nD. Teilweise von bestehenden Unternehmen, teilweise von neuen Unternehmen",
+        "target_scores": {
+            "A. Das gesamte Angebot stammt von den bestehenden Unternehmen": 0,
+            "B. Das gesamte Angebot stammt von neuen Unternehmen": 1,
+            "C. Nicht beurteilbar": 0,
+            "D. Teilweise von bestehenden Unternehmen, teilweise von neuen Unternehmen": 0
+        }
+    },
+    {
+        "input": "Angenommen, ein Universitätsstudent entscheidet sich für die Teilnahme an einem Fremdsprachenkurs und verzichtet auf die Möglichkeit, mit einem Teilzeitjob 2.000 Euro zu verdienen, und die Teilnahme an dem Kurs kostet 1.000 Euro an Studiengebühren, 800 Euro an Lehrbüchern und 500 Euro an Lebenshaltungskosten während der Teilnahme an dem Kurs. Die Opportunitätskosten für die Teilnahme an dem Kurs betragen\nA. 2.000 Euro\nB. 2.800 Euro\nC. 3.800 Euro\nD. 4.300 Euro",
+        "target_scores": {
+            "A. 2.000 Euro": 0,
+            "B. 2.800 Euro": 0,
+            "C. 3.800 Euro": 1,
+            "D. 4.300 Euro": 0
+        }
+    },
+    {
+        "input": "Wenn die Analyse eines Unternehmens im vollkommenen Wettbewerb durchgeführt wird, welche der folgenden Schlussfolgerungen kann gezogen werden?\nA. Die Bedingung für die Produktionseinstellung ist $\\text{P=AC}$ (AC sind die Durchschnittskosten)\nB. Die Produktion eines Unternehmens beeinflusst die Gewinnfunktion der anderen Unternehmen\nC. Ein Unternehmen kann auf einem Markt mit vollkommenem Wettbewerb keine wirtschaftlichen Gewinne erzielen\nD. Jedes Unternehmen produziert einen pareto-effizienten Output",
+        "target_scores": {
+            "A. Die Bedingung für die Produktionseinstellung ist $\\text{P=AC}$ (AC sind die Durchschnittskosten)": 0,
+            "B. Die Produktion eines Unternehmens beeinflusst die Gewinnfunktion der anderen Unternehmen": 0,
+            "C. Ein Unternehmen kann auf einem Markt mit vollkommenem Wettbewerb keine wirtschaftlichen Gewinne erzielen": 0,
+            "D. Jedes Unternehmen produziert einen pareto-effizienten Output": 1
+        }
+    },
+    {
+        "input": "Wie lässt sich mit der Wirtschaftstheorie erklären, dass Menschen mit gutem Gesundheitszustand nur ungern eine Krankenversicherung abschließen, während Menschen mit schlechtem Gesundheitszustand eher bereit sind, eine Krankenversicherung abzuschließen?\nA. Adverse Selektion\nB. Alle oben genannten Punkte\nC. Moral Hazard\nD. Signalübertragung",
+        "target_scores": {
+            "A. Adverse Selektion": 1,
+            "B. Alle oben genannten Punkte": 0,
+            "C. Moral Hazard": 0,
+            "D. Signalübertragung": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Optionen ist eine Kurve, die bei ihrer Ableitung ein Werturteil erfordert?\nA. Kontraktskurve\nB. Produktionsmöglichkeitskurve\nC. Sozialwohlfahrtskurve\nD. Transformationskurve",
+        "target_scores": {
+            "A. Kontraktskurve": 0,
+            "B. Produktionsmöglichkeitskurve": 0,
+            "C. Sozialwohlfahrtskurve": 1,
+            "D. Transformationskurve": 0
+        }
+    },
+    {
+        "input": "An einem bestimmten Ort fand ein Marathon statt, und die Regierung gewährte den Bürgern als Zeichen der Anerkennung für das Rennen einen Pro-Kopf-Zuschuss für den Transport. Welche der folgenden Schlussfolgerungen können gezogen werden, wenn die Analyse auf der Grundlage des IS-LM-Modells durchgeführt wird?\nA. Der Gleichgewichtszins sinkt, die Gleichgewichtsproduktion sinkt\nB. Der Gleichgewichtszins sinkt, die Gleichgewichtsproduktion steigt\nC. Der Gleichgewichtszins steigt, die Gleichgewichtsproduktion sinkt\nD. Der Gleichgewichtszins steigt, die Gleichgewichtsproduktion steigt",
+        "target_scores": {
+            "A. Der Gleichgewichtszins sinkt, die Gleichgewichtsproduktion sinkt": 0,
+            "B. Der Gleichgewichtszins sinkt, die Gleichgewichtsproduktion steigt": 0,
+            "C. Der Gleichgewichtszins steigt, die Gleichgewichtsproduktion sinkt": 0,
+            "D. Der Gleichgewichtszins steigt, die Gleichgewichtsproduktion steigt": 1
+        }
+    },
+    {
+        "input": "Wie groß ist die Elastizität der Nachfrage nach einem Gut, wenn der Preis des Gutes von 20 Euro auf 19 Euro fällt und die nachgefragte Menge von 170 auf 175 steigt?\nA. einheitselastisch\nB. elastisch\nC. unbestimmt\nD. unelastisch",
+        "target_scores": {
+            "A. einheitselastisch": 0,
+            "B. elastisch": 0,
+            "C. unbestimmt": 0,
+            "D. unelastisch": 1
+        }
+    },
+    {
+        "input": "Wie unterscheiden sich die Nachfragekurven für die Produktionsfaktoren auf Märkten mit vollkommenem Wettbewerb und unvollkommenem Wettbewerb?\nA. Die erste ist flacher als die zweite\nB. Die erste ist steiler als die zweite\nC. Die erste überschneidet sich mit der zweiten\nD. Kann nicht beurteilt werden",
+        "target_scores": {
+            "A. Die erste ist flacher als die zweite": 1,
+            "B. Die erste ist steiler als die zweite": 0,
+            "C. Die erste überschneidet sich mit der zweiten": 0,
+            "D. Kann nicht beurteilt werden": 0
+        }
+    },
+    {
+        "input": "Eine lokale Regierung möchte eine Steuerpolitik entwickeln, deren Hauptziel darin besteht, eine Steuer auf ein Gut zu erheben, das ein vollkommen elastisches Angebot und eine negative Steigung der Nachfrage aufweist. Welche Steuer sollte verwendet werden, um die Auswirkungen auf die Verbraucher zu minimieren?\nA. Beides ist möglich, da die Produzenten bei beiden Steuern die gesamte wirtschaftliche Belastung tragen\nB. Beides ist möglich, da die Verbraucher bei beiden Steuern die gesamte wirtschaftliche Belastung tragen\nC. Umsatzsteuer\nD. Verkaufssteuer",
+        "target_scores": {
+            "A. Beides ist möglich, da die Produzenten bei beiden Steuern die gesamte wirtschaftliche Belastung tragen": 0,
+            "B. Beides ist möglich, da die Verbraucher bei beiden Steuern die gesamte wirtschaftliche Belastung tragen": 1,
+            "C. Umsatzsteuer": 0,
+            "D. Verkaufssteuer": 0
+        }
+    },
+    {
+        "input": "Welches der folgenden Themen gehört nicht zu den Hauptuntersuchungsgegenständen der Marktwirtschaft, die die Funktionsmechanismen untersucht?\nA. Wie kann der Markt eine grundlegende Rolle bei der Ressourcenallokation unter der makroökonomischen Steuerung des Staates spielen?\nB. Wie kann die Nutzung der knappen Ressourcen, die für mehrere Optionen zur Verfügung stehen, optimiert werden?\nC. Wie man begrenzte Ressourcen nutzt, um die Befriedigung unbegrenzter Bedürfnisse zu maximieren\nD. Wie verschiedene Eigentumsformen mit dem Gemeinseigentum als der Hauptstütze aufrechterhalten werden können",
+        "target_scores": {
+            "A. Wie kann der Markt eine grundlegende Rolle bei der Ressourcenallokation unter der makroökonomischen Steuerung des Staates spielen?": 0,
+            "B. Wie kann die Nutzung der knappen Ressourcen, die für mehrere Optionen zur Verfügung stehen, optimiert werden?": 0,
+            "C. Wie man begrenzte Ressourcen nutzt, um die Befriedigung unbegrenzter Bedürfnisse zu maximieren": 0,
+            "D. Wie verschiedene Eigentumsformen mit dem Gemeinseigentum als der Hauptstütze aufrechterhalten werden können": 1
+        }
+    },
+    {
+        "input": "Welche der folgenden Aussagen über die Angebotskurve eines vollkommen wettbewerbsfähigen Unternehmens ist richtig?\nA. Die kurzfristige Angebotskurve ist der Teil des SMC oberhalb der Gewinnschwelle.\nB. Die kurzfristige Angebotskurve ist der ansteigende Teil des SMC.\nC. Die langfristige Angebotskurve ist der Teil des LMC oberhalb der Gewinnschwelle.\nD. Die langfristige Angebotskurve ist der ansteigende Teil der LMC.",
+        "target_scores": {
+            "A. Die kurzfristige Angebotskurve ist der Teil des SMC oberhalb der Gewinnschwelle.": 0,
+            "B. Die kurzfristige Angebotskurve ist der ansteigende Teil des SMC.": 0,
+            "C. Die langfristige Angebotskurve ist der Teil des LMC oberhalb der Gewinnschwelle.": 1,
+            "D. Die langfristige Angebotskurve ist der ansteigende Teil der LMC.": 0
+        }
+    },
+    {
+        "input": "Sie sind Wirtschaftsexperte bei einer Zentralbank. Die Zentralbank möchte das Preisniveau durch Anpassung der Geldmenge stabilisieren. Nach Ihrer Analyse geht die aktuelle Theorie des realen Konjunkturzyklus davon aus, dass die Preise vollkommen flexibel sind und dass Produktionsschwankungen auf Technologieschocks zurückzuführen sind. Basierend auf dieser Schlussfolgerung, was geschieht mit der Geldmenge, wenn die Produktion steigt?\nA. Abnahme\nB. Keine Veränderung\nC. Schwer zu beurteilen\nD. Zunahme",
+        "target_scores": {
+            "A. Abnahme": 0,
+            "B. Keine Veränderung": 0,
+            "C. Schwer zu beurteilen": 1,
+            "D. Zunahme": 0
+        }
+    },
+    {
+        "input": "Giffen-Güter (Giffen goods) sind Güter, bei denen die nachgefragte Menge eigentlich sinken sollte, wenn der Preis innerhalb einer bestimmten Spanne steigt, die aber stattdessen zunimmt. Wenn das Gut A ebenfalls ein Giffen-Gut ist, welche der folgenden Aussagen ist dann richtig, wenn der Preis von Gut A steigt?\nA. Der Substitutionseffekt ist negativ und der Einkommenseffekt ist positiv, wobei ersterer eine geringere Rolle spielt als letzterer\nB. Der Substitutionseffekt ist negativ und der Einkommenseffekt ist positiv, wobei ersterer eine größere Rolle spielt als letzterer\nC. Der Substitutionseffekt ist positiv und der Einkommenseffekt ist negativ, wobei ersterer eine geringere Rolle spielt als letzterer\nD. Der Substitutionseffekt ist positiv und der Einkommenseffekt ist negativ, wobei ersterer eine größere Rolle spielt als letzterer",
+        "target_scores": {
+            "A. Der Substitutionseffekt ist negativ und der Einkommenseffekt ist positiv, wobei ersterer eine geringere Rolle spielt als letzterer": 1,
+            "B. Der Substitutionseffekt ist negativ und der Einkommenseffekt ist positiv, wobei ersterer eine größere Rolle spielt als letzterer": 0,
+            "C. Der Substitutionseffekt ist positiv und der Einkommenseffekt ist negativ, wobei ersterer eine geringere Rolle spielt als letzterer": 0,
+            "D. Der Substitutionseffekt ist positiv und der Einkommenseffekt ist negativ, wobei ersterer eine größere Rolle spielt als letzterer": 0
+        }
+    },
+    {
+        "input": "In einem Ort hat eine Fabrik am Oberlauf das Trinkwasser der Anwohner am Unterlauf verschmutzt. Um diesen Vorfall zu lösen, beabsichtigt die örtliche Regierung, das Coase-Theorem aus den Wirtschaftswissenschaften anzuwenden. Welche der folgenden Aussagen ist demnach richtig?\nA. Solange die Eigentumsrechte klar sind und die Transaktionskosten gleich null sind\nB. Solange die Eigentumsrechte klar sind, unabhängig von den Transaktionskosten\nC. Unabhängig davon, ob die Eigentumsrechte klar sind oder nicht, solange die Transaktionskosten gleich Null sind\nD. Unabhängig davon, ob die Eigentumsrechte klar sind und ob die Transaktionskosten gleich null sind",
+        "target_scores": {
+            "A. Solange die Eigentumsrechte klar sind und die Transaktionskosten gleich null sind": 1,
+            "B. Solange die Eigentumsrechte klar sind, unabhängig von den Transaktionskosten": 0,
+            "C. Unabhängig davon, ob die Eigentumsrechte klar sind oder nicht, solange die Transaktionskosten gleich Null sind": 0,
+            "D. Unabhängig davon, ob die Eigentumsrechte klar sind und ob die Transaktionskosten gleich null sind": 0
+        }
+    },
+    {
+        "input": "Wenn die marginale Substitutionsrate gleich null ist, welche Form hat dann die entsprechende Indifferenzkurve?\nA. Fallende Gerade\nB. Steigende Gerade\nC. Vertikale Linie\nD. horizontale Linie",
+        "target_scores": {
+            "A. Fallende Gerade": 0,
+            "B. Steigende Gerade": 0,
+            "C. Vertikale Linie": 0,
+            "D. horizontale Linie": 1
+        }
+    },
+    {
+        "input": "Leo, der gerade mit dem Studium der Wirtschaftswissenschaften begonnen hat, möchte die Beziehung zwischen einem dominante Strategie-Gleichgewicht und einem Nash-Equilibrium ermitteln. Welche der folgenden Aussagen ist richtig?\nA. Das Nash-Equilibrium ist eine strengere Equilibriumslösung als das dominante Strategie-Gleichgewicht.\nB. Das Nash-Equilibrium ist genauso streng wie das dominante Strategie-Gleichgewicht\nC. Das dominante Strategie-Gleichgewicht ist eine anspruchsvollere Equilibriumslösung als das Nash-Equilibrium\nD. Es ist unmöglich zu sagen, welches der beiden Gleichgewichte strenger ist.",
+        "target_scores": {
+            "A. Das Nash-Equilibrium ist eine strengere Equilibriumslösung als das dominante Strategie-Gleichgewicht.": 0,
+            "B. Das Nash-Equilibrium ist genauso streng wie das dominante Strategie-Gleichgewicht": 0,
+            "C. Das dominante Strategie-Gleichgewicht ist eine anspruchsvollere Equilibriumslösung als das Nash-Equilibrium": 1,
+            "D. Es ist unmöglich zu sagen, welches der beiden Gleichgewichte strenger ist.": 0
+        }
+    },
+    {
+        "input": "Ein Wirtschaftswissenschaftler stellt fest, dass die Marktzinsen auf dem aktuellen Markt gesunken sind. Welche Schlussfolgerung kann er also noch hinsichtlich der Veränderung der spekulativen Nachfrage nach Geld ziehen?\nA. abnehmend\nB. steigend\nC. ungewiss\nD. unverändert",
+        "target_scores": {
+            "A. abnehmend": 0,
+            "B. steigend": 1,
+            "C. ungewiss": 0,
+            "D. unverändert": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden vier Optionen ist eine optimale Gleichgewichtsbedingung für das Angebot an öffentlichen Gütern?\nA. Die Grenzraten der Substitution müssen für jeden Verbraucher gleich sein\nB. Die Summe der marginalen Zahlungsbereitschaft der Verbraucher sollte den Grenzkosten der Bereitstellung des öffentlichen Gutes entsprechen\nC. Die marginale Zahlungsbereitschaft pro Verbraucher ist gleich den Grenzkosten für die Bereitstellung des öffentlichen Gutes\nD. Die privaten Kosten der Bereitstellung öffentlicher Güter sind gleich den sozialen Kosten der Bereitstellung öffentlicher Güter",
+        "target_scores": {
+            "A. Die Grenzraten der Substitution müssen für jeden Verbraucher gleich sein": 0,
+            "B. Die Summe der marginalen Zahlungsbereitschaft der Verbraucher sollte den Grenzkosten der Bereitstellung des öffentlichen Gutes entsprechen": 1,
+            "C. Die marginale Zahlungsbereitschaft pro Verbraucher ist gleich den Grenzkosten für die Bereitstellung des öffentlichen Gutes": 0,
+            "D. Die privaten Kosten der Bereitstellung öffentlicher Güter sind gleich den sozialen Kosten der Bereitstellung öffentlicher Güter": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden vier Optionen ist eine Equilibriumsbedingung für die Kostenminimierung\nA. A und B sind beide richtig.\nB. In Übereinstimmung mit der Equilibriumsbedingung der Gewinnmaximierung\nC. ist der Tangentialspunkt zwischen Isokostengerade und Isoquante\nD. ist der Tangentialspunkt zwischen der Budgetlinie und der  Indifferenzkurve",
+        "target_scores": {
+            "A. A und B sind beide richtig.": 0,
+            "B. In Übereinstimmung mit der Equilibriumsbedingung der Gewinnmaximierung": 0,
+            "C. ist der Tangentialspunkt zwischen Isokostengerade und Isoquante": 1,
+            "D. ist der Tangentialspunkt zwischen der Budgetlinie und der  Indifferenzkurve": 0
+        }
+    },
+    {
+        "input": "Angenommen, unter einem flexiblen Wechselkurssystem wird das kleine offene Mundell-Fleming-Modell verwendet, um die Auswirkungen einer Erhöhung der Verbraucherausgaben für Importgüter zu analysieren. Welche der folgenden Schlussfolgerungen ist korrekt?\nA. IS-Kurve verschiebt sich nach rechts\nB. Keine Veränderung des Outputs\nC. LM-Kurve verschiebt sich nach rechts\nD. Verkauf der heimischen Währung durch die Zentralbank",
+        "target_scores": {
+            "A. IS-Kurve verschiebt sich nach rechts": 0,
+            "B. Keine Veränderung des Outputs": 1,
+            "C. LM-Kurve verschiebt sich nach rechts": 0,
+            "D. Verkauf der heimischen Währung durch die Zentralbank": 0
+        }
+    },
+    {
+        "input": "Wenn ein Unternehmen in vollkommenem Wettbewerb vorübergehend die Produktion einstellt, kann dies kurzfristig durch welche der folgenden Situationen verursacht werden?\nA. Es gibt keinen Punkt, an dem Grenzerlös und Grenzkosten gleich sind\nB. Preise unter den durchschnittlichen Fixkosten auf allen Produktionsniveaus\nC. Preise unter den durchschnittlichen Gesamtkosten auf allen Produktionsniveaus\nD. Preise unter den durchschnittlichen variablen Kosten auf allen Produktionsniveaus",
+        "target_scores": {
+            "A. Es gibt keinen Punkt, an dem Grenzerlös und Grenzkosten gleich sind": 0,
+            "B. Preise unter den durchschnittlichen Fixkosten auf allen Produktionsniveaus": 0,
+            "C. Preise unter den durchschnittlichen Gesamtkosten auf allen Produktionsniveaus": 0,
+            "D. Preise unter den durchschnittlichen variablen Kosten auf allen Produktionsniveaus": 1
+        }
+    },
+    {
+        "input": "Lukas ist Strategieexperte eines Unternehmens. Nach seiner Analyse stellte er fest, dass Produkt A des Unternehmens eine unelastische Nachfrage aufweist. Welche Strategie sollte Lukas für Produkt A wählen, um eine Gewinnmaximierung zu erreichen?\nA. Preise senken\nB. die Produktion erhöhen\nC. die Produktion nicht ändern\nD. die Produktion verringern",
+        "target_scores": {
+            "A. Preise senken": 0,
+            "B. die Produktion erhöhen": 0,
+            "C. die Produktion nicht ändern": 0,
+            "D. die Produktion verringern": 1
+        }
+    },
+    {
+        "input": "Welches der folgenden Szenarien erhöht bei einem wiederholten Spiel des Gefangenendilemmas die Wahrscheinlichkeit eines kooperativen Ergebnisses?\nA. Der Gewinn einer einmaligen Täuschung ist größer als die Kosten der Täuschung\nB. Die Teilnehmer bewerten künftige Gewinne wesentlich niedriger als aktuelle Gewinne.\nC. Spiele zwischen den Teilnehmern sind häufig\nD. Täuschung ist nicht leicht zu erkennen",
+        "target_scores": {
+            "A. Der Gewinn einer einmaligen Täuschung ist größer als die Kosten der Täuschung": 0,
+            "B. Die Teilnehmer bewerten künftige Gewinne wesentlich niedriger als aktuelle Gewinne.": 0,
+            "C. Spiele zwischen den Teilnehmern sind häufig": 1,
+            "D. Täuschung ist nicht leicht zu erkennen": 0
+        }
+    },
+    {
+        "input": "Ein Wirtschaftsanalyst analysiert die Geschäftslage eines Herstellers in einer Branche mit vollkommenem Wettbewerb. Er stellt fest, dass die Grenzkosten, Durchschnittskosten und Durchschnittserlöse des Herstellers alle gleich 10 Euro sind. Welche Schlussfolgerung kann der Experte ziehen?\nA. Der Hersteller erzielt definitiv keine maximalen Gewinne\nB. Der Hersteller erzielt definitiv minimale Gewinne\nC. Der Hersteller erzielt definitiv nur normale Gewinne\nD. Es ist ungewiss, ob maximale Gewinne erzielt wurden",
+        "target_scores": {
+            "A. Der Hersteller erzielt definitiv keine maximalen Gewinne": 0,
+            "B. Der Hersteller erzielt definitiv minimale Gewinne": 0,
+            "C. Der Hersteller erzielt definitiv nur normale Gewinne": 1,
+            "D. Es ist ungewiss, ob maximale Gewinne erzielt wurden": 0
+        }
+    },
+    {
+        "input": "Wie verändern sich die Nachfrage- und Angebotskurven für Zigaretten in einem Land, in dem auf Zigaretten Tabaksteuer erhoben wird, wenn man davon ausgeht, dass die vertikale Achse der Preis nach Steuern und die horizontale Achse die Menge ist?\nA. Die Angebotskurve für Zigaretten wird sich nach links verschieben\nB. Die Angebotskurve für Zigaretten wird sich nach rechts verschieben.\nC. Die Nachfragekurve für Zigaretten wird sich nach links verschieben\nD. Die Nachfragekurve für Zigaretten wird sich nach rechts verschieben",
+        "target_scores": {
+            "A. Die Angebotskurve für Zigaretten wird sich nach links verschieben": 1,
+            "B. Die Angebotskurve für Zigaretten wird sich nach rechts verschieben.": 0,
+            "C. Die Nachfragekurve für Zigaretten wird sich nach links verschieben": 0,
+            "D. Die Nachfragekurve für Zigaretten wird sich nach rechts verschieben": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Aussagen ist richtig?\nA. Die Hypothese des permanenten Einkommens besagt, dass die Menschen eine stabile durchschnittliche Konsumneigung haben\nB. Die Lebenszyklushypothese besagt, dass die Menschen ihr ganzes Leben lang gleichmäßig konsumieren wollen\nC. Die Studie stellt fest, dass die durchschnittliche Konsumneigung bei Haushalten mit hohem Einkommen höher ist.\nD. Wirtschaftswissenschaftler sind im Allgemeinen der Ansicht, dass ein höherer Zinssatz den Verbrauch verringert und die Ersparnis erhöht.",
+        "target_scores": {
+            "A. Die Hypothese des permanenten Einkommens besagt, dass die Menschen eine stabile durchschnittliche Konsumneigung haben": 0,
+            "B. Die Lebenszyklushypothese besagt, dass die Menschen ihr ganzes Leben lang gleichmäßig konsumieren wollen": 1,
+            "C. Die Studie stellt fest, dass die durchschnittliche Konsumneigung bei Haushalten mit hohem Einkommen höher ist.": 0,
+            "D. Wirtschaftswissenschaftler sind im Allgemeinen der Ansicht, dass ein höherer Zinssatz den Verbrauch verringert und die Ersparnis erhöht.": 0
+        }
+    },
+    {
+        "input": "Sie sind Verkaufsleiter eines Klimaanlagenherstellers und haben gerade einen Marktforschungsbericht erhalten. Aus dem Bericht geht hervor, dass die Einkommenselastizität der Nachfrage nach Klimaanlagen 1,2 und die Preiselastizität der Nachfrage -1,4 beträgt. Außerdem wird geschätzt, dass die Haushaltseinkommen im nächsten Jahr um 10% steigen werden. Welche Maßnahmen sollten Sie ergreifen, wenn Sie die Preise erhöhen, aber den Absatz konstant halten wollen?\nA. Nicht beurteilbar\nB. Preiserhöhung um 10 Prozent\nC. Preiserhöhung von mehr als 10 Prozent\nD. Preiserhöhung von weniger als 10 Prozent",
+        "target_scores": {
+            "A. Nicht beurteilbar": 0,
+            "B. Preiserhöhung um 10 Prozent": 0,
+            "C. Preiserhöhung von mehr als 10 Prozent": 0,
+            "D. Preiserhöhung von weniger als 10 Prozent": 1
+        }
+    },
+    {
+        "input": "In einem Unternehmen mit 200 Angestellten kann ein Angestellter problemlos durch die Bürotür gehen, daraus wird geschlossen, dass alle 200 Angestellten problemlos gleichzeitig durch die Bürotür gehen können. Für welche der folgenden Theorien ist dies ein gutes Beispiel?\nA. Kompositionsfehlschluss\nB. Opportunitätskostenirrtum\nC. Post-hoc-Irrtum\nD. Substitutionsirrtum",
+        "target_scores": {
+            "A. Kompositionsfehlschluss": 1,
+            "B. Opportunitätskostenirrtum": 0,
+            "C. Post-hoc-Irrtum": 0,
+            "D. Substitutionsirrtum": 0
+        }
+    },
+    {
+        "input": "Wenn Sie als Wirtschaftsexperte der Regierung raten, in Boomzeiten eine kontraktive und in Rezessionszeiten eine expansive Fiskalpolitik zu betreiben und die Haushaltsüberschüsse in den Boomzeiten zur Deckung der Haushaltsdefizite in den Rezessionszeiten zu verwenden, wie wird diese von Ihnen vorgeschlagene Wirtschaftspolitik genannt?\nA. Fiskalpolitik für einen ausgeglichenen Haushalt\nB. Wachstumsorientierte Fiskalpolitik\nC. antizyklische Fiskalpolitik\nD. expansive Fiskalpolitik",
+        "target_scores": {
+            "A. Fiskalpolitik für einen ausgeglichenen Haushalt": 0,
+            "B. Wachstumsorientierte Fiskalpolitik": 0,
+            "C. antizyklische Fiskalpolitik": 1,
+            "D. expansive Fiskalpolitik": 0
+        }
+    },
+    {
+        "input": "Sie sind Strategieexperte in einem Unternehmen. Vor kurzem haben Sie die Geschäftslage analysiert und festgestellt, dass bei der kurzfristigen Gleichgewichtsproduktionsmenge des Unternehmens der Marktpreis unter den kurzfristigen Durchschnittskosten (SAC) liegt, aber über den durchschnittlich variablen Kosten (AVC). Welche Strategie sollten Sie also entwickeln?\nA. Gewinn machen und weiter produzieren\nB. Verluste, Produktion sofort einstellen\nC. Verluste, aber weiter produzieren\nD. Verluste, wobei es keine Rolle spielt, ob produziert wird oder nicht",
+        "target_scores": {
+            "A. Gewinn machen und weiter produzieren": 0,
+            "B. Verluste, Produktion sofort einstellen": 0,
+            "C. Verluste, aber weiter produzieren": 1,
+            "D. Verluste, wobei es keine Rolle spielt, ob produziert wird oder nicht": 0
+        }
+    },
+    {
+        "input": "Unternehmen A ist ein vollkommen konkurrierender Hersteller. Wenn Unternehmen A Verluste erleidet, welches Ergebnis könnte in seiner Branche im Prozess der Annäherung an das langfristige Gleichgewicht auftreten?\nA. Höhere Preise und mehr Hersteller\nB. Höhere Preise und weniger Hersteller\nC. Niedrigere Preise und mehr Hersteller\nD. Niedrigere Preise und weniger Hersteller",
+        "target_scores": {
+            "A. Höhere Preise und mehr Hersteller": 0,
+            "B. Höhere Preise und weniger Hersteller": 1,
+            "C. Niedrigere Preise und mehr Hersteller": 0,
+            "D. Niedrigere Preise und weniger Hersteller": 0
+        }
+    },
+    {
+        "input": "Der Nachteil der Geldpolitik im Vergleich zur Fiskalpolitik ist:\nA. Die Auswirkungen der Politik sind leichter zu antizipieren\nB. Direktere Auswirkungen auf die Wirtschaft\nC. Indirektere Auswirkungen auf die Wirtschaft\nD. Kurze Implementierungszeit für politische Entscheidungen",
+        "target_scores": {
+            "A. Die Auswirkungen der Politik sind leichter zu antizipieren": 0,
+            "B. Direktere Auswirkungen auf die Wirtschaft": 0,
+            "C. Indirektere Auswirkungen auf die Wirtschaft": 1,
+            "D. Kurze Implementierungszeit für politische Entscheidungen": 0
+        }
+    },
+    {
+        "input": "Welche Auswirkungen hätte eine starke staatliche Förderung von Maschinen gegenüber Arbeitskräften in einer Zukunft, in der Technologie menschliche Arbeit ersetzen kann?\nA. Die Arbeitsangebotskurve verschiebt sich nach links\nB. Die Arbeitsangebotskurve verschiebt sich nach rechts\nC. Die Arbeitsnachfragekurve verschiebt sich nach links\nD. Die Arbeitsnachfragekurve verschiebt sich nach rechts",
+        "target_scores": {
+            "A. Die Arbeitsangebotskurve verschiebt sich nach links": 0,
+            "B. Die Arbeitsangebotskurve verschiebt sich nach rechts": 0,
+            "C. Die Arbeitsnachfragekurve verschiebt sich nach links": 1,
+            "D. Die Arbeitsnachfragekurve verschiebt sich nach rechts": 0
+        }
+    },
+    {
+        "input": "Um ihren Nutzen zu maximieren, entscheiden sich Haushalt A und Haushalt B dafür, jeweils ein Gut gegen ein anderes zu tauschen. Was geschieht bei diesem Tauschvorgang?\nA. 1 relativer Preis\nB. 2 absolute Preise\nC. Sowohl A als auch B sind falsch\nD. Sowohl A als auch B sind richtig",
+        "target_scores": {
+            "A. 1 relativer Preis": 1,
+            "B. 2 absolute Preise": 0,
+            "C. Sowohl A als auch B sind falsch": 0,
+            "D. Sowohl A als auch B sind richtig": 0
+        }
+    },
+    {
+        "input": "Studien haben ergeben, dass chemische Reinigungen für Kleidung Luftverschmutzung verursachen. Diese Erkenntnis würde dazu führen, dass der Gleichgewichtspreis in der chemischen Reinigungsbranche welcher der folgenden Beschreibungen entspricht?\nA. Ist optimal, aber es besteht ein Überangebot\nB. Preis und Produktionsmenge sind beide zu hoch im Vergleich zum gesellschaftlich optimalen Niveau\nC. Zu hoch im Vergleich zum gesellschaftlich optimalen Niveau, und die Produktionsmenge ist zu niedrig im Vergleich zum gesellschaftlich optimalen Niveau\nD. Zu niedrig im Vergleich zum gesellschaftlich optimalen Niveau, und die Produktionsmenge ist zu hoch im Vergleich zum gesellschaftlich optimalen Niveau",
+        "target_scores": {
+            "A. Ist optimal, aber es besteht ein Überangebot": 0,
+            "B. Preis und Produktionsmenge sind beide zu hoch im Vergleich zum gesellschaftlich optimalen Niveau": 0,
+            "C. Zu hoch im Vergleich zum gesellschaftlich optimalen Niveau, und die Produktionsmenge ist zu niedrig im Vergleich zum gesellschaftlich optimalen Niveau": 0,
+            "D. Zu niedrig im Vergleich zum gesellschaftlich optimalen Niveau, und die Produktionsmenge ist zu hoch im Vergleich zum gesellschaftlich optimalen Niveau": 1
+        }
+    },
+    {
+        "input": "Angenommen, ein bestimmter Markt ist ein Markt mit vollkommenem Wettbewerb. Wovon hängt in diesem Markt die langfristige Angebotskurve der Branche ab?\nA. Verlauf der tiefsten Punkte der LAC-Kurve\nB. Verlauf der tiefsten Punkte der LMC-Kurve\nC. Verlauf der tiefsten Punkte der SAC-Kurve\nD. Verlauf der tiefsten Punkte der SMC-Kurve",
+        "target_scores": {
+            "A. Verlauf der tiefsten Punkte der LAC-Kurve": 1,
+            "B. Verlauf der tiefsten Punkte der LMC-Kurve": 0,
+            "C. Verlauf der tiefsten Punkte der SAC-Kurve": 0,
+            "D. Verlauf der tiefsten Punkte der SMC-Kurve": 0
+        }
+    },
+    {
+        "input": "Basierend auf dem Solow-Wachstumsmodell, welche der folgenden Beschreibungen der Goldenen Regel ist falsch?\nA. Der Pro-Kopf-Verbrauch ist am höchsten, wenn sich die Wirtschaft im Steady-State der Goldenen Regel befindet\nB. Wenn das Wirtschaftswachstum zu einem stabilen Zustand konvergiert, ist die Goldene Regel erreicht\nC. Wenn der stationäre Pro-Kopf-Kapitalstock zu hoch ist, kann eine gewisse Senkung der Sparquote zur Goldenen Regel führen\nD. Wenn der stationäre Pro-Kopf-Kapitalstock zu niedrig ist, kann eine gewisse Erhöhung der Sparquote zur Goldenen Regel führen",
+        "target_scores": {
+            "A. Der Pro-Kopf-Verbrauch ist am höchsten, wenn sich die Wirtschaft im Steady-State der Goldenen Regel befindet": 0,
+            "B. Wenn das Wirtschaftswachstum zu einem stabilen Zustand konvergiert, ist die Goldene Regel erreicht": 1,
+            "C. Wenn der stationäre Pro-Kopf-Kapitalstock zu hoch ist, kann eine gewisse Senkung der Sparquote zur Goldenen Regel führen": 0,
+            "D. Wenn der stationäre Pro-Kopf-Kapitalstock zu niedrig ist, kann eine gewisse Erhöhung der Sparquote zur Goldenen Regel führen": 0
+        }
+    },
+    {
+        "input": "Angenommen, in einer Gesellschaft sind Kapitalgüter ein perfekter Ersatz für Arbeit und der Preis für Kapitalgüter sinkt. Basierend auf dieser Annahme, welche Schlussfolgerung kann gezogen werden?\nA. Der Substitutionseffekt verringert die Nachfrage nach Arbeitskräften\nB. Die Nachfrage nach Arbeitskräften wird zwangsläufig sinken\nC. Die Nachfrage nach Arbeitskräften wird zwangsläufig steigen\nD. Die Nachfrage nach Kapitalgütern sinkt",
+        "target_scores": {
+            "A. Der Substitutionseffekt verringert die Nachfrage nach Arbeitskräften": 1,
+            "B. Die Nachfrage nach Arbeitskräften wird zwangsläufig sinken": 0,
+            "C. Die Nachfrage nach Arbeitskräften wird zwangsläufig steigen": 0,
+            "D. Die Nachfrage nach Kapitalgütern sinkt": 0
+        }
+    },
+    {
+        "input": "Angenommen, das Einkommen eines Verbrauchers steigt um 25%, dann steigt seine Nachfrage nach Gut A nur um 15%. Welche Art von Gut ist Gut A?\nA. Giffen-Güter\nB. Grenzprodukt\nC. Inferiore Güter\nD. Normale Güter",
+        "target_scores": {
+            "A. Giffen-Güter": 0,
+            "B. Grenzprodukt": 0,
+            "C. Inferiore Güter": 0,
+            "D. Normale Güter": 1
+        }
+    },
+    {
+        "input": "Welche der folgenden Aussagen zum Einkommens- und Substitutionseffekt ist korrekt?\nA. Der Einkommenseffekt ist immer positiv, und der Substitutionseffekt ist immer negativ\nB. Der Einkommenseffekt ist immer positiv, und der Substitutionseffekt kann positiv oder negativ sein\nC. Der Substitutionseffekt ist immer negativ, und der Einkommenseffekt ist immer negativ\nD. Der Substitutionseffekt ist immer negativ, und der Einkommenseffekt kann positiv oder negativ sein",
+        "target_scores": {
+            "A. Der Einkommenseffekt ist immer positiv, und der Substitutionseffekt ist immer negativ": 0,
+            "B. Der Einkommenseffekt ist immer positiv, und der Substitutionseffekt kann positiv oder negativ sein": 0,
+            "C. Der Substitutionseffekt ist immer negativ, und der Einkommenseffekt ist immer negativ": 0,
+            "D. Der Substitutionseffekt ist immer negativ, und der Einkommenseffekt kann positiv oder negativ sein": 1
+        }
+    },
+    {
+        "input": "Das klassische Spiel Schere, Stein, Papier gehört zu welcher der folgenden Spielarten?\nA. Dynamisches Nullsummenspiel\nB. Dynamisches Variablensummenspiel\nC. Statisches Nullsummenspiel\nD. Statisches Variablensummenspiel",
+        "target_scores": {
+            "A. Dynamisches Nullsummenspiel": 0,
+            "B. Dynamisches Variablensummenspiel": 0,
+            "C. Statisches Nullsummenspiel": 1,
+            "D. Statisches Variablensummenspiel": 0
+        }
+    },
+    {
+        "input": "Sie sind Strategieexperte für ein monopolistisch konkurrierendes Unternehmen. Welchen Weg würden Sie einschlagen, wenn Sie wollen, dass das Unternehmen maximale Gewinne erzielen kann?\nA. Alle der oben genannten Wege können verwendet werden\nB. Anpassung der Preise zur Bestimmung der entsprechenden Produktionsmenge\nC. Qualitätswettbewerb\nD. Werbewettbewerb",
+        "target_scores": {
+            "A. Alle der oben genannten Wege können verwendet werden": 1,
+            "B. Anpassung der Preise zur Bestimmung der entsprechenden Produktionsmenge": 0,
+            "C. Qualitätswettbewerb": 0,
+            "D. Werbewettbewerb": 0
+        }
+    },
+    {
+        "input": "Wenn in einer Volkswirtschaft zunehmende Skalenerträge existieren, welche Beschreibung der Grenz- und Durchschnittskosten ist dann korrekt?\nA. Die Grenzkosten sind geringer als die Durchschnittskosten\nB. Die Grenzkosten sind höher als die Durchschnittskosten\nC. Grenzkosten entsprechen den Durchschnittskosten\nD. Grenzkosten sind unabhängig von den Durchschnittskosten",
+        "target_scores": {
+            "A. Die Grenzkosten sind geringer als die Durchschnittskosten": 1,
+            "B. Die Grenzkosten sind höher als die Durchschnittskosten": 0,
+            "C. Grenzkosten entsprechen den Durchschnittskosten": 0,
+            "D. Grenzkosten sind unabhängig von den Durchschnittskosten": 0
+        }
+    },
+    {
+        "input": "Bezüglich der Marktnachfragekurve ist die folgende Beschreibung korrekt:\nA. Kurve parallel zur horizontalen Achse\nB. Staatliche Nachfrage nach einer bestimmten Ware\nC. Summe aller individuellen Nachfragekurven auf dem Markt\nD. Summe der Nachfragekurven der größten Käufer auf dem Markt",
+        "target_scores": {
+            "A. Kurve parallel zur horizontalen Achse": 0,
+            "B. Staatliche Nachfrage nach einer bestimmten Ware": 0,
+            "C. Summe aller individuellen Nachfragekurven auf dem Markt": 1,
+            "D. Summe der Nachfragekurven der größten Käufer auf dem Markt": 0
+        }
+    },
+    {
+        "input": "Die folgenden vier Optionen beschreiben alle eine partielle Gleichgewichtsanalyse. Welche ist richtig?\nA. Alle Aussagen sind richtig.\nB. Analyse der Auswirkungen von Veränderungen in einem Sektor auf alle anderen Sektoren\nC. Die Analysen beschränken sich auf einen Markt und lassen alle anderen außer Acht\nD. Trennung von Nachfrage- und Angebotsanalyse",
+        "target_scores": {
+            "A. Alle Aussagen sind richtig.": 0,
+            "B. Analyse der Auswirkungen von Veränderungen in einem Sektor auf alle anderen Sektoren": 0,
+            "C. Die Analysen beschränken sich auf einen Markt und lassen alle anderen außer Acht": 1,
+            "D. Trennung von Nachfrage- und Angebotsanalyse": 0
+        }
+    },
+    {
+        "input": "Ware A und Ware B sind bekanntermaßen komplementär. Wenn der Preis von Ware A fällt, welcher Wert trifft für die Kreuzelastizität der Nachfrage nach Ware B zu?\nA. Negativ\nB. Null\nC. Positiv\nD. nicht existent",
+        "target_scores": {
+            "A. Negativ": 1,
+            "B. Null": 0,
+            "C. Positiv": 0,
+            "D. nicht existent": 0
+        }
+    },
+    {
+        "input": "Sie sind der Manager eines Motorradherstellers und haben vor kurzem den bestehenden Motorradmarkt untersucht und festgestellt, dass er sich derzeit im Gleichgewicht befindet. Wenn der Preis für Motorradhelme steigen würde, welche der folgenden Folgen hätte das neue Gleichgewicht?\nA. Gleichgewichtspreis sinkt, Gleichgewichtsmenge sinkt\nB. Gleichgewichtspreis sinkt, Gleichgewichtsmenge steigt\nC. Gleichgewichtspreis steigt, Gleichgewichtsmenge sinkt\nD. Gleichgewichtspreis steigt, Gleichgewichtsmenge steigt",
+        "target_scores": {
+            "A. Gleichgewichtspreis sinkt, Gleichgewichtsmenge sinkt": 1,
+            "B. Gleichgewichtspreis sinkt, Gleichgewichtsmenge steigt": 0,
+            "C. Gleichgewichtspreis steigt, Gleichgewichtsmenge sinkt": 0,
+            "D. Gleichgewichtspreis steigt, Gleichgewichtsmenge steigt": 0
+        }
+    },
+    {
+        "input": "Sie sind Wirtschaftswissenschaftler in einem Land. Wenn Sie die Inflationssituation analysieren und Ihre Untersuchungen ergeben, dass Vollbeschäftigung erreicht wurde, welcher der folgenden Faktoren ist dann am ehesten für die Inflation verantwortlich?\nA. Anstieg der Einfuhren\nB. Die Löhne bleiben gleich, aber die Arbeitsproduktivität steigt\nC. Die Staatsausgaben bleiben unverändert, aber die Steuersätze sind gesunken\nD. Rückgang der Ausfuhren",
+        "target_scores": {
+            "A. Anstieg der Einfuhren": 0,
+            "B. Die Löhne bleiben gleich, aber die Arbeitsproduktivität steigt": 0,
+            "C. Die Staatsausgaben bleiben unverändert, aber die Steuersätze sind gesunken": 1,
+            "D. Rückgang der Ausfuhren": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden vier Beschreibungen der kurzfristigen Gesamtkostenkurve ist richtig?\nA. Die Gesamtkostenkurve beginnt am Ursprung und steigt allmählich mit der Zunahme der Produktion an.\nB. Die Gesamtkostenkurve beginnt an einem Punkt auf der vertikalen Achse, an dem die Gesamtkosten bei Nullproduktion gleich den variablen Kosten sind, und nimmt mit steigender Produktion ab.\nC. Die Gesamtkostenkurve beginnt an einem Schnittpunkt auf der vertikalen Achse, d. h. an dem Punkt, an dem die Gesamtkosten bei einer Produktion von Null gleich den Fixkosten sind, und steigt mit zunehmender Produktion allmählich an.\nD. Die Gesamtkostenkurve ändert sich nicht mit der Veränderung der Produktion.",
+        "target_scores": {
+            "A. Die Gesamtkostenkurve beginnt am Ursprung und steigt allmählich mit der Zunahme der Produktion an.": 0,
+            "B. Die Gesamtkostenkurve beginnt an einem Punkt auf der vertikalen Achse, an dem die Gesamtkosten bei Nullproduktion gleich den variablen Kosten sind, und nimmt mit steigender Produktion ab.": 0,
+            "C. Die Gesamtkostenkurve beginnt an einem Schnittpunkt auf der vertikalen Achse, d. h. an dem Punkt, an dem die Gesamtkosten bei einer Produktion von Null gleich den Fixkosten sind, und steigt mit zunehmender Produktion allmählich an.": 1,
+            "D. Die Gesamtkostenkurve ändert sich nicht mit der Veränderung der Produktion.": 0
+        }
+    },
+    {
+        "input": "Eine örtliche Regierung hat festgestellt, dass derzeit eine Deflationslücke besteht. Welche der folgenden Maßnahmen wäre korrekt, um diese Lücke zu beseitigen?\nA. Ausgaben für öffentliche Bauprojekte erhöhen\nB. Keine der oben genannten Aussagen ist richtig.\nC. Steuern erhöhen\nD. Verringerung der Sozialausgaben",
+        "target_scores": {
+            "A. Ausgaben für öffentliche Bauprojekte erhöhen": 1,
+            "B. Keine der oben genannten Aussagen ist richtig.": 0,
+            "C. Steuern erhöhen": 0,
+            "D. Verringerung der Sozialausgaben": 0
+        }
+    },
+    {
+        "input": "Während meines Studiums der Wirtschaftstheorie bin ich auf das Konzept der „Liquiditätsfalle\" gestoßen, das ein Konzept der keynesianischen Theorie ist. Bitte sagen Sie mir, in welchem Abschnitt des folgenden Transmissionsmechanismus es auftreten kann.\nA. Ein Anstieg der Beschäftigung führt zu einem Anstieg von Produktion und Einkommen.\nB. Ein Rückgang des Zinssatzes führt zu einer Zunahme der Investitionsnachfrage.\nC. Eine Erhöhung der Geldmenge führt zu einem Rückgang des Zinssatzes.\nD. Eine Zunahme der Investitionsnachfrage führt zu einem Anstieg der Beschäftigung.",
+        "target_scores": {
+            "A. Ein Anstieg der Beschäftigung führt zu einem Anstieg von Produktion und Einkommen.": 0,
+            "B. Ein Rückgang des Zinssatzes führt zu einer Zunahme der Investitionsnachfrage.": 0,
+            "C. Eine Erhöhung der Geldmenge führt zu einem Rückgang des Zinssatzes.": 1,
+            "D. Eine Zunahme der Investitionsnachfrage führt zu einem Anstieg der Beschäftigung.": 0
+        }
+    },
+    {
+        "input": "Wenn zwischen zwei Personen X und Y eine Pareto-optimale Anfangsverteilung der Güter A und B besteht, ist dann die folgende Aussage richtig?\nA. Eine Umverteilung von Gütern zwischen zwei Personen kann den Nutzen beider Personen erhöhen.\nB. Eine Umverteilung von Gütern zwischen zwei Personen kann den Nutzen der einen Person erhöhen, ohne dass der Nutzen der anderen Person sinkt.\nC. Eine Umverteilung von Gütern zwischen zwei Personen kann den Nutzen einer Person erhöhen, jedoch auf Kosten der anderen.\nD. Es ist nicht möglich, Güter zwischen zwei Personen umzuverteilen, um den Nutzen einer von ihnen zu erhöhen.",
+        "target_scores": {
+            "A. Eine Umverteilung von Gütern zwischen zwei Personen kann den Nutzen beider Personen erhöhen.": 0,
+            "B. Eine Umverteilung von Gütern zwischen zwei Personen kann den Nutzen der einen Person erhöhen, ohne dass der Nutzen der anderen Person sinkt.": 0,
+            "C. Eine Umverteilung von Gütern zwischen zwei Personen kann den Nutzen einer Person erhöhen, jedoch auf Kosten der anderen.": 1,
+            "D. Es ist nicht möglich, Güter zwischen zwei Personen umzuverteilen, um den Nutzen einer von ihnen zu erhöhen.": 0
+        }
+    },
+    {
+        "input": "Sie sind Wirtschaftswissenschaftler in einem Land. Um die Landwirtschaft in Ihrem Land zu unterstützen, haben Sie vorgeschlagen, Stützungspreise für Agrarprodukte oberhalb ihrer Gleichgewichtspreise festzulegen. Welche Maßnahme sollte anschließend ergriffen werden, um diese Politik umzusetzen und den Stützungspreis aufrechtzuerhalten?\nA. Einführung der Rationierung von Agrarprodukten\nB. Erhöhung der Steuern auf Agrarprodukten\nC. Erwerb von überschüssigen Agrarprodukten\nD. Subventionen für Erzeuger von Agrarprodukten",
+        "target_scores": {
+            "A. Einführung der Rationierung von Agrarprodukten": 0,
+            "B. Erhöhung der Steuern auf Agrarprodukten": 0,
+            "C. Erwerb von überschüssigen Agrarprodukten": 1,
+            "D. Subventionen für Erzeuger von Agrarprodukten": 0
+        }
+    },
+    {
+        "input": "Ein Experte hat eine Reihe von Maßnahmen ergriffen, um den Verbrauchern zu helfen, die Informationsasymmetrie wirksam zu verringern. Welche der folgenden Optionen erfüllt dieses Ziel nicht?\nA. Langfristige Qualitätsgarantie\nB. Marke\nC. Produktgarantie\nD. niedrige Preise",
+        "target_scores": {
+            "A. Langfristige Qualitätsgarantie": 0,
+            "B. Marke": 0,
+            "C. Produktgarantie": 0,
+            "D. niedrige Preise": 1
+        }
+    },
+    {
+        "input": "Sowohl der Produktmarkt als auch der Faktormarkt sind vollkommen konkurrierend. Der Produktpreis beträgt 5 Euro und der Faktorpreis beträgt 10 Euro. Wie hoch ist das Grenzprodukt des Faktors bei optimaler Unternehmensentscheidung?\nA. 1\nB. 2\nC. 3\nD. 5",
+        "target_scores": {
+            "A. 1": 0,
+            "B. 2": 1,
+            "C. 3": 0,
+            "D. 5": 0
+        }
+    },
+    {
+        "input": "Angenommen, es gibt eine Eigenschaft von Gegenstand A: Wenn er von einer Person konsumiert wird, reduziert er den Gebrauch des Gegenstands durch andere. Wie lautet die korrekte Beschreibung von Gegenstand A?\nA. Keine der oben genannten Aussagen ist richtig.\nB. Wettbewerbsfähig\nC. ausschließbar\nD. Öffentliches Gut",
+        "target_scores": {
+            "A. Keine der oben genannten Aussagen ist richtig.": 0,
+            "B. Wettbewerbsfähig": 1,
+            "C. ausschließbar": 0,
+            "D. Öffentliches Gut": 0
+        }
+    },
+    {
+        "input": "Eine Untersuchung ergab, dass ein bestimmtes Smartphone im Frühjahr 3600 Euro kostete und im Herbst desselben Jahres 2900 Euro. Um welche Situation handelt es sich dabei?\nA. Normale Marktpreisschwankung\nB. Preisdiskriminierung dritten Grades\nC. Preisdiskriminierung ersten Grades\nD. Preisdiskriminierung zweiten Grades",
+        "target_scores": {
+            "A. Normale Marktpreisschwankung": 1,
+            "B. Preisdiskriminierung dritten Grades": 0,
+            "C. Preisdiskriminierung ersten Grades": 0,
+            "D. Preisdiskriminierung zweiten Grades": 0
+        }
+    },
+    {
+        "input": "Wenn X in einer Zwei-Güter-Wirtschaft der Meinung ist, dass mehr von Gut A schlechter und mehr von Gut B besser ist, dann ist die folgende Aussage richtig?\nA. Die Indifferenzkurve kann eine elliptische Form haben.\nB. Die Indifferenzkurve muss nach rechts oben ansteigen.\nC. Eine Indifferenzkurve muss zum Ursprung hin konvex sein.\nD. Keine der oben genannten Aussagen.",
+        "target_scores": {
+            "A. Die Indifferenzkurve kann eine elliptische Form haben.": 0,
+            "B. Die Indifferenzkurve muss nach rechts oben ansteigen.": 1,
+            "C. Eine Indifferenzkurve muss zum Ursprung hin konvex sein.": 0,
+            "D. Keine der oben genannten Aussagen.": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Aussagen über das wirtschaftliche Gleichgewicht ist richtig?\nA. Die Gesamtausgaben entsprechen den Geschäftseinnahmen.\nB. Geplante Ersparnisse entsprechen geplanten Investitionen.\nC. Konsum plus Investitionen entspricht der Produktion.\nD. Tatsächliche (ex-post) Ersparnisse entsprechen tatsächlichen (ex-post) Investitionen.",
+        "target_scores": {
+            "A. Die Gesamtausgaben entsprechen den Geschäftseinnahmen.": 0,
+            "B. Geplante Ersparnisse entsprechen geplanten Investitionen.": 1,
+            "C. Konsum plus Investitionen entspricht der Produktion.": 0,
+            "D. Tatsächliche (ex-post) Ersparnisse entsprechen tatsächlichen (ex-post) Investitionen.": 0
+        }
+    },
+    {
+        "input": "Leo hat sich schon immer gefragt, warum Handtaschen von Massenmarken nicht teuer sind, aber oft mit Preisnachlässen verkauft werden, während Designerhandtaschen sehr teuer sind, aber normalerweise nicht im Preis gesenkt werden. Bitte erklären Sie dieses Phänomen anhand der Grundsätze der Wirtschaftswissenschaften.\nA. Aufgrund negativer Netzwerkexternalitäten\nB. Aufgrund positiver Netzwerkexternalitäten\nC. Da die Preiselastizität der Nachfrage positiv ist\nD. Da es einen Bandwagon-Effekt gibt",
+        "target_scores": {
+            "A. Aufgrund negativer Netzwerkexternalitäten": 1,
+            "B. Aufgrund positiver Netzwerkexternalitäten": 0,
+            "C. Da die Preiselastizität der Nachfrage positiv ist": 0,
+            "D. Da es einen Bandwagon-Effekt gibt": 0
+        }
+    },
+    {
+        "input": "Eine Marktanalyse der Ware A ergibt: Wenn der Preis sinkt, beträgt der Substitutionseffekt +7 und der Einkommenseffekt -5. Um welche Art von Gut handelt es sich?\nA. Giffen-Gut\nB. Inferiores Gut\nC. Normales Gut\nD. Unabhängiges Gut",
+        "target_scores": {
+            "A. Giffen-Gut": 0,
+            "B. Inferiores Gut": 1,
+            "C. Normales Gut": 0,
+            "D. Unabhängiges Gut": 0
+        }
+    },
+    {
+        "input": "Ökonomen haben herausgefunden, dass der Lohnsatz der Arbeit geringer ist als der Wert des Grenzprodukts der Arbeit. Welche der folgenden Schlussfolgerungen muss falsch sein?\nA. Auf den Faktormärkten herrscht Monopol und auf den Produktmärkten herrscht vollkommener Wettbewerb\nB. Die Produktmärkte sind monopolistisch, die Faktormärkte befinden sich im vollkommenen Wettbewerb\nC. Produkt- und Faktormärkte befinden sich im vollkommenen Wettbewerb\nD. Produkt- und Faktormärkte sind monopolisiert",
+        "target_scores": {
+            "A. Auf den Faktormärkten herrscht Monopol und auf den Produktmärkten herrscht vollkommener Wettbewerb": 0,
+            "B. Die Produktmärkte sind monopolistisch, die Faktormärkte befinden sich im vollkommenen Wettbewerb": 0,
+            "C. Produkt- und Faktormärkte befinden sich im vollkommenen Wettbewerb": 1,
+            "D. Produkt- und Faktormärkte sind monopolisiert": 0
+        }
+    },
+    {
+        "input": "Wenn die Marktforschung zu einem Gut ergibt, dass der soziale Grenznutzen größer ist als der private Grenznutzen, welche der folgenden Aussagen ist richtig?\nA. Der Preis ist niedriger als der effiziente Preis\nB. Die Gesellschaft sollte die Produktion steigern\nC. Die Gesellschaft sollte die Produktion verringern\nD. Ein privat effizientes Ergebnis ist auch sozial effizient",
+        "target_scores": {
+            "A. Der Preis ist niedriger als der effiziente Preis": 0,
+            "B. Die Gesellschaft sollte die Produktion steigern": 1,
+            "C. Die Gesellschaft sollte die Produktion verringern": 0,
+            "D. Ein privat effizientes Ergebnis ist auch sozial effizient": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Beschreibungen erklärt am besten, warum die Konsumentenrente strikt größer als 0 ist?\nA. Abnehmender Grenznutzen\nB. Das ist noch nicht klar\nC. Der Warenpreis wird durch die letzte konsumierte Einheit bestimmt\nD. Gemeinsam durch B und D bestimmt",
+        "target_scores": {
+            "A. Abnehmender Grenznutzen": 0,
+            "B. Das ist noch nicht klar": 0,
+            "C. Der Warenpreis wird durch die letzte konsumierte Einheit bestimmt": 0,
+            "D. Gemeinsam durch B und D bestimmt": 1
+        }
+    },
+    {
+        "input": "Angenommen, die Wirtschaft eines Landes ist eine offene Volkswirtschaft. Welche Folgen hätte es, wenn das Land eine straffe Finanz- und Geldpolitik betreiben würde?\nA. Dies würde zu einem Anstieg der Einfuhren und einer Verschlechterung der Zahlungsbilanz führen\nB. Steigende Inflation\nC. Steigende Zinssätze und geringere Kapitalabflüsse\nD. Steigende inländische Arbeitslosigkeit",
+        "target_scores": {
+            "A. Dies würde zu einem Anstieg der Einfuhren und einer Verschlechterung der Zahlungsbilanz führen": 0,
+            "B. Steigende Inflation": 0,
+            "C. Steigende Zinssätze und geringere Kapitalabflüsse": 0,
+            "D. Steigende inländische Arbeitslosigkeit": 1
+        }
+    },
+    {
+        "input": "Der Staat hat bekanntlich die folgenden vier Möglichkeiten, seine Ausgaben zu finanzieren. Welche Art der Ausgabenfinanzierung hat die größten Auswirkungen auf die Gesamtnachfrage?\nA. Anleiheverkauf an Banken\nB. Kreditaufnahme bei der Öffentlichkeit\nC. Steuererhöhungen\nD. Zentralbankfinanzierung",
+        "target_scores": {
+            "A. Anleiheverkauf an Banken": 0,
+            "B. Kreditaufnahme bei der Öffentlichkeit": 0,
+            "C. Steuererhöhungen": 0,
+            "D. Zentralbankfinanzierung": 1
+        }
+    },
+    {
+        "input": "Ich studiere Volkswirtschaftslehre und möchte die wichtigsten Unterschiede zwischen der endogenen Wachstumstheorie und dem Solow-Modell herausarbeiten: Welche der folgenden Aussagen zur endogenen Wachstumstheorie ist richtig?\nA. Die Annahme eines exogenen technologischen Wandels im Solow-Modell wird verworfen\nB. Keine der obigen Aussagen ist richtig\nC. Sie bekräftigt die Rolle des technologischen Wandels für das Wirtschaftswachstum\nD. Sie nennt Forschung und Entwicklung als Hauptgrund für exogenen technologischen Wandel",
+        "target_scores": {
+            "A. Die Annahme eines exogenen technologischen Wandels im Solow-Modell wird verworfen": 1,
+            "B. Keine der obigen Aussagen ist richtig": 0,
+            "C. Sie bekräftigt die Rolle des technologischen Wandels für das Wirtschaftswachstum": 0,
+            "D. Sie nennt Forschung und Entwicklung als Hauptgrund für exogenen technologischen Wandel": 0
+        }
+    },
+    {
+        "input": "Wenn ein Monopolunternehmen bei einem bestimmten Produktionsniveau Grenzkosten in Höhe von 10 und Grenzerlöse in Höhe von 22 hat, was sollte es tun, wenn es seinen Gewinn maximieren will?\nA. Preise erhöhen und Produktion senken\nB. Preise senken und Produktion erhöhen\nC. Preise und Produktion erhöhen\nD. Preise und Produktion senken",
+        "target_scores": {
+            "A. Preise erhöhen und Produktion senken": 0,
+            "B. Preise senken und Produktion erhöhen": 1,
+            "C. Preise und Produktion erhöhen": 0,
+            "D. Preise und Produktion senken": 0
+        }
+    },
+    {
+        "input": "Nehmen wir folgendes Szenario an: In einer Stadt herrscht Wasserknappheit und die Regierung führt ein Verfahren zur kostenlosen und gleichmäßigen Verteilung von Wasser ein, ein Verfahren, das keine Kosten verursacht, und die Regierung verbietet den Handel mit Wasser zwischen den Einwohnern. Welche der folgenden Analysen ist also richtig?\nA. Diese Aufteilung ist Pareto-effizient, da das Wasser zu diesem Zeitpunkt frei ist.\nB. Diese Aufteilung ist Pareto-effizient, weil sie so gerecht ist\nC. Diese Aufteilung ist nicht notwendigerweise, aber möglicherweise Pareto-effizient\nD. Keine der oben genannten Aussagen ist richtig",
+        "target_scores": {
+            "A. Diese Aufteilung ist Pareto-effizient, da das Wasser zu diesem Zeitpunkt frei ist.": 0,
+            "B. Diese Aufteilung ist Pareto-effizient, weil sie so gerecht ist": 0,
+            "C. Diese Aufteilung ist nicht notwendigerweise, aber möglicherweise Pareto-effizient": 1,
+            "D. Keine der oben genannten Aussagen ist richtig": 0
+        }
+    },
+    {
+        "input": "Was würde passieren, wenn Herr Schneider, der Leiter eines Unternehmens, beschließen würde, eine bestimmte Menge zu minimalen Kosten zu produzieren?\nA. Der Gesamtertrag ist gleich Null\nB. Es ist sicher, dass der Gewinn nicht maximiert wird\nC. Es kann nicht bestimmt werden, ob der Gewinn maximiert wird\nD. Maximaler Gewinn ist garantiert",
+        "target_scores": {
+            "A. Der Gesamtertrag ist gleich Null": 0,
+            "B. Es ist sicher, dass der Gewinn nicht maximiert wird": 0,
+            "C. Es kann nicht bestimmt werden, ob der Gewinn maximiert wird": 1,
+            "D. Maximaler Gewinn ist garantiert": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden vier Aussagen über die Indifferenzkurven eines Verbrauchers ist falsch?\nA. Der Schnittpunkt von zwei Indifferenzkurven bedeutet, dass der Verbraucher nicht rational ist.\nB. Die Hypothese „mehr ist besser\" besagt, dass eine Indifferenzkurve, die näher am Ursprung liegt, ein höheres Nutzenniveau darstellt.\nC. Die Punkte einer Indifferenzkurve entsprechen dem gleichen Nutzenniveau\nD. Die Steigung der Indifferenzkurve stellt die Bereitschaft des Verbrauchers zur Substitution zwischen verschiedenen Gütern dar.",
+        "target_scores": {
+            "A. Der Schnittpunkt von zwei Indifferenzkurven bedeutet, dass der Verbraucher nicht rational ist.": 0,
+            "B. Die Hypothese „mehr ist besser\" besagt, dass eine Indifferenzkurve, die näher am Ursprung liegt, ein höheres Nutzenniveau darstellt.": 1,
+            "C. Die Punkte einer Indifferenzkurve entsprechen dem gleichen Nutzenniveau": 0,
+            "D. Die Steigung der Indifferenzkurve stellt die Bereitschaft des Verbrauchers zur Substitution zwischen verschiedenen Gütern dar.": 0
+        }
+    },
+    {
+        "input": "Der Leiter einer Kühlschrankfabrik analysiert die Geschäftslage und stellt fest, dass die Mindestkosten unter den gegebenen Produktionsbedingungen erreicht werden. Wie sieht die Gewinnsituation des Herstellers aus?\nA. 0\nB. Alle oben genannten Punkte sind möglich\nC. Größer als 0\nD. Weniger als 0",
+        "target_scores": {
+            "A. 0": 0,
+            "B. Alle oben genannten Punkte sind möglich": 1,
+            "C. Größer als 0": 0,
+            "D. Weniger als 0": 0
+        }
+    },
+    {
+        "input": "Ein Land möchte das Wachstum eines Monopolunternehmens beschränken und führt eine Preisobergrenze ein, so dass der ökonomische Gewinn des Unternehmens gerade verschwindet. Diese Preisobergrenze entspricht welchen Kosten des Unternehmens?\nA. Durchschnittliche Kosten\nB. Durchschnittliche variable Kosten\nC. Grenzerträge\nD. Grenzkosten",
+        "target_scores": {
+            "A. Durchschnittliche Kosten": 1,
+            "B. Durchschnittliche variable Kosten": 0,
+            "C. Grenzerträge": 0,
+            "D. Grenzkosten": 0
+        }
+    },
+    {
+        "input": "Bitte berechnen Sie die Gesamtarbeitslosenquote für das folgende Szenario: zwei Hauptgruppen, Erwachsene und Jugendliche. Auf Jugendliche entfallen 10 % der Erwerbsbevölkerung und auf Erwachsene 90 %. Die Erwachsenen sind in Männer und Frauen unterteilt, wobei der Anteil der Frauen an der erwachsenen Erwerbsbevölkerung 35 % beträgt. Wenn die Arbeitslosenquoten für diese Gruppen 19 % für Jugendliche, 7 % für Männer und 6 % für Frauen betragen, wie hoch ist dann die Gesamtarbeitslosenquote?\nA. 0,06885\nB. 0,07855\nC. 0,07876\nD. 0,07885",
+        "target_scores": {
+            "A. 0,06885": 0,
+            "B. 0,07855": 0,
+            "C. 0,07876": 0,
+            "D. 0,07885": 1
+        }
+    },
+    {
+        "input": "Angenommen, es gibt nur zwei Produktionsfaktoren, wobei 40 % des Einkommens auf Kapital und 60 % auf Arbeit entfallen, und Arbeit und Kapital wachsen mit 2 % bzw. 6 % pro Jahr: Wie lange würde es dauern, bis sich die Produktion ohne technischen Fortschritt verdoppelt?\nA. $17{,}55$ Jahre\nB. $18{,}86$ Jahre\nC. $19{,}44$ Jahre\nD. $20{,}02$ Jahre",
+        "target_scores": {
+            "A. $17{,}55$ Jahre": 0,
+            "B. $18{,}86$ Jahre": 0,
+            "C. $19{,}44$ Jahre": 1,
+            "D. $20{,}02$ Jahre": 0
+        }
+    },
+    {
+        "input": "Nehmen Sie an, dass $\\theta=0{,}3$, $\\text{y=5}$ Billionen Euro und $\\mathrm{rc=0{,}12}$. Verwenden Sie die Cobb-Douglas-Produktionsfunktion mit dem entsprechenden gewünschten Kapitalstock, gegeben als $\\mathrm{K^{*}=g(rc,~y)=\\theta y/rc}$, um den gewünschten Kapitalstock $K^*$ zu berechnen.\nA. 11,5 Billionen Euro\nB. 12,5 Billionen Euro\nC. 12,8 Billionen Euro\nD. 13,5 Billionen Euro",
+        "target_scores": {
+            "A. 11,5 Billionen Euro": 0,
+            "B. 12,5 Billionen Euro": 1,
+            "C. 12,8 Billionen Euro": 0,
+            "D. 13,5 Billionen Euro": 0
+        }
+    },
+    {
+        "input": "Nehmen wir an, dass die Konsumfunktion J$C=300+0{,}9Y_{p}$​ ist, wobei $Y_{p}$​ das dauerhaft verfügbare Einkommen ist. Nehmen Sie ferner an, dass das dauerhafte Einkommen des Verbrauchers ein gewichteter Durchschnitt des laufenden Jahres und der beiden Vorjahre ist, $Y_{P}=0{,}6Y_{D}+0{,}3Y_{D-1}+0{,}1Y_{D-2}$, wobei $Y_{D}$​ das verfügbare Einkommen des laufenden Jahres ist. Unter der Annahme, dass das verfügbare Einkommen im vierten Jahr auf 9.000 Euro ansteigt und dies auch in Zukunft so bleiben wird, wie hoch ist dann der Konsum im sechsten Jahr und danach?\nA. 8.400\nB. 8.500\nC. 8.600\nD. 8.700",
+        "target_scores": {
+            "A. 8.400": 1,
+            "B. 8.500": 0,
+            "C. 8.600": 0,
+            "D. 8.700": 0
+        }
+    },
+    {
+        "input": "Die folgenden Informationen sind bekannt: Bruttoinlandsprodukt von 600 Milliarden Euro, Bruttoinvestitionen von 80 Milliarden Euro, Nettoinvestitionen von 30 Milliarden Euro, Konsum von 400 Milliarden Euro, staatliche Käufe von 110 Milliarden Euro, staatlicher Haushaltsüberschuss von 30 Milliarden Euro. Wie hoch ist die persönliche Ersparnis?\nA. 370 Milliarden Euro\nB. 410 Milliarden Euro\nC. 450 Milliarden Euro\nD. 500 Milliarden Euro",
+        "target_scores": {
+            "A. 370 Milliarden Euro": 1,
+            "B. 410 Milliarden Euro": 0,
+            "C. 450 Milliarden Euro": 0,
+            "D. 500 Milliarden Euro": 0
+        }
+    },
+    {
+        "input": "Eine Makroökonomie hat bekanntlich eine Konsumentenfunktion von $\\mathrm{C=100+0{,}8Y_{d}}$ ($Y_{d}$ ist das verfügbare Einkommen in Milliarden Euro), autonome Investitionen $\\text{I=50}$, eine staatliche Fiskalpolitik bestehend aus Staatsausgaben $\\text{G=200}$, autonomen Steuern $\\text{T0= 60}$, und einem proportionalen Steuersatz $\\text{T=0{,}250}$. Wie hoch ist das Volkseinkommen $Y$ im makroökonomischen Gleichgewicht?\nA. 745\nB. 755\nC. 775\nD. 785",
+        "target_scores": {
+            "A. 745": 0,
+            "B. 755": 1,
+            "C. 775": 0,
+            "D. 785": 0
+        }
+    },
+    {
+        "input": "Angenommen, eine Volkswirtschaft hat: $\\text{C=85+0{,}75Yd}$, $\\text{I=100-500r}$, $\\text{G=50}$, $\\text{T=20+0{,}2Y}$, und $\\text{TR=0}$. Wie lautet die IS-Gleichung?\nA. $\\text{Y=550-1250r}$\nB. $\\text{Y=550-1350r}$\nC. $\\text{Y=650-1250r}$\nD. $\\text{Y=650-1350r}$",
+        "target_scores": {
+            "A. $\\text{Y=550-1250r}$": 1,
+            "B. $\\text{Y=550-1350r}$": 0,
+            "C. $\\text{Y=650-1250r}$": 0,
+            "D. $\\text{Y=650-1350r}$": 0
+        }
+    },
+    {
+        "input": "Angenommen, es gibt eine Wirtschaftsgesellschaft, die aus drei Sektoren besteht. Ihre Konsumfunktion ist $\\text{C=680+0{,}8(Y-T)}$. Die Investitionsfunktion ist $\\text{I=600-4000r}$, die Staatsausgaben $\\text{G=420}$, die Steuerfunktion $\\text{T=100+0{,}25Y}$, die nominale Geldmenge $\\text{Ms=345}$, und die Geldnachfragefunktion $\\text{Md=25+0{,}4Y-4000r}$. Bestimmen Sie die Gleichung der $IS$-Kurve:\nA. $\\text{Y=2400-11000r}$\nB. $\\text{Y=2500-10000r}$\nC. $\\text{Y=2600-10000r}$\nD. $\\text{Y=4050-10000r}$",
+        "target_scores": {
+            "A. $\\text{Y=2400-11000r}$": 0,
+            "B. $\\text{Y=2500-10000r}$": 0,
+            "C. $\\text{Y=2600-10000r}$": 0,
+            "D. $\\text{Y=4050-10000r}$": 1
+        }
+    },
+    {
+        "input": "In der Textilindustrie eines Landes kommt es zu Arbeitslosigkeit. Eine Untersuchung hat ergeben, dass die Ursache ein Rückstau von Textilerzeugnissen ist. Um welche Art von Arbeitslosigkeit handelt es sich?\nA. Permanente Arbeitslosigkeit\nB. Strukturelle Arbeitslosigkeit\nC. friktionelle Arbeitslosigkeit\nD. konjunkturelle Arbeitslosigkeit",
+        "target_scores": {
+            "A. Permanente Arbeitslosigkeit": 0,
+            "B. Strukturelle Arbeitslosigkeit": 0,
+            "C. friktionelle Arbeitslosigkeit": 0,
+            "D. konjunkturelle Arbeitslosigkeit": 1
+        }
+    },
+    {
+        "input": "Bei der Untersuchung der Arten von Arbeitslosigkeit stößt man auf friktionelle Arbeitslosigkeit und strukturelle Arbeitslosigkeit. Welche dieser beiden Arten ist gravierender?\nA. Gleich gravierend\nB. Keine von beiden ist gravierend\nC. Strukturelle Arbeitslosigkeit\nD. friktionelle Arbeitslosigkeit",
+        "target_scores": {
+            "A. Gleich gravierend": 0,
+            "B. Keine von beiden ist gravierend": 0,
+            "C. Strukturelle Arbeitslosigkeit": 1,
+            "D. friktionelle Arbeitslosigkeit": 0
+        }
+    },
+    {
+        "input": "Wenn ein Experte die Wirtschaftslage analysiert und feststellt, dass die tatsächliche Inflationsrate höher ist als die erwartete Inflationsrate, welche der folgenden Größen wird kurzfristig nicht beeinflusst?\nA. Arbeitslosigkeit\nB. Deflation\nC. Inflation\nD. Rückgang der Reallöhne",
+        "target_scores": {
+            "A. Arbeitslosigkeit": 0,
+            "B. Deflation": 1,
+            "C. Inflation": 0,
+            "D. Rückgang der Reallöhne": 0
+        }
+    },
+    {
+        "input": "Eine Gesamtnachfragekurve weist eine negative Steigung und einen nach rechts abfallenden Verlauf auf. Welcher der folgenden Faktoren ist NICHT an der Entstehung dieses Verlaufs beteiligt?\nA. Abnahme der Auslandsinvestitionen\nB. Der Mundell-Fleming-Wechselkurseffekt\nC. Realkasseneffekt\nD. Zinseffekt",
+        "target_scores": {
+            "A. Abnahme der Auslandsinvestitionen": 1,
+            "B. Der Mundell-Fleming-Wechselkurseffekt": 0,
+            "C. Realkasseneffekt": 0,
+            "D. Zinseffekt": 0
+        }
+    },
+    {
+        "input": "In einem Land lauten die volkswirtschaftlichen Kennzahlen wie folgt: Die Staatsausgaben betragen 800 Milliarden, die Steuereinnahmen ebenfalls 800 Milliarden. Die Exporte liegen bei 700 Milliarden, die Importe bei 500 Milliarden. Die marginale Konsumneigung ist 0,5 und der autonome Konsum beträgt 100 Milliarden. Die marginale Investitionsneigung liegt bei 0,3 und die autonomen Investitionen bei 120 Milliarden. Wie hoch ist das Nationaleinkommen dieses Landes?\nA. 2.700 Milliarden\nB. 2.800 Milliarden\nC. 2.900 Milliarden\nD. 3.000 Milliarden",
+        "target_scores": {
+            "A. 2.700 Milliarden": 0,
+            "B. 2.800 Milliarden": 0,
+            "C. 2.900 Milliarden": 1,
+            "D. 3.000 Milliarden": 0
+        }
+    },
+    {
+        "input": "Leo las ein Wirtschaftsbuch und stieß auf einen Begriff namens Schmerzindex. Er war neugierig, ob Schmerz auch quantifizierbar ist, sagen Sie ihm, wie lautet die Formel zur Berechnung des Elendsindex in der Wirtschaft?\nA. Deflationsrate + Arbeitslosigkeitsquote\nB. Deflationsrate + Beschäftigungsrate\nC. Inflationsrate + Arbeitslosigkeitsquote\nD. Inflationsrate + Beschäftigungsquote",
+        "target_scores": {
+            "A. Deflationsrate + Arbeitslosigkeitsquote": 0,
+            "B. Deflationsrate + Beschäftigungsrate": 0,
+            "C. Inflationsrate + Arbeitslosigkeitsquote": 1,
+            "D. Inflationsrate + Beschäftigungsquote": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Beschreibungen der Beziehung zwischen der Marktnachfragekurve für öffentliche Güter und den individuellen Nachfragekurven der Verbraucher ist korrekt?\nA. Die Marktnachfragekurve für öffentliche Güter ist das arithmetische Mittel der individuellen Verbrauchernachfragekurven\nB. Die Marktnachfragekurve für öffentliche Güter ist die horizontale Summierung der individuellen Verbrauchernachfragekurven\nC. Die Marktnachfragekurve für öffentliche Güter ist die vertikale Summierung der individuellen Verbrauchernachfragekurven\nD. Die Marktnachfragekurve für öffentliche Güter ist ein gewichteter Durchschnitt der individuellen Verbrauchernachfragekurven",
+        "target_scores": {
+            "A. Die Marktnachfragekurve für öffentliche Güter ist das arithmetische Mittel der individuellen Verbrauchernachfragekurven": 0,
+            "B. Die Marktnachfragekurve für öffentliche Güter ist die horizontale Summierung der individuellen Verbrauchernachfragekurven": 0,
+            "C. Die Marktnachfragekurve für öffentliche Güter ist die vertikale Summierung der individuellen Verbrauchernachfragekurven": 1,
+            "D. Die Marktnachfragekurve für öffentliche Güter ist ein gewichteter Durchschnitt der individuellen Verbrauchernachfragekurven": 0
+        }
+    },
+    {
+        "input": "Ein Wirtschaftsexperte möchte vorhersagen, um wie viel das Nationaleinkommen durch eine Erhöhung der staatlichen Investitionen gesteigert werden kann, und zwar unter folgenden Bedingungen: Die staatlichen Investitionsausgaben werden um 5 Milliarden Euro erhöht, die Wirtschaft befindet sich anfänglich im Gleichgewicht bei 470 Milliarden Euro, und die marginale Konsumneigung beträgt 0,75. Um wie viel wird das Nationaleinkommen steigen?\nA. 18 Milliarden Euro\nB. 19 Milliarden Euro\nC. 20 Milliarden Euro\nD. 22 Milliarden Euro",
+        "target_scores": {
+            "A. 18 Milliarden Euro": 0,
+            "B. 19 Milliarden Euro": 0,
+            "C. 20 Milliarden Euro": 1,
+            "D. 22 Milliarden Euro": 0
+        }
+    },
+    {
+        "input": "Angenommen, die soziale Konsumfunktion eines Drei-Sektoren-Wirtschaftssystems ist $\\mathbf{C}=300+0{,}8\\mathbf{Y}_{\\mathrm{d}}$ (wobei $\\mathbf{Y}_{\\mathsf{d}}$ das verfügbare Einkommen ist), die Investitionen $\\text{I=200}$, und die Steuerfunktion $\\text{T=0{,}2Y} $(in Mio. EUR). Wie hoch werden die Staatsausgaben (ohne Transfers) bei einem Equilibriumseinkommen $\\text{Y=2000}$ sein?\nA. 200\nB. 210\nC. 220\nD. 230",
+        "target_scores": {
+            "A. 200": 0,
+            "B. 210": 0,
+            "C. 220": 1,
+            "D. 230": 0
+        }
+    },
+    {
+        "input": "Angenommen, in einer Volkswirtschaft besteht folgende Beziehung: $\\text{C=100+0{,}8Yd}$ $\\text{I=50}$ $\\text{G=200}$ $\\text{TR=62{,}5}$ $\\text{t=0{,}25}$ wobei C den Konsum, Yd das verfügbare persönliche Einkommen, I die Investitionen, G die Staatsausgaben, TR die staatlichen Transfers und t den Steuersatz bezeichnen. Wie hoch ist das Gleichgewichtseinkommen?\nA. 1.000\nB. 1.100\nC. 1.200\nD. 900",
+        "target_scores": {
+            "A. 1.000": 1,
+            "B. 1.100": 0,
+            "C. 1.200": 0,
+            "D. 900": 0
+        }
+    },
+    {
+        "input": "Angenommen, die Konsumfunktion für eine gegebene Volkswirtschaft ist $\\text{C=100+0{,}8Yd}$, wobei $\\text{Yd=Y-tY+TR}$, Investitionen $\\text{I=50}$, staatliche Güterkäufe $\\text{G=200}$ und staatliche Transfers $\\text{TR=62{,}5}$ sind (alle in Milliarden Euro). Der Steuersatz $\\text{t=0{,}25}$. Wie hoch ist die Gleichgewichtsproduktion?\nA. 1000\nB. 1100\nC. 1200\nD. 900",
+        "target_scores": {
+            "A. 1000": 1,
+            "B. 1100": 0,
+            "C. 1200": 0,
+            "D. 900": 0
+        }
+    },
+    {
+        "input": "Geschlossenes gesamtwirtschaftliches Nachfrage- und Angebotsmodell $\\text{C=100+0{,}8Y}$, $\\text{I=1000-2r}$ Nominale Geldmenge $\\text{Ms=800}$ Reale Geldnachfrage $\\text{Md/P=0{,}2Y-2r}$, Staatsausgaben $\\text{G=500}$ Kurzfristige gesamtwirtschaftliche Produktionsfunktion $\\text{Y=20L}$ Arbeitsangebot $\\textsf{Ls=100+2(W/P)} $ Arbeitsnachfrage $\\mathrm{Ld=500-2(W/P)} $, W ist der Nominallohnsatz, P ist das Preisniveau, r ist der Zinssatz, und unter der Annahme, dass Preise und Löhne vollkommen flexibel sind, wie lautet die Gleichung der IS-Kurve?\nA. $\\text{Y=8000-10r}$\nB. $\\text{Y=8500-10r}$\nC. $\\text{Y=8600-10r}$\nD. $\\text{Y=9000-10r}$",
+        "target_scores": {
+            "A. $\\text{Y=8000-10r}$": 1,
+            "B. $\\text{Y=8500-10r}$": 0,
+            "C. $\\text{Y=8600-10r}$": 0,
+            "D. $\\text{Y=9000-10r}$": 0
+        }
+    },
+    {
+        "input": "Wirtschaftsexperten analysieren die Wirtschaftslage und haben Informationen erhalten, aus denen hervorgeht, dass die Staatsausgaben für Waren und Dienstleistungen 1,5 Milliarden Euro, der Konsum 6 Milliarden Euro, die indirekten Steuern 1 Milliarde Euro, die Investitionen 1 Milliarde Euro und die Nettoexporte 200 Millionen Euro betragen. Welche der folgenden Aussagen ist richtig?\nA. GNP = 8,7 Milliarden Euro\nB. GNP kann nicht festgestellt werden\nC. NDP = 5 Milliarden Euro\nD. NDP = 8,7 Milliarden Euro",
+        "target_scores": {
+            "A. GNP = 8,7 Milliarden Euro": 0,
+            "B. GNP kann nicht festgestellt werden": 1,
+            "C. NDP = 5 Milliarden Euro": 0,
+            "D. NDP = 8,7 Milliarden Euro": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Handlungen wird zum BIP des laufenden Jahres gezählt?\nA. Kauf eines alten Autos\nB. Kauf eines alten Autos und Zahlung einer Vermittlungsgebühr von 1.000 Euro\nC. Kauf von Aktien im Wert von 1.000 Euro\nD. Von den Landwirten selbst erzeugte und konsumierte Lebensmittel",
+        "target_scores": {
+            "A. Kauf eines alten Autos": 0,
+            "B. Kauf eines alten Autos und Zahlung einer Vermittlungsgebühr von 1.000 Euro": 1,
+            "C. Kauf von Aktien im Wert von 1.000 Euro": 0,
+            "D. Von den Landwirten selbst erzeugte und konsumierte Lebensmittel": 0
+        }
+    },
+    {
+        "input": "Bei der Analyse der wirtschaftlichen Entwicklung von Ländern wird festgestellt, dass das BNP eines bestimmten Landes geringer ist als das BIP, woraus sich ableiten lässt, dass das Einkommen von Gebietsansässigen dieses Landes aus dem Ausland ( ) ist als das Einkommen von Gebietsfremden aus diesem Land.\nA. geringer als\nB. gleich\nC. größer als\nD. nicht beurteilbar",
+        "target_scores": {
+            "A. geringer als": 1,
+            "B. gleich": 0,
+            "C. größer als": 0,
+            "D. nicht beurteilbar": 0
+        }
+    },
+    {
+        "input": "Unter der Annahme, dass der BIP-Deflator von 1,25 auf 1,50 steigt, während das nominale BIP von 2.000 Mrd. auf 2.300 Mrd. ansteigt. Welche der folgenden Aussagen ist richtig?\nA. Anstieg des realen BIP\nB. Es kann nicht festgestellt werden, ob sich das reale BIP verändert hat\nC. Reales BIP unverändert\nD. Rückgang des realen BIP",
+        "target_scores": {
+            "A. Anstieg des realen BIP": 0,
+            "B. Es kann nicht festgestellt werden, ob sich das reale BIP verändert hat": 0,
+            "C. Reales BIP unverändert": 0,
+            "D. Rückgang des realen BIP": 1
+        }
+    },
+    {
+        "input": "Welche der folgenden Aussagen zur Berechnung des BIP nach der Einkommensmethode ist korrekt?\nA. Beinhaltet sowohl Kapitalgewinne von Privatpersonen als auch nicht ausgeschüttete Gewinne von Unternehmen\nB. Einschließlich Kapitalgewinne von Privatpersonen, aber ohne nicht ausgeschüttete Gewinne von Unternehmen\nC. Einschließlich nicht ausgeschütteter Gewinne von Unternehmen, aber ohne Kapitalgewinne von Privatpersonen\nD. Kapitalgewinne von Privatpersonen und nicht ausgeschüttete Gewinne von Unternehmen sind ausgeschlossen",
+        "target_scores": {
+            "A. Beinhaltet sowohl Kapitalgewinne von Privatpersonen als auch nicht ausgeschüttete Gewinne von Unternehmen": 1,
+            "B. Einschließlich Kapitalgewinne von Privatpersonen, aber ohne nicht ausgeschüttete Gewinne von Unternehmen": 0,
+            "C. Einschließlich nicht ausgeschütteter Gewinne von Unternehmen, aber ohne Kapitalgewinne von Privatpersonen": 0,
+            "D. Kapitalgewinne von Privatpersonen und nicht ausgeschüttete Gewinne von Unternehmen sind ausgeschlossen": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Aussagen über das potenzielle BIP ist richtig?\nA. Das potenzielle BIP ist das Niveau des BIP, wenn die Arbeitslosenquote gleich Null ist.\nB. Das potenzielle BIP ist das inflationsbereinigte Niveau des nominalen BIP\nC. Das potenzielle BIP ist immer größer als das tatsächliche BIP\nD. Keine der drei oben genannten Aussagen",
+        "target_scores": {
+            "A. Das potenzielle BIP ist das Niveau des BIP, wenn die Arbeitslosenquote gleich Null ist.": 0,
+            "B. Das potenzielle BIP ist das inflationsbereinigte Niveau des nominalen BIP": 0,
+            "C. Das potenzielle BIP ist immer größer als das tatsächliche BIP": 0,
+            "D. Keine der drei oben genannten Aussagen": 1
+        }
+    },
+    {
+        "input": "Welcher der folgenden Fälle würde eintreten, wenn eine Volkswirtschaft unterinvestiert wäre? Antwort auf der Grundlage der Kreislaufgleichung der Volkswirtschaftlichen Gesamtrechnung\nA. Alle oben genannten Punkte\nB. Erhöhung des staatlichen Arbeitslosengeldes\nC. Verringerung der Steuereinnahmen\nD. Zunahme der Ausfuhren",
+        "target_scores": {
+            "A. Alle oben genannten Punkte": 1,
+            "B. Erhöhung des staatlichen Arbeitslosengeldes": 0,
+            "C. Verringerung der Steuereinnahmen": 0,
+            "D. Zunahme der Ausfuhren": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Aussagen ist korrekt, wenn eine Volkswirtschaft aus den drei Sektoren private Haushalte, Unternehmen und Staat besteht und die Volkswirtschaftliche Gesamtrechnung zugrunde gelegt wird?\nA. Ersparnisse der privaten Haushalte entsprechen Nettoinvestitionen\nB. Ersparnisse der privaten Haushalte entsprechen den Gesamtinvestitionen\nC. Ersparnisse der privaten Haushalte plus Abschreibungen sind gleich Gesamtinvestitionen plus Staatsausgaben\nD. Ersparnisse der privaten Haushalte plus Steuern sind gleich Gesamtinvestitionen plus Staatsausgaben",
+        "target_scores": {
+            "A. Ersparnisse der privaten Haushalte entsprechen Nettoinvestitionen": 0,
+            "B. Ersparnisse der privaten Haushalte entsprechen den Gesamtinvestitionen": 0,
+            "C. Ersparnisse der privaten Haushalte plus Abschreibungen sind gleich Gesamtinvestitionen plus Staatsausgaben": 0,
+            "D. Ersparnisse der privaten Haushalte plus Steuern sind gleich Gesamtinvestitionen plus Staatsausgaben": 1
+        }
+    },
+    {
+        "input": "Wenn man weiß, dass die Gleichung für das Arbeitsangebot $\\text{NS=100+4W/P}$ und die Gleichung für die Arbeitsnachfrage $\\text{ND=200-6W/P}$ lautet, wie hoch ist das Beschäftigungsniveau im Gleichgewicht?\nA. 130\nB. 140\nC. 150\nD. 160",
+        "target_scores": {
+            "A. 130": 0,
+            "B. 140": 1,
+            "C. 150": 0,
+            "D. 160": 0
+        }
+    },
+    {
+        "input": "Die Arbeitsnachfragefunktion lautet $200-8\\text{W/P}$. Angenommen, die Arbeitsnachfrage sinkt, und ihre Gleichung ändert sich zu: $\\text{N D = 180-6W /P}$. Um wie viel Prozent sinkt das Gleichgewichtslohnniveau?\nA. 4,7%\nB. 5,7%\nC. 6,3%\nD. 6,7%",
+        "target_scores": {
+            "A. 4,7%": 0,
+            "B. 5,7%": 1,
+            "C. 6,3%": 0,
+            "D. 6,7%": 0
+        }
+    },
+    {
+        "input": "Für eine Volkswirtschaft sind folgende Daten gegeben: Das reale BIP beträgt 150 Milliarden Euro und der BIP-Deflator liegt bei 120. Wie hoch ist das nominale BIP?\nA. 110 Milliarden Euro.\nB. 150 Milliarden Euro.\nC. 170 Milliarden Euro.\nD. 180 Milliarden Euro.",
+        "target_scores": {
+            "A. 110 Milliarden Euro.": 0,
+            "B. 150 Milliarden Euro.": 0,
+            "C. 170 Milliarden Euro.": 0,
+            "D. 180 Milliarden Euro.": 1
+        }
+    },
+    {
+        "input": "Leo hat einige Zweifel bei der Berechnung des BIP nach der Ausgabenmethode. Er ist sich nicht sicher, welche der folgenden Optionen nicht zu den Investitionen zählt. Bitte geben Sie ihm die Antwort:\nA. Ein Unternehmen erhöht seinen Lagerbestand\nB. Ein Unternehmen errichtet eine Fabrik\nC. Ein Unternehmen kauft Staatsanleihen\nD. Ein Unternehmen kauft einen Computer",
+        "target_scores": {
+            "A. Ein Unternehmen erhöht seinen Lagerbestand": 0,
+            "B. Ein Unternehmen errichtet eine Fabrik": 0,
+            "C. Ein Unternehmen kauft Staatsanleihen": 1,
+            "D. Ein Unternehmen kauft einen Computer": 0
+        }
+    },
+    {
+        "input": "Leo führt eine Studie mit einer Familie durch und stellt fest, dass bei einem Einkommen von Null die Verbrauchsausgaben 2.000 Euro betragen; bei einem Einkommen von 6.000 Euro beträgt der Verbrauch 6.000 Euro, und auf dem Diagramm gibt es eine gerade Linie zwischen Verbrauch und Einkommen. Wie hoch ist demnach die marginale Konsumneigung?\nA. 1\nB. 2/3\nC. 3/4\nD. 4/5",
+        "target_scores": {
+            "A. 1": 0,
+            "B. 2/3": 1,
+            "C. 3/4": 0,
+            "D. 4/5": 0
+        }
+    },
+    {
+        "input": "Geht man davon aus, dass das Geldangebot und das Preisniveau konstant sind und die Geldnachfrage eine Funktion des Einkommens und des Zinssatzes ist, was geschieht bei einem Anstieg des Einkommens?\nA. Geringere Transaktionsnachfrage nach Geld und höherer Zinssatz\nB. Geringere Transaktionsnachfrage nach Geld und niedrigerer Zinssatz\nC. Gestiegene Transaktionsnachfrage nach Geld und höherer Zinssatz\nD. Gestiegene Transaktionsnachfrage nach Geld und niedrigerer Zinssatz",
+        "target_scores": {
+            "A. Geringere Transaktionsnachfrage nach Geld und höherer Zinssatz": 0,
+            "B. Geringere Transaktionsnachfrage nach Geld und niedrigerer Zinssatz": 0,
+            "C. Gestiegene Transaktionsnachfrage nach Geld und höherer Zinssatz": 1,
+            "D. Gestiegene Transaktionsnachfrage nach Geld und niedrigerer Zinssatz": 0
+        }
+    },
+    {
+        "input": "Bei Preisdifferenzierung ersten Grades entspricht die Konsumentenrente welcher der folgenden Beschreibungen?\nA. Entspricht der Konsumentenrente bei vollständiger Konkurrenz\nB. Entspricht der Produzentenrente\nC. Gleich Null\nD. Übersteigt die Konsumentenrente bei Preisdifferenzierung dritten Grades",
+        "target_scores": {
+            "A. Entspricht der Konsumentenrente bei vollständiger Konkurrenz": 0,
+            "B. Entspricht der Produzentenrente": 0,
+            "C. Gleich Null": 1,
+            "D. Übersteigt die Konsumentenrente bei Preisdifferenzierung dritten Grades": 0
+        }
+    },
+    {
+        "input": "Ich habe im Internet eine Wirtschaftstheorie gelesen, die besagt, dass sich die Verbraucher nicht nur auf ihr aktuelles Einkommen beziehen, sondern ihr lebenslanges oder vorhersehbares langfristiges Einkommen als Grundlage für ihre Konsumentscheidung verwenden. Wie lautet diese Theorie?\nA. Absolute Einkommenshypothese\nB. Hypothese des permanenten Einkommens\nC. Hypothese des relativen Einkommens\nD. Keynesianische Hypothese des Verbrauchs",
+        "target_scores": {
+            "A. Absolute Einkommenshypothese": 0,
+            "B. Hypothese des permanenten Einkommens": 1,
+            "C. Hypothese des relativen Einkommens": 0,
+            "D. Keynesianische Hypothese des Verbrauchs": 0
+        }
+    },
+    {
+        "input": "Bei der Analyse der jüngsten Wirtschaftslage stellte ein Experte fest, dass der reale Wert des Geldes und anderer Vermögenswerte, die Menschen besitzen, aufgrund des steigenden Preisniveaus gesunken ist, was zu einer Verringerung der Konsumausgaben führt. Es gibt eine Theorie, die diesen Effekt gut erklärt. Um welchen Effekt handelt es sich?\nA. Crowding-out-Effekt\nB. Import-Export-Effekt\nC. Realkasseneffekt\nD. Zinseffekt",
+        "target_scores": {
+            "A. Crowding-out-Effekt": 0,
+            "B. Import-Export-Effekt": 0,
+            "C. Realkasseneffekt": 1,
+            "D. Zinseffekt": 0
+        }
+    },
+    {
+        "input": "Wie würde sich die IS-Kurve verändern, wenn die Nettosteuereinnahmen um eine Milliarde Euro steigen würden?\nA. Verschiebung nach links um den Ausgabenmultiplikator multipliziert mit einer Milliarde Euro\nB. Verschiebung nach links um den Steuermultiplikator multipliziert mit einer Milliarde Euro\nC. Verschiebung nach rechts um den Ausgabenmultiplikator multipliziert mit einer Milliarde Euro\nD. Verschiebung nach rechts um den Steuermultiplikator multipliziert mit einer Milliarde Euro",
+        "target_scores": {
+            "A. Verschiebung nach links um den Ausgabenmultiplikator multipliziert mit einer Milliarde Euro": 0,
+            "B. Verschiebung nach links um den Steuermultiplikator multipliziert mit einer Milliarde Euro": 1,
+            "C. Verschiebung nach rechts um den Ausgabenmultiplikator multipliziert mit einer Milliarde Euro": 0,
+            "D. Verschiebung nach rechts um den Steuermultiplikator multipliziert mit einer Milliarde Euro": 0
+        }
+    },
+    {
+        "input": "Wenn man in einer ökonomischen Analyse eines Arbeitsmarktes feststellt, dass die Nachfragekurve $\\text{D=6000-30w}$ und die Angebotskurve $\\text{S=20w}$ lauten, wie hoch ist der Gleichgewichtslohn?\nA. 120\nB. 130\nC. 140\nD. 150",
+        "target_scores": {
+            "A. 120": 1,
+            "B. 130": 0,
+            "C. 140": 0,
+            "D. 150": 0
+        }
+    },
+    {
+        "input": "Was ist unter der Formulierung „der Markt kann keine reinen öffentlichen Güter bereitstellen\" zu verstehen?\nA. Alle oben genannten Punkte\nB. Die Verbraucher wollen als Trittbrettfahrer profitieren\nC. Öffentliche Güter sind nicht ausschließbar\nD. Öffentliche Güter sind nicht-rivalisierend",
+        "target_scores": {
+            "A. Alle oben genannten Punkte": 1,
+            "B. Die Verbraucher wollen als Trittbrettfahrer profitieren": 0,
+            "C. Öffentliche Güter sind nicht ausschließbar": 0,
+            "D. Öffentliche Güter sind nicht-rivalisierend": 0
+        }
+    },
+    {
+        "input": "Die Analyse zeigt, dass erhöhte Staatsausgaben eine Rechtsverschiebung des IS bewirken. Wenn die Änderung des Gleichgewichtseinkommens in etwa dem Betrag der Verschiebung des IS entsprechen soll, welche der folgenden Aussagen ist richtig?\nA. LM flach und IS steil\nB. LM senkrecht und IS steil\nC. LM steil und IS flach\nD. LM und IS gleich flach",
+        "target_scores": {
+            "A. LM flach und IS steil": 1,
+            "B. LM senkrecht und IS steil": 0,
+            "C. LM steil und IS flach": 0,
+            "D. LM und IS gleich flach": 0
+        }
+    },
+    {
+        "input": "Ein Land führt eine Studie über Einkommen und Beschäftigung durch, bevor es seine Politik formuliert, und die Ergebnisse zeigen, dass das Gleichgewichtseinkommen unter dem Gleichgewicht bei Vollbeschäftigung liegt. Welche der folgenden Folgen würde eintreten, wenn in dieser Situation eine Politik der doppelten Lockerung durchgeführt würde?\nA. zunehmende Einnahmen und unsicherer Zinssatz\nB. zunehmende Einnahmen und zunehmender Zinssatz\nC. zunehmende Einnahmen, abnehmender Zinssatz\nD. zunehmende Einnahmen, keine Veränderung des Zinssatzes",
+        "target_scores": {
+            "A. zunehmende Einnahmen und unsicherer Zinssatz": 1,
+            "B. zunehmende Einnahmen und zunehmender Zinssatz": 0,
+            "C. zunehmende Einnahmen, abnehmender Zinssatz": 0,
+            "D. zunehmende Einnahmen, keine Veränderung des Zinssatzes": 0
+        }
+    },
+    {
+        "input": "Welcher der folgenden Posten ist eine Verbindlichkeit einer Geschäftsbank?\nA. Hypothekendarlehen\nB. Sichteinlage\nC. Wechseldiskont\nD. Wertpapiere",
+        "target_scores": {
+            "A. Hypothekendarlehen": 0,
+            "B. Sichteinlage": 1,
+            "C. Wechseldiskont": 0,
+            "D. Wertpapiere": 0
+        }
+    },
+    {
+        "input": "Welches der folgenden Szenarien wird durch diesen ungünstigen Versorgungsschock in einem Land verursacht, in dem es zu einem erheblichen Ausfall der Nahrungsmittelernte gekommen ist?\nA. Das Preisniveau sinkt und das reale BIP sinkt\nB. Das Preisniveau sinkt und das reale BIP steigt.\nC. Das Preisniveau steigt und das reale BIP sinkt.\nD. Das Preisniveau steigt und das reale BIP steigt",
+        "target_scores": {
+            "A. Das Preisniveau sinkt und das reale BIP sinkt": 0,
+            "B. Das Preisniveau sinkt und das reale BIP steigt.": 0,
+            "C. Das Preisniveau steigt und das reale BIP sinkt.": 1,
+            "D. Das Preisniveau steigt und das reale BIP steigt": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Angaben ist nach den Grundsätzen der Volkswirtschaftlichen Gesamtrechnung die zutreffende Einordnung von Ausgaben der privaten Haushalte für Humankapitalinvestitionen in Bildung?\nA. Investitionsausgaben\nB. Konsumausgaben\nC. Nicht im Bruttosozialprodukt erfasst\nD. Staatsausgaben",
+        "target_scores": {
+            "A. Investitionsausgaben": 0,
+            "B. Konsumausgaben": 1,
+            "C. Nicht im Bruttosozialprodukt erfasst": 0,
+            "D. Staatsausgaben": 0
+        }
+    },
+    {
+        "input": "Wenn man davon ausgeht, dass die natürliche Arbeitslosenquote in einer Volkswirtschaft 4 Prozent beträgt und die Arbeitslosenquote eines Landes 7 Prozent beträgt, dann wird das tatsächliche BIP dieses Landes nach dem Okunschen Gesetz um ( ) Prozentpunkte niedriger sein als das potenzielle BIP.\nA. 4\nB. 5\nC. 6\nD. 7",
+        "target_scores": {
+            "A. 4": 0,
+            "B. 5": 0,
+            "C. 6": 1,
+            "D. 7": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Theorien erklärt, dass Inflation immer nur ein monetäres Phänomen sein kann und dass die Wachstumsrate der Geldemission der entscheidende Faktor der Inflation ist?\nA. Angebotstheorie\nB. Geldmengentheorie\nC. Keine der oben genannten Aussagen ist richtig\nD. Theorie der rationalen Erwartungen",
+        "target_scores": {
+            "A. Angebotstheorie": 0,
+            "B. Geldmengentheorie": 1,
+            "C. Keine der oben genannten Aussagen ist richtig": 0,
+            "D. Theorie der rationalen Erwartungen": 0
+        }
+    },
+    {
+        "input": "Es gibt zwei Sektoren, A und B. Wenn der erste Sektor eine Wachstumsrate der Produktion von 3,5 % und eine Wachstumsrate der Löhne von 3,5 % hat und der zweite Sektor eine Wachstumsrate der Produktion von 0,5 % und eine Wachstumsrate der Löhne von 3,5 %, dann ist die Wachstumsrate der Löhne in der gesamten Gesellschaft höher als die Wachstumsrate der Produktion, was zu einer Inflation führt. Diese Art von Inflation ist:\nA. Kosteninflation\nB. Nachfrageinflation\nC. Trägheitsinflation\nD. strukturelle Inflation",
+        "target_scores": {
+            "A. Kosteninflation": 0,
+            "B. Nachfrageinflation": 0,
+            "C. Trägheitsinflation": 0,
+            "D. strukturelle Inflation": 1
+        }
+    },
+    {
+        "input": "Angenommen, ein Land verfolgt eine Wirtschaftspolitik, die die Preise unter das Gleichgewichtsniveau drückt, welche Folgen könnte diese Politik haben?\nA. A und C\nB. Die Käufer kaufen die Menge an Waren, die sie zu einem niedrigen Preis kaufen möchten.\nC. Große Angebotsüberschüsse\nD. Schwarzmarkthandel",
+        "target_scores": {
+            "A. A und C": 0,
+            "B. Die Käufer kaufen die Menge an Waren, die sie zu einem niedrigen Preis kaufen möchten.": 0,
+            "C. Große Angebotsüberschüsse": 0,
+            "D. Schwarzmarkthandel": 1
+        }
+    },
+    {
+        "input": "Beachten Sie, dass die Marktzinsen gesunken sind. Was geschieht nun mit der spekulativen Nachfrage nach Geld?\nA. Abnehmend\nB. Steigend\nC. Unbestimmt\nD. Unverändert",
+        "target_scores": {
+            "A. Abnehmend": 0,
+            "B. Steigend": 1,
+            "C. Unbestimmt": 0,
+            "D. Unverändert": 0
+        }
+    },
+    {
+        "input": "Welcher der folgenden wirtschaftlichen Begriffe steht für die Differenz zwischen dem, was Sie für etwas bezahlen und dem, was Sie bereit sind, dafür zu bezahlen?\nA. Gesamtnutzen\nB. Grenznutzen\nC. Konsumentenrente\nD. Verbrauchernachfrage",
+        "target_scores": {
+            "A. Gesamtnutzen": 0,
+            "B. Grenznutzen": 0,
+            "C. Konsumentenrente": 1,
+            "D. Verbrauchernachfrage": 0
+        }
+    }
+]

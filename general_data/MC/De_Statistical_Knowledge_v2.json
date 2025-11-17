@@ -1,0 +1,848 @@
+[
+    {
+        "input": "Wenn das verfügbare Einkommen der USA $800{,}0 Mrd.$ Euro beträgt und die gesamtwirtschaftliche Ersparnis $200 Mrd.$  Euro umfasst, wie hoch ist dann der gesamtwirtschaftliche Konsum?\nA. Genau $550{,}0 Mrd.$  Euro\nB. Genau $580{,}0 Mrd.$ Euro\nC. Genau $600{,}0 Mrd.$  Euro\nD. Mehr als $600{,}0 Mrd.$ Euro",
+        "target_scores": {
+            "A. Genau $550{,}0 Mrd.$  Euro": 0,
+            "B. Genau $580{,}0 Mrd.$ Euro": 0,
+            "C. Genau $600{,}0 Mrd.$  Euro": 1,
+            "D. Mehr als $600{,}0 Mrd.$ Euro": 0
+        }
+    },
+    {
+        "input": "Ein neues Diätprogramm behauptet, dass die Teilnehmer in der ersten Woche im Durchschnitt mindestens $8$ Pfund an Körpergewicht verlieren. Eine Zufallsstichprobe von 40 Teilnehmern dieses Programms zeigt, dass das durchschnittliche Gewichtsdefizit $7$ Pfund beträgt, bei einer Standardabweichung von $2$ Pfund.\nWas sind die Nullhypothese und die Alternativhypothese?\nA. $\\mathrm{H0:}\\mu\\mathrm{\\geq}8$,$\\mathrm{H1:}\\mu<8$\nB. $\\mathrm{H0:}\\mu\\mathrm{\\leq}8$,$\\mathrm{H1:}\\mu>8$\nC. $\\mathrm{H0:~\\mu\\geq7$,$~H1:~\\mu<7}$\nD. $\\mathrm{H0:~\\mu\\leq7$,$~H1:~\\mu>7}$",
+        "target_scores": {
+            "A. $\\mathrm{H0:}\\mu\\mathrm{\\geq}8$,$\\mathrm{H1:}\\mu<8$": 1,
+            "B. $\\mathrm{H0:}\\mu\\mathrm{\\leq}8$,$\\mathrm{H1:}\\mu>8$": 0,
+            "C. $\\mathrm{H0:~\\mu\\geq7$,$~H1:~\\mu<7}$": 0,
+            "D. $\\mathrm{H0:~\\mu\\leq7$,$~H1:~\\mu>7}$": 0
+        }
+    },
+    {
+        "input": "In einem Unternehmen sind $80\\%$ der Beschäftigten männlich und erhalten ein durchschnittliches Monatsgehalt von $450$ €. Der Anteil der weiblichen Beschäftigten beträgt $20\\%$, mit einem durchschnittlichen Monatsgehalt von 400 €.\nWie hoch ist das durchschnittliche Monatsgehalt aller Beschäftigten in diesem Unternehmen?\nA. $425$ €\nB. $430$ €\nC. $435$ €\nD. $440$ €",
+        "target_scores": {
+            "A. $425$ €": 0,
+            "B. $430$ €": 0,
+            "C. $435$ €": 0,
+            "D. $440$ €": 1
+        }
+    },
+    {
+        "input": "Ein Aufzug hat eine maximale Tragfähigkeit von $1000$ kg. Es wird angenommen, dass jeweils 15 Personen gleichzeitig den Aufzug betreten.\nWenn das Körpergewicht einer Person (in kg) einer Normalverteilung $\\mathcal{N}(60,\\ 15^2)$ folgt, wie groß ist dann die Wahrscheinlichkeit einer Überlastung?\nA. $0{,}0142$\nB. $0{,}0427$\nC. $0{,}0528$\nD. $0{,}0785$",
+        "target_scores": {
+            "A. $0{,}0142$": 0,
+            "B. $0{,}0427$": 1,
+            "C. $0{,}0528$": 0,
+            "D. $0{,}0785$": 0
+        }
+    },
+    {
+        "input": "Gegeben sei eine Grundgesamtheit mit einem Mittelwert von $50$ und einer Standardabweichung von $8$.\nAus dieser Grundgesamtheit wird eine Zufallsstichprobe mit einem Stichprobenumfang von $64$ gezogen.\nWie lauten der Erwartungswert des Stichprobenmittelwerts und der Standardfehler der Stichprobenverteilung?\nA. $50$, $1$\nB. $50$, $4$\nC. $50$, $8$\nD. $8$, $8$",
+        "target_scores": {
+            "A. $50$, $1$": 1,
+            "B. $50$, $4$": 0,
+            "C. $50$, $8$": 0,
+            "D. $8$, $8$": 0
+        }
+    },
+    {
+        "input": "Die Wachstumsraten mit Kettenverknüpfung in den letzten Jahren betrugen  $7{,}5\\%$，$9{,}5\\%$，$6{,}2\\%$，$4{,}9\\%$.\nWie hoch ist die kumulierte Wachstumsrate?\nA. $107{,}5\\%×109{,}5\\%×106{,}2\\%×104{,}9\\%$\nB. $107{,}5\\%×109{,}5\\%×106{,}2\\%×104{,}9\\%-1$\nC. $7{,}5\\%×9{,}5\\%×6{,}2\\%×4{,}9\\%$\nD. $7{,}5\\%×9{,}5\\%×6{,}2\\%×4{,}9\\%-1$",
+        "target_scores": {
+            "A. $107{,}5\\%×109{,}5\\%×106{,}2\\%×104{,}9\\%$": 0,
+            "B. $107{,}5\\%×109{,}5\\%×106{,}2\\%×104{,}9\\%-1$": 1,
+            "C. $7{,}5\\%×9{,}5\\%×6{,}2\\%×4{,}9\\%$": 0,
+            "D. $7{,}5\\%×9{,}5\\%×6{,}2\\%×4{,}9\\%-1$": 0
+        }
+    },
+    {
+        "input": "Der Umsatz eines Einkaufszentrums ist im ersten Quartal im Vergleich zum Vorjahreszeitraum um $4\\%$ gestiegen.\nDer zusammengesetzte Preisindex des Einkaufszentrums ist im gleichen Zeitraum um $5\\%$ gestiegen.\nWie hoch ist dann das Wachstum der Verkaufsmenge?\nA. $-0{,}95\\%$\nB. $-0{,}96\\%$\nC. $0{,}96\\%$\nD. $2\\%$",
+        "target_scores": {
+            "A. $-0{,}95\\%$": 1,
+            "B. $-0{,}96\\%$": 0,
+            "C. $0{,}96\\%$": 0,
+            "D. $2\\%$": 0
+        }
+    },
+    {
+        "input": "Wenn für den Berichtszeitraum eine geplante Preisreduktion der Waren um $5\\%$ sowie eine geplante Umsatzsteigerung um $10\\%$ vorgesehen ist,\nwie stark muss dann die Verkaufsmenge angepasst werden?\nA. Abnahme um $5\\%$\nB. Abnahme um $5{,}25\\%$\nC. Zunahme um $15\\%$\nD. Zunahme um $15{,}79\\%$",
+        "target_scores": {
+            "A. Abnahme um $5\\%$": 0,
+            "B. Abnahme um $5{,}25\\%$": 0,
+            "C. Zunahme um $15\\%$": 0,
+            "D. Zunahme um $15{,}79\\%$": 1
+        }
+    },
+    {
+        "input": "Der zusammengesetzte Preisindex der zwei von Alex gekauften Aktien ist um $24\\%$ gestiegen,\nDer durchschnittliche Schlusskurs dieser Aktien am heutigen Tag beträgt $14$ €,\nWie hoch war der durchschnittliche Schlusskurs am Vortag?\nA. $0{,}5$\nB. $1$\nC. $10{,}64$\nD. $11{,}29$",
+        "target_scores": {
+            "A. $0{,}5$": 0,
+            "B. $1$": 0,
+            "C. $10{,}64$": 0,
+            "D. $11{,}29$": 1
+        }
+    },
+    {
+        "input": "In einer bestimmten Branche wurden zufällig $10$ Unternehmen ausgewählt.\nDer Gewinn im ersten Quartal (Einheit: 10.000 €) betrug jeweils: $72$, $63{,}1$, $54{,}7$, $54{,}3$, $29$, $26{,}9$, $25$, $23{,}9$, $23$, $20$\nWie hoch ist der Median dieser Datenreihe?\nA. $27{,}95$\nB. $28{,}12$\nC. $28{,}46$\nD. $30{,}2$",
+        "target_scores": {
+            "A. $27{,}95$": 1,
+            "B. $28{,}12$": 0,
+            "C. $28{,}46$": 0,
+            "D. $30{,}2$": 0
+        }
+    },
+    {
+        "input": "In einer Studie über staatlich geförderte Studentendarlehen wurde eine Zufallsstichprobe von $480$ Studierenden gezogen.\nDer durchschnittliche Schuldenstand vor dem Abschluss betrug $12168$ €, bei einer Standardabweichung von $2200$ €.\nWie lautet das $95\\%$ Konfidenzintervall für den durchschnittlichen Schuldenbetrag in der Grundgesamtheit aller Darlehensnehmenden?\nA. $11971$，$12365$\nB. $11971$，$13365$\nC. $11971$，$14365$\nD. $11971$，$15365$",
+        "target_scores": {
+            "A. $11971$，$12365$": 1,
+            "B. $11971$，$13365$": 0,
+            "C. $11971$，$14365$": 0,
+            "D. $11971$，$15365$": 0
+        }
+    },
+    {
+        "input": "Ein Steuerbeamter geht davon aus, dass die Mehrheit der Unternehmen Steuerhinterziehung begeht.\nIn einer Zufallsstichprobe von $800$ Unternehmen wurden $144$ Fälle von Steuerhinterziehung festgestellt.\nWie lautet das Konfidenzintervall für den Anteil der steuerhinterziehenden Unternehmen auf dem $99\\%$ -Konfidenzniveau?\nA. $0{,}18±0{,}015$\nB. $0{,}18±0{,}035$\nC. $0{,}18±0{,}045$\nD. $0{,}1±0{,}025$",
+        "target_scores": {
+            "A. $0{,}18±0{,}015$": 0,
+            "B. $0{,}18±0{,}035$": 1,
+            "C. $0{,}18±0{,}045$": 0,
+            "D. $0{,}1±0{,}025$": 0
+        }
+    },
+    {
+        "input": "Ein Würfel wird einmal geworfen und das Ergebnis betrachtet.\nWie hoch ist die Wahrscheinlichkeit, dass die geworfene Augenzahl $1$, $2$, $3$, $4$, $5$ oder $6$ beträgt?\nA. 1\nB. 1/2\nC. 1/4\nD. 1/6",
+        "target_scores": {
+            "A. 1": 1,
+            "B. 1/2": 0,
+            "C. 1/4": 0,
+            "D. 1/6": 0
+        }
+    },
+    {
+        "input": "Der Umsatz eines bestimmten Produkts ist um 5 % gestiegen, während der Einzelhandelspreis dieses Produkts um 2 % gestiegen ist.\nWie hoch ist die prozentuale Steigerung der Absatzmenge?\nA. 10%\nB. 2,94%\nC. 3%\nD. 7%",
+        "target_scores": {
+            "A. 10%": 0,
+            "B. 2,94%": 1,
+            "C. 3%": 0,
+            "D. 7%": 0
+        }
+    },
+    {
+        "input": "Die auf Basis der Umsatzzahlen für die einzelnen Quartale berechneten Saisonindizes betragen:\nErstes Quartal: $125\\%$ , zweites Quartal: $70\\%$ , drittes Quartal: $100\\%$ , viertes Quartal: $105\\%$ .\nWelches Quartal ist am stärksten von saisonalen Einflüssen betroffen?\nA. Drittes Quartal\nB. Erstes Quartal\nC. Viertes Quartal\nD. Zweites Quartal",
+        "target_scores": {
+            "A. Drittes Quartal": 0,
+            "B. Erstes Quartal": 0,
+            "C. Viertes Quartal": 0,
+            "D. Zweites Quartal": 1
+        }
+    },
+    {
+        "input": "Das durchschnittliche Jahreseinkommen der Bauernhaushalte in einer bestimmten Region betrug im Jahr 2004 $1500$ €.\nIm Jahr 2005 stieg es um $8\\%$.\nWie hoch ist der Einkommenszuwachs pro Prozentpunkt im Vergleich zu 2004?\nA. $15$ €\nB. $40$ €\nC. $7$ €\nD. $8$ €",
+        "target_scores": {
+            "A. $15$ €": 1,
+            "B. $40$ €": 0,
+            "C. $7$ €": 0,
+            "D. $8$ €": 0
+        }
+    },
+    {
+        "input": "Ein Forscher einer Universität möchte die durchschnittlichen monatlichen Lebenshaltungskosten der Bachelor-Studierenden an dieser Universität schätzen.\nZu diesem Zweck befragte er $200$ Studierende und stellte fest, dass deren durchschnittliche monatliche Ausgaben $500$ € betragen.\nWelcher Parameter interessiert den Forscher in dieser Untersuchung?\nA. Die Gesamtzahl der Studierenden an der Universität\nB. Die durchschnittlichen monatlichen Lebenshaltungskosten aller Bachelor-Studierenden an der Universität\nC. Die durchschnittlichen monatlichen Lebenshaltungskosten der $200$ befragten Studierenden\nD. Die monatlichen Lebenshaltungskosten aller Bachelor-Studierenden an der Universität",
+        "target_scores": {
+            "A. Die Gesamtzahl der Studierenden an der Universität": 0,
+            "B. Die durchschnittlichen monatlichen Lebenshaltungskosten aller Bachelor-Studierenden an der Universität": 1,
+            "C. Die durchschnittlichen monatlichen Lebenshaltungskosten der $200$ befragten Studierenden": 0,
+            "D. Die monatlichen Lebenshaltungskosten aller Bachelor-Studierenden an der Universität": 0
+        }
+    },
+    {
+        "input": "Die Wahrscheinlichkeit, dass eine Person mit dem Bus oder mit der U-Bahn zur Arbeit fährt, beträgt $0{,}3$ bzw. $0{,}7$.\nWenn sie mit dem Bus fährt, kommt sie an $30\\%$  der Tage zu spät; wenn sie mit der U-Bahn fährt, kommt sie an $10\\%$ der Tage zu spät.\nWie groß ist die Wahrscheinlichkeit, dass sie mit der U-Bahn gefahren ist, wenn sie an einem bestimmten Tag zu spät zur Arbeit kommt?\nA. $0{,}16$\nB. $0{,}3$\nC. $0{,}44$\nD. $0{,}56$",
+        "target_scores": {
+            "A. $0{,}16$": 0,
+            "B. $0{,}3$": 0,
+            "C. $0{,}44$": 1,
+            "D. $0{,}56$": 0
+        }
+    },
+    {
+        "input": "Der Verwalter einer Wohnanlage vermutet, dass einige Haushalte Strom stehlen.\nUm den monatlichen Stromverbrauch der Haushalte zu erfassen, wird eine Stichprobenerhebung durchgeführt.\nEs stellt sich heraus, dass einige Haushalte falsche oder unvollständige Angaben gemacht haben.\nWelche Art von Fehler liegt in dieser Erhebung vor?\nA. Antwortfehler\nB. Befragerfehler\nC. Fehler im Stichprobenrahmen\nD. Non-Response-Fehler",
+        "target_scores": {
+            "A. Antwortfehler": 1,
+            "B. Befragerfehler": 0,
+            "C. Fehler im Stichprobenrahmen": 0,
+            "D. Non-Response-Fehler": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Kennzahlen sind sogenannte „inverse Kennzahlen“ (d. h. je niedriger, desto besser)?\n① Gewinnrate auf Produktionswert\n② Materialverbrauchsquote\n③ Wertschöpfungsquote\n④ Umschlagstage des Umlaufvermögens\nA. ①③\nB. ②\nC. ②③\nD. ②④",
+        "target_scores": {
+            "A. ①③": 0,
+            "B. ②": 0,
+            "C. ②③": 0,
+            "D. ②④": 1
+        }
+    },
+    {
+        "input": "Ziel einer Meinungsumfrage war es festzustellen, über welche Themen junge Menschen bereit sind, mit ihren Eltern zu sprechen.\nDie Umfrage ergab: 45 % der Jugendlichen sind bereit, mit ihren Eltern über familiäre Finanzen zu sprechen;\n38 % über Bildungsthemen; und 15 % über Liebesbeziehungen.\nWelche Art von Daten wurde in dieser Umfrage erhoben?\nA.  Experimentelle Daten\nB. Kategorische Daten\nC. Ordinale Daten\nD. Quantitative Daten",
+        "target_scores": {
+            "A.  Experimentelle Daten": 0,
+            "B. Kategorische Daten": 1,
+            "C. Ordinale Daten": 0,
+            "D. Quantitative Daten": 0
+        }
+    },
+    {
+        "input": "Aus drei Grundgesamtheiten wurden jeweils $4$ Beobachtungswerte ausgewählt.\nDie Quadratsumme zwischen den Gruppen beträgt $SSA=536$, die Quadratsumme innerhalb der Gruppen beträgt $SSE=828$.\nWie lauten die mittleren Quadratsummen zwischen den Gruppen und innerhalb der Gruppen?\nA. $134$，$103$\nB. $179$，$92$\nC. $238$，$92$\nD. $268$，$92$",
+        "target_scores": {
+            "A. $134$，$103$": 0,
+            "B. $179$，$92$": 0,
+            "C. $238$，$92$": 0,
+            "D. $268$，$92$": 1
+        }
+    },
+    {
+        "input": "Basierend auf einer Stichprobe der Prüfungsergebnisse einer Schulklasse wurde ein 95%-Konfidenzintervall für den durchschnittlichen Prüfungspunktwert der gesamten Klasse berechnet: $75$ bis $85$ Punkte.\nWelche Aussage trifft auf den tatsächlichen Durchschnittswert der Klasse zu?\nA. Er liegt entweder in diesem Intervall oder nicht\nB. Er liegt mit Sicherheit in diesem Intervall\nC. Mit $5\\%$ Wahrscheinlichkeit liegt er in diesem Intervall\nD. Mit $95\\%$ Wahrscheinlichkeit liegt er in diesem Intervall",
+        "target_scores": {
+            "A. Er liegt entweder in diesem Intervall oder nicht": 1,
+            "B. Er liegt mit Sicherheit in diesem Intervall": 0,
+            "C. Mit $5\\%$ Wahrscheinlichkeit liegt er in diesem Intervall": 0,
+            "D. Mit $95\\%$ Wahrscheinlichkeit liegt er in diesem Intervall": 0
+        }
+    },
+    {
+        "input": "Eine Studie ergab, dass im Jahr 2000 $40\\%$ der Käufer neuer Autos Frauen waren.\nIn einer im Jahr 2005 durchgeführten Umfrage wurden $120$ neue Autobesitzer zufällig ausgewählt, davon waren $57$ Frauen.\nBei einem Signifikanzniveau von $\\alpha =0{,}05$ soll geprüft werden, ob der Anteil weiblicher Käufer im Jahr 2005 signifikant gestiegen ist.\nDie Null- und Alternativhypothese lauten:\n$H0：π≤40\\%$, $H1：π＞40\\%$.\nWas ist das Testergebnis?\nA. Die Nullhypothese kann sowohl abgelehnt als auch beibehalten werden\nB. Die Nullhypothese könnte möglicherweise abgelehnt oder beibehalten werden\nC. Die Nullhypothese wird abgelehnt\nD. Die Nullhypothese wird nicht abgelehnt",
+        "target_scores": {
+            "A. Die Nullhypothese kann sowohl abgelehnt als auch beibehalten werden": 0,
+            "B. Die Nullhypothese könnte möglicherweise abgelehnt oder beibehalten werden": 0,
+            "C. Die Nullhypothese wird abgelehnt": 1,
+            "D. Die Nullhypothese wird nicht abgelehnt": 0
+        }
+    },
+    {
+        "input": "Eine Umfrage ergab, dass $33\\%$ der Befragten der Meinung sind, ihr Unternehmen sei besonders gut für Frauen geeignet.\nUnter der Annahme, dass der wahre Bevölkerungsanteil $33\\%$ beträgt, werden bei einem $95\\%$ -Konfidenzniveau unterschiedliche Fehlermargen ($10\\%$, $5\\%$ ,  $2\\%$ , $1\\%$) betrachtet.\nWie verändert sich der benötigte Stichprobenumfang, wenn die Fehlermarge verringert wird?\nA. Er bleibt unverändert\nB. Er kann entweder abnehmen oder zunehmen\nC. Er nimmt ab\nD. Er nimmt zu",
+        "target_scores": {
+            "A. Er bleibt unverändert": 0,
+            "B. Er kann entweder abnehmen oder zunehmen": 0,
+            "C. Er nimmt ab": 0,
+            "D. Er nimmt zu": 1
+        }
+    },
+    {
+        "input": "Für drei Klimaanlagenmodelle beträgt der Absatzmengenindex – mit dem Vorjahr als Basis und dem aktuellen Jahr als Berichtsjahr – $106\\%$.\nDer Umsatz ist im Vergleich zum Vorjahr um $8\\%$ gestiegen.\nWelche Aussage trifft zu?\n\nA. Der Umsatzanstieg um $101{,}89\\%$ ist ausschließlich auf Preissteigerungen zurückzuführen\nB. Der zusammengesetzte Preisindex der drei Klimaanlagenmodelle beträgt $101{,}89\\%$ \nC. Die Preise aller drei Klimaanlagenmodelle sind gestiegen\nD. Die Preissteigerung hat den Umsatz um $14{,}48\\%$ erhöht",
+        "target_scores": {
+            "A. Der Umsatzanstieg um $101{,}89\\%$ ist ausschließlich auf Preissteigerungen zurückzuführen": 0,
+            "B. Der zusammengesetzte Preisindex der drei Klimaanlagenmodelle beträgt $101{,}89\\%$ ": 1,
+            "C. Die Preise aller drei Klimaanlagenmodelle sind gestiegen": 0,
+            "D. Die Preissteigerung hat den Umsatz um $14{,}48\\%$ erhöht": 0
+        }
+    },
+    {
+        "input": "Um die Kaufbereitschaft von Frauen für eine bestimmte Kosmetikmarke zu untersuchen, befragten die Interviewerinnen auf der Straße zufällig einige Frauen, die ihnen begegneten.\nWelche Art der Stichprobenerhebung liegt hier vor?\nA. Einfache Zufallsstichprobe\nB. Freiwillige Stichprobe\nC. Gelegenheitsstichprobe (Convenience Sampling)\nD. Geschichtete Stichprobe (Stratified Sampling)",
+        "target_scores": {
+            "A. Einfache Zufallsstichprobe": 0,
+            "B. Freiwillige Stichprobe": 0,
+            "C. Gelegenheitsstichprobe (Convenience Sampling)": 1,
+            "D. Geschichtete Stichprobe (Stratified Sampling)": 0
+        }
+    },
+    {
+        "input": "Der Umsatz eines Einkaufszentrums betrug im Jahr 2009 im Vergleich zu 2008 $120\\%$.\nGleichzeitig sank das Preisniveau im selben Zeitraum um$2\\%$.\nWie hoch ist der Mengenindex des Umsatzes für dieses Einkaufszentrum?\nA. $118\\%$\nB. $122{,}4\\%$\nC. $123{,}5\\%$\nD. $133\\%$",
+        "target_scores": {
+            "A. $118\\%$": 0,
+            "B. $122{,}4\\%$": 1,
+            "C. $123{,}5\\%$": 0,
+            "D. $133\\%$": 0
+        }
+    },
+    {
+        "input": "Ein Schnellimbiss auf dem Campus einer Universität hat in den letzten $5$ Jahren die täglichen Umsätze aufgezeichnet.\nDer durchschnittliche Tagesumsatz beträgt $2500$ €, mit einer Standardabweichung von $400$ €.\nDa die Umsätze an bestimmten Feiertagen besonders hoch sind, ist die Verteilung der täglichen Umsätze rechtsschief.\nEs wird eine Zufallsstichprobe von $100$ Tagen aus diesen $5$ Jahren gezogen und der durchschnittliche Tagesumsatz dieser $100$ Tage berechnet.\nWie ist die Verteilung des Stichprobenmittelwerts zu beschreiben?\nA. Normalverteilung, Mittelwert $250$ €, Standardabweichung $40$ €\nB. Normalverteilung, Mittelwert $2500$ €, Standardabweichung $40$ €\nC. Normalverteilung, Mittelwert $2500$ €, Standardabweichung $400$ €\nD. Rechtsschiefe Verteilung, Mittelwert $2500$ €, Standardabweichung $400$ €",
+        "target_scores": {
+            "A. Normalverteilung, Mittelwert $250$ €, Standardabweichung $40$ €": 0,
+            "B. Normalverteilung, Mittelwert $2500$ €, Standardabweichung $40$ €": 1,
+            "C. Normalverteilung, Mittelwert $2500$ €, Standardabweichung $400$ €": 0,
+            "D. Rechtsschiefe Verteilung, Mittelwert $2500$ €, Standardabweichung $400$ €": 0
+        }
+    },
+    {
+        "input": "In den Prüfungsergebnissen eines bestimmten Kurses von $15$ Studierenden kam die Note $70$ dreimal vor, $80$ viermal, $85$ sechsmal und $90$ zweimal.\nWie lautet der Modus dieser Notenverteilung?\nA. $80$\nB. $81{,}3$\nC. $85$\nD. $90$",
+        "target_scores": {
+            "A. $80$": 0,
+            "B. $81{,}3$": 0,
+            "C. $85$": 1,
+            "D. $90$": 0
+        }
+    },
+    {
+        "input": "Eine Zufallsstichprobe von $290$ Lehrkräften wurde gebeten, ihre Haltung zu bestimmten Aussagen zu bewerten.\nEine dieser Aussagen lautete: „Ältere Studierende beteiligen sich aktiver an Diskussionen im Unterricht als jüngere Studierende.“\nDie Haltung wurde anhand einer 5-Punkte-Likert-Skala gemessen:\n$1$ = Stimme voll zu, $2$ = Stimme zu, $3$ = Keine Meinung, $4$ = Stimme nicht zu, $5$ = Stimme überhaupt nicht zu.\nFür diese Aussage beträgt der durchschnittliche Zustimmungswert der Stichprobe $1.94$mit einer Standardabweichung von $0.92$.\nWie lautet das $98\\%$ Konfidenzintervall für den mittleren Zustimmungswert in der Grundgesamtheit der Lehrkräfte?\nA. $1{,}94±0{,}13$\nB. $1{,}94±1{,}13$\nC. $1{,}94±1{,}96$\nD. $1{,}94±2{,}58$",
+        "target_scores": {
+            "A. $1{,}94±0{,}13$": 1,
+            "B. $1{,}94±1{,}13$": 0,
+            "C. $1{,}94±1{,}96$": 0,
+            "D. $1{,}94±2{,}58$": 0
+        }
+    },
+    {
+        "input": "An einer Schule sind insgesamt $10000$ Studierende eingeschrieben.\nIn einer Zufallsstichprobe von $1000$ Studierenden äußerten $300$ Personen Kritik an der Schulverwaltung.\nWie lautet der Punktschätzer für die Anzahl der Studierenden an der gesamten Schule, die Kritik an der Verwaltung äußern würden?\nA. $1000$\nB. $300$\nC. $3000$\nD. $30\\%$",
+        "target_scores": {
+            "A. $1000$": 0,
+            "B. $300$": 0,
+            "C. $3000$": 1,
+            "D. $30\\%$": 0
+        }
+    },
+    {
+        "input": "Wenn der Schiefe-Koeffizient (Schiefekennzahl) einer Datenreihe zwischen $0{,}5$ und $1$ oder zwischen $–1$ und $–0{,}5$ liegt, was sagt das über die Verteilung der Daten aus?\nA. Leicht schiefe Verteilung\nB. Mäßig schiefe Verteilung\nC. Stark schiefe Verteilung\nD. Symmetrische Verteilung",
+        "target_scores": {
+            "A. Leicht schiefe Verteilung": 0,
+            "B. Mäßig schiefe Verteilung": 1,
+            "C. Stark schiefe Verteilung": 0,
+            "D. Symmetrische Verteilung": 0
+        }
+    },
+    {
+        "input": "Die monatlichen Umsätze (in 10.000 €) von $10$ Unternehmen lauten:$72$, $63$, $54$, $54$, $29$, $26$, $25$, $23$, $23$, $20$.\nWelcher der folgenden Diagrammtypen ist nicht geeignet, um diese Daten darzustellen?\nA. Kreisdiagramm\nB. Streudiagramm\nC. Stängel-Blatt-Diagramm (Stängel-und-Blatt-Diagramm)\nD. Säulendiagramm",
+        "target_scores": {
+            "A. Kreisdiagramm": 0,
+            "B. Streudiagramm": 1,
+            "C. Stängel-Blatt-Diagramm (Stängel-und-Blatt-Diagramm)": 0,
+            "D. Säulendiagramm": 0
+        }
+    },
+    {
+        "input": "In einer Zeitreihenanalyse der Pulloververkäufe zeigt der Saisonindex für das dritte Quartal einen Wert von über $100\\%$.\nWas bedeutet dies für den Pulloverabsatz in diesem Quartal?\nA. Der Absatz ist saisonal beeinflusst\nB. Er ist nicht von saisonalen Einflüssen betroffen\nC. Es handelt sich um die Hauptsaison\nD. Es handelt sich um die Nebensaison",
+        "target_scores": {
+            "A. Der Absatz ist saisonal beeinflusst": 0,
+            "B. Er ist nicht von saisonalen Einflüssen betroffen": 0,
+            "C. Es handelt sich um die Hauptsaison": 1,
+            "D. Es handelt sich um die Nebensaison": 0
+        }
+    },
+    {
+        "input": "Ein Warenhaus verzeichnet im Vergleich zum Vorjahr durchschnittlich eine Preissteigerung von $10\\%$ für alle Waren.\nGleichzeitig ist die durchschnittliche Verkaufsmenge um $10\\%$ gesunken.\nWie hat sich der Gesamtumsatz verändert?\nA. Er bleibt unverändert\nB. Er kann gestiegen oder gesunken sein\nC. Er sinkt\nD. Er steigt",
+        "target_scores": {
+            "A. Er bleibt unverändert": 0,
+            "B. Er kann gestiegen oder gesunken sein": 0,
+            "C. Er sinkt": 1,
+            "D. Er steigt": 0
+        }
+    },
+    {
+        "input": "Der Notendurchschnitt einer Schulklasse beträgt 80 Punkte, mit einer Standardabweichung von 5 Punkten.\nEs ist bekannt, dass die Verteilung der Prüfungsergebnisse asymmetrisch ist.\nWie hoch ist der minimaler AnteilAnteil der Schüler, deren Noten zwischen 70 und 90 Punkten liegen?\nA. 68%\nB. 75%\nC. 89%\nD. 95%",
+        "target_scores": {
+            "A. 68%": 0,
+            "B. 75%": 1,
+            "C. 89%": 0,
+            "D. 95%": 0
+        }
+    },
+    {
+        "input": "Aus einer binomialverteilten Grundgesamtheit wurde eine Zufallsstichprobe mit Stichprobenumfang $n=125$ gezogen, wobei der beobachtete Anteil $p=0{,}73$ beträgt.\nBeim Signifikanzniveau $α=0{,}01$ soll folgende Hypothese geprüft werden: $H0: π=0{,}73$, $H1: π≠0{,}73$. Was ist das Testergebnis?\nA. Die Nullhypothese kann möglicherweise abgelehnt oder beibehalten werden\nB. Die Nullhypothese kann sowohl abgelehnt als auch beibehalten werden\nC. Die Nullhypothese wird abgelehnt\nD. Die Nullhypothese wird nicht abgelehnt",
+        "target_scores": {
+            "A. Die Nullhypothese kann möglicherweise abgelehnt oder beibehalten werden": 0,
+            "B. Die Nullhypothese kann sowohl abgelehnt als auch beibehalten werden": 0,
+            "C. Die Nullhypothese wird abgelehnt": 0,
+            "D. Die Nullhypothese wird nicht abgelehnt": 1
+        }
+    },
+    {
+        "input": "Untersuchungen zeigten, dass vor fünf Jahren die durchschnittliche tägliche Fernsehzeit pro Haushalt $6{,}7$ Stunden betrug.\nEine aktuelle Befragung von $200$ Haushalten ergab eine durchschnittliche Fernsehzeit von $7{,}25$ Stunden pro Tag, mit einer Standardabweichung von $2{,}5$ Stunden.\nBeim Signifikanzniveau $\\alpha =0{,}05$ soll folgende Hypothese getestet werden:\n$H0: \\mu \\leq 6{,}7$,  $H1: \\mu \\gt 6{,}7$\nWas ist das Testergebnis?\nA. $H0$ kann möglicherweise abgelehnt oder nicht abgelehnt werden\nB. $H0$ kann sowohl abgelehnt als auch nicht abgelehnt werden\nC. $H0$ wird abgelehnt\nD. $H0$ wird nicht abgelehnt",
+        "target_scores": {
+            "A. $H0$ kann möglicherweise abgelehnt oder nicht abgelehnt werden": 0,
+            "B. $H0$ kann sowohl abgelehnt als auch nicht abgelehnt werden": 0,
+            "C. $H0$ wird abgelehnt": 1,
+            "D. $H0$ wird nicht abgelehnt": 0
+        }
+    },
+    {
+        "input": "Gegeben seien $p$ als Preis und $q$ als Verkaufsmenge eines Produkts.\nDer Indexwert aus dem Ausdruck $\\frac{\\sum p_0q_1}{\\sum p_0q_0}$ hat welche inhaltliche Bedeutung?\nA. Das Ausmaß, in dem Mengenänderungen den Umsatz beeinflussen\nB. Das Ausmaß, in dem Preis- und Mengenänderungen gemeinsam den Umsatz beeinflussen\nC. Das Ausmaß, in dem Preisänderungen den Umsatz beeinflussen\nD. Die Veränderung des Umsatzes insgesamt",
+        "target_scores": {
+            "A. Das Ausmaß, in dem Mengenänderungen den Umsatz beeinflussen": 1,
+            "B. Das Ausmaß, in dem Preis- und Mengenänderungen gemeinsam den Umsatz beeinflussen": 0,
+            "C. Das Ausmaß, in dem Preisänderungen den Umsatz beeinflussen": 0,
+            "D. Die Veränderung des Umsatzes insgesamt": 0
+        }
+    },
+    {
+        "input": "Die Personalabteilung eines Unternehmens für Softwareentwicklung führte eine Umfrage durch.\nEs stellte sich heraus, dass in den letzten zwei Jahren $40\\%$ der ausgeschiedenen Mitarbeiter das Unternehmen wegen Unzufriedenheit mit dem Gehalt verlassen haben,\n$30\\%$ wegen Unzufriedenheit mit der Arbeit,\nund $15\\%$ wegen Unzufriedenheit mit sowohl Gehalt als auch Arbeit.\nSei $A$ = Mitarbeiter verlässt das Unternehmen wegen Unzufriedenheit mit dem Gehalt,\n$B$= Mitarbeiter verlässt das Unternehmen wegen Unzufriedenheit mit der Arbeit.\nWie groß ist die Wahrscheinlichkeit, dass ein ausgeschiedener Mitarbeiter entweder wegen A oder wegen B oder wegen beidem das Unternehmen verlassen hat?\nA. $0{,}15$\nB. $0{,}30$\nC. $0{,}40$\nD. $0{,}55$",
+        "target_scores": {
+            "A. $0{,}15$": 0,
+            "B. $0{,}30$": 0,
+            "C. $0{,}40$": 0,
+            "D. $0{,}55$": 1
+        }
+    },
+    {
+        "input": "In einer bundesweiten groß angelegten Stichprobenerhebung sollen aus jedem der $16$ Bundesländer jeweils $1000$ Personen zufällig ausgewählt werden, um eine Stichprobe zu bilden.\nWelche Art von Stichprobenverfahren liegt hier vor?\nA. Einfache Zufallsstichprobe\nB. Geschichtete Stichprobe\nC. Klumpenstichprobe\nD. Zwei-Stufen-Stichprobe",
+        "target_scores": {
+            "A. Einfache Zufallsstichprobe": 0,
+            "B. Geschichtete Stichprobe": 1,
+            "C. Klumpenstichprobe": 0,
+            "D. Zwei-Stufen-Stichprobe": 0
+        }
+    },
+    {
+        "input": "Eine bestimmte Organisation interessiert sich sehr für die Fernsehzeit von Schülerinnen und Schülern pro Woche.\nSie hat eine Wahrscheinlichkeitsstichprobe von 300 Elternteilen von Grundschulkindern gezogen und diese gebeten, die wöchentliche Fernsehzeit ihrer Kinder zu schätzen.\nDas Ergebnis zeigte, dass die durchschnittliche wöchentliche Fernsehzeit 15 Stunden beträgt, mit einer Standardabweichung von 5 Stunden.\nWelche Art der Datenerhebung wurde hier angewendet?\nA. Beobachtende Befragung\nB. Experimentelle Untersuchung\nC. Wahrscheinlichkeitsstichprobe\nD. Öffentliche Quelle",
+        "target_scores": {
+            "A. Beobachtende Befragung": 0,
+            "B. Experimentelle Untersuchung": 0,
+            "C. Wahrscheinlichkeitsstichprobe": 1,
+            "D. Öffentliche Quelle": 0
+        }
+    },
+    {
+        "input": "Um die Ausgaben der Schülerinnen und Schüler einer Schule für Bücher zu untersuchen, wurden 60 männliche und 40 weibliche Schülerinnen und Schüler ausgewählt und befragt.\nWelche Art der Stichprobenmethode wurde hierbei angewendet?\nA. Einfache Zufallsstichprobe\nB. Geschichtete Stichprobe\nC. Klumpenstichprobe\nD. Systematische Stichprobe",
+        "target_scores": {
+            "A. Einfache Zufallsstichprobe": 0,
+            "B. Geschichtete Stichprobe": 1,
+            "C. Klumpenstichprobe": 0,
+            "D. Systematische Stichprobe": 0
+        }
+    },
+    {
+        "input": "Um den Anteil der Haushalte mit eigenem Auto in einer bestimmten Stadt zu schätzen, wurde eine Stichprobe von 500 Haushalten gezogen.\nEs zeigte sich, dass 35 % der befragten Haushalte ein Auto besitzen.\nWas bedeutet die Angabe von 35 % in diesem Zusammenhang?\nA. Parameterwert\nB. Stichprobenumfang\nC. Variable\nD. Wert einer Stichprobenkennzahl",
+        "target_scores": {
+            "A. Parameterwert": 0,
+            "B. Stichprobenumfang": 0,
+            "C. Variable": 0,
+            "D. Wert einer Stichprobenkennzahl": 1
+        }
+    },
+    {
+        "input": "Es wird angenommen, dass die wöchentliche Überstundenvergütung der Mitarbeitenden eines Unternehmens normalverteilt ist mit einem Mittelwert von $50$€ und einer Standardabweichung von $10$€ .\nWie hoch ist der Anteil der Mitarbeitenden, deren wöchentliche Überstundenvergütung zwischen $40$ € und  $60$ € liegt?\nA. $0{,}0228$\nB. $0{,}3174$\nC. $0{,}6826$\nD. $0{,}9772$",
+        "target_scores": {
+            "A. $0{,}0228$": 0,
+            "B. $0{,}3174$": 0,
+            "C. $0{,}6826$": 1,
+            "D. $0{,}9772$": 0
+        }
+    },
+    {
+        "input": "Gegeben seien unabhängige Zufallsvariablen $X1$，$X2$，…，$Xn$, und es sei $Sn=X1+X2+…+Xn$ .\nNach dem zentralen Grenzwertsatz von Lindeberg-Lévy gilt: Wenn $n$ hinreichend groß ist, dann ist $Sn$ näherungsweise normalverteilt, sofern $X1$，$X2$，…，$Xn$ ______.\nA. denselben Erwartungswert und dieselbe Varianz haben\nB. der Exponentialverteilung folgen\nC. derselben diskreten Verteilung folgen\nD. derselben stetigen Verteilung folgen",
+        "target_scores": {
+            "A. denselben Erwartungswert und dieselbe Varianz haben": 0,
+            "B. der Exponentialverteilung folgen": 1,
+            "C. derselben diskreten Verteilung folgen": 0,
+            "D. derselben stetigen Verteilung folgen": 0
+        }
+    },
+    {
+        "input": "Im Vergleich zwischen den Jahren 2006 und 2005 stieg der Umsatz eines Geschäfts um 16 %, während die Verkaufsmenge um 18 % zunahm.\nWie hoch ist die prozentuale Veränderung des Verkaufspreises?\nA. -1,7%\nB. -3,7%\nC. 1,7%\nD. 3,7%",
+        "target_scores": {
+            "A. -1,7%": 1,
+            "B. -3,7%": 0,
+            "C. 1,7%": 0,
+            "D. 3,7%": 0
+        }
+    },
+    {
+        "input": "In einem armen Gebiet wird geschätzt, dass der Anteil unterernährter Personen 20% beträgt.\nEs gibt jedoch die Vermutung, dass dieser Anteil in Wirklichkeit noch höher ist.\nWie lauten die Null- und Alternativhypothese zur Überprüfung dieser Aussage?\nA. $H0：\\pi=0{,}2$, $H1：\\pi≠0{,}2$\nB. $H0：\\pi≤0{,}2$, $H1：\\pi＞0{,}2$\nC. $H0：\\pi≥0{,}3$, $H1：\\pi＜0{,}3$\nD. $H0：\\pi＞0{,}3$，$H1：\\pi=0{,}3$",
+        "target_scores": {
+            "A. $H0：\\pi=0{,}2$, $H1：\\pi≠0{,}2$": 0,
+            "B. $H0：\\pi≤0{,}2$, $H1：\\pi＞0{,}2$": 1,
+            "C. $H0：\\pi≥0{,}3$, $H1：\\pi＜0{,}3$": 0,
+            "D. $H0：\\pi＞0{,}3$，$H1：\\pi=0{,}3$": 0
+        }
+    },
+    {
+        "input": "Bei einem Hypothesentest über den Erwartungswert μ einer normalverteilten Grundgesamtheit wird auf dem Signifikanzniveau 0,05 die Nullhypothese $H0：μ=μ0$ angenommen.\nWelche Aussage trifft dann auf das Ergebnis beim Signifikanzniveau 0,01 zu?\nA. Die Nullhypothese kann möglicherweise angenommen oder abgelehnt werden\nB. Die Nullhypothese wird abgelehnt\nC. Die Nullhypothese wird angenommen\n\nD. Die Nullhypothese wird weder angenommen noch abgelehnt",
+        "target_scores": {
+            "A. Die Nullhypothese kann möglicherweise angenommen oder abgelehnt werden": 0,
+            "B. Die Nullhypothese wird abgelehnt": 0,
+            "C. Die Nullhypothese wird angenommen\n": 1,
+            "D. Die Nullhypothese wird weder angenommen noch abgelehnt": 0
+        }
+    },
+    {
+        "input": "Ein Marktforschungsinstitut wurde beauftragt, die Zufriedenheit mit einem bestimmten Kosmetikprodukt zu untersuchen.\nDie Bewertungsskala reicht von 0 Punkten (völlig unzufrieden) bis 20 Punkten (sehr zufrieden).\nAus einer Zufallsstichprobe von 36 Konsumenten ergibt sich ein durchschnittlicher Zufriedenheitswert von $12$ Punkten, mit einer Standardabweichung von 3 Punkten.\nWie lautet das 95 %-Konfidenzintervall für den Mittelwert der Grundgesamtheit?\nA. 11 bis 13 Punkte\nB. 12 bis 14 Punkte\nC. 6 bis 18 Punkte\nD. 9 bis 15 Punkte",
+        "target_scores": {
+            "A. 11 bis 13 Punkte": 1,
+            "B. 12 bis 14 Punkte": 0,
+            "C. 6 bis 18 Punkte": 0,
+            "D. 9 bis 15 Punkte": 0
+        }
+    },
+    {
+        "input": "Eine von einem Supermarkt durchgeführte Umfrage ergab, dass 80 % der Kundinnen und Kunden zum Einkaufen von Lebensmitteln kommen,\n60 % kaufen andere Waren ein, und 35 % kaufen sowohl Lebensmittel als auch andere Waren.\nSei A = Kundinnen und Kunden kaufen Lebensmittel, B = Kundinnen und Kunden kaufen andere Waren.\nWie groß ist die bedingte Wahrscheinlichkeit, dass ein Kunde, der Lebensmittel kauft, auch andere Waren kauft?\nA. 0,35\nB. 0,4375\nC. 0,6\nD. 0,8",
+        "target_scores": {
+            "A. 0,35": 0,
+            "B. 0,4375": 1,
+            "C. 0,6": 0,
+            "D. 0,8": 0
+        }
+    },
+    {
+        "input": "Ein kürzlich veröffentlichter Bericht stellt fest:\n„Eine Stichprobe von 150 Neuwagen zeigt, dass ausländische Fahrzeuge deutlich teurer sind als inländische Fahrzeuge.“\nWelche Art von Fazit liegt hier vor?\nA. Eine Beschreibung der Grundgesamtheit\nB. Eine Beschreibung der Stichprobe\nC. Eine Schlussfolgerung über die Grundgesamtheit\nD. Eine Schlussfolgerung über die Stichprobe",
+        "target_scores": {
+            "A. Eine Beschreibung der Grundgesamtheit": 0,
+            "B. Eine Beschreibung der Stichprobe": 0,
+            "C. Eine Schlussfolgerung über die Grundgesamtheit": 1,
+            "D. Eine Schlussfolgerung über die Stichprobe": 0
+        }
+    },
+    {
+        "input": "Der Variationskoeffizient einer Datenreihe beträgt 0,4 und der Mittelwert liegt bei 20.\nWie groß ist dann die Standardabweichung?\nA. 0,02\nB. 4\nC. 8\nD. 80",
+        "target_scores": {
+            "A. 0,02": 0,
+            "B. 4": 0,
+            "C. 8": 1,
+            "D. 80": 0
+        }
+    },
+    {
+        "input": "Ein Unternehmen möchte herausfinden, wie viel Zeit die Mitarbeitenden durchschnittlich täglich für den Arbeitsweg aufwenden.\nDazu wurden $10$ Mitarbeitende befragt. Das Ergebnis: Die durchschnittliche tägliche Pendelzeit beträgt $3{,}2$ Stunden, mit einer Standardabweichung von $0{,}9$ Stunden.\nDas Konfidenzintervall lautet ($2{,}2$, $4{,}2$).\nWie hoch ist das zugehörige Konfidenzniveau?\nA. $0{,}05＞α＞0{,}01$\nB. $α＜0{,}01$\nC. $α＞0{,}025$\nD. $α＞0{,}05$",
+        "target_scores": {
+            "A. $0{,}05＞α＞0{,}01$": 0,
+            "B. $α＜0{,}01$": 1,
+            "C. $α＞0{,}025$": 0,
+            "D. $α＞0{,}05$": 0
+        }
+    },
+    {
+        "input": "An einer Universitätsstadt mit 200.000 Studierenden wurde eine einfache Zufallsstichprobe von 500 Personen durchgeführt.\nDabei zeigte sich, dass 320 der Befragten bereits an universitären Clubs oder studentischen Gruppen teilgenommen haben.\nMit einem Konfidenzniveau von 95,45 % (entspricht etwa 2 Standardabweichungen) – wie hoch ist der untere Grenzwert des Anteils in der gesamten Studierendenbevölkerung, der an solchen Aktivitäten teilgenommen hat?\nA. 55%\nB. 62%\nC. 68%\nD. 70%",
+        "target_scores": {
+            "A. 55%": 0,
+            "B. 62%": 0,
+            "C. 68%": 1,
+            "D. 70%": 0
+        }
+    },
+    {
+        "input": "Aus einer unendlichen Grundgesamtheit mit Normalverteilung werden Stichproben mit den Umfängen 4, 16 und 36 gezogen.\nWie verändert sich die Standardabweichung des Stichprobenmittelwerts, wenn der Stichprobenumfang zunimmt?\nA. Es lässt sich keine Aussage treffen\nB. Sie bleibt unverändert\nC. Sie nimmt ab\nD. Sie nimmt zu",
+        "target_scores": {
+            "A. Es lässt sich keine Aussage treffen": 0,
+            "B. Sie bleibt unverändert": 0,
+            "C. Sie nimmt ab": 1,
+            "D. Sie nimmt zu": 0
+        }
+    },
+    {
+        "input": "In einer Online-Meinungsumfrage im Jahr 1998 wurden insgesamt 7553 Personen befragt.\nDavon waren 4381 der Meinung, dass der Ermittlungsbeauftragte in der „Whitewater-Affäre“ alle verfügbaren Zeugen befragen sollte, einschließlich der damaligen Assistenten von Präsident Clinton.\nWelche Schlussfolgerung lässt sich aus diesen Daten ziehen?\nA. Diese Daten liefern ausreichende Belege dafür, dass die Mehrheit der Menschen der Meinung ist, der Ermittler sollte alle verfügbaren Zeugen, einschließlich der Assistenten des Präsidenten, befragen.\nB. Diese Daten liefern ausreichende Belege dafür, dass die Mehrheit der Menschen der Meinung ist, der Ermittler sollte keine weiteren Zeugen, einschließlich der Assistenten des Präsidenten, befragen.\nC. Diese Daten liefern keine ausreichenden Belege dafür, dass die Mehrheit der Menschen der Meinung ist, der Ermittler sollte alle verfügbaren Zeugen, einschließlich der Assistenten des Präsidenten, befragen.\nD. Diese Daten liefern keine ausreichenden Belege dafür, dass die Mehrheit der Menschen der Meinung ist, der Ermittler sollte keine weiteren Zeugen, einschließlich der Assistenten des Präsidenten, befragen.",
+        "target_scores": {
+            "A. Diese Daten liefern ausreichende Belege dafür, dass die Mehrheit der Menschen der Meinung ist, der Ermittler sollte alle verfügbaren Zeugen, einschließlich der Assistenten des Präsidenten, befragen.": 1,
+            "B. Diese Daten liefern ausreichende Belege dafür, dass die Mehrheit der Menschen der Meinung ist, der Ermittler sollte keine weiteren Zeugen, einschließlich der Assistenten des Präsidenten, befragen.": 0,
+            "C. Diese Daten liefern keine ausreichenden Belege dafür, dass die Mehrheit der Menschen der Meinung ist, der Ermittler sollte alle verfügbaren Zeugen, einschließlich der Assistenten des Präsidenten, befragen.": 0,
+            "D. Diese Daten liefern keine ausreichenden Belege dafür, dass die Mehrheit der Menschen der Meinung ist, der Ermittler sollte keine weiteren Zeugen, einschließlich der Assistenten des Präsidenten, befragen.": 0
+        }
+    },
+    {
+        "input": "Unter der Annahme, dass alle anderen Bedingungen unverändert bleiben:\nWie verändert sich dabei die Breite des Konfidenzintervalls für den Populationsmittelwert $\\mu$, wenn $\\alpha$ von $5\\%$ auf $2{,}5\\%$ gesenkt wird, also das Konfidenzniveau $1-\\alpha$ steigt?\nA. Bleibt unverändert\nB. Könnte sich vergrößern oder verkleinern\nC. Vergrößert sich\nD. Verringert sich",
+        "target_scores": {
+            "A. Bleibt unverändert": 0,
+            "B. Könnte sich vergrößern oder verkleinern": 0,
+            "C. Vergrößert sich": 1,
+            "D. Verringert sich": 0
+        }
+    },
+    {
+        "input": "Die Standardabweichung der monatlichen Miete für Büroflächen in einer bestimmten Region beträgt 80 €.\nUm das 95 %-Konfidenzintervall für den Populationsmittelwert zu schätzen und einen maximalen Stichprobenfehler von 25 € zu gewährleisten,\nwie groß muss der Stichprobenumfang sein?\nA. 20\nB. 30\nC. 40\nD. 50",
+        "target_scores": {
+            "A. 20": 0,
+            "B. 30": 0,
+            "C. 40": 1,
+            "D. 50": 0
+        }
+    },
+    {
+        "input": "Die Umweltbehörde möchte prüfen, ob die durchschnittliche Anzahl an Einwegboxen, die ein Restaurant pro Tag verwendet, 600 Stück übersteigt.\nWelche Null- und Alternativhypothese sollten in diesem Fall aufgestellt werden?\nA. $H_0: \\mu = 600$, $H_1: \\mu \\neq 600$\nB. $H_0: \\mu \\geq 600$, $H_1: \\mu < 600$\nC. $H_0: \\mu \\leq 600$, $H_1: \\mu > 600$\nD. $H_0: \\mu \\neq 600$, $H_1: \\mu = 600$",
+        "target_scores": {
+            "A. $H_0: \\mu = 600$, $H_1: \\mu \\neq 600$": 0,
+            "B. $H_0: \\mu \\geq 600$, $H_1: \\mu < 600$": 0,
+            "C. $H_0: \\mu \\leq 600$, $H_1: \\mu > 600$": 1,
+            "D. $H_0: \\mu \\neq 600$, $H_1: \\mu = 600$": 0
+        }
+    },
+    {
+        "input": "Bei der Untersuchung, ob ein näherungsweiser linearer Zusammenhang zwischen Blutdruck und Alter besteht,\nwerden Personen aus den Altersgruppen 0–20, 20–30, 30–40, 40–50, 50–60 und über 60 Jahren zufällig ausgewählt und untersucht.\nWelche Art der Stichprobenerhebung liegt hier vor?\nA. Einfache Zufallsstichprobe\nB. Geschichtete Stichprobe\nC. Klumpenstichprobe\nD. Systematische Stichprobe",
+        "target_scores": {
+            "A. Einfache Zufallsstichprobe": 0,
+            "B. Geschichtete Stichprobe": 1,
+            "C. Klumpenstichprobe": 0,
+            "D. Systematische Stichprobe": 0
+        }
+    },
+    {
+        "input": "Eine Umfrage ergab, dass Angestellte in ausländischen Unternehmen durchschnittlich 52 Stunden pro Woche arbeiten.\nEine Zufallsstichprobe von 650 Mitarbeitenden wurde gezogen, mit einer Stichprobenstandardabweichung von 8,2 Stunden.\nWie lautet das 95 %-Konfidenzintervall für die durchschnittliche wöchentliche Arbeitszeit der Beschäftigten in ausländischen Unternehmen?\nA. (50,37, 52,63)\nB. (51,37, 52,63)\nC. (51,37, 53,63)\nD. (52,37, 53,63)",
+        "target_scores": {
+            "A. (50,37, 52,63)": 0,
+            "B. (51,37, 52,63)": 1,
+            "C. (51,37, 53,63)": 0,
+            "D. (52,37, 53,63)": 0
+        }
+    },
+    {
+        "input": "Ein Forschungsinstitut führte eine Umfrage unter IT-Beschäftigten durch und wählte dafür zufällig 500 Personen aus.\n60 % von ihnen gaben an, dass ihr monatliches Einkommen über 5000 € liegt, und 50 % nannten die Kreditkarte als bevorzugte Zahlungsmethode.\nWas ist in diesem Fall die Grundgesamtheit?\nA. Alle Beschäftigten in der IT-Branche\nB. Das Gesamteinkommen der IT-Beschäftigten\nC. Die 500 befragten IT-Beschäftigten\nD. Die bevorzugte Zahlungsmethode der IT-Beschäftigten",
+        "target_scores": {
+            "A. Alle Beschäftigten in der IT-Branche": 1,
+            "B. Das Gesamteinkommen der IT-Beschäftigten": 0,
+            "C. Die 500 befragten IT-Beschäftigten": 0,
+            "D. Die bevorzugte Zahlungsmethode der IT-Beschäftigten": 0
+        }
+    },
+    {
+        "input": "Auf den Seiten AB und AC eines Dreiecks ABC werden jeweils zufällig Punkte P und Q gewählt.\nWie groß ist der Erwartungswert der Fläche des Vierecks PBCQ im Vergleich zur Fläche des Dreiecks ABC?\nA. \\frac{1}{2}\nB. \\frac{2}{3}\nC. \\frac{3}{4}\nD. \\frac{4}{5}",
+        "target_scores": {
+            "A. \\frac{1}{2}": 0,
+            "B. \\frac{2}{3}": 0,
+            "C. \\frac{3}{4}": 1,
+            "D. \\frac{4}{5}": 0
+        }
+    },
+    {
+        "input": "Das arithmetische Mittel in Statistik einer Schulklasse beträgt 70 Punkte.\nDie höchste erreichte Punktzahl ist 96, die niedrigste 62.\nWelches der folgenden Streuungsmaße lässt sich aus diesen Angaben berechnen?\nA. Spannweite\nB. Standardabweichung\nC. Varianz\nD. Variationskoeffizient",
+        "target_scores": {
+            "A. Spannweite": 1,
+            "B. Standardabweichung": 0,
+            "C. Varianz": 0,
+            "D. Variationskoeffizient": 0
+        }
+    },
+    {
+        "input": "Für ein neu eingeführtes Produkt steigt die Marktnachfrage in der Anfangsphase sehr schnell.\nWenn der Marktsättigungsgrad erreicht wird, nähert sich die Nachfrage allmählich einem stabilen Niveau an.\nWelcher der folgenden Trendverläufe eignet sich am besten zur Modellierung dieser Entwicklung?\nA. Gompertz-Kurve\nB. Lineare Trendgerade\nC. Modifizierte Exponentialkurve\nD. Quadratische Kurve",
+        "target_scores": {
+            "A. Gompertz-Kurve": 0,
+            "B. Lineare Trendgerade": 0,
+            "C. Modifizierte Exponentialkurve": 1,
+            "D. Quadratische Kurve": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Diagrammarten wird üblicherweise verwendet, um den Verlauf und die Veränderungstendenz von Zeitreihendaten darzustellen?\nA. Balkendiagramm\nB. Boxplot\nC. Histogramm\nD. Liniendiagramm",
+        "target_scores": {
+            "A. Balkendiagramm": 0,
+            "B. Boxplot": 0,
+            "C. Histogramm": 0,
+            "D. Liniendiagramm": 1
+        }
+    },
+    {
+        "input": "In einer Zufallsstichprobe von 400 Personen wurde festgestellt, dass 26 % der Internetnutzenden weiblich sind.\nBerechnen Sie das 95 %-Konfidenzintervall für den Anteil weiblicher Internetnutzender in der Grundgesamtheit.\nA. (0,117, 0,403)\nB. (0,117, 0,503)\nC. (0,217, 0,303)\nD. (0,217, 0,403)",
+        "target_scores": {
+            "A. (0,117, 0,403)": 0,
+            "B. (0,117, 0,503)": 0,
+            "C. (0,217, 0,303)": 1,
+            "D. (0,217, 0,403)": 0
+        }
+    },
+    {
+        "input": "Das monatliche Einkommen der Mitarbeitenden eines Unternehmens wurde in folgende Klassen eingeteilt:\nunter €2000, €2000 – €3000, €3000 – €4000, €4000 – €5000 , über €5000.\nWie lauten näherungsweise die Klassenmitten der ersten und der letzten Gruppe?\nA. 1000; 5500\nB. 1000; 6500\nC. 1500; 5500\nD. 1500; 6500",
+        "target_scores": {
+            "A. 1000; 5500": 0,
+            "B. 1000; 6500": 0,
+            "C. 1500; 5500": 1,
+            "D. 1500; 6500": 0
+        }
+    },
+    {
+        "input": "In einem $t$ Test mit einer Stichprobe lautet die Alternativhypothese: Der Populationsmittelwert ist $＞1000$ .\nUm welche Art von Test handelt es sich?\nA. Eine Verteilungseinheit\nB. Linksseitiger Test\nC. Rechtseitiger Test\nD. Zweiseitiger Test",
+        "target_scores": {
+            "A. Eine Verteilungseinheit": 0,
+            "B. Linksseitiger Test": 0,
+            "C. Rechtseitiger Test": 1,
+            "D. Zweiseitiger Test": 0
+        }
+    },
+    {
+        "input": "$1000$ Studierende nahmen an einer Prüfung in einem bestimmten Kurs teil.\nDer Durchschnitt der Prüfungsergebnisse beträgt $82$ Punkte, mit einer Standardabweichung von $8$ Punkten.\nAus diesen Studierenden wird eine Zufallsstichprobe von $100$ Personen gezogen.\nWie lauten der Erwartungswert und die Standardabweichung der Stichprobenverteilung des Mittelwerts?\nA. $82$, $0{,}8$\nB. $82$, $64$\nC. $82$, $8$\nD. $86$, $1$",
+        "target_scores": {
+            "A. $82$, $0{,}8$": 1,
+            "B. $82$, $64$": 0,
+            "C. $82$, $8$": 0,
+            "D. $86$, $1$": 0
+        }
+    },
+    {
+        "input": "Die Gehälter der Mitarbeitenden eines Unternehmens wurden in vier Klassen eingeteilt: (1) unter €800, (2) €800 – €1000, (3) €1000 – €1500, (4) über €1500. Wie lautet näherungsweise die Klassenmitte der letzten Gruppe (über €1500)?\nA. 1500\nB. 1600\nC. 1750\nD. 2000",
+        "target_scores": {
+            "A. 1500": 0,
+            "B. 1600": 0,
+            "C. 1750": 1,
+            "D. 2000": 0
+        }
+    },
+    {
+        "input": "Gegeben sind die Regressionsquadratsumme $SSR=4854$ und die Residuenquadratsumme $SSE=146$ .\nWie groß ist das Bestimmtheitsmaß $R2$ ?\nA. $2{,}92\\%$\nB. $33{,}25\\%$\nC. $3{,}01\\%$\nD. $97{,}08\\%$",
+        "target_scores": {
+            "A. $2{,}92\\%$": 0,
+            "B. $33{,}25\\%$": 0,
+            "C. $3{,}01\\%$": 0,
+            "D. $97{,}08\\%$": 1
+        }
+    },
+    {
+        "input": "Das Parken beim Einkaufen im Einkaufszentrum wird zunehmend schwieriger.\nDas Management möchte die durchschnittliche Zeit ermitteln, die Kundinnen und Kunden benötigen, um einen Parkplatz zu finden.\nZu diesem Zweck verfolgte ein Manager $50$ Kundinnen und Kunden und dokumentierte die benötigte Zeit.\nWas ist in diesem Fall die Grundgesamtheit, die den Manager interessiert?\nA. Alle Kundinnen und Kunden, die im Einkaufszentrum einkaufen\nB. Alle Kundinnen und Kunden, die im Einkaufszentrum parken\nC. Die Kundinnen und Kunden, die am Nachmittag im Einkaufszentrum parken\nD. Die Kundinnen und Kunden, die am Vormittag im Einkaufszentrum parken",
+        "target_scores": {
+            "A. Alle Kundinnen und Kunden, die im Einkaufszentrum einkaufen": 0,
+            "B. Alle Kundinnen und Kunden, die im Einkaufszentrum parken": 1,
+            "C. Die Kundinnen und Kunden, die am Nachmittag im Einkaufszentrum parken": 0,
+            "D. Die Kundinnen und Kunden, die am Vormittag im Einkaufszentrum parken": 0
+        }
+    },
+    {
+        "input": "Es seien $F_1(X)$ und $F_2(X)$ die Verteilungsfunktionen der Zufallsvariablen $X_1$ bzw. $X_2$ .\nDamit $F(X)=aF_1(X)-bF_2(X)$ die Verteilungsfunktion einer Zufallsvariablen ist, wie müssen die Konstanten a und b gewählt werden?\nA. $a = 1/2$, $b= -3/2$\nB. $a =2/5$,$b =2/3$\nC. $a =3/5$, $b= -2/5$\nD. $a= -1/2$, $b=3/2$",
+        "target_scores": {
+            "A. $a = 1/2$, $b= -3/2$": 0,
+            "B. $a =2/5$,$b =2/3$": 0,
+            "C. $a =3/5$, $b= -2/5$": 1,
+            "D. $a= -1/2$, $b=3/2$": 0
+        }
+    },
+    {
+        "input": "Gegeben ist ein zweidimensionaler Zufallsvektor $(\\xi，\\eta)$ mit $D\\xi＞0$ und $D\\eta＞0$.\nWelche der folgenden Gleichungen ist unter diesen Bedingungen gültig?\nA. $D(2\\xi+3\\eta)=2D(\\xi)+3D(\\eta)+12Cov(\\xi,\\eta)$\nB. $D(2\\xi+3\\eta)=4D(\\xi)+9D(\\eta)$\nC. $E(2\\xi+3\\eta)=2E(\\xi)+3E(\\eta)$\nD. $E(2\\xi\\cdot3\\eta)=2E(\\xi)\\cdot3E(\\eta)$",
+        "target_scores": {
+            "A. $D(2\\xi+3\\eta)=2D(\\xi)+3D(\\eta)+12Cov(\\xi,\\eta)$": 0,
+            "B. $D(2\\xi+3\\eta)=4D(\\xi)+9D(\\eta)$": 0,
+            "C. $E(2\\xi+3\\eta)=2E(\\xi)+3E(\\eta)$": 1,
+            "D. $E(2\\xi\\cdot3\\eta)=2E(\\xi)\\cdot3E(\\eta)$": 0
+        }
+    },
+    {
+        "input": "Ein Unternehmen hat insgesamt 2000 Mitarbeitende.\nDas durchschnittliche Monatsgehalt beträgt €2500, mit einer Standardabweichung von €500.\nUnter der Annahme, dass die Gehälter normalverteilt sind:\nWie viele Mitarbeitende verdienen voraussichtlich zwischen €2000 und €3000 im Monat?\nA. 1360 Personen\nB. 1550 Personen\nC. 1750 Personen\nD. 1950 Personen",
+        "target_scores": {
+            "A. 1360 Personen": 1,
+            "B. 1550 Personen": 0,
+            "C. 1750 Personen": 0,
+            "D. 1950 Personen": 0
+        }
+    },
+    {
+        "input": "Es sei $z_c$ der berechnete Wert der Prüfstatistik.\nDie Hypothesen lauten: $H_0:\\mu\\leq\\mu_0$，$H_1:\\mu>\\mu_0$ .\nWie groß ist der berechnete $P$ Wert, wenn $z_c= 1{,}645$ ist?\nA. 0,0025\nB. 0,01\nC. 0,025\nD. 0,05",
+        "target_scores": {
+            "A. 0,0025": 0,
+            "B. 0,01": 0,
+            "C. 0,025": 0,
+            "D. 0,05": 1
+        }
+    },
+    {
+        "input": "In einem Unternehmen wurde ein Computertest unter neuen Mitarbeitenden durchgeführt.\nDer durchschnittliche Testwert beträgt 80 Punkte, die Standardabweichung beträgt 5 Punkte und der Median liegt bei 86 Punkten.\nWelche Form hat die Verteilung der Testergebnisse?\nA.  Symmetrisch\nB. Linksschief\nC. Nicht bestimmbar\nD. Rechtsschief",
+        "target_scores": {
+            "A.  Symmetrisch": 0,
+            "B. Linksschief": 1,
+            "C. Nicht bestimmbar": 0,
+            "D. Rechtsschief": 0
+        }
+    },
+    {
+        "input": "Eine Umfrage unter 1000 zufällig ausgewählten Konsumenten ergab, dass ihre durchschnittlichen monatlichen Ausgaben für Online-Einkäufe €200 betragen.\nDer Hauptgrund für den Online-Kauf war laut Aussage der meisten Befragten der „günstige Preis“.\nWas ist in diesem Fall der Parameter?\nA. Alle Online-Käufer\nB. Der durchschnittliche Ausgabenbetrag aller Online-Käufer\nC. Der durchschnittliche Ausgabenbetrag der 1000 Befragten\nD. Die 1000 befragten Konsumenten\n",
+        "target_scores": {
+            "A. Alle Online-Käufer": 0,
+            "B. Der durchschnittliche Ausgabenbetrag aller Online-Käufer": 1,
+            "C. Der durchschnittliche Ausgabenbetrag der 1000 Befragten": 0,
+            "D. Die 1000 befragten Konsumenten\n": 0
+        }
+    },
+    {
+        "input": "An einer Universität sind in der Fakultät für Wirtschaft und Management 1200 Studierende eingeschrieben, in der Rechtswissenschaftlichen Fakultät 800 Studierende, in der Medizinischen Fakultät 320 Studierende, und in der Naturwissenschaftlichen Fakultät 200 Studierende.\nWas ist in dieser Beschreibung der Modus?\nA. 1200\nB. 200\nC. Die Fakultät für Wirtschaft und Management\nD. Die Naturwissenschaftlichen Fakultät",
+        "target_scores": {
+            "A. 1200": 0,
+            "B. 200": 0,
+            "C. Die Fakultät für Wirtschaft und Management": 1,
+            "D. Die Naturwissenschaftlichen Fakultät": 0
+        }
+    },
+    {
+        "input": "Die Durchschnittsnote einer Schulklasse beträgt 80 Punkte, mit einer Standardabweichung von 10 Punkten.\nEs ist bekannt, dass die Verteilung der Prüfungsergebnisse symmetrisch ist.\nWie groß ist ungefähr der Anteil der Schülerinnen und Schüler mit Noten im Bereich von 70 bis 90 Punkten?\nA. 68%\nB. 89%\nC. 95%\nD. 99%",
+        "target_scores": {
+            "A. 68%": 1,
+            "B. 89%": 0,
+            "C. 95%": 0,
+            "D. 99%": 0
+        }
+    },
+    {
+        "input": "Angenommen, der wahre Anteil in der Grundgesamtheit beträgt 0,3.\nEs wird eine einfache Zufallsstichprobe vom Umfang 100 mit Zurücklegen aus dieser Grundgesamtheit gezogen.\nWie groß ist der Erwartungswert des Stichprobenanteils?\nA. 0,3\nB. 0,8\nC. 1,6\nD. 2",
+        "target_scores": {
+            "A. 0,3": 1,
+            "B. 0,8": 0,
+            "C. 1,6": 0,
+            "D. 2": 0
+        }
+    },
+    {
+        "input": "Aus einer Grundgesamtheit wird eine Zufallsstichprobe mit dem Umfang 100 gezogen.\nDer Stichprobenmittelwert beträgt x = 81, die Stichprobenstandardabweichung s = 12.\nWie lautet das 95%-Konfidenzintervall für den Populationsmittelwert μ?\nA. 81±1,97\nB. 81±2,35\nC. 81±3,10\nD. 81±3,52",
+        "target_scores": {
+            "A. 81±1,97": 0,
+            "B. 81±2,35": 1,
+            "C. 81±3,10": 0,
+            "D. 81±3,52": 0
+        }
+    },
+    {
+        "input": "Aus einer bestimmten Region wurden 20 Unternehmen zufällig ausgewählt.\nDer durchschnittliche Jahresverdienst der Geschäftsführer dieser 20 Unternehmen beträgt 25.964,7 €, bei einer Standardabweichung von 42.807,8 €.\nWie lautet das 95%-Konfidenzintervall für den wahren durchschnittlichen Jahresverdienst μ aller Geschäftsführer in dieser Region?\nA. 25964,7±20034,3\nB. 25964,7±21034,3\nC. 25964,7±25034,3\nD. 25964,7±30034,3",
+        "target_scores": {
+            "A. 25964,7±20034,3": 1,
+            "B. 25964,7±21034,3": 0,
+            "C. 25964,7±25034,3": 0,
+            "D. 25964,7±30034,3": 0
+        }
+    },
+    {
+        "input": "Ein Großunternehmen plant eine Reformmaßnahme.\nUm den Anteil der Mitarbeitenden, die dieser Reform zustimmen, zu schätzen, soll der maximale Schätzfehler 0,03 nicht überschreiten,\nbei einem Konfidenzniveau von 90 %.\nWie groß muss der Stichprobenumfang mindestens sein?\nA. 552\nB. 652\nC. 752\nD. 852",
+        "target_scores": {
+            "A. 552": 0,
+            "B. 652": 0,
+            "C. 752": 1,
+            "D. 852": 0
+        }
+    },
+    {
+        "input": "In einer Umfrage wurden die Befragten gebeten, folgende Angaben zu machen:\nethnische Zugehörigkeit, Familienstand, Postleitzahl des Wohnorts, Alter und Einkommen.\nWelche der folgenden Aussagen ist falsch?\nA. Das Alter ist eine stetige Variable\nB. Das Einkommen ist eine quantitative Variable\nC. Die Postleitzahl ist eine quantitative Variable\nD. Die ethnische Zugehörigkeit ist eine kategoriale Variable",
+        "target_scores": {
+            "A. Das Alter ist eine stetige Variable": 0,
+            "B. Das Einkommen ist eine quantitative Variable": 0,
+            "C. Die Postleitzahl ist eine quantitative Variable": 1,
+            "D. Die ethnische Zugehörigkeit ist eine kategoriale Variable": 0
+        }
+    },
+    {
+        "input": "Ein Kühlschrankhersteller geht davon aus, dass der Montageprozess zufriedenstellend ist,\nwenn der Anteil defekter Kühlschränke auf dem Fließband täglich höchstens 3% beträgt.\nUm die Produktionsqualität eines bestimmten Tages zu überprüfen, wurden 50 Kühlschränke zufällig aus der Tagesproduktion entnommen und getestet.\nWas ist in diesem Fall die Grundgesamtheit, die den Hersteller interessiert?\nA. Alle am betreffenden Tag produzierten Kühlschränke\nB. Die 3% defekten Kühlschränke\nC. Die 50 entnommenen Kühlschränke\nD. Die Prüfergebnisse der 50 getesteten Kühlschränke",
+        "target_scores": {
+            "A. Alle am betreffenden Tag produzierten Kühlschränke": 1,
+            "B. Die 3% defekten Kühlschränke": 0,
+            "C. Die 50 entnommenen Kühlschränke": 0,
+            "D. Die Prüfergebnisse der 50 getesteten Kühlschränke": 0
+        }
+    },
+    {
+        "input": "Zur Untersuchung des Lernstands im Kurs „Analysis“ wurden aus insgesamt 186 Lehrveranstaltungsgruppen 35 Gruppen zufällig ausgewählt.\nDie Leistungen der Studierenden in diesen ausgewählten Gruppen wurden anschließend analysiert.\nWelche Art der Stichprobenmethode wurde hierbei angewendet?\nA. Einfache Zufallsstichprobe\nB. Geschichtete Stichprobe\nC. Klumpenstichprobe\nD. Systematische Stichprobe",
+        "target_scores": {
+            "A. Einfache Zufallsstichprobe": 0,
+            "B. Geschichtete Stichprobe": 0,
+            "C. Klumpenstichprobe": 1,
+            "D. Systematische Stichprobe": 0
+        }
+    },
+    {
+        "input": "Der Verband der US-Automobilhersteller möchte die Farbpräferenzen der Verbraucher beim Autokauf analysieren.\nZu diesem Zweck wurden 40 kürzlich verkaufte Fahrzeuge ausgewählt und deren Farbkategorie (Schwarz, Weiß, Rot, Grün, Braun)\nsowie Farbintensität (Hell, Schwach, Mittel, Kräftig) erfasst.\nWelche der folgenden Diagrammtypen ist nicht geeignet, um diese Stichprobendaten darzustellen?\nA. Balkendiagramm\nB. Häufigkeitsdiagramm\nC. Kreisdiagramm\nD. Streudiagramm",
+        "target_scores": {
+            "A. Balkendiagramm": 0,
+            "B. Häufigkeitsdiagramm": 0,
+            "C. Kreisdiagramm": 0,
+            "D. Streudiagramm": 1
+        }
+    },
+    {
+        "input": "Ein Forscher möchte mithilfe eines Diagramms die tägliche Veränderung der Mietpreise für gebrauchte Wohnungen in Stuttgart seit April veranschaulichen.\nWelche der folgenden Diagrammarten eignet sich dafür am besten?\nA. Histogramm\nB. Liniendiagramm\nC. Streudiagramm\nD. Stängel-Blatt-Diagramm",
+        "target_scores": {
+            "A. Histogramm": 0,
+            "B. Liniendiagramm": 1,
+            "C. Streudiagramm": 0,
+            "D. Stängel-Blatt-Diagramm": 0
+        }
+    },
+    {
+        "input": "Für die Noten von 100 Studierenden in einem bestimmten Kurs sollen das untere Quartil, der Median und das obere Quartil ermittelt werden.\nWelche der folgenden Methoden der deskriptiven Statistik eignet sich dafür am besten?\nA. Histogramm\nB. Kreisdiagramm\nC. Punktdiagramm\nD. Stängel-Blatt-Diagramm",
+        "target_scores": {
+            "A. Histogramm": 0,
+            "B. Kreisdiagramm": 0,
+            "C. Punktdiagramm": 0,
+            "D. Stängel-Blatt-Diagramm": 1
+        }
+    },
+    {
+        "input": "Ein Unternehmen mit ausländischer Beteiligung teilt die Gehälter seiner Beschäftigten in vier Gruppen ein:\nunter €1000, €1000–€1500, €1500–€2000, über €2000.\nWie berechnen sich die Klassenmitten der ersten und der vierten Gruppe?\nA. 750 und 2250\nB. 750 und 2500\nC. 800 und 2250\nD. 800 und 2500",
+        "target_scores": {
+            "A. 750 und 2250": 1,
+            "B. 750 und 2500": 0,
+            "C. 800 und 2250": 0,
+            "D. 800 und 2500": 0
+        }
+    }
+]

@@ -1,0 +1,848 @@
+[
+    {
+        "input": "Karakteristik umum EPSP (Potensial Postsinaptik Eksitatori) dan IPSP (Potensial Postsinaptik Inhibitori) adalah ____.\nA. Membran postsinaptik mengalami depolarisasi pada kedua kasus\nB. Membran postsinaptik mengalami hiperpolarisasi pada kedua kasus\nC. Membran presinaptik mengalami depolarisasi pada kedua kasus\nD. Membran presinaptik mengalami hiperpolarisasi pada kedua kasus",
+        "target_scores": {
+            "A. Membran postsinaptik mengalami depolarisasi pada kedua kasus": 0,
+            "B. Membran postsinaptik mengalami hiperpolarisasi pada kedua kasus": 0,
+            "C. Membran presinaptik mengalami depolarisasi pada kedua kasus": 1,
+            "D. Membran presinaptik mengalami hiperpolarisasi pada kedua kasus": 0
+        }
+    },
+    {
+        "input": "Manakah dari makanan berikut yang memiliki nilai energi spesifik tertinggi?\nA. Gula\nB. Lemak\nC. Protein\nD. Vitamin",
+        "target_scores": {
+            "A. Gula": 0,
+            "B. Lemak": 1,
+            "C. Protein": 0,
+            "D. Vitamin": 0
+        }
+    },
+    {
+        "input": "Ketika sumsum tulang belakang hewan dipotong pada segmen serviks kelima, manakah dari deskripsi manifestasinya berikut yang benar?\nA. Gangguan sensorik pada seluruh badan terjadi\nB. Inkontinensia usus dan kandung kemih terjadi\nC. Penurunan tonus otot pada semua otot rangka diamati\nD. Tekanan darah arteri menurun",
+        "target_scores": {
+            "A. Gangguan sensorik pada seluruh badan terjadi": 0,
+            "B. Inkontinensia usus dan kandung kemih terjadi": 0,
+            "C. Penurunan tonus otot pada semua otot rangka diamati": 0,
+            "D. Tekanan darah arteri menurun": 1
+        }
+    },
+    {
+        "input": "Volume urin seorang subjek uji selama satu jam diukur sebanyak 60 ml. Konsentrasi plasma asam para-aminohipurat ditetapkan sebesar 0,02 mg/ml, dan konsentrasi dalam urin ditemukan sebesar 12,6 mg/ml. Aliran plasma ginjal efektif harus dihitung sebagai ____.\nA. 125 ml/menit\nB. 31,1 ml/menit\nC. 378 ml/menit\nD. 630 ml/menit",
+        "target_scores": {
+            "A. 125 ml/menit": 0,
+            "B. 31,1 ml/menit": 0,
+            "C. 378 ml/menit": 0,
+            "D. 630 ml/menit": 1
+        }
+    },
+    {
+        "input": "Pasien tidak dapat berbicara, sementara semua fungsi bahasa lainnya utuh, dan fungsi organ bicara normal. Lokasi kerusakan pusat bahasa diidentifikasi sebagai ____.\nA. Area Broca\nB. Area Wernicke\nC. Bagian posterior girus frontal tengah\nD. Bagian posterior girus temporalis superior",
+        "target_scores": {
+            "A. Area Broca": 1,
+            "B. Area Wernicke": 0,
+            "C. Bagian posterior girus frontal tengah": 0,
+            "D. Bagian posterior girus temporalis superior": 0
+        }
+    },
+    {
+        "input": "Pada pasien dengan penyakit kuning, tes laboratorium mengungkapkan peningkatan signifikan bilirubin tak terkonjugasi dalam serum, bilirubin dalam urin negatif, dan peningkatan nyata urobilinogen dalam urin dan feses. Penyebab penyakit kuning yang paling mungkin adalah ____.\nA. Hemolisis akut\nB. Hepatitis akut\nC. Kanker pankreas\nD. Sirosis hati",
+        "target_scores": {
+            "A. Hemolisis akut": 1,
+            "B. Hepatitis akut": 0,
+            "C. Kanker pankreas": 0,
+            "D. Sirosis hati": 0
+        }
+    },
+    {
+        "input": "Karakteristik ikatan reseptor-ligan yang dicerminkan oleh hiperbola persegi adalah (  ).\nA. Afinitas tinggi\nB. Kapasitas saturasi\nC. Reversibilitas\nD. Spesifisitas tinggi",
+        "target_scores": {
+            "A. Afinitas tinggi": 0,
+            "B. Kapasitas saturasi": 1,
+            "C. Reversibilitas": 0,
+            "D. Spesifisitas tinggi": 0
+        }
+    },
+    {
+        "input": "Seorang wanita berusia 25 tahun, tanpa riwayat komplikasi selama kehamilan, mengalami gangguan pernapasan mendadak, sianosis, hipotensi, kejang umum, koma selama persalinan per vaginam dan meninggal meskipun telah dilakukan tindakan resusitasi. Penyebab yang paling mungkin adalah ____.\nA. Emboli air ketuban\nB. Emboli arteri pulmonalis\nC. Emboli lemak\nD. Emboli udara",
+        "target_scores": {
+            "A. Emboli air ketuban": 1,
+            "B. Emboli arteri pulmonalis": 0,
+            "C. Emboli lemak": 0,
+            "D. Emboli udara": 0
+        }
+    },
+    {
+        "input": "Di dalam paru-paru, keberadaan makrofag yang tersebar luas dengan banyak butiran hemosiderin di dalam sitoplasma paling sering ditemukan pada ( ).\nA. Bronkopneumonia\nB. Gagal jantung kiri\nC. Pneumonia interstisial\nD. Pneumonia lobaris",
+        "target_scores": {
+            "A. Bronkopneumonia": 0,
+            "B. Gagal jantung kiri": 1,
+            "C. Pneumonia interstisial": 0,
+            "D. Pneumonia lobaris": 0
+        }
+    },
+    {
+        "input": "Dibandingkan dengan nefron jukstamedular, karakteristik nefron kortikal adalah ____.\nA. Arteriol eferen membentuk vasa rekta\nB. Diameter arteriol aferen dan eferen serupa\nC. Fungsinya difokuskan pada penyaringan dan penyerapan kembali\nD. Jumlahnya lebih sedikit, ukurannya lebih besar, dan memiliki lengkung Henle yang lebih panjang",
+        "target_scores": {
+            "A. Arteriol eferen membentuk vasa rekta": 0,
+            "B. Diameter arteriol aferen dan eferen serupa": 0,
+            "C. Fungsinya difokuskan pada penyaringan dan penyerapan kembali": 1,
+            "D. Jumlahnya lebih sedikit, ukurannya lebih besar, dan memiliki lengkung Henle yang lebih panjang": 0
+        }
+    },
+    {
+        "input": "Seorang wanita berusia 50 tahun menderita batuk kronis selama lebih dari 3 tahun, dengan dahak putih berbusa dan kental, dan gejalanya muncul saat cuaca dingin dan lembab, berlangsung sekitar 3 bulan setiap kali. Deskripsi yang tidak sesuai dengan penyakit pasien adalah ____.\nA. Degenerasi dan nekrosis epitel mukosa bronkial\nB. Hiperplasia serat elastis di dinding bronkial\nC. Hipertrofi kelenjar mukosa bronkial\nD. Peningkatan sel goblet epitel mukosa bronkial",
+        "target_scores": {
+            "A. Degenerasi dan nekrosis epitel mukosa bronkial": 0,
+            "B. Hiperplasia serat elastis di dinding bronkial": 1,
+            "C. Hipertrofi kelenjar mukosa bronkial": 0,
+            "D. Peningkatan sel goblet epitel mukosa bronkial": 0
+        }
+    },
+    {
+        "input": "Seorang pasien berusia 20 tahun dengan penyembuhan fraktur yang baik. Setelah 5 tahun, perubahan histopatologi pada jaringan tulang di lokasi fraktur menunjukkan ____.\nA. Fibroblas dalam jumlah besar\nB. Jaringan tulang normal\nC. Kapiler baru dalam jumlah besar\nD. Sel raksasa multinukleus dalam jumlah besar",
+        "target_scores": {
+            "A. Fibroblas dalam jumlah besar": 0,
+            "B. Jaringan tulang normal": 1,
+            "C. Kapiler baru dalam jumlah besar": 0,
+            "D. Sel raksasa multinukleus dalam jumlah besar": 0
+        }
+    },
+    {
+        "input": "Perbedaan utama antara serum dan plasma adalah bahwa serum tidak mengandung ____.\nA. Albumin\nB. Fibrinogen\nC. Globulin\nD. Ion kalsium",
+        "target_scores": {
+            "A. Albumin": 0,
+            "B. Fibrinogen": 1,
+            "C. Globulin": 0,
+            "D. Ion kalsium": 0
+        }
+    },
+    {
+        "input": "Seorang pria berusia 76 tahun, yang sebelumnya sehat, meninggal mendadak beberapa jam yang lalu. Hasil otopsi: Plak aterosklerotik yang luas di aorta, plak aterosklerotik dan stenosis luminal di kedua arteri koroner utama, tidak ada trombus yang diamati. Miokardium berwarna merah tua dan berkilau. Deskripsi yang sesuai dengan penyakit pasien adalah ____.\nA. Angina pektoris\nB. Kardiomiopati\nC. Kematian mendadak akibat penyakit arteri koroner\nD. Miokarditis",
+        "target_scores": {
+            "A. Angina pektoris": 0,
+            "B. Kardiomiopati": 0,
+            "C. Kematian mendadak akibat penyakit arteri koroner": 1,
+            "D. Miokarditis": 0
+        }
+    },
+    {
+        "input": "Pembedaan utama antara pleuritis eksudatif tuberkulosis dan pleuritis ganas adalah ____.\nA. Adanya menggigil dan demam\nB. Pemeriksaan rutin cairan pleura\nC. Pemeriksaan sitologi cairan pleura dan biopsi pleura\nD. Usia",
+        "target_scores": {
+            "A. Adanya menggigil dan demam": 0,
+            "B. Pemeriksaan rutin cairan pleura": 0,
+            "C. Pemeriksaan sitologi cairan pleura dan biopsi pleura": 1,
+            "D. Usia": 0
+        }
+    },
+    {
+        "input": "Seorang pria berusia 27 tahun, lima tahun lalu, mengalami anoreksia, mual, kelelahan, penyakit kuning pada kulit dan sklera. Ia merasakan nyeri di area hati, dan tes fungsi hati menunjukkan ALT sebesar 100 U, bilirubin serum total sebesar 18 mg/dl, dan $HBsAg (+)$. Biopsi hati mendiagnosis hepatitis umum akut, yang membaik setelah pengobatan. Dalam enam bulan terakhir, ia kembali mengalami kelelahan dan nyeri tumpul di area hati, dengan ALT berkisar antara 60 U hingga 80 U. Deskripsi yang sesuai dengan penyakit pasien adalah ____.\nA. Nekrosis bercak hepatosit\nB. Nekrosis fokal hepatosit\nC. Nekrosis masif hepatosit\nD. Nekrosis submasif hepatosit",
+        "target_scores": {
+            "A. Nekrosis bercak hepatosit": 0,
+            "B. Nekrosis fokal hepatosit": 1,
+            "C. Nekrosis masif hepatosit": 0,
+            "D. Nekrosis submasif hepatosit": 0
+        }
+    },
+    {
+        "input": "Ketika kepala subjek dimiringkan ke depan sebesar 30°dan diputar ke kiri mengelilingi sumbu vertikal tubuh, arah nistagmus diamati sebagai ____.\nA. Fase lambat ke kanan, fase cepat ke kanan\nB. Fase lambat ke kanan, fase cepat ke kiri\nC. Fase lambat ke kiri, fase cepat ke kanan\nD. Fase lambat ke kiri, fase cepat ke kiri",
+        "target_scores": {
+            "A. Fase lambat ke kanan, fase cepat ke kanan": 0,
+            "B. Fase lambat ke kanan, fase cepat ke kiri": 1,
+            "C. Fase lambat ke kiri, fase cepat ke kanan": 0,
+            "D. Fase lambat ke kiri, fase cepat ke kiri": 0
+        }
+    },
+    {
+        "input": "Seorang pasien laki-laki berusia 62 tahun mengalami batuk kering dengan dahak bercampur darah selama lebih dari setahun, dan telah menjadi perokok sejak kecil (mengonsumsi 2–3 bungkus rokok setiap hari), pemeriksaan fisik menunjukkan hemitoraks kiri penuh, dan torakosentesis kiri menghasilkan 57,3 mL efusi pleura berdarah. Radiografi menunjukkan bayangan padat berukuran $3 cm × 5 cm$ dengan tepi tidak teratur di paru-paru kiri bawah perifer. Diagnosis yang paling mungkin adalah ____.\nA. Abses paru-paru\nB. Bronkiektasis\nC. Kanker paru-paru perifer\nD. Tuberkulosis Paru",
+        "target_scores": {
+            "A. Abses paru-paru": 0,
+            "B. Bronkiektasis": 0,
+            "C. Kanker paru-paru perifer": 1,
+            "D. Tuberkulosis Paru": 0
+        }
+    },
+    {
+        "input": "Alasan utama mengapa $CO_2$ berdifusi melalui membran pernapasan lebih cepat daripada $O_2$ adalah ____.\nA. $CO_2$ mengalami difusi sederhana.\nB. Berat molekul $CO_2$ lebih besar daripada $O_2$\nC. Gradien tekanan untuk $CO_2$ lebih besar daripada $O_2$\nD. Kelarutan $CO_2$ dalam plasma lebih besar daripada $O_2$",
+        "target_scores": {
+            "A. $CO_2$ mengalami difusi sederhana.": 0,
+            "B. Berat molekul $CO_2$ lebih besar daripada $O_2$": 0,
+            "C. Gradien tekanan untuk $CO_2$ lebih besar daripada $O_2$": 0,
+            "D. Kelarutan $CO_2$ dalam plasma lebih besar daripada $O_2$": 1
+        }
+    },
+    {
+        "input": "Setelah amputasi jari pada monyet, area representasi kortikal sensorik dari jari yang diamputasi akan ____.\nA. Diambil alih dan ditempati oleh area representasi jari-jari yang berdekatan\nB. Digantikan oleh proliferasi sel glia\nC. Mengalami atrofi tingkat tertentu dengan hilangnya fungsi\nD. Tetap tidak berubah tetapi menjadi usang secara fungsional",
+        "target_scores": {
+            "A. Diambil alih dan ditempati oleh area representasi jari-jari yang berdekatan": 1,
+            "B. Digantikan oleh proliferasi sel glia": 0,
+            "C. Mengalami atrofi tingkat tertentu dengan hilangnya fungsi": 0,
+            "D. Tetap tidak berubah tetapi menjadi usang secara fungsional": 0
+        }
+    },
+    {
+        "input": "Dalam keadaan istirahat, bagian tubuh dengan suhu tertinggi adalah ____.\nA. Ginjal\nB. Hati\nC. Otak\nD. Otot rangka",
+        "target_scores": {
+            "A. Ginjal": 0,
+            "B. Hati": 1,
+            "C. Otak": 0,
+            "D. Otot rangka": 0
+        }
+    },
+    {
+        "input": "Seorang pria berusia 45 tahun mengalami kecelakaan saat bersepeda yang mengakibatkan fraktur kominutif pada tulang paha kiri. Di ruang gawat darurat, ia tiba-tiba mengalami dispnea dan nyeri dada. Pemeriksaan fisik menunjukkan takipnea, sianosis, dan ronki basah di paru-paru. Pemeriksaan radiografi menunjukkan atelektasis dan sedikit efusi pleura. Lesi paru yang paling mungkin adalah ____.\nA. Embolisme lemak paru\nB. Emfisema\nC. Pneumonia\nD. Tromboemboli arteri paru",
+        "target_scores": {
+            "A. Embolisme lemak paru": 1,
+            "B. Emfisema": 0,
+            "C. Pneumonia": 0,
+            "D. Tromboemboli arteri paru": 0
+        }
+    },
+    {
+        "input": "Pusat umum untuk refleks akomodasi (refleks dekat) dan refleks cahaya pupil adalah ____.\nA. Hipotalamus\nB. Medulla oblongata\nC. Otak tengah\nD. Pons",
+        "target_scores": {
+            "A. Hipotalamus": 0,
+            "B. Medulla oblongata": 0,
+            "C. Otak tengah": 1,
+            "D. Pons": 0
+        }
+    },
+    {
+        "input": "Seorang pria berusia 34 tahun dengan riwayat sindrom nefrotik. Dalam beberapa tahun terakhir, ia mengalami hipertensi, poliuria, dan nokturia. Baru-baru ini, ia mengalami anemia, penglihatan menurun, bau seperti urin di seluruh tubuh, kelemahan umum, muntah, dan kejang, dan akhirnya meninggal dalam keadaan koma. Penampakan patologis ginjal pada pasien ini kemungkinan besar adalah ____.\nA. Ginjal granular yang mengkerut\nB. Ginjal merah besar\nC. Ginjal putih besar\nD. Ginjal yang digigit kutu",
+        "target_scores": {
+            "A. Ginjal granular yang mengkerut": 1,
+            "B. Ginjal merah besar": 0,
+            "C. Ginjal putih besar": 0,
+            "D. Ginjal yang digigit kutu": 0
+        }
+    },
+    {
+        "input": "Komponen yang paling berbeda antara cairan jaringan dan plasma dalam tubuh adalah ____.\nA. Elektrolit\nB. Protein\nC. Senyawa organik molekul besar\nD. Senyawa organik molekul kecil",
+        "target_scores": {
+            "A. Elektrolit": 0,
+            "B. Protein": 1,
+            "C. Senyawa organik molekul besar": 0,
+            "D. Senyawa organik molekul kecil": 0
+        }
+    },
+    {
+        "input": "Dibandingkan dengan sel otot ventrikel, karakteristik utama potensial aksi sel Purkinje adalah ____.\nA. Amplitudo besar\nB. Depolarisasi otomatis pada fase 4\nC. Durasi fase plateau yang panjang\nD. Potensial membran stabil pada fase 4",
+        "target_scores": {
+            "A. Amplitudo besar": 0,
+            "B. Depolarisasi otomatis pada fase 4": 1,
+            "C. Durasi fase plateau yang panjang": 0,
+            "D. Potensial membran stabil pada fase 4": 0
+        }
+    },
+    {
+        "input": "Jika laju klirens ginjal suatu zat tertentu diukur sebesar 80 ml/menit, dapat dianggap bahwa tubulus renal ____ untuk zat tersebut.\nA. Pasti dapat menyerap kembali dan pasti dapat terjadi sekresi\nB. Pasti dapat menyerap kembali, tetapi tidak pasti apakah sekresi dapat terjadi\nC. Pasti dapat terjadi sekresi, tetapi tidak pasti apakah penyerapan kembali dapat terjadi\nD. Pasti tidak dapat menyerap kembali dan pasti tidak dapat terjadi sekresi",
+        "target_scores": {
+            "A. Pasti dapat menyerap kembali dan pasti dapat terjadi sekresi": 0,
+            "B. Pasti dapat menyerap kembali, tetapi tidak pasti apakah sekresi dapat terjadi": 1,
+            "C. Pasti dapat terjadi sekresi, tetapi tidak pasti apakah penyerapan kembali dapat terjadi": 0,
+            "D. Pasti tidak dapat menyerap kembali dan pasti tidak dapat terjadi sekresi": 0
+        }
+    },
+    {
+        "input": "Seorang pria berusia 40 tahun dengan riwayat merokok selama 20 tahun, merokok 2–3 bungkus per hari, baru-baru ini mengalami batuk yang semakin parah. Radiografi menunjukkan bayangan di paru-paru kiri atas. Biopsi mukosa bronkoskopik menunjukkan epitel skuamosa. Perubahan patologis ini diklasifikasikan sebagai ____.\nA. Atrofi mukosa bronkial\nB. Hiperplasia mukosa bronkial\nC. Hiperplasia skuamosa pada mukosa bronkial\nD. Metaplasia skuamosa pada mukosa bronkial",
+        "target_scores": {
+            "A. Atrofi mukosa bronkial": 0,
+            "B. Hiperplasia mukosa bronkial": 0,
+            "C. Hiperplasia skuamosa pada mukosa bronkial": 0,
+            "D. Metaplasia skuamosa pada mukosa bronkial": 1
+        }
+    },
+    {
+        "input": "Seorang wanita berusia 67 tahun dirawat di unit gawat darurat karena keracunan karbon monoksida. Meskipun telah dirawat di ruang oksigen hiperbarik, ia tidak sadarkan diri. Penyebabnya adalah ____.\nA. Kurva disosiasi oksigen bergeser ke kanan\nB. Pelepasan O2 dari HbO2 berkurang\nC. Peningkatan perbedaan tekanan parsial oksigen arteri-vena\nD. Tekanan parsial O2 darah arteri rendah",
+        "target_scores": {
+            "A. Kurva disosiasi oksigen bergeser ke kanan": 0,
+            "B. Pelepasan O2 dari HbO2 berkurang": 1,
+            "C. Peningkatan perbedaan tekanan parsial oksigen arteri-vena": 0,
+            "D. Tekanan parsial O2 darah arteri rendah": 0
+        }
+    },
+    {
+        "input": "Pada hari ke-6 setelah menjalani reseksi usus nekrotik dan anastomosis usus untuk obstruksi usus akut, pasien mengalami kebocoran cairan merah muda dari sayatan setelah batuk. Penyebab yang paling mungkin adalah ____.\nA. Akumulasi cairan subkutan di lokasi sayatan\nB. Dehiscence sayatan\nC. Infeksi sayatan\nD. Pembentukan asites",
+        "target_scores": {
+            "A. Akumulasi cairan subkutan di lokasi sayatan": 0,
+            "B. Dehiscence sayatan": 1,
+            "C. Infeksi sayatan": 0,
+            "D. Pembentukan asites": 0
+        }
+    },
+    {
+        "input": "Di antara deskripsi penyembuhan fraktur, yang di lokasi frakturnya ditandai dengan jaringan granulasi dan trabekula yang tidak teratur adalah ____.\nA. Fraktur yang tidak menyatu\nB. Pembentukan kalus fibrosa\nC. Pembentukan kalus tulang\nD. Penyelesaian remodeling kalus",
+        "target_scores": {
+            "A. Fraktur yang tidak menyatu": 0,
+            "B. Pembentukan kalus fibrosa": 0,
+            "C. Pembentukan kalus tulang": 1,
+            "D. Penyelesaian remodeling kalus": 0
+        }
+    },
+    {
+        "input": "Seorang wanita berusia 50 tahun dirawat di rumah sakit dengan nyeri perut akut. Dia memiliki riwayat hipertensi. Pada pemeriksaan fisik, tekanan darahnya ditemukan 90/50 mmHg, ekstremitasnya dingin, dan ujung jarinya tampak pucat. Tidak ada massa perut yang jelas terdeteksi, dan tidak ada bukti kekakuan otot perut atau nyeri lepas tekan. Pemeriksaan ultrasonografi menunjukkan diseksi aorta. Yang dapat menyebabkan diseksi aorta adalah ____.\nA. Aortitis rematik\nB. Arteritis Takayasu\nC. Arteritis sel raksasa\nD. Aterosklerosis",
+        "target_scores": {
+            "A. Aortitis rematik": 0,
+            "B. Arteritis Takayasu": 0,
+            "C. Arteritis sel raksasa": 0,
+            "D. Aterosklerosis": 1
+        }
+    },
+    {
+        "input": "Seorang pria berusia 30 tahun telah menyalahgunakan alkohol selama sekitar 8 tahun, mengonsumsi sekitar 500 ml minuman keras  dengan alkohol kuat setiap hari. Dalam enam bulan terakhir, ia sering mengalami mual, muntah, dan anoreksia. Biopsi hati menunjukkan degenerasi lemak yang meluas pada hepatosit dan nekrosis fokal pada hepatosit. Di dalam hepatosit, terdapat benda-benda bening eosinofilik dengan ukuran yang bervariasi. Komponen benda-benda bening ini adalah ____.\nA. HBsAg\nB. Imunoglobulin\nC. Prekeratin\nD. Protein plasma",
+        "target_scores": {
+            "A. HBsAg": 0,
+            "B. Imunoglobulin": 0,
+            "C. Prekeratin": 1,
+            "D. Protein plasma": 0
+        }
+    },
+    {
+        "input": "Seorang pasien pria berusia 40 tahun mengalami kemerahan, pembengkakan, sensasi panas, dan nyeri di punggungnya selama 7 hari, dengan tiga atau empat lubang di permukaannya yang mengeluarkan cairan kekuningan. Lesi tersebut disebabkan oleh ____.\nA. Infeksi Escherichia coli\nB. Infeksi Proteus mirabilis\nC. Infeksi Staphylococcus aureus\nD. Infeksi Streptococcus pyogenes",
+        "target_scores": {
+            "A. Infeksi Escherichia coli": 0,
+            "B. Infeksi Proteus mirabilis": 0,
+            "C. Infeksi Staphylococcus aureus": 1,
+            "D. Infeksi Streptococcus pyogenes": 0
+        }
+    },
+    {
+        "input": "Seorang pria berusia 38 tahun telah mengalami gejala regurgitasi asam lambung, bersendawa, dan sensasi penuh di epigastrium selama lebih dari 10 tahun, disertai nyeri epigastrium ritmis yang terjadi saat perut kosong dan memburuk di malam hari, tetapi berkurang dengan makan. Gastroskopi menunjukkan adanya ulkus bulat berdiameter sekitar 1 cm di bulbus duodenum. Deskripsi yang tidak berlaku untuk kondisi pasien adalah ____.\nA. Cenderung mengalami pendarahan\nB. Cenderung mengalami transformasi ganas\nC. Kemungkinan mengalami perforasi\nD. Kemungkinan menyebabkan obstruksi pilorus",
+        "target_scores": {
+            "A. Cenderung mengalami pendarahan": 0,
+            "B. Cenderung mengalami transformasi ganas": 1,
+            "C. Kemungkinan mengalami perforasi": 0,
+            "D. Kemungkinan menyebabkan obstruksi pilorus": 0
+        }
+    },
+    {
+        "input": "Seorang pasien meninggal karena perdarahan intraserebral akibat hipertensi, berat jantung adalah 550 g, dinding ventrikel kiri setebal 1,6 cm, otot papiler dan trabekula mengalami hipertrofi, dan ruang jantung tidak melebar. Diagnosisnya adalah ____.\nA. Degenerasi lemak jantung\nB. Hipertrofi jantung dekompensasi\nC. Hipertrofi jantung kompensasi\nD. Kardiomiopati hipertrofik",
+        "target_scores": {
+            "A. Degenerasi lemak jantung": 0,
+            "B. Hipertrofi jantung dekompensasi": 0,
+            "C. Hipertrofi jantung kompensasi": 1,
+            "D. Kardiomiopati hipertrofik": 0
+        }
+    },
+    {
+        "input": "Seorang pria berusia 60 tahun mengalami hematuria tanpa rasa sakit selama lebih dari enam bulan. Setelah sistoskopi, tumor papiler bertangkai diamati di trigonum kandung kemih. Hasil biopsi menunjukkan papiloma. Ciri patologis yang konsisten dengan diagnosis ini adalah ____.\nA. Keberadaan gugus sel skuamosa\nB. Keberadaan struktur kelenjar\nC. Papila ditutupi dengan epitel kelenjar yang berdiferensiasi baik\nD. Papila ditutupi dengan epitel transisional yang berdiferensiasi baik",
+        "target_scores": {
+            "A. Keberadaan gugus sel skuamosa": 0,
+            "B. Keberadaan struktur kelenjar": 0,
+            "C. Papila ditutupi dengan epitel kelenjar yang berdiferensiasi baik": 0,
+            "D. Papila ditutupi dengan epitel transisional yang berdiferensiasi baik": 1
+        }
+    },
+    {
+        "input": "Seorang pria berusia 58 tahun meninggal karena metastasis kanker lambung yang luas. Selama otopsi, jantungnya berbobot 200 gram. Pemeriksaan histologis menunjukkan pigmen granular kuning kecoklatan di kedua sisi inti kardiomiosit. Pigmen yang diidentifikasi adalah ____. \nA. Agregasi prekeratin\nB. Bilirubin\nC. Lipofuscin\nD. Melanin",
+        "target_scores": {
+            "A. Agregasi prekeratin": 0,
+            "B. Bilirubin": 0,
+            "C. Lipofuscin": 1,
+            "D. Melanin": 0
+        }
+    },
+    {
+        "input": "Seorang pria berusia 58 tahun, yang menjalani kolesistektomi untuk batu empedu dan kolesistitis tiga hari yang lalu, mengalami demam tinggi terus-menerus, batuk dengan dahak purulen berwarna kuning, dan nyeri dada di sisi kanan. Rontgen dada menunjukkan area konsolidasi yang luas di lobus kanan bawah dengan area lusensi yang tidak teratur. Patogen yang paling mungkin untuk pneumonia yang didapat di rumah sakit dalam kasus ini adalah ____.\nA. Bakteri anaerob\nB. Basil gram negatif\nC. Streptococcus pneumoniae\nD. Streptococcus pyogenes",
+        "target_scores": {
+            "A. Bakteri anaerob": 0,
+            "B. Basil gram negatif": 1,
+            "C. Streptococcus pneumoniae": 0,
+            "D. Streptococcus pyogenes": 0
+        }
+    },
+    {
+        "input": "Penurunan konsentrasi Na⁺ darah dan peningkatan konsentrasi K⁺ darah dapat menyebabkan ____. \nA. Peningkatan pelepasan hormon antidiuretik\nB. Peningkatan sekresi aldosteron\nC. Penurunan pelepasan hormon antidiuretik\nD. Penurunan sekresi aldosteron",
+        "target_scores": {
+            "A. Peningkatan pelepasan hormon antidiuretik": 0,
+            "B. Peningkatan sekresi aldosteron": 1,
+            "C. Penurunan pelepasan hormon antidiuretik": 0,
+            "D. Penurunan sekresi aldosteron": 0
+        }
+    },
+    {
+        "input": "Seorang pria berusia 30 tahun mengalami kemerahan dan pembengkakan di leher selama 8 hari. Setelah diperiksa, terlihat area merah dan bengkak berukuran sekitar $6cm \\times 5cm$ di leher, dengan beberapa kepala nanah terlihat di permukaan dan nyeri tekan yang signifikan saat diraba. Lesi tersebut sesuai dengan (    ).\nA. Furunkel\nB. Karbunkel\nC. Limfangitis\nD. Selulitis",
+        "target_scores": {
+            "A. Furunkel": 0,
+            "B. Karbunkel": 1,
+            "C. Limfangitis": 0,
+            "D. Selulitis": 0
+        }
+    },
+    {
+        "input": "Seorang pria berusia 60 tahun mengalami nyeri dada, batuk, dan hemoptisis selama dua bulan. Rontgen dada menunjukkan bayangan nodular berukuran 5 cm dengan tepi berbintik di paru kanan atas perifer. Penyakit yang diderita dalam pertimbangan pertama adalah ____.\nA. Abses paru\nB. Kanker paru perifer\nC. Nodul silikotik seperti massa\nD. Tuberkuloma",
+        "target_scores": {
+            "A. Abses paru": 0,
+            "B. Kanker paru perifer": 1,
+            "C. Nodul silikotik seperti massa": 0,
+            "D. Tuberkuloma": 0
+        }
+    },
+    {
+        "input": "Seseorang memiliki volume ruang mati 125 ml, ventilasi paru 7.500 ml/menit, dan laju pernapasan 20 napas per menit. Bila curah jantung 5.000 ml, rasio ventilasi/perfusi harus ____.\nA. 0,8\nB. 0,9\nC. 1\nD. 1,1",
+        "target_scores": {
+            "A. 0,8": 0,
+            "B. 0,9": 0,
+            "C. 1": 1,
+            "D. 1,1": 0
+        }
+    },
+    {
+        "input": "Jika dua individu memiliki kuosien respiratori yang sama, hal itu menunjukkan bahwa mereka memiliki ____.\nA.  Luas permukaan tubuh yang pada dasarnya sama\nB. Sumber energi yang pada dasarnya sama\nC. Tingkat metabolisme basal yang pada dasarnya sama\nD. Tingkat penggunaan energi yang pada dasarnya sama",
+        "target_scores": {
+            "A.  Luas permukaan tubuh yang pada dasarnya sama": 0,
+            "B. Sumber energi yang pada dasarnya sama": 1,
+            "C. Tingkat metabolisme basal yang pada dasarnya sama": 0,
+            "D. Tingkat penggunaan energi yang pada dasarnya sama": 0
+        }
+    },
+    {
+        "input": "Seorang pasien perempuan berusia 25 tahun telah mengalami anoreksia, mual, kelelahan, ikterus pada kulit dan sklera, serta nyeri di area hati selama dua minggu terakhir. Tes fungsi hati menunjukkan ALT 100 U/L dan total bilirubin serum 180 mg/L. $HBsAg(+)$. Biopsi hati menunjukkan edema hepatoseluler difus, proliferasi sel Kupffer, degenerasi lemak fokal pada hepatosit, infiltrasi limfosit dalam lobulus hati, serta nekrosis hepatoseluler titik (spotty/punctate) dan fokal. Lesi tersebut sesuai dengan ____.\nA. Hepatitis aktif kronis\nB. Hepatitis akut tipikal\nC. Hepatitis berat akut\nD. Hepatitis berat subakut",
+        "target_scores": {
+            "A. Hepatitis aktif kronis": 0,
+            "B. Hepatitis akut tipikal": 1,
+            "C. Hepatitis berat akut": 0,
+            "D. Hepatitis berat subakut": 0
+        }
+    },
+    {
+        "input": "Seorang wanita berusia 73 tahun terjatuh saat menuruni tangga dan mengalami fraktur femur. Selama fiksasi internal bedah, ia tiba-tiba mengalami gangguan pernapasan, sianosis, hipotensi, kejang umum, dan koma, dan meninggal meskipun telah dilakukan upaya resusitasi. Pada otopsi, temuan yang paling mungkin pada pembuluh paru-paru adalah ____.\nA. Epitel berkeratin\nB. Tetesan lemak\nC. Trombus\nD. Udara",
+        "target_scores": {
+            "A. Epitel berkeratin": 0,
+            "B. Tetesan lemak": 1,
+            "C. Trombus": 0,
+            "D. Udara": 0
+        }
+    },
+    {
+        "input": "Pada tahap akhir AIDS, penurunan paling signifikan pada sel darah tepi terlihat pada ____.\nA. Sel CD14+\nB. Sel CD16+\nC. Sel CD4+\nD. Sel CD8+",
+        "target_scores": {
+            "A. Sel CD14+": 0,
+            "B. Sel CD16+": 0,
+            "C. Sel CD4+": 1,
+            "D. Sel CD8+": 0
+        }
+    },
+    {
+        "input": "Seorang pria dengan golongan darah A memiliki dua anak, laki-laki dan perempuan. Serum anak perempuan tidak menggumpal dengan sel darah merah ayahnya, sedangkan serum anak laki-laki menggumpal dengan sel darah merah ayahnya. Golongan darah anak laki-laki bisa jadi ____.\nA. Golongan darah A atau Golongan darah AB\nB. Golongan darah A atau Golongan darah B\nC. Golongan darah A atau Golongan darah O\nD. Golongan darah B atau Golongan darah O",
+        "target_scores": {
+            "A. Golongan darah A atau Golongan darah AB": 0,
+            "B. Golongan darah A atau Golongan darah B": 0,
+            "C. Golongan darah A atau Golongan darah O": 0,
+            "D. Golongan darah B atau Golongan darah O": 1
+        }
+    },
+    {
+        "input": "Seorang pria berusia 60 tahun, yang telah lama merokok dan memiliki riwayat kor pulmonal selama hampir 3 tahun, baru-baru ini mengalami batuk, mengi, dan palpitasi. Pemeriksaan menunjukkan hepatomegali dengan nyeri tekan. Perubahan patologis pada hati pasien sesuai dengan ____. \nA. Atrofi hepatosit dan degenerasi lemak\nB. Edema sel hati dan degenerasi balon\nC. Nekrosis fokal hepatosit\nD. Nekrosis masif hepatosit",
+        "target_scores": {
+            "A. Atrofi hepatosit dan degenerasi lemak": 1,
+            "B. Edema sel hati dan degenerasi balon": 0,
+            "C. Nekrosis fokal hepatosit": 0,
+            "D. Nekrosis masif hepatosit": 0
+        }
+    },
+    {
+        "input": "Seorang pasien perempuan berusia 22 tahun mengalami benjolan di perut kanan bawah selama tiga bulan. Operasi menunjukkan bahwa ovarium kanan hancur dan digantikan oleh tumor kistik, yang berisi bahan sebasea dan rambut, dengan gigi yang terlihat di dinding kista. Diagnosisnya adalah ____.\nA. Hamartoma\nB. Koristoma\nC. Teratoma\nD. Tumor sel aseksual",
+        "target_scores": {
+            "A. Hamartoma": 0,
+            "B. Koristoma": 0,
+            "C. Teratoma": 1,
+            "D. Tumor sel aseksual": 0
+        }
+    },
+    {
+        "input": "Manakah dari hormon berikut ini yang menginduksi puncak LH yang diperlukan untuk ovulasi sekitar satu hari sebelum ovulasi adalah(    ).\nA. Androgen\nB. Estradiol\nC. Hormon perangsang folikel\nD. Progesteron",
+        "target_scores": {
+            "A. Androgen": 0,
+            "B. Estradiol": 1,
+            "C. Hormon perangsang folikel": 0,
+            "D. Progesteron": 0
+        }
+    },
+    {
+        "input": "Seorang laki-laki berusia 70 tahun dirawat di unit gawat darurat karena pendarahan gastrointestinal atas yang masif. Ulkus besar seperti kawah terlihat di mukosa antral spesimen bedah. Permukaan yang terpotong keras, putih porselen, dan menyerang lapisan otot. Beberapa nodul kecil terlihat di hati, yang direseksi dan dikirim untuk pemeriksaan patologis bersama-sama, didiagnosis sebagai metastasis hati dari kanker lambung. Perubahan patologisnya adalah ____. \nA. Nodul kecil yang terdiri dari hepatosit\nB. Nodul kecil yang terdiri dari pseudolobulus\nC. Nodul kecil yang terdiri dari sel cincin signet\nD. Nodul kecil yang terdiri dari sel kanker skuamosa",
+        "target_scores": {
+            "A. Nodul kecil yang terdiri dari hepatosit": 0,
+            "B. Nodul kecil yang terdiri dari pseudolobulus": 0,
+            "C. Nodul kecil yang terdiri dari sel cincin signet": 1,
+            "D. Nodul kecil yang terdiri dari sel kanker skuamosa": 0
+        }
+    },
+    {
+        "input": "Eko, seorang anak laki-laki berusia 5 tahun, memiliki pola makan yang selektif dan berat badannya kurang. Ia didiagnosis mengalami malnutrisi di klinik rawat jalan. Dokter menyarankan untuk memperbaiki kebiasaan makannya dan menganjurkan untuk meningkatkan asupan protein dalam makanannya. Alasan utamanya adalah protein dapat ____ dalam tubuh.\nA. Dioksidasi secara langsung untuk energi guna menjaga keseimbangan energi\nB. Diubah menjadi gula untuk menyediakan energi\nC. Diubah menjadi lemak untuk menjaga keseimbangan energi\nD. Melengkapi berbagai asam amino, memastikan asam amino dapat saling melengkapi, mendorong pertumbuhan",
+        "target_scores": {
+            "A. Dioksidasi secara langsung untuk energi guna menjaga keseimbangan energi": 0,
+            "B. Diubah menjadi gula untuk menyediakan energi": 0,
+            "C. Diubah menjadi lemak untuk menjaga keseimbangan energi": 0,
+            "D. Melengkapi berbagai asam amino, memastikan asam amino dapat saling melengkapi, mendorong pertumbuhan": 1
+        }
+    },
+    {
+        "input": "Pilihan tunggal Mengenai kongesti paru:\nSeorang wanita berusia 60 tahun dengan stenosis mitral selama sekitar 15 tahun baru-baru ini mengalami dispnea yang memburuk dan batuk berdahak merah muda berbusa. Perubahan patologis pada paru-paru pasien yang tidak sesuai adalah (    ).\nA. Dilatasi kapiler pada dinding alveolus\nB. Eksudasi fibrin masif dalam alveolus\nC. Eksudasi sel darah merah dalam rongga alveolus\nD. Sejumlah besar cairan protein dalam rongga alveolus",
+        "target_scores": {
+            "A. Dilatasi kapiler pada dinding alveolus": 0,
+            "B. Eksudasi fibrin masif dalam alveolus": 1,
+            "C. Eksudasi sel darah merah dalam rongga alveolus": 0,
+            "D. Sejumlah besar cairan protein dalam rongga alveolus": 0
+        }
+    },
+    {
+        "input": "Dalam diagnosis banding tumor ganas: Pewarnaan imunohistokimia menunjukkan vimentin positif dan keratin negatif. Tumor tersebut adalah ____.\nA. Karsinoma\nB. Melanoma\nC. Sarkoma\nD. Tumor neuroendokrin",
+        "target_scores": {
+            "A. Karsinoma": 0,
+            "B. Melanoma": 0,
+            "C. Sarkoma": 1,
+            "D. Tumor neuroendokrin": 0
+        }
+    },
+    {
+        "input": "Ketika tekanan darah arteri berfluktuasi dalam kisaran 80–180 mmHg, aliran darah ginjal dapat dipertahankan relatif stabil. Stabilitas ini merupakan hasil dari ____.\nA. Autoregulasi\nB. Pengaturan oleh sistem renin-angiotensin\nC. Pengaturan oleh sistem saraf parasimpatis\nD. Pengaturan oleh sistem simpatis-medula adrenal",
+        "target_scores": {
+            "A. Autoregulasi": 1,
+            "B. Pengaturan oleh sistem renin-angiotensin": 0,
+            "C. Pengaturan oleh sistem saraf parasimpatis": 0,
+            "D. Pengaturan oleh sistem simpatis-medula adrenal": 0
+        }
+    },
+    {
+        "input": "Selama pesawat naik dan turun, pramugari menyarankan penumpang untuk menelan. Pentingnya tindakan ini adalah untuk ____.\nA. Menyeimbangkan tekanan antara rongga telinga tengah dan atmosfer\nB. Menyeimbangkan tekanan di dalam dan di luar membran jendela oval\nC. Menyeimbangkan tekanan di kedua sisi membran basilar\nD. Menyeimbangkan tekanan di kedua sisi membran vestibular",
+        "target_scores": {
+            "A. Menyeimbangkan tekanan antara rongga telinga tengah dan atmosfer": 1,
+            "B. Menyeimbangkan tekanan di dalam dan di luar membran jendela oval": 0,
+            "C. Menyeimbangkan tekanan di kedua sisi membran basilar": 0,
+            "D. Menyeimbangkan tekanan di kedua sisi membran vestibular": 0
+        }
+    },
+    {
+        "input": "Selama respirasi tenang, tekanan intrapulmonal lebih rendah daripada tekanan atmosfer selama ____.\nA. Akhir ekspirasi\nB. Akhir inspirasi\nC. Awal ekspirasi\nD. Awal inspirasi",
+        "target_scores": {
+            "A. Akhir ekspirasi": 0,
+            "B. Akhir inspirasi": 0,
+            "C. Awal ekspirasi": 0,
+            "D. Awal inspirasi": 1
+        }
+    },
+    {
+        "input": "Seorang pasien laki-laki berusia 35 tahun mengalami infeksi saluran pernapasan atas dua hari yang lalu. Kondisinya memburuk dengan cepat, disertai demam (39,8°C), menggigil, nyeri dada, batuk, dan dahak berwarna karat. Pemeriksaan radiografi menunjukkan bayangan besar dan padat di lobus bawah kiri paru-paru. Deskripsi yang tidak berlaku untuk penyakit pasien adalah ____.\nA. Komplikasi abses paru-paru\nB. Komplikasi bronkiektasis\nC. Komplikasi karnifikasi paru\nD. Komplikasi syok septik",
+        "target_scores": {
+            "A. Komplikasi abses paru-paru": 0,
+            "B. Komplikasi bronkiektasis": 1,
+            "C. Komplikasi karnifikasi paru": 0,
+            "D. Komplikasi syok septik": 0
+        }
+    },
+    {
+        "input": "Untuk satu serabut saraf, ketika intensitas stimulus digandakan berdasarkan intensitas ambang, bagaimana amplitudo potensial aksi berubah?____\nA. Meningkat menjadi tiga kali lipat\nB. Menjadi dua kali lipat\nC. Menurun setengahnya\nD. Tetap tidak berubah",
+        "target_scores": {
+            "A. Meningkat menjadi tiga kali lipat": 0,
+            "B. Menjadi dua kali lipat": 0,
+            "C. Menurun setengahnya": 0,
+            "D. Tetap tidak berubah": 1
+        }
+    },
+    {
+        "input": "Dalam kondisi pramuatan yang konstan, kecepatan awal kontraksi otot akan mencapai nilai maksimum apabila pascamuatan _____.\nA. Nol\nB. Sangat besar\nC. Terlalu besar\nD. Terlalu kecil",
+        "target_scores": {
+            "A. Nol": 1,
+            "B. Sangat besar": 0,
+            "C. Terlalu besar": 0,
+            "D. Terlalu kecil": 0
+        }
+    },
+    {
+        "input": "Seorang pasien laki-laki berusia 50 tahun dengan hernia inguinalis kanan telah menjalani operasi perbaikan hernia. Waktu ketika kekuatan tarik luka mencapai puncaknya adalah ____.\nA. 2 bulan\nB. 3 bulan\nC. 3 minggu\nD. 5 minggu",
+        "target_scores": {
+            "A. 2 bulan": 0,
+            "B. 3 bulan": 1,
+            "C. 3 minggu": 0,
+            "D. 5 minggu": 0
+        }
+    },
+    {
+        "input": "Seorang pasien perempuan berusia 26 tahun memiliki massa bulat berdiameter sekitar 2 cm di kuadran atas luar payudara kanan, dengan batas yang jelas, permukaan halus, dan dapat digerakkan serta tidak nyeri. Massa tersebut kemungkinan besar adalah ____.\nA. Fibroadenoma payudara\nB. Kanker payudara\nC. Kista payudara\nD. Mastopati",
+        "target_scores": {
+            "A. Fibroadenoma payudara": 1,
+            "B. Kanker payudara": 0,
+            "C. Kista payudara": 0,
+            "D. Mastopati": 0
+        }
+    },
+    {
+        "input": "Mengenai efek yang dihasilkan setelah katekolamin berikatan dengan reseptor β, pernyataan berikut manakah yang salah? ____\nA. Pelemahan aktivitas jantung\nB. Relaksasi otot polos di usus halus\nC. Relaksasi uterus\nD. Vasodilatasi",
+        "target_scores": {
+            "A. Pelemahan aktivitas jantung": 1,
+            "B. Relaksasi otot polos di usus halus": 0,
+            "C. Relaksasi uterus": 0,
+            "D. Vasodilatasi": 0
+        }
+    },
+    {
+        "input": "Manakah dari zat berikut yang berfungsi sebagai molekul penyimpan energi dan molekul penyedia energi langsung?____\nA. Adenosin difosfat (ADP)\nB. Adenosin trifosfat (ATP)\nC. Asam lemak\nD. Glukosa",
+        "target_scores": {
+            "A. Adenosin difosfat (ADP)": 0,
+            "B. Adenosin trifosfat (ATP)": 1,
+            "C. Asam lemak": 0,
+            "D. Glukosa": 0
+        }
+    },
+    {
+        "input": "Seorang pasien wanita berusia 40 tahun telah mengalami nyeri pinggang kiri selama satu tahun, dengan hematuria, piuria sesekali, dan Mycobacterium tuberculosis terdeteksi dalam urin. Pielografi intravena menunjukkan adanya kavitasi di ginjal kiri. Diagnosis yang sesuai dengan penyakit pasien adalah ____.\nA. Hidronefrosis ginjal kiri\nB. Kalkulus ginjal kiri\nC. Karsinoma sel ginjal kiri\nD. Tuberkulosis ginjal kiri",
+        "target_scores": {
+            "A. Hidronefrosis ginjal kiri": 0,
+            "B. Kalkulus ginjal kiri": 0,
+            "C. Karsinoma sel ginjal kiri": 0,
+            "D. Tuberkulosis ginjal kiri": 1
+        }
+    },
+    {
+        "input": "Di antara kondisi prakanker berikut, yang mana yang memiliki kemungkinan transformasi ganas tertinggi?\nA. Displasia\nB. Gastritis atrofi kronis\nC. Metaplasia usus\nD. Tukak lambung",
+        "target_scores": {
+            "A. Displasia": 1,
+            "B. Gastritis atrofi kronis": 0,
+            "C. Metaplasia usus": 0,
+            "D. Tukak lambung": 0
+        }
+    },
+    {
+        "input": "Seorang wanita berusia 30 tahun dengan spondilitis tuberkulosis mengalami abses dingin di punggungnya, yang telah pecah dan terus mengeluarkan nanah. Kondisi patologis ini dikenal sebagai ____.\nA.  Sinus\nB. Fistula\nC. Kavitas\nD. Ulkus",
+        "target_scores": {
+            "A.  Sinus": 1,
+            "B. Fistula": 0,
+            "C. Kavitas": 0,
+            "D. Ulkus": 0
+        }
+    },
+    {
+        "input": "Seorang pasien mengalami polifagia, polidipsia, dan poliuria, dengan konsentrasi glukosa darah 200 mg/dL dan glukosuria (+). Alasan utama peningkatan produksi urin adalah ____.\nA. Peningkatan konsentrasi zat terlarut dalam tubulus ginjal\nB. Peningkatan laju filtrasi glomerulus\nC. Peningkatan tekanan osmotik kristaloid plasma\nD. Penurunan reabsorpsi tubulus ginjal",
+        "target_scores": {
+            "A. Peningkatan konsentrasi zat terlarut dalam tubulus ginjal": 1,
+            "B. Peningkatan laju filtrasi glomerulus": 0,
+            "C. Peningkatan tekanan osmotik kristaloid plasma": 0,
+            "D. Penurunan reabsorpsi tubulus ginjal": 0
+        }
+    },
+    {
+        "input": "Seorang pasien wanita berusia 60 tahun, spesimen tumor kandung kemih telah dikirimkan untuk diperiksa. Pemeriksaan kasar menunjukkan tumor berdiameter sekitar 3 cm, dengan tampilan papiler dan ulserasi permukaan. Permukaan yang terpotong berwarna putih keabu-abuan dan keras, dengan invasi ke lapisan otot kandung kemih. Diagnosis yang paling mungkin untuk tumor ini adalah ____. \nA. Karsinoma sel skuamosa\nB. Karsinoma tak berdiferensiasi\nC. Karsinoma urotelial\nD. Leiomioma",
+        "target_scores": {
+            "A. Karsinoma sel skuamosa": 0,
+            "B. Karsinoma tak berdiferensiasi": 0,
+            "C. Karsinoma urotelial": 1,
+            "D. Leiomioma": 0
+        }
+    },
+    {
+        "input": "Seorang perempuan berusia 18 tahun mengalami demam tinggi, mual, muntah, mengantuk, penyakit kuning pada kulit dan sklera, serta nyeri di area hati selama satu minggu. Tes laboratorium menunjukkan kadar ALT 150 U/L dan kadar bilirubin 35 mg%, dengan $HBsAg (+)$. Setelah dua hari dirawat di rumah sakit, ia mengalami ensefalopati hepatik, yang ditandai dengan bau hati dan koma, dan meninggal karena pendarahan gastrointestinal yang luas. Perubahan patologis pada biopsi hati kemungkinan besar berhubungan dengan ____.\nA. Nekrosis fokal hepatosit\nB. Nekrosis hepatosit bercak-bercak\nC. Nekrosis masif hepatosit\nD. Nekrosis submasif hepatosit",
+        "target_scores": {
+            "A. Nekrosis fokal hepatosit": 0,
+            "B. Nekrosis hepatosit bercak-bercak": 0,
+            "C. Nekrosis masif hepatosit": 1,
+            "D. Nekrosis submasif hepatosit": 0
+        }
+    },
+    {
+        "input": "Seorang laki-laki berusia 16 tahun menderita luka bakar di tangan kirinya, yang mengakibatkan kemerahan, pembengkakan, dan beberapa lepuh tanpa tanda-tanda infeksi. Setelah perawatan, lukanya sembuh total. Perubahan patologis pada jaringan kulit lokal ditandai dengan ____. \nA. Kerusakan pelengkap kulit\nB. Pembentukan jaringan parut fibrosa\nC. Penampilan kulit normal\nD. Proliferasi kapiler",
+        "target_scores": {
+            "A. Kerusakan pelengkap kulit": 0,
+            "B. Pembentukan jaringan parut fibrosa": 0,
+            "C. Penampilan kulit normal": 1,
+            "D. Proliferasi kapiler": 0
+        }
+    },
+    {
+        "input": "Terjadinya metaplasia skuamosa pada epitel mukosa bronkial biasanya merupakan perubahan berikut?\nA. Displasia\nB. Hiperplasia atipikal\nC. Perubahan adaptif (metaplastik)\nD. Regenerasi tidak lengkap",
+        "target_scores": {
+            "A. Displasia": 0,
+            "B. Hiperplasia atipikal": 0,
+            "C. Perubahan adaptif (metaplastik)": 1,
+            "D. Regenerasi tidak lengkap": 0
+        }
+    },
+    {
+        "input": "Orang dewasa normal memerlukan ekskresi 900 mmol/L zat terlarut per hari. Jika seseorang mengalami gangguan kapasitas konsentrasi dan pengenceran urin, dengan osmolalitas urin maksimum 300 mmol/L, berapa banyak air yang harus mereka minum setiap hari untuk mencegah peningkatan osmolalitas cairan tubuh (dengan asumsi kehilangan air yang tidak terasa adalah 1,5 L/hari)? ____\nA. 1 L\nB. 3 L\nC. 4,5 L\nD. 6 L",
+        "target_scores": {
+            "A. 1 L": 0,
+            "B. 3 L": 0,
+            "C. 4,5 L": 1,
+            "D. 6 L": 0
+        }
+    },
+    {
+        "input": "Jika suatu zat memiliki konsentrasi tertentu di arteri ginjal dan tidak ada (konsentrasi nol) di vena ginjal, laju klirens plasma-nya (    ).\nA. Sama dengan aliran darah ginjal per menit\nB. Sama dengan aliran plasma ginjal per menit\nC. Sama dengan laju filtrasi glomerulus\nD. Sama dengan nol",
+        "target_scores": {
+            "A. Sama dengan aliran darah ginjal per menit": 0,
+            "B. Sama dengan aliran plasma ginjal per menit": 1,
+            "C. Sama dengan laju filtrasi glomerulus": 0,
+            "D. Sama dengan nol": 0
+        }
+    },
+    {
+        "input": "Pasien tidak dapat menulis, sementara semua fungsi bahasa lainnya masih utuh, dan tidak ada gangguan motorik lain di tangan. Pusat bahasa yang mengalami kerusakan terletak pada ____.\nA. 1/3 posterior girus frontal inferior\nB. Bagian posterior girus frontal tengah\nC. Bagian posterior girus temporal superior\nD. Posterior ke bagian inferior girus presentral",
+        "target_scores": {
+            "A. 1/3 posterior girus frontal inferior": 0,
+            "B. Bagian posterior girus frontal tengah": 1,
+            "C. Bagian posterior girus temporal superior": 0,
+            "D. Posterior ke bagian inferior girus presentral": 0
+        }
+    },
+    {
+        "input": "Seseorang memiliki jumlah sel darah putih total $11 \\times 10^9／L$, dengan neutrofil pada $5 \\times 10^9／L$ dan eosinofil pada $3 \\times 10^9／L$. Profil ini biasanya terlihat pada ____.\nA. Bayi\nB. Individu yang sehat\nC. Pasien dengan skistosomiasis\nD. Penduduk daerah dataran tinggi",
+        "target_scores": {
+            "A. Bayi": 0,
+            "B. Individu yang sehat": 0,
+            "C. Pasien dengan skistosomiasis": 1,
+            "D. Penduduk daerah dataran tinggi": 0
+        }
+    },
+    {
+        "input": "Selama cedera otak, sel glia dapat berkembang biak secara berlebihan dan memiliki fungsi yang melemah. Fungsi yang melemah terkait dengan pembentukan fokus epilepsi lokal adalah ____.\nA. Efek isolasi\nB. Efek trofik (nutrisi)\nC. Fungsi penghalang\nD. Kemampuan pompa K⁺",
+        "target_scores": {
+            "A. Efek isolasi": 0,
+            "B. Efek trofik (nutrisi)": 0,
+            "C. Fungsi penghalang": 0,
+            "D. Kemampuan pompa K⁺": 1
+        }
+    },
+    {
+        "input": "Dalam kondisi normal, tekanan pleura pada akhir ekspirasi tenang adalah -5 hingga -3 mmHg. Pada akhir inspirasi tenang, tekanan pleura adalah ____.\nA. -10 hingga -5 mmHg\nB. -3 hingga 5 mmHg\nC. 0 hingga 5 mmHg\nD. 5 hingga 10 mmHg",
+        "target_scores": {
+            "A. -10 hingga -5 mmHg": 1,
+            "B. -3 hingga 5 mmHg": 0,
+            "C. 0 hingga 5 mmHg": 0,
+            "D. 5 hingga 10 mmHg": 0
+        }
+    },
+    {
+        "input": "Segmen mRNA telah mengalami mutasi pada cetakan DNA-nya, yang mengubah kodon ke-91 dari UAG menjadi UAA. Mutasi ini adalah ____.\nA. Mutasi frameshift\nB. Mutasi missense\nC. Mutasi nonsense\nD. Mutasi silent",
+        "target_scores": {
+            "A. Mutasi frameshift": 0,
+            "B. Mutasi missense": 0,
+            "C. Mutasi nonsense": 0,
+            "D. Mutasi silent": 1
+        }
+    },
+    {
+        "input": "Seorang pasien laki-laki berusia 73 tahun, tanpa riwayat hipertensi, tiba-tiba merasakan berat di tungkai kanan bawahnya dan gerakan terbatas tiga hari yang lalu, disertai dengan gerakan terbatas di lengan kanan atasnya. Suatu hari yang lalu, ia benar-benar kehilangan kemampuan untuk menggerakkan lengan dan tungkai kanannya. Deskripsi yang sesuai dengan penyakit pasien adalah ____. \nA. Abses otak\nB. Aterosklerosis arteri serebral disertai trombosis\nC. Perdarahan otak\nD. Tumor otak",
+        "target_scores": {
+            "A. Abses otak": 0,
+            "B. Aterosklerosis arteri serebral disertai trombosis": 1,
+            "C. Perdarahan otak": 0,
+            "D. Tumor otak": 0
+        }
+    },
+    {
+        "input": "Pada pankreatitis akut, adanya bercak sabun menunjukkan jenis nekrosis yang mana? ____\nA. Nekrosis kaseosa\nB. Nekrosis koagulatif\nC. Nekrosis lemak\nD. Nekrosis likuefaktif",
+        "target_scores": {
+            "A. Nekrosis kaseosa": 0,
+            "B. Nekrosis koagulatif": 0,
+            "C. Nekrosis lemak": 1,
+            "D. Nekrosis likuefaktif": 0
+        }
+    },
+    {
+        "input": "Di antara kondisi berikut, amiloidosis paling jarang terlihat pada ____.\nA. Aterosklerosis\nB. Karsinoma tiroid meduler\nC. Penyakit sumsum tulang\nD. Tuberkulosis",
+        "target_scores": {
+            "A. Aterosklerosis": 1,
+            "B. Karsinoma tiroid meduler": 0,
+            "C. Penyakit sumsum tulang": 0,
+            "D. Tuberkulosis": 0
+        }
+    },
+    {
+        "input": "Jika periode refrakter absolut dari siklus eksitabilitas sel adalah 2 ms, jumlah maksimum potensial aksi yang secara teoritis dapat dihasilkan dan dihantarkan per detik tidak lebih dari ____.\nA. 100 kali\nB. 400 kali\nC. 50 kali\nD. 500 kali",
+        "target_scores": {
+            "A. 100 kali": 0,
+            "B. 400 kali": 0,
+            "C. 50 kali": 0,
+            "D. 500 kali": 1
+        }
+    },
+    {
+        "input": "Membran dasar glomerulus dengan proyeksi yang memanjang tegak lurus dari membran, menyerupai gigi sisir, terlihat pada penyakit berikut yang mana?\nA. Glomerulonefritis bulan sabit\nB. Glomerulonefritis membranoproliferatif tipe I\nC. Glomerulonefritis membranoproliferatif tipe II\nD. Glomerulonefritis membranosa",
+        "target_scores": {
+            "A. Glomerulonefritis bulan sabit": 0,
+            "B. Glomerulonefritis membranoproliferatif tipe I": 0,
+            "C. Glomerulonefritis membranoproliferatif tipe II": 0,
+            "D. Glomerulonefritis membranosa": 1
+        }
+    },
+    {
+        "input": "Seorang wanita berusia 58 tahun dirawat di rumah sakit karena massa di kuadran atas luar payudara kiri dan pembengkakan kelenjar getah bening aksila. Diagnosis patologis dari spesimen bedah adalah karsinoma duktal invasif pada payudara kiri dengan metastasis kelenjar getah bening (2/10). Di antara perubahan patologis berikut, yang paling erat kaitannya dengan metastasis tumor pasien adalah ____.\nA. Keberadaan fokus nekrotik\nB. Peningkatan apoptosis\nC. Peningkatan ekspresi keratin\nD. Peningkatan ekspresi reseptor laminin",
+        "target_scores": {
+            "A. Keberadaan fokus nekrotik": 0,
+            "B. Peningkatan apoptosis": 0,
+            "C. Peningkatan ekspresi keratin": 0,
+            "D. Peningkatan ekspresi reseptor laminin": 1
+        }
+    },
+    {
+        "input": "Dua hari setelah cedera remuk jari, pasien mengalami nyeri yang semakin parah, dengan eritema dan pembengkakan menyebar ke telapak tangan, dan tidak ada batas yang jelas dari jaringan normal. Lesi ini harus didiagnosis sebagai ____.\nA. Abses\nB. Peradangan fibrinosa\nC. Peradangan serosa\nD. Selulitis",
+        "target_scores": {
+            "A. Abses": 0,
+            "B. Peradangan fibrinosa": 0,
+            "C. Peradangan serosa": 0,
+            "D. Selulitis": 1
+        }
+    },
+    {
+        "input": "Seorang pria berusia 8 tahun mengalami demam ringan, kelelahan, keringat malam, dan batuk selama satu tahun. Pemeriksaan radiografi menunjukkan bayangan massa yang tidak jelas di dekat pleura di bagian atas lobus kanan bawah, dengan beberapa kelenjar getah bening hilus yang membesar. Tes tuberkulin positif. Penyakit pada pasien ini kemungkinan besar adalah ____.\nA. Tuberkulosis paru fibrokavitas kronis\nB. Tuberkulosis paru fokal\nC. Tuberkulosis paru infiltratif\nD. Tuberkulosis paru primer dengan penyebaran limfatik",
+        "target_scores": {
+            "A. Tuberkulosis paru fibrokavitas kronis": 0,
+            "B. Tuberkulosis paru fokal": 0,
+            "C. Tuberkulosis paru infiltratif": 0,
+            "D. Tuberkulosis paru primer dengan penyebaran limfatik": 1
+        }
+    },
+    {
+        "input": "Seorang pasien laki-laki berusia 10 tahun mengalami radang amandel dua minggu lalu, yang membaik setelah pengobatan. Selama dua hari terakhir, ia mengalami edema kelopak mata, oliguria, hematuria, proteinuria (+++), dan tekanan darah tinggi (150/90 mmHg). Manifestasi klinis pasien sesuai dengan ____.\nA. Sindrom glomerulonefritis akut\nB. Sindrom glomerulonefritis kronis\nC. Sindrom glomerulonefritis laten\nD. Sindrom glomerulonefritis progresif cepat",
+        "target_scores": {
+            "A. Sindrom glomerulonefritis akut": 1,
+            "B. Sindrom glomerulonefritis kronis": 0,
+            "C. Sindrom glomerulonefritis laten": 0,
+            "D. Sindrom glomerulonefritis progresif cepat": 0
+        }
+    },
+    {
+        "input": "Seorang pasien perempuan berusia 50 tahun menderita tumor yang tumbuh lambat di punggungnya selama lima tahun. Saat diperiksa, tumor berdiameter sekitar 5 cm, mudah bergerak, dan memiliki batas yang jelas. Setelah eksisi bedah, tumor tampak kuning muda, berlobulus, dengan kapsul utuh dan konsistensi lunak. Nodul tersebut kemungkinan besar adalah ____. \nA. Fibroma\nB. Hemangioma\nC. Leiomioma\nD. Lipoma",
+        "target_scores": {
+            "A. Fibroma": 0,
+            "B. Hemangioma": 0,
+            "C. Leiomioma": 0,
+            "D. Lipoma": 1
+        }
+    },
+    {
+        "input": "Selama hemostasis fisiologis, aktivasi fosfolipase A2 trombosit dapat menyebabkan sintesis dan pelepasan ____ oleh trombosit.\nA. ADP\nB. ATP\nC. Faktor pengaktif trombosit\nD. TXA2",
+        "target_scores": {
+            "A. ADP": 0,
+            "B. ATP": 0,
+            "C. Faktor pengaktif trombosit": 0,
+            "D. TXA2": 1
+        }
+    },
+    {
+        "input": "Di antara jenis patologis kanker endometrium, yang paling erat kaitannya dengan metaplasia adalah (   ).\nA. Adenokarsinoma endometrioid\nB. Adenokarsinoma serosa\nC. Karsinoma sel jernih\nD. Karsinoma sel skuamosa",
+        "target_scores": {
+            "A. Adenokarsinoma endometrioid": 0,
+            "B. Adenokarsinoma serosa": 0,
+            "C. Karsinoma sel jernih": 0,
+            "D. Karsinoma sel skuamosa": 1
+        }
+    },
+    {
+        "input": "Seorang ibu Rh-negatif yang melahirkan anak Rh-positif dapat mengakibatkan (    ).\nA. Anemia hemolitik neonatal\nB. Anemia megaloblastik\nC. Hemofilia\nD. Polisitemia",
+        "target_scores": {
+            "A. Anemia hemolitik neonatal": 1,
+            "B. Anemia megaloblastik": 0,
+            "C. Hemofilia": 0,
+            "D. Polisitemia": 0
+        }
+    },
+    {
+        "input": "Seorang wanita berusia 28 tahun, yang mengalami ketidaknyamanan perut bagian bawah, ditemukan memiliki massa di perut bagian bawah saat diperiksa dan menjalani histerektomi. Pemeriksaan kasar menunjukkan nodul putih keabu-abuan, kuning keabu-abuan di dalam miometrium uterus, berukuran diameter 2 cm dengan tepi yang jelas. Pemeriksaan mikroskopis menunjukkan sel tumor dengan ukuran yang relatif seragam, pewarnaan homogen, dan figur mitosis yang jarang (3/10HP). Tumor tersebut kaya akan pembuluh darah tanpa invasi vaskular. Imunohistokimia menunjukkan DES (-) dan CD10 (+). Diagnosisnya adalah (    ).\nA. Leiomyoma uterus\nB. Leiomyosarcoma uterus\nC. Nodul stroma endometrium\nD. Sarkoma uterus tak berdiferensiasi",
+        "target_scores": {
+            "A. Leiomyoma uterus": 0,
+            "B. Leiomyosarcoma uterus": 0,
+            "C. Nodul stroma endometrium": 1,
+            "D. Sarkoma uterus tak berdiferensiasi": 0
+        }
+    }
+]

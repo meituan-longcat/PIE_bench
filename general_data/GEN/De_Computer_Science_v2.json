@@ -1,0 +1,690 @@
+[
+    {
+        "input": "Gegeben sei die Folge x(n)=u(n+2)-u(n-2). Wie viele von Null verschiedene Werte enthält die Folge x(2n)?",
+        "target": "2"
+    },
+    {
+        "input": "Gegeben ist ein System mit der Eingangs-Ausgangs-Beziehung y(t)=cos[x(t)]. Welche der folgenden Eigenschaften treffen auf dieses System zu: Nichtlinear, \nirreversibel, kausal, nicht kausal",
+        "target": "Nichtlinear, irreversibel, kausal"
+    },
+    {
+        "input": "Bestimmen Sie den Wertebereich von s, der das Integral \\int_{-\\infty}^{\\infty}sin|t|·e^{-st}dt konvergieren lässt.",
+        "target": "Es existiert nicht"
+    },
+    {
+        "input": "Welche der folgenden Maßnahmen können die Cache-Trefferquote verbessern? \\n I. Erhöhung der Assoziativität \\n II. Einsatz eines Victim Cache (Zwischenpuffer für gerade ersetzte Blöcke) \\n III. Optimierung durch den Compiler, um die Speicherlokalität zu verbessern",
+        "target": "Ⅰ, Ⅱ, Ⅲ"
+    },
+    {
+        "input": "Es gibt ein Speichersystem mit einer Hierarchie aus Hauptspeicher und Cache. Der Hauptspeicher hat eine Kapazität von 1 MB (byteweise adressiert) und der Cache hat eine Kapazität von 16 KB. Jeder Block besteht aus 8 Wörtern, wobei jedes Wort 32 Bit groß ist. Es wird eine direkte Adressabbildung verwendet. Wenn die Hauptspeicheradresse 35301H ist und der CPU-Zugriff auf den Cache erfolgreich ist, in welchem Cache-Block befindet sich diese Adresse? (Die Cache-Blocknummer beginnt bei 0).",
+        "target": "152"
+    },
+    {
+        "input": "Welche der folgenden Programmentwicklungstechniken und Datenstrukturen eignen sich für ein virtuelles Seiten-Speichersystem? \nⅠ．Stapel \nⅡ．Symboltabelle mit Hash-Funktionsindex \nⅢ．Sequentielle Suche \nⅣ．Binäre Suche \nⅤ．Reiner Code \nⅥ．Vektoroperationen \nⅦ．Indirekte Adressierung \nⅧ．Matrixoperationen",
+        "target": "Ⅰ, Ⅲ, Ⅴ, Ⅵ, Ⅷ"
+    },
+    {
+        "input": "Was ist der Postfixausdruck für den arithmetischen Infixausdruck a*(b+c)-d?",
+        "target": "abc+*d-"
+    },
+    {
+        "input": "Wenn ein vollständiger binärer Baum insgesamt 100 Knoten hat, welchen Grad hat der 60. Knoten?",
+        "target": "0"
+    },
+    {
+        "input": "Welche der folgenden Aussagen über das Belady-Phänomen und das Working-Set-Modell sind korrekt? \\n Ⅰ. Der FIFO-Seitenersetzungsalgorithmus kann das Belady-Phänomen verursachen. \\n Ⅱ. Der LRU-Seitenersetzungsalgorithmus kann das Belady-Phänomen verursachen. \\n Ⅲ. Um einen effizienten Ablauf eines Prozesses zu gewährleisten, müssen sich alle Seiten seines Working Sets im virtuellen Speicher befinden, sonst kommt es zu häufigen Seitenwechseln. \\n Ⅳ. Um einen effizienten Ablauf eines Prozesses zu gewährleisten, müssen sich alle Seiten seines Working Sets im Hauptspeicher befinden, sonst kommt es zu häufigen Seitenwechseln.",
+        "target": "Ⅰ, Ⅳ"
+    },
+    {
+        "input": "Gegeben sind 31 initiale Merging-Sequenzen unterschiedlicher Länge: 8 Sequenzen mit Länge 2, 8 mit Länge 3, 7 mit Länge 5, 5 mit Länge 12 und 3 mit Länge 20 (jeweils in physischen Blöcken). Wie viele Lese- und Schreibzugriffe sind insgesamt erforderlich, wenn ein optimaler 5-Wege-Merge-Plan verwendet wird?",
+        "target": "800"
+    },
+    {
+        "input": "In einem byteadressierten Computersystem ist eine Anweisung 16 Bit lang. Eine aktuelle Sprunganweisung mit relativer Adressierung befindet sich an Adresse 3000 und hat einen Offset von -5 (in Byte). Welchen Wert hat der Program Counter (PC), nachdem diese Anweisung ausgeführt wurde?",
+        "target": "2997"
+    },
+    {
+        "input": "Welche der folgenden Aussagen über Threads ist korrekt?\nA. Wenn ein System den Round-Robin-Scheduling-Algorithmus verwendet und ein Prozess 10 User-Level-Threads besitzt, belegt dieser Prozess 10 Zeitscheiben bei der Systemausführung.\nB. Alle Threads eines Prozesses teilen sich denselben Stack-Speicherbereich.\nC. Threads innerhalb desselben Prozesses können parallel ausgeführt werden, Threads in verschiedenen Prozessen jedoch nicht.\nD. Ein Thread-Wechsel führt nicht zu einem Prozesswechsel.\nE. Alle Optionen sind falsch.",
+        "target": "E"
+    },
+    {
+        "input": "TCP ist ein Transportprotokoll im Internet. Welche der folgenden Aussagen beschreibt korrekt die Methode zur Flusskontrolle sowie den Verbindungsaufbau bei TCP?\n1. Verwendet ein Fensterprotokoll mit fester Fenstergröße; wartet auf ein SYN\n2. Verwendet das Go-Back-N ARQ-Protokoll; wartet auf FIN und ACK\n3. Verwendet das Stop-and-Wait ARQ-Protokoll; wartet auf RST\n4. Verwendet ein Fensterprotokoll mit variabler Fenstergröße; wartet auf SYN und ACK",
+        "target": "4. Verwendet ein Fensterprotokoll mit variabler Fenstergröße; wartet auf SYN und ACK"
+    },
+    {
+        "input": "Welche der folgenden Betriebssystemfunktionen erfordern zwingend eine spezielle Hardwareunterstützung?\\nⅠ. Adressumsetzung (Adressabbildung)\\nⅡ. Prozessplanung (Prozess-Scheduling)\\nⅢ. Unterbrechungssystem (Interrupt-System)\\nⅣ. Systemaufrufe (System Calls)",
+        "target": "Ⅰ, Ⅲ"
+    },
+    {
+        "input": "Angenommen, ein Huffman-Baum hat eine Höhe von 5. Wenn bereits zwei Zeichen mit den Codes 1 und 01 kodiert wurden, wie viele weitere Zeichen können maximal noch kodiert werden?",
+        "target": "4"
+    },
+    {
+        "input": "Worauf sollten die Zeiger von zwei zirkulären Listen jeweils zeigen, um sie in O(1)-Zeitkomplexität miteinander verbinden zu können? Wählen Sie die richtige Antwort aus den folgenden Optionen: Auf das jeweilige Endelement jeder Liste; Auf den Kopf der einen Liste und das Ende der anderen Liste; Auf das jeweilige erste Element jeder Liste; Auf den Kopf jeder Liste.",
+        "target": "Auf das jeweilige Endelement jeder Liste"
+    },
+    {
+        "input": "Angenommen, die beiden entferntesten Stationen eines Netzwerks sind 10 km voneinander entfernt. Die Datenübertragungsrate des CSMA/CD Ethernet beträgt 10 Mbit/s und die Signalgeschwindigkeit 200 m/μs. Wie groß ist die minimale Frame-Länge dieses Netzwerks?",
+        "target": "1.000bit"
+    },
+    {
+        "input": "Gegeben sei eine lineare Liste mit n Elementen. Welche der folgenden Operationen ist bei der Implementierung auf einer sequenziellen Liste effizienter als bei einer verketteten Liste: Indexnummern der Elemente mit dem Wert x in der linearen Liste ausgeben; Werte aller n Elemente der Liste in Reihenfolge ausgeben; Wert des i-ten (1 ≤ i ≤ n) Elements ausgeben; Wert des ersten und des zweiten Elements vertauschen.",
+        "target": "Wert des i-ten (1 ≤ i ≤ n) Elements ausgeben"
+    },
+    {
+        "input": "Host A und Host B übertragen Daten unter Verwendung des Go-Back-N (GBN)-Protokolls. Die Sendefenstergröße von A beträgt 1.000, die Datenrahmenlänge beträgt 1.000 Byte, die Bandbreite des Kanals beträgt 100 Mbps, und B bestätigt jeden empfangenen Datenrahmen sofort mit einem kurzen Bestätigungsrahmen (die Übertragungsverzögerung wird ignoriert). Wenn die einseitige Übertragungsverzögerung zwischen A und B 50 ms beträgt, was ist die maximale durchschnittliche Datenübertragungsrate, die A erreichen kann?",
+        "target": "80Mbps"
+    },
+    {
+        "input": "Gegeben ist [x/2]{\\mathrm{Zweierkomplement}}=C6H, und die Maschinenwortlänge des Computers beträgt 8 Bit. Berechnen Sie [x/4]{\\mathrm{Zweierkomplement}}.",
+        "target": "E3H"
+    },
+    {
+        "input": "Es gibt eine 10GB große Festplattenpartition, deren Speicherplatz in Cluster zu je 4KB aufgeteilt ist. Der freie Speicherplatz dieser Partition wird durch eine Bitmap verwaltet, wobei ein Bit verwendet wird, um zu kennzeichnen, ob ein Cluster zugewiesen wurde oder nicht. Wie viele Cluster werden benötigt, um diese Bitmap zu speichern?",
+        "target": "80"
+    },
+    {
+        "input": "Gegeben sei ein Knoten k in einem inorder-verketteten Binärbaum, der ein linkes Kind besitzt und nicht die Wurzel ist. Welcher der folgenden Knoten ist der direkte Vorgänger von k in der Inorder-Reihenfolge?\nVom linken Kind von k aus entlang der Kette der linken Kinder bis zum letzten Knoten.\nVom linken Kind von k aus entlang der Kette der rechten Kinder bis zum letzten Knoten.\nDer Knoten, auf den der Inorder-Vorgänger-Zeiger von k zeigt.\nVom linken Kind des Elternknotens von k aus entlang der Kette der rechten Kinder bis zum letzten Knoten.",
+        "target": "Vom linken Kind von k aus, gehe entlang der rechten Kindkette bis zum letzten Knoten."
+    },
+    {
+        "input": "Bei der Übertragung eines IP-Pakets, welches der folgenden Felder im IP-Header bleibt unverändert?\nⅠ．Gesamtlänge Ⅱ．Header-Prüfsumme\nⅢ．Lebensdauer Ⅳ．Quell-IP-Adresse",
+        "target": "Ⅳ"
+    },
+    {
+        "input": "Ein Festplattenpaket besteht aus 10 Plattenoberflächen, jede Oberfläche hat 100 Spuren und jede Spur hat 32 Sektoren. Angenommen, die physische Blockgröße beträgt 2 Sektoren und die Zuweisung erfolgt auf Blockebene. Wenn der Festplattenraum mit einer Bitmap verwaltet wird, wie viel Speicherplatz wird die Bitmap benötigen?",
+        "target": "2000 B"
+    },
+    {
+        "input": "In einem Ethernet mit einer Länge von 1 km, einer Datenübertragungsrate von 10 Mbit/s und einer Signalausbreitungsgeschwindigkeit von 200 m/μs beträgt die Länge eines Datenrahmens 256 Bit, einschließlich 64 Bit für Frame-Header, Prüfsumme und andere Overheads. Nach dem erfolgreichen Senden eines Datenrahmens ist die erste Zeitscheibe für den Empfänger reserviert, um einen 64-Bit-Bestätigungsrahmen zu senden. Angenommen, die Netzwerklast ist sehr gering (d.h. Kollisionssituationen werden nicht berücksichtigt), wie hoch ist die effektive Datenübertragungsrate dieses Ethernets in Mbps? (Auf drei signifikante Stellen gerundet)",
+        "target": "4,57 Mbps"
+    },
+    {
+        "input": "Angenommen, alle Schlüsselelemente in einer zu sortierenden Elementsequenz sind gleich. Welches der folgenden Sortierverfahren ist in diesem Fall am langsamsten: Insertionsort, Selectionsort, Bubblesort, Radixsort",
+        "target": "Selectionsort"
+    },
+    {
+        "input": "Ein Betriebssystem, das Mehrprogrammbetrieb unterstützt, wählt während der Laufzeit ständig neue Prozesse zur Ausführung aus, um die CPU-Ressourcen gemeinsam zu nutzen. Welche der folgenden Optionen ist jedoch kein unmittelbarer Grund dafür, dass das Betriebssystem einen neuen Prozess auswählt?\n\na) Ein neuer Prozess wird erstellt und gelangt in die Bereitschaftswarteschlange\nb) Der laufende Prozess verursacht einen Fehler  \nc) Das Zeitquantum des laufenden Prozesses ist abgelaufen\nd) Der laufende Prozess wartet auf ein Ereignis",
+        "target": "a) Ein neuer Prozess wird erstellt und gelangt in die Bereitschaftswarteschlange"
+    },
+    {
+        "input": "Es gibt 10 Prozesse, die sich n Ressourcen teilen. Es dürfen jeweils 3 Prozesse gleichzeitig die Ressource nutzen. Welche der folgenden Intervalle beschreibt den Wertebereich des Semaphors korrekt? [3n – 10, 3n], [3n – 10, n], [n – 10, n], [n – 10⁄3, n]",
+        "target": "[3n-10, 3n]"
+    },
+    {
+        "input": "In einem aus vier Bäumen bestehenden Wald enthält der erste Baum 30, der zweite 10, der dritte 20 und der vierte 5 Knoten. Wie viele Knoten enthält der linke Teilbaum des Wurzelknotens, wenn der Wald in einen binären Baum umgewandelt wird?",
+        "target": "29"
+    },
+    {
+        "input": "Ein direkter CALL-Befehl mit zwei Wörtern: Das erste enthält den Opcode und das Adressierungsformat, das zweite die Zieladresse 5000H. Gegeben: Der Program Counter (PC) steht auf 1000H, der Stack Pointer (SP) auf 0100H und der Stack-Top enthält 1234H. Die Speicheradressierung erfolgt wortweise, und beim Push wird der Stackpointer zuerst dekrementiert, dann wird der Wert gespeichert. Was sind der neue SP-Wert und der Stack-Inhalt nach Ausführung des CALL-Befehls?",
+        "target": "00FFH, 1002H"
+    },
+    {
+        "input": "Der Kleinbuchstabe „a“ hat den ASCII-Wert 61H. Der Buchstabe „g“ befindet sich in einer Speichereinheit. Bei Verwendung einer geraden Parität (Parity Bit ist das höchstwertige Bit) – welcher hexadezimale Wert wird in der Speichereinheit gespeichert?",
+        "target": "E7H"
+    },
+    {
+        "input": "Gegeben ist eine Schlüsselfolge: {25, 50, 15, 35, 80, 85, 20, 40, 36, 70}, bestehend aus fünf sortierten Teilfolgen zu je zwei Elementen. Wie lautet die Sequenz nach einem Merge-Durchgang?",
+        "target": "15, 25, 35, 50, 20, 40, 80, 85, 36, 70"
+    },
+    {
+        "input": "Eine obere Dreiecksmatrix A der Ordnung n wird spaltenweise in einem eindimensionalen Array B[0, 1, …, n×(n+1)/2–1] gespeichert, wobei das erste Nicht-Null-Element a(1,1) in B[0] abgelegt wird. Welche der folgenden Formeln beschreibt die Zuordnung zwischen dem Matrixelement a(i,j) (1≤i≤n, 1≤j≤n) und dem Index k in B? \nk=j×(j-1)/2+i-1, k=j×(j+1)/2+i, k=i×(i-1)/2+j-1, k=i×(i+1)/2+j",
+        "target": "k=j×(j-1)/2+i-1"
+    },
+    {
+        "input": "Ein mikroprogrammgesteuerter Rechner unterstützt 32 Maschinenbefehle. Die gemeinsame Fetch-Sequenz besteht aus 2 Mikroinstruktionen, und jede Anweisung hat im Durchschnitt 4 Mikroinstruktionen. Wird die nächste Mikroinstruktion über fest codierte Adressierung (Feld für Folgeadresse) bestimmt, wie viele Bits muss das Adressfeld mindestens enthalten?",
+        "target": "8"
+    },
+    {
+        "input": "Gegeben ist ein Speicher mit byteweiser Adressierung und einem Cache mit 64 Zeilen, der im 4-Wege Set-Associative-Verfahren organisiert ist. Die Blockgröße beträgt 32 Bytes. Alle Nummerierungen beginnen bei 0. In welchem Cache-Set wird der Hauptspeicherblock abgebildet, der die Speicheradresse 3000 enthält?",
+        "target": "13"
+    },
+    {
+        "input": "Eine 8-Bit-Zahl im Zweierkomplement-Format besteht aus genau drei Einsen und fünf Nullen. Welcher ist der kleinstmögliche darstellbare Wert?",
+        "target": "-125"
+    },
+    {
+        "input": "Bei der sequentiellen Suche wird angenommen, dass die Wahrscheinlichkeit eines erfolgreichen und eines erfolglosen Suchvorgangs gleich ist und dass jede Position dieselbe Suchwahrscheinlichkeit hat. Wie lang ist in diesem Fall die durchschnittliche Suchlänge?",
+        "target": "0,75n+0,25"
+    },
+    {
+        "input": "Gegeben ist ein B-Baum der Ordnung 5 mit 53 Schlüsseln, wobei jeder Knoten die Mindestanzahl an Schlüsseln enthält. Wie tief ist dieser Baum?",
+        "target": "4"
+    },
+    {
+        "input": "Wenn bei der Anwendung des Shell-Sort-Algorithmus auf eine Folge das Ergebnis des ersten Durchgangs 9, 1, 4, 13, 7, 8, 20, 23, 15 lautet, welches Inkrement könnte verwendet worden sein?\nA. 2\nB. 3\nC. 4\nD. 5",
+        "target": "B"
+    },
+    {
+        "input": "Ein Kanal hat eine Datenrate von 8.000bit/s und eine einseitige Übertragungsverzögerung von 20ms. Wenn die Kanalnutzungsrate des Stopp-and-Wait-Protokolls 50% erreicht, wie groß muss dann die minimale Frame-Länge sein?",
+        "target": "320bit"
+    },
+    {
+        "input": "Welche der folgenden Aussagen über stark zusammenhängende Graphen ist korrekt?\nⅠ. Ein starker zusammenhängender Graph mit n Knoten hat mindestens n Kanten\nⅡ. In einem starken zusammenhängenden Graphen führt von jedem Knoten eine Kante zu jedem anderen Knoten\nⅢ. Ein vollständiger gerichteter Graph ist immer ein starker zusammenhängender Graph",
+        "target": "Ⅰ, Ⅲ"
+    },
+    {
+        "input": "Ein Cache-Hauptspeichersystem verwendet einen 50-MHz-Takt. Der Speicher überträgt ein Wort pro Taktzyklus und überträgt kontinuierlich 8 Wörter, um einen Cache mit einer Blockgröße von 8 Wörtern zu unterstützen. Jedes Wort hat 4 Byte. Angenommen, die Zeit für einen Lesevorgang beträgt: 1 Taktzyklus für die Adressaufnahme, 3 Taktzyklen für die Verzögerung, 8 Taktzyklen für die Übertragung von 8 Wörtern; die Zeit für einen Schreibvorgang beträgt: 1 Taktzyklus für die Adressaufnahme, 2 Taktzyklen für die Verzögerung, 8 Taktzyklen für die Übertragung von 8 Wörtern und 3 Taktzyklen für die Wiederherstellung und das Schreiben von Fehlerkorrekturcodes. Wenn das System mit 35 % Lesezugriffen und 65 % Schreibzugriffen arbeitet, wie hoch ist die maximale Speicherbandbreite?",
+        "target": "120,3 MB/s"
+    },
+    {
+        "input": "Für das Netzwerk 193.100.60.0, wenn die Subnetzmaske auf 255.255.255.192 gesetzt ist, wie viele Hosts können in jedem Subnetz maximal angeschlossen werden?",
+        "target": "62"
+    },
+    {
+        "input": "Welche der folgenden Aussagen über ARP ist falsch?\nⅠ. Die ARP-Anforderungsnachricht wird per Unicast gesendet.\nⅡ. Die ARP-Antwortnachricht wird per Unicast gesendet.\nⅢ. Wenn Host 1 im Netzwerk A mit Host 2 im Netzwerk B kommunizieren möchte, aber die physikalische Adresse von Host 2 nicht kennt, kann Host 1 dies durch das Senden einer ARP-Nachricht lösen.",
+        "target": "Ⅰ, Ⅲ"
+    },
+    {
+        "input": "Welche der folgenden Aussagen sind falsch?\nⅠ. Angenommen, die Sequenznummern haben 3 Bits, und das kontinuierliche ARQ-Protokoll wird verwendet, dann ist der maximale Wert des Sendefensters 4.\nⅡ. Für ein Schiebefenster mit einer Fenstergröße von n können maximal n Frames gesendet werden, ohne dass eine Bestätigung erfolgt.\nⅢ. Im Go-Back-N-Protokoll, wenn die Fenstergröße 16 beträgt, werden mindestens 4 Bits für die Sequenznummer benötigt, um Fehler im Protokoll zu vermeiden.",
+        "target": "Ⅰ, Ⅱ, Ⅲ"
+    },
+    {
+        "input": "In einem Graphen G mit n Knoten, wenn der minimale Spannbaum nicht eindeutig ist, welche der folgenden Aussagen ist korrekt?\nⅠ. Die Anzahl der Kanten in G ist immer größer als n-1.\nⅡ. Die Kante mit dem kleinsten Gewicht in G ist immer mehrfach vorhanden.\nⅢ. Die Kosten des minimalen Spannbaums von G sind nicht unbedingt gleich.",
+        "target": "Ⅰ"
+    },
+    {
+        "input": "Welche der folgenden Adressen gehört zum Subnetz 86.32.0.0/12?\\nⅠ. 86.33.224.123 Ⅱ. 86.79.65.126 Ⅲ. 86.68.65.216",
+        "target": "Ⅰ"
+    },
+    {
+        "input": "Angenommen, eine bestimmte Computerarchitektur hat eine Befehlslänge von 20 Bit und unterstützt drei Arten von Befehlen: Zwei-Operanden-Befehle, Ein-Operanden-Befehle und Befehle ohne Operanden. Jeder Operand wird durch 6 Bit adressiert, und das Opcode-Feld ist nicht festgelegt. Wenn m Zwei-Operanden-Befehle und n Befehle ohne Operanden gegeben sind, wie viele Ein-Operanden-Befehle kann dieser Computer maximal entwerfen?",
+        "target": "[(2^8-m)×2^12-n]/2^6"
+    },
+    {
+        "input": "Ein Computer verfügt über 16 Register, und die Wortlänge der Maschine beträgt 12 Bit. Welche der folgenden Befehle können mit Ein-Wort-Befehlen implementiert werden?\\nI. 4 Befehle mit drei Registern\\nII. 255 Befehle mit einem Register\\nIII. 16 Befehle ohne Operandenregister",
+        "target": "Ⅱ, Ⅲ"
+    },
+    {
+        "input": "Ein Computer verwendet 16-Bit-Einzelwortbefehle mit einem fest codierten Opcode und einem 5-Bit-Adresscode. Es sind bereits 60 Zwei-Adressbefehle definiert. Wie viele Ein-Adressbefehle können maximal definiert werden?",
+        "target": "4"
+    },
+    {
+        "input": "Ein 8-Bit-Mikrocomputer hat einen 16-Bit-Adressbus. Der RAM-Speicher hat eine Kapazität von 32 KB, und die Startadresse ist 4000H. Die Adressen sind fortlaufend. Wie lautet die höchste verfügbare Adresse?",
+        "target": "BFFFH"
+    },
+    {
+        "input": "Es gibt drei gleichzeitig ankommende Jobs J1, J2 und J3, deren Ausführungszeiten T1, T2 und T3 betragen, wobei T1 < T2 < T3. Wenn das System über zwei CPUs verfügt, die im Einprogrammbetrieb arbeiten und den Shortest Job First (SJF)-Algorithmus verwenden, wie lange ist die durchschnittliche Turnaround-Zeit?",
+        "target": "(2T1+T2+T3)/3"
+    },
+    {
+        "input": "Ein Netzwerk erlaubt eine maximale Segmentlänge von 128 Byte, und die Sequenznummer wird mit 8 Bit dargestellt. Die Segment-Lebensdauer im Netzwerk beträgt 30 Sekunden. Wie hoch ist die maximale Datenrate, die für jede TCP-Verbindung erreicht werden kann?",
+        "target": "8,7kBit/s"
+    },
+    {
+        "input": "Ein Speicher mit einer Kapazität von 256 MB besteht aus mehreren 16M×8bit DRAM-Chips. Wie viele Adress- und Datenpins hat jeder DRAM-Chip insgesamt?",
+        "target": "20"
+    },
+    {
+        "input": "Angenommen, der Slow-Start-Schwellenwert für das TCP-Congestion-Fenster ist anfänglich 8 (Einheit: Segmente, wobei die maximale Segmentgröße 1 KB beträgt). Wenn das Congestion-Fenster auf 12 ansteigt, tritt eine Timeout-Bedingung auf. Unter den gegebenen Bedingungen, wie groß ist das Congestion-Fenster bei der 12. Übertragung?",
+        "target": "6"
+    },
+    {
+        "input": "Wie viele binäre Suchbäume gibt es, die aus den Werten 23, 12, 45 und 36 bestehen? Wie viele davon sind AVL-Bäume?",
+        "target": "14, 5"
+    },
+    {
+        "input": "Welche Reihenfolge von Vergleichen könnte bei der Suche nach dem Schlüsselwert 35 in einem binären Suchbaum auftreten? a: 46, 28, 18, 36, 35; b: 18, 36, 28, 46, 35; c: 46, 36, 18, 28, 35; d: 28, 36, 18, 46, 35",
+        "target": "c: 46, 36, 18, 28, 35"
+    },
+    {
+        "input": "Ein Kanal wird mit 8 Hz abgetastet, und das Signal hat 8 mögliche Signalzustände. Wie hoch ist die maximale Datenübertragungsrate?",
+        "target": "24bit/s"
+    },
+    {
+        "input": "Eine zyklische Warteschlange verwendet ein Array A[0...m-1], um ihre Elemente zu speichern. Gegeben sind die Kopf- und Schwanzzeiger, die als front und rear bezeichnet werden (wobei der Schwanzzeiger rear auf das nächste Element hinter dem letzten Element zeigt). Wie viele Elemente befinden sich derzeit in der Warteschlange?",
+        "target": "(rear-front+m)%m"
+    },
+    {
+        "input": "Wie viele Knoten hat ein vollständiger N-ärer Baum der Breite 27 und Höhe 4?",
+        "target": "40"
+    },
+    {
+        "input": "Wie viele gültige Bytes enthält das Datenfeld eines MAC-Rahmens, wenn die ASCII-Zeichenfolge „Goodmorning!“ über ein IEEE 802,3 LAN übertragen wird? Wie viele Bytes müssen aufgefüllt werden?",
+        "target": "12; 34"
+    },
+    {
+        "input": "Ein Dateisystem verwendet die Mehrstufige-Indexierung zur Organisation der Dateidaten. Angenommen, der Inode einer Datei hat 13 Adressfelder, davon 10 für direkte Indizes, 1 für einfach indirekte Indizes, 1 für zweifache indirekte Indizes und 1 für dreifache indirekte Indizes. Die Größe des Datenblocks beträgt 4 KB, und die Blockadresse wird mit 4 Byte dargestellt. Welche maximale Dateigröße unterstützt dieses Dateisystem circa für einzelne Dateien? (In TB; auf Ganzzahl runden)",
+        "target": "4 TB"
+    },
+    {
+        "input": "Ein System verfügt über n Geräte derselben Art, die sich gegenseitig ausschließend von drei konkurrierenden Prozessen genutzt werden. Diese Prozesse benötigen jeweils 3, 4 und 5 Geräte. Wie viele Geräte sind mindestens erforderlich, um sicherzustellen, dass das System nicht in einen Deadlock-Zustand gerät?",
+        "target": "10"
+    },
+    {
+        "input": "In einem ternären Baum ist die Anzahl der Knoten mit dem Grad 3 gleich der Anzahl der Knoten mit dem Grad 2, und die Anzahl der Blätter im Baum beträgt 13. Wie viele Knoten mit Grad 2 gibt es?",
+        "target": "4"
+    },
+    {
+        "input": "Gegeben sei m die Anzahl der gleichartigen Ressourcen und n die Anzahl der gleichzeitig laufenden Prozesse im System. Wenn n Prozesse m gegenseitig ausschließbare Ressourcen teilen und jeder Prozess maximal w Ressourcen benötigt, welcher der folgenden Fälle wird zu einem Deadlock führen: m=2, n=1, w=2; m=2, n=2, w=1; m=4, n=3, w=2; m=4, n=2, w=3",
+        "target": "m=4, n=2, w=3"
+    },
+    {
+        "input": "Die durchschnittliche Suchzeit einer Festplatte beträgt 12 ms, die Übertragungsrate beträgt 10 MB/s und die Verzögerung des Festplattencontrollers beträgt 2 ms. Wie lange dauert es, 1 KB Daten auf einer Festplatte mit einer Drehzahl von 7.200 U/min zu schreiben?",
+        "target": "18,27ms"
+    },
+    {
+        "input": "Betrachten Sie den folgenden C-Code:\nshort si=-8196;\nunsigned short usi=si;\nWas ist der Wert von usi nach der Ausführung des obigen Codeabschnitts?",
+        "target": "57340"
+    },
+    {
+        "input": "Angenommen, ein binärer Baum ist aus einem Wald umgewandelt worden, und im Wald gibt es n Nicht-Blattknoten. Wie viele Knoten ohne rechten Kindknoten gibt es im binären Baum?",
+        "target": "n+1"
+    },
+    {
+        "input": "Die Merkmale des DMA-Verfahrens sind, dass die CPU und das Gerät parallel arbeiten und die Übertragung parallel zum Hauptprogramm stattfindet. Welche der folgenden Aussagen beschreibt die Merkmale des Interrupt-Verfahrens, bei dem Informationen zwischen dem I/O-Gerät und dem Host ausgetauscht werden?\n\na) Die CPU und das Gerät arbeiten parallel, die Übertragung arbeitet seriell mit dem Hauptprogramm\nb) Die CPU und das Gerät arbeiten seriell, die Übertragung arbeitet parallel zum Hauptprogramm  \nc) Die CPU und das Gerät arbeiten seriell, die Übertragung arbeitet seriell mit dem Hauptprogramm\nd) Die CPU und das Gerät arbeiten parallel, die Übertragung arbeitet parallel zum Hauptprogramm",
+        "target": "Die CPU und das Gerät arbeiten parallel, die Übertragung arbeitet seriell mit dem Hauptprogramm."
+    },
+    {
+        "input": "Gegeben ist ein Computer mit einer Taktfrequenz von 2 GHz und einem CPI von 1,2. Das Programm P hat eine Anzahl von 4×10^9 Instruktionen auf diesem Computer. Wenn das Programm P von Beginn bis zum Ende eine Zeit von 4 Sekunden benötigt, wie hoch ist der Prozentsatz der CPU-Zeit, die für die Ausführung des Programms P an der Gesamtlaufzeit von 4s benötigt wird?",
+        "target": "60%"
+    },
+    {
+        "input": "Angenommen, eine relative Adressierungstransferinstruktion benötigt zwei Bytes, wobei das erste Byte den OpCode und das zweite Byte die relative Verschiebung (in Zweierkomplement) enthält. Jedes Mal, wenn die CPU ein Byte aus dem Speicher lädt, wird automatisch (PC)+1 → PC ausgeführt. Wenn der aktuelle PC-Wert 2008H beträgt und auf 2001H übertragen werden soll, was ist der Wert des zweiten Bytes dieser Transferinstruktion?",
+        "target": "F7H"
+    },
+    {
+        "input": "Die Drehzahl einer Festplatte beträgt 10.000 U/min, die durchschnittliche Suchzeit beträgt 6 ms, die Übertragungsrate der Festplatte beträgt 20 MB/s, und die Verzögerung des Festplattencontrollers beträgt 0,2 ms. Wie lange dauert es im Durchschnitt, um einen 4KB-Sektor zu lesen?",
+        "target": "9,4ms"
+    },
+    {
+        "input": "Ein Befehlssystem hat 200 Befehle. Wie viele Bits sind mindestens erforderlich, um die Opcodes mit fester Länge in binärer Codierung zu kodieren?",
+        "target": "8"
+    },
+    {
+        "input": "Angenommen, der Speicher hat eine Kapazität von 32 Wörtern und eine Wortlänge von 64 Bit. Die Anzahl der Module m beträgt 4 und es wird niederwertiges Interleaving verwendet. Der Speicherzyklus T beträgt 200 ns, die Datenbusbreite ist 64 Bit und der Busübertragungszyklus r beträgt 50 ns. Wie hoch ist die Bandbreite des verschränkten Speichers?",
+        "target": "73×10＾7bit/s"
+    },
+    {
+        "input": "Welche der folgenden Zahlen ist die kleinste?\n(2E)_16, (52)_7, (2000)_3, (101001)_2",
+        "target": "(52)_7"
+    },
+    {
+        "input": "Wie viele Prüfbits sind mindestens erforderlich, um 8-Bit-Daten mit einem Hamming-Code zu codieren, der einen Einzelbitfehler erkennen und korrigieren kann?",
+        "target": "4"
+    },
+    {
+        "input": "Angenommen, eine Festplatte hat insgesamt 200 Spuren, und eine Speicherkapazität von 1,6 MB pro Plattenoberfläche (zur Vereinfachung wird 1 MB = 10⁶ Bytes angenommen). Eine Umdrehung der Platte dauert 25 ms. Jede Spur ist in 4 Datenblöcke unterteilt, zwischen je zwei Datenblöcken befindet sich eine Lücke, und das Durchlaufen einer solchen Lücke dauert 1,25 ms. Wie hoch ist die maximale Datenübertragungsrate beim Lesen von Daten von der Festplatte?",
+        "target": "0,4MB/s"
+    },
+    {
+        "input": "Eine Anweisung besteht aus drei Teiloperationen: Fetch, Decode und Execute, wobei jede Teiloperation die Zeit t benötigt. Wird ein skalarer Pipeline-Prozessor verwendet, um 8 Anweisungen nacheinander auszuführen, wie groß ist der Beschleunigungsfaktor dieser Pipeline?",
+        "target": "2,4"
+    },
+    {
+        "input": "Wenn bei der Zeilen-Adressdekodierung 6 Adressleitungen vorhanden sind, wie viele Ausgangsleitungen haben dann die Zeilen-Adressdekodierung bzw. die Zeilen- und Spalten-Adressdekodierung? ",
+        "target": "64; 16"
+    },
+    {
+        "input": "Ein SRAM-Chip mit einer Kapazität von 512×8 Bit benötigt – abgesehen von den Leitungen für Stromversorgung und Erdung – mindestens wie viele Anschlussleitungen?",
+        "target": "19"
+    },
+    {
+        "input": "Ein Rechner verfügt über insgesamt 70 Mikrosteuerungssignale (also Mikrobefehle), die in 6 sich gegenseitig ausschließende Mikrobefehlsgruppen unterteilt sind. Diese Gruppen enthalten jeweils 8, 11, 3, 16, 7 und 25 Mikrobefehle. Wird eine direkte Feldcodierung verwendet, wie viele Bits werden dann für das Steuerfeld der Mikroinstruktion benötigt?",
+        "target": "23"
+    },
+    {
+        "input": "Ein Computer mit einer Wortlänge von 32 Bit und byteweiser Speicheradressierung hat einen aktuellen Program Counter (PC) von 1.000. Wie lautet der neue PC-Wert, nachdem eine Instruktion mit doppelter Wortlänge gelesen wurde?",
+        "target": "1008"
+    },
+    {
+        "input": "Angenommen, mehrere 16K×8-Bit-Speicherchips werden verwendet, um einen 64K×32-Bit-Speicher aufzubauen. Jeder Chip ist intern mit fortlaufender Adressierung organisiert. Wie lautet die Anfangsadresse der Speicherbank, in der sich die Adresse BFF0H befindet?",
+        "target": "8000H"
+    },
+    {
+        "input": "Während der Ausführung eines Programms führt die CPU 4.600 Cache-Zugriffe und zusätzlich 400 Hauptspeicher-Zugriffe durch. Die Zugriffszeit des Caches beträgt 5 ns, die des Hauptspeichers 25 ns. Wie groß ist die durchschnittliche Zugriffszeit der CPU?",
+        "target": "6,6"
+    },
+    {
+        "input": "Ein Computer hat einen Hauptspeicher von 64 MB und eine Wortlänge von 4 Byte. Wie viele Adressbits sind erforderlich, um ein einzelnes Wort im Speicher anzusprechen?",
+        "target": "24"
+    },
+    {
+        "input": "Angenommen, es gibt 4 Ganzzahlen, die jeweils als 8-Bit-Zweierkomplement dargestellt werden: r1=FEH, r2=F2H, r3=90H, r4=F8H. Wenn das Ergebnis der Berechnung in einem 8-Bit-Register gespeichert wird, welche der folgenden Berechnungen führt zu einem Überlauf: r2×r3, r1×r2, r2×r4, r1×r4?",
+        "target": "r2×r3"
+    },
+    {
+        "input": "Wenn mit der Chip-Auswahladresse 111 ein 32K×16-Speicherchip ausgewählt wird, was sind dessen Start- und Endadressen im Speicher?\nA. 00000H, 01000H\nB. 38000H, 3FFFFH\nC. 3800H, 3FFFH\nD. 0000H, 0100H",
+        "target": "B"
+    },
+    {
+        "input": "Float-Daten werden üblicherweise im IEEE754-Standard für einfache Genauigkeit dargestellt. Angenommen, zwei Float-Variablen x und y sind in den 32-Bit-Registern f1 und f2 gespeichert, wobei (f1) = CC900000H und (f2) = B0C00000H. Welche der folgenden Aussagen beschreibt die Beziehung zwischen x und y?\n\na) x < y und unterschiedliche Vorzeichen\nb) x < y und gleiche Vorzeichen  \nc) x > y und gleiche Vorzeichen\nd) x > y und unterschiedliche Vorzeichen",
+        "target": "x < y und gleiche Vorzeichen"
+    },
+    {
+        "input": "Wenn eine Gleitkommazahl einfacher Genauigkeit, eine Vorzeichen-Betrags-Darstellung, eine Zweierkomplement-Darstellung und eine Offset-Darstellung alle denselben 32-Bit-Wert von 0xF0000000 haben, ordnen Sie diese Zahlen bitte der Größe nach:\n\na) Offset-Darstellung, Zweierkomplement, Vorzeichen-Betrags-Darstellung, Gleitkommazahl\nb) Offset-Darstellung, Vorzeichen-Betrags-Darstellung, Zweierkomplement, Gleitkommazahl\nc) Gleitkommazahl, Vorzeichen-Betrags-Darstellung, Zweierkomplement, Offset-Darstellung\nd) Gleitkommazahl, Offset-Darstellung, Vorzeichen-Betrags-Darstellung, Zweierkomplement",
+        "target": "Exzess-128-Darstellung, Zweierkomplement, Vorzeichen-Betrags-Darstellung, Gleitkommazahl"
+    },
+    {
+        "input": "Angenommen, der Video-RAM eines Computers wird mit DRAM-Chips realisiert. Wenn die Bildschirmauflösung 1600×1200 beträgt, die Farbtiefe 24 Bit ist, die Bildwiederholfrequenz 85 Hz beträgt und 50 % der Gesamtbandbreite des Videospeichers zum Aktualisieren des Bildschirms verwendet werden, wie hoch ist die minimale erforderliche Gesamtbandbreite des Videospeichers?",
+        "target": "7834Mbit/s"
+    },
+    {
+        "input": "Wie lange würde es dauern, ein Bild mit einer Auflösung von 640×480 Pixeln und 65.536 Farben (unkomprimiert) zu übertragen, wenn die Datenübertragungsgeschwindigkeit 56 kbit/s beträgt?",
+        "target": "87,77s"
+    },
+    {
+        "input": "Wie viele Mikroprogramme müssen mindestens im Mikroprogrammspeicher einer Computermaschine vorhanden sein, wenn das Befehlssystem 101 verschiedene Befehle umfasst und eine Mikroprogrammsteuerung verwendet wird?",
+        "target": "102"
+    },
+    {
+        "input": "Angenommen, ein Speicher mit einer Größe von 32K × 32 Bit wird aus mehreren 8K × 8 Bit Chips zusammengesetzt. Was ist die maximale Adresse des Chips, der die Adresse 41F0H enthält?",
+        "target": "5FFFH"
+    },
+    {
+        "input": "Ein Computer hat eine Wortlänge von 32 Bit und eine Speicherkapazität von 1 MB. Wenn der Speicher wortweise adressiert wird, wie groß ist dann sein Adressierungsbereich?\nA. 0-1M \nB. 0-512KB \nC. 0-256K \nD. 0-256KB",
+        "target": "C"
+    },
+    {
+        "input": "Ein Cache mit einer Kapazität von 64 Blöcken verwendet eine gruppenassoziative Zuordnung. Die Blockgröße beträgt 128 Wörter, wobei jede Gruppe 4 Blöcke umfasst. Der Hauptspeicher besteht aus 4K Blöcken, und die Adressierung erfolgt auf Wortbasis. Wie viele Bits sind für die Hauptspeicheradresse und die Hauptspeicherkennung erforderlich?",
+        "target": "19; 8"
+    },
+    {
+        "input": "Der ASCII-Wert des Großbuchstabens „A“ ist 41H. Wenn der Buchstabe „F“ in einer Speicherzelle gespeichert wird und gerade Parität verwendet wird (angenommen, das höchste Bit ist das Paritätsbit), welcher Wert wird in dieser Speicherzelle in Hexadezimal gespeichert?",
+        "target": "C6H"
+    },
+    {
+        "input": "In einem zweistufigen Speichersystem aus Cache und Hauptspeicher beträgt die Zugriffszeit des Caches 100 ns und die des Hauptspeichers 1.000 ns. Wenn die effektive (durchschnittliche) Zugriffszeit nicht mehr als 15 % über der Zugriffszeit des Caches liegen soll, wie hoch muss dann mindestens die Cache-Trefferrate sein? [Hinweis: Beim Computerzugriff wird zuerst auf den Cache zugegriffen. Bei einem Cache-Miss wird anschließend auf den Hauptspeicher zugegriffen.]",
+        "target": "98,5%"
+    },
+    {
+        "input": "Ein DRAM-Chip verwendet Adressmultiplextechnologie und hat eine Kapazität von 1024 × 8 Bit. Abgesehen von den Stromversorgungs- und Erdungspins, wie viele Pins hat dieser Chip mindestens? (Es gibt zwei Lese-/Schreib-Steuerleitungen.)",
+        "target": "17"
+    },
+    {
+        "input": "Wenn zwei Fließkommazahlen addiert werden, wobei einer der Exponenten den Wert 7 und der andere den Wert 9 hat, wie muss der Dezimalpunkt der Zahl mit dem kleineren Exponenten verschoben werden?",
+        "target": "Der Dezimalpunkt muss um zwei Stellen nach links verschoben werden."
+    },
+    {
+        "input": "Angenommen, ein Byte-adressiertes Computer-System hat einen ROM-Bereich von 00000H bis 07FFFH und verwendet eine 20-Bit-Adressleitung. Der verbleibende RAM-Bereich von 08000H bis FFFFFH wird mit 16K×8 Bit RAM-Chips aufgebaut. Wie viele solcher RAM-Chips werden benötigt?",
+        "target": "62"
+    },
+    {
+        "input": "Verwenden Sie einen Speicherchip mit einer Kapazität von 16K×1 Bit, um einen Speicher mit 64K×8 Bit zu erstellen. Um wie viel wurde der Speicher in der Wortrichtung und der Bitrichtung erweitert?",
+        "target": "4; 8"
+    },
+    {
+        "input": "Wie lautet die 8-Bit-Exzess-128-Darstellung der Dezimalzahl -0,3125?",
+        "target": "01011000/58H"
+    },
+    {
+        "input": "Der Speicher wird byteweise adressiert, und die Adressen reichen von 90000H bis CFFFFH. Wenn der Speicher aus Chips mit einer Kapazität von 16K × 8 Bit besteht, wie viele Chips werden mindestens benötigt?",
+        "target": "16"
+    },
+    {
+        "input": "Eine Instruktion wird durch drei Teiloperationen ausgeführt: Fetch, Decode und Execute, wobei jede Teiloperation einen Taktzyklus Δt benötigt. Bei einem skalaren Pipeline-Prozessor: Wie viele Taktzyklen Δt werden benötigt, um 10 Instruktionen hintereinander auszuführen?",
+        "target": "12Δt"
+    },
+    {
+        "input": "Gegeben ist eine Fließkommazahl mit insgesamt 12 Bits. Der Exponent besteht aus 4 Bits einschließlich 1 Vorzeichenbit und wird im Zweierkomplement zur Basis 2 dargestellt. Die Mantisse besteht aus 8 Bits einschließlich 1 Vorzeichenbit, wird im Zweierkomplement dargestellt und ist normalisiert. Wie lautet der größte positive Wert, der durch diese Fließkommazahl dargestellt werden kann?",
+        "target": "2＾7-1"
+    },
+    {
+        "input": "Angenommen, eine Maschine hat 80 Instruktionen, und jede Instruktion besteht im Durchschnitt aus 4 Mikroinstruktionen, wobei eine Mikroinstruktion für den Instruktionsabruf von allen Instruktionen gemeinsam genutzt wird. Es ist bekannt, dass die Länge jeder Mikroinstruktion 32 Bits beträgt. Schätzen Sie die Größe des Steuerspeichers (CM). \n(Hinweis: Die Kapazität des Steuerspeichers CM ist eine Potenz von 2.)",
+        "target": "1KB"
+    },
+    {
+        "input": "Gegeben sind zwei Caches: CacheA verwendet eine direkte Abbildung mit 16 Zeilen, Blockgröße 1 Byte und einer Fehlzugriffsstrafe von 8 Taktzyklen. CacheB verwendet ebenfalls eine direkte Abbildung mit 4 Zeilen, Blockgröße 4 Byte und einer Fehlzugriffsstrafe von 11 Taktzyklen. Angenommen, beide Caches sind anfangs leer, und die Adressen werden nach Bytes adressiert. Welche der folgenden Adresssequenzen führt zu einer geringeren Fehlzugriffsrate für CacheB, aber zu einer insgesamt höheren Fehlzugriffsstrafe im Vergleich zu CacheA: 0, 2, 4, 8, 0; 1, 2, 3, 4; 0, 8, 0, 8, 0, 8; 0, 1, 0, 1, 0, 1",
+        "target": "0, 2, 4, 8, 0"
+    },
+    {
+        "input": "Wie viele Redundanzbits hat ein üblicher (n, k)-Blockcode?",
+        "target": "n-k"
+    },
+    {
+        "input": "Ein synchroner Bus hat eine Taktfrequenz von 100 MHz, eine Breite von 32 Bit und multiplext Adress-/Datenleitungen, wobei jede Übertragung einer Adresse oder von Daten einen Taktzyklus benötigt. Wenn der Bus Burst-Übertragung unterstützt, wie viel Zeit wird mindestens benötigt, um bei einer \"Hauptspeicher-Schreib\"-Transaktion 128 Bit Daten zu übertragen?",
+        "target": "50ns"
+    },
+    {
+        "input": "Angenommen, die Taktfrequenz beträgt 120 MHz und es dauert 8 Taktzyklen, um ein 32-Bit-Wort zu übertragen, wie hoch ist die Datenübertragungsrate des Bus-Systems?",
+        "target": "60MB/s"
+    },
+    {
+        "input": "Ein Host verwendet einen direkt abgebildeten Cache mit 256 Blöcken. Auf welchen Cache-Block wird der i-te Block des Hauptspeichers abgebildet?",
+        "target": "i(mod256)"
+    },
+    {
+        "input": "Angenommen, der CPU-Adressbus hat 24 Leitungen und der Datenbus hat 32 Leitungen. Der Hauptspeicher dieser Maschine besteht aus RAM-Chips mit einer Kapazität von 512K × 8 Bit. Wie viele solcher Speicherchips benötigt das System maximal für den Hauptspeicher?",
+        "target": "128"
+    },
+    {
+        "input": "Ein Speicher hat eine Kapazität von 64 KB und ist byteadressiert. Der Adressbereich von 4000H bis 5FFFH ist der ROM-Bereich, der Rest ist der RAM-Bereich. Wenn SRAM-Chips mit einer Kapazität von 8K × 4 Bit für das Design verwendet werden, wie viele solcher Chips werden benötigt?",
+        "target": "14"
+    },
+    {
+        "input": "Angenommen, ein Operand eines Befehls verwendet die Indexadressierung. Der Wert im Indexregister beträgt 007CH, der Inhalt der Adresse 007CH ist 0124H, die Basisadresse im Befehl ist B000H, und der Inhalt der Adresse B000H ist C000H. Wie lautet die effektive Adresse dieses Operanden?RetryClaude can make mistakes. Please double-check responses.",
+        "target": "B07CH"
+    },
+    {
+        "input": "Ein Computer hat eine Wortlänge von 32 Bit, eine Hauptspeicherkapazität von 1 MB, adressiert nach Wörtern, eine Blocklänge von 512 B und ein Cache, das 16 Blöcke speichern kann. Wenn eine direkte Abbildung verwendet wird, wie lang ist die Cache-Adresse?",
+        "target": "11 Bits"
+    },
+    {
+        "input": "Eine Festplattenoberfläche verfügt über 200 Spuren mit einer Gesamtspeicherkapazität von 60 MB. Die Festplatte benötigt 25 ms für eine vollständige Umdrehung. Jede Spur enthält 8 Sektoren, zwischen denen Lücken bestehen, wobei der Schreib-/Lesekopf für jede Lücke 1,25 ms benötigt. Wie hoch ist die maximale Übertragungsrate des Festplattenkanals?",
+        "target": "20MB/s"
+    },
+    {
+        "input": "Wie viele Bit werden mindestens benötigt, um die Dezimalzahl -8.196 im Zweierkomplement darzustellen?",
+        "target": "15"
+    },
+    {
+        "input": "Ein Computer hat einen Cache mit insgesamt 16 Blöcken, der eine 2-Wege-assoziative Zuordnung verwendet (d.h. jeder Satz besteht aus 2 Blöcken). Jeder Hauptspeicherblock hat eine Größe von 32B und ist byteweise adressiert. In welchem Cache-Satz sollte der Hauptspeicherblock mit der Speicherzelle Nummer 129 abgelegt werden? (Nummerierung beginnt bei 0)",
+        "target": "4"
+    },
+    {
+        "input": "Der Hauptspeicher ist byteweise adressiert, und die Adressen reichen von 0A4000H bis 0CBFFFH. Wie viele Bytes umfasst dieser Bereich? Wenn der Hauptspeicher mit Speicherchips der Kapazität 32K×8 Bit aufgebaut ist, wie viele Chips werden mindestens benötigt?",
+        "target": "160K, 5"
+    },
+    {
+        "input": "Angenommen, die Maschinenwortlänge beträgt 64 Bit und die Speicherkapazität beträgt 128 MB. Wenn wortweise adressiert wird, wie viele Adressen kann der Speicher adressieren?",
+        "target": "16 M"
+    },
+    {
+        "input": "Angenommen, die Drehzahl eines bestimmten Festplattenspeichers beträgt 2.400 U/min, und die Speicherkapazität pro Spur beträgt 96 kB. Wie hoch ist die Datenübertragungsrate der Festplatte?",
+        "target": "3840 kB/s"
+    },
+    {
+        "input": "Angenommen, mehrere 2K×4-Bit-Chips werden zu einem 8K×8-Bit-Speicher zusammengesetzt. Was ist die kleinste Adresse des Chips, der die Adresse 081FH enthält?",
+        "target": "0800H"
+    },
+    {
+        "input": "Angenommen, ein Festplattenspeicher hat 4 Platten (mit insgesamt 8 Aufzeichnungsflächen), 2.000 Zylinder, 3.000 Sektoren pro Spur und 512 Bytes pro Sektor. Wie groß ist die Speicherkapazität dieses Festplattenspeichers? (1G = 10^9, nach unten abrunden)",
+        "target": "24GB"
+    },
+    {
+        "input": "Die effektive Kapazität des Caches beträgt 128 KB, jede Blockgröße beträgt 16 B und es handelt sich um ein 8-Wege-Set-Associative-Cache. Die Byte-Adresse 1234567H soll in den Cache geladen werden. Wie lautet der Tag für diese Adresse?",
+        "target": "048DH"
+    },
+    {
+        "input": "Wenn ein Bus 64-Bit-Daten parallel überträgt und die Busfrequenz 66 MHz beträgt, wie hoch ist die Bandbreite des Busses?",
+        "target": "528MB/s"
+    },
+    {
+        "input": "Wenn jedes Zeichen mit einer 16×16-Punktmatrix dargestellt wird, wie groß ist der Speicherplatz für eine Zeichendatenbank mit 7.500 Zeichen?",
+        "target": "240KB"
+    },
+    {
+        "input": "Im Bereich der Computerarchitektur umfasst die CPU unter anderem den Programmzähler PC, das Speicher-Datenregister MDR, das Instruktionsregister IR und das Speicheradressregister MAR. Wenn die auszuführende CPU-Instruktion MOVR_0, #100 (d.h., der Wert 100 wird in das Register R_0 übertragen) lautet, welche der folgenden Operationen muss die CPU zuerst ausführen: PC→MAR, 100→R_0, PC→IR, 100→MDR?",
+        "target": "PC→MAR"
+    },
+    {
+        "input": "Angenommen, der relative Adressierungsmodus für eine Sprunginstruktion belegt zwei Bytes, wobei das erste Byte der Op-Code und das zweite Byte der Offset (in Zweierkomplement-Darstellung) ist. Jedes Mal, wenn die CPU ein Byte aus dem Speicher liest, wird automatisch (PC)+1→PC ausgeführt. Wenn die aktuelle Instruktionsadresse 3008H ist und zu 300FH gesprungen werden soll, was sollte der Inhalt des zweiten Bytes der Sprunginstruktion sein? Wenn die aktuelle Instruktionsadresse 300FH ist und zu 3004H gesprungen werden soll, was sollte der Inhalt des zweiten Bytes der Sprunginstruktion sein?",
+        "target": "05H, F3H"
+    },
+    {
+        "input": "Wenn der dynamische RAM jede Millisekunde 1,0 Mal aktualisiert werden muss, jede Aktualisierung 100 ns dauert und jeder Speicherzyklus 200 ns benötigt, welchen prozentualen Anteil nehmen die Aktualisierungen an der gesamten Speicherbetriebszeit ein?",
+        "target": "0,01%"
+    },
+    {
+        "input": "In einem Pipeline-Rechner, welche Art von Datenabhängigkeit tritt bei den folgenden Befehlen auf: Lesen nach Schreiben, Lesen nach Lesen, Schreiben nach Schreiben, Schreiben nach Lesen;\nADD R1, R2, R3; (R2) + (R3) → R1; ADD R4, R1, R5; (R1) + (R5) → R4",
+        "target": "Lesen nach Schreiben"
+    },
+    {
+        "input": "In einem Computersystem führt die Festplatte Datenübertragungen mit dem Prozessor mittels Interrupts durch, wobei die Übertragungseinheit 16 Bit beträgt und die Übertragungsrate 50 KB/s ist. Der Overhead pro Übertragung (einschließlich Interrupts) beträgt 100 CPU-Takte, und die Prozessorfrequenz beträgt 50 MHz. Wie viel Prozent der Prozessorzeit beansprucht die Datenübertragung der Festplatte? Runden Sie auf eine ganze Zahl ab.",
+        "target": "5%"
+    },
+    {
+        "input": "Was ist das Ergebnis der Addition der Zahlen 7E5H und 4D3H?",
+        "target": "CB8H"
+    },
+    {
+        "input": "Hat ein Speicher eine Zykluszeit von 250 ns und liefert pro Lesezugriff 16 Bit, wie hoch ist die Datenübertragungsrate dieses Speichers?",
+        "target": "8×10＾6B/s"
+    },
+    {
+        "input": "ine Workstation verwendet eine Prozessorfrequenz von 15 MHz und einen Prozessor mit einer Verarbeitungsrate von 10 MIPS, um ein bekanntes gemischtes Programm auszuführen. Angenommen, jeder Speicherzugriff verursacht eine Verzögerung von 1 Zyklus, wie hoch ist dann der effektive CPI dieser Maschine?",
+        "target": "1,5"
+    },
+    {
+        "input": "In einem paginierten Speichermanagementsystem mit einer Seitengröße von 4 KB sind die Einträge der Seitentabelle der Reihe nach 2, 5, 6, 8, 7, 11. Wie lautet die logische Adresse, die der physischen Adresse 32773 entspricht?",
+        "target": "12293"
+    },
+    {
+        "input": "Ein Prozessor mit einer vierstufigen Pipeline gibt kontinuierlich 15 Befehle in die Pipeline ein. Wie viele Befehle werden bis zum Ende des 15. Takts ausgeführt?",
+        "target": "12"
+    },
+    {
+        "input": "In einem Befehlssystem beträgt die Befehlswortlänge 8 Bit, und jeder Adresscode hat eine Länge von 3 Bit. Es wird eine erweiterte Opcode-Technik verwendet. Wenn das Befehlssystem zwei Zwei-Adress-Befehle und zehn Null-Adress-Befehle enthält, wie viele Ein-Adress-Befehle sind maximal möglich?",
+        "target": "14"
+    },
+    {
+        "input": "Ein SRAM-Chip mit einer Kapazität von 1024 × 8 Bit. Abgesehen von den Strom- und Erdungsanschlüssen, wie viele Pins hat der Chip mindestens?",
+        "target": "21"
+    },
+    {
+        "input": "Ein C-Programm läuft auf einer 32-Bit-Maschine. Das Programm definiert drei Variablen x, y, z, wobei x und z vom Typ int und y vom Typ short sind. Wenn x = 127 und y = -9 gesetzt werden, was sind die Werte von x, y und z nach der Ausführung der Zuweisung z = x + y?\nA. x=0000007FH ; y=FFF9H ; z=00000076H\nB. x=0000007FH ; y=FFF9H ; z=FFFF0076H\nC. x=0000007FH ; y=FFF7H ; z=FFFF0076H\nD. x=0000007FH ; y=FFF7H ; z=00000076H",
+        "target": "D"
+    },
+    {
+        "input": "Fließkommazahlen vom Typ float werden normalerweise im IEEE754-Standard im Format für einfache Präzision (32 Bit) dargestellt. Wenn der Compiler der Variable x vom Typ float den Wert -8,25 zuweist und diese im 32-Bit-Fließkomma-Register FR1 speichert, wie lautet der Inhalt von FR1?\nA. C1040000H\nB. C1C20000H\nC. C1840000H\nD. C2420000H",
+        "target": "A"
+    },
+    {
+        "input": "Im Statusregister der CPU, wenn das Vorzeichenflag SF auf „1\" gesetzt ist, was bedeutet das für das Ergebnis der Berechnung?",
+        "target": "Kann nicht bestimmt werden"
+    },
+    {
+        "input": "Gegeben sind folgende 8-Bit-Exzess-Codes [x]_Exzess. Welcher erzeugt einen Überlauf, wenn [-x]_Exzess berechnet wird: 11111111, 01111111, 00000000, 10000000?",
+        "target": "00000000"
+    },
+    {
+        "input": "Wenn die Länge des Befehlswortes 24 Bit beträgt und 130 verschiedene Operationen durchgeführt werden können, wie groß ist der größte direkt adressierbare Bereich, wenn das Zwei-Adress-Format verwendet wird?",
+        "target": "256"
+    },
+    {
+        "input": "Wenn die Grafikkarte eine Speichergröße von 1 MB hat und eine Auflösung von 800 × 600 Pixeln verwendet wird, wie viele verschiedene Farben kann jeder Pixel maximal haben?",
+        "target": "65536"
+    },
+    {
+        "input": "Wenn die Dezimalzahl 137,5 ist, wie lautet ihre Oktalzahl?",
+        "target": "211,4"
+    },
+    {
+        "input": "Wenn für n verschiedene Symbole eine Huffman-Codierung durchgeführt wird und der erzeugte Huffman-Baum insgesamt 115 Knoten enthält, wie groß ist der Wert von n?",
+        "target": "58"
+    },
+    {
+        "input": "In einem beliebigen nicht-leeren, balancierten Binärbaum (AVL-Baum) T1 wird ein Knoten v gelöscht, wodurch ein balancierter Baum T2 entsteht, und v wird dann in T2 eingefügt, wodurch ein balancierter Baum T3 entsteht. Welche der folgenden Aussagen über T1 und T3 ist korrekt?\nI. Wenn v ein Blattknoten in T1 ist, dann könnten T1 und T3 unterschiedlich sein.\nII. Wenn v kein Blattknoten in T1 ist, dann sind T1 und T3 immer unterschiedlich.\nIII. Wenn v kein Blattknoten in T1 ist, dann sind T1 und T3 immer gleich.",
+        "target": "I"
+    },
+    {
+        "input": "Gegeben ist eine Hashtabelle HT mit einer Länge von 11, die anfangs leer ist. Die Hash-Funktion lautet H(key) = key % 7, und Konflikte werden mit der linearen Sondierung gelöst. Wenn die Schlüsselsequenz 87, 40, 30, 6, 11, 22, 98, 20 nacheinander in HT eingefügt wird, wie lang ist die durchschnittliche Suchlänge bei einem Suchfehler in HT?",
+        "target": "6"
+    },
+    {
+        "input": "Gegeben sei die Hauptkette T = „abaabaabcabaabc“ und das Muster S = „abaabc“. Wie viele Zeichenvergleiche führt der KMP-Algorithmus durch, bis das erste Match gefunden wird?",
+        "target": "10"
+    },
+    {
+        "input": "Es gibt 120 anfängliche Mergesegmente auf dem externen Speicher. Bei einer 12-Wege-Merge-Operation, wie viele virtuelle Segmente müssen zur Erreichung der optimalen Zusammenführung hinzugefügt werden?",
+        "target": "2"
+    },
+    {
+        "input": "Betrachten Sie den folgenden C-Code:\nunsigned short usi = 65535;\nshort si = usi;\nWas ist der Wert von si, nachdem dieser Programmabschnitt ausgeführt wurde?",
+        "target": "-1"
+    },
+    {
+        "input": "Angenommen, ein Computer verwendet eine 3-Kanal-Speicherbusarchitektur, und das verwendete RAM-Modell ist DDR3-1333, wobei die Arbeitsfrequenz des Speicherbusses, an den die RAM-Module angeschlossen sind, 1333 MHz beträgt und die Busbreite 64 Bit ist. Wie hoch ist die Gesamtbandbreite des Speicherbusses?",
+        "target": "32GB/s"
+    },
+    {
+        "input": "Ein Gerät tauscht Daten mit der CPU im Interrupt-Modus aus. Die CPU hat eine Hauptfrequenz von 1 GHz, der Datenpuffer des Geräteinterfaces ist 32 Bit groß und die Datenübertragungsrate des Geräts beträgt 50 KB/s. Wenn der Interrupt-Aufwand (einschließlich Interrupt-Antwort und Interrupt-Behandlung) 1.000 Taktzyklen beträgt, wie hoch ist der maximal mögliche Prozentsatz der CPU-Zeit, der für die Eingabe/Ausgabe des Geräts verwendet wird?",
+        "target": "1,28%"
+    },
+    {
+        "input": "Angenommen, ein 100-Mb/s-LAN verwendet das CSMA/CD-Protokoll, und die minimale Frame-Länge beträgt 128 B. Wie hoch ist die maximale einseitige Propagationsverzögerung zwischen zwei Knotenpunkten innerhalb eines Kollisionsbereichs: 20,48µs, 5,12µs, 2,56µs, 10,24µs",
+        "target": "5,12µs"
+    },
+    {
+        "input": "Das Netzwerk 101.200.16.0/20 wird in 5 Subnetze unterteilt. Wie viele verfügbare IP-Adressen gibt es im kleinsten dieser Subnetze? Die möglichen Antworten sind: 1022, 126, 254, 510.",
+        "target": "254"
+    },
+    {
+        "input": "In einem B-Baum 4. Ordnung mit 15 Schlüsseln, was ist die maximale Anzahl der Knoten, die Schlüssel enthalten?",
+        "target": "15"
+    },
+    {
+        "input": "Ein Speicher mit einer Kapazität von 256 MB besteht aus mehreren 4M×8-Bit-DRAM-Chips. Wie viele Adressleitungen und Datenleitungen hat jeder DRAM-Chip insgesamt?",
+        "target": "19"
+    },
+    {
+        "input": "Ein Computer hat 16 allgemeine Register und verwendet eine 32-Bit feste Instruktionslänge. Das Opcode-Feld (einschließlich der Adressierungsmodi) ist 8 Bit lang. Der Quelloperand und der Zieloperand der Store-Instruktion verwenden Registerdirektadressierung und Basisadressierung. Wenn das Basisregister jedes allgemeine Register sein kann und der Offset im Zweierkomplement dargestellt wird, welcher der folgenden Wertebereiche ist für den Offset in der Store-Instruktion korrekt: -65536 bis +65535, -32767 bis +32768, -32768 bis +32767, -65535 bis +65536?",
+        "target": "-32768~+32767"
+    },
+    {
+        "input": "Wenn die Antwort- und Bearbeitungszeit einer Interruptanforderung für ein Gerät 100ns beträgt und alle 400ns eine Interruptanforderung ausgegeben wird, wobei die maximal erlaubte Antwortverzögerungszeit des Interrupts 50ns beträgt, wie hoch ist der mindestens erforderliche Prozentsatz der CPU-Zeit, die für die I/O des Geräts verwendet wird, während das Gerät kontinuierlich arbeitet?",
+        "target": "25%"
+    },
+    {
+        "input": "Die Standorte A, B und C teilen sich eine CDMA-Verbindung. Die Chipsequenzen sind für A: (1,1,1,1), für B: (1,-1,1,-1) und für C: (1,1,-1,-1). C empfängt die folgende Sequenz von der Verbindung: (2, 0, 2, 0, 0, -2, 0, -2, 0, 2, 0, 2). Was sind die Daten, die C von A empfangen hat?",
+        "target": "101"
+    },
+    {
+        "input": "Host A und Host B haben eine TCP-Verbindung hergestellt. A sendet ständig Daten mit einer MSS von 1 KB und hat immer Daten zum Senden. B sendet nach dem Empfang jedes TCP-Segments ein Bestätigungssegment mit einem Empfangsfenster von 10 KB. Wenn A zum Zeitpunkt t einen Timeout hat und das Congestion Window 8 KB beträgt, wie groß wird das Sendefenster von A nach 10 RTTs sein, ohne dass es zu weiteren Timeouts kommt?",
+        "target": "10KB"
+    },
+    {
+        "input": "Angenommen, der Hauptspeicher hat eine 32-Bit-Adresse, der Speicher wird byteweise adressiert, und zwischen dem Hauptspeicher und dem Cache wird eine direkte Zuordnung verwendet. Die Blockgröße im Hauptspeicher beträgt 4 Wörter, jedes Wort hat 32 Bit. Die Schreibmethode ist WriteBack. Wie groß muss die Gesamtkapazität des Caches in Bits mindestens sein, um 4K Wörter an Daten speichern zu können?",
+        "target": "148K"
+    },
+    {
+        "input": "Im Inode einer Datei sind 10 direkte Index-Pointer, 1 einfach indirekter Pointer und 1 doppelt indirekter Pointer gespeichert. Die Blockgröße der Festplatte beträgt 1KB, und jeder Index-Pointer benötigt 4 Bytes. Wenn der Inode einer Datei bereits im Speicher ist, wie viele Festplattenblöcke müssen zum Lesen der Datei an den Positionen 1234 und 307400 (byteweise adressiert) in den Speicher geladen werden?",
+        "target": "1; 3"
+    },
+    {
+        "input": "Das Dateisystem verwendet eine Bitmap-Methode, um die Verteilung des Festplattenspeichers darzustellen. Die Bitmap befindet sich im Festplattenbereich von Block 32 bis Block 127. Jeder Festplattenblock hat eine Größe von 1.024 Bytes, und sowohl Festplattenblocks als auch Block-Byte-Nummern beginnen bei 0. Angenommen, die zu löschende Festplattenblocknummer ist 409612, in welchem Block und welchem Byte (innerhalb des Blocks) befindet sich das zu ändernde Bitmap-Bit?",
+        "target": "82; 1"
+    },
+    {
+        "input": "Host A und Host B haben eine neue TCP-Verbindung aufgebaut, wobei der Anfangswert des Congestion Control Schwellenwertes von Host A 32 KB beträgt. Host A sendet Daten an Host B mit einer MSS von 1 KB und hat immer Daten zum Senden. Host B hat für diese Verbindung einen Empfangspuffer von 16 KB zugewiesen und bestätigt jedes TCP-Segment, wobei die Übertragungsverzögerung der Segmente ignoriert wird. Wenn alle von Host B empfangenen Daten im Puffer gespeichert werden und nicht abgerufen werden, wie groß wird das Sendefenster von Host A nach 4 RTTs von dem Zeitpunkt des erfolgreichen Verbindungsaufbaus an sein, wenn keine Timeouts auftreten?",
+        "target": "1KB"
+    },
+    {
+        "input": "Gegeben ist ein ungerichteter Graph G mit 16 Kanten, wobei es 3 Knoten mit Grad 4 gibt, 4 Knoten mit Grad 3 und die anderen Knoten einen Grad kleiner als 3 haben. Wie viele Knoten enthält der Graph G mindestens?",
+        "target": "11"
+    },
+    {
+        "input": "Angenommen, die Computer M1 und M2 haben dieselbe Instruktionssatzarchitektur (ISA), mit den Taktraten von 1,5 GHz bzw. 1,2 GHz. Ein Referenzprogramm P läuft auf M1 und M2, wobei die durchschnittlichen CPIs 2 bzw. 1 betragen. Wie ist das Verhältnis der Laufzeiten von Programm P auf M1 zu M2?",
+        "target": "1,6"
+    },
+    {
+        "input": "Ein Computer ist byteadressiert, mit einer festen Instruktionslänge und nur zwei Arten von Instruktionsformaten. Es gibt 29 Drei-Adressen-Instruktionen und 107 Zwei-Adressen-Instruktionen, wobei jedes Adressfeld 6 Bits lang ist. Wie lang muss die Instruktionslänge mindestens sein?",
+        "target": "24 Bit"
+    },
+    {
+        "input": "Wenn die maximale Datenübertragungsrate des Kanals ohne Rauschen mindestens so groß ist wie die maximale Datenübertragungsrate bei einem Signal-Rausch-Verhältnis (SNR) von 30 dB, wie viele Signalzustände sind mindestens erforderlich?",
+        "target": "32"
+    },
+    {
+        "input": "Gegeben ist eine symmetrische Matrix M der Größe 12×12. Die Elemente m_i,j (1≤i≤j≤12) der oberen Dreiecksmatrix werden in einem C-Array N zeilenweise gespeichert. An welchem Index befindet sich das Element m_6,6 in N?",
+        "target": "50"
+    },
+    {
+        "input": "Wie viele Schlüssel enthält ein B-Baum 3. Ordnung mit einer Höhe von 5 mindestens?",
+        "target": "31"
+    },
+    {
+        "input": "Angenommen, die Anzahl der Zeilen (r) und die Anzahl der Spalten (c) im Speicherarray eines DRAM-Chips sind gegeben. Wie sollten für einen 2K×1-Bit-DRAM-Chip r und c gewählt werden, um die Anzahl der Adresspins zu minimieren und gleichzeitig den Auffrischungsaufwand zu verringern?",
+        "target": "32; 64"
+    }
+]

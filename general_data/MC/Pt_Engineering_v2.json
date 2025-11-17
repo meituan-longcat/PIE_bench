@@ -1,0 +1,956 @@
+[
+    {
+        "input": "Em uma peça que requer 2 horas para completar o processo de cementação a 900°C, se as condições de cementação permanecerem inalteradas e a profundidade da camada cementada for duplicada, o tempo necessário para a cementação será de ______.\nA. 2 horas\nB. 2,8 horas\nC. 4 horas\nD. 8 horas",
+        "target_scores": {
+            "A. 2 horas": 0,
+            "B. 2,8 horas": 0,
+            "C. 4 horas": 1,
+            "D. 8 horas": 0
+        }
+    },
+    {
+        "input": "Durante as noites de inverno, em dois cômodos com temperatura e umidade do ar idênticas, sendo que um possui parede e janela externas e o outro não, as pessoas vestindo roupas iguais terão a mesma sensação térmica? (   )\nA. Não há diferença na temperatura e umidade do ar interno, portanto não há diferença na sensação térmica entre os dois.\nB. O primeiro é mais frio que o segundo, porque a condução de calor entre a pessoa e o piso é mais intensa.\nC. O primeiro é mais frio que o segundo, porque a radiação térmica entre a pessoa e as janelas e paredes externas é mais intensa.\nD. O segundo é mais frio que o primeiro, porque a transferência de calor por convecção entre a pessoa e o ar interno é mais intensa.",
+        "target_scores": {
+            "A. Não há diferença na temperatura e umidade do ar interno, portanto não há diferença na sensação térmica entre os dois.": 0,
+            "B. O primeiro é mais frio que o segundo, porque a condução de calor entre a pessoa e o piso é mais intensa.": 0,
+            "C. O primeiro é mais frio que o segundo, porque a radiação térmica entre a pessoa e as janelas e paredes externas é mais intensa.": 1,
+            "D. O segundo é mais frio que o primeiro, porque a transferência de calor por convecção entre a pessoa e o ar interno é mais intensa.": 0
+        }
+    },
+    {
+        "input": "Quando o vapor d'água saturado condensa na superfície externa de um tubo circular horizontal, e L > d, com temperatura constante na parede do tubo, qual das seguintes opções pode aumentar a quantidade de condensação por unidade de tempo? (   )\nA. Colocar o tubo circular em posição inclinada\nB. Colocar o tubo circular na posição horizontal\nC. Colocar o tubo circular na posição vertical\nD. Instalar aletas de baixo perfil na parte externa do tubo circular",
+        "target_scores": {
+            "A. Colocar o tubo circular em posição inclinada": 0,
+            "B. Colocar o tubo circular na posição horizontal": 0,
+            "C. Colocar o tubo circular na posição vertical": 0,
+            "D. Instalar aletas de baixo perfil na parte externa do tubo circular": 1
+        }
+    },
+    {
+        "input": "Durante o processo de ajuste de um sistema de circuito fechado, ao aumentar gradualmente o ganho de circuito aberto, descobriu-se que quando a velocidade e a estabilidade atingiram os requisitos de projeto, a precisão do controle do sistema estava insatisfatória. Qual das seguintes medidas deve ser adotada? ______\nA. Adotar correção atraso-avanço\nB. Adotar correção de atraso\nC. Adotar correção de avanço\nD. Continuar aumentando o ganho de malha aberta",
+        "target_scores": {
+            "A. Adotar correção atraso-avanço": 0,
+            "B. Adotar correção de atraso": 1,
+            "C. Adotar correção de avanço": 0,
+            "D. Continuar aumentando o ganho de malha aberta": 0
+        }
+    },
+    {
+        "input": "Nas situações abaixo, em qual caso não é necessário realizar trabalho de dissipação de energia (ht é a profundidade da água a jusante; hc é a profundidade da água após o ressalto hidráulico crítico). (  )\nA. hc < 1,05 ht\nB. hc < ht / 1,05\nC. hc > ht / 1,05\nD. hc=ht",
+        "target_scores": {
+            "A. hc < 1,05 ht": 0,
+            "B. hc < ht / 1,05": 1,
+            "C. hc > ht / 1,05": 0,
+            "D. hc=ht": 0
+        }
+    },
+    {
+        "input": "Se dois tubos têm o mesmo comprimento L, diâmetro d, vazão Q e temperatura da água t, mas o coeficiente de rugosidade no mesmo comprimento de tubo é $n1 > n2$, então a relação entre as diferenças de nível de água $h1$ e $h2$ nos tubos de pressão será _________. (  )\nA. $h1<h2$\nB. $h1=h2$\nC. $h1>h2$\nD. Impossível determinar",
+        "target_scores": {
+            "A. $h1<h2$": 0,
+            "B. $h1=h2$": 0,
+            "C. $h1>h2$": 1,
+            "D. Impossível determinar": 0
+        }
+    },
+    {
+        "input": "Existem 4 canais prismáticos de seção retangular, com mesma área de seção transversal, coeficiente de rugosidade e declividade de fundo. As relações entre largura de fundo b e profundidade de fluxo uniforme h0 são as seguintes. O canal com maior vazão é ________. (  )\nA. b1=4m, h01=1m\nB. b2=2m, h02=2m\nC. b3=2,83m, h03=1,414m\nD. b4=2,67m, h04=1,5m",
+        "target_scores": {
+            "A. b1=4m, h01=1m": 0,
+            "B. b2=2m, h02=2m": 0,
+            "C. b3=2,83m, h03=1,414m": 1,
+            "D. b4=2,67m, h04=1,5m": 0
+        }
+    },
+    {
+        "input": "Existem dois canais de seção trapezoidal, com mesma vazão, coeficiente de talude, coeficiente de rugosidade e largura de fundo, mas com declividades de fundo $i1 > i2$. A relação entre as profundidades de fluxo uniforme h01 e h02 é ________. (  )\nA. $h01<h02$\nB. $h01=h02$\nC. $h01>h02$\nD. Impossível determinar",
+        "target_scores": {
+            "A. $h01<h02$": 1,
+            "B. $h01=h02$": 0,
+            "C. $h01>h02$": 0,
+            "D. Impossível determinar": 0
+        }
+    },
+    {
+        "input": "Existem dois canais de seção trapezoidal, com mesma vazão, coeficiente de talude, largura de fundo e declividade de fundo, mas com coeficientes de rugosidade $n1 > n2$. A relação entre as profundidades de fluxo uniforme h01 e h02 é _____. (  )\nA. $h01<h02$\nB. $h01=h02$\nC. $h01>h02$\nD. Impossível determinar",
+        "target_scores": {
+            "A. $h01<h02$": 0,
+            "B. $h01=h02$": 0,
+            "C. $h01>h02$": 1,
+            "D. Impossível determinar": 0
+        }
+    },
+    {
+        "input": "Quando a carga de água sobre a crista de um vertedouro prático é maior que a carga de projeto, a relação entre o coeficiente de vazão m e o coeficiente de vazão de projeto md é ____. (  )\nA. $m<md$\nB. $m=md$\nC. $m>md$\nD. Não é possível determinar",
+        "target_scores": {
+            "A. $m<md$": 0,
+            "B. $m=md$": 0,
+            "C. $m>md$": 1,
+            "D. Não é possível determinar": 0
+        }
+    },
+    {
+        "input": "Dois vertedouros práticos tipo WES, ambos altos, têm cargas de projeto $Hd1 > Hd2$, mas as cargas sobre a crista são $H1 = Hd1$ e $H2 = Hd2$. A relação entre seus coeficientes de vazão é _____. (  )\nA. $m1<m2$\nB. $m1=m2$\nC. $m1>m2$\nD. Não é possível determinar",
+        "target_scores": {
+            "A. $m1<m2$": 0,
+            "B. $m1=m2$": 1,
+            "C. $m1>m2$": 0,
+            "D. Não é possível determinar": 0
+        }
+    },
+    {
+        "input": "Dado que o polinômio característico de um sistema de amostragem de circuito fechado é $\\Phi(z) = (z+1)(z+0,5)(z+2)$, então este sistema é ______.\nA. Estabilidade crítica\nB. Estável\nC. Impossível determinar\nD. Instável",
+        "target_scores": {
+            "A. Estabilidade crítica": 0,
+            "B. Estável": 0,
+            "C. Impossível determinar": 0,
+            "D. Instável": 1
+        }
+    },
+    {
+        "input": "Dado que a função de transferência de pulso de circuito aberto de um sistema de controle discreto é $G(z) = \\frac{1,264z}{(z-1)(z-0,368)}$, então este sistema é ______\nA. Sistema tipo 0\nB. Sistema tipo I\nC. Sistema tipo II\nD. Sistema tipo III",
+        "target_scores": {
+            "A. Sistema tipo 0": 0,
+            "B. Sistema tipo I": 1,
+            "C. Sistema tipo II": 0,
+            "D. Sistema tipo III": 0
+        }
+    },
+    {
+        "input": "Um teste de campo mediu a velocidade da onda elástica longitudinal em um maciço rochoso como 5 400 m/s, enquanto em laboratório, a velocidade da onda elástica longitudinal em uma amostra intacta da mesma rocha foi de 6 000 m/s, com resistência à compressão uniaxial de 110 MPa. Calcule o coeficiente de integridade deste maciço rochoso e avalie sua condição de integridade.\nA. K=0,81, la roca es intacta\nB. K=0,81, la roca no es intacta\nC. K＜0,81, la roca es intacta\nD. K＜0,81, la roca no es intacta",
+        "target_scores": {
+            "A. K=0,81, la roca es intacta": 1,
+            "B. K=0,81, la roca no es intacta": 0,
+            "C. K＜0,81, la roca es intacta": 0,
+            "D. K＜0,81, la roca no es intacta": 0
+        }
+    },
+    {
+        "input": "Um furo de sondagem tem 2,0 m de profundidade, e os comprimentos dos testemunhos extraídos (de cima para baixo) são 3,5; 6,0; 7,5; 10,0; 15,2; 17,8; 10,0; 9,9; 5,0; 12,5; 4,5; 3,2; 10,2; 7,5; 15,7; 12,8; 21,0; 17,7; 10,0 (em cm). Calcule o índice de qualidade do testemunho (valor RQD) deste furo.\nA. 0,6743\nB. 0,7645\nC. 0,8345\nD. 0,8534",
+        "target_scores": {
+            "A. 0,6743": 0,
+            "B. 0,7645": 1,
+            "C. 0,8345": 0,
+            "D. 0,8534": 0
+        }
+    },
+    {
+        "input": "Utilizando uma broca de diamante com um diâmetro de 75 mm e um tubo duplo para testemunhos, realiza-se a perfuração contínua em rocha para coleta de testemunhos. Em uma perfuração de 1 metro, os maiores cinco fragmentos coletados possuem os seguintes comprimentos: 330 mm, 240 mm, 160 mm, 110 mm e 80 mm. Calcule o índice RQD dessa rocha.\nA. 0,75\nB. 0,84\nC. 0,85\nD. 0,88",
+        "target_scores": {
+            "A. 0,75": 0,
+            "B. 0,84": 1,
+            "C. 0,85": 0,
+            "D. 0,88": 0
+        }
+    },
+    {
+        "input": "Numa fundação de arenito, a profundidade do lençol freático é de 1,5 m. O peso específico natural da areia acima do lençol freático é $17 kN/m^3$, e o peso específico da areia saturada é $19 kN/m^3$. A tensão vertical total a 4,5 m de profundidade é (  ).\nA. 111 kPa\nB. 162 kPa\nC. 82,5 kPa\nD. 85,5 kPa",
+        "target_scores": {
+            "A. 111 kPa": 0,
+            "B. 162 kPa": 0,
+            "C. 82,5 kPa": 1,
+            "D. 85,5 kPa": 0
+        }
+    },
+    {
+        "input": "A porosidade de um solo é 52,29\\%. O índice de vazios deste solo é (  ).\nA. 0,3134\nB. 0,4771\nC. 0,9124\nD. 1,096",
+        "target_scores": {
+            "A. 0,3134": 0,
+            "B. 0,4771": 0,
+            "C. 0,9124": 0,
+            "D. 1,096": 1
+        }
+    },
+    {
+        "input": "Em uma fundação de solo argiloso mole saturado, um peso que estava depositado por longo tempo é rapidamente removido. Se um piezômetro estiver instalado a certa profundidade diretamente abaixo de onde estava o peso, durante a remoção do peso, o nível d'água no piezômetro irá (  ).\nA. Aumenta\nB. Diminui\nC. Indeterminado\nD. Permanece inalterado",
+        "target_scores": {
+            "A. Aumenta": 0,
+            "B. Diminui": 0,
+            "C. Indeterminado": 0,
+            "D. Permanece inalterado": 1
+        }
+    },
+    {
+        "input": "A profundidade duma fundação de faixa é de 3 m, sob carga axial, com força vertical transmitida pela estrutura superior à base da fundação de 600 kN/m. O peso próprio da fundação e do solo acima pode ser considerado com peso específico combinado de $20 kN/m^3$. Se o valor característico corrigido da capacidade de carga do solo é 260 kPa, então para satisfazer os requisitos de capacidade de carga do solo, a largura mínima da sapata corrida deve ser (  ).\nA. 3 m\nB. 4 m\nC. 5 m\nD. 6 m",
+        "target_scores": {
+            "A. 3 m": 1,
+            "B. 4 m": 0,
+            "C. 5 m": 0,
+            "D. 6 m": 0
+        }
+    },
+    {
+        "input": "Um novo carro projetado tem área frontal de $1,5 m^2$ e velocidade máxima de 108 km/h. Pretende-se realizar testes em túnel de vento. Sabendo que a velocidade máxima do vento na seção de teste do túnel é 45 m/s, a área frontal do modelo deve ser (  ).\nA. $0,28 m^2$\nB. $1 m^2$\nC. $2,25 m^2$\nD. $3,6 m^2$",
+        "target_scores": {
+            "A. $0,28 m^2$": 0,
+            "B. $1 m^2$": 1,
+            "C. $2,25 m^2$": 0,
+            "D. $3,6 m^2$": 0
+        }
+    },
+    {
+        "input": "Um projeto de construção requer investimento inicial de 10 milhões de reais no início do primeiro ano. A partir do final do primeiro ano, haverá um lucro líquido anual de 2 milhões de reais no final de cada ano. O período de operação do projeto é de 10 anos. O valor residual líquido ao final da vida útil é zero, e a taxa de retorno básica é 12\\%. O valor anual líquido deste projeto é aproximadamente (  ). [Dado: $(P/A,12\\%,10) = 5,6502$]\nA. R$ 123.400,00\nB. R$ 230.200,00\nC. R$ 360.400,00\nD. R$ 646.000,00",
+        "target_scores": {
+            "A. R$ 123.400,00": 0,
+            "B. R$ 230.200,00": 1,
+            "C. R$ 360.400,00": 0,
+            "D. R$ 646.000,00": 0
+        }
+    },
+    {
+        "input": "Há cinco processos de construção num projeto, organizados em três etapas de construção em fluxo contínuo com ritmo igual. O prazo é de 55 dias, e a soma dos intervalos tecnológicos e organizacionais é de 6 dias. O intervalo de fluxo entre os processos de construção é (  ).\nA. 3 dias\nB. 5 dias\nC. 7 dias\nD. 8 dias",
+        "target_scores": {
+            "A. 3 dias": 0,
+            "B. 5 dias": 0,
+            "C. 7 dias": 1,
+            "D. 8 dias": 0
+        }
+    },
+    {
+        "input": "Em um mapa topográfico na escala 1:20 000, a área medida de captação de um reservatório é $P = 1.6cm×10cm$. Em um processo de precipitação, a quantidade de chuva (média horária) é $m = 50 mm$, com duração de 2,5 horas (n). Considerando o coeficiente de evaporação $k = 0,4$, e usando a fórmula de volume de captação $Q＝P·m·n·k$, o volume de água captado nesta precipitação é (  ).\nA. $1,0×10^11 m^3$\nB. $1,0×10^7 m^3$\nC. $2,0×10^4 m^3$\nD. $3,2×10^4 m^3$",
+        "target_scores": {
+            "A. $1,0×10^11 m^3$": 0,
+            "B. $1,0×10^7 m^3$": 0,
+            "C. $2,0×10^4 m^3$": 0,
+            "D. $3,2×10^4 m^3$": 1
+        }
+    },
+    {
+        "input": "Para uma vala com 10 m de largura, pretende-se usar um sistema de rebaixamento do lençol freático por ponteiras filtrantes leves. A forma de disposição em planta mais adequada seria (  ).\nA. Fileira dupla\nB. Fileira única\nC. Formato U\nD. Formato anelar",
+        "target_scores": {
+            "A. Fileira dupla": 1,
+            "B. Fileira única": 0,
+            "C. Formato U": 0,
+            "D. Formato anelar": 0
+        }
+    },
+    {
+        "input": "Para um projeto de divisão com volume de $1000 m^3$, planejada para ser concluída em 5 dias, com trabalho uniforme diário, o preço unitário orçado é $200 reais/m^3$. Na manhã do terceiro dia, antes do início do trabalho, verificou-se que já foram concluídos $600 m^3$, com gasto real de 130.000 reais. Qual das seguintes afirmações está correta? (  )\nA. Cronograma real adiantado em 1 dia\nB. Desvio de cronograma = 100 m³, portanto adiantado\nC. Desvio de cronograma = R$ 20.000,00, portanto o cronograma está adiantado\nD. Desvio de custo = R$ 10.000,00, portanto houve economia",
+        "target_scores": {
+            "A. Cronograma real adiantado em 1 dia": 1,
+            "B. Desvio de cronograma = 100 m³, portanto adiantado": 0,
+            "C. Desvio de cronograma = R$ 20.000,00, portanto o cronograma está adiantado": 0,
+            "D. Desvio de custo = R$ 10.000,00, portanto houve economia": 0
+        }
+    },
+    {
+        "input": "Um teste de adensamento em uma amostra de argila com 25,0 mm de espessura mostrou que a pressão da água nos poros diminuiu do valor inicial até zero em 2 minutos e 45 segundos. Se na fundação existe uma camada da mesma argila com 4,6 m de espessura, e tanto a superfície superior quanto a inferior desta camada podem drenar, então o tempo de adensamento desta camada de argila será (  ).\nA. 120 dias\nB. 15,5 dias\nC. 258,5 dias\nD. 64,7 dias",
+        "target_scores": {
+            "A. 120 dias": 0,
+            "B. 15,5 dias": 0,
+            "C. 258,5 dias": 0,
+            "D. 64,7 dias": 1
+        }
+    },
+    {
+        "input": "Em uma fundação de areia mole saturada, quando se coloca rapidamente um monte de areia, se um piezômetro estiver instalado a certa profundidade diretamente abaixo do monte de areia, durante o processo de colocação da areia, o nível d'água no piezômetro irá (  ).\nA. Aumentar\nB. Diminuir\nC. Indeterminado\nD. Permanecer inalterado",
+        "target_scores": {
+            "A. Aumentar": 0,
+            "B. Diminuir": 0,
+            "C. Indeterminado": 0,
+            "D. Permanecer inalterado": 1
+        }
+    },
+    {
+        "input": "Em determinado país estrangeiro, ao calcular o coeficiente de compressão (constante) de uma amostra de solo a partir dos resultados de teste de adensamento, usa-se o logaritmo natural em vez do logaritmo comum. Se o índice de compressão (constante) de uma amostra de solo é 0,00485, e a tensão vertical de uma amostra aumenta para 100 vezes o estado inicial, então o índice de vazios do solo (  ).\nA. Aumento de 0,0112\nB. Aumento de 0,0224\nC. Redução de 0,0112\nD. Redução de 0,0224",
+        "target_scores": {
+            "A. Aumento de 0,0112": 0,
+            "B. Aumento de 0,0224": 0,
+            "C. Redução de 0,0112": 0,
+            "D. Redução de 0,0224": 1
+        }
+    },
+    {
+        "input": "Em um ensaio de penetração padronizado (SPT), quando o número de golpes atinge 50 e a profundidade real de penetração é 25 cm, o número de golpes N equivalente para o ensaio padrão de 30 cm seria (  ).\nA. 40\nB. 50\nC. 60\nD. 80",
+        "target_scores": {
+            "A. 40": 0,
+            "B. 50": 0,
+            "C. 60": 1,
+            "D. 80": 0
+        }
+    },
+    {
+        "input": "Um extensômetro manual com distância de referência L = 200 mm, usando um relógio comparador para leitura, registra 3 divisões pequenas. O valor de deformação medido é (μ_E representa microdeformação) (  ).\nA. $1,5 μ_E$\nB. $12 μ_E$\nC. $15 μ_E$\nD. $6 μ_E$",
+        "target_scores": {
+            "A. $1,5 μ_E$": 0,
+            "B. $12 μ_E$": 0,
+            "C. $15 μ_E$": 1,
+            "D. $6 μ_E$": 0
+        }
+    },
+    {
+        "input": "Um teste de adensamento em uma amostra de argila com 25 mm de espessura mostrou que a dissipação da pressão da água nos poros até zero levou 11 minutos, sendo que o teste permitia drenagem apenas pela superfície superior da amostra. Se na fundação existe uma camada da mesma argila com 4,6 m de espessura, e tanto a superfície superior quanto a inferior desta camada podem drenar, então o tempo de adensamento desta camada de argila será (  ).\nA. 120 dias\nB. 15,5 dias\nC. 258,6 dias\nD. 64,7 dias",
+        "target_scores": {
+            "A. 120 dias": 0,
+            "B. 15,5 dias": 0,
+            "C. 258,6 dias": 0,
+            "D. 64,7 dias": 1
+        }
+    },
+    {
+        "input": "Um modelo de barragem em centrífuga com altura de 0,10 m rompe quando submetido a uma aceleração centrífuga de 61 g. A altura máxima possível de uma barragem real construída com o mesmo material seria (  ).\nA. 1 m\nB. 10 m\nC. 6,1 m\nD. 61,1 m",
+        "target_scores": {
+            "A. 1 m": 0,
+            "B. 10 m": 0,
+            "C. 6,1 m": 1,
+            "D. 61,1 m": 0
+        }
+    },
+    {
+        "input": "Um aglomerado de partículas de solo formado por vácuo cai no fundo de uma piscina com 10 m de profundidade. A mudança em sua rigidez será (  ).\nA. Aumento de aproximadamente 10 vezes\nB. Aumento de aproximadamente 10\\%\nC. Aumento de aproximadamente uma vez\nD. Praticamente inalterada",
+        "target_scores": {
+            "A. Aumento de aproximadamente 10 vezes": 0,
+            "B. Aumento de aproximadamente 10\\%": 0,
+            "C. Aumento de aproximadamente uma vez": 0,
+            "D. Praticamente inalterada": 1
+        }
+    },
+    {
+        "input": "Em uma viga de concreto armado com carga uniformemente distribuída e extremidades fixas, o valor absoluto da capacidade de carga última do momento negativo no apoio é igual ao do momento positivo. Se calculado pela redistribuição plástica de esforços internos, o coeficiente de ajuste do momento no apoio é (  ).\nA. 0,65\nB. 0,7\nC. 0,75\nD. 0,8",
+        "target_scores": {
+            "A. 0,65": 0,
+            "B. 0,7": 0,
+            "C. 0,75": 1,
+            "D. 0,8": 0
+        }
+    },
+    {
+        "input": "Uma camada de argila com 5,1 m de espessura está sujeita a uma sobrecarga superficial de 30,0 kPa. Seu coeficiente de permeabilidade é 0,0004 m/d. Com base em experiências anteriores, esta camada de argila será comprimida em 0,040 m. Se apenas a superfície superior ou inferior permitir drenagem, o tempo calculado para completar o adensamento primário será aproximadamente (  ).\nA. 170 dias\nB. 240 dias\nC. 340 dias\nD. 50 dias",
+        "target_scores": {
+            "A. 170 dias": 1,
+            "B. 240 dias": 0,
+            "C. 340 dias": 0,
+            "D. 50 dias": 0
+        }
+    },
+    {
+        "input": "Em um solo homogêneo, o nível do lençol freático é a 1,80 m de profundidade, com fluxo capilar ascendente de 0,60 m. Se o peso específico seco do solo é $15,9 kN/m^3$, o peso específico saturado é $17 kN/m^3$, e a sobrecarga superficial é $25,60 kN/m^2$, então a tensão vertical efetiva a 3,50 m de profundidade é (  ).\nA. 41,39 kPa\nB. 66,78 kPa\nC. 70,71 kPa\nD. 72,99 kPa",
+        "target_scores": {
+            "A. 41,39 kPa": 0,
+            "B. 66,78 kPa": 1,
+            "C. 70,71 kPa": 0,
+            "D. 72,99 kPa": 0
+        }
+    },
+    {
+        "input": "Uma estaca de fundação tem seção transversal de 400 mm×400 mm. As camadas do solo de fundação, de cima para baixo, são: argila siltosa (3 m de espessura), areia grossa medianamente compacta (4 m de espessura) e rocha branda levemente intemperizada (5 m de espessura). Os valores característicos de atrito lateral da estaca são respectivamente 20 kPa, 40 kPa e 65 kPa. O comprimento da estaca é 9 m, e o valor característico da capacidade de carga da rocha na ponta da estaca é 6000 kPa. O valor característico da capacidade de carga vertical de uma única estaca é (  ).\nA. 1 120 kN\nB. 1 420 kN\nC. 1 520 kN\nD. 1 680 kN",
+        "target_scores": {
+            "A. 1 120 kN": 0,
+            "B. 1 420 kN": 0,
+            "C. 1 520 kN": 1,
+            "D. 1 680 kN": 0
+        }
+    },
+    {
+        "input": "Um distanciômetro de dupla frequência tem alcance de 1 km e foi projetado com duas escalas, fina e grossa. A escala fina é de 10 m (frequência da portadora f = 15 MHz) e a escala grossa é de 1000 m (frequência da portadora f = 150 KHz). A precisão de medição de fase é 1/1000. Qual das seguintes opções representa a precisão que o instrumento pode atingir? (  )\nA. cm\nB. dm\nC. m\nD. mm",
+        "target_scores": {
+            "A. cm": 1,
+            "B. dm": 0,
+            "C. m": 0,
+            "D. mm": 0
+        }
+    },
+    {
+        "input": "Em um solo homogêneo, a profundidade do lençol freático é de 1,40 m. Desconsiderando o efeito capilar no solo, o peso específico do solo é $15,8 kN/m^3$, e o peso específico saturado do solo abaixo do lençol freático é $19,8 kN/m^3$. A tensão vertical efetiva a 3,60 m da superfície é (  ).\nA. 34,68 kPa\nB. 43,68 kPa\nC. 64,45 kPa\nD. 71,28 kPa",
+        "target_scores": {
+            "A. 34,68 kPa": 0,
+            "B. 43,68 kPa": 1,
+            "C. 64,45 kPa": 0,
+            "D. 71,28 kPa": 0
+        }
+    },
+    {
+        "input": "Em uma argila com coesão de 10 kPa, ângulo de atrito interno de 10 graus e peso específico de $18 kN/m^3$, a altura máxima para uma escavação vertical com parede lateral sem deslizamento é (  ).\nA. 0 m\nB. 1,3 m\nC. 10 m\nD. 5,2 m",
+        "target_scores": {
+            "A. 0 m": 0,
+            "B. 1,3 m": 1,
+            "C. 10 m": 0,
+            "D. 5,2 m": 0
+        }
+    },
+    {
+        "input": "Em um ensaio de placa de carga superficial em solo argiloso, usando uma placa de carga de 0,5 m×0,5 m, obteve-se o seguinte resultado: a seção inicial da curva pressão-recalque é linear, com razão entre pressão na base da placa e recalque de 25 kPa/mm. O coeficiente de forma da placa de carga quadrada é 0,886, e o coeficiente de Poisson do solo argiloso é 0,4. O módulo de deformação do solo é (  ). ($\\mathbf{E_{0}=\\omega(1-\\mu^{2})Pb/s}$)\nA. 8243 kPa\nB. 9121 kPa\nC. 9303 kPa\nD. 9653 kPa",
+        "target_scores": {
+            "A. 8243 kPa": 0,
+            "B. 9121 kPa": 0,
+            "C. 9303 kPa": 1,
+            "D. 9653 kPa": 0
+        }
+    },
+    {
+        "input": "Uma fundação da faixa é a 3 m de profundidade, com 3,5 m de largura. A força vertical transmitida pela estrutura superior à base da fundação é 200 kN/m, com momento excêntrico de 50 kN·m/m. O peso próprio da fundação e do solo acima pode ser considerado com peso específico combinado de $20 kN/m^3$. O valor máximo da pressão na borda da base da fundação é (  ).\nA. 141,6 kPa\nB. 180,5 kPa\nC. 212,1 kPa\nD. 340,3 kPa",
+        "target_scores": {
+            "A. 141,6 kPa": 1,
+            "B. 180,5 kPa": 0,
+            "C. 212,1 kPa": 0,
+            "D. 340,3 kPa": 0
+        }
+    },
+    {
+        "input": "A precisão nominal de um distanciômetro eletromagnético é ±(3+3 ppm) mm. Ao medir uma distância de 500 m com este instrumento, desconsiderando outros fatores de influência, o erro na medição da distância é (  ).\nA. ±18 mm\nB. ±3 mm\nC. ±4,5 mm\nD. ±6 mm",
+        "target_scores": {
+            "A. ±18 mm": 0,
+            "B. ±3 mm": 0,
+            "C. ±4,5 mm": 1,
+            "D. ±6 mm": 0
+        }
+    },
+    {
+        "input": "O coeficiente de compressibilidade de uma camada de solo é $0{,}50\\,\\text{MPa}^{-1}$, o índice de vazios natural é $0{,}8$, a espessura da camada é 1 m. Sabe-se que a tensão adicional média aplicada à camada é $\\overline{\\mathbf{\\sigma}}_\\mathbf{z}=\\mathbf{60kPa}$. O recalque desta camada de solo é (  ).\nA. 16,3 mm\nB. 16,7 mm\nC. 30 mm\nD. 33,6 mm",
+        "target_scores": {
+            "A. 16,3 mm": 0,
+            "B. 16,7 mm": 1,
+            "C. 30 mm": 0,
+            "D. 33,6 mm": 0
+        }
+    },
+    {
+        "input": "Um talude de terra tem altura de 8 m, o solo tem ângulo de atrito interno $\\mathbf{\\phi=10^{\\circ}}$ ($N_s = 9,2$), coesão $c = 25 kPa$, peso específico $\\gamma=18\\mathbf{kN/m}^3$. O fator de segurança de estabilidade deste talude é (  ).\nA. 0,5\nB. 1\nC. 1,6\nD. 2",
+        "target_scores": {
+            "A. 0,5": 0,
+            "B. 1": 0,
+            "C. 1,6": 1,
+            "D. 2": 0
+        }
+    },
+    {
+        "input": "Uma estaca de mistura profunda tem 8 m de comprimento e 0,5 m de diâmetro. O módulo de compressão da estaca é 120 MPa, a taxa de substituição é 25\\%, o valor característico da capacidade de carga do solo entre estacas é 110 kPa, o módulo de compressão é 6 MPa. A área reforçada está sujeita a uma tensão média de 121 kPa. A deformação da área reforçada é (  ).\nA. 13 mm\nB. 25 mm\nC. 26 mm\nD. 28 mm",
+        "target_scores": {
+            "A. 13 mm": 0,
+            "B. 25 mm": 0,
+            "C. 26 mm": 0,
+            "D. 28 mm": 1
+        }
+    },
+    {
+        "input": "Um solo de fundação inclui uma camada superior de solo seco com 1,50 m de espessura e uma camada inferior de solo saturado. O peso específico da camada de solo seco é $15,6 kN/m^3$ e o peso específico da camada de solo saturado é $19,8 kN/m^3$. A tensão vertical total a 3,50 m de profundidade é (  ).\nA. 23,4 kPa\nB. 43 kPa\nC. 54,6 kPa\nD. 63 kPa",
+        "target_scores": {
+            "A. 23,4 kPa": 0,
+            "B. 43 kPa": 0,
+            "C. 54,6 kPa": 0,
+            "D. 63 kPa": 1
+        }
+    },
+    {
+        "input": "Uma placa pré-fabricada de concreto armado tem vão de cálculo $l_0 = 3{,}3 m$, largura $b = 0{,}6 m$, valor característico da carga permanente $g_k = 5{,}0 kN/m$, valor característico da carga variável $q_k = 2{,}0 kN/m$, peso próprio da placa $g = 2{,}0 kN/m$. Na verificação da placa pré-fabricada, usa-se carregamento com duas cargas concentradas em quatro pontos. O valor de projeto da carga de verificação da capacidade de carga é (  ). (Onde $\\gamma_G = 1{,}2$, $\\gamma_Q = 1{,}4$)\nA. 3,712 kN\nB. 4,95 kN\nC. 5,049 kN\nD. 6,732 kN",
+        "target_scores": {
+            "A. 3,712 kN": 0,
+            "B. 4,95 kN": 0,
+            "C. 5,049 kN": 0,
+            "D. 6,732 kN": 1
+        }
+    },
+    {
+        "input": "Uma amostra de solo arenoso tem índice de vazios natural de 0,461, índice de vazios máximo de 0,943 e índice de vazios mínimo de 0,396. A compacidade relativa deste solo arenoso é ( ).\nA. 0,404\nB. 0,615\nC. 0,679\nD. 0,881",
+        "target_scores": {
+            "A. 0,404": 0,
+            "B. 0,615": 0,
+            "C. 0,679": 0,
+            "D. 0,881": 1
+        }
+    },
+    {
+        "input": "Um ponto está sob estado de tensão com $\\sigma_{1}=400 kPa$, $\\sigma_{3}=200 kPa$, $c=20 kPa$, $\\phi=20^\\circ$. Este ponto encontra-se em qual das seguintes situações? ( )\nA. Estado de equilíbrio limite\nB. Estado de ruptura\nC. Estado estável\nD. Impossível determinar",
+        "target_scores": {
+            "A. Estado de equilíbrio limite": 0,
+            "B. Estado de ruptura": 0,
+            "C. Estado estável": 1,
+            "D. Impossível determinar": 0
+        }
+    },
+    {
+        "input": "Uma fundação de solo argiloso mole foi tratada com colunas de brita. Sabe-se que a capacidade de carga do solo é 100 kPa, o diâmetro da coluna de brita d=0,6 m, disposição em malha quadrada, espaçamento s=1 m, razão de tensão entre coluna e solo n=5. A capacidade de carga da fundação composta é ( ).\nA. 120 kPa\nB. 151,1 kPa\nC. 171,1 kPa\nD. 212,8 kPa",
+        "target_scores": {
+            "A. 120 kPa": 0,
+            "B. 151,1 kPa": 0,
+            "C. 171,1 kPa": 0,
+            "D. 212,8 kPa": 1
+        }
+    },
+    {
+        "input": "Uma fundação de faixa com largura de 3 m, excentricidade $e=0,7 m$ e carga vertical $N=1 000 kN/m$ aplicada no centro da base da fundação. A pressão máxima na base é ( ).\nA. 210 kPa\nB. 700 kPa\nC. 733 kPa\nD. 833 kPa",
+        "target_scores": {
+            "A. 210 kPa": 0,
+            "B. 700 kPa": 0,
+            "C. 733 kPa": 0,
+            "D. 833 kPa": 1
+        }
+    },
+    {
+        "input": "Um corpo de prova de concreto apresentou resistência à compressão característica de 26,8 MPa em formato cúbico. A qual tipo de concreto corresponde? ( )\nA. C20/25\nB. C25/30\nC. C35/45\nD. C50/60",
+        "target_scores": {
+            "A. C20/25": 1,
+            "B. C25/30": 0,
+            "C. C35/45": 0,
+            "D. C50/60": 0
+        }
+    },
+    {
+        "input": "Um edifício de cinco pavimentos com estrutura de concreto armado (sem subsolo), com dimensões em planta de $60 m×180 m$. No projeto desta estrutura alongada, qual das seguintes afirmações está incorreta? ( )\nA. Definir juntas térmicas\nB. Estabelecer juntas de concretagem\nC. Usar armadura fina e densa\nD. Usar concreto de alta resistência para a laje.",
+        "target_scores": {
+            "A. Definir juntas térmicas": 0,
+            "B. Estabelecer juntas de concretagem": 0,
+            "C. Usar armadura fina e densa": 0,
+            "D. Usar concreto de alta resistência para a laje.": 1
+        }
+    },
+    {
+        "input": "Entre quatro tipos de pilares com mesma seção transversal, mesma taxa de armadura e mesma classe de concreto, qual apresenta maior capacidade de carga à compressão axial? ( )\nA. Pilar circular misto de perfil de aço e concreto\nB. Pilar misto de tubo circular de aço preenchido com concreto\nC. Pilar misto de tubo quadrado de aço preenchido com concreto\nD. Pilar quadrado misto de perfil de aço e concreto",
+        "target_scores": {
+            "A. Pilar circular misto de perfil de aço e concreto": 0,
+            "B. Pilar misto de tubo circular de aço preenchido com concreto": 1,
+            "C. Pilar misto de tubo quadrado de aço preenchido com concreto": 0,
+            "D. Pilar quadrado misto de perfil de aço e concreto": 0
+        }
+    },
+    {
+        "input": "Para a realização de uma exposição de horticultura em uma determinada região, é necessário concluir rapidamente um pavilhão temporário de grande vão com um único piso. A forma estrutural mais adequada seria ( ).\nA. Concreto protendido\nB. Estrutura mista de perfil de aço e concreto + treliça metálica\nC. Estrutura tensionada de membrana\nD. Pilares de concreto + cobertura em estrutura metálica",
+        "target_scores": {
+            "A. Concreto protendido": 0,
+            "B. Estrutura mista de perfil de aço e concreto + treliça metálica": 0,
+            "C. Estrutura tensionada de membrana": 1,
+            "D. Pilares de concreto + cobertura em estrutura metálica": 0
+        }
+    },
+    {
+        "input": "Em um terreno com camada de solo ② (camada rígida de argila) sobreposta a uma camada ③ de lodo, qual relação entre os valores característicos de capacidade de carga $f_{ak}$ e módulos de compressibilidade $E_s$ das camadas ② e ③ está correta? ( )\nA. $f_{ak2}≤f_{ak3}$，$E_{s2}≤E_{s3}$\nB. $f_{ak2}≤f_{ak3}$，$E_{s2}≥E_{s3}$\nC. $f_{ak2}≥f_{ak3}$，$E_{s2}≤E_{s3}$\nD. $f_{ak2}≥f_{ak3}$，$E_{s2}≥E_{s3}$",
+        "target_scores": {
+            "A. $f_{ak2}≤f_{ak3}$，$E_{s2}≤E_{s3}$": 0,
+            "B. $f_{ak2}≤f_{ak3}$，$E_{s2}≥E_{s3}$": 0,
+            "C. $f_{ak2}≥f_{ak3}$，$E_{s2}≤E_{s3}$": 0,
+            "D. $f_{ak2}≥f_{ak3}$，$E_{s2}≥E_{s3}$": 1
+        }
+    },
+    {
+        "input": "Uma fundação de faixa com largura de base de 2 m e valor característico corrigido de capacidade de carga sísmica $f_a=150 kPa$. A máxima carga vertical que esta fundação pode suportar é ( ).\nA. 300 kN/m\nB. 400 kN/m\nC. 500 kN/m\nD. 600 kN/m",
+        "target_scores": {
+            "A. 300 kN/m": 1,
+            "B. 400 kN/m": 0,
+            "C. 500 kN/m": 0,
+            "D. 600 kN/m": 0
+        }
+    },
+    {
+        "input": "Um edifício comercial de três pavimentos com estrutura em pórtico, malha de pilares de 9 m×9 m, sem subsolo, com solo de baixa compressibilidade até 20 m de profundidade e camada de areia e cascalho abaixo. A fundação mais adequada é ( ).\nA. Fundação corrida\nB. Fundação em estacas\nC. Fundação isolada\nD. Radier",
+        "target_scores": {
+            "A. Fundação corrida": 0,
+            "B. Fundação em estacas": 0,
+            "C. Fundação isolada": 1,
+            "D. Radier": 0
+        }
+    },
+    {
+        "input": "Um edifício comercial de dois pavimentos com estrutura em pórtico sobre solo mole. Quando há grande acúmulo de carga em um lado do edifício, a fundação pode apresentar ( ).\nA. Flutuação global\nB. Flutuação inclinada\nC. Recalque global\nD. Recalque inclinado",
+        "target_scores": {
+            "A. Flutuação global": 0,
+            "B. Flutuação inclinada": 0,
+            "C. Recalque global": 0,
+            "D. Recalque inclinado": 1
+        }
+    },
+    {
+        "input": "Uma viga com seção de 300 mm×700 mm, usando estribos de dois ramos com espaçamento de 100 mm. Desconsiderando requisitos sísmicos, a área de estribos calculada por metro linear é $1 254 mm^2$. O diâmetro mínimo dos estribos deve ser ( ) mm. (Estribos de dois ramos com diâmetro de 6mm correspondem a $566 mm^2$, com 8 mm a $1 006 mm^2$, com 10 mm a $1 571 mm^2$, e com 12 mm a $2 262 mm^2$) ( )\nA. 10\nB. 12\nC. 6\nD. 8",
+        "target_scores": {
+            "A. 10": 1,
+            "B. 12": 0,
+            "C. 6": 0,
+            "D. 8": 0
+        }
+    },
+    {
+        "input": "Um projeto tem duas alternativas de investimento, A e B, com investimentos de R$ 5 milhões e R$ 10 milhões respectivamente. Ambos têm duração de 10 anos, com receita anual de R$ 1,4 milhão para A e R$ 2,5 milhões para B. Considerando taxa de retorno básica de 10%, o valor presente líquido da diferença entre os dois projetos é ( ). [Dado: $(P/A,10\\%,10)=6,1446$]\nA. R$ 1.759.000,00\nB. R$ 3.602.400,00\nC. R$ 5.361.400,00\nD. R$ 8.963.800,00",
+        "target_scores": {
+            "A. R$ 1.759.000,00": 1,
+            "B. R$ 3.602.400,00": 0,
+            "C. R$ 5.361.400,00": 0,
+            "D. R$ 8.963.800,00": 0
+        }
+    },
+    {
+        "input": "Planejava-se  usar o método A para um projeto de construção, mas após ampla pesquisa de mercado e análise técnica, decidiu-se substituir pelo método B, mantendo a mesma qualidade de construção com redução de 15% no custo. Segundo os princípios da engenharia de valor, a abordagem para aumentar o valor neste projeto foi ( ).\nA. Aumento de função, custo inalterado\nB. Função e custo reduzidos, mas com maior redução no custo\nC. Função inalterada, custo reduzido\nD. Função melhorada, custo reduzido",
+        "target_scores": {
+            "A. Aumento de função, custo inalterado": 0,
+            "B. Função e custo reduzidos, mas com maior redução no custo": 0,
+            "C. Função inalterada, custo reduzido": 1,
+            "D. Função melhorada, custo reduzido": 0
+        }
+    },
+    {
+        "input": "Para um edifício alto com três pavimentos comerciais de pé-direito elevado na parte inferior e apartamentos residenciais na parte superior, qual sistema estrutural é mais adequado? ( )\nA. Estrutura de paredes de cisalhamento\nB. Estrutura em pórtico\nC. Estrutura parcialmente aporticada\nD. Estrutura totalmente aporticada",
+        "target_scores": {
+            "A. Estrutura de paredes de cisalhamento": 0,
+            "B. Estrutura em pórtico": 0,
+            "C. Estrutura parcialmente aporticada": 1,
+            "D. Estrutura totalmente aporticada": 0
+        }
+    },
+    {
+        "input": "Para um ginásio de tênis com vão único de 40 m, qual forma estrutural é mais racional para os elementos de cobertura? ( )\nA. Treliça metálica\nB. Viga de aço de alma cheia\nC. Viga de concreto armado\nD. Viga de concreto protendido",
+        "target_scores": {
+            "A. Treliça metálica": 1,
+            "B. Viga de aço de alma cheia": 0,
+            "C. Viga de concreto armado": 0,
+            "D. Viga de concreto protendido": 0
+        }
+    },
+    {
+        "input": "Para um edifício residencial de três pavimentos em alvenaria, sem subsolo, com 10 m de solo pulverulento de baixa compressibilidade seguido de camada de cascalho, qual tipo de fundação deve ser utilizado? ( )\nA. Fundação corrida\nB. Fundação em estacas\nC. Fundação isolada\nD. Radier",
+        "target_scores": {
+            "A. Fundação corrida": 1,
+            "B. Fundação em estacas": 0,
+            "C. Fundação isolada": 0,
+            "D. Radier": 0
+        }
+    },
+    {
+        "input": "Um suporte tubular de aço com articulações nas extremidades, comprimento de 8 m, $f=305 N/mm^2$, força axial de compressão de projeto 1300 kN e coeficiente de estabilidade $\\phi=0{,}5$. A área mínima da seção transversal do tubo deve ser ( ).\n(Verificação de resistência: $\\mathbb{N}/\\mathbb{A}\\leqslant\\mathbb{f}$, verificação de estabilidade: $\\mathbb{N}/(\\phi\\mathbb{f}\\mathbb{A})\\leqslant 1$)\nA. 12600 mm²\nB. 4300 mm²\nC. 6300 mm²\nD. 8600 mm²",
+        "target_scores": {
+            "A. 12600 mm²": 0,
+            "B. 4300 mm²": 0,
+            "C. 6300 mm²": 0,
+            "D. 8600 mm²": 1
+        }
+    },
+    {
+        "input": "Na compactação de uma barragem de terra usando método de vai-e-vem com sobreposição, o número de passadas projetado é 5, a largura útil do rolo é 4 m. A largura de sobreposição deve ser ( ) m.\nA. 0,3\nB. 0,8\nC. 1\nD. 1,25",
+        "target_scores": {
+            "A. 0,3": 0,
+            "B. 0,8": 1,
+            "C. 1": 0,
+            "D. 1,25": 0
+        }
+    },
+    {
+        "input": "Originalmente, usava-se areia com módulo de finura 2,65 para produzir concreto. Devido a problemas no fornecimento, passou-se a usar areia com módulo de finura 1,95. Para manter o mesmo abatimento e resistência do concreto original, a solução mais adequada é ( )\nA. Aumentar a quantidade de água na mistura\nB. Aumentar o teor de areia\nC. Reduzir o consumo de cimento\nD. Reduzir o teor de areia",
+        "target_scores": {
+            "A. Aumentar a quantidade de água na mistura": 0,
+            "B. Aumentar o teor de areia": 0,
+            "C. Reduzir o consumo de cimento": 0,
+            "D. Reduzir o teor de areia": 1
+        }
+    },
+    {
+        "input": "Um edifício tem fundação com dimensões 2 m×2 m, profundidade de 2 m e tensão adicional na base $P=100 kPa$. A tensão adicional no ponto central da linha vertical, a 4m abaixo da superfície do terreno é ( ).\nA. 10 kPa\nB. 25 kPa\nC. 33,6 kPa\nD. 50 kPa",
+        "target_scores": {
+            "A. 10 kPa": 0,
+            "B. 25 kPa": 0,
+            "C. 33,6 kPa": 1,
+            "D. 50 kPa": 0
+        }
+    },
+    {
+        "input": "Uma edificação de quatro pavimentos em alvenaria de tijolos, com fundação do tipo sapata corrida sob as paredes portantes, largura de $1{,}2 m$ e profundidade de fundação de $1 m$. A carga característica transmitida pela superestrutura à fundação é de $120 kN/m$. O solo de fundação é uma argila lodosa, com peso específico de $17{,}8\\,kN/m^3$ e capacidade de carga característica de $50 kPa$. O coeficiente de correção de profundidade para a capacidade de carga da argila lodosa é $\\eta_d=1{,}0$. O solo foi tratado com colchão de areia (substituição do solo), sendo o ângulo de dispersão da pressão de 30°. Após cálculos, uma espessura de $2 m$ do colchão de areia atende aos requisitos de capacidade de carga. A largura mínima do colchão de areia deve ser ( ).\nA. 2,5 m\nB. 3,2 m\nC. 3,5 m\nD. 5 m",
+        "target_scores": {
+            "A. 2,5 m": 0,
+            "B. 3,2 m": 0,
+            "C. 3,5 m": 1,
+            "D. 5 m": 0
+        }
+    },
+    {
+        "input": "Uma amostra de 250 g de areia com teor de umidade de 5%. A quantidade de água contida nesta amostra é ( ).\nA. 11,0 g\nB. 11,9 g\nC. 12,5 g\nD. 12,9 g",
+        "target_scores": {
+            "A. 11,0 g": 0,
+            "B. 11,9 g": 1,
+            "C. 12,5 g": 0,
+            "D. 12,9 g": 0
+        }
+    },
+    {
+        "input": "Um solo composto por duas camadas, sendo a superior uma camada de areia siltosa com uma espessura de 4 m e peso específico natural de $17 kN/m^3$, e a inferior uma camada de silte argiloso com peso específico $20 kN/m^3$. A tensão vertical total a 6 m de profundidade é ( ).\nA. 108 kPa\nB. 120 kPa\nC. 188 kPa\nD. 222 kPa",
+        "target_scores": {
+            "A. 108 kPa": 1,
+            "B. 120 kPa": 0,
+            "C. 188 kPa": 0,
+            "D. 222 kPa": 0
+        }
+    },
+    {
+        "input": "Um solo tem índice de vazios de 47.71%. A porosidade deste solo expressa em porcentagem é ( )%.\nA. 109,6\nB. 32,3\nC. 67,7\nD. 91,24",
+        "target_scores": {
+            "A. 109,6": 0,
+            "B. 32,3": 1,
+            "C. 67,7": 0,
+            "D. 91,24": 0
+        }
+    },
+    {
+        "input": "Um material após saturação por absorção de água pesa 100 g, sendo 10 g mais pesado que quando seco. A taxa de absorção de água deste material é ( ).\nA. 0.1\nB. 0.12\nC. 11,1%\nD. 12,6%",
+        "target_scores": {
+            "A. 0.1": 0,
+            "B. 0.12": 0,
+            "C. 11,1%": 1,
+            "D. 12,6%": 0
+        }
+    },
+    {
+        "input": "Em uma medição de distância, o teodolito está posicionado no ponto S com cota 162,382 m e altura do instrumento de 1,40 m. As leituras dos fios superior, médio e inferior são respectivamente 1,019 m, 1,400 m e 1,781 m, e o ângulo vertical medido é $\\mathfrak{a}=\\text{3॰}12^{\\prime}10^{\\prime\\prime}$. A distância horizontal SP e a cota do ponto P são respectivamente ( ).\nA. 75,962 m, 158,125 m\nB. 75,962 m, 166,633 m\nC. 76,081 m, 158,125 m\nD. 76,081 m, 166,633 m",
+        "target_scores": {
+            "A. 75,962 m, 158,125 m": 0,
+            "B. 75,962 m, 166,633 m": 1,
+            "C. 76,081 m, 158,125 m": 0,
+            "D. 76,081 m, 166,633 m": 0
+        }
+    },
+    {
+        "input": "Um solo colapsível com espessura de 10 m será tratado por compactação dinâmica. Assumindo coeficiente de influência 0,5 e peso do pilão é 100 kN, para atender aos requisitos de projeto, a altura de queda h deve ser ( ).\nA. 10 m\nB. 15 m\nC. 20 m\nD. 40 m",
+        "target_scores": {
+            "A. 10 m": 0,
+            "B. 15 m": 0,
+            "C. 20 m": 0,
+            "D. 40 m": 1
+        }
+    },
+    {
+        "input": "Três vigas simplesmente apoiadas, denominadas a, b e c com carga concentrada no meio do vão, taxas de armadura respectivamente $p_a=0{,}8\\%$, $p_b=1{,}6\\%=p_{max}$, $p_c=2{,}0\\%$ e demais condições idênticas. Garantindo que não ocorra ruptura na seção inclinada, a relação entre os valores de projeto P das cargas concentradas que cada viga pode suportar é ( ).\nA. $2\\mathbb{P}_a<\\mathbb{P}_b<\\mathbb{P}_c$\nB. $\\mathbb{P}_a<\\mathbb{P}_b<\\mathbb{P}_c$\nC. $\\mathbb{P}_b=\\mathbb{P}_c<2\\mathbb{P}_a$\nD. $\\mathrm{P_b=2P_a=P_c}$",
+        "target_scores": {
+            "A. $2\\mathbb{P}_a<\\mathbb{P}_b<\\mathbb{P}_c$": 0,
+            "B. $\\mathbb{P}_a<\\mathbb{P}_b<\\mathbb{P}_c$": 0,
+            "C. $\\mathbb{P}_b=\\mathbb{P}_c<2\\mathbb{P}_a$": 1,
+            "D. $\\mathrm{P_b=2P_a=P_c}$": 0
+        }
+    },
+    {
+        "input": "Um túnel revestido de concreto com diâmetro $d=2 m$ e coeficiente de rugosidade $n=0,014$. No projeto do modelo, adotou-se escala de comprimento 40. A vazão medida no modelo foi 35 L/s. A vazão correspondente no protótipo e o coeficiente de rugosidade do material do modelo são respectivamente ( ).\nA. $354,18 m^3/s$ e 0,0067\nB. $354,18 m^3/s$ e 0,0076\nC. $56 m^3/s$ e 0,0067\nD. $56 m^3/s$ e 0,0076",
+        "target_scores": {
+            "A. $354,18 m^3/s$ e 0,0067": 0,
+            "B. $354,18 m^3/s$ e 0,0076": 1,
+            "C. $56 m^3/s$ e 0,0067": 0,
+            "D. $56 m^3/s$ e 0,0076": 0
+        }
+    },
+    {
+        "input": "Água escoando em um tubo circular com diâmetro de 1 cm, velocidade de 1 m/s e coeficiente de viscosidade cinemática 0,01 cm²/s. O regime de escoamento no tubo é ( ).\nA. Impossível determinar\nB. Regime crítico\nC. Regime laminar\nD. Regime turbulento",
+        "target_scores": {
+            "A. Impossível determinar": 0,
+            "B. Regime crítico": 0,
+            "C. Regime laminar": 0,
+            "D. Regime turbulento": 1
+        }
+    },
+    {
+        "input": "Um trecho de tubulação com diâmetro de 100 mm e comprimento de 10 m possui duas curvas (coeficiente de perda de carga localizada de 0,8 cada) e coeficiente de perda de carga distribuída é de 0,037. Se as curvas forem removidas mantendo o comprimento total da tubulação e a carga hidráulica entre as extremidades, a vazão aumentará em ( ).\nA. 0.1\nB. 0.2\nC. 0.3\nD. 0.4",
+        "target_scores": {
+            "A. 0.1": 0,
+            "B. 0.2": 1,
+            "C. 0.3": 0,
+            "D. 0.4": 0
+        }
+    },
+    {
+        "input": "O volume de água é de $1,0 m^3$ sob pressão de $3500 kN/m^2$. Quando a pressão aumenta para $24000 kN/m^2$, o volume diminui para $0,99 m^3$. Se a pressão aumentar para $7000 kN/m^2$, o volume da água será ( ).\nA. $0,9945 m^3$\nB. $0,9956 m^3$\nC. $0,9974 m^3$\nD. $0,9983 m^3$",
+        "target_scores": {
+            "A. $0,9945 m^3$": 0,
+            "B. $0,9956 m^3$": 0,
+            "C. $0,9974 m^3$": 0,
+            "D. $0,9983 m^3$": 1
+        }
+    },
+    {
+        "input": "Em um mapa na escala 1:2000, a distância medida entre os pontos A e B é 43,4 cm. Para construir uma estrada entre estes pontos com declividade máxima de 3%, a diferença máxima de nível entre A e B deve ser ( ).\nA. 1,2 m\nB. 10,8 m\nC. 2,6 m\nD. 26,0 m",
+        "target_scores": {
+            "A. 1,2 m": 0,
+            "B. 10,8 m": 0,
+            "C. 2,6 m": 0,
+            "D. 26,0 m": 1
+        }
+    },
+    {
+        "input": "Uma bacia hidrográfica tem área de $10000 km^2$. O volume total de cheia correspondente ao hidrograma unitário (10 mm) com duração de 2 horas é (em milhões de $m^3$) ( ).\nA. 100\nB. 200\nC. 360\nD. 72",
+        "target_scores": {
+            "A. 100": 1,
+            "B. 200": 0,
+            "C. 360": 0,
+            "D. 72": 0
+        }
+    },
+    {
+        "input": "Em um canal com vazão $Q=120 m^3/s$, seção transversal retangular com largura $b=60 m$ e velocidade $v=5 m/s$, o tipo de escoamento no canal é ( ).\nA. Impossível determinar\nB. Regime crítico\nC. Regime subcrítico\nD. Regime supercrítico",
+        "target_scores": {
+            "A. Impossível determinar": 0,
+            "B. Regime crítico": 0,
+            "C. Regime subcrítico": 0,
+            "D. Regime supercrítico": 1
+        }
+    },
+    {
+        "input": "O solo A tem módulo de compressibilidade 5 MPa e o solo B tem módulo de compressibilidade 10 MPa. Sobre a compressibilidade comparativa destes solos, a afirmação correta é ( ).\nA. Impossível determinar, é necessário complementar com as cargas superiores aplicadas aos dois solos\nB. Impossível determinar, é necessário complementar com o coeficiente de Poisson dos dois solos\nC. O solo A tem maior compressibilidade que o solo B\nD. O solo A tem menor compressibilidade que o solo B",
+        "target_scores": {
+            "A. Impossível determinar, é necessário complementar com as cargas superiores aplicadas aos dois solos": 0,
+            "B. Impossível determinar, é necessário complementar com o coeficiente de Poisson dos dois solos": 0,
+            "C. O solo A tem maior compressibilidade que o solo B": 1,
+            "D. O solo A tem menor compressibilidade que o solo B": 0
+        }
+    },
+    {
+        "input": "Um recipiente de parede fina com orifício de saída de diâmetro d. Se for adicionado um tubo curto de comprimento 4d ao orifício, a vazão é original ( ).\nA. 1 vez\nB. 1,22 vezes\nC. 1,32 vezes\nD. 2 vezes",
+        "target_scores": {
+            "A. 1 vez": 0,
+            "B. 1,22 vezes": 0,
+            "C. 1,32 vezes": 1,
+            "D. 2 vezes": 0
+        }
+    },
+    {
+        "input": "Dois canais abertos com coeficientes de rugosidade $n_1=0{,}015$ e $n_2=0{,}016$, sendo todos os outros parâmetros idênticos. A relação entre as profundidades críticas dos dois canais é ( ).\nA. $h_1<h_2$\nB. $h_1=h_2$\nC. $h_1>h_2$\nD. Impossível determinar",
+        "target_scores": {
+            "A. $h_1<h_2$": 0,
+            "B. $h_1=h_2$": 1,
+            "C. $h_1>h_2$": 0,
+            "D. Impossível determinar": 0
+        }
+    },
+    {
+        "input": "Um oleoduto circular possui diâmetro de 300 mm e vazão de $0{,}3 m^3/s$. Para realizar ensaios em modelo usando água em laboratório, com escala de comprimento de 3, sabendo que o coeficiente de viscosidade do óleo é $0{,}045 cm^2/s$ e da água é $0{,}01 cm^2/s$, a vazão no modelo deve ser ( ).\nA. $0{,}006m^3/s$\nB. $0{,}0074m^3/s$\nC. $0{,}022m^3/s$\nD. $0{,}06m^3/s$",
+        "target_scores": {
+            "A. $0{,}006m^3/s$": 0,
+            "B. $0{,}0074m^3/s$": 0,
+            "C. $0{,}022m^3/s$": 1,
+            "D. $0{,}06m^3/s$": 0
+        }
+    },
+    {
+        "input": "Usando um ponto de nível com cota 9,125 m para marcar um piso interno ±0 com cota 8,586 m, após posicionar a mira no ponto de nível, o nível ótico faz uma leitura de 1,462 m. Ao posicionar a mira no local do piso interno, a leitura deve ser ( ).\nA. 0,539 m\nB. 0,923 m\nC. 1,743 m\nD. 2,001 m",
+        "target_scores": {
+            "A. 0,539 m": 0,
+            "B. 0,923 m": 0,
+            "C. 1,743 m": 0,
+            "D. 2,001 m": 1
+        }
+    },
+    {
+        "input": "Um líquido com densidade de 830 kg/m³ e viscosidade dinâmica 0,035 N·s/m² escoa em um tubo com diâmetro interno 5 cm e vazão 3 L/s. O regime de escoamento é ( ).\nA. Regime laminar\nB. Regime subcrítico\nC. Regime supercrítico\nD. Regime turbulento",
+        "target_scores": {
+            "A. Regime laminar": 1,
+            "B. Regime subcrítico": 0,
+            "C. Regime supercrítico": 0,
+            "D. Regime turbulento": 0
+        }
+    },
+    {
+        "input": "Em uma tubulação, um líquido escoa com velocidade $v=0{,}4 m/s$ e coeficiente de viscosidade cinemática $\\nu=0{,}01139 cm^2/s$. Para garantir o regime laminar, o diâmetro d da tubulação deve ser ( ).\nA. 10 mm\nB. 12 mm\nC. 5 mm\nD. 8 mm",
+        "target_scores": {
+            "A. 10 mm": 0,
+            "B. 12 mm": 0,
+            "C. 5 mm": 1,
+            "D. 8 mm": 0
+        }
+    },
+    {
+        "input": "Em um solo de fundação, o silte argiloso tem peso específico de $16 kN/m^3$, o nível freático está a 2 m abaixo da superfície, e o peso específico saturado do silte argiloso é $18 kN/m^3$. A tensão efetiva devido ao peso próprio do solo a 4 m de profundidade é ( ).\nA. 45 kPa\nB. 48 kPa\nC. 65 kPa\nD. 68 kPa",
+        "target_scores": {
+            "A. 45 kPa": 0,
+            "B. 48 kPa": 1,
+            "C. 65 kPa": 0,
+            "D. 68 kPa": 0
+        }
+    },
+    {
+        "input": "Uma amostra de solo apresentou índice de plasticidade de 20 em ensaio. Segundo a classificação por índice de plasticidade, este solo deve ser denominado por ( ).\nA. Argila\nB. Solo arenoso\nC. Solo argilo-siltoso\nD. Solo siltoso",
+        "target_scores": {
+            "A. Argila": 1,
+            "B. Solo arenoso": 0,
+            "C. Solo argilo-siltoso": 0,
+            "D. Solo siltoso": 0
+        }
+    },
+    {
+        "input": "Em um terreno com solo arenoso, peso específico $\\gamma=18 kN/m^3$, peso específico saturado $\\gamma_{sat}=19 kN/m^3$, coeficiente de empuxo em repouso $K_0=0{,}3$, nível freático a 2 m de profundidade e peso específico da água $\\gamma_w=10 kN/m^3$, a tensão horizontal efetiva a 3 m de profundidade é ( ).\nA. 10,8 kPa\nB. 13,5 kPa\nC. 17,4 kPa\nD. 45,0 kPa",
+        "target_scores": {
+            "A. 10,8 kPa": 0,
+            "B. 13,5 kPa": 1,
+            "C. 17,4 kPa": 0,
+            "D. 45,0 kPa": 0
+        }
+    },
+    {
+        "input": "Um muro de arrimo com 5 m de altura, paramento vertical e liso, com aterro horizontal, peso específico do solo $\\gamma=17 kN/m^3$, resistência ao cisalhamento $c=0$ e ângulo de atrito interno $\\phi=32$ graus. O empuxo ativo total $E_a$ é ( ).\nA. 55 kN/m\nB. 65,2 kN/m\nC. 68,2 kN/m\nD. 76,7 kN/m",
+        "target_scores": {
+            "A. 55 kN/m": 0,
+            "B. 65,2 kN/m": 1,
+            "C. 68,2 kN/m": 0,
+            "D. 76,7 kN/m": 0
+        }
+    },
+    {
+        "input": "Uma fundação de faixa com carga superior de 250 kN/m, profundidade de 1,5 m, peso específico do solo acima da base de $16 kN/m^3$ e capacidade de carga característica corrigida de 130 kPa. A largura da base que satisfaz os requisitos de capacidade de carga e é economicamente razoável, é ( ).\nA. 1,5\nB. 2\nC. 2,5\nD. 3",
+        "target_scores": {
+            "A. 1,5": 0,
+            "B. 2": 0,
+            "C. 2,5": 1,
+            "D. 3": 0
+        }
+    },
+    {
+        "input": "Um muro de arrimo com 4,5 m de altura, paramento vertical e liso, com o solo atrás do muro a ser de areia e preenchido até o topo do muro, $c=0$, $\\phi=30°$, $\\gamma=18\\mathbf{kN/m^3}$, $\\gamma^{\\prime}=\\mathbf{9kN/m^3}$ e nível freático no topo do muro. A intensidade da pressão ativa do solo a 4 m de profundidade a partir do topo é ( ).\nA. 10,8 kPa\nB. 12,0 kPa\nC. 16,1 kPa\nD. 18,0 kPa",
+        "target_scores": {
+            "A. 10,8 kPa": 0,
+            "B. 12,0 kPa": 1,
+            "C. 16,1 kPa": 0,
+            "D. 18,0 kPa": 0
+        }
+    },
+    {
+        "input": "Um solo de fundação tem parâmetros de resistência ao cisalhamento em termos de tensões efetivas $c=20 kPa$ e $\\phi=32°$. Se a poropressão em um ponto da fundação é $u=50 kPa$, a tensão principal menor $\\sigma_3=150 kPa$, qual deve ser o valor da tensão principal maior $\\sigma_1$ para que o ponto esteja na iminência de ruptura por cisalhamento? ( )\nA. 325,5 kPa\nB. 375,5 kPa\nC. 397,6 kPa\nD. 447,6 kPa",
+        "target_scores": {
+            "A. 325,5 kPa": 0,
+            "B. 375,5 kPa": 0,
+            "C. 397,6 kPa": 0,
+            "D. 447,6 kPa": 1
+        }
+    },
+    {
+        "input": "Uma amostra de solo tem parâmetros efetivos de resistência ao cisalhamento $\\mathbf{c^{\\prime}=20kPa}$ e $\\phi^{\\prime}=30^{\\circ}$. Quando submetida a tensões totais $\\sigma_1=500 kPa$ e $\\sigma_3=120 kPa$, com poropressão de 50 kPa, a amostra encontra-se ( ).\nA. Estado de equilíbrio estático\nB. Estado de equilíbrio limite\nC. Estado de ruptura\nD. Estado seguro",
+        "target_scores": {
+            "A. Estado de equilíbrio estático": 0,
+            "B. Estado de equilíbrio limite": 0,
+            "C. Estado de ruptura": 1,
+            "D. Estado seguro": 0
+        }
+    },
+    {
+        "input": "Uma amostra de areia seca com diâmetro de 38 mm é submetida a ensaio triaxial convencional com pressão confinante constante de 48,7 kPa. A força axial final aplicada é 75,2 N. O ângulo de atrito interno desta amostra é ( ).\nA. 20,1 graus\nB. 22,0 graus\nC. 23,9 graus\nD. 30,5 graus",
+        "target_scores": {
+            "A. 20,1 graus": 0,
+            "B. 22,0 graus": 0,
+            "C. 23,9 graus": 1,
+            "D. 30,5 graus": 0
+        }
+    },
+    {
+        "input": "Uma amostra de areia seca com espessura de 21,7 mm é submetida a ensaio de compressão em edômetro. Quando a tensão vertical aumenta de 10,0 kPa para 40,0 kPa, a espessura da amostra diminui 0,043 mm. O coeficiente de compressibilidade volumétrica $m_v$ (em $MPa^{-1}$) é ( ).\nA. $3{,}29×10^-2$\nB. $3{,}40×10^-2$\nC. $6{,}60×10^-2$\nD. $8{,}40×10^-2$",
+        "target_scores": {
+            "A. $3{,}29×10^-2$": 0,
+            "B. $3{,}40×10^-2$": 0,
+            "C. $6{,}60×10^-2$": 1,
+            "D. $8{,}40×10^-2$": 0
+        }
+    },
+    {
+        "input": "Um solo saturado tem densidade relativa dos grãos $d_s=2{,}70$, teor de umidade $w=30\\%$ e peso específico da água $\\gamma_w=10 kN/m^3$. O peso específico saturado deste solo é ( ).\nA. $19{,}4kN/m^3$\nB. $20{,}2kN/m^3$\nC. $20{,}8kN/m^3$\nD. $21{{,}}2kN/m^3$",
+        "target_scores": {
+            "A. $19{,}4kN/m^3$": 1,
+            "B. $20{,}2kN/m^3$": 0,
+            "C. $20{,}8kN/m^3$": 0,
+            "D. $21{{,}}2kN/m^3$": 0
+        }
+    },
+    {
+        "input": "Uma amostra de solo tem coeficiente de compressibilidade $a_{1-2}=0{,}5 MPa^{-1}$. Após 24 horas sob pressão de 100 kPa, o índice de vazios é 0,96. Após 24 horas sob pressão de 200 kPa, o índice de vazios será ( ).\nA. 0,43\nB. 0,88\nC. 0,91\nD. 1,02",
+        "target_scores": {
+            "A. 0,43": 0,
+            "B. 0,88": 0,
+            "C. 0,91": 1,
+            "D. 1,02": 0
+        }
+    },
+    {
+        "input": "As cargas atuantes em uma viga de concreto armado sobre abertura incluem o peso próprio da alvenaria e as cargas das lajes no intervalo de cálculo da viga. Para alvenaria de tijolos, pode-se desconsiderar o peso próprio da parede acima de $l_n/3$ ($l_n$ é o vão livre da viga) e as cargas das lajes acima da altura $l_n$. Isso se deve à consideração de ( ).\nA. Alívio de carga devido ao efeito de arco\nB. Dispersão de tensões\nC. Interação entre viga e parede\nD. Redistribuição de tensões",
+        "target_scores": {
+            "A. Alívio de carga devido ao efeito de arco": 1,
+            "B. Dispersão de tensões": 0,
+            "C. Interação entre viga e parede": 0,
+            "D. Redistribuição de tensões": 0
+        }
+    }
+]

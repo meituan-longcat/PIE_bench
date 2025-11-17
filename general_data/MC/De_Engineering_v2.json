@@ -1,0 +1,956 @@
+[
+    {
+        "input": "Ein Werkstück benötigt bei 900 °C für den Aufkohlungsprozess 2 Stunden. Wenn unter unveränderten Aufkohlungsbedingungen die Aufkohlungstiefe verdoppelt werden soll, beträgt die erforderliche Aufkohlungszeit ______.\nA. 2 Stunden\nB. 2,8 Stunden\nC. 4 Stunden\nD. 8 Stunden ",
+        "target_scores": {
+            "A. 2 Stunden": 0,
+            "B. 2,8 Stunden": 0,
+            "C. 4 Stunden": 0,
+            "D. 8 Stunden ": 1
+        }
+    },
+    {
+        "input": "In einer Winternacht befinden sich zwei Räume mit gleicher Innenlufttemperatur und Luftfeuchtigkeit. Einer der Räume hat eine Außenwand mit Fenster, der andere nicht. Die Personen in beiden Räumen tragen die gleiche Kleidung. Werden die Personen in beiden Räumen dasselbe Temperaturempfinden haben? (  )\nA. Da Temperatur und Luftfeuchtigkeit gleich sind, gibt es keinen Unterschied im Temperaturempfinden.\nB. Der erste Raum fühlt sich kühler an, da die Wärmeleitung zwischen Mensch und Fußboden stärker ist.\nC. Der erste Raum fühlt sich kühler an, da die Wärmestrahlung zwischen Mensch und Außenwand mit Fenster stärker ist.\nD. Der zweite Raum fühlt sich kühler an, da die Konvektionswärmeübertragung zwischen Mensch und Raumluft stärker ist.",
+        "target_scores": {
+            "A. Da Temperatur und Luftfeuchtigkeit gleich sind, gibt es keinen Unterschied im Temperaturempfinden.": 0,
+            "B. Der erste Raum fühlt sich kühler an, da die Wärmeleitung zwischen Mensch und Fußboden stärker ist.": 0,
+            "C. Der erste Raum fühlt sich kühler an, da die Wärmestrahlung zwischen Mensch und Außenwand mit Fenster stärker ist.": 1,
+            "D. Der zweite Raum fühlt sich kühler an, da die Konvektionswärmeübertragung zwischen Mensch und Raumluft stärker ist.": 0
+        }
+    },
+    {
+        "input": "Gesättigter Wasserdampf kondensiert an der Außenseite eines waagerechten Rundrohres, wobei L > d gilt und die Wandtemperatur des Rohres konstant ist. Welche der folgenden Maßnahmen kann die pro Zeiteinheit kondensierte Wassermenge erhöhen? ( )\nA. Außen am Rundrohr Kühlrippen anbringen\nB. Das Rundrohr schräg anordnen\nC. Das Rundrohr senkrecht anordnen\nD. Das Rundrohr waagerecht anordnen",
+        "target_scores": {
+            "A. Außen am Rundrohr Kühlrippen anbringen": 1,
+            "B. Das Rundrohr schräg anordnen": 0,
+            "C. Das Rundrohr senkrecht anordnen": 0,
+            "D. Das Rundrohr waagerecht anordnen": 0
+        }
+    },
+    {
+        "input": "Während der Inbetriebnahme eines Regelkreissystems wird die Leerlaufverstärkung schrittweise erhöht. Es wird festgestellt, dass bei Erreichen der gewünschten Schnelligkeit und Stabilität die Regelgenauigkeit des Systems unzureichend ist. Welche der folgenden Maßnahmen sollte ergriffen werden?\nA. Verwendung eines Lag-Kompensators\nB. Verwendung eines Lead-Kompensators\nC. Verwendung eines Lead-Lag-Kompensators\nD. Weitere Erhöhung der Leerlaufverstärkung",
+        "target_scores": {
+            "A. Verwendung eines Lag-Kompensators": 1,
+            "B. Verwendung eines Lead-Kompensators": 0,
+            "C. Verwendung eines Lead-Lag-Kompensators": 0,
+            "D. Weitere Erhöhung der Leerlaufverstärkung": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Situationen erfordert kein Tosbecken? (ht ist die Unterwassertiefe; hc ist die Wassertiefe nach dem kritischen Wechselsprung).( )\nA. $hc<1{,}05ht$\nB. $hc<ht/1{,}05$\nC. $hc=ht$\nD. $hc>ht/1{,}05$",
+        "target_scores": {
+            "A. $hc<1{,}05ht$": 0,
+            "B. $hc<ht/1{,}05$": 1,
+            "C. $hc=ht$": 0,
+            "D. $hc>ht/1{,}05$": 0
+        }
+    },
+    {
+        "input": "Zwei Rohrleitungen haben die gleiche Rohrlänge L, den gleichen Durchmesser d, den gleichen Durchfluss Q und die gleiche Wassertemperatur t. Wenn jedoch die Rauigkeit der Rohre unterschiedlich ist, wobei $n1>n2$, wie verhält sich die Druckhöhendifferenz h1 zu h2 in den Messrohren? ( )\nA. $h1<h2$\nB. $h1=h2$\nC. $h1>h2$\nD. Nicht bestimmbar",
+        "target_scores": {
+            "A. $h1<h2$": 0,
+            "B. $h1=h2$": 0,
+            "C. $h1>h2$": 1,
+            "D. Nicht bestimmbar": 0
+        }
+    },
+    {
+        "input": "Es gibt vier rechteckige, prismatische Kanäle mit gleichem Abflussquerschnitt, Rauigkeit und Sohlgefälle. Für die Sohlbreite b und die Normaltiefe h0 bestehen folgende Kombinationen. Welcher dieser Kanäle führt den größten Durchfluss? ( )\nA. $b1=4m$，$h01=1 m$\nB. $b2=2m$，$h02=2m$\nC. $b3=2{,}83m$, $h03=1{,}414m$\nD. $b4=2{,}67m$, $h04=1{,}5m$",
+        "target_scores": {
+            "A. $b1=4m$，$h01=1 m$": 0,
+            "B. $b2=2m$，$h02=2m$": 0,
+            "C. $b3=2{,}83m$, $h03=1{,}414m$": 1,
+            "D. $b4=2{,}67m$, $h04=1{,}5m$": 0
+        }
+    },
+    {
+        "input": "Es gibt zwei trapezförmige Kanäle mit gleichem Durchfluss, gleichem Böschungsfaktor, gleichem Rauheits­beiwert und gleicher Bodenbreite. Wenn jedoch das Sohlgefälle $i1>i2$ ist, wie verhält sich dann die Normaltiefe h01 und h02? ( )\nA. $h01<h02$\nB. $h01=h02$\nC. $h01>h02$\nD. Nicht bestimmbar",
+        "target_scores": {
+            "A. $h01<h02$": 1,
+            "B. $h01=h02$": 0,
+            "C. $h01>h02$": 0,
+            "D. Nicht bestimmbar": 0
+        }
+    },
+    {
+        "input": "Es gibt zwei trapezförmige Kanäle mit gleichem Durchfluss, gleichem Böschungsfaktor, gleicher Bodenbreite und gleichem Sohlgefälle. Wenn jedoch das Rauigkeitsmaß $n1>n2$ ist, wie verhalten sich dann die Normaltiefe h01 und h02? ( )\nA. $h01<h02$\nB. $h01=h02$\nC. $h01>h02$\nD. Nicht bestimmbar",
+        "target_scores": {
+            "A. $h01<h02$": 0,
+            "B. $h01=h02$": 0,
+            "C. $h01>h02$": 1,
+            "D. Nicht bestimmbar": 0
+        }
+    },
+    {
+        "input": "Wenn die Überfallhöhe über der Krone des Ogee-Profil-Wehrs den Bemessungswert überschreitet, wie verhält sich der Abflussbeiwert m im Vergleich zum Bemessungs-Abflussbeiwert md? ( )\nA. $m<md$\nB. $m=md$\nC. $m>md$\nD. Nicht bestimmbar",
+        "target_scores": {
+            "A. $m<md$": 0,
+            "B. $m=md$": 0,
+            "C. $m>md$": 1,
+            "D. Nicht bestimmbar": 0
+        }
+    },
+    {
+        "input": "Zwei WES-Wehre, beide gelten als Hochwehre. Ihre Bemessungs-Überfallhöhen erfüllen $Hd1>Hd2$, aber die tatsächlichen Überfallhöhen sind $H1=Hd1$ und $H2=Hd2$. Wie ist das Verhältnis ihrer Abflussbeiwerte? ( )\nA. $m1<m2$\nB. $m1=m2$\nC. $m1>m2$\nD. Nicht bestimmbar",
+        "target_scores": {
+            "A. $m1<m2$": 0,
+            "B. $m1=m2$": 1,
+            "C. $m1>m2$": 0,
+            "D. Nicht bestimmbar": 0
+        }
+    },
+    {
+        "input": "Ein geschlossenes Abtastsystem hat das charakteristische Polynom $\\Phi(z)=(z+1)(z+0{,}5)(z+2)$. Wie ist das System zu beurteilen? ( )\nA. Grenzstabil\nB. Instabil\nC. Nicht bestimmbar\nD. Stabil",
+        "target_scores": {
+            "A. Grenzstabil": 0,
+            "B. Instabil": 1,
+            "C. Nicht bestimmbar": 0,
+            "D. Stabil": 0
+        }
+    },
+    {
+        "input": "Ein diskretes Regelungssystem hat die offene Übertragungsfunktion $G(z)=\\frac{1{,}264z}{(z-1)(z-0{,}368)}$. Um welchen Typ von System handelt es sich? ( )\nA. Typ-0-System\nB. Typ-I-System\nC. Typ-II-System\nD. Typ-III-System",
+        "target_scores": {
+            "A. Typ-0-System": 0,
+            "B. Typ-I-System": 1,
+            "C. Typ-II-System": 0,
+            "D. Typ-III-System": 0
+        }
+    },
+    {
+        "input": "Bei einem Feldversuch wurde die elastische Longitudinalwellengeschwindigkeit des Gesteinskörpers an einem bestimmten Bauwerk mit 5.400 m/s gemessen. Im Labor wurde für denselben Gesteinstyp an einer intakten Gesteinsprobe eine elastische Longitudinalwellengeschwindigkeit von 6.000 m/s ermittelt. Die einaxiale Druckfestigkeit des Gesteins beträgt 110 MPa. Wie groß ist der Integritätskoeffizient K des Gesteinskörpers an diesem Standort, und wie ist dessen Integritätsgrad zu beurteilen?  ( )\nA. $K<0{,}81$, Gesteinskörper intakt\nB. $K<0{,}81$, Gesteinskörper nicht intakt\nC. $K=0{,}81$, Gesteinskörper intakt\nD. $K=0{,}81$, Gesteinskörper nicht intakt",
+        "target_scores": {
+            "A. $K<0{,}81$, Gesteinskörper intakt": 0,
+            "B. $K<0{,}81$, Gesteinskörper nicht intakt": 0,
+            "C. $K=0{,}81$, Gesteinskörper intakt": 1,
+            "D. $K=0{,}81$, Gesteinskörper nicht intakt": 0
+        }
+    },
+    {
+        "input": "Ein Bohrloch hat eine Tiefe von 2,0 m. Die Längen der entnommenen Kernstücke (von oben nach unten) betragen: 3,5 cm, 6,0 cm, 7,5 cm, 10,0 cm, 15,2 cm, 17,8 cm, 10,0 cm, 9,9 cm, 5,0 cm, 12,5 cm, 4,5 cm, 3,2 cm, 10,2 cm, 7,5 cm, 15,7 cm, 12,8 cm, 21,0 cm, 17,7 cm, 10,0 cm. Berechnen Sie den RQD-Wert (Rock Quality Designation) für dieses Bohrloch. ( )\nA. 0,6743\nB. 0,7645\nC. 0,8345\nD. 0,8534",
+        "target_scores": {
+            "A. 0,6743": 0,
+            "B. 0,7645": 1,
+            "C. 0,8345": 0,
+            "D. 0,8534": 0
+        }
+    },
+    {
+        "input": "Beim Bohren in Fels mit einem Diamantbohrer von 75 mm Durchmesser und einem doppelwandigen Kernrohr wird eine kontinuierliche Kernentnahme durchgeführt. Bei einem Bohrfortschritt von 1 m wurden fünf der größten Kernstücke mit Längen von 330 mm, 240 mm, 160 mm, 110 mm und 80 mm entnommen. Wie hoch ist der RQD-Wert (Rock Quality Designation) dieses Felses? ( )\nA. 0,75\nB. 0,84\nC. 0,85\nD. 0,88",
+        "target_scores": {
+            "A. 0,75": 0,
+            "B. 0,84": 1,
+            "C. 0,85": 0,
+            "D. 0,88": 0
+        }
+    },
+    {
+        "input": "In einem sandigen Baugrund liegt der Grundwasserspiegel in einer Tiefe von 1,5 m. Das natürliche Eigengewicht des Sandbodens oberhalb des Grundwassers beträgt $17kN/m^3$, während das Eigengewicht des gesättigten Sandbodens unterhalb des Grundwassers $19kN/m^3$ beträgt. Wie groß ist die gesamte vertikale Erdspannung in einer Tiefe von 4,5 m? ( )\nA. 111 kPa\nB. 162 kPa\nC. 82,5 kPa\nD. 85,5 kPa",
+        "target_scores": {
+            "A. 111 kPa": 0,
+            "B. 162 kPa": 0,
+            "C. 82,5 kPa": 1,
+            "D. 85,5 kPa": 0
+        }
+    },
+    {
+        "input": "Die Porosität eines Bodens beträgt 52,29 %. Wie groß ist die Porenziffer dieses Bodens? ( )\nA. 0,3134\nB. 0,4771\nC. 0,9124\nD. 1,096",
+        "target_scores": {
+            "A. 0,3134": 0,
+            "B. 0,4771": 0,
+            "C. 0,9124": 0,
+            "D. 1,096": 1
+        }
+    },
+    {
+        "input": "Bei einem gesättigten weichen Tonuntergrund wird eine zuvor dauerhaft aufliegende schwere Last plötzlich entfernt. Wenn sich ein Piezometer in einer bestimmten Tiefe direkt unter der früheren Last befindet, wie verändert sich der Piezometerstand im Verlauf der Zeit nach dem Entfernen der Last? ( )\nA. Abfall\nB. Anstieg\nC. Keine Veränderung\nD. Nicht bestimmbar",
+        "target_scores": {
+            "A. Abfall": 0,
+            "B. Anstieg": 0,
+            "C. Keine Veränderung": 1,
+            "D. Nicht bestimmbar": 0
+        }
+    },
+    {
+        "input": "Ein Streifenfundament unter einer Wand liegt in einer Tiefe von 3 m und wird durch eine zentrische Last beansprucht. Die vom Überbau auf die Fundamentoberkante übertragene vertikale Last beträgt 600 kN/m. Das Volumengewicht des Fundaments sowie das Gewicht des Bodens darüber kann mit einem einheitlichen Volumengewicht von $20kN/m^3$ berücksichtigt werden. Wenn der korrigierte charakteristische Wert der Tragfähigkeit des Baugrunds 260 kPa beträgt, wie groß muss die Mindestbreite des Streifenfundaments sein, um die Tragfähigkeitsanforderung zu erfüllen? ( )\nA. 3m\nB. 4m\nC. 5m\nD. 6m",
+        "target_scores": {
+            "A. 3m": 1,
+            "B. 4m": 0,
+            "C. 5m": 0,
+            "D. 6m": 0
+        }
+    },
+    {
+        "input": "Die Stirnfläche eines neu konstruierten Fahrzeugs beträgt $1{,}5m^2$ und die maximale Fahrgeschwindigkeit liegt bei 108 km/h. Es soll ein Modellversuch im Windkanal durchgeführt werden. Die maximale Windgeschwindigkeit im Prüfabschnitt des Windkanals beträgt 45 m/s. Wie groß ist die Stirnfläche des Modells? ( )\nA. $0{,}28m^2$\nB. $1m^2$\nC. $2{,}25m^2$\nD. $3{,}6m^2$",
+        "target_scores": {
+            "A. $0{,}28m^2$": 0,
+            "B. $1m^2$": 1,
+            "C. $2{,}25m^2$": 0,
+            "D. $3{,}6m^2$": 0
+        }
+    },
+    {
+        "input": "Ein Investitionsprojekt erfordert zu Beginn des ersten Jahres eine Anfangsinvestition von 10 Millionen €. Ab dem Ende des ersten Jahres werden jährlich die  Nettoeinnahmen von 2 Millionen € erzielt. Die Betriebsdauer des Projekts beträgt 10 Jahre. Der Restwert am Ende der Laufzeit ist null. Der kalkulatorische Zinssatz beträgt 12 %. Wie hoch ist der ungefähre Nettojahreswert dieses Projekts? ( ) [wobei $(P/A,12\\%,10) =5{,}6502$]\nA. € 0,1234 Mio.\nB. € 0,2302 Mio.\nC. € 0,3604 Mio.\nD. € 0,6460 Mio.",
+        "target_scores": {
+            "A. € 0,1234 Mio.": 0,
+            "B. € 0,2302 Mio.": 1,
+            "C. € 0,3604 Mio.": 0,
+            "D. € 0,6460 Mio.": 0
+        }
+    },
+    {
+        "input": "Ein Bauprojekt umfasst fünf Bauvorgänge, die in drei Abschnitte unterteilt sind und mit identischer Taktzeit im Fließprinzip organisiert werden. Die Gesamtdauer des Projekts beträgt 55 Tage. Die Summe aus technologischen und organisatorischen Unterbrechungen beträgt 6 Tage. Wie groß ist der Taktabstand (Fließabstand) zwischen den einzelnen Bauvorgängen? ( )\nA. 3 Tage\nB. 5 Tage\nC. 7 Tage\nD. 8 Tage",
+        "target_scores": {
+            "A. 3 Tage": 0,
+            "B. 5 Tage": 0,
+            "C. 7 Tage": 1,
+            "D. 8 Tage": 0
+        }
+    },
+    {
+        "input": "Auf einer topografischen Karte im Maßstab 1:20000 wird die Einzugsgebietsfläche eines Stausees mit $P=1{,}6cm×10cm$ gemessen. Während eines bestimmten Niederschlagsereignisses beträgt die durchschnittliche stündliche Niederschlagsmenge $m=50mm$, und die Niederschlagsdauer n = 2,5 Stunden. Der Verdunstungsfaktor beträgt $k=0{,}4$. Nach der Formel $Q=P·m·n·k$ beträgt das Abflussvolumen dieses Niederschlagsereignisses: ( )\nA. $1{,}0×10^7m^3$\nB. $1{,}0×10^{11}m^3$\nC. $2{,}0×10^4m^3$\nD. $3{,}2×10^4m^3$",
+        "target_scores": {
+            "A. $1{,}0×10^7m^3$": 0,
+            "B. $1{,}0×10^{11}m^3$": 0,
+            "C. $2{,}0×10^4m^3$": 0,
+            "D. $3{,}2×10^4m^3$": 1
+        }
+    },
+    {
+        "input": "Ein Graben mit einer Breite von 10 m soll mittels Leichtbrunnenentspannung (Wellpoint-Verfahren) entwässert werden. Welche Anordnung ist für die Brunnen in der Draufsicht am besten geeignet? ( )\nA. Einreihig\nB. Ringförmig\nC. U-förmig\nD. Zweireihig",
+        "target_scores": {
+            "A. Einreihig": 0,
+            "B. Ringförmig": 0,
+            "C. U-förmig": 0,
+            "D. Zweireihig": 1
+        }
+    },
+    {
+        "input": "Ein Teilprojekt umfasst ein Bauvolumen von $1000m^3$  und soll innerhalb von 5 Tagen bei gleichmäßigem Arbeitsfortschritt abgeschlossen werden. Der kalkulierte Einheitspreis beträgt $200€/m^3$. Am Morgen des dritten Tages wird festgestellt, dass bereits $600m^3$ fertiggestellt wurden, bei tatsächlichen Kosten von 130.000 €. Welche der folgenden Aussagen ist korrekt? ( )\nA. Kostenabweichung = 10.000 €, daher Kosteneinsparung\nB. Tatsächlicher Baufortschritt liegt um einen Tag voraus\nC. Terminabweichung = 100 m³, daher Termin voraus\nD. Terminabweichung = 20.000 €, daher Termin voraus",
+        "target_scores": {
+            "A. Kostenabweichung = 10.000 €, daher Kosteneinsparung": 0,
+            "B. Tatsächlicher Baufortschritt liegt um einen Tag voraus": 1,
+            "C. Terminabweichung = 100 m³, daher Termin voraus": 0,
+            "D. Terminabweichung = 20.000 €, daher Termin voraus": 0
+        }
+    },
+    {
+        "input": "Ein Konsolidierungsversuch an einer Tonprobe mit einer Dicke von 25,0 mm ergab, dass der Porenwasserdruck innerhalb von 2 Minuten und 45 Sekunden vollständig abgebaut war. In der Gründung befindet sich eine 4,6 m dicke Schicht desselben Tons, wobei sowohl die obere als auch die untere Oberfläche wasserdurchlässig sind. Wie lange dauert die Konsolidierung dieser Tonschicht unter denselben Bedingungen? ( )\nA. 120 Tage\nB. 15,5 Tage\nC. 258,5 Tage\nD. 64,7 Tage",
+        "target_scores": {
+            "A. 120 Tage": 0,
+            "B. 15,5 Tage": 0,
+            "C. 258,5 Tage": 0,
+            "D. 64,7 Tage": 1
+        }
+    },
+    {
+        "input": "Auf einem gesättigten weichen Sandboden wird schnell eine Sandaufschüttung vorgenommen. Wenn sich ein Piezometer in einer bestimmten Tiefe direkt unterhalb der Sandaufschüttung befindet, wie verändert sich der Wasserstand im Piezometer im Verlauf der Aufschüttung? ( )\nA. Abfall\nB. Anstieg\nC. Keine Veränderung\nD. Nicht bestimmbar",
+        "target_scores": {
+            "A. Abfall": 0,
+            "B. Anstieg": 0,
+            "C. Keine Veränderung": 1,
+            "D. Nicht bestimmbar": 0
+        }
+    },
+    {
+        "input": "Angenommen, in einem Land wird bei der Berechnung des Kompressionskoeffizienten einer Bodenprobe auf Grundlage von Konsolidierungsversuchen nicht der dekadische, sondern der natürliche Logarithmus verwendet. Wenn der Kompressionsindex einer Bodenprobe 0,00485 beträgt und die vertikale Spannung auf das 100-Fache gegenüber dem Anfangszustand zunimmt, wie verändert sich dann die Porenzahl der Bodenprobe? ( )\nA. Erhöhung um 0,0112\nB. Erhöhung um 0,0224\nC. Verringerung um 0,0112\nD. Verringerung um 0,0224",
+        "target_scores": {
+            "A. Erhöhung um 0,0112": 0,
+            "B. Erhöhung um 0,0224": 0,
+            "C. Verringerung um 0,0112": 0,
+            "D. Verringerung um 0,0224": 1
+        }
+    },
+    {
+        "input": "Bei einem Standard-Penetrationstest (SPT) beträgt die tatsächliche Eindringtiefe nach 50 Schlägen 25 cm. Wie hoch ist in diesem Fall die äquivalente Schlagzahl N für eine Eindringtiefe von 30 cm gemäß dem Standard-Penetrationstest? ( )\nA. 40\nB. 50\nC. 60\nD. 80",
+        "target_scores": {
+            "A. 40": 0,
+            "B. 50": 0,
+            "C. 60": 1,
+            "D. 80": 0
+        }
+    },
+    {
+        "input": "Ein Handdehnungsmessgerät mit einer Messlänge von L = 200 mm wird mit einer Feinmessuhr abgelesen, und die Anzeige beträgt 3 Teilstriche. Der gemessene Dehnungswert lautet ($μ_E$ bezeichnet die Mikrodehnung) ( )\nA. $12μ_E$\nB. $1{,}5μ_E$\nC. $6μ_E$\nD. Ein Handdehnungsmessgerät mit einer Messlänge von L = 200 mm wird mit einer Feinmessuhr abgelesen, und die Anzeige beträgt 3 Teilstriche. Der gemessene Dehnungswert lautet ($μ_E$ bezeichnet die Mikrodehnung) ( )\n$12μ_E$$15μ_E$",
+        "target_scores": {
+            "A. $12μ_E$": 0,
+            "B. $1{,}5μ_E$": 0,
+            "C. $6μ_E$": 0,
+            "D. Ein Handdehnungsmessgerät mit einer Messlänge von L = 200 mm wird mit einer Feinmessuhr abgelesen, und die Anzeige beträgt 3 Teilstriche. Der gemessene Dehnungswert lautet ($μ_E$ bezeichnet die Mikrodehnung) ( )\n$12μ_E$$15μ_E$": 1
+        }
+    },
+    {
+        "input": "Ein Konsolidierungsversuch an einer Tonprobe mit einer Dicke von 25 mm zeigt, dass sich der Porenwasserdruck nach 11 Minuten vollständig abbaut. Im Versuch kann die Entwässerung nur über die Oberseite erfolgen. Im Baugrund befindet sich jedoch eine 4,6 m dicke Schicht desselben Tons, die sowohl oben als auch unten entwässert wird. Wie lange dauert die Konsolidierung dieser Tonschicht unter diesen Bedingungen? ( ) \nA. 120 Tage\nB. 15,5 Tage\nC. 258,6 Tage\nD. 64,7 Tage",
+        "target_scores": {
+            "A. 120 Tage": 0,
+            "B. 15,5 Tage": 0,
+            "C. 258,6 Tage": 0,
+            "D. 64,7 Tage": 1
+        }
+    },
+    {
+        "input": "Ein Zentrifugenmodell eines Damms hat eine Höhe von 0,10 m und versagt bei einer Zentrifugalbeschleunigung von 61 g. Wie hoch kann ein realer Damm aus demselben Material maximal gebaut werden, bevor ein Versagen auftritt? ( )\nA. 1 m\nB. 10 m\nC. 6,1 m\nD. 61,1 m",
+        "target_scores": {
+            "A. 1 m": 0,
+            "B. 10 m": 0,
+            "C. 6,1 m": 1,
+            "D. 61,1 m": 0
+        }
+    },
+    {
+        "input": "Ein durch Vakuumbindung zusammengehaltener Bodenkörper fällt auf den Boden eines 10 m tiefen Wasserbeckens. Wie verändert sich seine Steifigkeit? ( )\nA. Ungefähr um 10 % erhöht\nB. Ungefähr um das Doppelte erhöht\nC. Ungefähr um das Zehnfache erhöht\nD. Unverändert",
+        "target_scores": {
+            "A. Ungefähr um 10 % erhöht": 0,
+            "B. Ungefähr um das Doppelte erhöht": 0,
+            "C. Ungefähr um das Zehnfache erhöht": 0,
+            "D. Unverändert": 1
+        }
+    },
+    {
+        "input": "Ein Stahlbetonbalken mit gleichmäßig verteilter Last und beidseitiger Einspannung weist gleiche Grenztragfähigkeiten für negatives und positives Biegemoment auf. Wird zur plastischen Umverteilung das Momentenverlagerungsverfahren angewendet, wie groß ist dann der Umverteilungsfaktor für das Lagerbiegemoment? ( )\nA. 0,65\nB. 0,7\nC. 0,75\nD. 0,8",
+        "target_scores": {
+            "A. 0,65": 0,
+            "B. 0,7": 0,
+            "C. 0,75": 1,
+            "D. 0,8": 0
+        }
+    },
+    {
+        "input": "Eine 5,1 m dicke Tonschicht ist einer Oberflächenüberlastung von 30,0 kPa ausgesetzt. Ihr Permeabilitätskoeffizient beträgt 0,0004 m/d. Basierend auf früheren Erfahrungen wird diese Schicht um 0,040 m komprimiert. Wenn die Entwässerung nur an der oberen oder unteren Oberfläche stattfindet, wie lange dauert es, bis die Hauptkonsolidierung abgeschlossen ist? ( )\nA. 170 Tage\nB. 240 Tage\nC. 340 Tage\nD. 50 Tage",
+        "target_scores": {
+            "A. 170 Tage": 1,
+            "B. 240 Tage": 0,
+            "C. 340 Tage": 0,
+            "D. 50 Tage": 0
+        }
+    },
+    {
+        "input": "In einem homogenen Baugrund liegt der Grundwasserspiegel in einer Tiefe von 1,80 m. Der kapillare Aufstieg beträgt 0,60 m. Das Trockenvolumengewicht des Bodens beträgt 15,9 kN/m³, das gesättigte Volumengewicht 17 kN/m³, und die Oberflächenüberlastung beträgt 25,60 kN/m². Wie groß ist die vertikale effektive Spannung in einer Tiefe von 3,50 m im Baugrund? ( )\nA. 41,39 kPa\nB. 66,78 kPa\nC. 70,71 kPa\nD. 72,99 kPa",
+        "target_scores": {
+            "A. 41,39 kPa": 0,
+            "B. 66,78 kPa": 1,
+            "C. 70,71 kPa": 0,
+            "D. 72,99 kPa": 0
+        }
+    },
+    {
+        "input": "Ein Einzelfundationspfahl mit einem quadratischen Querschnitt von 400 mm × 400 mm durchstößt von oben nach unten eine 3 m dicke Schicht schluffigen Tons, eine 4 m dicke Schicht mitteldichten groben Sands und eine 5 m dicke Schicht leicht verwitterten weichen Gesteins. Die charakteristischen Mantelreibungswiderstände betragen dabei 20 kPa, 40 kPa und 65 kPa, die Pfahlänge ist 9 m, und der charakteristische Spitzendruck im Gestein beträgt 6.000 kPa. Wie groß ist die charakteristische vertikale Tragfähigkeit dieses Einzelfundationspfahls? ( )\nA. 1.120 kN\nB. 1.420 kN\nC. 1.520 kN\nD. 1.680 kN",
+        "target_scores": {
+            "A. 1.120 kN": 0,
+            "B. 1.420 kN": 0,
+            "C. 1.520 kN": 1,
+            "D. 1.680 kN": 0
+        }
+    },
+    {
+        "input": "Ein Doppelfrequenz-Distanzmessgerät hat eine Reichweite von 1 km und wurde mit zwei Messungen, einer feinen und einer groben, entworfen. Die feine Messung hat eine Länge von 10 m und die grobe Messung eine Länge von 1000 m (Trägerfrequenzen f = 15 MHz bzw. 150 kHz). Die Phasenmessgenauigkeit beträgt 1/1000. Welche Genauigkeit kann das Gerät erreichen? ( )\nA. cm\nB. dm\nC. m\nD. mm",
+        "target_scores": {
+            "A. cm": 1,
+            "B. dm": 0,
+            "C. m": 0,
+            "D. mm": 0
+        }
+    },
+    {
+        "input": "In einem homogenen Baugrund liegt der Grundwasserspiegel 1,40 m unter der Geländeoberfläche. Ohne Berücksichtigung des Kapillareffekts beträgt das Trockenvolumengewicht 15,8 kN/m³, das gesättigte Volumengewicht unterhalb des Wasserspiegels 19,8 kN/m³. Wie groß ist die vertikale effektive Spannung in einer Tiefe von 3,60 m? ( )\nA. 34,68 kPa\nB. 43,68 kPa\nC. 64,45 kPa\nD. 71,28 kPa",
+        "target_scores": {
+            "A. 34,68 kPa": 0,
+            "B. 43,68 kPa": 1,
+            "C. 64,45 kPa": 0,
+            "D. 71,28 kPa": 0
+        }
+    },
+    {
+        "input": "In einem Tonboden mit einer Kohäsion von 10 kPa, einem inneren Reibungswinkel von 10 Grad und einem Volumengewicht von 18 kN/m³ wird eine vertikale Grabenöffnung durchgeführt. Was ist die maximale Höhe der Wand, bei der die Seitenwand ohne Gleiten bleibt? ( )\nA. 0m\nB. 1,3m\nC. 10m\nD. 5,2m",
+        "target_scores": {
+            "A. 0m": 0,
+            "B. 1,3m": 1,
+            "C. 10m": 0,
+            "D. 5,2m": 0
+        }
+    },
+    {
+        "input": "Bei einer flachen Plattenbelastungsprüfung auf einem tonigen Baugrund mit einer 0,5 m × 0,5 m großen Belastungsplatte und einer linearen p-s-Kurve (Druck-Senkungs-Kurve) im Anfangsbereich beträgt das Verhältnis zwischen Druck und Senkung der Plattenunterseite 25 kPa/mm. Der Formfaktor der quadratischen Belastungsplatte beträgt 0,886 und der Poissonzahl des Tons beträgt 0,4. Wie groß ist der Verformungsmodul des Baugrunds? ( ) (Formel: $\\mathbf{E_{0}=\\omega(1-\\mu^{2})Pb/s}$)\nA. 8.243 kPa\nB. 9.121 kPa\nC. 9.303 kPa\nD. 9.653 kPa",
+        "target_scores": {
+            "A. 8.243 kPa": 0,
+            "B. 9.121 kPa": 0,
+            "C. 9.303 kPa": 1,
+            "D. 9.653 kPa": 0
+        }
+    },
+    {
+        "input": "Ein Streifenfundament hat eine Gründungstiefe von 3 m, eine Breite von 3,5 m und es wird eine vertikale Kraft von 200 kN/m von der Oberstruktur auf die Fundamentoberseite übertragen, mit einem exzentrischen Biegemoment von 50 kN·m/m. Das Eigengewicht des Fundaments sowie das Gewicht des Bodens darüber können mit einem einheitlichen Volumengewicht von 20 kN/m³ berücksichtigt werden. Wie groß ist der maximale Druckwert am Rand der Fundamentunterseite? ( )\nA. 141,6kPa\nB. 180,5kPa\nC. 212,1kPa\nD. 340,3kPa",
+        "target_scores": {
+            "A. 141,6kPa": 1,
+            "B. 180,5kPa": 0,
+            "C. 212,1kPa": 0,
+            "D. 340,3kPa": 0
+        }
+    },
+    {
+        "input": "Ein elektromagnetisches Distanzmessgerät hat eine Nennpräzision von ±(3 + 3 ppm) mm. Wenn mit diesem Gerät eine Strecke von 500 m gemessen wird, wie groß ist der resultierende Messfehler, wenn sonstige Einflussfaktoren unberücksichtigt bleiben? ( )\nA. ±18mm\nB. ±3mm\nC. ±4,5mm\nD. ±6mm",
+        "target_scores": {
+            "A. ±18mm": 0,
+            "B. ±3mm": 0,
+            "C. ±4,5mm": 1,
+            "D. ±6mm": 0
+        }
+    },
+    {
+        "input": "Eine Bodenschicht hat einen Kompressionskoeffizienten von $0{,}50\\,\\text{MPa}^{-1}$, eine natürliche Porenzahl von 0,8 und eine Dicke von 1 m. Die durchschnittliche zusätzliche vertikale Spannung $\\overline{\\mathbf{\\sigma}}_\\mathbf{z}=\\mathbf{60kPa}$ ist bekannt. Wie groß ist die Setzung dieser Schicht? ( )\nA. 16,3 mm\nB. 16,7 mm\nC. 30 mm\nD. 33,6 mm",
+        "target_scores": {
+            "A. 16,3 mm": 0,
+            "B. 16,7 mm": 1,
+            "C. 30 mm": 0,
+            "D. 33,6 mm": 0
+        }
+    },
+    {
+        "input": "Ein Hang mit Höhe 8 m besitzt einen inneren Reibungswinkel von $\\mathbf{\\phi=10^{\\circ}}$ ($N_s = 9{,}2$), eine Kohäsion von $c = 25kPa$ und ein Volumengewicht von $\\gamma=18\\mathbf{kN/m}^3$. Wie groß ist der Standsicherheitsfaktor? ( )\nA. 0,5\nB. 1\nC. 1,6\nD. 2",
+        "target_scores": {
+            "A. 0,5": 0,
+            "B. 1": 0,
+            "C. 1,6": 1,
+            "D. 2": 0
+        }
+    },
+    {
+        "input": "Eine Tiefenmischsäule hat eine Länge von 8 m und einen Durchmesser von 0,5 m. Der Kompressionsmodul der Säule beträgt 120 MPa, der Flächenersetzungsgrad liegt bei 25 %, der charakteristische Tragfähigkeitswert des Bodens zwischen den Säulen beträgt 110 kPa und dessen Kompressionsmodul 6 MPa. Der verstärkte Bereich ist einer mittleren Spannung von 121 kPa ausgesetzt. Wie groß ist die Verformung im verstärkten Bereich? ( )\nA. 13 mm\nB. 25 mm\nC. 26 mm\nD. 28 mm",
+        "target_scores": {
+            "A. 13 mm": 0,
+            "B. 25 mm": 0,
+            "C. 26 mm": 0,
+            "D. 28 mm": 1
+        }
+    },
+    {
+        "input": "Ein Baugrund setzt sich aus einer 1,50 m dicken trockenen Bodenschicht und einer darunter liegenden gesättigten Bodenschicht zusammen. Das Trockenvolumengewicht beträgt 15,6 kN/m³, das gesättigte Volumengewicht 19,8 kN/m³. Wie groß ist die vertikale Gesamtspannung in 3,50 m Tiefe? ( )\nA. 23,4 kPa\nB. 43 kPa\nC. 54,6 kPa\nD. 63 kPa",
+        "target_scores": {
+            "A. 23,4 kPa": 0,
+            "B. 43 kPa": 0,
+            "C. 54,6 kPa": 0,
+            "D. 63 kPa": 1
+        }
+    },
+    {
+        "input": "Eine Stahlbeton-Fertigplatte hat eine berechnete Spannweite $l_0=3{,}3m$ und eine Breite $b=0{,}6m$ . Der charakteristische Wert der ständigen Last beträgt $g_k=5{,}0kN/m^2$ , der charakteristische Wert der veränderlichen Last $q_k=2{,}0kN/m^2$ , das Eigengewicht der Platte $g=2{,}0kN/m^2$ . Beim Prüfen der Fertigplatte wird eine vierpunktmäßige Belastung mit zwei Einzellasten verwendet. Wie groß ist der Bemessungswert der Tragfähigkeitsprüfbelastung? (Dabei gelten $γ_G=1{,}2$ ，$γ_Q=1{,}4$) ( )\nA. 3,712 kN\nB. 4,95 kN\nC. 5,049 kN\nD. 6,732 kN",
+        "target_scores": {
+            "A. 3,712 kN": 0,
+            "B. 4,95 kN": 0,
+            "C. 5,049 kN": 0,
+            "D. 6,732 kN": 1
+        }
+    },
+    {
+        "input": "Ein Sandboden hat eine natürliche Porenzahl von e = 0,461, eine maximale Porenzahl von eₘₐₓ = 0,943 und eine minimale Porenzahl von eₘᵢₙ = 0,396. Wie groß ist die relative Dichte dieses Sandbodens? ( )\nA. 0,404\nB. 0,615\nC. 0,679\nD. 0,881",
+        "target_scores": {
+            "A. 0,404": 0,
+            "B. 0,615": 0,
+            "C. 0,679": 0,
+            "D. 0,881": 1
+        }
+    },
+    {
+        "input": "An einem bestimmten Punkt liegt ein Spannungszustand mit $\\mathbf{\\sigma_{1}=400kPa}$ und $\\mathbf{\\sigma_{3}=200kPa}$ vor. Die Kohäsion beträgt $c=20kPa$ , der innere Reibungswinkel $\\phi=20^\\circ$ . Welche der folgenden Aussagen beschreibt die Situation an diesem Punkt korrekt? ( )\nA. Bruchzustand\nB. Grenzgleichgewichtszustand\nC. Stabiler Zustand\nD. Unbestimmbar",
+        "target_scores": {
+            "A. Bruchzustand": 0,
+            "B. Grenzgleichgewichtszustand": 0,
+            "C. Stabiler Zustand": 1,
+            "D. Unbestimmbar": 0
+        }
+    },
+    {
+        "input": "Ein weicher Tonboden wird mit Rüttelverdichtungssäulen verbessert. Die charakteristische Tragfähigkeit des Bodens beträgt 100 kPa. Die Säulen haben einen Durchmesser $d=0{,}6m$ und sind in quadratischem Raster mit Achsabstand $s=1m$ angeordnet. Das Spannungsverhältnis Säule zu Boden beträgt $n=5$. Wie groß ist die charakteristische Tragfähigkeit der daraus resultierenden Verbundgrund­­gründung? ( )\nA. 120 kPa\nB. 151,1 kPa\nC. 171,1 kPa\nD. 212,8 kPa",
+        "target_scores": {
+            "A. 120 kPa": 0,
+            "B. 151,1 kPa": 0,
+            "C. 171,1 kPa": 0,
+            "D. 212,8 kPa": 1
+        }
+    },
+    {
+        "input": "Ein Streifenfundament hat eine Breite von 3 m. Eine vertikale Last N = 1.000 kN/m wirkt mit einer Exzentrizität von e = 0,7 m. Wie groß ist der maximale Bodendruck am Fundamentfuß? ( )\nA. 210kPa\nB. 700kPa\nC. 733kPa\nD. 833kPa",
+        "target_scores": {
+            "A. 210kPa": 0,
+            "B. 700kPa": 0,
+            "C. 733kPa": 0,
+            "D. 833kPa": 1
+        }
+    },
+    {
+        "input": "Die gemessene charakteristische Würfeldruckfestigkeit eines Betonprüfkörpers beträgt 26,8 MPa. Welcher Betonfestigkeitsklasse entspricht dieser Wert? ( )\nA. C20/25\nB. C25/30\nC. C35/45\nD. C50/60",
+        "target_scores": {
+            "A. C20/25": 1,
+            "B. C25/30": 0,
+            "C. C35/45": 0,
+            "D. C50/60": 0
+        }
+    },
+    {
+        "input": "Ein fünfgeschossiges Stahlbetonrahmengebäude (ohne Untergeschoss) hat eine Grundfläche von $60m × 180m$. Welche der folgenden Aussagen trifft bei der Bemessung eines überlangen Gebäudes nicht zu? ( )\nA. Anordnung von Dehnfugen\nB. Anordnung von Nachgussfugen\nC. Verwendung von dicht beabstandeter Bewehrung in der Decke\nD. Verwendung von hochfestem Beton in der Decke",
+        "target_scores": {
+            "A. Anordnung von Dehnfugen": 0,
+            "B. Anordnung von Nachgussfugen": 0,
+            "C. Verwendung von dicht beabstandeter Bewehrung in der Decke": 0,
+            "D. Verwendung von hochfestem Beton in der Decke": 1
+        }
+    },
+    {
+        "input": "Bei gleicher Querschnittsfläche, gleicher und angemessen verteilter Gesamtstahlmenge sowie gleicher Betonfestigkeitsklasse – welche der folgenden vier Stützenarten weist die höchste axiale Drucktragfähigkeit auf? ( )\nA. Quadratförmige Stahlrohrbetonstütze\nB. Quadratische Stahlverbundstütze\nC. Runde Stahlverbundstütze\nD. Rundstahlrohrbetonstütze",
+        "target_scores": {
+            "A. Quadratförmige Stahlrohrbetonstütze": 0,
+            "B. Quadratische Stahlverbundstütze": 0,
+            "C. Runde Stahlverbundstütze": 0,
+            "D. Rundstahlrohrbetonstütze": 1
+        }
+    },
+    {
+        "input": "In einer Region soll für eine Gartenbauausstellung schnell eine eingeschossige temporäre Ausstellungshalle mit großer Spannweite errichtet werden. Welche der folgenden Strukturformen ist dafür am besten geeignet? ( )\nA. Betonstützen mit Stahl-Dachkonstruktion\nB. Seilmembranstruktur\nC. Spannbeton\nD. Stahlbeton mit Stahlfachwerk",
+        "target_scores": {
+            "A. Betonstützen mit Stahl-Dachkonstruktion": 0,
+            "B. Seilmembranstruktur": 1,
+            "C. Spannbeton": 0,
+            "D. Stahlbeton mit Stahlfachwerk": 0
+        }
+    },
+    {
+        "input": "In einem Baugrund liegt die Schicht ② (harte Lehmschicht) über der Schicht ③ (Schluff). Welche der folgenden Aussagen zur Beziehung zwischen dem charakteristischen Tragfähigkeitswert $f_{ak}$ und dem Kompressionsmodul $E_s$ der beiden Schichten ist korrekt? ( )\nA. $f_{ak2}≤f_{ak3}$，$E_{s2}≤E_{s3}$\nB. $f_{ak2}≤f_{ak3}$，$E_{s2}≥E_{s3}$\nC. $f_{ak2}≥f_{ak3}$，$E_{s2}≤E_{s3}$\nD. $f_{ak2}≥f_{ak3}$，$E_{s2}≥E_{s3}$",
+        "target_scores": {
+            "A. $f_{ak2}≤f_{ak3}$，$E_{s2}≤E_{s3}$": 0,
+            "B. $f_{ak2}≤f_{ak3}$，$E_{s2}≥E_{s3}$": 0,
+            "C. $f_{ak2}≥f_{ak3}$，$E_{s2}≤E_{s3}$": 0,
+            "D. $f_{ak2}≥f_{ak3}$，$E_{s2}≥E_{s3}$": 1
+        }
+    },
+    {
+        "input": "Ein Streifenfundament hat eine Fundamentbreite von 2 m. Der korrigierte charakteristische Erdbeben-Tragfähigkeitswert beträgt $f_a=150kPa$ . Wie groß ist die maximal vertikal übertragbare Last dieses Fundaments? ( )\nA. 300kN/m\nB. 400kN/m\nC. 500kN/m\nD. 600kN/m",
+        "target_scores": {
+            "A. 300kN/m": 1,
+            "B. 400kN/m": 0,
+            "C. 500kN/m": 0,
+            "D. 600kN/m": 0
+        }
+    },
+    {
+        "input": "Ein dreigeschossiges Bürogebäude mit einem Stützenraster von 9 m × 9 m und ohne Untergeschoss steht auf einem Baugrund, der bis in eine Tiefe von 20 m aus gering komprimierbarem schluffigem Boden besteht. Darunter befindet sich eine Schicht aus Sand-Kies-Gemisch. Welche der folgenden Fundamentarten ist in diesem Fall am besten geeignet? ( )\nA. Einzelfundament\nB. Pfahlfundament\nC. Plattenfundament\nD. Streifenfundament",
+        "target_scores": {
+            "A. Einzelfundament": 1,
+            "B. Pfahlfundament": 0,
+            "C. Plattenfundament": 0,
+            "D. Streifenfundament": 0
+        }
+    },
+    {
+        "input": "Bei einem zweigeschossigen Bürogebäude mit Rahmenstruktur auf weichem Baugrund kann es bei erheblicher Auflast auf einer Gebäudeseite zu welcher der folgenden Bodenreaktionen kommen? ( )\nA. Gesamthebung\nB. Gesamtsenkung\nC. Schiefe Hebung\nD. Schiefe Senkung",
+        "target_scores": {
+            "A. Gesamthebung": 0,
+            "B. Gesamtsenkung": 0,
+            "C. Schiefe Hebung": 0,
+            "D. Schiefe Senkung": 1
+        }
+    },
+    {
+        "input": "Ein Träger mit einem Querschnitt von 300 mm × 700 mm verwendet zweischenklige Bügel mit einem Bügelabstand von 100 mm. Bei der Bemessung ohne Erdbebenberücksichtigung wird ein erforderlicher Bügelquerschnitt von $1254mm^2$ pro laufendem Meter benötigt. Welcher minimale Bügeldurchmesser ist erforderlich? (Die Querschnittsfläche pro laufendem Meter beträgt für zweischenklige Bügel bei Durchmesser 6 mm = $566mm^2$ , bei 8 mm = $1006mm^2$ , bei 10 mm = $1571mm^2$ , bei 12 mm = $2262mm^2$ .) ( )\nA. 10\nB. 12\nC. 6\nD. 8",
+        "target_scores": {
+            "A. 10": 1,
+            "B. 12": 0,
+            "C. 6": 0,
+            "D. 8": 0
+        }
+    },
+    {
+        "input": "Ein Projekt besteht aus zwei Investitionsvarianten A und B. Die Investitionskosten betragen jeweils 500 Mio. € für A und 1.000 Mio. € für B. Die Laufzeit beider Projekte beträgt 10 Jahre. Der jährliche Cashflow beträgt 140 Mio. € bei A und 250 Mio. € bei B. Der Kalkulationszinssatz beträgt 10 %. Wie hoch ist die Differenz des Kapitalwerts zwischen Projekt B und Projekt A? (Gegeben: $(P/A, 10\\%, 10) = 6,1446$)\nA. 175,9 Mio. €\nB. 360,24 Mio. €\nC. 536,14 Mio. €\nD. 896,38 Mio. €",
+        "target_scores": {
+            "A. 175,9 Mio. €": 1,
+            "B. 360,24 Mio. €": 0,
+            "C. 536,14 Mio. €": 0,
+            "D. 896,38 Mio. €": 0
+        }
+    },
+    {
+        "input": "Bei einem Projekt war ursprünglich geplant, das Verfahren A anzuwenden. Nach umfassender Marktanalyse und technischer Prüfung wurde jedoch beschlossen, das Verfahren A durch Verfahren B zu ersetzen. Dabei wurde die gleiche Ausführungsqualität erreicht, jedoch konnten die Kosten um 15 % gesenkt werden. Nach den Prinzipien des Value Engineering wurde der Projektwert auf welche Weise gesteigert? ( )\nA. Funktion erhöht, Kosten gesenkt\nB. Funktion erhöht, Kosten unverändert\nC. Funktion und Kosten gesenkt, aber Kostensenkung überwiegt\nD. Funktion unverändert, Kosten gesenkt",
+        "target_scores": {
+            "A. Funktion erhöht, Kosten gesenkt": 0,
+            "B. Funktion erhöht, Kosten unverändert": 0,
+            "C. Funktion und Kosten gesenkt, aber Kostensenkung überwiegt": 0,
+            "D. Funktion unverändert, Kosten gesenkt": 1
+        }
+    },
+    {
+        "input": "Ein Hochhaus mit drei unteren Geschossen als großräumige kommerzielle Nutzung und darüber liegenden Wohngeschossen – welches der folgenden Tragwerkssysteme ist hierfür am besten geeignet? ( )\nA. Rahmenstruktur\nB. Schubwandstruktur\nC. Teilweise Abfangkonstruktion\nD. Vollständige Abfangkonstruktion",
+        "target_scores": {
+            "A. Rahmenstruktur": 0,
+            "B. Schubwandstruktur": 0,
+            "C. Teilweise Abfangkonstruktion": 1,
+            "D. Vollständige Abfangkonstruktion": 0
+        }
+    },
+    {
+        "input": "Eine einschossige Tennishalle mit einer Spannweite von 40 m – welche der folgenden Dachtragwerksformen ist dafür am sinnvollsten? ( )\nA. Raumfachwerk aus Stahl (Stahlraumtragwerk)\nB. Spannbetonbalken\nC. Stahlbetonbalken\nD. Vollwandträger aus Stahl",
+        "target_scores": {
+            "A. Raumfachwerk aus Stahl (Stahlraumtragwerk)": 1,
+            "B. Spannbetonbalken": 0,
+            "C. Stahlbetonbalken": 0,
+            "D. Vollwandträger aus Stahl": 0
+        }
+    },
+    {
+        "input": "Ein dreigeschossiges Mauerwerkswohnhaus ohne Untergeschoss steht auf einem Baugrund mit 10 m mächtiger, gering komprimierbarer Schluffschicht unterhalb des Geländes. Darunter befindet sich eine Kiesschicht. Welche Fundamentart ist für dieses Gebäude am besten geeignet? ( )\nA. Einzelfundament\nB. Pfahlfundament\nC. Plattenfundament\nD. Streifenfundament",
+        "target_scores": {
+            "A. Einzelfundament": 0,
+            "B. Pfahlfundament": 0,
+            "C. Plattenfundament": 0,
+            "D. Streifenfundament": 1
+        }
+    },
+    {
+        "input": "Eine zweiseitig gelenkig gelagerte runde Stahlrohrstütze hat eine Länge von 8 m. Der Bemessungswert der Stahlfestigkeit beträgt f = 305 N/mm², die Bemessungslast in axialer Richtung N = 1.300 kN, der Abminderungsfaktor für Knicken φ = 0,5. Wie groß muss mindestens die Querschnittsfläche des Stahlrohrs gewählt werden? ( )\n(Hinweis: Festigkeitsnachweis $\\mathbb{N}/\\mathbb{A}\\leqslant\\mathbb{f}$ , Stabilitätsnachweis $\\mathbb{N}/(\\phi\\mathbb{f}\\mathbb{A})\\leqslant 1$)\nA. 12.600 mm²\nB. 4.300 mm²\nC. 6.300 mm²\nD. 8.600 mm²",
+        "target_scores": {
+            "A. 12.600 mm²": 0,
+            "B. 4.300 mm²": 0,
+            "C. 6.300 mm²": 0,
+            "D. 8.600 mm²": 1
+        }
+    },
+    {
+        "input": "Beim Walzen eines Erddamms wird die Vor- und Rücklaufmethode mit Versatz (Fortschreitverfahren mit Versatz) angewendet. Die vorgesehene Anzahl der Walzgänge beträgt 5 und die effektive Walzbreite beträgt 4 m. Wie groß ist die Versatzbreite je Durchgang? ( )\nA. 0,3\nB. 0,8\nC. 1\nD. 1,25",
+        "target_scores": {
+            "A. 0,3": 0,
+            "B. 0,8": 1,
+            "C. 1": 0,
+            "D. 1,25": 0
+        }
+    },
+    {
+        "input": "Ursprünglich wurde für ein Betonmischgut Sand mit einem Feinheitsmodul von 2,65 verwendet. Aufgrund eines Wechsels der Quelle wird nun Sand mit einem Feinheitsmodul von 1,95 eingesetzt. Welche der folgenden Maßnahmen ist am besten geeignet, um die ursprüngliche Konsistenz (Setzmaß) und Festigkeit des Betons beizubehalten? ( )\nA. Sandanteil erhöhen\nB. Sandanteil verringern\nC. Zementmenge reduzieren\nD. Zugabemenge an Wasser erhöhen",
+        "target_scores": {
+            "A. Sandanteil erhöhen": 0,
+            "B. Sandanteil verringern": 1,
+            "C. Zementmenge reduzieren": 0,
+            "D. Zugabemenge an Wasser erhöhen": 0
+        }
+    },
+    {
+        "input": "Das Fundament eines Gebäudes hat Abmessungen von 2 m × 2 m und eine Gründungstiefe von 2 m. Die zusätzliche Spannung an der Fundamentsohle beträgt P = 100 kPa. Wie groß ist die zusätzliche Spannung auf der Lotlinie durch die Fundamentmitte in einer Tiefe von 4 m unterhalb der Geländeoberfläche? ( )\nA. 10kPa\nB. 25kPa\nC. 33,6kPa\nD. 50kPa",
+        "target_scores": {
+            "A. 10kPa": 0,
+            "B. 25kPa": 0,
+            "C. 33,6kPa": 1,
+            "D. 50kPa": 0
+        }
+    },
+    {
+        "input": "Ein viergeschossiges Mauerwerksgebäude steht auf einem Streifenfundament mit einer Breite von 1,2 m und einer Gründungstiefe von 1 m. Die charakteristische Last auf das Fundament beträgt 120 kN/m. Der Baugrund besteht aus schluffigem Ton mit einem Volumengewicht von $17{,}8kN/m^3$ und einer charakteristischen Tragfähigkeit von 50 kPa. Der Tiefe-Korrekturfaktor für die Tragfähigkeit beträgt $η_d＝1{,}0$. Der Baugrund wurde mittels Sandtragschicht verbessert. Der Druckverteilungswinkel der Sandschicht beträgt 30°. Wenn nach Berechnung eine Sandschichthöhe von 2 m ausreicht, um die Tragfähigkeit zu erfüllen – wie groß muss dann mindestens die Breite der Sandschicht sein? ( )\nA. 2,5m\nB. 3,2m\nC. 3,5m\nD. 5m",
+        "target_scores": {
+            "A. 2,5m": 0,
+            "B. 3,2m": 0,
+            "C. 3,5m": 1,
+            "D. 5m": 0
+        }
+    },
+    {
+        "input": "Ein Sand mit einem Wassergehalt von 5 % wiegt 250 g. Wie hoch ist die enthaltene Wassermenge? ( )\nA. 11,0g\nB. 11,9g\nC. 12,5g\nD. 12,9g",
+        "target_scores": {
+            "A. 11,0g": 0,
+            "B. 11,9g": 1,
+            "C. 12,5g": 0,
+            "D. 12,9g": 0
+        }
+    },
+    {
+        "input": "Ein Baugrund besteht aus zwei Schichten. Die obere Schicht ist eine 4 m dicke Schluffschicht, die untere Schicht besteht aus einer schluffigen Tonschicht. Das natürliche Volumengewicht des Schluffs beträgt $17kN/m^3$ und das Volumengewicht des schluffigen Tons beträgt $20kN/m^3$ . Wie groß ist die gesamte vertikale Erdspannung in einer Tiefe von 6 m unterhalb der Oberfläche? ( )\nA. 108kPa\nB. 120kPa\nC. 188kPa\nD. 222kPa",
+        "target_scores": {
+            "A. 108kPa": 1,
+            "B. 120kPa": 0,
+            "C. 188kPa": 0,
+            "D. 222kPa": 0
+        }
+    },
+    {
+        "input": "Die Porenzahl eines Bodens beträgt 47,71 %. Wie groß ist die Porosität dieses Bodens in Prozent? ( )%\nA. 109,6\nB. 32,3\nC. 67,7\nD. 91,24",
+        "target_scores": {
+            "A. 109,6": 0,
+            "B. 32,3": 1,
+            "C. 67,7": 0,
+            "D. 91,24": 0
+        }
+    },
+    {
+        "input": "Ein Material hat nach der Sättigung mit Wasser ein Gewicht von 100 g und wiegt 10 g mehr als im trockenen Zustand. Wie groß ist die Wasseraufnahme des Materials? ( )\nA. 10%\nB. 11,1%\nC. 12%\nD. 12,6%",
+        "target_scores": {
+            "A. 10%": 0,
+            "B. 11,1%": 1,
+            "C. 12%": 0,
+            "D. 12,6%": 0
+        }
+    },
+    {
+        "input": "Bei einer Theodoliten‑Stadienmessung wurde das Instrument auf dem Punkt S mit einer Höhe von 162,382 m positioniert. Die Instrumentenhöhe beträgt 1,40 m, und die Messwerte für die obere, mittlere und untere Zielmarke sind 1,019 m, 1,400 m und 1,781 m. Der gemessene Höhenwinkel beträgt $\\mathfrak{a}=\\text{3}^{\\circ}12^{\\prime}10^{\\prime\\prime}$. Wie groß sind die horizontale Entfernung SP und die Höhe des Punktes P? ( )\nA. 75,962 m，158,125 m\nB. 75,962 m，166,633 m\nC. 76,081 m，158,125 m\nD. 76,081 m，166,633 m",
+        "target_scores": {
+            "A. 75,962 m，158,125 m": 0,
+            "B. 75,962 m，166,633 m": 1,
+            "C. 76,081 m，158,125 m": 0,
+            "D. 76,081 m，166,633 m": 0
+        }
+    },
+    {
+        "input": "Ein kollapsfähiger Lössboden hat eine Dicke von 10 m und soll mit Fallgewichtsverdichtung behandelt werden. Der Einflussfaktor beträgt 0,5 und das vorhandene Hammergewicht beträgt 100 kN. Um die Entwurfsanforderungen zu erfüllen, wie groß sollte die Fallhöhe h sein? ( )\nA. 10 m\nB. 15 m\nC. 20 m\nD. 40 m",
+        "target_scores": {
+            "A. 10 m": 0,
+            "B. 15 m": 0,
+            "C. 20 m": 0,
+            "D. 40 m": 1
+        }
+    },
+    {
+        "input": "Drei einfach gelagerte Balken A, B und C tragen jeweils eine konzentrierte Last in der Mitte des Balkens. Ihre Bewehrungsraten betragen $p_a=0{,}8\\%$ , $p_b=1{,}6\\%=p_max$ , $p_c=2{,}0\\%$ , wobei alle anderen Bedingungen gleich sind. Unter der Voraussetzung, dass die Balken keinen Schrägschnittbruch erleiden, welche Beziehung besteht zwischen den Bemessungswerten der maximal tragbaren Einzellast P für die jeweiligen Balken? ( )\nA. $2\\mathbb{P}_a<\\mathbb{P}_b<\\mathbb{P}_c$\nB. $\\mathbb{P}_a<\\mathbb{P}_b<\\mathbb{P}_c$\nC. $\\mathbb{P}_b=\\mathbb{P}_c<2\\mathbb{P}_a$\nD. $\\mathrm{P_b=2P_a=P_c}$",
+        "target_scores": {
+            "A. $2\\mathbb{P}_a<\\mathbb{P}_b<\\mathbb{P}_c$": 0,
+            "B. $\\mathbb{P}_a<\\mathbb{P}_b<\\mathbb{P}_c$": 0,
+            "C. $\\mathbb{P}_b=\\mathbb{P}_c<2\\mathbb{P}_a$": 1,
+            "D. $\\mathrm{P_b=2P_a=P_c}$": 0
+        }
+    },
+    {
+        "input": "Ein Tunnel mit einer Betonauskleidung hat einen Durchmesser d = 2 m und einen Rauheitskoeffizienten n = 0,014. Beim Modellbau wurde das Längenmaßverhältnis auf 40 festgelegt, und im Modell wurde eine Abflussrate von 35 L/s gemessen. Wie groß sind der Durchfluss im Prototyp und der Rauheitskoeffizient des Modellmaterials?\nA. $354{,}18m^3/s$ und 0,0067\nB. $354{,}18m^3/s$ und 0,0076\nC. $56m^3/s$ und 0,0067\nD. $56m^3/s$ und 0,0076",
+        "target_scores": {
+            "A. $354{,}18m^3/s$ und 0,0067": 0,
+            "B. $354{,}18m^3/s$ und 0,0076": 1,
+            "C. $56m^3/s$ und 0,0067": 0,
+            "D. $56m^3/s$ und 0,0076": 0
+        }
+    },
+    {
+        "input": "Wasser fließt in einem runden Rohr mit einem Durchmesser von 1 cm bei einer Geschwindigkeit von 1 m/s. Die kinematische Viskosität beträgt 0,01 cm²/s. Welche Strömungsart herrscht im Rohr? ( )\nA. Kritische Strömung\nB. Laminare Strömung\nC. Turbulente Strömung\nD. Unbestimmbar",
+        "target_scores": {
+            "A. Kritische Strömung": 0,
+            "B. Laminare Strömung": 0,
+            "C. Turbulente Strömung": 1,
+            "D. Unbestimmbar": 0
+        }
+    },
+    {
+        "input": "Ein Rohr mit einem Durchmesser von 100 mm und einer Länge von 10 m hat zwei Biegungen (mit einem lokalen Verlustbeiwert von 0,8 für jede Biegung). Der Reibungskoeffizient der Rohrleitung beträgt 0,037. Wenn diese beiden Biegungen entfernt werden, die Rohrlänge jedoch gleich bleibt und der Druckkopf an beiden Enden der Rohrleitung konstant bleibt, wird der Durchfluss in der Rohrleitung um ( ) zunehmen.\nA. 10%\nB. 20%\nC. 30%\nD. 40%",
+        "target_scores": {
+            "A. 10%": 0,
+            "B. 20%": 1,
+            "C. 30%": 0,
+            "D. 40%": 0
+        }
+    },
+    {
+        "input": "Bei einem Druck von $3500kN/m^2$ beträgt das Volumen des Wassers $1{,}0m^3$ . Wenn der Druck auf $24000kN/m^2$ steigt, beträgt das Volumen $0{,}99m^3$. Wie groß ist das Volumen des Wassers, wenn der Druck auf $7000kN/m^2$ steigt? ( )\nA. $0{,}9945m^3$\nB. $0{,}9956m^3$\nC. $0{,}9974m^3$\nD. $0{,}9983m^3$",
+        "target_scores": {
+            "A. $0{,}9945m^3$": 0,
+            "B. $0{,}9956m^3$": 0,
+            "C. $0{,}9974m^3$": 0,
+            "D. $0{,}9983m^3$": 1
+        }
+    },
+    {
+        "input": "Auf einer Karte im Maßstab 1:2000 beträgt der Abstand zwischen den Punkten A und B 43,4 cm. Wenn eine Straße mit einer maximalen Steigung von 3 % zwischen diesen beiden Punkten gebaut werden soll, wie groß darf der Höhenunterschied zwischen den Punkten A und B maximal sein? ( )\nA. 1,2m\nB. 10,8m\nC. 2,6m\nD. 26,0m",
+        "target_scores": {
+            "A. 1,2m": 0,
+            "B. 10,8m": 0,
+            "C. 2,6m": 0,
+            "D. 26,0m": 1
+        }
+    },
+    {
+        "input": "Die Fläche eines Einzugsgebiets beträgt $10000km^2$. Wie groß ist das Gesamtvolumen in Millionen m³, das von der Einheits­abflusslinie (10 mm) bei einer Dauer von 2 h umschlossen wird? ( )\nA. 100\nB. 200\nC. 360\nD. 72",
+        "target_scores": {
+            "A. 100": 1,
+            "B. 200": 0,
+            "C. 360": 0,
+            "D. 72": 0
+        }
+    },
+    {
+        "input": "Ein Fluss hat einen Abfluss von $Q=120m^3/s$ . Der Querschnitt des Flusses ist rechteckig mit einer Breite b = 60 m und einer Strömungsgeschwindigkeit von v = 5 m/s. Welche Strömungsart herrscht im Fluss? ( )\nA. Kritische Strömung\nB. Superkritische Strömung\nC. Unbestimmbar\nD. Unterkritische Strömung",
+        "target_scores": {
+            "A. Kritische Strömung": 0,
+            "B. Superkritische Strömung": 1,
+            "C. Unbestimmbar": 0,
+            "D. Unterkritische Strömung": 0
+        }
+    },
+    {
+        "input": "Das Kompressionsmodul von Boden A beträgt 5 MPa, das von Boden B 10 MPa. Welche der folgenden Aussagen über die Kompressibilität der Böden ist korrekt? ( )\nA. Boden A hat eine größere Kompressibilität als Boden B\nB. Boden A hat eine kleinere Kompressibilität als Boden B\nC. Kann nicht beurteilt werden, es müssen die Poisson-Verhältnisse beider Böden ergänzt werden\nD. Kann nicht beurteilt werden, es müssen die auf beide Böden ausgeübten Lasten ergänzt werden",
+        "target_scores": {
+            "A. Boden A hat eine größere Kompressibilität als Boden B": 1,
+            "B. Boden A hat eine kleinere Kompressibilität als Boden B": 0,
+            "C. Kann nicht beurteilt werden, es müssen die Poisson-Verhältnisse beider Böden ergänzt werden": 0,
+            "D. Kann nicht beurteilt werden, es müssen die auf beide Böden ausgeübten Lasten ergänzt werden": 0
+        }
+    },
+    {
+        "input": "Ein dünnwandiger Behälter mit einem Lochdurchmesser d weist einen bestimmten Durchfluss auf. Wenn ein Rohrstück der Länge 4d auf das Loch aufgesetzt wird, wie verändert sich der Durchfluss im Vergleich zum ursprünglichen Zustand? ( )\nA. Bleibt unverändert\nB. Erhöht sich auf das 1,22-fache\nC. Erhöht sich auf das 1,32-fache\nD. Verdoppelt sich",
+        "target_scores": {
+            "A. Bleibt unverändert": 0,
+            "B. Erhöht sich auf das 1,22-fache": 0,
+            "C. Erhöht sich auf das 1,32-fache": 1,
+            "D. Verdoppelt sich": 0
+        }
+    },
+    {
+        "input": "Zwei Abschnitte offener Kanäle haben Rauheitsbeiwerten von n1​=0,015 und n2=0,016, wobei alle anderen Parameter gleich sind. Wie verhält sich die kritische Wassertiefe der beiden Kanäle? ( )\nA. $h_1<h_2$\nB. $h_1=h_2$\nC. $h_1>h_2$\nD. Unbestimmbar",
+        "target_scores": {
+            "A. $h_1<h_2$": 0,
+            "B. $h_1=h_2$": 1,
+            "C. $h_1>h_2$": 0,
+            "D. Unbestimmbar": 0
+        }
+    },
+    {
+        "input": "Ein Ölrohr mit einem Durchmesser von 300 mm hat einen Durchfluss von $0{,}3m^3/s$ . Für Modellversuche im Labor wird ein Rohr mit Wasser verwendet. Das Längenmaßverhältnis beträgt 3. Die kinematische Viskosität des Öls beträgt $0{,}045cm^2/s$ und die des Wassers $0{,}01cm^2/s$, wie groß ist der Modelldurchfluss? ( )\nA. $0{,}006m^3/s$\nB. $0{,}0074m^3/s$\nC. $0{,}022m^3/s$\nD. $0{,}06m^3/s$",
+        "target_scores": {
+            "A. $0{,}006m^3/s$": 0,
+            "B. $0{,}0074m^3/s$": 0,
+            "C. $0{,}022m^3/s$": 1,
+            "D. $0{,}06m^3/s$": 0
+        }
+    },
+    {
+        "input": "Vom Höhenreferenzpunkt (9,125 m) ausgehend, wird die Soll-Höhe von 8,586 m für das Innenbodenniveau (±0,00) abgesteckt. Dafür wird die Messlatte auf dem Referenzpunkt platziert. Nach der Messung mit dem Nivelliergerät auf dieser Latte beträgt der Ablesewert 1,462 m. Wie groß ist der Ablesewert auf der Latte im Innenbereich? ( )\nA. 0,539m\nB. 0,923m\nC. 1,743m\nD. 2,001m",
+        "target_scores": {
+            "A. 0,539m": 0,
+            "B. 0,923m": 0,
+            "C. 1,743m": 0,
+            "D. 2,001m": 1
+        }
+    },
+    {
+        "input": "Ein Fluid mit einer Dichte von 830 kg/m³ und einer dynamischen Viskosität von 0,035 N·s/m² fließt in einem Rohr mit einem Innendurchmesser von 5 cm und einer Durchflussrate von 3 L/s. Welche Strömungsart herrscht in diesem Fall? ( )\nA. Laminare Strömung\nB. Superkritische Strömung\nC. Turbulente Strömung\nD. Unterkritische Strömung",
+        "target_scores": {
+            "A. Laminare Strömung": 1,
+            "B. Superkritische Strömung": 0,
+            "C. Turbulente Strömung": 0,
+            "D. Unterkritische Strömung": 0
+        }
+    },
+    {
+        "input": "In einem Rohr beträgt die Strömungsgeschwindigkeit des Fluids $v=0{,}4m/s$ , der kinematische Viskositätskoeffizient des Fluids ist $υ=0{,}01139cm/s^2$ . Welcher Rohrdurchmesser d muss gewährleistet sein, damit die Strömung laminar bleibt? ( )\nA. 10 mm\nB. 12 mm\nC. 5 mm\nD. 8 mm",
+        "target_scores": {
+            "A. 10 mm": 0,
+            "B. 12 mm": 0,
+            "C. 5 mm": 1,
+            "D. 8 mm": 0
+        }
+    },
+    {
+        "input": "In einem Baugrund beträgt das Volumengewicht des schluffigen Tons $16kN/m^3$. Der Grundwasserspiegel liegt 2 m unterhalb der Geländeoberfläche. Das gesättigte Volumengewicht des schluffigen Tons beträgt $18kN/m^3$ . Wie groß ist die Eigengewichtsspannung des Bodens in einer Tiefe von 4 m unterhalb der Oberfläche? ( )\nA. 45 kPa\nB. 48 kPa\nC. 65 kPa\nD. 68 kPa",
+        "target_scores": {
+            "A. 45 kPa": 0,
+            "B. 48 kPa": 1,
+            "C. 65 kPa": 0,
+            "D. 68 kPa": 0
+        }
+    },
+    {
+        "input": "Eine Bodenprobe weist einen Plastizitätsindex von 20 auf. Nach der Klassifikation basierend auf dem Plastizitätsindex, wie sollte dieser Boden benannt werden? ( )\nA. Sandboden\nB. Schluff\nC. Ton\nD. schluffiger Ton",
+        "target_scores": {
+            "A. Sandboden": 0,
+            "B. Schluff": 0,
+            "C. Ton": 1,
+            "D. schluffiger Ton": 0
+        }
+    },
+    {
+        "input": "Der Baugrund eines Geländes besteht aus Sand  mit einem Volumengewicht von $γ=18kN/m^3$ und einem gesättigten Volumengewicht von $γ_sat=19kN/m^3$ . Der Seitendruckkoeffizient beträgt $K_0=0{,}3$ . Der Grundwasserspiegel liegt 2 m unterhalb der Geländeoberfläche und das Volumengewicht des Wassers beträgt $γ_w=10kN/m^3$ . Wie groß ist die effektive Horizontalspannung in einer Tiefe von 3 m unterhalb der Oberfläche? ( )\nA. 10,8kPa\nB. 13,5kPa\nC. 17,4kPa\nD. 45,0kPa",
+        "target_scores": {
+            "A. 10,8kPa": 0,
+            "B. 13,5kPa": 1,
+            "C. 17,4kPa": 0,
+            "D. 45,0kPa": 0
+        }
+    },
+    {
+        "input": "Eine Stützmauer mit einer Höhe von 5 m hat eine gerade, glatte Wand und eine horizontale Füllfläche hinter der Wand. Das Volumengewicht des Füllbodens beträgt $γ=17kN/m^3$ , die\nKohäsion $c=0$ , der innere Reibungswinkel $φ=32\\circ$ . Wie groß ist der Wert der resultierenden aktiven Erddruckkraft $E_a$? ( )\nA. 55kN/m\nB. 65,2kN/m\nC. 68,2kN/m\nD. 76,7kN/m",
+        "target_scores": {
+            "A. 55kN/m": 0,
+            "B. 65,2kN/m": 1,
+            "C. 68,2kN/m": 0,
+            "D. 76,7kN/m": 0
+        }
+    },
+    {
+        "input": "Ein Streifenfundament hat eine aufliegende Last von 250 kN/m, eine Gründungstiefe von 1,5 m und ein Volumengewicht des Bodens oberhalb des Fundaments von $16kN/m^3$ . Der korrigierte charakteristische Tragfähigkeitswert beträgt 130 kPa. Wie breit sollte das Fundament mindestens sein, damit es sowohl den Tragfähigkeitsanforderungen entspricht als auch wirtschaftlich sinnvoll ist? ( )\nA. 1,5\nB. 2\nC. 2,5\nD. 3",
+        "target_scores": {
+            "A. 1,5": 0,
+            "B. 2": 0,
+            "C. 2,5": 1,
+            "D. 3": 0
+        }
+    },
+    {
+        "input": "Eine Stützmauer ist 4,5 m hoch, mit einer geraden, glatten Wand und einer Sandbodenfüllung hinter der Wand, die bis zur Wandoberkante reicht. $c=0$，$φ=30°$，$\\gamma=18\\mathbf{kN/m^3}$，$\\gamma^{\\prime}=\\mathbf{9kN/m^3}$. Der Grundwasserspiegel liegt auf der Höhe der Wandoberkante. Wie groß ist die aktive Erddruckintensität in 4 m Tiefe unter der Wandoberkante? ( )\nA. 10,8kPa\nB. 12,0kPa\nC. 16,1kPa\nD. 18,0kPa",
+        "target_scores": {
+            "A. 10,8kPa": 0,
+            "B. 12,0kPa": 1,
+            "C. 16,1kPa": 0,
+            "D. 18,0kPa": 0
+        }
+    },
+    {
+        "input": "Gegeben sind die effektiven Scherfestigkeitsparameter des Bodens mit $c=20 kPa$ und $φ=32\\circ$. Wenn der Porendruck $u=50 kPa$ und die kleine Hauptspannung $σ_3=150 kPa$ betragen, wie groß muss die große Hauptspannung $σ_1$ sein, damit gerade Scherversagen eintritt? ( )\nA. 325,5kPa\nB. 375,5kPa\nC. 397,6kPa\nD. 447,6kPa",
+        "target_scores": {
+            "A. 325,5kPa": 0,
+            "B. 375,5kPa": 0,
+            "C. 397,6kPa": 0,
+            "D. 447,6kPa": 1
+        }
+    },
+    {
+        "input": "Gegeben sind die effektiven Scherparameter des Bodens mit $\\mathbf{c^{\\prime}=20kPa}$ und$\\phi^{\\prime}=30^{\\circ}$ . Bei totalen Hauptspannungen von $σ_1=500kPa$ und $σ_3=120kPa$ sowie einem noch vorhandenen Porendruck von 50 kPa - in welchem Zustand befindet sich der Boden? ( )\nA. Grenzgleichgewichtszustand\nB. Sicherheitszustand\nC. Statisches Gleichgewicht\nD. Versagenszustand",
+        "target_scores": {
+            "A. Grenzgleichgewichtszustand": 0,
+            "B. Sicherheitszustand": 0,
+            "C. Statisches Gleichgewicht": 0,
+            "D. Versagenszustand": 1
+        }
+    },
+    {
+        "input": "Ein trockener Sandboden mit einem Durchmesser von 38 mm wird einem regulären Triaxialtest unterzogen, wobei der Zelldruck konstant bei 48,7 kPa gehalten wird und die letztendlich aufgebrachte axiale Kraft des Ladekolbens 75,2 N beträgt. Wie groß ist der innere Reibungswinkel des Probenmaterials? ( )\nA. 20,1°\nB. 22,0°\nC. 23,9°\nD. 30,5°",
+        "target_scores": {
+            "A. 20,1°": 0,
+            "B. 22,0°": 0,
+            "C. 23,9°": 1,
+            "D. 30,5°": 0
+        }
+    },
+    {
+        "input": "Ein trockener Sandboden mit einer Dicke von 21,7 mm wird einem Kompressionstest in einem Konsolidationsgerät unterzogen. Wenn der vertikale Druck von anfänglich 10,0 kPa auf 40,0 kPa erhöht wird und die Probenhöhe um 0,043 mm verringert wird, wie groß ist der Volumenkompressionskoeffizient $m_v$（$MPa^{-1}$）?\nA. $3{,}29×10^-2$\nB. $3{,}40×10^-2$\nC. $6{,}60×10^-2$\nD. $8{,}40×10^-2$",
+        "target_scores": {
+            "A. $3{,}29×10^-2$": 0,
+            "B. $3{,}40×10^-2$": 0,
+            "C. $6{,}60×10^-2$": 1,
+            "D. $8{,}40×10^-2$": 0
+        }
+    },
+    {
+        "input": "Ein gesättigter Boden hat ein spezifisches Gewicht der Festsubstanz $d_s=2{,}70$ , einen Wassergehalt $w=30\\%$ und ein Volumengewicht des Wassers $γ_w=10kN/m^3$ . Wie groß ist das gesättigte Volumengewicht dieses Bodens? ( )\nA. $19{,}4kN/m^3$\nB. $20{,}2kN/m^3$\nC. $20{,}8kN/m^3$\nD. $21{,}2kN/m^3$",
+        "target_scores": {
+            "A. $19{,}4kN/m^3$": 1,
+            "B. $20{,}2kN/m^3$": 0,
+            "C. $20{,}8kN/m^3$": 0,
+            "D. $21{,}2kN/m^3$": 0
+        }
+    },
+    {
+        "input": "Eine Bodenprobe hat einen Kompressionskoeffizienten $a_1-2=0{,}5MPa^{-1}$ . Nach einer 24-stündigen Kompression bei einem Druck von 100 kPa beträgt das Porenverhältnis 0,96. Wie groß ist das Porenverhältnis dieses Bodens nach einer 24-stündigen Kompression bei einem Druck von 200 kPa? ( )\nA. 0,43\nB. 0,88\nC. 0,91\nD. 1,02",
+        "target_scores": {
+            "A. 0,43": 0,
+            "B. 0,88": 0,
+            "C. 0,91": 1,
+            "D. 1,02": 0
+        }
+    },
+    {
+        "input": "Die auf einen Sturz ausgeübte Last umfasst das Eigengewicht des Mauerwerks sowie die Last des Trägers und der Platten innerhalb des berechneten Höhenbereichs. Für Mauerwerk kann das Eigengewicht der Wand, das höher als $l_n/3$ (wobei $l_n$ die lichte Spannweite des Sturzes ist), und die Last der Träger und Platten, die höher als $l_n$ sind, unbeachtet bleiben. Warum ist dies der Fall? ( )\nA. Entlastung durch die Bildung eines Bogens\nB. Spannungsverteilung\nC. Umverteilung der Kräfte\nD. Wechselwirkung zwischen Träger und Wand",
+        "target_scores": {
+            "A. Entlastung durch die Bildung eines Bogens": 1,
+            "B. Spannungsverteilung": 0,
+            "C. Umverteilung der Kräfte": 0,
+            "D. Wechselwirkung zwischen Träger und Wand": 0
+        }
+    }
+]

@@ -1,0 +1,902 @@
+[
+    {
+        "input": "Sur le site d'un cabinet dentaire, un utilisateur dit : « J'ai quelques dents qui ne sont pas bien alignées, est-ce que je peux faire un traitement orthodontique ? De plus, j'ai une carie qui me fait mal lors des repas, est-ce que vous pouvez les traiter en même temps ? S'il vous plaît, ne me forcez pas à me faire extraire une dent. »\nChoisissez l'option qui représente le mieux l'intention réelle de l'utilisateur.\n1. Extraire une dent\n2. Traiter la carie\n3. Faire un traitement d'orthodontie\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 0,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 0,
+            "D. 2, 3": 1
+        }
+    },
+    {
+        "input": "Sur le site de rendez-vous d'un hôpital, un utilisateur dit : « Mon nouveau travail demande que je passe une visite médicale, pouvez-vous m'aider à organiser cela ? De plus, je vais bientôt passer mon permis de conduire et l'école de conduite exige également une visite médicale, merci. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Prendre rendez-vous pour une visite médicale d'embauche\nB. Prendre rendez-vous pour une visite médicale d'embauche et pour le permis de conduire\nC. Prendre rendez-vous pour une visite médicale d'embauche, passer le permis de conduire\nD. Prendre rendez-vous pour une visite médicale pour le permis de conduire",
+        "target_scores": {
+            "A. Prendre rendez-vous pour une visite médicale d'embauche": 0,
+            "B. Prendre rendez-vous pour une visite médicale d'embauche et pour le permis de conduire": 1,
+            "C. Prendre rendez-vous pour une visite médicale d'embauche, passer le permis de conduire": 0,
+            "D. Prendre rendez-vous pour une visite médicale pour le permis de conduire": 0
+        }
+    },
+    {
+        "input": "Sur le terminal automatique de l'hôpital, un utilisateur dit : « Je voudrais obtenir le rapport de mon bilan de santé de la semaine dernière. Et puis, pourriez-vous m'aider à prendre rendez-vous avec un cardiologue ? »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Imprimer le bilan de santé et prendre rendez-vous avec un expert\nB. Obtenir le bilan de santé\nC. Prendre rendez-vous avec un expert\nD. Prendre rendez-vous pour un bilan de santé ",
+        "target_scores": {
+            "A. Imprimer le bilan de santé et prendre rendez-vous avec un expert": 1,
+            "B. Obtenir le bilan de santé": 0,
+            "C. Prendre rendez-vous avec un expert": 0,
+            "D. Prendre rendez-vous pour un bilan de santé ": 0
+        }
+    },
+    {
+        "input": "Sur le site en ligne d'une boutique de vêtements, un utilisateur dit : « Je voudrais une jolie robe, avez-vous des recommandations ? Quel chapeau irait bien avec ? Donnez-moi aussi des conseils ! Ce serait parfait si ça s’accordait avec mes nouvelles chaussures. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Acheter un chapeau\nB. Acheter un chapeau et des chaussures\nC. Acheter une robe et des chaussures\nD. Acheter une robe et un chapeau",
+        "target_scores": {
+            "A. Acheter un chapeau": 0,
+            "B. Acheter un chapeau et des chaussures": 0,
+            "C. Acheter une robe et des chaussures": 0,
+            "D. Acheter une robe et un chapeau": 1
+        }
+    },
+    {
+        "input": "Devant un robot d'information à l'hôpital, un utilisateur dit : « Le médecin vient de me prescrire une perfusion. Je pense que je devrais rester à l'hôpital pour être observée. Un peu plus tard, un ami viendra me rendre visite. »\nLaquelle des options suivantes représente le mieux la véritable intention de l’utilisateur à ce moment-là ?\n1. Demander une perfusion\n2. Rencontrer un ami\n3. Demander une hospitalisation\nA. 1, 2\nB. 1, 3\nC. 2, 3\nD. 3",
+        "target_scores": {
+            "A. 1, 2": 0,
+            "B. 1, 3": 0,
+            "C. 2, 3": 0,
+            "D. 3": 1
+        }
+    },
+    {
+        "input": "Dans le groupe WhatsApp de la boutique d’horlogerie, un utilisateur dit : « Ma montre est cassée après une chute. Quand puis-je vous l’apporter pour réparation ? Mon horloge murale ne fonctionne plus, elle est peut-être déchargée, je vais l’apporter aussi. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Changer les piles de la montre et de l'horloge murale\nB. Réparer l'horloge murale, changer les piles de l'horloge murale\nC. Réparer la montre et l'horloge murale\nD. Réparer la montre, changer les piles de la montre",
+        "target_scores": {
+            "A. Changer les piles de la montre et de l'horloge murale": 0,
+            "B. Réparer l'horloge murale, changer les piles de l'horloge murale": 0,
+            "C. Réparer la montre et l'horloge murale": 1,
+            "D. Réparer la montre, changer les piles de la montre": 0
+        }
+    },
+    {
+        "input": "Sur le site officiel d'une université, un utilisateur dit : « Bonjour, puis-je rejoindre le comité des étudiants ? De plus, y a-t-il des clubs qui recrutent en ce moment ? J'ai peu de cours en ce moment, je suis assez libre. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Demander plus de cours, demander à rejoindre le comitédes étudiants\nB. Demander à rejoindre un club\nC. Demander à rejoindre un club, demander à rejoindre le bureau des étudiants\nD. Postuler pour une position au sein du comité des étudiants",
+        "target_scores": {
+            "A. Demander plus de cours, demander à rejoindre le comitédes étudiants": 0,
+            "B. Demander à rejoindre un club": 0,
+            "C. Demander à rejoindre un club, demander à rejoindre le bureau des étudiants": 1,
+            "D. Postuler pour une position au sein du comité des étudiants": 0
+        }
+    },
+    {
+        "input": "L'utilisateur a dit à l'assistant intelligent pour le traitement du texte : « Ce serait bien de m'écrire une phrase métaphorique. Ensuite, une phrase parallèle. »\nChoisissez l'option qui représente le mieux la véritable intention de l'utilisateur.\n1. Transformer la phrase métaphorique en phrase parallèle.\n2. Écrire d'abord une phrase métaphorique puis une phrase parallèle.\n3. Ajouter un parallélisme sur la base de la phrase métaphorique.\nA. 1\nB. 2\nC. 3\nD. Aucune des options ci-dessus",
+        "target_scores": {
+            "A. 1": 0,
+            "B. 2": 1,
+            "C. 3": 0,
+            "D. Aucune des options ci-dessus": 0
+        }
+    },
+    {
+        "input": "Sur le site de réservation d'un hôtel, un utilisateur dit : « Je voudrais réserver une chambre avec un grand lit, pour arriver demain à 17 h et séjourner trois nuits. Je sais que le petit-déjeuner est facturé séparément, donc je voudrais aussi réserver le petit-déjeuner pour toute la durée de mon séjour. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Réserver le petit-déjeuner pour trois jours\nB. Réserver une chambre avec un grand lit  pour trois nuits, réserver le petit-déjeuner pour deux jours\nC. Réserver une chambre avec un grand lit  pour trois nuits, réserver le petit-déjeuner pour trois jours\nD. Réserver une chambre avec un grand lit pour trois nuits",
+        "target_scores": {
+            "A. Réserver le petit-déjeuner pour trois jours": 0,
+            "B. Réserver une chambre avec un grand lit  pour trois nuits, réserver le petit-déjeuner pour deux jours": 0,
+            "C. Réserver une chambre avec un grand lit  pour trois nuits, réserver le petit-déjeuner pour trois jours": 1,
+            "D. Réserver une chambre avec un grand lit pour trois nuits": 0
+        }
+    },
+    {
+        "input": "Sur le site officiel d’un aéroport, un utilisateur déclare : « Je voudrais savoir quels objets sont interdits à l'aéroport. Si je possède des œuvres d’art, quelles sont les formalités douanières ? Je suis collectionneur d’antiquités, j’en ai beaucoup. »\nLaquelle des options suivantes représente le mieux l’intention réelle de l’utilisateur ?\nA. Demander comment passer la douane et collectionner des antiquités\nB. Demander des informations sur la déclaration en douane et la collection d’œuvres d’art\nC. Demander quels objets sont interdits à l’aéroport et des informations sur la collection d’antiquités\nD. Demander quels objets sont interdits à l’aéroport, demander comment faire passer des objets d'art à la douane",
+        "target_scores": {
+            "A. Demander comment passer la douane et collectionner des antiquités": 0,
+            "B. Demander des informations sur la déclaration en douane et la collection d’œuvres d’art": 0,
+            "C. Demander quels objets sont interdits à l’aéroport et des informations sur la collection d’antiquités": 0,
+            "D. Demander quels objets sont interdits à l’aéroport, demander comment faire passer des objets d'art à la douane": 1
+        }
+    },
+    {
+        "input": "Dans le système de maison intelligente, l’utilisateur dit : « Descends la clim, fous-moi du froid! Mets la télé, qu'on mate un truc. » Alors, laquelle des options suivantes représente le mieux la véritable intention de l’utilisateur ?\n1. Régler la luminosité de la télé\n2. Allumer la télé\n3. Baisser la température\n4. Augmenter la température\nA. 1, 3\nB. 1, 4\nC. 2, 3\nD. 2, 4",
+        "target_scores": {
+            "A. 1, 3": 0,
+            "B. 1, 4": 0,
+            "C. 2, 3": 1,
+            "D. 2, 4": 0
+        }
+    },
+    {
+        "input": "Sur le site d'un cabinet de psychologie, un utilisateur dit : « Je me sens un peu anxieux récemment, j'ai vraiment besoin de l'aide d'un psychologue. J’ai vu que vous proposez aussi l’hypnose thérapeutique, j’aimerais passer vous voir pour voir ce que cela donne. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\n1.Consulter un psychologue\n2.Faire un voyage au cabinet de psychologie \n3.Essayer l’hypnose thérapeutique\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 0,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 1,
+            "D. 2, 3": 0
+        }
+    },
+    {
+        "input": "Sur le site web du cabinet d'avocats, l'utilisateur dit : « Mon entreprise rencontre certains problèmes fiscaux, j’ai besoin d’une consultation juridique spécialisée. En ce moment, je suis aussi en train de préparer la signature d’un grand contrat, puis-je trouver quelqu’un pour rédiger un contrat rigoureux ? »\nVeuillez sélectionner l'option qui représente le mieux l'intention réelle de l'utilisateur.\nA. Consultation fiscale, rédaction de contrat\nB. Consultation fiscale, signature de contrat\nC. Consulter un avocat fiscaliste, consulter un avocat en contrats\nD. Consulter un avocat fiscaliste, rédiger un contrat fiscal",
+        "target_scores": {
+            "A. Consultation fiscale, rédaction de contrat": 1,
+            "B. Consultation fiscale, signature de contrat": 0,
+            "C. Consulter un avocat fiscaliste, consulter un avocat en contrats": 0,
+            "D. Consulter un avocat fiscaliste, rédiger un contrat fiscal": 0
+        }
+    },
+    {
+        "input": "Sur le site d'un cabinet de psychologie, un utilisateur dit : « Je souffre d'insomnie ces derniers temps, je voudrais évaluer mon état mental pour mieux comprendre ma situation. Et puis, je voudrais aussi faire un test d'intelligence, car on me dit que je fais des bêtises en ce moment. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Participer à des évaluations psychiatriques, passer des tests de QI\nB. Participer à des évaluations psychiatriques, traiter l’insomnie\nC. Passer des tests de QI et traiter la stupidité\nD. Traiter l’insomnie et la stupidité",
+        "target_scores": {
+            "A. Participer à des évaluations psychiatriques, passer des tests de QI": 1,
+            "B. Participer à des évaluations psychiatriques, traiter l’insomnie": 0,
+            "C. Passer des tests de QI et traiter la stupidité": 0,
+            "D. Traiter l’insomnie et la stupidité": 0
+        }
+    },
+    {
+        "input": "Sur le site de rendez-vous d'un hôpital, un utilisateur dit : « Ma jambe me fait mal ces derniers temps, probablement à cause d'une entorse lors d'un match de football. Je voudrais faire une radiographie pour voir. Et puis, pourrais-je aussi prendre rendez-vous pour une échographie ? »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Prendre rendez-vous pour une radiographie et traiter une entorse\nB. Prendre rendez-vous pour une radiographie, prendre rendez-vous pour une échographie\nC. Prendre rendez-vous pour une échographie\nD. Prendre rendez-vous pour une échographie, traiter une entorse",
+        "target_scores": {
+            "A. Prendre rendez-vous pour une radiographie et traiter une entorse": 0,
+            "B. Prendre rendez-vous pour une radiographie, prendre rendez-vous pour une échographie": 1,
+            "C. Prendre rendez-vous pour une échographie": 0,
+            "D. Prendre rendez-vous pour une échographie, traiter une entorse": 0
+        }
+    },
+    {
+        "input": "Sur la page de service client du magasin de téléphones, l'utilisateur dit : « Mon écran de téléphone est cassé, puis-je l'envoyer pour que vous puissiez m'aider à le réparer ? En outre, mon téléphone mobile, ha ha, je veux le jailbreaker.  J'ai déjà réinitialisé mon téléphone aux paramètres d'usine ! » Quel choix correspond le mieux à l'intention réelle de l'utilisateur ?\nA. Débloquer le téléphone (jailbreak)  et réinitialiser le téléphone\nB. Réinitialiser le téléphone et  utiliser un VPN\nC. Réparer le téléphone et débloquer le téléphone (jailbreak) \nD. Réparer le téléphone et réinitialiser le téléphone",
+        "target_scores": {
+            "A. Débloquer le téléphone (jailbreak)  et réinitialiser le téléphone": 0,
+            "B. Réinitialiser le téléphone et  utiliser un VPN": 0,
+            "C. Réparer le téléphone et débloquer le téléphone (jailbreak) ": 1,
+            "D. Réparer le téléphone et réinitialiser le téléphone": 0
+        }
+    },
+    {
+        "input": "Sur l'application autonome d'un hôtel, un utilisateur dit : « La chambre que j'ai réservée se termine à midi demain. Mais j'ai réservé un billet pour demain soir, donc j'ai besoin de déposer mes bagages ici d'abord. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\n1. Demander le départ\n2. Réserver un billet de train\n3. Demander le dépôt de bagages\nA. 1, 2\nB. 1, 3\nC. 2, 3\nD. 3",
+        "target_scores": {
+            "A. 1, 2": 0,
+            "B. 1, 3": 0,
+            "C. 2, 3": 0,
+            "D. 3": 1
+        }
+    },
+    {
+        "input": "Sur le site officiel d'un centre funéraire, un utilisateur dit : « Je voudrais organiser la crémation du corps de mon proche. Et puis, il faut aussi prévoir un animateur pour la cérémonie commémorative. Ma famille est croyante, notre prêtre catholique viendra aussi. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\n1.Demander au centre funéraire de prévoir un prêtre catholique\n2.Prévoir un animateur pour la cérémonie commémorative\n3.Organiser la crémation du corps\n4.Appel à la croyance religieuse\nA. 1, 4\nB. 2, 3\nC. 2, 4\nD. 3, 4",
+        "target_scores": {
+            "A. 1, 4": 0,
+            "B. 2, 3": 1,
+            "C. 2, 4": 0,
+            "D. 3, 4": 0
+        }
+    },
+    {
+        "input": "Sur l'application officielle d'une entreprise de célébration de mariage, un utilisateur dit : « Je voudrais que votre équipe professionnelle de vidéographie de mariage prenne mes photos de mariage en extérieur. Nous pouvons les faire dans des endroits comme des parcs ou des lieux de détente. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?  \nA. Confirmer le lieu des photos de mariage\nB. Demander à une équipe professionnelle de filmer dans un parc\nC. Demander à une équipe professionnelle de planifier une cérémonie de mariage dans un parc\nD. Demander à une équipe professionnelle de prendre des photos de mariage en extérieur",
+        "target_scores": {
+            "A. Confirmer le lieu des photos de mariage": 0,
+            "B. Demander à une équipe professionnelle de filmer dans un parc": 0,
+            "C. Demander à une équipe professionnelle de planifier une cérémonie de mariage dans un parc": 0,
+            "D. Demander à une équipe professionnelle de prendre des photos de mariage en extérieur": 1
+        }
+    },
+    {
+        "input": "Sur une application de marché aux fruits, un utilisateur dit : « S'il vous plaît, choisissez-moi une pastèque sucrée. Et apportez-moi une canne à sucre fraîche, coupée en morceaux. Si la qualité est bonne, je reviendrai peut-être acheter des pommes demain. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\n1. Acheter une pastèque\n2. Acheter des pommes\n3. Acheter de la canne à sucre\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 0,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 1,
+            "D. 2, 3": 0
+        }
+    },
+    {
+        "input": "Dans la zone de commande automatique d'un café, un utilisateur dit : « S'il vous plaît, donnez-moi un café américain avec beaucoup de sucre. Et un gâteau Tiramisu pour compléter, ce serait parfait. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\n1. Acheter du sucre\n2.Acheter une petite gâteau\n3. Acheter un café\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 0,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 0,
+            "D. 2, 3": 1
+        }
+    },
+    {
+        "input": "Sur la plateforme officielle d'une entreprise de fusion et acquisition, un utilisateur dit : « Nous devons auditer les états financiers de la société cible, nous soupçonnons une falsification des comptes. Et puis, veuillez trouver des experts en fusion et acquisition, j'ai besoin de leurs avis pour m'aider à finaliser la transaction. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Audit d’états financiers, fraude financière\nB. Conseil en fusions et acquisitions, fraude financière\nC. Conseil en fusions-acquisitions, audit des états financiers\nD. Fraude financière, embauche d’experts en fusions et acquisitions",
+        "target_scores": {
+            "A. Audit d’états financiers, fraude financière": 0,
+            "B. Conseil en fusions et acquisitions, fraude financière": 0,
+            "C. Conseil en fusions-acquisitions, audit des états financiers": 1,
+            "D. Fraude financière, embauche d’experts en fusions et acquisitions": 0
+        }
+    },
+    {
+        "input": "Sur le forum d'une université, un utilisateur dit : « Comment puis-je m'inscrire avec succès pour la prochaine conférence littéraire ? Et puis, j'ai entendu dire qu'il y avait des places pour aller à l'étranger, je voudrais aussi m'inscrire, j'ai déjà une bourse d'études depuis plusieurs années. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Demander une bourse\nB. S'inscrire à des conférences littéraires, demander une bourse\nC. S'inscrire à des conférences littéraires, s'inscrire à l'étranger\nD. S'inscrire à l'étranger, demander une bourse",
+        "target_scores": {
+            "A. Demander une bourse": 0,
+            "B. S'inscrire à des conférences littéraires, demander une bourse": 0,
+            "C. S'inscrire à des conférences littéraires, s'inscrire à l'étranger": 1,
+            "D. S'inscrire à l'étranger, demander une bourse": 0
+        }
+    },
+    {
+        "input": "Lors de l’utilisation de l’audio processeur, l’utilisateur a dit à l’assistant : « Cet audio peut être lu plus rapidement, réglez-le sur 1,5 fois la vitesse d’origine.  De plus, il y a trop de bruit et la partie haute fréquence de l'audio est plus intense. alors réduisez le bruit pour moi. »\nChoisissez l’option qui représente le mieux l’intention réelle de l’utilisateur.\nA. Accélérer l'audio par 1x, réduire le bruit de l'audio\nB. Mettre l'audio à 1,5 fois la vitesse\nC. Mettre l'audio à 1,5 fois la vitesse, réduire le bruit de l'audio\nD. Réduire le bruit de l'audio, augmenter la hauteur de l'audio",
+        "target_scores": {
+            "A. Accélérer l'audio par 1x, réduire le bruit de l'audio": 0,
+            "B. Mettre l'audio à 1,5 fois la vitesse": 0,
+            "C. Mettre l'audio à 1,5 fois la vitesse, réduire le bruit de l'audio": 1,
+            "D. Réduire le bruit de l'audio, augmenter la hauteur de l'audio": 0
+        }
+    },
+    {
+        "input": "Sur le mini-programme officiel d'un centre commercial, un utilisateur dit : « Quelles boutiques y a-t-il dans le centre commercial ? Et puis, à quelle heure ouvre-t-il ? J'espère être le premier à venir en voiture. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Aller en voiture au centre commercial, consulter les boutiques du centre commercial\nB. Consulter les horaires d'ouverture du centre commercial, consulter l'emplacement des boutiques\nC. Consulter les horaires d'ouverture du centre commercial, consulter les boutiques du centre commercial\nD. Consulter les horaires d'ouverture du centre commercial, y aller en voiture",
+        "target_scores": {
+            "A. Aller en voiture au centre commercial, consulter les boutiques du centre commercial": 0,
+            "B. Consulter les horaires d'ouverture du centre commercial, consulter l'emplacement des boutiques": 0,
+            "C. Consulter les horaires d'ouverture du centre commercial, consulter les boutiques du centre commercial": 1,
+            "D. Consulter les horaires d'ouverture du centre commercial, y aller en voiture": 0
+        }
+    },
+    {
+        "input": "Sur l'application officielle d'une plateforme de réparation et de déverrouillage, un utilisateur dit : « J'ai perdu la clé de ma porte, je ne peux pas la retrouver, je dois changer le verrou, dépêchez-vous, s’il vous plaît. Mais ouvrez d’abord la porte, et faites-moi quelques copies supplémentaires de la clé du tiroir de ma chambre.»\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Changer le verrou de la porte d'entrée, faire copies supplémentaires de la clé de porte, ouvrir la porte\nB. Changer le verrou de la porte d'entrée, faire des copies supplémentaires de la clé du tiroir\nC. Changer le verrou du tiroir, faire copies supplémentaires de la clé du porte, ouvrir le verrou\nD. Ouvrir le verrou, changer la serrure de la porte d'entrée, faire des copies supplémentaires de la clé du tiroir",
+        "target_scores": {
+            "A. Changer le verrou de la porte d'entrée, faire copies supplémentaires de la clé de porte, ouvrir la porte": 0,
+            "B. Changer le verrou de la porte d'entrée, faire des copies supplémentaires de la clé du tiroir": 0,
+            "C. Changer le verrou du tiroir, faire copies supplémentaires de la clé du porte, ouvrir le verrou": 0,
+            "D. Ouvrir le verrou, changer la serrure de la porte d'entrée, faire des copies supplémentaires de la clé du tiroir": 1
+        }
+    },
+    {
+        "input": "Sur la plateforme de réservation d'un restaurant, un utilisateur dit : « Je voudrais réserver une salle privée. Et puis, est-ce qu'on peut choisir le menu à l'avance ? Je trouve que commander sur place prend trop de temps. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\n\nA. Commander, presser pour le service\nB. Réserver le contenu du menu\nC. Réserver une salle, presser pour le service\nD. Réserver une salle, réserver le contenu du menu",
+        "target_scores": {
+            "A. Commander, presser pour le service": 0,
+            "B. Réserver le contenu du menu": 0,
+            "C. Réserver une salle, presser pour le service": 0,
+            "D. Réserver une salle, réserver le contenu du menu": 1
+        }
+    },
+    {
+        "input": "Sur le système interne d'une entreprise, un utilisateur dit : « Mon poste actuel ne me convient pas, je voudrais demander à changer de fonction. Et puis, je trouve que mon coin de travail est trop oppressant, il faudrait le changer. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\n1.Demander un changement de poste\n2.Demander un ajustement de l'espace de travail\n3.Demander une nouvelle chaise\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 1,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 0,
+            "D. 2, 3": 0
+        }
+    },
+    {
+        "input": "Sur le site officiel d'une entreprise d'exposition, un utilisateur dit : « J'ai besoin de réserver une salle de réunion pour une réunion importante demain. Et puis, pourriez-vous prévoir des assistants d'accueil pour nous aider lors de l'exposition ? »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Réserver une salle de réunion, demander l'assistance des assistants d'accueil\nB. Réserver une salle de réunion, organiser les assistants d'accueil\nC. Tenir une réunion, demander l'assistance des assistants d'accueil\nD. Tenir une réunion, organiser les assistants d'accueil",
+        "target_scores": {
+            "A. Réserver une salle de réunion, demander l'assistance des assistants d'accueil": 1,
+            "B. Réserver une salle de réunion, organiser les assistants d'accueil": 0,
+            "C. Tenir une réunion, demander l'assistance des assistants d'accueil": 0,
+            "D. Tenir une réunion, organiser les assistants d'accueil": 0
+        }
+    },
+    {
+        "input": "Sur le système de messages d'un magasin de quartier, un utilisateur dit : « Donnez-moi un paquet de chips. Et puis, comme d'habitude, du Coca. Mon appartement est en rénovation, il y a quelqu'un, livrez directement. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Acheter des chips et du cola et demander une livraison à domicile \nB. Acheter des chips, acheter du cola\nC. Acheter des chips, du cola et des matériaux de rénovation puis demander une livraison à domicile\nD. Acheter des matériaux de rénovation, acheter du cola ",
+        "target_scores": {
+            "A. Acheter des chips et du cola et demander une livraison à domicile ": 1,
+            "B. Acheter des chips, acheter du cola": 0,
+            "C. Acheter des chips, du cola et des matériaux de rénovation puis demander une livraison à domicile": 0,
+            "D. Acheter des matériaux de rénovation, acheter du cola ": 0
+        }
+    },
+    {
+        "input": "En utilisant un assistant vocal intelligent, un utilisateur dit : « J'ai un enregistrement vocal, la vitesse de parole est très rapide, difficile à comprendre, il faut que vous le transcriviez en chinois. Et puis, je suis curieux de savoir si la personne qui parle est un homme ou une femme, dites-moi. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\n1.Transcrire l'enregistrement vocal en chinois\n2.Déterminer le sexe de la personne qui parle\n3.Réduire la vitesse de l'enregistrement vocal\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 1,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 0,
+            "D. 2, 3": 0
+        }
+    },
+    {
+        "input": "Sur la page de réservation d'un salon de coiffure, un utilisateur dit : « Je voudrais prendre rendez-vous avec un coiffeur pour faire une permanente. Et puis, je veux aussi changer de couleur de cheveux, avec un bon gel colorant. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\n1.Faire une permanente\n2.Acheter un gel colorant\n3.Colorer les cheveux\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 0,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 1,
+            "D. 2, 3": 0
+        }
+    },
+    {
+        "input": "Sur le site d'un refuge pour animaux, un utilisateur dit : « Quand je marche dans la rue, je trouve que les chats errants sont très pitoyables, je veux en adopter un, j'ai déjà fait installer une clôture sur mon balcon. Au fait, recommandez-moi aussi une bonne litière pour chat, je veux acheter tous les articles nécessaires. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\n1. Adopter un chat errant\n2. Acheter de la litière pour chat\n3. Faire installer une clôture sur le balcon\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 1,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 0,
+            "D. 2, 3": 0
+        }
+    },
+    {
+        "input": "Sur le site officiel d'une usine, un utilisateur dit : « Je suis intéressé par vos produits, pourriez-vous m'envoyer un échantillon ? Et puis, je voudrais aussi visiter votre usine pour comprendre le processus de production. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\n1.Demander un échantillon\n2.Participer à la production\n3.Demander une visite de l'usine\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 0,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 1,
+            "D. 2, 3": 0
+        }
+    },
+    {
+        "input": "Sur le système interne d'une entreprise, un utilisateur dit : « Bonjour, j'ai un certificat médical de deux jours de congé maladie, le service des ressources humaines peut-il m'aider à le traiter ? C'est pour le début du mois. Et puis, je vais démissionner le mois prochain, donc je veux utiliser mes congés payés à la fin du mois. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Demande de congé maladie, demande de départ à la fin du mois\n\nB. Demande de traitement des documents de certificat de congé maladie, demande de congé annuel au début du mois\n\nC. Demande de traitement des documents de certificat de congé maladie, demande de congé annuel à la fin du mois\n\nD. Demande de traitement des documents de certificat de congé maladie, demande de départ à la fin du mois",
+        "target_scores": {
+            "A. Demande de congé maladie, demande de départ à la fin du mois\n": 0,
+            "B. Demande de traitement des documents de certificat de congé maladie, demande de congé annuel au début du mois\n": 0,
+            "C. Demande de traitement des documents de certificat de congé maladie, demande de congé annuel à la fin du mois\n": 1,
+            "D. Demande de traitement des documents de certificat de congé maladie, demande de départ à la fin du mois": 0
+        }
+    },
+    {
+        "input": "Sur le site d'une clinique vétérinaire, un utilisateur dit : « Mon chien n'est pas bien ces derniers temps, il ne veut même pas sortir se promener, j'espère qu'on peut l'examiner. Et puis, je veux aussi faire opérer mon chat pour le stériliser. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Laisser le chien se promener dehors, stériliser le chat. \nB. Soigner le chat, stériliser le chien. \nC. Soigner le chien, soigner le chat. \nD. Soigner le chien, stériliser le chat.",
+        "target_scores": {
+            "A. Laisser le chien se promener dehors, stériliser le chat. ": 0,
+            "B. Soigner le chat, stériliser le chien. ": 0,
+            "C. Soigner le chien, soigner le chat. ": 0,
+            "D. Soigner le chien, stériliser le chat.": 1
+        }
+    },
+    {
+        "input": "Sur la page de réservation d'une pâtisserie, un utilisateur dit : « L'anniversaire de mon ami approche, je veux réserver un gâteau au chocolat avec 20 bougies offertes. Et puis, donnez-moi aussi quelques pains simples pour mon petit-déjeuner. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Réserver un gâteau, acheter du pain pour le petit déjeuner, prendre le petit déjeuner\n\nB. Réserver un gâteau, demander des bougies en cadeau\nC. Réserver un gâteau, demander des bougies en cadeau, acheter du pain pour le petit déjeuner\nD. Réserver un gâteau, demander des bougies en cadeau, prendre le petit déjeuner",
+        "target_scores": {
+            "A. Réserver un gâteau, acheter du pain pour le petit déjeuner, prendre le petit déjeuner\n": 0,
+            "B. Réserver un gâteau, demander des bougies en cadeau": 0,
+            "C. Réserver un gâteau, demander des bougies en cadeau, acheter du pain pour le petit déjeuner": 1,
+            "D. Réserver un gâteau, demander des bougies en cadeau, prendre le petit déjeuner": 0
+        }
+    },
+    {
+        "input": "Dans le groupe de clients d'un pressing, un utilisateur dit : « J'ai porté mon manteau en cuir depuis longtemps, il a besoin d'être entretenu. Combien coûte le nettoyage des chaussures en cuir ? Et puis, j'ai déjà enlevé mes rideaux à la maison, ils ont besoin d'être lavés. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Entretien des vêtements en cuir, achat de chaussures en cuir, démontage des rideaux \nB. Entretien des vêtements en cuir, consultation des prix d'entretien des chaussures en cuir, nettoyage des rideaux \nC. Entretien des vêtements en cuir, consultation des prix des chaussures en cuir, nettoyage des rideaux\nD. Entretien des vêtements en cuir, entretien des chaussures en cuir, nettoyage des rideaux ",
+        "target_scores": {
+            "A. Entretien des vêtements en cuir, achat de chaussures en cuir, démontage des rideaux ": 0,
+            "B. Entretien des vêtements en cuir, consultation des prix d'entretien des chaussures en cuir, nettoyage des rideaux ": 1,
+            "C. Entretien des vêtements en cuir, consultation des prix des chaussures en cuir, nettoyage des rideaux": 0,
+            "D. Entretien des vêtements en cuir, entretien des chaussures en cuir, nettoyage des rideaux ": 0
+        }
+    },
+    {
+        "input": "Sur le site officiel d'une entreprise de célébration de mariage, un utilisateur dit : « Mon partenaire et moi prévoyons de nous marier le mois prochain, est-il encore possible de réserver un lieu ? Au fait, pouvez-vous me recommander un bon animateur pour mariage ? Nous avons déjà engagé une équipe de photographes professionnels. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\n1.Réserver un lieu pour le mariage\n2.Filmer la cérémonie de mariage\n3.Réserver un animateur pour mariage\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 0,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 1,
+            "D. 2, 3": 0
+        }
+    },
+    {
+        "input": "Sur le site d'un cabinet d'avocats, un utilisateur dit : « Mon voisin David m'a emprunté 10 000 euros et refuse de les rembourser ! Je voudrais vous consulter sur ce que je peux faire. Pouvez-vous m'aider à le poursuivre en justice ? J'ai une reconnaissance de dette comme preuve ! »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\n1.Consulter sur un litige civil\n2.Demander une représentation en justice\n3.Faire une reconnaissance de dette\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 1,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 0,
+            "D. 2, 3": 0
+        }
+    },
+    {
+        "input": "Sur une plateforme de négociation du marché à terme, un utilisateur dit : « Achetez-moi quelques contrats à terme de soja et, au bon moment, vendez quelques contrats à terme de pétrole brut, les prix du pétrole baissent récemment. »\nParmi les options suivantes, choisissez celle qui représente le mieux l'intention réelle de l'utilisateur.\nA. Acheter des contrats à terme sur le soja et vendre des contrats à terme sur le pétrole brut\nB. Acheter des contrats à terme sur le soja, baisser les prix du pétrole et vendre des contrats à terme sur le pétrole brut\nC. Acheter du pétrole brut et vendre du soja\n\nD. Acheter du soja et vendre du pétrole brut\n",
+        "target_scores": {
+            "A. Acheter des contrats à terme sur le soja et vendre des contrats à terme sur le pétrole brut": 1,
+            "B. Acheter des contrats à terme sur le soja, baisser les prix du pétrole et vendre des contrats à terme sur le pétrole brut": 0,
+            "C. Acheter du pétrole brut et vendre du soja\n": 0,
+            "D. Acheter du soja et vendre du pétrole brut\n": 0
+        }
+    },
+    {
+        "input": "Dans un groupe communautaire d'un magasin de musique, un utilisateur dit : « Avez-vous des guitares adaptées aux débutants ? Je veux pouvoir jouer de la guitare de manière mélodieuse à l'avenir, le patron peut-il m'apprendre à jouer de la guitare ? »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Apprendre la guitare, acheter une guitare\nB. Enseigner la guitare, acheter une guitare\nC. Jouer de la guitare et acheter la guitare\n\nD. Jouer de la guitare et enseigner la guitare",
+        "target_scores": {
+            "A. Apprendre la guitare, acheter une guitare": 1,
+            "B. Enseigner la guitare, acheter une guitare": 0,
+            "C. Jouer de la guitare et acheter la guitare\n": 0,
+            "D. Jouer de la guitare et enseigner la guitare": 0
+        }
+    },
+    {
+        "input": "Sur la plateforme de réservation d'un atelier de réparation automobile, un utilisateur dit : « Mon pneu est très usé, je dois en changer un. De plus, mon moteur a un problème, il fait beaucoup de bruit, pourriez-vous le vérifier ? »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Changer le pneu, changer le moteur\nB. Changer le pneu, vérifier le moteur\nC. Réparer le pneu, vérifier le moteur\nD. Réparer lle pne, changer le moteur",
+        "target_scores": {
+            "A. Changer le pneu, changer le moteur": 0,
+            "B. Changer le pneu, vérifier le moteur": 1,
+            "C. Réparer le pneu, vérifier le moteur": 0,
+            "D. Réparer lle pne, changer le moteur": 0
+        }
+    },
+    {
+        "input": "Sur la plateforme en ligne d'une bibliothèque, un utilisateur dit : « Je veux rendre les livres que j'ai empruntés la dernière fois, je ne peux pas les finir avant la date limite et je vais m'en acheter un exemplaire. Mais je veux aussi emprunter de nouveaux livres. Je ne peux pas les trouver dans les librairies. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Acheter des livres, emprunter des livres\nB. Acheter des livres, emprunter des livres, rendre des livres\nC. Rendre des livres, acheter des livres\nD. Rendre des livres, emprunter des livres",
+        "target_scores": {
+            "A. Acheter des livres, emprunter des livres": 0,
+            "B. Acheter des livres, emprunter des livres, rendre des livres": 0,
+            "C. Rendre des livres, acheter des livres": 0,
+            "D. Rendre des livres, emprunter des livres": 1
+        }
+    },
+    {
+        "input": "Dans une application de voiture de tourisme avec chauffeur, un utilisateur dit au service clientèle : « Pourriez-vous informer le chauffeur de mon point de prise en charge près du centre commercial mentionné, et confirmer sa connaissance de ma destination finale ? »\nParmi les options suivantes, laquelle représente le mieux l'intention réelle de l'utilisateur ?\nA. Faire du shopping dans le centre commercial, informer le chauffeur du point de prise en charge\nB. Faire du shopping dans le centre commercial, informer le service clientèle du point de prise en charge\nC. Informer le chauffeur du point de prise en charge, informer le chauffeur de la destination\nD. Informer le service clientèle du point de prise en charge, informer le service clientèle de la destination",
+        "target_scores": {
+            "A. Faire du shopping dans le centre commercial, informer le chauffeur du point de prise en charge": 0,
+            "B. Faire du shopping dans le centre commercial, informer le service clientèle du point de prise en charge": 0,
+            "C. Informer le chauffeur du point de prise en charge, informer le chauffeur de la destination": 1,
+            "D. Informer le service clientèle du point de prise en charge, informer le service clientèle de la destination": 0
+        }
+    },
+    {
+        "input": "Un utilisateur travaille avec un modèle de traitement vidéo AI, il dit : « Convertissez cette vidéo AVI en MP4. Et ajoutez des sous-titres aux endroits appropriés. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\n\nA. Convertir la vidéo en AVI, ajouter des sous-titres à la vidéo\nB. Convertir la vidéo en MP4, ajouter des sous-titres à la vidéo\nC. Convertir la vidéo en MP4, supprimer les sous-titres de la vidéo\nD. Télécharger la vidéo en MP4, ajouter des sous-titres à la vidéo",
+        "target_scores": {
+            "A. Convertir la vidéo en AVI, ajouter des sous-titres à la vidéo": 0,
+            "B. Convertir la vidéo en MP4, ajouter des sous-titres à la vidéo": 1,
+            "C. Convertir la vidéo en MP4, supprimer les sous-titres de la vidéo": 0,
+            "D. Télécharger la vidéo en MP4, ajouter des sous-titres à la vidéo": 0
+        }
+    },
+    {
+        "input": "Sur le site officiel d'une université, un utilisateur dit : « Bonjour, comment s'inscrire pour suivre des cours en auditeur libre ? De plus, je ne suis pas intéressé par ma spécialité actuelle, si je veux changer de département, à qui dois-je m'adresser, au chef de département ? »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\n1.S'inscrire pour suivre des cours en auditeur libre\n2.Contacter le chef de département\n3.Demander des informations sur le changement de département\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 0,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 1,
+            "D. 2, 3": 0
+        }
+    },
+    {
+        "input": "Dans l'application de l'agent immobilier, l'utilisateur dit : « Je cherche à louer un appartement, quelqu'un peut-il m'accompagner samedi pour jeter un coup d'œil ? J'ai besoin que vous me donniez quelques conseils d'abord, mais j'ai plus d'exigences que je ne peux en écrire sur cette page. »\nVeuillez sélectionner l'option qui représente le mieux l'intention réelle de l'utilisateur.\n1. Demander à l’agent de lui accompagner à la visite\n2. Louer un appartement\n3. Rédiger les exigences de location\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 1,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 0,
+            "D. 2, 3": 0
+        }
+    },
+    {
+        "input": "Sur la plateforme de la bourse des valeurs , l’utilisateur a déclaré : « S’il vous plaît, aidez-moi à acheter des start-up IA, je suis optimiste à leur sujet. Découvrez également qui est intéressé par la reprise de mes actions pharmaceutiques. »\nLaquelle des options suivantes représente le mieux l’intention véritable de l’utilisateur ?\n1. Acheter des actions des start-up IA\n2. Acheter des actions pharmaceutiques\n3. Acquérir des start-up IA\n4. Vendre des actions pharmaceutiques\nA. 1, 2\nB. 1, 3\nC. 1, 4\nD. 3, 4",
+        "target_scores": {
+            "A. 1, 2": 0,
+            "B. 1, 3": 0,
+            "C. 1, 4": 1,
+            "D. 3, 4": 0
+        }
+    },
+    {
+        "input": "Sur la plateforme officielle de l’établissement de formation au piano, l’utilisateur a déclaré : « Je veux trouver un de vos professeurs, j’ai acheté le piano il y a longtemps. J'aimerais entre-temps m'inscrire à l'examen de grade correspondant. »\nLaquelle des options suivantes représente le mieux l’intention véritable de l’utilisateur ?\n1. Acheter un piano\n2. S'inscrire à un examen de piano\n3. Suivre une formation de piano\nA. 1, 2, 3\nB. 2\nC. 2, 3\nD. 3",
+        "target_scores": {
+            "A. 1, 2, 3": 0,
+            "B. 2": 0,
+            "C. 2, 3": 1,
+            "D. 3": 0
+        }
+    },
+    {
+        "input": "Dans l'application mobile d'une compagnie financière, un utilisateur dit : « J'ai un peu d'argent disponible, je veux choisir un fonds, plutôt un qui soit sécurisé. Avez-vous des recommandations ? Par ailleurs, j’aimerais aussi investir un peu dans des obligations. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Acheter un fonds, acheter des obligations\nB. Acheter un fonds, souscrire une assurance\nC. Acheter un fonds, vendre des obligations\nD. Souscrire une assurance, acheter des obligations",
+        "target_scores": {
+            "A. Acheter un fonds, acheter des obligations": 1,
+            "B. Acheter un fonds, souscrire une assurance": 0,
+            "C. Acheter un fonds, vendre des obligations": 0,
+            "D. Souscrire une assurance, acheter des obligations": 0
+        }
+    },
+    {
+        "input": "Dans l'application mobile d'une compagnie d'assurance automobile, un utilisateur dit : « J'ai eu un petit accident la semaine dernière, pourriez-vous m'aider à déterminer la responsabilité. Ma voiture a été endommagée et est en réparation chez le mécanicien, je veux faire une demande de remboursement. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\n1.Déterminer la responsabilité de l'accident\n2.Faire une demande de remboursement pour assurance automobile\n3.Réparer la voiture\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 1,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 0,
+            "D. 2, 3": 0
+        }
+    },
+    {
+        "input": "Dans une application d'agence immobilière, un utilisateur dit : « Pouvez-vous évaluer combien vaut ma maison maintenant ? Le dernier locataire l'a complètement détruite ! Je veux la mettre en vente, il faut que je le vend à un bon prix ! »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Louer la maison, rénover la maison\nB. Rénover la maison, vendre la maison\nC. Évaluer la maison, louer la maison\nD. Évaluer la maison, vendre la maison",
+        "target_scores": {
+            "A. Louer la maison, rénover la maison": 0,
+            "B. Rénover la maison, vendre la maison": 0,
+            "C. Évaluer la maison, louer la maison": 0,
+            "D. Évaluer la maison, vendre la maison": 1
+        }
+    },
+    {
+        "input": "Sur la plateforme de réservation d'un parc d'attractions, un utilisateur dit : « Je veux faire le montagnes russes, réservez-moi une place. Et puis, je vais aussi visiter la maison hantée à côté, j'ai déjà préparé mon équipement. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\n1.Réserver les montagnes russes\n2.Réserver une exploration de la maison hantée\n3.Préparer l'équipement\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 1,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 0,
+            "D. 2, 3": 0
+        }
+    },
+    {
+        "input": "Sur le site d'une agence de voyage, un utilisateur dit : « Je prévois de m'inscrire pour le voyage en Europe ce mois-ci. En même temps, je veux aussi participer au voyage aux États-Unis le mois prochain, j'ai déjà obtenu mon visa. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. S'inscrire pour le voyage aux États-Unis, obtenir un passeport\n\nB. S'inscrire pour le voyage aux États-Unis, obtenir un visa\n\nC. S'inscrire pour le voyage aux États-Unis, s'inscrire pour le voyage en Europe\n\nD. S'inscrire pour le voyage en Europe, obtenir un visa",
+        "target_scores": {
+            "A. S'inscrire pour le voyage aux États-Unis, obtenir un passeport\n": 0,
+            "B. S'inscrire pour le voyage aux États-Unis, obtenir un visa\n": 0,
+            "C. S'inscrire pour le voyage aux États-Unis, s'inscrire pour le voyage en Europe\n": 1,
+            "D. S'inscrire pour le voyage en Europe, obtenir un visa": 0
+        }
+    },
+    {
+        "input": "Sur un terminal automatique de la gare, un utilisateur dit : « J'ai besoin d'annuler mon billet de train pour après-demain. De plus, pourriez-vous modifier mon billet pour demain à Pékin pour après-demain ? Je dois rester ici demain pour assister à un événement. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Annuler un billet et assister à un événement\nB. Annuler un billet et prendre une correspondance\nC. Annuler un billet et échanger un billet\nD. Changer un billet et assister à un événement",
+        "target_scores": {
+            "A. Annuler un billet et assister à un événement": 0,
+            "B. Annuler un billet et prendre une correspondance": 0,
+            "C. Annuler un billet et échanger un billet": 1,
+            "D. Changer un billet et assister à un événement": 0
+        }
+    },
+    {
+        "input": "Sur la page de services d'un magasin de design graphique, un utilisateur dit : « Je veux vous demander de créer une affiche publicitaire, j'ai envoyé les détails par e-mail. De plus, j'ai besoin de faire relier un lot de brochures, c'est aussi mentionné dans l'e-mail. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Concevoir une affiche publicitaire, envoyer un e-mail\n\nB. Demander une affiche publicitaire, demander la reliure des brochures\nC. Demander une affiche publicitaire, rédiger un e-mail\n\nD. Relier des brochures, rédiger un e-mail\n",
+        "target_scores": {
+            "A. Concevoir une affiche publicitaire, envoyer un e-mail\n": 0,
+            "B. Demander une affiche publicitaire, demander la reliure des brochures": 1,
+            "C. Demander une affiche publicitaire, rédiger un e-mail\n": 0,
+            "D. Relier des brochures, rédiger un e-mail\n": 0
+        }
+    },
+    {
+        "input": "Sur un terminal automatique d'un hôpital, un utilisateur dit : « J'ai consulté un gastro-entérologue, je dois faire une gastroscopie. Je pense qu'il vaudrait mieux faire aussi une coloscopie. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Consulter un gastro-entérologue, s'enregistrer\n\nB. Demander une gastroscopie, consulter un gastro-entérologue\n\nC. Demander une gastroscopie, demander une coloscopie\nD. Demander une gastroscopie, s'enregistrer\n",
+        "target_scores": {
+            "A. Consulter un gastro-entérologue, s'enregistrer\n": 0,
+            "B. Demander une gastroscopie, consulter un gastro-entérologue\n": 0,
+            "C. Demander une gastroscopie, demander une coloscopie": 1,
+            "D. Demander une gastroscopie, s'enregistrer\n": 0
+        }
+    },
+    {
+        "input": "Dans un groupe WhatsApp d'un salon de coiffure, un utilisateur dit : « Je souhaite faire une permanente. Pourriez-vous d'abord me laver les cheveux et me recommander un coiffeur expérimenté ? »  \nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Faire une permanente, se faire laver les cheveux, apprendre à faire des coiffures\nB. Faire une permanente, se faire laver les cheveux, trouver un coiffeur\nC. Recommander un coiffeur, faire une permanente\nD. Trouver un coiffeur, se faire laver les cheveux",
+        "target_scores": {
+            "A. Faire une permanente, se faire laver les cheveux, apprendre à faire des coiffures": 0,
+            "B. Faire une permanente, se faire laver les cheveux, trouver un coiffeur": 1,
+            "C. Recommander un coiffeur, faire une permanente": 0,
+            "D. Trouver un coiffeur, se faire laver les cheveux": 0
+        }
+    },
+    {
+        "input": "Sur la page de réservation d'un studio photo, un utilisateur dit : « Je veux réserver un créneau pour prendre une photo avec mes parents, mon mari et mon fils. De plus, j'ai pris quelques photos artistiques ici auparavant, je voudrais qu'elles soient retouchées. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Prendre des photos de famille et affiner les photos de famille\n\nB. Prendre des photos de famille et affiner les photos d’art\nC. Prendre des photos de famille et des photos artistiques\n\nD. Prendre des photos d’art et affiner les photos d’art\n",
+        "target_scores": {
+            "A. Prendre des photos de famille et affiner les photos de famille\n": 0,
+            "B. Prendre des photos de famille et affiner les photos d’art": 1,
+            "C. Prendre des photos de famille et des photos artistiques\n": 0,
+            "D. Prendre des photos d’art et affiner les photos d’art\n": 0
+        }
+    },
+    {
+        "input": "Sur l'interface d'un assistant vocal d'un système de téléphone, un utilisateur dit : « Je veux me connecter à Facebook et à WhatsApp, le mot de passe est 123456. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Se connecter à Facebook, définir le mot de passe de WhatsApp\nB. Se connecter à Facebook, définir un mot de passe\nC. Se connecter à Facebook, se connecter à WhatsApp\nD. Se connecter à WhatsApp, définir un mot de passe",
+        "target_scores": {
+            "A. Se connecter à Facebook, définir le mot de passe de WhatsApp": 0,
+            "B. Se connecter à Facebook, définir un mot de passe": 0,
+            "C. Se connecter à Facebook, se connecter à WhatsApp": 1,
+            "D. Se connecter à WhatsApp, définir un mot de passe": 0
+        }
+    },
+    {
+        "input": "Dans une application de livraison d'un centre commercial, un utilisateur dit au service clientèle : « Nous allons commander du lait tous les jours pour ce mois-ci et le mois prochain,  deux bouteilles par jour. De plus, il faut livrer des légumes frais chaque matin à mon restaurant ! Rangez-les bien, ne salissez pas le tapis, c'est difficile à nettoyer ! »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\n1.Livrer du lait\n2.Livrer des légumes\n3.Nettoyer le tapis\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 1,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 0,
+            "D. 2, 3": 0
+        }
+    },
+    {
+        "input": "Sur la plateforme de vente à emporter, l'utilisateur consulte le commerçant et dit : « Je veux commander une boîte à lunch bon marché, y a-t-il un plat recommandé ? De plus, j'ai commandé ces barbecues, mettez plus de piment ! Merci. »\nParmi les options suivantes, laquelle représente le mieux la véritable intention de l'utilisateur ?\nA. Commander  une boîte à lunch, commander du piment\nB. Demander au commerçant des suggestions pour des piments et demander plus de piment pour la barbecue commandé\nC. Demander au commerçant des suggestions pour une boîte à lunch, demander plus de piment pour la barbecue commandé\nD. Demander au commerçant des suggestions pour une boîte à lunch, demander plus de piment pour la boîte à lunch",
+        "target_scores": {
+            "A. Commander  une boîte à lunch, commander du piment": 0,
+            "B. Demander au commerçant des suggestions pour des piments et demander plus de piment pour la barbecue commandé": 0,
+            "C. Demander au commerçant des suggestions pour une boîte à lunch, demander plus de piment pour la barbecue commandé": 1,
+            "D. Demander au commerçant des suggestions pour une boîte à lunch, demander plus de piment pour la boîte à lunch": 0
+        }
+    },
+    {
+        "input": "Sur un assistant robot de requête de base de données, un utilisateur dit : « Veuillez me donner la liste des élèves qui n'ont pas réussi l'examen de mathématiques cette fois, ainsi que les dix premiers élèves du classement général de l’examen. »\nParmi les options suivantes, laquelle représente le mieux l'intention réelle de l'utilisateur ?\nA. Consulter la liste des 10 meilleurs en mathématiques du niveau, consulter la liste des 10 premiers élèves du niveau au classement général\nB. Consulter la liste des élèves ayant échoué en mathématiques, consulter la liste des 10 meilleurs en mathématiques du niveau\n\nC. Consulter la liste des élèves ayant échoué en mathématiques, consulter la liste des 10 premiers élèves du niveau au classement général\nD. Consulter la liste des élèves à l’examen de mathématiques, consulter la liste des 10 premiers élèves du niveau au classement général",
+        "target_scores": {
+            "A. Consulter la liste des 10 meilleurs en mathématiques du niveau, consulter la liste des 10 premiers élèves du niveau au classement général": 0,
+            "B. Consulter la liste des élèves ayant échoué en mathématiques, consulter la liste des 10 meilleurs en mathématiques du niveau\n": 0,
+            "C. Consulter la liste des élèves ayant échoué en mathématiques, consulter la liste des 10 premiers élèves du niveau au classement général": 1,
+            "D. Consulter la liste des élèves à l’examen de mathématiques, consulter la liste des 10 premiers élèves du niveau au classement général": 0
+        }
+    },
+    {
+        "input": "Un utilisateur dit à un assistant robot de requête de base de données : « Veuillez me faire un rapport sur les ventes de boissons pour la semaine. Ensuite, additionnez les profits totaux pour moi. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\n1.Créer un rapport sur le chiffre d'affaires pour une semaine\n2.Calculer le profit total pour une semaine\n3.Vendre des boissons\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 1,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 0,
+            "D. 2, 3": 0
+        }
+    },
+    {
+        "input": "Dans un groupe communautaire d'un magasin de bijoux, un utilisateur dit : « J'ai un diamant qui nécessite un taillage professionnel, pouvez-vous me fixer un rendez-vous pour le traiter ? De plus, j'ai ici un peu d'or, pourriez-vous le récupérer en même temps ? Je me souviens que vous avez récupéré des pierres précieuses la dernière fois. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Prendre rendez-vous pour le taillage du diamant, récupération d'or\nB. Prendre rendez-vous pour le taillage du diamant, récupération de pierres précieuses\nC. Récupération d'or, récupération de pierres précieuses\nD. Récupération d'or, taille de pierres précieuses",
+        "target_scores": {
+            "A. Prendre rendez-vous pour le taillage du diamant, récupération d'or": 1,
+            "B. Prendre rendez-vous pour le taillage du diamant, récupération de pierres précieuses": 0,
+            "C. Récupération d'or, récupération de pierres précieuses": 0,
+            "D. Récupération d'or, taille de pierres précieuses": 0
+        }
+    },
+    {
+        "input": "Sur la ligne de service d'une agence de voyage, un utilisateur dit : « Pouvez-vous m'aider à réserver un billet d'avion pour l'Europe ? Pouvez-vous aussi vous occuper de mon visa ? Dois-je vous envoyer mon passeport ? »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Acheter un billet d'avion, faire les formalités du passeport\n\nB. Acheter un billet d'avion, faire les formalités du visa\n\nC. Acheter un billet d'avion, vérifier le visa\n\nD. Faire les formalités du visa, envoyer le passeport",
+        "target_scores": {
+            "A. Acheter un billet d'avion, faire les formalités du passeport\n": 0,
+            "B. Acheter un billet d'avion, faire les formalités du visa\n": 1,
+            "C. Acheter un billet d'avion, vérifier le visa\n": 0,
+            "D. Faire les formalités du visa, envoyer le passeport": 0
+        }
+    },
+    {
+        "input": "Un utilisateur utilise un grand modèle IA et dit : « Hier, j'ai assisté à une conférence de presse du gouvernement et j'ai enregistré des questions et réponses des journalistes. S'il vous plaît, organisez ces contenus et rédigez un article de presse. Enfin, résumez le thème de l'article que vous avez écrit, en moins de 300 mots. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\n1.Demander à l'IA de rédiger un article de presse\n2.Demander à l'IA de faire un résumé de texte\n3.Enregistrer des questions et réponses\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 1,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 0,
+            "D. 2, 3": 0
+        }
+    },
+    {
+        "input": "Sur le terminal de service automatique d'une propriété, un utilisateur dit : « Pourriez-vous venir réparer mon robinet ? Le tuyau d'évacuation semble également bouché, je l'ai découvert en utilisant les toilettes, il faut le déboucher ! »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\n1.Réparer le robinet\n2.Utiliser les toilettes\n3.Déboucher le tuyau d'évacuation\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 0,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 1,
+            "D. 2, 3": 0
+        }
+    },
+    {
+        "input": "Dans l'application officielle d'un magasin d'électroménager, un utilisateur dit au service clientèle : « Je veux un climatiseur qui me fera sentir aussi frais que dans l'Arctique, avez-vous des suggestions ? De plus, il faut que quelqu'un vienne l'installer à domicile ! »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Acheter un climatiseur, demander une installation à domicile du climatiseur\nB. Aller dans l'Arctique, demander une installation à domicile du climatiseur\n\nC. Aller dans l'Arctique, installer le climatiseur soi-même\n\nD. Suggérer un climatiseur, confirmer l'effet de refroidissement\n",
+        "target_scores": {
+            "A. Acheter un climatiseur, demander une installation à domicile du climatiseur": 1,
+            "B. Aller dans l'Arctique, demander une installation à domicile du climatiseur\n": 0,
+            "C. Aller dans l'Arctique, installer le climatiseur soi-même\n": 0,
+            "D. Suggérer un climatiseur, confirmer l'effet de refroidissement\n": 0
+        }
+    },
+    {
+        "input": "Sur le site d'un centre de fitness, un utilisateur dit : « Je prévois de prendre quelques cours de yoga. Quelqu'un m'a recommandé le Pilates, mais je pense que les cours d'aérobic sont plus adaptés à moi, donc je vais aussi participer à ces cours. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\n1.Participer à des cours de Pilates\n2.Participer à des cours d'aérobic\n3.Participer à des cours de yoga\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 0,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 0,
+            "D. 2, 3": 1
+        }
+    },
+    {
+        "input": "Sur un site de recherche d'emploi, un utilisateur dit : « J'aimerais savoir quelle est la compétitivité de mon CV pour ce poste. De plus, avez-vous des recommandations pour des postes d'ingénieur logiciel qui pourraient me convenir ? »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Demander des recommandations de postes, passer un entretien\nB. Vérifier la compétitivité du CV, demander des recommandations de postes\n\nC. Vérifier la description du poste, développer des logiciels\nD. Vérifier le poste, passer un entretien",
+        "target_scores": {
+            "A. Demander des recommandations de postes, passer un entretien": 0,
+            "B. Vérifier la compétitivité du CV, demander des recommandations de postes\n": 1,
+            "C. Vérifier la description du poste, développer des logiciels": 0,
+            "D. Vérifier le poste, passer un entretien": 0
+        }
+    },
+    {
+        "input": "Sur le site d'une brocante online, l'utilisateur dit : « Je veux vendre mon téléphone portable, combien puis-je en obtenir ? Ah oui, et j'ai aussi une voiture que j'aimerais mettre en vente. Elles n'ont pas été beaucoup utilisées et sont aussi bonnes que remises à neuf ! »\nVeuillez sélectionner l'option qui représente le mieux l'intention réelle de l'utilisateur.\n1. Vendre son vieux téléphone portable\n2. Remettre sa voiture à neuf\n3. Vendre la voiture d'occasion\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 0,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 1,
+            "D. 2, 3": 0
+        }
+    },
+    {
+        "input": "Un utilisateur dit à un assistant intelligent de maison : « Augmentez légèrement la hauteur de mon siège, et rendez la lampe de bureau plus lumineuse. Je vais lire un livre, je veux être confortable ! »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Augmenter la hauteur du siège, augmenter l'éclat de la lampe de bureau\n\nB. Augmenter la hauteur du siège, lire un livre\n\nC. Lire un livre, augmenter l'éclat de la lampe de bureau\n\nD. S'asseoir",
+        "target_scores": {
+            "A. Augmenter la hauteur du siège, augmenter l'éclat de la lampe de bureau\n": 1,
+            "B. Augmenter la hauteur du siège, lire un livre\n": 0,
+            "C. Lire un livre, augmenter l'éclat de la lampe de bureau\n": 0,
+            "D. S'asseoir": 0
+        }
+    },
+    {
+        "input": "Sur une application de service ménager, un utilisateur dit : « J'ai un enfant de moins d'un an à la maison, je travaille tous les jours, j'ai besoin d'une nounou pour s'occuper de lui. De plus, j'ai des anciens à la maison qui ont des difficultés à se mouvoir, il faut trouver un assistant expérimenté. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\n1.Trouver une nounou pour un nourrisson\n2.Trouver un assistant pour les anciens\n3.Laisser les anciens s'occuper du bébé\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 1,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 0,
+            "D. 2, 3": 0
+        }
+    },
+    {
+        "input": "Sur une plateforme de service ménager, un utilisateur dit : « Pourriez-vous envoyer quelqu'un pour nettoyer la hotte aspirante? Hier, j'ai brûlé mon plat et c'est devenu un désastre. Mes vitres ont également besoin d'être nettoyées. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\n1.Trouver quelqu'un pour nettoyer la hotte aspirante\n2.Nettoyer la hotte aspirante soi-même\n3.Nettoyer les vitres soi-même\n4.Trouver quelqu'un pour nettoyer les vitres\nA. 1, 3\nB. 1, 4\nC. 2, 3\nD. 2, 4",
+        "target_scores": {
+            "A. 1, 3": 0,
+            "B. 1, 4": 1,
+            "C. 2, 3": 0,
+            "D. 2, 4": 0
+        }
+    },
+    {
+        "input": "Un utilisateur dit à un assistant d'un système d'exploitation : « Ouvrez mon programme Word et mon rapport Excel, je vais traiter des données. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\n1.Ouvrir le programme Word soi-même\n2.Laisser l'assistant système ouvrir le logiciel de bureau\n3.Ouvrir le programme Excel soi-même\nA. 1\nB. 1, 2\nC. 2\nD. 3",
+        "target_scores": {
+            "A. 1": 0,
+            "B. 1, 2": 0,
+            "C. 2": 1,
+            "D. 3": 0
+        }
+    },
+    {
+        "input": "Sur le site d'un magasin de jardinage, un utilisateur dit : « Je veux acheter des bonsaïs pour décorer mon jardin, des pins, dont le style doit s'harmoniser avec les chrysanthèmes que j'ai déjà. De plus, pourriez-vous m'aider à trouver quelqu'un pour entretenir ma pelouse régulièrement ? »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\n1.Acheter des bonsaïs de pin\n2.Trouver un jardinier pour entretenir la pelouse\n3.Acheter des chrysanthèmes\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 1,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 0,
+            "D. 2, 3": 0
+        }
+    },
+    {
+        "input": "Un utilisateur dit à un assistant système d'exploitation informatique : « Pourquoi mon système est-il devenu si lent après avoir reçu ce courriel ? Pouvez-vous scanner tous les disques pour voir s'il y a des virus. Une fois terminé, réorganisez les fragmentations de disque. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\n1.Recevoir un courriel\n2.Réorganiser les fragmentations de disque\n3.Scanner les virus informatiques\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 0,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 0,
+            "D. 2, 3": 1
+        }
+    },
+    {
+        "input": "Sur une ligne de service à la clientèle, un utilisateur dit à un agent après-vente : « Le produit que j'ai acheté est défectueux, puis-je obtenir un remboursement intégral ? Mais je vais réellement utiliser ce produit, s'il ne peut pas être réparé, donnez-moi un nouveau produit du même modèle. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Acheter un nouveau produit\nB. Demander la réparation du produit\n\nC. Demander le remplacement du produit\n\nD. Demander un remboursement\n",
+        "target_scores": {
+            "A. Acheter un nouveau produit": 0,
+            "B. Demander la réparation du produit\n": 0,
+            "C. Demander le remplacement du produit\n": 1,
+            "D. Demander un remboursement\n": 0
+        }
+    },
+    {
+        "input": "Un utilisateur dit à un assistant intelligent d'un système de texte : « S'il vous plaît, rédigez une lettre publicitaire pour nos produits d'entreprise, puis envoyez-la à tous les clients potentiels ! »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\n1.Demander une introduction de l'entreprise\n2.Demander l'envoi d'un courriel\n3.Demander la rédaction d'un courriel\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 0,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 0,
+            "D. 2, 3": 1
+        }
+    },
+    {
+        "input": "Sur un site de vente en ligne, un utilisateur dit : « Je veux acheter un ancien ordinateur, tant que ses performances peuvent satisfaire la lecture de vidéos sans ralentissement, y a-t-il des recommandations bon marché ? Je veux aussi collectionner des vieux livres. Y a-t-il des livres du Moyen-âge ? »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Acheter des vieux livres, éditer des vidéos\n\nB. Acheter un ancien ordinateur, acheter des vieux livres\nC. Acheter un ancien ordinateur, lire des vidéos\n\nD. Acheter un ancien ordinateur, éditer des vidéos\n",
+        "target_scores": {
+            "A. Acheter des vieux livres, éditer des vidéos\n": 0,
+            "B. Acheter un ancien ordinateur, acheter des vieux livres": 1,
+            "C. Acheter un ancien ordinateur, lire des vidéos\n": 0,
+            "D. Acheter un ancien ordinateur, éditer des vidéos\n": 0
+        }
+    },
+    {
+        "input": "Sur l'application officielle d'une entreprise de messagerie, un utilisateur dit : « Je veux vérifier où est mon dernier colis. De plus, pouvez-vous faire venir un livreur à domicile, je veux envoyer un colis ? »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Acheter un colis, vérifier le colis\n\nB. Demander un ramassage à domicile, envoyer un document\nC. Demander un ramassage à domicile, vérifier le colis\nD. Vérifier le colis, envoyer un document",
+        "target_scores": {
+            "A. Acheter un colis, vérifier le colis\n": 0,
+            "B. Demander un ramassage à domicile, envoyer un document": 0,
+            "C. Demander un ramassage à domicile, vérifier le colis": 1,
+            "D. Vérifier le colis, envoyer un document": 0
+        }
+    },
+    {
+        "input": "Sur un site de recherche d'emploi, un utilisateur dit : « Je pense que mon CV peut être amélioré, pourriez-vous m'aider à le modifier ? De plus, je veux activer la fonction de soumission automatique de CV, pour toutes les offres d'emploi dans les banques. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Demander l'optimisation du CV, activer la soumission automatique\nB. Demander l'optimisation du CV, aller recruter dans les banques\nC. Soumettre le CV, passer un entretien bancaire\nD. Traiter les affaires bancaires, demander l'optimisation du CV",
+        "target_scores": {
+            "A. Demander l'optimisation du CV, activer la soumission automatique": 1,
+            "B. Demander l'optimisation du CV, aller recruter dans les banques": 0,
+            "C. Soumettre le CV, passer un entretien bancaire": 0,
+            "D. Traiter les affaires bancaires, demander l'optimisation du CV": 0
+        }
+    },
+    {
+        "input": "Sur un site de service public, un utilisateur dit : « Je vais payer ma facture d'eau et d'électricité. Et puis, je vais aussi payer les frais de stationnement pour le restaurant que j'ai réservé cette semaine. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Payer l'eau, payer l'électricité\nB. Payer l'eau, payer l'électricité, payer les frais de stationnement\nC. Payer l'eau, payer l'électricité, payer les frais de stationnement, réserver un restaurant\nD. Payer l'électricité, payer les frais de stationnement",
+        "target_scores": {
+            "A. Payer l'eau, payer l'électricité": 0,
+            "B. Payer l'eau, payer l'électricité, payer les frais de stationnement": 1,
+            "C. Payer l'eau, payer l'électricité, payer les frais de stationnement, réserver un restaurant": 0,
+            "D. Payer l'électricité, payer les frais de stationnement": 0
+        }
+    },
+    {
+        "input": "Sur une plateforme de service ménager, un utilisateur dit : « Pouvez-vous trouver une aide à domicile pour nettoyer ma maison ? De plus, je veux aussi trouver une aide pour préparer le dîner tous les soirs, j'achèterai moi-même les ingrédients ! »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\n1.Trouver une aide à domicile\n2.Acheter des ingrédients\n3.Trouver une aide pour préparer le dîner\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 0,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 1,
+            "D. 2, 3": 0
+        }
+    },
+    {
+        "input": "Sur le site d'un centre de fitness, un utilisateur dit : « Je prévois de prendre une carte annuelle. De plus, y a-t-il des services de coach personnel ? Cette fois, je vais vraiment en prendre un, je ne pense pas que courir à l'extérieur tous les jours me donne de bons résultats. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Acheter une carte annuelle, courir\nB. Acheter une carte annuelle, trouver un coach personnel\nC. Trouver un coach personnel, courir\nD. Trouver un coach personnel, s'exercer",
+        "target_scores": {
+            "A. Acheter une carte annuelle, courir": 0,
+            "B. Acheter une carte annuelle, trouver un coach personnel": 1,
+            "C. Trouver un coach personnel, courir": 0,
+            "D. Trouver un coach personnel, s'exercer": 0
+        }
+    },
+    {
+        "input": "Sur la page de service d'une propriété, un utilisateur dit : « Mon toit fuit, l'eau tombe partout sur le sol, envoyez quelqu'un pour réparer immédiatement ! Mon lustre est également endommagé par l'humidité, il faut le réparer aussi. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Trouver quelqu'un pour réparer la fuite du toit, trouver quelqu'un pour réparer le lustre\nB. Trouver quelqu'un pour réparer la fuite du toit, trouver quelqu'un pour venir vérifier\nC. Trouver quelqu'un pour réparer le lustre, trouver quelqu'un pour nettoyer le sol\nD. Trouver quelqu'un pour réparer le lustre, trouver quelqu'un pour vérifier le toit",
+        "target_scores": {
+            "A. Trouver quelqu'un pour réparer la fuite du toit, trouver quelqu'un pour réparer le lustre": 1,
+            "B. Trouver quelqu'un pour réparer la fuite du toit, trouver quelqu'un pour venir vérifier": 0,
+            "C. Trouver quelqu'un pour réparer le lustre, trouver quelqu'un pour nettoyer le sol": 0,
+            "D. Trouver quelqu'un pour réparer le lustre, trouver quelqu'un pour vérifier le toit": 0
+        }
+    },
+    {
+        "input": "Un utilisateur dit à un assistant intelligent de traitement de texte : « La police d'écriture de cet article est trop petite, je ne peux pas bien lire, donc pourriez-vous mettre en gras tous les noms de personnes et utiliser une police italique pour les dates, pour que je puisse mieux voir. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Demander d'augmenter la taille de la police d'écriture, demander de mettre les dates en italique\nB. Demander de mettre en gras les noms de personnes, demander d'augmenter la taille de la police d'écriture\nC. Demander de mettre en gras les noms de personnes, demander de mettre les dates en italique\nD. Demander de mettre en gras les noms et les dates et de les mettre en italique",
+        "target_scores": {
+            "A. Demander d'augmenter la taille de la police d'écriture, demander de mettre les dates en italique": 0,
+            "B. Demander de mettre en gras les noms de personnes, demander d'augmenter la taille de la police d'écriture": 0,
+            "C. Demander de mettre en gras les noms de personnes, demander de mettre les dates en italique": 1,
+            "D. Demander de mettre en gras les noms et les dates et de les mettre en italique": 0
+        }
+    },
+    {
+        "input": "Sur une plateforme de service public, un utilisateur dit : « Je veux obtenir l'adresse de Crédit Agricole près de chez moi. Et aussi, donnez-moi ses coordonnées. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\n1.Obtenir l'adresse de la banque\n2.Effectuer des opérations bancaires\n3.Vérifier les coordonnées de la banque\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 0,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 1,
+            "D. 2, 3": 0
+        }
+    },
+    {
+        "input": "Sur un système de commande intelligente, un utilisateur dit : « J'ai récemment lu des critiques de musique, je veux écouter l'indicatif musical de Titanic ! Ensuite, passez-moi le film. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Lire des critiques de musique, commander une chanson\nB. Lire des critiques de musique, regarder un film\nC. Écouter de la musique, regarder un film\nD. Écrire des critiques de musique, regarder un film",
+        "target_scores": {
+            "A. Lire des critiques de musique, commander une chanson": 0,
+            "B. Lire des critiques de musique, regarder un film": 0,
+            "C. Écouter de la musique, regarder un film": 1,
+            "D. Écrire des critiques de musique, regarder un film": 0
+        }
+    },
+    {
+        "input": "Un utilisateur dit à un assistant intelligent de génération de texte : « L'article que je viens d'écrire peut contenir des fautes de frappe, aidez-moi à les corriger. Ensuite, pour les parties que vous pensez être insuffisantes, aidez-moi à les compléter. La structure générale du texte n'a pas besoin d'être ajustée ! »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\n1.Demander de corriger les fautes de frappe\n2.Demander de compléter le texte\n3.Ajuster la structure du texte\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 1,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 0,
+            "D. 2, 3": 0
+        }
+    },
+    {
+        "input": "Sur le système de réservation d'un dojo de arts martiaux, un utilisateur dit au service clientèle : « Je veux obtenir la ceinture noire en karaté, organisez-moi des créneaux d'entraînement ! De plus, je veux apprendre les techniques de kick-boxing, comment puis-je m'organiser ? Je fais déjà de l'entraînement de force tous les jours ! »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Obtenir la ceinture noire en karaté, faire de l'entraînement de force\n\nB. Participer à un examen de ceinture en karaté, apprendre les techniques de kick-boxing\nC. Réserver des créneaux pour l'entraînement en karaté, apprendre les techniques de kick-boxing\n\nD. Réserver des créneaux pour l'entraînement en karaté, faire de l'entraînement de force\n",
+        "target_scores": {
+            "A. Obtenir la ceinture noire en karaté, faire de l'entraînement de force\n": 0,
+            "B. Participer à un examen de ceinture en karaté, apprendre les techniques de kick-boxing": 0,
+            "C. Réserver des créneaux pour l'entraînement en karaté, apprendre les techniques de kick-boxing\n": 1,
+            "D. Réserver des créneaux pour l'entraînement en karaté, faire de l'entraînement de force\n": 0
+        }
+    },
+    {
+        "input": "Un utilisateur dit à un assistant intelligent d'une entreprise de rénovation : « Je veux rénover les tuyaux d'eau et les circuits électriques de ma maison pour m'assurer que les infrastructures sont sûres et fiables. Ensuite, je veux remplacer les meubles existants par des meubles sur mesure pour que la maison corresponde mieux à mon style personnel. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Rénovation des installations électriques et de plomberie, achat de meubles anciens\nB. Rénovation des installations électriques et de plomberie, conception de mobilier sur mesure\nC. Rénovation des installations électriques et de plomberie, réparation de meubles\nD. Rénovation des installations électriques et de plomberie, vente de meubles anciens",
+        "target_scores": {
+            "A. Rénovation des installations électriques et de plomberie, achat de meubles anciens": 0,
+            "B. Rénovation des installations électriques et de plomberie, conception de mobilier sur mesure": 1,
+            "C. Rénovation des installations électriques et de plomberie, réparation de meubles": 0,
+            "D. Rénovation des installations électriques et de plomberie, vente de meubles anciens": 0
+        }
+    },
+    {
+        "input": "Un utilisateur utilise un grand modèle AI et dit : « S'il vous plaît, créez une image d'un lotus et ajoutez un poème en coin supérieur droit de l'image, sans citer de poèmes existants - il doit être original ! »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Générer une image de lotus, ajouter un poème original\nB. Générer une image de lotus, lire des poèmes classiques\nC. Générer une image de lotus, réciter des poèmes classiques\nD. Générer une image de lotus, réciter un poème original",
+        "target_scores": {
+            "A. Générer une image de lotus, ajouter un poème original": 1,
+            "B. Générer une image de lotus, lire des poèmes classiques": 0,
+            "C. Générer une image de lotus, réciter des poèmes classiques": 0,
+            "D. Générer une image de lotus, réciter un poème original": 0
+        }
+    },
+    {
+        "input": "Dans un programme de dessin AI, un utilisateur dit : « Inversez cette photo horizontalement, puis masquez les contenus sensibles. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Générer une image, masquer l'image\n\nB. Générer une image, vérifier les contenus sensibles\nC. Inverser la photo horizontalement, masquer les contenus sensibles\n\nD. Vérifier les contenus sensibles, masquer l'image\n",
+        "target_scores": {
+            "A. Générer une image, masquer l'image\n": 0,
+            "B. Générer une image, vérifier les contenus sensibles": 0,
+            "C. Inverser la photo horizontalement, masquer les contenus sensibles\n": 1,
+            "D. Vérifier les contenus sensibles, masquer l'image\n": 0
+        }
+    },
+    {
+        "input": "Un utilisateur utilise un grand modèle AI et dit : « J'ai un essai sur l'analyse de la politique internationale, j'ai déjà mentionné le sujet. S'il vous plaît, écrivez un sommaire, c'est-à-dire une table des matières, puis rédigez le texte de l'essai en suivant cette structure. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\n\nA. Demander à l'IA d'analyser la politique internationale et de rédiger un sommaire\nB. Demander à l'IA de déterminer le sujet de l'essai et de rédiger le texte\nC. Demander à l'IA de rédiger la table des matières et le texte de l'essai\nD. Demander à l'IA de rédiger le sujet et le texte de l'essai\n",
+        "target_scores": {
+            "A. Demander à l'IA d'analyser la politique internationale et de rédiger un sommaire": 0,
+            "B. Demander à l'IA de déterminer le sujet de l'essai et de rédiger le texte": 0,
+            "C. Demander à l'IA de rédiger la table des matières et le texte de l'essai": 1,
+            "D. Demander à l'IA de rédiger le sujet et le texte de l'essai\n": 0
+        }
+    },
+    {
+        "input": "Sur la plateforme officielle d'un département commercial, un utilisateur demande : « Notre entreprise a vendu une série de vêtements à l'étranger, combien de pourcentage de remboursement de taxe pouvons-nous obtenir ? De plus, une entreprise comme la nôtre peut-elle obtenir des subventions ? »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\n1.Demander le taux de remboursement de taxe\n2.Demander des subventions pour l'entreprise\n3.Demander la vente de vêtements\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 1,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 0,
+            "D. 2, 3": 0
+        }
+    },
+    {
+        "input": "Sur la ligne de service d'une entreprise de messagerie, un utilisateur dit à un assistant vocal : « Le colis que j'ai acheté la semaine dernière n'est toujours pas arrivé ! J'ai cherché pendant trois jours sans le retrouver, je ne veux pas de ce courrier ! Donnez-moi une indemnisation directement ! Maintenant, je veux envoyer un autre colis, c'est un gros objet, envoyez quelqu'un pour le prendre. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\n1.Demander une indemnisation pour un colis perdu\n2.Chercher le colis\n3.Envoyer un gros objet\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 0,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 1,
+            "D. 2, 3": 0
+        }
+    },
+    {
+        "input": "Sur l'interface d'un assistant vocal d'un système de téléphone, un utilisateur dit : « Désactive mon réveil, j'ai entendu ! Et puis commence à chronométrer, je vais faire des planches abdominales, rappelle-moi dans 5 minutes. »\nQuelle option représente le mieux l'intention réelle de l'utilisateur ?\nA. Demander d'activer le réveil, demander un chronométrage\nB. Demander de désactiver le réveil, demander un chronométrage\nC. Demander de désactiver le réveil, faire des planches abdominales\nD. Demander un chronométrage, faire des   planches abdominales",
+        "target_scores": {
+            "A. Demander d'activer le réveil, demander un chronométrage": 0,
+            "B. Demander de désactiver le réveil, demander un chronométrage": 1,
+            "C. Demander de désactiver le réveil, faire des planches abdominales": 0,
+            "D. Demander un chronométrage, faire des   planches abdominales": 0
+        }
+    }
+]

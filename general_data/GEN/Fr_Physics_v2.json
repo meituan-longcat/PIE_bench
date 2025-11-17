@@ -1,0 +1,786 @@
+[
+    {
+        "input": "Il y a trois sphères métalliques de même taille. La sphère 1 et la sphère 2, situées très loin l'une de l'autre, portent des charges de même valeur et de même signe, et l'interaction entre elles est de force F. La sphère 3 est non chargée mais munie d'une poignée isolante. Si l'on met d'abord en contact la sphère 3 avec la sphère 1, puis avec la sphère 2, et qu'ensuite la sphère 3 est retirée, quelle sera la nouvelle force d'interaction entre la sphère 1 et la sphère 2 ?",
+        "target": "$\\frac{3}{8} F$"
+    },
+    {
+        "input": "Pour une sphère conductrice de rayon R dont la densité surfacique de charge est σ, quelle est la valeur du champ électrique à une distance R de la surface de la sphère ?",
+        "target": "$\\sigma / (4\\varepsilon_0)$"
+    },
+    {
+        "input": "Selon le principe d’équipartition de l’énergie parmi les degrés de liberté, quelle est l'énergie moyenne attribuée à chaque degré de liberté ?",
+        "target": "$\\frac{1}{2}kT$"
+    },
+    {
+        "input": "Un objet est mis en mouvement sous l'action d'une force donnée par $F = -k \\sin(\\omega t)$, après un intervalle de temps $\\Delta t = \\frac{\\pi}{2\\omega}$, \nquelle est la variation de la quantité de mouvement de cet objet ?",
+        "target": "$-\\frac{k}{\\omega}$"
+    },
+    {
+        "input": "Dans un circuit en forme de cube régulier, chaque arête est constituée d'une résistance de 2 Ω. Quelle est la résistance mesurée entre les deux sommets les plus éloignés du cube ?",
+        "target": "$\\frac{5}{3} \\Omega$"
+    },
+    {
+        "input": "Un faisceau d'atomes neutres traverse un appareil de Stern–Gerlach, aboutissant à l'observation de 5 raies spectrales équidistantes. Quelle est la valeur du carré du moment angulaire total, de ces atomes ?",
+        "target": "$6\\hbar^2$"
+    },
+    {
+        "input": "Une automobile se déplaçant en ligne droite sur une route horizontale à une vitesse de $10 \\, \\text{m/s}$ entame un freinage d'urgence dès que le conducteur aperçoit un danger devant elle, subissant une décélération uniforme de $-0{,}2 \\, \\text{m/s}^2$. Quel est le déplacement de la voiture une minute après le début du freinage ?",
+        "target": "$250 \\, \\text{m}$"
+    },
+    {
+        "input": "Pour l'état $D_{\\frac{3}{2}}$, la multiplicité peut-elle être 3, 5 ou 7 ?",
+        "target": "Non, impossible"
+    },
+    {
+        "input": "La masse d'un muon est 207 fois celle d'un électron, et sa charge ainsi que les autres interactions sont identiques à celles de l'électron. Si, dans un atome d'hydrogène, l'électron était remplacé par un muon, quelle serait l'énergie de liaison du niveau fondamental de ce système ? (Résultat arrondi à l'entier le plus proche. L'énergie de liaison du niveau fondamental de l'atome d'hydrogène est de 13,6 eV et la masse du proton est environ 1836 fois celle de l'électron.)",
+        "target": "2530 eV"
+    },
+    {
+        "input": "Quelle est la relation d'inversement proportionnel entre le rayon orbital des électrons de la couche K d'un atome et son numéro atomique Z ?",
+        "target": "Inversement proportionnel à Z"
+    },
+    {
+        "input": "Selon le principe de Pauli, combien d'états sont accessibles à un électron dont le nombre quantique principal vaut n ?",
+        "target": "$2n^2$"
+    },
+    {
+        "input": "Pour un atome de silicium (Si, Z = 14) dont la configuration électronique fondamentale est 1s^2 2s^2 2p^6 3s^2 3p^2, selon la règle de Hund, quel est le terme spectral atomique de l'état fondamental de l'atome ?",
+        "target": "³P₀"
+    },
+    {
+        "input": "Deux bateaux, A et B, sont immobiles sur un lac, avec des masses respectives m_1 et m_2 (où m_1 < m_2). La distance qui les sépare est s. Des personnes à bord du bateau A tirent sur le bateau B à l'aide d'une corde. Si la résistance de l'eau est la même pour les deux bateaux, lequel des deux bateaux parcourt la plus grande distance pendant leur rapprochement ?",
+        "target": "A"
+    },
+    {
+        "input": "Lorsque l'énergie d'un photon irradiant un certain métal est de 5 eV, l'énergie cinétique initiale maximale des électrons échappés est de 2,5 eV. Si l'énergie du photon irradiant ce métal est de 8 eV, quelle sera l'énergie cinétique initiale maximale des électrons échappés (en eV) ?",
+        "target": "5,5 eV"
+    },
+    {
+        "input": "Deux personnes, A et B, chaussées de patins à glace, se tiennent sur une surface de glace horizontale sans friction. Chacune saisit une extrémité d'une même corde, qu'elles tendent d'abord, puis tirent simultanément sur la corde. Si la masse de la personne A est inférieure à celle de la personne B, qui atteindra le point médian en premier ?",
+        "target": "A"
+    },
+    {
+        "input": "Un hélicoptère reste en air stationnaire grâce à ses hélices qui expulsent de l'air vers le bas, générant ainsi une force externe. Pour un hélicoptère de masse $800 \\, \\text{kg}$ dont les hélices projettent l'air à une vitesse de $40 \\, \\text{m/s}$ vers le bas pour maintenir l'hélicoptère en l'air, quelle est la masse d'air (en kg) expulsée par seconde ? ($g = 10 \\, \\text{m/s}^2$)",
+        "target": "$200 \\, \\text{kg}$"
+    },
+    {
+        "input": "Voici un schéma des niveaux d'énergie de l'atome d'hydrogène :\nn       E/eV\n∞       … 0\n5      -0,54\n4      -0,85\n3      -1,51\n2      -3,4\n1     -13,6\nLorsque l'atome d'hydrogène est à l'état fondamental, son niveau d'énergie est $E_1 = -13{,}6 eV$ ($1 eV = 1{,}6 \\times 10^{-19} J$), et la constante de Planck est $h=6{,}63 \\times 10^{-34} J·s$. Si un atome d'hydrogène se trouve à l'état excité avec n = 4, quelle est l'énergie minimale (en joules) que doit posséder un photon incident pour ioniser l'atome ?",
+        "target": "$1,36 \\times 10^{-19} J$"
+    },
+    {
+        "input": "Voici un schéma des niveaux d'énergie de l'atome d'hydrogène :\nn       E/eV\n∞       … 0\n5      -0,54\n4      -0,85\n3      -1,51\n2      -3,4\n1     -13,6\nEn se référant au schéma des niveaux d'énergie ci-dessus, lorsque l'atome d'hydrogène est à l'état fondamental, son niveau d'énergie est $E_1 = -13,6 \\text{eV}$ ($1 eV = 1,6 \\times 10^{-19} \\text{J}$), et la constante de Planck est $h=6,63 \\times 10^{-34} \\text{J}\\cdot\\text{s}$. Si un atome d'hydrogène se trouve à l'état excité avec n = 5, quelle est l'énergie maximale (en eV) du photon qui peut être émis ?",
+        "target": "$13,06 \\text{eV}$"
+    },
+    {
+        "input": "Un objet de masse $2 \\, \\text{kg}$ tombe librement (sans résistance) depuis une hauteur de $20 \\, \\text{m}$. Lors de son impact avec le sol, il rebondit avec une vitesse de $5 \\, \\text{m/s}$. Quelle est la magnitude de la variation de quantité de mouvement lors du rebond ? ($g = 10 \\, \\text{m/s}^2$)",
+        "target": "$50 \\, \\text{kg} \\cdot \\text{m/s}$"
+    },
+    {
+        "input": "Deux aimants sont placés, chacun sur un chariot. Ces chariots se déplacent sans friction sur un plan horizontal le long d'une même ligne droite. On sait que la masse totale du chariot A et de son aimant est de $2 \\, \\text{kg}$, et celle du chariot B et de son aimant est de $3 \\, \\text{kg}$. Les pôles nord des deux aimants se font face. En les poussant, on met les deux chariots en mouvement l'un vers l'autre. À un certain instant, la vitesse de A est de $4 \\, \\text{m/s}$, tandis que celle de B est de $6 \\, \\text{m/s}$, dans la direction opposée à celle de A. Pendant tout le mouvement, les deux chariots ne se heurtent jamais. Quelle est la valeur absolue de la vitesse de B au moment où ils se rapprochent le plus l'un de l'autre ?",
+        "target": "$2 \\, \\text{m/s}$"
+    },
+    {
+        "input": "Deux aimants sont placés, chacun sur un chariot. Ces chariots se déplacent sans friction sur un plan horizontal le long d'une même ligne droite. On sait que la masse totale du chariot A et de son aimant est de $10 \\, \\text{kg}$, et celle du chariot B et de son aimant est de $12 \\, \\text{kg}$. Les pôles nord des deux aimants se font face. En les poussant, on fait en sorte que les deux chariots se déplacent l'un vers l'autre. À un certain instant, la vitesse de A est de $5 \\, \\text{m/s}$ et celle de B est de $6 \\, \\text{m/s}$, dans la direction opposée à celle de A. Pendant tout le mouvement, les deux chariots ne se heurtent jamais. Quelle est la valeur absolue de la vitesse de B lorsque le chariot A commence à inverser sa direction ?",
+        "target": "$\\frac{11}{6} \\, \\text{m/s}$"
+    },
+    {
+        "input": "Dans la théorie de l'atome d'hydrogène de Bohr, quelle est la longueur d'onde (en mètres) de la lumière émise lors de la transition de n = 500 vers n = 499 ? ($r_1 = 0,53 \\times 10^{-10} \\, \\text{m}$, $E_1 = -13,6 \\, \\text{eV}$, $h = 6,67 \\times 10^{-34} \\, \\text{J} \\cdot \\text{s}$)",
+        "target": "$5,698 \\, \\text{m}$"
+    },
+    {
+        "input": "Le travail de sortie de l'aluminium est de $4,2 \\, \\text{eV}$. On éclaire la surface de l'aluminium avec une lumière de longueur d'onde $100 \\, \\text{nm}$. Quelle est l'énergie cinétique initiale maximale (en joules) des électrons émis ? ($h = 6,67 \\times 10^{-34} \\, \\text{J} \\cdot \\text{s}$; Donner le résultat avec une décimale)",
+        "target": "$1,3 \\times 10^{-18} \\, \\text{J}$"
+    },
+    {
+        "input": "Le travail de sortie de l'aluminium est de $4,2 \\, \\text{eV}$. On éclaire la surface de l'aluminium avec une lumière de longueur d'onde $200 \\, \\text{nm}$. Quelle est la tension d'arrêt du métal aluminium ? ($h = 6,67 \\times 10^{-34} \\, \\text{J} \\cdot \\text{s}$, $1 eV = 1.6 \\times 10^{-19} \\text{J}$, $c = 3.0\\times10^8\\text{m/s}$; Résultat arrondi à une décimale)",
+        "target": "$2,1 \\, \\text{V}$"
+    },
+    {
+        "input": "Le travail de sortie de l'aluminium est de $4,2 \\, \\text{eV}$. On éclaire la surface de l'aluminium avec une lumière de longueur d'onde $200 \\, \\text{nm}$. Quelle est la fréquence de coupure de l'aluminium ? ($h = 6,67 \\times 10^{-34} \\, \\text{J} \\cdot \\text{s}$, $1 eV = 1.6 \\times 10^{-19} \\text{J}$; Résultat avec deux chiffres significatifs en notation scientifique)",
+        "target": "$1,0 \\times 10^{15} \\, \\text{Hz}$"
+    },
+    {
+        "input": "Il existe un modèle réduit d'avion, manipulé au moyen d'un fin fil, qui vole en suivant un mouvement circulaire et est propulsé par un moteur à combustion interne. L'observateur, se trouvant sur le bord du terrain, perçoit-il un fréquence perçue du son émis par le moteur lorsqu'il fonctionne ?",
+        "target": "Oui"
+    },
+    {
+        "input": "Lorsqu'un faisceau lumineux passant de l'air à un certain milieu, l'angle entre le rayon incident et le rayon réfléchi est de $90^\\circ$, l'angle entre le rayon réfracté et le rayon réfléchi est de $105^\\circ$. Quel est l'indice de réfraction de ce milieu et quelle est la vitesse de la lumière dans ce milieu ? Exprimez les résultats sous forme de fractions. (Prenez $c = 3 \\times 10^8 \\, \\text{m/s}$)",
+        "target": "Indice de réfraction : $\\sqrt{2}$ ,\nVitesse de la lumière : $\\frac{3\\sqrt{2}}{2} \\times 10^8 \\, \\text{m/s}$."
+    },
+    {
+        "input": "À la pression atmosphérique normale, $1 \\, \\text{kg}$ d'eau à la température de $70 \\, ^\\circ\\text{C}$ libère $4,2 \\times 10^4 \\, \\text{J}$ de chaleur. De combien la température de l'eau diminue-t-elle (en $^\\circ\\text{C}$) ? ($c_{\\text{eau}} = 4,2 \\times 10^3 \\, \\text{J/(kg}\\cdot^\\circ\\text{C)}$)",
+        "target": "$10 \\, \\circ\\text{C}$"
+    },
+    {
+        "input": "À partir d'une tonne de déchets, on peut extraire 170 kg d'huile combustible. Lorsque cette huile est complètement brûlée, l'énergie chimique de l'huile se transforme en énergie ( ).",
+        "target": "Interne"
+    },
+    {
+        "input": "Un bloc de bois repose sur une surface horizontale lisse. Une balle se déplaçant horizontalement est tirée de telle sorte qu'elle s'enfonce dans le bloc. Lorsque la profondeur maximale d'incrustation de la balle atteint 3 cm, le bloc a parcouru exactement 2 cm sur la surface. Quel est le rapport entre l'énergie mécanique perdue par le système et la perte d'énergie cinétique de la balle ?",
+        "target": "3:5"
+    },
+    {
+        "input": "Un avion vole en ligne droite à vitesse constante à l’horizontale. Toutes les $1 \\, \\text{s}$, une boule de fer est lâchée depuis l'avion. Les boules A, B, C et D, de masse identique, sont ainsi libérées successivement. Quelle distance est plus grande : celle séparant les boules A et B ou celle séparant les boules C et D ?",
+        "target": "Même distance"
+    },
+    {
+        "input": "Un satellite artificiel de la Terre a une masse de $2000 \\, \\text{kg}$ et se trouve à une hauteur de $6,4 \\times 10^6 \\, \\text{m}$ au-dessus du sol. Il effectue un mouvement circulaire uniforme. Sachant que le rayon de la Terre est de $6,4 \\times 10^6 \\, \\text{m}$ et que $g = 10 \\, \\text{m/s}^2$, quelle est la force centripète agissant sur ce satellite ?",
+        "target": "$5000 \\, \\text{N}$"
+    },
+    {
+        "input": "Un satellite artificiel de masse M se trouve à une altitude H au-dessus du sol et effectue un mouvement circulaire uniforme. Sachant que le rayon de la Terre est r et que $g = 10 \\, \\text{m/s}^2$, comment doit-on exprimer la vitesse de ce satellite ?",
+        "target": "$v = \\sqrt{\\frac{gr^2}{r + H}}$"
+    },
+    {
+        "input": "On utilise un traceur de points alimenté par une source de fréquence $50\\, \\text{Hz}$ et, localement, l'accélération due à la gravité est $g = 10\\, \\text{m/s}^2$. La masse utilisée est de $200\\, \\text{g}$. L'expérience produit une bande de papier nette. Le premier point est noté $O$ et l'on choisit quatre points consécutifs $A$, $B$, $C$, $D$ comme points de mesure. Les distances de $A$, $B$, $C$ et $D$ à $O$ sont respectivement de $41,61\\, \\text{cm}$, $49,63\\, \\text{cm}$, $56,10\\, \\text{cm}$ et $62,79\\, \\text{cm}$. On déduit ainsi que lorsque la masse se déplace du point $O$ au point $C$, la diminution de son énergie potentielle gravitationnelle est de combien de joules ?",
+        "target": "$1,122 \\, \\text{J}$"
+    },
+    {
+        "input": "On utilise un traceur de points alimenté par une source de fréquence $50\\, \\text{Hz}$ et, localement, l'accélération due à la gravité est $g = 10\\, \\text{m/s}^2$. La masse utilisée est de $200\\, \\text{g}$. L'expérience produit une bande de papier nette. Le premier point est noté $O$ et l'on choisit quatre points consécutifs $A$, $B$, $C$, $D$ comme points de mesure. Les distances de $A$, $B$, $C$ et $D$ à $O$ sont respectivement de $41,61\\, \\text{cm}$, $49,63\\, \\text{cm}$, $56,10\\, \\text{cm}$ et $62,79\\, \\text{cm}$. On déduit ainsi que lorsque la masse se déplace du point $O$ au point $C$, quelle est la vitesse lorsque la masse passe par le point C ?",
+        "target": "$3,29 \\, \\text{m/s}$"
+    },
+    {
+        "input": "On utilise un traceur de points alimenté par une source de fréquence $50\\, \\text{Hz}$ et, localement, l'accélération due à la gravité est $g = 10\\, \\text{m/s}^2$. La masse utilisée est de $200\\, \\text{g}$. L'expérience produit une bande de papier nette. Le premier point est noté $O$ et l'on choisit quatre points consécutifs A, B, C, D comme points de mesure. Les distances de A, B, C et D à O sont respectivement de $41,61\\, \\text{cm}$, $49,63\\, \\text{cm}$, $56,10\\, \\text{cm}$ et $62,79\\, \\text{cm}$. On déduit ainsi que lorsque la masse se déplace du point O au point C, de combien son énergie cinétique augmente-t-elle ?",
+        "target": "$1,08 \\, \\text{J}$"
+    },
+    {
+        "input": "Une voiture de 2 tonnes se déplace sur une route horizontale à une puissance nominale $P0=10 kWP_0 = 10\\, \\text{kW}$, en partant du repos et en effectuant un mouvement rectiligne. Sa vitesse maximale peut atteindre $50\\, \\text{m/s}$. Quelle est le module de la force de résistance subie par la voiture pendant le mouvement ?",
+        "target": "$200 \\, \\text{N}$"
+    },
+    {
+        "input": "Une voiture de 2 tonnes se déplace sur une route horizontale à une puissance nominale $P0=10 kWP_0 = 10\\, \\text{kW}$, en partant du repos et en effectuant un mouvement rectiligne. Sa vitesse maximale peut atteindre $50\\, \\text{m/s}$. Quelle est son accélération lorsque la vitesse de la voiture est de $20\\, \\text{m/s}$ ?",
+        "target": "$0,15 \\, \\text{m/s}^2$"
+    },
+    {
+        "input": "Un bateau a une vitesse de $1\\, \\text{m/s}$ dans une eau calme. Les rives sont droites, la largeur de la rivière est constante, la vitesse du courant près des rives est de $2\\, \\text{m/s}$ et au centre, elle est de $3\\, \\text{m/s}$. Le bateau peut-il traverser perpendiculairement aux rives ?",
+        "target": "Non"
+    },
+    {
+        "input": "Un avion atterrit en effectuant un mouvement uniforme de décélération. Pendant le roulage, l'avion est soumis à une résistance due à l'air et au sol, égale à 0,5 fois son poids. Quelle est la grandeur d'accélération de l'avion pendant le roulage ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$5 \\, \\text{m/s}^2$"
+    },
+    {
+        "input": "Un avion civil atterrit à une vitesse de $216\\, \\text{km/h}$, puis effectue un roulage uniforme de décélération. La résistance due à l'air et au sol est de 0,3 fois son poids. Quelle doit être la longueur de la piste pour que l'avion s'arrête en toute sécurité ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$600\\, \\text{m}$"
+    },
+    {
+        "input": "Un objet de masse $m = 8\\, \\text{kg}$, avec une vitesse horizontale $v_0 = 4\\, \\text{m/s}$, glisse sur un chariot stationnaire posé sur une surface horizontale lisse. La masse du chariot est $M = 12\\, \\text{kg}$. Quelle est la vitesse commune du chariot et de l'objet ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$1,6\\, \\text{m/s}$"
+    },
+    {
+        "input": "Un objet de masse $m = 10\\, \\text{kg}$, avec une vitesse horizontale $v_0 = 6\\, \\text{m/s}$, glisse sur un chariot stationnaire posé sur une surface horizontale lisse. La masse du chariot est $M = 20\\, \\text{kg}$, et le coefficient de frottement dynamique entre l'objet et le chariot est $\\mu = 0,4$. Combien de temps l'objet glisse-t-il sur le chariot ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$1\\, \\text{s}$"
+    },
+    {
+        "input": "Une petite balle est en chute libre depuis une hauteur de $20\\, \\text{m}$ au-dessus du sol. Prenez $g = 10\\, \\text{m/s}^2$. Combien de temps la balle met-elle pour atteindre le sol ?",
+        "target": "$2\\, \\text{s}$"
+    },
+    {
+        "input": "Une petite balle est en chute libre depuis une hauteur de $60\\, \\text{m}$ au-dessus du sol. Quels sont ses déplacements pendant la première seconde après le début de la chute ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$5\\, \\text{m}$"
+    },
+    {
+        "input": "Une petite balle est en chute libre depuis une hauteur de $h = 125\\, \\text{m}$. Quelle est sa distance parcourue pendant $1\\, \\text{s}$ avant d'atteindre le sol ? (g=10 m/s2$g = 10\\, \\text{m/s}^2$)",
+        "target": "$45\\, \\text{m}$"
+    },
+    {
+        "input": "Une petite balle est en chute libre d'une certaine hauteur. Lorsqu'elle atteint le sol, sa vitesse est de $46\\, \\text{m/s}$. Quelle est la hauteur initiale de la balle par rapport au sol ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$105,8\\, \\text{m}$"
+    },
+    {
+        "input": "Un objet effectue un mouvement rectiligne uniforme de décélération et s'arrête au bout de $4\\, \\text{s}$. Si son déplacement pendant la première seconde est de $56\\, \\text{m}$, quel est son déplacement pendant la dernière seconde ?",
+        "target": "$8\\, \\text{m}$"
+    },
+    {
+        "input": "Un objet effectue une chute libre. En fonction de la distance X qu'il parcourt depuis le début de la chute, comment exprimer sa vitesse ? ($g = 9,8\\, \\text{m/s}^2$)",
+        "target": "$\\sqrt{19,6X}$"
+    },
+    {
+        "input": "Un objet en chute libre voit la durée de sa chute divisée en deux intervalles égaux. Quel est le rapport entre la vitesse moyenne du premier intervalle et celle du dernier intervalle ?",
+        "target": "1:3"
+    },
+    {
+        "input": "Un objet est lancé en chute libre depuis une hauteur H au-dessus du sol. Lors de la dernière $1\\, \\text{s}$ avant d'atteindre le sol, le déplacement parcouru est supérieur de $60\\, \\text{m}$ que celui parcouru pendant la première 1 s$1\\, \\text{s}$ de la chute. En négligeant la résistance de l'air, quelle est la durée t (en secondes) totale de la chute ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$7\\, \\text{s}$"
+    },
+    {
+        "input": "Un objet en chute libre atteint le point A avec une vitesse de $10\\, \\text{m/s}$ et, en passant par un point B situé plus bas, sa vitesse y est de $68,8\\, \\text{m/s}$. Combien de secondes l'objet met-il pour parcourir l'intervalle séparant A et B ? ($g = 9,8\\, \\text{m/s}^2$)",
+        "target": "$6\\, \\text{s}$"
+    },
+    {
+        "input": "Pour un objet en chute libre, la vitesse au point A est de $10\\, \\text{m/s}$ et celle au point B situé plus bas est de $68,8\\, \\text{m/s}$. Quelle est la distance (en mètres) entre A et B ? ($g = 9,8\\, \\text{m/s}^2$)",
+        "target": "$236,4\\, \\text{m}$"
+    },
+    {
+        "input": "Une voiture, se déplaçant en mouvement rectiligne uniformément accéléré, parcourt X mètres lorsque sa vitesse varie de $\\Delta V$ ; immédiatement après, lors d'une nouvelle variation de vitesse de $\\Delta V$, elle parcourt Y mètres. Comment peut-on exprimer son accélération ?",
+        "target": "$\\frac{(\\Delta V)^{2}}{Y - X}$"
+    },
+    {
+        "input": "Un pont ferroviaire a une longueur totale de $44,65\\, \\text{km}$ et un train de $350\\, \\text{m}$ de long roule à $90\\, \\text{km/h}$. Combien de minutes faut-il pour que ce train franchisse complètement le pont ?",
+        "target": "30 minutes"
+    },
+    {
+        "input": "Une bille est en chute libre depuis une hauteur élevée. Après $0,5\\, \\text{s}$ de chute, une balle est tirée verticalement vers le bas depuis un point situé directement au-dessus de la bille, de sorte que cette balle vient la frapper lorsque la bille a chuté de $1,8\\, \\text{m}$. Calculez la vitesse de la balle au moment de l'impact. ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$18,5\\, \\text{m/s}$"
+    },
+    {
+        "input": "Un poteau vertical de $10\\, \\text{m}$ de long est disposé de telle sorte que son extrémité inférieure se trouve à $10\\, \\text{m}$ de l'entrée d'un tunnel vertical, si le tunnel a également une longueur de $10\\, \\text{m}$. Si l'on met en chute libre ce poteau, combien de temps lui faut-il pour traverser complètement le tunnel ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$\\sqrt{6} - \\sqrt{2}\\, \\text{s}$"
+    },
+    {
+        "input": "Un caillou tombe en chute libre depuis le rebord d'un toit. Après 1,1 s, il passe exactement par le bord supérieur d'une fenêtre. On constate que le temps mis par le caillou pour traverser la fenêtre est de 0,2 s. Quelle est la hauteur de cette fenêtre (en mètres) ? (g = 10 m/s^2)",
+        "target": "2,4 m"
+    },
+    {
+        "input": "Il y a un avion de chasse embarqué sur un porte-avions stationnaire. Sans système de catapulte, la distance nécessaire pour accélérer uniformément jusqu'à la vitesse de décollage v est L_0. Lorsque le système de catapulte lui fournit une vitesse initiale v_0, la distance requise pour atteindre la vitesse de décollage v devient L. Si le rapport v_0 : v est de 3:4 et en admettant que l'accélération reste identique dans les deux cas, quel est le rapport L : L_0 ?",
+        "target": "7:16"
+    },
+    {
+        "input": "Un objet en chute libre possède, après avoir chuté pendant la moitié du temps total de la chute, une énergie cinétique équivalente à quel rapport de celle qu'il a au moment de l'impact ?",
+        "target": "1:4"
+    },
+    {
+        "input": "Une chaîne de fer de $7,2\\, \\text{m}$ de long est lâchée en chute libre, verticalement, depuis un immeuble élevé. En négligeant la résistance de l'air, combien de secondes faut-il pour que toute la chaîne, en commençant par son extrémité supérieure, passe par un point situé $20\\, \\text{m}$ directement sous l'immeuble ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$0,4\\, \\text{s}$"
+    },
+    {
+        "input": "Un bus roule à une vitesse constante de $54\\, \\text{km/h}$ sur une route horizontale. Si ce bus commence à accélérer depuis le point de départ chronométré avec une accélération de $1\\, \\text{m/s}^2$, quelle sera sa vitesse après $10\\, \\text{s}$ exprimée en mètres/seconde ?",
+        "target": "$25\\, \\text{m/s}$"
+    },
+    {
+        "input": "Supposons qu'une balle soit lâchée verticalement vers le bas depuis un bâtiment de 50 mètres de hauteur avec une vitesse initiale de 0. Quelle sera la vitesse de cette balle après avoir parcouru 45 mètres ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$30\\, \\text{m/s}$"
+    },
+    {
+        "input": "Deux petites balles identiques, A et B, sont lâchées successivement à un intervalle d'une seconde depuis la même hauteur, sans considérer la résistance de l'air. Est-ce que la différence de vitesse entre les deux balles reste constante à tout moment dans l'air ?",
+        "target": "Oui"
+    },
+    {
+        "input": "Un objet effectue une chute libre et touche le sol après 5 secondes. Quel est le rapport des déplacements effectués pendant les deux premières secondes et les deux secondes suivantes ?",
+        "target": "1:3"
+    },
+    {
+        "input": "Pierre part en vélo du point A à l'arrêt et effectue un mouvement rectiligne uniformément accéléré. Il traverse un pont plat $BC = 14\\, \\text{m}$ en $7\\, \\text{s}$, et sa vitesse à la sortie du pont est de $3\\, \\text{m/s}$. Quelle est la vitesse de Pierre au moment où il atteint le début du pont, point B ?",
+        "target": "$1\\, \\text{m/s}$"
+    },
+    {
+        "input": "Depuis une plateforme située à $5\\, \\text{m}$ du sol, une pierre de masse $1\\, \\text{kg}$ est lancée verticalement vers le haut à une vitesse de $25\\, \\text{m/s}$, sans prendre en compte la résistance de l'air. Si $g = 10\\, \\text{m/s}^2$, quelle est la quantité de travail effectuée par la gravité sur la pierre pendant les 3 premières secondes après le lancer, exprimée en joules ?",
+        "target": "$0\\, \\text{J}$"
+    },
+    {
+        "input": "Lorsqu'un objet est lancé verticalement vers le haut, sa hauteur maximale atteinte est h. Si la masse de l'objet est m et que la résistance de l'air est constante et égale à -f, quelle est la quantité de travail effectuée par la résistance de l'air sur l'objet pendant tout son parcours, du lancement jusqu'à son retour au sol ?",
+        "target": "-2fh"
+    },
+    {
+        "input": "Pierre mesure 160 centimètres. Lorsqu'il participe à une compétition de saut en hauteur, il dépasse horizontalement une barre de la même hauteur que lui après avoir sauté. Supposons que son centre de gravité se trouve à 0,8 mètre au-dessus du sol juste avant qu’il saute ; quelle est alors sa vitesse verticale initiale ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$4\\, \\text{m/s}$"
+    },
+    {
+        "input": "Un objet est lancé verticalement vers le haut avec une vitesse initiale de $20\\, \\text{m/s}$, sans prendre en compte la résistance de l'air. Dans quelle direction se produit la variation de vitesse ?",
+        "target": "Verticalement vers le bas"
+    },
+    {
+        "input": "Deux blocs de bois, A et B, sont empilés sur un ressort léger vertical (A sur B). Les blocs A et B ont chacun une masse de $1\\, \\text{kg}$, et la constante élastique du ressort est de $100\\, \\text{N/m}$. Si une force verticale ascendante F est appliquée sur le bloc A, et que ce bloc commence à avec un mouvement rectiligne uniformément accéléré de $2\\, \\text{m/s}^2$, quelle est la valeur maximale de F pendant le mouvement uniformément accéléré de A vers le haut ?",
+        "target": "$12\\, \\text{N}$"
+    },
+    {
+        "input": "Lors d'un saut à partir de l'arrêt, il faut commencer par plier ses jambes avant de les étendre soudainement pour prendre son élan. Du début de la poussée du sol jusqu'à la sortie du sol, il y a un processus d'accélération (considéré comme une accélération uniforme). La distance parcourue par le centre de gravité pendant l'accélération est appelée « distance d'accélération ». Pour une puce, la « distance d'accélération » est $d_1 = 0,00075\\, \\text{m}$, et sa vitesse au moment où elle quitte le sol est $v_1 = 1,5\\, \\text{m/s}$. Pour une personne, la « distance d'accélération » est $d_2 = 0,3\\, \\text{m}$. Si l'on suppose que la personne a la même accélération de saut qu'une puce, quelle sera sa vitesse au moment où elle quitte le sol ?",
+        "target": "$30\\, \\text{m/s}$"
+    },
+    {
+        "input": "Lors d'un saut à partir de l'arrêt, il faut commencer par plier ses jambes avant de les étendre soudainement pour prendre son élan. Du début de la poussée du sol jusqu'à la sortie du sol, il y a un processus d'accélération (considéré comme une accélération uniforme). La distance parcourue par le centre de gravité pendant l'accélération est appelée « distance d'accélération ». Pour une puce, la « distance d'accélération » est $d_1 = 0,00075\\, \\text{m}$, et sa vitesse au moment où elle quitte le sol est $v_1 = 1,5\\, \\text{m/s}$. Si une personne quitte le sol avec cette vitesse et effectue un mouvement uniformément décéléré avec une accélération de $10\\, \\text{m/s}^2$, quelle sera la hauteur maximale atteinte par cette personne après avoir quitté le sol ?",
+        "target": "$0,1125\\, \\text{m}$"
+    },
+    {
+        "input": "Un ballon monte verticalement à une vitesse constante de $5\\, \\text{m/s}$, avec un poids suspendu en dessous. Lorsque le ballon atteint une hauteur de $100\\, \\text{m}$, la corde retenant le poids se casse. À partir de ce moment, combien de temps faudra-t-il pour que le poids atteigne le sol ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$5\\, \\text{s}$"
+    },
+    {
+        "input": "Un ballon monte verticalement à une vitesse constante de $5\\, \\text{m/s}$, avec un poids suspendu en dessous. Lorsque le ballon atteint une hauteur de $100\\, \\text{m}$, la corde retenant le poids se casse. À partir de ce moment, quelle sera la vitesse du poids lorsqu'il atteindra le sol ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$45\\, \\text{m/s}$"
+    },
+    {
+        "input": "Un jongleur lance trois balles successivement vers le haut, formant un cycle continu. Après avoir lancé une balle, il attend une durée égale au temps pendant lequel la balle précédente est restée dans sa main avant de rattraper la suivante. Ainsi, dans le cycle global, il y a parfois trois balles en l'air, parfois deux, et la moitié du temps, il a une balle dans la main, l'autre moitié, aucune. Si la hauteur maximale atteinte par chaque balle est de $1,25\\, \\text{m}$ ($g = 10\\, \\text{m/s}^2$), combien de temps chaque balle reste-t-elle dans la main du jongleur ?",
+        "target": "$0,2\\, \\text{s}$"
+    },
+    {
+        "input": "Sans prendre en compte la résistance de l'air, un objet est lancé verticalement depuis le sol avec une vitesse initiale de $30\\, \\text{m/s}$. Quelle est la norme du déplacement par l'objet dans les 4 premières secondes ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$40\\, \\text{m}$"
+    },
+    {
+        "input": "Un objet de masse $2\\, \\text{kg}$ est lancé verticalement avec une vitesse initiale de $24\\, \\text{m/s}$. En raison de la résistance de l'air, il atteint son point le plus haut après $3\\, \\text{s}$. Si la résistance de l'air reste constante pendant le mouvement, quelle est la hauteur maximale atteinte par l'objet ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$36\\, \\text{m}$"
+    },
+    {
+        "input": "Une voiture freine avec une vitesse initiale de $10\\, \\text{m/s}$ et une accélération de -$2\\, \\text{m/s}^2$. Combien de temps faut-il pour que la voiture s'arrête complètement ?",
+        "target": "$5\\, \\text{s}$"
+    },
+    {
+        "input": "Un feu d'artifice est lancé verticalement depuis un canon spécialisé et atteint une hauteur maximale de 60 mètres après 3 secondes, avant d'exploser. En supposant que le feu d'artifice est soumis uniquement à la gravité et à une résistance de l'air constante pendant son ascension, quelle était sa vitesse initiale au moment du lancement ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$40\\, \\text{m/s}$"
+    },
+    {
+        "input": "Un feu d'artifice est lancé verticalement depuis un canon spécialisé et atteint une hauteur maximale de $60\\, \\text{m}$ après $3\\, \\text{s}$, avant d'exploser. En supposant que le feu d'artifice est soumis uniquement à la gravité et à une résistance de l'air constante pendant son ascension, quelle était son accélération scalaire en vol ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$\\frac{40}{3} \\, \\text{m/s}^2$"
+    },
+    {
+        "input": "Un feu d'artifice est lancé verticalement depuis un canon spécialisé et atteint une hauteur maximale de $60\\, \\text{m}$ après $3\\, \\text{s}$, avant d'exploser. En supposant que le feu d'artifice est soumis uniquement à la gravité et à une résistance de l'air constante pendant son ascension, quel est le rapport entre la résistance de l'air et son propre poids ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "1:3"
+    },
+    {
+        "input": "Pierre conduit une voiture et freine soudainement à cause d'un feu rouge. Après avoir freiné, la voiture effectue un mouvement rectiligne uniformément décéléré avec une vitesse initiale de $14\\, \\text{m/s}$ et une accélération de $-2\\, \\text{m/s}^2$. Quelle est la vitesse moyenne de la voiture pendant les $8\\, \\text{s}$ suivant le freinage ?",
+        "target": "$6,125\\, \\text{m/s}$"
+    },
+    {
+        "input": "Les points A, B et C sont alignés sur une même ligne droite. Un objet commence un mouvement rectiligne uniformément accéléré depuis le point A à l'arrêt. Sa vitesse au point B est v, et au point C, elle est 2v. Quel est le rapport $x_{AB}:x_{BC}$ ?",
+        "target": "1:3"
+    },
+    {
+        "input": "Une petite balle de masse $2\\, \\text{kg}$ est lancée depuis une hauteur de $20\\, \\text{m}$ au-dessus du sol avec une vitesse de $10\\, \\text{m/s}$, respectivement dans une direction horizontale et dans une direction verticale ascendante. Quelle sera la vitesse de la balle lorsqu'elle atteindra le sol dans chaque cas ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$10\\sqrt{5}\\, \\text{m/s}$ dans tous les deux cas"
+    },
+    {
+        "input": "Un camion de 8 tonnes commence un mouvement rectiligne uniformément accéléré sur une route plane et droite depuis l'arrêt. Après $20\\, \\text{s}$, il a parcouru 80 mètres. Si la résistance rencontrée par le camion pendant son mouvement est de $1000\\, \\text{N}$, quelle est la force de traction exercée sur le camion ?",
+        "target": "$4200\\, \\text{N}$"
+    },
+    {
+        "input": "Un objet est lancé verticalement vers le haut avec une vitesse initiale de $30\\, \\text{m/s}$. En négligeant la résistance de l'air, et en prenant le plan horizontal au point de lancement comme la référence pour l'énergie potentielle gravitationnelle nulle, à quelle hauteur au-dessus du point de lancement l'énergie potentielle gravitationnelle sera-t-elle deux fois plus grande que l'énergie cinétique ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$30\\, \\text{m}$"
+    },
+    {
+        "input": "Un objet de masse m est lancé verticalement vers le haut depuis le bord d'une table. La hauteur de la table par rapport au sol est h, et la hauteur maximale atteinte par la balle au-dessus de la table est H. Si la surface de la table est prise comme référence pour une énergie potentielle nulle, comment l'énergie mécanique de la balle au moment où elle atteint le sol peut-elle être exprimée ?",
+        "target": "mgH"
+    },
+    {
+        "input": "Une petite balle est lancée verticalement vers le haut. En supposant que la balle subit une résistance de l'air constante pendant son mouvement, si la distance parcourue par la balle pendant la dernière seconde avant d'atteindre son point le plus haut est $x_1$, et que la distance parcourue pendant la première seconde après avoir quitté le point le plus haut est $x_2$, et que les variations de vitesse correspondantes sont $\\Delta v_1$ et $\\Delta v_2$, laquelle de ces variations ($\\Delta v_1$ ou $\\Delta v_2$) est la plus grande ?",
+        "target": "$\\Delta v_1$"
+    },
+    {
+        "input": "Pour un objet lancé verticalement vers le haut, si sa quantité de mouvement a une direction ascendante, dans quelle direction est le changement de quantité de mouvement ?",
+        "target": "Vers le bas"
+    },
+    {
+        "input": "Un objet est lancé verticalement vers le haut depuis le sol avec une vitesse initiale de $98\\, \\text{m/s}$, en négligeant la résistance de l'air. Combien de secondes l'objet restera-t-il dans l'air avant de retomber au sol ? ($g = 9,8\\, \\text{m/s}^2$)",
+        "target": "$20\\, \\text{s}$"
+    },
+    {
+        "input": "Un bloc glisse librement le long d'un plan incliné avec un angle d'inclinaison de $\\theta = 37^\\circ$. Si le coefficient de frottement cinétique entre le bloc et le plan est $\\mu$, et que l'accélération du bloc est de $2\\, \\text{m/s}^2$, quelle est la valeur de $\\mu$ ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "0,5"
+    },
+    {
+        "input": "Une petite balle très dense est lancée verticalement vers le haut depuis le sol. Le temps total mesuré pour que la balle monte et redescende au sol est de $3\\, \\text{s}$. Le déplacement X_1 pendant la première $1\\, \\text{s}$ et le déplacement X_2 pendant la dernière $1\\, \\text{s}$ avant de toucher le sol (X_3), lequel de ces déplacements est le plus grand ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "Même déplacement"
+    },
+    {
+        "input": "Une balle est lancée verticalement vers le haut depuis le sol avec une certaine vitesse. Le temps nécessaire pour qu'elle atteigne son point le plus haut est t_1, et le temps nécessaire pour redescendre de ce point au sol est t_2. En tenant compte de la résistance de l'air, lequel des deux temps est le plus grand ?",
+        "target": "t_2"
+    },
+    {
+        "input": "Une balle est lancée verticalement vers le haut avec une vitesse de $v = 30\\, \\text{m/s}$. Après $2\\, \\text{s}$, une deuxième balle identique est lancée verticalement depuis le même point avec la même vitesse initiale. À quelle hauteur les deux balles se rencontreront-elles au-dessus du point de départ ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$40\\, \\text{m}$"
+    },
+    {
+        "input": "Un skieur avec un équipement d'une masse totale de $75\\, \\text{kg}$ descend une pente en mouvement rectiligne uniformément accéléré à un angle de $30^\\circ$ avec une vitesse initiale de $3\\, \\text{m/s}$. Après $5\\, \\text{s}$, il a parcouru $60\\, \\text{m}$. Quelle est la force de la résistance f exercée sur le skieur ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$-105\\, \\text{N}$"
+    },
+    {
+        "input": "Une petite balle est lancée verticalement vers le haut, et elle revient au point de lancement après 4 secondes. En négligeant la résistance de l'air, quel est le déplacement de la balle pendant la deuxième seconde ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$5\\, \\text{m}$"
+    },
+    {
+        "input": "Deux objets, A et B, A est à gauche de B, se touchent sans être collés, et sont placés sur une surface horizontale où le frottement est négligeable. La masse de A est de $4\\, \\text{kg}$ et celle de B est de $6\\, \\text{kg}$. À partir de t = 0, une force de poussée F_A et une force de traction F_B agissent respectivement sur A et B, et ces forces varient en fonction du temps selon : $F_A = 8 - 2t$ ; $F_B = 2 + 2t$. Quelle est la force d'interaction entre A et B au moment où $t = 2$ ?",
+        "target": "$0\\, \\text{N}$"
+    },
+    {
+        "input": "La buse de la fontaine combinée de la place de la fontaine pointe verticalement vers le haut. Le volume d'eau projeté chaque seconde est de $6\\, \\text{L}$, et la vitesse de l'eau à la sortie de la buse est de $20\\, \\text{m/s}$. En négligeant la résistance de l'air, quel est le volume d'eau qui reste en suspension dans l'air ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "24L"
+    },
+    {
+        "input": "Francis mesure $180\\, \\text{cm}$ de hauteur, pèse $60\\, \\text{kg}$, et participe à un exercice de saut en hauteur. En position debout, il atteint $2\\, \\text{m}$ en levant les mains. Il plie ses jambes, pousse avec force contre le sol, et saute verticalement pendant $0,5\\, \\text{s}$. Supposons que la force qu'il exerce au sol est constante, soit $1020\\, \\text{N}$, et que la résistance de l'air est négligeable. Quelle est la hauteur maximale qu'il peut atteindre en sautant ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$2,6125\\, \\text{m}$"
+    },
+    {
+        "input": "De l'eau s'égoutte d'un robinet, avec des intervalles de temps presque égaux entre chaque goutte. Un petit bol est retourné sous le robinet. Chaque goutte qui tombe dans le bol produit un bruit. On soulève progressivement le bol jusqu'à ce qu'on voie une goutte tomber du robinet juste au moment où le son de la goutte atteignant le fond du bol est entendu. La hauteur du bol est alors mesurée : $H_1 = 10\\, \\text{cm}$. En continuant à élever le bol, lors de la deuxième et troisième coïncidence entre la chute de la goutte et le son entendu, on mesure respectivement $H_2 = 75\\, \\text{cm}$ et $H_3 = 130\\, \\text{cm}$. Quel est l'intervalle de temps entre deux gouttes consécutives ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$0,1\\, \\text{s}$"
+    },
+    {
+        "input": "De l'eau s'égoutte d'un robinet avec des intervalles de temps presque égaux entre chaque goutte. Un petit bol est retourné sous le robinet. Chaque goutte qui tombe dans le bol produit un bruit. On soulève progressivement le bol jusqu'à ce qu'on voie une goutte tomber du robinet juste au moment où le son est entendu. La hauteur du bol par rapport au sol est mesurée comme $H_1 = 10\\, \\text{cm}$. En continuant à élever le bol, à la deuxième et troisième coïncidence entre la goutte tombant et le bruit entendu, les hauteurs mesurées sont $H_2 = 75\\, \\text{cm}$ et $H_3 = 130\\, \\text{cm}$. Quelle est la hauteur du  bec du robinet par rapport au sol ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$255\\, \\text{cm}$"
+    },
+    {
+        "input": "Lors d'un match de tennis de table, une balle de ping-pong frappe la raquette du joueur à une vitesse de $15\\, \\text{m/s}$ et est renvoyée dans la direction opposée à une vitesse de $20\\, \\text{m/s}$. Le temps d'interaction entre la raquette et la balle est de $0,1\\, \\text{s}$. Quelle est l'accélération de la balle pendant ce processus ?",
+        "target": "$350\\, \\text{m/s}^2$"
+    },
+    {
+        "input": "La distance entre les villes A et B est de $900\\, \\text{km}$. Un train quitte la ville A à 7h30 du matin pour se rendre à la ville B, avec des arrêts intermédiaires dans plusieurs gares. Il arrive à la ville B à 16h30 le même jour. Pendant son trajet, le train traverse un pont de $900\\, \\text{m}$ à une vitesse constante de $144\\, \\text{km/h}$. Le train met $25\\, \\text{s}$ pour traverser entièrement le pont. Quelle est la longueur du train, en mètres ?",
+        "target": "$100\\, \\text{m}$"
+    },
+    {
+        "input": "Un objet effectue un mouvement rectiligne uniformément accéléré. Pendant deux intervalles de temps consécutifs et égaux, l'objet effectue successivement des déplacements de $24\\, \\text{m}$ et de $64\\, \\text{m}$. Chaque intervalle de temps dure $4\\, \\text{s}$. Quelle est l'accélération de l'objet pendant ces deux segments de déplacement ?",
+        "target": "$2,5\\, \\text{m/s}^2$"
+    },
+    {
+        "input": "Un ressort léger est placé sur une surface horizontale, avec un objet A de masse $3\\, \\text{kg}$ reposant sur le ressort vertical. Un objet B de masse $2\\, \\text{kg}$ est suspendu au-dessus de A par une fine corde. A et B sont en contact mais sans exercer de pression l'un sur l'autre. À un certain moment, la corde est coupée. Quelle est la force exercée par B sur A juste après la coupure de la corde ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$12\\, \\text{N}$"
+    },
+    {
+        "input": "Une petite balle est lancée verticalement vers le haut avec une vitesse initiale de $49\\, \\text{m/s}$, sans tenir compte de la résistance de l'air. Combien de temps la balle met-elle pour revenir au point de départ ? ($g = 9,8\\, \\text{m/s}^2$)",
+        "target": "$10\\, \\text{s}$"
+    },
+    {
+        "input": "Un ballon commence à s'élever verticalement depuis le sol avec une accélération de $1,25\\, \\text{m/s}^2$. Le ballon et un objet de masse $0,5\\, \\text{kg}$ suspendu à celui-ci ont une masse totale de $2\\, \\text{kg}$. A une hauteur de $40\\, \\text{m}$, cet objet tombe du ballon, en négligeant la résistance de l'air et en supposant que la force de flottabilité exercée sur le ballon reste constante pendant son ascension, à quelle hauteur le ballon se trouve-t-il lorsque l'objet touche le sol ? ($g = 10 \\text{m/s}^2$)",
+        "target": "$120\\, \\text{m}$"
+    },
+    {
+        "input": "Une balle est lancée verticalement vers le haut depuis une hauteur de 50 mètres. Elle passe successivement à 15 mètres au-dessus du point de lancement à la fin de la première et de la troisième seconde. Quelle est la valeur absolue de sa vitesse initiale ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$20\\, \\text{m/s}$"
+    },
+    {
+        "input": "Une balle est lancée verticalement vers le haut depuis une hauteur de 50 mètres. Elle passe successivement à 15 mètres au-dessus du point de lancement à la fin de la première et de la troisième seconde. Combien de temps la balle met-elle pour passer du point de lancement au sol ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$2 + \\sqrt{14}$"
+    },
+    {
+        "input": "Un bloc de pierre de masse $2\\, \\text{kg}$ est lancé obliquement vers le haut depuis une hauteur de $10\\, \\text{m}$ avec une vitesse de $5\\, \\text{m/s}$. En négligeant la résistance de l'air, quelle est la vitesse du bloc lorsqu'il touche le sol ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$15\\, \\text{m/s}$"
+    },
+    {
+        "input": "Un bloc de pierre de masse $2\\, \\text{kg}$ est lancé obliquement depuis une hauteur de $10\\, \\text{m}$ avec une vitesse de $5\\, \\text{m/s}$. Si le bloc effectue un travail de $125\\, \\text{J}$ pour surmonter la résistance de l'air pendant son mouvement, quelle est sa vitesse lorsqu'il touche le sol ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$10\\, \\text{m/s}$"
+    },
+    {
+        "input": "Une petite balle est lancée verticalement vers le haut avec une vitesse initiale de $20\\, \\text{m/s}$. Trois secondes plus tard, une autre balle est lancée avec la même vitesse initiale au même point. Combien de temps après le lancement la première balle rencontrera-t-elle la deuxième ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$3,5\\, \\text{s}$"
+    },
+    {
+        "input": "Un objet est lancé verticalement vers le haut avec une vitesse initiale de 40 m/s. Quelle est la hauteur maximale atteinte par l'objet ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$80\\, \\text{m}$"
+    },
+    {
+        "input": "Un ballon monte à une vitesse constante de $10\\, \\text{m/s}$. Lorsqu'il se trouve à une hauteur de $120\\, \\text{m}$, un objet tombe du ballon. Combien de temps faut-il pour que l'objet touche le sol ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$6\\, \\text{s}$"
+    },
+    {
+        "input": "Un ballon monte à une vitesse constante de $10\\, \\text{m/s}$. Lorsqu'il se trouve à une hauteur de $120\\, \\text{m}$, un objet tombe du ballon. Quelle est la vitesse de l'objet lorsqu'il touche le sol ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$50\\, \\text{m/s}$"
+    },
+    {
+        "input": "Les objets A, B et C effectuent un mouvement rectiligne uniformément accéléré. Lorsqu'ils passent par le point D, la vitesse de l'objet A est de $6\\, \\text{m/s}$ avec une accélération de $1\\, \\text{m/s}^2$, la vitesse de l'objet B est de $2\\, \\text{m/s}$ avec une accélération de $6\\, \\text{m/s}^2$, et la vitesse de l'objet C est de $-4\\, \\text{m/s}$ avec une accélération de $2\\, \\text{m/s}^2$. Quelle est la vitesse la plus élevée après $1\\, \\text{s}$ pour les objets au-delà du point D ?",
+        "target": "B"
+    },
+    {
+        "input": "La distance entre deux capteurs acoustiques est de d, et ils sont fixés au sol. Les capteurs peuvent enregistrer l'intervalle de temps entre deux signaux acoustiques consécutifs. Les élèves A et B sont alignés avec les deux capteurs et se tiennent respectivement à gauche et à droite des capteurs. Aucun d'eux ne se trouve entre les capteurs. La distance entre chacun des élèves et leur capteur le plus proche est d'. L'élève A tire un coup de pistolet pour produire un signal acoustique. Après une période de réaction, l'élève B tire également un coup de pistolet après avoir entendu le signal d'A. Il est constaté que l'intervalle enregistré par le capteur du côté d'A est t_1 et celui du côté de B est t_2. Sachant que la vitesse de propagation du son dans l'air reste constante, si l'élève B s'éloigne de son capteur, est-ce que la vitesse de propagation du son diminuera ?",
+        "target": "Non"
+    },
+    {
+        "input": "Avant d'atterrir sur la Lune, un astronaute enregistre le temps T nécessaire à un vaisseau spatial effectuant un mouvement circulaire uniforme près de la surface lunaire pour boucler une orbite. Après l'atterrissage, en lançant une petite balle avec une vitesse initiale v_0 verticalement vers le haut, il mesure le temps t nécessaire à la balle pour revenir au point de départ. Comment le rayon R de la Lune peut-il être exprimé ?",
+        "target": "$\\frac{v_0 T^2}{2\\pi^2 t}$"
+    },
+    {
+        "input": "Une étoile peut être considérée comme une sphère homogène avec un rayon R et une période de rotation T. Le rayon orbital de ses satellites synchrones est de 9R. Si la période de rotation de l'étoile devient plus petite (sans tenir compte de sa désintégration), lorsque cette période devient inférieure à une valeur T_0, aucun satellite de cette étoile ne pourra rester synchronisé avec sa rotation. Quelle est la valeur de T_0 ?",
+        "target": "$\\frac{T}{27}$"
+    },
+    {
+        "input": "Un objet est lancé verticalement vers le haut depuis le sol. Il passe deux fois par un point situé à 30 mètres au-dessus du sol en une seconde. En négligeant la résistance de l'air, quelle est la vitesse initiale de l'objet ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$25\\, \\text{m/s}$"
+    },
+    {
+        "input": "Un objet est lancé verticalement vers le haut à une vitesse de $100\\, \\text{m/s}$. En négligeant la résistance de l'air, quelle est la hauteur maximale atteinte par l'objet ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$500\\, \\text{m}$"
+    },
+    {
+        "input": "Un objet est lancé verticalement vers le haut à une vitesse de $100\\, \\text{m/s}$. En négligeant la résistance de l'air, quelle est la valeur scalaire de vitesse de l'objet lorsqu'il revient au point de départ ?",
+        "target": "$100\\, \\text{m/s}$"
+    },
+    {
+        "input": "Un petit objet commence à tomber librement depuis une hauteur H. Au même instant, une pierre est lancée verticalement vers le haut depuis le sol, directement sous l'objet. On constate que, lorsqu'ils se rencontrent dans les airs, la pierre a déjà commencé à retomber. Quelle devrait être la plage de vitesses initiales de la pierre au moment du lancement ?",
+        "target": "$\\sqrt{\\frac{gH}{2}} < v_0 < \\sqrt{gH}$"
+    },
+    {
+        "input": "Un objet est lancé verticalement vers le haut depuis une surface horizontale à une vitesse de $30\\, \\text{m/s}$. En négligeant la résistance de l'air, quels déplacements l'objet a-t-il effectué 5 secondes après son lancement ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$25\\, \\text{m}$"
+    },
+    {
+        "input": "Une petite balle est lancée verticalement vers le haut à une vitesse de $20\\, \\text{m/s}$. Deux secondes plus tard, une deuxième balle est lancée à la même vitesse initiale et au même point. À quelle hauteur au-dessus du point de lancement les deux balles se rencontrent-elles ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$15\\, \\text{m}$"
+    },
+    {
+        "input": "Une personne voyage de A à B avec une vitesse moyenne de v_1, puis revient de B à A avec une vitesse moyenne de v_2. Quelle est la vitesse moyenne de cette personne pour le voyage aller-retour entre A et B ?",
+        "target": "$\\frac{2v_1 v_2}{v_1 + v_2}$"
+    },
+    {
+        "input": "Une balle se déplace vers la droite à une vitesse de $v_1 = 8\\, \\text{m/s}$. Après avoir heurté un mur, elle rebondit à une vitesse de $v_2 = 4\\, \\text{m/s}$. Le temps de contact entre la balle et le mur est $t = 0,1\\, \\text{s}$. L'élève A considère que la direction vers la droite est positive. Aidez l'élève à calculer la valeur de l'accélération de la balle.",
+        "target": "$120\\, \\text{m/s}^2$"
+    },
+    {
+        "input": "Une balle se déplace vers la droite à une vitesse de $v_1 = 6\\, \\text{m/s}$, puis rebondit après avoir heurté un mur avec une vitesse de $v_2 = 5\\, \\text{m/s}$. Le temps de contact entre la balle et le mur est $t = 0,1\\, \\text{s}$. L'élève B considère que la direction vers la gauche est positive. Aidez l'élève B à calculer la valeur absolue de l'accélération de la balle.",
+        "target": "$110\\, \\text{m/s}^2$"
+    },
+    {
+        "input": "Un point matériel effectue un mouvement rectiligne avec une vitesse variable le long de l'axe Ox. La distance x depuis le point O varie avec le temps t selon la relation $x = 2 + 6t - 2t^3 \\, (\\text{m})$, et sa vitesse v varie avec le temps selon la relation $v = 6 - 6t^2 \\, (\\text{m/s})$. Quelle est la vitesse instantanée du point matériel à $t = 2\\, \\text{s}$ ?",
+        "target": "$-18\\, \\text{m/s}$，à ce moment, la direction est opposée à la vitesse initiale"
+    },
+    {
+        "input": "Un point matériel effectue un mouvement rectiligne avec une vitesse variable le long de l'axe Ox. La distance x depuis le point O varie avec le temps t selon la relation $x = 2 + 6t - 2t^3 \\, (\\text{m})$, et sa vitesse v varie avec le temps selon la relation $v = 6 - 6t^2 \\, (\\text{m/s})$. Quelle est l'accélération moyenne du point matériel durant la deuxième période de $2\\, \\text{s}$ ?",
+        "target": "$-36\\, \\text{m/s}^2$"
+    },
+    {
+        "input": "Un point matériel effectue un mouvement rectiligne avec une vitesse variable le long de l'axe Ox. La distance x depuis le point O varie avec le temps t selon la relation $x = 2 + 6t - 2t^3 \\, (\\text{m})$, et sa vitesse v varie avec le temps selon la relation $v = 6 - 6t^2 \\, (\\text{m/s})$. Quelle est la vitesse moyenne du point matériel entre $t = 0$ et $t = 2\\, \\text{s}$ ?",
+        "target": "$-2\\, \\text{m/s}$，à ce moment, la direction est opposée à la vitesse initiale"
+    },
+    {
+        "input": "Si la vitesse moyenne d'un objet est de $5 \\, \\text{m/s}$ pendant une seconde, quel est nécessairement le déplacement de cet objet durant cette seconde ?",
+        "target": "$5\\, \\text{m}$"
+    },
+    {
+        "input": "Une voiture avance à une vitesse constante de $90\\, \\text{km/h}$. Elle freine brusquement en raison d'une panne et finit par s'arrêter. Sachant que l'accélération pendant le freinage est de $5\\, \\text{m/s}^2$, quelle est la vitesse instantanée de la voiture après $1\\, \\text{s}$ de freinage ?",
+        "target": "$20\\, \\text{m/s}$"
+    },
+    {
+        "input": "Une voiture avance à une vitesse constante de $90\\, \\text{km/h}$. Elle freine brusquement en raison d'une panne et finit par s'arrêter. Sachant que l'accélération pendant le freinage est de $5\\, \\text{m/s}^2$, combien de minutes faut-il à la voiture pour s'arrêter complètement ?",
+        "target": "$\\frac{1}{12}$"
+    },
+    {
+        "input": "Un objet est lancé verticalement vers le haut avec une vitesse initiale de $30\\, \\text{m/s}$. En négligeant la résistance de l'air et en considérant que la direction initiale est positive, quelle est la distance totale parcourue par l'objet en $5\\, \\text{s}$ ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$65\\, \\text{m}$"
+    },
+    {
+        "input": "Un objet est lancé verticalement vers le haut depuis une hauteur de $560\\, \\text{m}$ avec une vitesse initiale de $30\\, \\text{m/s}$. Combien de temps après son lancement l'objet atteint-il le sol ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$14\\, \\text{s}$"
+    },
+    {
+        "input": "Un projectile d'ensemencement des nuages de masse $m = 5\\, \\text{kg}$ est lancé verticalement vers le haut depuis le sol avec une vitesse initiale $v_0 = 360\\, \\text{m/s}$. Au point le plus haut, le projectile explose et libère un agent de pluie. Quelle est l'énergie cinétique instantanée du projectile au moment de son lancement, en kilojoules ?",
+        "target": "$324\\, \\text{kJ}$"
+    },
+    {
+        "input": "Un projectile de ensemencement des nuages de masse $m = 5\\, \\text{kg}$ est lancé verticalement vers le haut depuis le sol avec une vitesse initiale $v_0 = 360\\, \\text{m/s}$. Au point le plus haut, le projectile explose et libère un agent de pluie. Quelle est l'énergie potentielle gravitationnelle gagnée par le projectile lorsqu'il atteint son altitude maximale, exprimée en joules ? ($g = 10 \\text{m/s}^2$)",
+        "target": "$324 000\\, \\text{J}$"
+    },
+    {
+        "input": "Un projectile de ensemencement des nuages de masse $m = 5\\, \\text{kg}$ est lancé verticalement vers le haut depuis le sol avec une vitesse initiale $v_0 = 360\\, \\text{m/s}$. Au point le plus haut, le projectile explose et libère un agent de pluie. En négligeant la résistance de l'air, quelle est la hauteur maximale atteinte par le projectile, exprimée en kilomètres ? ($g = 10\\, \\text{m/s}^2$)",
+        "target": "$6,48\\, \\text{km}$"
+    },
+    {
+        "input": "Deux blocs A et B connectés par une corde légère sont placés sur une surface horizontale lisse. Le rapport des masses des blocs est $m_A : m_B = 3 : 1$. Une force horizontale de $F = 12\\, \\text{N}$ agit sur le bloc A vers la gauche. Quelle est la tension exercée par la corde légère sur le bloc B ?",
+        "target": "$3\\, \\text{N}$"
+    },
+    {
+        "input": "La théorie suggère que le processus d'effondrement des étoiles massives en trous noirs est influencé par une réaction nucléaire : $_{6}^{12}\\text{C} + Y \\rightarrow _{8}^{16}\\text{O}$. Si Y est une particule, entre les rayons α et γ, lequel a une capacité d'ionisation plus forte ?",
+        "target": "Rayon α"
+    },
+    {
+        "input": "Un noyau d'uranium 238 ( $_{92}^{238}\\text{U}$ ) au repos subit une désintégration α pour devenir un noyau de thorium tout en émettant un photon γ (fréquence $\\nu$). Sachant que la masse de la particule α est m, écrivez l'équation de désintégration correspondante. (Constante de Planck : h, vitesse de la lumière : c)",
+        "target": "$_{92}^{238}\\text{U} \\rightarrow _{90}^{234}\\text{Th} + _{2}^{4}\\text{He}$"
+    },
+    {
+        "input": "Un petit moteur électrique fonctionne sous une tension de $5\\, \\text{V}$, avec une intensité de courant de $0,5\\, \\text{A}$. Quelle est la puissance d'entrée de ce moteur électrique, exprimée en watts ?",
+        "target": "$2,5\\, \\text{W}$"
+    },
+    {
+        "input": "Camille a acheté un chauffe-eau électrique. Le tableau suivant présente les paramètres techniques du chauffe-eau. Le réservoir d'eau est rempli et fonctionne normalement pendant $40\\, \\text{min}$, augmentant la température de l'eau de $25^\\circ\\text{C}$ à $45^\\circ\\text{C}$. Quelle est l'efficacité du chauffe-eau ? (Capacité thermique spécifique de l'eau : $4200\\, \\text{J/(kg}\\cdot^\\circ\\text{C)}$)\n\n| Modèle | FED-H50 |\n| Tension nominale | $220\\, \\text{V}$ |\n| Capacité maximale | $50\\, \\text{kg}$ |\n| Puissance nominale | $2000\\, \\text{W}$ |",
+        "target": "0,875"
+    },
+    {
+        "input": "La diminution de la tension d'alimentation a entraîné une réduction de 36% de la puissance électrique consommée par les appareils. Quel pourcentage la tension de la source d'alimentation a-t-elle diminué par rapport à sa valeur initiale ?",
+        "target": "20%"
+    },
+    {
+        "input": "Deux fils résistants en même matériau sont connectés à deux circuits différents. Le fil résistant A a une longueur L et un diamètre d, tandis que le fil résistant B a une longueur 4L et un diamètre 4d. Pour que les deux fils consomment la même puissance électrique, quel doit être le rapport des tensions appliquées sur les deux fils ?",
+        "target": "$U_A∶U_B=2∶1$"
+    },
+    {
+        "input": "Un conducteur a une résistance de $4\\, \\Omega$. Lorsqu'un courant de $4\\, \\text{A}$ traverse ce conducteur pendant $30\\, \\text{min}$, quelle quantité de chaleur, exprimée en joules, est produite ?",
+        "target": "$115 200\\, \\text{J}$"
+    },
+    {
+        "input": "L'ampoule L est marquée « 40V 10W », et R est une résistance fixe. Lorsque l'interrupteur S est fermé, l'ampoule L fonctionne normalement. L'ampèremètre indique une valeur de 0,45A. Quel est le courant nominal de l'ampoule L, exprimé en ampères ?",
+        "target": "$0,25\\, \\text{A}$"
+    },
+    {
+        "input": "Dans le champ électrique créé par une charge ponctuelle Q, il y a deux points M et N. Les potentiels électriques aux points M et N sont respectivement φₘ et φₙ, et les intensités du champ électrique sont respectivement Eₘ et Eₙ. Lorsqu'une charge test positive est déplacée du point M au point N, la force électrique effectue un travail négatif. Comment doit-on exprimer la relation entre Eₘ et Eₙ en utilisant les symboles ＞, ＜ et = ?",
+        "target": "$E_m < E_n$"
+    },
+    {
+        "input": "Un point matériel effectue un mouvement circulaire uniforme. Si la magnitude de la force nette qui agit sur lui est proportionnelle à une puissance n du rayon de l'orbite et que la période de mouvement est inversement proportionnelle au rayon de l'orbite, quelle est la valeur de n ?",
+        "target": "3"
+    },
+    {
+        "input": "En raison de la rotation de la Terre, comparez l'objet A situé sur l'équateur avec l'objet B situé à $60^\\circ$ de latitude nord. Quel est le rapport des vitesses angulaires des objets A et B ?",
+        "target": "1:1"
+    },
+    {
+        "input": "Lorsqu'un athlète court sur une piste semi-circulaire, on peut le considérer comme effectuant un mouvement circulaire. Les différentes voies de la piste semi-circulaire sont concentriques. Lorsque les vitesses linéaires des athlètes sur les voies intérieure et extérieure sont égales, la vitesse angulaire est-elle plus grande dans la voie extérieure ou intérieure ?",
+        "target": "Dans la voie intérieure "
+    },
+    {
+        "input": "Un nouveau matériau quantique pour l'effet photoélectrique a un travail d'extraction W_0. Lorsque ce matériau est exposé à des rayons UV, il produit un faisceau cohérent d'électrons avec une énergie cinétique et une quantité de mouvement unique. Lorsque ce faisceau frappe une double fente espacée de d, il forme des franges d'interférence sur un écran d'observation situé à une distance L, et l'espacement des franges mesuré est de $\\Delta x$. Si la masse de l'électron est m, la constante de Planck est h et la vitesse de la lumière est c, comment doit-on exprimer la quantité de mouvement p des électrons ?",
+        "target": "$\\frac{hL}{d\\Delta x}$"
+    },
+    {
+        "input": "Le satellite d'observation solaire « Solar Orbiter » peut détecter les rayons X durs émis par le soleil. Les rayons X durs sont des photons à très courte longueur d'onde, notée λ. Si le soleil émet uniformément des rayons X durs dans toutes les directions et que l'objectif du détecteur du satellite est orienté directement vers le soleil, recevant N photons par seconde, sachant que la superficie de l'objectif est S, la distance entre le satellite et le centre du soleil est R, la constante de Planck est h et la vitesse de la lumière est c, quelle est l'énergie E de chaque photon ?",
+        "target": "$\\frac{hc}{\\lambda}$"
+    },
+    {
+        "input": "Le satellite d'observation solaire « Solar Orbiter » peut détecter les rayons X durs émis par le soleil. Les rayons X durs sont des photons à très courte longueur d'onde, notée λ. Si le soleil émet uniformément des rayons X durs dans toutes les directions et que l'objectif du détecteur du satellite est orienté directement vers le soleil, recevant N photons par seconde, sachant que la superficie de l'objectif est S, la distance entre le satellite et le centre du soleil est R, la constante de Planck est h et la vitesse de la lumière est c, quelle est la puissance totale P du rayonnement solaire des rayons X durs ?",
+        "target": "$\\frac{4\\pi NhcR^2}{S\\lambda}$"
+    },
+    {
+        "input": "À l'intérieur du Soleil, des réactions de fusion nucléaire légère se produisent constamment, irradiant de l'énergie vers l'extérieur. La puissance totale de cette radiation est $P = 3,75 \\times 10^{26} \\, \\text{W}$. Sachant que la lumière émise met $t = 500 \\, \\text{s}$ pour atteindre la Terre, que le rayon terrestre est $R_0 = 6,4 \\times 10^6 \\, \\text{m}$ et que la vitesse de la lumière dans le vide est $c = 3 \\times 10^8 \\, \\text{m/s}$, quelle est la puissance P_0 de l'énergie solaire reçue par la Terre ?",
+        "target": "$\\approx 1,71 \\times 10^{17} \\, \\text{W}$"
+    },
+    {
+        "input": "Un moteur à courant continu ayant un courant nominal de 4 A et une résistance de bobine de 1 Ω produit une puissance mécanique de 6 W en fonctionnement normal. Quelle est la puissance électrique consommée par ce moteur dans ces conditions ?",
+        "target": "$22\\, \\text{W}$"
+    },
+    {
+        "input": "Dans le monde microscopique, la conservation de la quantité de mouvement et de l'énergie est une règle universelle. Les ultraviolets extrêmes sont utilisés dans les machines de lithographie pour produire des puces avancées, avec une longueur d'onde $\\lambda$ entre $121 \\, \\text{nm}$ et $10 \\, \\text{nm}$. Supposons que la masse de l'électron est $m = 9,0 \\times 10^{-31} \\, \\text{kg}$, que la constante de Planck est $h = 6,6 \\times 10^{-34} \\, \\text{J}\\cdot\\text{s}$ et que la vitesse de la lumière dans le vide est $c = 3 \\times 10^8 \\, \\text{m/s}$. Si l'on éclaire une plaque de zinc avec un rayonnement ultraviolet extrême de longueur d'onde 10 nm, sachant que la longueur d'onde limite capable de produire l'effet photoélectrique sur la plaque de zinc est de 3,7 × 10⁻⁷ m, quelle est l'énergie cinétique initiale maximale E_k des photoélectrons émis, exprimée en joules ? (Conserver 1 chiffre significatif dans le résultat du calcul)",
+        "target": "$2 \\times 10^{-17}\\, \\text{J}$"
+    },
+    {
+        "input": "Une résistance connectée à un circuit consomme une puissance de $220 \\, \\text{W}$, et lorsque $3 \\, \\text{C}$ de charge passent à travers, $330 \\, \\text{J}$ d'énergie électrique sont convertis en énergie interne. Quelle est la valeur en ohms de cette résistance ?",
+        "target": "$55\\, \\Omega$ "
+    },
+    {
+        "input": "Un résident a installé 12 panneaux solaires sur la plateforme du toit, captant l'énergie solaire pour produire de l'électricité. La puissance totale générée est de $2,8 \\, \\text{kW}$ avec une tension de fonctionnement de $350 \\, \\text{V}$. Quel est le courant total de travail en ampères de ce projet photovoltaïque ?",
+        "target": "$8\\, \\text{A}$"
+    },
+    {
+        "input": "Un fil conducteur A a une longueur de L, un diamètre de section de d, et une tension aux bornes de U. Un autre fil conducteur B, du même matériau, a une longueur de 3L, un diamètre de 3d, et une tension aux bornes de 3U. Quel est le rapport des courants dans les fils A et B ?",
+        "target": "I_A:I_B=1:9"
+    },
+    {
+        "input": "Le rover martien « Rosalind Franklin » a une masse de $240 \\, \\text{kg}$, le rayon de Mars est environ la moitié de celui de la Terre, et sa masse est environ 1/9 de celle de la Terre. Quelle est le rapport entre l'accélération gravitationnelle à la surface de Mars et celle de la Terre ?",
+        "target": "$\\frac{4}{9}$"
+    },
+    {
+        "input": "Un objet de masse $10 \\, \\text{kg}$ fait un mouvement circulaire uniforme sur un cercle de rayon $2 \\, \\text{m}$ avec une vitesse linéaire de $2 \\, \\text{m/s}$. Quelle est la force centripète nécessaire ?",
+        "target": "$20\\, \\text{N}$"
+    },
+    {
+        "input": "Jean participe à une compétition de saut en hauteur. Sa vitesse au décollage est dirigée verticalement vers le haut, sans considérer la résistance de l'air, et son résultat est $1,50 \\, \\text{m}$. Si Jean saute avec la même vitesse initiale sur la Lune, sachant que le rayon de la Lune est environ 1/4 de celui de la Terre et que sa masse est 1/81 de celle de la Terre (en négligeant l'effet de rotation de la Lune), atteindra-t-il une hauteur supérieure à $10 \\, \\text{m}$ ? ($g = 10 \\, \\text{m/s}^2$)",
+        "target": "Non"
+    },
+    {
+        "input": "Une lampe de poche a une tension de $6 \\, \\text{V}$ et la résistance de l'ampoule est $10 \\, \\Omega$. Lorsque la lampe éclaire normalement, quel est le courant traversant le filament de l'ampoule ?",
+        "target": "$0,6\\, \\text{A}$"
+    },
+    {
+        "input": "Une lampe à incandescence a une puissance nominale de $50 \\, \\text{W}$ et une tension nominale de $50 \\, \\text{V}$. Si cette lampe est connectée à une alimentation avec une tension de sortie de $25 \\, \\text{V}$, quelle est la puissance électrique minimale consommée par cette lampe ?",
+        "target": "$12,5\\, \\text{W}$"
+    },
+    {
+        "input": "Deux fils métalliques nus, A et B, identiques en tout point. Si le fil A est uniformément étiré jusqu'à quatre fois sa longueur initiale, tandis que le fil B est plié en deux puis combiné, et que le même tension est appliqué sur chacun, pendant le même temps, quel est le rapport des charges traversant les sections transversales des fils, soit q_A∶q_B ?",
+        "target": "1:64"
+    },
+    {
+        "input": "Deux petites sphères métalliques identiques (considérées comme des charges ponctuelles) portent initialement des charges électriques respectives de +6q et -2q. La force coulombienne entre elles est de F. Après les avoir mises en contact puis replacées à leur position d'origine, quelle est la nouvelle force coulombienne entre les deux sphères métalliques ?",
+        "target": "$\\frac{1}{3}F$"
+    },
+    {
+        "input": "Pour un appareil électrique situé à L mètres de la source d'alimentation, avec un courant I circulant dans les lignes, afin que la chute de tension sur les lignes ne dépasse pas U, et sachant que la résistivité des lignes de transmission est ρ, quelle est la valeur minimale de la section transversale des lignes de transmission ?",
+        "target": "$\\frac{2\\rho LI}{U}$"
+    },
+    {
+        "input": "Un fil résistif uniforme et homogène, lorsque ses deux extrémités sont soumises à une tension de $4\\, \\text{V}$, un courant de $8\\, \\text{A}$ y passe. Si ce fil résistif est uniformément étiré, et que la même tension de $4\\, \\text{V}$ est appliquée aux deux extrémités, le courant devient $0,5\\, \\text{A}$. À partir de là, de combien de fois ce fil résistif a-t-il été étiré par rapport à sa longueur originale ?",
+        "target": "4 fois"
+    },
+    {
+        "input": "Un fil résistif homogène a une résistance R, une longueur L et une section transversale S. Si la longueur reste constante mais que la section transversale double pour devenir 2S, quelle sera la résistance du fil par rapport à la résistance initiale ?",
+        "target": "$\\frac{1}{2}R$"
+    },
+    {
+        "input": "Un fil de nickel-chrome uniforme et homogène a un diamètre de section transversale d et une résistance R. Après avoir été étiré pour obtenir un fil fin et uniforme avec un diamètre de section de d/5, quelle est la nouvelle résistance, en multiple de la résistance initiale ?",
+        "target": "625 fois"
+    },
+    {
+        "input": "En hiver sec, une voiture en mouvement peut facilement acquérir une charge positive en frottant avec l'air. Lorsqu'une main humaine touche la porte de la voiture, un phénomène de « choc électrique » se produit. Quand une charge positive passe de la main à la porte de la voiture, quelle est la direction du courant ?",
+        "target": "De la personne à la porte de la voiture"
+    },
+    {
+        "input": "Une lampe ayant une tension nominale U et une puissance nominale P est connectée à un circuit avec une tension de U' (U' < U). En négligeant l'influence de la température sur la résistance, quelle serait la puissance réelle P' de cette lampe ?",
+        "target": "$\\left(\\frac{U'}{U}\\right)^2 \\cdot P$"
+    },
+    {
+        "input": "Une lampe est directement connectée à une tension constante U, et sa puissance est de $100\\, \\text{W}$. Si une longue ligne de connexion est utilisée pour éloigner la lampe de la source d'alimentation, la puissance de la lampe devient $81\\, \\text{W}$. Quelle est la puissance perdue dans la ligne de transmission ?",
+        "target": "$9\\, \\text{W}$"
+    },
+    {
+        "input": "En utilisant deux tensions, $600\\, \\text{V}$ et $200\\, \\text{V}$, pour la transmission d'électricité, avec une puissance transmise identique, une même longueur, une même épaisseur et une même résistivité des fils. La puissance perdue dans les fils à basse tension est combien de fois celle à haute tension ?",
+        "target": "9 fois"
+    },
+    {
+        "input": "On connecte un fil résistant aux deux bornes d'une source de tension constante, la puissance du courant est p. Si ce fil résistant est uniformément étiré pour doubler sa longueur d'origine et est reconnecté à cette source, quelle est la nouvelle puissance par rapport à celle d'origine ?",
+        "target": "$\\frac{1}{4}P$"
+    },
+    {
+        "input": "On place un fil conducteur droit de longueur $2\\, \\text{m}$ perpendiculairement dans un champ magnétique uniforme de $0.2\\, \\text{T}$. Lorsque le courant dans le fil est de $5\\, \\text{A}$, quelle est la force d'Ampère exercée sur ce fil ?",
+        "target": "$2\\, \\text{N}$"
+    },
+    {
+        "input": "On place un fil conducteur droit de longueur $2\\, \\text{m}$ perpendiculairement dans un champ magnétique uniforme de $0,2\\, \\text{T}$. Si le fil est placé parallèlement au champ magnétique, et que les autres conditions restent identiques, quelle est la force d'Ampère exercée sur ce fil ?",
+        "target": "$0\\, \\text{N}$"
+    },
+    {
+        "input": "On place un fil conducteur droit de longueur $2\\, \\text{m}$ perpendiculairement dans un champ magnétique uniforme de $2\\, \\text{T}$. Lorsque le courant dans le fil est de $10\\, \\text{A}$, et que le fil est incliné à $30^\\circ$ par rapport à la direction du champ, les autres conditions restent identiques, et quelle est la force d'Ampère exercée sur ce fil ?",
+        "target": "$20\\, \\text{N}$"
+    },
+    {
+        "input": "En mesurant la tension des deux lampes dans le circuit avec un voltmètre, on obtient une tension de $20\\, \\text{V}$ à leurs deux bornes respectives. Quel est le mode de connexion de ces deux lampes ?",
+        "target": "En parallèle"
+    },
+    {
+        "input": "Les résistances des trois résistances sont dans le rapport R1:R2:R3=1:2:3 . Lorsque ces résistances sont branchées en parallèle dans le circuit, quels sont les rapports des courants passant dans les trois branches ?",
+        "target": "I_1 : I_2 : I_3 =6∶3∶2"
+    },
+    {
+        "input": "Il y a un ampèremètre d'une plage de $6\\, \\text{A}$ dont la résistance interne est notée R_1. On connecte en parallèle une résistance de valeur égale à R_1 avec l'ampèremètre, puis on les assemble en série avec une résistance R de $10\\, Ω\\Omega$. Une fois le circuit fermé, l'ampèremètre indique $4\\, \\text{A}$. Quelle est la puissance dissipée par la résistance R, exprimée en watts ?",
+        "target": "$640\\, \\text{W}$"
+    },
+    {
+        "input": "Un moteur a une tension nominale de $220\\, \\text{V}$ et une résistance de 2 Ω. En fonctionnement normal, le courant traversant le moteur est de $10\\, \\text{A}$. Combien de joules de chaleur le moteur produit-il par minute ?",
+        "target": "$12 000\\, \\text{J}$"
+    },
+    {
+        "input": "Un moteur a une tension nominale de $220\\, \\text{V}$ et une résistance de 2 Ω. En fonctionnement normal, le courant traversant le moteur est de $10\\, \\text{A}$. Quel travail mécanique le moteur effectue-t-il par minute ?",
+        "target": "$120 000\\, \\text{J}$"
+    },
+    {
+        "input": "Lorsqu'un fil de plomb fin de diamètre $0,3, \\text{cm}$ est traversé par un courant de $18\\, \\text{A}$, il fond, et lorsqu'un fil de plomb épais de diamètre $0,6\\, cm\\text{cm}$ est traversé par un courant de $50\\, \\text{A}$, il fond également. Si 20 fils de plomb fins et un fil de plomb épais, tous de même longueur, sont connectés en parallèle pour constituer le fusible du circuit, quel courant doit circuler dans le circuit pour que celui-ci se coupe ?",
+        "target": "$300\\, \\text{A}$"
+    },
+    {
+        "input": "Un ampèremètre possède une résistance interne de $R_g = 10\\, \\Omega$ et un courant de pleine échelle $I_g = 3\\, \\text{A}$. Pour le convertir en un ampèremètre de plage $0 \\sim 6\\, \\text{A}$, quelle est la valeur de la résistance à mettre en parallèle ?",
+        "target": "$10\\, \\Omega$"
+    },
+    {
+        "input": "Un ampèremètre possédant une résistance interne de $R_g = 10\\, \\Omega$ et un courant de pleine échelle $I_g = 3\\, \\text{A}$. Pour le convertir en un ampèremètre de plage $0 \\sim 6\\, \\text{A}$. Après modification, quelle sera sa nouvelle résistance interne ?",
+        "target": "$5\\, \\Omega$"
+    },
+    {
+        "input": "Un ampèremètre a une résistance interne de $R_g = 200\\, \\Omega$ et un courant de pleine échelle $I_g = 500\\, \\mu\\text{A}$. Pour le transformer en voltmètre de plage $1\\, \\text{V}$, quelle résistance (en ohms) doit être ajoutée en série ?",
+        "target": "$1800\\, \\Omega$"
+    },
+    {
+        "input": "Une batterie avec une force électromotrice de $3\\, \\text{V}$ et une résistance interne non négligeable est connectée à une résistance R. Lorsque $1\\, \\text{C}$ de charge traverse R, la chaleur produite dans R est-elle égale à $3\\, \\text{J}$ ?",
+        "target": "Non"
+    },
+    {
+        "input": "Une plaque solaire a une tension à vide mesurée à $1000\\, \\text{V}$ et un courant de court-circuit de $40\\, \\text{A}$. Si cette plaque solaire est connectée à une résistance de $25\\, \\Omega$ pour former un circuit fermé, quelle sera la tension aux bornes ?",
+        "target": "$500\\, \\text{V}$"
+    },
+    {
+        "input": "Un ohmmètre dont l'aiguille atteint le courant plein échelle à $5\\, \\text{mA}$ est équipé d'une pile avec une force électromotrice de $1,5\\, \\text{V}$. Lorsqu'une résistance à mesurer est connectée entre les bornes rouge et noire et que l'aiguille atteint les 3/4 de l'échelle, quelle est la valeur de cette résistance ?",
+        "target": "$100\\, \\Omega$"
+    },
+    {
+        "input": "Une ampoule est connectée à trois batteries plomb-acide en série et brille normalement. Si deux ampoules identiques sont maintenant connectées en série au même ensemble de batteries, comment changera la luminosité des deux ampoules ?",
+        "target": "Luminosité atténuée"
+    },
+    {
+        "input": "Un élève utilise un voltmètre et estime que la plage de mesure de tension devrait être $0 \\sim 3\\, \\text{V}$, mais par erreur, il utilise la plage $0 \\sim 15\\, \\text{V}$. Dans ce cas, l'angle de déplacement de l'aiguille dans le voltmètre augmentera-t-il ?",
+        "target": "Non, l'angle diminuera"
+    },
+    {
+        "input": "Il y a quatre fils : A, B, C, D. Les fils A, B et C sont en cuivre, et le fil D est en alliage de nickel-chrome. Les fils A et B ont le même diamètre, mais le fil A est plus court que le fil B. Les fils B et C ont la même longueur, mais le fil B est plus épais que le fil C. Les fils C et D ont la même longueur, épaisseur et diamètre. Classez les résistances des fils $R_{\\text{A}}$, $R_{\\text{B}}$, $R_{\\text{C}}$, $R_{\\text{D}}$ par ordre croissant, en utilisant les symboles « > », « < » ou « = ».",
+        "target": "$R_{\\text{A}} < R_{\\text{B}} < R_{\\text{C}} < R_{\\text{D}}$"
+    }
+]

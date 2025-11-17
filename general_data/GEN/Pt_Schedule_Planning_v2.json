@@ -1,0 +1,482 @@
+[
+    {
+        "input": "João é um professor de cursos de treinamento em inovação e empreendedorismo. Ele organiza o tempo de treinamento das 10:00 às 18:00 de todos os dias úteis, com uma hora de intervalo para almoço. Ele começará a organizar os cursos na seguinte ordem a partir da próxima segunda-feira de manhã: métodos de inovação levarão 5 horas, planejamento de projeto empreendedor levará 10 horas e modelo de negócios levará 4 horas. Então, em que dia da semana ele terminará de aprender o modelo de negócios?",
+        "target": "Próxima quarta-feira"
+    },
+    {
+        "input": "Ana está viajando em Pittsburgh. Ela está visitando o Zoológico de Pittsburgh e planeja ir ao Museu de Arte de Pittsburgh mais tarde. Agora são 13:00. Ela levará meia hora para comer e mais meia hora para viajar. Então, quando é o mais cedo que ela pode chegar ao Museu de Arte de Pittsburgh?",
+        "target": "Ela poderá chegar por volta das 14:00:00"
+    },
+    {
+        "input": "Maria quer comer o famoso churrasco de Seul. Ela agora está fazendo compra por Myeongdong, o que provavelmente levará mais uma hora. Agora são 16:00, e levará mais meia hora para chegar lá. Então, a que horas ela pode chegar ao restaurante?",
+        "target": "Ela poderá comer por volta das 17:30:00"
+    },
+    {
+        "input": "Carolina é uma escritora. Seu horário de trabalho é das 10:00 às 19:00 de todos os dias úteis. A ordem da sua agenda de trabalho diária é a seguinte: 4 horas para escrever novos capítulos ou parágrafos, 1 hora para editar e revisar o que escreveu no dia anterior, 1 hora para reunir e organizar o enredo ou estrutura de conteúdo e 3 horas para análise de mercado e concorrência. Então, a que horas ela termina de reunir e organizar o enredo ou estrutura de conteúdo?",
+        "target": "Terminado às 16:00:00"
+    },
+    {
+        "input": "Se eu for participar de um treinamento de pintura de curta duração na semana que vem, O treinamento é realizado todos os dias úteis, das 10h às 18h, e eu vou me preparar para as aulas na seguinte ordem a partir da próxima segunda-feira de manhã: levarei 6 horas para aprender linhas, 11 horas para aprender cores e 8 horas para aprender perspectiva. Então, que dia da semana será quando eu terminar de aprender perspectiva?",
+        "target": "Próxima quinta-feira"
+    },
+    {
+        "input": "Mariana agora tem 60 dias para se preparar para o exame FRM, incluindo 5 dias para exame simulado, 5 dias para mercados e produtos financeiros, 10 dias para análise quantitativa de riscos financeiros e 20 dias para gerenciamento de risco e gerenciamento de investimento. Então, quantos dias ela pode praticar avaliação e modelos de risco?",
+        "target": "20 dias"
+    },
+    {
+        "input": "Diego se levantou às dez da manhã, frequentou as aulas na escola das dez às doze, esteve na igreja das quinze às dezenove, esteve na casa do Lucas das vinte às vinte e três e foi para a cama às vinte e três. Se ele quiser jogar basquete por três horas, qual é o melhor horário?",
+        "target": "Das 12h00 às 15h00."
+    },
+    {
+        "input": "Eu sou um escritor. Meu horário de trabalho é das 10:00 às 16:00 de todos os dias úteis. A partir da próxima segunda-feira, planejo fazer as seguintes tarefas na seguinte ordem: 4 horas para obter inspiração e ideias, 8 horas para escrever novos capítulos ou parágrafos, 6 horas para fazer anotações e esboços e 3 horas para autoavaliação e reflexão. Então, em que dia da semana concluirei a autoavaliação e a reflexão?",
+        "target": "Próxima quinta-feira"
+    },
+    {
+        "input": "Mariana é uma trabalhadora comunitária. Ela tem cinco dias na próxima semana para organizar uma atividade comunitária. Levará um dia para planejar e preparar o conteúdo específico e os arranjos da atividade comunitária, meio dia para comunicar e treinar a equipe de voluntários, meio dia para comunicar e interagir com os moradores da comunidade e meio dia para organizar e resumir os dados e o feedback das atividades comunitárias. Então, quantos dias ela tem para resolver os problemas dos moradores da comunidade ou fornecer ajuda?",
+        "target": "Dois dias e meio"
+    },
+    {
+        "input": "Se eu tiver 90 dias para me preparar para o teste TOEFL, dos quais 7 dias são para exame simulado, 20 dias para compreensão oral, 15 dias para escrita e 20 dias para leitura, quantos dias tenho para praticar a falar?",
+        "target": "28 dias"
+    },
+    {
+        "input": "Meu irmão se levanta às 8:00 hoje da manhã. Ele tem aula de matemática das nove e meia às doze horas, tem um intervalo para almoço das doze horas às três horas da tarde, tem aula de inglês das três às cinco horas da tarde, joga das oito às dez horas da noite e vai para a cama às dez horas. Hoje ele precisa jogar uma partida de futebol de três horas. Qual é o melhor horário?",
+        "target": "17:00-20:00"
+    },
+    {
+        "input": "Um seminário acadêmico geralmente é dividido em cerimônia de abertura, discurso principal, discussão em grupo, relatório acadêmico, interação acadêmica. Se o seminário acadêmico organizado por Juliana for programado para as 10h às 18h, com 1 hora para cerimônia de abertura, 1 hora para discurso principal, 1 hora para discussão em grupo, 1 hora para intervalo para o almoço, 3 horas para relatório acadêmico, quantas horas há para interação acadêmica?",
+        "target": "1 hora"
+    },
+    {
+        "input": "Larissa agora tem 50 dias para se preparar para o teste ACT, incluindo 10 dias para exame simulado, 10 dias para inglês, 7 dias para matemática e 15 dias para leitura, então, por quantos dias ela pode praticar raciocínio científico?",
+        "target": "8 dias"
+    },
+    {
+        "input": "Mariana é professora de IT. Ela organiza o tempo de treinamento das 10:00 às 18:00 de todos os dias úteis. Ela começará a organizar os cursos na seguinte ordem a partir da próxima segunda-feira de manhã: levará 8 horas para conhecimento básico de informática, 4 horas para linguagem de programação e 10 horas para análise de dados, então, em que dia da semana ela terminará de aprender análise de dados?",
+        "target": "Próxima quarta-feira"
+    },
+    {
+        "input": "Hoje é 1º de agosto. As toalhas de bebê que Isabella pediu levarão 5 dias para chegar, as mamadeiras que ela pediu levarão 8 dias para chegar, e o leite em pó que ela comprou levará 3 dias para chegar. Então, em que dia ela conseguirá preparar todos os produtos maternos e infantis acima?",
+        "target": "Estará pronto em 9 de agosto"
+    },
+    {
+        "input": "Gabriela é uma planejadora de casamentos. Há 5 dias, dos quais leva 1 dia para escolher e determinar a cerimônia de casamento e o local do banquete de casamento, meio dia para reservar uma empresa de casamento ou equipe de planejamento, meio dia para iniciar o processo de experimentação e personalização do vestido de noiva, 1 dia para selecionar e comprar alianças de casamento e alianças de casal, meio dia  para confirmar a acomodação dos convidados e os arranjos de transporte, e meio dia para organizar a decoração do local do casamento e a disposição das mesas. Então, quantos dias faltam para reservar fotógrafos e videógrafos?",
+        "target": "1 dia"
+    },
+    {
+        "input": "Fernando está planejando uma atividade voluntária de 5 dias, dos quais 1 dia é para publicidade, meio dia é para vendas de caridade e arrecadação de fundos, meio dia é para organizar a equipe e os recursos, e meio dia é para dar feedback e comemorar com a equipe de voluntários. Então, quantos dias faltam para avaliação e melhoria?",
+        "target": "Dois dias e meio"
+    },
+    {
+        "input": "Lila é uma professora de cursos de treinamento em comunicação e expressão. Ela organiza o horário do treinamento das 10:00 às 18:00 todos os dias úteis. Ela começará a organizar os cursos na seguinte ordem a partir da próxima segunda-feira de manhã: comunicação eficaz levará 6 horas, gerenciamento de relacionamento interpessoal levará 12 horas e habilidades de apresentação levará 7 horas. Então, em que dia da semana ela terminará de aprender habilidades de apresentação?",
+        "target": "Próxima quinta-feira"
+    },
+    {
+        "input": "Rafael se levantou às nove horas hoje, trabalhou na padaria das nove às doze, almoçou das doze às treze, trabalhou na cafeteria das quinze às dezenove, foi para casa das dezenove às vinte, jogou sozinho em casa até as vinte e três e depois foi para a cama. Rafael e Lucas participaram juntos de uma aula de dança de duas horas. Em qual faixa de horário eles tiveram aula?",
+        "target": "13:00-15:00"
+    },
+    {
+        "input": "Vou para a casa da minha avó hoje para cuidar dos gatos, levará 2 horas para a viagem de ida e volta, meia hora para alimentar o gato, meia hora para pentear o pelo do gato e 1 hora para brincar com o gato. Se eu quiser ir para casa por volta das 18:00, qual é o horário mais tardar que posso sair de casa?",
+        "target": "Sair às 14:00:00"
+    },
+    {
+        "input": "Camila tem uma reunião urgente e precisa chegar rapidamente no Rio de Janeiro de São Paulo no mesmo dia. A reunião começa às 17:00 do dia 21. Os bilhetes aéreos estavam esgotados, então ela planeja pegar o trem, que tem três trens por dia, partindo às 8h, 12h e 16h, e a viagem leva cerca de 7 horas. Leva uma hora de carro da estação ferroviária até o local da conferência, e Camila precisa reservar uma hora de tempo de preparação após chegar no Rio de Janeiro. Agora são 6 horas do dia 21. Qual trem ela deve pegar o mais tardar?",
+        "target": "O trem às 8 da manhã daquele dia"
+    },
+    {
+        "input": "Laura é uma planejadora de casamentos. Há 4 dias, dos quais meio dia é necessário para planejar o menu do casamento e bebidas, meio dia é necessário para reservar o carro do casamento e serviço de busca, meio dia é necessário para pedir o bolo de casamento e sobremesas, 1 dia é necessário para organizar o ensaio do casamento e ensaio musical da cerimônia, e meio dia é necessário para concluir os procedimentos de certidão de casamento e registro de casamento. Então, quantos dias serão necessários para confirmar o processo e a sequência da cerimônia de casamento?",
+        "target": "1 dia"
+    },
+    {
+        "input": "Letícia quer ir ao Carrefour para fazer compras em família neste domingo. Ela tem 2 horas para fazer compras e pagar no supermercado, incluindo meia hora para escolher vegetais, meia hora para escolher carne e meia hora para pagar. Então, quantas horas ela tem para comprar itens domésticos?",
+        "target": "Meia hora"
+    },
+    {
+        "input": "Estou planejando obter a residência permanente no Reino Unido. Hoje é 20 de janeiro. O tempo necessário para enviar a solicitação é de 2 meses, para a entrevista é de 1 mês, e para fornecer os materiais e realizar o exame médico é de 6 meses. Sendo assim, qual é a data mais próxima em que poderei obter a residência permanente no Reino Unido?",
+        "target": "Dia 20 de outubro no mínimo"
+    },
+    {
+        "input": "O Departamento de Neurologia onde o diretor Santos trabalha vai realizar um seminário acadêmico neste domingo das 10:00 às 16:00. O horário de almoço é das 12:00 às 13:00, a cerimônia de abertura e o discurso principal são das 10:00 às 11:00, a sessão de interação acadêmica é das 13:00 às 14:00, o jantar ou evento social é das 14:00 às 15:30, e a cerimônia de encerramento é das 15:30 às 16:00. Então, quando é o horário para o relatório acadêmico?",
+        "target": "11:00-12:00"
+    },
+    {
+        "input": "Amanda é uma planejadora de casamentos. Ela tem 5 dias, dos quais meio dia para concluir os procedimentos de certidão de casamento e registro de casamento, meio dia para começar o processo de ajuste e personalização do vestido de noiva, 1 dia para personalizar o itinerário da lua de mel, 1 dia para confirmar a acomodação dos convidados e os arranjos de transporte, e meio dia para organizar a decoração do local do casamento e a disposição das mesas. Então, quantos dias estarão disponíveis para confirmar o celebrante ou mestre de cerimônias do casamento?",
+        "target": "Um dia e meio"
+    },
+    {
+        "input": "Se eu for participar de um treinamento físico de curta duração na próxima semana, o horário do treinamento será todos os dias úteis, das 10h às 18h, e eu começar a me preparar para a aula na seguinte ordem a partir da manhã da próxima segunda-feira: o exercício aeróbico leva 3 horas, o treinamento de força leva 2 horas, o treinamento de desenvolvimento de flexibilidade e estabilidade do core leva 4 horas. Então, em que dia da semana devo terminar o treinamento de desenvolvimento de flexibilidade e estabilidade do core?",
+        "target": "Próxima terça-feira"
+    },
+    {
+        "input": "Minha família e eu queremos imigrar para a França. Agora é 5 de janeiro. Leva um mês para entender a política de imigração, um mês para enviar a solicitação e preparar os materiais, três meses para esperar o Departamento de Imigração aceitar e revisar, e quatro meses para o visto ser emitido. Então, quando é o mais cedo que podemos imigrar para a França?",
+        "target": "Já em 5 de outubro"
+    },
+    {
+        "input": "Se agora são 10:00, levo meia hora para alimentar meu coelho, meia hora para limpar a gaiola do coelho e uma hora para brincar com o coelho, então qual é o tempo mais cedo que posso terminar?",
+        "target": "12:00:00"
+    },
+    {
+        "input": "Se Amanda tem 30 dias para se preparar para o HSK, incluindo 5 dias para prática de oralidade, 5 dias para compreensão oral, 10 dias para escrita e 5 dias para leitura, quantos dias ela terá para os exame simulado?",
+        "target": "5 dias"
+    },
+    {
+        "input": "A especialização de ciência da computação em que Antônio está a estudar realizará um seminário acadêmico neste sábado, das 10:00 às 17:00. O horário de almoço é das 11:00 às 12:00, a cerimônia de abertura e os discursos principais são das 10:00 às 11:00, a sessão de interação acadêmica é das 12:00 às 14:00, o jantar ou evento social é das 14:00 às 15:00, e a cerimônia de encerramento é das 16:30 às 17:00. Então, quando é o horário da apresentação acadêmica?",
+        "target": "15:00-16:30"
+    },
+    {
+        "input": "Mônica é uma professora de massagem. Ela organiza o tempo de treinamento das 10:00 às 17:00 de todos os dias úteis. Ela planeja organizar os cursos na seguinte ordem a partir da próxima segunda-feira de manhã: 5 horas para os fundamentos das técnicas de massagem, 4 horas para explicações de doenças comuns e tratamentos de massagem, 10 horas para a prática de técnicas de massagem e 4 horas para condicionamento de massagem e preservação da saúde. Então, em que dia da semana ela deve começar a aprender condicionamento de massagem e preservação da saúde?",
+        "target": "Próxima quarta-feira"
+    },
+    {
+        "input": "Estela é uma escritora. Seu horário de trabalho é das 11:00 às 20:00 de todos os dias úteis. A ordem da sua agenda de trabalho diária é a seguinte: 6 horas para escrever novos capítulos ou parágrafos, 1 hora para editar e revisar o que escreveu no dia anterior, 1 hora para reunir e organizar o enredo ou estrutura de conteúdo e 1 hora para conduzir análises de mercado e concorrência. Então, a que horas ela termina de reunir e organizar o enredo ou estrutura de conteúdo?",
+        "target": "19:00:00"
+    },
+    {
+        "input": "Queria ir ao Correfour para fazer compras em família neste domingo. Temos 4 horas para fazer compras, comer e pagar no supermercado, das quais leva meia hora para comprar vegetais, meia hora para comprar carne, 1 hora para comer, meia hora para comprar necessidades diárias e meia hora para pagar. Então, quantas horas temos para comprar itens domésticos?",
+        "target": "1 hora"
+    },
+    {
+        "input": "Minha empresa fica a 2,5 km da minha casa e eu queria fazer algum exercício e decido ir e voltar do trabalho a pé todos os dias. Minha velocidade de caminhada é de 5 km por hora. Todas as manhãs, também preciso gastar 15 minutos para tomar café da manhã, 10 minutos para organizar meus pertences pessoais, 15 minutos para limpar meu quarto e preciso chegar ao trabalho às 8h30. Então, qual é o último horário em que posso me levantar todos os dias para garantir que chegarei ao trabalho no horário?",
+        "target": "Precisa se levantar às 7h20 no máximo"
+    },
+    {
+        "input": "Se minha irmã mais nova tiver 60 dias para se preparar para o exame MCAT, com 7 dias para ciências biológicas, 10 dias para ciências físicas, 15 dias para ciências sociais e 15 dias para análise Chave, quantos dias ela terá disponíveis para aprender habilidades de raciocínio?",
+        "target": "13 dias"
+    },
+    {
+        "input": "A data prevista para o parto da Bruna é 2 de outubro. Ela espera preparar sua bolsa de parto antes da data prevista para o parto. Hoje é 2 de agosto. As mamadeiras que ela pediu levarão mais 5 dias para chegar, o leite em pó para bebês que ela pediu levará 3 dias para chegar e as calças de maternidade que ela comprou levarão 4 dias para chegar. Então, quando ela pode preparar todos os produtos maternos e infantis acima?",
+        "target": "Estará pronto até 7 de agosto"
+    },
+    {
+        "input": "Gustavo se levanta às 10:00 da manhã, visita a casa de Lucas das 11:00 às 15:00, trabalha na igreja das 18:00 às 22:00, janta das 22:00 às 23:00 e vai para a cama às 23:00. Se Gustavo quiser assistir a um espetáculo de três horas, qual faixa de horário seria mais adequada?",
+        "target": "15:00-18:00"
+    },
+    {
+        "input": "Laura está planejando uma atividade voluntária de 6 dias, dos quais leva 2 dias para contato com organizações e parceiros relevantes, meio dia para designar funções e tarefas específicas para voluntários, 1 dia para organizar equipe e recursos, e 1 dia para publicidade. Quantos dias faltam para dar feedback e celebrar o sucesso com a equipe de voluntários?",
+        "target": "Um dia e meio"
+    },
+    {
+        "input": "Minha data prevista para o parto é 20 de outubro e espero preparar minha bolsa de parto antes disso. Hoje é 20 de setembro e o berço que encomendei levará mais 15 dias para chegar, as mamadeiras que encomendei chegarão na semana que vem, as calças de maternidade e os absorventes higiênicos que comprei chegarão em 10 dias, e o leite em pó que comprei chegará na semana que vem. Então, até que dia posso preparar todos os produtos maternos e infantis acima?",
+        "target": "Estará pronto até 5 de outubro"
+    },
+    {
+        "input": "Se eu for participar de um treinamento de fotografia de curta duração na próxima semana, o treinamento será das 10h às 18h de todos os dias úteis, e vou me preparar para participar das aulas na seguinte ordem a partir da próxima terça-feira de manhã: a seleção e o uso do equipamento fotográfico levarão 8 horas, a composição e o enquadramento levarão 6 horas, o controle de luz e o pós-processamento levarão 8 horas. Então, em que dia da semana terminarei de aprender sobre controle de luz e pós-processamento?",
+        "target": "Próxima quinta-feira"
+    },
+    {
+        "input": "Sou cuidador de animais de estimação de porta em porta. Tenho que ir à casa de um cliente para cuidar de um gato. A viagem de ida e volta levará 1 hora, e levará 1 hora para verificar as orelhas, olhos e dentes do gato, 1 hora para cuidar do pelo do gato e 1 hora para desparasitar o gato. Se eu quiser ir para casa por volta das 17:00, qual é o horário mais tardar que posso sair de casa?",
+        "target": "13:00:00"
+    },
+    {
+        "input": "Se eu tiver 30 dias para me preparar para o teste IELTS, incluindo 8 dias para oralidade, 7 dias para escrita, 5 dias para leitura e 7 dias para exame simulado, quantos dias posso reservar para prática de compreensão oral?",
+        "target": "3 dias"
+    },
+    {
+        "input": "Rachel é uma escritora. Seu horário de trabalho é das 9:00 às 17:00 de todos os dias úteis. Sua agenda de trabalho diária geralmente é na seguinte ordem: 5 horas para escrever novos capítulos ou parágrafos, 1 hora para fazer anotações e esboços, 1 hora para escrever pesquisas e entrevistas e 1 hora para autoavaliação e reflexão. Então, a que horas ela termina de escrever suas pesquisas e entrevistas?",
+        "target": "16:00:00"
+    },
+    {
+        "input": "Vitória é uma planejadora de casamentos. Há 6 dias, dos quais leva 1 dia para reservar a música do casamento e os artistas convidados, meio dia para finalizar o plano floral e de decoração, meio dia para reservar o carro do casamento e o serviço de transporte, 1 dia  para reservar um fotógrafo e cinegrafista personalizados e 2 dias para confirmar os detalhes do local do casamento e do hotel. Então, quantos dias podem ser arranjados para confirmar o processo e a sequência da cerimônia de casamento?",
+        "target": "1 dia"
+    },
+    {
+        "input": "Carlos e seus colegas vão à IKEA para fazer compras para o início do ano letivo. Eles têm 4 horas para fazer compras, comer e pagar, dos quais leva 1 hora para comprar louças, 1 hora para comer, meia hora para comprar a roupa de cama e meia hora para pagar. Então, quantas horas levaram para comprar móveis?",
+        "target": "1 hora"
+    },
+    {
+        "input": "Sophia é uma professora de curso de treinamento de liderança. Ela organiza o tempo de treinamento das 10:00 às 18:00 de todos os dias úteis. Ela começará a organizar os cursos na seguinte ordem a partir da próxima segunda-feira de manhã: conceitos de liderança levarão 9 horas, estilos de liderança levarão 7 horas e liderança de equipe levará 18 horas. Então, em que dia da semana ela terminará de aprender liderança de equipe?",
+        "target": "Próxima sexta-feira"
+    },
+    {
+        "input": "O departamento da Universidade de São Paulo está realizando uma conferência acadêmica neste sábado, das 10:00 às 17:00. O horário de almoço é das 12:00 às 14:00, a cerimônia de abertura e os discursos principais são das 10:00 às 11:00, a sessão de revisão acadêmica é das 14:00 às 15:30, as atividades sociais acadêmicas são das 15:30 às 16:30 e a cerimônia de encerramento é das 16:30 às 17:00. Então, quando é o momento para intercâmbios acadêmicos?",
+        "target": "11:00-12:00"
+    },
+    {
+        "input": "Lorena está planejando uma atividade voluntária de 3 dias, dos quais leva metade do dia para contato com organizações e parceiros relevantes, metade do dia para atribuir funções e tarefas específicas aos voluntários, metade do dia para organizar equipe e recursos, e metade do dia para publicidade e promoção. Quantos dias estarão disponíveis para avaliação e melhoria?",
+        "target": "1 dia"
+    },
+    {
+        "input": "Estou planejando obter um Cartão de Residência Permanente em Cingapura,  agora é 1º de fevereiro, levo um mês para entender a política de imigração, um mês para enviar a solicitação e preparar os materiais, três meses para esperar o Departamento de Imigração aceitar e revisar, e um mês para o visto ser emitido. Então, quando é o mais cedo que posso obter a Residência Permanente em Cingapura?",
+        "target": "O mais cedo é 1º de agosto"
+    },
+    {
+        "input": "Daniela agora tem 30 dias para se preparar para o exame PMP, dos quais 5 dias são para iniciação do projeto, 5 dias para planejamento do projeto, 7 dias para execução do projeto e 10 dias para monitoramento e controle do projeto. Então, quantos dias ela tem para aprender sobre o encerramento do projeto?",
+        "target": "3 dias"
+    },
+    {
+        "input": "A Universidade Federal do Rio de Janeiro está realizando um seminário acadêmico neste sábado, das 9h às 17h. O horário de almoço é das 12h às 14h, a cerimônia de abertura e os discursos principais são das 9h às 10h, a sessão de revisão acadêmica é das 14h às 15h30, o evento social acadêmico é das 15h30 às 16h30 e a cerimônia de encerramento é das 16h30 às 17h. Então, quando a discussão acadêmica pode ocorrer?",
+        "target": "10:00-12:00"
+    },
+    {
+        "input": "Isadora agora tem 30 dias para se preparar para o teste japonês N2, dos quais 5 dias são para vocabulário, 10 dias para compreensão oral e 10 dias para leitura. Então, quantos dias ela pode praticar gramática?",
+        "target": "5 dias"
+    },
+    {
+        "input": "Ana Clara é uma tutora de educação. Ela organiza o tempo de treinamento das 10:00 às 17:00 de todos os dias úteis. Ela começará a organizar os cursos na seguinte ordem a partir da próxima segunda-feira de manhã: 5 horas para teoria educacional, 4 horas para explicação do design de ensino e 5 horas para avaliação de ensino. Então, em que dia da semana ela deve começar a aprender avaliação de ensino?",
+        "target": "Próxima terça-feira"
+    },
+    {
+        "input": "Quero ir do Rio de Janeiro a Hong Kong para fazer um estágio, o estágio começará em 30 de novembro. Para realizar este estágio sem problemas, preciso fazer preparações detalhadas e planejar o tempo. Primeiro, eu preciso obter um visto (estimativa de levar 2 semanas), depois reservar um voo de volta (estimativa de levar 1 dia) e encontrar uma acomodação de curto prazo adequada (estimativa de levar 7 dias). Além disso, também preciso reservar uma semana antes do estágio para me familiarizar com o transporte e o ambiente de vida de Hong Kong. Durante o estágio, pretendo usar os fins de semana para visitar atrações locais e passar uma semana para explorar Hong Kong em profundidade no final do estágio. Por favor, até quando devo, no mais tardar, começar a solicitar o visto?",
+        "target": "O pedido de visto deve começar a partir de 1º de novembro"
+    },
+    {
+        "input": "Se Becky tem 25 dias para se preparar para o exame GRE, incluindo 5 dias para exame simulado, 8 dias para raciocínio verbal e 7 dias para escrita analítica, quantos dias ela terá para estudar raciocínio quantitativo?",
+        "target": "5 dias"
+    },
+    {
+        "input": "Lívia é uma escritora. Seu horário de trabalho é das 10:00 às 19:00 de todos os dias úteis. A ordem da sua agenda de trabalho diária é a seguinte: 4 horas para escrever novos capítulos ou parágrafos, 2 horas para fazer anotações e esboços, 1 hora para reunir e organizar o enredo ou estrutura de conteúdo e 2 horas para conduzir análises de mercado e concorrência. Então, a que horas ela termina de reunir e organizar o enredo ou estrutura de conteúdo?",
+        "target": "17:00:00"
+    },
+    {
+        "input": "Alice sempre queria experimentar pão francês. Ela está brincando perto da Torre Eiffel. Agora são 15:00 e ela provavelmente precisará brincar por mais 2 horas. Leva 1 hora para andar da Torre Eiffel até a padaria. Então, a que horas ela pode chegar à padaria?",
+        "target": "18:00:00"
+    },
+    {
+        "input": "Se eu tiver que participar de um curso de treinamento de marketing digital na próxima semana, o treinamento será das 10h às 18h todos os dias úteis, e eu começar a me preparar para as aulas na seguinte ordem a partir da próxima terça-feira de manhã: otimização de mecanismos de pesquisa leva 6 horas, marketing de mídia social leva 6 horas e marketing por e-mail leva 9 horas. Então, em que dia da semana devo terminar de aprender marketing por e-mail?",
+        "target": "Próxima quinta-feira"
+    },
+    {
+        "input": "Manuela e sua irmã vão à IKEA para fazer compras nesta sexta-feira. Elas têm 4 horas para fazer compras, comer e pagar. Levam meia hora para comprar louças, 1 hora para comer, meia hora para comprar a roupa de cama e meia hora para pagar. Então, quanto tempo elas têm para alocar livremente?",
+        "target": "Uma hora e meia"
+    },
+    {
+        "input": "Helena é uma escritora. Seu horário de trabalho é das 9:00 às 18:00 de todos os dias úteis. A ordem da sua agenda de trabalho diária é a seguinte: 5 horas para escrever novos capítulos ou parágrafos, 2 horas para editar e revisar o que escreveu no dia anterior, 1 hora para reunir e organizar o enredo ou estrutura de conteúdo e 1 hora para análise de mercado e concorrência. Então, a que horas ela termina de reunir e organizar o enredo ou estrutura de conteúdo?",
+        "target": "17:00:00"
+    },
+    {
+        "input": "O clima recente é muito agradável, muito adequado para uma viagem de lazer. Quero ir de Curitiba para Cingapura, mas só tenho cinco dias de férias. Primeiro, eu preciso reservar meu voo e hotel, o que leva cerca de meio dia. Em seguida, preciso preparar minha bagagem e os itens necessários para a viagem, o que leva cerca de meio dia. A viagem de ida e volta leva um dia no total. Depois de chegar em Cingapura, preciso de meio dia para me familiarizar com as condições locais de transporte e acomodação. Planejo passar o resto do dia visitando as principais atrações locais e experimentando a culinária local. Então, quanto tempo posso reservar para visitar as atrações locais e saborear a comida local?",
+        "target": "Dois dias e meio"
+    },
+    {
+        "input": "Se eu for participar de um treinamento de curta duração sobre pensamento inovador e criatividade na próxima semana, o treinamento será das 10h às 16h de todos os dias úteis, e eu vou me preparar para as aulas na seguinte ordem a partir da próxima segunda-feira de manhã: o brainstorming levará 9 horas e o design thinking levará 2 horas. Então, em que dia da semana devo terminar de aprender design thinking?",
+        "target": "Próxima terça-feira"
+    },
+    {
+        "input": "Samuel é um escritor. Seu horário de trabalho é das 10:00 às 20:00 de todos os dias úteis. A ordem da sua agenda de trabalho diária é a seguinte: 5 horas para escrever novos capítulos ou parágrafos, 2 horas para editar e revisar o que escreveu no dia anterior, 1 hora para pesquisa literária ou leitura de obras relacionadas e 2 horas para análise de mercado e concorrência. Então, a que horas ele termina sua pesquisa literária ou leitura de obras relacionadas?",
+        "target": "18:00:00"
+    },
+    {
+        "input": "Se eu for participar de um treinamento de análise de dados de curto prazo na próxima semana, o treinamento será das 10h às 18h de todos os dias úteis, e eu começar a me preparar para as aulas na seguinte ordem a partir da próxima segunda-feira de manhã: a coleta de dados levará 6 horas, a limpeza de dados levará 12 horas e a análise e visualização de dados levarão 8 horas. Então, em que dia da semana devo terminar de aprender análise e visualização de dados?",
+        "target": "Próxima quinta-feira"
+    },
+    {
+        "input": "Estou planejando obter a residência permanente na Austrália. Hoje é dia 1º de janeiro. O processo envolve: um mês para entender a política de imigração, três meses para submeter a Declaração de Interesse (EOI), um período de espera de três meses pela análise e aceitação do Departamento de Imigração, e mais três meses para a emissão do visto. Sendo assim, quando é o mais cedo que consigo obter a residência permanente australiana?",
+        "target": "1º de novembro, no mínimo"
+    },
+    {
+        "input": "Se eu for participar de um treinamento de panificação de curta duração na próxima semana, o treinamento será das 10h às 18h de todos os dias úteis, e eu vou me preparar para a aula na seguinte ordem a partir da próxima segunda-feira de manhã: leva 5 horas para fazer massa, 4 horas para controlar a temperatura do forno e 5 horas para aprender técnicas de decoração. Então, em que dia da semana devo aprender técnicas de decoração?",
+        "target": "Próxima terça-feira"
+    },
+    {
+        "input": "Neveza está planejando uma atividade voluntária de 4 dias, dos quais um dia é gasto indo ao local da comunidade para montar e preparar a atividade, metade do dia é gasto atribuindo papéis e tarefas específicas aos voluntários, metade do dia é gasto resolvendo preocupações dos moradores da comunidade ou fornecendo assistência, e metade do dia é gasto em publicidade. Quantos dias estarão disponíveis para avaliação e melhoria?",
+        "target": "Um dia e meio"
+    },
+    {
+        "input": "Se Liliana tem 80 dias para se preparar para o teste TOEFL, dos quais 20 dias são para compreensão de leitura, 20 dias para oralidade e 15 dias para compreensão oral, quantos dias ela pode praticar a escrita?",
+        "target": "25 dias"
+    },
+    {
+        "input": "Célia é uma trabalhadora comunitária. Ela tem 5 dias na próxima semana para organizar uma atividade comunitária. Leva um dia para planejar e preparar o conteúdo e os arranjos específicos da atividade comunitária, um dia para atribuir funções e tarefas específicas aos voluntários, um dia para se comunicar e interagir com os moradores da comunidade e meio dia para organizar e resumir os dados e o feedback das atividades comunitárias. Então, quantos dias restam para a publicidade?",
+        "target": "Um dia e meio"
+    },
+    {
+        "input": "Se agora são 12:00 e levo 1 hora para pentear e dar banho no meu animal de estimação, meia hora para secar o pelo, 1,5 hora para cuidar do animal de estimação e 1 hora para brincar com ele, qual é o horário mais cedo que posso terminar?",
+        "target": "16:00:00"
+    },
+    {
+        "input": "Iara quer ir ao Correfour para fazer algumas compras para o início do ano letivo esta semana. Ela tem três horas de tempo livre, das quais leva meia hora para comprar necessidades diárias, meia hora para comprar frutas, uma hora para comer e meia hora para pagar contas. Então, quantas horas ela tem para comprar artigos de papelaria?",
+        "target": "Meia hora"
+    },
+    {
+        "input": "Eva é uma professora de curso de treinamento de habilidades de vendas. Ela organiza o horário do treinamento das 10:00 às 18:00 de todos os dias úteis. Ela começará a organizar os cursos na seguinte ordem a partir da próxima segunda-feira de manhã: pesquisa de mercado levará 8 horas, posicionamento de mercado levará 12 horas, promoção de marca levará 6 horas e estratégia de marketing levará 8 horas. Então, em que dia da semana ela terminará de aprender estratégia de marketing?",
+        "target": "Próxima sexta-feira"
+    },
+    {
+        "input": "Yara foi à IKEA e ficou lá por um total de 3 horas. Ela passou meia hora escolhendo louças, meia hora comendo e meia hora pagando. Então, quantas horas ela passou comprando móveis?",
+        "target": "Uma hora e meia"
+    },
+    {
+        "input": "Meu colega de quarto planeja ir de São Paulo para Los Angeles para estudar no dia 25 de novembro, e ele tem apenas três dias antes do início das aulas. Primeiro, ele precisa passar 1 dia comprando passagens aéreas e fazendo as malas. Depois, ele precisa passar meio dia lidando com vários assuntos antes de partir. Depois, o deslocamento para o aeroporto, verificação de segurança e tempo de voo, espera-se que seja deduzido um total de 1 dia. Depois de chegar a Los Angeles, ele precisa de meio dia para concluir os procedimentos de admissão e se estabelecer. Então, quanto tempo ele tem para se familiarizar com o ambiente do campus e se preparar para as aulas?",
+        "target": "Não há mais tempo"
+    },
+    {
+        "input": "Um seminário acadêmico geralmente é dividido em cerimônia de abertura, discurso principal, discussão em grupo, relatório acadêmico, interação acadêmica. Se o seminário acadêmico organizado por André for programado para as 10h às 18h, sendo intervalo para o almoço 1 hora, discurso principal 1 hora, discussão em grupo 1 hora, relatório acadêmico 2 horas, interação acadêmica 2 horas, quantas horas da cerimônia de abertura?",
+        "target": "1 hora"
+    },
+    {
+        "input": "A minha casa fica a 0,5 km da empresa e levo 10 minutos caminhando para o trabalho todos os dias. De manhã, preciso gastar 15 minutos tomando café da manhã, 10 minutos me lavando e me vestindo e 5 minutos preparando os itens necessários para o trabalho. Depois de chegar na empresa, preciso de 5 minutos para registrar o ponto e arrumar minha mesa. Se eu quiser começar a trabalhar às 9:00 pontualmente, qual é o último horário que preciso acordar?",
+        "target": "Levanto-me às 8h15 no máximo"
+    },
+    {
+        "input": "Luís sai às 9:00 da manhã, trabalha no McDonald's das 9:00 às 15:00, trabalha no KFC das 18:00 às 22:00, leva uma hora para ir para casa às 22:00 e vai para a cama às 23:00. Se Luís passar três horas se exercitando, em qual faixa de horário ele fará isso?  ",
+        "target": "Das 15h00 às 18h00."
+    },
+    {
+        "input": "Clarice agora tem 40 dias para se preparar para o exame CMA, incluindo 5 dias para exame simulado, 5 dias para planejamento financeiro e 15 dias para desempenho e controle. Então, quantos dias ela pode praticar a tomada de decisões financeiras?",
+        "target": "15 dias"
+    },
+    {
+        "input": "Quero ir do Rio de Janeiro para Tóquio. Tenho bastante tempo, mas espero organizar minha viagem razoavelmente. Primeiro, preciso reservar 1 dia para comprar a passagem aérea e preparar a bagagem. Em seguida, planejo passar 2 dias visitando as principais atrações de Tóquio. Depois, quero passar um dia na Disneylândia. Por fim, preciso de 1 dia para fazer compras e provar a comida local. Se eu tiver um roteiro de 7 dias, quantos dias me restam para planejar outras atividades?",
+        "target": "2 dias"
+    },
+    {
+        "input": "Lucas levanta-se às nove horas todos os dias, toma café da manhã por uma hora, das nove às dez, tem aula de ciências das dez às doze, almoça das doze à uma da tarde, depois tira um cochilo de duas horas, tem aula de história das três às cinco da tarde, tem aula de dança das cinco às oito e vai para a cama às onze. Se ele também ficou na igreja por três horas, qual faixa de horário é mais provável? ",
+        "target": "Das 20h00 às 23h00."
+    },
+    {
+        "input": "Hoje vou para a casa da minha professora para cuidar de um cachorrinho. leva 2 horas para viagem de ida e volta, meia hora para alimentar o cachorro, meia hora para pentear o pelo do cachorro e 1 hora para brincar com o cachorro. Se eu quiser ir para casa por volta das 16:00, qual é o horário mais tardar que posso sair de casa?",
+        "target": "Sair no máximo às 12:00"
+    },
+    {
+        "input": "Se agora são 9:00 e eu planejo fazer uma limpeza completa no meu apartamento hoje, levarei 1 hora para limpar a mesa de jantar, 1 hora para esfregar o chão, 1 hora para remover ácaros, 1 hora para limpar os móveis e 2 horas para eliminar germes. Qual é o horário mais cedo para terminar?",
+        "target": "O mais cedo que posso terminar o trabalho é às 15:00"
+    },
+    {
+        "input": "Minha irmã levanta-se às nove da manhã, tem aula de matemática das nove às onze, tem aula de literatura da uma às três da tarde, tem aula de inglês das quatro às seis, janta das sete às oito, joga das nove às dez e vai para a cama às dez. Se minha irmã fez um teste de duas horas, em que horário foi?",
+        "target": "O horário do exame é das 11:00 às 13:00"
+    },
+    {
+        "input": "Natalia está planejando uma atividade voluntária de 7 dias, dos quais 1,5 dias são gastos em comunicação e treinamento da equipe de voluntários, meio dia é gasto em designar funções e tarefas específicas aos voluntários, 2 dias são gastos em organizar equipe e recursos, e meio dia é gasto em publicidade e promoção. Quantos dias estarão disponíveis para avaliação e melhoria?",
+        "target": "Dois dias e meio"
+    },
+    {
+        "input": "Stella é uma escritora. Seu horário de trabalho é das 10:00 às 18:00 em todos os dias úteis. Ela planeja fazer as seguintes tarefas na seguinte ordem a partir da próxima segunda-feira: ler e pesquisar tópicos ou materiais relevantes para obter inspiração e ideias (5 horas), escrever novos capítulos ou parágrafos (15 horas), editar e revisar o que escreveu no dia anterior, ou seja, verificar erros e fluência (1 hora), fazer anotações e esboços para classificar e organizar o enredo ou estrutura de conteúdo (9 horas), conduzir pesquisas de escrita e entrevistas para obter mais informações e ideias (10 horas). Então, em que dia da semana ela começa sua pesquisa de escrita e entrevistas?",
+        "target": "Próxima quinta-feira"
+    },
+    {
+        "input": "Leonardo é um professor de cursos de treinamento em gestão financeira. Ele organiza o tempo de treinamento das 10:00 às 17:00 em todos os dias úteis. Ele começará a organizar os cursos na seguinte ordem a partir da próxima segunda-feira de manhã: análise de demonstrações financeiras levará 7 horas, gestão de orçamento levará 7 horas e tomada de decisão de investimento levará 15 horas. Então, em que dia da semana ele terminará de aprender tomada de decisão de investimento?",
+        "target": "Próxima sexta-feira"
+    },
+    {
+        "input": "Millie é uma professora de curso de treinamento de habilidades de vendas. Ela organiza o horário do treinamento das 10:00 às 17:00 em todos os dias úteis. Ela começará a organizar os cursos na seguinte ordem a partir da próxima segunda-feira de manhã: habilidades de comunicação em vendas levarão 8 horas, gerenciamento de relacionamento com o cliente levará 12 horas e negociação em vendas levará 5 horas. Então, em que dia da semana ela terminará de aprender negociação de vendas?",
+        "target": "Próxima quinta-feira"
+    },
+    {
+        "input": "Se eu for participar de um treinamento de boxe de curto prazo na próxima semana, o horário de treinamento será das 10:00 às 17:00 em todos os dias úteis, e eu me prepararei para fazer aulas na seguinte ordem a partir da próxima segunda-feira de manhã: habilidades básicas de boxe levarão 6 horas, habilidades defensivas levarão 6 horas, e melhorar a aptidão física e as habilidades de coordenação levará 6 horas. Então, em que dia da semana devo terminar de aprender para melhorar a aptidão física e as habilidades de coordenação?",
+        "target": "Próxima quarta-feira"
+    },
+    {
+        "input": "Sofia é uma trabalhadora comunitária. Ela tem 5 dias na próxima semana para organizar uma atividade comunitária. Levará 2 dias para contatar organizações e parceiros relevantes, meio dia para se comunicar e treinar a equipe de voluntários, meio dia para comunicar e interagir com os moradores da comunidade e meio dia para atribuir papéis e tarefas específicas aos voluntários. Então, quantos dias ela terá para resolver os problemas dos moradores da comunidade ou fornecer ajuda?",
+        "target": "Um dia e meio"
+    },
+    {
+        "input": "Aurora é uma escritora. Seu horário de trabalho é das 10:00 às 20:00 em todos os dias úteis. A ordem da sua agenda de trabalho diária é a seguinte: 5 horas para escrever novos capítulos ou parágrafos, 2 horas para editar e revisar o que escreveu no dia anterior, 1 hora para reunir e organizar o enredo ou estrutura de conteúdo e 2 horas para análise de mercado e concorrência. Então, a que horas ela termina de reunir e organizar o enredo ou estrutura de conteúdo?",
+        "target": "Terminar de reunir e organizar o enredo ou estrutura do conteúdo às 18:00"
+    },
+    {
+        "input": "Desta vez, viajo para Tóquio, no Japão, com minha mãe. Estamos passeando em Ginza e provavelmente teremos meia hora restante. Ela quer comer sushi, e levará cerca de 1 hora para chegarmos ao restaurante. Agora são 16:00 e ainda teremos que esperar na fila por mais 1 hora. A que horas ela poderá sentar-se?",
+        "target": "18:30:00"
+    },
+    {
+        "input": "O Pro. Bruno está de férias em Portland, admirando as flores no jardim de rosas. Ele planeja ir ao Museu de Ciência e Indústria do Oregon mais tarde. Agora são 12:00. Estima-se que levará 1 hora no caminho e 1 hora para almoçar. Então, quando é o mais cedo que ele pode chegar ao Museu de Ciência e Indústria do Oregon?",
+        "target": "Ele pode chegar no Museu de Ciência e Indústria do Oregon a partir das 14:00"
+    },
+    {
+        "input": "Linda agora tem 25 dias para se preparar para o teste de proficiência em espanhol, incluindo 2 dias para audição, 8 dias para leitura, 5 dias para escrita e 5 dias para fala. Então, quantos dias ela tem para o exame simulado?",
+        "target": "Faltam 5 dias para o exame simulado"
+    },
+    {
+        "input": "Se eu for participar de um treinamento de curta duração em gestão de manufatura na próxima semana, o treinamento será das 10h às 18h em todos os dias úteis, e eu começarei a me preparar para as aulas na seguinte ordem a partir da próxima segunda-feira de manhã: 7 horas para planejamento e controle de produção, 12 horas para gestão de qualidade e  6 horas para gestão da cadeia de suprimentos, então em que dia da semana terminarei de estudar gestão da cadeia de suprimentos?",
+        "target": "Próxima quinta-feira"
+    },
+    {
+        "input": "Júlia sai às 11:00 da manhã, tem aula de matemática das 11:00 às 13:00, e aula de informática das 16:00 às 18:00, participa de atividades do clube das 18:00 às 20:00 e vai para casa às 20:00. Marina e Júlia jogaram basquete juntas na quadra de basquete por três horas. Em que faixa de horário elas fizeram isso?",
+        "target": "Das 13h00 às 16h00."
+    },
+    {
+        "input": "Rodrigo é um membro do Correfour. Ele quer ir ao Correfour para fazer compras de fim de semana. Ele tem 4 horas para passar no supermercado, das quais precisa gastar meia hora para comprar frutas e vegetais, meia hora para comprar carne, meia hora para comprar necessidades diárias e meia hora para pagar. Então, quantas horas ele tem para escolher itens domésticos?",
+        "target": "2 horas"
+    },
+    {
+        "input": "Eduarda e seus pais querem ir ao Correfour para fazer compras em família neste domingo. Elas têm três horas para fazer compras, comer e pagar no supermercado, das quais levarão meia hora para comprar carne, meia hora para comprar frutas, uma hora para comer e meia hora para comprar necessidades diárias. Então, quantas horas faltam para pagar?",
+        "target": "Têm 0,5 horas para o pagamento"
+    },
+    {
+        "input": "Natália é uma trabalhadora comunitária. Ela tem três dias na semana que vem para organizar uma atividade comunitária. Leva um dia para planejar e preparar o conteúdo específico e os arranjos da atividade comunitária, meio dia para comunicar e treinar a equipe de voluntários, meio dia para comunicar e interagir com os moradores da comunidade e meio dia para organizar e resumir os dados e o feedback das atividades comunitárias. Então, quantos dias faltam para o feedback da equipe de voluntários?",
+        "target": "Meio dia"
+    },
+    {
+        "input": "Marcela sempre quis experimentar pizza italiana. Ela está visitando o Coliseu em Roma. Agora são 16:00 e ela provavelmente precisará de mais uma hora para passear. Leva meia hora para ir do Coliseu até a pizzaria. Então, quando ela pode chegar à pizzaria?",
+        "target": "17:30:00"
+    },
+    {
+        "input": "Nem minha irmã mais nova nem eu sabemos dirigir e, como achamos o Uber muito caro, então decidimos usar o transporte público durante toda a nossa viagem em Nova York. Planejamos sair do hotel às 9h, visitar o Metropolitan Museum of Art e depois pegar o metrô até o Central Park para um passeio de 2,5 horas. O almoço e os intervalos serão feitos perto do Central Park, dependendo do horário. Então planejamos visitar a Times Square por uma hora. Depois, gostaríamos de ir ao Empire State Building, o que levará uma hora, e depois pegar o metrô de volta para o hotel por meia hora. Se quisermos estar de volta ao hotel às 17h, qual é o último horário em que devemos sair do Central Park para a Times Square?",
+        "target": "Precisamos sair do Central Park para ir à Times Square no máximo às 14h30"
+    },
+    {
+        "input": "Eu sou um escritor. Meu horário de trabalho é das 10:00 às 17:00 de todos os dias úteis. Planejo fazer as seguintes tarefas na seguinte ordem a partir da próxima segunda-feira: 10 horas para escrever novos capítulos ou parágrafos, 2 horas para editar e revisar o que escrevi no dia anterior, 6 horas para classificar e organizar o enredo ou estrutura de conteúdo e 5 horas para conduzir análises de mercado e concorrência. Então, em que dia da semana concluirei a análise de mercado e concorrência?",
+        "target": "Próxima quinta-feira"
+    },
+    {
+        "input": "Carla vai para a casa da irmã mais velha hoje para cuidar do gatinho. Leva 1 hora para ir e voltar, meia hora para alimentar o gato, meia hora para limpar a areia do gato e 1 hora para brincar com o gato. Se são 9:00 agora, quando é o mais cedo que ela pode chegar em casa?",
+        "target": "Chegue em casa no mínimo às 12:00"
+    },
+    {
+        "input": "Acordei tarde esta manhã. A empresa fica a 10 km de distância e estarei atrasado em 20 minutos. Levo 10 minutos para caminhar até a estação de metrô, e a viagem inteira de metrô leva 47 minutos. Se andar de bicicleta, levo 67 minutos. Leva cerca de 10 minutos para pegar um táxi se não houver engarrafamento, mas pode levar mais de 20 minutos se houver engarrafamento. Você acha que eu deveria pegar o metrô, andar de bicicleta ou pegar um táxi?",
+        "target": "Táxi"
+    },
+    {
+        "input": "O Departamento da Universidade de Brasília realizará uma conferência acadêmica neste domingo, das 9h às 18h. O horário de almoço é das 12h às 14h, a cerimônia de abertura e os discursos principais ocorrerão das 9h às 10h, a sessão de revisão acadêmica é das 14h às 16h30, as atividades sociais acadêmicas são das 16h30 às 17h30 e a cerimônia de encerramento é das 17h30 às 18h. Então, quando serão realizados os intercâmbios acadêmicos?",
+        "target": "O horário de intercâmbio acadêmico é entre 10:00 e 12:00."
+    },
+    {
+        "input": "Júlia é uma professora de manicure. Ela organiza o tempo de treinamento das 9:00 às 17:00 todos os dias úteis. Ela começará a organizar os cursos na seguinte ordem a partir da próxima segunda-feira de manhã: levará 3 horas para introduzir o conhecimento teórico básico da manicure, 4 horas para explicar os cuidados com as unhas e técnicas de corte, 3 horas para introduzir estilos e designs comuns de manicure, 2 horas para aprender as habilidades de uso de esmaltes e adesivos de unha, 5 horas para aprender técnicas básicas de pintura e aplicação e 3 horas para praticar como executar remendos e reparos básicos de unhas. Então, em que dia da semana deve começar a aprender técnicas básicas de pintura e aplicação?",
+        "target": "Próxima terça-feira"
+    },
+    {
+        "input": "Lúcia quer ir ao Carrefour com sua família para fazer compras em família neste sábado. Eles têm 5 horas para fazer compras, comer e pagar no supermercado. Leva 1 hora para comprar vegetais, 1 hora para comprar carne, meia hora para comer, meia hora para pagar e 1 hora para comprar móveis. Então, quantas horas eles têm para escolher as necessidades diárias?",
+        "target": "1 hora"
+    },
+    {
+        "input": "Se Giovanna tem 60 dias para se preparar para o exame SAT, incluindo 10 dias para exame simulado, 20 dias para matemática, 5 dias para física e 15 dias para química, quantos dias ela terá para praticar inglês?",
+        "target": "10 dias"
+    },
+    {
+        "input": "Um seminário acadêmico geralmente é dividido em cerimônia de abertura, discurso principal, discussão em grupo, relatório acadêmico, interação acadêmica. Se o seminário acadêmico organizado por Juliana for programado para as 10h às 17h, sendo a cerimônia de abertura 1 hora, discurso principal 1 hora, discussão em grupo 1 hora, relatório acadêmico 1 horas, interação acadêmica 1 hora, quantas horas de intervalo para o almoço?",
+        "target": "2 horas"
+    },
+    {
+        "input": "Hoje é o Dia do Animal de Estimação. Se são 11:00 agora, e levo 1 hora para pentear e dar banho no meu animal de estimação, 1 hora para secar seu pelo, 1 hora para limpá-lo e 1 hora para brincar com ele, então qual é o horário mais cedo que posso terminar?",
+        "target": "Pode terminar o trabalho às 15:00"
+    },
+    {
+        "input": "Leandro é um escritor. Seu horário de trabalho todos os dias úteis é das 10:00 às 17:00. Ele planeja fazer as seguintes tarefas na seguinte ordem a partir da próxima segunda-feira: 12 horas para escrever novos capítulos ou parágrafos, 4 horas para editar e revisar o que escreveu no dia anterior, 4 horas para fazer anotações e esboços e 4 horas para discutir e se comunicar com seu editor ou parceiro de escrita. Então, em que dia da semana ele concluirá a discussão e a comunicação com seu editor ou parceiro de escrita?",
+        "target": "Próxima quinta-feira"
+    },
+    {
+        "input": "Phoebe agora tem 30 dias para se preparar para o exame PTE, incluindo 2 dias para exame simulado, 6 dias para audição, 7 dias para escrito e 10 dias para leitura. Então, quantos dias ela pode praticar a fala?",
+        "target": "5 dias"
+    },
+    {
+        "input": "O último horário de funcionamento do metrô é 23:00, e minha irmã e eu assistimos ao show até 23:30. Quando chego em casa, passo meia hora limpando e depois vou dormir. Levo 30 minutos para ir da minha casa até a empresa. Tenho uma reunião importante às 8h amanhã. Considerando a necessidade de sono adequado (pelo menos 7 horas), a que horas preciso estar em casa no máximo?",
+        "target": "Precisa estar em casa no máximo às 00:00"
+    },
+    {
+        "input": "Hoje tenho que ir à casa de um cliente para cuidar de um cachorrinho. A viagem de ida e volta levará 2 horas. Levará meia hora para alimentar o cachorro, meia hora para limpá-lo e 1 hora para brincar com ele. Se são 10:00 agora, quando é o mais cedo que posso chegar em casa?",
+        "target": "Chegue em casa no mínimo às 14:00"
+    },
+    {
+        "input": "Nesta sexta-feira, Clara vai ao Walmart com sua irmã mais velha Diana para fazer algumas compras de família. Elas têm 4 horas no supermercado, incluindo 1 hora comprando itens domésticos, meia hora comprando carne, meia hora comprando necessidades diárias e meia hora fazendo o pagamento. Então, quanto tempo elas têm para comprar vegetais?",
+        "target": "Uma hora e meia"
+    },
+    {
+        "input": "Se agora são 11:00 e eu planejo fazer uma limpeza completa no meu apartamento hoje, levarei 1 hora para limpar os pelos dos animais de estimação, meia hora para esfregar o chão, meia hora para remover os ácaros, 1 hora para limpar os móveis e 1 hora para eliminar germes. Qual é o horário mais cedo para terminar?",
+        "target": "Termino às 15:00, no mínimo."
+    },
+    {
+        "input": "Levei minha avó ao Victoria Harbour em Hong Kong nesta viagem. Queríamos comer um dim sum ao estilo de Hong Kong. Levaremos cerca de uma hora para chegar à casa de chá do Victoria Harbour. Agora são 17:00 e a fila levará cerca de mais uma hora, temos que passar mais uma hora divertir antes de irmos para lá. Então, quando podemos comer o dim sum?",
+        "target": "Podemos comer o dim sum às 20:00"
+    },
+    {
+        "input": "Se eu for participar de um treinamento de escrita criativa de curto prazo na próxima semana, o treinamento será das 10h às 18h em todos os dias úteis, e eu vou me preparar para a aula na seguinte ordem a partir da próxima terça-feira de manhã: 6 horas para pensamento criativo e 12 horas para habilidades de escrita. Então, em que dia da semana terminarei de aprender habilidades de escrita?",
+        "target": "Próxima quinta-feira"
+    },
+    {
+        "input": "Tenho que ir à casa de um cliente hoje para cuidar de um gatinho. Levarei 1 hora de ida e volta, meia hora para alimentar o gato, meia hora para cuidar do gato e 1 hora para brincar com o gato. Se eu quiser estar em casa por volta das 17:00, qual é o último horário em que posso sair de casa?",
+        "target": "Sair no máximo às 14:00"
+    },
+    {
+        "input": "Paula é uma trabalhadora comunitária. Ela tem três dias na semana que vem para organizar uma atividade comunitária. Leva um dia para planejar e preparar o conteúdo específico e os arranjos da atividade comunitária, meio dia para comunicar e treinar a equipe de voluntários e meio dia para comunicar e interagir com os moradores da comunidade. Então, quantos dias ela tem para resolver os problemas dos moradores da comunidade ou fornecer ajuda?",
+        "target": "1 dia restante"
+    }
+]

@@ -1,0 +1,694 @@
+[
+    {
+        "input": "Jika x (n)=u (n+2)-u (n-2), berapa banyak nilai tak nol yang terdapat dalam urutan x (2n)?",
+        "target": "2 buah"
+    },
+    {
+        "input": "Persamaan input-output y (t)=cos [x (t)], sistem ini termasuk jenis sistem apa? Pilih jawaban yang benar dari opsi berikut: Nonlinier, Tak Terbalik, Kausal, Non-kausal",
+        "target": "Nonlinier, tak terbalik, kausal"
+    },
+    {
+        "input": "Berapakah rentang nilai s agar integral \\int_{-\\infty}^{\\infty}sin|t|·e^{-st}dt menjadi konvergen?",
+        "target": "Tidak ada nilai s yang memenuhi"
+    },
+    {
+        "input": "Di antara langkah-langkah di bawah ini, manakah yang dapat meningkatkan hit rate Cache? \\nⅠ．Meningkatkan asosiativitas \\nⅡ．Mengatur cache pengganti untuk menyimpan blok yang baru saja diganti \\nⅢ．Mengoptimalkan kompilasi untuk meningkatkan lokalitas akses memori program",
+        "target": "Ⅰ, Ⅱ, dan Ⅲ"
+    },
+    {
+        "input": "Di antara teknik pemrograman dan struktur data berikut, manakah yang cocok untuk sistem virtualisasi memori berbasis halaman? \\nⅠ．Tumpukan Ⅱ．Tabel simbol dengan indeks fungsi Hash Ⅲ．Pencarian sekuensial \\nⅣ．Pencarian biner Ⅴ．Kode murni Ⅵ．Operasi vektor \\nⅦ．Pengalamatan tidak langsung Ⅷ．Operasi matriks",
+        "target": "Ⅰ, Ⅲ, Ⅴ, Ⅵ, dan Ⅷ"
+    },
+    {
+        "input": "Notasi pasca-fiks untuk notasi infiks a* (b + c) - d adalah",
+        "target": "abc+*d-"
+    },
+    {
+        "input": "Jika jumlah node dalam sebuah pohon biner lengkap adalah 100, berapakah derajat node ke-60?",
+        "target": "0"
+    },
+    {
+        "input": "Pernyataan mana saja yang benar terkait anomali Belady dan himpunan kerja?\nA. Algoritma penggantian halaman first-in-first-out (FIFO) akan menghasilkan anomali Belady \nB. Algoritma penggantian halaman Least Recently Used (LRU) akan menghasilkan anomali Belady\nC. Agar proses berjalan secara efisien, kumpulan kerja harus berada di memori virtual, jika tidak, akan sering terjadi transfer page-in/page-out\nD. Agar proses berjalan secara efisien, kumpulan kerja harus berada di memori utama, jika tidak, akan sering terjadi transfer page-in/page-out",
+        "target": "A dan D"
+    },
+    {
+        "input": "Diketahui terdapat 31 segmen awal pengurutan dengan panjang yang berbeda, yang mana 8 segmen panjangnya 2; 8 segmen panjangnya 3; 7 segmen panjangnya 5; 5 segmen panjangnya 12; 3 segmen panjangnya 20 (satuan dalam blok fisis). Dalam skema penggabungan 5 arah yang optimal, maka total jumlah operasi baca/tulis ke memori eksternal adalah",
+        "target": "800"
+    },
+    {
+        "input": "Dalam komputer dengan pengalamatan byte, terdapat sebuah instruksi berukuran 16-bit. Jika saat ini instruksi cabang (menggunakan alamat relatif) berada di alamat 3000, dan offset alamat instruksi adalah -5, maka berapakah nilai PC (Program Counter) setelah instruksi ini dieksekusi?",
+        "target": "2997"
+    },
+    {
+        "input": "Pernyataan mana yang benar terkait thread? \\nⅠ．Jika menggunakan algoritma scheduling round-robin, sebuah proses dengan 10 thread pengguna membutuhkan 10 time slice dalam eksekusi penjadwalan sistem \\nⅡ．Setiap thread dalam proses yang sama berbagi ruang stack \\nⅢ．Thread dalam proses yang sama dapat dieksekusi secara bersamaan, namun thread dalam proses yang berbeda tidak dapat dieksekusi secara bersamaan \\nⅣ．Pergantian thread tidak menyebabkan pergantian proses",
+        "target": "Semua salah"
+    },
+    {
+        "input": "Transmission Control Protocol (TCP) adalah protokol lapisan transport di internet. Bagaimana cara TCP kontrol aliran? Setelah entitas TCP mengirimkan permintaan koneksi (SYN), apa yang perlu ditunggu dari pihak lain? Pilih jawaban yang benar dari pilihan berikut: 1. Menggunakan protokol window sliding ukuran tetap, SYN; 2. Menggunakan protokol ARQ Go-Back-N, FIN, ACK; 3. Menggunakan protokol ARQ stop-and-wait, RST; 4. Menggunakan protokol window sliding ukuran variabel, SYN, ACK",
+        "target": "4. Menggunakan protokol window sliding ukuran variabel, SYN, ACK"
+    },
+    {
+        "input": "Di antara komponen fungsi sistem operasi berikut, dalam situasi mana di bawah ini dukungan perangkat keras khusus mutlak diperlukan? \\nⅠ．Pemetaan alamat Ⅱ．Penjadwalan proses \\nⅢ．Sistem interupsi Ⅳ．Panggilan sistem",
+        "target": "Ⅰ dan Ⅲ"
+    },
+    {
+        "input": "Jika tinggi sebuah pohon Huffman adalah 5, dan dua karakter telah dikodekan sebagai 1 dan 01, berapa maksimum jumlah karakter lagi yang dapat dikodekan?",
+        "target": "4"
+    },
+    {
+        "input": "Jika Anda ingin menghubungkan dua linked list siklik dari kepala ke ekor dengan kompleksitas waktu O(1), masing-masing dari dua linked list siklik tersebut dilengkapi dengan satu penunjuk, maka ke arah mana penunjuk tersebut akan mengarah? Pilih jawaban yang benar dari opsi berikut: Ke node akhir dari setiap list, ke node kepala dari satu list dan ke node akhir pada list lainnya, Ke node pertama dari setiap list, ke node kepala dari setiap list.",
+        "target": "Ke node akhir dari setiap list"
+    },
+    {
+        "input": "Diketahui dua stasiun terjauh dalam suatu jaringan berjarak 10 km. Jika Ethernet CSMA/CD memiliki kecepatan transmisi data 10Mbit/s dan kecepatan propagasi sinyal 200m/μs, maka berapa panjang frame minimum jaringan ini?",
+        "target": "1000bit"
+    },
+    {
+        "input": "Jika terdapat sebuah daftar linear dengan n elemen, manakah di antara operasi berikut yang lebih efisien untuk diimplementasikan pada senarai sekuensial daripada linked list: menampilkan nomor urut elemen dalam daftar linear yang sama dengan nilai x yang diberikan, menampilkan nilai dari n elemen ini secara berurutan, menampilkan nilai elemen ke-i(1≤i≤n), menukar nilai elemen ke-1 dan nilai elemen ke-2.",
+        "target": "menampilkan nilai elemen ke-i(1≤i≤n)"
+    },
+    {
+        "input": "Diketahui [x/2]{\\mathrm{komplementer}}=C6H, dan panjang kata mesin komputer dalam bilangan biner adalah 8-bit, maka berapa nilai [x/4]{\\mathrm{komplementer}}?",
+        "target": "E3H"
+    },
+    {
+        "input": "Terdapat sebuah partisi disk dengan kapasitas 10GB, dan ruang disk dialokasikan dalam kelompok (Cluster) dengan ukuran cluster 4KB. Jika metode bitmap digunakan untuk mengelola ruang kosong partisi, yaitu satu bit (bit) digunakan untuk mengidentifikasi apakah sebuah cluster telah dialokasikan atau belum, berapa banyak cluster yang diperlukan untuk menyimpan bitmap tersebut?",
+        "target": "80"
+    },
+    {
+        "input": "Misalkan k adalah sebuah node dalam pohon biner berthread in-order yang memiliki anak kiri, dan k bukanlah root. Maka, predecessor langsung (node pendahulu secara langsung) dari k dalam urutan in-order adalah yang manakah dari opsi berikut: node yang ditemukan dengan mulai dari anak kiri k dan mengikuti link anak kiri hingga paling bawah, node yang ditemukan dengan mulai dari anak kiri k dan mengikuti link anak kanan hingga paling bawah, node yang ditunjuk oleh thread kiri k (yang menunjukkan predecessor in-order), atau node yang ditemukan dengan mulai dari anak kiri parent k dan mengikuti link anak kanan hingga paling bawah.",
+        "target": "Node yang ditemukan dengan mulai dari anak kiri k dan mengikuti link anak kanan hingga paling bawah."
+    },
+    {
+        "input": "Dalam proses transmisi paket IP, bidang mana dalam header IP yang tetap tidak berubah? \\nⅠ．Panjang total Ⅱ．Checksum header \\nⅢ．Time to live (TTL) Ⅳ．Alamat IP sumber",
+        "target": "Hanya Ⅳ"
+    },
+    {
+        "input": "Sebuah grup disk terdiri dari 10 piringan. Setiap piringan memiliki 100 trek, dan setiap trek memiliki 32 sektor. Dengan asumsi ukuran blok fisik adalah 2 sektor dan alokasi ruang disk dilakukan dalam satuan blok fisik. Jika bitmap (peta bit) digunakan untuk mengelola ruang disk, berapakah ukuran ruang yang harus ditempati oleh bitmap?",
+        "target": "2,000B"
+    },
+    {
+        "input": "Panjangnya 1 km, kecepatan data Ethernet 10Mbit/s, dan kecepatan rambat sinyal listrik melalui jaringan 200m/μs. Asumsikan bahwa panjang bingkai data Ethernet adalah 256bit, yang mencakup header 64bit, checksum, dan overhead lainnya. Potongan waktu pertama setelah bingkai data berhasil dikirim dicadangkan untuk penerima untuk mengirim bingkai pengakuan 64bit. Dengan asumsi bahwa jaringan memiliki beban yang sangat ringan (yaitu, tidak mempertimbangkan skenario konflik), berapa kecepatan transmisi data efektif Ethernet tersebut dalam Mbps? (Simpan tiga digit signifikan)",
+        "target": "4,57Mbps"
+    },
+    {
+        "input": "Mengingat bahwa kode pengurutan semua elemen dari urutan elemen yang akan diurutkan adalah sama, manakah dari metode pengurutan berikut ini yang paling lambat untuk diurutkan: pengurutan penyisipan langsung, pengurutan seleksi sederhana, pengurutan gelembung, pengurutan radix",
+        "target": "Pengurutan seleksi sederhana"
+    },
+    {
+        "input": "Sistem operasi yang mendukung multiprogramming secara konstan memilih proses baru untuk dijalankan untuk berbagi sumber daya CPU, tetapi pilihan berikut ini bukan alasan langsung bagi sistem operasi untuk memilih proses baru: proses baru yang dibuat dan masuk ke antrian siap, proses yang sedang berjalan mengalami kesalahan, proses yang sedang berjalan kehabisan irisan waktu, proses yang sedang berjalan menunggu suatu peristiwa terjadi",
+        "target": "Ada proses baru yang dibuat dan masuk ke antrian siap"
+    },
+    {
+        "input": "“Ada 10 proses yang berbagi n sumber daya, dan 3 proses diizinkan untuk menggunakan sumber daya secara bersamaan dalam satu waktu. Pilih rentang variasi semafor di sini: [3n-10, 3n], [3n-10, n], [n-10, n], [n-10/3, n]”",
+        "target": "[3n-10,3n]"
+    },
+    {
+        "input": "Dalam sebuah hutan yang terdiri dari 4 pohon, jumlah node pada pohon pertama, kedua, ketiga dan keempat masing-masing adalah 30, 10, 20 dan 5. Jika hutan tersebut dikonversi menjadi pohon biner, berapakah jumlah node pada sub-pohon kiri dari node akar pada pohon biner yang sesuai?",
+        "target": "29"
+    },
+    {
+        "input": "Sebuah instruksi CALL subrutin dua kata dengan pengalamatan langsung, dengan kata pertama berisi opcode dan fitur pengalamatan, dan kata keduanya adalah kode alamat 5000 H. Misalkan nilai saat ini dari PC (penghitung program) adalah 1000 H, isi SP adalah 0100 H, isi item teratas stack adalah 1234 H, memori dialamatkan per kata, dan operasi push adalah (SP) - 1 → sP terlebih dahulu, diikuti oleh penyimpanan data. Apa isi dari SP dan isi item teratas stack setelah instruksi CALL dieksekusi?",
+        "target": "00FFH，1002H"
+    },
+    {
+        "input": "Diketahui bahwa nilai ASCII dari huruf kecil “a” adalah 61H, sekarang huruf “g” disimpan dalam sel memori, jika paritas genap digunakan (dengan asumsi bahwa bit tertinggi adalah bit paritas), maka angka heksadesimal yang disimpan dalam sel memori adalah",
+        "target": "E7H"
+    },
+    {
+        "input": "Sekumpulan record dengan kata kunci {25, 50, 15, 35, 80, 85, 20, 40, 36, 70}, yang berisi lima tabel terurut dengan panjang 2, apa hasil sekuensnya setelah satu tahap penggabungan dengan metode merge sort?",
+        "target": "15,25,35,50,20,40,80,85,36,70"
+    },
+    {
+        "input": "“Jika matriks A segitiga atas berordo n disimpan dalam urutan kolom-mayor dalam larik satu dimensi B [0, 1, ..., {n × (n + 1) / 2}-1], dan elemen tidak nol pertama a(1,1) disimpan di B [0], manakah hubungan antara indeks i, j dari elemen tidak nol a(i,j) (1≤i≤n, 1≤j≤n) yang disimpan di B[k] dengan indeks k dari rumus-rumus berikut: k=j×(j-1)/2+i-1, k=j×(j+1)/2+i, k=i×(i-1)/2+j-1, k=i×(i+1)/2+j”",
+        "target": "k=j×(j-1)/2+i-1"
+    },
+    {
+        "input": "Komputer menggunakan pengontrol yang diprogram mikro dengan total 32 instruksi, mikroprogram instruksi pengambilan umum berisi 2 instruksi mikro, dan mikroprogram yang sesuai dengan setiap instruksi terdiri dari rata-rata 4 instruksi mikro, dan metode alamat langsung  (metode bidang alamat berikutnya) digunakan untuk menentukan alamat instruksi mikro berikutnya, berapa jumlah minimum bit bidang alamat berikutnya dalam instruksi mikro?",
+        "target": "8"
+    },
+    {
+        "input": "Dengan asumsi bahwa memori utama dialamatkan dengan byte, Cache memiliki 64 baris, pemetaan asosiatif set 4-arah digunakan, ukuran blok memori utama adalah 32 byte, dan semua angka dimulai dari 0. Berapakah nomor grup Cache yang sesuai dengan blok memori utama tempat alamat 3000 berada?",
+        "target": "13"
+    },
+    {
+        "input": "Berapa nilai minimum dari bilangan bulat biner 8-bit yang dinyatakan sebagai komplemen dua dan terdiri dari 3 buah “1” dan 5 buah “0”?",
+        "target": "-125"
+    },
+    {
+        "input": "Untuk sebuah pencarian berurutan, berapakah rata-rata panjang pencarian, dengan asumsi bahwa pencarian tersebut memiliki probabilitas yang sama untuk berhasil dan gagal, dan probabilitas yang sama untuk menemukan setiap record?",
+        "target": "0,75n+0,25"
+    },
+    {
+        "input": "Sebuah pohon B dengan urutan ke-5 diketahui memiliki 53 kata kunci dan setiap simpul memiliki jumlah kata kunci minimum, berapakah kedalamannya?",
+        "target": "4"
+    },
+    {
+        "input": "Ketika mengurutkan urutan data menggunakan metode pengurutan Shell, jika hasil dari putaran pertama adalah 9, 1, 4, 13, 7, 8, 20, 23, 15, berapakah kemungkinan jarak (interval) yang digunakan untuk putaran tersebut?  A. 2\nB. 3\nC. 4\nD. 5",
+        "target": "B"
+    },
+    {
+        "input": "Sebuah saluran memiliki kecepatan data 8000bit/s dan penundaan propagasi searah 20ms, berapakah panjang frame minimum jika penggunaan saluran untuk protokol stop-and-wait adalah 50%?",
+        "target": "320bit"
+    },
+    {
+        "input": "Manakah di antara pernyataan berikut yang benar mengenai graf terhubung kuat? \\I. Sebuah graf terhubung kuat dengan n simpul memiliki setidaknya n sisi \\n II. Sebuah graf terhubung kuat adalah graf yang setiap simpulnya memiliki sisi ke semua simpul lainnya \\n Ⅲ. Sebuah graf berarah lengkap haruslah sebuah graf terhubung kuat",
+        "target": "Hanya Ⅰ, Ⅲ"
+    },
+    {
+        "input": "Sebuah sistem Cache-memori utama dengan clock 50 MHz dan memori yang mentransfer 8 kata berurutan dengan kecepatan satu kata per siklus clock untuk mendukung Cache dengan panjang blok 8 kata yang masing-masing terdiri dari 4 byte. Dengan asumsi bahwa operasi baca membutuhkan 1 siklus untuk menerima alamat, 3 siklus penundaan, dan 8 siklus transmisi untuk mentransfer 8 kata, dan operasi tulis membutuhkan 1 siklus untuk menerima alamat, 2 siklus penundaan, 8 siklus untuk mentransfer 8 kata, dan 3 siklus untuk memulihkan dan menulis kode koreksi kesalahan, berapakah bandwidth memori maksimum saat sistem beroperasi dalam situasi akses yang 35% baca dan 65% tulis?",
+        "target": "120,3MB/s"
+    },
+    {
+        "input": "Untuk jaringan 193.100.60.0, jika subnet mask disetel ke 255.255.255.192, berapakah jumlah maksimum host yang dapat terhubung pada setiap subnet?",
+        "target": "62"
+    },
+    {
+        "input": "Manakah pernyataan tentang ARP berikut ini yang salah? I. Pesan permintaan ARP bersifat unicast II. Pesan respons ARP bersifat unicast III. Jika host 1 di LAN A ingin berkomunikasi dengan host 2 di LAN B, tetapi host 1 tidak mengetahui alamat fisik host 2, host 1 dapat menyelesaikan masalah dengan mengirimkan paket ARP",
+        "target": "Hanya Ⅰ, Ⅲ"
+    },
+    {
+        "input": "Manakah di antara pernyataan berikut yang salah? \\n Ⅰ. Dengan asumsi bahwa nomor urutan frame memiliki 3 bit, menggunakan protokol ARQ kontinu, nilai maksimum jendela pengiriman adalah 4 \\n Ⅱ Untuk jendela geser dengan ukuran jendela n, maksimum n frame telah dikirim tetapi tidak diakui \\n Ⅲ. Pada protokol Go-Back-N, jika ukuran jendela pengiriman adalah 16, maka setidaknya 4 bit dari nomor urut diperlukan untuk menjaga protokol tetap bebas dari kesalahan",
+        "target": "Ⅰ, Ⅱ, Ⅲ"
+    },
+    {
+        "input": "Pada sebuah graf G dengan n simpul, jika pohon perentang minimum tidak unik, pernyataan mana yang benar? \\n Ⅰ. jumlah sisi dari G harus lebih besar dari n-1 \\n Ⅱ. harus ada lebih dari satu sisi dengan bobot terendah dari G \\n Ⅲ. Biaya dari semua pohon perentang minimum G tidak harus sama.",
+        "target": "Hanya Ⅰ"
+    },
+    {
+        "input": "Dari alamat-alamat berikut ini, yang termasuk dalam subnet 86.32.0.0/12 adalah? \\n Ⅰ. 86.33.224.123 Ⅱ. 86.79.65.126 Ⅲ. 86.68.65.216",
+        "target": "Hanya Ⅰ"
+    },
+    {
+        "input": "Misalkan sebuah komputer memiliki panjang instruksi 20 bit dengan tiga bentuk instruksi, operan ganda, operan tunggal, tanpa operan, setiap alamat operan ditentukan untuk diwakili oleh 6 bit, dan jika bidang kode operasi tidak tetap, m instruksi operan ganda dan n instruksi tanpa operan telah diberikan. Dalam kasus ini, berapa jumlah maksimum instruksi operan tunggal yang dapat dirancang oleh komputer ini?",
+        "target": "[(2^8-m)×2^12-n]/2^6"
+    },
+    {
+        "input": "Ada 16 register dalam sebuah mesin dan dengan asumsi bahwa panjang kata mesin adalah 12 bit, manakah dari instruksi berikut ini yang dapat diimplementasikan dengan menggunakan instruksi panjang kata tunggal? Ⅰ. 4 instruksi tiga register Ⅱ. 255 instruksi register tunggal Ⅲ. 16 instruksi 0-register",
+        "target": "Hanya Ⅱ, Ⅲ"
+    },
+    {
+        "input": "Sebuah mesin menggunakan instruksi panjang kata tunggal 16-bit dengan opcode panjang tetap dan kode alamat 5-bit. 60 instruksi dua alamat telah ditentukan, jadi berapa jumlah maksimum instruksi alamat tunggal?",
+        "target": "4"
+    },
+    {
+        "input": "Sebuah komputer mikro 8-bit memiliki bus alamat 16-bit dan kapasitas memori RAM-nya 32 KB dengan alamat pertama 4000H dan alamat-alamat tersebut berurutan, berapakah alamat tertinggi yang tersedia?",
+        "target": "BFFFH"
+    },
+    {
+        "input": "Ada tiga pekerjaan simultan J1, J2, dan J3 yang tiba pada waktu yang sama dengan waktu eksekusi masing-masing T1, T2, dan T3, dan T1 < T2 < T3. Jika ada dua CPU dalam sistem, masing-masing berjalan dalam mode uniprogramming dan menggunakan algoritma SJF, berapakah waktu turnaround rata-rata?",
+        "target": "(2T1+T2+T3)/3"
+    },
+    {
+        "input": "Panjang segmen pesan maksimum yang diperbolehkan pada jaringan adalah 128B, nomor urut diwakili oleh 8bit, dan masa pakai segmen dalam jaringan adalah 30 detik. Berapakah kecepatan data maksimum yang dapat dicapai per koneksi TCP?",
+        "target": "8,7kbit/s"
+    },
+    {
+        "input": "Sebuah memori berkapasitas 256MB terdiri dari sejumlah chip DRAM 16M x 8bit, berapakah jumlah total pin alamat dan pin data pada chip DRAM?",
+        "target": "20"
+    },
+    {
+        "input": "Misalkan ambang batas mulai lambat untuk jendela kemacetan TCP tertentu pada awalnya adalah 8 (dalam segmen pesan dan dengan panjang segmen maksimum 1KB), dan jaringan akan mengalami timeout ketika jendela kemacetan naik menjadi 12. Dalam kondisi yang diberikan di atas, berapa ukuran jendela kemacetan pada transmisi ke-12?",
+        "target": "6"
+    },
+    {
+        "input": "Berapa banyak pohon pencarian biner yang terdiri dari 23, 12, 45 dan 36? Berapa banyak dari jumlah tersebut yang merupakan pohon AVL?",
+        "target": "14; 5"
+    },
+    {
+        "input": "Saat melakukan pencarian node dengan kata kunci 35 pada sebuah pohon pencarian biner, manakah urutan perbandingan kata kunci yang mungkin terjadi? a: 46, 28, 18, 36, 35; b: 18, 36, 28, 46, 35; c: 46, 36, 18, 28, 35; d: 28, 36, 18, 46, 35",
+        "target": "c: 46,36, 18, 28, 35"
+    },
+    {
+        "input": "Sebuah saluran disampel setiap 1/8 detik dan sinyal yang ditransmisikan memiliki total 8 status yang berubah, berapakah kecepatan data maksimum?",
+        "target": "24bit/s"
+    },
+    {
+        "input": "Sebuah antrean melingkar menggunakan larik A[0 ... m-1] untuk menyimpan nilai dari elemen-elemennya, dan diketahui bahwa penunjuk kepala dan ekornya adalah front dan rear (dan penunjuk ekor rear mengarah ke elemen berikutnya dari elemen ekor antrean), maka berapa jumlah elemen dalam antrean saat ini?",
+        "target": "(rear-front+m)%m"
+    },
+    {
+        "input": "Berapa banyak node yang ada secara keseluruhan dalam sebuah pohon N-ary penuh dengan lebar 27 dan tinggi 4?",
+        "target": "40"
+    },
+    {
+        "input": "Pesan ASCII “Goodmorning!” ditransmisikan melalui LAN IEEE802.3 dan dienkapsulasi ke dalam bingkai MAC, berapa jumlah byte yang valid dalam bidang data bingkai? Berapa banyak byte yang perlu diisikan?",
+        "target": "12,34"
+    },
+    {
+        "input": "Sebuah sistem file menggunakan pengindeksan multi-level untuk mengatur penyimpanan data dari sebuah file. Asumsikan bahwa ada 13 entri alamat dalam i_node file, dimana 10 diindeks langsung, 1 diindeks tidak langsung, 1 diindeks tidak langsung tingkat dua dan 1 diindeks tidak langsung tingkat tiga. Ukuran blok data adalah 4 KB dan alamat disk diwakili oleh 4B. Berapa perkiraan panjang file maksimum yang diizinkan oleh sistem file ini (dalam satuan TB, bulatkan ke bilangan bulat)?",
+        "target": "4TB"
+    },
+    {
+        "input": "Sebuah sistem memiliki n perangkat serupa yang digunakan secara eksklusif, dan tiga proses yang bersamaan membutuhkan 3, 4, dan 5 perangkat. Berapa jumlah minimum n perangkat yang akan memastikan bahwa sistem tidak mengalami kebuntuan?",
+        "target": "10"
+    },
+    {
+        "input": "Sebuah cache dengan kapasitas efektif 128KB memiliki ukuran blok 16B dan menggunakan skema set asosiatif 8-arah. Apa yang seharusnya menjadi Tag sel dengan alamat byte 1234567H agar dapat dipanggil ke Cache ini?",
+        "target": "048DH"
+    },
+    {
+        "input": "Dalam sebuah pohon terner, diketahui jumlah node dengan derajat 3 sama dengan jumlah node dengan derajat 2, dan jumlah node daun pada pohon tersebut adalah 13, maka berapa jumlah node dengan derajat 2?",
+        "target": "4"
+    },
+    {
+        "input": "Misalkan m adalah jumlah sumber daya yang sama dan n adalah jumlah proses yang bersamaan dalam sistem. Ketika n proses berbagi m sumber daya yang saling eksklusif, permintaan maksimum untuk setiap proses adalah w. Situasi-situasi berikut ini akan mengakibatkan kebuntuan sistem: \nm=2, n=1, w=2, \nm=2, n=2, w=1, \nm=4, n=3, w=2, \nm=4, n=2, w=3",
+        "target": "m=4,n=2,w=3"
+    },
+    {
+        "input": "Waktu pencarian rata-rata hard disk adalah 12 ms, kecepatan transfer 10MB/s dan penundaan pengontrol disk adalah 2 ms, berapa waktu untuk menulis 1KB data ke hard disk dengan kecepatan 7200 putaran per menit?",
+        "target": "18,27ms"
+    },
+    {
+        "input": "Perhatikan kode C berikut ini: \\nshort si = -8196; \\nunsigned short usi = si; \\nBerapakah nilai usi setelah mengeksekusi segmen program di atas?",
+        "target": "57340"
+    },
+    {
+        "input": "Misalkan sebuah pohon biner dikonversi dari sebuah hutan, jika ada n node non-terminal dalam hutan tersebut, berapakah jumlah node dalam pohon biner tersebut yang tidak memiliki anak kanan?",
+        "target": "n+1"
+    },
+    {
+        "input": "Metode DMA dicirikan oleh CPU yang bekerja secara paralel dengan perangkat dan transmisi yang bekerja secara paralel dengan program utama, yang mana dari berikut ini adalah karakteristik metode interupsi untuk bertukar informasi antara perangkat I/O dan host: CPU bekerja secara paralel dengan perangkat dan transmisi yang bekerja secara serial dengan program utama; CPU yang bekerja secara serial dengan perangkat dan transmisi yang bekerja secara paralel dengan program utama; CPU yang bekerja secara serial dengan perangkat dan transmisi yang bekerja secara serial dengan program utama; CPU bekerja secara paralel dengan perangkat, transmisi bekerja secara paralel dengan program utama",
+        "target": "CPU dan perangkat bekerja secara paralel, transmisi dan program utama bekerja secara serial"
+    },
+    {
+        "input": "Diketahui bahwa sebuah komputer dengan frekuensi clock 2 GHz memiliki CPI 1,2. Jumlah instruksi dari program P pada komputer ini adalah 4×10⁹. Jika waktu yang berlalu dari awal program P hingga akhir eksekusi di komputer ini adalah 4 detik, berapa perkiraan persentase dari total waktu yang berlalu yang digunakan untuk menjalankan P?",
+        "target": "0.6"
+    },
+    {
+        "input": "Misalkan instruksi transfer untuk pengalamatan relatif mengambil dua byte, byte pertama adalah opcode dan byte kedua adalah perpindahan relatif (dinyatakan sebagai komplemen), setiap kali CPU membaca byte dari memori, nilai PC akan bertambah secara otomatis ((PC) + 1 → PC). Apabila nilai PC saat ini adalah 2008H dan alamat tujuan transfer adalah 2001H, berapakah isi byte kedua dari instruksi transfer tersebut?",
+        "target": "F7H"
+    },
+    {
+        "input": "Kecepatan sebuah disk adalah 10.000 putaran per menit, waktu pencarian rata-rata adalah 6ms, kecepatan transfer disk adalah 20MB/s, dan latensi pengontrol disk adalah 0,2 ms. Berapa perkiraan waktu rata-rata yang diperlukan untuk membaca sektor 4KB?",
+        "target": "9,4ms"
+    },
+    {
+        "input": "Sebuah sistem instruksi memiliki 200 instruksi, berapakah jumlah bit minimum yang harus digunakan saat menggunakan pengkodean biner panjang tetap untuk opcode?",
+        "target": "8"
+    },
+    {
+        "input": "Misalkan kapasitas memori adalah 32 kata dan panjang kata adalah 64 bit. Jumlah modul m = 4 dan interleaving orde rendah digunakan. Siklus memori T = 200 ns, lebar bus data 64 bit, dan siklus transfer bus r = 50 ns. Berapakah bandwidth memori interleaved ini?",
+        "target": "73×10＾7bit/s"
+    },
+    {
+        "input": "Bilangan terkecil dari bilangan-bilangan berikut adalah (2E)_16, (52)_7, (2000)_3, (101001)_2",
+        "target": "(52)_7"
+    },
+    {
+        "input": "Ketika memeriksa/mengoreksi kesalahan pada data dengan panjang 8 bit menggunakan kode Hamming, jika satu kesalahan dapat dikoreksi, berapakah jumlah minimum bit pemeriksaan?",
+        "target": "4"
+    },
+    {
+        "input": "Misalkan ada disk yang memiliki total 200 trek, total kapasitas penyimpanan disk adalah 1,6MB (untuk kenyamanan komputasi, misalkan 1M = 10^6), disk berputar satu putaran dalam 25ms, ada 4 area data per trek, ada celah di antara setiap dua area data, dan dibutuhkan 1,25ms untuk disk melewati setiap celah. Berapakah kecepatan transfer data maksimum saat membaca data dari disk?",
+        "target": "0,4MB/s"
+    },
+    {
+        "input": "Mengingat bahwa sebuah instruksi diselesaikan oleh tiga subkomponen, pengambilan, analisis, dan eksekusi, dan bahwa waktu untuk setiap subkomponen adalah t, berapakah rasio akselerasi dari prosesor pipeline skalar konvensional jika prosesor tersebut mengeksekusi delapan instruksi secara berurutan?",
+        "target": "2,4"
+    },
+    {
+        "input": "Jika terdapat 6 jalur input alamat, berapa banyak jalur keluaran untuk decoder tunggal dan decoder ganda masing-masing?",
+        "target": "64, 16"
+    },
+    {
+        "input": "Sebuah chip SRAM memiliki kapasitas 512 x 8 bit, kecuali untuk terminal daya dan ground, berapakah jumlah minimum jalur pinout untuk chip tersebut?",
+        "target": "19"
+    },
+    {
+        "input": "Sebuah mesin memiliki total 70 sinyal kontrol mikro (yaitu, perintah mikro) yang membentuk enam kelompok perintah mikro yang saling eksklusif, masing-masing berisi 8, 11, 3, 16, 7, dan 25 perintah mikro. Berapa banyak bit yang diperlukan dalam bidang kontrol perintah mikro jika menggunakan pengkodean bidang langsung?",
+        "target": "23"
+    },
+    {
+        "input": "Komputer memiliki panjang kata 32 bit dan memori dialamatkan dalam byte, nilai PC saat ini adalah 1000, berapakah nilai PC setelah membaca instruksi double-word?",
+        "target": "1008"
+    },
+    {
+        "input": "Dengan mengasumsikan bahwa beberapa chip memori 16K x 8-bit digunakan untuk membentuk memori 64K x 32-bit, dan unit dalam chip dialamatkan secara berurutan, berapakah alamat terkecil dalam chip di mana alamat BFF0H berada?",
+        "target": "8000H"
+    },
+    {
+        "input": "Selama eksekusi program oleh CPU, jumlah akses ke Cache adalah 4600 dan jumlah akses yang dilakukan oleh memori utama adalah 400. Jika waktu akses Cache adalah 5ns dan waktu akses memori utama adalah 25ns, berapakah waktu akses rata-rata CPU?",
+        "target": "6,6"
+    },
+    {
+        "input": "Sebuah komputer memiliki 64MB memori utama, dengan panjang kata 4 byte. Berapa banyak bit alamat yang diperlukan untuk mengalamati satu kata?",
+        "target": "24"
+    },
+    {
+        "input": "Untuk chip memori 32K x 16 yang dipilih saat alamat pemilihan chip adalah 111, berapakah alamat pertama dan terakhir chip dalam memori?\nA. 00000H, 01000H\nB. 38000H, 3FFFFH\nC. 3800H, 3FFFH\nD. 0000H, 0100H",
+        "target": "B"
+    },
+    {
+        "input": "Tipe data float biasanya direpresentasikan dalam format floating-point presisi tunggal IEEE754. Misalkan dua variabel tipe float x dan y masing-masing disimpan dalam register 32-bit f1 dan f2. Jika (f1) = CC900000H dan (f2) = B0C00000H, manakah di bawah ini yang merupakan hubungan antara x dan y: x < y dengan tanda yang berbeda, x < y dengan tanda yang sama, x > y dengan tanda yang sama, x > y dengan tanda yang berbeda?",
+        "target": "x<y dan memiliki tanda yang sama"
+    },
+    {
+        "input": "Jika suatu angka floating-point presisi tunggal, kode asli, kode  komplemen, dan offset-nya dalam format 32-bit semuanya adalah 0xF0000000, maka tentukan urutan angka-angka ini dari yang terbesar ke yang terkecil: \nA. offset, kode komplemen, kode asli, floating-point presisi tunggal\nB. offset, kode asli, kode komplemen, floating-point presisi tunggal\nC. floating-point presisi tunggal, kode asli, kode komplemen, offset\nD. floating-point presisi tunggal, offset, kode komplemen, kode asli",
+        "target": "A"
+    },
+    {
+        "input": "Dengan mengasumsikan bahwa memori tampilan komputer diimplementasikan dengan chip DRAM, jika resolusi tampilan yang diperlukan adalah 1600 × 1200, kedalaman warna 24 bit, kecepatan frame 85Hz, dan 50% dari total bandwidth memori video digunakan untuk menyegarkan layar, berapakah perkiraan total bandwidth memori video minimum yang diperlukan?",
+        "target": "7834Mbit/s"
+    },
+    {
+        "input": "Berapa perkiraan waktu yang dibutuhkan untuk mentransfer sebuah gambar dengan resolusi 640×480 piksel dan 65536 warna (tanpa kompresi), dengan asumsi kecepatan transmisi data adalah 56kbit/s?",
+        "target": "87,77s"
+    },
+    {
+        "input": "Terdapat 101 instruksi yang berbeda dalam sistem instruksi komputer tertentu, berapakah jumlah minimum mikroprogram yang tersedia dalam memori kontrol apabila metode kontrol mikroprogram digunakan?",
+        "target": "102"
+    },
+    {
+        "input": "Diasumsikan beberapa chip 8K×8-bit digunakan untuk membentuk memori 32K×32-bit, maka alamat maksimum dari chip di mana alamat 41F0H berada adalah?",
+        "target": "5FFFH"
+    },
+    {
+        "input": "Sebuah komputer dengan panjang kata 32-bit memiliki kapasitas penyimpanan 1 MB. Berapakah rentang pengalamatannya jika pengalamatan per kata?\nA. 0～1M \nB. 0～512KB \nC. 0～256K \nD. 0～256KB",
+        "target": "C"
+    },
+    {
+        "input": "Cache berkapasitas 64 blok menggunakan metode pemetaan asosiasi kelompok, dengan ukuran blok 128 kata, dan setiap 4 blok membentuk satu kelompok. Jika memori utama memiliki 4K blok dan dialamatkan per kata, maka berapa jumlah bit alamat memori utama dan tag-nya masing-masing?\n",
+        "target": "19 dan 8"
+    },
+    {
+        "input": "Diketahui pada kode ASCII huruf kapital \"A\" adalah 41H. Jika huruf \"F\" disimpan pada suatu sel memori dan menggunakan paritas genap (dengan asumsi bit tertinggi digunakan sebagai bit paritas), maka berapakah angka heksadesimal yang disimpan pada sel memori tersebut?",
+        "target": "C6H"
+    },
+    {
+        "input": "Dalam sistem penyimpanan dua tingkat yang terdiri dari Cache dan memori utama, waktu akses Cache adalah 100 ns dan waktu akses memori utama adalah 1.000 ns. Jika Anda ingin waktu akses efektif (rata-rata) tidak lebih dari 115 persen dari waktu akses Cache, berapa setidaknya hit rate Cache? [Catatan: Saat komputer mengakses, komputer akan mengakses Cache terlebih dahulu, lalu mengakses memori utama jika akses gagal].",
+        "target": "98,5%"
+    },
+    {
+        "input": "Untuk sebuah chip DRAM tertentu dengan kapasitas 1024 x 8 bit yang menggunakan teknologi multipleksing alamat, berapakah jumlah minimum pinnya, tidak termasuk terminal catu daya dan ground? (baris kontrol baca-tulis adalah dua jalur)",
+        "target": "17"
+    },
+    {
+        "input": "Dua angka floating-point dijumlahkan, dan satu angka memiliki nilai eksponen 7 dan yang lain 9. Bagaimana cara memindahkan titik desimal untuk bilangan floating-point dengan nilai eksponen yang lebih kecil?",
+        "target": "Bergeser ke kiri 2 posisi"
+    },
+    {
+        "input": "Komputer beralamat byte dilengkapi dengan area ROM dari 00000H hingga 07FFFH dengan jalur alamat 20-bit, dan chip RAM 16K × 8-bit digunakan untuk membentuk area RAM yang tersisa dari 08000H hingga FFFFFH, berapa banyak chip RAM yang diperlukan?",
+        "target": "62"
+    },
+    {
+        "input": "Jika menggunakan chip memori dengan kapasitas 16K×1-bit untuk membentuk memori 64K×8-bit, maka berapa kali perluasan yang diperlukan masing-masing untuk arah kata dan arah bit?",
+        "target": "4 dan 8"
+    },
+    {
+        "input": "Apa kode bias 8-bit dari angka desimal -0,3125?",
+        "target": "01011000/58H"
+    },
+    {
+        "input": "Memori dialamatkan per byte dengan alamat dari 90000H hingga CFFFFH, berapakah jumlah minimum chip yang diperlukan untuk membentuk memori ini menggunakan chip dengan kapasitas 16K x 8-bit?",
+        "target": "16"
+    },
+    {
+        "input": "Misalkan instruksi dilakukan oleh 3 subkomponen, pengambilan instruksi, dekode, dan eksekusi, yang masing-masing beroperasi selama Δt, menggunakan prosesor pipeline skalar konvensional. Jika 10 instruksi dieksekusi secara berurutan, berapa banyak Δt?",
+        "target": "12Δt"
+    },
+    {
+        "input": "Misalkan bilangan floating-point dengan total 12 bit. Di antaranya, eksponen terdiri dari 1 bit tanda eksponen dan total 4 bit, dengan basis 2, menggunakan representasi komplemen dua; mantisa terdiri dari 1 bit tanda dan total 8 bit, menggunakan representasi komplemen dua, dan dinormalisasi. Berapa bilangan positif terbesar yang dapat diwakili oleh bilangan floating-point tersebut?",
+        "target": "2＾7-1"
+    },
+    {
+        "input": "Diketahui sebuah komputer memiliki 80 instruksi, dan rata-rata setiap instruksi terdiri dari 4 instruksi mikro, di mana 1 instruksi mikro pengambilan dipakai bersama untuk semua instruksi mikro. Jika diketahui panjang instruksi mikro adalah 32-bit, berapakah perkirakan kapasitas memori kontrol (CM)? \\n (Petunjuk: Kapasitas memori kontrol CM adalah 2 pangkat n)",
+        "target": "1KB"
+    },
+    {
+        "input": "Diketahui bahwa CacheA dipetakan secara langsung dengan 16 baris, ukuran blok 1 byte, dan kegagalan 8 siklus clock; CacheB juga dipetakan secara langsung dengan 4 baris, ukuran blok 4 byte, dan kegagalan 11 siklus clock. Dengan mengasumsikan bahwa Cache kosong di awal dan dialamatkan menurut byte, CacheB memiliki tingkat kegagalan yang lebih rendah, tetapi total penalti kegagalan CacheB justru lebih besar daripada CacheA dalam situasi berikut ini: \n0, 2, 4, 8, 0, \n1, 2, 3, 4, \n0, 8, 0, 8, 0, 8, \n0, 1, 0, 1, 0, 1",
+        "target": "0，2，4，8，0"
+    },
+    {
+        "input": "Berapa jumlah bit redundan dalam kode koreksi kesalahan blok (n, k) yang umum digunakan?",
+        "target": "n-k"
+    },
+    {
+        "input": "Sebuah bus sinkron memiliki frekuensi clock 100 MHz, lebar 32 bit, dan multiplexing jalur alamat/data, menempati satu siklus clock untuk setiap alamat atau data yang dikirimkan. Jika bus mendukung transfer burst (semburan), berapa waktu minimum yang diperlukan untuk mentransfer 128 bit data dalam satu transaksi bus “penulisan memori”?",
+        "target": "50ns"
+    },
+    {
+        "input": "Jika frekuensi clock adalah 120 MHz dan dibutuhkan 8 siklus clock untuk mentransfer kata 32-bit, berapakah kecepatan transfer data dari sistem bus?",
+        "target": "60MB/s"
+    },
+    {
+        "input": "Sebuah host komputer memiliki Cache dengan 256 blok dan menggunakan metode pemetaan langsung (direct mapping). Maka, blok ke-i dari memori utama akan dipetakan ke blok ke berapa dari Cache?",
+        "target": "i(mod256)"
+    },
+    {
+        "input": "Memori memiliki kapasitas 64KB dan beralamat per byte, dengan alamat 4000H hingga 5FFFH merupakan area ROM. Jika chip SRAM 8K x 4-bit digunakan untuk desain, berapakah jumlah chip yang diperlukan?",
+        "target": "14"
+    },
+    {
+        "input": "Asumsikan ada empat bilangan bulat yang diwakili oleh komplemen dua 8-bit: r1 = FEH, r2 = F2H, r3 = 90H, dan r4 = F8H. Jika hasil operasi disimpan dalam register 8-bit, operasi berikut akan melimpah: r1 × r2, r2 × r3, r1 × r4, dan r2 × r4",
+        "target": "r2×r3"
+    },
+    {
+        "input": "Sebuah operan dari instruksi menggunakan mode pengalamatan indeks, jika nilai dalam register indeks adalah 007CH, isi alamat 007CH adalah 0124H, alamat bentuk dalam instruksi adalah B000H, dan isi dari alamat B000H adalah C000H, berapakah alamat efektif operan tersebut?",
+        "target": "B07CH"
+    },
+    {
+        "input": "Sebuah mesin memiliki panjang kata 32 bit, kapasitas memori utama 1MB, dialamatkan per kata, panjang blok 512B, total 16 blok dapat disimpan di Cache, dan pemetaan langsung digunakan, berapa panjang alamat Cache?",
+        "target": "11 bit"
+    },
+    {
+        "input": "Sebuah disk memiliki 200 track dengan kapasitas total 60MB. Waktu rotasi satu putaran adalah 25ms. Setiap track terdiri dari 8 sektor, dan antar sektor terdapat celah. Jika dibutuhkan 1,25ms untuk head melewati setiap celah, berapa laju transfer maksimum kanal disk?",
+        "target": "20MB/s"
+    },
+    {
+        "input": "Ketika merepresentasikan angka desimal -8196 sebagai komplemen dua, paling tidak berapa bit kode biner yang harus digunakan untuk merepresentasikannya?",
+        "target": "15"
+    },
+    {
+        "input": "Sebuah komputer memiliki 16 blok Cache dan menggunakan metode pemetaan asosiasi grup 2 arah (yaitu 2 blok per grup). Setiap blok memori utama berukuran 32B, dan dialamatkan per byte. Nomor grup Cache mana yang harus diisi oleh blok memori utama yang berisi unit memori utama ke-129? (Penomoran dimulai dari 0)",
+        "target": "4"
+    },
+    {
+        "input": "Memori utama dialamatkan per byte dengan rentang alamat dari 0A4000H hingga 0CBFFFH. Berapa total byte memori tersebut? Jika memori utama dibentuk menggunakan chip memori 32K×8-bit, berapa chip minimal yang dibutuhkan?",
+        "target": "160K, 5"
+    },
+    {
+        "input": "Jika panjang kata mesin adalah 64-bit dan kapasitas memori adalah 128MB, berapakah jumlah lokasi alamat jika dialamatkan per kata?",
+        "target": "16M"
+    },
+    {
+        "input": "Sebuah memori disk diketahui berputar pada kecepatan 2400 r/menit dan memiliki kapasitas penyimpanan 96 KB per trek. Berapakah kecepatan transfer data dari disk tersebut?",
+        "target": "3840KB/s"
+    },
+    {
+        "input": "Jika beberapa chip 2K×4-bit digunakan untuk membentuk memori 8K×8-bit, berapakah alamat minimum chip di mana alamat 081FH berada?",
+        "target": "0800H"
+    },
+    {
+        "input": "Dengan asumsi bahwa penyimpanan disk memiliki 4 cakram dengan 2000 silinder untuk merekam informasi dan 3000 sektor pada setiap track dengan 512B per sektor, berapakah perkiraan kapasitas penyimpanan disk? (Ambil 1G = 10^9).",
+        "target": "24GB"
+    },
+    {
+        "input": "Sebuah cache dengan kapasitas efektif 128KB dan ukuran blok 16B ini menggunakan asosiasi set 8‑jalur. Jika alamat byte 1234567H ditransfer ke Cache tersebut, maka tag-nya adalah?",
+        "target": "048DH"
+    },
+    {
+        "input": "Jika 64 bit data ditransmisikan secara paralel dalam sebuah bus dengan frekuensi bus 66 MHz, berapa bandwidth bus?",
+        "target": "528MB/s"
+    },
+    {
+        "input": "Jika setiap karakter diwakili oleh matriks titik 16x16, berapa kapasitas yang dibutuhkan untuk sebuah pustaka fon dengan 7.500 karakter?",
+        "target": "240KB"
+    },
+    {
+        "input": "Dalam arsitektur komputer, CPU secara internal memiliki program counter (PC), register data memori (MDR), register instruksi (IR), dan register alamat memori (MAR). Jika instruksi yang akan dieksekusi oleh CPU adalah: MOVR_0, #100 (yaitu, nilai 100 akan ditransfer ke register R_0), manakah dari operasi berikut ini yang pertama kali diselesaikan oleh CPU: PC → MAR, 100 → R_0, PC → IR, 100 → MDR",
+        "target": "PC→MAR"
+    },
+    {
+        "input": "Diasumsikan bahwa instruksi transfer dengan pengalamatan relatif terdiri dari dua byte, byte pertama adalah kode operasi, dan byte kedua adalah nilai offset (dinyatakan sebagai komplemen dua). Setiap kali CPU membaca satu byte dari memori, otomatis dilakukan (PC)+1→PC. Jika alamat instruksi saat ini adalah 3008H dan akan ditransfer ke 300FH, maka isi byte kedua instruksi transfer tersebut seharusnya menjadi? Jika alamat instruksi saat ini adalah 300FH dan akan ditransfer ke 3004H, maka isi byte kedua dari instruksi transfer tersebut seharusnya menjadi?",
+        "target": "05H, F3H"
+    },
+    {
+        "input": "Jika RAM dinamis harus di-refresh 1,0 kali per milidetik, dengan setiap refresh membutuhkan waktu 100 ns, dan siklus memori membutuhkan waktu 200 ns, maka persentase waktu refresh terhadap total waktu operasi memori adalah ____.",
+        "target": "0,01%"
+    },
+    {
+        "input": "Diketahui CPU memiliki 24 bus alamat dan 32 bus data, dan chip RAM 512K x 8-bit digunakan untuk membentuk memori utama, berapakah jumlah maksimum chip memori yang diperlukan untuk memori utama komputer?",
+        "target": "128"
+    },
+    {
+        "input": "Dependensi data yang terjadi dalam komputer pipeline pada pernyataan berikut ini adalah: menulis setelah membaca, membaca setelah membaca, menulis setelah menulis, dan membaca setelah menulis; \\nADD R1,R2,R3; (R2)+(R3)→R1\\nADD R4,R1,R5; (R1)+(R5)→R4",
+        "target": "Baca setelah tulis"
+    },
+    {
+        "input": "Dalam suatu sistem komputer, diasumsikan sebuah hard drive menggunakan interupsi untuk input/output data ke/dari prosesor dengan transfer 16-bit, dan kecepatan transfer 50KB/s. Overhead (termasuk interupsi) per transfer adalah 100 siklus CPU, dan frekuensi utama prosesor adalah 50MHz. Berapakah persentase waktu prosesor yang digunakan oleh hard drive selama transfer data (jawaban dibulatkan ke bawah)?",
+        "target": "0.05"
+    },
+    {
+        "input": "Hasil dari penambahan 7E5H dan 4D3H adalah?",
+        "target": "CB8H"
+    },
+    {
+        "input": "Jika sebuah memori memiliki waktu siklus 250ns dan membaca 16 bit setiap kali, berapa kecepatan transfer data memori tersebut?",
+        "target": "8×10＾6B/s"
+    },
+    {
+        "input": "Sebuah workstation menggunakan frekuensi clock f = 15MHz dan prosesor berkecepatan 10MIPs untuk menjalankan suatu program hibrida yang diketahui. Diasumsikan setiap penyimpanan memori membutuhkan 1 siklus penundaan, berapakah CPI efektif dari komputer tersebut?",
+        "target": "1,5"
+    },
+    {
+        "input": "Dalam manajemen memori berbasis halaman dengan ukuran halaman 4KB, isi tabel halaman secara berurutan adalah 2, 5, 6, 8, 7, 11. Berapakah alamat logis yang sesuai dengan alamat fisik 32773?",
+        "target": "12293"
+    },
+    {
+        "input": "Dalam sebuah prosesor pipeline 4 tahap, dimasukkan 15 instruksi secara berurutan. Maka pada akhir siklus clock ke-15, berapa jumlah instruksi yang telah selesai dieksekusi?",
+        "target": "12"
+    },
+    {
+        "input": "Sebuah sistem instruksi memiliki panjang instruksi 8-bit, dan setiap kode alamat memiliki panjang 3-bit, dengan menggunakan teknik kode operasi perluasan. Jika sistem instruksi memiliki dua instruksi dua-alamat dan 10 instruksi tanpa alamat, maka berapakah jumlah maksimum instruksi satu alamat?",
+        "target": "14"
+    },
+    {
+        "input": "Sebuah chip SRAM memiliki kapasitas 1024×8 bit. Selain terminal daya dan ground, berapa jumlah pin minimum dari chip ini?",
+        "target": "21"
+    },
+    {
+        "input": "Suatu program C dijalankan di mesin 32-bit. Program ini mendefinisikan tiga variabel x, y, dan z, di mana x dan z memiliki tipe int, dan y memiliki tipe short. Ketika x=127 dan y=-9. Berapakah nilai dari x, y, dan z masing-masing setelah mengeksekusi pernyataan penugasan z = x + y?\nA. x=0000007FH, y=FFF9H, z=00000076H\nB. x=0000007FH, y=FFF9H, z=FFFF0076H\nC. x=0000007FH, y=FFF7H, z=FFFF0076H\nD. x=0000007FH, y=FFF7H, z=00000076H",
+        "target": "D"
+    },
+    {
+        "input": "Data bertipe float biasanya menggunakan format bilangan floating-point presisi tunggal IEEE754. Jika kompiler menyimpan variabel bertipe float x dalam register floating-point 32-bit FR1, dan x = -8,25, maka isi dari FR1 adalah?\nA. C1040000H\nB. C1C20000H\nC. C1840000H\nD. C2420000H",
+        "target": "A"
+    },
+    {
+        "input": "Dalam register status CPU, jika bit tanda SF adalah “1”, itu berarti hasil operasinya adalah?",
+        "target": "Tidak dapat ditentukan"
+    },
+    {
+        "input": "Berikut adalah bilangan mesin 8-bit [x]_offset. Saat menghitung [-x]_offset, manakah yang akan menyebabkan overflow: 11111111, 01111111, 00000000, 10000000",
+        "target": "00000000"
+    },
+    {
+        "input": "Jika panjang instruksi adalah 24-bit, mampu melakukan total 130 jenis operasi, dan menggunakan format dua alamat, berapakah rentang maksimum yang dapat dialamatkan secara langsung?",
+        "target": "256"
+    },
+    {
+        "input": "Sebuah memori utama-Cache bertingkat memiliki kapasitas memori utama sebesar 1MB, kapasitas Cache 16KB, setiap blok kata berisi 8 kata, dengan setiap kata 32-bit, dan menggunakan pemetaan langsung (direct mapping). Jika alamat memori utama adalah 35301H dan CPU mengakses Cache dengan hit, maka di blok kata nomor berapa pada Cache? (Nomor blok Cache dimulai dari 0)",
+        "target": "152"
+    },
+    {
+        "input": "Pada monitor yang dikonfigurasikan untuk komputer, jika memori video pada kartu grafis adalah 1 MB, berapa jumlah maksimum warna berbeda yang dapat ada di setiap piksel apabila resolusi 800 piksel dikali 600 piksel digunakan?",
+        "target": "65536"
+    },
+    {
+        "input": "Jika angka desimal adalah 137,5, berapakah angka oktalnya?",
+        "target": "211,4"
+    },
+    {
+        "input": "Pengkodean Huffman dilakukan pada n simbol yang saling berbeda. Jika pohon Huffman yang dihasilkan memiliki 115 simpul, berapakah nilai n?",
+        "target": "58"
+    },
+    {
+        "input": "Dalam sebuah pohon biner seimbang tak kosong (pohon AVL) T1, sebuah pohon biner seimbang T2 terbentuk setelah node v dihapus, kemudian v dimasukkan kembali ke T2 dan membentuk pohon biner seimbang T3. Pernyataan yang benar mengenai T1 dan T3 adalah: \\nI．Jika v adalah node daun pada T1, maka T1 dan T3 mungkin berbeda \\nII．Jika v bukan node daun pada T1, maka T1 dan T3 pasti berbeda \\nIII．Jika v bukan node daun pada T1, maka T1 dan T3 pasti sama",
+        "target": "Hanya Ⅰ"
+    },
+    {
+        "input": "Ada tabel hash HT dengan panjang 11 dan awalnya kosong, fungsi hashnya adalah H(key)=key%7, dan konflik diselesaikan dengan menggunakan metode linear probing (re-hashing linier). Berapa rata-rata panjang pencarian untuk kegagalan pencarian HT setelah memasukkan urutan kunci 87,40,30,6,11,22,98,20 secara berurutan ke dalam HT?",
+        "target": "6"
+    },
+    {
+        "input": "Diberikan sebuah string utama T=\\abaabaabcabaabc\\ dan string pola S=\\abaabc\\, dan pencocokan pola menggunakan algoritme KMP, berapakah jumlah perbandingan antara masing-masing karakter yang dilakukan selama proses pencocokan hingga saat pencocokan berhasil?",
+        "target": "10"
+    },
+    {
+        "input": "Diketahui ada 120 segmen awal pada memori eksternal, berapakah jumlah segmen dummy yang perlu ditambahkan untuk mencapai penggabungan optimal jika dilakukan penggabungan 12-arah?",
+        "target": "2"
+    },
+    {
+        "input": "Perhatikan kode C berikut ini: \\nunsigned short usi=65535;\\nshort si=usi;\\nBerapakah nilai si setelah mengeksekusi segmen program di atas?",
+        "target": "-1"
+    },
+    {
+        "input": "Dengan asumsi bahwa komputer menggunakan bus memori 3-kanal dengan model modul memori DDR3-1333 yang sesuai, yaitu, bus memori tempat modul memori dicolokkan beroperasi pada 1333 MHz dan lebar bus 64 bit, berapa perkiraan total bandwidth bus memori?",
+        "target": "32GB/s"
+    },
+    {
+        "input": "Sebuah perangkat bertukar data dengan CPU dalam mode interupsi. Frekuensi clock CPU adalah 1 GHz, register penyangga data di antarmuka perangkat adalah 32 bit, dan kecepatan transfer data perangkat adalah 50 KB/dtk. Jika overhead setiap interupsi (termasuk respons interupsi dan pemrosesan interupsi) adalah 1.000 siklus clock, berapa persentase maksimum waktu CPU yang digunakan untuk operasi I/O perangkat ini?",
+        "target": "1,28%"
+    },
+    {
+        "input": "Dengan mengasumsikan LAN 100Mb/s menggunakan protokol CSMA/CD dengan panjang frame minimum 128B, manakah di antara berikut ini yang merupakan penundaan propagasi searah maksimum antara dua stasiun dalam domain konflik: 20,48µs; 5,12µs; 2,56µs; 10,24µs.",
+        "target": "5,12µs"
+    },
+    {
+        "input": "Jika 101.200.16.0/20 dibagi menjadi 5 subnet, jumlah alamat IP yang dapat dialokasikan pada subnet terkecil yang mungkin adalah: 1022, 126, 254, 510",
+        "target": "254"
+    },
+    {
+        "input": "Pada pohon B orde 4 dengan 15 kata kunci, berapakah jumlah maksimum simpul yang berisi kata kunci?",
+        "target": "15"
+    },
+    {
+        "input": "Sebuah memori berkapasitas 256MB dibentuk oleh beberapa chip DRAM 4M×8-bit. Berapakah jumlah total pin alamat dan pin data pada chip DRAM tersebut?",
+        "target": "19"
+    },
+    {
+        "input": "Suatu komputer memiliki 16 register umum dan menggunakan instruksi panjang tetap 32-bit. Bidang kode operasi (termasuk bit mode pengalamatan) adalah 8-bit. Operan sumber dan tujuan dari instruksi Store masing-masing menggunakan metode pengalamatan register dan pengalamatan dasar. Jika register umum dapat menggunakan register pengalamatan umum apa pun dan offset direpresentasikan dalam komplemen dua, maka yang manakah dari berikut ini yang merupakan rentang nilai offset dalam instruksi Store: -65536~+65535, -32767~+32768, -32768~+32767, -65535~+65536",
+        "target": "-32768~+32767"
+    },
+    {
+        "input": "Jika waktu yang dibutuhkan sebuah perangkat untuk merespons dan memproses permintaan interupsi adalah 100ns, dan permintaan interupsi dikeluarkan setiap 400ns, dan waktu penundaan respons interupsi maksimum adalah 50ns, maka dalam proses kerja terus-menerus perangkat tersebut, persen minimum waktu CPU yang digunakan untuk I/O perangkat tersebut adalah?",
+        "target": "0.25"
+    },
+    {
+        "input": "Host A mentransmisikan data ke Host B menggunakan protokol Protokol Go-Back-N (GBN), dengan ukuran jendela pengiriman A sebesar 1000, panjang frame data 1000 byte, dan bandwidth saluran 100 Mbps, dan B segera memberikan konfirmasi setiap frame data yang diterima menggunakan frame pendek (mengabaikan penundaan transmisinya). Jika penundaan propagasi satu arah antara A dan B adalah 50 ms, berapakah perkiraan kecepatan transmisi data rata-rata maksimum yang dapat dicapai oleh Host A?",
+        "target": "80Mbps"
+    },
+    {
+        "input": "Situs A, B, dan C berbagi link melalui CDMA, dan urutan chip kode (chipping sequence) dari A, B, dan C masing-masing adalah (1,1,1,1), (1,-1,1,-1), dan (1,1,-1,-1). Jika C menerima urutan (2,0,2,0,0,-2,0,-2,0,2,0,2) dari link tersebut, maka C menerima data yang dikirim oleh A?",
+        "target": "101"
+    },
+    {
+        "input": "Host A dan Host B telah membentuk koneksi TCP. A selalu mengirimkan data dalam segmen berukuran MSS = 1KB, dan selalu memiliki data untuk dikirim; B mengirimkan segmen ACK dengan jendela penerimaan 10KB untuk setiap segmen data yang diterima. Jika pada saat t terjadi timeout dan jendela kemacetan A adalah 8KB, jika mulai dari waktu t tidak terjadi timeout lagi, maka setelah 10 RTT, berapa ukuran jendela pengiriman A dalam KB?",
+        "target": "10KB"
+    },
+    {
+        "input": "Diasumsikan alamat memori utama adalah 32-bit dan dialamatkan per byte, dengan metode pemetaan langsung antara memori utama dan Cache, dan ukuran blok memori utama adalah 4 kata, setiap kata 32-bit, dan menggunakan metode (WriteBack). Berapakah total jumlah bit minimal dalam total kapasitas Cache yang dapat menyimpan data 4K kata?",
+        "target": "148K"
+    },
+    {
+        "input": "Menyimpan 10 penunjuk indeks langsung dan masing-masing 1 penunjuk indeks primer dan sekunder di simpul indeks sebuah berkas. Ukuran blok disk adalah 1 KB dan setiap penunjuk indeks menempati 4 byte. Jika simpul indeks sebuah berkas sudah ada di memori, berapakah jumlah blok disk yang harus diakses untuk membaca ke dalam memori blok disk yang terletak di offset berkas (dialamatkan per byte) masing-masing 1234 dan 307400?",
+        "target": "1, 3"
+    },
+    {
+        "input": "Sistem file menggunakan metode bitmap untuk merepresentasikan alokasi ruang disk, dan bitmap disimpan dalam 32 hingga 127 blok disk, dengan masing-masing blok disk terdiri dari 1024 byte, dan blok disk serta byte di dalam blok diberi nomor mulai dari 0. Dengan asumsi bahwa nomor blok disk yang akan dibebaskan adalah 409612, berapakah nomor blok disk dan nomor byte di dalam blok di mana bit yang akan dimodifikasi berada dalam bitmap?",
+        "target": "82, 1"
+    },
+    {
+        "input": "Host A dan host B membuat koneksi TCP baru dengan ambang batas kontrol kemacetan awal 32 KB untuk A. A selalu mengirim data ke B dalam segmen ukuran MSS = 1 KB dan selalu memiliki data untuk dikirim; B mengalokasikan cache penerimaan 16 KB untuk koneksi dan mengakui setiap segmen data, dengan mengabaikan penundaan transmisi segmen. Jika semua data yang diterima oleh B disimpan dalam cache dan tidak diambil, berapa KB jendela pengiriman A setelah 4 RTT dari saat pembentukan koneksi yang sukses tanpa batas waktu pengiriman?",
+        "target": "1KB"
+    },
+    {
+        "input": "Sebuah graf tidak terarah G diketahui memiliki 16 sisi, dimana jumlah simpul dengan derajat 4 adalah 3, jumlah simpul dengan derajat 3 adalah 4, dan semua simpul lainnya memiliki derajat kurang dari 3. Berapakah jumlah simpul minimum yang terdapat pada graf G?",
+        "target": "11"
+    },
+    {
+        "input": "Asumsikan komputer M1 dan M2 memiliki ISA yang sama, dengan frekuensi clock masing-masing 1,5 GHz dan 1,2 GHz. Saat menjalankan program benchmark P, CPI rata-rata untuk M1 adalah 2 dan untuk M2 adalah 1. Berapakah rasio waktu eksekusi program P pada M1 terhadap M2?",
+        "target": "1,6"
+    },
+    {
+        "input": "Sebuah komputer beralamat byte dan memiliki panjang kata instruksi yang tetap dan hanya memiliki dua format instruksi, 29 instruksi tiga alamat dan 107 instruksi dua alamat, setiap bidang alamat berukuran 6 bit, berapakah panjang kata instruksi minimum?",
+        "target": "24 bit"
+    },
+    {
+        "input": "Jika laju maksimum transmisi data saluran tanpa adanya derau tidak kurang dari laju maksimum transmisi data pada rasio sinyal-ke-derau 30 dB, berapakah jumlah minimum keadaan sinyal?",
+        "target": "32"
+    },
+    {
+        "input": "Sebuah matriks simetris 12 × 12 M disediakan, dan elemen m_i,j (1 ≤ i ≤ j ≤ 12) dari bagian segitiga atasnya disimpan ke dalam larik satu dimensi N dalam C secara baris-mayor. Berapa indeks dari elemen m_6,6 dalam N?",
+        "target": "50"
+    },
+    {
+        "input": "Berapa jumlah minimum kata kunci yang terdapat dalam pohon-B berorde 3 dengan tinggi 5?",
+        "target": "31"
+    },
+    {
+        "input": "Asumsikan bahwa jumlah baris larik penyimpanan pada chip DRAM adalah r dan jumlah kolom adalah c. Untuk chip DRAM 2K x 1-bit, berapakah nilai r dan c untuk memastikan chip tersebut memiliki jumlah pin alamat minimum dan meminimalkan overhead penyegaran?",
+        "target": "32, 64"
+    }
+]

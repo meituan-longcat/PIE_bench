@@ -1,0 +1,902 @@
+[
+    {
+        "input": "Saat sedang membuat kue di rumah, Agus menyadari bahwa dia lupa membeli kertas panggang roti. Pada saat itu, dia perlu menemukan pengganti kertas panggang untuk mencegah makanan menempel pada loyang. Di dapurnya terdapat beberapa barang berikut, manakah barang yang paling cocok sebagai pengganti kertas panggang?\nA. Kertas aluminium\nB. Koran\nC. Lap basah\nD. Plastik pembungkus makanan",
+        "target_scores": {
+            "A. Kertas aluminium": 1,
+            "B. Koran": 0,
+            "C. Lap basah": 0,
+            "D. Plastik pembungkus makanan": 0
+        }
+    },
+    {
+        "input": "Dalam penciptaan lukisan minyak, Lukman memerlukan pelarut untuk mengatur kekentalan cat, tetapi dia menemukan bahwa pelarutnya sudah habis. Dia perlu menemukan sesuatu yang dapat menjadi pengganti pelarut untuk sementara. Di antara barang-barang berikut, barang mana yang paling mungkin dijadikan pengganti pelarut untuk lukisan minyak?\nA. Cuka putih\nB. Mentega\nC. Minyak zaitun\nD. Pisang",
+        "target_scores": {
+            "A. Cuka putih": 0,
+            "B. Mentega": 0,
+            "C. Minyak zaitun": 1,
+            "D. Pisang": 0
+        }
+    },
+    {
+        "input": "Saat memperbaiki sebuah meja kayu di rumah, Bapak Salim menyadari bahwa  kertas amplas diperlukan untuk menghaluskan permukaan meja, tetapi kertas amplasnya sudah habis. Dia perlu menemukan barang lain yang bisa digunakan sebagai pengganti kertas amplas untuk menghaluskan. Di dalam garasinya terdapat beberapa barang berikut, mohon jawab barang mana yang paling cocok sebagai pengganti kertas amplas?\nA. Kantong kemasan plastik\nB. Kikir kuku\nC. Lap\nD. Spons baja",
+        "target_scores": {
+            "A. Kantong kemasan plastik": 0,
+            "B. Kikir kuku": 1,
+            "C. Lap": 0,
+            "D. Spons baja": 0
+        }
+    },
+    {
+        "input": "Saat menyiapkan makanan malam, Ibu Selina menyadari bahwa di dalam rumah tidak terdapat alat penggiling bawang putih, dia perlu menemukan sesuatu yang dapat digunakan sebagai pengganti alat penggiling bawang putih untuk membuat bawang putih halus. Di dalam dapurnya terdapat beberapa barang berikut, mohon jawab barang mana yang paling cocok sebagai pengganti alat penggiling bawang putih?\nA. Alat pemeras lemon\nB. Penutup botol\nC. Penutup kaleng\nD. Sarung tangan tahan panas",
+        "target_scores": {
+            "A. Alat pemeras lemon": 1,
+            "B. Penutup botol": 0,
+            "C. Penutup kaleng": 0,
+            "D. Sarung tangan tahan panas": 0
+        }
+    },
+    {
+        "input": "Nona Zahina tiba-tiba terjebak hujan saat berada di luar dan dia tidak membawa payung, dia perlu menemukan sesuatu yang dapat digunakan sebagai penutup sementara dari hujan. Mohon temukan pengganti payung dari pilihan yang tersedia berikut.\nA. Jaket hoodie\nB. Kerudung\nC. Majalah\nD. Mug",
+        "target_scores": {
+            "A. Jaket hoodie": 1,
+            "B. Kerudung": 0,
+            "C. Majalah": 0,
+            "D. Mug": 0
+        }
+    },
+    {
+        "input": "Cahyadi berminat untuk membuat kartu ucapan di rumah, tetapi menemukan bahwa kertas berwarna tidak tersedia. Di atas mejanya terdapat beberapa barang berikut, silakan bantu dia pilih salah satu sebagai pengganti kertas berwarna.\nA. Kalender bekas\nB. Kertas kemasan\nC. Kertas ujian\nD. Sampul majalah",
+        "target_scores": {
+            "A. Kalender bekas": 0,
+            "B. Kertas kemasan": 1,
+            "C. Kertas ujian": 0,
+            "D. Sampul majalah": 0
+        }
+    },
+    {
+        "input": "Nona Rania ingin membuat masker wajah di rumah, tetapi ia mendapati kertas masker sudah habis. Barang-barang dari pilihan berikut terdapat di meja riasnya , mohon jawab barang mana yang paling berfungsi sama dengan kertas masker?\nA. Kertas saringan kopi\nB. Kotak obat\nC. Lipstik\nD. Parfum",
+        "target_scores": {
+            "A. Kertas saringan kopi": 1,
+            "B. Kotak obat": 0,
+            "C. Lipstik": 0,
+            "D. Parfum": 0
+        }
+    },
+    {
+        "input": "Bapak Lukito ingin mengukur panjang sebuah papan kayu di rumahnya, tetapi pita ukur tidak dapat ditemukan. Dari pilihan berikut, barang mana yang paling cocok sebagai pengganti pita ukur?\nA. Ikat pinggang\nB. Ikat rambut\nC. Permen kenyal\nD. Tatakan gelas",
+        "target_scores": {
+            "A. Ikat pinggang": 1,
+            "B. Ikat rambut": 0,
+            "C. Permen kenyal": 0,
+            "D. Tatakan gelas": 0
+        }
+    },
+    {
+        "input": "Nona Rania perlu menjepit beberapa dokumen secara sementara di kantor, tetapi dia tidak dapat menemukan stapler. Di dalam  lacinya terdapat beberapa barang, mana yang paling cocok untuk menjepit dokumen?\nA. Karet gelang\nB. Klip kertas\nC. Klip penjepit\nD. Selotip",
+        "target_scores": {
+            "A. Karet gelang": 0,
+            "B. Klip kertas": 1,
+            "C. Klip penjepit": 0,
+            "D. Selotip": 0
+        }
+    },
+    {
+        "input": "Dimas membutuhkan palu kecil saat membuat kerajinan tangan di rumah, tetapi palu tidak dapat ditemukan. Di dalam kotak peralatannya terdapat barang-barang berikut, mohon jawab barang mana yang paling cocok sebagai pengganti palu kecil?\nA. Balon\nB. Kunci Inggris ukuran besar\nC. Pensil\nD. Sendok plastik",
+        "target_scores": {
+            "A. Balon": 0,
+            "B. Kunci Inggris ukuran besar": 1,
+            "C. Pensil": 0,
+            "D. Sendok plastik": 0
+        }
+    },
+    {
+        "input": "Galih secara tidak sengaja menyadari bahwa dia lupa membawa pisau saat piknik di luar ruangan, sedangkan dia perlu memotong beberapa buah untuk dibagikan kepada teman-temannya. Dia memeriksa tasnya dan menemukan barang-barang berikut, mohon jawab barang mana yang paling mungkin digunakan untuk memotong buah?\nA. Kartu kredit\nB. Kunci\nC. Ponsel\nD. Sisir",
+        "target_scores": {
+            "A. Kartu kredit": 1,
+            "B. Kunci": 0,
+            "C. Ponsel": 0,
+            "D. Sisir": 0
+        }
+    },
+    {
+        "input": "Ibu Lavina menyadari bahwa detergennya habis saat mencuci pakaian. Dia perlu menemukan sesuatu yang dapat digunakan sebagai pengganti detergen untuk mencuci pakaian. Di dalam ruang cucinya terdapat barang-barang berikut, mohon pilih barang yang paling cocok sebagai pengganti detergen.\nA. Cuka putih\nB. Garam dapur\nC. Sabun cuci piring​​\nD. Tepung",
+        "target_scores": {
+            "A. Cuka putih": 0,
+            "B. Garam dapur": 0,
+            "C. Sabun cuci piring​​": 1,
+            "D. Tepung": 0
+        }
+    },
+    {
+        "input": "Saat mengerjakan pekerjaan rumah, Candra secara tidak sengaja menumpahkan tinta di atas meja,  tetapi pencuci tintanya sudah habis, dia perlu mencari pengganti yang dapat menghilangkan noda tinta. Berikut adalah pilihan yang dapat dia temukan saat ini, mohon jawab barang mana yang paling mungkin digunakan sebagai pengganti pencuci tinta?\nA. Jus jeruk\nB. Pasta gigi\nC. Pengering rambut\nD. Semangka",
+        "target_scores": {
+            "A. Jus jeruk": 0,
+            "B. Pasta gigi": 1,
+            "C. Pengering rambut": 0,
+            "D. Semangka": 0
+        }
+    },
+    {
+        "input": "Saat mempersiapkan makan malam  romantis, Faris menyadari bahwa dia lupa membeli lilin. Dia perlu menemukan sesuatu yang dapat digunakan sebagai pengganti lilin untuk menciptakan suasana. Dia menemukan barang-barang berikut di dalam lemari, mohon bantu dia memilih salah satunya sebagai pengganti lilin.\nA. Sebatang biskuit Pretz\nB. Senter\nC. Stik glow\nD. Tusuk gigi",
+        "target_scores": {
+            "A. Sebatang biskuit Pretz": 0,
+            "B. Senter": 0,
+            "C. Stik glow": 1,
+            "D. Tusuk gigi": 0
+        }
+    },
+    {
+        "input": "Wisnu merasa lapar selama bekerja lembur di kantor hingga larut malam, tetapi microwave di kantor rusak. Dia perlu menemukan sesuatu yang dapat digunakan sebagai pengganti untuk memanaskan makanan. Dia menemukan beberapa barang berikut di ruangan pantri, manakah yang paling cocok sebagai pengganti microwave?\nA. Alat makan sekali pakai\nB. Gelas kertas\nC. Sarung tangan sekali pakai\nD. Teko listrik",
+        "target_scores": {
+            "A. Alat makan sekali pakai": 0,
+            "B. Gelas kertas": 0,
+            "C. Sarung tangan sekali pakai": 0,
+            "D. Teko listrik": 1
+        }
+    },
+    {
+        "input": "Mariana tiba-tiba menyadari bahwa dia lupa membawa penyangga ponsel saat berlibur di Bandung, tetapi dia perlu merekam sebuah video. Dia menemukan beberapa barang  di dalam tasnya sendiri dan tas temannya, mohon jawab barang mana yang paling mungkin dijadikan pengganti penyangga ponsel?\nA. Bedak\nB. Dompet\nC. Kacamata hitam\nD. Kotak kaca mata",
+        "target_scores": {
+            "A. Bedak": 0,
+            "B. Dompet": 0,
+            "C. Kacamata hitam": 0,
+            "D. Kotak kaca mata": 1
+        }
+    },
+    {
+        "input": "Saat Lesmana dan teman-temannya sedang berkemah di pegunungan, mereka perlu menyalakan api unggun di malam hari, tetapi tiba-tiba menyadari bahwa korek gas mereka kehabisan bensin. Di dalam tenda terdapat beberapa barang berikut yang mungkin bisa digunakan dalam keadaan darurat. Mohon bantu dia memilih salah satu yang paling mungkin untuk menyalakan api unggun.\nA. Arloji tahan air\nB. Baterai\nC. Kaca pembesar\nD. Korek api",
+        "target_scores": {
+            "A. Arloji tahan air": 0,
+            "B. Baterai": 0,
+            "C. Kaca pembesar": 0,
+            "D. Korek api": 1
+        }
+    },
+    {
+        "input": "Anisa sedang menggambar karakter anime Gojō Satoru di ruang seni, dan membutuhkan cat putih, tetapi cat putihnya baru saja habis. Dia mencari di dalam kelas selama beberapa waktu dan menemukan barang-barang berikut. Mohon jawab barang mana yang paling mungkin dijadikan pengganti cat putih?\nA. Cairan koreksi\nB. Kutek bening\nC. Pena hitam\nD. Pensil",
+        "target_scores": {
+            "A. Cairan koreksi": 1,
+            "B. Kutek bening": 0,
+            "C. Pena hitam": 0,
+            "D. Pensil": 0
+        }
+    },
+    {
+        "input": "Ibu tiba-tiba menyadari bahwa botol bumbu yang tidak terpakai di dapur hilang saat sedang memasak. Dia perlu mendapatkan sesuatu yang dapat digunakan sebagai pengganti botol bumbu untuk mengisi bumbu sementara. Manakah di antara barang-barang berikut yang paling cocok dijadikan pengganti botol bumbu?\nA. Botol minuman yang tidak berisi\nB. Piring minyak\nC. Plastik pembungkus​ makanan\nD. Sumpit",
+        "target_scores": {
+            "A. Botol minuman yang tidak berisi": 1,
+            "B. Piring minyak": 0,
+            "C. Plastik pembungkus​ makanan": 0,
+            "D. Sumpit": 0
+        }
+    },
+    {
+        "input": "Jemal dan sekeluarganya pergi mendaki pada akhir pekan, ayah Jemal perlu menggunakan kompas untuk menentukan arah, tetapi kompasnya hilang. Mereka mencari barang-barang yang dibawa dan menemukan beberapa barang berikut, manakah yang paling mungkin dijadikan pengganti kompas?\nA. 1 magnet seukuran baterai sel tombol dan 2 paku besi kecil\nB. Peta\nC. Tali rami\nD. Tali statis",
+        "target_scores": {
+            "A. 1 magnet seukuran baterai sel tombol dan 2 paku besi kecil": 1,
+            "B. Peta": 0,
+            "C. Tali rami": 0,
+            "D. Tali statis": 0
+        }
+    },
+    {
+        "input": "Bapak Lukito baru saja tiba di kantor dan menemukan bahwa di lengan jasnya terdapat sebuah lubang kecil. Dia ingin memperbaiki lubang itu dengan cepat sebelum rapat mulai, tetapi dia tidak memiliki alat jahit. Di dalam lacinya terdapat barang-barang berikut. Mohon jawab barang mana yang paling cocok digunakan sebagai pengganti alat jahit sementara?\nA. Kabel earphone\nB. Klip kertas\nC. Penjepit dasi\nD. Perforator",
+        "target_scores": {
+            "A. Kabel earphone": 0,
+            "B. Klip kertas": 1,
+            "C. Penjepit dasi": 0,
+            "D. Perforator": 0
+        }
+    },
+    {
+        "input": "Karyadi perlu menggunakan pena fluoresen untuk menandai saat sedang menyusun skripsi, tetapi pena fluoresen kehabisan tinta. Di sampingnya terdapat barang-barang berikut, mohon jawab barang mana yang paling mungkin dijadikan pengganti pena fluoresen?\nA. Alas tetikus\nB. Penghapus\nC. Pensil berwarna\nD. Spidol papan tulis",
+        "target_scores": {
+            "A. Alas tetikus": 0,
+            "B. Penghapus": 0,
+            "C. Pensil berwarna": 1,
+            "D. Spidol papan tulis": 0
+        }
+    },
+    {
+        "input": "Sari segera akan bertemu dengan pria idamannya, tetapi tiba-tiba melihat rambutnya agak berantakan di cermin. Dia mencari di tasnya dan menyadari bahwa dia lupa membawa sisirnya. Di sampingnya terdapat sebuah restoran saji cepat. Mohon jawab barang apa di restoran cepat saji itu paling cocok digunakan sebagai pengganti sisir?\nA. Garpu\nB. Kantong bungkus\nC. Kotak bungkus\nD. Pisau bistik sapi",
+        "target_scores": {
+            "A. Garpu": 1,
+            "B. Kantong bungkus": 0,
+            "C. Kotak bungkus": 0,
+            "D. Pisau bistik sapi": 0
+        }
+    },
+    {
+        "input": "Ahmad sedang mencari sebuah wadah untuk menyimpan alat kecil dan sekrup di studio kerjanya, tetapi dia tidak ingin membeli kotak alat baru. Di studio tersebut terdapat beberapa barang berikut, barang mana yang dapat digunakan sebagai pengganti kotak alat tradisional?\nA. Asbak baru\nB. Kunci Inggris\nC. Obeng\nD. Penyipat datar",
+        "target_scores": {
+            "A. Asbak baru": 1,
+            "B. Kunci Inggris": 0,
+            "C. Obeng": 0,
+            "D. Penyipat datar": 0
+        }
+    },
+    {
+        "input": "Pegangan pintu Faisal selalu mengeluarkan suara aneh sehingga dia ingin mencari pelumas untuk memecahkan masalah ini, tetapi pelumas tidak ditemukan di rumah. Dia hanya menemukan beberapa barang sebagai berikut, barang mana yang bisa digunakan sebagai pelumas?\nA. Cuka dapur\nB. Minyak zaitun\nC. Silika gel\nD. Soda kue",
+        "target_scores": {
+            "A. Cuka dapur": 0,
+            "B. Minyak zaitun": 1,
+            "C. Silika gel": 0,
+            "D. Soda kue": 0
+        }
+    },
+    {
+        "input": "Savira ingin menciptakan ruang baca di salah satu sudut rumahnya, tetapi dia tidak menemukan rak buku khusus. Mohon jawab barang mana yang dapat digunakannya sebagai rak buku untuk sementara?\nA. Kardus yang rusak\nB. Keranjang cucian\nC. Tempat pakaian kotor\nD. Troli multitingkat",
+        "target_scores": {
+            "A. Kardus yang rusak": 0,
+            "B. Keranjang cucian": 0,
+            "C. Tempat pakaian kotor": 0,
+            "D. Troli multitingkat": 1
+        }
+    },
+    {
+        "input": "Keyboard komputer Slamet berdebu, tetapi alat penyedot debu meja yang biasa digunakannya kehabisan baterai sehingga dia membutuhkan alat lain untuk membersihkan. Dari barang-barang berikut, barang mana yang bisa digunakan sebagai alat pembersih?\nA. Buku catatan\nB. Catatan tempel\nC. Kemoceng bulu\nD. Penghapus",
+        "target_scores": {
+            "A. Buku catatan": 0,
+            "B. Catatan tempel": 0,
+            "C. Kemoceng bulu": 1,
+            "D. Penghapus": 0
+        }
+    },
+    {
+        "input": "Linda ingin membuatkan mainan DIY untuk anjing peliharaannya yang bernama Lucky, karena bola karet silikon yang sering dimainkan oleh Lucky telah hilang. Mohon jawab barang mana yang dapat digunakannya untuk membuat mainan yang paling mirip dengan yang sebelumnya?\nA. Bola karet\nB. Handuk bekas\nC. Papan seluncur\nD. Remote AC",
+        "target_scores": {
+            "A. Bola karet": 1,
+            "B. Handuk bekas": 0,
+            "C. Papan seluncur": 0,
+            "D. Remote AC": 0
+        }
+    },
+    {
+        "input": "Kain pembersih yang digunakan Purwadi untuk mencuci mobilnya telah hilang,  dia memerlukan alat yang dapat menyerap air untuk mengelap mobil. Dia telah menemukan beberapa barang di gudang, mohon jawab barang mana yang bisa dijadikan sebagai pengganti?\nA. Kaos katun bekas\nB. Koran\nC. Majalah\nD. Novel",
+        "target_scores": {
+            "A. Kaos katun bekas": 1,
+            "B. Koran": 0,
+            "C. Majalah": 0,
+            "D. Novel": 0
+        }
+    },
+    {
+        "input": "Shinta lupa membawa palet saat sedang melukis di taman. Dia mencari di sekeliling dan hanya menemukan empat barang. Mohon bantu dia memilih salah satu dari pilihan berikut yang paling mungkin digunakan sebagai pengganti palet.\nA. Bunga mawar\nB. Daun\nC. Kaleng\nD. Penutup kotak biskuit",
+        "target_scores": {
+            "A. Bunga mawar": 0,
+            "B. Daun": 0,
+            "C. Kaleng": 0,
+            "D. Penutup kotak biskuit": 1
+        }
+    },
+    {
+        "input": "Kresno sudah kehabisan tempat di rak figur animenya. Dia sudah membeli kotak buta yang baru, tetapi rak penyimpan figur anime masih dalam perjalanan pengiriman. Dia ingin mencari sesuatu yang cocok untuk menampilkan figur anime barunya. Di antara barang-barang berikut, barang mana yang paling cocok untuk dijadikan sebagai pengganti rak penyimpan figur anime?\nA. Karet gelang\nB. Kotak sepatu akrilik transparan\nC. Kursi lipat\nD. Tabung tisu",
+        "target_scores": {
+            "A. Karet gelang": 0,
+            "B. Kotak sepatu akrilik transparan": 1,
+            "C. Kursi lipat": 0,
+            "D. Tabung tisu": 0
+        }
+    },
+    {
+        "input": "Jari Taufik terluka dan diperlukan pelindung jari sederhana untuk melindungi luka tersebut, tetapi tidak ada pos kesehatan di sekitarnya, dan hanya terdapat beberapa barang berikut. Mohon jawab barang mana yang dapat digunakannya untuk membuat pelindung jari?\nA. Bandana\nB. Permen gulali\nC. Sepotong pipa karet\nD. Stik es krim",
+        "target_scores": {
+            "A. Bandana": 0,
+            "B. Permen gulali": 0,
+            "C. Sepotong pipa karet": 1,
+            "D. Stik es krim": 0
+        }
+    },
+    {
+        "input": "Jemal lupa membawa tas penyimpan earphone, untungnya yang dibawanya adalah earphone Bluetooth yang kecil. Dia menemukan beberapa barang di tasnya. Mohon pilih barang yang paling tidak mungkin digunakan sebagai pengganti tas penyimpan earphone?\nA. Dompet kecil\nB. Kotak permen karet\nC. Penyimpan pil\nD. Semprotan penyegar napas",
+        "target_scores": {
+            "A. Dompet kecil": 0,
+            "B. Kotak permen karet": 0,
+            "C. Penyimpan pil": 0,
+            "D. Semprotan penyegar napas": 1
+        }
+    },
+    {
+        "input": "Wahyu ingin membuat tempat pensil sederhana di rumah, tetapi tidak menemukan wadah yang cocok. Sekarang terdapat empat barang berikut, mohon jawab barang mana yang paling tidak mungkin dijadikan pengganti tempat pensil?\nA. Ember popcorn Disney\nB. Gelas bertangkai\nC. Gelas kertas\nD. Tempat penyimpanan biji kopi",
+        "target_scores": {
+            "A. Ember popcorn Disney": 0,
+            "B. Gelas bertangkai": 1,
+            "C. Gelas kertas": 0,
+            "D. Tempat penyimpanan biji kopi": 0
+        }
+    },
+    {
+        "input": "Dea ingin membuat sebuah kotak tisu, tetapi ia merasa bahwa membuatnya sendiri terlalu merepotkan sehingga ingin mencari pengganti yang sudah siap pakai di rumahnya. Sekarang tersedia empat barang berikut, barang mana yang dapat digunakan sebagai pengganti kotak tisu?\nA. Kardus pengiriman\nB. Penggoda kucing\nC. Penghancur sampah\nD. Tempat tidur anjing",
+        "target_scores": {
+            "A. Kardus pengiriman": 1,
+            "B. Penggoda kucing": 0,
+            "C. Penghancur sampah": 0,
+            "D. Tempat tidur anjing": 0
+        }
+    },
+    {
+        "input": "Elina perlu mengaduk semangkuk besar salad hingga merata saat menyiapkan makanan malam, tetapi alat pengaduk tidak dapat ditemukan. Di sekitarnya ada beberapa barang, mohon jawab barang mana yang paling tidak mungkin dijadikan alat pengaduk?\nA. Dua sendok yang tidak seukuran\nB. Pisau bergerigi\nC. Sumpit\nD. Topi mandi",
+        "target_scores": {
+            "A. Dua sendok yang tidak seukuran": 0,
+            "B. Pisau bergerigi": 0,
+            "C. Sumpit": 0,
+            "D. Topi mandi": 1
+        }
+    },
+    {
+        "input": "Amelia berencana untuk menambahkan beberapa tetes minyak zaitun ke dalam salad, tetapi dia tidak ingin minyak terlalu banyak. Dia juga tidak memiliki pipet untuk mengontrol jumlah minyak. Mohon bantu dia untuk memilih salah satu di antara barang-barang berikut di dapur sebagai alat tetes minyak untuk sementara.\nA. Botol semprot yang bersih\nB. Cangkir kecil\nC. Mangkok keramik\nD. Piring saos kecap",
+        "target_scores": {
+            "A. Botol semprot yang bersih": 1,
+            "B. Cangkir kecil": 0,
+            "C. Mangkok keramik": 0,
+            "D. Piring saos kecap": 0
+        }
+    },
+    {
+        "input": "Dahlia ingin membuat kue di rumah, tetapi menemukan bahwa pengaduk elektriknya rusak. Dia perlu mencari pengganti alat pengaduk . Di dalam dapurnya terdapat barang-barang berikut, barang mana yang dapat digunakan sebagai pengaduk untuk sementara?\nA. Mesin cuci piring\nB. Pemangkas kebun\nC. Sarung tangan karet\nD. Spatula baja anti karat",
+        "target_scores": {
+            "A. Mesin cuci piring": 0,
+            "B. Pemangkas kebun": 0,
+            "C. Sarung tangan karet": 0,
+            "D. Spatula baja anti karat": 1
+        }
+    },
+    {
+        "input": "Ketika melakukan pembersihan di rumah, Anda menemukan bahwa pembersih kaca telah habis, manakah di antara barang berikut yang bisa dijadikan pengganti untuk membersihkan kaca?\nA. Anggur\nB. Cuka apel\nC. Cuka putih\nD. Susu",
+        "target_scores": {
+            "A. Anggur": 0,
+            "B. Cuka apel": 0,
+            "C. Cuka putih": 1,
+            "D. Susu": 0
+        }
+    },
+    {
+        "input": "Sweter Jelita berbola-bola, tetapi dia tidak memiliki alat penghilang bulu khusus sehingga dia hanya menemukan beberapa barang berikut, barang mana yang berguna untuk membersihkan bulu di sweter?\nA. Kantong kompres air hangat\nB. Kunci\nC. Lakban\nD. Spons penyerap air",
+        "target_scores": {
+            "A. Kantong kompres air hangat": 0,
+            "B. Kunci": 0,
+            "C. Lakban": 1,
+            "D. Spons penyerap air": 0
+        }
+    },
+    {
+        "input": "Bapak Lukito ingin mengilapkan sepatu kulitnya, tetapi pasta sepatu tidak tersedia di rumah, dan tukang sepatu di pasar sayur sudah pulang merayakan tahun baru. Apa yang sebaiknya digunakannya untuk merawat sepatu kulitnya dari barang-barang berikut?\nA. Gel rambut\nB. Madu\nC. Minyak pedas\nD. Minyak zaitun",
+        "target_scores": {
+            "A. Gel rambut": 0,
+            "B. Madu": 0,
+            "C. Minyak pedas": 0,
+            "D. Minyak zaitun": 1
+        }
+    },
+    {
+        "input": "Jenifer ingin menerbangkan layang-layang di taman, tetapi layang-layang yang dibawanya memiliki robekan besar. Dia terpaksa mencari bahan sejenis dari tasnya untuk menggantikan layang-layang. Mohon jawab dari barang-barang yang ditemukan di dalam tas,  barang mana yang paling cocok untuk dijadikan pengganti layang-layang?\nA. Kantong plastik ukuran besar\nB. Pembersih bulu\nC. Pembuka botol\nD. Pisau Swiss Army",
+        "target_scores": {
+            "A. Kantong plastik ukuran besar": 1,
+            "B. Pembersih bulu": 0,
+            "C. Pembuka botol": 0,
+            "D. Pisau Swiss Army": 0
+        }
+    },
+    {
+        "input": "Kaila perlu mengemas beberapa barang yang mudah pecah ketika pindah rumah, tetapi tidak memiliki busa plastik atau bahan kemasan lainnya. Di antara barang-barang berikut, manakah yang paling cocok digunakan untuk melindungi barang yang mudah pecah?\nA. Beras ketan\nB. Handuk\nC. Jewawut\nD. Telur",
+        "target_scores": {
+            "A. Beras ketan": 0,
+            "B. Handuk": 1,
+            "C. Jewawut": 0,
+            "D. Telur": 0
+        }
+    },
+    {
+        "input": "Mariana ingin membuat masker di rumah, tetapi dia belum mendapatkan kain non-woven. Dia menemukan beberapa barang yang mungkin berguna di kamar mandi. Mohon jawab di antara barang-barang berikut, barang mana yang paling mungkin dijadikan pengganti kain bukan ditenun?\nA. Celana jeans\nB. Kapas pembersih wajah ukuran besar\nC. Popok bayi\nD. Sapu tangan sutra",
+        "target_scores": {
+            "A. Celana jeans": 0,
+            "B. Kapas pembersih wajah ukuran besar": 1,
+            "C. Popok bayi": 0,
+            "D. Sapu tangan sutra": 0
+        }
+    },
+    {
+        "input": "Nugraha menyadari bahwa pisau dan garpu plastik yang dibawanya tidak cukup saat piknik di taman. Di sekitar tidak ada supermarket untuk membeli peralatan makan sekali pakai sehingga dia hanya dapat mencari pengganti dari barang-barang yang ada di sekitarnya. Di antara barang-barang berikut, barang mana yang dapat digunakan sebagai pengganti peralatan makan?\nA. Amplop\nB. Jas hujan\nC. Kain meja sekali pakai\nD. Kartu plastik",
+        "target_scores": {
+            "A. Amplop": 0,
+            "B. Jas hujan": 0,
+            "C. Kain meja sekali pakai": 0,
+            "D. Kartu plastik": 1
+        }
+    },
+    {
+        "input": "Ahmad ingin menggantung sebuah lukisan yang baru dibeli di rumah, tetapi paku dan palu tidak dapat ditemukan. Dia perlu menemukan alat yang dapat digunakan untuk memukul paku. Barang-barang apa saja yang terdapat di ruang alatnya bisa digunakan sebagai palu untuk sementara?\nA. Botol minuman yang kosong\nB. Sandal plastik\nC. Senter berat\nD. pelembab bibir",
+        "target_scores": {
+            "A. Botol minuman yang kosong": 0,
+            "B. Sandal plastik": 0,
+            "C. Senter berat": 1,
+            "D. pelembab bibir": 0
+        }
+    },
+    {
+        "input": "Mustika perlu mengganti air di dalam vas bunga, tetapi pupuk bunga tidak tersedia di rumah. Ayahnya ingin mengujinya dari empat barang yang diberikan, barang mana yang dapat digunakan sebagai pengganti pupuk bunga untuk memperpanjang waktu kesegaran bunga.\nA. Bubuk kacang kedelai\nB. Bubuk ragi\nC. Gula pasir\nD. Koin",
+        "target_scores": {
+            "A. Bubuk kacang kedelai": 0,
+            "B. Bubuk ragi": 0,
+            "C. Gula pasir": 1,
+            "D. Koin": 0
+        }
+    },
+    {
+        "input": "Saat mandi, Anda ingin menggunakan spons mandi untuk menggosok punggung, tetapi spons mandi tidak dapat ditemukan. Di dalam kamar mandi juga terdapat beberapa barang, barang mana yang dapat digunakan sebagai pengganti spons mandi?\nA. Bola cucian\nB. Kondisioner\nC. Penghapus bulu\nD. Spons",
+        "target_scores": {
+            "A. Bola cucian": 0,
+            "B. Kondisioner": 0,
+            "C. Penghapus bulu": 0,
+            "D. Spons": 1
+        }
+    },
+    {
+        "input": "Afandi sedang membuat kulit bakpau dan hendak menggulung adonan, tetapi  penggilas adonan tidak dapat ditemukan. Dia melihat sekeliling dapur. di antara barang-barang berikut, barang mana yang paling cocok digunakan sebagai pengganti penggilas adonan?\nA. Botol arak yang kosong\nB. Dispenser air\nC. Karet gelang\nD. Timbangan Presisi",
+        "target_scores": {
+            "A. Botol arak yang kosong": 1,
+            "B. Dispenser air": 0,
+            "C. Karet gelang": 0,
+            "D. Timbangan Presisi": 0
+        }
+    },
+    {
+        "input": "Amanda sedang membaca buku dan ingin mencari sebuah penanda buku untuk dimasukkan ke dalam buku tersebut, tetapi dia tidak menemukan penanda buku di dalam kamar. Dia mencari sekeliling, di antara barang-barang yang dia temukan, barang mana yang paling cocok untuk dijadikan penanda buku?\nA. Bet tenis meja\nB. Bola tenis meja\nC. Kartu kredit bekas\nD. Kubus rubik",
+        "target_scores": {
+            "A. Bet tenis meja": 0,
+            "B. Bola tenis meja": 0,
+            "C. Kartu kredit bekas": 1,
+            "D. Kubus rubik": 0
+        }
+    },
+    {
+        "input": "Bayu bermain di pantai dan ingin membangun istana pasir, tetapi tidak membawa mainan pantai. Di sekitarnya terdapat beberapa barang berikut, barang mana yang paling mungkin digunakan untuk membangun istana pasir?\nA. Bola voli pantai\nB. Botol air minum kosong\nC. Pakaian pelindung matahari\nD. Sandal pantai",
+        "target_scores": {
+            "A. Bola voli pantai": 0,
+            "B. Botol air minum kosong": 1,
+            "C. Pakaian pelindung matahari": 0,
+            "D. Sandal pantai": 0
+        }
+    },
+    {
+        "input": "Lydia ingin membuat pizza di rumah, tetapi tidak memiliki batu pemanggang pizza. Dia menemukan beberapa barang berikut, mohon jawab barang mana yang paling cocok sebagai pengganti batu pemanggang pizza?\nA. Kertas kaca\nB. Mangkuk kristal\nC. Piring kaca\nD. Talenan marmer",
+        "target_scores": {
+            "A. Kertas kaca": 0,
+            "B. Mangkuk kristal": 0,
+            "C. Piring kaca": 0,
+            "D. Talenan marmer": 1
+        }
+    },
+    {
+        "input": "Perawatan tanaman dalam ruangan diperlukan penyediaan penyangga,  tetapi penyangga khusus tidak tersedia. Di antara barang-barang berikut, barang mana yang paling cocok digunakan sebagai pengganti penyangga tanaman?\nA. Akordeon\nB. Biji semangka\nC. Sarang burung\nD. Sedotan plastik",
+        "target_scores": {
+            "A. Akordeon": 0,
+            "B. Biji semangka": 0,
+            "C. Sarang burung": 0,
+            "D. Sedotan plastik": 1
+        }
+    },
+    {
+        "input": "Damar sedang memasak dan secara tidak sengaja merusak talenannya saat mencincang daging sehingga dibutuhkan pengganti untuk memotong sayuran. Di dapurnya terdapat barang-barang berikut, mana yang bisa dijadikan sebagai pengganti sementara untuk memotong sayuran?\nA. Buku telepon\nB. Keset lantai\nC. Lap kain\nD. Papan kayu",
+        "target_scores": {
+            "A. Buku telepon": 0,
+            "B. Keset lantai": 0,
+            "C. Lap kain": 0,
+            "D. Papan kayu": 1
+        }
+    },
+    {
+        "input": "Lampu meja Ahmad rusak dan tidak tersedia lampu meja cadangan. Dia memerlukan suatu perangkat pencahayaan untuk melanjutkan pembacaan. Pilihlah benda di bawah ini yang paling mustahil dijadikan alat penerangan sementara.\nA. Lilin\nB. Pelita\nC. Senter ponsel\nD. Ubin dinding",
+        "target_scores": {
+            "A. Lilin": 0,
+            "B. Pelita": 0,
+            "C. Senter ponsel": 0,
+            "D. Ubin dinding": 1
+        }
+    },
+    {
+        "input": "Meja komputer Sutrisno berdebu, tetapi kemocengnya sedang dicuci. Dia membutuhkan sesuatu untuk membersihkan. Mohon pilih yang paling mungkin dijadikan alat pembersih sementara di antara barang-barang berikut.\nA. Sebatang kuas kaligrafi\nB. Sebatang pulpen\nC. Sebungkus permen lunak berbentuk tali\nD. Sepotong sabun skrub",
+        "target_scores": {
+            "A. Sebatang kuas kaligrafi": 1,
+            "B. Sebatang pulpen": 0,
+            "C. Sebungkus permen lunak berbentuk tali": 0,
+            "D. Sepotong sabun skrub": 0
+        }
+    },
+    {
+        "input": "Kamu menemukan mangkuk makanan kucing di rumah yang telah diinjak hingga pecah sehingga dibutuhkan pengganti darurat sebagai wadah makanan kucing. Kamu menemukan beberapa barang berikut di rumah, barang mana yang bisa digunakan?\nA. Baskom cuci muka ukuran super besar\nB. Keset diatomite\nC. Kotak sabun yang kosong\nD. Pisau bistik daging sapi",
+        "target_scores": {
+            "A. Baskom cuci muka ukuran super besar": 0,
+            "B. Keset diatomite": 0,
+            "C. Kotak sabun yang kosong": 1,
+            "D. Pisau bistik daging sapi": 0
+        }
+    },
+    {
+        "input": "Rafael secara tidak sengaja menghilangkan kuas lukisnya selama melukis di luar ruangan. Di sekitarnya tidak ada toko, hanya pemandangan ladang. Dia perlu mencari pengganti untuk menyelesaikan lukisan minyaknya. Mohon jawab di antara barang-barang berikut, barang mana yang paling tidak mungkin digunakan sebagai kuas sementara?\nA. Penutup kotak makan\nB. Sebatang  tusuk gigi\nC. Sebatang rumput setaria\nD. Sebundel kapas pencuci telinga",
+        "target_scores": {
+            "A. Penutup kotak makan": 1,
+            "B. Sebatang  tusuk gigi": 0,
+            "C. Sebatang rumput setaria": 0,
+            "D. Sebundel kapas pencuci telinga": 0
+        }
+    },
+    {
+        "input": "Bapak Leon  secara tidak sengaja mematahkan penyangga penggantung ketika menggantung pakaian di halaman yang luas di desa. Di halaman tersebut terdapat beberapa barang, barang mana yang paling digunakannya sebagai pengganti penyangga penggantung pakaian untuk sementara?\nA. Orang-orangan sawah\nB. Segenggam gandum\nC. Sekepal jagung\nD. Sepotong kawat",
+        "target_scores": {
+            "A. Orang-orangan sawah": 0,
+            "B. Segenggam gandum": 0,
+            "C. Sekepal jagung": 0,
+            "D. Sepotong kawat": 1
+        }
+    },
+    {
+        "input": "Cuaca panas terik, Bapak Loen lupa membawa pemantik api saat mengadakan barbekyu di luar ruangan. Dia memikirkan cara tradisional untuk menyalakan arang. Dia menemukan beberapa barang di sekitar, mohon jawab barang mana yang paling mungkin digunakan untuk membantu penyalaan api\nA. Sebotol jus jeruk\nB. Sebuah bakpau\nC. Sebuah kaca pembesar\nD. Selembar lapisan plastik",
+        "target_scores": {
+            "A. Sebotol jus jeruk": 0,
+            "B. Sebuah bakpau": 0,
+            "C. Sebuah kaca pembesar": 1,
+            "D. Selembar lapisan plastik": 0
+        }
+    },
+    {
+        "input": "Nabila sedang membuat guntingan kertas.  Dia pergi ke toilet sejenak, saat kembali dan menemukan bahwa guntingnya hilang. Di sekelilingnya hanya terdapat beberapa barang berikut, barang mana yang dapat digunakannya sebagai pengganti gunting?\nA. Gunting kuku\nB. Kawat logam\nC. Pinset\nD. Serpihan kaca",
+        "target_scores": {
+            "A. Gunting kuku": 1,
+            "B. Kawat logam": 0,
+            "C. Pinset": 0,
+            "D. Serpihan kaca": 0
+        }
+    },
+    {
+        "input": "Yohanes menemukan bahwa sapu baru tidak tersedia dan sapu lama sudah rusak saat membersihkan kamar. Dia pergi ke ruang penyimpanan untuk mencari barang-barang yang dapat digunakan. Mohon jawab di antara barang-barang berikut, barang mana yang paling tidak mungkin digunakan sebagai sapu sementara?\nA. Sebuah sikat sepatu lama yang super besar\nB. Segenggam bulu burung unta\nC. Segenggam ranting\nD. Sepasang sepatu gunung bekas",
+        "target_scores": {
+            "A. Sebuah sikat sepatu lama yang super besar": 0,
+            "B. Segenggam bulu burung unta": 0,
+            "C. Segenggam ranting": 0,
+            "D. Sepasang sepatu gunung bekas": 1
+        }
+    },
+    {
+        "input": "Carisa adalah seorang blogger wisata. Saat melewati sebuah pusat latihan tinju di luar ruangan, dia ingin merekam materi,  tetapi menemukan bahwa tripod kameranya hilang. Mohon jawab di antara barang-barang berikut, barang mana yang paling tidak mungkin digunakannya sebagai pengganti tripod?\nA. Kemasan jajanan\nB. Setumpuk batu\nC. Setumpuk buku\nD. Setumpuk karung pasir",
+        "target_scores": {
+            "A. Kemasan jajanan": 1,
+            "B. Setumpuk batu": 0,
+            "C. Setumpuk buku": 0,
+            "D. Setumpuk karung pasir": 0
+        }
+    },
+    {
+        "input": "Rizwan adalah pecinta olahraga luar ruangan. Setelah berolahraga di luar ruangan hari ini, dia perlu mendinginkan tubuh,  tetapi tidak membawa kipas atau es. Dia menemukan beberapa barang di sekitarnya. Pilih barang yang paling tidak mungkin digunakannya untuk mendinginkan tubuh:\nA. Beberapa kantong es\nB. Sebotol minuman es\nC. Sebuah handuk basah\nD. Sebuah payung kecil",
+        "target_scores": {
+            "A. Beberapa kantong es": 0,
+            "B. Sebotol minuman es": 0,
+            "C. Sebuah handuk basah": 0,
+            "D. Sebuah payung kecil": 1
+        }
+    },
+    {
+        "input": "Kartika ingin menggantung beberapa dekorasi di dalam tendanya untuk berfoto saat berkemah di Taman Pelangi, tetapi dia tidak memiliki selotip atau pengait lengket. Dia menemukan barang-barang berikut di dalam tasnya. Mohon jawab barang mana yang tidak mungkin digunakannya untuk menggantung dekorasi?\nA. Blu Tack\nB. Keripik kentang\nC. Permen karet\nD. Plastisin",
+        "target_scores": {
+            "A. Blu Tack": 0,
+            "B. Keripik kentang": 1,
+            "C. Permen karet": 0,
+            "D. Plastisin": 0
+        }
+    },
+    {
+        "input": "Ainun sedang sibuk mengerjakan pekerjaan rumah di kedai kopi, tetapi dia salah menulis dan ingin menghapusnya untuk menulis kembali. Namun, penghapusnya hilang.  Mohon jawab barang mana yang paling mungkin digunakannya sebagai pengganti?\nA. Pensil\nB. Penutup bulpen\nC. Sepotong remahan roti\nD. Termos air panas",
+        "target_scores": {
+            "A. Pensil": 0,
+            "B. Penutup bulpen": 0,
+            "C. Sepotong remahan roti": 1,
+            "D. Termos air panas": 0
+        }
+    },
+    {
+        "input": "Ayah sedang membuat masakan Jepang dan hanya membutuhkan putih telur. Dia ingin memisahkan putih telur dari kuning telur, tetapi tidak memiliki alat khusus di sekitarnya. Di antara barang-barang berikut,  barang mana yang bisa digunakan untuk membantu ayah?\nA. Botol minuman air kosong\nB. Kertas penyerap minyak makanan\nC. Kotak kue persegi\nD. Spons cuci piring",
+        "target_scores": {
+            "A. Botol minuman air kosong": 1,
+            "B. Kertas penyerap minyak makanan": 0,
+            "C. Kotak kue persegi": 0,
+            "D. Spons cuci piring": 0
+        }
+    },
+    {
+        "input": "Saat mengadakan barbeku di luar ruangan, Anda perlu mewarnai sate, tetapi lupa membawa kuas. Hanya bahan-bahan di dalam keranjang di sebelah kaki Anda yang mungkin dapat membantu. Mohon jawab dari bahan-bahan makanan berikut, barang mana yang paling tidak mungkin sebagai pengganti kuas?\nA. Jamur\nB. Potongan daun bawang yang segar\nC. Rambut jagung yang segar\nD. Selada yang segar",
+        "target_scores": {
+            "A. Jamur": 1,
+            "B. Potongan daun bawang yang segar": 0,
+            "C. Rambut jagung yang segar": 0,
+            "D. Selada yang segar": 0
+        }
+    },
+    {
+        "input": "Elvin akan mengadakan pesta makan malam di rumahnya, tetapi taplak meja tidak cukup. Di antara barang-barang berikut yang ditemukannya di rumah, barang mana yang paling tidak cocok sebagai pengganti taplak meja sementara?\nA. Mikrofon\nB. Sarung sofa\nC. Seprai\nD. Tirai",
+        "target_scores": {
+            "A. Mikrofon": 1,
+            "B. Sarung sofa": 0,
+            "C. Seprai": 0,
+            "D. Tirai": 0
+        }
+    },
+    {
+        "input": "Nona Rania ingin mengambil serangkaian foto menarik untuk kucing peliharaannya, tetapi dia kekurangan properti. Dia menemukan beberapa barang berikut, barang mana yang paling cocok digunakan sebagai properti untuk mengambil foto?\nA. Bola benang\nB. Durian\nC. Jeruk\nD. Keyboard komputer",
+        "target_scores": {
+            "A. Bola benang": 1,
+            "B. Durian": 0,
+            "C. Jeruk": 0,
+            "D. Keyboard komputer": 0
+        }
+    },
+    {
+        "input": "Anggraeni sedang menggoreng telur di rumah, tetapi spatula di dapur tidak dapat ditemukan. Dia melihat sekeliling dan ingin mencari sesuatu yang dapat digunakan untuk membalik telur. Mohon jawab dari antara barang-barang berikut, barang mana yang paling mungkin digunakannya?\nA. Majalah\nB. Mesin pembuat es\nC. Pisau bergerigi\nD. Sisir plastik",
+        "target_scores": {
+            "A. Majalah": 0,
+            "B. Mesin pembuat es": 0,
+            "C. Pisau bergerigi": 1,
+            "D. Sisir plastik": 0
+        }
+    },
+    {
+        "input": "Daniel ingin memangkas semak-semak di halaman, tetapi guntingnya tidak cukup tajam. Dia perlu menemukan alat lain yang dapat dijadikan sebagai pengganti gunting untuk menyelesaikan pekerjaan tersebut. Alat apa yang tersedia di kotak peralatannya dapat digunakan untuk memangkas?\nA. Gergaji\nB. Sekop besi\nC. Sikat kawat\nD. Tusuk sate",
+        "target_scores": {
+            "A. Gergaji": 1,
+            "B. Sekop besi": 0,
+            "C. Sikat kawat": 0,
+            "D. Tusuk sate": 0
+        }
+    },
+    {
+        "input": "Gunawan sedang makan malam dengan pacar barunya dan sebotol anggur bersoda yang dibawanya tidak bisa dibuka. Dia memerlukan sesuatu yang dapat dijadikan sebagai pengganti pembuka botol. Mohon jawab di antara barang-barang berikut, barang mana yang tidak akan digunakannya?\nA. Kerupuk udang\nB. Sebuah kartu kredit\nC. Sebuah koin\nD. Sebuah sendok logam",
+        "target_scores": {
+            "A. Kerupuk udang": 1,
+            "B. Sebuah kartu kredit": 0,
+            "C. Sebuah koin": 0,
+            "D. Sebuah sendok logam": 0
+        }
+    },
+    {
+        "input": "Nyonya Ratna sedang membuat kue kering dan perlu mengayak tepung, tetapi saringan tepung di rumah tidak dapat ditemukan. Mohon jawab di antara barang-barang berikut, barang mana yang paling tidak mungkin digunakannya sebagai pengganti saringan tepung?\nA. Kantong buah yang berlubang\nB. Kantong cuci baju\nC. Keranjang cuci sayur berlubang\nD. Kuas kue",
+        "target_scores": {
+            "A. Kantong buah yang berlubang": 0,
+            "B. Kantong cuci baju": 0,
+            "C. Keranjang cuci sayur berlubang": 0,
+            "D. Kuas kue": 1
+        }
+    },
+    {
+        "input": "Hartono ingin menulis kaligrafi, dia membutuhkan permukaan keras sebagai alas saat menulis, tetapi dia tidak memiliki meja tulis. Di antara barang-barang berikut, barang mana yang paling tidak mungkin digunakannya sebagai pengganti meja tulis?\nA. Bantal sandaran\nB. Keset diatomit yang kering\nC. Sebuah talenan\nD. Sebuah ubin lantai",
+        "target_scores": {
+            "A. Bantal sandaran": 1,
+            "B. Keset diatomit yang kering": 0,
+            "C. Sebuah talenan": 0,
+            "D. Sebuah ubin lantai": 0
+        }
+    },
+    {
+        "input": "Anjing peliharaan Rahmat kehilangan kalung silikonnya. Dia ingin membuatkan yang baru untuk anjingnya. Saat ini terdapat beberapa barang yang tersedia. Di antara barang-barang berikut, manakah yang paling cocok untuk menggantikan kalung tersebut?\nA. Kaus kaki nilon\nB. Renda\nC. Sutra\nD. Tali elastis",
+        "target_scores": {
+            "A. Kaus kaki nilon": 0,
+            "B. Renda": 0,
+            "C. Sutra": 0,
+            "D. Tali elastis": 1
+        }
+    },
+    {
+        "input": "Amalina sedang mengecat kuku di rumah dan membutuhkan ​​alat pemasangan berlian, tetapi tidak dapat menemukannya. Manakah dari barang berikut yang bisa dia gunakan sebagai pengganti ​​alat pemasangan berlian?\nA. Blush\nB. Bulu mata palsu\nC. Pisau Swiss Army\nD. Tusuk gigi",
+        "target_scores": {
+            "A. Blush": 0,
+            "B. Bulu mata palsu": 0,
+            "C. Pisau Swiss Army": 0,
+            "D. Tusuk gigi": 1
+        }
+    },
+    {
+        "input": "Mustofa menemukan bahwa  layar ponselnya berdebu selama menghadiri seminar keuangan, tetapi dia tidak membawa kain pembersih khusus. Mohon jawab  di antara barang-barang berikut, barang mana yang paling tidak mungkin digunakannya untuk membersihkan layar ponselnya?\nA. Dasi\nB. Kain pembersih kacamata\nC. Surat undangan\nD. Tisu alkohol",
+        "target_scores": {
+            "A. Dasi": 0,
+            "B. Kain pembersih kacamata": 0,
+            "C. Surat undangan": 1,
+            "D. Tisu alkohol": 0
+        }
+    },
+    {
+        "input": "Anda ingin menyimpan beberapa suvenir dalam koper bagasi untuk mencegah kerusakan saat merapikan bagasi setelah perjalanan selesai, tetapi tidak ada kotak penyimpanan yang ukuran tepat. Di antara barang-barang berikut, barang mana yang paling tidak cocok dijadikan sebagai kotak penyimpanan sementara?\nA. Album foto\nB. Kaleng cokelat kosong\nC. Kaleng kopi kosong\nD. Kaleng susu formula kosong",
+        "target_scores": {
+            "A. Album foto": 1,
+            "B. Kaleng cokelat kosong": 0,
+            "C. Kaleng kopi kosong": 0,
+            "D. Kaleng susu formula kosong": 0
+        }
+    },
+    {
+        "input": "Tania ingin menempel catatan penting di samping komputernya di kantor, tetapi ditemukan bahwa semua selotip sudah habis. Di antara barang-barang berikut, barang mana yang dapat dijadikan sebagai pengganti selotip sementara?\nA. Arloji\nB. Kalender meja\nC. Permen karamel yang meleleh\nD. Telepon kabel",
+        "target_scores": {
+            "A. Arloji": 0,
+            "B. Kalender meja": 0,
+            "C. Permen karamel yang meleleh": 1,
+            "D. Telepon kabel": 0
+        }
+    },
+    {
+        "input": "Ferdian sedang memperbaiki sepeda, tetapi dia tidak memiliki kunci pas. Dia perlu mengencangkan sekrup jok sepeda. Di kotak alatnya terdapat beberapa barang berikut, barang mana yang paling cocok dijadikan sebagai kunci pas sementara?\nA. Palu\nB. Penggaris baja\nC. Pipa\nD. Tang",
+        "target_scores": {
+            "A. Palu": 0,
+            "B. Penggaris baja": 0,
+            "C. Pipa": 0,
+            "D. Tang": 1
+        }
+    },
+    {
+        "input": "Dinda membutuhkan blok yoga untuk membantu latihan ketika melakukan olahraga aerobik di rumah, tetapi dia tidak memiliki blok yoga. Dia melihat sekeliling untuk mencari barang yang bisa dijadikan pengganti, barang mana yang paling cocok di antara barang-barang berikut?\nA. Dompet kecil\nB. Kamus Besar Bahasa Indonesia\nC. Syal\nD. Tempat kunci",
+        "target_scores": {
+            "A. Dompet kecil": 0,
+            "B. Kamus Besar Bahasa Indonesia": 1,
+            "C. Syal": 0,
+            "D. Tempat kunci": 0
+        }
+    },
+    {
+        "input": "Samuel perlu mengukur volume cairan saat melakukan eksperimen di rumah, tetapi dia tidak memiliki gelas ukur. Dia perlu mendapatkan pengganti untuk mengukur. Dia menemukan beberapa barang berikut di ruang tamu. Mohon pilih salah satu yang paling mungkin dijadikan pengganti gelas ukur.\nA. Botol susu bayi\nB. Cangkir teh keramik\nC. Gelas miras\nD. Rak lipstik",
+        "target_scores": {
+            "A. Botol susu bayi": 1,
+            "B. Cangkir teh keramik": 0,
+            "C. Gelas miras": 0,
+            "D. Rak lipstik": 0
+        }
+    },
+    {
+        "input": "Kontainer garam di rumah Rahmat secara tidak sengaja terjatuh dan pecah. Dia perlu mencari kontainer sementara untuk menyimpan garam. Dia menemukan beberapa barang di gudang. Di antara barang-barang tersebut, barang mana yang paling mungkin digunakan sebagai kontainer garam sementara?\nA. Baskom\nB. Botol kapsul yang kosong\nC. Botol minuman beralkohol\nD. Pispot",
+        "target_scores": {
+            "A. Baskom": 0,
+            "B. Botol kapsul yang kosong": 1,
+            "C. Botol minuman beralkohol": 0,
+            "D. Pispot": 0
+        }
+    },
+    {
+        "input": "Fatimah tidak dapat menemukan lilin di rumahnya saat pemadaman listrik. Dia perlu mencari sesuatu yang dapat digunakan sebagai alat pencahayaan sementara. Di antara barang-barang berikut, barang mana yang dapat digunakan sebagai pencahayaan darurat?\nA. Jam tangan digital bercahaya\nB. Pisau buah\nC. Silika gel\nD. Televisi LCD",
+        "target_scores": {
+            "A. Jam tangan digital bercahaya": 1,
+            "B. Pisau buah": 0,
+            "C. Silika gel": 0,
+            "D. Televisi LCD": 0
+        }
+    },
+    {
+        "input": "Petrus sedang bersiap-siap untuk memasak spageti di rumah, tetapi menyadari bahwa tidak ada rak pengering spageti. Dia melihat sekeliling dapur, barang mana yang paling cocok untuk dijadikan pengganti rak pengering spageti sementara?\nA. Gantungan baju\nB. Karet\nC. Kipas\nD. Lampu",
+        "target_scores": {
+            "A. Gantungan baju": 1,
+            "B. Karet": 0,
+            "C. Kipas": 0,
+            "D. Lampu": 0
+        }
+    },
+    {
+        "input": "Wisnu ingin menggemburkan tanah di dalam pot tanaman, tetapi sekop berkebun tidak dapat ditemukan. Temannya meminjamkan beberapa barang kepadanya, mohon jawab di antara barang-barang berikut, barang mana yang bisa digunakannya sebagai pengganti sekop berkebun?\nA. Alat pijat kulit kepala\nB. Korek kuping\nC. Sedotan plastik\nD. Sendok keramik",
+        "target_scores": {
+            "A. Alat pijat kulit kepala": 0,
+            "B. Korek kuping": 0,
+            "C. Sedotan plastik": 0,
+            "D. Sendok keramik": 1
+        }
+    },
+    {
+        "input": "Yunike ingin melakukan beberapa latihan kekuatan di rumah untuk meningkatkan kekuatan otot lengan, tetapi tidak memiliki dumbel. di antara barang-barang berikut, barang mana yang dapat digunakan sebagai pengganti dumbel untuk latihan?\nA. Bantal\nB. Botol air mineral 1,5 liter\nC. Kue biji wijen\nD. Sepak bola",
+        "target_scores": {
+            "A. Bantal": 0,
+            "B. Botol air mineral 1,5 liter": 1,
+            "C. Kue biji wijen": 0,
+            "D. Sepak bola": 0
+        }
+    },
+    {
+        "input": "Melati ingin menyiapkan hidangan ikan bakar yang lezat di rumah, tetapi dia menemukan bahwa pembakar hilang. Dia perlu mencari pengganti untuk membakar ikan. Di antara barang-barang berikut, barang mana yang paling cocok?\nA. Kawat kasa\nB. Senar pancing\nC. Talenan kayu\nD. Umpan pancing",
+        "target_scores": {
+            "A. Kawat kasa": 1,
+            "B. Senar pancing": 0,
+            "C. Talenan kayu": 0,
+            "D. Umpan pancing": 0
+        }
+    },
+    {
+        "input": "Hariyanto baru saja menyelesaikan pemanggangan palmier dan menyadari bahwa  sarung tangan oven tidak tersedia. Di sampingnya terdapat kamar mandi, mohon jawab di antara barang-barang berikut, barang mana yang paling tidak mungkin dijadikan pengganti sarung tangan oven?\nA. Gelas kumur\nB. Handuk mandi\nC. Lap tangan\nD. Piyama fleece",
+        "target_scores": {
+            "A. Gelas kumur": 1,
+            "B. Handuk mandi": 0,
+            "C. Lap tangan": 0,
+            "D. Piyama fleece": 0
+        }
+    },
+    {
+        "input": "Sarah baru saja diterima di universitas impiannya dan sedang mengadakan pesta perayaan di rumah, tetapi dia tidak memiliki ember es yang cukup untuk mendinginkan minuman. Manakah dari barang-barang berikut yang bisa ia gunakan sebagai ember es sementara?\nA. Baret\nB. Baskom ukuran besar\nC. Laci\nD. Mesin panggang roti",
+        "target_scores": {
+            "A. Baret": 0,
+            "B. Baskom ukuran besar": 1,
+            "C. Laci": 0,
+            "D. Mesin panggang roti": 0
+        }
+    },
+    {
+        "input": "Alice tiba-tiba membutuhkan sebuah kotak untuk menyimpan beberapa paku jepit, tetapi semua lacinya sudah penuh dan tidak tersedia kotak kecil. Di atas meja terdapat beberapa barang, barang mana yang paling tidak mungkin digunakannya?\nA. Casing ponsel\nB. Kotak kacamata\nC. Tas penyimpan earphone\nD. Tas penyimpan lipstik",
+        "target_scores": {
+            "A. Casing ponsel": 1,
+            "B. Kotak kacamata": 0,
+            "C. Tas penyimpan earphone": 0,
+            "D. Tas penyimpan lipstik": 0
+        }
+    },
+    {
+        "input": "Hamster peliharaan Henry membutuhkan sarang untuk menghangatkan diri pada musim hujan, tetapi sarang lamanya sudah digigit rusak. Di rumahnya terdapat beberapa barang yang tidak terpakai. Mohon pilih salah satu di antara barang-barang berikut yang paling tidak cocok digunakan sebagai sarang hamster?\nA. Kaos kaki tebal\nB. Kertas buram\nC. Lapisan dalam jaket tebal\nD. Selimut bekas",
+        "target_scores": {
+            "A. Kaos kaki tebal": 0,
+            "B. Kertas buram": 1,
+            "C. Lapisan dalam jaket tebal": 0,
+            "D. Selimut bekas": 0
+        }
+    },
+    {
+        "input": "Sophia ingin membuat jaring bola voli yang sederhana di pantai. Dia dan teman-temannya memiliki beberapa barang berikut, mohon jawab barang mana yang paling mungkin digunakannya?\nA. Pakaian renang\nB. Sebotol tabir surya\nC. Sebuah handuk mandi\nD. Sebuah topi pantai",
+        "target_scores": {
+            "A. Pakaian renang": 0,
+            "B. Sebotol tabir surya": 0,
+            "C. Sebuah handuk mandi": 1,
+            "D. Sebuah topi pantai": 0
+        }
+    },
+    {
+        "input": "Dompet kain buatan tangan yang baru saja dibuat oleh James diambil oleh temannya, tetapi bahan kain baru masih belum sampai, dia terpaksa  menggunakan barang-barang yang tersedia. Pilih barang yang paling tidak mungkin untuk dibuat menjadi dompet dari pilihan berikut ( )\nA. Kaos bekas\nB. Sebuah celana jeans\nC. Sebuah peta lama\nD. Sebuah topi berpuncak",
+        "target_scores": {
+            "A. Kaos bekas": 0,
+            "B. Sebuah celana jeans": 0,
+            "C. Sebuah peta lama": 1,
+            "D. Sebuah topi berpuncak": 0
+        }
+    },
+    {
+        "input": "Sion merasa tangan dan kakinya dingin sekali pada musim hujan sehingga dia membutuhkan sumber panas untuk menghangatkan diri, tetapi bantal pemanasnya tidak dapat ditemukan. Mohon jawab dari barang-barang  berikut, barang mana yang bisa dijadikan pengganti bantal pemanas?\nA. Sebotol plastik berisi air panas\nB. Sebuah buah apel\nC. Sebuah gelas yang tidak berisi\nD. Sepotong cokelat",
+        "target_scores": {
+            "A. Sebotol plastik berisi air panas": 1,
+            "B. Sebuah buah apel": 0,
+            "C. Sebuah gelas yang tidak berisi": 0,
+            "D. Sepotong cokelat": 0
+        }
+    },
+    {
+        "input": "Sima mengadakan pesta di rumah dan perlu menggantung balon, tetapi tali tidak dapat ditemukan. Di dalam ruang penyimpanan terdapat beberapa barang berikut, mohon jawab barang mana yang dapat digunakan sebagai pengganti tali untuk menggantung balon?\nA. Beker\nB. Kabel listrik\nC. Kukusan\nD. Papan seluncur",
+        "target_scores": {
+            "A. Beker": 0,
+            "B. Kabel listrik": 1,
+            "C. Kukusan": 0,
+            "D. Papan seluncur": 0
+        }
+    },
+    {
+        "input": "Ponsel Anda kehabisan baterai saat Anda di luar ruangan, dan perlu pengecasan darurat, tetapi Anda tidak memiliki power bank. Dalam tas Anda hanya terdapat barang-barang berikut, barang mana yang paling mungkin digunakan sebagai sumber pengisian sementara?\nA. Botol air militer\nB. Kapak pendakian\nC. Laptop\nD. Sepatu salju",
+        "target_scores": {
+            "A. Botol air militer": 0,
+            "B. Kapak pendakian": 0,
+            "C. Laptop": 1,
+            "D. Sepatu salju": 0
+        }
+    },
+    {
+        "input": "Anda menemukan bahwa gantungan pakaian tidak tersedia di ruang ganti di toko pakaian, tetapi Anda telah menanggalkan pakaian dan tidak sempat untuk keluar mengambilnya, sehingga hanya dapat mencari pengganti di dalam ruang ganti. Manakah dari barang berikut yang paling tidak cocok untuk dijadikan pengganti gantungan pakaian?\nA. Gantungan dinding\nB. Pegangan payung\nC. Pegangan pintu\nD. Sandaran kursi",
+        "target_scores": {
+            "A. Gantungan dinding": 0,
+            "B. Pegangan payung": 1,
+            "C. Pegangan pintu": 0,
+            "D. Sandaran kursi": 0
+        }
+    },
+    {
+        "input": "Saat Anda keluar, pakaian Anda dibasahi karena hujan dan perlu dikeringkan dengan cepat, tetapi mesin pengering tidak tersedia di rumah, hanya terdapat barang-barang berikut. barang mana yang dapat digunakan sebagai pengganti mesin pengering?\nA. Kompor\nB. Oven listrik\nC. Pengering rambut\nD. Wajan datar",
+        "target_scores": {
+            "A. Kompor": 0,
+            "B. Oven listrik": 0,
+            "C. Pengering rambut": 1,
+            "D. Wajan datar": 0
+        }
+    }
+]

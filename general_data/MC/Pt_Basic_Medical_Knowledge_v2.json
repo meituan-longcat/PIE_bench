@@ -1,0 +1,848 @@
+[
+    {
+        "input": "A característica comun entre EPSP e IPSP é\nA. Despolarização da membrana pré-sináptica\nB. Despolarização da membrana pós-sináptica\nC. Hiperpolarização da membrana pré-sináptica\nD. Hiperpolarização da membrana pós-sináptica",
+        "target_scores": {
+            "A. Despolarização da membrana pré-sináptica": 1,
+            "B. Despolarização da membrana pós-sináptica": 0,
+            "C. Hiperpolarização da membrana pré-sináptica": 0,
+            "D. Hiperpolarização da membrana pós-sináptica": 0
+        }
+    },
+    {
+        "input": "Qual dos seguintes alimentos tem o valor calórico mais alto\nA. Açúcar\nB. Gordura\nC. Proteína\nD. Vitamina",
+        "target_scores": {
+            "A. Açúcar": 0,
+            "B. Gordura": 1,
+            "C. Proteína": 0,
+            "D. Vitamina": 0
+        }
+    },
+    {
+        "input": "Ao seccionar transversalmente a medula espinhal de um animal no quinto segmento cervical, qual das seguintes descrições sobre sua apresentação está correta\nA. Diminuição do tônus da musculatura esquelética generalizada\nB. Distúrbio sensorial generalizado\nC. Incontinência fecal e urinária\nD. Redução da pressão arterial",
+        "target_scores": {
+            "A. Diminuição do tônus da musculatura esquelética generalizada": 0,
+            "B. Distúrbio sensorial generalizado": 0,
+            "C. Incontinência fecal e urinária": 0,
+            "D. Redução da pressão arterial": 1
+        }
+    },
+    {
+        "input": "O sujeito tem volume urinário de 60ml em 1 hora. A concentração plasmática de ácido para-aminohipúrico é 0,02mg/ml, a concentração urinária é 12,6mg/ml, o fluxo plasmático renal efetivo deve ser\nA. 125ml/min\nB. 31,1ml/min\nC. 378ml/min\nD. 630ml/min",
+        "target_scores": {
+            "A. 125ml/min": 0,
+            "B. 31,1ml/min": 0,
+            "C. 378ml/min": 0,
+            "D. 630ml/min": 1
+        }
+    },
+    {
+        "input": "O paciente não consegue falar, embora outras funções linguísticas e o aparelho fonador estejam normais. A lesão no centro da linguagem está localizada em\nA. Parte posterior da circunvolução frontal média\nB. Parte posterior da circunvolução temporal superior\nC. Área de Broca\nD. Área de Wernicke",
+        "target_scores": {
+            "A. Parte posterior da circunvolução frontal média": 0,
+            "B. Parte posterior da circunvolução temporal superior": 0,
+            "C. Área de Broca": 1,
+            "D. Área de Wernicke": 0
+        }
+    },
+    {
+        "input": "Um paciente com icterícia, os exames laboratoriais revelam bilirrubina não conjugada significativamente elevada no soro, bilirrubina urinária negativa, e urobilinogênio aumentado na urina e fezes. A causa mais provável desta icterícia é\nA. Cirrose hepática\nB. Câncer da cabeça do pâncreas\nC. Hemólise aguda\nD. Hepatite aguda",
+        "target_scores": {
+            "A. Cirrose hepática": 0,
+            "B. Câncer da cabeça do pâncreas": 0,
+            "C. Hemólise aguda": 1,
+            "D. Hepatite aguda": 0
+        }
+    },
+    {
+        "input": "A característica de ligação receptor-ligante refletida pela curva hiperbólica retangular é\nA. Alta afinidade\nB. Alta especificidade\nC. Reversibilidade\nD. Saturabilidade",
+        "target_scores": {
+            "A. Alta afinidade": 0,
+            "B. Alta especificidade": 0,
+            "C. Reversibilidade": 0,
+            "D. Saturabilidade": 1
+        }
+    },
+    {
+        "input": "O aparecimento de macrófagos difusamente distribuídos nos pulmões contendo grandes quantidades de grânulos de hemossiderina no citoplasma é mais comumente observado em\nA. Insuficiência cardíaca esquerda\nB. Pneumonia intersticial\nC. Pneumonia lobar\nD. Pneumonia lobular",
+        "target_scores": {
+            "A. Insuficiência cardíaca esquerda": 1,
+            "B. Pneumonia intersticial": 0,
+            "C. Pneumonia lobar": 0,
+            "D. Pneumonia lobular": 0
+        }
+    },
+    {
+        "input": "Em comparação com os néfrons justamedulares, as características dos néfrons corticais são\nA. Diâmetros semelhantes das arteríolas aferente e eferente\nB. Formação de vaso reto após a arteríola eferente\nC. Função principalmente de filtração e reabsorção\nD. Poucos em número, grande em volume, alça da medula longa",
+        "target_scores": {
+            "A. Diâmetros semelhantes das arteríolas aferente e eferente": 0,
+            "B. Formação de vaso reto após a arteríola eferente": 0,
+            "C. Função principalmente de filtração e reabsorção": 1,
+            "D. Poucos em número, grande em volume, alça da medula longa": 0
+        }
+    },
+    {
+        "input": "Mulher, 50 anos, com tosse crônica há mais de 3 anos, expectoração branca espumosa e mucosa, com exacerbações anuais no outono e inverno durando cerca de 3 meses. A descrição incompatível com a doença desta paciente é\nA. Aumento de células caliciformes no epitélio da mucosa brônquica\nB. Degeneração necrótica do epitélio da mucosa brônquica\nC. Hiperplasia das fibras elásticas da parede brônquica\nD. Hipertrofia das glândulas mucosas brônquicas",
+        "target_scores": {
+            "A. Aumento de células caliciformes no epitélio da mucosa brônquica": 0,
+            "B. Degeneração necrótica do epitélio da mucosa brônquica": 0,
+            "C. Hiperplasia das fibras elásticas da parede brônquica": 1,
+            "D. Hipertrofia das glândulas mucosas brônquicas": 0
+        }
+    },
+    {
+        "input": "Paciente, 20 anos, com boa consolidação de fratura. Após 5 anos, as alterações patológicas no tecido ósseo no local da fratura mostram\nA. Grande quantidade de capilares neoformados\nB. Grande quantidade de células gigantes multinucleadas\nC. Grande quantidade de fibroblastos\nD. Tecido ósseo normal",
+        "target_scores": {
+            "A. Grande quantidade de capilares neoformados": 0,
+            "B. Grande quantidade de células gigantes multinucleadas": 0,
+            "C. Grande quantidade de fibroblastos": 0,
+            "D. Tecido ósseo normal": 1
+        }
+    },
+    {
+        "input": "A principal diferença entre soro e plasma é que o primeiro não contém\nA. Albumina\nB. Fibrinogênio\nC. Globulina\nD. Íon cálcio",
+        "target_scores": {
+            "A. Albumina": 0,
+            "B. Fibrinogênio": 1,
+            "C. Globulina": 0,
+            "D. Íon cálcio": 0
+        }
+    },
+    {
+        "input": "Homem, 76 anos, previamente saudável, morte súbita há algumas horas. Achados de autópsia: extensa formação de ateroma aórtico, placas ateroscleróticas nas artérias coronárias principais com estenose luminal, sem trombos. Miocárdio de coloração vermelho-escura, brilhante. A descrição compatível com a doença do paciente é\nA. Angina pectoris\nB. Cardiomiopatia\nC. Miocardite\nD. Necrose coronariana",
+        "target_scores": {
+            "A. Angina pectoris": 0,
+            "B. Cardiomiopatia": 0,
+            "C. Miocardite": 0,
+            "D. Necrose coronariana": 1
+        }
+    },
+    {
+        "input": "Os pontos mais importantes para diferenciar derrame pleural tuberculoso de derrame pleural maligno são\nA. Células do derrame pleural, exame e biópsia pleural\nB. Exame de rotina do derrame pleural\nC. Idade\nD. Presença ou ausência de calafrios e febre",
+        "target_scores": {
+            "A. Células do derrame pleural, exame e biópsia pleural": 1,
+            "B. Exame de rotina do derrame pleural": 0,
+            "C. Idade": 0,
+            "D. Presença ou ausência de calafrios e febre": 0
+        }
+    },
+    {
+        "input": "Homem, 27 anos, há 5 anos, apresentou perda de apetite, náuseas, fadiga, icterícia cutânea e escleral. Dor na região hepática, testes de função hepática: ALT 100U, bilirrubina total 18mg/dl,$HBsAg(+)$. Biópsia hepática diagnosticou hepatite aguda comum, com melhora após tratamento. Nos últimos seis meses, apresentou novamente fadiga e dor na região hepática, ALT 60U-80U. A descrição compatível com a doença deste paciente é\nA. Necrose fragmentada de hepatócitos\nB. Necrose maciça de hepatócitos\nC. Necrose pontual de hepatócitos\nD. Necrose submaciça de hepatócitos",
+        "target_scores": {
+            "A. Necrose fragmentada de hepatócitos": 1,
+            "B. Necrose maciça de hepatócitos": 0,
+            "C. Necrose pontual de hepatócitos": 0,
+            "D. Necrose submaciça de hepatócitos": 0
+        }
+    },
+    {
+        "input": "Quando o sujeito inclina a cabeça 30° para frente e gira em torno do eixo vertical do corpo para a esquerda, a direção do nistagmo no início da rotação é\nA. Fase lenta para a direita, fase rápida para a direita\nB. Fase lenta para a direita, fase rápida para a esquerda\nC. Fase lenta para a esquerda, fase rápida para a direita\nD. Fase lenta para a esquerda, fase rápida para a esquerda",
+        "target_scores": {
+            "A. Fase lenta para a direita, fase rápida para a direita": 0,
+            "B. Fase lenta para a direita, fase rápida para a esquerda": 1,
+            "C. Fase lenta para a esquerda, fase rápida para a direita": 0,
+            "D. Fase lenta para a esquerda, fase rápida para a esquerda": 0
+        }
+    },
+    {
+        "input": "Paciente, homem, 62 anos, tosse seca com pequena quantidade de sangue no escarro há mais de 1 ano. Fumante desde jovem, 2-3 maços por dia. Exame físico: tórax esquerdo protuberante, punção torácica esquerda revelou 57,3mL de derrame pleural hemorrágico. Raio-X mostra sombra densa de $3cm \\times 5cm$ na periferia do pulmão inferior esquerdo, com bordas irregulares. O diagnóstico mais provável é\nA. Abscesso pulmonar\nB. Bronquiectasia\nC. Câncer pulmonar periférico\nD. Tuberculose pulmonar",
+        "target_scores": {
+            "A. Abscesso pulmonar": 0,
+            "B. Bronquiectasia": 0,
+            "C. Câncer pulmonar periférico": 1,
+            "D. Tuberculose pulmonar": 0
+        }
+    },
+    {
+        "input": "A principal razão pela qual o CO2 se difunde mais rapidamente através da membrana respiratória que o O2 é\nA. CO₂ por difusão simples\nB. Gradiente de pressão maior que o de O₂\nC. Peso molecular do CO2 maior que o do O2\nD. Solubilidade do CO₂ no plasma maior que a do O₂",
+        "target_scores": {
+            "A. CO₂ por difusão simples": 0,
+            "B. Gradiente de pressão maior que o de O₂": 0,
+            "C. Peso molecular do CO2 maior que o do O2": 0,
+            "D. Solubilidade do CO₂ no plasma maior que a do O₂": 1
+        }
+    },
+    {
+        "input": "Após a amputação de um dedo da mão de um macaco, a área de representação sensorial do dedo amputado no córtex cerebral irá\nA. Atrofia em certo grau, perda de função\nB. Ocupada por invasão da área representativa dos dedos adjacentes\nC. Sem alterações, mas em desuso a partir de então\nD. Substituída por proliferação de células da glia",
+        "target_scores": {
+            "A. Atrofia em certo grau, perda de função": 0,
+            "B. Ocupada por invasão da área representativa dos dedos adjacentes": 1,
+            "C. Sem alterações, mas em desuso a partir de então": 0,
+            "D. Substituída por proliferação de células da glia": 0
+        }
+    },
+    {
+        "input": "Em estado de repouso, a região com temperatura mais alta no corpo é\nA. Cérebro\nB. Fígado\nC. Músculo esquelético\nD. Rim",
+        "target_scores": {
+            "A. Cérebro": 0,
+            "B. Fígado": 1,
+            "C. Músculo esquelético": 0,
+            "D. Rim": 0
+        }
+    },
+    {
+        "input": "Homem, 45 anos, sofreu acidente de bicicleta resultando em fratura cominutiva do fêmur esquerdo. Na sala de emergência, subitamente apresentou dificuldade respiratória e dor torácica. Exame: taquipneia, cianose, estertores úmidos audíveis nos pulmões. Raio-X: atelectasia pulmonar, pequena quantidade de derrame pleural. A alteração pulmonar mais provável é\nA. Embolia gordurosa pulmonar\nB. Enfisema pulmonar\nC. Pneumonia\nD. Tromboembolismo da artéria pulmonar",
+        "target_scores": {
+            "A. Embolia gordurosa pulmonar": 1,
+            "B. Enfisema pulmonar": 0,
+            "C. Pneumonia": 0,
+            "D. Tromboembolismo da artéria pulmonar": 0
+        }
+    },
+    {
+        "input": "A localização comum dos centros do reflexo pupilar à luz e do reflexo pupilar de acomodação é\nA. Bulbo\nB. Hipotálamo\nC. Mesencéfalo\nD. Ponte",
+        "target_scores": {
+            "A. Bulbo": 0,
+            "B. Hipotálamo": 0,
+            "C. Mesencéfalo": 1,
+            "D. Ponte": 0
+        }
+    },
+    {
+        "input": "Homem, 34 anos, com síndrome nefrótica há muitos anos. Recentemente desenvolveu hipertensão, poliúria e noctúria. Ultimamente apresentou anemia, diminuição da visão, odor de urina pelo corpo, fraqueza, vômitos e convulsões, evoluindo para coma e morte. A apresentação patológica renal deste paciente provavelmente é\nA. Rim branco grande\nB. Rim com aspecto de picada de pulga\nC. Rim contraído granular\nD. Rim vermelho grande",
+        "target_scores": {
+            "A. Rim branco grande": 0,
+            "B. Rim com aspecto de picada de pulga": 0,
+            "C. Rim contraído granular": 1,
+            "D. Rim vermelho grande": 0
+        }
+    },
+    {
+        "input": "O componente que difere mais significativamente entre o líquido intersticial e o plasma é\nA. Compostos orgânicos de alto peso molecular\nB. Compostos orgânicos de pequeno peso molecular\nC. Eletrólito\nD. Proteína",
+        "target_scores": {
+            "A. Compostos orgânicos de alto peso molecular": 0,
+            "B. Compostos orgânicos de pequeno peso molecular": 0,
+            "C. Eletrólito": 0,
+            "D. Proteína": 1
+        }
+    },
+    {
+        "input": "Comparada com as células do miocárdio ventricular, a principal característica do potencial de ação das células de Purkinje é\nA. Despolarização automática na fase 4\nB. Grande amplitude\nC. Longa duração do período de platô\nD. Potencial de membrana estável na fase 4",
+        "target_scores": {
+            "A. Despolarização automática na fase 4": 1,
+            "B. Grande amplitude": 0,
+            "C. Longa duração do período de platô": 0,
+            "D. Potencial de membrana estável na fase 4": 0
+        }
+    },
+    {
+        "input": "Se a depuração renal de determinada substância for medida como 80ml/min, pode-se considerar que os túbulos renais para esta substância\nA. Definitivamente não a reabsorvem, nem a secretam.\nB. Definitivamente reabsorve e secreta.\nC. Definitivamente reabsorve, mas incerto se secreta.\nD. Definitivamente secreta, mas incerto se reabsorve.",
+        "target_scores": {
+            "A. Definitivamente não a reabsorvem, nem a secretam.": 0,
+            "B. Definitivamente reabsorve e secreta.": 0,
+            "C. Definitivamente reabsorve, mas incerto se secreta.": 1,
+            "D. Definitivamente secreta, mas incerto se reabsorve.": 0
+        }
+    },
+    {
+        "input": "Homem, 40 anos, fumando de 2 a 3 maços por dia. Recentemente com tosse agravada, raio-X mostra sombra no pulmão superior esquerdo. Biópsia da mucosa por broncoscopia revela epitélio escamoso. Esta alteração patológica é\nA. Atrofia da mucosa brônquica\nB. Hiperplasia da mucosa brônquica\nC. Hiperplasia do epitélio escamoso da mucosa brônquica\nD. Metaplasia escamosa da mucosa brônquica",
+        "target_scores": {
+            "A. Atrofia da mucosa brônquica": 0,
+            "B. Hiperplasia da mucosa brônquica": 0,
+            "C. Hiperplasia do epitélio escamoso da mucosa brônquica": 0,
+            "D. Metaplasia escamosa da mucosa brônquica": 1
+        }
+    },
+    {
+        "input": "Mulher, 67 anos, admitida na emergência por intoxicação por monóxido de carbono, permaneceu inconsciente mesmo após tratamento em câmara hiperbárica. A razão é\nA. Aumento da diferença arteriovenosa de pressão parcial de oxigênio\nB. Baixa pressão parcial de O₂ no sangue arterial\nC. Desvio à direita da curva de dissociação do oxigênio\nD. Diminuição da liberação de O₂ da HbO₂",
+        "target_scores": {
+            "A. Aumento da diferença arteriovenosa de pressão parcial de oxigênio": 0,
+            "B. Baixa pressão parcial de O₂ no sangue arterial": 0,
+            "C. Desvio à direita da curva de dissociação do oxigênio": 0,
+            "D. Diminuição da liberação de O₂ da HbO₂": 1
+        }
+    },
+    {
+        "input": "No sexto dia após ressecção intestinal e anastomose por obstrução intestinal aguda, o paciente apresentou extravasamento de líquido avermelhado claro da incisão após tossir. A causa mais provável é\nA. Acúmulo de líquido subcutâneo na incisão\nB. Deiscência da incisão\nC. Formação de ascite\nD. Infecção da incisão",
+        "target_scores": {
+            "A. Acúmulo de líquido subcutâneo na incisão": 0,
+            "B. Deiscência da incisão": 1,
+            "C. Formação de ascite": 0,
+            "D. Infecção da incisão": 0
+        }
+    },
+    {
+        "input": "Na descrição da consolidação de fraturas, a apresentação do local da fratura com tecido de granulação e trabéculas ósseas irregulares é\nA. Formação de calo fibroso\nB. Formação de calo ósseo\nC. Não-união óssea\nD. Remodelação completa do calo ósseo",
+        "target_scores": {
+            "A. Formação de calo fibroso": 0,
+            "B. Formação de calo ósseo": 1,
+            "C. Não-união óssea": 0,
+            "D. Remodelação completa do calo ósseo": 0
+        }
+    },
+    {
+        "input": "Mulher, 50 anos, admitida com dor abdominal aguda. História prévia de hipertensão. Exame físico: pressão arterial 90/50mmHg, extremidades frias, palidez periférica, sem massas abdominais óbvias, sem tensão muscular abdominal ou dor à descompressão. Diagnóstico por ultrassom: dissecção aórtica. O que pode causar dissecção aórtica é\nA. Aortite reumática\nB. Arterite de Takayasu\nC. Arterite de células gigantes\nD. Aterosclerose",
+        "target_scores": {
+            "A. Aortite reumática": 0,
+            "B. Arterite de Takayasu": 0,
+            "C. Arterite de células gigantes": 0,
+            "D. Aterosclerose": 1
+        }
+    },
+    {
+        "input": "Homem, 30 anos, histórico de alcoolismo há aproximadamente 8 anos, consumindo cerca de 500ml de cachaça diariamente. Nos últimos seis meses, apresenta frequentemente náuseas, vômitos e perda de apetite. Biópsia hepática mostra esteatose hepática extensa, necrose focal de hepatócitos. Pequenos corpos hialinos avermelhados de tamanhos variados são visíveis nas células hepáticas. A composição destes corpos hialinos é\nA. HBsAg\nB. Imunoglobulina\nC. Proteína do corno anterior\nD. Proteína plasmática",
+        "target_scores": {
+            "A. HBsAg": 0,
+            "B. Imunoglobulina": 0,
+            "C. Proteína do corno anterior": 1,
+            "D. Proteína plasmática": 0
+        }
+    },
+    {
+        "input": "Paciente do sexo masculino, 40 anos, com vermelhidão, inchaço, calor e dor nas costas há 7 dias, com três ou quatro aberturas na superfície drenando líquido amarelado. Esta lesão é causada por\nA. Infecção por E. coli\nB. Infecção por Proteus\nC. Infecção por Staphylococcus aureus\nD. Infecção por estreptococos hemolíticos",
+        "target_scores": {
+            "A. Infecção por E. coli": 0,
+            "B. Infecção por Proteus": 0,
+            "C. Infecção por Staphylococcus aureus": 1,
+            "D. Infecção por estreptococos hemolíticos": 0
+        }
+    },
+    {
+        "input": "Homem, 38 anos. Há mais de 10 anos apresenta azia, eructação, sensação de plenitude no abdômen superior com dor abdominal superior regular, ocorrendo em jejum, pior à noite, aliviada pela alimentação. Endoscopia gástrica mostra úlcera circular de aproximadamente 1cm de diâmetro no bulbo duodenal. A descrição inconsistente com a doença deste paciente é\nA. Tendência a causar obstrução pilórica\nB. Tendência a sangramento\nC. Tendência à malignização\nD. Tendência à perfuração",
+        "target_scores": {
+            "A. Tendência a causar obstrução pilórica": 0,
+            "B. Tendência a sangramento": 0,
+            "C. Tendência à malignização": 1,
+            "D. Tendência à perfuração": 0
+        }
+    },
+    {
+        "input": "Em paciente falecido por hemorragia cerebral hipertensiva, o coração pesa 550g, espessura da parede do ventrículo esquerdo 1,6cm, músculos papilares e trabéculas carnosas hipertrofiados, sem dilatação das cavidades cardíacas. O diagnóstico deve ser\nA. Cardiomiopatia hipertrófica\nB. Degeneração gordurosa do coração\nC. Hipertrofia cardíaca compensatória\nD. Hipertrofia cardíaca descompensada",
+        "target_scores": {
+            "A. Cardiomiopatia hipertrófica": 0,
+            "B. Degeneração gordurosa do coração": 0,
+            "C. Hipertrofia cardíaca compensatória": 1,
+            "D. Hipertrofia cardíaca descompensada": 0
+        }
+    },
+    {
+        "input": "Homem, 60 anos, hematúria indolor há mais de meio ano. Cistoscopia mostra lesão papilar pedunculada na região do trígono vesical. O relatório da biópsia indica papiloma. A lesão consistente com este diagnóstico é\nA. Agregados de células escamosas visíveis\nB. Células transicionais bem diferenciadas de revestimento papilar\nC. Epitélio glandular bem diferenciado de revestimento\nD. Glândulas visíveis",
+        "target_scores": {
+            "A. Agregados de células escamosas visíveis": 0,
+            "B. Células transicionais bem diferenciadas de revestimento papilar": 1,
+            "C. Epitélio glandular bem diferenciado de revestimento": 0,
+            "D. Glândulas visíveis": 0
+        }
+    },
+    {
+        "input": "Homem, 58 anos, falecido por metástases extensas de câncer gástrico. Exame de autópsia: coração pesa 200g. Exame microscópico mostra grânulos pigmentados amarelo-acastanhados em ambos os lados dos núcleos das células miocárdicas. Este pigmento é\nA. Acúmulo de proteínas do corno anterior\nB. Bilirrubina\nC. Lipofuscina\nD. Melanina",
+        "target_scores": {
+            "A. Acúmulo de proteínas do corno anterior": 0,
+            "B. Bilirrubina": 0,
+            "C. Lipofuscina": 1,
+            "D. Melanina": 0
+        }
+    },
+    {
+        "input": "Homem, 58 anos, submetido à cirurgia por colecistite calculosa há 3 dias, apresenta febre persistente, tosse com expectoração purulenta amarelada e dor torácica à direita. Raio-X torácico mostra consolidação extensa no pulmão inferior direito com áreas irregulares de transparência. Neste caso de pneumonia hospitalar, o patógeno mais provável é\nA. Bacilos Gram-negativos\nB. Bactérias anaeróbicas\nC. Estreptococo piogênico\nD. Pneumococo",
+        "target_scores": {
+            "A. Bacilos Gram-negativos": 1,
+            "B. Bactérias anaeróbicas": 0,
+            "C. Estreptococo piogênico": 0,
+            "D. Pneumococo": 0
+        }
+    },
+    {
+        "input": "Diminuição da concentração sérica de Na+ e aumento da concentração de K+ podem causar\nA. Aumento da liberação do hormônio antidiurético\nB. Aumento da secreção de aldosterona\nC. Diminuição da liberação do hormônio antidiurético\nD. Diminuição da secreção de aldosterona",
+        "target_scores": {
+            "A. Aumento da liberação do hormônio antidiurético": 0,
+            "B. Aumento da secreção de aldosterona": 1,
+            "C. Diminuição da liberação do hormônio antidiurético": 0,
+            "D. Diminuição da secreção de aldosterona": 0
+        }
+    },
+    {
+        "input": "Homem, 30 anos, inchaço e vermelhidão cervical há 8 dias. No exame, área de pele cervical com vermelhidão e inchaço de aproximadamente $6cm \\times 5cm$, múltiplas cabeças purulentas visíveis na superfície, acentuada sensibilidade à palpação. A lesão é compatível com\nA. Antraz\nB. Celulite\nC. Furúnculo\nD. Linfangite",
+        "target_scores": {
+            "A. Antraz": 1,
+            "B. Celulite": 0,
+            "C. Furúnculo": 0,
+            "D. Linfangite": 0
+        }
+    },
+    {
+        "input": "Homem, 60 anos, dor torácica, tosse e escarro sanguinolento há dois meses. Radiografia torácica mostra nódulo de 5cm de diâmetro na periferia do pulmão superior direito, com margens espiculadas. A primeira consideração diagnóstica deve ser\nA. Abscesso pulmonar\nB. Câncer pulmonar periférico\nC. Nódulo silicótico coalescente\nD. Tuberculoma pulmonar",
+        "target_scores": {
+            "A. Abscesso pulmonar": 0,
+            "B. Câncer pulmonar periférico": 1,
+            "C. Nódulo silicótico coalescente": 0,
+            "D. Tuberculoma pulmonar": 0
+        }
+    },
+    {
+        "input": "Se o volume do espaço morto de uma pessoa é 125ml, ventilação pulmonar 7500ml/min, frequência respiratória 20 respirações/min, e débito cardíaco 5000ml, a relação ventilação/perfusão deve ser\nA. 0,8\nB. 0,9\nC. 1\nD. 1,1",
+        "target_scores": {
+            "A. 0,8": 0,
+            "B. 0,9": 0,
+            "C. 1": 1,
+            "D. 1,1": 0
+        }
+    },
+    {
+        "input": "Se o quociente respiratório medido em dois indivíduos for o mesmo, isso indica que estes dois indivíduos têm a mesma\nA. Eficiência energética basicamente idêntica\nB. Fonte de energia basicamente idênticas\nC. Taxa metabólica basal basicamente idêntica\nD. Área de superfície corporal basicamente idêntica",
+        "target_scores": {
+            "A. Eficiência energética basicamente idêntica": 0,
+            "B. Fonte de energia basicamente idênticas": 1,
+            "C. Taxa metabólica basal basicamente idêntica": 0,
+            "D. Área de superfície corporal basicamente idêntica": 0
+        }
+    },
+    {
+        "input": "Paciente do sexo feminino, 25 anos, nas últimas 2 semanas apresenta perda de apetite, náuseas, fadiga, icterícia cutânea e escleral, dor na região hepática. Testes de função hepática: ALT 100U/L, bilirrubina total 180mg/L, $HBsAg(＋)$. Biópsia hepática mostra: edema hepatocelular difuso, proliferação de células de Kupffer, esteatose hepatocelular focal, infiltração linfocitária no lóbulo hepático, necrose focal e pontilhada dos hepatócitos. A lesão é compatível com\nA. Hepatite aguda comum\nB. Hepatite aguda grave\nC. Hepatite crônica ativa\nD. Hepatite grave subaguda",
+        "target_scores": {
+            "A. Hepatite aguda comum": 1,
+            "B. Hepatite aguda grave": 0,
+            "C. Hepatite crônica ativa": 0,
+            "D. Hepatite grave subaguda": 0
+        }
+    },
+    {
+        "input": "Mulher, 73 anos. Caiu descendo escadas, resultando em fratura do fêmur. Durante cirurgia para fixação interna, subitamente apresentou dificuldade respiratória, cianose, queda da pressão arterial, convulsões generalizadas, coma e morte apesar das tentativas de ressuscitação. Na autópsia, o achado mais provável nos vasos pulmonares é\nA. Ar\nB. Epitélio queratinizado\nC. Gotículas de gordura\nD. Trombo",
+        "target_scores": {
+            "A. Ar": 0,
+            "B. Epitélio queratinizado": 0,
+            "C. Gotículas de gordura": 1,
+            "D. Trombo": 0
+        }
+    },
+    {
+        "input": "Na fase terminal do paciente da AIDS, a redução mais significativa de células no sangue periférico é de\nA. Células CD14+\nB. Células CD16+\nC. Células CD4+\nD. Células CD8+",
+        "target_scores": {
+            "A. Células CD14+": 0,
+            "B. Células CD16+": 0,
+            "C. Células CD4+": 1,
+            "D. Células CD8+": 0
+        }
+    },
+    {
+        "input": "Um homem com sangue tipo A tem dois filhos, um menino e uma menina. O soro da filha não aglutina com as hemácias do pai, enquanto o soro do filho aglutina com as hemácias do pai. O tipo sanguíneo possível do filho é\nA. Tipo A ou AB\nB. Tipo A ou B\nC. Tipo A ou O\nD. Tipo B ou O",
+        "target_scores": {
+            "A. Tipo A ou AB": 0,
+            "B. Tipo A ou B": 0,
+            "C. Tipo A ou O": 0,
+            "D. Tipo B ou O": 1
+        }
+    },
+    {
+        "input": "Homem, 60 anos, fumante de longa data, com histórico de doença cardíaca pulmonar há quase 3 anos. Recentemente apresenta tosse, falta de ar e palpitações. Exame mostra hepatomegalia com dor à palpação. As alterações patológicas compatíveis com o fígado deste paciente são\nA. Atrofia hepatocelular e degeneração gordurosa\nB. Edema dos hepatócitos, transformação baloniforme\nC. Necrose fragmentada de hepatócitos\nD. Necrose maciça de hepatócitos",
+        "target_scores": {
+            "A. Atrofia hepatocelular e degeneração gordurosa": 1,
+            "B. Edema dos hepatócitos, transformação baloniforme": 0,
+            "C. Necrose fragmentada de hepatócitos": 0,
+            "D. Necrose maciça de hepatócitos": 0
+        }
+    },
+    {
+        "input": "Paciente feminina, 22 anos, com massa no quadrante inferior direito do abdômen há 3 meses. Durante cirurgia, descobriu-se que o ovário direito estava destruído e substituído por um tumor cístico contendo material gorduroso, cabelos, e dentes visíveis na parede do cisto. O diagnóstico deve ser\nA. Disgerminoma\nB. Hamartoma\nC. Neoplasia de comportamento incerto\nD. Teratoma",
+        "target_scores": {
+            "A. Disgerminoma": 0,
+            "B. Hamartoma": 0,
+            "C. Neoplasia de comportamento incerto": 0,
+            "D. Teratoma": 1
+        }
+    },
+    {
+        "input": "Qual dos seguintes hormônios é essencial para induzir o pico de LH necessário para a ovulação aproximadamente um dia antes da mesma (  )\nA. Andrógeno\nB. Estradiol\nC. Hormônio folicular\nD. Progesterona",
+        "target_scores": {
+            "A. Andrógeno": 0,
+            "B. Estradiol": 1,
+            "C. Hormônio folicular": 0,
+            "D. Progesterona": 0
+        }
+    },
+    {
+        "input": "Homem, 70 anos, admitido em emergência por hemorragia digestiva alta. Espécime cirúrgico mostra uma úlcera grande em formato de cratera vulcânica na região antral do estômago. Ao corte, apresenta consistência dura, cor esbranquiçada, com invasão da camada muscular. Fígado contém vários pequenos nódulos, removidos cirurgicamente e enviados para patologia, com diagnóstico de metástase hepática de câncer gástrico. A alteração patológica é\nA. Pequenos nódulos formados por células de carcinoma escamoso\nB. Pequenos nódulos formados por células em anel de sinete\nC. Pequenos nódulos formados por hepatócitos\nD. Pequenos nódulos formados por pseudolóbulos",
+        "target_scores": {
+            "A. Pequenos nódulos formados por células de carcinoma escamoso": 0,
+            "B. Pequenos nódulos formados por células em anel de sinete": 1,
+            "C. Pequenos nódulos formados por hepatócitos": 0,
+            "D. Pequenos nódulos formados por pseudolóbulos": 0
+        }
+    },
+    {
+        "input": "O João, 5 anos. Apresenta alimentação seletiva e baixo peso. Diagnosticado com desnutrição no ambulatório. O médico recomendou correção dos hábitos alimentares e aumento da ingestão de proteínas na dieta, principalmente porque as proteínas no organismo podem\nA. Conversão em açúcar, suplementação energética\nB. Conversão em gordura, manutenção do equilíbrio energético\nC. Oxidação direta para energia, manutenção do equilíbrio energético\nD. Suplementar com diversos aminoácidos, manter efeito complementar, promover crescimento",
+        "target_scores": {
+            "A. Conversão em açúcar, suplementação energética": 0,
+            "B. Conversão em gordura, manutenção do equilíbrio energético": 0,
+            "C. Oxidação direta para energia, manutenção do equilíbrio energético": 0,
+            "D. Suplementar com diversos aminoácidos, manter efeito complementar, promover crescimento": 1
+        }
+    },
+    {
+        "input": "Sobre congestão pulmonar, questão de escolha única: Mulher, 60 anos, com estenose mitral há aproximadamente 15 anos, recentemente com agravamento da dispneia e tosse com escarro espumoso rosado. A alteração patológica NÃO compatível com o pulmão desta paciente é (  )\nA. Dilatação dos capilares da parede alveolar\nB. Exsudato fibrinoso abundante nos alvéolos\nC. Extravasamento de hemácias para o espaço alveolar\nD. Grande quantidade de líquido proteico nos alvéolos",
+        "target_scores": {
+            "A. Dilatação dos capilares da parede alveolar": 0,
+            "B. Exsudato fibrinoso abundante nos alvéolos": 1,
+            "C. Extravasamento de hemácias para o espaço alveolar": 0,
+            "D. Grande quantidade de líquido proteico nos alvéolos": 0
+        }
+    },
+    {
+        "input": "No diagnóstico diferencial de tumores malignos, a coloração imuno-histoquímica positiva para vimentina e negativa para citoqueratina indica que o tumor é\nA. Câncer\nB. Melanoma\nC. Sarcoma\nD. Tumor neuroendócrino",
+        "target_scores": {
+            "A. Câncer": 0,
+            "B. Melanoma": 0,
+            "C. Sarcoma": 1,
+            "D. Tumor neuroendócrino": 0
+        }
+    },
+    {
+        "input": "Quando a pressão arterial varia na faixa de 80-180mmHg, o fluxo sanguíneo renal mantém-se relativamente estável devido a qual dos seguintes mecanismos regulatórios\nA. Autorregulação\nB. Regulação pelo sistema nervoso parassimpático\nC. Regulação pelo sistema renina-angiotensina\nD. Regulação pelo sistema simpático-adrenomedular",
+        "target_scores": {
+            "A. Autorregulação": 1,
+            "B. Regulação pelo sistema nervoso parassimpático": 0,
+            "C. Regulação pelo sistema renina-angiotensina": 0,
+            "D. Regulação pelo sistema simpático-adrenomedular": 0
+        }
+    },
+    {
+        "input": "O motivo pelo qual os comissários de bordo recomendam aos passageiros fazer movimentos de deglutição durante a subida e descida do avião é\nA. Regular o equilíbrio de pressão em ambos os lados da membrana basal\nB. Regular o equilíbrio de pressão em ambos os lados da membrana vestibular\nC. Regular o equilíbrio de pressão entre a cavidade timpânica e a atmosfera\nD. Regular o equilíbrio de pressão interna e externa da membrana da janela oval",
+        "target_scores": {
+            "A. Regular o equilíbrio de pressão em ambos os lados da membrana basal": 0,
+            "B. Regular o equilíbrio de pressão em ambos os lados da membrana vestibular": 0,
+            "C. Regular o equilíbrio de pressão entre a cavidade timpânica e a atmosfera": 1,
+            "D. Regular o equilíbrio de pressão interna e externa da membrana da janela oval": 0
+        }
+    },
+    {
+        "input": "Durante a respiração tranquila, a pressão intrapulmonar é menor que a pressão atmosférica em qual das seguintes fases\nA. Final da expiração\nB. Final da inspiração\nC. Início da expiração\nD. Início da inspiração",
+        "target_scores": {
+            "A. Final da expiração": 0,
+            "B. Final da inspiração": 0,
+            "C. Início da expiração": 0,
+            "D. Início da inspiração": 1
+        }
+    },
+    {
+        "input": "Paciente masculino, 35 anos, com infecção do trato respiratório superior há 2 dias, com rápida deterioração, febre (39,8°C), calafrios, dor torácica e tosse com escarro ferrugem. Raio-X mostra consolidação densa no lobo inferior do pulmão esquerdo. A descrição NÃO compatível com a doença deste paciente é:\nA. Pode complicar-se com abscesso pulmonar\nB. Pode complicar-se com bronquiectasia\nC. Pode complicar-se com carnificação pulmonar\nD. Pode complicar-se com choque séptico",
+        "target_scores": {
+            "A. Pode complicar-se com abscesso pulmonar": 0,
+            "B. Pode complicar-se com bronquiectasia": 1,
+            "C. Pode complicar-se com carnificação pulmonar": 0,
+            "D. Pode complicar-se com choque séptico": 0
+        }
+    },
+    {
+        "input": "Para uma única fibra nervosa, se a intensidade do estímulo é aumentada para o dobro do limiar, qual será a mudança na amplitude do potencial de ação\nA. Aumento em dobro\nB. Aumento em uma vez\nC. Permanece inalterado\nD. Redução pela metade",
+        "target_scores": {
+            "A. Aumento em dobro": 0,
+            "B. Aumento em uma vez": 0,
+            "C. Permanece inalterado": 1,
+            "D. Redução pela metade": 0
+        }
+    },
+    {
+        "input": "Com pré-carga constante, em que momento a velocidade inicial da contração muscular atinge seu valor máximo quando a pós-carga\nA. Excessiva\nB. Infinita\nC. Muito pequena\nD. Zero",
+        "target_scores": {
+            "A. Excessiva": 0,
+            "B. Infinita": 0,
+            "C. Muito pequena": 0,
+            "D. Zero": 1
+        }
+    },
+    {
+        "input": "Paciente masculino, 50 anos, com hérnia inguinal direita. Após cirurgia de herniorrafia, o período em que a resistência à tração da ferida atinge seu pico é de\nA. 2 meses\nB. 3 meses\nC. 3 semanas\nD. 5 semanas",
+        "target_scores": {
+            "A. 2 meses": 0,
+            "B. 3 meses": 1,
+            "C. 3 semanas": 0,
+            "D. 5 semanas": 0
+        }
+    },
+    {
+        "input": "Paciente feminina, 26 anos, com nódulo circular de aproximadamente 2cm de diâmetro no quadrante superior externo da mama direita, com bordas bem definidas, superfície lisa, móvel e indolor. Qual o diagnóstico mais provável para este nódulo?\nA. Cisto de mama\nB. Câncer de mama\nC. Fibroadenoma mamário\nD. Hiperplasia mamária",
+        "target_scores": {
+            "A. Cisto de mama": 0,
+            "B. Câncer de mama": 0,
+            "C. Fibroadenoma mamário": 1,
+            "D. Hiperplasia mamária": 0
+        }
+    },
+    {
+        "input": "Sobre os efeitos produzidos após a ligação das catecolaminas aos receptores β, qual das seguintes afirmações está INCORRETA\nA. Diminuição da atividade cardíaca\nB. Relaxamento do músculo liso intestinal\nC. Relaxamento uterino\nD. Vasodilatação",
+        "target_scores": {
+            "A. Diminuição da atividade cardíaca": 1,
+            "B. Relaxamento do músculo liso intestinal": 0,
+            "C. Relaxamento uterino": 0,
+            "D. Vasodilatação": 0
+        }
+    },
+    {
+        "input": "Qual das seguintes substâncias funciona tanto como material de armazenamento de energia quanto como fonte direta de energia\nA. Difosfato de adenosina\nB. Glicose\nC. Trifosfato de adenosina\nD. Ácido graxo",
+        "target_scores": {
+            "A. Difosfato de adenosina": 0,
+            "B. Glicose": 0,
+            "C. Trifosfato de adenosina": 1,
+            "D. Ácido graxo": 0
+        }
+    },
+    {
+        "input": "Paciente feminina, 40 anos, com dor lombar esquerda há 1 ano, sangue na urina e episódios de piúria. Exame detectou bacilo da tuberculose na urina. Urografia excretora mostrou cavidades no rim esquerdo. O diagnóstico compatível com a doença desta paciente é\nA. Carcinoma de células renais esquerdo\nB. Cálculo renal esquerdo\nC. Hidronefrose renal esquerda\nD. Tuberculose renal esquerda",
+        "target_scores": {
+            "A. Carcinoma de células renais esquerdo": 0,
+            "B. Cálculo renal esquerdo": 0,
+            "C. Hidronefrose renal esquerda": 0,
+            "D. Tuberculose renal esquerda": 1
+        }
+    },
+    {
+        "input": "Entre as seguintes lesões pré-cancerosas, qual apresenta a maior probabilidade de malignização\nA. Gastrite atrófica crônica\nB. Hiperplasia atípica\nC. Metaplasia intestinal\nD. Úlcera gástrica",
+        "target_scores": {
+            "A. Gastrite atrófica crônica": 0,
+            "B. Hiperplasia atípica": 1,
+            "C. Metaplasia intestinal": 0,
+            "D. Úlcera gástrica": 0
+        }
+    },
+    {
+        "input": "Mulher, 30 anos, com tuberculose da coluna lombar e formação de abscesso frio nas costas. O abscesso rompeu com drenagem contínua de pus. Esta lesão é\nA. Cavidade\nB. Fístula\nC. Trajeto fistuloso\nD. Úlcera",
+        "target_scores": {
+            "A. Cavidade": 0,
+            "B. Fístula": 0,
+            "C. Trajeto fistuloso": 1,
+            "D. Úlcera": 0
+        }
+    },
+    {
+        "input": "Um paciente apresenta polifagia, polidipsia e poliúria, com glicemia de 200mg/100ml e glicosúria (+). A principal causa do aumento do volume urinário é\nA. Alta pressão osmótica cristaloide do plasma\nB. Aumento da concentração de solutos nos túbulos renais\nC. Aumento da taxa de filtração glomerular\nD. Diminuição da reabsorção tubular renal",
+        "target_scores": {
+            "A. Alta pressão osmótica cristaloide do plasma": 0,
+            "B. Aumento da concentração de solutos nos túbulos renais": 1,
+            "C. Aumento da taxa de filtração glomerular": 0,
+            "D. Diminuição da reabsorção tubular renal": 0
+        }
+    },
+    {
+        "input": "Paciente feminina, 60 anos, com amostra de tecido de tumor vesical. Exame macroscópico: tumor com diâmetro de aproximadamente 3cm, aspecto papilar, formação de úlceras na superfície, ao corte apresenta-se branco-acinzentado e duro, com invasão da camada muscular da bexiga. O diagnóstico mais provável deste tumor é\nA. Carcinoma de células transicionais\nB. Carcinoma escamoso\nC. Carcinoma indiferenciado\nD. Leiomioma",
+        "target_scores": {
+            "A. Carcinoma de células transicionais": 0,
+            "B. Carcinoma escamoso": 0,
+            "C. Carcinoma indiferenciado": 0,
+            "D. Leiomioma": 1
+        }
+    },
+    {
+        "input": "Mulher, 18 anos, com febre alta, náuseas, vômitos, sonolência, icterícia cutânea e escleral, dor na região hepática. ALT 150U, bilirrubina 35mg%, $HBsAg(+)$. Dois dias após internação, apresentou fetor hepático e coma há uma semana. Faleceu devido a hemorragia gastrointestinal extensa. A alteração patológica compatível com a biópsia hepática é\nA. Necrose fragmentada de hepatócitos\nB. Necrose maciça de hepatócitos\nC. Necrose pontual de hepatócitos\nD. Necrose submaciça de hepatócitos",
+        "target_scores": {
+            "A. Necrose fragmentada de hepatócitos": 0,
+            "B. Necrose maciça de hepatócitos": 1,
+            "C. Necrose pontual de hepatócitos": 0,
+            "D. Necrose submaciça de hepatócitos": 0
+        }
+    },
+    {
+        "input": "Homem, 16 anos. Queimadura na mão esquerda, com vermelhidão, inchaço e algumas bolhas, sem infecção. Após tratamento e cura, a alteração patológica no tecido cutâneo local se manifesta como\nA. Destruição dos anexos cutâneos\nB. Formação de cicatriz fibrosa\nC. Pele normal\nD. Proliferação capilar",
+        "target_scores": {
+            "A. Destruição dos anexos cutâneos": 0,
+            "B. Formação de cicatriz fibrosa": 0,
+            "C. Pele normal": 1,
+            "D. Proliferação capilar": 0
+        }
+    },
+    {
+        "input": "A metaplasia escamosa do epitélio da mucosa brônquica geralmente pertence a qual das seguintes alterações\nA. Alteração adaptativa\nB. Displasia\nC. Hiperplasia atípica\nD. Regeneração incompleta",
+        "target_scores": {
+            "A. Alteração adaptativa": 1,
+            "B. Displasia": 0,
+            "C. Hiperplasia atípica": 0,
+            "D. Regeneração incompleta": 0
+        }
+    },
+    {
+        "input": "Mulher, 23 anos, primípara a termo, sem complicações na gestação. Durante o trabalho de parto, subitamente apresentou dificuldade respiratória, cianose, queda da pressão arterial, convulsões generalizadas, coma e morte apesar das tentativas de ressuscitação. Na autópsia, o achado mais provável nas pequenas artérias e capilares pulmonares é (  )\nA. Embolia gasosa\nB. Embolia gordurosa\nC. Embolia por líquido amniótico\nD. Embolia pulmonar\n",
+        "target_scores": {
+            "A. Embolia gasosa": 0,
+            "B. Embolia gordurosa": 1,
+            "C. Embolia por líquido amniótico": 0,
+            "D. Embolia pulmonar\n": 0
+        }
+    },
+    {
+        "input": "Um adulto normal precisa excretar 900mmol/L de solutos diariamente. Se uma pessoa tem disfunção na capacidade de concentração e diluição da urina, com concentração osmótica máxima de 300mmol/L, qual é a quantidade mínima de água que essa pessoa precisa ingerir diariamente para evitar o aumento da concentração osmótica dos fluidos corporais (assumindo perda de água insensível sem sudorese de 1,5L/d)\nA. 1L\nB. 3L\nC. 4,5L\nD. 6L",
+        "target_scores": {
+            "A. 1L": 0,
+            "B. 3L": 0,
+            "C. 4,5L": 1,
+            "D. 6L": 0
+        }
+    },
+    {
+        "input": "Se determinada substância tiver uma concentração definida na artéria renal, mas é zero na veia renal, sua depuração plasmática é (  )\nA. Igual a zero\nB. Igual ao fluxo plasmático renal por minuto\nC. Igual ao fluxo sanguíneo renal por minuto\nD. Igual à taxa de filtração glomerular",
+        "target_scores": {
+            "A. Igual a zero": 0,
+            "B. Igual ao fluxo plasmático renal por minuto": 1,
+            "C. Igual ao fluxo sanguíneo renal por minuto": 0,
+            "D. Igual à taxa de filtração glomerular": 0
+        }
+    },
+    {
+        "input": "Paciente não consegue escrever, embora outras funções da linguagem estejam intactas e não haja impedimento de outros movimentos manuais. A lesão no centro da linguagem está localizada em\nA. Parte posterior da circunvolução frontal média\nB. Parte posterior da circunvolução temporal superior\nC. Região posterior da base da circunvolução pré-central\nD. Terço posterior da circunvolução frontal inferior",
+        "target_scores": {
+            "A. Parte posterior da circunvolução frontal média": 1,
+            "B. Parte posterior da circunvolução temporal superior": 0,
+            "C. Região posterior da base da circunvolução pré-central": 0,
+            "D. Terço posterior da circunvolução frontal inferior": 0
+        }
+    },
+    {
+        "input": "Uma pessoa tem contagem total de leucócitos de $11 \\times 10^9/L$, com neutrófilos $5 \\times 10^9/L$ e eosinófilos $3 \\times 10^9/L$. Isso pode ser observado em que tipo de paciente?\nA. Bebê\nB. Habitantes de altitude\nC. Pacientes com esquistossomose.\nD. Pessoa normal",
+        "target_scores": {
+            "A. Bebê": 0,
+            "B. Habitantes de altitude": 0,
+            "C. Pacientes com esquistossomose.": 1,
+            "D. Pessoa normal": 0
+        }
+    },
+    {
+        "input": "Em lesões cerebrais, as células da glia podem ter sua função reduzida devido à proliferação excessiva. Das seguintes reduções funcionais, qual está relacionada à formação de focos epilépticos locais\nA. Capacidade de bombear K+\nB. Função de barreira\nC. Função isolante\nD. Função nutritiva",
+        "target_scores": {
+            "A. Capacidade de bombear K+": 1,
+            "B. Função de barreira": 0,
+            "C. Função isolante": 0,
+            "D. Função nutritiva": 0
+        }
+    },
+    {
+        "input": "Em condições normais, a pressão intrapleural ao final da expiração tranquila é de -5 a -3mmHg. No final da inspiração tranquila, a pressão intrapleural é\nA. -10 a -5mmHg\nB. -3 a 5mmHg\nC. 0-5mmHg\nD. 5-10mmHg",
+        "target_scores": {
+            "A. -10 a -5mmHg": 1,
+            "B. -3 a 5mmHg": 0,
+            "C. 0-5mmHg": 0,
+            "D. 5-10mmHg": 0
+        }
+    },
+    {
+        "input": "Na seguinte sequência parcial de mRNA, o códon 91 mudou de UAG para UAA devido a uma mutação no DNA molde. Este tipo de mutação é\nA. Mutação frameshift\nB. Mutação missense\nC. Mutação silenciosa\nD. Mutuação sem sentido",
+        "target_scores": {
+            "A. Mutação frameshift": 0,
+            "B. Mutação missense": 0,
+            "C. Mutação silenciosa": 1,
+            "D. Mutuação sem sentido": 0
+        }
+    },
+    {
+        "input": "Paciente masculino, 73 anos, sem histórico de hipertensão. Há 3 dias sentiu súbita sensação de peso no membro inferior direito com limitação de movimento, acompanhada de limitação de movimento no membro superior direito. Há 1 dia perdeu completamente a capacidade de mover os membros superior e inferior direitos. A descrição compatível com a doença do paciente é\nA. Abscesso cerebral\nB. Aterosclerose das artérias cerebrais com trombose\nC. Hemorragia cerebral\nD. Tumor cerebral",
+        "target_scores": {
+            "A. Abscesso cerebral": 0,
+            "B. Aterosclerose das artérias cerebrais com trombose": 1,
+            "C. Hemorragia cerebral": 0,
+            "D. Tumor cerebral": 0
+        }
+    },
+    {
+        "input": "Na pancreatite aguda, podem-se observar manchas de saponificação, cujo tipo de necrose é\nA. Necrose caseosa\nB. Necrose coagulativa\nC. Necrose gordurosa\nD. Necrose liquefativa",
+        "target_scores": {
+            "A. Necrose caseosa": 0,
+            "B. Necrose coagulativa": 0,
+            "C. Necrose gordurosa": 1,
+            "D. Necrose liquefativa": 0
+        }
+    },
+    {
+        "input": "Das seguintes patologias, em qual a amiloidose NÃO é comumente observada\nA. Aterosclerose\nB. Carcinoma medular da tireoide\nC. Doença da medula óssea\nD. Tuberculose",
+        "target_scores": {
+            "A. Aterosclerose": 1,
+            "B. Carcinoma medular da tireoide": 0,
+            "C. Doença da medula óssea": 0,
+            "D. Tuberculose": 0
+        }
+    },
+    {
+        "input": "Se o período refratário absoluto de um ciclo de excitabilidade celular for de 2 ms, teoricamente o número máximo de potenciais de ação que podem ser gerados e conduzidos por segundo não excede\nA. 100 vezes\nB. 400 vezes\nC. 50 vezes\nD. 500 vezes",
+        "target_scores": {
+            "A. 100 vezes": 0,
+            "B. 400 vezes": 0,
+            "C. 50 vezes": 0,
+            "D. 500 vezes": 1
+        }
+    },
+    {
+        "input": "A membrana basal do glomérulo renal com projeções perpendiculares semelhantes a dentes de pente é observada em qual das seguintes doenças\nA. Glomerulonefrite crescêntica\nB. Glomerulonefrite membranoproliferativa tipo I\nC. Glomerulonefrite membranoproliferativa tipo II\nD. Glomerulonefrite membranosa",
+        "target_scores": {
+            "A. Glomerulonefrite crescêntica": 0,
+            "B. Glomerulonefrite membranoproliferativa tipo I": 0,
+            "C. Glomerulonefrite membranoproliferativa tipo II": 0,
+            "D. Glomerulonefrite membranosa": 1
+        }
+    },
+    {
+        "input": "Mulher, 58 anos. Hospitalizada por massa no quadrante superior externo da mama esquerda com linfonodos axilares aumentados. Diagnóstico patológico da peça cirúrgica: carcinoma ductal invasivo da mama esquerda com metástase linfonodal (2/10). Das seguintes alterações patológicas, qual está mais intimamente relacionada à metástase do tumor da paciente\nA. Aparecimento de focos de necrose\nB. Aumento da apoptose\nC. Aumento da expressão de queratina\nD. Aumento de receptores de laminina",
+        "target_scores": {
+            "A. Aparecimento de focos de necrose": 0,
+            "B. Aumento da apoptose": 0,
+            "C. Aumento da expressão de queratina": 0,
+            "D. Aumento de receptores de laminina": 1
+        }
+    },
+    {
+        "input": "Dois dias após lesão por esmagamento do dedo, a dor intensificou, com vermelhidão e inchaço estendendo-se para a palma da mão, sem limites claros com o tecido normal. Esta lesão deve ser diagnosticada como\nA. Abscesso\nB. Celulite\nC. Inflamação fibrinosa\nD. Inflamação serosa",
+        "target_scores": {
+            "A. Abscesso": 0,
+            "B. Celulite": 1,
+            "C. Inflamação fibrinosa": 0,
+            "D. Inflamação serosa": 0
+        }
+    },
+    {
+        "input": "Homem, 8 anos, com febre baixa, fadiga, fraqueza e sudorese noturna, além de tosse há um ano. Raio-X mostra sombra mal definida próxima à pleura na parte superior do lobo inferior do pulmão direito, com múltiplos linfonodos hilares aumentados. Teste tuberculínico positivo. A doença deste paciente é provavelmente\nA. Tuberculose pulmonar fibrosa cavitária crônica\nB. Tuberculose pulmonar focal\nC. Tuberculose pulmonar infiltrativa\nD. Tuberculose pulmonar primária com disseminação linfática",
+        "target_scores": {
+            "A. Tuberculose pulmonar fibrosa cavitária crônica": 0,
+            "B. Tuberculose pulmonar focal": 0,
+            "C. Tuberculose pulmonar infiltrativa": 0,
+            "D. Tuberculose pulmonar primária com disseminação linfática": 1
+        }
+    },
+    {
+        "input": "Paciente masculino, 10 anos, com amigdalite há 2 semanas, melhorou após tratamento. Nos últimos 2 dias, desenvolveu edema palpebral, oligúria, hematúria, proteinúria (+++) e hipertensão (150/90 mmHg). O quadro clínico do paciente é compatível com\nA. Síndrome de glomerulonefrite rapidamente progressiva\nB. Síndrome nefrítica aguda\nC. Síndrome nefrítica crônica\nD. Síndrome nefrítica oculta",
+        "target_scores": {
+            "A. Síndrome de glomerulonefrite rapidamente progressiva": 0,
+            "B. Síndrome nefrítica aguda": 1,
+            "C. Síndrome nefrítica crônica": 0,
+            "D. Síndrome nefrítica oculta": 0
+        }
+    },
+    {
+        "input": "Paciente feminina, 50 anos, com tumor nas costas há 5 anos, de crescimento lento. Ao exame, tumor com aproximadamente 5cm de diâmetro, móvel e com bordas bem definidas. Após excisão cirúrgica, o tumor apresentava-se amarelo-claro, lobulado, com cápsula intacta e consistência macia. Este nódulo é mais provavelmente\nA. Fibroma\nB. Hemangioma\nC. Leiomioma\nD. Lipoma",
+        "target_scores": {
+            "A. Fibroma": 0,
+            "B. Hemangioma": 0,
+            "C. Leiomioma": 0,
+            "D. Lipoma": 1
+        }
+    },
+    {
+        "input": "No processo fisiológico de hemostasia, a ativação da fosfolipase A2 plaquetária leva as plaquetas a sintetizar e liberar\nA. ADP\nB. ATP\nC. Fator de ativação plaquetária\nD. TXA2 (Tromboxano A2)",
+        "target_scores": {
+            "A. ADP": 0,
+            "B. ATP": 0,
+            "C. Fator de ativação plaquetária": 0,
+            "D. TXA2 (Tromboxano A2)": 1
+        }
+    },
+    {
+        "input": "Dos seguintes tipos patológicos de câncer endometrial, qual está mais intimamente relacionado à metaplasia (  )\nA. Adenocarcinoma endometrioide\nB. Adenocarcinoma seroso\nC. Carcinoma de células claras\nD. Carcinoma de células escamosas",
+        "target_scores": {
+            "A. Adenocarcinoma endometrioide": 0,
+            "B. Adenocarcinoma seroso": 0,
+            "C. Carcinoma de células claras": 0,
+            "D. Carcinoma de células escamosas": 1
+        }
+    },
+    {
+        "input": "Quando uma mãe Rh negativo dá à luz um filho Rh positivo, é possível que ele tenha (  )\nA. Anemia hemolítica neonatal\nB. Anemia megaloblástica\nC. Hemofilia\nD. Policitemia",
+        "target_scores": {
+            "A. Anemia hemolítica neonatal": 1,
+            "B. Anemia megaloblástica": 0,
+            "C. Hemofilia": 0,
+            "D. Policitemia": 0
+        }
+    },
+    {
+        "input": "Mulher, 28 anos, com desconforto no baixo ventre. Exame revela massa no baixo abdômen. Realizada histerectomia. Macroscopicamente observa-se nódulo branco-acinzentado a amarelado na parede muscular uterina, com 2cm de diâmetro e bordas bem definidas. Ao microscópio, células tumorais de tamanho uniforme, coloração homogênea, figuras de mitose raras (3/10 campos de grande aumento), tumor rico em vasos sanguíneos, sem invasão vascular. Imuno-histoquímica: DES(-), CD10(+). O diagnóstico deve ser (  )\nA. Leiomioma uterino\nB. Leiomiossarcoma uterino\nC. Nódulo estromal endometrial\nD. Sarcoma indiferenciado do útero",
+        "target_scores": {
+            "A. Leiomioma uterino": 0,
+            "B. Leiomiossarcoma uterino": 0,
+            "C. Nódulo estromal endometrial": 1,
+            "D. Sarcoma indiferenciado do útero": 0
+        }
+    }
+]

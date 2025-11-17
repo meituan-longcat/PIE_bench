@@ -1,0 +1,402 @@
+[
+    {
+        "input": "Un voleur s'est introduit dans la maison d'un riche homme la nuit pour voler. Il a été piqué à plusieurs reprises par des moustiques, les nourrissant abondamment. Finalement, il n'a pas pu résister et a écrasé un moustique contre le mur. Ensuite, il a immédiatement commis son vol et s'est enfui. Lors de la recherche sur les lieux du crime, la police n'a trouvé aucune preuve biologique évidente. Alors qu'ils s'apprêtaient à partir, un technicien a remarqué le moustique écrasé sur le mur. Il a immédiatement utilisé un papier filtre humidifié pour prélever des traces de sang sur le mur et a soigneusement collecté les restes du moustique avant de quitter la maison du riche homme. Un nouvel employé, Jean, pensait que le technicien en faisait trop. Jean avait-il raison ?",
+        "target": "Non."
+    },
+    {
+        "input": "Une femme était en traitement dans une chambre d'hôpital. Une nuit, elle a soudainement disparu, laissant une lettre de suicide sur sa table de chevet. Ses empreintes digitales ont été retrouvées sur la fenêtre, et son corps a été découvert au sol sous la fenêtre. La fenêtre était assez haute, et grimper jusqu'à celle-ci aurait nécessité beaucoup d'efforts. La police a enquêté à l'hôpital. Une infirmière a déclaré que la dernière fois qu'elle avait vu la femme, c'était lorsqu'elle lui avait administré un puissant somnifère nocturne. Une autre infirmière a dit qu'elle avait vérifié la chambre une demi-heure plus tard, et que la femme était toujours là. Cette femme aurait-elle pu se suicider ?",
+        "target": "Non, ce n'est pas possible."
+    },
+    {
+        "input": "La police a découvert une personne pendue à une corde, avec un tabouret renversé sous elle. Les yeux de la victime étaient fermés et son visage présentait une couleur violacée. On n'a trouvé aucune substance muqueuse (écume) dans sa bouche. Une fois le corps descendu, on a découvert deux marques de cordes sur son cou. Une correspondait à la corde de pendaison, tandis que l'autre, plus fine, montrait des fissures cutanées et des vaisseaux sanguins éclatés. Aucune autre blessure ou marque d'étranglement n'a été trouvée sur le corps. S'agit-il d'un suicide par pendaison ?",
+        "target": "Non, il s'agit d'un meurtre maquillé en suicide."
+    },
+    {
+        "input": "À Bangkok, un squelette presque dépourvu de chair a été découvert. La peau avait presque disparu, laissant seulement quelques traces. L'endroit n'abrite aucun animal nécrophage, mais on y trouve des mouches et autres insectes. Les enquêteurs ont estimé que le squelette était là depuis environ 15 jours. Cette estimation est-elle correcte ?",
+        "target": "Non."
+    },
+    {
+        "input": "Une jeune fille est décédée lors d'une tornade. Son corps présentait des blessures à la tête et il y avait des traces de sang sur un poteau à proximité. Autour de son corps, les éclaboussures de sang étaient uniformément réparties. La police a interrogé trois personnes. La mère de la défunte a déclaré : « J'étais sur le point d'aller la chercher quand la tornade est survenue, et l'accident s'est produit. » Le petit ami de la défunte a dit : « Je lui ai conseillé hier de faire attention, car les prévisions annonçaient une tornade. Elle ne m'a pas écouté, malheureusement... » Enfin, sa cousine a mentionné : « Elle était chez moi comme invitée, et je l'ai accompagnée à la porte. Je ne m'attendais pas à cela... » La police a arrêté l'une de ces personnes comme suspecte. De qui s'agit-il ?",
+        "target": "Le petit ami."
+    },
+    {
+        "input": "Un groupe de musique a décidé d'ajouter une touche originale à leur performance : le chanteur principal devait s'allonger dans un cercueil rempli de glace sèche, créant un effet de brouillard mystérieux. L'idée était qu'il sortirait après que le guitariste ait terminé un morceau de 5 minutes. Mais lorsqu'il est allé appeler le chanteur, il l'a trouvé inconscient. Quelle en est la raison ?",
+        "target": "La concentration de dioxyde de carbone était trop élevée, provoquant une asphyxie par manque d'oxygène."
+    },
+    {
+        "input": "M. Pierre a été retrouvé pendu dans sa maison. Il était seul à l'intérieur, ses pieds à un mètre du sol, et aucune chaise ou support n'a été trouvé dans la pièce. Il n'y avait pas de traces d'eau sur le sol, ses pieds n'étaient pas en bon état, et les portes et fenêtres étaient fermées. Un ventilateur fonctionnait, mais la bouche d'aération était trop petite pour laisser passer une personne. Une boîte de glace sèche immobile contenait quelques fragments de glace. La police a exclu l'hypothèse d'un meurtre. Comment M. Pierre a-t-il réussi à atteindre la corde ?",
+        "target": "Il s'est tenu sur de la glace sèche, qui s'est sublimée en gaz après un certain temps."
+    },
+    {
+        "input": "Dans un atelier de produits chimiques, un travailleur a été retrouvé inconscient. On a appris qu'il avait brûlé une substance dans la pièce. La police a découvert une lampe à alcool, de l'eau distillée et un sac de granulés de polyacrylamide. Aucun alcool n'a été détecté dans son organisme, mais la pièce manquait d'aération. Quelle est la cause probable de son inconscience ?",
+        "target": "Intoxication par les gaz produits par la combustion du polyacrylamide."
+    },
+    {
+        "input": "Dans une pièce, un électricien a été retrouvé mort. Avant sa mort, il installait des fils pour l'éclairage, mais beaucoup étaient encore exposés. Son corps ne présentait aucune blessure visible, et la cause du décès était un arrêt cardiaque. Il portait des équipements de protection isolants neufs, et aucune partie de son corps ne touchait directement les fils. Une flaque de liquide jaune, identifiée comme de l'urine, était près du corps. Quelle est la cause probable de la mort ?",
+        "target": "L'urine a probablement conduit l'électricité des fils exposés, l'urine est conductrice, entraînant une électrocution et un arrêt cardiaque."
+    },
+    {
+        "input": "En juin, deux enfants ont découvert un corps dans les bois. La description mentionne que le cadavre n'était pas encore rigide, mais que le visage était extrêmement gonflé, les yeux sortaient des orbites, et le corps tout entier était devenu énorme, dégageant une odeur nauséabonde de putréfaction. La semaine précédant cette découverte, la température moyenne était d'environ 30 °C. Jean pensait que le corps était mort depuis environ 5 jours. Sa supposition est-elle correcte ?",
+        "target": "Non."
+    },
+    {
+        "input": "Dans un atelier de traitement de perles naturelles, la police a ajouté de l'acide chlorhydrique sur un lot de produits en perles. Les perles n'ont montré aucune réaction. Les policiers ont immédiatement conclu que ces perles étaient des contrefaçons. Cette conclusion est-elle correcte ?",
+        "target": "Oui, elle est correcte."
+    },
+    {
+        "input": "Une personne s'est brûlée au visage avec de l'huile chaude éclaboussée, et a été transportée à l'hôpital pour traitement. Lorsque le médecin a demandé ce qui s'était passé, la personne a répondu : « Alors que je faisais cuire des aliments, l'huile dans la poêle a pris feu. J'ai essayé de l'éteindre, mais cela a mal tourné. » Quelle est la méthode la plus probable que cette personne a utilisée pour éteindre le feu ?",
+        "target": "Elle a probablement versé de l'eau dans la poêle d'huile."
+    },
+    {
+        "input": "Par une nuit d'été, deux agents poursuivaient un fugitif. Arrivés dans une rizière, ils ont perdu sa trace. En s'arrêtant un moment pour écouter, ils ont remarqué des grenouilles coassant à gauche, une route silencieuse au centre, et des grillons stridulant à droite. Par où le fugitif est-il le plus susceptible d'avoir fui ?",
+        "target": "Par la route au centre."
+    },
+    {
+        "input": "Après une blessure, une personne a commencé à présenter des symptômes tels que trismus, des spasmes intermittents et des contractions musculaires rigides. Le diagnostic médical était « tétanos ». Récemment, cette personne avait soit eu un torticolis au réveil, soit marché sur un clou rouillé, soit heurté une chaise en bois et tombé. Quelle est l'origine la plus probable de la maladie ?",
+        "target": "La piqûre par un clou rouillé."
+    },
+    {
+        "input": "Dans une affaire, il a été établi que le suspect (de sexe indéterminé) était un pratiquant de la religion sikhe. Une femme portant une croix chrétienne, possédant une Bible, allant souvent à l'église, et ayant séjourné dans un monastère a été identifiée. Est-elle probablement la suspecte ?",
+        "target": "Non."
+    },
+    {
+        "input": "Un jour de pluie intense, de nombreux visiteurs se sont rendus au musée sous une pluie battante. Le musée n'ayant pas de parking à proximité. Trois minutes après l'ouverture, le personnel a remarqué qu'un Bouddha en jade avait disparu, bien qu'il ait été confirmé la veille au soir lors de l'inventaire. Un détective présent a vu une personne vêtue d'un T-shirt se diriger vers la sortie. Cette personne, qui ne faisait pas partie du personnel, avait un parapluie sans gouttelettes d'eau en dessous. Le détective a soupçonné que cette personne était un voleur et a transmis l'information à la police. Ces soupçons étaient-ils fondés ?",
+        "target": "Oui."
+    },
+    {
+        "input": "M. Pierre se promenait en hiver dans une forêt quand il a trouvé un corps au sol. L'examen a révélé que la personne était décédée la nuit précédente, alors que la température était constamment en dessous de zéro. Des traces de venin de serpent ont été détectées dans le sang du défunt, correspondant au venin d'un serpent local. La personne a-t-elle été tuée par un serpent de la forêt ?",
+        "target": "Non."
+    },
+    {
+        "input": "Un voleur a été arrêté et emprisonné dans une prison qui organisait une soirée culturelle mensuelle. Un jour, un orchestre est venu jouer, avec des musiciens d'instruments à vent et un bassiste transportant un grand étui à contrebasse. Après le spectacle, en repartant, il a été constaté qu'un détenu manquait, et certains instruments avaient été laissés sur place. L'orchestre est passé par la porte principale, où les contrôles ont confirmé le même nombre de personnes qu'à l'entrée. Où pourrait se trouver le détenu disparu ?",
+        "target": "Il s'est probablement caché dans l'étui de la contrebasse et a été sorti de la prison."
+    },
+    {
+        "input": "Plusieurs cadavres ont été retrouvés dans une pièce. Ils n'avaient aucune blessure visible ni signes d'empoisonnement, mais leurs organes internes étaient gravement endommagés. Il a été rapporté que quelqu'un avait diffusé un son à l'aide d'un haut-parleur puissant, bien que personne n'ait entendu ce son. Un enquêteur, M. Durand, pensait que cela était dû à de la musique toxique. Un autre, M. Lefèvre, pensait qu'il s'agissait d'ondes infrasonores puissantes. Quelle hypothèse est la plus raisonnable ?",
+        "target": "Celle de M. Lefèvre."
+    },
+    {
+        "input": "Mme Camille est décédée lors d'un incendie dans sa maison, où une épaisse fumée s'était formée. Son corps était partiellement calciné, mais aucune trace de suie n'a été trouvée dans ses poumons. En plus des brûlures, une blessure à l'arrière de son crâne a été relevée, causée par un objet contondant, ce qui a fracturé son crâne. Mme Li était couchée face contre terre, sans blessures au front. Est-elle morte dans l'incendie ?",
+        "target": "Non."
+    },
+    {
+        "input": "Une cuisine de restaurant a été cambriolée. Un suspect interrogé a déclaré : « J'étais dans la cuisine parce que j'avais commandé des crevettes vapeur, mais le chef tardait à les préparer. Alors, je suis allé le voir. Ensuite, je l'ai vu prendre des crevettes vivantes rouges pour les cuire, et j'ai décidé d'attendre encore un peu. » Pourquoi les policiers ont-ils trouvé cette déclaration suspecte ?",
+        "target": "Parce que les crevettes vivantes ne sont pas rouges. Elles deviennent rouges uniquement après cuisson."
+    },
+    {
+        "input": "Une personne a été tuée par balle. Sur le lieu du crime, des balles rondes ont été retrouvées. La police a suivi la piste jusqu'à la maison du suspect, où elle a découvert plusieurs armes : un AK47, un Glock, un Barrett et un M16. Quelle arme est l'arme du crime ?",
+        "target": "Le Glock."
+    },
+    {
+        "input": "Pierre et ses amis ont fait du sport dans une salle de gym, puis ont pris une douche sur place avant de jouer à des jeux sur leurs téléphones. Chacun a mangé ce qu'il avait apporté pour le déjeuner : du pain, des œufs, du lait, etc. Pierre a mangé une salade faite avec des pommes de terre germées. Peu après, il a ressenti des nausées, des vomissements et des diarrhées, alors que les autres n'ont eu aucun symptôme. Quelle est la cause des symptômes de Pierre ?",
+        "target": "La salade de pommes de terre. Les pommes de terre germées contiennent de la solanine, qui peut provoquer des symptômes gastro-intestinaux tels que nausées, vomissements, douleurs abdominales et diarrhées, ainsi que des symptômes neurologiques comme des vertiges et des maux de tête."
+    },
+    {
+        "input": "M. Pierre, qui souffre de diabète, prend des médicaments à base d'acide salicylique. Aujourd'hui, il a été retrouvé inconscient chez lui par un voisin et transporté à l'hôpital. Chez lui, aucune odeur suspecte n'a été détectée, et les fenêtres étaient ouvertes. À l'hôpital, son urine était violette, et des dommages au foie et aux reins ont été constatés. Sa femme a déclaré qu'il n'avait consommé que de la nourriture et ses médicaments habituels. Quelle est la cause probable de son coma ?",
+        "target": "Une intoxication due à une surdose de médicaments à base d'acide salicylique."
+    },
+    {
+        "input": "Dans la nature, un corps a été découvert en train de cuisiner une soupe. Parmi ses ingrédients, on a trouvé un champignon à chapeau rouge et pied blanc, une boîte de viande en conserve ouverte mais non périmée, du poivre, et quelques tranches de pomme fraîchement achetées le matin. L'examen a révélé que la personne est morte d'une intoxication alimentaire due à un seul ingrédient. Quel ingrédient est le plus probable ?",
+        "target": "Le champignon à chapeau rouge et pied blanc."
+    },
+    {
+        "input": "Un collectionneur avait placé une bague en fer ancienne dans une bouteille en verre à col étroit, impossible à atteindre avec la main. La bouteille ne pouvait pas être déplacée, et des dispositifs d'alarme étaient installés autour. Si quelqu'un touchait la bouteille, une alarme stridente se déclenchait. Un jour, le collectionneur a découvert que la bague avait disparu, mais aucune alarme n'avait retenti. Après avoir fouillé les personnes ayant accédé à la pièce, il a trouvé des gants dans la poche du majordome et une ligne de pêche avec un aimant dans celle du nettoyeur de tapis. Qui est le plus suspect ?",
+        "target": "Le nettoyeur de tapis."
+    },
+    {
+        "input": "Dans une zone enneigée, une avalanche a soudainement eu lieu. Il a été rapporté qu'un bruit s'était fait entendre juste avant. La police a trouvé une personne ensevelie avec un cerf. À côté de la personne se trouvait un fusil de chasse, et le cerf portait une blessure par balle. Comment l'avalanche s'est-elle déclenchée ?",
+        "target": "Le tir du chasseur a provoqué une vibration de l'air, déclenchant l'avalanche."
+    },
+    {
+        "input": "Une affaire criminelle a eu lieu. La police interrogeait un suspect qui prétendait qu'il y avait eu une panne de courant à cause d'un court-circuit pendant l'incident. Il a affirmé que toute la maison était privée d'électricité, qu'il était allé se coucher, et que l'électricité n'a été rétablie que le lendemain lorsqu'un réparateur est venu. La police a remarqué un aquarium avec des poissons tropicaux chauffés qui nageaient encore à l'intérieur. De plus, il se souvenait qu'une forte neige était tombée la nuit du crime. La police a conclu que le suspect mentait. Cette déduction est-elle correcte ?",
+        "target": "Oui."
+    },
+    {
+        "input": "Sur les lieux d'un vol, des cheveux ont été retrouvés. L'analyse a montré une faible teneur en zinc. Parmi les quatre suspects, un entraîneur de gym, un enfant maigre et de petite taille, un chef cuisinier obèse et un homme grand. Qui est le plus suspect ?",
+        "target": "L'enfant maigre et de petite taille."
+    },
+    {
+        "input": "Trois voleurs ont dérobé une grande quantité de pièces d'or, qu'ils ont placées dans une boîte en plastique hermétiquement scellée. Lorsque la police s'est mise à leur poursuite, l'un d'eux a proposé : « Jetons la boîte dans l'eau pour qu'elle coule au fond, marquons le lieu et revenons la chercher demain. » Un autre a répondu : « Impossible ! La plastique est moins dense que l'eau, boîte flottera sur l'eau. » Quel voleur a raison ?",
+        "target": "Le premier."
+    },
+    {
+        "input": "Un couple a découvert un ballon gonflable dégonflé dans un parc, avec une fermeture éclair ouverte, mais il continuait à se regonfler. Il s'agit d'un ballon panoramique qui ne décollera pas, ils y sont entrés en tirant la fermeture éclair, mais ont été retrouvés morts à l'intérieur sans aucune blessure physique. L'hypothèse de Pierre était qu'ils étaient morts par asphyxie. Est-ce correct ?",
+        "target": "Oui, c'est correct."
+    },
+    {
+        "input": "Pierre jouait dans les buissons lorsqu'il s'est piqué la main sur une rose et a été piqué par une guêpe. Peu après, il a souffert d'un gonflement de la gorge et est mort par suffocation. On sait que Pierre n'était pas allergique au pollen, mais était très sensible aux sécrétions d'insectes. Quelle était la cause de sa mort ?",
+        "target": "Une réaction allergique grave à la piqûre de guêpe."
+    },
+    {
+        "input": "Sur le bureau d'une victime, la police a découvert un clavier dont le pavé numérique était nettement usé, tandis que les autres touches étaient presque intactes. Parmi les professions suivantes — programmeur, comptable, écrivain et joueur professionnel d'esport — laquelle est la plus probable ?",
+        "target": "La victime est le plus probablement un comptable."
+    },
+    {
+        "input": "Pierre avait plusieurs ecchymoses, mais aucune lésion ouverte. À une époque où des vols armés étaient fréquents, Pierre, boxeur professionnel, s'entraînait tous les jours et participait récemment à des compétitions. Il avait une excellente réputation, personne n'osait s'en prendre à lui. Quelle est l'origine la plus probable de ses blessures ?",
+        "target": "Ces blessures proviennent des entraînements ou compétitions de boxe."
+    },
+    {
+        "input": "Un corps a été trouvé dans une banlieue, et il a été initialement déterminé que la personne est morte après avoir été projetée par un véhicule. Sur la route à cet endroit, seule une trace de pneu a été trouvée. Les véhicules qui passent habituellement ici incluent des voitures, des motos, des charrettes et des vélos. Selon vous, quel type de véhicule est le plus susceptible d'avoir causé cet accident mortel ?",
+        "target": "Une moto."
+    },
+    {
+        "input": "Dans une petite ruelle, deux corps ont été découverts. Les deux victimes sont mortes après avoir été abattues à bout portant, chacune tenant une arme à feu dans la main, avec un chargeur manquant une seule balle. Selon les voisins, ils n'ont entendu qu'un seul coup de feu, sans aucun autre bruit. Il n'y avait pas de silencieux au sol, et personne d'autre n'est entré dans la ruelle. Pourquoi n'y a-t-il eu qu'un seul coup de feu ?",
+        "target": "Les deux ont tiré simultanément, se touchant mutuellement au même moment.."
+    },
+    {
+        "input": "Une femme s'est fait voler sa bague en diamant. Sur la table où la bague était posée, un empreinte digitale inconnue a été trouvée. Après enquête, la police a confirmé que le voleur se trouve dans cet appartement. Ils ont prélevé les empreintes digitales de tous les habitants, mais aucune ne correspond. En interrogeant les résidents, la police a découvert que certains possèdent des chiens, des chats et des singes. Selon vous, qui est le plus susceptible d'avoir volé la bague en diamant ?",
+        "target": "Le singe."
+    },
+    {
+        "input": "Le petit frère jouait dans l'atelier de peinture de sa grande sœur. Lorsqu'elle est rentrée, elle a découvert que les peintures bleue et jaune avaient disparu, mais la peinture verte avait augmenté. L'image sur la toile était exactement la même qu'hier, et les pots de peinture étaient hors de portée de son frère. D'où venait ce vert supplémentaire ?",
+        "target": "Le petit frère a mélangé de la peinture bleue et jaune pour faire de la peinture verte, il y avait donc plus de peinture verte."
+    },
+    {
+        "input": "Dans une usine, une alerte à un décès a été signalée, mais à l'arrivée de la police, aucun corps n'a été trouvé. Personne n’avait quitté l’atelier et aucune trace de sang n’avait été retrouvée. L'atelier contenait un four rempli d'acier en fusion. Où pourrait être la victime ?",
+        "target": "La victime a été tombée dans le four en fusion et a fondu instantanément. La température de l'acier en fusion dépasse 1 000 °C, soit plus que le point de fusion d'un être humain, ce qui fait que le corps fond instantanément."
+    },
+    {
+        "input": "Pierre est mort chez lui par suffocation. La police a exclu un acte criminel. On sait qu'il était allergique au pollen et que sa maison contenait de nombreuses fleurs de lys. Quelle est la cause probable de sa mort ?",
+        "target": "Une allergie au pollen des lys, ce qui a entraîné la mort par suffocation."
+    },
+    {
+        "input": "Un meurtre a eu lieu quelque part. D'après les empreintes trouvées sur les lieux, il s'agit de deux barres horizontales, sans aucune autre empreinte de pied. Parmi les suspects, l'un porte des chaussures de course, un autre des talons hauts, un autre des chaussures en cuir, et un dernier des geta japonais. Qui est le coupable ?",
+        "target": "La personne portant des geta japonais."
+    },
+    {
+        "input": "Un collier a été volé dans une bijouterie. Il n'a pas été retrouvé dans le magasin, ni sur les personnes présentes. Personne n'a quitté la bijouterie. Deux clients sont entrés avec des animaux : le client A portait un chat, et le client B tenait un petit caniche. Mais maintenant, le chat et le chien ont disparu. La bijouterie possède une étroite ouverture de ventilation menant à l'extérieur, d'un diamètre d'environ 20 cm. Dans cette ouverture, on n'a trouvé que quelques poils d'animaux, identifiés comme des poils de chat. Qui a probablement emporté le collier ?",
+        "target": "Le chat a probablement emporté le collier en passant par l'ouverture de ventilation."
+    },
+    {
+        "input": "Pierre célébrait le Nouvel An avec des amis. Ils avaient des armes, de l'alcool, etc. Lorsque les cloches du Nouvel An ont sonné, il a entendu des « bang bang bang », puis a ressenti une douleur à la poitrine, a saigné et est mort. Quelle est la cause de sa mort ?",
+        "target": "Mort par balle."
+    },
+    {
+        "input": "Une entreprise nationale a vendu des marchandises à une entreprise étrangère. Le paiement a été effectué en totalité. Le contrat stipulait une clause de force majeure pour des événements comme la guerre ou le vol. Pendant le transport, les marchandises ont été volées. La police a découvert que l'entreprise nationale avait racheté ces marchandises à bas prix sur le marché noir. La police pense que ce vol était probablement prémédité. Cette hypothèse est-elle raisonnable ?",
+        "target": "Oui, elle est raisonnable."
+    },
+    {
+        "input": "Un vieil homme est mort d'un AVC. Il était diabétique et avait une légère thrombose. Sa famille a déclaré qu'il avait pris de la metformine aujourd'hui. Sur son bureau, on a trouvé des comprimés de furosémide. L'enquête a révélé qu'il avait une mauvaise mémoire et prenait souvent des médicaments en pensant ne pas les avoir pris. La cause de l'AVC est-elle due à la metformine ou à une surdose de furosémide ?",
+        "target": "Probablement à une surdose de furosémide."
+    },
+    {
+        "input": "À midi par temps clair, deux Japonais se sont affrontés en duel avec des sabres. L'un d'eux est mort, mais la cause de sa mort est une électrocution, sans blessure physique. Les sabres mesurent un mètre, et les deux hommes mesurent environ 1,60 m. Au-dessus du sol, à 2,5 m de hauteur, il y avait une ligne à haute tension. Comment est-il mort ?",
+        "target": "Le sabre du défunt a touché la ligne à haute tension lorsqu'il l'a levé."
+    },
+    {
+        "input": "Un accident de la route a eu lieu à un carrefour. Un camion et un cycliste roulaient côte à côte. Le cycliste était à droite du camion, légèrement en dehors du champ de vision du pare-brise. La vitre du camion était plus haute que la tête du cycliste. Le camion a tourné à droite et a heurté le vélo. Heureusement, personne n'a été blessé. Le cycliste pense que le chauffeur du camion a tenté de le tuer intentionnellement. Ce jugement est-il raisonnable ?",
+        "target": "Non, ce n'est pas raisonnable."
+    },
+    {
+        "input": "Le tiroir de M. Pierre a été cambriolé. Il était verrouillé avec un cadenas ordinaire, mais le cadenas a été ouvert et est tombé par terre, sans traces de violence. M. Pierre a déclaré que la clé était sur lui et que le tiroir n'avait pas été forcé. On a trouvé quelques épingles à cheveux à côté. Comment le cadenas a-t-il été ouvert ?",
+        "target": "Avec une épingle à cheveux."
+    },
+    {
+        "input": "Un ami de Pierre lui a dit : « J'ai voyagé longtemps dans l'État du Kansas, aux États-Unis. Mon frère, les paysages là-bas sont magnifiques. Tu peux voir des forêts de conifères à perte de vue. » Cet ami est-il vraiment allé au Kansas ?",
+        "target": "Non."
+    },
+    {
+        "input": "Dans un milieu de combats de coqs, le coq de M. Pierre est réputé invincible, ayant remporté plus de vingt combats. Mais après chaque combat, le coq adverse présente des blessures causées par des objets tranchants. Certains soupçonnent M. Pierre de tricher, mais les spectateurs, situés à trois mètres du cercle, n'ont rien remarqué d'anormal. Le spectateur A pense que M. Pierre attache de petits objets tranchants aux pattes de son coq. Le spectateur B pense que M. Pierre donne des stimulants à son coq. Le spectateur C pense que M. Pierre lance des projectiles dans le cercle. Quelle hypothèse est la plus probable ?",
+        "target": "L'hypothèse du spectateur A"
+    },
+    {
+        "input": "A et B se battent. A utilise une barre de fer, et B utilise également une arme en forme de bâton. Mais dès que la barre de A entre en contact avec celle de B, A ressent des engourdissements, des spasmes et des douleurs. Cela signifie que l'arme de B n'est pas ordinaire. Quel type d'arme B utilise-t-il probablement ?",
+        "target": "Une matraque électrique."
+    },
+    {
+        "input": "Un détective enquête sur un vol de tableau dans une galerie. Chaque tableau est fixé au mur à 2,5 m du sol par des cordes qui déclenchent une alarme si elles sont touchées. Le jour du vol, l'alarme n'a pas sonné, mais le tableau a disparu. Le toit de la galerie est équipé d'un système complexe de fenêtres permettant à la lumière naturelle d'entrer. Sur le bord d'une fenêtre, le détective a trouvé de petites rayures et un fragment de lentille convexe. Comment le voleur a-t-il pu retirer le tableau sans toucher les cordes ?",
+        "target": "En utilisant une lentille convexe pour concentrer la lumière du soleil et brûler les cordes du cadre."
+    },
+    {
+        "input": "Dans un restaurant, un homme faisait un numéro en avalant un œuf cru. Après avoir cassé la coquille intacte et avalé le jaune, il a soudain crié, craché du sang et tenu sa gorge. Dans sa gorge, on a trouvé de petites aiguilles. Ces aiguilles ne peuvent normalement pas percer une coquille d'œuf. L'œuf avait été apporté par le chef, et la cuisine contenait des condiments comme de la sauce soja et du vinaigre. La police pense que le chef a utilisé un condiment pour introduire les aiguilles dans le jaune. Quel condiment a-t-il utilisé ?",
+        "target": "Le vinaigre."
+    },
+    {
+        "input": "Un agent secret a écrit un message important avec du jus de citron, invisible à l'œil nu. Camille a reçu le message. Elle n'a qu'une lampe de bureau, un verre d'eau et un plateau de sable. Pour rendre le message visible, quel objet doit-elle utiliser?",
+        "target": "La lampe de bureau."
+    },
+    {
+        "input": "Une personne creusait dans la nature à la recherche de trésors lorsqu'une explosion s'est soudainement produite. Cette personne a été tuée dans l'explosion, laissant des fragments métalliques et des billes d'acier sur le sol. Cet endroit était autrefois un champ de bataille pendant la Seconde Guerre mondiale. Selon A, il est possible que la personne a déterré un baril d'essence, qui a explosé. B n'est pas d'accord et pense que la personne a trouvé une mine terrestre laissée par la guerre. Quelle hypothèse semble la plus raisonnable ?",
+        "target": "L'hypothèse de B est plus raisonnable."
+    },
+    {
+        "input": "Un patient prenant des bêta-bloquants depuis longtemps a manqué de médicaments ces deux derniers jours. En raison de sa mobilité réduite, il n'est pas allé à l'hôpital pour renouveler son ordonnance et est resté chez lui avec son aide-soignant. Ce matin, l'aide-soignant l'a trouvé mort, sans aucune blessure visible. Quelle pourrait être la cause ?",
+        "target": "L'arrêt soudain des bêta-bloquants peut provoquer un rebond des maladies cardiovasculaires, entraînant la mort."
+    },
+    {
+        "input": "Une personne a disparu dans un endroit donné, sans qu'aucun corps ne soit retrouvé. On suppose qu'il s'agit d'une affaire de démembrement. Les habitants des quartiers voisins affirment n'avoir vu aucun corps ni senti d'odeur suspecte, mais quelqu'un a vu un suspect se déplacer la nuit avec des sacs en plastique. La police a identifié trois lieux possibles pour se débarrasser du corps : la décharge communautaire, l'étang communautaire ou les toilettes du suspect. Quel est le lieu le plus probable ?",
+        "target": "La décharge communautaire."
+    },
+    {
+        "input": "La police poursuit un voleur et arrive dans une ferme. Elle voit un fermier et lui demande : \"Avez-vous vu un voleur passer ?\" Le fermier répond : \"Je ne sais pas, je nourrissais mes oies avec des petits poissons. Je pense que ce sont peut-être le grand-père et le petit-fils voisins, ou le médecin du village.\" Pourquoi la police trouve-t-elle les propos du fermier suspects ?",
+        "target": "Les oies domestiques ne mangent généralement pas de poissons. Ce sont des oiseaux herbivores qui se nourrissent principalement de végétaux, de plantes aquatiques, d'algues, et préfèrent le riz. Un fermier élevant des oies le saurait, donc ce fermier pourrait être en train de mentir."
+    },
+    {
+        "input": "Une bijouterie a perdu un bijou précieux exposé dans une vitrine. La vitre a été percée d'un trou, mais aucun outil de découpe n'a été trouvé sur place. À ce moment-là, seul l'employé Pierre était présent. Pierre n'avait pas la clé de la vitrine, mais il avait celle d'autres coffres à diamants. Pierre pourrait-il être impliqué ?",
+        "target": "Oui."
+    },
+    {
+        "input": "Le voleur A et le cambrioleur B sont amis. Un jour, ils se retrouvent et, pour s'amuser, ils se défient d'ouvrir un coffre-fort. Le cambrioleur B retourne un sablier pour chronométrer. Lorsque le sablier est vide, le coffre-fort devant lui s'ouvre. Il change le code, referme le coffre et s'assoit près de la cheminée, satisfait. Lorsque le voleur A se dit prêt, le cambrioleur B retourne à nouveau le sablier et le pose sur le sol à ses pieds. Le voleur A, confiant, commence, mais lorsque le sablier est vide, le coffre-fort reste fermé, avec seulement quelques secondes de retard. Le cambrioleur B se moque de lui. Soudain, le voleur A regarde la position du sablier et dit au cambrioleur B : « Tu triches, le temps n'est pas mesuré correctement, recommençons ! » Qu'a découvert le voleur A ?",
+        "target": "Le sablier a été placé à des endroits différents. Le cambrioleur B a pu utiliser l'inclinaison du sol pour modifier la vitesse d'écoulement du sable."
+    },
+    {
+        "input": "Des terroristes se cachent dans une villa, lourdement armés. Les forces anti-terroristes utilisent une arme qui ne détruit pas la maison mais brise toutes les fenêtres et provoque des nausées chez les terroristes, les forçant à se rendre. Quelle arme a été utilisée ?",
+        "target": "Une arme sonore."
+    },
+    {
+        "input": "Pierre est allé camper et a mangé des graines d'une plante. Cette plante a des contours presque circulaires, des bords dentelés, des pétioles robustes, des capsules ovoïdes ou sphériques, avec une peau épineuse ou lisse. Pierre n'a pas lavé ses mains avant de manger les graines, puis a bu de l'eau minérale froide et mangé un sandwich. Ensuite, il a souffert de douleurs abdominales, de diarrhée et de troubles moteurs. Quelles graines a-t-il probablement mangées ?",
+        "target": "Pierre a probablement mangé des graines de ricin."
+    },
+    {
+        "input": "Un enfant a été brûlé et emmené à l'hôpital. On dit qu'il a ouvert un paquet de snacks, en a mangé quelques-uns, puis a versé le dessiccant (oxyde de calcium) dans une petite bouteille et ajouté de l'eau du robinet. Pourquoi cet enfant a-t-il été blessé ?",
+        "target": "L'oxyde de calcium réagit avec l'eau en produisant une grande quantité de chaleur, provoquant des éclaboussures d'eau chaude qui ont causé des brûlures."
+    },
+    {
+        "input": "Un homme est mort d'empoisonnement après avoir mangé dans un restaurant japonais. Les plats trouvés sur place comprenaient de la sauce soja, du bœuf, du tofu et du fugu. Tous les ingrédients provenaient de sources légales, et il n'y avait aucune preuve d'empoisonnement intentionnel. Le seul problème était que le chef était inexpérimenté et n'avait pas bien nettoyé les ingrédients. Quel plat est le plus susceptible d'avoir causé l'empoisonnement ?",
+        "target": "Le fugu."
+    },
+    {
+        "input": "Une personne a été retrouvée morte dans une forêt. La police a interrogé son compagnon, qui a déclaré qu'il venait de commencer à préparer du café lorsque deux voleurs sont apparus, l'ont attaché, ont tué son compagnon, puis se sont enfuis. Il a mis une heure à se libérer. À ce moment-là, la police a regardé la cafetière, où le café débordait encore, et a conclu que cette personne mentait. Pourquoi la police pense-t-elle qu'il ment ?",
+        "target": "Parce qu'il prétend avoir préparé du café pendant une heure, alors que le café déborde encore. Si cela faisait vraiment une heure, le café aurait déjà été complètement évaporé."
+    },
+    {
+        "input": "Le propriétaire d'une bijouterie a déclaré qu'un bijou précieux avait été volé. Ce bijou avait été réservé par un riche client, qui avait déjà versé un acompte au propriétaire. Le bijou devait être emballé et expédié le lendemain, et le paiement final devait être reçu après l'envoi. La police a examiné les caméras de surveillance de la bijouterie et a constaté que personne d'autre que le propriétaire n'était entré ou sorti du magasin. La police pense que le propriétaire pourrait avoir caché le bijou lui-même. Cette hypothèse est-elle raisonnable ?",
+        "target": "Oui, elle est raisonnable."
+    },
+    {
+        "input": "Un voleur, en tentant de s'échapper, s'est retrouvé suspendu à l'envers dans les airs, incapable de s'échapper. Après plusieurs heures, il était toujours suspendu, mais mort. La température ambiante était agréable, sans soleil ni pluie. La mort du voleur est-elle liée à sa position suspendue ?",
+        "target": "Oui."
+    },
+    {
+        "input": "Une personne dormait par terre lorsqu'une souris est passée et a uriné sur elle. L'urine a coulé le long de son pantalon jusqu'à une blessure sur sa jambe. Peu de temps après, cette personne a présenté des symptômes de rhume, qu'elle a ignorés. Plus tard, son état s'est aggravé et elle est décédée. Quelle est la cause de sa mort ?",
+        "target": "Une infection bactérienne due à l'urine de la souris."
+    },
+    {
+        "input": "Un passant a été tué par un criminel armé. Son corps présentait plusieurs blessures par balle. Selon des témoins, le passant se trouvait à environ 5 mètres du criminel et un seul coup de feu a été entendu. Quelle arme le criminel a-t-il utilisée ?",
+        "target": "Un fusil de chasse."
+    },
+    {
+        "input": "Un agent d'entretien est entré dans un laboratoire pour nettoyer. Confiant en sa robustesse, il ne portait pas d'équipement de protection. Le laboratoire contenait des échantillons de plutonium, de bicarbonate de sodium et de plaques d'aluminium, tous enfermés dans des armoires spéciales et ne nécessitant pas de nettoyage. L'agent n'a pas eu de contact direct avec ces échantillons, mais il est mort peu après d'une défaillance organique généralisée. Pourquoi ?",
+        "target": "Il a été exposé à une intoxication par rayonnement au plutonium, qui est radioactif."
+    },
+    {
+        "input": "Un meurtre a eu lieu dans une maison. La victime a été égorgée. Le propriétaire de la maison est considéré comme suspect, mais il n'a pas quitté la maison après le crime. Aucun couteau n'a été trouvé dans la maison, mais le propriétaire est un patineur de vitesse passionné par les sports de glace et possède de nombreux équipements spécialisés, notamment des chaussures, des patins et des lames de patinage . Le suspect pourrait-il être le meurtrier ?",
+        "target": "Oui."
+    },
+    {
+        "input": "Pierre a été retrouvé mort dans un bain public, avec une longue blessure sur la poitrine. La peau était fendue, les bords de la plaie étaient lisses et les angles de la plaie étaient nets. L'eau du bain était rouge et sentait le sang. Une lame, un éplucheur et une punaise ont été trouvés sur les lieux. Quel est l'outil le plus probable utilisé pour le crime ?",
+        "target": "La lame"
+    },
+    {
+        "input": "Un robot de découpe équipé d'une scie électrique et d'une caméra infrarouge capable de détecter automatiquement les objets métalliques a été installé dans une pièce. Un jour, un employé a découvert un scientifique mort dans cette pièce. Les portes et fenêtres étaient verrouillées, et le scientifique était seul à l'intérieur. Ses jambes avaient été coupées, et il tenait une plaque de métal dans ses mains. Qui est le coupable probable ?",
+        "target": "Le robot de découpe."
+    },
+    {
+        "input": "Un riche homme souffrant récemment de dépression a décidé un jour de partir seul en vacances sur une île. Il a demandé à son pilote privé de l'emmener en hélicoptère. Peu de temps après, l'hélicoptère est revenu, mais l'homme avait disparu. Le pilote a montré une note sur le siège de l'homme, disant qu'il avait ouvert la porte et sauté pour se suicider pendant le vol. La note disait : \"Je suis fatigué de ce monde, il n'y a plus rien qui me retienne ici. Adieu.\" Cet homme s'est-il vraiment suicidé ?",
+        "target": "Non."
+    },
+    {
+        "input": "Un entraîneur de fitness a été retrouvé mort au sol, avec une barre lourde sur la poitrine, causant une hémorragie interne due à la pression. Cette barre était si lourde que seul cet entraîneur pouvait la soulever. On dit qu'avant sa mort, il avait bu beaucoup d'alcool avec un ami et avait déclaré vouloir s'entraîner ensuite. Comment est-il mort ?",
+        "target": "L'entraîneur, en état d'ébriété, a tenté de soulever la barre mais n'a pas pu la maintenir, ce qui l'a écrasé."
+    },
+    {
+        "input": "Louis, un homme influent, portait une montre Rolex. Aujourd'hui, il a fait une démonstration en brisant une vitre en verre trempé. Il a invité trois hommes corpulents à essayer de briser la vitre ensemble, mais ils n'ont même pas réussi à la fissurer. Ensuite, Louis a couru seul et a frappé la vitre avec son avant-bras, la brisant immédiatement. Comment a-t-il fait ?",
+        "target": "Le verre trempé se brise facilement sous une pression localisée élevée. La montre Rolex, étant très dure, a permis à Louis de briser la vitre."
+    },
+    {
+        "input": "Une explosion s'est produite dans un laboratoire, provoquant un incendie. On se souvient que le laboratoire effectuait une réaction entre de l'hydroxyde de sodium et de l'aluminium, avec une grande quantité de réactifs. Une lampe à alcool brûlait à côté du réacteur, sans couvercle. Qu'est-ce qui a probablement causé l'explosion ?",
+        "target": "La réaction entre l'hydroxyde de sodium et l'aluminium produit de l'hydrogène, qui, en présence de la flamme de la lampe à alcool, peut provoquer une explosion."
+    },
+    {
+        "input": "Deux démolisseurs ont installé une bombe connectée à un système GPS, contrôlée par ce dernier pour exploser. L'heure prévue pour l'explosion était 10 heures, mais la montre du démolisseur gardant la bombe avançait d'une heure, tandis que celle du démolisseur l'installant retardait d'une heure. À quelle heure la bombe explosera-t-elle ?",
+        "target": "À 10 heures."
+    },
+    {
+        "input": "Dans une bijouterie, une caméra de surveillance a été sabotée et des pierres précieuses de grande valeur ont été volées. La police a identifié quatre suspects : A, le propriétaire de la bijouterie ; B, le garde de sécurité ; C, un designer de bijoux ; et D, un agent d'entretien. La nuit du vol, le coffre-fort a été ouvert sans signe de force. Près du coffre, la police a trouvé une poudre spéciale, identifiée comme du kaolin, utilisé pour polir les bijoux. Qui est le suspect le plus probable ?",
+        "target": "C"
+    },
+    {
+        "input": "Un passager d'avion a été retrouvé inconscient près des toilettes et déclaré mort malgré les tentatives de réanimation. Ce passager n'avait aucune maladie préexistante. Il s'est évanoui alors que l'avion était en altitude. On sait qu'il avait fait de la plongée avant de monter à bord. Pourquoi s'est-il évanoui ?",
+        "target": "En raison des symptômes de décompression rapide après la plongée."
+    },
+    {
+        "input": "Un ouvrier d'une usine de transformation de viande a disparu depuis plus de deux mois. Les caméras montrent qu'il n'a jamais quitté l'usine. Aucun corps, sang ou odeur de décomposition n'a été trouvé. L'usine comprend un petit bois, une chambre froide, des toilettes et un atelier. Où cet ouvrier est-il probablement mort ?",
+        "target": "Dans la chambre froide."
+    },
+    {
+        "input": "M. Pierre, un employé de banque. Un jour, un ami lui a remboursé une grosse somme en espèces. Après avoir compté l'argent, M. Pierre est mort empoisonné. Il n'avait rien mangé, mais de la salive a été trouvée sur l'argent. L'agent de police Paul a supposé que le criminel avait empoisonné les billets. Cette hypothèse est-elle raisonnable ?",
+        "target": "Oui."
+    },
+    {
+        "input": "Un employé, en colère, s'est préparé à se disputer avec son patron au bureau. Avant cela, il a bu plusieurs canettes de boissons énergisantes d'un coup. Au bureau, il a parlé avec excitation, mais avant que le patron ne puisse répondre, il s'est soudainement effondré. Quelle est l'explication correcte de cet incident ?",
+        "target": "Les boissons énergisantes contiennent de la caféine. Une consommation excessive de caféine, combinée à une excitation émotionnelle, peut provoquer un effondrement."
+    },
+    {
+        "input": "Dans une pièce hermétiquement fermée, un homme a été retrouvé mort sans aucune blessure externe. À côté de lui se trouvait un thermomètre cassé, mais aucune goutte de mercure n'a été trouvée sur le sol. Il n'y avait que des morceaux de verre brisé et une table basse renversée. Quelle est la cause de sa mort ?",
+        "target": "Empoisonnement au mercure."
+    },
+    {
+        "input": "Un incendie s'est déclaré chez Paul. Il se souvient qu'en quittant la maison, il avait oublié d'éteindre la lumière, laissé le chauffe-lit allumé, un robinet qui gouttait, et la caméra de surveillance à l'entrée était toujours en marche. Quelle est la cause la plus probable de l'incendie ?",
+        "target": "Le chauffe-lit"
+    },
+    {
+        "input": "Dans un coin d'entrepôt, un cadavre a été découvert. L'autopsie a révélé que la cornée était encore humide et que les pupilles étaient légèrement blanchies. Il est maintenant 16h00. Les caméras ont enregistré quatre personnes entrant dans l'entrepôt : A à 10h00 aujourd'hui, B à 12h00 aujourd'hui, C à 8h00 aujourd'hui, et D à 12h00 hier. Qui est le suspect le plus probable ?",
+        "target": "B."
+    },
+    {
+        "input": "Un homme souffrant d'une maladie de la gorge a été conseillé par son médecin de ne pas boire d'alcool. Il a eu l'idée de se faire un lavement avec deux bouteilles de cognac en insérant un tube dans son rectum. Il pensait ne pas être ivre, mais il est mort le lendemain. L'examen n'a révélé aucun dommage ou infection intestinale. Quelle est la cause de sa mort ?",
+        "target": "Intoxication alcoolique."
+    },
+    {
+        "input": "Dans un quartier résidentiel, un bâtiment s'est effondré. On dit que, juste avant l'effondrement, plusieurs familles avaient rénové leurs appartements en abattant des murs. Les autres résidents ont porté plainte contre ces familles. Quels murs ont-ils probablement abattus ?",
+        "target": "Les murs porteurs."
+    },
+    {
+        "input": "Un bibliothécaire a découvert qu'un précieux livre ancien avait disparu. Il se souvient que, ce soir-là, quatre visiteurs lisaient dans différentes sections, tandis que l'étagère contenant le livre était située au centre de la bibliothèque, entourée de caméras. Cependant, en raison d'une panne technique, les caméras ont cessé de fonctionner avant et après l'incident. Les quatre visiteurs étaient : A, lisant dans la section géographie, avec un peu de terre rouge sur ses vêtements ; B, dans la section histoire, avec de l'encre sur les mains ; C, dans la section art, avec de la peinture sur ses vêtements ; et D, dans la section sciences naturelles, tenant un aimant. La police a trouvé une étrange poudre noire sous l'étagère. Le livre contenait des couches métalliques. Qui est le suspect le plus probable ?",
+        "target": "Le visiteur D."
+    },
+    {
+        "input": "Un fumeur invétéré a décidé d'arrêter de fumer rapidement et a collé des dizaines de patchs anti-tabac sur son corps. Il est mort peu après. Quelle est la cause de sa mort ?",
+        "target": "Intoxication à la nicotine."
+    },
+    {
+        "input": "Pierre jouait dans un parc. À midi, la fontaine était éteinte pendant la pause, et il s'est assis dessus. Un agent de sécurité l'a rapidement arrêté, disant que c'était dangereux. Le passant A a dit que l'agent l'avait arrêté parce que l'eau de la fontaine était froide et pouvait rendre Pierre malade. Le passant B a dit qu'il n'y avait aucun danger et que l'agent exagérait. Le passant C a dit que la pression de l'eau de la fontaine était trop élevée et pouvait blesser Pierre si elle se remettait soudainement en marche. Qui a raison ?",
+        "target": "Le passant C."
+    },
+    {
+        "input": "Sur une plage, un homme a été retrouvé mort. Sa bouche contenait un peu d'eau, ses pupilles étaient dilatées, ses tympans étaient rompus et saignaient, et ses poumons contenaient de l'eau. Aucune autre partie de son corps ne présentait de traces de sang. Quelle est la cause de sa mort ?",
+        "target": "Noyade."
+    },
+    {
+        "input": "Un homme aimait porter une peau d'ours dans la forêt pour effrayer les gens. Un chasseur, ayant entendu parler d'un ours dans la forêt, a pris un fusil tranquillisant pour chasser. Il a tiré sur l'homme à la jambe, mais ce dernier est mort. Quelle est la cause de sa mort ?",
+        "target": "Les ours étant de grands animaux, la dose de tranquillisant pour un ours est trop élevée pour un humain et peut être mortelle."
+    },
+    {
+        "input": "Un accident s'est produit dans un quartier d'affaires (CBD). Une personne est morte, avec des blessures à la tête et des contusions sévères aux jambes, mais sans marques de pression. On a entendu un bruit de freinage brusque avant l'incident. A et B ont des hypothèses : A pense que quelqu'un est descendu d'une voiture et a frappé la victime à la tête avec un bâton, causant sa mort. B pense que la victime a été heurtée aux jambes par une voiture, projetée en l'air, et que sa tête a heurté le capot ou le sol, causant sa mort. Quelle hypothèse est la plus raisonnable ?",
+        "target": "L'hypothèse de B est plus raisonnable."
+    },
+    {
+        "input": "Un groupe de pilleurs de tombes est entré dans un ancien tombeau scellé depuis longtemps. Ils ont allumé leurs lampes de poche et ont commencé à explorer. Peu après, ils ont ressenti des vertiges et de la fatigue, puis sont morts. La cause est-elle l'inhalation de gaz toxiques provenant de la décomposition dans le tombeau ou une malédiction du propriétaire du tombeau ?",
+        "target": "L'inhalation de gaz toxiques provenant de la décomposition dans le tombeau."
+    },
+    {
+        "input": "Un archéologue a affirmé avoir fait une découverte majeure dans une grotte et a pris une photo. La photo montre une peinture murale représentant des humains préhistoriques chassant des dinosaures. Cet archéologue est-il suspecté de fraude ?",
+        "target": "Oui."
+    },
+    {
+        "input": "Dans une petite cabane, une personne a été retrouvée morte sans aucune blessure ni signe de lutte. Les portes et fenêtres étaient fermées et intactes. Il y avait un gâteau, une tasse de thé, et aucun problème avec la nourriture. Près de la cheminée, du charbon récemment brûlé a été trouvé, mais la cheminée était bloquée. Quelle est la cause de la mort ?",
+        "target": "Intoxication au monoxyde de carbone."
+    },
+    {
+        "input": "La police poursuivait un voleur, sans jamais voir son visage, et après une longue poursuite, tout le monde était essoufflé. En arrivant dans un chantier, la police a perdu la trace du voleur et n'a trouvé qu'une personne assise à une table, dont la corpulence ressemblait à celle du suspect. En l'interrogeant, cette personne a affirmé qu'elle était restée ici tout le temps à se reposer et à manger. Elle a même sorti une canette de coca de son sac. En l'ouvrant doucement, le coca s'est mis soudainement à mousser abondamment. La police estime que cette personne est suspecte. Selon vous, cette hypothèse est-elle fondée ?",
+        "target": "Oui, elle est raisonnable."
+    },
+    {
+        "input": "Un homme a été retrouvé mort. Selon les caméras, il s'était battu, recevant plusieurs coups au visage, et avait été poignardé au poumon. Après l'attaque, le criminel s'est enfui. La victime a tenté d'arrêter l'hémorragie et a réussi, mais est morte environ 10 minutes plus tard. Quelle est la cause de sa mort : asphyxie due à une perforation pulmonaire ou perte de sang excessive ?",
+        "target": "Asphyxie due à une perforation pulmonaire."
+    },
+    {
+        "input": "Un policier interroge un suspect. Le suspect prétend avoir un alibi et montre une photo comme preuve. Sur la photo, il se trouve sur une montagne de 3500 mètres d'altitude, en train de célébrer avec un ami en ouvrant une bouteille de bière qui mousse et jaillit.\nLe policier rejette l'alibi en affirmant : « À 3500 mètres, la pression atmosphérique est très basse, il est donc impossible que la bière mousse et jaillisse de la sorte à l'ouverture. »\nLe raisonnement du policier est-il juste ?",
+        "target": "Non, son raisonnement est faux."
+    }
+]

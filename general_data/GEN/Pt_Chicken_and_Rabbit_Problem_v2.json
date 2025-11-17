@@ -1,0 +1,390 @@
+[
+    {
+        "input": "Uma turma organizou um passeio ao parque. Esta turma tem 50 alunos e organizou uma atividade de barco (instruções para o passeio de barco: barcos grandes comportam no máximo 6 pessoas, barcos pequenos comportam no máximo 4 pessoas, o aluguel de cada barco grande é 10 reais, o aluguel de cada barco pequeno é 8 reais). Eles alugaram 10 barcos no total, e cada barco estava com sua capacidade máxima. Quantos barcos grandes foram alugados?",
+        "target": "5 unidades"
+    },
+    {
+        "input": "Um barco navega entre os portos A e B. A favor da corrente, leva 5 horas; contra a corrente, leva 7 horas. Sabendo que a velocidade da água é de 5 quilômetros por hora, qual é a distância entre A e B?",
+        "target": "175 quilômetros"
+    },
+    {
+        "input": "Quando o Júlio perguntou a idade do professor Silva, o professor respondeu: \"Quando eu tinha a sua idade, você tinha apenas 3 anos; quando você chegar à minha idade atual, eu terei 45 anos.\" Quantos anos tem o professor Silva atualmente?",
+        "target": "31 anos"
+    },
+    {
+        "input": "Um operário planejou processar um lote de peças em um tempo determinado. Se produzir 10 peças por hora, ele excederá o planejado em 3 peças; se produzir 11 peças por hora, terminará 1 hora antes. Quantas peças há no lote?",
+        "target": "77 peças"
+    },
+    {
+        "input": "Em uma linha ferroviária há duas estações, A e B, distantes 408 quilômetros uma da outra. Um trem lento parte da estação A a 72 quilômetros por hora, e um trem rápido parte da estação B a 96 quilômetros por hora. Se os trens viajam em direções opostas, após quantas horas estarão a 660 quilômetros de distância um do outro?",
+        "target": "1,5 horas"
+    },
+    {
+        "input": "Uma loja vende um tipo de lembrança turística. Em abril, o faturamento foi de 20.000 reais. Para aumentar as vendas, em maio a loja ofereceu 10% de desconto nesta lembrança, resultando em um aumento de 200 unidades vendidas e 7.000 reais a mais no faturamento. Qual era o preço de venda desta lembrança em abril?",
+        "target": "50 reais"
+    },
+    {
+        "input": "Na seção de roupas infantis do Shopping Alma, observou-se que a marca \"Alegria\" vende em média 20 peças por dia, com lucro de 40 reais por peça. Para cada 1 real de desconto no preço, a loja consegue vender 2 peças a mais por dia. Se a loja quer lucrar 1.200 reais por dia e deseja maximizar o volume de vendas, calcule quanto de desconto deve ser dado em cada peça.",
+        "target": "20 reais"
+    },
+    {
+        "input": "Para processar certo tipo de peça, o operário A trabalhando sozinho leva 20 dias para completar a tarefa, enquanto o operário B leva apenas 10 dias. Agora, pede-se que os dois completem a tarefa em 12 dias. Após quantos dias de trabalho o operário B deve ser substituído pelo operário A para completar a tarefa exatamente no prazo?",
+        "target": "8 dias"
+    },
+    {
+        "input": "Para um projeto, o funcionário A trabalhando sozinho leva 10 dias para completar, enquanto o funcionário B trabalhando sozinho leva 15 dias. Se A trabalhar por 5 dias primeiro, e depois A e B trabalharem juntos para completar 2/3 do projeto total, quantos dias no total foram necessários?",
+        "target": "6 dias"
+    },
+    {
+        "input": "Uma camisa tem preço marcado de 100 reais. Se for vendida com 20% de desconto sobre o preço marcado, ainda gera um lucro de 25%. Qual é o preço de custo desta camisa?",
+        "target": "64 reais"
+    },
+    {
+        "input": "Um copo e uma jarra custam 45 reais. Três copos e duas jarras custam 99 reais. Qual é o preço de um copo?",
+        "target": "9 reais"
+    },
+    {
+        "input": "Uma turma recebeu ingressos para vender. Se cada aluno receber 9 ingressos, sobram 24 ingressos; se cada aluno receber 10 ingressos, faltam 16 ingressos. Quantos alunos há na turma?",
+        "target": "40 alunos"
+    },
+    {
+        "input": "Durante uma promoção, o Lucas comprou um conjunto de roupas por 400 reais. A camisa estava com 20% de desconto e a calça com 30% de desconto. O preço original total da camisa e da calça era 540 reais. Qual era o preço original da camisa?",
+        "target": "220 reais"
+    },
+    {
+        "input": "O Mateus e o Lucas saíram da escola ao mesmo tempo em direção ao centro de ciências para participar de uma atividade. O Mateus caminha a 6 quilômetros por hora, enquanto o Lucas caminha a 8 quilômetros por hora. Após 1 hora, o Lucas percebeu que esqueceu o material e voltou à escola para buscá-lo, imediatamente retornando pelo mesmo caminho para alcançar o Mateus. Quantas horas depois de sair da escola o Lucas alcançará o Mateus?",
+        "target": "6 horas"
+    },
+    {
+        "input": "Uma loja de roupas no atacado vende camisas de certa marca com lucro de 30 reais por peça. Na baixa temporada, decidiu reduzir os preços. Através de pesquisas, descobriu-se que para cada x reais de desconto, poderiam vender (20+x) peças por dia. Se querem lucrar 616 reais por dia para eliminar o estoque rapidamente, quanto devem reduzir no preço de cada camisa?",
+        "target": "8 reais"
+    },
+    {
+        "input": "Uma empresa de desenvolvimento produziu determinada quantidade de um novo produto que precisa ser processado antes de ir ao mercado. Há duas fábricas, A e B, interessadas em processar esses produtos. A fábrica A pode processar 16 unidades por dia e a fábrica B pode processar 24 unidades por dia. Se a fábrica A leva 20 dias a mais que a fábrica B para processar todos os produtos sozinha, quantas unidades foram produzidas no total?",
+        "target": "960 unidades"
+    },
+    {
+        "input": "Uma operadora de telefonia oferece dois tipos de planos: Plano A cobra 0,60 reais por minuto de ligação, sem mensalidade; Plano B cobra uma mensalidade fixa de 40 reais, mais 0,40 reais por minuto de ligação. Com quantos minutos de ligação os dois planos terão o mesmo custo?",
+        "target": "200 minutos"
+    },
+    {
+        "input": "O João comprou dois pares de sapatos com 20% de desconto e economizou 20 reais em comparação com o preço normal. Quanto ele pagou efetivamente pelos dois pares de sapatos?",
+        "target": "80 reais"
+    },
+    {
+        "input": "As estações A e B distam 480 quilômetros uma da outra. Um trem lento parte da estação A a 90 quilômetros por hora, e um trem rápido parte da estação B a 140 quilômetros por hora. Os dois trens partem ao mesmo tempo, com o trem lento seguindo o trem rápido na mesma direção. Após quantas horas a distância entre o trem rápido e o trem lento será de 600 quilômetros?",
+        "target": "2,4 horas"
+    },
+    {
+        "input": "A idade do avô é 5 vezes a idade do neto. Daqui a 12 anos, a idade do avô será 3 vezes a idade do neto. Qual é a idade atual do neto?",
+        "target": "12 anos"
+    },
+    {
+        "input": "Uma escola organizou um torneio de basquete para os alunos do nono ano, com as turmas como unidades participantes. Cada duas turmas jogam uma partida entre si, com um total de 15 partidas planejadas. Quantas turmas participaram do torneio?",
+        "target": "6 turmas"
+    },
+    {
+        "input": "Para controlar a disseminação da gripe, o Departamento de Saúde pesquisou um tipo específico de gripe e descobriu: se uma pessoa contrai gripe, após duas rodadas de transmissão, um total de 100 pessoas terão contraído a doença. Se a velocidade de transmissão continuar a mesma, quantas pessoas terão contraído gripe após a terceira rodada?",
+        "target": "1000 pessoas"
+    },
+    {
+        "input": "Em uma escola, os atletas são divididos em grupos. Se houver 7 pessoas por grupo, sobram 5 pessoas; se houver 8 pessoas por grupo, faltam 3 pessoas. Quantos atletas há na escola?",
+        "target": "61 atletas"
+    },
+    {
+        "input": "Um centro comercial vende camisas de marca a 20 unidades por dia, com lucro de 40 reais por unidade. Para aumentar as vendas, maximizar o lucro e reduzir o estoque, o shopping decide implementar descontos. Pesquisas mostram que para cada 4 reais de desconto por camisa, o shopping pode vender 8 unidades a mais por dia. Se o shopping deseja lucrar 1.200 reais por dia e maximizar o volume de vendas, quanto deve ser o desconto por camisa?",
+        "target": "20 reais"
+    },
+    {
+        "input": "Dona Maria comprou uma fruta por 4 reais o quilo e a vende por 6 reais o quilo, conseguindo vender 150 quilos por dia. Pesquisas indicam que para cada redução de 0,10 reais no preço por quilo, ela consegue vender 30 quilos a mais por dia. Para garantir a venda de pelo menos 360 quilos por dia, Dona Maria decide reduzir o preço. Se ela deseja um lucro diário de 450 reais, quanto deve reduzir no preço por quilo?",
+        "target": "1 real"
+    },
+    {
+        "input": "Várias pessoas estão plantando árvores. Se cada pessoa plantar 12 árvores, sobrarão 6 mudas; se cada pessoa plantar 15 árvores, faltarão 6 mudas. Quantas pessoas estão participando do plantio?",
+        "target": "4 pessoas"
+    },
+    {
+        "input": "Um casaco custa 360 reais no atacado e tem preço marcado de 600 reais. Para obter um lucro de 25%, com qual percentual de desconto o casaco deve ser vendido?",
+        "target": "desconto de 25%"
+    },
+    {
+        "input": "Para organizar livros, uma pessoa trabalhando sozinha levaria 60 horas. Inicialmente, um grupo de pessoas trabalhou por 1 hora, depois mais 15 pessoas se juntaram a eles e trabalharam juntas por mais 2 horas, completando exatamente a tarefa. Supondo que todos trabalhem na mesma velocidade, quantas pessoas começaram a organização inicialmente?",
+        "target": "10 pessoas"
+    },
+    {
+        "input": "Uma empresa produz um item com custo de 400 reais e preço de venda de 505 reais. Para expandir o mercado, a empresa decide reduzir os custos e simultaneamente reduzir o preço de venda em 4%, o que aumentaria as vendas em 5%. Em quanto o custo por unidade deve ser reduzido para manter o mesmo lucro antes e depois da redução de preço?",
+        "target": "15,2 reais"
+    },
+    {
+        "input": "Na fase de qualificação da Copa do Mundo, os times jogam em casa e fora, com cada dois times jogando uma partida em seu próprio campo e uma no campo adversário. Se foram realizadas 110 partidas no total, quantos equipes participaram da qualificação?",
+        "target": "11 equipes"
+    },
+    {
+        "input": "Com vento de 25 quilômetros por hora, um avião voando a favor do vento do aeroporto A ao aeroporto B leva 2,8 horas. O mesmo avião, voando contra o vento na mesma rota, leva 3 horas. Qual é a distância entre os aeroportos A e B em quilômetros?",
+        "target": "2100 quilômetros"
+    },
+    {
+        "input": "Em uma loja, uma jaqueta foi marcada com preço 50% acima do custo e depois vendida com 20% de desconto sobre o preço marcado, por 240 reais. Qual é o custo original da jaqueta?",
+        "target": "200 reais"
+    },
+    {
+        "input": "Uma peça de roupa custava originalmente 150 reais. Após duas reduções de preço, seu preço atual é 96 reais. Qual foi a porcentagem média de desconto em cada redução?",
+        "target": "20%"
+    },
+    {
+        "input": "Uma pessoa contraiu gripe e, após duas rodadas de transmissão, 100 pessoas foram infectadas. Em média, quantas pessoas são infectadas por cada pessoa infectada em cada rodada?",
+        "target": "9 pessoas"
+    },
+    {
+        "input": "No início do ano letivo, um pai perguntou ao professor quantos alunos havia na turma. O professor respondeu: \"Se viesse outro grupo com o mesmo número de alunos que temos agora, mais metade do número atual, mais um quarto do número atual, e se seu filho também viesse estudar, teríamos exatamente 100 alunos\". Quantos alunos há atualmente na turma?",
+        "target": "36 alunos"
+    },
+    {
+        "input": "Um pomar planejava plantar 100 pessegueiros, com cada árvore produzindo em média 1.000 pêssegos. Agora planeja-se aumentar o número de árvores para aumentar a produção. Testes mostram que para cada árvore adicional plantada, a produtividade de cada árvore diminui em 2 pêssegos, mas o número adicional de árvores não pode exceder 100. Para aumentar a produção em 15,2%, quantas árvores adicionais devem ser plantadas?",
+        "target": "20 árvores"
+    },
+    {
+        "input": "O Lucas foi a uma papelaria comprar lápis. O vendedor disse: \"Se comprar mais, pode ter 20% de desconto\". O Lucas calculou que, comprando 50 lápis, economizaria 6 reais em relação ao preço normal. Qual é o preço normal de cada lápis?",
+        "target": "0,6 reais"
+    },
+    {
+        "input": "Uma loja está preparando uma liquidação de fim de temporada para certa peça de roupa. Se for vendida por 50% do preço marcado, a loja terá prejuízo de 20 reais por peça; se for vendida por 80% do preço marcado, a loja terá lucro de 40 reais por peça. Qual é o preço marcado de cada peça?",
+        "target": "200 reais"
+    },
+    {
+        "input": "Uma loja comprou um lote de roupas por 50 reais cada peça. Se vendidas a 60 reais cada, podem vender 800 peças; se o preço aumentar 1 real, as vendas caem 20 peças. Para obter lucro de 12.000 reais sem ultrapassar 24.000 reais em custos, qual deve ser o preço de venda por peça?",
+        "target": "80 reais"
+    },
+    {
+        "input": "Uma loja vende um produto que custa 40 reais por quilo. Se for vendido a 50 reais por quilo, podem vender 500 quilos por mês. Para cada aumento de 1 real no preço, as vendas mensais caem 10 quilos. Para este produto, a loja deseja obter lucro mensal de 8.000 reais sem ultrapassar 20.000 reais em faturamento. Qual deve ser o preço de venda por quilo?",
+        "target": "80 reais"
+    },
+    {
+        "input": "Uma loja ajustou o preço de um produto, vendendo-o por 80% do preço original. Com essa mudança, a margem de lucro do produto passou a ser 10%, e o preço de custo é 160 reais. Qual era o preço original do produto?",
+        "target": "220 reais"
+    },
+    {
+        "input": "Para atrair turistas, a Agência de Viagens AgaxTur oferece a seguinte tabela de preços: para grupos até 25 pessoas, o custo é 1.000 reais por pessoa; para grupos com mais de 25 pessoas, cada pessoa adicional reduz o custo por pessoa em 20 reais, mas o mínimo é 700 reais por pessoa. Uma empresa organizou uma viagem para seus funcionários e pagou 27.000 reais à agência. Quantos funcionários participaram da viagem?",
+        "target": "30 pessoas"
+    },
+    {
+        "input": "O André e o Rafael estão praticando corrida. O André corre a 7 metros por segundo e o Rafael a 6,5 metros por segundo. Se o Rafael começar 5 metros à frente, em quantos segundos o André o alcançará?",
+        "target": "10 segundos"
+    },
+    {
+        "input": "Uma turma foi andar de barco. Se cada barco comportar 7 pessoas, sobrarão 5 pessoas sem lugar; se cada barco comportar 8 pessoas, sobrarão 2 lugares vazios. Quantos alunos da turma participaram do passeio de barco?",
+        "target": "54 alunos"
+    },
+    {
+        "input": "Na formatura de uma turma, cada aluno tirou uma foto com cada um dos outros colegas, resultando em 780 fotos de duas pessoas. Quantos alunos havia na turma?",
+        "target": "40 alunos"
+    },
+    {
+        "input": "Alguns operários estão trabalhando em uma olaria. Se cada um carregar 2 tijolos, sobrarão 6 tijolos; se cada um carregar 4 tijolos, todos os tijolos serão transportados exatamente. Quantos operários estão trabalhando?",
+        "target": "3 operários"
+    },
+    {
+        "input": "No feriado de Ano Novo, Ana gastou 88 reais comprando presentes dos tipos A e B. Cada presente do tipo A custa 12 reais e cada presente do tipo B custa 8 reais. Ela comprou 1 presente a menos do tipo A do que do tipo B. Quantos presentes do tipo A ela comprou?",
+        "target": "4 unidades"
+    },
+    {
+        "input": "Uma loja vende um tipo de luminária com preço de custo de 300 reais por unidade. Pesquisas de mercado indicam que: quando o preço de venda é fixado em 400 reais, vendem-se 300 unidades por mês em média; para cada aumento de 10 reais no preço, as vendas mensais caem 10 unidades. Com qual preço de venda o lucro médio mensal com estas luminárias atingirá 40.000 reais?",
+        "target": "500 reais"
+    },
+    {
+        "input": "Uma peça de roupa tem preço marcado de 300 reais. Quando vendida com 20% de desconto, ainda gera lucro de 60 reais. Qual é o preço de custo desta peça de roupa?",
+        "target": "180 reais"
+    },
+    {
+        "input": "Sabendo que com 4 garrafas vazias de água mineral é possível trocar por 1 garrafa cheia, se você tem 15 garrafas vazias e não quer gastar mais dinheiro, quantas garrafas de água mineral podem ser bebidas no máximo?",
+        "target": "4 garrafas"
+    },
+    {
+        "input": "Um grupo de crianças vai dividir uma cesta de pêssegos. Se cada criança receber 5 pêssegos, sobrarão 8 pêssegos; se cada criança receber 8 pêssegos, faltarão 7 pêssegos. Quantos pêssegos há na cesta?",
+        "target": "33 pêssegos"
+    },
+    {
+        "input": "Uma loja vende camisas e consegue vender em média 20 unidades por dia, com lucro de 45 reais por unidade. Devido à crise financeira internacional, a loja decidiu adotar medidas de redução de preço para diminuir o estoque rapidamente. Pesquisas de mercado indicam que: para cada 1 real de desconto por camisa, conseguem vender 4 unidades a mais por dia. Se a loja quiser um lucro diário de 2100 reais, qual é o desconto máximo que pode ser aplicado em cada camisa?",
+        "target": "30 reais"
+    },
+    {
+        "input": "Um produto tem preço de custo de 100 reais e preço de etiqueta de 150 reais. Devido ao acúmulo de estoque, a loja planeja vender com desconto, mas quer garantir uma margem de lucro não inferior a 20%. Qual é o máximo de desconto que pode ser aplicado?",
+        "target": "desconto de 20%"
+    },
+    {
+        "input": "Para um projeto, o funcionário A trabalhando sozinho leva 10 dias para completar, enquanto o funcionário B trabalhando sozinho leva 15 dias. Se A trabalhar por 5 dias primeiro, quantos dias adicionais serão necessários para A e B completarem juntos o restante do projeto?",
+        "target": "3 dias"
+    },
+    {
+        "input": "Um produto no 4º andar do Shopping Tela está marcado com preço de 1540 reais. Se for vendido com 10% de desconto, ainda garante um lucro de 10% (em relação ao preço de custo). Qual é o preço de custo deste produto?",
+        "target": "1260 reais"
+    },
+    {
+        "input": "O Roberto saiu de casa de moto em velocidade constante até a estação de trem. Se andar a 50 quilômetros por hora, chegará à estação 15 minutos depois da partida do trem; se andar a 60 quilômetros por hora, chegará 5 minutos depois da partida do trem. Qual é a distância da casa do Roberto até a estação em quilômetros?",
+        "target": "50 quilômetros"
+    },
+    {
+        "input": "Um ponto turístico tem as seguintes informações: Para grupos até 30 pessoas: 800 reais por pessoa; Para grupos com mais de 30 pessoas: cada pessoa adicional reduz o preço em 10 reais por pessoa, mas o preço mínimo é 550 reais por pessoa. Uma empresa organizou uma viagem para seus funcionários a este ponto turístico e pagou 29250 reais. Quantas pessoas participaram desta viagem?",
+        "target": "45 pessoas"
+    },
+    {
+        "input": "Um produto tem preço de etiqueta de 200 reais. Quando vendido com 10% de desconto sobre o preço de etiqueta, ainda gera lucro de 20 reais por unidade. Qual é o preço de custo deste produto?",
+        "target": "160 reais"
+    },
+    {
+        "input": "Para incentivar o consumo de eletricidade, uma empresa de energia estabeleceu o seguinte método de cálculo: Até 100 kWh mensais, cobra-se 0,50 reais por kWh; Acima de 100 kWh mensais, o excedente é cobrado a 0,40 reais por kWh. Se um consumidor pagou em média 0,48 reais por kWh em fevereiro de 2002, quantos kWh este consumidor utilizou naquele mês?",
+        "target": "125 kWh"
+    },
+    {
+        "input": "O aniversário de 80 anos do avô está se aproximando, e Lucas quer marcar essa data no calendário, mas não sabe qual é o dia do mês. Ele perguntou ao pai, que respondeu com um sorriso: \"No calendário, a soma dos quatro números ao redor desse dia (acima, abaixo, à esquerda e à direita) é igual à idade do avô\". Qual é o número do dia do mês em que o avô faz aniversário?",
+        "target": "dia 20"
+    },
+    {
+        "input": "Na temporada 2018-2019 do Campeonato Brasileiro de Basquete Masculino, foi adotado o sistema de rodadas duplas (cada duas equipes jogam duas partidas entre si), resultando em 380 partidas no total. Quantas equipes participaram do campeonato?",
+        "target": "20 equipes"
+    },
+    {
+        "input": "A equipe A tinha originalmente 65 trabalhadores e a equipe B tinha 40 trabalhadores. Agora, 30 novos trabalhadores foram contratados. Para que o número de pessoas na equipe B seja metade do número na equipe A, quantas pessoas devem ser transferidas para a equipe A?",
+        "target": "25 pessoas"
+    },
+    {
+        "input": "Uma oficina recebeu uma tarefa de processamento e planejou produzir 120 peças por dia para concluir no prazo. Na prática, produziram 20 peças extras por dia e terminaram 4 dias antes do prazo. Qual era o número total de peças neste trabalho?",
+        "target": "3360 peças"
+    },
+    {
+        "input": "Para expandir as vendas, uma loja ajustou o preço de uma câmera fotográfica, vendendo-a por 80% do preço original. Com essa mudança, a margem de lucro passou a ser 14%. Se o preço de custo da câmera é 1200 reais, qual era o preço original de venda?",
+        "target": "1710 reais"
+    },
+    {
+        "input": "Uma loja de roupas infantis observou que vende em média 20 peças por dia, com lucro de 40 reais por peça. A loja decidiu implementar um desconto para aumentar as vendas. Pesquisas indicam que para cada 4 reais de desconto por peça, conseguem vender 8 peças a mais por dia. Se quiserem lucrar 1200 reais por dia com estas roupas infantis, quanto será a redução maxima de preço de cada peça de roupa infantil?",
+        "target": "20 reais"
+    },
+    {
+        "input": "Uma mãe casou-se aos 26 anos e teve um filho no ano seguinte. Alguns anos depois, a idade da mãe é o triplo da idade do filho. Quantos anos tem a mãe neste momento?",
+        "target": "40,5 anos"
+    },
+    {
+        "input": "Um produto tem preço marcado de 800 reais. Se for vendido com 60% de desconto, ainda gera lucro de 60 reais. Qual é o preço de custo deste produto?",
+        "target": "260 reais"
+    },
+    {
+        "input": "Três equipes de construção estão construindo uma estrada. A primeira equipe constrói 1/3 da estrada, a segunda equipe constrói 1/3 do restante, e a terceira equipe constrói os últimos 20 quilômetros para concluir a estrada. Qual é o comprimento total da estrada?",
+        "target": "45 quilômetros"
+    },
+    {
+        "input": "Um produto de marca é vendido com 20% de desconto sobre o preço de etiqueta e ainda gera 10% de lucro. Se o preço de etiqueta é 275 reais, qual é o preço de custo do produto?",
+        "target": "200 reais"
+    },
+    {
+        "input": "Em março, quatro trabalhadores da equipe A produziram um total que excedeu a cota média por pessoa em 20 unidades. Cinco trabalhadores da equipe B produziram um total que ficou 20 unidades abaixo de 6 vezes a cota média por pessoa. Se a produção média real por pessoa foi igual nas duas equipes, qual era a cota média por pessoa naquele mês?",
+        "target": "45 unidades"
+    },
+    {
+        "input": "Com a chegada do Ano Novo, os shoppings criaram promoções para aumentar o consumo e o lucro. O Shopping Popular marcou uma mochila com preço 50% acima do custo e depois ofereceu 20% de desconto. Dessa forma, o shopping lucra 8 reais por mochila vendida. Qual é o preço de custo desta mochila?",
+        "target": "40 reais"
+    },
+    {
+        "input": "Uma lanchonete testou um novo combo com custo de 5 reais por unidade e despesas fixas diárias de 600 reais (excluindo o custo do combo). Se o preço for até 10 reais, podem vender 400 unidades por dia; se o preço for maior que 10 reais, cada aumento de 1 real reduz as vendas em 40 unidades por dia. Se o lucro líquido diário da lanchonete é 1560 reais e querem beneficiar os clientes, qual deve ser o preço por combo?",
+        "target": "11 reais"
+    },
+    {
+        "input": "Uma loja de departamento vende camisas de marca e consegue vender em média 30 unidades por dia, com lucro de 40 reais por unidade. Para aumentar as vendas e reduzir o estoque, a loja decidiu reduzir o preço. Pesquisas indicam que para cada 1 real de desconto, conseguem vender 2 unidades a mais por dia. Se a loja quiser um lucro diário de 1200 reais, cada camisa deve ser reduzida em quantos reais?",
+        "target": "25 reais"
+    },
+    {
+        "input": "Uma turma de alunos foi dividida em dois grupos para uma atividade. O grupo A tem 26 pessoas e o grupo B tem 32 pessoas. Depois, por necessidade da atividade, alguns alunos do grupo A foram transferidos para o grupo B, resultando em o grupo B ter o dobro do número de pessoas do grupo A, mais uma pessoa. Quantos alunos foram transferidos do grupo A para o grupo B?",
+        "target": "7 alunos"
+    },
+    {
+        "input": "Uma fábrica planeja aumentar a produção anual de um produto de 1 milhão de unidades para 1,21 milhões de unidades em dois anos. Qual é a taxa de crescimento anual média em porcentagem?",
+        "target": "10%"
+    },
+    {
+        "input": "Uma equipe de ciclistas está treinando, com todos os ciclistas andando a 35 quilômetros por hora. De repente, o ciclista nº 1 acelera para 45 quilômetros por hora, percorre 10 quilômetros sozinho e então retorna na direção oposta, também a 45 quilômetros por hora, até encontrar os outros ciclistas. Quanto tempo se passou desde que o ciclista nº 1 deixou o grupo até reencontrar os colegas?",
+        "target": "0,25 horas"
+    },
+    {
+        "input": "Uma escola comprou equipamentos de tênis de mesa para promover o esporte, gastando 1320 reais em redes, raquetes e bolas. A proporção de despesas entre estes três itens foi 3:6:2. Quanto foi gasto nas redes?",
+        "target": "360 reais"
+    },
+    {
+        "input": "O gerente Paulo trouxe especialidades regionais de uma viagem de negócios e distribuiu entre os amigos. Se der 5 pacotes para cada um, sobram 3 pacotes; se der 6 pacotes para cada um, faltam 3 pacotes. Quantos pacotes ele trouxe?",
+        "target": "33 pacotes"
+    },
+    {
+        "input": "A escola comprou cadernos para distribuir aos alunos do sexto ano. Se cada aluno receber 5 cadernos, sobrarão 80 cadernos; se cada aluno receber 6 cadernos, faltarão 40 cadernos. Quantos alunos há no sexto ano?",
+        "target": "120 alunos"
+    },
+    {
+        "input": "O André leva 2 horas dirigindo de carro do local A ao local B. O Bruno leva 3 horas de moto do local B ao local A. Se o Bruno sair de moto do local B em direção ao local A, e 1 hora depois o André sair de carro do local A em direção ao local B, após quantas horas da partida do André eles se encontrarão?",
+        "target": "0,8"
+    },
+    {
+        "input": "Após consultar duas lojas, informa-se que: um par de raquetes custa R$ 25 e uma bola custa R$ 2. Loja A: Oferece 10% de desconto em todos os produtos (raquetes e bolas). Loja B: Na compra de um par de raquetes, o cliente ganha 2 bolas grátis. Se um cliente precisa comprar 2 pares de raquetes e uma certa quantidade de bolas, qual deve ser essa quantidade de bolas para que o custo total seja o mesmo em ambas as lojas?",
+        "target": "15 bolas"
+    },
+    {
+        "input": "A distância entre as cidades A e B é 448 quilômetros. Um trem lento parte da estação A a 60 quilômetros por hora, e um trem rápido parte da estação B a 80 quilômetros por hora. Se os dois trens partirem ao mesmo tempo em direções opostas, após quantas horas eles se encontrarão?",
+        "target": "3,2 horas"
+    },
+    {
+        "input": "Uma família de três pessoas (pai, mãe e filho) vai viajar para o Sul. Há duas agências de viagem locais, A e B, com os mesmos preços base, mas com diferentes promoções para famílias. A agência A oferece: adultos pagam preço integral, crianças têm 40% de desconto. A agência B oferece: todos os três membros da família têm 20% de desconto. Após cálculos, descobriu-se que a agência B é 240 reais mais barata. Qual é o preço normal para um adulto?",
+        "target": "1200 reais"
+    },
+    {
+        "input": "Uma flor tem preço de custo de 5 reais por unidade. Se for vendida com 20% de desconto sobre o preço marcado, ainda garante lucro de 3 reais. Qual é o preço marcado por unidade?",
+        "target": "10 reais"
+    },
+    {
+        "input": "Numa região está se construindo uma estrada. Se a equipe A trabalhar sozinha, levará 80 dias para concluir; se a equipe B trabalhar sozinha, levará 120 dias. Se as duas equipes trabalharem juntas, quanto tempo levarão para concluir a tarefa?",
+        "target": "48 dias"
+    },
+    {
+        "input": "Um laboratório de biologia precisa cultivar bactérias benéficas. Começando com 60 amostras vivas, após duas rodadas de cultivo, o total chegou a 24.000, com cada bactéria se dividindo em várias novas bactérias do mesmo tipo em cada rodada. Em média, quantas novas bactérias são produzidas por cada bactéria em cada rodada de divisão?",
+        "target": "19 bactérias"
+    },
+    {
+        "input": "Um grupo de 30 estudantes está fazendo aviões de papel. Cada estudante pode fazer 20 fuselagens ou 60 asas por hora. Um avião completo precisa de 1 fuselagem e 2 asas. Para que a produção horária seja exatamente balanceada, quantos estudantes devem ser designados para fazer fuselagens?",
+        "target": "18 estudantes"
+    },
+    {
+        "input": "Livros são distribuídos aos alunos de uma turma. Se cada aluno receber 3 livros, sobrarão 20 livros; se cada aluno receber 4 livros, faltarão 25 livros. Quantos alunos há na turma?",
+        "target": "45 alunos"
+    },
+    {
+        "input": "Um produto é marcado com preço 20% acima do custo e depois vendido com 10% de desconto, por 270 reais. Qual é o preço de custo deste produto?",
+        "target": "250 reais"
+    },
+    {
+        "input": "Um aluno de uma turma contraiu gripe e, após duas rodadas de transmissão, 49 alunos estavam com gripe. Com esta mesma taxa de transmissão, se 4 pessoas tiverem gripe, quantas pessoas estarão com gripe após a primeira rodada de transmissão?",
+        "target": "28 pessoas"
+    },
+    {
+        "input": "Para promover a arborização escolar, alunos de uma turma plantaram 144 mudas. Cada menino plantou 3 mudas e cada menina plantou 2 mudas. Sabendo que há 8 meninos a mais que meninas na turma, quantos meninos há?",
+        "target": "32 meninos"
+    },
+    {
+        "input": "Às vésperas do Carnaval, um supermercado comprou produtos por 12 reais cada e os vendeu por 20 reais, conseguindo vender 240 unidades por dia. Após um período, descobriu-se que: se o preço aumentar 1 real, vendem-se 20 unidades a menos por dia; se o preço diminuir 1 real, vendem-se 40 unidades a mais por dia. Com a redução de preço, para obter lucro diário de 1800 reais, em quantos reais deve ser reduzido o preço de cada unidade?",
+        "target": "3 reais"
+    },
+    {
+        "input": "Em uma feira de negócios, cada duas empresas participantes assinaram um contrato entre si. Ao final, foram assinados 78 contratos no total. Quantas empresas participaram desta feira?",
+        "target": "13 empresas"
+    },
+    {
+        "input": "O armazém A tem 37 toneladas de grãos e o armazém B tem 17 toneladas. 15 toneladas de grãos serão distribuídas entre os dois armazéns. Quantas toneladas devem ser alocadas ao armazém A para que ele tenha exatamente o dobro de grãos do armazém B?",
+        "target": "9 toneladas"
+    },
+    {
+        "input": "Uma loja de artigos esportivos vende bicicletas. Sabe-se que 1 funcionário experiente e 1 novato montam juntos 8 bicicletas por dia, enquanto 3 funcionários experientes e 5 novatos montam juntos 28 bicicletas por dia. Quantas bicicletas um funcionário novato consegue montar sozinho por dia?",
+        "target": "2 bicicletas"
+    },
+    {
+        "input": "Galinhas e coelhos têm um total de 192 patas. Se trocarmos o número de galinhas pelo número de coelhos, haveria 198 patas no total. Quantas galinhas e quantos coelhos existem?",
+        "target": "34 galinhas, 31 coelhos"
+    },
+    {
+        "input": "Há 18 galinhas a mais que coelhos, e juntos têm 84 patas. Quantas galinhas e quantos coelhos existem?",
+        "target": "26 galinhas, 8 coelhos"
+    }
+]

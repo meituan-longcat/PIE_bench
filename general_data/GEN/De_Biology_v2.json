@@ -1,0 +1,494 @@
+[
+    {
+        "input": "Ein Antigen weist in der Regel mehrere unterschiedliche Epitope (antigene Determinanten) auf. Jedes Epitop kann im Organismus die Bildung eines spezifischen Antikörpers auslösen. Die Gesamtheit der verschiedenen Antikörper, die durch ein einziges Antigen induziert werden, wird als polyklonale Antikörper (Polyklon) bezeichnet. Wird das Kapsidprotein p72 des Afrikanischen Schweinepestvirus (ASFV) in eine Maus injiziert, so können aus den Immunzellen dieser Maus monoklonale Antikörper (Monoklon) gegen p72 hergestellt oder direkt polyklonale Antikörper aus dem Blutserum der Maus isoliert werden.Welche der folgenden Aussagen ist korrekt? \nA) Mit der Maus kann nur ein einziger monoklonaler Antikörper gegen p72 hergestellt werden. \nB) Die Reinheit des in die Maus injizierten Antigens beeinflusst die Reinheit des Monoklon stärker als die des Polyklons. \nC) Bei strukturellen Veränderungen von p72 kann es vorkommen, dass ein zuvor wirksamer Monoklon seine Wirksamkeit verliert, während der Polyklon weiterhin wirksam bleibt. \nD) Bei der Herstellung von Monoklonen werden die isolierten Plasmazellen in der Regel mit Myelomzellen fusioniert.",
+        "target": "C) Bei strukturellen Veränderungen von p72 kann es vorkommen, dass ein zuvor wirksamer Monoklon seine Wirksamkeit verliert, während der Polyklon weiterhin wirksam bleibt."
+    },
+    {
+        "input": "In einer genetisch ausgeglichenen Population (Hardy-Weinberg-Gleichgewicht) beträgt die Krankheitsprävalenz einer X-chromosomal rezessiv vererbten Erbkrankheit bei Männern 4 % (0,04). Wie hoch ist unter diesen Bedingungen die Wahrscheinlichkeit, dass eine Frau in dieser Population an derselben Krankheit erkrankt?",
+        "target": "0,16 %"
+    },
+    {
+        "input": "Die Gene a und b liegen in Kopplung vor, mit einer Rekombinationsfrequenz von 20 %. Ein Individuum mit dem Genotyp AB/ab wird mit sich selbst gekreuzt. Wie hoch ist der Anteil des Phänotyps ab in der Nachkommenschaft?",
+        "target": "16%"
+    },
+    {
+        "input": "Ein Neugeborenes zeigt weibliche Sekundärgeschlechtsmerkmale, und in den Mundschleimhautzellen ist ein Barr-Körperchen nachweisbar. Welcher der folgenden Fälle trifft zu? Klinefelter-Syndrom, \nNormalbefund, Down-Syndrom, Turner-Syndrom.",
+        "target": "Normalbefund"
+    },
+    {
+        "input": "Eine weiße Katze wird mit einer schwarzen Katze gekreuzt. In der F1-Generation sind alle Nachkommen weiß. Kreuzt man die F1-Tiere untereinander, so entstehen in der F2-Generation weiße, schwarze und braune Jungtiere im Verhältnis 12:3:1. Welche der folgenden genetischen Interaktionen erklärt dieses Ergebnis am besten? Komplementäre Genwirkung, Suppression (Hemmwirkung), Dominante Epistase, Umwelteinflüsse.",
+        "target": "Dominante Epistase"
+    },
+    {
+        "input": "An einer Schule mit insgesamt 1600 Schülern beträgt die Frequenz des X-chromosomal-rezessiven Gens für Farbblindheit 6,8 %. Es gibt 780 Mädchen, darunter befinden sich 23 erkrankte und 52 Trägerinnen (heterozygote Konduktorinnen). Wie viele farbenblinde Jungen gibt es voraussichtlich an dieser Schule?",
+        "target": "64"
+    },
+    {
+        "input": "In einem Experiment zeigen zwei Mutationen a1 und a2 in trans-Stellung keine Komplementation, d. h. der Wildtyp-Phänotyp tritt nicht auf. Dagegen zeigen die Mutationen b1 und b2 in trans-Stellung Komplementation, der Wildtyp-Phänotyp wird wiederhergestellt. Beurteilen Sie folgende Aussage: „a1 und a2 gehören zum selben Cistron und sind allelisch, b1 und b2 liegen auf unterschiedlichen Cistrons und sind nicht-allelisch.“richtig oder falsch?",
+        "target": "Richtig"
+    },
+    {
+        "input": "Gegeben ist eine diploide Pflanze A, deren Zytoplasma genetisch verschieden von dem der Pflanze B ist. Zur Untersuchung der Kern-Plasma-Beziehungen soll eine Pflanze erzeugt werden, die das Zytoplasma von Pflanze A, aber hauptsächlich den Zellkern (Genom) von Pflanze B trägt. Welche der folgenden Kreuzungsstrategien ist dazu am besten geeignet? Nachkommen aus (♀ A × ♂ B) werden wiederholt mit A rückgekreuzt, Nachkommen aus (♀ B × ♂ A) werden wiederholt mit B rückgekreuzt, Nachkommen aus (♀ B × ♂ A) werden wiederholt mit A rückgekreuzt, Nachkommen aus (♀ A × ♂ B) werden wiederholt mit B rückgekreuzt.",
+        "target": "Nachkommen aus (♀ A × ♂ B) werden wiederholt mit B rückgekreuzt."
+    },
+    {
+        "input": "Bei einem Patienten mit auffälliger äußerer Genitalentwicklung zeigt die Chromatinanalyse:\n2 X-Chromatin-Körper (Barr-Körperchen) und 1 Y-Chromatin-Körper (Y-Chromatin positiv). Welcher der folgenden Karyotypen ist am wahrscheinlichsten?\nA) 47, XXY\nB) 48, XXXY\nC) 46, XY\nD) 49, XXXX",
+        "target": "B) 48, XXXY"
+    },
+    {
+        "input": "Eine Zygote besitzt zwei Paare homologer Chromosomen: A und A′, sowie B und B′.\nWelche Kombination dieser Chromosomen ist in den somatischen Zellen während der Entwicklung am ehesten zu erwarten? \nA) AA′BB\nB) AABB′\nC) AABB\nD) AA′BB′",
+        "target": "D) AA′BB′"
+    },
+    {
+        "input": "In einer bestimmten Population können 64 % der Menschen die Zunge rollen. Das Zungenrollen wird durch ein dominantes Allel (T) vererbt, während das rezessive Allel (t) zu keiner Zungenroll-Fähigkeit führt. Ein Mensch mit der Fähigkeit zum Zungenrollen heiratet eine Person, die nicht Zunge rollen kann. Berechnen Sie die Wahrscheinlichkeit, dass ihr gemeinsames Kind ebenfalls die Zunge rollen kann.\n",
+        "target": "62,5 %"
+    },
+    {
+        "input": "In einer Population wurden zufällig Individuen untersucht.\nDie Genotyp-Häufigkeiten sind wie folgt: BB: 14 %, Bb: 80 % ,bb: 6 %Berechnen Sie die Allelfrequenz des Allels B.",
+        "target": "54%"
+    },
+    {
+        "input": "Im Rahmen eines Infektionsexperiments mit dem Tabakmosaikvirus (TMV) wird ein hybrides Viruspartikel konstruiert: Es besteht aus der RNA des Typs A und der Proteinhülle des Typs B. Diese Hybridviren werden zur Infektion einer Tabakpflanze verwendet. Welche Nachkommen sind nach der Infektion zu erwarten? Viren des Typs A, Hybride Viren mit RNA vom Typ A und Proteinhülle vom Typ B, Keine Virusnachkommen, Viren des Typs B.",
+        "target": "Viren des Typs A"
+    },
+    {
+        "input": "Bei Erbsenpflanzen ist der lange Stängel (T) dominant über dem kurzen Stängel (t), und das gelbe Keimblatt (Y) ist dominant über dem grünen Keimblatt (y). Es wird angenommen, dass beide Gene unabhängig voneinander vererbt werden (2. Mendelsches Gesetz). Ein echterbiges Pflanzenindividuum mit langem Stängel und gelbem Keimblatt (TTYY) wird mit einer Pflanze mit kurzem Stängel und grünem Keimblatt (ttyy) gekreuzt. Wie groß ist die Wahrscheinlichkeit, dass ein Individuum der F₂-Generation einen kurzen Stängel und ein gelbes Keimblatt hat?",
+        "target": "18,75%"
+    },
+    {
+        "input": "Bei einer bestimmten Pflanze wird die Blütenfarbe durch ein intermediär wirkendes Allelpaar kontrolliert.\nEin reinerbiger dunkelblühender Pflanzentyp wird mit einem hellblühenden (heterozygoten) Individuum gekreuzt. Welche Blütenfarben treten bei den Nachkommen auf? ",
+        "target": "Die Nachkommen zeigen zu 50 % dunkelblaue und zu 50 % hellblaue Blüten.\n"
+    },
+    {
+        "input": "Bei Kaninchen wird das Körpergewicht durch mehrere gleichwertige, additiv wirkende Gene kontrolliert. In einer Kreuzung zwischen einer kleinwüchsigen und einer großwüchsigen Kaninchenlinie werden in der F₂-Generation insgesamt 2012 Tiere beobachtet. Darunter sind 8 Tiere mit dem Körpergewicht wie der kleine Elterntyp und 8 Tiere wie der große Elterntyp. Wie viele Genpaare sind an der Ausprägung dieser Merkmalsunterschiede beteiligt?",
+        "target": "4 Genpaare"
+    },
+    {
+        "input": "Zystische Fibrose ist eine autosomal rezessive Erbkrankheit. In der europäischen Bevölkerung erkrankt einer von 2500 Menschen an dieser Krankheit. Wenn ein gesundes Paar ein Kind hat, das an dieser Krankheit leidet, und die Frau später einen gesunden Mann heiratet, wie hoch ist die Wahrscheinlichkeit, dass ihr gemeinsames Kind an dieser Krankheit leidet? (Antwort in Prozent und auf zwei Dezimalstellen gerundet)",
+        "target": "0,98%"
+    },
+    {
+        "input": "Zwei homozygote Reinstammlinien von Mais unterscheiden sich hinsichtlich der Kolbenachsenlänge. Die mittlere Kolbenachsenlänge beträgt 0,27 m bei der einen und 0,09 m bei der anderen Linie. Es wird angenommen, dass die Merkmalsausprägung ausschließlich durch additive Polygenwirkung bestimmt wird. Wie lang ist die zu erwartende durchschnittliche Kolbenachse bei den F₁-Hybriden (Nachkommen der Kreuzung)?",
+        "target": "0,18 m"
+    },
+    {
+        "input": "Bei einer Erbkrankheit, dem übermäßigen Haarwuchs im äußeren Gehörgang, ist der Vater betroffen.\nAlle seine Söhne sind ebenfalls betroffen, alle seine Töchter jedoch gesund. Welche Aussage über die Lage des verantwortlichen Gens trifft am besten zu? Ein rezessives Gen auf einem Autosom, Ein rezessives Gen auf dem Y-Chromosom, Ein dominantes Gen auf dem X-Chromosom, Ein dominantes Gen auf einem Autosom.",
+        "target": "Ein rezessives Gen auf dem Y-Chromosom"
+    },
+    {
+        "input": "Bei einer routinemäßigen genetischen Untersuchung wird festgestellt, dass sowohl Herr als auch Frau Müller Träger des autosomal-rezessiven Krankheitsgens a sind. Beide zeigen keine Symptome der Krankheit. Wie hoch ist die Wahrscheinlichkeit, dass das Ehepaar ein krankes Kind bekommt?",
+        "target": "25%"
+    },
+    {
+        "input": "Im invasiven Gebiet wurde die fremde Pflanzenart Sonneratia apetala (Mangrovenart) zur Kontrolle von Spartina alterniflora (eine invasive Grasart) eingeführt. S. apetala wächst schnell, bildet eine dichte Krone und schafft eine schattige Umgebung, was die Ausbreitung von S. alterniflora durch Lichtmangel einschränkt. Allerdings haben die Keimlinge von S. apetala eine geringere Überlebensrate im Schatten als einheimische Pflanzenarten, sodass schließlich die einheimischen Pflanzengemeinschaften wiederhergestellt werden. Beurteilen Sie die folgende Aussage:\n„Zur Abschätzung der Populationsdichte von Spartina alterniflora im Invasionsgebiet sollten Probenquadrate in Gebieten mit relativ hoher Konzentration dieser Art ausgewählt werden.\n“\nIst diese Aussage richtig oder falsch?",
+        "target": "Falsch"
+    },
+    {
+        "input": "Bei jemandem, der in eine hochgelegene, sauerstoffarme Region gereist ist, treten Atembeschwerden, Fieber und verminderter Urinausstoß auf. Eine Untersuchung zeigt eine Lungeninfektion, wobei sich in den Lungenzwischenräumen und Alveolarflüssigkeit Proteine und rote Blutkörperchen befinden. Die Diagnose lautet Höhenlungenödem. Ist die Aussage \"Der kolloidosmotische Druck der Gewebsflüssigkeit in der Lunge des Patienten ist erhöht, und die Menge der Alveolarflüssigkeit hat zugenommen.\" korrekt?",
+        "target": "Korrekt"
+    },
+    {
+        "input": "In den Zellen werden bestimmte Proteine nach ihrer Verarbeitung im endoplasmatischen Retikulum (ER) in den Golgi-Apparat transportiert. Dort modifiziert das Enzym S einige dieser Proteine durch Anheftung einer M6P-Markierung (Mannose-6-Phosphat). Diese Markierung ermöglicht es, dass die Proteine von M6P-Rezeptoren in der Membran des Golgi-Apparats erkannt und in Vesikel verpackt werden. Diese Vesikel entwickeln sich zu Lysosomen, wobei die markierten Proteine zu lysosomalen Enzymen umgewandelt werden. Proteine ohne M6P-Erkennung werden hingegen in Vesikeln zur Zellmembran transportiert. Beurteilen Sie die folgende Aussage:\n„In Zellen mit einem Defekt im M6P-Rezeptorgen sammeln sich M6P-markierte Proteine im Golgi-Apparat an.“\nIst diese Aussage richtig oder falsch?",
+        "target": "Falsch"
+    },
+    {
+        "input": "Bei einer diploiden höheren Pflanze mit einem XY-Geschlechtsbestimmungssystem gibt es zwei Blattformen: breite Blätter (dominant) und schmale Blätter (rezessiv). Das Genpaar B/b, das diese Merkmale kontrolliert, befindet sich auf dem X-Chromosom. Pollen, die das rezessive b-Allel enthalten, sind nicht lebensfähig (steril). Welche der folgenden Aussagen ist falsch? Die schmale Blattform kann nur bei männlichen Pflanzen auftreten und nicht bei weiblichen. Kreuzt man eine weibliche Pflanze mit breiten Blättern mit einer männlichen Pflanze mit breiten Blättern, können in der Nachkommenschaft männliche Pflanzen mit schmalen Blättern auftreten. Wenn alle männlichen Nachkommen einer Kreuzung breite Blätter haben, ist die weibliche Elternpflanze homozygot. Kreuzt man eine weibliche Pflanze mit breiten Blättern mit einer männlichen Pflanze mit schmalen Blättern, treten in der Nachkommenschaft sowohl weibliche als auch männliche Pflanzen auf.",
+        "target": "Kreuzt man eine weibliche Pflanze mit breiten Blättern mit einer männlichen Pflanze mit schmalen Blättern, treten in der Nachkommenschaft sowohl weibliche als auch männliche Pflanzen auf."
+    },
+    {
+        "input": "Ein E.-coli-Stamm kann auf einem Minimalmedium wachsen. Die Mutanten M und N können jeweils nicht auf dem Minimalmedium wachsen: Mutante M wächst nur auf einem Minimalmedium, dem eine bestimmte Aminosäure zugesetzt wurde. Mutante N wächst nur auf einem Minimalmedium, dem eine andere Aminosäure zugesetzt wurde. Mischt man M und N auf einem Minimalmedium mit beiden Aminosäuren und kultiviert sie dort eine Weile, so erscheinen anschließend Kolonien von Bakterien des Typs X auf einem reinen Minimalmedium. Beurteilen Sie folgende Aussage: „Die RNA der Mutante M kann mit der der Mutante N gemeinsam kultiviert werden, um Bakterien vom Typ X zu erhalten.“",
+        "target": "Falsch"
+    },
+    {
+        "input": "In einer bestimmten Umweltbedingung können bei einer Tierart nur die Zygoten mit dem Genotyp BB oder Bb überleben; Zygoten mit dem Genotyp bb sterben vollständig ab. Es liegen 1000 Paar dieser Tiere vor, wobei alle Elterntiere den Genotyp Bb besitzen (jedes Paar besteht aus einem Vater und einer Mutter). Wenn jedes Elternpaar genau eine Zygote hervorbringt, wie viele Individuen mit den Genotypen BB, Bb und bb sind theoretisch in der F₁-Generation zu erwarten?",
+        "target": "250; 500; 0"
+    },
+    {
+        "input": "Wenn n Maiskörner im Dunkeln zum Keimen gebracht werden, entstehen n etiolierte Keimlinge.\nVerglichen mit den ursprünglichen trockenen Samen, welche Aussage über den Gesamtgehalt an organischer Substanz und die Respirationsrate der Keimlinge ist korrekt?\nA) Der Gehalt an organischer Substanz nimmt ab, die Respirationsrate nimmt zu \nB) Der Gehalt an organischer Substanz nimmt ab, die Respirationsrate nimmt ab\nC) Der Gehalt an organischer Substanz nimmt zu, die Respirationsrate nimmt ab\nD) Der Gehalt an organischer Substanz nimmt zu, die Respirationsrate nimmt zu",
+        "target": "A) Der Gehalt an organischer Substanz nimmt ab, die Atmungsintensität nimmt zu"
+    },
+    {
+        "input": "Zwei äußerlich gleiche Epidermisstücke einer violetten Zwiebel werden entnommen. Die Zellen beider Proben sind hinsichtlich ihrer Größe, Anzahl und physiologischen Aktivität vergleichbar. Probe A wird für eine gewisse Zeit in einer vollständigen Nährlösung inkubiert. Probe B wird für dieselbe Zeit in destilliertem Wasser inkubiert. Anschließend werden beide Proben in eine Saccharoselösung mit einer Konzentration von 0,3 g/mL überführt. Nach einiger Zeit ist kein weiterer Wasserverlust aus den Zellen mehr feststellbar.\nFrage: Zu diesem Zeitpunkt, welche der beiden Gruppen A oder B hat weniger Wasser verloren, und auf welche Weise wird das Wasser aus den Zellen transportiert?",
+        "target": "Gruppe A verliert weniger Wasser als Gruppe B; Wassertransport durch passiven Transport"
+    },
+    {
+        "input": "Tomatenkeimlinge werden für eine bestimmte Zeit in einer magnesiumfreien Nährlösung kultiviert. Im Vergleich zur Kontrollgruppe zeigt sich, dass die Photosyntheseleistung der Blätter abnimmt. Welche der folgenden Aussagen beschreibt diesen Effekt korrekt?\nA) Die Lichtreaktion wird abgeschwächt, die Dunkelreaktion bleibt unverändert\nB) Die Lichtreaktion wird verstärkt, die Dunkelreaktion wird abgeschwächt\nC) Die Lichtreaktion wird abgeschwächt, die Dunkelreaktion wird ebenfalls abgeschwächt\nD) Die Lichtreaktion bleibt unverändert, die Dunkelreaktion wird abgeschwächt",
+        "target": "C) Die Lichtreaktion wird abgeschwächt, die Dunkelreaktion wird ebenfalls abgeschwächt"
+    },
+    {
+        "input": "Menschliche Erythrozyten (rote Blutzellen) werden in 4 °C kaltes destilliertes Wasser gegeben.\nNach einer gewissen Zeit platzen die Zellen. Welche der folgenden Erklärungen ist am plausibelsten?\nA) Bei niedriger Temperatur steigt die Membranfluidität der roten Blutkörperchen.\nB) Das Volumen der Vakuolen in den roten Blutkörperchen nimmt zu.\nC) Destilliertes Wasser tritt in großen Mengen in die roten Blutkörperchen ein.\nD) Rote Blutkörperchen sind wasserlöslich.",
+        "target": "C)Destilliertes Wasser tritt in großen Mengen in die roten Blutkörperchen ein."
+    },
+    {
+        "input": "In der klinischen Praxis wird je nach Krankheitsbild gezielt ein bestimmter Blutbestandteil zur Transfusion ausgewählt. Welche Blutkomponente sollte jeweils transfundiert werden bei:\nAnämie (Blutarmut)\nGroßflächigen Verbrennungen\nThrombozytenmangel",
+        "target": "Erythrozytenkonzentrat (rote Blutkörperchen), Plasma, Thrombozyten-konzentrat "
+    },
+    {
+        "input": "Thomas möchte Samen von folgenden alltäglichen Gemüsepflanzen gewinnen, um sie selbst anzubauen: Buschbohnen, Gurken, Tomaten, Seetang (Kombu), Erdnüsse. Er stellt fest, dass es bei einer Pflanze nicht möglich ist, auf üblichem Wege Samen zu gewinnen. Welche dieser Pflanzen liefert keine typischen Samen zur Anzucht?\nA) Seetang \nB) Gurke \nC) Tomate \nD) Erdnuss\n",
+        "target": "A) Seetang "
+    },
+    {
+        "input": "Bei der Herstellung von Joghurt werden nützliche Bakterien wie Milchsäurebakterien und thermophile Stäbchenbakterien kultiviert. Wenn bei der Sterilisierung der Umgebung nicht sorgfältig gearbeitet wird, kann es zu einer Kontamination des Nährmediums kommen. Welcher der folgenden Viren könnte typischerweise auf dem Bakterienkulturmedium gefunden werden?\nA) SARS-Virus\nB) Hepatitis-B-Virus\nC) Bakteriophage \nD) Tabakmosaikvirus ",
+        "target": "C) Bakteriophage "
+    },
+    {
+        "input": "Ein gesunder Mensch zeigt folgende Nachweisbarkeit von Stoffen im Blutplasma, Primärharn und Urin („√“ bedeutet vorhanden, „×“ bedeutet nicht vorhanden):\n$\\begin{array}{cccc}\\text{Stoff}&\\text{Blutplasma}&\\text{Primärharn}&\\text{Urin}\\\\text{X}&\\mathbf{√}&\\mathbf{×}&\\mathbf{×}\\\\text{Y}&\\mathbf{√}&\\mathbf{√}&\\mathbf{×}\\\\text{Z}&\\mathbf{√}&\\mathbf{√}&\\mathbf{√}\\end{array}$\nBestimmen Sie, welche Stoffe X, Y und Z jeweils sind.",
+        "target": "große Proteine (z. B. Albumin), Glukose, Harnstoff"
+    },
+    {
+        "input": "Ein Schüler beobachtet einen temporären Präparatschnitt von Pflanzenzellen unter dem Mikroskop. Im Gesichtsfeld erscheinen neben den Zellen auch einige Schmutzpartikel. Wenn das Objektiv gewechselt und das Präparat verschoben wird, bewegen sich die Schmutzpartikel nicht. Wo befinden sich die Schmutzpartikel höchstwahrscheinlich?\na. Okular\nb. Objektiv\nc. Spiegel\nd. Präparat",
+        "target": "a. Okular"
+    },
+    {
+        "input": "Welche Herzkammer erreicht das injizierte Antibiotikum im Gesäßmuskel zuerst, bevor es den Rachenbereich erreicht?\n",
+        "target": "Das rechte Atrium (rechter Vorhof).\n"
+    },
+    {
+        "input": "Artemisinin, das von der Nobelpreisträgerin Tu Youyou im Jahr 2015 entdeckt und entwickelt wurde, kann die Sterblichkeitsrate der Infektionskrankheit Malaria wirksam senken. Welcher Maßnahme zur Vorbeugung von Infektionskrankheiten entspricht die rechtzeitige Behandlung von Malariapatienten?\na. Unterbrechung des Übertragungsweges\nb. Schutz empfänglicher Personen\nc. Abtötung des Erregers\nd. Kontrolle der Infektionsquelle",
+        "target": "d. Kontrolle der Infektionsquelle"
+    },
+    {
+        "input": "ei einer diploiden Pflanze wird zwischen Krankheitsresistenz und Krankheitsanfälligkeit unterschieden. Diese Merkmale werden durch ein Allelenpaar kontrolliert. Welche Kreuzungskombination ist am besten geeignet, um das dominante und rezessive Merkmal zu bestimmen?\na. Kreuzung zwischen zwei resistenten Pflanzen oder zwei anfälligen Pflanzen\nb. Kreuzung zwischen homozygot resistenter Pflanze und homozygot anfälliger Pflanze\nc. Kreuzung zwischen resistenter und anfälliger Pflanze\nd. Kreuzung zwischen zwei homozygot resistenten Pflanzen oder zwei homozygot anfälligen Pflanzen",
+        "target": "b. Kreuzung zwischen homozygot resistenter Pflanze und homozygot anfälliger Pflanze"
+    },
+    {
+        "input": "Unter bestimmten Bedingungen kann man im Reagenzglas durch Zugabe von Stoff X und Stoff Z das Produkt Y erhalten. Welche der folgenden Aussagen ist korrekt?\na. Wenn X DNA ist und Y mRNA, dann ist Z Desoxyribonukleosid.\nb. Wenn X RNA ist und Y DNA, dann ist Z eine Restriktionsendonuklease.\nc. Wenn X DNA ist und Y RNA, dann ist Z die Reverse Transkriptase.\nd. Wenn X mRNA ist und Y ein am Ribosom synthetisiertes Makromolekül, dann ist Z eine Aminosäure.",
+        "target": "d. Wenn X mRNA ist und Y ein am Ribosom synthetisiertes Makromolekül, dann ist Z eine Aminosäure."
+    },
+    {
+        "input": "In einer Tierpopulation machen die Genotypen AA, Aa und aa jeweils 25 %, 50 % und 25 % aus. Wenn die aa-Individuen keine Fortpflanzungsfähigkeit besitzen, die übrigen jedoch zufällig miteinander verpaaren, wie lautet theoretisch das Verhältnis der Genotypen AA:Aa:aa in der nächsten Generation?",
+        "target": " AA : Aa : aa = 4 : 4 : 1"
+    },
+    {
+        "input": "Ein Individuum mit dem Genotyp AaBbDdEeGgHhKk wird selbstbefruchtet. Unter der Annahme, dass diese 7 Allelpaare unabhängig voneinander vererbt werden, lautet eine Aussage über seine Nachkommen:\n‚Die Wahrscheinlichkeit, dass ein Nachkomme bei 3 Allelpaaren heterozygot (Aa) und bei 4 Allelpaaren homozygot (AA oder aa) ist, beträgt 35/128.‘\nIst diese Aussage korrekt?",
+        "target": " Korrekt"
+    },
+    {
+        "input": "In einem Gelege mit grauschaligen Eiern eines Vogels wird ein Ei mit grüner Schale entdeckt. Es wird vermutet, dass dieses Ei von einer anderen Vogelart stammt. Kann die folgende Maßnahme zur Überprüfung dieser Vermutung sinnvolle Informationen liefern:\n„Ein Elternschaftstest unter Verwendung des Eiweißes des grünen Eis und des Blutplasmas des Vogels“?",
+        "target": "Nein"
+    },
+    {
+        "input": "In einem Teich lebt eine bestimmte Fischart als erwachsenes Tier am Boden und ernährt sich dort von verschiedenen benthischen Tieren. Die Jungtiere dieser Fischart leben dagegen in den oberen Wasserschichten und filtrieren dort Plankton und Algen. Ist die folgende Aussage korrekt: „Die Schichtung von benthischen Tieren und Plankton stellt eine vertikale Struktur der Lebensgemeinschaft dar“?",
+        "target": "Ja"
+    },
+    {
+        "input": "In einem aquatischen Ökosystem mit Algen, Schilf und Wasservögeln (einige mit Zugverhalten) wird folgende Aussage gemacht: „Die von Produzenten wie Algen und Schilf fixierte Energie stellt die Gesamtenergie dar, die durch das Ökosystem fließt.“ Ist diese Aussage korrekt?",
+        "target": "Ja"
+    },
+    {
+        "input": "Einem normalen Kaninchen wird intravenös eine bestimmte Menge einer hypertonischen Glukoselösung injiziert. Im Körper des Kaninchens treten daraufhin bestimmte Veränderungen auf, die sich nach einiger Zeit wieder normalisieren. Welche der folgenden Aussagen beschreibt die unmittelbar nach der Injektion eintretende Veränderung korrekt?\na. Der osmotische Druck des Blutplasmas steigt schnell an\nb. Die Insulinsekretion sinkt\nc. Der Abbau von Leberglykogen nimmt zu\nd. Die roten Blutkörperchen nehmen mehr Wasser auf",
+        "target": "a. Der osmotische Druck des Blutplasmas steigt schnell an"
+    },
+    {
+        "input": "Ein Krankenhaus führt einen Resistenztest an Bakterien durch, die bei Neugeborenen Infektionen verursachen. Das Ergebnis zeigt, dass 70 % der pathogenen Bakterien resistent gegen Antibiotika sind. Welche der folgenden Aussagen ist korrekt?\na. Auch wenn Schwangere und Neugeborene keinen Kontakt mit Antibiotika hatten, können die Infektionserreger resistente Bakterien sein.\nb. Da das Neugeborene nach der Geburt nicht rechtzeitig geimpft wurde, sind resistente Bakterien entstanden.\nc. Ein Mangel an Immunglobulinen im Körper des Neugeborenen hat die Resistenz der Erreger erhöht.\nd. Der Verzehr von Lebensmitteln mit Antibiotikarückständen durch die Mutter hat dazu geführt, dass die meisten ihrer Bakterien mutierten.",
+        "target": "a. Auch wenn Schwangere und Neugeborene keinen Kontakt mit Antibiotika hatten, können die Infektionserreger resistente Bakterien sein."
+    },
+    {
+        "input": "Thomas ist ein 52-jähriger Mann mit XLA (X-chromosomaler Agammaglobulinämie), einer Immunschwächekrankheit, die durch das Fehlen von B-Lymphozyten verursacht wird. In seiner Familie sind alle männlichen Betroffenen ab Thomas' Generation an dieser Krankheit erkrankt, wobei die weiblichen Partner von Thomas' Generation keine Trägerinnen des Gendefekts sind. Ein Bruder von Thomas starb im Alter von 41 Jahren an der Krankheit. Seine Schwester hat vier Söhne und eine Tochter; drei der Söhne sind betroffen, zwei von ihnen starben im Kindesalter an der Krankheit. Die betroffenen Männer in der Familie tragen den gleichen Genotyp bezüglich des defekten Gens. Einige sterben jedoch früh, während andere bis ins vierte oder fünfte Lebensjahrzehnt leben – obwohl keine wirksame Behandlung vorliegt. Was lässt sich aus diesem Sachverhalt am besten ableiten?\na. Die Expression des defekten Gens ist unabhängig von der Expression anderer Gene.\nb. Die Lebensdauer der Patienten nimmt mit zunehmender Kopienzahl des defekten Gens ab.\nc. Die Expression des defekten Gens wird durch Umweltfaktoren beeinflusst.\nd. Patienten können durch erworbene Immunität ihre Lebenszeit verlängern.",
+        "target": "c. Die Expression des defekten Gens wird durch Umweltfaktoren beeinflusst."
+    },
+    {
+        "input": "Bei einer bestimmten Pflanze wird das Fruchtgewicht durch drei Allelpaare kontrolliert, die sich auf drei homologen Chromosomenpaaren befinden. Jedes dominante Allel trägt den gleichen Beitrag zur Erhöhung des Fruchtgewichts bei und zeigt kumulative Wirkung. Das Fruchtgewicht eines homozygot rezessiven Individuums beträgt 150 g, das eines homozygot dominanten Individuums beträgt 270 g. Zwei Pflanzen mit dem Genotyp AaBbCc werden gekreuzt. Wie groß ist der Anteil der F1-Nachkommen mit einem Fruchtgewicht von 190 g?",
+        "target": "15/64"
+    },
+    {
+        "input": "Das antidiuretische Hormon (ADH) im Blutplasma wird vom Hypothalamus ausgeschüttet. Welche der folgenden Situationen führt zu einer verringerten ADH-Sekretion?\na. Vermindertes Blutvolumen\nb. Erhöhte Elektrolytkonzentration im Blutplasma\nc. Der Verzehr von übermäßig salzigen Speisen\nd. Übermäßige Wasseraufnahme",
+        "target": "d. Übermäßige Wasseraufnahme"
+    },
+    {
+        "input": "Im Experiment zum Bau eines DNA-Molekülmodells wird ein Kunststoffstreifen einer bestimmten Länge verwendet, um A und G darzustellen, und ein anderer Kunststoffstreifen einer anderen Länge, um C und T darzustellen. Welche der folgenden Aussagen über das daraus resultierende Modell der DNA-Doppelhelix ist korrekt?\na. Unterschiedliche Dicke, weil sich Purinbasen nicht unbedingt mit Pyrimidinbasen paaren\nb. Gleiche Dicke, weil sich Purinbasen immer mit Pyrimidinbasen paaren\nc. Unterschiedliche Dicke, weil Purinbasen und Pyrimidinbasen unterschiedliche räumliche Größen haben\nd. Gleiche Dicke, weil Purinbasen und Pyrimidinbasen ähnliche räumliche Größen haben",
+        "target": "b. Gleiche Dicke, weil sich Purinbasen immer mit Pyrimidinbasen paaren"
+    },
+    {
+        "input": "Aus den Pollen einer heterozygoten diploiden Pflanze wird ein Keimling gezüchtet. Dieser Keimling wird anschließend mit Colchicin behandelt, sodass er normal blühen und Früchte tragen kann. Welche Eigenschaft weist die daraus entwickelte Pflanze auf?\na. Enthält vier Chromosomensätze\nb. Zeigt Heterosiseffekt\nc. Ist haploid\nd. Vererbt sich stabil",
+        "target": "d. Vererbt sich stabil"
+    },
+    {
+        "input": "Die Erbinformation eines bestimmten Virus liegt als doppelsträngige DNA vor. Ein Abschnitt einer der beiden Stränge lautet: ACGCAT. Aus dem komplementären DNA-Strang wird eine mRNA transkribiert. Diese mRNA wird in der Wirtszelle durch die Reverse Transkriptase in eine einzelsträngige cDNA umgeschrieben. Wie lautet die entsprechende Basensequenz dieses Abschnitts auf dem neuen DNA-Einzelstrang, der mithilfe der cDNA als Matrize synthetisiert wird?",
+        "target": "ACGCAT"
+    },
+    {
+        "input": "Bei einer bestimmten Vogelart bestimmt das ZW-System das Geschlecht. Die Augenfarbe wird durch zwei unabhängige Gene (A/a und B/b) kontrolliert. M und N sind zwei reinerbige Stämme, die beide rote Augenfarbe zeigen. Die folgenden Kreuzungsergebnisse sind bekannt:\nKreuzung 1: Männchen M × Weibchen N → alle Nachkommen (männlich und weiblich) haben braune Augen\nKreuzung 2: Weibchen M × Männchen N → männliche Nachkommen haben braune Augen, weibliche Nachkommen haben rote Augen\nFrage: Welche Genotypen hatten die Elterntiere bei Kreuzung 1?",
+        "target": "M:AAZ(b)Z(b), N:aaZ(B)W"
+    },
+    {
+        "input": "Ein Ribosom von Escherichia coli wird mit einem Protease-Enzym behandelt, um seine Proteine zu entfernen. Danach ist es immer noch in der Lage, die Dehydratisierungsreaktion der Aminosäuren (Peptidbindung) zu katalysieren.\nWas lässt sich daraus über die katalytisch aktive Komponente des Ribosoms schließen?\n",
+        "target": "RNA"
+    },
+    {
+        "input": "Die TGF-β1–Smads-Signalkette ist ein tumorsuppressiver Signalweg. Studien zeigen, dass das extrazelluläre Protein TGF-β1 an spezifische Rezeptoren auf der Zellmembran bindet, was intrazellulär Smads-Moleküle aktiviert. Diese bilden einen Komplex, der in den Zellkern wandert und Zielgene aktiviert, die die abnormale Zellproliferation hemmen und Tumorbildung unterdrücken. Ist die folgende Aussage korrekt:\n„Wenn das Gen für den Rezeptor nicht exprimiert wird, kann die Zielzelle dennoch normal apoptotisch absterben.“",
+        "target": "Nein"
+    },
+    {
+        "input": "Die Rapsspezies A (2n=20) und B (2n=16) wurden künstlich gekreuzt. Der entstandene Embryo (C) wurde in vitro kultiviert, dann wurde der Sprossscheitel von C mit Colchicin behandelt, um Sämling D zu erhalten. Nach Selbstbefruchtung von D wurde Nachkommenschaft E gewonnen. Ist folgende Aussage richtig:\n„In der Anaphase der Zellteilung von Sämling D können 36 oder 72 Chromosomen beobachtet werden.“",
+        "target": "Richtig"
+    },
+    {
+        "input": "Ein ursprünglich herbizidempfindlicher Sojabohnenstamm wurde durch Strahlung in einen resistenten Mutanten umgewandelt. Das Empfindlichkeitsgen und das Resistenzgen sind Allele eines Gens. Welche der folgenden Aussagen ist korrekt?\na. Wenn die Mutation durch Deletion eines Chromosomenabschnitts verursacht wurde, muss das Resistenzgen ein rezessives Gen sein.\nb. Wenn die Mutation durch Deletion desselben Abschnitts auf beiden homologen Chromosomen verursacht wurde, kann die Empfindlichkeit durch erneute Mutagenese wiederhergestellt werden.\nc. Wenn die Mutation eine Punktmutation ist, ist es unmöglich, die Empfindlichkeit durch erneute Mutagenese wiederherzustellen.\nd. Wenn das Resistenzgen durch den Austausch eines einzigen Basenpaares im Empfindlichkeitsgen entstanden ist, kann dieses Resistenzgen auf keinen Fall ein Polypeptid codieren.",
+        "target": "a. Wenn die Mutation durch Deletion eines Chromosomenabschnitts verursacht wurde, muss das Resistenzgen ein rezessives Gen sein."
+    },
+    {
+        "input": "In einer Zellkultur eines Säugetiers, dessen somatische Zellen teilungsfähig sind, werden radioaktiv markiertes ³H-TdR (³H-Thymidin) und ein Zellteilungs-förderndes Medikament zugesetzt. Nach einer gewissen Kultivierungszeit lässt sich welche der folgenden Beobachtungen am ehesten machen?\na. Die M-Phase ist relativ kurz, die Kernmembran bleibt dabei intakt.\nb. Die G₂-Phase wird kürzer, und es gibt Histone im Zellkern.\nc. Die G₁-Phase wird kürzer, und es gelangt eine große Menge ³H-TdR in den Zellkern.\nd. Die S-Phase wird verlängert, wobei DNA-Replikation und Ribosomenvermehrung stattfinden.",
+        "target": "b. Die G₂-Phase wird kürzer, und es gibt Histone im Zellkern.\n"
+    },
+    {
+        "input": "Zur Kontrolle der Wildkaninchenpopulation in Australien wurde ein Virus eingeführt, das hauptsächlich durch Mücken übertragen wird. Anfangs war der Anteil hochvirulenter Virusstämme am höchsten; Kaninchen, die sich mit diesen infizierten, starben schnell, was zu einem starken Rückgang der Population führte. Kaninchen, die sich mit mittelvirulenten Stämmen infizierten, überlebten eine Zeit lang. Einige Jahre später war der Anteil der mittelvirulenten Viren am höchsten, und die Kaninchenpopulation blieb auf niedrigem Niveau stabil. Welche der folgenden Aussagen lässt sich aus diesem Sachverhalt nicht ableiten?\na. Mücken spielten eine Rolle bei der Koevolution zwischen Kaninchen und Virus.\nb. Der Anstieg des Anteils mittelvirulenter Viren ist darauf zurückzuführen, dass die Resistenz der Kaninchen gegenüber dem Virus abgenommen hat.\nc. Eine zu hohe Virulenz wirkt sich nachteilig auf das parasitäre Verhältnis zwischen Virus und Kaninchen aus.\nd. Die Virusinfektion stellt einen Selektionsfaktor für die Resistenz der Kaninchenpopulation dar.\n",
+        "target": "b. Der Anstieg des Anteils mittelvirulenter Viren ist darauf zurückzuführen, dass die Resistenz der Kaninchen gegenüber dem Virus abgenommen hat."
+    },
+    {
+        "input": "Grünalgen, die sich unter normalen Bedingungen entwickeln, werden für eine bestimmte Zeit unter Lichteinfluss kultiviert. Anschließend wird das Kulturgefäß plötzlich mit einem schwarzen Tuch abgedeckt.\nKann in den Chloroplasten der Grünalgenzellen danach die Fixierung von CO₂ beschleunigt ablaufen?\n",
+        "target": "Nein"
+    },
+    {
+        "input": "Wildtyp-Stämme von Escherichia coli können auf einem Minimalmedium wachsen. Mutanten, die auf bestimmte Aminosäuren angewiesen sind, benötigen eine Ergänzung dieser Aminosäuren im Medium, um wachsen zu können. Ein methioninabhängiger Stamm M und ein threoninabhängiger Stamm N wachsen jeweils nicht auf dem Minimalmedium, wenn sie alleine ausgestrichen werden. Ein Schüler stellte jedoch fest, dass nach gemeinsamer Kultivierung von M und N, Verdünnung und Ausplattieren auf Minimalmedium zahlreiche Kolonien entstanden. Diese Kolonien stammten offenbar von Einzelzellen. Wenn man diese Kolonien erneut auf Minimalmedium ausstreicht, wachsen sie weiterhin. Welche der folgenden Erklärungen für das Auftreten dieser Kolonien ist nicht plausibel?\na) Es kam während der Operation zu einer Kontamination mit Fremdbakterien\nb) Die Stämme M und N versorgten sich gegenseitig mit den fehlenden Aminosäuren\nc) In den Mutanten traten Rückmutationen an den zuvor mutierten Genen auf\nd) Während der gemeinsamen Kultivierung übertrugen die Stämme genetisches Material untereinander",
+        "target": "b) Die Stämme M und N versorgten sich gegenseitig mit den fehlenden Aminosäuren"
+    },
+    {
+        "input": "Im März 2016 sorgte ein Mensch-Maschine-Wettkampf im Go-Spiel zwischen dem menschlichen Spieler und der künstlichen Intelligenz AlphaGo für Aufsehen. Die neuronale Struktur, mit der der menschliche Spieler die Spielsituation analysierte und Entscheidungen traf, gehört im Reflexbogen zu: __________.",
+        "target": "Nervenzentrum."
+    },
+    {
+        "input": "Einige Blattscheiben derselben Pflanze wurden gleichmäßig in zwei Gruppen eingeteilt. Sie wurden in gleich konzentrierte Lösungen von Zucker A und Zucker B gelegt, wobei Zucker A etwa die doppelte relative Molekülmasse wie Zucker B hat. Nach dem Erreichen des Wasser-Gleichgewichts wurde festgestellt, dass die Konzentration der Zucker-A-Lösung angestiegen war. In der Zwischenzeit fand kein Austausch von gelösten Stoffen zwischen den Zellen und der Lösung statt. Welche der folgenden Aussagen ist falsch in Bezug auf das beschriebene Experiment zur Wasseraufnahme von Pflanzenzellen?\na. Wenn die Konzentration der Zucker-B-Lösung ebenfalls gestiegen ist, war die Netto-Wasseraufnahme der Zellen in Gruppe B größer als in Gruppe A.\nb. Wenn die Konzentration der Zucker-B-Lösung unverändert blieb, war die Netto-Wasseraufnahme der Zellen in Gruppe B gleich null.\nc. Die Blattscheiben der Gruppe A haben Wasser aus der Lösung aufgenommen, wodurch die Konzentration der Zucker-A-Lösung anstieg.\nd. Wenn die Konzentration der Zucker-B-Lösung gesunken ist, könnte es sein, dass bei den Zellen in Gruppe B Plasmolyse aufgetreten ist.",
+        "target": "a. Wenn die Konzentration der Zucker-B-Lösung ebenfalls gestiegen ist, war die Netto-Wasseraufnahme der Zellen in Gruppe B größer als in Gruppe A."
+    },
+    {
+        "input": "Sowohl das Coronavirus SARS-CoV-2 als auch das Bakterium Streptococcus pneumoniae (Pneumokokken) können eine Lungenentzündung verursachen. Die beiden Krankheitserreger unterscheiden sich jedoch in ihrer Struktur: SARS-CoV-2 ist ein Virus mit einer einzelsträngigen RNA. Welche der folgenden Aussagen ist korrekt?\na. Bestimmte Proteine von SARS-CoV-2 oder Streptococcus pneumoniae können als Antigene eine Immunantwort im menschlichen Körper auslösen.\nb. Sowohl SARS-CoV-2 als auch Streptococcus pneumoniae können mithilfe ihrer eigenen Ribosomen Proteine synthetisieren.\nc. Das Eindringen von SARS-CoV-2 in die Wirtszelle erfolgt durch passiven Transport.\nd. Die genetischen Materialien von SARS-CoV-2 und Streptococcus pneumoniae enthalten unterschiedliche Nukleotide.",
+        "target": "a. Bestimmte Proteine von SARS-CoV-2 oder Streptococcus pneumoniae können als Antigene eine Immunantwort im menschlichen Körper auslösen."
+    },
+    {
+        "input": "In einem DNA-Molekül gilt für einen Einzelstrang folgendes Basenverhältnis: （A+G）/（T+C）=0,5, Wie lautet das Verhältnis（A+G）/（T+C）im komplementären Einzelstrang dieser DNA?",
+        "target": "2"
+    },
+    {
+        "input": "Von derselben Pflanze werden zwei gleich große und gleich schwere Blätter ausgewählt und mit den Nummern ① und ② versehen. Blatt ① wird in ein Becherglas mit Wasser gelegt und bei geeigneter Beleuchtung aufbewahrt; Blatt ② wird ebenfalls in Wasser gelegt, jedoch im Dunkeln gelagert. Bei gleicher, geeigneter Temperatur wird Luft in das Wasser geleitet. Nach 6 Stunden werden beide Blätter entnommen, getrocknet und gewogen. Die Trockenmassen betragen a (für Blatt ①) und b (für Blatt ②).\nWie viel organische Substanz wurde durch die Photosynthese innerhalb von 6 Stunden hergestellt? (Bitte mit a und b angeben.)",
+        "target": "a−b"
+    },
+    {
+        "input": "Bei einer Person treten nach dem Trinken großer Mengen Milch Symptome wie Durchfall und Blähungen auf, was auf einen Mangel an Laktase zurückzuführen ist – bekannt als Laktoseintoleranz. Die angeborene Laktoseintoleranz wird autosomal-rezessiv vererbt, wobei die Laktoseverträglichkeit dominant ist (A = verträglich, a = nicht verträglich). Ein Vater mit Laktoseintoleranz (aa) und eine Mutter mit Laktoseverträglichkeit haben bereits eine Tochter mit Laktoseintoleranz. Wie hoch ist die Wahrscheinlichkeit, dass das nächste Kind ein laktoseverträglicher Sohn ist?",
+        "target": "25%"
+    },
+    {
+        "input": "Hämophilie ist eine geschlechtsgebundene Erbkrankheit. Ein Junge ist an Hämophilie erkrankt, jedoch sind weder seine Eltern noch seine Großeltern mütterlicher- oder väterlicherseits betroffen.\nWie wurde das Hämophilie-Gen in dieser Familie vererbt?",
+        "target": "Großmutter → Mutter → Sohn."
+    },
+    {
+        "input": "Ein Merkmal wird durch zwei unabhängig vererbte Genpaare (A/a und B/b) gemeinsam kontrolliert. Aus der Kreuzung AABB × aabb entsteht die F2-Generation mit einem Spaltungsverhältnis von 9:7.\nWelche Art der genischen Wechselwirkung liegt zwischen den beiden Genpaaren vor?",
+        "target": "Komplementäre Genwirkung"
+    },
+    {
+        "input": "Bei Mäusen liegt das Gen für die Fellfarbe auf einem Autosom. Schwarzes Fell ist vollständig dominant gegenüber weißem Fell. Wird ein weißes Tier mit einem heterozygot schwarzen Tier gekreuzt, welche Verteilung zeigt sich in der Nachkommenschaft?\nA. Schwarzes Fell : Weißes Fell = 3 : 1\nB. Alle Nachkommen haben schwarzes Fell\nC. Alle Nachkommen haben graues Fell\nD. Schwarzes Fell : Weißes Fell = 1 : 1\n",
+        "target": "D. Schwarzes Fell : Weißes Fell = 1 : 1"
+    },
+    {
+        "input": "In einem Testkreuzungs-Experiment mit Drosophila machen die rekombinanten Nachkommen 16 % der gesamten Nachkommenschaft aus. Welche der folgenden Aussagen ist korrekt?\nA. Bei der Meiose in den primären Oocyten der weiblichen Fliege tauschen 16 % der Chromatiden genetisches Material aus.\nB. Bei der Meiose in den primären Oocyten der weiblichen Fliege findet bei 16 % der Chromatiden kein Austausch statt.\nC. Bei der Meiose in den primären Spermatozyten der männlichen Fliege findet bei 16 % der Chromatiden kein Austausch statt.\nD. Bei der Meiose in den primären Spermatozyten der männlichen Fliege tauschen 16 % der Chromatiden genetisches Material aus.\n",
+        "target": "\nA. Bei der Meiose in den primären Oocyten der weiblichen Fliege tauschen 16 % der Chromatiden genetisches Material aus."
+    },
+    {
+        "input": "Wenn zwischen zwei gekoppelten dominanten Genen A und B eine Rekombinationshäufigkeit von 20 % besteht (cis-Konfiguration: A–B), wie hoch ist dann die Rekombinationshäufigkeit zwischen A und b in der trans-Konfiguration (A–b)?",
+        "target": "20%"
+    },
+    {
+        "input": "Bei Mais wird das gestreifte Blattmerkmal sowohl durch Plastidengene als auch durch Kerngene gemeinsam kontrolliert. Wenn eine grüne Pflanze (IjIj) als Mutterpflanze mit einer gestreiften Pflanze (ijij) gekreuzt wird, wie verhalten sich dann die Phänotypen und deren Verhältnisse in der F₂-Generation?",
+        "target": "3 grün : 1 gestreift oder weiß"
+    },
+    {
+        "input": "Phenylketonurie ist eine schwere Stoffwechselstörung, die als rezessiv homozygote Erbkrankheit auf einem Autosom vererbt wird. Wenn zwei normale Eltern ein krankes Mädchen und einen normal erscheinenden Jungen haben, wie hoch ist die Wahrscheinlichkeit, dass der Junge ein Träger des Krankheitsgens ist (geben Sie den Prozentsatz mit einer Dezimalstelle an)?",
+        "target": "66,7%"
+    },
+    {
+        "input": "Ein gesundes Ehepaar hat einen gesunden Sohn. Der Bruder des Mannes und die Schwester der Frau haben beide Alkaptonurie (eine autosomal-rezessive Erbkrankheit). Wie hoch ist die Wahrscheinlichkeit, dass der gesunde Sohn ein Anlageträger (Heterozygot) ist?",
+        "target": "50%"
+    },
+    {
+        "input": "Während der Zentrifugation bakterieller Ribosomen-Untereinheiten in einem CsCl-Gradienten ändern sich die Sedimentationskoeffizienten von 30S und 50S auf 23S und 42S. Welche Bestandteile wurden entfernt?\nA. 16S rRNA\nB. 23S rRNA\nC. 16S rRNA+23S rRNA\nD. Proteine",
+        "target": "C"
+    },
+    {
+        "input": "Zwei Pflanzen-Inzuchtlinien weisen ein Samengewicht von jeweils 0,2 kg bzw. 0,4 kg auf. Die F1-Generation aus der Kreuzung dieser Linien hat ein durchschnittliches Samengewicht von 0,3 kg. Nach der Kreuzung von F1×F1 entstehen 1024 Nachkommen, darunter jeweils 4 Pflanzen mit 0,2 kg und 0,4 kg schweren Samen, alle übrigen liegen dazwischen. Wie viele Genpaare kontrollieren vermutlich das Merkmal Samengewicht?",
+        "target": "4"
+    },
+    {
+        "input": "Ein reinrassiger gesperberter Hahn (Männchen) wird mit einem nicht-gesperberten Huhn (Weibchen) gekreuzt. Die Nachkommen der F₁-Generation werden miteinander gekreuzt. Welche Aussage beschreibt korrekt das Verhältnis zwischen dem Federkleid (gesperbert oder nicht gesperbert) und dem Geschlecht der Tiere in der F₂-Generation?\nA. Alle Hähne sind gesperbert, Hennen zu 50 % gesperbert und zu 50 % nicht gesperbert\nB. Alle Hähne und Hennen sind gesperbert\nC. Sowohl Hähne als auch Hennen sind jeweils zur Hälfte gesperbert und zur Hälfte nicht gesperbert\nD. Alle Hennen sind gesperbert, Hähne zu 50 % gesperbert und zu 50 % nicht gesperbert",
+        "target": "A. Alle Hähne sind gesperbert, Hennen zu 50 % gesperbert und zu 50 % nicht gesperbert"
+    },
+    {
+        "input": "Zwei Pflanzensorten werden gekreuzt, deren Samenmasse jeweils 0,02 kg beträgt. Die F₁-Generation hat eine einheitliche Samenmasse von 0,03 kg. In der F₂-Generation (1000 Pflanzen) weisen jeweils 4 Individuen eine Samenmasse von 0,018 kg bzw. 0,04 kg auf, während die übrigen Pflanzen zwischen diesen Extremen liegen.\nWie viele Genpaare kontrollieren dieses Merkmal?",
+        "target": "4"
+    },
+    {
+        "input": "Eine violettblühende Erbsensorte (Duftwicke) wurde mit Röntgenstrahlen bestrahlt. In der Nachkommenschaft traten einige weißblühende Pflanzen auf. Ist die folgende Aussage korrekt: \"Das Auftreten der weißblühenden Pflanzen ist das Ergebnis einer aktiven Anpassung an die Umwelt und vorteilhaft für das Überleben der Duftwicke\"?",
+        "target": "Nein/Nicht korrekt"
+    },
+    {
+        "input": "Ein Schüler verabreicht einem gesunden Versuchstier intravenös 20 mL einer 0,9 %igen NaCl-Lösung (physiologische Kochsalzlösung). Welche der folgenden Aussagen beschreibt am besten die physiologische Folge dieser Infusion?\nA. 50 % der zugeführten Na⁺-Ionen gelangen in die intrazelluläre Flüssigkeit, 50 % verteilen sich in der extrazellulären Flüssigkeit.\nB. Die zugeführte Lösung tritt vom Plasma in die Gewebsflüssigkeit über.\nC. Intrazelluläre und extrazelluläre Flüssigkeit nehmen jeweils um 10 mL zu.\nD. Die Natriumkonzentration in der intrazellulären Flüssigkeit steigt wesentlich stärker als in der extrazellulären Flüssigkeit.",
+        "target": "B. Die zugeführte Lösung tritt vom Plasma in die Gewebsflüssigkeit über."
+    },
+    {
+        "input": "In einem Experiment mit Gartenbohnen wurden zwei Linien miteinander gekreuzt: eine mit gefärbten, großen Samen und eine mit weißen, kleinen Samen. Die F₁-Nachkommen zeigen folgende Ergebnisse:\nGefärbte Samen (Genotyp PP): 45 Pflanzen, durchschnittliche Samenmasse (0,307 ± 0,05) kg\nMittelfarbige Samen (Genotyp Pp): 80 Pflanzen, durchschnittliche Samenmasse (0,283 ± 0,03) kg\nWeiße Samen (Genotyp pp): 41 Pflanzen, durchschnittliche Samenmasse (0,264 ± 0,05) kg\nWelche der folgenden Aussagen erklärt diese Unterschiede am besten?",
+        "target": "A"
+    },
+    {
+        "input": "Bei Hauskatzen befindet sich ein Gen auf einem Autosom, das im heterozygoten Zustand zur Ausprägung eines schwanzlosen Phänotyps führt. Im homozygoten Zustand jedoch ist dieses Gen letal.\nWas ist das zu erwartende Erscheinungsbild (Phänotyp) der Nachkommen, wenn zwei schwanzlose Katzen miteinander gekreuzt werden?",
+        "target": "2 schwanzlose Katzen : 1 Katze mit Schwanz"
+    },
+    {
+        "input": "Abgetötete S-Streptococcus pneumoniae-Bakterien werden verwendet, um DNA, RNA, Proteine und Polysaccharid-Kapseln jeweils zu isolieren und zu reinigen. Diese Komponenten werden anschließend miteinander gemischt und mit ______ behandelt, bevor sie zusammen mit lebenden R-Stämmen Mäusen injiziert werden. Welche Behandlung verhindert die Transformation und somit die Auslösung einer Lungenentzündung?",
+        "target": "Dnase"
+    },
+    {
+        "input": "Ein Mann mit der Blutgruppe AB heiratet eine Frau mit der Blutgruppe B. Sie bekommen vier Kinder: Das erste Kind hat Blutgruppe AB, das zweite Kind Blutgruppe 0, das dritte Kind Blutgruppe AB, das vierte Kind Blutgruppe A. Später, aufgrund ehelicher Probleme, behauptet der Mann, er könne laut Blutgruppenanalyse nicht der Vater aller Kinder sein und verlangt die Scheidung. Hat der Mann mit seiner Aussage recht?",
+        "target": "Ja, der Mann hat recht. Das Kind mit der Blutgruppe O kann nicht von einem Vater mit der Blutgruppe AB stammen."
+    },
+    {
+        "input": "Zwei Gene A und B liegen normalerweise 38 cM voneinander entfernt, befinden sich jedoch auf demselben Chromosomenarm eines bestimmten Organismus. In dem 38 cM langen Abschnitt liegt etwa ein Drittel innerhalb einer parazentrischen Inversion (Inversion innerhalb eines Arms), die jedoch nicht die Loci der beiden Gene einschließt. Wenn die Pflanze heterozygot für diese Inversion ist, wie wirkt sich dies auf die Rekombinationsrate zwischen den beiden Genen aus? Nicht bestimmbar, Genau 38 cM, Kleiner als 38 cM, Größer als 38 cM.",
+        "target": "Kleiner als 38 cM"
+    },
+    {
+        "input": "Während eines Mutationsprozesses wird ein zusätzliches Nukleotidpaar in eine DNA-Sequenz eingefügt. Welche der folgenden Folgen ist am wahrscheinlichsten? In dem gebildeten Protein wird eine Aminosäure verändert, In dem gebildeten Protein werden drei Aminosäuren verändert, Es entsteht überhaupt kein Proteinprodukt, In dem gebildeten Protein werden die meisten Aminosäuren hinter der Insertionsstelle verändert.",
+        "target": "In dem gebildeten Protein werden die meisten Aminosäuren hinter der Insertionsstelle verändert."
+    },
+    {
+        "input": "Bei Mais sind n+1-Pollen nicht befruchtungsfähig, während n+1-Embryosackzellen befruchtungsfähig sind. R steht für rote Farbe (dominant), r für farblos (rezessiv). In einer Kreuzung von RRr ♀ × rr ♂ — wie ist das phänotypische Verhältnis der Nachkommen? Gib deine Antwort unter Beibehaltung der Genotyp-Symbole an.",
+        "target": "5 R– : 1 rr"
+    },
+    {
+        "input": "Bei Hühnern hängt die Färbung der Federn davon ab, ob Pigmente gebildet und eingelagert werden. Andernfalls erscheinen die Federn weiß. Zwei autosomal vererbte Genorte kontrollieren gemeinsam dieses Merkmal: An einem Genort bewirkt das dominante Allel A die Bildung von Pigment, während a kein Pigment produziert. Am anderen Genort verhindert das dominante Allel B die Einlagerung von Pigment, während b die Einlagerung ermöglicht. Wenn man ein weißes Huhn mit dem Genotyp aabb (kein Pigment, Pigment kann eingelagert werden) mit einem anderen weißen Huhn mit dem Genotyp AABB (Pigment vorhanden, aber Einlagerung blockiert) kreuzt und dann F₁ mit dem rezessiven Elter aabb rückkreuzt (Testkreuzung), wie hoch ist die Wahrscheinlichkeit, dass die Nachkommen gefärbte Federn haben?",
+        "target": "25%"
+    },
+    {
+        "input": "Frische Blätter einer bestimmten Pflanze in gleichem physiologischen Zustand wurden nach Entfernung der Hauptadern in gleich große Stücke geschnitten und zufällig in drei gleiche Teile aufgeteilt. Diese wurden jeweils in Zuckerlösungen mit unterschiedlicher Konzentration (Lösungen A, B und C) gegeben. Nach einer bestimmten Zeit ergab die Messung folgende Ergebnisse:\nKonzentration von Lösung A: gesunken\nKonzentration von Lösung B: unverändert\nKonzentration von Lösung C: gestiegen\nAngenommen, Saccharosemoleküle können nicht in die Zellen eindringen oder sie verlassen, ist folgende Aussage korrekt oder falsch: „Die Konzentrationsänderungen in Lösung A und C wurden durch die Wasserbewegung zwischen Zellen und Zuckerlösungen verursacht.“",
+        "target": "Korrekt"
+    },
+    {
+        "input": "In einer Mauspopulation beträgt das durchschnittliche Körpergewicht adulter Tiere 25 g, mit einer Standardabweichung von ±3 g. Wie viel Prozent der Population wird voraussichtlich ein Körpergewicht von weniger als 22 g aufweisen?\n(Bitte geben Sie das Ergebnis als ganze Zahl an.)",
+        "target": "16%"
+    },
+    {
+        "input": "Bei einer bestimmten Pflanzenart beträgt der crossing-over-Wert zwischen zwei gekoppelten Genorten 21 %. Wenn bei 150 Pollenmutterzellen (PMZ) die Crossing-over-Ereignisse zwischen diesen beiden Genorten untersucht werden,\nwie viele dieser Zellen zeigen voraussichtlich ein Crossing-over zwischen den beiden Genorten?",
+        "target": "63"
+    },
+    {
+        "input": "Bei einer diploiden Pflanzenart werden n unterschiedliche Merkmale jeweils von n unabhängigen, dominant-rezessiv vererbten Genpaaren kontrolliert (bei Heterozygotie dominiert das dominante Allel).\nEs ist bekannt, dass die Pflanze A bei allen n Genpaaren heterozygot ist. Welche der folgenden Aussagen ist falsch? \nA. Wenn n ≥ 2, gibt es bei der Testkreuzung von Pflanze A mehr heterozygote Nachkommen als homozygote\nB. Je größer n ist, desto größer ist der Unterschied in der Häufigkeit der verschiedenen Phänotypen unter den Nachkommen der Testkreuzung\nC. Unter den Nachkommen der Testkreuzung ist die Anzahl der Individuen mit vollständiger Heterozygotie gleich der Anzahl homozygoter Individuen\nD. Bei der Testkreuzung von Pflanze A treten 2^n verschiedene Phänotypen auf.",
+        "target": "B"
+    },
+    {
+        "input": "In einem Kreuzungsexperiment mit Erbsen wurden grüne Keimblätter mit gelben Keimblättern gekreuzt. In der F₁-Generation traten ausschließlich gelbe Keimblätter auf. In der F₂-Generation zeigte sich ein Verhältnis von 3 gelben zu 1 grünem Keimblatt. Wie hoch ist der Anteil der homozygot gelben Keimblätter an der gesamten F₂-Generation? ",
+        "target": "25%"
+    },
+    {
+        "input": "Zwei Pflanzen mit einer Wuchshöhe von jeweils 30 cm und 50 cm wurden miteinander gekreuzt. Die F1-Generation zeigte eine einheitliche Wuchshöhe von 40 cm. In der F2-Generation (F1 × F1), bestehend aus 2010 Individuen, hatten 8 Pflanzen eine Wuchshöhe von 30 cm und weitere 8 Pflanzen eine Wuchshöhe von 50 cm. Alle anderen Pflanzen lagen in ihrer Wuchshöhe zwischen diesen beiden Extremwerten.\nWie viele Genpaare sind vermutlich an der Vererbung der Wuchshöhe beteiligt?\n",
+        "target": "4 Genpaare"
+    },
+    {
+        "input": "Die P-Elemente bei Drosophila sind bestimmte DNA-Sequenzen. Abhängig vom Vorhandensein solcher P-Elemente werden die Fliegenstämme in M-Typ (wildtypisch) und P-Typ (mit P-Elementen) unterteilt.\nP-Elemente können nur in Keimbahnzellen Transpositionen auslösen, was zu verschiedenen chromosomalen Aberrationen führt. Dies verursacht eine fehlende Ausbildung der Gonaden (Sterilität) bei F1, obwohl die somatischen Zellen normal bleiben. Die im Zytoplasma vorkommenden translatierten Produkte der P-Elemente (bei P-Typ-Müttern) können die Transposition hemmen. Welche der folgenden Kreuzungskombinationen führt zur Sterilität der F1-Generation?\nA. M-Typ-Vater × P-Typ-Mutter\nB. P-Typ-Vater × P-Typ-Mutter\nC. P-Typ-Vater × M-Typ-Mutter\nD. M-Typ-Vater × M-Typ-Mutter.",
+        "target": "C"
+    },
+    {
+        "input": "BtPMAT1 ist ein pflanzenspezifisches Gen, dessen codiertes Protein eine giftige pflanzeneigene Abwehrverbindung chemisch modifizieren und somit entgiften kann. Interessanterweise enthält auch das Genom der Weißen Fliege (Bemisia tabaci) eine Sequenz, die dem BtPMAT1-Gen stark ähnelt – was die pflanzliche Abwehr unwirksam macht. Durch gentechnische Verfahren wurde eine Tomate entwickelt, die RNA-Moleküle produziert, die gezielt die Expression des BtPMAT1-Gens in der Weißen Fliege hemmen.\nWenn die Weiße Fliege diese transgene Tomate frisst, stirbt sie. Ist folgende Aussage richtig oder falsch?\n„Die von der transgenen Tomate produzierten RNA-Moleküle können die Weiße Fliege wirksam töten.“\n",
+        "target": "Richtig"
+    },
+    {
+        "input": "IFN-I (Typ-I-Interferon) ist eine antivirale Zytokin-Gruppe, die bei Virusinfektionen vom Körper produziert wird und beispielsweise zur Behandlung von Hepatitis B eingesetzt wird. Forscher untersuchten den Zusammenhang zwischen dem Krankheitsverlauf von COVID-19-Patienten und dem Vorhandensein von IFN-I in drei unabhängigen Studien:\nStudie ①:\nSchwerkranke Patienten hatten kein oder nur sehr wenig IFN-I im Blut, während es bei leichten Fällen nachgewiesen wurde.\nStudie ②:\nBei 10,2 % der schwerkranken Patienten wurden Antikörper gegen IFN-I gefunden – gleichzeitig war bei diesen Patienten IFN-I im Blut nicht nachweisbar. Leicht Erkrankte hatten keine solchen Antikörper, aber nachweisbares IFN-I.\nStudie ③:\n3,5 % der schwerkranken Patienten hatten genetische Defekte, die die Synthese von IFN-I verhindern – im Blut war IFN-I ebenfalls nicht nachweisbar.\nWelche der folgenden Aussagen ist falsch?\nA. Die Bestimmung der IFN-I-Konzentration im Blut kann bei der gezielten Behandlung von COVID-19-Patienten hilfreich sein\nB. Die 3,5 % der schwerkranken Patienten in Studie ③ litten gleichzeitig an Autoimmunerkrankungen\nC. Das Fehlen von IFN-I im Blut ist ein gemeinsames Merkmal bei manchen schwerkranken Patienten\nD. Die 10,2 % der schwerkranken Patienten in Studie ② können nicht mit IFN-I behandelt werden.",
+        "target": "B\n"
+    },
+    {
+        "input": "Die Restriktionsenzyme XmaⅠ und SmaⅠ erkennen beide dieselbe palindromische DNA-Sequenz: CCCGGG. XmaⅠ schneidet zwischen dem ersten C und dem zweiten C: C↓CCGGG\n→ erzeugt klebrige Enden (sticky ends)\nSmaⅠ schneidet zwischen dem dritten C und dem ersten G: CCC↓GGG\n→ erzeugt stumpfe Enden (blunt ends)\nWelche der folgenden Aussagen ist falsch?\nXmaⅠ erzeugt bei der DNA-Spaltung klebrige Enden mit der Sequenz —GGCC, Bei der Verwendung dieser Enzyme muss man auf Temperatur und Reaktionszeit achten, Die Wahrscheinlichkeit, dass diese Erkennungssequenz im DNA-Molekül vorkommt, ist unterschiedlich, Beide Enzyme spalten doppelsträngige DNA-Moleküle.",
+        "target": "Die Wahrscheinlichkeit, dass diese Erkennungssequenz im DNA-Molekül vorkommt, ist unterschiedlich."
+    },
+    {
+        "input": "Welche der folgenden Aussagen über das Experiment, bei dem vier „Schlüsselgene“ mittels Retrovirus in Fibroblasten von Mäusen eingebracht wurden, um diese in pluripotente Stammzellen zu verwandeln, ist nicht korrekt?\nA. Das verwendete Retrovirus diente als Gen-Vektor.\nB. Diese Forschung kann ethische Probleme beim Entnehmen menschlicher embryonaler Stammzellen vermeiden.\nC. Die Umwandlung von Fibroblasten in pluripotente Stammzellen ist das Ergebnis einer Genmutation.\nD. Die eingebrachten vier „Schlüsselgene“ stehen möglicherweise im Zusammenhang mit der Regulation der Genexpression.",
+        "target": "C. Die Umwandlung von Fibroblasten in pluripotente Stammzellen ist das Ergebnis einer Genmutation."
+    },
+    {
+        "input": "Eine weibliche Patientin (Person A) leidet an einer genetischen Erkrankung, die durch ein Allelpaar kontrolliert wird. Sie heiratet einen phänotypisch gesunden Mann. Das Paar bekommt einen Sohn und eine Tochter – beide sind ebenfalls von der Krankheit betroffen.\nBeurteilen Sie folgende Aussage: „Die kranken Kinder müssen das krankheitsverursachende Gen von der Patientin (A) geerbt haben.“ Ist diese Aussage richtig?",
+        "target": "Richtig"
+    },
+    {
+        "input": "Ein Patient lässt im Krankenhaus seinen Blutspiegel an Schilddrüsenhormonen und Thyreoidea-stimulierendem Hormon (TSH) untersuchen. Die Ergebnisse zeigen, dass der Spiegel der Schilddrüsenhormone deutlich unter dem Normalwert liegt, während der TSH-Spiegel deutlich darüber liegt. Welche der folgenden Aussagen ist falsch?\nA. Die Ausschüttung der Schilddrüsenhormone unterliegt einer hierarchischen Regulation; TSH fördert die Freisetzung der Schilddrüsenhormone.\nB. Die betroffene Person zeigt mit Sicherheit Symptome wie gesteigerten Stoffwechsel und erhöhte Erregbarkeit des Nervensystems.\nC. Die Hormonstörung könnte durch Jodmangel verursacht sein.\nD. Sowohl das thyreotropinfreisetzende Hormon (TRH) als auch die Schilddrüsenhormone regulieren die Ausschüttung von TSH.",
+        "target": "B. Die betroffene Person zeigt mit Sicherheit Symptome wie gesteigerten Stoffwechsel und erhöhte Erregbarkeit des Nervensystems."
+    },
+    {
+        "input": "Alex vermehrt neue Pflanzen mithilfe von Kartoffelknollen mit Sprossknospen. Ist die Vermehrung durch Tomatensamen dieselbe Art der Vermehrung wie bei der Kartoffel?",
+        "target": "Nein, die Vermehrungsmethoden sind nicht gleich."
+    },
+    {
+        "input": "Forscher isolierten ein Gen für ein Frostschutzprotein aus einem Meeresfisch und übertrugen es in Tomatenzellen, um eine frostresistente Tomatensorte zu entwickeln. Welche Technik wurde dabei hauptsächlich angewendet?\nA. Gewebekulturtechnik\nB. Hybridisierungstechnik\nC. Gentechnische Methode\nD. Mutationszüchtung\n",
+        "target": "C. Gentechnische Methode"
+    },
+    {
+        "input": "An einem sonnigen Sommertag erreicht die Photosyntheserate einer Pflanze gegen 10 Uhr ihren Höhepunkt, nimmt aber um 12 Uhr deutlich ab. Was ist die wahrscheinlichste Ursache für den Rückgang der Photosyntheseleistung?\nA. Die Anhäufung von Produkten der Lichtreaktion verursacht eine Rückkopplungshemmung; die Fähigkeit der Blätter, Lichtenergie umzuwandeln, nimmt ab.\nB. Starke Transpiration führt zu übermäßigem Wasserverlust und teilweisem Schließen der Spaltöffnungen, wodurch die CO₂-Aufnahme verringert wird.\nC. Die Aktivität von Photosyntheseenzyme nimmt ab, während Atmungsenzyme unbeeinflusst bleiben; die CO₂-Freisetzung übersteigt die CO₂-Fixierung.\nD. Ein Teil der photosynthetischen Pigmente auf den inneren Membranen der Chloroplasten wird durch Licht zerstört, wodurch die Effizienz der Lichtabsorption und -übertragung sinkt.",
+        "target": "A. Die Anhäufung von Produkten der Lichtreaktion verursacht eine Rückkopplungshemmung; die Fähigkeit der Blätter, Lichtenergie umzuwandeln, nimmt ab."
+    },
+    {
+        "input": "Die Vakuolenkonzentration (Zellsaftkonzentration) ausgereifter Mesophyllzellen einer bestimmten Pflanzenart kann unterschiedlich sein. Drei solcher Zellen mit unterschiedlichen Zellsaftkonzentrationen, bezeichnet als a, b und c, werden jeweils in drei Reagenzgläser mit einer Saccharoselösung gleicher Konzentration gegeben. Nach Erreichen des osmotischen Gleichgewichts werden folgende Beobachtungen gemacht: ① Zelle a zeigt keine Veränderung; ② Zelle b nimmt an Volumen zu; ③ Zelle c zeigt eine Plasmolyse. Angenommen, es findet während des Wassertransports kein Stoffaustausch (z. B. Saccharose) zwischen den Zellen und der Lösung statt: Welche der folgenden Aussagen zur Zellsaftkonzentration sind korrekt?\n① Vor dem Experiment gilt: b < a < c\n② Vor dem Experiment gilt: b >a > c\n③ Nach dem Experiment gilt: b ≥ a = c\n④ Nach dem Experiment gilt: b > a > c\nA. ①③\nB. ②③\nC. ①④\nD. ②④",
+        "target": "B"
+    },
+    {
+        "input": "Vergleich der Konzentration zweier Lösungen: Die Lösung mit der höheren Konzentration wird als hypertonische Lösung bezeichnet. Man trennt die Blattepidermis von zwei Pflanzen (A und B) ab und legt sie in eine Saccharoselösung mit einer Konzentration von 0,2 g/mL. Bei den Zellen der Pflanze A zieht sich das Protoplasma nur leicht zusammen, während es bei den Zellen der Pflanze B deutlich schrumpft. Welche der folgenden Aussagen ist richtig?\nA. In Bezug auf diese Saccharoselösung ist die Zellsaftkonzentration von A hypertonisch, die von B hypotonisch.\nB. In Bezug auf diese Saccharoselösung ist die Zellsaftkonzentration von B hypertonisch, die von A hypotonisch.\nC. Im Vergleich zur Zellsaftkonzentration von A ist die von B hypertonisch.\nD. Im Vergleich zur Zellsaftkonzentration von B ist die von A hypertonisch.",
+        "target": "D. Im Vergleich zur Zellsaftkonzentration von B ist die von A hypertonisch."
+    },
+    {
+        "input": "Bei einem bestimmten Organismus entstehen während der Meiose Gameten in den Verhältnissen Ab : aB : AB : ab = 2 : 2 : 3 : 3. Wenn sich dieser Organismus selbst befruchtet, wie hoch ist die Wahrscheinlichkeit, dass die Nachkommen reinerbig sind?",
+        "target": "26%"
+    },
+    {
+        "input": "Bei Weizenpflanzen mit dem Genotyp AaBb, die sich selbst bestäuben, beträgt der Anteil der Nachkommen mit dem Genotyp aabb 9 %. Welche der folgenden Aussagen ist falsch?\nA. Während der Selbstbefruchtung fand eine genetische Rekombination statt.\nB. Der Anteil der aaBB-Nachkommen ist geringer als 9 %.\nC. Die Frequenz des Allels a in der Nachkommenschaft beträgt 0,5.\nD. Die beiden Gene wurden unabhängig voneinander vererbt (freie Rekombination).\n",
+        "target": "D. Die beiden Gene wurden unabhängig voneinander vererbt (freie Rekombination)."
+    },
+    {
+        "input": "Graue und weiße Kaninchen wurden gekreuzt, die F1-Generation bestand vollständig aus grauen Kaninchen. Durch Kreuzung der F1-Individuen untereinander entstand in der F2-Generation eine Aufspaltung in graue, schwarze und weiße Kaninchen im Verhältnis 9:3:4. Welche der folgenden Aussagen ist richtig?\nA. Unter den grauen Kaninchen der F2-Generation machen die homozygoten Individuen 1/16 aus.\nB. Wenn schwarze und weiße Kaninchen der F2-Generation gekreuzt werden, beträgt die Wahrscheinlichkeit für weiße Nachkommen 1/3.\nC. Die Fellfarbe der Kaninchen wird von einem Allelenpaar kontrolliert.\nD. Die grauen Kaninchen der F2-Generation haben 4 Genotypen und produzieren 4 Arten von Gameten im gleichen Verhältnis.",
+        "target": "B. Wenn schwarze und weiße Kaninchen der F2-Generation gekreuzt werden, beträgt die Wahrscheinlichkeit für weiße Nachkommen 1/3."
+    },
+    {
+        "input": "In Erbsen werden zwei Merkmale von zwei unabhängig vererbten Genpaaren (A/a und B/b) kontrolliert. Zwei reinerbige Erbsenlinien wurden gekreuzt, und in der F2-Generation traten vier Phänotypen im Verhältnis 5:3:3:1 auf. Es ist bekannt, dass eine bestimmte Spermienart nicht befruchtungsfähig ist. Welche Genkombination hat dieses nicht befruchtungsfähige Spermium?",
+        "target": "AB"
+    },
+    {
+        "input": "Die Fellfarbe (schwarz/weiß) bei Mäusen wird durch ein einziges Allelenpaar gesteuert. Bei der Verpaarung eines schwarzen Weibchens mit einem schwarzen Männchen betrug das Verhältnis der Nachkommen 3 schwarze zu 1 weißer Mäuse (ohne Berücksichtigung homologer X/Y-Regionen).\nDefinitionen:\nReinerbig (homozygot): NN, nn, XNXN, XnXn, XNY, XnY\nMischerbig (heterozygot): Nn, XNXn\nFrage: Welche der folgenden Analysen ist korrekt?\nA. Man kann sicher sagen, dass das Gen für die Fellfarbe nicht auf einem Autosom liegt.\nB. Die Gene für schwarzes/weißes Fell sind chromosomale Abschnitte mit genetischer Wirkung.\nC. Man kann sicher sagen, dass sowohl das schwarze Weibchen als auch das schwarze Männchen heterozygot waren.\nD. Wenn das Geschlechterverhältnis unter den schwarzen Nachkommen 2 Weibchen zu 1 Männchen beträgt, dann liegt das Gen für die Fellfarbe ausschließlich auf dem X-Chromosom.\n",
+        "target": "D. Wenn das Geschlechterverhältnis unter den schwarzen Nachkommen 2 Weibchen zu 1 Männchen beträgt, dann liegt das Gen für die Fellfarbe ausschließlich auf dem X-Chromosom."
+    },
+    {
+        "input": "Bei einer Fliegenart wird der Flügelphänotyp durch ein Allelpaar kontrolliert. Wenn ein Weibchen mit abnormalen Flügeln mit einem männlichen Tier mit normalen Flügeln gekreuzt wird, ergeben sich in der Nachkommenschaft:\n25 % Männchen mit abnormalen Flügeln\n25 % Weibchen mit abnormalen Flügeln\n25 % Männchen mit normalen Flügeln\n25 % Weibchen mit normalen Flügeln\nIst es möglich, dass das Merkmal „abnormale Flügel“ durch ein rezessives Gen auf dem Geschlechtschromosom kontrolliert wird?",
+        "target": "Nein"
+    },
+    {
+        "input": "Bei einer diploiden Pflanze entstand das Gen B2 durch eine Mutation aus dem Allel B1 auf demselben Chromosom. Unter der Annahme, dass keine chromosomalen Veränderungen vorliegen – welche der folgenden Aussagen ist falsch?\nA. Die Mutation von B1 zu B2 könnte durch eine Basenpaar-Substitution oder -Insertion verursacht worden sein.\nB. Die Mutation von B1 zu B2 könnte zur Evolution einer Population beitragen.\nC. Die Gene B1 und B2 könnten im selben somatischen Zellkern oder Gameten gleichzeitig existieren.\nD. Die Gene B1 und B2 codieren in jedem Fall für unterschiedliche Proteine.\n",
+        "target": "D. Die Gene B1 und B2 codieren in jedem Fall für unterschiedliche Proteine."
+    },
+    {
+        "input": "Angenommen, bei einer bestimmten Pflanze wird die Wuchshöhe durch zwei unabhängige Allelenpaare (A/a und B/b) gemeinsam bestimmt.\nJedes dominante Allel hat den gleichen wachstumsfördernden Effekt, und die Effekte addieren sich.\nPflanze mit Genotyp AABB ist 50 cm hoch\nPflanze mit Genotyp aabb ist 30 cm hoch.\nDie Kreuzung AABB × aabb ergibt F1.\nF1 wird anschließend mit einem rezessiven Elter (aabb) rückgekreuzt.\nWelche Höhenklassen und in welchem Verhältnis treten in der Nachkommenschaft auf?\n",
+        "target": "40cm:35cm:30cm=1:2:1"
+    },
+    {
+        "input": "Reinerbige gelbe, runde Erbsenpflanzen werden mit reinerbigen grünen, runzligen Erbsen gekreuzt. Die F1-Generation besteht ausschließlich aus gelben, runden Erbsen. Nach der Selbstbefruchtung der F1 entstehen in der F2-Generation auch gelbe, runzlige Erbsen. Welcher Anteil der Nachkommen einer Selbstbefruchtung von gelben, runzligen Erbsenpflanzen in der F2 besteht aus reinerbigen Pflanzen (bitte Prozentzahl mit einer Dezimalstelle ausgeben)?",
+        "target": "66,7 %"
+    },
+    {
+        "input": "Ein Somazelle der Fruchtfliege (Drosophila) enthält 4 Chromosomenpaare.\nWie viele Zellen entstehen nach drei mitotischen Teilungen dieser Zelle,\nund wie viele Chromosomen enthält jede dieser Zellen?",
+        "target": "8 Zellen, 4 Chromosomenpaare"
+    },
+    {
+        "input": "Ein Forscherteam erhielt zwei Zwergmutanten aus wildtypischen hochwüchsigen Maispflanzen (dominant). Um den Genotyp dieser beiden Zwergmutanten zu untersuchen, wurden sie miteinander gekreuzt. Die F₁-Pflanzen wurden zur Selbstbefruchtung gebracht, in der F₂-Generation traten die Phänotypen im Verhältnis hoch : zwerg : extrem zwerg = 9:6:1 auf.\nGegeben seien die dominanten Gene A und B. Welche der folgenden Aussagen ist falsch?\nA. Die Genotypen der zwergwüchsigen Pflanzen in F₂ sind aaBB, AAbb, aaBb, Aabb – insgesamt 4 Typen.\nB. Der Genotyp AABB führt zum hochwüchsigen Phänotyp; der Genotyp aabb führt zum extrem zwergwüchsigen Phänotyp.\nC. Die Genotypen der Elterngeneration (P) sind aaBB und AAbb, der F₁-Genotyp ist AaBb.\nD. Unter den zwergwüchsigen Pflanzen in F₂ sind die Hälfte homozygot, und unter den hochwüchsigen Pflanzen sind 1/16 homozygot.",
+        "target": "D. Unter den zwergwüchsigen Pflanzen in F₂ sind die Hälfte homozygot, und unter den hochwüchsigen Pflanzen sind 1/16 homozygot."
+    },
+    {
+        "input": "Ein Schüler injizierte eine bestimmte Menge eines Extrakts aus einem Tier in Versuchsmäuse. Einige Tage nach der ersten Injektion zeigten die Mäuse keine offensichtlichen Abnormalitäten. Anschließend wurden die Mäuse in zwei Gruppen aufgeteilt: Einer Gruppe wurde eine kleine Menge des Extrakts erneut injiziert, woraufhin die Tiere rasch Symptome wie Atemnot entwickelten. Der anderen Gruppe wurde Kochsalzlösung injiziert, ohne dass Auffälligkeiten beobachtet wurden. Welche der folgenden Erklärungen für die Reaktion der Versuchsmäuse nach der zweiten Injektion ist am plausibelsten?\nA. Der Extrakt enthält ein Atemdepressivum, das schnell auf das Atmungssystem der Mäuse wirkt.\nB. Der Extrakt enthält Acetylcholin, das die Aktivität der Skelettmuskulatur der Mäuse vermindert.\nC. Der Extrakt enthält Insulin, was zu einer Senkung des Blutzuckerspiegels bei den Mäusen führt.\nD. Der Extrakt enthält ein Allergen, das eine allergische Reaktion bei den Mäusen auslöst.",
+        "target": "D. Der Extrakt enthält ein Allergen, das eine allergische Reaktion bei den Mäusen auslöst."
+    },
+    {
+        "input": "Bei der Fruchtfliege ist das Gen für rote Augen (Xᴿ) gegenüber dem Gen für weiße Augen (Xʳ) dominant und liegt auf dem X-Chromosom. Das Gen für normale (lange) Flügel (B) ist gegenüber dem Gen für verkümmerte Flügel (b) dominant und liegt auf einem Autosom. Eine Fruchtfliege mit roten Augen und langen Flügeln wird mit einer Fruchtfliege mit weißen Augen und langen Flügeln gekreuzt. Unter den männlichen Nachkommen gibt es Individuen mit weißen Augen und verkümmerten Flügeln.\nWelche der folgenden Aussagen ist falsch?\nA. Die weiblichen und männlichen Elterntiere produzieren Gameten in gleicher Verhältnisverteilung.\nB. Weiße Weibchen mit verkümmerten Flügeln können Polkörperchen mit dem Genotyp bXʳ bilden.\nC. Die Wahrscheinlichkeit für männliche Nachkommen mit langen Flügeln in der F1-Generation beträgt 3/16.\nD. Der Genotyp des weiblichen Elterntiers lautet BbXᴿXʳ.",
+        "target": "C. Die Wahrscheinlichkeit für männliche Nachkommen mit langen Flügeln in der F1-Generation beträgt 3/16."
+    },
+    {
+        "input": "Die Sichelzellanämie beim Menschen wird durch eine Genmutation verursacht. Dabei wird das Codon für die sechste Aminosäure in der β-Kette des Hämoglobins von GAG zu GUG verändert, wodurch die codierte Glutaminsäure durch Valin ersetzt wird.\nWelche der folgenden Aussagen in Bezug auf diese Krankheit ist falsch?\nA. Unter Sauerstoffmangel neigen die roten Blutkörperchen der Patienten dazu, zu zerfallen.\nB. Diese Mutation verändert die Anzahl der Wasserstoffbrücken zwischen den Basenpaaren in der DNA.\nC. Diese Krankheit gehört nicht zu den Erbkrankheiten, die durch Chromosomenanomalien verursacht werden.\nD. Diese Mutation führt zu einer strukturellen Veränderung der β-Kette des Hämoglobins.",
+        "target": "B. Diese Mutation verändert die Anzahl der Wasserstoffbrücken zwischen den Basenpaaren in der DNA."
+    },
+    {
+        "input": "Im Transformationsversuch von Griffith wurden harmlose lebende R-Stämme der Pneumokokken mit abgetöteten, virulenten S-Stämmen vermischt und in Mäuse injiziert. Dabei konnten aus den Mäusen lebende, virulente S-Stämme isoliert werden. Ein Schüler macht auf Grundlage dieses Experiments und moderner biologischer Erkenntnisse folgende Annahme:\n„Wenn man die DNA des S-Stammes mit DNAse behandelt und dann mit dem R-Stamm mischt, können daraus wieder S-Stämme entstehen.“\nBeurteilen Sie diese Aussage: Ist sie wissenschaftlich begründet?",
+        "target": "Nein"
+    },
+    {
+        "input": "Das M-Gen codiert eine Polypeptidkette mit 63 Aminosäuren. Durch eine Insertion tritt eine Mutation auf, bei der ein Triplett AAG in die mRNA eingefügt wird. Infolgedessen enthält die exprimierte Polypeptidkette 64 Aminosäuren. Welche der folgenden Aussagen ist richtig?\nA. Bei der Expression des mutierten Gens können maximal 64 verschiedene tRNA-Arten beteiligt sein.\nB. Nach der Mutation des M-Gens erhöht sich der Anteil an Purin-Nukleotiden bei der DNA-Replikation.\nC. Während der Transkription des M-Gens paaren sich Nukleotide durch Basenpaarung in der RNA miteinander.\nD. Vor und nach der Mutation unterscheiden sich die codierten Polypeptidketten höchstens in zwei Aminosäuren.",
+        "target": "D. Vor und nach der Mutation unterscheiden sich die codierten Polypeptidketten höchstens in zwei Aminosäuren."
+    }
+]

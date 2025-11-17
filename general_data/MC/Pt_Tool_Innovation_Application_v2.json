@@ -1,0 +1,902 @@
+[
+    {
+        "input": "O Alfonso está fazendo alguns bolos em casa quando percebe que esqueceu de comprar papel manteiga. Nesse momento, ele precisa encontrar um item que possa ser usado como substituto do papel manteiga para evitar que os alimentos grudem na assadeira. Ele tem os seguintes itens em sua cozinha. Qual deles seria o substituto mais adequado para o papel manteiga?\nA. Envoltório plástico\nB. Jornal\nC. Papel alumínio\nD. Trapo molhado",
+        "target_scores": {
+            "A. Envoltório plástico": 0,
+            "B. Jornal": 0,
+            "C. Papel alumínio": 1,
+            "D. Trapo molhado": 0
+        }
+    },
+    {
+        "input": "O Leandro precisa de um diluente para ajustar a viscosidade da tinta em suas pinturas a óleo, mas descobre que o diluente acabou. Ele precisa encontrar um item que possa substituir temporariamente o diluente. Qual dos itens a seguir seria o substituto mais provável para o diluente de óleo?\nA. Azeite\nB. Banana\nC. Manteiga\nD. Vinagre Branco",
+        "target_scores": {
+            "A. Azeite": 1,
+            "B. Banana": 0,
+            "C. Manteiga": 0,
+            "D. Vinagre Branco": 0
+        }
+    },
+    {
+        "input": "O Senhor William está consertando uma mesa de madeira em casa quando percebe que precisa usar uma lixa para lixar o tampo da mesa, mas a lixa acabou. Ele precisa encontrar um item que possa substituir a lixa para lixar. Ele tem os seguintes itens em sua garagem. Qual seria o substituto mais adequado para a lixa?\nA. Esponja de aço\nB. Lixa de unha\nC. Sacos de embalagem de plástico\nD. Trapo",
+        "target_scores": {
+            "A. Esponja de aço": 0,
+            "B. Lixa de unha": 1,
+            "C. Sacos de embalagem de plástico": 0,
+            "D. Trapo": 0
+        }
+    },
+    {
+        "input": "Enquanto prepara o jantar, a Sra. Vanessa percebe que não tem um espremedor de alho em casa e precisa encontrar um item alternativo para fazer alho picado. Ela tem os seguintes itens em sua cozinha. Qual deles seria mais provável de ser um substituto para um espremedor de alho?\nA. Espremedor de limão\nB. Luvas com isolamento térmico\nC. Tampa de lata\nD. Tampinha de Garrafa",
+        "target_scores": {
+            "A. Espremedor de limão": 1,
+            "B. Luvas com isolamento térmico": 0,
+            "C. Tampa de lata": 0,
+            "D. Tampinha de Garrafa": 0
+        }
+    },
+    {
+        "input": "A Sra. Gilda estava saindo quando, de repente, começou a chover. Como ela não estava com guarda-chuva, precisou encontrar algo para se proteger da chuva temporariamente. Identifique nas opções abaixo um substituto para o guarda-chuva.\nA. Caneca\nB. Moletom com capuz\nC. Revista\nD. Véu",
+        "target_scores": {
+            "A. Caneca": 0,
+            "B. Moletom com capuz": 1,
+            "C. Revista": 0,
+            "D. Véu": 0
+        }
+    },
+    {
+        "input": "O Samuel está em casa e quer fazer um cartão de felicitações, mas descobre que não tem papel colorido. Ele tem os seguintes itens em sua secretária. Ajude-o a escolher um item para substituir o papel colorido.\nA. Calendário antigo\nB. Capa de revista\nC. Papel de embrulho\nD. Papel de exame",
+        "target_scores": {
+            "A. Calendário antigo": 0,
+            "B. Capa de revista": 0,
+            "C. Papel de embrulho": 1,
+            "D. Papel de exame": 0
+        }
+    },
+    {
+        "input": "A Sra. Vanessa quer fazer uma máscara facial em casa, mas descobre que ficou sem folha de máscara facial. Qual dos seguintes itens no toucador dela tem a função mais próxima de uma folha de máscara facial?\nA. Batom\nB. Caixa de comprimidos\nC. Papel de filtro de café\nD. Perfume",
+        "target_scores": {
+            "A. Batom": 0,
+            "B. Caixa de comprimidos": 0,
+            "C. Papel de filtro de café": 1,
+            "D. Perfume": 0
+        }
+    },
+    {
+        "input": "O Senhor José quer medir o comprimento de uma tábua em casa, mas não consegue encontrar uma fita métrica. Qual das opções a seguir seria a alternativa mais adequada para uma fita métrica?\nA. Cinto\nB. Doce de goma\nC. Faixa de cabelo\nD. Porta-copos",
+        "target_scores": {
+            "A. Cinto": 1,
+            "B. Doce de goma": 0,
+            "C. Faixa de cabelo": 0,
+            "D. Porta-copos": 0
+        }
+    },
+    {
+        "input": "A Sra. Vanessa precisa prender temporariamente alguns documentos em seu escritório, mas não consegue encontrar um grampeador. Ela tem os seguintes itens em sua gaveta. Qual deles é o mais adequado para organizar os documentos?\nA. Clipe de papel\nB. Elástico\nC. Fita transparente\nD. Pinça para cabelo",
+        "target_scores": {
+            "A. Clipe de papel": 1,
+            "B. Elástico": 0,
+            "C. Fita transparente": 0,
+            "D. Pinça para cabelo": 0
+        }
+    },
+    {
+        "input": "Quando o Arnaldo faz artesanato em casa, ele precisa de um pequeno martelo, mas não consegue encontrá-lo. Ele tem os seguintes itens em sua caixa de ferramentas, qual seria o substituto mais adequado para o martelo pequeno?\nA. Balão\nB. Chave inglesa grande\nC. Colher de plástico\nD. lápis",
+        "target_scores": {
+            "A. Balão": 0,
+            "B. Chave inglesa grande": 1,
+            "C. Colher de plástico": 0,
+            "D. lápis": 0
+        }
+    },
+    {
+        "input": "O Alexandro está fazendo um piquenique ao ar livre quando, acidentalmente, percebe que esqueceu sua faca e precisa cortar algumas frutas para compartilhar com seus amigos. Ele procura na mochila e encontra os seguintes itens. Qual deles provavelmente será usado para cortar a fruta?\nA. Cartão de crédito\nB. Celular\nC. Chave\nD. Pente",
+        "target_scores": {
+            "A. Cartão de crédito": 1,
+            "B. Celular": 0,
+            "C. Chave": 0,
+            "D. Pente": 0
+        }
+    },
+    {
+        "input": "Quanto a Sra. Amanda está lavando a roupa e percebe que acabou o sabão em pó. Ela precisa encontrar um item que possa substituir o sabão em pó na limpeza de suas roupas. Ela tem os seguintes itens em sua lavanderia. Escolha aquele que é mais adequado para substituir o sabão em pó.\nA. Detergente líquido\nB. Farinha\nC. Sal\nD. Vinagre Branco",
+        "target_scores": {
+            "A. Detergente líquido": 1,
+            "B. Farinha": 0,
+            "C. Sal": 0,
+            "D. Vinagre Branco": 0
+        }
+    },
+    {
+        "input": "O Samuel está fazendo sua lição de casa quando acidentalmente derrama a tinta de sua mão na mesa. No entanto, ele fica sem detergente para tinta e precisa encontrar um substituto que remova a mancha de tinta. As opções a seguir são as que ele pode encontrar no momento. Qual delas provavelmente funcionará como substituto do detergente para tinta?\nA. Melancia\nB. Pasta de dentes\nC. Secador de cabelo\nD. Suco de laranja",
+        "target_scores": {
+            "A. Melancia": 0,
+            "B. Pasta de dentes": 1,
+            "C. Secador de cabelo": 0,
+            "D. Suco de laranja": 0
+        }
+    },
+    {
+        "input": "O Henrique está preparando um jantar à luz de velas para a noite quando percebe que esqueceu de comprar velas. Ele precisa encontrar um item que possa substituir as velas e criar um ambiente. Ele encontrou os seguintes itens no armário. Por favor, ajude-o a escolher um como substituto para a vela.\nA. Bastão luminoso\nB. Biscoito palito\nC. Lanterna\nD. Palito de dentes",
+        "target_scores": {
+            "A. Bastão luminoso": 1,
+            "B. Biscoito palito": 0,
+            "C. Lanterna": 0,
+            "D. Palito de dentes": 0
+        }
+    },
+    {
+        "input": "O Ivan está trabalhando até tarde da noite no escritório e está com fome, mas o micro-ondas do escritório está quebrado e ele precisa encontrar um substituto que aqueça a comida. Ele encontra os seguintes itens na despensa. Qual deles seria o substituto mais adequado para o micro-ondas?\nA. Chaleira elétrica\nB. Copos de papel\nC. Luvas descartáveis\nD. Talheres descartáveis",
+        "target_scores": {
+            "A. Chaleira elétrica": 1,
+            "B. Copos de papel": 0,
+            "C. Luvas descartáveis": 0,
+            "D. Talheres descartáveis": 0
+        }
+    },
+    {
+        "input": "A Ana está viajando em São Paulo quando, de repente, se lembra de que esqueceu o suporte para celular e precisa gravar um vídeo. Ela encontra algumas coisas na bolsa de mão dela e de seu companheiro de viagem. Qual é o substituto mais provável para o suporte do celular?\nA. Carteira\nB. Estojo para óculos\nC. Pó prensado\nD. Tinta",
+        "target_scores": {
+            "A. Carteira": 0,
+            "B. Estojo para óculos": 1,
+            "C. Pó prensado": 0,
+            "D. Tinta": 0
+        }
+    },
+    {
+        "input": "O Gilberto está acampando nas montanhas com seus amigos quando precisa acender uma fogueira para passar a noite e, de repente, percebe que seu isqueiro está sem gás. Há os seguintes itens na barraca que podem ser úteis em uma emergência, portanto, ajude-o a escolher o que tem mais chances de acender a fogueira.\nA. Bateria\nB. Lupa\nC. Palito de fósforo\nD. Relógios à prova d'água",
+        "target_scores": {
+            "A. Bateria": 0,
+            "B. Lupa": 0,
+            "C. Palito de fósforo": 1,
+            "D. Relógios à prova d'água": 0
+        }
+    },
+    {
+        "input": "A Alice está na sala de aula de artes desenhando o personagem de anime Gojo e precisa usar tinta branca, mas ela acabou de ficar sem tinta branca. Ela procura na sala de aula e encontra os seguintes itens: qual é o substituto mais provável para a tinta branca?\nA. Caneta tinteiro preta\nB. Esmalte incolor\nC. Lápis\nD. Líquido corretivo",
+        "target_scores": {
+            "A. Caneta tinteiro preta": 0,
+            "B. Esmalte incolor": 0,
+            "C. Lápis": 0,
+            "D. Líquido corretivo": 1
+        }
+    },
+    {
+        "input": "A mãe está cozinhando quando, de repente, percebe que os frascos de condimentos vazios que estavam espalhados pela cozinha estão faltando. Ela precisa encontrar um substituto temporário para o frasco de condimentos para guardar os temperos. Qual dos itens a seguir seria o substituto mais adequado para o frasco de condimentos?\nA. Envoltório plástico\nB. Garrafas de bebidas vazias\nC. Pauzinhos\nD. Prato de óleo",
+        "target_scores": {
+            "A. Envoltório plástico": 0,
+            "B. Garrafas de bebidas vazias": 1,
+            "C. Pauzinhos": 0,
+            "D. Prato de óleo": 0
+        }
+    },
+    {
+        "input": "A família do Bento sai para uma caminhada no fim de semana na natureza e o pai dele Fred precisa usar uma bússola para determinar a direção, mas sua bússola está faltando. Eles procuram em seus pertences e encontram o seguinte. Qual deles tem mais probabilidade de ser um substituto para uma bússola?\nA. 1 ímã do tamanho de uma pilha botão e 2 pregos pequenos\nB. Corda de cânhamo\nC. Corda estática\nD. Mapa",
+        "target_scores": {
+            "A. 1 ímã do tamanho de uma pilha botão e 2 pregos pequenos": 1,
+            "B. Corda de cânhamo": 0,
+            "C. Corda estática": 0,
+            "D. Mapa": 0
+        }
+    },
+    {
+        "input": "O Senhor José acaba de chegar ao escritório e encontra um pequeno furo no punho de seu terno, que ele gostaria de consertar com urgência antes de uma reunião, mas não tem um kit de costura. Ele tem os seguintes itens em sua gaveta. Qual seria o substituto mais adequado para um kit de costura provisório?\nA. Cabo de fone de ouvido\nB. Clipe de papel\nC. Furador\nD. Prendedor de gravata",
+        "target_scores": {
+            "A. Cabo de fone de ouvido": 0,
+            "B. Clipe de papel": 1,
+            "C. Furador": 0,
+            "D. Prendedor de gravata": 0
+        }
+    },
+    {
+        "input": "O David está escrevendo um teste e precisa usar um marcador de texto para marcar, mas o marcador de texto está sem óleo. Ele tem os seguintes itens por perto: qual é o substituto mais provável para o marcador?\nA. Borracha de apagar\nB. Lápis de cor\nC. Marcador de quadro branco\nD. Tapete de rato",
+        "target_scores": {
+            "A. Borracha de apagar": 0,
+            "B. Lápis de cor": 1,
+            "C. Marcador de quadro branco": 0,
+            "D. Tapete de rato": 0
+        }
+    },
+    {
+        "input": "A Liliana está prestes a se encontrar com seu namorado e, de repente, vê seu cabelo um pouco bagunçado no espelho, mexe na bolsa e percebe que esqueceu o pente. Há um restaurante de fast food ao lado dela. Qual dos seguintes itens no restaurante de fast food é mais adequado como um substituto para um pente?\nA. Caixa para viagem\nB. Faca de bife\nC. Garfo\nD. Saco de embalagem",
+        "target_scores": {
+            "A. Caixa para viagem": 0,
+            "B. Faca de bife": 0,
+            "C. Garfo": 1,
+            "D. Saco de embalagem": 0
+        }
+    },
+    {
+        "input": "O Celso está procurando um recipiente para pequenas ferramentas e parafusos para seu estúdio, mas não quer comprar uma nova caixa de ferramentas. Qual dos seguintes itens no estúdio poderia substituir uma caixa de ferramentas tradicional?\nA. Chave de fenda\nB. Novo cinzeiro\nC. Nível\nD. chave inglesa",
+        "target_scores": {
+            "A. Chave de fenda": 0,
+            "B. Novo cinzeiro": 1,
+            "C. Nível": 0,
+            "D. chave inglesa": 0
+        }
+    },
+    {
+        "input": "A maçaneta da porta do Carmelo sempre range e então ele queria encontrar um lubrificante para resolver o problema, mas procura em toda a casa e não encontra nada. Ele só encontra os seguintes itens. Qual deles pode ser usado como lubrificante?\nA. Azeite\nB. Bicarbonato de sódio\nC. Dessecante\nD. Vinagre",
+        "target_scores": {
+            "A. Azeite": 1,
+            "B. Bicarbonato de sódio": 0,
+            "C. Dessecante": 0,
+            "D. Vinagre": 0
+        }
+    },
+    {
+        "input": "A Áurea quer criar um espaço de leitura em um canto de sua casa, mas não encontra uma estante especializada. Com os quatro itens a seguir, qual deles ela pode usar como estante improvisada?\nA. Caixa quebrada\nB. Carrinho de armazenamento multicamadas\nC. Cesto de lavanderia\nD. Cesto de roupa suja",
+        "target_scores": {
+            "A. Caixa quebrada": 0,
+            "B. Carrinho de armazenamento multicamadas": 1,
+            "C. Cesto de lavanderia": 0,
+            "D. Cesto de roupa suja": 0
+        }
+    },
+    {
+        "input": "O teclado do computador do Giovanni está acumulando poeira e o aspirador de mesa que ele tem usado está sem bateria, portanto, ele precisa de outra ferramenta para limpá-lo. Qual dos itens a seguir pode ser usado como ferramenta de limpeza?\nA. Bloco de notas\nB. Borracha de apagar\nC. Papel para anotações\nD. Pincel de Limpeza",
+        "target_scores": {
+            "A. Bloco de notas": 0,
+            "B. Borracha de apagar": 0,
+            "C. Papel para anotações": 0,
+            "D. Pincel de Limpeza": 1
+        }
+    },
+    {
+        "input": "A Bianca quer fazer um brinquedo para seu cachorro de estimação, Fred, que perdeu a bola de silicone com a qual ele brincava. Qual dos seguintes materiais ela pode usar para fazer um que mais se assemelhe ao brinquedo anterior?\nA. Bola de borracha\nB. Controle remoto para ar condicionado\nC. Skate\nD. Toalha velha",
+        "target_scores": {
+            "A. Bola de borracha": 1,
+            "B. Controle remoto para ar condicionado": 0,
+            "C. Skate": 0,
+            "D. Toalha velha": 0
+        }
+    },
+    {
+        "input": "O Sandro perdeu o pano de limpeza que usa para lavar o carro e precisa de um pano absorvente que possa ser usado para limpar o carro. Ele encontra os seguintes itens no depósito. Qual item pode ser usado como substituto?\nA. Camiseta velha de algodão\nB. Jornal\nC. Livros de Ficção\nD. Revista",
+        "target_scores": {
+            "A. Camiseta velha de algodão": 1,
+            "B. Jornal": 0,
+            "C. Livros de Ficção": 0,
+            "D. Revista": 0
+        }
+    },
+    {
+        "input": "A Bruna está pintando no parque e esqueceu sua paleta. Ela olha ao redor e encontra apenas quatro coisas. Ajude-a a escolher uma das opções abaixo como o substituto mais provável para a paleta.\nA. Botão de rosa\nB. Folhas\nC. Latas\nD. Tampa de caixa de biscoito",
+        "target_scores": {
+            "A. Botão de rosa": 0,
+            "B. Folhas": 0,
+            "C. Latas": 0,
+            "D. Tampa de caixa de biscoito": 1
+        }
+    },
+    {
+        "input": "O rack de armazenamento de fantoches de mão do Braulio está cheio e ele comprou uma nova caixa surpresa e levaou para casa, mas o novo rack de fantoches ainda está a caminho e ele quer encontrar algo adequado para exibir sua nova compra. Qual dos itens a seguir poderia substituir o rack de armazenamento de fantoches de mão e ajudá-lo a exibir os fantoches de mão recém-adquiridos?\nA. Cadeira dobrável\nB. Caixa de sapato de acrílico transparente\nC. Elástico\nD. Tubo de papel toalha",
+        "target_scores": {
+            "A. Cadeira dobrável": 0,
+            "B. Caixa de sapato de acrílico transparente": 1,
+            "C. Elástico": 0,
+            "D. Tubo de papel toalha": 0
+        }
+    },
+    {
+        "input": "A Beatriz machucou o dedo e precisa de uma simples manga de dedo para proteger o ferimento, mas não há posto médico por perto e apenas os seguintes itens estão disponíveis. Qual deles ela pode usar para fazer a manga de dedo?\nA. Faixa de cabeça\nB. Palitos de picolé\nC. Pipoca doce\nD. Um pequeno pedaço de tubo de borracha",
+        "target_scores": {
+            "A. Faixa de cabeça": 0,
+            "B. Palitos de picolé": 0,
+            "C. Pipoca doce": 0,
+            "D. Um pequeno pedaço de tubo de borracha": 1
+        }
+    },
+    {
+        "input": "O Bernardino esqueceu de trazer seu estojo quadrado para fones de ouvido. Por sorte, ele trouxe fones de ouvido Bluetooth, que são menores, e encontrou algumas coisas na bolsa. Selecione o item que tem menos probabilidade de substituir o estojo quadrado para fones de ouvido.\nA. Caixa de comprimidos\nB. Caixa de goma\nC. Porta-moedas\nD. Spray refrescante para o hálito",
+        "target_scores": {
+            "A. Caixa de comprimidos": 0,
+            "B. Caixa de goma": 0,
+            "C. Porta-moedas": 0,
+            "D. Spray refrescante para o hálito": 1
+        }
+    },
+    {
+        "input": "O Armando quer fazer um porta-lápis caseiro simples em casa, mas não encontrou um recipiente adequado. Entre os quatro itens disponíveis abaixo, qual seria o menos provável de ser usado como substituto para o porta-lápis?\nA. Balde de pipoca Disney\nB. Copos de papel\nC. Pote de grãos de café\nD. Taça de vinho",
+        "target_scores": {
+            "A. Balde de pipoca Disney": 0,
+            "B. Copos de papel": 0,
+            "C. Pote de grãos de café": 0,
+            "D. Taça de vinho": 1
+        }
+    },
+    {
+        "input": "O Adauto quer fazer uma caixa de lenços de papel, mas acha que é muito trabalhoso fazer isso sozinho e quer encontrar um substituto pronto em casa. Agora, há quatro coisas abaixo. Qual delas pode ser usada como substituta para a caixa de lenços?\nA. Caixa Expressa\nB. Canil\nC. Provocador de gato\nD. Triturador de lixo",
+        "target_scores": {
+            "A. Caixa Expressa": 1,
+            "B. Canil": 0,
+            "C. Provocador de gato": 0,
+            "D. Triturador de lixo": 0
+        }
+    },
+    {
+        "input": "A Ana está preparando o jantar e precisa misturar uma tigela grande de salada, mas não consegue encontrar o mexedor. Ela tem os seguintes itens com ela, qual item é menos provável de ser usado como ferramenta de mistura?\nA. Duas colheres de tamanhos diferentes\nB. Faca serrilhada\nC. Pauzinhos\nD. Touca de banho",
+        "target_scores": {
+            "A. Duas colheres de tamanhos diferentes": 0,
+            "B. Faca serrilhada": 0,
+            "C. Pauzinhos": 0,
+            "D. Touca de banho": 1
+        }
+    },
+    {
+        "input": "A Ana está planejando colocar algumas gotas de azeite de oliva na salada, mas ela não quer que o azeite pingue demais e não tem conta-gotas para controlar a quantidade de azeite. Ajude-a a escolher um dos seguintes itens em sua cozinha para usar como dispensador improvisado de gotas de azeite.\nA. Frasco de spray limpo\nB. Prato de molho de soja\nC. Tigela de cerâmica\nD. Xícara de chá pequena",
+        "target_scores": {
+            "A. Frasco de spray limpo": 1,
+            "B. Prato de molho de soja": 0,
+            "C. Tigela de cerâmica": 0,
+            "D. Xícara de chá pequena": 0
+        }
+    },
+    {
+        "input": "A Camila quer fazer um bolo em casa, mas descobre que a batedeira elétrica está quebrada. Ela precisa encontrar uma ferramenta de mistura que possa ser usada como substituta. Qual dos seguintes itens que ela tem em sua cozinha pode ser usado como batedeira provisória?\nA. Lava-louças\nB. Luvas de borracha\nC. Pá de aço inoxidável\nD. Tesoura de jardinagem",
+        "target_scores": {
+            "A. Lava-louças": 0,
+            "B. Luvas de borracha": 0,
+            "C. Pá de aço inoxidável": 1,
+            "D. Tesoura de jardinagem": 0
+        }
+    },
+    {
+        "input": "Você está fazendo uma faxina em casa e percebe que não tem limpador de vidros. Qual dos seguintes itens poderia ser usado como substituto para limpar o vidro?\nA. Leite\nB. Vinagre Branco\nC. Vinagre de maçã\nD. Vinho",
+        "target_scores": {
+            "A. Leite": 0,
+            "B. Vinagre Branco": 1,
+            "C. Vinagre de maçã": 0,
+            "D. Vinho": 0
+        }
+    },
+    {
+        "input": "O suéter da Carla está com bolinhas, ela não tem um removedor de bolinhas especial e não tem escolha a não ser encontrar algumas coisas. Qual dos itens a seguir a ajudará a remover bolinhas da roupa?\nA. Bolsa de água quente\nB. Chave\nC. Esponja absorvente\nD. Fita de vedação",
+        "target_scores": {
+            "A. Bolsa de água quente": 0,
+            "B. Chave": 0,
+            "C. Esponja absorvente": 0,
+            "D. Fita de vedação": 1
+        }
+    },
+    {
+        "input": "O Senhor José quer engraxar seus sapatos de couro, mas não há graxa para sapatos em casa e o engraxate do mercado de vegetais foi para casa no Ano Novo. Qual dos seguintes itens ele deve usar para polir seus sapatos de couro?\nA. Azeite\nB. Gel de cabelo\nC. Mel\nD. Óleo de pimenta",
+        "target_scores": {
+            "A. Azeite": 1,
+            "B. Gel de cabelo": 0,
+            "C. Mel": 0,
+            "D. Óleo de pimenta": 0
+        }
+    },
+    {
+        "input": "A Carolina quer empinar uma pipa no parque, mas a pipa que ela trouxe tem um grande buraco, então ela precisa encontrando um material semelhante em sua bolsa para fazer uma pipa. Qual dos seguintes itens encontrados na bolsa seria o substituto mais adequado para a pipa?\nA. Abridor de garrafas\nB. Canivete Suíço\nC. Removedor de pelos\nD. Saco de lixo grande",
+        "target_scores": {
+            "A. Abridor de garrafas": 0,
+            "B. Canivete Suíço": 0,
+            "C. Removedor de pelos": 0,
+            "D. Saco de lixo grande": 1
+        }
+    },
+    {
+        "input": "A Célia precisa embalar alguns itens frágeis quando se mudar, mas não tem isopor ou outros materiais de embalagem. Qual dos itens a seguir mais se aproxima de um material de embalagem que pode ser usado para proteger itens frágeis?\nA. Arroz glutinoso\nB. Ovo\nC. Painço\nD. Toalha",
+        "target_scores": {
+            "A. Arroz glutinoso": 0,
+            "B. Ovo": 0,
+            "C. Painço": 0,
+            "D. Toalha": 1
+        }
+    },
+    {
+        "input": "O Cícero quer fazer sua própria máscara facial em casa, mas não comprou um tecido não tecido. Ele encontra alguns itens no banheiro que podem ser úteis. Qual dos itens a seguir seria mais provável de ser usado como substituto do tecido não tecido?\nA. Fraldas de Bebê\nB. Grande disco de algodão\nC. Jeans\nD. Lenço de seda",
+        "target_scores": {
+            "A. Fraldas de Bebê": 0,
+            "B. Grande disco de algodão": 1,
+            "C. Jeans": 0,
+            "D. Lenço de seda": 0
+        }
+    },
+    {
+        "input": "O Balduino está fazendo um piquenique no parque quando percebe que as facas e os garfos de plástico que trouxe não são suficientes e não há nenhum supermercado próximo onde ele possa comprar talheres descartáveis, então ele tem que procurar alternativas no que tem em mãos. Qual dos seguintes itens pode ser usado como substituto para talheres?\nA. Cartões de plástico\nB. Envelope\nC. Poncho de chuva\nD. Toalha de mesa descartável",
+        "target_scores": {
+            "A. Cartões de plástico": 1,
+            "B. Envelope": 0,
+            "C. Poncho de chuva": 0,
+            "D. Toalha de mesa descartável": 0
+        }
+    },
+    {
+        "input": "O Eduardo quer pendurar um quadro recém-adquirido em sua casa, mas não consegue encontrar um prego ou um martelo. Ele precisa encontrar uma ferramenta que possa martelar os pregos. Qual dos seguintes itens em seu depósito de ferramentas pode ser usado como um martelo improvisado?\nA. Chinelos de plástico\nB. Garrafa de Cola vazia\nC. Lanterna grande de metal\nD. Protetor labial",
+        "target_scores": {
+            "A. Chinelos de plástico": 0,
+            "B. Garrafa de Cola vazia": 0,
+            "C. Lanterna grande de metal": 1,
+            "D. Protetor labial": 0
+        }
+    },
+    {
+        "input": "A Cláudia precisa trocar a água das flores no vaso, mas não há fertilizante para flores em casa, então seu pai lhe dá quatro coisas e a testa para saber qual delas pode ser usada como alternativa ao fertilizante para prolongar o frescor das flores. ()\nA. Açúcar branco\nB. Fermento em pó\nC. Moeda\nD. Pó de soja",
+        "target_scores": {
+            "A. Açúcar branco": 1,
+            "B. Fermento em pó": 0,
+            "C. Moeda": 0,
+            "D. Pó de soja": 0
+        }
+    },
+    {
+        "input": "Quando você está tomando banho, você quer usar uma bola de banho para esfregar suas costas, mas não consegue encontrá-la. Há várias outras coisas no banheiro. Qual dos seguintes itens pode ser usado como um substituto para bolas de banho?\nA. Aparador de pelos\nB. Bolas de Lavanderia\nC. Condicionador\nD. Esponja",
+        "target_scores": {
+            "A. Aparador de pelos": 0,
+            "B. Bolas de Lavanderia": 0,
+            "C. Condicionador": 0,
+            "D. Esponja": 1
+        }
+    },
+    {
+        "input": "O Augusto está fazendo pão de queijo e está prestes a estender a massa com um rolo de massa quando percebe que o rolo de massa está faltando. Ele dá uma olhada na cozinha e qual dos seguintes itens seria o substituto mais adequado para o rolo de massa?\nA. Balança de cozinha\nB. Dispensador de água\nC. Elástico\nD. Garrafa de vinho vazia",
+        "target_scores": {
+            "A. Balança de cozinha": 0,
+            "B. Dispensador de água": 0,
+            "C. Elástico": 0,
+            "D. Garrafa de vinho vazia": 1
+        }
+    },
+    {
+        "input": "A Cristiana está na metade da leitura de um livro e quer encontrar um marcador de página para colocar no livro, mas não encontra nenhum no quarto. Ela olha ao redor e, dos seguintes itens que encontra, qual seria o mais adequado para um marcador de página?\nA. Cartões de crédito antigos\nB. Cubo mágico\nC. Raquete de tênis de mesa\nD. Tênis de mesa",
+        "target_scores": {
+            "A. Cartões de crédito antigos": 1,
+            "B. Cubo mágico": 0,
+            "C. Raquete de tênis de mesa": 0,
+            "D. Tênis de mesa": 0
+        }
+    },
+    {
+        "input": "O Sérgio está brincando na praia e quer fazer um castelo de areia, mas não trouxe nenhum brinquedo de praia. Ele tem os seguintes itens ao redor dele. Qual deles é mais provável de ser usado para fazer um castelo de areia?\nA. Chinelos de praia\nB. Garrafa de água mineral vazia\nC. Roupas de proteção solar\nD. Vôlei de praia",
+        "target_scores": {
+            "A. Chinelos de praia": 0,
+            "B. Garrafa de água mineral vazia": 1,
+            "C. Roupas de proteção solar": 0,
+            "D. Vôlei de praia": 0
+        }
+    },
+    {
+        "input": "A Daniela quer fazer pizza em casa, mas não tem uma pedra de pizza. Ela encontra os seguintes itens. Qual deles seria o melhor substituto para a pedra de pizza?\nA. Celofane\nB. Prato de vidro\nC. Tigela de cristal\nD. Tábua de corte de mármore",
+        "target_scores": {
+            "A. Celofane": 0,
+            "B. Prato de vidro": 0,
+            "C. Tigela de cristal": 0,
+            "D. Tábua de corte de mármore": 1
+        }
+    },
+    {
+        "input": "Ao cuidar de plantas de interior, precisa fornecer suporte para elas, mas não há suportes especiais. Qual dos seguintes itens pode ser usado em vez de um suporte para apoiar plantas?\nA. Acordeão\nB. Canudos de plástico\nC. Ninho de Pássaro\nD. Sementes de melancia",
+        "target_scores": {
+            "A. Acordeão": 0,
+            "B. Canudos de plástico": 1,
+            "C. Ninho de Pássaro": 0,
+            "D. Sementes de melancia": 0
+        }
+    },
+    {
+        "input": "Enquanto cozinha em casa, o Silvio descobre que a tábua de cortar é acidentalmente quebrada pela força com que ele corta carne, e ele precisa substituí-la. Qual dos seguintes itens em sua cozinha pode ser usado temporariamente para substituir a tábua de cortar?\nA. Lista telefônica\nB. Tapetes de chão\nC. Trapo\nD. Tábua",
+        "target_scores": {
+            "A. Lista telefônica": 0,
+            "B. Tapetes de chão": 0,
+            "C. Trapo": 0,
+            "D. Tábua": 1
+        }
+    },
+    {
+        "input": "A lâmpada de mesa do Silas está quebrada e, sem uma sobressalente, ele precisa de um dispositivo de iluminação para continuar lendo. Escolha um dos itens a seguir que seja menos provável de ser usado como uma ferramenta de iluminação temporária.\nA. Azulejos de parede\nB. Lampião de querosene\nC. Lanterna do celular\nD. Vela",
+        "target_scores": {
+            "A. Azulejos de parede": 1,
+            "B. Lampião de querosene": 0,
+            "C. Lanterna do celular": 0,
+            "D. Vela": 0
+        }
+    },
+    {
+        "input": "O computador do Ricardo está cheio de poeira, mas ele lavou o trapo que usa com frequência, então ele precisa encontrar um item para limpar. Por favor, escolha um dos seguintes itens que é mais provável ser usado como ferramenta temporária de limpeza.\nA. Um creme esfoliante\nB. Um pacote de doces de corda coloridos\nC. Um pincel\nD. Uma caneta tinteiro",
+        "target_scores": {
+            "A. Um creme esfoliante": 0,
+            "B. Um pacote de doces de corda coloridos": 0,
+            "C. Um pincel": 1,
+            "D. Uma caneta tinteiro": 0
+        }
+    },
+    {
+        "input": "Você descobre que a tigela de comida do seu gato foi chutada e quebrada por ele, e você precisa urgentemente encontrar um substituto para guardar a comida do gato. Você encontra itens em casa. Qual dos seguintes itens você pode usar?\nA. Bacia extra grande\nB. Caixa de sabão vazia\nC. Faca de bife\nD. Tapete de diatomita",
+        "target_scores": {
+            "A. Bacia extra grande": 0,
+            "B. Caixa de sabão vazia": 1,
+            "C. Faca de bife": 0,
+            "D. Tapete de diatomita": 0
+        }
+    },
+    {
+        "input": "A Raphael perde acidentalmente seu pincel enquanto faz um esboço ao ar livre; não há lojas por perto, apenas uma paisagem de campos. Ele precisa encontrar um substituto de pincel para concluir sua pintura a óleo. Qual dos itens a seguir tem menos probabilidade de servir como um pincel provisório?\nA. Tampa de caixa de Bento\nB. Um monte de cotonetes\nC. Um palito de dente\nD. Uma grama de rabo de cachorro",
+        "target_scores": {
+            "A. Tampa de caixa de Bento": 1,
+            "B. Um monte de cotonetes": 0,
+            "C. Um palito de dente": 0,
+            "D. Uma grama de rabo de cachorro": 0
+        }
+    },
+    {
+        "input": "O Paulo acidentalmente quebra um varal ao secar roupas em um grande quintal no campo. Há vários itens espalhados pelo quintal; qual dos itens a seguir ele provavelmente usaria como substituto temporário do varal?\nA. Espantalho\nB. Um pedaço de arame\nC. Um punhado de milho\nD. Um punhado de trigo",
+        "target_scores": {
+            "A. Espantalho": 0,
+            "B. Um pedaço de arame": 1,
+            "C. Um punhado de milho": 0,
+            "D. Um punhado de trigo": 0
+        }
+    },
+    {
+        "input": "O Roberto esquece seu isqueiro para acender o fogo em um churrasco ao ar livre sob o sol quente e pensa em uma maneira tradicional de acender o carvão vegetal. Ele encontra vários suprimentos nas proximidades. Qual dos itens a seguir seria mais provável de ser usado para ajudar a acender o fogo?\nA. Um pedaço de filme plástico\nB. Uma Pamonha\nC. Uma garrafa de suco de laranja\nD. Uma lupa",
+        "target_scores": {
+            "A. Um pedaço de filme plástico": 0,
+            "B. Uma Pamonha": 0,
+            "C. Uma garrafa de suco de laranja": 0,
+            "D. Uma lupa": 1
+        }
+    },
+    {
+        "input": "A Maria estava cortando papel, foi ao banheiro no meio e ao voltar, a tesoura desapareceu. Ela só tem essas coisas ao lado dela, qual item ela pode usar para substituir a tesoura?\nA. Cacos de vidro\nB. Cortador de unhas\nC. Fio de metal\nD. Pinças",
+        "target_scores": {
+            "A. Cacos de vidro": 0,
+            "B. Cortador de unhas": 1,
+            "C. Fio de metal": 0,
+            "D. Pinças": 0
+        }
+    },
+    {
+        "input": "O Otávio está limpando seu quarto quando descobre que não há mais vassouras novas e que as antigas estão em frangalhos. Ele vai até o depósito para encontrar algo para usar. Qual dos seguintes itens tem menos probabilidade de servir como vassoura provisória? \nA. Um monte de galhos\nB. Um par de botas de caminhada velhas\nC. Um punhado de penas de avestruz\nD. Uma escova de sapato velha e grande",
+        "target_scores": {
+            "A. Um monte de galhos": 0,
+            "B. Um par de botas de caminhada velhas": 1,
+            "C. Um punhado de penas de avestruz": 0,
+            "D. Uma escova de sapato velha e grande": 0
+        }
+    },
+    {
+        "input": "A Diana, uma blogueira de viagens, está passando por uma academia de boxe ao ar livre e quer fotografar o material, mas descobre que perdeu o tripé da câmera. Qual dos itens a seguir seria menos provável que ela usasse como substituto do tripé?\nA. Sacos para embalagem de lanches\nB. Uma pilha de livros\nC. Uma pilha de pedras\nD. Uma pilha de sacos de areia",
+        "target_scores": {
+            "A. Sacos para embalagem de lanches": 1,
+            "B. Uma pilha de livros": 0,
+            "C. Uma pilha de pedras": 0,
+            "D. Uma pilha de sacos de areia": 0
+        }
+    },
+    {
+        "input": "O Nelson é um entusiasta de exercícios ao ar livre e, nesse dia, ele precisa esfriar o corpo depois de se exercitar ao ar livre, mas não tem um ventilador ou gelo com ele. Ele encontra alguns itens nas proximidades. Por favor, escolha o que é menos provável que ele use para se refrescar ()\nA. Um pequeno guarda-chuva\nB. Uma garrafa de bebida congelada\nC. Uma toalha molhada\nD. Várias bolsas de gelo",
+        "target_scores": {
+            "A. Um pequeno guarda-chuva": 1,
+            "B. Uma garrafa de bebida congelada": 0,
+            "C. Uma toalha molhada": 0,
+            "D. Várias bolsas de gelo": 0
+        }
+    },
+    {
+        "input": "A Eduarda está acampando no Parque do Ibirapuera e quer pendurar algumas decorações dentro de sua barraca para poder tirar fotos, mas não havia fita nem ganchos. Ela encontra os seguintes itens em sua bolsa. Qual dos seguintes itens ela não poderia usar para pendurar as decorações?\nA. Batata chips\nB. Blu-tack\nC. Goma de mascar\nD. Plasticina",
+        "target_scores": {
+            "A. Batata chips": 1,
+            "B. Blu-tack": 0,
+            "C. Goma de mascar": 0,
+            "D. Plasticina": 0
+        }
+    },
+    {
+        "input": "O Luís está se concentrando em fazer sua lição de casa em uma cafeteria. Ele comete um erro e queria apagá-lo e começar de novo, mas sua borracha está faltando. Qual dos seguintes itens ele provavelmente usaria para substituí-la?\nA. Copo térmico\nB. Estojo para caneta\nC. Lápis\nD. Um pedaço de migalha de pão",
+        "target_scores": {
+            "A. Copo térmico": 0,
+            "B. Estojo para caneta": 0,
+            "C. Lápis": 0,
+            "D. Um pedaço de migalha de pão": 1
+        }
+    },
+    {
+        "input": "O pai está fazendo um prato japonês que requer apenas claras de ovos e ele precisa separar as claras das gemas, mas não tem uma ferramenta especial à mão. Qual dos itens a seguir ajudaria o pai?\nA. Caixa de biscoitos quadrada\nB. Esponja de limpeza\nC. Garrafa de água mineral vazia\nD. Papel absorvente de óleo",
+        "target_scores": {
+            "A. Caixa de biscoitos quadrada": 0,
+            "B. Esponja de limpeza": 0,
+            "C. Garrafa de água mineral vazia": 1,
+            "D. Papel absorvente de óleo": 0
+        }
+    },
+    {
+        "input": "Você precisa colorir seus espeto em um churrasco ao ar livre, mas esqueceu de levar um escova. Apenas os ingredientes na cesta a seus pés podem ajudar. Qual dos seguintes itens provavelmente substituirá a escova?\nA. Cebolinha fresca\nB. Cogumelo\nC. Folhas de alface frescas\nD. Seda de milho fresca",
+        "target_scores": {
+            "A. Cebolinha fresca": 0,
+            "B. Cogumelo": 1,
+            "C. Folhas de alface frescas": 0,
+            "D. Seda de milho fresca": 0
+        }
+    },
+    {
+        "input": "O Leonardo está prestes a organizar um jantar em sua casa, mas não há toalhas de mesa suficientes para a mesa de jantar. Ele encontra os seguintes itens em sua casa: qual é o substituto temporário menos adequado para a toalha de mesa?\nA. Capa de sofá\nB. Cortina\nC. Microfone\nD. Roupa de cama",
+        "target_scores": {
+            "A. Capa de sofá": 0,
+            "B. Cortina": 0,
+            "C. Microfone": 1,
+            "D. Roupa de cama": 0
+        }
+    },
+    {
+        "input": "A Sra. Vanessa quer tirar uma série de fotos divertidas de seu gato de estimação, mas esta sem acessórios.Ela encontra os itens a seguir. Qual deles é o mais adequado para ser usado como adereço fotográfico?\nA. Durian\nB. Novelo de lã\nC. Tangerina\nD. Teclado de computador",
+        "target_scores": {
+            "A. Durian": 0,
+            "B. Novelo de lã": 1,
+            "C. Tangerina": 0,
+            "D. Teclado de computador": 0
+        }
+    },
+    {
+        "input": "O Fernando está em casa fritando ovos quando descobre que a espátula da cozinha sumiu. Ele olha em volta e tenta encontrar um item que possa substituir a espátula para virar os ovos. Qual dos itens a seguir é mais provável que ele use?\nA. Faca serrilhada\nB. Máquina de gelo\nC. Pente de plástico\nD. Revista",
+        "target_scores": {
+            "A. Faca serrilhada": 1,
+            "B. Máquina de gelo": 0,
+            "C. Pente de plástico": 0,
+            "D. Revista": 0
+        }
+    },
+    {
+        "input": "O Daniel quer aparar os arbustos em seu quintal, mas a tesoura não é afiada o suficiente. Ele precisa encontrar uma ferramenta que possa substituir a tesoura para fazer o trabalho. Qual dos seguintes itens em sua caixa de ferramentas pode ser usado para aparar?\nA. Escova de aço\nB. Garfo para churrasco\nC. Pá\nD. Serra",
+        "target_scores": {
+            "A. Escova de aço": 0,
+            "B. Garfo para churrasco": 0,
+            "C. Pá": 0,
+            "D. Serra": 1
+        }
+    },
+    {
+        "input": "O Felipe está jantando com sua nova namorada quando descobre acidentalmente que a garrafa de vinho espumante que trouxe não abre. Ele precisa encontrar um item que possa substituir o saca-rolhas. Qual dos itens a seguir ele menos deve tentar usar?\nA. Chips de Camarão\nB. Um cartão de crédito\nC. Uma colher de metal\nD. Uma moeda",
+        "target_scores": {
+            "A. Chips de Camarão": 1,
+            "B. Um cartão de crédito": 0,
+            "C. Uma colher de metal": 0,
+            "D. Uma moeda": 0
+        }
+    },
+    {
+        "input": "A Sra. Elisa precisa peneirar a farinha para assar biscoitos, mas a peneira está faltando em sua casa. Qual dos seguintes itens seria menos provável que ela usasse para peneirar a farinha em vez da peneira?\nA. Cesto oco para lavar vegetais\nB. Pincel de cozimento\nC. Saco de malha para frutas\nD. Sacos de roupa suja",
+        "target_scores": {
+            "A. Cesto oco para lavar vegetais": 0,
+            "B. Pincel de cozimento": 1,
+            "C. Saco de malha para frutas": 0,
+            "D. Sacos de roupa suja": 0
+        }
+    },
+    {
+        "input": "O Fábio quer praticar sua caligrafia e precisa de uma superfície rígida e plana como apoio para escrever, mas não tem uma escrivaninha à mão. Qual dos itens a seguir seria menos provável que ele usasse no lugar de uma escrivaninha?\nA. Almofada\nB. Um ladrilho de chão\nC. Um tapete de lama de diatomáceas secas\nD. Uma tábua de corte",
+        "target_scores": {
+            "A. Almofada": 1,
+            "B. Um ladrilho de chão": 0,
+            "C. Um tapete de lama de diatomáceas secas": 0,
+            "D. Uma tábua de corte": 0
+        }
+    },
+    {
+        "input": "A coleira de silicone do cachorro de estimação do Fausto foi perdida e ele queria fazer uma nova para o cachorro. Há vários itens abaixo para escolher. Qual é o melhor substituto para uma coleira?\nA. Faixa elástica\nB. Meia fina\nC. Renda\nD. Seda",
+        "target_scores": {
+            "A. Faixa elástica": 1,
+            "B. Meia fina": 0,
+            "C. Renda": 0,
+            "D. Seda": 0
+        }
+    },
+    {
+        "input": "A Rosa está fazendo uma manicure em casa e precisa de uma caneta aplicadora de strass, mas não consegue encontrar uma. Qual dos seguintes itens ela pode usar em vez da caneta aplicadora de strass para realizar a operação?\nA. Blush em pó\nB. Canivete Suíço\nC. Cílios postiços\nD. Palito de dentes",
+        "target_scores": {
+            "A. Blush em pó": 0,
+            "B. Canivete Suíço": 0,
+            "C. Cílios postiços": 0,
+            "D. Palito de dentes": 1
+        }
+    },
+    {
+        "input": "O Enzo está participando de um simpósio financeiro quando descobre que há poeira na tela do seu celular, mas não tem consigo um pano especial para limpeza. Qual dos itens a seguir seria menos provável que ele usasse para limpar a tela do celular?\nA. Algodão com álcool\nB. Carta-convite\nC. Gravata\nD. Pano para óculos",
+        "target_scores": {
+            "A. Algodão com álcool": 0,
+            "B. Carta-convite": 1,
+            "C. Gravata": 0,
+            "D. Pano para óculos": 0
+        }
+    },
+    {
+        "input": "Ao fazer as malas no final da viagem, você quer evitar que algumas de suas lembranças sejam danificadas, mas não tem caixas de armazenamento do tamanho certo na sua bagagem. Qual dos seguintes itens seria o menos adequado como uma caixa de armazenamento improvisada?\nA. Caixa de lata de chocolate vazia\nB. Lata de café vazia\nC. Latas de leite em pó vazias\nD. Álbum de fotos",
+        "target_scores": {
+            "A. Caixa de lata de chocolate vazia": 0,
+            "B. Lata de café vazia": 0,
+            "C. Latas de leite em pó vazias": 0,
+            "D. Álbum de fotos": 1
+        }
+    },
+    {
+        "input": "A Gabriela quer proteger um memorando importante ao lado de seu computador no escritório, mas descobre que ficou sem fita adesiva. Qual dos itens a seguir pode substituir temporariamente a fita?\nA. Calendário de mesa\nB. Maltose derretida\nC. Relógio de pulso\nD. Telefone fixo",
+        "target_scores": {
+            "A. Calendário de mesa": 0,
+            "B. Maltose derretida": 1,
+            "C. Relógio de pulso": 0,
+            "D. Telefone fixo": 0
+        }
+    },
+    {
+        "input": "O Lucas está consertando sua bicicleta, mas sem chave inglesa. Ele precisa apertar os parafusos no assento e tem os seguintes itens em sua caixa de ferramentas. Qual dos seguintes itens é melhor usado como uma  chave inglesa?\nA. Alicate\nB. Martelo\nC. Régua de Aço\nD. Tubo",
+        "target_scores": {
+            "A. Alicate": 1,
+            "B. Martelo": 0,
+            "C. Régua de Aço": 0,
+            "D. Tubo": 0
+        }
+    },
+    {
+        "input": "A Helena precisa de um bloco de yoga para ajudar em sua prática de calistenia em casa, mas não tem um. Ela olha ao redor em busca de um item de substituição. Qual dos seguintes seria o mais apropriado?\nA. Chaveiro\nB. Dicionário Aurélio\nC. Lenço\nD. Porta-moedas",
+        "target_scores": {
+            "A. Chaveiro": 0,
+            "B. Dicionário Aurélio": 1,
+            "C. Lenço": 0,
+            "D. Porta-moedas": 0
+        }
+    },
+    {
+        "input": "O Dilson está fazendo um experimento em casa e precisa medir o volume de um líquido, mas não tem um copo medidor. Ele precisa encontrar um substituto para medir o volume. Ele encontra os seguintes itens em sua sala de estar. Por favor, escolha a que tem mais probabilidade de substituir o copo medidor.\nA. Mamadeiras\nB. Porta batom\nC. Taça de vinho branco\nD. Xícara de chá de cerâmica",
+        "target_scores": {
+            "A. Mamadeiras": 1,
+            "B. Porta batom": 0,
+            "C. Taça de vinho branco": 0,
+            "D. Xícara de chá de cerâmica": 0
+        }
+    },
+    {
+        "input": "O saleiro que o Elídio tem em casa foi quebrado acidentalmente e ele precisa encontrar um recipiente temporário para o sal. Ele encontra vários itens no depósito; qual dos itens a seguir provavelmente servirá como um saleiro temporário?\nA. Bacia\nB. Comadre\nC. Frasco de cápsula vazio\nD. Garrafa de vinho",
+        "target_scores": {
+            "A. Bacia": 0,
+            "B. Comadre": 0,
+            "C. Frasco de cápsula vazio": 1,
+            "D. Garrafa de vinho": 0
+        }
+    },
+    {
+        "input": "No momento da queda de energia, a Isabel não consegue encontrar velas em sua casa. Ela precisa encontrar um item que possa ser usado como iluminação temporária. Qual dos itens a seguir pode ser usado como iluminação de emergência?\nA. Dessecante\nB. Faca de frutas\nC. Relógio eletrônico luminoso\nD. TV LCD",
+        "target_scores": {
+            "A. Dessecante": 0,
+            "B. Faca de frutas": 0,
+            "C. Relógio eletrônico luminoso": 1,
+            "D. TV LCD": 0
+        }
+    },
+    {
+        "input": "O Dilson está se preparando para cozinhar espaguete em casa, mas descobre que não há prateleira de macarrão especial para pendurar o espaguete. Ao dar uma olhada na cozinha, qual dos itens a seguir seria o substituto temporário mais adequado para a prateleira de macarrão?\nA. Elástico\nB. Estendal para secar roupa\nC. Iluminação\nD. Ventilador elétrico",
+        "target_scores": {
+            "A. Elástico": 0,
+            "B. Estendal para secar roupa": 1,
+            "C. Iluminação": 0,
+            "D. Ventilador elétrico": 0
+        }
+    },
+    {
+        "input": "O Denis quer soltar a terra de um vaso de plantas, mas não consegue encontrar uma espátula de jardinagem. Seu amigo lhe empresta alguns itens. Qual dos itens a seguir ele pode usar como substituto de uma espátula de jardinagem?\nA. Canudo de plástico\nB. Colher de cerâmica\nC. Massageador de couro cabeludo\nD. Palheta de orelha",
+        "target_scores": {
+            "A. Canudo de plástico": 0,
+            "B. Colher de cerâmica": 1,
+            "C. Massageador de couro cabeludo": 0,
+            "D. Palheta de orelha": 0
+        }
+    },
+    {
+        "input": "A Jessica quer fazer um treinamento de força em casa para desenvolver os músculos dos braços, mas não tem halteres. Qual dos itens a seguir pode ser usado como alternativa aos halteres para o treinamento?\nA. Brigadeiro\nB. Futebol\nC. Garrafa de água mineral de 1,5L\nD. Travesseiro",
+        "target_scores": {
+            "A. Brigadeiro": 0,
+            "B. Futebol": 0,
+            "C. Garrafa de água mineral de 1,5L": 1,
+            "D. Travesseiro": 0
+        }
+    },
+    {
+        "input": "A Joana quer preparar um jantar de peixe grelhado em casa, mas descobriu que a grelha desapareceu. Qual dos seguintes itens seria o mais adequado para substituí-la e assar o peixe?\nA. Isca de pesca\nB. Linha de pesca\nC. Tela de arame\nD. Tábua de corte de madeira",
+        "target_scores": {
+            "A. Isca de pesca": 0,
+            "B. Linha de pesca": 0,
+            "C. Tela de arame": 1,
+            "D. Tábua de corte de madeira": 0
+        }
+    },
+    {
+        "input": "O Cláudio acaba de terminar uma fornada de pão de queijo e descobre que não tem luvas de forno. Ele está ao lado do banheiro, então qual dos itens a seguir tem menos probabilidade de substituir as luvas de forno?\nA. Copo para escova de dentes\nB. Pijama de lã coral\nC. Toalha de banho\nD. Toalha de mão",
+        "target_scores": {
+            "A. Copo para escova de dentes": 1,
+            "B. Pijama de lã coral": 0,
+            "C. Toalha de banho": 0,
+            "D. Toalha de mão": 0
+        }
+    },
+    {
+        "input": "A Sara acaba de ser admitida pela universidade de sua preferência e está organizando uma festa de comemoração em sua casa, mas não tem baldes de gelo suficientes para manter as bebidas geladas. Qual dos seguintes itens ela pode usar como um balde de gelo improvisado?\nA. Boina\nB. Gaveta\nC. Torradeira\nD. Uma grande bacia",
+        "target_scores": {
+            "A. Boina": 0,
+            "B. Gaveta": 0,
+            "C. Torradeira": 0,
+            "D. Uma grande bacia": 1
+        }
+    },
+    {
+        "input": "A Alice precisa repentinamente de uma caixa para guardar alguns grampos, e suas gavetas estão cheias, não há nenhuma caixinha. Há vários itens na área sobre a mesa, qual dos itens a seguir ela ‌tem menos probabilidade de usar‌?\nA. Capa de telefone\nB. Estojo para óculos\nC. Estojo quadrado para fones de ouvido\nD. Porta-batom",
+        "target_scores": {
+            "A. Capa de telefone": 1,
+            "B. Estojo para óculos": 0,
+            "C. Estojo quadrado para fones de ouvido": 0,
+            "D. Porta-batom": 0
+        }
+    },
+    {
+        "input": "O hamster do Henrique precisa de um ninho de algodão para se manter aquecido no inverno, mas o ninho de algodão anterior foi mordido. Ele tem vários itens não utilizados em casa. Escolha o que for menos adequado para um ninho de hamster entre os seguintes itens.\nA. Colcha velha\nB. Forro de jaqueta de algodão\nC. Meias Terry\nD. Rascunho de papel",
+        "target_scores": {
+            "A. Colcha velha": 0,
+            "B. Forro de jaqueta de algodão": 0,
+            "C. Meias Terry": 0,
+            "D. Rascunho de papel": 1
+        }
+    },
+    {
+        "input": "Na praia, a Sophia quer fazer uma rede simples de vôlei de praia. Ela e seus amigos têm os seguintes itens. Qual deles ela provavelmente usará?\nA. Maiô\nB. Um chapéu de sol\nC. Um frasco de protetor solar\nD. Uma toalha de banho",
+        "target_scores": {
+            "A. Maiô": 0,
+            "B. Um chapéu de sol": 0,
+            "C. Um frasco de protetor solar": 0,
+            "D. Uma toalha de banho": 1
+        }
+    },
+    {
+        "input": "A nova carteira de tecido feita à mão do Henrique foi levada por seu amigo, mas o novo tecido ainda não chegou. Ele só consegue encontrar algumas coisas. Escolha a que tem menos probabilidade de virar uma carteira entre as seguintes opções ()\nA. Um boné pontudo\nB. Um mapa antigo\nC. Um par de jeans\nD. Uma camiseta velha",
+        "target_scores": {
+            "A. Um boné pontudo": 0,
+            "B. Um mapa antigo": 1,
+            "C. Um par de jeans": 0,
+            "D. Uma camiseta velha": 0
+        }
+    },
+    {
+        "input": "No inverno, as mãos e pés do Alexandre ficam frios e precisa de alguma fonte de calor para se manter aquecido, mas a bolsa de água quente está faltando. Qual dos itens a seguir pode substituir a bolsa de água quente?\nA. Um copo vazio\nB. Um pedaço de chocolate\nC. Uma garrafa plástica de água quente\nD. Uma maçã",
+        "target_scores": {
+            "A. Um copo vazio": 0,
+            "B. Um pedaço de chocolate": 0,
+            "C. Uma garrafa plástica de água quente": 1,
+            "D. Uma maçã": 0
+        }
+    },
+    {
+        "input": "O Álvaro está organizando uma festa em sua casa e precisa pendurar balões, mas não consegue encontrar barbante. Quais dos itens a seguir podem ser usados para pendurar os balões em vez de barbante?\nA. Colher\nB. Despertador\nC. Fio elétrico\nD. Skate",
+        "target_scores": {
+            "A. Colher": 0,
+            "B. Despertador": 0,
+            "C. Fio elétrico": 1,
+            "D. Skate": 0
+        }
+    },
+    {
+        "input": "O seu celular fica sem bateria quando você está ao ar livre e precisa ser carregado com urgência, mas não há um carregador portátil. Você tem apenas os seguintes itens na sua bolsa. Qual deles tem mais probabilidade de servir como uma fonte de carregamento temporária?\nA. Botas de neve\nB. Chaleira militar\nC. Computador portátil\nD. Picareta de montanhismo",
+        "target_scores": {
+            "A. Botas de neve": 0,
+            "B. Chaleira militar": 0,
+            "C. Computador portátil": 1,
+            "D. Picareta de montanhismo": 0
+        }
+    },
+    {
+        "input": "Você descobre que não há cabides no provador de uma loja de roupas, mas você já tirou suas roupas e é inconveniente sair para buscá-las, então você só consegue encontrar um substituto no provador. Qual dos seguintes itens é o substituto menos adequado para um cabide?\nA. Cabo de guarda-chuva\nB. Encosto da cadeira\nC. Ligar\nD. Maçaneta da porta",
+        "target_scores": {
+            "A. Cabo de guarda-chuva": 1,
+            "B. Encosto da cadeira": 0,
+            "C. Ligar": 0,
+            "D. Maçaneta da porta": 0
+        }
+    },
+    {
+        "input": "Quando você sai, as suas roupas ficam molhadas por causa da chuva e você precisa secá-las rapidamente, mas você não tem uma secadora em casa. Você só tem os itens abaixo. Qual dos seguintes itens pode ser usado como um substituto para uma secadora?\nA. Fogão\nB. Forno elétrico\nC. Panela plana\nD. Secador de cabelo",
+        "target_scores": {
+            "A. Fogão": 0,
+            "B. Forno elétrico": 0,
+            "C. Panela plana": 0,
+            "D. Secador de cabelo": 1
+        }
+    }
+]

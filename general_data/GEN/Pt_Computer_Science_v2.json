@@ -1,0 +1,694 @@
+[
+    {
+        "input": "Se x(n)=u(n+2)-u(n-2), quantos valores diferentes de zero a sequência x(2n) contém?",
+        "target": "2"
+    },
+    {
+        "input": "Qual é o sistema cuja equação de entrada-saída é y(t)=cos[x(t)]? Escolha a resposta correta entre as seguintes opções: linear, não linear, irreversível, causal, não causal",
+        "target": "Não linear, irreversível, causal"
+    },
+    {
+        "input": "Qual é o intervalo de valores de s que faz \\\\int_{-\\\\infty}^{\\\\infty}sin|t|·e-stdt => \\int_{-\\infty}^{\\infty}sin|t|·e^{-st}dt convergir?",
+        "target": "Não existe"
+    },
+    {
+        "input": "Qual das seguintes medidas pode melhorar a taxa de acertos do Cache? \\nⅠ． Melhore o grau de conexão\\nⅡ. Defina o cache de substituição para salvar os blocos que acabam de ser substituídos\\nⅢ. Aprimore a localidade de acesso do programa por meio da otimização da compilação",
+        "target": "I, II e III"
+    },
+    {
+        "input": "Quais das seguintes técnicas de programação e estruturas de dados são adequadas para um sistema de memória virtual por paginação? \\nⅠ. Pilha. \\nII. Tabela de símbolos para indexação da função Hash. \\nIII. Busca sequencial. \\nⅣ. Pesquisa Binária. \\nV. Código puro. \\nVI. Operações com vetores. \\nVII. Endereçamento indireto. \\nVIII. Operações com matrizes",
+        "target": "Ⅰ、Ⅲ、Ⅴ、Ⅵ、Ⅷ"
+    },
+    {
+        "input": "A notação pós-fixada da notação infixa a*(b+c)-d é",
+        "target": "abc+*d-"
+    },
+    {
+        "input": "Se o número de nós de uma árvore binária completa é 100, qual é o grau do 60º nó?",
+        "target": "0"
+    },
+    {
+        "input": "Qual das seguintes afirmações sobre a anomalia de Belady e conjuntos de trabalho está correta? \\nⅠ. O algoritmo de substituição de página primeiro a entrar, primeiro a sair (FIFO) produz a anomalia de Belady\\nⅡ. O algoritmo de substituição de página menos usada recentemente (LRU) produz a anomalia de Belady\\nⅢ. Para garantir a operação eficiente do processo, suas páginas do conjunto de trabalho precisam estar na memória virtual, caso contrário, ocorrerão fenômenos frequentes de entrada/saída de páginas. Para garantir a operação eficiente do processo, suas páginas de conjunto de trabalho precisam estar na memória principal, caso contrário, haverá fenômeno frequente de entrada/saída de página",
+        "target": "Ⅰ、Ⅳ"
+    },
+    {
+        "input": "Sabe-se que há 31 segmentos iniciais de mesclagem de comprimentos diferentes, dos quais o comprimento de 8 segmentos é  2; o comprimento de 8 segmentos é 3; o comprimento de 7 segmentos é 5; o comprimento de 5 segmentos é 12; e o comprimento de 3 segmentos é 20 (todas as unidades em blocos físicos). No melhor esquema de mesclagem de 5- vias, o número total de operações de leitura/escrita na memória externa é:",
+        "target": "800"
+    },
+    {
+        "input": "Em um computador endereçado por byte, uma instrução tem 16 bits de comprimento. O endereço da instrução de desvio de ramificação atual (usando endereçamento relativo) é 3000, e o deslocamento do endereço da instrução é -5. Qual é o valor de PC após executar esta instrução de desvio?",
+        "target": "2997"
+    },
+    {
+        "input": "Quais das seguintes afirmações sobre threads estão corretas? \\nⅠ. Ao usar o algoritmo de escalonamento round-robin, se um processo tiver 10 threads em nível de usuário, ocupará 10 fatias de tempo na execução do sistema. \\nⅡ. As threads pertencentes ao mesmo processo compartilham o espaço da pilha. \\nⅢ. As threads dentro do mesmo processo podem ser executadas concorrentemente, mas as threads em processos diferentes não podem ser executadas concorrentemente. \\nⅣ. A troca de threads não causa troca de processos",
+        "target": "Tudo errado"
+    },
+    {
+        "input": "TCP é um dos protocolos, da camada de transporte da rede de computadores. Como o protocolo TCP realiza o controle de fluxo? Quando uma entidade TCP envia uma solicitação de conexão (SYN), o que precisa esperar da outra parte? Selecione a resposta correta entre as seguintes opções: 1. Use um protocolo de janela deslizante de tamanho fixo, SYN; 2. Use um protocolo go-back-N ARQ, FIN, ACK; 3. Use um protocolo Stop-and-Wait ARQ, RST; 4. Use um protocolo de janela deslizante de tamanho variável, SYN, ACK",
+        "target": "4. Use um protocolo de janela deslizante de tamanho variável, SYN, ACK"
+    },
+    {
+        "input": "Entre os vários componentes funcionais dos seguintes sistemas operacionais, qual das seguintes situações requer suporte especial de hardware? \\nⅠ. Mapeamento de Endereços. II. Agendamento de Processos. \\nⅢ. Sistema de interrupção. IV. Chamadas de sistema",
+        "target": "Ⅰ、Ⅲ"
+    },
+    {
+        "input": "Suponha que a altura de uma árvore de Huffman seja 5. Se dois caracteres foram codificados como 1 e 01, quantos caracteres podem ser codificados no máximo?",
+        "target": "4"
+    },
+    {
+        "input": "Para unir duas listas encadeadas circulares de ponta a ponta de forma que a conexão ocorra em tempo O(1), onde cada lista deve ter um ponteiro apontando para qual posição? Escolha a opção correta entre as seguintes:o nó final de cada lista, o nó inicial de uma lista e o nó final da outra lista, o primeiro nó de elementos de cada lista, o nó inicial de cada lista.",
+        "target": "o nó final de cada lista"
+    },
+    {
+        "input": "Suponha que a distância entre os dois locais mais distantes em uma rede seja de 10 km, a taxa de transmissão de dados seja de 10 Mbit/s CSMA/CD Ethernet e a velocidade de propagação do sinal seja de 200 m/μs. Então, qual é o comprimento mínimo de quadro desta rede?",
+        "target": "1000 bits"
+    },
+    {
+        "input": "Suponha que a lista linear tenha n elementos. Qual das seguintes operações é mais eficiente para implementar em uma lista sequencial do que em uma lista vinculada: emitir o número de sequência do elemento na lista linear que é igual ao valor dado x, emitir os valores desses n elementos em sequência, emitir o valor do i-ésimo elemento (1≤i≤n), trocar os valores do primeiro elemento e do segundo elemento",
+        "target": "emitir o valor do i-ésimo elemento (1≤i≤n)"
+    },
+    {
+        "input": "Sabe-se que [x/2]{\\mathrm{complemento}}=C6H, e o comprimento da palavra de máquina do computador é uma codificação numérica binária de 8 bits, então o que é [x/4]{\\mathrm{complemento}}?",
+        "target": "E3H"
+    },
+    {
+        "input": "Há uma partição de disco com capacidade de 10 GB. O espaço em disco é alocado em clusters. O tamanho de um cluster é 4 KB. Se o método bitmap for usado para gerenciar o espaço livre da partição, ou seja, um bit for usado para identificar se um cluster está alocado, quantos clusters são necessários para armazenar o bitmap?",
+        "target": "80"
+    },
+    {
+        "input": "Seja k um nó em uma árvore binária encadeada em ordem, que possui um filho à esquerda e não é o nó raiz. Qual das seguintes opções representa corretamente o nó predecessor imediato de k na sequência in-order? O nó alcançado seguindo a cadeia de filhos à esquerda a partir do filho esquerdo de k até o final. O nó alcançado seguindo a cadeia de filhos à direita a partir do filho esquerdo de k até o final. O nó indicado pelo ponteiro de encadeamento à esquerda de k (que aponta para o predecessor in-order). O nó alcançado seguindo a cadeia de filhos à direita a partir do filho esquerdo do pai de k até o final.",
+        "target": "O nó alcançado seguindo a cadeia de filhos à direita a partir do filho esquerdo de k até o final."
+    },
+    {
+        "input": "Durante a transmissão de agrupamento de IP, qual dos seguintes campos no cabeçalho de agrupamento de IP permanece inalterado? \\nⅠ． Comprimento total Ⅱ. Inspeção de cabeça \\nⅢ. Tempo de sobrevivência IV. Endereço IP de origem",
+        "target": "Somente IV"
+    },
+    {
+        "input": "Um grupo de discos tem 10 superfícies de disco, cada superfície de disco tem 100 trilhas, cada trilha tem 32 setores, supondo que o tamanho do bloco físico seja de 2 setores e que a alocação seja em blocos físicos. Se um bitmap for usado para gerenciar o espaço do disco, qual é o tamanho do espaço que o bitmap precisa ocupar?",
+        "target": "2000 B"
+    },
+    {
+        "input": "O comprimento é de 1 km, a taxa de transmissão de dados é de 10 Mbit/s Ethernet e a velocidade de propagação de sinais elétricos na rede é de 200 m/μs. Suponha que o comprimento de um quadro de dados Ethernet seja de 256 bits, incluindo um cabeçalho de quadro de 64 bits, uma soma de verificação e outras sobrecargas. A primeira fatia de tempo após o envio bem-sucedido de um quadro de dados é reservado para o receptor enviar um quadro de confirmação de 64 bits.  Supondo que a carga da rede seja muito leve (ou seja, ignorando quaisquer cenários de colisão), qual é a taxa de transmissão de dados efetiva desta Ethernet em Mbps? (Apresente o resultado com três algarismos significativos)?",
+        "target": "4,57 Mbit/s"
+    },
+    {
+        "input": "Supondo que os códigos de classificação de todos os elementos na sequência de elementos a serem classificados sejam iguais, o método de classificação mais lento entre os seguintes é: classificação por inserção direta, classificação por seleção simples, classificação por bolha, classificação radix.",
+        "target": "Classificação por seleção simples"
+    },
+    {
+        "input": "Durante a operação de um sistema operacional que suporta multiprogramação, o sistema constantemente seleciona novos processos para executar a fim de compartilhar recursos da CPU. No entanto, as seguintes escolhas não são as razões diretas para o sistema operacional selecionar um novo processo: um novo processo é criado e entra na fila de prontos, ocorre um erro no processo em execução, O processo em execução fica sem fatia de tempo, o processo em execução está esperando que um evento ocorra.",
+        "target": "Um novo processo é criado e entra na fila de prontos"
+    },
+    {
+        "input": "Suponha que haja 10 processos compartilhando n recursos e que 3 processos tenham permissão para usar o recurso simultaneamente a cada vez. Escolha o intervalo de variação do volume de sinalização aqui: [3n-10, 3n], [3n-10, n], [n-10, n], [n-10/3, n]",
+        "target": "[3n-10, 3n]"
+    },
+    {
+        "input": "Em uma floresta que consiste em 4 árvores, o número de nós na primeira, segunda, terceira e quarta árvores são 30, 10, 20 e 5, respectivamente. Quando a floresta é convertida em uma árvore binária, quantos nós existem na subárvore esquerda do nó raiz na árvore binária correspondente?",
+        "target": "29"
+    },
+    {
+        "input": "Uma instrução CALL de sub-rotina de endereçamento direto de palavra dupla tem a primeira palavra como código de operação e características de endereçamento, e a segunda palavra como código de endereço 5000H. Suponha que o valor atual de PC (contador de programa) seja 1000H, o conteúdo de SP seja 0100H, o conteúdo do topo da pilha seja 1234H, a memória seja endereçada por palavra e E a operação na pilha é (SP)-1→sP primeiro, seguida pelo depósito de dados. após a execução da instrução CALL, qual é o conteúdo de SP e do item da pilha?",
+        "target": "00FFH, 1002H"
+    },
+    {
+        "input": "Sabe-se que o valor do código ASCII da letra minúscula inglesa \"a\" é 61H. Agora, a letra \"g\" é armazenada em uma unidade de armazenamento. Se a paridade par for usada (assumindo que o bit mais alto é usado como bit de paridade), o número hexadecimal armazenado na unidade de armazenamento é",
+        "target": "E7H"
+    },
+    {
+        "input": "As palavras-chave de um conjunto de registros são {25, 50, 15, 35, 80, 85, 20, 40, 36, 70}, que contém 5 listas ordenadas de comprimento 2. Qual é o resultado da fusão da sequência usando o método de classificação por mesclagem？",
+        "target": "15, 25, 35, 50, 20, 40, 80, 85, 36, 70"
+    },
+    {
+        "input": "Se a matriz triangular superior de ordem n A for armazenada em uma matriz unidimensional B[0, 1, …, {n×(n+1)/2}-1] em ordem de prioridade de coluna, e o primeiro elemento diferente de zero a(1,1) for armazenado em B[0], então a relação correspondente entre os subscritos i, j e k dos elementos diferentes de zero a(i,j) (1≤i≤n,1≤j≤n) armazenados em B[k] é qual dos seguintes: k=j×(j-1)/2+i-1, k=j×(j+1)/2+i, k=i×(i-1)/2+j-1, k=i×(i+1)/2+j",
+        "target": "k=j×(j-1)/2+i-1"
+    },
+    {
+        "input": "Um computador usa um controlador de microprograma com um total de 32 instruções. O microprograma de busca de instruções comum contém 2 microinstruções. O microprograma correspondente a cada instrução consiste em uma média de 4 microinstruções. O método de determinação (método do campo de endereço inferior) é usado para determinar o endereço da próxima microinstrução. Qual é o número mínimo de bits do campo de endereço inferior na microinstrução?",
+        "target": "8"
+    },
+    {
+        "input": "Supondo que a memória principal seja endereçada por bytes, o Cache tenha um total de 64 linhas, use um método de mapeamento associativo de conjunto de 4 vias, o tamanho do bloco de memória principal seja 32 bytes e todos os números comecem em 0, então qual é o número do grupo de Cache correspondente ao bloco de memória principal onde a unidade de memória principal nº 3000 está localizada?",
+        "target": "13"
+    },
+    {
+        "input": "Um inteiro binário de 8 bits, se representado usando complemento de dois e consistindo em 3 \"1\"s e 5 \"0\"s, qual é o valor mínimo?",
+        "target": "-125"
+    },
+    {
+        "input": "Para pesquisas sequenciais, supondo que a probabilidade de uma pesquisa bem-sucedida seja a mesma que a de uma pesquisa malsucedida, e que a probabilidade de pesquisar cada registro também seja a mesma, qual é o comprimento médio da pesquisa sequencial?",
+        "target": "0,75n+0,25"
+    },
+    {
+        "input": "Sabe-se que uma árvore B de 5ª ordem tem 53 palavras-chave, e as palavras-chave de cada nó atingiram o estado mínimo. Qual é sua profundidade?",
+        "target": "4"
+    },
+    {
+        "input": "Ao usar o método de classificação Shell para classificar uma sequência de dados, se o resultado da primeira classificação for 9, 1, 4, 13, 7, 8, 20, 23, 15, qual pode ser o incremento (intervalo) usado nessa classificação?\nA. 2\nB. 3\nC. 4\nD. 5",
+        "target": "B"
+    },
+    {
+        "input": "A taxa de dados de um canal é de 8000 bit/s e o atraso de propagação unidirecional é de 20 ms. Se a utilização do canal do protocolo pare-e-espere atingir 50%, qual é o comprimento mínimo do quadro?",
+        "target": "320 bits"
+    },
+    {
+        "input": "Qual das seguintes afirmações sobre grafos fortemente conectados está correta? \\nⅠ. Um grafo fortemente conectado que consiste em n vértices tem pelo menos n arestas\\nⅡ. Um grafo fortemente conectado é aquele em que qualquer vértice tem arestas para todos os outros vértices\\nⅢ. Um grafo completamente direcionado deve ser um grafo fortemente conectado",
+        "target": "Apenas Ⅰ e Ⅲ"
+    },
+    {
+        "input": "Um sistema de memória cache-principal usa um relógio de 50 MHz. A memória transfere 8 palavras consecutivas a uma taxa de uma palavra por ciclo de relógio para suportar um comprimento de bloco de cache de 8 palavras, com cada palavra sendo 4 bytes. Supondo que o tempo necessário para uma operação de leitura seja: 1 ciclo para receber o endereço, 3 ciclos de atraso e 8 ciclos para transferir 8 palavras; o tempo necessário para uma operação de escrita seja: 1 ciclo para receber o endereço, 2 ciclos de atraso, 8 ciclos para transferir 8 palavras e 3 ciclos para recuperar e escrever o código de correção de erro, então, quando o sistema opera com 35% de operações de leitura e 65% de operações de escrita, qual é a largura de banda máxima da memória?",
+        "target": "120,3 MB/s"
+    },
+    {
+        "input": "Para a rede 193.100.60.0, se a máscara de sub-rede for definida como 255.255.255.192, quantos hosts podem ser conectados a cada sub-rede, no máximo?",
+        "target": "62"
+    },
+    {
+        "input": "Qual das seguintes afirmações sobre ARP está incorreta? \\nⅠ. A mensagem de solicitação ARP é unicast \\nⅡ. A mensagem de resposta ARP é unicast \\nⅢ. Se o host 1 na rede de área local A quiser se comunicar com o host 2 na rede de área local B, mas o host 1 não souber o endereço físico do host 2, o host 1 poderá resolver esse problema enviando uma mensagem ARP.",
+        "target": "Apenas Ⅰ e Ⅲ"
+    },
+    {
+        "input": "Qual das seguintes afirmações está errada? \\nⅠ. Suponha que o número da sequência do quadro tenha 3 bits, o protocolo ARQ contínuo seja usado e o valor máximo da janela de envio seja 4. \\nⅡ. Para uma janela deslizante com tamanho de janela n, no máximo n quadros podem ser enviados, mas não confirmados. \\nⅢ. No protocolo go-back-N, se o tamanho da janela de envio for 16, então pelo menos um número de sequência de 4 bits será necessário para garantir que o protocolo não falhe.",
+        "target": "Ⅰ、Ⅱ、Ⅲ"
+    },
+    {
+        "input": "Em um grafo G com n vértices, se a árvore geradora mínima não for única, qual das seguintes afirmações está correta? \\nⅠ. O número de arestas de G deve ser maior que n-1 \\nⅡ. G deve ter múltiplas arestas com o menor peso \\nⅢ. Os custos mínimos da árvore de abrangência de G não são necessariamente iguais",
+        "target": "Apenas Ⅰ"
+    },
+    {
+        "input": "Entre os seguintes endereços, qual pertence à sub-rede 86.32.0.0/12? \\nⅠ. 86.33.224.123 Ⅱ. 86.79.65.126 Ⅲ．86.68.65.216",
+        "target": "Apenas Ⅰ"
+    },
+    {
+        "input": "Suponha que o comprimento da instrução de um computador seja de 20 bits, e que ele tenha três formas de instrução: operandos duplos, operandos simples e sem operandos. Cada endereço de operando é especificado para ser representado por 6 bits. se o campo de operando não for fixo, m instruções de operando duplo e n instruções sem operando são fornecidas. Nesse caso, quantas instruções de operando único esse computador pode ter no máximo?",
+        "target": "[(2^8-m)×2^12-n]/2^6"
+    },
+    {
+        "input": "Em um determinado computador com 16 registradores e Supondo que o tamanho de palavra seja 12 bits, quais das seguintes instruções podem ser implementadas utilizando uma instrução de comprimento único (single-word instruction)? \\nⅠ. 4 instruções de três registradores. Ⅱ.255 instruções de um único registrador. III.16 instruções sem registradores (zero-operand instructions)",
+        "target": "Somente II e III"
+    },
+    {
+        "input": "Um computador usa instruções longas de palavra única de 16 bits e código de operação de comprimento fixo, o código do endereço tem 5 bits. 60 instruções de dois endereços foram definidas. Então, quantas instruções de endereço único existem no máximo?",
+        "target": "4"
+    },
+    {
+        "input": "Um microcomputador de 8 bits tem 16 barramentos de endereço, uma capacidade de memória RAM de 32 KB, um primeiro endereço de 4000H e os endereços são contínuos. Qual é o endereço mais alto disponível?",
+        "target": "BFFFH"
+    },
+    {
+        "input": "Agora há três trabalhos J1, J2 e J3 que chegam ao mesmo tempo. Seus tempos de execução são T1, T2 e T3 respectivamente, e T1＜T2＜T3. Se houver duas CPUs no sistema, cada uma rodando no modo de canal único e usando o algoritmo de trabalho mais curto primeiro, qual é o tempo médio de resposta?",
+        "target": "(2T1+T2+T3)/3"
+    },
+    {
+        "input": "O comprimento máximo de segmento permitido por uma determinada rede é 128 B, o número de sequência é representado por 8 bits e o tempo de vida do segmento na rede é 30 s. Qual é a taxa máxima de dados que cada conexão TCP pode atingir?",
+        "target": "8,7 kbits/s"
+    },
+    {
+        "input": "Uma memória com capacidade de 256 MB é composta de vários chips DRAM de 16 M×8 bits. Qual é o número total de pinos de endereço e pinos de dados desse chip DRAM?",
+        "target": "20"
+    },
+    {
+        "input": "Suponha que o valor limite de início lento inicial de uma janela de congestionamento TCP seja 8 (em segmentos, e o comprimento máximo do segmento seja 1 KB). Quando a janela de congestionamento subir para 12, a rede entrará em tempo limite. De acordo com as condições fornecidas acima, qual é o tamanho da janela de congestionamento na 12ª transmissão?",
+        "target": "6"
+    },
+    {
+        "input": "Quantas árvores binárias ordenadas existem, consistindo de 23, 12, 45 e 36? Quantas árvores AVL existem?",
+        "target": "14;5"
+    },
+    {
+        "input": "Em uma árvore binária de busca, ao procurar um nó com a palavra-chave 35, quais das seguintes são as possíveis palavras-chave que são comparadas em sequência? a:46,28,18,36,35 b:18,36,28,46,35 c:46,36,18,28,35 d:28,36,18,46,35",
+        "target": "c:46,36,18,28,35"
+    },
+    {
+        "input": "Um canal é amostrado uma vez a cada 1/8 de segundo, e o sinal transmitido tem 8 estados de mudança. Qual é a taxa máxima de transmissão de dados?",
+        "target": "24 bits/s"
+    },
+    {
+        "input": "A fila circular usa o matriz A[0…m-1] para armazenar os valores dos seus elementos. Sabe-se que seus ponteiros de cabeça e cauda são front e rear respectivamente (e o ponteiro de cauda rear aponta para o elemento ao lado do elemento de cauda). Qual é o número de elementos na fila atual?",
+        "target": "(rear-front+m)%m"
+    },
+    {
+        "input": "Quantos nós tem uma árvore N-ária completa com largura de 27 e altura de 4?",
+        "target": "40"
+    },
+    {
+        "input": "A mensagem de código ASCII \"Bom dia!\" é transmitida pela rede de área local IEEE802.3. Se for encapsulada em um quadro MAC, quais são os bytes válidos no campo de dados do quadro? Quantos bytes de preenchimento são necessários?c",
+        "target": "12, 34"
+    },
+    {
+        "input": "Um certo sistema de arquivos usa um índice multinível para organizar o armazenamento de dados de arquivos. Suponha que haja 13 itens de endereço no i_node do arquivo, incluindo 10 itens de índice direto, 1 item de índice indireto primário, 1 item de índice indireto secundário e 1 item de índice indireto terciário. O tamanho do bloco de dados é 4 KB e o endereço do disco é representado por 4 B. Qual é o comprimento máximo do arquivo permitido por este sistema de arquivos? (Arredonde a resposta para um número inteiro, em terabytes)",
+        "target": "4TB"
+    },
+    {
+        "input": "Um sistema tem n dispositivos mutuamente exclusivos de utilização do mesmo tipo, e três processos simultâneos requerem 3, 4 e 5 dispositivos respectivamente. Qual é o número mínimo de dispositivos n que podem garantir que o sistema não entre em impasse?",
+        "target": "10"
+    },
+    {
+        "input": "Um cache com uma capacidade efetiva de 128 KB, 16 B por bloco, está conectado em grupos de 8 vias. A unidade com endereço de byte 1234567H é carregada no Cache. Qual deve ser sua tag?",
+        "target": "048DH"
+    },
+    {
+        "input": "Em uma árvore ternária, sabe-se que o número de nós com grau 3 é igual ao número de nós com grau 2, e o número de nós filhos de folha na árvore é 13. Qual é o número de nós com grau 2?",
+        "target": "4"
+    },
+    {
+        "input": "Seja m o número de recursos semelhantes e n o número de processos simultâneos no sistema. Quando n processos compartilham m recursos exclusivos mutuamente e a demanda máxima de cada processo é w, as seguintes situações causarão impasse no sistema: m=2, n=1, w=2; m=2, n=2, w=1; m=4, n=3, w=2; m=4, n=2, w=3",
+        "target": "m=4, n=2, w=3"
+    },
+    {
+        "input": "O tempo médio de busca do disco rígido é de 12 ms, a taxa de transferência é de 10 MB/s e o atraso do controlador de disco é de 2 ms. Quanto tempo demora para um disco rígido com velocidade de rotação de 7200 r/min gravar 1 KB de dados?",
+        "target": "18,27 ms"
+    },
+    {
+        "input": "Considere o seguinte código de linguagem C:\nshort si=-8196;\nunsigned short usi=si;\nDepois de executar o segmento de programa acima, qual é o valor de usi?",
+        "target": "57340"
+    },
+    {
+        "input": "Suponha que uma árvore binária seja convertida de uma floresta. Se houver n nós não terminais na floresta, quantos nós na árvore binária não têm filhos direitos?",
+        "target": "n+1"
+    },
+    {
+        "input": "As características do modo DMA são que a CPU e o dispositivo funcionam em paralelo, e a transmissão e o programa principal funcionam em paralelo. Na maneira como os dispositivos de E/S trocam informações com o host, o modo de interrupção é caracterizado por qual das seguintes situações: a CPU e o dispositivo funcionam em paralelo, a transmissão e o programa principal funcionam em série, a CPU e o dispositivo funcionam em série, a transmissão e o programa principal funcionam em paralelo, a CPU e o dispositivo funcionam em série, a transmissão e o programa principal funcionam em série, a CPU e o dispositivo funcionam em paralelo, a transmissão e o programa principal funcionam em paralelo",
+        "target": "A CPU e o dispositivo funcionam em paralelo, e a transmissão e o programa principal funcionam em série"
+    },
+    {
+        "input": "Sabe-se que o CPI de um computador com frequência de relógio de 2 GHz é 1,2. O número de instruções de um programa P neste computador é 4×10⁹. Se o tempo decorrido desde o início do programa P até o final de sua execução nesse computador for de 4 s, então qual porcentagem do tempo total da CPU é usada para executar P?",
+        "target": "60%"
+    },
+    {
+        "input": "Suponha que a instrução de transferência com endereçamento relativo ocupe dois bytes, o primeiro byte é o código de operação e o segundo byte é o deslocamento relativo (expresso no código de complemento). Toda vez que a CPU retira um byte da memória, completa automaticamente (PC)+1→PC. Se o conteúdo atual de PC for 2008H e for necessário desviá-lo para 2001H, qual será o conteúdo do segundo byte da instrução de transferência?",
+        "target": "F7H"
+    },
+    {
+        "input": "A velocidade de rotação de um certo disco é 10000 rotações por minuto, o tempo médio de busca é 6 ms, a taxa de transferência do disco é 20 MB/s, e a latência do controlador do disco é 0,2 ms. Quanto tempo é o tempo médio necessário para ler um setor de 4 KB?",
+        "target": "9,4 ms"
+    },
+    {
+        "input": "Um sistema de instruções tem 200 instruções. Qual é o número mínimo de bits que precisam ser usados ao utilizar a codificação binária de comprimento fixo para códigos de operação?",
+        "target": "8"
+    },
+    {
+        "input": "O menor dos seguintes números é: (2E)_16, (52)_7, (2000)_3, (101001)_2",
+        "target": "(52)_7"
+    },
+    {
+        "input": "Ao usar o código de Hamming para detectar/corrigir erros em dados de 8 bits, se um erro de bit puder ser corrigido, quantos bits devem ser verificados pelo menos?",
+        "target": "4"
+    },
+    {
+        "input": "Suponha que haja um disco com um total de 200 trilhas e uma capacidade total de armazenamento de 1,6 MB (para conveniência de cálculo, considere que 1 M=10^6). O disco leva 25 ms para girar uma vez. Cada trilha tem 4 áreas de dados, e há um intervalo entre cada duas áreas de dados. Leva 1,25 ms para o disco passar por cada intervalo. Então, qual é a taxa máxima de transferência de dados ao ler dados do disco?",
+        "target": "0,4 MB/s"
+    },
+    {
+        "input": "Suponha que uma instrução seja executada por três subcomponentes: busca de instruções, decodificação e execução, e que cada subcomponente leve t unidades de tempo. Se um processador de pipeline escalar convencional for utilizado para executar 8 instruções consecutivas, qual será o speedup (fator de aceleração) dessa pipeline?",
+        "target": "2,4"
+    },
+    {
+        "input": "Se as linhas de entrada de endereço do modo de decodificação única forem 6, quantas linhas de saída haverá para as linhas de saída de decodificação e o modo de decodificação dupla, respectivamente?",
+        "target": "64, 16"
+    },
+    {
+        "input": "Um certo chip SRAM tem capacidade de 512×8 bits. Além da fonte de alimentação e terminais de aterramento, qual deve ser o número mínimo de fio de saída para este chip?",
+        "target": "19"
+    },
+    {
+        "input": "Uma determinada máquina tem um total de 70 sinais de microcontrole (ou seja, microcomandos), que constituem 6 grupos de microcomandos mutuamente exclusivos, cada grupo contendo 8, 11, 3, 16, 7 e 25 microcomandos, respectivamente. Se a codificação de campo direto for usada, quantos bits são necessários para o campo de controle da microinstrução?",
+        "target": "23"
+    },
+    {
+        "input": "O comprimento da palavra de um computador é de 32 bits, a memória é endereçada por byte, o valor atual do PC é 1000, qual é o valor do PC após a leitura de uma instrução de palavra dupla?",
+        "target": "1008"
+    },
+    {
+        "input": "Supondo que uma memória de 64 K×32 bits seja composta de vários chips de memória de 16 K×8 bits, e as unidades no chip sejam endereçadas consecutivamente, qual é o endereço mínimo no chip onde o endereço BFF0H está localizado?",
+        "target": "8000H"
+    },
+    {
+        "input": "Quando a CPU executa um programa, o cache é acessado 4.600 vezes e o número de acessos completados pela memória principal é de 400 vezes. Se o tempo de acesso do cache é de 5 ns e o tempo de acesso da memória principal é de 25 ns, qual é o tempo médio de acesso da CPU?",
+        "target": "6,6"
+    },
+    {
+        "input": "Um computador tem 64 MB de memória principal, com um comprimento de palavra de 4 bytes. Então, quantos bits de endereço são necessários para endereçar uma única palavra na memória?",
+        "target": "24"
+    },
+    {
+        "input": "Se o endereço de seleção do chip for 111 e um chip de memória 32 K×16 for selecionado para operação, quais são o primeiro e o último endereços do chip na memória?\nA. 00000H，01000H\nB. 38000H，3FFFFH\nC. 3800H，3FFFH\nD. 0000H，0100H",
+        "target": "B"
+    },
+    {
+        "input": "Os dados do tipo flutuante são normalmente representados no formato de ponto flutuante de precisão única IEEE754. Suponha que duas variáveis do tipo flutuante x e y estejam armazenadas em registradores de 32 bits f1 e f2, se (f1)=CC900000H, (f2)=B0C00000H, então a relação entre x e y é qual das seguintes: x＜y e o sinal é diferente, x＜y e o sinal é o mesmo, x＞y e o sinal é o mesmo, x＞y e o sinal é diferente",
+        "target": "x＜y e o sinal é o mesmo"
+    },
+    {
+        "input": "Se o número de máquina de 32 bits de um número de ponto flutuante de precisão simples, um código original, um código de complemento ou um código de deslocamento for 0xF0000000. Por favor, determine a ordem desses números do maior para o menor:  excesso-N, complemento de dois, sinal-e-magnitude , ponto flutuante; excesso-N, sinal-e-magnitude, complemento de dois,ponto flutuante; ponto flutuante, sinal-e-magnitude, complemento de dois, excesso-N; ponto flutuante, excesso-N, complemento de dois,sinal-e-magnitude",
+        "target": "excesso-N, complemento de dois, sinal-e-magnitude , ponto flutuante"
+    },
+    {
+        "input": "Suponha que a memória de exibição de um computador seja implementada usando chips DRAM. Se a resolução da exibição for necessária para ser 1600×1200, a profundidade de cor for 24 bits, a taxa de quadros for 85 Hz e 50% da largura de banda total da memória de vídeo for usada para atualizar a tela, qual é a largura de banda total mínima da memória de vídeo necessária?",
+        "target": "7834 Mbit/s"
+    },
+    {
+        "input": "Quanto tempo leva para transmitir uma imagem com resolução de 640×480 pixels e 65536 cores (usando o método não compactado), assumindo uma velocidade de transmissão de dados de 56 kbit/s?",
+        "target": "87,77 s"
+    },
+    {
+        "input": "Existem 101 instruções diferentes no sistema de instruções de um determinado computador. Ao usar o controle de microprograma, quantos microprogramas existem na memória de controle, pelo menos?",
+        "target": "102"
+    },
+    {
+        "input": "Supondo que uma memória de 32 K×32 bits seja composta de vários chips de 8 K×8 bits, qual é o endereço máximo do chip no endereço 41F0H?",
+        "target": "5FFFH"
+    },
+    {
+        "input": "O comprimento de palavra de um computador é de 32 bits e sua capacidade de armazenamento é de 1 MB. Se for endereçado por palavra, qual é seu intervalo de endereçamento?\n A. 0~1M \n B. 0~512KB \n C. 0~256K \n D. 0~256KB",
+        "target": "C"
+    },
+    {
+        "input": "O cache com capacidade de 64 blocos adota um método de mapeamento associativo definido, com um tamanho de bloco de palavras de 128 palavras e cada grupo de 4 blocos. Se a memória principal estiver em blocos de 4 K e for endereçada por palavra, quantos bits estarão no endereço da memória principal e na tag da memória principal, respectivamente?",
+        "target": "19, 8"
+    },
+    {
+        "input": "Sabe-se que o código ASCII da letra maiúscula \"A\" é 41H, e que a letra \"F\" está armazenada em um determinado unidade de armazenamento, se for utilizada a paridade par (supondo que o bit mais significativo seja usado como bit de paridade), qual é o número hexadecimal armazenado na unidade de armazenamento?",
+        "target": "C6H"
+    },
+    {
+        "input": "Em um sistema de armazenamento de dois níveis composto por cache e memória principal, o tempo de acesso do cache é de 100 ns, enquanto o tempo de acesso da memória principal é de 1000 ns. Para garantir que o tempo de acesso efetivo (médio) não ultrapasse 115% do tempo de acesso do cache, qual deve ser a taxa mínima de acerto do cache? [Observação: Ao acessar dados, a busca ocorre primeiro no cache. Caso não seja bem-sucedida, o acesso é direcionado à memória principal]",
+        "target": "98.5%"
+    },
+    {
+        "input": "Um chip DRAM usa tecnologia de multiplexação de endereços e tem capacidade de 1024×8 bits. Excluindo a fonte de alimentação e os terminais de aterramento, qual é o número mínimo de pinos desse chip? (Existem duas linhas de controle de leitura e gravação).",
+        "target": "17"
+    },
+    {
+        "input": "Ao adicionar dois números de ponto flutuante, um tem um valor do expoente de 7 e o outro tem valor do expoente de 9. Como o ponto decimal do número de ponto flutuante com o menor valor do expoente deve ser movido?",
+        "target": "Deslocar dois bits para a esquerda"
+    },
+    {
+        "input": "Suponha que um computador com endereçamento de bytes esteja equipado com uma área de ROM de 00000H a 07FFFH, com linhas de endereço de 20 bits. Agora, chips de RAM de 16 K×8 bits são usados ​​para formar a área de RAM restante de 08000H a FFFFFH. Quantos desses chips de RAM são necessários?",
+        "target": "62"
+    },
+    {
+        "input": "Se um chip de memória com capacidade de armazenamento de 16 K×1 bit for usado para formar uma memória de 64 K×8 bits, quantas vezes a memória será expandida na direção da palavra e na direção do bit, respectivamente?",
+        "target": "4, 8"
+    },
+    {
+        "input": "Qual é a codificação do código de deslocamento de 8 bits para o número decimal -0,3125?",
+        "target": "01011000/58H"
+    },
+    {
+        "input": "A memória é endereçada por bytes, com endereços de 90000H a CFFFFH. Se a memória for composta de chips com capacidade de armazenamento de 16 K×8 bits, quantos chips são necessários, no mínimo?",
+        "target": "16"
+    },
+    {
+        "input": "Suponha que as instruções sejam concluídas por três subcomponentes: busca de instruções, decodificação e execução. O ciclo de trabalho de cada subcomponente é Δt, e um processador de pipeline escalar convencional é usado. Se 10 instruções forem executadas consecutivamente, quantos Δt existem?",
+        "target": "12Δt"
+    },
+    {
+        "input": "Suponha que o número de ponto flutuante tenha 12 bits no total. O expoente contém 1 sinal de expoente, totalizando 4 bits, com 2 como base, em formato de complemento; a mantissa contém 1 sinal de dígito, totalizando 8 bits, em formato de complemento de dois, e é normalizada. Qual é o maior número positivo que pode ser representado por esse número de ponto flutuante?",
+        "target": "2＾7-1"
+    },
+    {
+        "input": "Suponha que um computador tenha 80 instruções, e cada instrução consiste em 4 microinstruções em média, das quais 1 microinstrução de busca de instruções é comum a todas as instruções. Dado que o comprimento de uma microinstrução é de 32 bits, qual é a capacidade estimada da memória de controle CM? \\n (Dica: A capacidade da memória de controle CM é 2 elevado a n)",
+        "target": "1KB"
+    },
+    {
+        "input": "Dado que a Cache A utiliza mapeamento direto, possui 16 linhas, tamanho de bloco de 1 byte e uma falta de perda de 8 ciclos de relógio; e que a Cache B também utiliza mapeamento direto, possui 4 linhas, tamanho de bloco de 4 bytes e uma falta de perda de 11 ciclos de relógio, e assumindo que ambas as caches começam vazias e o endereçamento é feito por byte, qual das seguintes sequências de endereços resulta em uma taxa de falhas menor para a Cache B, faz com que a falta de perda total por falha da Cache B seja maior do que a da Cache A: 0, 2, 4, 8, 0; 1, 2, 3, 4; 0, 8, 0, 8, 0, 8; 0, 1, 0, 1, 0, 1",
+        "target": "0,2,4,8,0"
+    },
+    {
+        "input": "Em um código de verificação por blocos (n, k) normal, quantos bits redundantes existem?",
+        "target": "n-k"
+    },
+    {
+        "input": "Um determinado barramento síncrono possui uma frequência de relógio de 100 MHz, largura de 32 bits e multiplexação de linhas de endereço/dados, onde cada transferência de um endereço ou dado ocupa um ciclo de relógio. Caso esse barramento suporte o modo de transferência em rajada (burst mode), qual é o tempo mínimo necessário para uma transação de barramento de escrita na memória principal que transfira 128 bits de dados?",
+        "target": "50 ns"
+    },
+    {
+        "input": "Se a frequência do relógio for 120 MHz e forem necessários 8 ciclos de relógio para transferir uma palavra de 32 bits, qual será a taxa de transferência de dados do sistema de barramento?",
+        "target": "60 MB/s"
+    },
+    {
+        "input": "A capacidade de cache de um host é de 256 blocos. Usando mapeamento direto, para qual bloco no cache o i-ésimo bloco na memória principal será mapeado?",
+        "target": "i(mod256)"
+    },
+    {
+        "input": "Suponha que a CPU tenha 24 barramentos de endereço e 32 barramentos de dados, e use chips de RAM de 512 K×8 bits para formar a memória principal do computador. Quantos desses chips de memória são necessários no máximo para a memória principal do computador?",
+        "target": "128"
+    },
+    {
+        "input": "A capacidade de uma determinada memória é de 64 KB, endereçada por byte, os endereços 4000H a 5FFFH são área de ROM e o restante é área de RAM. Se um chip SRAM de 8 K×4 bits for usado para o projeto, quantos desses chips serão necessários?",
+        "target": "14"
+    },
+    {
+        "input": "Suponha que existam 4 inteiros representados por códigos de complemento de 8 bits: r1=FEH, r2=F2H, r3=90H, r4=F8H. Se o resultado da operação for armazenado em um registrador de 8 bits, qual das seguintes operações irá estourar: r1×r2, r2×r3, r1×r4, r2×r4",
+        "target": "r2×r3"
+    },
+    {
+        "input": "Suponha que um operando de uma instrução use endereçamento de deslocamento, o valor no registrador de deslocamento seja 007CH, o conteúdo do endereço 007CH seja 0124H, o endereço formal fornecido na instrução seja B000H e o conteúdo do endereço B000H seja C000H, então qual é o endereço efetivo do operando?",
+        "target": "B07CH"
+    },
+    {
+        "input": "Um computador tem um comprimento de palavra de 32 bits, uma capacidade de memória principal de 1 MB, endereçada por palavra, um comprimento de bloco de 512 B, um total de 16 blocos pode ser armazenado no cache e usa mapeamento direto. Qual é o comprimento do endereço do cache?",
+        "target": "11 bits"
+    },
+    {
+        "input": "Suponha que um disco tenha 200 trilhas e uma capacidade total de armazenamento de 60 MB. Leva 25 ms para o disco girar uma semana. Cada trilha tem 8 setores, e há uma lacuna entre os setores. Leva 1,25 ms para a cabeça passar por cada intervalo. Qual é a taxa de transferência máxima exigida pelo canal de disco?",
+        "target": "20 MB/s"
+    },
+    {
+        "input": "Quantos bits de código binário, no minímo, são necessários para representar um número decimal -8196 como um complemento de dois?",
+        "target": "15"
+    },
+    {
+        "input": "O cache de um computador tem um total de 16 blocos, usando um método de mapeamento associativo de conjunto bidirecional (ou seja, 2 blocos por grupo). Cada bloco de memória principal tem 32 B de tamanho e é endereçado por bytes. Qual é o número do grupo de cache no qual o bloco de memória principal onde a unidade de memória principal nº 129 está localizada deve ser carregado? (Todos os números começam em 0)",
+        "target": "4"
+    },
+    {
+        "input": "A memória principal é endereçada por bytes, com endereços de 0A4000H a 0CBFFFH. Quantos bytes há no total? Se a memória principal for composta de chips de memória com capacidade de armazenamento de 32 K×8 bits, quantos chips são necessários, pelo menos?",
+        "target": "160 K，5"
+    },
+    {
+        "input": "Suponha que o comprimento da palavra do computador seja 64 bits e a capacidade de armazenamento seja 128 MB. Se for endereçado por palavra, quantas unidades o computador pode endereçar?",
+        "target": "16 M"
+    },
+    {
+        "input": "Suponha que a capacidade de memória seja de 32 palavras e o comprimento da palavra seja de 64 bits. O número de módulos =4, e o método de crossover de baixa ordem é adotado. O ciclo de armazenamento T=200 ns, a largura do barramento de dados é de 64 bits e o ciclo de transmissão do barramento r=50 ns. Qual é a largura de banda dessa memória crossbar?",
+        "target": "73×10＾7 b/s"
+    },
+    {
+        "input": "Sabe-se que a velocidade de rotação de um certo armazenamento em disco é de 2400 r/min e a capacidade de armazenamento de cada trilha é de 96 KB. Qual é a taxa de transferência de dados do disco?",
+        "target": "3840 KB/s"
+    },
+    {
+        "input": "Supondo que vários chips de 2 K×4 bits sejam usados ​​para formar uma memória de 8 K×8 bits, qual é o endereço mínimo do chip no endereço 081FH?",
+        "target": "0800H"
+    },
+    {
+        "input": "Supondo que uma memória de disco tenha 4 discos, o número de colunas usadas ​​para gravar informações seja 2000, haja 3000 setores em cada trilha e cada setor tenha 512 B, qual é a capacidade aproximada da memória de disco (Arredondamento para baixo)? (Considere 1 G=10^9)",
+        "target": "24 GB"
+    },
+    {
+        "input": "Um cache com uma capacidade efetiva de 128 KB, 16 B por bloco, está conectado em grupos de 8 vias. A unidade com endereço de byte 1234567H é carregada no cache. Qual deve ser sua tag?",
+        "target": "048DH"
+    },
+    {
+        "input": "Se 64 bits de dados são transmitidos em paralelo em um barramento e a frequência do barramento é 66 MHz, qual é a largura de banda do barramento?",
+        "target": "528 MB/s"
+    },
+    {
+        "input": "Se cada letra for representada por uma matriz de pontos 16×16, qual é a capacidade da biblioteca de fontes de 7.500 letras?",
+        "target": "240 KB"
+    },
+    {
+        "input": "Na arquitetura de computadores, a CPU inclui internamente componentes como o contador de programa (PC), o registrador de dados da memória (MDR), o registrador de instrução (IR) e o registrador de endereço de memória (MAR), entre outros. Se a instrução que a CPU precisa executar for: MOVR_0, #100 (ou seja, transferir o valor 100 para o registrador R_0), então qual das seguintes operações a CPU deve realizar primeiro: PC→MAR, 100→R_0, PC→IR, 100→MDR",
+        "target": "PC→MAR"
+    },
+    {
+        "input": "Suponha que uma instrução de desvio com endereçamento relativo ocupe dois bytes, onde: O primeiro byte contém o código de operação. O segundo byte contém o deslocamento (representado em complemento de dois). Cada vez que a CPU busca um byte da memória, ela automaticamente executa a operação (PC) + 1 → PC. Se o endereço da instrução atual for 3008H e for necessário desviar para 300FH, qual deve ser o conteúdo do segundo byte da instrução de desvio? Se o endereço da instrução atual for 300FH e for necessário desviar para 3004H, qual deve ser o conteúdo do segundo byte da instrução de desvio?",
+        "target": "05H, F3H"
+    },
+    {
+        "input": "Se a RAM dinâmica precisar ser atualizada 1,0 vez por milissegundo, cada atualização levar 100 ns e um ciclo de memória levar 200 ns, então a porcentagem de atualização no tempo total de operação da memória será ____.",
+        "target": "0.0001"
+    },
+    {
+        "input": "Em um computador de pipeline, qual é o tipo de dados relevante para que a seguinte afirmação ocorra: leitura após escrita, leitura após leitura, escrita após gravação, leitura após escrita;\\nADD R1,R2,R3;(R2)+(R3)→R1\\nADD R4,R1,R5;(R1)+(R5)→R4",
+        "target": "leitura após escrita"
+    },
+    {
+        "input": "Em um determinado sistema de computador, supondo que o disco rígido use o modo de interrupção para entrada/saída de dados com o processador, com 16 bits como unidade de transmissão, a taxa de transmissão é de 50 KB/s, a sobrecarga de cada transmissão (incluindo interrupções) é de 100 relógios de CPU e a frequência principal do processador é de 50 MHz, que porcentagem do tempo do processador é ocupada pela transmissão de dados do disco rígido? (Por favor, pegue um número inteiro)",
+        "target": "5%"
+    },
+    {
+        "input": "Qual é o resultado da adição de dois números 7E5H e 4D3H?",
+        "target": "CB8H"
+    },
+    {
+        "input": "Se o ciclo de armazenamento de uma memória é de 250 ns e 16 bits são lidos a cada vez, qual é a taxa de transferência de dados da memória?",
+        "target": "8×10^6 B/s"
+    },
+    {
+        "input": "Uma estação de trabalho usa um processador com uma frequência de relógio f de 15 MHz e uma taxa de processamento de 10 MIPs para executar um programa misto conhecido. Supondo que cada armazenamento de memória tenha uma latência de 1 ciclo, qual é o CPI efetivo deste computador?",
+        "target": "1,5"
+    },
+    {
+        "input": "Em um gerenciamento de armazenamento paginado com um tamanho de página de 4 KB, os conteúdos na tabela de páginas são 2, 5, 6, 8, 7 e 11, respectivamente. Qual deve ser o endereço lógico correspondente ao endereço físico 32773?",
+        "target": "12293"
+    },
+    {
+        "input": "Um processador tem um pipeline de quatro estágios. Se 15 instruções forem continuamente inseridas no pipeline, quantas instruções serão executadas no final do 15º ciclo de relógio?",
+        "target": "12"
+    },
+    {
+        "input": "O comprimento da palavra de instrução de um determinado sistema de instruções é de 8 bits, cada código de endereço tem 3 bits de comprimento e é usada a tecnologia de código de operação estendida. Se o sistema de instruções tiver duas instruções de dois endereços e 10 instruções de endereço zero, quantas instruções de um endereçoo existem no máximo?",
+        "target": "14"
+    },
+    {
+        "input": "Um certo chip SRAM tem capacidade de 1024×8 bits. Excluindo a fonte de alimentação e os terminais de aterramento, qual é o número mínimo de pinos do chip?",
+        "target": "21"
+    },
+    {
+        "input": "Um programa em linguagem C é executado em um computador de 32 bits. Três variáveis ​​x, y e z são definidas no programa, onde x e z são do tipo int e y é do tipo short. Quando x=127 e y=-9, quais são os valores de x, y e z respectivamente após executar a instrução de atribuição z=x+y?\nA. x=0000007FH，y=FFF9H，z=00000076H\nB. x=0000007FH，y=FFF9H，z=FFFF0076H\nC. x=0000007FH，y=FFF7H，z=FFFF0076H\nD. x=0000007FH，y=FFF7H，z=00000076H",
+        "target": "D"
+    },
+    {
+        "input": "Os dados do tipo flutuante são normalmente representados no formato de ponto flutuante de precisão simples no padrão IEEE754. Se o compilador aloca uma variável de tipo flutuante x em um registrador de ponto flutuante de 32 bits FR1, e x=-8,25, qual é o conteúdo de FR1?\nA. C1040000H\nB. C1C20000H\nC. C1840000H\nD. C2420000H",
+        "target": "A"
+    },
+    {
+        "input": "No registrador de palavras de status da CPU, se o sinalizador SF for \"1\", o que isso significa para o resultado do cálculo?",
+        "target": "Incerto"
+    },
+    {
+        "input": "A seguir estão os números de máquina de código de deslocamento de 8 bits [x]_shift. Quando [-x]_shift é necessário, qual deles irá estourar: 11111111, 01111111, 00000000, 10000000, 0",
+        "target": "00000000"
+    },
+    {
+        "input": "Se a palavra de instrução tiver 24 bits de comprimento e puder realizar um total de 130 operações, qual é o intervalo máximo que pode ser endereçado diretamente usando um formato de dois endereços?",
+        "target": "256"
+    },
+    {
+        "input": "Há uma hierarquia de memória principal-Cache com capacidade de memória principal de 1 MB (endereçada por bytes) e capacidade de Cache de 16 KB. Cada bloco de palavras tem 8 palavras, cada palavra tem 32 bits e um método de mapeamento de endereço direto é usado. Se o endereço da memória principal for 35301H e acesso da CPU ao Cache é acerto (Cache Hit), qual bloco de palavras estará no Cache? (O número do bloco de palavras do Cache começa em 0).",
+        "target": "152"
+    },
+    {
+        "input": "No monitor configurado para o computador, se a capacidade da memória de atualização na placa de controle de exibição for de 1 MB, ao utilizar uma resolução de 800 pixels vezes 600 pixels, quantas cores diferentes cada pixel pode ter no máximo?",
+        "target": "65536"
+    },
+    {
+        "input": "Se o número decimal é 137,5, qual é o seu número octal?",
+        "target": "211,4"
+    },
+    {
+        "input": "A codificação de Huffman é realizada em n símbolos diferentes. Se a árvore de Huffman gerada tiver um total de 115 nós, qual é o valor de n?",
+        "target": "58"
+    },
+    {
+        "input": "Em qualquer árvore binária balanceada não vazia (árvore AVL) T1, exclua um nó v para formar uma árvore binária balanceada T2 e, em seguida, insira v em T2 para formar uma árvore binária balanceada T3. Qual das seguintes afirmações sobre T1 e T3 está correta? \\nI. Se v for um nó folha de T1, então T1 e T3 podem ser diferentes \\nII. Se v não for um nó folha de T1, então T1 e T3 devem ser diferentes \\nIII. Se v não for um nó folha de T1, então T1 e T3 devem ser iguais",
+        "target": "Só I"
+    },
+    {
+        "input": "A tabela de dispersão existente tem comprimento 11 e está inicialmente vazia. A função hash é H(key)=key%7. O método de sondagem linear (sondagem linear e rehashing) é usado para resolver conflitos. Depois que a sequência de palavras-chave 87, 40, 30, 6, 11, 22, 98, 20 é inserida em HT em sequência, qual é o comprimento médio da pesquisa para falha na pesquisa HT?",
+        "target": "6"
+    },
+    {
+        "input": "Suponha que a string principal T=\\abaabaabcabaabc\\ e a string padrão S=\\abaabc\\, e use o algoritmo KMP para correspondência de padrões. Quantas vezes as comparações entre caracteres únicos são realizadas durante o processo de correspondência até que a correspondência seja bem-sucedida?",
+        "target": "10"
+    },
+    {
+        "input": "Suponha que haja 120 segmentos de mesclagem iniciais na memória externa. Ao executar uma mesclagem de 12 vias, quantos segmentos virtuais precisam ser adicionados para atingir a melhor mesclagem?",
+        "target": "2"
+    },
+    {
+        "input": "Considere o seguinte código de linguagem C:\nunsigned short usi=65535;\nshort si=usi;\nQual é o valor de si após executar o segmento de programa acima?",
+        "target": "-1"
+    },
+    {
+        "input": "Suponha que um computador use um barramento de memória de 3 canais e o modelo do módulo de memória correspondente seja DDR3-1333, ou seja, a frequência operacional do barramento de memória ao qual o módulo de memória está conectado é 1333 MHz e a largura do barramento é 64 bits. Então, qual é a largura de banda total aproximada do barramento de memória?",
+        "target": "32 GB/s"
+    },
+    {
+        "input": "Um dispositivo troca dados com a CPU em modo de interrupção. A frequência principal da CPU é 1 GHz, o registrador de buffer de dados na interface do dispositivo é 32 bits e a taxa de transmissão de dados do dispositivo é 50 KB/s. Se a sobrecarga de cada interrupção (incluindo resposta de interrupção e processamento de interrupção) for de 1000 ciclos de relógio, qual é a porcentagem máxima do tempo total da CPU que a CPU usa para entrada/saída do dispositivo?",
+        "target": "0.0125"
+    },
+    {
+        "input": "Supondo que uma rede de área local de 100 Mb/s use o protocolo CSMA/CD com um comprimento mínimo de quadro de 128 B, qual dos seguintes é o atraso máximo de propagação unidirecional entre duas estações em um domínio de conflito: 20,48 µs, 5,12µs, 2,56 µs, 10,24 µs",
+        "target": "5,12 µs"
+    },
+    {
+        "input": "Se 101.200.16.0/20 for dividido em 5 sub-redes, o número de endereços IP alocáveis ​​na menor sub-rede possível é: 1022, 126, 254, 510",
+        "target": "254"
+    },
+    {
+        "input": "Em uma árvore B de 4ª ordem com 15 palavras-chave, qual é o número máximo de nós contendo palavras-chave?",
+        "target": "15"
+    },
+    {
+        "input": "Uma memória com capacidade de 256 MB é composta de vários chips DRAM de 4 M×8 bits. Qual é o número total de pinos de endereço e pinos de dados do chip DRAM?",
+        "target": "19"
+    },
+    {
+        "input": "Um determinado computador tem 16 registradores gerais, usa palavras de instrução de comprimento fixo de 32 bits, o campo de código de operação (incluindo bits do modo de endereçamento) é de 8 bits, e o operando de origem e o operando de destino da instrução Store usam os modos de endereçamento direto do registrador e de endereçamento base, respectivamente. Se o registrador base puder usar qualquer registrador geral e o deslocamento for expresso em complemento de dois, o intervalo do deslocamento na instrução Store será: -65536~+65535, -32767~+32768, -32768~+32767, -65535~+65536",
+        "target": "-32768~+32767"
+    },
+    {
+        "input": "Se o tempo de resposta e processamento de uma solicitação de interrupção de um dispositivo for de 100 ns, uma solicitação de interrupção for emitida a cada 400 ns e o tempo máximo de atraso permitido para a resposta de interrupção for de 50 ns, então, enquanto o dispositivo estiver operando continuamente, qual é a porcentagem mínima de tempo de E/S da CPU dedicada a esse dispositivo como uma porcentagem do tempo total da CPU?",
+        "target": "25%"
+    },
+    {
+        "input": "O host A e o host B usam o protocolo Back-Off N (GBN) para transmitir dados. O tamanho da janela de envio do host A é 1000, o comprimento do quadro de dados é 1000 bytes e a largura de banda do canal é 100 Mbps. B confirma imediatamente cada quadro de dados que recebe com um quadro curto (ignorando seu atraso de transmissão). Se o atraso de propagação unidirecional entre A e B for 50 ms, qual é a taxa média máxima de transmissão de dados que A pode atingir?",
+        "target": "80 Mbps"
+    },
+    {
+        "input": "Os sites A, B e C compartilham um link via CDMA. As sequências de chipping de A, B e C são (1,1,1,1), (1,-1,1,-1) e (1,1,-1,-1), respectivamente. Se a sequência que C recebe do link for (2,0,2,0,0,-2,0,-2,0,2,0,2), quais são os dados enviados por A que C recebe?",
+        "target": "101"
+    },
+    {
+        "input": "O host A e o host B estabelecem uma conexão TCP. O host A sempre envia dados em segmentos de MSS=1 KB e tem enviado dados o tempo todo. Toda vez que o host B recebe um segmento de dados, envia um segmento de confirmação com uma janela de recebimento de 10 KB. Se a janela de congestionamento de A for de 8 KB quando ocorrer um tempo limite no instante t, então, a partir do instante t em diante, se nenhum tempo limite ocorrer novamente, após 10 RTTs, quantos KB será a janela de envio de A?",
+        "target": "10 KB"
+    },
+    {
+        "input": "Supondo que o endereço da memória principal seja de 32 bits, endereçado por bytes, mapeamento direto entre a memória principal e o cache, o tamanho do bloco da memória principal seja de 4 palavras, cada palavra tenha 32 bits e o método de write-back seja usado, qual é o número mínimo de bits da capacidade total do cache que pode armazenar 4K palavras de dados?",
+        "target": "148 K"
+    },
+    {
+        "input": "Armazene 10 ponteiros de índice direto no nó de índice do arquivo, um ponteiro de índice primário e um ponteiro de índice secundário. O tamanho do bloco de disco é de 1 KB e cada ponteiro de índice ocupa 4 bytes. Se o nó de índice de um arquivo já estiver na memória, então os blocos de disco nos deslocamentos de arquivo (endereçado por bytes) de 1234 e 307400 são lidos na memória, quantos blocos de disco precisam ser acessados ​​respectivamente?",
+        "target": "1, 3"
+    },
+    {
+        "input": "O sistema de arquivos usa um método de bitmap para representar a alocação de espaço em disco. O bitmap é armazenado nos blocos número 32-127 do disco. Cada bloco de disco ocupa 1024 bytes, e os blocos de disco e bytes dentro dos blocos são numerados a partir de 0. Supondo que o número do bloco de disco a ser liberado seja 409612, quais são o número do bloco de disco e o número da sequência de bytes dentro do bloco onde o bit a ser modificado no bitmap está localizado?",
+        "target": "82, 1"
+    },
+    {
+        "input": "O host A e o host B estabelecem uma nova conexão TCP. O limite inicial de controle de congestionamento do host A é 32 KB. O host A sempre envia dados para o host B em segmentos de MSS=1 KB, e sempre há dados a serem enviados. O host B aloca um buffer de recebimento de 16 KB para a conexão, confirma cada segmento de dados e ignora o atraso de transmissão do segmento. Se todos os dados recebidos por B forem armazenados no cache e não forem levados embora, então, a partir do momento em que A estabelece a conexão com sucesso e não há tempo limite de envio, após 4 RTTs, quantos KB será a janela de envio de A?",
+        "target": "1 KB"
+    },
+    {
+        "input": "Sabe-se que o grafo não direcionado G contém 16 arestas, das quais o número de vértices com grau 4 é 3, o número de vértices com grau 3 é 4 e os graus dos outros vértices são todos menores que 3. Qual é o número mínimo de vértices contidos no grafo G?",
+        "target": "11"
+    },
+    {
+        "input": "Suponha que os computadores M1 e M2 tenham a mesma arquitetura de conjunto de instruções (ISA) com frequências principais de 1,5 GHz e 1,2 GHz, respectivamente. Se o programa de benchmark P for executado nos processadores M1 e M2, com um CPI médio de 2 e 1, respectivamente, qual é a razão entre os tempos de execução do programa P nos processadores M1 e M2?",
+        "target": "1,6"
+    },
+    {
+        "input": "Um computador é endereçado por byte, com um comprimento de palavra de instrução fixo e apenas dois formatos de instrução, incluindo 29 instruções de três endereços e 107 instruções de dois endereços. Cada campo de endereço tem 6 bits. Qual deve ser o comprimento mínimo de palavra de instrução?",
+        "target": "24 bits"
+    },
+    {
+        "input": "Se a taxa máxima de transmissão de dados do canal na ausência de ruído não for menor que a taxa máxima de transmissão de dados sob a condição de uma relação sinal-ruído de 30 dB, qual é o número mínimo de estados de sinal?",
+        "target": "32"
+    },
+    {
+        "input": "Suponha que haja uma matriz simétrica M 12×12. Os elementos m_i,j (1≤i≤j≤12) de sua parte triangular superior são armazenados linha-primeiro em um matriz unidimensional N na linguagem C. Qual é o subscrito do elemento m_6,6 em N?",
+        "target": "50"
+    },
+    {
+        "input": "Qual é o número mínimo de palavras-chave que uma árvore B de ordem 3 com altura 5 contém?",
+        "target": "31"
+    },
+    {
+        "input": "Supondo que o número de linhas e colunas do conjunto de armazenamento em um chip DRAM seja r e c, para um chip DRAM de 2 K×1 bit, para garantir que o número de pinos de endereço seja mínimo e a sobrecarga de atualização seja minimizada, quais são os valores de r e c respectivamente?",
+        "target": "32, 64"
+    }
+]

@@ -1,0 +1,1145 @@
+[
+    {
+        "input": "En una sociedad electoral, todo político debe complacer a los electores para ser elegido. Pablo es un superpolítico que desea fervientemente ser elegido; por lo tanto, hará todo lo posible por complacer a los electores. En muchas ocasiones, no se puede complacer a los electores sin hacer numerosas promesas vacías. Sin embargo, de hecho, Pablo fue elegido. ¿Cuál de las siguientes afirmaciones es correcta?\nA. Es muy probable que Pablo haya hecho numerosas promesas vacías a los electores.\nB. Es muy probable que Pablo no haya hecho numerosas promesas vacías a los electores.\nC. Pablo definitivamente hizo numerosas promesas vacías a los electores.\nD. Pablo definitivamente no hizo numerosas promesas vacías a los electores.",
+        "target_scores": {
+            "A. Es muy probable que Pablo haya hecho numerosas promesas vacías a los electores.": 1,
+            "B. Es muy probable que Pablo no haya hecho numerosas promesas vacías a los electores.": 0,
+            "C. Pablo definitivamente hizo numerosas promesas vacías a los electores.": 0,
+            "D. Pablo definitivamente no hizo numerosas promesas vacías a los electores.": 0
+        }
+    },
+    {
+        "input": "Impartir clases a tiempo parcial es una fuente importante de ingresos reales para los profesores universitarios. Una estadística de cierta universidad indica que el número promedio de horas semanales dedicadas a clases a tiempo parcial por los profesores de derecho es 3,5, mientras que en el departamento de contabilidad es 1,8. Por lo tanto, el ingreso real actual per cápita de los profesores de derecho en esta universidad es superior al de los profesores de contabilidad. ¿Cuál de las siguientes afirmaciones, de ser cierta, debilitaría este razonamiento?  \n____  \nⅠ. Las tarifas por hora de clases a tiempo parcial de los profesores de contabilidad generalmente son más altas que las de los profesores de derecho.  \nⅡ. El 35% de los profesores de contabilidad trabajan como contadores a tiempo parcial; el 20% de los profesores de derecho ejercen como abogados a tiempo parcial.  \nⅢ. El 48% de los profesores de contabilidad realizan clases a tiempo parcial; solo el 20% de los profesores de derecho lo hacen.\nA. Solo Ⅰ y Ⅱ.\nB. Solo Ⅰ.\nC. Solo Ⅱ.\nD. Ⅰ, Ⅱ y Ⅲ.",
+        "target_scores": {
+            "A. Solo Ⅰ y Ⅱ.": 1,
+            "B. Solo Ⅰ.": 0,
+            "C. Solo Ⅱ.": 0,
+            "D. Ⅰ, Ⅱ y Ⅲ.": 0
+        }
+    },
+    {
+        "input": "La diferencia crucial entre las personas civilizadas y los salvajes u otros animales radica en la capacidad de suprimir los impulsos instintivos mediante la previsión deliberada. Únicamente cuando una persona realiza una acción no motivada por impulsos instintivos, sino porque su razón le indica que obtendrá beneficios en un período futuro, surge la verdadera previsión. El cultivo de la tierra constituye un acto de previsión: trabajar en primavera para disponer de granos en invierno. ¿Cuál de las siguientes afirmaciones representa un supuesto necesario para este argumento?\nA. Acciones como las ardillas enterrando castañas o los zorros árticos ocultando huevos son conductas puramente instintivas.\nB. Cuanto mayor sea la capacidad de inhibición de impulsos instintivos, mayor será la tolerancia al sufrimiento actual y, por ende, el grado de civilización.\nC. La capacidad de suprimir impulsos instintivos mediante previsión constituye la única diferencia entre civilizados y salvajes.\nD. Las personas no solo suprimen impulsos instintivos mediante su propia previsión, sino también a través de leyes externas, costumbres y religión.",
+        "target_scores": {
+            "A. Acciones como las ardillas enterrando castañas o los zorros árticos ocultando huevos son conductas puramente instintivas.": 1,
+            "B. Cuanto mayor sea la capacidad de inhibición de impulsos instintivos, mayor será la tolerancia al sufrimiento actual y, por ende, el grado de civilización.": 0,
+            "C. La capacidad de suprimir impulsos instintivos mediante previsión constituye la única diferencia entre civilizados y salvajes.": 0,
+            "D. Las personas no solo suprimen impulsos instintivos mediante su propia previsión, sino también a través de leyes externas, costumbres y religión.": 0
+        }
+    },
+    {
+        "input": "Un médico administró cápsulas de licopeno (extraído de tomates) a un grupo de pacientes con tumores prostáticos en espera de cirugía, dos veces al día con 15 mg por dosis. Tras 3 semanas, se observó una reducción significativa de los tumores en estos pacientes, incluso su desaparición casi completa en algunos casos. El médico concluyó que el licopeno posee efectos reductores de tumores prostáticos. ¿Cuál afirmación respalda más esta conclusión?\nA. El licopeno no solo existe en tomates, sino también en sandías y uvas.\nB. Entre los pacientes con tumores prostáticos tratados con licopeno, una minoría presentaba cuadros clínicos extremadamente graves.\nC. Existió otro grupo comparable de pacientes en espera quirúrgica que no recibió licopeno, cuyos tumores no mostraron reducción.\nD. La edad de los pacientes con tumores prostáticos oscilaba entre 45 y 65 años.",
+        "target_scores": {
+            "A. El licopeno no solo existe en tomates, sino también en sandías y uvas.": 0,
+            "B. Entre los pacientes con tumores prostáticos tratados con licopeno, una minoría presentaba cuadros clínicos extremadamente graves.": 0,
+            "C. Existió otro grupo comparable de pacientes en espera quirúrgica que no recibió licopeno, cuyos tumores no mostraron reducción.": 1,
+            "D. La edad de los pacientes con tumores prostáticos oscilaba entre 45 y 65 años.": 0
+        }
+    },
+    {
+        "input": "Aunque la proporción de médicos internistas respecto a la población total es similar en EE.UU. y Canadá, Estados Unidos posee un 33% más de cirujanos per cápita que Canadá. Evidentemente, esta sería la razón por la cual en EE.UU. se realizan un 40% más de intervenciones quirúrgicas per cápita que en Canadá. ¿Qué supuesto subyace a esta explicación?\nA. Algunos pacientes estadounidenses ocasionalmente se operan en Canadá.\nB. En principio, los médicos generales en EE. UU. no examinan a los pacientes que van a ser operados antes de derivarlos directamente a un cirujano.\nC. La necesidad de cirugías entre pacientes estadounidenses no es mayor que entre los canadienses.\nD. La población estadounidense no supera a la canadiense.",
+        "target_scores": {
+            "A. Algunos pacientes estadounidenses ocasionalmente se operan en Canadá.": 0,
+            "B. En principio, los médicos generales en EE. UU. no examinan a los pacientes que van a ser operados antes de derivarlos directamente a un cirujano.": 0,
+            "C. La necesidad de cirugías entre pacientes estadounidenses no es mayor que entre los canadienses.": 1,
+            "D. La población estadounidense no supera a la canadiense.": 0
+        }
+    },
+    {
+        "input": "Las empresas de antivirus definen como \"virus conocido\" aquel que ha sido capturado y procesado; de lo contrario, se clasifica como \"desconocido\". Hasta la fecha, el software antivirus presenta retrasos en la prevención de nuevos virus debido a su incapacidad para predecirlos. Algunos investigadores propusieron desarrollar herramientas defensivas proactivas contra nuevos virus, lo cual resulta imposible, análogo a intentar crear medicamentos específicos para enfermedades desconocidas. ¿Cuál de las siguientes afirmaciones, de ser verdadera, debilitaría más el argumento anterior?\nA. Cada vez que una empresa antivirus anuncia un nuevo virus, este ha sido identificado mediante métodos de análisis humanos.\nB. El 99% de los nuevos virus se programan imitando virus conocidos, cuyos patrones de propagación, infección, activación y daño pueden deducirse de los ya existentes.\nC. Los virus informáticos, al ser creados por humanos, son considerablemente más simples que los biológicos.\nD. Los virus realmente innovadores suelen ser conceptuales de bajo impacto destructivo.",
+        "target_scores": {
+            "A. Cada vez que una empresa antivirus anuncia un nuevo virus, este ha sido identificado mediante métodos de análisis humanos.": 0,
+            "B. El 99% de los nuevos virus se programan imitando virus conocidos, cuyos patrones de propagación, infección, activación y daño pueden deducirse de los ya existentes.": 1,
+            "C. Los virus informáticos, al ser creados por humanos, son considerablemente más simples que los biológicos.": 0,
+            "D. Los virus realmente innovadores suelen ser conceptuales de bajo impacto destructivo.": 0
+        }
+    },
+    {
+        "input": "Un buen sistema institucional puede impedir que las personas malintencionadas actúen libremente, mientras que un sistema defectuoso no solo obstaculiza a las personas rectas sino que incluso las induce a comportamientos negativos. En este sentido, los sistemas poseen carácter fundamental. Por consiguiente, debemos no solo continuar reformando el sistema económico, sino también acelerar las reformas del sistema político. ¿Qué opción refuerza más este argumento?\nA. Aún hoy, subsisten serias deficiencias en los sistemas económico y político de nuestro país.\nB. El retraso en las reformas políticas afectará gravemente al éxito de las reformas económicas.\nC. La naturaleza humana contiene elementos perniciosos que requieren restricción institucional, todos deben estar sujetos a las limitaciones y precauciones del sistema.\nD. Un sistema robusto permite el funcionamiento social ordenado evitando revoluciones innecesarias.",
+        "target_scores": {
+            "A. Aún hoy, subsisten serias deficiencias en los sistemas económico y político de nuestro país.": 1,
+            "B. El retraso en las reformas políticas afectará gravemente al éxito de las reformas económicas.": 0,
+            "C. La naturaleza humana contiene elementos perniciosos que requieren restricción institucional, todos deben estar sujetos a las limitaciones y precauciones del sistema.": 0,
+            "D. Un sistema robusto permite el funcionamiento social ordenado evitando revoluciones innecesarias.": 0
+        }
+    },
+    {
+        "input": "En EE.UU., el 45% de las donaciones sanguíneas corresponden al tipo O. Dado que este tipo es compatible universalmente, resulta indispensable en emergencias donde no hay tiempo para determinar el grupo sanguíneo del paciente. El tipo O es el único completamente compatible, permitiendo su transfusión a cualquier paciente. Precisamente por esta utilidad, el tipo O enfrenta escasez crónica. Si lo anterior es cierto, ¿qué conclusión se deduce necesariamente?\nA. Cualquier transfusión de sangre no-O requiere la determinación inmediata del tipo sanguíneo del receptor.\nB. El 45% de estadounidenses poseen sangre tipo O, convirtiéndola en el tipo más común.\nC. La escasez permanente del tipo O provoca su insuficiencia precisamente en situaciones críticas donde más se necesita.\nD. La utilidad especial del tipo O se fundamenta en su compatibilidad con la mayoría de la población.",
+        "target_scores": {
+            "A. Cualquier transfusión de sangre no-O requiere la determinación inmediata del tipo sanguíneo del receptor.": 1,
+            "B. El 45% de estadounidenses poseen sangre tipo O, convirtiéndola en el tipo más común.": 0,
+            "C. La escasez permanente del tipo O provoca su insuficiencia precisamente en situaciones críticas donde más se necesita.": 0,
+            "D. La utilidad especial del tipo O se fundamenta en su compatibilidad con la mayoría de la población.": 0
+        }
+    },
+    {
+        "input": "Un sociólogo hizo un estudio de dos grupos de adolescentes. Los miembros del primer grupo veían películas y programas de televisión violentos durante un promedio de no menos de 10 horas a la semana. El segundo grupo no duró más de 2 horas. Resultó que el primer grupo tenía una proporción mucho mayor de miembros con malos modales que el segundo grupo. Se concluyó que la exposición a violencia mediática induce conductas groseras. ¿Qué hecho cuestionaría esta conclusión?\nA. Algunos miembros del segundo grupo exhibían conductas más groseras que ciertos miembros del primero.\nB. Existían miembros no groseros en el primer grupo.\nC. La rudeza manifestada por muchos integrantes del primer grupo, adquirida desde la niñez, los predispuso a consumir ávidamente productos audiovisuales de carácter violento.\nD. Numerosos miembros del segundo grupo mostraban conductas civilizadas.",
+        "target_scores": {
+            "A. Algunos miembros del segundo grupo exhibían conductas más groseras que ciertos miembros del primero.": 0,
+            "B. Existían miembros no groseros en el primer grupo.": 0,
+            "C. La rudeza manifestada por muchos integrantes del primer grupo, adquirida desde la niñez, los predispuso a consumir ávidamente productos audiovisuales de carácter violento.": 1,
+            "D. Numerosos miembros del segundo grupo mostraban conductas civilizadas.": 0
+        }
+    },
+    {
+        "input": "La primera bicicleta fue inventada en 1817, pero solo tuvo breve popularidad antes de desaparecer hasta su reaparición en 1860. ¿Por qué sucede esto? Una tecnología solo es aceptada cuando coincide con los valores sociales vigentes. Por tanto, los valores debieron cambiar entre 1817-1860. El razonamiento en el argumento anterior es defectuoso porque el argumento ___________\nA. Asume erróneamente que la reaparición en 1860 implica la aceptación social genuina.\nB. Ignora explicaciones alternativas para la reaparición de la bicicleta.\nC. Plantea una cuestión irrelevante al núcleo argumentativo.\nD. Presupone sin fundamento que la popularidad equivale a la aceptación real.",
+        "target_scores": {
+            "A. Asume erróneamente que la reaparición en 1860 implica la aceptación social genuina.": 0,
+            "B. Ignora explicaciones alternativas para la reaparición de la bicicleta.": 1,
+            "C. Plantea una cuestión irrelevante al núcleo argumentativo.": 0,
+            "D. Presupone sin fundamento que la popularidad equivale a la aceptación real.": 0
+        }
+    },
+    {
+        "input": "Los cerebros de gemelos monocigóticos son genéticamente idénticos. Cuando uno desarrolla esquizofrenia, presentan regiones cerebrales más pequeñas que su gemelo sano. En gemelos sin esquizofrenia, tales diferencias no se encuentran.  Esto apoyaría que la esquizofrenia surge de anomalías estructurales cerebrales. ¿Qué supuesto subyace a este argumento?\nA. El tamaño cerebral promedio de gemelos idénticos no difiere del de gemelos no idénticos.\nB. Gemelos esquizofrénicos poseen cerebros de tamaño equivalente.\nC. Los esquizofrénicos tienen cerebros más pequeños que personas sanas.\nD. Que ciertas regiones cerebrales sean más pequeñas en personas con esquizofrenia no es una consecuencia de la medicación utilizada en su tratamiento.",
+        "target_scores": {
+            "A. El tamaño cerebral promedio de gemelos idénticos no difiere del de gemelos no idénticos.": 0,
+            "B. Gemelos esquizofrénicos poseen cerebros de tamaño equivalente.": 0,
+            "C. Los esquizofrénicos tienen cerebros más pequeños que personas sanas.": 0,
+            "D. Que ciertas regiones cerebrales sean más pequeñas en personas con esquizofrenia no es una consecuencia de la medicación utilizada en su tratamiento.": 1
+        }
+    },
+    {
+        "input": "Algunos científicos cuestionan la teoría cuántica por sus conclusiones contraintuitivas. Aunque intentaron falsarla rigurosamente (dentro de márgenes estadísticos aceptables), los resultados difieren de teorías rivales, justificando su aceptación. ¿Qué principio valida este razonamiento?\nA. Ninguna teoría debe considerarse válida hasta ser sometida a falsación rigurosa.\nB. Si una teoría científica tiene menos conclusiones contraintuitivas que sus teorías competidoras, entonces se debería aceptar esa teoría.\nC. Si una teoría resiste intentos rigurosos de falsación, debe aceptarse.\nD. Solo debe aceptarse teorías cuyas predicciones no hayan sido falsadas experimentalmente.",
+        "target_scores": {
+            "A. Ninguna teoría debe considerarse válida hasta ser sometida a falsación rigurosa.": 0,
+            "B. Si una teoría científica tiene menos conclusiones contraintuitivas que sus teorías competidoras, entonces se debería aceptar esa teoría.": 0,
+            "C. Si una teoría resiste intentos rigurosos de falsación, debe aceptarse.": 1,
+            "D. Solo debe aceptarse teorías cuyas predicciones no hayan sido falsadas experimentalmente.": 0
+        }
+    },
+    {
+        "input": "En agosto de 2014, 200 camiones rusos con ayuda humanitaria ingresaron al este de Ucrania. Si el ejército ucraniano atacase directamente/indirectamente estos vehículos, Rusia podría tomar medidas enérgicas. Si suspendiese operaciones militares para garantizar su seguridad, los separatistas en desventaja obtendrían respiro. Dadas estas premisas, ¿qué afirmación es necesariamente verdadera?\nA. Los camiones rusos apoyaban a separatistas del este ucraniano.\nB. Si Ucrania no concede respiro a separatistas, Rusia podría actuar.\nC. Si los separatistas obtienen respiro, Rusia no tomaría medidas.\nD. Un ataque ucraniano a los camiones impediría el respiro separatista.",
+        "target_scores": {
+            "A. Los camiones rusos apoyaban a separatistas del este ucraniano.": 0,
+            "B. Si Ucrania no concede respiro a separatistas, Rusia podría actuar.": 1,
+            "C. Si los separatistas obtienen respiro, Rusia no tomaría medidas.": 0,
+            "D. Un ataque ucraniano a los camiones impediría el respiro separatista.": 0
+        }
+    },
+    {
+        "input": "Es ampliamente conocido que altos niveles de colesterol sanguíneo incrementan el riesgo de accidentes cerebrovasculares (ACV) por trombosis. No obstante, un reciente informe señala que niveles bajos de colesterol aumentan el riesgo de ACV hemorrágicos mortales (derrames cerebrales por ruptura arterial). El informe sugiere que, dado que el colesterol mantiene la integridad de membranas celulares, su deficiencia debilita paredes arteriales favoreciendo rupturas. Esto confirmaría la controversia japonesa sobre si las dietas occidentales previenen mejor los derrames cerebrales que las no occidentales. ¿Qué supuesto sustenta este razonamiento?\nA. El colesterol alto contrarresta la fragilidad arterial.\nB. Las dietas occidentales producen niveles de colesterol más elevados que las no occidentales.\nC. Las dietas occidentales son nutricionalmente superiores.\nD. Los derrames hemorrágicos son más peligrosos que los trombóticos.",
+        "target_scores": {
+            "A. El colesterol alto contrarresta la fragilidad arterial.": 0,
+            "B. Las dietas occidentales producen niveles de colesterol más elevados que las no occidentales.": 1,
+            "C. Las dietas occidentales son nutricionalmente superiores.": 0,
+            "D. Los derrames hemorrágicos son más peligrosos que los trombóticos.": 0
+        }
+    },
+    {
+        "input": "Un economista propuso que trasladar industrias contaminantes de países desarrollados a países en desarrollo beneficia a los primeros al mejorar su entorno natural. Aunque los países en desarrollo sufren contaminación, obtienen compensaciones como empleo e impuestos. Así, ambas partes mejoran, incrementando el bienestar global. ¿Qué supuesto subyace en este razonamiento?\nA. El grado de contaminación en países desarrollados es mayor que en países en desarrollo.\nB. Las industrias contaminantes generan más ganancias en países en desarrollo que en desarrollados.\nC. Tanto países desarrollados como en desarrollo poseen industrias contaminantes.\nD. Un entorno natural saludable es más importante para los ciudadanos de países desarrollados que para los de países en desarrollo.",
+        "target_scores": {
+            "A. El grado de contaminación en países desarrollados es mayor que en países en desarrollo.": 0,
+            "B. Las industrias contaminantes generan más ganancias en países en desarrollo que en desarrollados.": 0,
+            "C. Tanto países desarrollados como en desarrollo poseen industrias contaminantes.": 0,
+            "D. Un entorno natural saludable es más importante para los ciudadanos de países desarrollados que para los de países en desarrollo.": 1
+        }
+    },
+    {
+        "input": "Algunos estados de EE.UU. aplican un impuesto del 7% sobre el precio de la mayoría de productos comprados dentro de sus fronteras. Si este impuesto se considera un impuesto sobre la renta, su efecto es opuesto al impuesto federal: a menor ingreso, mayor porcentaje de renta anual gravado. ¿Qué premisa asumida permite llegar a esta conclusión?\nA. El impuesto federal favorece a ricos, mientras ciertos impuestos estatales benefician a pobres.\nB. Las personas con menores ingresos destinan un porcentaje relativamente mayor de su renta al impuesto estatal, ya que su impuesto federal es menor.\nC. Personas de distintos ingresos gastan igual en productos sujetos a impuestos estatales.\nD. Un estado con menor impuesto al consumo tiende a redistribuir ingresos de ricos a otros grupos.",
+        "target_scores": {
+            "A. El impuesto federal favorece a ricos, mientras ciertos impuestos estatales benefician a pobres.": 0,
+            "B. Las personas con menores ingresos destinan un porcentaje relativamente mayor de su renta al impuesto estatal, ya que su impuesto federal es menor.": 0,
+            "C. Personas de distintos ingresos gastan igual en productos sujetos a impuestos estatales.": 1,
+            "D. Un estado con menor impuesto al consumo tiende a redistribuir ingresos de ricos a otros grupos.": 0
+        }
+    },
+    {
+        "input": "En Nueva York, ocurre un fenómeno curioso: ciertos momentos nocturnos registran picos abruptos en el consumo de agua. Estos coinciden con intervalos publicitarios largos en programas televisivos populares, cuando la gente va al baño simultáneamente. ¿Qué conclusión es más razonable?\nA. Insertar anuncios tras programas populares es menos efectivo que en programas menos vistos.\nB. Las cadenas deben aumentar tarifas de anuncios en programas populares para evitar competencia.\nC. Las personas modernas generalmente detestan los largos anuncios en TV.\nD. Los anuncios deben ser breves y fragmentados para ser efectivos.",
+        "target_scores": {
+            "A. Insertar anuncios tras programas populares es menos efectivo que en programas menos vistos.": 0,
+            "B. Las cadenas deben aumentar tarifas de anuncios en programas populares para evitar competencia.": 0,
+            "C. Las personas modernas generalmente detestan los largos anuncios en TV.": 1,
+            "D. Los anuncios deben ser breves y fragmentados para ser efectivos.": 0
+        }
+    },
+    {
+        "input": "Los rumores sobre caos financiero dañan la reputación bancaria. Si los directivos no los refutan, se propagan y destruyen la confianza de los clientes. Pero si intentan desmentirlos, la desconfianza aumenta más que disminuye. Dadas estas premisas, ¿qué afirmación es necesariamente cierta?\nA. La mejor estrategia ante rumores falsos es revelar la verdad financiera.\nB. La reputación bancaria no se ve afectada por campañas publicitarias intensas.\nC. Los directivos no pueden detener rumores que amenazan la reputación bancaria.\nD. Los rumores financieros correctos afectan menos la confianza que los falsos.",
+        "target_scores": {
+            "A. La mejor estrategia ante rumores falsos es revelar la verdad financiera.": 0,
+            "B. La reputación bancaria no se ve afectada por campañas publicitarias intensas.": 0,
+            "C. Los directivos no pueden detener rumores que amenazan la reputación bancaria.": 1,
+            "D. Los rumores financieros correctos afectan menos la confianza que los falsos.": 0
+        }
+    },
+    {
+        "input": "Para los primeros escritores que nombraron al feudalismo, su existencia presuponía la del aristocratismo. Sin embargo, la aristocracia solo existe si títulos nobiliarios y su herencia son reconocidos legalmente. Aunque el feudalismo existía antes del siglo VIII, los títulos hereditarios reconocidos legalmente surgieron en el siglo XII, cuando muchas instituciones feudales decaían. ¿Qué tesis respalda esto?\nA. Antes del siglo XII, las instituciones feudales europeas operaban sin clase dominante.\nB. Definir feudalismo requiriendo aristocracia implica distorsionar la historia.\nC. El estatus legal distintivo de un grupo no basta para considerarlo clase social.\nD. La existencia previa de instituciones feudales es prerrequisito para la aristocracia en su definición estricta.",
+        "target_scores": {
+            "A. Antes del siglo XII, las instituciones feudales europeas operaban sin clase dominante.": 0,
+            "B. Definir feudalismo requiriendo aristocracia implica distorsionar la historia.": 1,
+            "C. El estatus legal distintivo de un grupo no basta para considerarlo clase social.": 0,
+            "D. La existencia previa de instituciones feudales es prerrequisito para la aristocracia en su definición estricta.": 0
+        }
+    },
+    {
+        "input": "Proporcionalmente, más personas diagnosticadas con esquizofrenia nacen en invierno. Un estudio reciente sugiere que la causa podría ser desnutrición materna durante los meses más fríos, cuando es difícil comprar o pagar una variedad de alimentos frescos ¿Qué afirmación respalda esta conclusión?\nA. La incidencia de esquizofrenia no ha correlacionado con recesiones económicas.\nB. La mayoría de áreas cerebrales afectadas se desarrollan en el último mes de gestación.\nC. La tasa de suicidios en invierno es mayor que en otras estaciones.\nD. Los nutrientes en alimentos frescos y refrigerados tienen igual efecto en desarrollo cerebral.",
+        "target_scores": {
+            "A. La incidencia de esquizofrenia no ha correlacionado con recesiones económicas.": 0,
+            "B. La mayoría de áreas cerebrales afectadas se desarrollan en el último mes de gestación.": 1,
+            "C. La tasa de suicidios en invierno es mayor que en otras estaciones.": 0,
+            "D. Los nutrientes en alimentos frescos y refrigerados tienen igual efecto en desarrollo cerebral.": 0
+        }
+    },
+    {
+        "input": "En El Sentido Común, Thomas Paine cuestionó la legitimidad de la monarquía hereditaria. A quienes defendían la herencia, preguntó: ¿cómo surgió el primer rey? Solo hay tres opciones: sorteo, elección o usurpación. Si fue por sorteo/elección, se establecería un precedente contrario a la herencia. Si fue por usurpación, nadie osaría defender la sucesión hereditaria. ¿Qué técnica argumentativa usó Paine?\nA. Contraponer una proposición con una verdad establecida.\nB. Excluir todas las explicaciones excepto una para validarla.\nC. Mostrar que todas las opciones conducen a una misma conclusión.\nD. Refutar una proposición mostrando que implica conclusiones falsas.",
+        "target_scores": {
+            "A. Contraponer una proposición con una verdad establecida.": 0,
+            "B. Excluir todas las explicaciones excepto una para validarla.": 0,
+            "C. Mostrar que todas las opciones conducen a una misma conclusión.": 1,
+            "D. Refutar una proposición mostrando que implica conclusiones falsas.": 0
+        }
+    },
+    {
+        "input": "Desde 1997, Hong Kong sufrió grave recesión económica, año en que se implementó \"un país, dos sistemas\". Algunos atribuyen la recesión a este sistema. ¿Qué pregunta refuta mejor este argumento?\nA. ¿La coincidencia temporal implica causalidad?\nB. ¿Por qué Taiwán, Singapur, Corea y EE.UU. también tuvieron recesiones?\nC. ¿Por qué la economía británica (antiguo administrador) también decayó?\nD. ¿Por qué la economía china continental prosperó?",
+        "target_scores": {
+            "A. ¿La coincidencia temporal implica causalidad?": 1,
+            "B. ¿Por qué Taiwán, Singapur, Corea y EE.UU. también tuvieron recesiones?": 0,
+            "C. ¿Por qué la economía británica (antiguo administrador) también decayó?": 0,
+            "D. ¿Por qué la economía china continental prosperó?": 0
+        }
+    },
+    {
+        "input": "Exigir áreas separadas para fumadores y no fumadores en empresas privadas es una regulación irrazonable. El daño por inhalación pasiva no es el problema principal, sino la injerencia gubernamental en políticas empresariales. ¿Qué principio justifica esta conclusión?\nA. El derecho a respirar aire limpio prevalece sobre la autonomía empresarial.\nB. La autonomía empresarial prevalece sobre derechos individuales protegidos.\nC. La injerencia gubernamental solo es válida si hay riesgo de daño personal.\nD. Proteger empleados de daños laborales es obligación de las empresas.",
+        "target_scores": {
+            "A. El derecho a respirar aire limpio prevalece sobre la autonomía empresarial.": 0,
+            "B. La autonomía empresarial prevalece sobre derechos individuales protegidos.": 1,
+            "C. La injerencia gubernamental solo es válida si hay riesgo de daño personal.": 0,
+            "D. Proteger empleados de daños laborales es obligación de las empresas.": 0
+        }
+    },
+    {
+        "input": "Las ovejas salvajes mouflon de Córcega son descendientes directos de las ovejas domésticas que escaparon hace 8 000 años. Así, ofrecen a arqueólogos una imagen de las ovejas domésticas tempranas antes de la selección artificial moderna. ¿Qué supuesto se requiere?\nA. Las mouflon se parecen más a sus ancestros de hace 8 000 años que a las ovejas modernas.\nB. Las ovejas domésticas antiguas eran muy distintas a las salvajes actuales.\nC. Las ovejas domésticas modernas descienden directamente de salvajes de hace 8 000 años.\nD. No existían otras razas escapadas que pudieran ser ancestros de las mouflon.",
+        "target_scores": {
+            "A. Las mouflon se parecen más a sus ancestros de hace 8 000 años que a las ovejas modernas.": 1,
+            "B. Las ovejas domésticas antiguas eran muy distintas a las salvajes actuales.": 0,
+            "C. Las ovejas domésticas modernas descienden directamente de salvajes de hace 8 000 años.": 0,
+            "D. No existían otras razas escapadas que pudieran ser ancestros de las mouflon.": 0
+        }
+    },
+    {
+        "input": "Un microbio del lago de Sanabria suele reproducirse por encima del punto de congelación. Ahora es invierno y el lago está helado. Si el microbio existe allí, actualmente no se reproduce. Si las premisas son ciertas, ¿qué se deduce?\nA. La conclusión es probablemente cierta, pero podría ser falsa.\nB. La conclusión es probablemente falsa, pero podría ser cierta.\nC. La conclusión necesariamente es cierta.\nD. La conclusión necesariamente es falsa.",
+        "target_scores": {
+            "A. La conclusión es probablemente cierta, pero podría ser falsa.": 1,
+            "B. La conclusión es probablemente falsa, pero podría ser cierta.": 0,
+            "C. La conclusión necesariamente es cierta.": 0,
+            "D. La conclusión necesariamente es falsa.": 0
+        }
+    },
+    {
+        "input": "Sra. Martínez: Datos oficiales muestran que EE.UU., con tecnología médica avanzada, ocupa el puesto 17 en mortalidad infantil. Concluyo que la tecnología médica protege más a adultos que a bebés. Sr. Zapatero: Discrepo. La tecnología médica no es accesible equitativamente. La alta mortalidad infantil refleja más la pobreza que la tecnología. ¿Cómo rebate Sr. Zapatero a Sra. Martínez?\nA. Cuestiona la validez de su conclusión.\nB. Cuestiona la veracidad de sus datos.\nC. Ofrece otra interpretación de sus datos.\nD. Señala que tergiversa un concepto clave.",
+        "target_scores": {
+            "A. Cuestiona la validez de su conclusión.": 0,
+            "B. Cuestiona la veracidad de sus datos.": 0,
+            "C. Ofrece otra interpretación de sus datos.": 1,
+            "D. Señala que tergiversa un concepto clave.": 0
+        }
+    },
+    {
+        "input": "El Ártico alberga petróleo, gas, minerales y recursos pesqueros, con 1/4 de reservas globales no explotadas. El calentamiento global derrite el hielo en la región ártica a 9% por década. Una ruta que conecta el Atlántico y el Pacífico a lo largo de la costa norte de Rusia, cruzando el Océano Ártico, podría reducir en decenas de miles de kilómetros la distancia de Asia a Europa en comparación con el Canal de Panamá. Por tanto, su explotación beneficiaría a la humanidad. ¿Qué afirmación NO debilita este argumento?\nA. El el derretimiento del permafrost liberaría metano, aumentando eventos climáticos extremos.\nB. La comunidad internacional ha enfrentado numerosos conflictos graves debido a la explotación del Ártico, pero las partes involucradas han optado por posponer o manejar discretamente los asuntos.\nC. La explotación aceleraría el deshielo, elevando el nivel del mar.\nD. Los barcos introducirían especies invasoras, dañando ecosistemas.",
+        "target_scores": {
+            "A. El el derretimiento del permafrost liberaría metano, aumentando eventos climáticos extremos.": 0,
+            "B. La comunidad internacional ha enfrentado numerosos conflictos graves debido a la explotación del Ártico, pero las partes involucradas han optado por posponer o manejar discretamente los asuntos.": 1,
+            "C. La explotación aceleraría el deshielo, elevando el nivel del mar.": 0,
+            "D. Los barcos introducirían especies invasoras, dañando ecosistemas.": 0
+        }
+    },
+    {
+        "input": "Según un estudio de 1980, el 10% de estadounidenses mayores de 16 años eran analfabetos funcionales. Si en 2000 hubiera 250 millones de ciudadanos mayores de 16 años, se proyectarían 25 millones de analfabetos funcionales. ¿Qué hecho debilita esta conclusión?\nA. De 1975 a 1980, la tasa de analfabetismo funcional disminuyó 3%.\nB. La proporción de graduados de secundaria que no van a la universidad aumentó.\nC. Las encuestas mal diseñadas suelen dar información inexacta.\nD. Muchos encuestados en 1980 serían incluidos en un estudio del 2000.",
+        "target_scores": {
+            "A. De 1975 a 1980, la tasa de analfabetismo funcional disminuyó 3%.": 1,
+            "B. La proporción de graduados de secundaria que no van a la universidad aumentó.": 0,
+            "C. Las encuestas mal diseñadas suelen dar información inexacta.": 0,
+            "D. Muchos encuestados en 1980 serían incluidos en un estudio del 2000.": 0
+        }
+    },
+    {
+        "input": "Hormigas de fuego brasileñas infestan el sur de EE.UU. A diferencia de Brasil, en EE.UU. dos reinas comparten nidos, haciendo a estas hormigas más agresivas. Al eliminar insectos competidores, monopolizan alimentos y proliferan. Como depredadores naturales brasileños controlan su población allí, importarlos a EE.UU. beneficiaría el medio ambiente. ¿Qué afirmación NO permite esta conclusión?\nA. Los depredadores brasileños no serán eliminados por reinas dobles agresivas.\nB. Los depredadores brasileños sobrevivirán en el ambiente estadounidense.\nC. Los depredadores controlarán la expansión hacia el norte antes de que ocurra.\nD. Los depredadores importados no dañarán más el ambiente que las hormigas.",
+        "target_scores": {
+            "A. Los depredadores brasileños no serán eliminados por reinas dobles agresivas.": 0,
+            "B. Los depredadores brasileños sobrevivirán en el ambiente estadounidense.": 0,
+            "C. Los depredadores controlarán la expansión hacia el norte antes de que ocurra.": 1,
+            "D. Los depredadores importados no dañarán más el ambiente que las hormigas.": 0
+        }
+    },
+    {
+        "input": "El desafío es una fuente crucial de autoconocimiento, ya que quienes prestan atención a sus reacciones emocionales y físicas al enfrentar desafíos pueden discernir sus debilidades con mayor eficacia. ¿Qué opción refleja mejor este principio?\nA. Aunque se tema hablar en público, aceptar invitaciones para hacerlo genera admiración y satisfacción personal al superar obstáculos.\nB. La compasión es valiosa no solo por generar emociones positivas, sino también por brindar oportunidades para enriquecer la vida de otros.\nC. Un pianista en concierto no debe ver los errores en interpretaciones complejas como totalmente negativos; comprender su origen permite mejorar futuras actuaciones.\nD. Un vendedor debe entender que las comisiones no solo son recompensas por ventas, sino también satisfacción derivada del carisma personal demostrado durante el proceso.",
+        "target_scores": {
+            "A. Aunque se tema hablar en público, aceptar invitaciones para hacerlo genera admiración y satisfacción personal al superar obstáculos.": 0,
+            "B. La compasión es valiosa no solo por generar emociones positivas, sino también por brindar oportunidades para enriquecer la vida de otros.": 0,
+            "C. Un pianista en concierto no debe ver los errores en interpretaciones complejas como totalmente negativos; comprender su origen permite mejorar futuras actuaciones.": 1,
+            "D. Un vendedor debe entender que las comisiones no solo son recompensas por ventas, sino también satisfacción derivada del carisma personal demostrado durante el proceso.": 0
+        }
+    },
+    {
+        "input": "Los científicos plantean que una grasa especial, la \"P-grasa\", es esencial para el desarrollo visual. Observaron que bebés alimentados con leche baja en P-grasa tienen peor visión que los amamantados (la leche materna es rica en P-grasa). Además, bebés prematuros por 5 - 6 semanas tienen peor visión que los nacidos a término. ¿Qué afirmación respalda mejor esta hipótesis?\nA. Adultos con dietas bajas en P - grasa tienen peor visión que aquellos con dietas ricas en P - grasa.\nB. La mala visión materna no afecta la visión del bebé.\nC. La visión fetal se desarrolla en los últimos 3 meses de gestación.\nD. Los fetos absorben mayores cantidades de P - grasa de la madre solo en las últimas 4 semanas de gestación.",
+        "target_scores": {
+            "A. Adultos con dietas bajas en P - grasa tienen peor visión que aquellos con dietas ricas en P - grasa.": 0,
+            "B. La mala visión materna no afecta la visión del bebé.": 0,
+            "C. La visión fetal se desarrolla en los últimos 3 meses de gestación.": 0,
+            "D. Los fetos absorben mayores cantidades de P - grasa de la madre solo en las últimas 4 semanas de gestación.": 1
+        }
+    },
+    {
+        "input": "Excluyendo compras empresariales, el gasto promedio en automóviles nuevos aumentó un 30% en 5 años. En el mismo período, la proporción de gasto en automóviles respecto al presupuesto familiar promedio no cambió. Por tanto, el presupuesto familiar promedio también aumentó un 30%. ¿Qué supuesto sustenta esto?\nA. El número promedio de autos nuevos comprados por hogar no ha cambiado en los últimos 5 años.\nB. En los últimos 5 años, las empresas han visto un aumento promedio del 30% en el gasto en vehículos nuevos.\nC. En los últimos cinco años, el gasto promedio de los hogares en gastos relacionados con el automóvil no ha cambiado.\nD. En los últimos cinco años, el hogar promedio no ha gastado dinero en alimentos y vivienda.",
+        "target_scores": {
+            "A. El número promedio de autos nuevos comprados por hogar no ha cambiado en los últimos 5 años.": 1,
+            "B. En los últimos 5 años, las empresas han visto un aumento promedio del 30% en el gasto en vehículos nuevos.": 0,
+            "C. En los últimos cinco años, el gasto promedio de los hogares en gastos relacionados con el automóvil no ha cambiado.": 0,
+            "D. En los últimos cinco años, el hogar promedio no ha gastado dinero en alimentos y vivienda.": 0
+        }
+    },
+    {
+        "input": "Un modelo eficiente de una marca cuesta 270.000 euros, mientras que uno estándar cuesta 170.000 euros. Según precios actuales de gasolina y consumo por 100 km, los compradores del modelo eficiente necesitarían recorrer 300.000 km para compensar la diferencia. Si el precio de la gasolina sube, esta distancia aumentaría. ¿Qué defecto tiene este argumento?\nA. El argumento no tuvo en cuenta la posibilidad de una futura reducción del precio del petróleo.\nB. La evidencia no respalda adecuadamente la conclusión.\nC. La evidencia y la conclusión son contradictorias.\nD. Se usaron supuestos no verificados como evidencia.",
+        "target_scores": {
+            "A. El argumento no tuvo en cuenta la posibilidad de una futura reducción del precio del petróleo.": 0,
+            "B. La evidencia no respalda adecuadamente la conclusión.": 0,
+            "C. La evidencia y la conclusión son contradictorias.": 1,
+            "D. Se usaron supuestos no verificados como evidencia.": 0
+        }
+    },
+    {
+        "input": "Antes de un plan de pérdida de peso, se mide el promedio diario de calorías quemadas por pacientes. Los médicos asignan dietas con ingesta calórica menor a un porcentaje específico del consumo normal, prediciendo un peso objetivo. Sin embargo, los pacientes no alcanzan dicho peso. ¿Qué hecho explica esto?\nA. Al restringir calorías, el promedio diario de calorías quemadas disminuye.\nB. La mayoría no ha seguido otras dietas exitosamente.\nC. La reducción abrupta de calorías no afecta la adherencia a la dieta.\nD. Los médicos han predicho exitosamente pérdidas de peso en otros pacientes.",
+        "target_scores": {
+            "A. Al restringir calorías, el promedio diario de calorías quemadas disminuye.": 1,
+            "B. La mayoría no ha seguido otras dietas exitosamente.": 0,
+            "C. La reducción abrupta de calorías no afecta la adherencia a la dieta.": 0,
+            "D. Los médicos han predicho exitosamente pérdidas de peso en otros pacientes.": 0
+        }
+    },
+    {
+        "input": "Un cartel en un vestuario de piscina pública indica: \"Multa de 5 - 10 euros por entrar con chanclas\". Un cliente cuestiona: \"Según la ley, las multas deben ser implementadas por autoridades competentes. ¿Cómo pueden multar arbitrariamente?\". El empleado responde: \"El objetivo es educar a aquellos que carecen de sentido de la moralidad pública y garantizar la higiene de la piscina a través de multas.\". ¿Cuál de los siguientes es el error lógico más similar cometido por el miembro del personal en la conversación anterior?\nA. A: Para ser un país desarrollado, debemos acelerar la industria automotriz privada.  \nB: ¿Por qué?  \nA: Porque en países desarrollados todos tienen auto.\nB. A: ¿Qué es la guerra?  \nB: Es el intervalo entre dos paces.  \nA: ¿Qué es la paz?  \nB: Es el intervalo entre dos guerras.\nC. Ciudadano: \"El convenio de civismo tiene 15 artículos y 60 cláusulas; es difícil de recordar. ¿Podría simplificarse?\"  \nExperto: \"Fue creado bajo supervisión gubernamental, con aportes ciudadanos y expertos\".\nD. Guardia: \"Todos deben usar gorro de baño. Compre uno si no tiene\".  \nCliente: \"¿Por qué esos dos no usan gorro?\"  \nGuardia: \"Son empleados\".",
+        "target_scores": {
+            "A. A: Para ser un país desarrollado, debemos acelerar la industria automotriz privada.  \nB: ¿Por qué?  \nA: Porque en países desarrollados todos tienen auto.": 0,
+            "B. A: ¿Qué es la guerra?  \nB: Es el intervalo entre dos paces.  \nA: ¿Qué es la paz?  \nB: Es el intervalo entre dos guerras.": 0,
+            "C. Ciudadano: \"El convenio de civismo tiene 15 artículos y 60 cláusulas; es difícil de recordar. ¿Podría simplificarse?\"  \nExperto: \"Fue creado bajo supervisión gubernamental, con aportes ciudadanos y expertos\".": 1,
+            "D. Guardia: \"Todos deben usar gorro de baño. Compre uno si no tiene\".  \nCliente: \"¿Por qué esos dos no usan gorro?\"  \nGuardia: \"Son empleados\".": 0
+        }
+    },
+    {
+        "input": "Científicos: Al igual que la Tierra, Venus tiene un núcleo de magma que libera calor al rotar. La Tierra libera calor mediante erupciones volcánicas por tectónica de placas, pero Venus no muestra este fenómeno. ¿Qué explica esta paradoja?\nA. El efecto invernadero por CO₂ en Venus eleva su temperatura superficial a 485°C.\nB. El magma de Venus tuvo fluctuaciones térmicas más extremas que el terrestre.\nC. La lenta rotación y corteza delgada de Venus facilitan la liberación de calor.\nD. Las rocas superficiales de Venus son más duras debido a alta presión y temperatura.",
+        "target_scores": {
+            "A. El efecto invernadero por CO₂ en Venus eleva su temperatura superficial a 485°C.": 0,
+            "B. El magma de Venus tuvo fluctuaciones térmicas más extremas que el terrestre.": 0,
+            "C. La lenta rotación y corteza delgada de Venus facilitan la liberación de calor.": 1,
+            "D. Las rocas superficiales de Venus son más duras debido a alta presión y temperatura.": 0
+        }
+    },
+    {
+        "input": "Debido al envejecimiento demográfico, el gobierno alemán enfrenta un dilema: Si no se reforma el sistema de pensiones, se producirá un fenómeno de pensiones insostenible. Las soluciones políticas incluyen aumentar la tasa de cotización, reducir el nivel de pagos y elevar la edad de jubilación. La medida más controvertida es el aumento de la edad de jubilación. El gobierno que lleve a cabo esta política puede perder un gran número de votos en las próximas elecciones. No obstante, en 2007, Alemania completó el proceso legal para incrementar la edad de jubilación de 65 a 67 años. ¿Qué afirmación, de ser cierta, explicaría mejor por qué el gobierno asumió este riesgo político?\nA. En 2001 y 2004, se fijaron topes máximos de cotización y mínimos de pago, agotando opciones.\nB. La esperanza de vida aumentó, extendiendo el período de cobro de pensiones.\nC. Retrasar un año la jubilación reduce el gasto en pensiones en casi 1% del PIB.\nD. Se estableció un período de transición de 20 años (desde 2012) para implementar el cambio.",
+        "target_scores": {
+            "A. En 2001 y 2004, se fijaron topes máximos de cotización y mínimos de pago, agotando opciones.": 1,
+            "B. La esperanza de vida aumentó, extendiendo el período de cobro de pensiones.": 0,
+            "C. Retrasar un año la jubilación reduce el gasto en pensiones en casi 1% del PIB.": 0,
+            "D. Se estableció un período de transición de 20 años (desde 2012) para implementar el cambio.": 0
+        }
+    },
+    {
+        "input": "Tras ganar el Nobel, García Márquez sorprendió al publicar Crónica de una muerte anunciada, una tragedia narrativamente compacta. ¿Qué supuesto subyace a esta crítica?\nA. Antes del Nobel, ya había escrito obras excelentes.\nB. Sus obras posteriores al Nobel siguen siendo atractivas.\nC. Todos los trabajos de un Nobel son sorprendentes.\nD. Tras el Nobel, los escritores casi no pueden producir obras cautivadoras.",
+        "target_scores": {
+            "A. Antes del Nobel, ya había escrito obras excelentes.": 0,
+            "B. Sus obras posteriores al Nobel siguen siendo atractivas.": 0,
+            "C. Todos los trabajos de un Nobel son sorprendentes.": 0,
+            "D. Tras el Nobel, los escritores casi no pueden producir obras cautivadoras.": 1
+        }
+    },
+    {
+        "input": "Se halló un fósil de coral de la última glaciación en aguas mucho más profundas que su hábitat actual. Aunque similar al coral moderno, su presencia en aguas profundas sugiere diferencias importantes. ¿Qué supuesto se asume?\nA. Los cambios geográficos no hundieron estos fósiles.\nB. Los corales actuales habitan zonas cercanas a donde se hallaron los fósiles profundos.\nC. No hay fósiles de este coral anteriores a las glaciaciones.\nD. Se han encontrado fósiles de este coral en todas las fases glaciares.",
+        "target_scores": {
+            "A. Los cambios geográficos no hundieron estos fósiles.": 1,
+            "B. Los corales actuales habitan zonas cercanas a donde se hallaron los fósiles profundos.": 0,
+            "C. No hay fósiles de este coral anteriores a las glaciaciones.": 0,
+            "D. Se han encontrado fósiles de este coral en todas las fases glaciares.": 0
+        }
+    },
+    {
+        "input": "El lago Dali, formado por actividad volcánica, alberga peces que, como el salmón, migran a ríos de agua dulce para desovar. Aunque los 4 ríos que lo alimentan son interiores, los científicos creen que estos peces llegaron originalmente del mar. ¿Qué hecho respalda esto?\nA. Crías de peces del lago Dali sobrevivieron en otro lago distante.\nB. El deshielo glacial conectó el lago Dali con el río Liao, que desemboca en el mar.\nC. Los peces de otros ríos son más grandes que los del lago Dali.\nD. Los peces mueren en 1 - 2 días si se colocan en agua salada o dulce.",
+        "target_scores": {
+            "A. Crías de peces del lago Dali sobrevivieron en otro lago distante.": 0,
+            "B. El deshielo glacial conectó el lago Dali con el río Liao, que desemboca en el mar.": 1,
+            "C. Los peces de otros ríos son más grandes que los del lago Dali.": 0,
+            "D. Los peces mueren en 1 - 2 días si se colocan en agua salada o dulce.": 0
+        }
+    },
+    {
+        "input": "La tiña es una infección cutánea fúngica. Muchos pacientes presentan síntomas recurrentes, lo que sugiere que la infección nunca se cura completamente. Este razonamiento asume que una de las causas de síntomas recurrentes de tinea es:\nA. Desconoce la causa de la tiña.\nB. No se reinfecta repetidamente.\nC. No usó medicamentos inicialmente.\nD. Nunca se curará completamente.",
+        "target_scores": {
+            "A. Desconoce la causa de la tiña.": 0,
+            "B. No se reinfecta repetidamente.": 1,
+            "C. No usó medicamentos inicialmente.": 0,
+            "D. Nunca se curará completamente.": 0
+        }
+    },
+    {
+        "input": "El gobierno del país A prohibió importar productos industriales nuevos para proteger su desarrollo local. Sin embargo, esto aumentó los costos de empresas dependientes del comercio internacional, reduciendo su competitividad. ¿Qué inferencia es válida?\nA. El gobierno no debería imponer restricciones a las importaciones.\nB. El país A solo importa productos de sus socios exportadores.\nC. Importar es más barato que producir localmente.\nD. La política perjudicó la economía nacional.",
+        "target_scores": {
+            "A. El gobierno no debería imponer restricciones a las importaciones.": 0,
+            "B. El país A solo importa productos de sus socios exportadores.": 0,
+            "C. Importar es más barato que producir localmente.": 1,
+            "D. La política perjudicó la economía nacional.": 0
+        }
+    },
+    {
+        "input": "Se cree que las donaciones de artículos valiosos apoyan financieramente a los museos. Pero almacenarlos implica costos, por lo que estas donaciones aumentan, no alivian, las necesidades financieras. ¿Qué hecho debilita esto?\nA. Los museos a veces deben comprar artículos para complementar donaciones.\nB. Los museos exhiben algunas donaciones en lugar de almacenarlas.\nC. Los museos no pueden exhibir artículos muy baratos como si fueran valiosos.\nD. Quienes donan objetos valiosos también suelen donar dinero.",
+        "target_scores": {
+            "A. Los museos a veces deben comprar artículos para complementar donaciones.": 1,
+            "B. Los museos exhiben algunas donaciones en lugar de almacenarlas.": 0,
+            "C. Los museos no pueden exhibir artículos muy baratos como si fueran valiosos.": 0,
+            "D. Quienes donan objetos valiosos también suelen donar dinero.": 0
+        }
+    },
+    {
+        "input": "Una tienda vende camisas en 3 tallas (S, M, L) y 3 colores (rojo, amarillo, azul). Alguien compró 3 camisas con las siguientes condiciones: 1. Cada camisa se define por talla y color. 2. No compró tallas S y L simultáneamente. 3. No hay camisas rojas en talla S. 4. No hay camisas azules en talla L. ¿Qué opción es imposible?\nA. Dos camisas L y dos rojas.\nB. Dos camisas M y dos rojas.\nC. Dos camisas S (una amarilla, una azul).\nD. Dos camisas S y dos rojas.",
+        "target_scores": {
+            "A. Dos camisas L y dos rojas.": 0,
+            "B. Dos camisas M y dos rojas.": 0,
+            "C. Dos camisas S (una amarilla, una azul).": 0,
+            "D. Dos camisas S y dos rojas.": 1
+        }
+    },
+    {
+        "input": "Aunque los sistemas de inspección X e Y operan bajo principios diferentes, ambos detectan y reportan defectos en productos de manera oportuna, aunque también rechazan erróneamente el 3% de productos sin defectos. Dado que el costo de estos rechazos es alto, instalar ambos sistemas simultáneamente (en lugar de uno solo) y rechazar únicamente los productos que ambos consideren defectuosos reduciría costos. ¿Qué supuesto requiere este argumento?\nA. Cualquier sistema utilizado requiere una segunda inspección solo para productos no rechazados inicialmente.\nB. El 3% de productos sin defectos rechazados por el sistema X no coincide completamente con el 3% rechazado por el sistema Y.\nC. En su rango de precios, X e Y son los sistemas de inspección menos propensos a errores del mercado.\nD. Las pérdidas por aceptar un producto defectuoso superan las de rechazar uno sin defectos.",
+        "target_scores": {
+            "A. Cualquier sistema utilizado requiere una segunda inspección solo para productos no rechazados inicialmente.": 0,
+            "B. El 3% de productos sin defectos rechazados por el sistema X no coincide completamente con el 3% rechazado por el sistema Y.": 1,
+            "C. En su rango de precios, X e Y son los sistemas de inspección menos propensos a errores del mercado.": 0,
+            "D. Las pérdidas por aceptar un producto defectuoso superan las de rechazar uno sin defectos.": 0
+        }
+    },
+    {
+        "input": "Si una empresa puede manejar eficazmente una crisis, esto puede mejorar su reputación. Una buena reputación puede destruirse en un instante, mientras que una mala requiere mucho tiempo para repararse. Si esto es cierto, ¿qué afirmación se respalda mejor?\nA. Mantener la reputación es la responsabilidad más crucial de la junta directiva.\nB. Reparar una mala reputación es más difícil que ganar una buena.\nC. Si el riesgo reputacional no cuenta como riesgo, entonces no existe riesgo alguno.\nD. destruir una buena reputación es más fácil que eliminar una mala.",
+        "target_scores": {
+            "A. Mantener la reputación es la responsabilidad más crucial de la junta directiva.": 0,
+            "B. Reparar una mala reputación es más difícil que ganar una buena.": 0,
+            "C. Si el riesgo reputacional no cuenta como riesgo, entonces no existe riesgo alguno.": 0,
+            "D. destruir una buena reputación es más fácil que eliminar una mala.": 1
+        }
+    },
+    {
+        "input": "Los defensores de la pena capital argumentan que el miedo a la muerte disuade crímenes graves y que es más económica que la cadena perpetua. Sin embargo, estudios confiables indican que, económicamente, la cadena perpetua es preferible. Por tanto, la pena capital debería abolirse. ¿Qué evaluación es correcta?\nA. El argumento ignora otro motivo clave para apoyar la pena capital, por lo que es deficiente.\nB. Este argumento tiene la fuerza de la lógica porque sus razones son verdaderas y  tiene que ver con la vida de las personas.\nC. La abolición de la pena de muerte es algo natural y no es necesario discutirlo.\nD. La conclusión es aceptable porque la vida humana es invaluable.",
+        "target_scores": {
+            "A. El argumento ignora otro motivo clave para apoyar la pena capital, por lo que es deficiente.": 1,
+            "B. Este argumento tiene la fuerza de la lógica porque sus razones son verdaderas y  tiene que ver con la vida de las personas.": 0,
+            "C. La abolición de la pena de muerte es algo natural y no es necesario discutirlo.": 0,
+            "D. La conclusión es aceptable porque la vida humana es invaluable.": 0
+        }
+    },
+    {
+        "input": "Según estadísticas de 1999, el 10% de residentes estadounidenses mayores de 35 años padecían obesidad. Si para 2009 la población alcanza 400 millones, entonces habría 20 millones de obesos en ese grupo. ¿Qué supuesto subyace a esta proyección?\nA. La población mundial crecerá significativamente en 10 años.\nB. Los hábitos alimenticios no cambiarán en 10 años.\nC. Los mayores de 35 años representarán la mitad de la población en 2009.\nD. No ocurrirán guerras importantes en 10 años.",
+        "target_scores": {
+            "A. La población mundial crecerá significativamente en 10 años.": 0,
+            "B. Los hábitos alimenticios no cambiarán en 10 años.": 0,
+            "C. Los mayores de 35 años representarán la mitad de la población en 2009.": 1,
+            "D. No ocurrirán guerras importantes en 10 años.": 0
+        }
+    },
+    {
+        "input": "Estudios demuestran que alimentos ricos en grasas insaturadas y bajos en saturadas previenen enfermedades cardíacas. Los peces obtienen omega-3 de algas, y el ganado de pasto. Por tanto, consumir carne de res o pescado es efectivo para prevenir cardiopatías. ¿Qué hecho debilita esto?\nA. El omega - 3 del pescado se absorbe mejor que el de la carne.\nB. El proceso digestivo del ganado convierte omega - 3 en grasas saturadas.\nC. La carne contiene menos omega - 3 por unidad que el pescado.\nD. La crisis de las \"vacas locas\" redujo el consumo de carne y aumentó el de pescado.",
+        "target_scores": {
+            "A. El omega - 3 del pescado se absorbe mejor que el de la carne.": 0,
+            "B. El proceso digestivo del ganado convierte omega - 3 en grasas saturadas.": 1,
+            "C. La carne contiene menos omega - 3 por unidad que el pescado.": 0,
+            "D. La crisis de las \"vacas locas\" redujo el consumo de carne y aumentó el de pescado.": 0
+        }
+    },
+    {
+        "input": "Grandes acumulaciones de nieve prolongan climas extremos. Si una tormenta invernal cubre las Grandes Llanuras, la nieve refleja la radiación solar, manteniendo bajas temperaturas. Esto permite que frentes fríos desde Canadá desencadenen más tormentas. ¿Qué conclusión es válida?\nA. El clima invernal allí resulta de movimientos anormales de masas de aire.\nB. Incluso temperaturas ligeramente bajo cero pueden convertir nevadas leves en tormentas graves.\nC. Las Grandes Llanuras son más vulnerables a climas extremos.\nD. Si en invierno hay más nieve de lo normal que persiste hasta primavera, el invierno será más frío.",
+        "target_scores": {
+            "A. El clima invernal allí resulta de movimientos anormales de masas de aire.": 0,
+            "B. Incluso temperaturas ligeramente bajo cero pueden convertir nevadas leves en tormentas graves.": 0,
+            "C. Las Grandes Llanuras son más vulnerables a climas extremos.": 0,
+            "D. Si en invierno hay más nieve de lo normal que persiste hasta primavera, el invierno será más frío.": 1
+        }
+    },
+    {
+        "input": "\"Todos los inteligentes son miopes. Soy muy miope, luego soy inteligente\". ¿Qué estructura lógica coincide?\nA. Carlos está feliz, luego es gordo: las personas felices engordan.\nB. Soy tonto porque los inteligentes son miopes y yo tengo buena vista.\nC. Todos los cerdos tienen cuatro patas. Este animal tiene ocho, luego no es cerdo.\nD. Todos los pollos tienen pico afilado. Este pájaro en árboles tiene pico afilado, luego es pollo.",
+        "target_scores": {
+            "A. Carlos está feliz, luego es gordo: las personas felices engordan.": 0,
+            "B. Soy tonto porque los inteligentes son miopes y yo tengo buena vista.": 0,
+            "C. Todos los cerdos tienen cuatro patas. Este animal tiene ocho, luego no es cerdo.": 0,
+            "D. Todos los pollos tienen pico afilado. Este pájaro en árboles tiene pico afilado, luego es pollo.": 1
+        }
+    },
+    {
+        "input": "El modelo de Asociación Público-Privada (APP) permite financiamiento estatal e inversión privada en sectores públicos. Sin embargo, el incumplimiento de contratos por alguna parte genera pérdidas. Históricamente, los gobiernos incumplen frecuentemente, pero los inversores siguen participando. ¿Qué explica esto?\nA. El gobierno publicó 80 proyectos clave para incentivar APP.\nB. Las reformas económicas y la urbanización han generado altas expectativas en APP.\nC. Los gobiernos tienen menor capacidad negociadora y técnica en APP que los inversores.\nD. Los inversores compensan riesgos transfiriendo beneficios de otras áreas.",
+        "target_scores": {
+            "A. El gobierno publicó 80 proyectos clave para incentivar APP.": 0,
+            "B. Las reformas económicas y la urbanización han generado altas expectativas en APP.": 0,
+            "C. Los gobiernos tienen menor capacidad negociadora y técnica en APP que los inversores.": 0,
+            "D. Los inversores compensan riesgos transfiriendo beneficios de otras áreas.": 1
+        }
+    },
+    {
+        "input": "En un estudio con estudiantes que bebieron 2-3 cervezas diarias durante 60 días, el 75% mostró deterioro hepático. Experimentos confiables descartan coincidencias. Si esto es cierto, ¿qué conclusión se confirma?\nA. El alcohol causa deterioro hepático.\nB. El consumo de alcohol correlaciona significativamente con daño hepático en jóvenes.\nC. El sexo no tiene relación con el consumo de alcohol ni el daño hepático.\nD. Los investigadores buscan demostrar que los jóvenes no deben beber.",
+        "target_scores": {
+            "A. El alcohol causa deterioro hepático.": 0,
+            "B. El consumo de alcohol correlaciona significativamente con daño hepático en jóvenes.": 1,
+            "C. El sexo no tiene relación con el consumo de alcohol ni el daño hepático.": 0,
+            "D. Los investigadores buscan demostrar que los jóvenes no deben beber.": 0
+        }
+    },
+    {
+        "input": "El pueblo es quien más conoce y se preocupa por su nación. Por tanto, solo él debe decidir su camino. ¿Qué afirmación NO apoya esto?\nA. Estar tan cerca de algo a veces impide ver su verdadera esencia.\nB. La interferencia externa suele empeorar las cosas.\nC. La invasión estadounidense a Irak dañó a ambos pueblos.\nD. Las tradiciones, religiones y economías diversas de los distintos países del mundo son muy diferentes, por lo que sus trayectorias de desarrollo también son distintivas.",
+        "target_scores": {
+            "A. Estar tan cerca de algo a veces impide ver su verdadera esencia.": 1,
+            "B. La interferencia externa suele empeorar las cosas.": 0,
+            "C. La invasión estadounidense a Irak dañó a ambos pueblos.": 0,
+            "D. Las tradiciones, religiones y economías diversas de los distintos países del mundo son muy diferentes, por lo que sus trayectorias de desarrollo también son distintivas.": 0
+        }
+    },
+    {
+        "input": "Aunque algunos emprendedores exitosos (como Bill Gates) no tienen título universitario, la mayoría de gerentes talentosos poseen educación superior, especialmente MBA. Si bien obtener un MBA no es sinónimo de éxito, se puede decir que la educación MBA es la cuna del talento de gestión empresarial moderno. ¿Qué afirmación NO se infiere?\nA. Algunos filósofos son tan competentes en gestión como los MBA.\nB. Algunos genios pueden adquirir conocimientos de MBA sin cursarlo.\nC. Dado que la educación de MBA aún está lejos de la gestión real, aquellos que obtienen un título de MBA aún necesitan acumular experiencia de gestión en la práctica.\nD. La mayoría de graduados de MBA se convierten en ejecutivos destacados, algunos se convierten en ejecutivos senior de empresas de renombre mundial.",
+        "target_scores": {
+            "A. Algunos filósofos son tan competentes en gestión como los MBA.": 0,
+            "B. Algunos genios pueden adquirir conocimientos de MBA sin cursarlo.": 0,
+            "C. Dado que la educación de MBA aún está lejos de la gestión real, aquellos que obtienen un título de MBA aún necesitan acumular experiencia de gestión en la práctica.": 0,
+            "D. La mayoría de graduados de MBA se convierten en ejecutivos destacados, algunos se convierten en ejecutivos senior de empresas de renombre mundial.": 1
+        }
+    },
+    {
+        "input": "La compañía automotriz Veloz Rápid lanzó simultáneamente los modelos Ave Veloz y Avance Enérgico, dos automóviles compactos, durante la primavera. Ambos vehículos ganaron popularidad entre los compradores debido a sus diseños innovadores. Al momento de la venta, ambos modelos incluían un manual sobre el rendimiento de seguridad del automóvil, instrucciones para manejar problemas comunes y un formulario de retroalimentación después de un año de uso. El 56% de los compradores del Ave Veloz adquirieron un seguro para el automóvil, mientras que el 82% de los compradores del Avance Enérgico hicieron lo mismo. Un año después, los formularios de retroalimentación reportando problemas en el Avance Enérgico fueron cuatro veces más numerosos que los del Ave Veloz. Por lo tanto, se concluye que la calidad del Avance Enérgico es inferior a la del Ave Veloz, y que la mayor proporción de compradores del Avance Enérgico que adquirieron seguros tiene una base lógica. ¿Qué hecho refuerza esto?\nA. Ave Veloz recibió el doble de quejas que Avance Enérgico.\nB. Las encuestas de Ave Veloz son más detalladas y consumen más tiempo.\nC. Los compradores de Ave Veloz son más jóvenes en promedio.\nD. Se vendieron el doble de Ave Veloz que de Avance Enérgico.",
+        "target_scores": {
+            "A. Ave Veloz recibió el doble de quejas que Avance Enérgico.": 0,
+            "B. Las encuestas de Ave Veloz son más detalladas y consumen más tiempo.": 0,
+            "C. Los compradores de Ave Veloz son más jóvenes en promedio.": 0,
+            "D. Se vendieron el doble de Ave Veloz que de Avance Enérgico.": 1
+        }
+    },
+    {
+        "input": "En una clase de fanáticos del fútbol, durante el Mundial 2014:  \n- Quienes apoyaban a Argentina no apoyaban a Alemania ni Brasil.  \n- Algunos seguidores de EE.UU. apoyaban a Argentina, Alemania o Brasil.  \nSi la afirmación anterior es verdadera, ¿cuál de las siguientes afirmaciones sobre los alumnos de la clase debe ser verdadera?\nA. Algunos seguidores de Alemania no apoyan a Brasil ni EE.UU.\nB. Algunos seguidores de Brasil apoyan a Alemania.\nC. Algunos seguidores de EE.UU. no apoyan a Alemania ni Brasil.\nD. Todos los seguidores de EE.UU. apoyan a Argentina, Alemania o Brasil.",
+        "target_scores": {
+            "A. Algunos seguidores de Alemania no apoyan a Brasil ni EE.UU.": 0,
+            "B. Algunos seguidores de Brasil apoyan a Alemania.": 0,
+            "C. Algunos seguidores de EE.UU. no apoyan a Alemania ni Brasil.": 1,
+            "D. Todos los seguidores de EE.UU. apoyan a Argentina, Alemania o Brasil.": 0
+        }
+    },
+    {
+        "input": "Según principios de naturaleza humana, las personas actúan según su entorno, con aspectos buenos y malos. Todos tienen intereses egoístas (\"homo economicus\"). ¿Qué afirmación NO se infiere?\nA. La gestión de funcionarios debe basarse en su autodisciplina.\nB. Nadie puede ignorar sus intereses económicos al servir a la sociedad.\nC. Quienes tienen poder público podrían usarlo para corrupción.\nD. Se necesitan sistemas que restrinjan el comportamiento de los funcionarios.",
+        "target_scores": {
+            "A. La gestión de funcionarios debe basarse en su autodisciplina.": 1,
+            "B. Nadie puede ignorar sus intereses económicos al servir a la sociedad.": 0,
+            "C. Quienes tienen poder público podrían usarlo para corrupción.": 0,
+            "D. Se necesitan sistemas que restrinjan el comportamiento de los funcionarios.": 0
+        }
+    },
+    {
+        "input": "Las plantas deben florecer antes de producir semillas. Existen dos tipos de artemisa: la artemisa rusa (Artemisia dracunculus var. inodora) y la artemisa francesa (Artemisia dracunculus var. sativa), que son visualmente similares. La artemisa rusa florece, mientras que la francesa no. Sin embargo, las hojas de la artemisa rusa carecen del aroma distintivo que hace a la francesa ideal como condimento. ¿Qué conclusión se deduce necesariamente?\nA. Además de las variedades rusa y francesa, no existen otros tipos de artemisa.\nB. Como planta ornamental, la artemisa francesa es más apreciada que la rusa.\nC. Las flores de la artemisa rusa podrían carecer de aroma.\nD. Las plantas cultivadas a partir de semillas de artemisa no son de la variedad francesa.",
+        "target_scores": {
+            "A. Además de las variedades rusa y francesa, no existen otros tipos de artemisa.": 0,
+            "B. Como planta ornamental, la artemisa francesa es más apreciada que la rusa.": 0,
+            "C. Las flores de la artemisa rusa podrían carecer de aroma.": 0,
+            "D. Las plantas cultivadas a partir de semillas de artemisa no son de la variedad francesa.": 1
+        }
+    },
+    {
+        "input": "Las acciones y pensamientos humanos, incluso los más mínimos, implican conductas conscientes intencionales y cierta creatividad. En contraste, todas las acciones de una computadora son controladas por programas predefinidos. Por lo tanto, las computadoras no pueden poseer la iniciativa ni la creatividad humanas. ¿Qué afirmación refuerza más este razonamiento?\nA. En el futuro, el control entre humanos y computadoras será ambiguo.\nB. Las computadoras pueden aprender como los humanos.\nC. Los humanos pueden programar simulaciones de iniciativa y creatividad.\nD. Los programas computacionales no pueden simular la iniciativa ni la creatividad humanas.",
+        "target_scores": {
+            "A. En el futuro, el control entre humanos y computadoras será ambiguo.": 0,
+            "B. Las computadoras pueden aprender como los humanos.": 0,
+            "C. Los humanos pueden programar simulaciones de iniciativa y creatividad.": 0,
+            "D. Los programas computacionales no pueden simular la iniciativa ni la creatividad humanas.": 1
+        }
+    },
+    {
+        "input": "Una estación térmica tiene 5 válvulas que regulan la salida de vapor. Las reglas de operación son:  \n1. Si se abre la Válvula 1, deben abrirse simultáneamente la Válvula 2 y cerrarse la Válvula 5.  \n2. Si se abre la Válvula 2 o la Válvula 5, debe cerrarse la Válvula 4.  \n3. No se pueden cerrar simultáneamente las Válvulas 3 y 4.  \nSi se requiere abrir la Válvula 1, ¿qué otras dos válvulas deben abrirse?\nA. Válvula 2 y Válvula 3\nB. Válvula 2 y Válvula 4\nC. Válvula 3 y Válvula 5\nD. Válvula 4 y Válvula 5",
+        "target_scores": {
+            "A. Válvula 2 y Válvula 3": 1,
+            "B. Válvula 2 y Válvula 4": 0,
+            "C. Válvula 3 y Válvula 5": 0,
+            "D. Válvula 4 y Válvula 5": 0
+        }
+    },
+    {
+        "input": "Una institución de encuestas autorizada realizó un sondeo global sobre las causas de los ataques del 11-S. Los resultados mostraron:  \n- 40% atribuyó la causa a políticas exteriores injustas de EE.UU.  \n- 55% a choque entre civilizaciones islámica y occidental  \n- 23% a naturaleza maligna de terroristas  \n- 19% no opinó  \n¿Qué explicación racionaliza estas cifras aparentemente contradictorias?\nA. Algunos encuestados cambiaron posteriormente su opinión.\nB. Determinar las causas del 11-S es complejo y difícil de precisar.\nC. La muestra no fue aleatoria y carece de representatividad.\nD. Muchos encuestados consideraron causas múltiples y no únicas.",
+        "target_scores": {
+            "A. Algunos encuestados cambiaron posteriormente su opinión.": 0,
+            "B. Determinar las causas del 11-S es complejo y difícil de precisar.": 0,
+            "C. La muestra no fue aleatoria y carece de representatividad.": 0,
+            "D. Muchos encuestados consideraron causas múltiples y no únicas.": 1
+        }
+    },
+    {
+        "input": "Ana busca un pretendiente que sea alto, atractivo y doctorado. Conoce a Juan, Pedro, Carlos y Luis. Solo uno cumple todos los requisitos.\n1. Entre los cuatro: 3 son altos, 2 tienen doctorado, 1 es atractivo.\n2. Juan y Pedro son doctores.\n3. Luis y Carlos miden lo mismo.\n4. Carlos y Juan no son ambos altos.\n¿Quién cumple todos los requisitos?\nA. Carlos\nB. Juan\nC. Luis\nD. Pedro",
+        "target_scores": {
+            "A. Carlos": 0,
+            "B. Juan": 0,
+            "C. Luis": 0,
+            "D. Pedro": 1
+        }
+    },
+    {
+        "input": "Al tomar N números naturales (N > 1) para formar una secuencia finita, las subsecuencias de números pares e impares son más cortas. Pero si la secuencia se extiende infinitamente, ambas subsecuencias no serán menores que el total; en lo infinito, una parte puede igualar al todo. ¿Qué conclusión es lógicamente imposible?\nA. En lo finito, el todo siempre es mayor que una parte.\nB. En lo finito, una parte puede ser menor que el todo.\nC. En lo infinito, el todo puede ser mayor que una parte.\nD. En lo infinito, una parte nunca iguala al todo.",
+        "target_scores": {
+            "A. En lo finito, el todo siempre es mayor que una parte.": 0,
+            "B. En lo finito, una parte puede ser menor que el todo.": 0,
+            "C. En lo infinito, el todo puede ser mayor que una parte.": 0,
+            "D. En lo infinito, una parte nunca iguala al todo.": 1
+        }
+    },
+    {
+        "input": "Las personas que practican taekwondo suelen ser más saludables que quienes no lo practican. Por tanto, se afirma que el taekwondo mejora la salud. ¿Qué hecho cuestiona esto?\nA. Cada año, algunas personas se lesionan en el deporte del taekwondo.\nB. El taekwondo entrena reflejos y agilidad.\nC. Los hombres lo practican más que las mujeres.\nD. Solo las personas saludables suelen practicar taekwondo.",
+        "target_scores": {
+            "A. Cada año, algunas personas se lesionan en el deporte del taekwondo.": 0,
+            "B. El taekwondo entrena reflejos y agilidad.": 0,
+            "C. Los hombres lo practican más que las mujeres.": 0,
+            "D. Solo las personas saludables suelen practicar taekwondo.": 1
+        }
+    },
+    {
+        "input": "Científicos descubrieron que la proteína SK3 en cerebros de ratas correlaciona con la memoria: ratas viejas tienen más SK3 y peor memoria que las jóvenes. Concluyen que el aumento de SK3 causa deterioro de memoria. ¿Qué evidencia respalda esto?\nA. Al reducir SK3 en ratas viejas, su memoria mejoró.\nB. Algunas ratas jóvenes tienen alto SK3.\nC. Humanos también tienen SK3 cerebral.\nD. Se conoce la estructura molecular de SK3.",
+        "target_scores": {
+            "A. Al reducir SK3 en ratas viejas, su memoria mejoró.": 1,
+            "B. Algunas ratas jóvenes tienen alto SK3.": 0,
+            "C. Humanos también tienen SK3 cerebral.": 0,
+            "D. Se conoce la estructura molecular de SK3.": 0
+        }
+    },
+    {
+        "input": "En la final de cierto campeonato de fútbol, tres profesores predicen:\nProf. Pablo: El campeón no es Tigres ni Halcones.\nProf. Carlos: El campeón es Leones, no Tigres.\nProf. José: El campeón es Tigres, no Leones.\nSolo uno acertó ambos juicios, otro tuvo un acierto y un error, y el tercero se equivocó totalmente. ¿Quién ganó?\nA. Halcones\nB. Leones\nC. Tigres\nD. Águilas",
+        "target_scores": {
+            "A. Halcones": 0,
+            "B. Leones": 0,
+            "C. Tigres": 1,
+            "D. Águilas": 0
+        }
+    },
+    {
+        "input": "Un supermercado detectaba con frecuencia que algunos clientes se llevaban productos sin pagar, lo que afectaba su rentabilidad. Ante esto, la gerencia tomó la firme decisión de instalar dispositivos de vigilancia y aumentar el dependiente, con el objetivo de aumentar el margen de beneficios. ¿Cuál de los siguientes factores es más relevante para evaluar la decisión de la gerencia?\nA. El nivel de gasto de los clientes que visitan el supermercado diariamente.\nB. La cantidad y el precio de los productos vendidos diariamente en el supermercado.\nC. La proporción entre las pérdidas causadas por el hurto y los costes de operar los dispositivos de vigilancia y contratar más personal.\nD. La relación costo-beneficio entre el precio de compra y venta de los productos del supermercado.",
+        "target_scores": {
+            "A. El nivel de gasto de los clientes que visitan el supermercado diariamente.": 0,
+            "B. La cantidad y el precio de los productos vendidos diariamente en el supermercado.": 0,
+            "C. La proporción entre las pérdidas causadas por el hurto y los costes de operar los dispositivos de vigilancia y contratar más personal.": 1,
+            "D. La relación costo-beneficio entre el precio de compra y venta de los productos del supermercado.": 0
+        }
+    },
+    {
+        "input": "Antes de la final del Campeonato Mundial de Tenis de Mesa por Equipos Masculinos, el entrenador del equipo nacional S estableció las siguientes condiciones para la alineación: Si el jugador número 4 está en buen estado competitivo y completamente recuperado de su lesión, entonces debe jugar. Solo si el jugador número 4 no puede jugar, se asignará al jugador número 6. Si durante la final el jugador número 6 participa en el partido, ¿cuál de las siguientes afirmaciones es necesariamente verdadera?\nA. El estado competitivo del jugador número 4 no es bueno.\nB. El jugador número 6 no está lesionado.\nC. La lesión del jugador número 4 es grave.\nD. Si el jugador número 4 está recuperado de su lesión, su estado competitivo no es bueno.",
+        "target_scores": {
+            "A. El estado competitivo del jugador número 4 no es bueno.": 0,
+            "B. El jugador número 6 no está lesionado.": 0,
+            "C. La lesión del jugador número 4 es grave.": 0,
+            "D. Si el jugador número 4 está recuperado de su lesión, su estado competitivo no es bueno.": 1
+        }
+    },
+    {
+        "input": "Cuando un águila pescadora lleva un pez (arenque, bacalao o eperlano) a su nido, otras águilas siguen su rastro. Pero si lleva un lenguado, esto rara vez ocurre, aunque también comen lenguados. ¿Qué explica esto?\nA. Las águilas rara vez capturan arenques, bacalaos o eperlanos.\nB. Los arenques, bacalaos o eperlanos forman cardúmenes; los lenguados son solitarios.\nC. Los lenguados viven en aguas más someras.\nD. Los lenguados y bacalaos tienen camuflaje; arenques no.",
+        "target_scores": {
+            "A. Las águilas rara vez capturan arenques, bacalaos o eperlanos.": 0,
+            "B. Los arenques, bacalaos o eperlanos forman cardúmenes; los lenguados son solitarios.": 1,
+            "C. Los lenguados viven en aguas más someras.": 0,
+            "D. Los lenguados y bacalaos tienen camuflaje; arenques no.": 0
+        }
+    },
+    {
+        "input": "La función del gobierno es satisfacer las verdaderas necesidades de la población. A menos que el gobierno sepa cuáles son esas necesidades, no podrá cumplir con ese propósito. La libertad de expresión garantiza que los gobernantes reciban información sobre dichas demandas. Por lo tanto, la libertad de expresión es esencial para un país saludable. ¿Cuál de las siguientes opciones, si es correcta, no debilita esta conclusión? ____\nA. La libertad de expresión es insuficiente para satisfacer las necesidades de las masas; un orden social sólido también es indispensable.\nB. La libertad de expresión tiende finalmente a destruir el orden social, y un buen orden social es un prerrequisito para satisfacer las necesidades de las masas.\nC. La mayoría de las veces, el pueblo no sabe lo que realmente necesita.\nD. Los gobernantes ya saben lo que necesita el pueblo.",
+        "target_scores": {
+            "A. La libertad de expresión es insuficiente para satisfacer las necesidades de las masas; un orden social sólido también es indispensable.": 1,
+            "B. La libertad de expresión tiende finalmente a destruir el orden social, y un buen orden social es un prerrequisito para satisfacer las necesidades de las masas.": 0,
+            "C. La mayoría de las veces, el pueblo no sabe lo que realmente necesita.": 0,
+            "D. Los gobernantes ya saben lo que necesita el pueblo.": 0
+        }
+    },
+    {
+        "input": "El vendedor le dijo al cliente: \"El compresor es el componente central del refrigerador. Los refrigeradores de la marca Pingüino utilizan compresores de la misma alta calidad que los de la marca Oso Polar. Dado que el precio de los refrigeradores Pingüino es mucho más bajo que el de los Oso Polar, al comprar un Pingüino en lugar de un Oso Polar, gastas menos dinero pero obtienes el mismo efecto de refrigeración\". ¿Qué afirmación, de ser verificada, permitiría deducir razonablemente la conclusión del vendedor? ____\nA. El efecto de refrigeración de un frigorífico está determinado únicamente por la calidad de su compresor.\nB. Las ventas anuales de refrigeradores  de la marca Pingüino superan las ventas anuales de los refrigeradores de la marca Oso Polar.\nC. Los anuncios de frigoríficos Oso Polar superan en número a los de Pingüino.\nD. Un vendedor gana menos ingresos vendiendo un frigorífico Pingüino que uno de la marca Oso Polar.",
+        "target_scores": {
+            "A. El efecto de refrigeración de un frigorífico está determinado únicamente por la calidad de su compresor.": 1,
+            "B. Las ventas anuales de refrigeradores  de la marca Pingüino superan las ventas anuales de los refrigeradores de la marca Oso Polar.": 0,
+            "C. Los anuncios de frigoríficos Oso Polar superan en número a los de Pingüino.": 0,
+            "D. Un vendedor gana menos ingresos vendiendo un frigorífico Pingüino que uno de la marca Oso Polar.": 0
+        }
+    },
+    {
+        "input": "Algunos insisten en que existen civilizaciones avanzadas además de la humana en el espacio cósmico, porque actualmente no hay ninguna teoría ni evidencia que demuestre que tales civilizaciones no puedan existir. ¿Qué opción comparte el mismo tipo de razonamiento que el argumento del enunciado? ____\nA. Existen hombres salvajes en Amazonía Ecuatoriana, porque se han avistado rastros de ellos.\nB. Los científicos no nacen inteligentes; por ejemplo, Einstein no parecía especialmente brillante en su infancia.\nC. Un filósofo escolástico no creía que los nervios convergieran en el cerebro, argumentando que Aristóteles escribió que los nervios provienen del corazón.\nD. Ya que no puedes probar que los fantasmas no existen, entonces existen.",
+        "target_scores": {
+            "A. Existen hombres salvajes en Amazonía Ecuatoriana, porque se han avistado rastros de ellos.": 0,
+            "B. Los científicos no nacen inteligentes; por ejemplo, Einstein no parecía especialmente brillante en su infancia.": 0,
+            "C. Un filósofo escolástico no creía que los nervios convergieran en el cerebro, argumentando que Aristóteles escribió que los nervios provienen del corazón.": 0,
+            "D. Ya que no puedes probar que los fantasmas no existen, entonces existen.": 1
+        }
+    },
+    {
+        "input": "\"El helecho europeo es una maleza tóxica que se ha extendido por el hemisferio norte destruyendo pastizales. Un método económico y autosostenible para controlarla es introducir su depredador natural. Por ello, algunos científicos proponen liberar en las áreas afectadas del hemisferio norte a una polilla originaria del hemisferio sur que se alimenta de este helecho, para controlar su crecimiento. Si se adopta la propuesta científica para controlar el helecho europeo, ¿cuál es la condición necesaria para su éxito? ____\"\nA. Este helecho europeo del hemisferio norte también crece en regiones del hemisferio sur con condiciones climáticas y de suelo similares.\nB. Las polillas liberadas no solo comen helechos europeos, sino también otras malezas del hemisferio norte.\nC. Las polillas liberadas pueden sobrevivir en el hemisferio norte y formar una población lo suficientemente grande para reducir la cantidad de helechos europeos y detener su crecimiento.\nD. Tras reducirse la población de helechos europeos, el ganado desarrollará inmunidad a las enfermedades causadas por esta maleza.",
+        "target_scores": {
+            "A. Este helecho europeo del hemisferio norte también crece en regiones del hemisferio sur con condiciones climáticas y de suelo similares.": 0,
+            "B. Las polillas liberadas no solo comen helechos europeos, sino también otras malezas del hemisferio norte.": 0,
+            "C. Las polillas liberadas pueden sobrevivir en el hemisferio norte y formar una población lo suficientemente grande para reducir la cantidad de helechos europeos y detener su crecimiento.": 1,
+            "D. Tras reducirse la población de helechos europeos, el ganado desarrollará inmunidad a las enfermedades causadas por esta maleza.": 0
+        }
+    },
+    {
+        "input": "Los estudiantes deberían comenzar a estudiar filosofía desde temprana edad. De lo contrario, aceptarían sin cuestionar ciertos valores tradicionales, siendo que la filosofía precisamente les enseña a poner en duda estos valores. ¿Qué presuposición(es) subyace(n) a este argumento? ____  \nⅠ. A menos que estudien filosofía desde niños, aceptarán cualquier punto de vista.  \nⅡ. Incluso a edades tempranas, los estudiantes poseen capacidad para comprender ciertos conceptos y teorías filosóficas.  \nⅢ. Es positivo que los estudiantes cuestionen los valores tradicionales.\nA. Ⅰ y Ⅱ\nB. Ⅰ, Ⅱ y Ⅲ\nC. Ⅱ y Ⅲ\nD. Ⅲ",
+        "target_scores": {
+            "A. Ⅰ y Ⅱ": 0,
+            "B. Ⅰ, Ⅱ y Ⅲ": 0,
+            "C. Ⅱ y Ⅲ": 1,
+            "D. Ⅲ": 0
+        }
+    },
+    {
+        "input": "¿Cómo previenen las aerolíneas los accidentes de aviones comerciales? Estudios muestran que 2/3 de estos accidentes se atribuyen a error del piloto. Para abordar esto, las aerolíneas han mejorado sus programas de entrenamiento con más horas teóricas y énfasis en habilidades comunicativas en cabina. Sin embargo, es poco realista esperar que estas medidas compensen la falta de horas reales de vuelo. Por tanto, las aerolíneas deberían reconsiderar sus métodos de entrenamiento para reducir accidentes. ¿Sobre qué supuesto se basa esta conclusión? ____\nA. La falta de experiencia práctica en vuelo es la principal causa de errores de pilotos en accidentes aéreos comerciales.\nB. Los pilotos comerciales deben recibir entrenamiento adicional continuo durante toda su carrera.\nC. Los programas de entrenamiento pueden eliminar los errores de los pilotos.\nD. Si los programas de entrenamiento para pilotos enfatizan el aumento de horas de vuelo real, el número de accidentes aéreos de las aerolíneas disminuirá.",
+        "target_scores": {
+            "A. La falta de experiencia práctica en vuelo es la principal causa de errores de pilotos en accidentes aéreos comerciales.": 1,
+            "B. Los pilotos comerciales deben recibir entrenamiento adicional continuo durante toda su carrera.": 0,
+            "C. Los programas de entrenamiento pueden eliminar los errores de los pilotos.": 0,
+            "D. Si los programas de entrenamiento para pilotos enfatizan el aumento de horas de vuelo real, el número de accidentes aéreos de las aerolíneas disminuirá.": 0
+        }
+    },
+    {
+        "input": "Tras la externalización del servicio de fotocopias en la escuela, el precio por hoja estándar subió de 0,35 a 0,40 euros, provocando malestar entre los estudiantes. El consejo escolar notificó al contratista que debía mantener el precio original o rescindirían el contrato. El contratista implementó medidas que no redujeron sus ganancias ni incumplieron textualmente la advertencia. ¿Qué acción probablemente tomó? ____\nA. El contratista mantuvo el precio de fotocopia en 0,40 euros por hoja estándar, pero añadió servicios de mecanografía con tarifas inferiores al mercado, atrayendo a estudiantes.\nB. El contratista mantuvo el precio de fotocopia en 0,40 euros por hoja estándar, pero cambió del papel B (de bajo costo) al papel A (más caro).\nC. El contratista redujo el precio de fotocopia de 0,40 a 0,35 euros por hoja, pero cambió del papel A (más caro) al B (más barato).\nD. El contratista se reunió con el director, expuso las dificultades para fotocopiar debido al alza de precios de los materiales consumibles (especialmente el papel de copia), y convenció al director de ordenar al comité escolar que retirara la notificación.",
+        "target_scores": {
+            "A. El contratista mantuvo el precio de fotocopia en 0,40 euros por hoja estándar, pero añadió servicios de mecanografía con tarifas inferiores al mercado, atrayendo a estudiantes.": 0,
+            "B. El contratista mantuvo el precio de fotocopia en 0,40 euros por hoja estándar, pero cambió del papel B (de bajo costo) al papel A (más caro).": 0,
+            "C. El contratista redujo el precio de fotocopia de 0,40 a 0,35 euros por hoja, pero cambió del papel A (más caro) al B (más barato).": 1,
+            "D. El contratista se reunió con el director, expuso las dificultades para fotocopiar debido al alza de precios de los materiales consumibles (especialmente el papel de copia), y convenció al director de ordenar al comité escolar que retirara la notificación.": 0
+        }
+    },
+    {
+        "input": "En la antigüedad, un terremoto devastador casi exterminó a la humanidad, sobreviviendo solo dos tribus. Inicialmente, en la tribu Divinidad todos creían en la maldad innata del ser humano, mientras que en la tribu Santuario todos sostenían la bondad natural. No existían personas con ambas creencias. Con el tiempo, se establecieron reglas de descendencia: los hijos de matrimonios internos heredaban la fe y tribu paterna; en matrimonios intertribales, seguían la fe y tribu materna. Dado que Juan cree en la bondad humana, ¿qué afirmación sobre su origen es imposible? ____\nA. El padre de Juan es miembro de la tribu Divinidad.\nB. La madre de Juan es de la tribu Santuario.\nC. La madre de Juan es miembro de la tribu Divinidad.\nD. Los padres de Juan son ambos de la tribu Santuario.",
+        "target_scores": {
+            "A. El padre de Juan es miembro de la tribu Divinidad.": 0,
+            "B. La madre de Juan es de la tribu Santuario.": 0,
+            "C. La madre de Juan es miembro de la tribu Divinidad.": 1,
+            "D. Los padres de Juan son ambos de la tribu Santuario.": 0
+        }
+    },
+    {
+        "input": "El aumento de lipoproteínas de alta densidad en la sangre mejora la capacidad del cuerpo para bloquear la absorción excesiva de colesterol, reduciendo así sus niveles. Algunas personas incrementan significativamente estas lipoproteínas mediante ejercicio regular y control de peso. ¿Qué conclusión se desprende mejor del texto? ____\nA. Algunas personas pueden reducir el colesterol en sangre mediante ejercicio regular y pérdida de peso.\nB. Algunas personas que redujeron su colesterol mediante ejercicio regular, deben tener sobrepeso.\nC. El ejercicio y la pérdida de peso son los métodos más efectivos para reducir el colesterol alto en sangre.\nD. Las personas que no hacen ejercicio regularmente, especialmente aquellas con sobrepeso, tienen un riesgo creciente de desarrollar colesterol alto en la sangre a medida que envejecen.",
+        "target_scores": {
+            "A. Algunas personas pueden reducir el colesterol en sangre mediante ejercicio regular y pérdida de peso.": 1,
+            "B. Algunas personas que redujeron su colesterol mediante ejercicio regular, deben tener sobrepeso.": 0,
+            "C. El ejercicio y la pérdida de peso son los métodos más efectivos para reducir el colesterol alto en sangre.": 0,
+            "D. Las personas que no hacen ejercicio regularmente, especialmente aquellas con sobrepeso, tienen un riesgo creciente de desarrollar colesterol alto en la sangre a medida que envejecen.": 0
+        }
+    },
+    {
+        "input": "De los seis ingenieros técnicos A, B, C, D, E y F, se deben seleccionar tres para formar un grupo especial de investigación y desarrollo de productos tecnológicos clave que la compañía planea lanzar. Para garantizar eficacia, se conocen las siguientes condiciones:  \n1. Al menos uno entre A y C debe ser seleccionado.  \n2. Al menos uno entre B y E debe ser seleccionado.  \n3. Ni C ni E pueden ser seleccionados junto con B.  \nSi E no es seleccionado, ¿qué dos ingenieros deben entrar obligatoriamente?\nA. A y B\nB. A y F\nC. B y D\nD. B y F",
+        "target_scores": {
+            "A. A y B": 1,
+            "B. A y F": 0,
+            "C. B y D": 0,
+            "D. B y F": 0
+        }
+    },
+    {
+        "input": "Cuatro constructoras (A, B, C, D) licitaron para el Edificio Sol. Antes de revelar el resultado, sus gerentes declararon:  \n- A: «Ganaremos nosotros; las demás no».  \n- B: «El ganador será B o C».  \n- C: «Si no gana A, será nosotros».  \n- D: «Si hay un ganador, somos nosotros».  \nAl anunciarse el resultado, solo una predicción fue acertada. ¿Qué opción es más plausible? ____\nA. El gerente de la empresa A acertó, y la empresa A ganó la licitación.\nB. El gerente de la empresa B acertó, y la empresa C ganó la licitación.\nC. Los gerentes de la empresa A y la empresa B se equivocaron en sus declaraciones.\nD. Los gerentes de la empresa B y D se equivocaron en sus declaraciones.",
+        "target_scores": {
+            "A. El gerente de la empresa A acertó, y la empresa A ganó la licitación.": 0,
+            "B. El gerente de la empresa B acertó, y la empresa C ganó la licitación.": 0,
+            "C. Los gerentes de la empresa A y la empresa B se equivocaron en sus declaraciones.": 1,
+            "D. Los gerentes de la empresa B y D se equivocaron en sus declaraciones.": 0
+        }
+    },
+    {
+        "input": "Este departamento ha descubierto que los empleados de 30 a 40 años han violado las reglas. Si esto es cierto, entre las afirmaciones: I. En este departamento no hay empleados de 30 a 40 años que no hayan violado las reglas. II. En este departamento hay algunos empleados de 30 a 40 años que no han violado las reglas. III. Todos los empleados de 30 a 40 años en este departamento no han violado las reglas. ¿Cuál(es) no puede(n) determinarse como verdadera(s) o falsa(s)? ____\nA. I, II y III.\nB. Solo I y II.\nC. Solo I y III.\nD. Solo II.",
+        "target_scores": {
+            "A. I, II y III.": 0,
+            "B. Solo I y II.": 1,
+            "C. Solo I y III.": 0,
+            "D. Solo II.": 0
+        }
+    },
+    {
+        "input": "Puedes engañar a ciertas personas en cualquier momento. Si esto es cierto, ¿cuáles de las siguientes afirmaciones son necesariamente verdaderas? ____  \nⅠ. Ana y Beatriz podrían ser engañados por ti en cualquier momento.  \nⅡ. Tú siempre quieres engañar a las personas.  \nⅢ. Tú podrías engañar a personas en cualquier momento.  \nⅣ. Solo puedes engañar a personas en ciertos momentos.  \nⅤ. Estás engañando a personas en todo momento.\nA. Solo I y III.\nB. Solo II, III y IV.\nC. Solo II.\nD. Solo III.",
+        "target_scores": {
+            "A. Solo I y III.": 0,
+            "B. Solo II, III y IV.": 0,
+            "C. Solo II.": 0,
+            "D. Solo III.": 1
+        }
+    },
+    {
+        "input": "El exceso de trabajo y el estrés conducen inevitablemente al insomnio. Todos los gerentes de Compañía Senda están bajo presión. Aunque los médicos han advertido repetidamente, la mayoría de los gerentes aún trabajan más de 60 horas semanales, mientras que el resto trabaja solo 40 horas. Solo los empleados que trabajan más de 40 horas reciben bonificaciones. ¿Qué conclusión se apoya más en estas afirmaciones? ____\nA. La mayor parte de los bonos de Senda se asignan a sus gerentes.\nB. La mayoría de los gerentes de Senda que reciben ciertos bonos padecen insomnio.\nC. Los gerentes de Senda son más propensos al insomnio que cualquier otro grupo de empleados.\nD. Ningún gerente que trabaje solo 40 horas semanales sufre sobrecarga laboral.",
+        "target_scores": {
+            "A. La mayor parte de los bonos de Senda se asignan a sus gerentes.": 0,
+            "B. La mayoría de los gerentes de Senda que reciben ciertos bonos padecen insomnio.": 1,
+            "C. Los gerentes de Senda son más propensos al insomnio que cualquier otro grupo de empleados.": 0,
+            "D. Ningún gerente que trabaje solo 40 horas semanales sufre sobrecarga laboral.": 0
+        }
+    },
+    {
+        "input": "El Diario de Información publica anualmente una clasificación de ventas de televisores nacionales e importados. Los consultores de gestión argumentan que esta lista no debería ser la base para que los consumidores decidan qué televisor comprar. ¿Qué afirmación respalda mejor esta opinión? ____\nA. Algunos consumidores están satisfechos con los televisores que compraron basándose en el ranking del Diario de Información.\nB. Los compradores del Diario de Información no se limitan a quienes buscan televisores.\nC. Los fabricantes de TV mejor rankeados en el Diario de Información usan esto como publicidad para atraer más consumidores.\nD. Para cualquier par de consumidores, existen criterios de compra distintos según sus circunstancias.",
+        "target_scores": {
+            "A. Algunos consumidores están satisfechos con los televisores que compraron basándose en el ranking del Diario de Información.": 0,
+            "B. Los compradores del Diario de Información no se limitan a quienes buscan televisores.": 0,
+            "C. Los fabricantes de TV mejor rankeados en el Diario de Información usan esto como publicidad para atraer más consumidores.": 0,
+            "D. Para cualquier par de consumidores, existen criterios de compra distintos según sus circunstancias.": 1
+        }
+    },
+    {
+        "input": "Un anuncio público aconseja no conducir después de beber hasta sentirse seguro. Sin embargo, un estudio hospitalario muestra que quienes son interrogados inmediatamente después de beber subestiman el tiempo necesario para recuperar su capacidad de conducción. Esto sugiere que las personas que beben antes de conducir difícilmente seguirán el consejo del anuncio. ¿Qué hecho, de ser cierto, refuerza más esta conclusión? ____\nA. A los sujetos del estudio hospitalario también se les preguntó el tiempo requerido para recuperar habilidades no cruciales para conducir seguro.\nB. Algunas personas que tienen que conducir a casa no consumen alcohol.\nC. Los sujetos estudiados en hospitales suelen estimar sus capacidades de manera más conservadora que otros bebedores.\nD. Mucha gente, si planea beber, organiza de antemano que alguien sobrio las lleve a casa.",
+        "target_scores": {
+            "A. A los sujetos del estudio hospitalario también se les preguntó el tiempo requerido para recuperar habilidades no cruciales para conducir seguro.": 0,
+            "B. Algunas personas que tienen que conducir a casa no consumen alcohol.": 0,
+            "C. Los sujetos estudiados en hospitales suelen estimar sus capacidades de manera más conservadora que otros bebedores.": 1,
+            "D. Mucha gente, si planea beber, organiza de antemano que alguien sobrio las lleve a casa.": 0
+        }
+    },
+    {
+        "input": "Una encuesta a empresas revela que la edad promedio de sus directores generales es 57 años, mientras que hace 20 años era 49 años. Esto indicaría un envejecimiento en los líderes empresariales. ¿Qué objeción cuestiona más sólidamente este argumento? ____\nA. El enunciado no aclara si estas empresas tenían límites de edad para elegir gerentes generales hace 20 años.\nB. El enunciado no especifica el número promedio de años que estos gerentes generales han ocupado sus cargos.\nC. El promedio de edad de los gerentes generales de estas empresas hace 20 años es solo una aproximación.\nD. La información del enunciado se basa únicamente en empresas con más de 20 años de historia.",
+        "target_scores": {
+            "A. El enunciado no aclara si estas empresas tenían límites de edad para elegir gerentes generales hace 20 años.": 0,
+            "B. El enunciado no especifica el número promedio de años que estos gerentes generales han ocupado sus cargos.": 0,
+            "C. El promedio de edad de los gerentes generales de estas empresas hace 20 años es solo una aproximación.": 0,
+            "D. La información del enunciado se basa únicamente en empresas con más de 20 años de historia.": 1
+        }
+    },
+    {
+        "input": "Una encuesta global muestra que en la última década: el número total de fumadores se mantiene estable; solo el 10% cambia de marca anualmente; los fabricantes gastan el 10% de sus ingresos brutos en publicidad. En la junta de Z Tobacco, el Director A argumenta que esto prueba que la publicidad es innecesaria. El Director B sostiene que como el 10% que cambia de marca casi nunca elige la suya, su gasto publicitario es una pérdida. ¿Qué hecho desafía más la conclusión del Director A? ____\nA. La conclusión del director A asume erróneamente que cada fabricante tabacalero produce solo una marca.\nB. La conclusión del director A asume erróneamente que cada fumador prefiere una sola marca en un momento dado.\nC. La conclusión del director A ignora: un cálculo persuasivo del gasto en publicidad debe basarse en su porcentaje sobre el gasto total, no sobre los ingresos brutos.\nD. La conclusión del director A pasa por alto: la industria tabacalera mundial está compuesta por numerosas entidades económicas en competencia.",
+        "target_scores": {
+            "A. La conclusión del director A asume erróneamente que cada fabricante tabacalero produce solo una marca.": 0,
+            "B. La conclusión del director A asume erróneamente que cada fumador prefiere una sola marca en un momento dado.": 0,
+            "C. La conclusión del director A ignora: un cálculo persuasivo del gasto en publicidad debe basarse en su porcentaje sobre el gasto total, no sobre los ingresos brutos.": 0,
+            "D. La conclusión del director A pasa por alto: la industria tabacalera mundial está compuesta por numerosas entidades económicas en competencia.": 1
+        }
+    },
+    {
+        "input": "La ley estadounidense exige que tanto conductores como pasajeros deben abrocharse el cinturón de seguridad en automóviles en movimiento. Algunos se oponen, argumentando que cada persona tiene derecho a asumir los riesgos que desee, siempre que no perjudiquen a otros. Por lo tanto, usar o no el cinturón es un asunto puramente personal, como invertir en bolsa o practicar escalada con riesgos propios. ¿Qué hecho, de ser cierto, cuestionaría mejor este argumento? ____\nA. Aunque el cinturón protege al pasajero y no previene daños a otros, las aerolíneas aún exigen su uso en despegues y aterrizajes.\nB. El aumento continuo del seguro de automóviles se debe en parte a que las lesiones por no usar cinturón elevan las indemnizaciones anuales.\nC. La implementación de leyes tiene un carácter obligatorio, sin importar cuán razonables parezcan las objeciones.\nD. Tras implementar leyes que obligan a usar cinturones de seguridad, la mortalidad en accidentes de tráfico en EE.UU. disminuyó notablemente.",
+        "target_scores": {
+            "A. Aunque el cinturón protege al pasajero y no previene daños a otros, las aerolíneas aún exigen su uso en despegues y aterrizajes.": 0,
+            "B. El aumento continuo del seguro de automóviles se debe en parte a que las lesiones por no usar cinturón elevan las indemnizaciones anuales.": 1,
+            "C. La implementación de leyes tiene un carácter obligatorio, sin importar cuán razonables parezcan las objeciones.": 0,
+            "D. Tras implementar leyes que obligan a usar cinturones de seguridad, la mortalidad en accidentes de tráfico en EE.UU. disminuyó notablemente.": 0
+        }
+    },
+    {
+        "input": "En un sistema de todos contra todos entre cuatro equipos fuertes (A, B, C, D), donde cada equipo juega contra los demás una vez, los resultados muestran: el equipo B perdió un partido, el equipo C ganó un partido menos que el B, y el B ganó un partido menos que el D. ¿Qué afirmación sobre la posición del equipo A es verdadera? ____\nA. Cuarto lugar\nB. Primer lugar.\nC. Segundo lugar.\nD. Tercer lugar.",
+        "target_scores": {
+            "A. Cuarto lugar": 1,
+            "B. Primer lugar.": 0,
+            "C. Segundo lugar.": 0,
+            "D. Tercer lugar.": 0
+        }
+    },
+    {
+        "input": "En la última década, la producción de semiconductores en Estados Unidos aumentó un 200%, mientras que la de Japón creció un 500%. Por ello, se concluye que Japón ahora produce más semiconductores que Estados Unidos. ¿Qué hecho debilita más esta conclusión? ____\nA. En la última década, el valor en dólares de los semiconductores estadounidenses superó al de Japón.\nB. En los últimos cinco años, la producción de semiconductores de la industria estadounidense aumentó solo un 100%.\nC. Hace una década, EE.UU. producía el 90% de los semiconductores mundiales, mientras Japón solo el 2%.\nD. Hoy en día, las exportaciones de semiconductores de EE.UU. representan un porcentaje mayor de sus productos exportados totales que hace diez años.",
+        "target_scores": {
+            "A. En la última década, el valor en dólares de los semiconductores estadounidenses superó al de Japón.": 0,
+            "B. En los últimos cinco años, la producción de semiconductores de la industria estadounidense aumentó solo un 100%.": 0,
+            "C. Hace una década, EE.UU. producía el 90% de los semiconductores mundiales, mientras Japón solo el 2%.": 1,
+            "D. Hoy en día, las exportaciones de semiconductores de EE.UU. representan un porcentaje mayor de sus productos exportados totales que hace diez años.": 0
+        }
+    },
+    {
+        "input": "Según un informe de la Organización Internacional de Salud y Bienestar (1999), el 68% de los pacientes con cáncer cerebral tenían historial de uso frecuente de teléfonos móviles. Esto sugiere que usar móviles aumenta significativamente el riesgo de cáncer cerebral. ¿Qué hecho, de ser cierto, debilitaría más esta conclusión? ____\nA. Desde los años 80, el porcentaje de usuarios de teléfonos móviles ha crecido drásticamente.\nB. En 1999, los usuarios globales de móviles aumentaron un 68% respecto a 1998.\nC. Personas con historial de uso frecuente de teléfonos móviles superaron el 65% de la población mundial entre 1990 y 1999.\nD. Usar teléfonos fijos o móviles conlleva igual riesgo de causar cáncer.",
+        "target_scores": {
+            "A. Desde los años 80, el porcentaje de usuarios de teléfonos móviles ha crecido drásticamente.": 0,
+            "B. En 1999, los usuarios globales de móviles aumentaron un 68% respecto a 1998.": 0,
+            "C. Personas con historial de uso frecuente de teléfonos móviles superaron el 65% de la población mundial entre 1990 y 1999.": 1,
+            "D. Usar teléfonos fijos o móviles conlleva igual riesgo de causar cáncer.": 0
+        }
+    },
+    {
+        "input": "La OMS realizó un estudio global sobre el impacto de la donación de sangre en la salud, dividiendo a los participantes en tres grupos:  \n- Grupo 1: Donantes con dos o más donaciones (hasta decenas).  \n- Grupo 2: Donantes con solo una donación.  \n- Grupo 3: No donantes.  \nLos resultados mostraron tasas de cáncer y cardiopatías:  \n- Grupo 1: 0,3% y 0,5%.  \n- Grupo 2: 0,7% y 0,9%.  \n- Grupo 3: 1,2% y 2,7%.  \nExpertos concluyeron que donar sangre reduce el riesgo de estas enfermedades, principales causas de muerte en adultos mayores. Por tanto, donar beneficia a todos. ¿Qué hecho, de ser cierto, debilitaría esta conclusión? ____  \nⅠ. El 60% del Grupo 1 tenía más de 60 años; 70% en Grupo 2; 80% en Grupo 3.  \nⅡ. Los donantes pasan exámenes médicos rigurosos, teniendo mejor salud.  \nⅢ. El Grupo 1 tenía 1700 personas; Grupo 2: 3000; Grupo 3: 7000.\nA. Solo I y II.\nB. Solo I.\nC. Solo II.\nD. Solo III.",
+        "target_scores": {
+            "A. Solo I y II.": 1,
+            "B. Solo I.": 0,
+            "C. Solo II.": 0,
+            "D. Solo III.": 0
+        }
+    },
+    {
+        "input": "En una mesa hay 4 tazones, cada uno con una frase:  \n1. «Todos los tazones contienen caramelos de fruta».  \n2. «Este tazón tiene una manzana».  \n3. «Este tazón no tiene chocolate».  \n4. «Algunos tazones no contienen caramelos de fruta».  \nSi solo una frase es verdadera, ¿cuál de las siguientes afirmaciones es cierta? ____\nA. El tercer tazón contiene chocolate.\nB. Ningún tazón contiene caramelos.\nC. Ningún tazón contiene manzanas.\nD. Todos los tazones contienen caramelos.",
+        "target_scores": {
+            "A. El tercer tazón contiene chocolate.": 1,
+            "B. Ningún tazón contiene caramelos.": 0,
+            "C. Ningún tazón contiene manzanas.": 0,
+            "D. Todos los tazones contienen caramelos.": 0
+        }
+    },
+    {
+        "input": "Un bufete de abogados tiene 12 empleados. Tres afirmaciones:  \n① Alguien sabe usar computadoras.  \n② Alguien no sabe usar computadoras.  \n③ El director del bufete no sabe usar computadoras.\nSolo una de estas afirmaciones es verdadera. ¿Qué opción indica correctamente el número de empleados que saben usar computadoras? ____\nA. 12 personas saben usarlo.\nB. Ninguna de las 12 personas sabe usarlo.\nC. Solo una persona no sabe usarlo.\nD. Solo una persona sabe usarlo.",
+        "target_scores": {
+            "A. 12 personas saben usarlo.": 1,
+            "B. Ninguna de las 12 personas sabe usarlo.": 0,
+            "C. Solo una persona no sabe usarlo.": 0,
+            "D. Solo una persona sabe usarlo.": 0
+        }
+    },
+    {
+        "input": "Si falta espíritu de lucha, es imposible lograr grandes éxitos. Carlos tiene un fuerte espíritu de lucha, por lo tanto, seguramente tendrá éxito. ¿Qué condición haría confiable esta conclusión? ____\nA. El espíritu de lucha de Carlos es extraordinario.\nB. El espíritu de lucha es el único elemento para el éxito.\nC. NaN\nD. Sin esfuerzo, el éxito es solo un espejismo.",
+        "target_scores": {
+            "A. El espíritu de lucha de Carlos es extraordinario.": 0,
+            "B. El espíritu de lucha es el único elemento para el éxito.": 1,
+            "C. NaN": 0,
+            "D. Sin esfuerzo, el éxito es solo un espejismo.": 0
+        }
+    },
+    {
+        "input": "Si solo uno de los padres (papá o mamá) sale de casa, el hijo puede quedarse solo. Si ambos padres salen, deben contratar a una niñera para dejar al hijo en casa. Según esto, ¿qué conclusión es válida? ____\nA. Cuando el hijo está en casa, el padre no está.\nB. Cuando el hijo está en casa, el padre también está en casa.\nC. Si ambos padres no están en casa, el hijo tampoco estará.\nD. Si la niñera no está en casa, el hijo no se quedará solo.",
+        "target_scores": {
+            "A. Cuando el hijo está en casa, el padre no está.": 0,
+            "B. Cuando el hijo está en casa, el padre también está en casa.": 0,
+            "C. Si ambos padres no están en casa, el hijo tampoco estará.": 0,
+            "D. Si la niñera no está en casa, el hijo no se quedará solo.": 1
+        }
+    },
+    {
+        "input": "Si violas la ley, serás sancionado legalmente. Si eres sancionado, otros te menospreciarán. Si otros te menosprecian, no recibirás respeto. Solo si recibes respeto, vivirás tranquilo. ¿Qué conclusión se deduce?\nA. NaN\nB. Si no violas la ley, tu vida será feliz.\nC. Si tu vida no es feliz, es prueba de que has violado la ley.\nD. Si violas la ley, tu vida no será feliz.",
+        "target_scores": {
+            "A. NaN": 0,
+            "B. Si no violas la ley, tu vida será feliz.": 0,
+            "C. Si tu vida no es feliz, es prueba de que has violado la ley.": 0,
+            "D. Si violas la ley, tu vida no será feliz.": 1
+        }
+    },
+    {
+        "input": "Profesor: «Sin terminar la tarea, no pueden salir a jugar».  \nEstudiante: «Profesor, terminé mi tarea, ¿puedo salir?».  \nProfesor: «No. Solo dije que si no terminan la tarea, no pueden salir».  \n¿Qué afirmación NO se deduce de este diálogo?\nA. Cuando los estudiantes terminan sus tareas, el profesor siempre les permite salir a jugar.\nB. El profesor implica que quienes no terminan las tareas no pueden salir a jugar.\nC. El profesor implica que solo quienes terminan las tareas pueden salir a jugar.\nD. Los estudiantes entienden que terminar las tareas les permite salir a jugar.",
+        "target_scores": {
+            "A. Cuando los estudiantes terminan sus tareas, el profesor siempre les permite salir a jugar.": 1,
+            "B. El profesor implica que quienes no terminan las tareas no pueden salir a jugar.": 0,
+            "C. El profesor implica que solo quienes terminan las tareas pueden salir a jugar.": 0,
+            "D. Los estudiantes entienden que terminar las tareas les permite salir a jugar.": 0
+        }
+    },
+    {
+        "input": "Dada la premisa:  \n«Si A es gerente o B no es gerente, entonces C es gerente»,  \n¿qué premisa adicional permite concluir que «B es gerente»? ____\nA. A no es gerente.\nB. C es gerente.\nC. C no es gerente.\nD. Tanto A como C son gerentes.",
+        "target_scores": {
+            "A. A no es gerente.": 0,
+            "B. C es gerente.": 0,
+            "C. C no es gerente.": 1,
+            "D. Tanto A como C son gerentes.": 0
+        }
+    },
+    {
+        "input": "Muchos que se autodenominan futbolistas profesionales, aunque entrenan y juegan frecuentemente, no pertenecen realmente al sector, pues los partidos y entrenamientos no son su principal fuente de ingresos. ¿Qué supuesto respalda mejor este razonamiento? ____\nA. El deseo de los atletas por ser profesionales surge de buscar mayores ingresos.\nB. El entrenamiento y competición frecuentes en fútbol son el camino obligatorio para ser profesional.\nC. Los futbolistas profesionales tienen habilidades y salarios mucho más altos que los aficionados.\nD. Un atleta no puede llamarse profesional a menos que la mayor parte de sus ingresos provenga de competencias y entrenamientos.",
+        "target_scores": {
+            "A. El deseo de los atletas por ser profesionales surge de buscar mayores ingresos.": 0,
+            "B. El entrenamiento y competición frecuentes en fútbol son el camino obligatorio para ser profesional.": 0,
+            "C. Los futbolistas profesionales tienen habilidades y salarios mucho más altos que los aficionados.": 0,
+            "D. Un atleta no puede llamarse profesional a menos que la mayor parte de sus ingresos provenga de competencias y entrenamientos.": 1
+        }
+    },
+    {
+        "input": "Si Ana asiste a una fiesta, entonces Beatriz, Carlos y Diego también asistirán. Si esto es cierto, ¿qué afirmación es verdadera? ____\nA. Si Ana no asistió a la fiesta, al menos uno entre Beatriz, Carlos y Diego faltó.\nB. Si Ana no asistió a la fiesta, entonces Beatriz, Carlos y Diego tampoco asistieron.\nC. Si Beatriz, Carlos y Diego asistieron a la fiesta, entonces Ana también asistió.\nD. Si Carlos no asistió a la fiesta, entonces Ana y Diego no asistieron juntos.",
+        "target_scores": {
+            "A. Si Ana no asistió a la fiesta, al menos uno entre Beatriz, Carlos y Diego faltó.": 0,
+            "B. Si Ana no asistió a la fiesta, entonces Beatriz, Carlos y Diego tampoco asistieron.": 0,
+            "C. Si Beatriz, Carlos y Diego asistieron a la fiesta, entonces Ana también asistió.": 0,
+            "D. Si Carlos no asistió a la fiesta, entonces Ana y Diego no asistieron juntos.": 1
+        }
+    },
+    {
+        "input": "Si hace mucho viento, volaremos cometas.  \nSi el cielo no está despejado, no volaremos cometas.  \nSi el clima es cálido, volaremos cometas.  \nSi actualmente estamos volando cometas, ¿qué afirmación(es) debe(n) ser cierta(s)?  \nⅠ. Hace mucho viento. \nⅡ. El cielo está despejado.  \nⅢ. El clima es cálido.\nA. Solo I y III.\nB. Solo I.\nC. Solo II.\nD. Solo III.",
+        "target_scores": {
+            "A. Solo I y III.": 0,
+            "B. Solo I.": 0,
+            "C. Solo II.": 1,
+            "D. Solo III.": 0
+        }
+    },
+    {
+        "input": "Solo si ella va, tú y yo iremos a cantar karaoke; y ella solo canta en karaokes donde se puede bailar, los cuales están en el centro. Solo si tú participas, su hermana irá a cantar karaoke. Si todas estas afirmaciones son ciertas, ¿cuál de las siguientes también debe ser cierta? ____\nA. Ella no canta karaoke con su hermana.\nB. Si ella no está, tú no irás a cantar karaoke con su hermana.\nC. Si yo no estoy, tú no irás con ella a cantar karaoke.\nD. Tú y yo no cantaremos juntos en el karaoke del suburbio.",
+        "target_scores": {
+            "A. Ella no canta karaoke con su hermana.": 0,
+            "B. Si ella no está, tú no irás a cantar karaoke con su hermana.": 0,
+            "C. Si yo no estoy, tú no irás con ella a cantar karaoke.": 0,
+            "D. Tú y yo no cantaremos juntos en el karaoke del suburbio.": 1
+        }
+    },
+    {
+        "input": "Una madre exige que su hijo estudie idiomas desde pequeño. El hijo responde: \"De mayor no quiero ser traductor, ¿para qué aprender un idioma extranjero?\" ¿Qué premisa subyace en la respuesta del hijo? ____\nA. Para ser traductor, se necesita estudiar idiomas.\nB. Ser traductor no tiene mucho sentido.\nC. Solo al estudiar idiomas se puede ser traductor.\nD. Solo necesitas estudiar idiomas si quieres ser traductor.",
+        "target_scores": {
+            "A. Para ser traductor, se necesita estudiar idiomas.": 0,
+            "B. Ser traductor no tiene mucho sentido.": 0,
+            "C. Solo al estudiar idiomas se puede ser traductor.": 0,
+            "D. Solo necesitas estudiar idiomas si quieres ser traductor.": 1
+        }
+    },
+    {
+        "input": "Tanto la electricidad industrial como la doméstica tienen precios actualmente bajos. Un distrito implementa una medida: cobrar tarifas más altas por el consumo eléctrico que exceda la cuota mensual, tanto para uso industrial como doméstico. Esta medida promoverá significativamente el ahorro energético. Para que funcione, ¿cuál de estas debe ser cierta?  \nI. Gran parte del desperdicio eléctrico se debe a los precios bajos.  \nII. Muchos usuarios malgastan electricidad por los precios bajos.  \nIII. El aumento tarifario por exceso es suficiente para presionar económicamente a los derrochadores. ____\nA. I, II y III.\nB. Solo I y II.\nC. Solo I y III.\nD. Solo II y III.",
+        "target_scores": {
+            "A. I, II y III.": 0,
+            "B. Solo I y II.": 0,
+            "C. Solo I y III.": 1,
+            "D. Solo II y III.": 0
+        }
+    },
+    {
+        "input": "En potencias nucleares occidentales, cuando se limitan efectivamente las pruebas nucleares, la gente tiende a ahorrar más (consumo anormalmente bajo); cuando aumentan las pruebas, gastan más (consumo anormalmente alto). Por tanto, si la amenaza nuclear se percibe como real, el deseo de ahorrar disminuirá y el consumo excesivo aumentará. ¿En qué supuesto se basa este argumento?____\nA. Cuando aumentan las pruebas nucleares, hay suficientes bienes para apoyar el consumo anormalmente alto.\nB. El público solo percibe la amenaza nuclear a través de la frecuencia de pruebas en su país.\nC. En varias potencias nucleares occidentales, las pruebas nucleares enfrentan oposición pública generalizada.\nD. La comunidad empresarial ve con buenos ojos las amenazas nucleares e incluso la guerra nuclear por sus beneficios económicos.",
+        "target_scores": {
+            "A. Cuando aumentan las pruebas nucleares, hay suficientes bienes para apoyar el consumo anormalmente alto.": 1,
+            "B. El público solo percibe la amenaza nuclear a través de la frecuencia de pruebas en su país.": 0,
+            "C. En varias potencias nucleares occidentales, las pruebas nucleares enfrentan oposición pública generalizada.": 0,
+            "D. La comunidad empresarial ve con buenos ojos las amenazas nucleares e incluso la guerra nuclear por sus beneficios económicos.": 0
+        }
+    },
+    {
+        "input": "Expertos británicos en trastornos de ansiedad descubren que cada vez más personas experimentan malestar tras usar Internet. Una encuesta a 10 000 usuarios frecuentes revela que un tercio admite \nirritabilidad e irritación tras navegar, y entre menores de 20 años, el 44% reporta tensión. Psicólogos sugieren la existencia de una \"ciberansiedad\". Según estos datos, ¿qué factor es menos probable como causa? ____\nA. Aunque en algunos países el internet es gratuito, en China se paga por uso, lo que restringe la cantidad de tiempo que los usuarios de Internet pasan en línea.\nB. El aumento masivo de usuarios de internet causa congestión; acceder a sitios populares a veces requiere largas esperas.\nC. Internet ofrece información diversa, pero su exceso causa indecisión, pérdida de confianza y atención.\nD. Los usuarios de internet a menudo buscan información sin conocer la URL, con baja probabilidad de éxito; a veces invierten tiempo sin obtener resultados esperados.",
+        "target_scores": {
+            "A. Aunque en algunos países el internet es gratuito, en China se paga por uso, lo que restringe la cantidad de tiempo que los usuarios de Internet pasan en línea.": 1,
+            "B. El aumento masivo de usuarios de internet causa congestión; acceder a sitios populares a veces requiere largas esperas.": 0,
+            "C. Internet ofrece información diversa, pero su exceso causa indecisión, pérdida de confianza y atención.": 0,
+            "D. Los usuarios de internet a menudo buscan información sin conocer la URL, con baja probabilidad de éxito; a veces invierten tiempo sin obtener resultados esperados.": 0
+        }
+    },
+    {
+        "input": "Hecho 1: Los anuncios de televisión han perdido efectividad: el porcentaje de espectadores que recuerda las marcas promocionadas en TV está disminuyendo gradualmente. Hecho 2: Los televidentes recuerdan mucho mejor el primer y último anuncio de una secuencia publicitaria que los intermedios. Si se confirma, ¿cuál de las siguientes explicaría mejor por qué el Hecho 2 justifica el Hecho 1? ____\nA. El número de bloques publicitarios por hora de programa de TV ha aumentado.\nB. El número promedio de anuncios por bloque publicitario ha aumentado.\nC. El rápido desarrollo de Internet ha reducido el tiempo promedio diario frente a la TV.\nD. Para atraer más audiencia, se redujo la duración total de cada anuncio.",
+        "target_scores": {
+            "A. El número de bloques publicitarios por hora de programa de TV ha aumentado.": 0,
+            "B. El número promedio de anuncios por bloque publicitario ha aumentado.": 1,
+            "C. El rápido desarrollo de Internet ha reducido el tiempo promedio diario frente a la TV.": 0,
+            "D. Para atraer más audiencia, se redujo la duración total de cada anuncio.": 0
+        }
+    },
+    {
+        "input": "Hay tres estudiantes: Jorge, Mario y Pedro. Uno nació en la ciudad B, otro en S y otro en W. Sus especialidades son Finanzas, Gestión e Idiomas. Se sabe que:  \n• Mario no estudia Idiomas.  \n• Mario no nació en W.  \n• Pedro no nació en B.  \n• Quien estudia Finanzas no nació en S.  \n• Quien estudia Idiomas nació en B.  \nSegún estos datos, ¿cuál es la especialidad de Jorge?\nA. Finanzas o Gestión.\nB. Finanzas.\nC. Gestión.\nD. Idiomas.",
+        "target_scores": {
+            "A. Finanzas o Gestión.": 0,
+            "B. Finanzas.": 0,
+            "C. Gestión.": 0,
+            "D. Idiomas.": 1
+        }
+    },
+    {
+        "input": "Algunos creen que el color amarillo de la yema del huevo se relaciona con la alimentación vegetal de las gallinas. Para probar esto, ¿qué método experimental sería más confiable?\nA. Analizar y comparar el valor nutricional de alimentos vegetales y no vegetales.\nB. Aumentar (o reducir) gradualmente la proporción de alimento vegetal en la dieta de las mismas gallinas.\nC. Seleccionar gallinas ponedoras de alta calidad para el experimento.\nD. Seleccionar gallinas ponedoras de raza idéntica: la mitad alimentada con dieta vegetal, la otra mitad con dieta no vegetal.",
+        "target_scores": {
+            "A. Analizar y comparar el valor nutricional de alimentos vegetales y no vegetales.": 0,
+            "B. Aumentar (o reducir) gradualmente la proporción de alimento vegetal en la dieta de las mismas gallinas.": 0,
+            "C. Seleccionar gallinas ponedoras de alta calidad para el experimento.": 0,
+            "D. Seleccionar gallinas ponedoras de raza idéntica: la mitad alimentada con dieta vegetal, la otra mitad con dieta no vegetal.": 1
+        }
+    },
+    {
+        "input": "Una universidad realizó un estudio sobre si las becas mejoran la eficiencia académica. Los resultados mostraron que los estudiantes que recibieron becas tienen, en promedio, un rendimiento académico un 25% superior al de aquellos que no las recibieron. La investigación incluyó indicadores como la asistencia a las sesiones de estudio, el tiempo promedio necesario para completar las tareas, el volumen de lectura diario promedio, entre muchos otros. Esto sugiere que las becas claramente impulsan el rendimiento. ¿Qué hecho, de ser cierto, debilitaría más esta conclusión?\nA. El estudio sobre la relación entre eficiencia académica y montos de becas debe utilizar métodos cuantitativos.\nB. Las becas suelen otorgarse a estudiantes con buenos hábitos y alta eficiencia académica.\nC. Los becados pueden mejorar más fácilmente su entorno de estudio para aumentar la eficiencia.\nD. Los estudiantes con baja eficiencia suelen estudiar largas horas sin descansos adecuados.",
+        "target_scores": {
+            "A. El estudio sobre la relación entre eficiencia académica y montos de becas debe utilizar métodos cuantitativos.": 0,
+            "B. Las becas suelen otorgarse a estudiantes con buenos hábitos y alta eficiencia académica.": 1,
+            "C. Los becados pueden mejorar más fácilmente su entorno de estudio para aumentar la eficiencia.": 0,
+            "D. Los estudiantes con baja eficiencia suelen estudiar largas horas sin descansos adecuados.": 0
+        }
+    },
+    {
+        "input": "Estadísticas convincentes indican que ciertos rasgos de personalidad aumentan el riesgo de hipertensión, otros el de enfermedades cardíacas, etc. Por tanto, al clasificar mejor estos rasgos, será más factible prevenir enfermedades modificando comportamientos y personalidad. ¿Qué argumento refutaría mejor esta idea?\nA. La correlación entre un rasgo de personalidad y una enfermedad podría ser coincidencia estadística, sin relevancia general.\nB. NaN\nC. Un rasgo de personalidad y su enfermedad asociada podrían compartir factores fisiológicos comunes.\nD. Una persona puede sufrir múltiples enfermedades vinculadas a diversos rasgos de personalidad.",
+        "target_scores": {
+            "A. La correlación entre un rasgo de personalidad y una enfermedad podría ser coincidencia estadística, sin relevancia general.": 0,
+            "B. NaN": 0,
+            "C. Un rasgo de personalidad y su enfermedad asociada podrían compartir factores fisiológicos comunes.": 1,
+            "D. Una persona puede sufrir múltiples enfermedades vinculadas a diversos rasgos de personalidad.": 0
+        }
+    },
+    {
+        "input": "El sol sale por el este y se pone por el oeste; la sociedad se desarrolla y los seres vivos evolucionan, todo refleja leyes objetivas que no dependen de la voluntad humana. Carlos no está de acuerdo. Él dice: \"Algunas leyes pueden ser modificadas. El ser humano puede transformarlo todo, incluso ciertas leyes objetivas. ¿Acaso la ley del valor no sirve obedientemente a los comerciantes astutos? ¿No hemos controlado las inundaciones destructivas para convertirlas en beneficios?\" ¿Cuál de las siguientes opciones expone con mayor precisión el error en el razonamiento de Carlos?\nA. No todas las inundaciones han sido completamente controladas.\nB. Sobrestima el poder humano.\nC. Su afirmación de que \"el hombre puede transformarlo todo\" es dogmática.\nD. Él confundió los conceptos de \"aplicar\" y \"modificar\".",
+        "target_scores": {
+            "A. No todas las inundaciones han sido completamente controladas.": 0,
+            "B. Sobrestima el poder humano.": 0,
+            "C. Su afirmación de que \"el hombre puede transformarlo todo\" es dogmática.": 0,
+            "D. Él confundió los conceptos de \"aplicar\" y \"modificar\".": 1
+        }
+    },
+    {
+        "input": "Un sistema jurídico sólido o un gobernante con capacidad de control social firme son requisitos indispensables para mantener la estabilidad de un país. Y es un país estable, pero su sistema legal aún no es completo. Por lo tanto, el gobernante de Y tiene una capacidad de control social fuerte. ¿Cuál de los siguientes argumentos es más similar a la materia?\nA. NaN\nB. Si una empresa es mal administrada y derrochadora, sufrirá graves pérdidas. La empresa Z, aunque mal administrada, no tiene pérdidas graves, lo que indica que al menos no es derrochadora.\nC. Solo podrán optar al subsidio especial X de este año aquellos empleados que acrediten un desempeño excepcional o una antigüedad superior a 30 años en la empresa. El Sr. Díaz lo recibió con solo 5 años de servicio, por lo que debe tener desempeño excepcional.\nD. Un producto audiovisual necesita tanto calidad intrínseca como una campaña de promoción adecuada para alcanzar altos niveles de audiencia o éxito en taquilla.\"La luna sobre el puente\" tuvo baja taquilla pese a su calidad, sugiriendo falta de publicidad.",
+        "target_scores": {
+            "A. NaN": 0,
+            "B. Si una empresa es mal administrada y derrochadora, sufrirá graves pérdidas. La empresa Z, aunque mal administrada, no tiene pérdidas graves, lo que indica que al menos no es derrochadora.": 0,
+            "C. Solo podrán optar al subsidio especial X de este año aquellos empleados que acrediten un desempeño excepcional o una antigüedad superior a 30 años en la empresa. El Sr. Díaz lo recibió con solo 5 años de servicio, por lo que debe tener desempeño excepcional.": 1,
+            "D. Un producto audiovisual necesita tanto calidad intrínseca como una campaña de promoción adecuada para alcanzar altos niveles de audiencia o éxito en taquilla.\"La luna sobre el puente\" tuvo baja taquilla pese a su calidad, sugiriendo falta de publicidad.": 0
+        }
+    },
+    {
+        "input": "En los parques temáticos grandes, los espectáculos en vivo se usan estratégicamente para guiar el flujo de visitantes. Los espectáculos al mediodía buscan aliviar la congestión en los restaurantes, mientras que los del atardecer tienen otro propósito: animar a los visitantes a quedarse a cenar. Aunque superficialmente parecen tener objetivos distintos, comparten una meta subyacente unificada: ____. ¿Cuál de las siguientes opciones sería la más apropiada para concluir este párrafo?\nA. Atraer más público a los espectáculos en vivo para aumentar ganancias.\nB. Maximizar el uso del restaurante durante el mayor tiempo posible.\nC. Minimizar congestiones de tráfico causadas por visitantes en parques.\nD. Minimizar las filas en las atracciones turísticas.",
+        "target_scores": {
+            "A. Atraer más público a los espectáculos en vivo para aumentar ganancias.": 0,
+            "B. Maximizar el uso del restaurante durante el mayor tiempo posible.": 1,
+            "C. Minimizar congestiones de tráfico causadas por visitantes en parques.": 0,
+            "D. Minimizar las filas en las atracciones turísticas.": 0
+        }
+    },
+    {
+        "input": "Un virus ayuda a controlar la población de la polilla gitana al matar sus larvas. Este virus permanece latente en las larvas, pero cada 6-7 años activa y elimina a la mayoría de las larvas, reduciendo drásticamente su población. Los científicos creen que este virus se activa solo cuando las larvas sufren estrés fisiológico. Si esto es correcto, ¿qué situación probablemente activaría el virus?\nA. En áreas infestadas de polillas gitanas, el clima pasa de sequía a lluvias normales.\nB. La defoliación en bosques infestados de polillas gitanas durante dos años consecutivos es cada vez mayor.\nC. La proliferación excesiva de polillas gitanas  genera una escasez alimentaria severa.\nD. Se observa depredación por avispas y moscas parasitarias sobre una amplia gama de larvas.",
+        "target_scores": {
+            "A. En áreas infestadas de polillas gitanas, el clima pasa de sequía a lluvias normales.": 0,
+            "B. La defoliación en bosques infestados de polillas gitanas durante dos años consecutivos es cada vez mayor.": 0,
+            "C. La proliferación excesiva de polillas gitanas  genera una escasez alimentaria severa.": 1,
+            "D. Se observa depredación por avispas y moscas parasitarias sobre una amplia gama de larvas.": 0
+        }
+    },
+    {
+        "input": "Todos los inuit usan ropa negra; todos los nativos del norte de Borneo usan ropa blanca; no existe nadie que use ambos colores. Si H viste ropa blanca, ¿qué conclusión es necesariamente verdadera según estos hechos?\nA. H es inuit.\nB. H es nativo del norte de Borneo.\nC. H no es inuit.\nD. H no es nativo del norte de Borneo.",
+        "target_scores": {
+            "A. H es inuit.": 0,
+            "B. H es nativo del norte de Borneo.": 0,
+            "C. H no es inuit.": 1,
+            "D. H no es nativo del norte de Borneo.": 0
+        }
+    },
+    {
+        "input": "Las baterías utilizadas en el automóvil eléctrico estadounidense Tesla están compuestas por un paquete de casi 7 000 celdas Panasonic modelo 18650, conectadas en serie y paralelo. La seguridad del sistema de baterías de Tesla ha sido cuestionada en la industria. Un experto en baterías afirma: si la probabilidad de incendio de una celda 18650 es de 0,2 partes por millón, entonces la probabilidad para un paquete de 7 000 celdas sería del 0,14%. Según las ventas actuales de Tesla, esto resultaría en un incendio de batería casi mensual. Si las siguientes afirmaciones son verdaderas, ¿cuál debilitaría más el argumento del experto?\nA. Las celdas 18650 permiten numerosos ciclos de carga, prolongando su vida útil.\nB. Las celdas 18650 tienen alta densidad energética, estabilidad y uniformidad.\nC. Se producen miles de millones de celdas 18650 anuales globalmente, con mejoras continuas en seguridad.\nD. Tesla tiene un sistema de gestión de baterías avanzado que desconecta celdas anómalas.",
+        "target_scores": {
+            "A. Las celdas 18650 permiten numerosos ciclos de carga, prolongando su vida útil.": 0,
+            "B. Las celdas 18650 tienen alta densidad energética, estabilidad y uniformidad.": 0,
+            "C. Se producen miles de millones de celdas 18650 anuales globalmente, con mejoras continuas en seguridad.": 0,
+            "D. Tesla tiene un sistema de gestión de baterías avanzado que desconecta celdas anómalas.": 1
+        }
+    },
+    {
+        "input": "Aunque los cráteres formados por impactos de meteoritos existen en todo el planeta, son más abundantes en áreas geológicamente estables. Esta concentración relativa se atribuye a los menores cambios superficiales en dichas zonas. ¿Qué suposición sustenta esta conclusión?\nA. El ritmo de cambios superficiales varía en distintas eras geológicas para cualquier región.\nB. Históricamente, los impactos de meteoritos se distribuyeron uniformemente en la Tierra.\nC. Los meteoritos que caen en el mismo lugar borran las huellas de impactos anteriores.\nD. Recientemente, la proporción de meteoritos que caen a la Tierra está aumentando.",
+        "target_scores": {
+            "A. El ritmo de cambios superficiales varía en distintas eras geológicas para cualquier región.": 0,
+            "B. Históricamente, los impactos de meteoritos se distribuyeron uniformemente en la Tierra.": 1,
+            "C. Los meteoritos que caen en el mismo lugar borran las huellas de impactos anteriores.": 0,
+            "D. Recientemente, la proporción de meteoritos que caen a la Tierra está aumentando.": 0
+        }
+    },
+    {
+        "input": "Las exportaciones de pulpa estadounidense han aumentado notablemente debido a que la devaluación del dólar hace que a fabricantes de papel en Japón y Europa les resulte más barato comprarla desde EE.UU. que de otras fuentes. ¿Qué suposición subyace a esta conclusión?\nA. La demanda de productos de papel japoneses y europeos no aumentará drásticamente este año.\nB. La producción de pulpa estadounidense es suficiente para cubrir las necesidades de fabricantes de papel en Japón y Europa.\nC. Las fábricas japonesas y europeas aumentarán drásticamente la producción de productos de papel este año.\nD. Si el costo no fuera un factor, fabricantes de papel en Japón y Europa preferirían pulpa estadounidense.",
+        "target_scores": {
+            "A. La demanda de productos de papel japoneses y europeos no aumentará drásticamente este año.": 0,
+            "B. La producción de pulpa estadounidense es suficiente para cubrir las necesidades de fabricantes de papel en Japón y Europa.": 1,
+            "C. Las fábricas japonesas y europeas aumentarán drásticamente la producción de productos de papel este año.": 0,
+            "D. Si el costo no fuera un factor, fabricantes de papel en Japón y Europa preferirían pulpa estadounidense.": 0
+        }
+    },
+    {
+        "input": "Un informe reciente revela que, aunque solo el 3% de los conductores en autopistas de Maryland usan detectores de radar en sus autos, más del 33% de las multas por exceso de velocidad se aplican a vehículos equipados con estos dispositivos. Así, los conductores con detectores tienden a exceder límites de velocidad más frecuentemente. ¿Qué suposición respalda esta conclusión?\nA. Durante el período del informe estatal, muchos autos multados por exceso de velocidad fueron multados más de una vez.\nB. Es más probable que los conductores multados por exceso de velocidad tengan un historial de infracciones similares en comparación con aquellos que exceden la velocidad sin ser sancionados.\nC. Los autos multados por exceso de velocidad superan en número a los equipados con detectores de radar.\nD. Los conductores con detectores de radar tienen menos probabilidad de ser multados por exceso de velocidad que quienes no los usan.",
+        "target_scores": {
+            "A. Durante el período del informe estatal, muchos autos multados por exceso de velocidad fueron multados más de una vez.": 0,
+            "B. Es más probable que los conductores multados por exceso de velocidad tengan un historial de infracciones similares en comparación con aquellos que exceden la velocidad sin ser sancionados.": 1,
+            "C. Los autos multados por exceso de velocidad superan en número a los equipados con detectores de radar.": 0,
+            "D. Los conductores con detectores de radar tienen menos probabilidad de ser multados por exceso de velocidad que quienes no los usan.": 0
+        }
+    },
+    {
+        "input": "La disparidad salarial entre altos ejecutives refleja cómo operan los departamentos de una empresa. Una brecha grande incentiva competencia entre departamentos y desempeño individual; una brecha pequeña fomenta cooperación y resultados colectivos. Dado que los departamentos de 3M trabajan colaborativamente, entonces, ¿ cuál de las siguientes afirmaciones es la más apropiada para concluir el argumento anterior?\nA. Los altos ejecutivos de 3M tienen brechas salariales pequeñas.\nB. Los altos ejecutivos de 3M tienen grandes disparidades salariales.\nC. Trabajar en competencia mejora la eficiencia de los departamentos.\nD. Trabajar en cooperación permite compartir recursos e información.",
+        "target_scores": {
+            "A. Los altos ejecutivos de 3M tienen brechas salariales pequeñas.": 1,
+            "B. Los altos ejecutivos de 3M tienen grandes disparidades salariales.": 0,
+            "C. Trabajar en competencia mejora la eficiencia de los departamentos.": 0,
+            "D. Trabajar en cooperación permite compartir recursos e información.": 0
+        }
+    },
+    {
+        "input": "Todas las especies de orugas producen la misma hormona llamada \"hormona juvenil\", que mantiene su comportamiento de alimentación. Solo cuando la oruga alcanza el tamaño necesario para convertirse en pupa, una enzima especial detiene la producción de esta hormona. Esta enzima puede sintetizarse y, al ser absorbida por orugas inmaduras, las mata al impedir que se alimenten. ¿Qué afirmación, si fuera cierta, reforzaría más la idea de que rociar los campos con esta enzima para eliminar orugas es una estrategia contraproducente?\nA. Como diferentes orugas aparecen en distintas épocas, se requieren múltiples aplicaciones.\nB. La mayoría de las orugas son consumidas por depredadores naturales.\nC. Muchas plagas agrícolas no pasan por etapa de oruga.\nD. Muchos insectos beneficiosos para la agricultura pasan por etapa de oruga.",
+        "target_scores": {
+            "A. Como diferentes orugas aparecen en distintas épocas, se requieren múltiples aplicaciones.": 0,
+            "B. La mayoría de las orugas son consumidas por depredadores naturales.": 0,
+            "C. Muchas plagas agrícolas no pasan por etapa de oruga.": 0,
+            "D. Muchos insectos beneficiosos para la agricultura pasan por etapa de oruga.": 1
+        }
+    },
+    {
+        "input": "Cada vez más datos convincentes muestran que ciertos rasgos de personalidad aumentan el riesgo de hipertensión, mientras las personas con otro rasgo de personalidad  elevan el riesgo de enfermedades cardíacas, etc. Por tanto, al clasificar mejor estos rasgos, será más factible prevenir enfermedades modificando comportamientos y personalidad. ¿Qué argumento refuta mejor esta conclusión?\nA. La correlación entre un rasgo de personalidad y una enfermedad podría ser coincidencia estadística.\nB. La gente suele corregir sus comportamientos cuando la enfermedad está avanzada, ya demasiado tarde.\nC. Un rasgo de personalidad y su enfermedad asociada podrían compartir causas fisiológicas.\nD. Una persona puede sufrir múltiples enfermedades relacionadas con distintos rasgos de personalidad.",
+        "target_scores": {
+            "A. La correlación entre un rasgo de personalidad y una enfermedad podría ser coincidencia estadística.": 0,
+            "B. La gente suele corregir sus comportamientos cuando la enfermedad está avanzada, ya demasiado tarde.": 0,
+            "C. Un rasgo de personalidad y su enfermedad asociada podrían compartir causas fisiológicas.": 1,
+            "D. Una persona puede sufrir múltiples enfermedades relacionadas con distintos rasgos de personalidad.": 0
+        }
+    },
+    {
+        "input": "Las empresas LíneaDirecta y VozContacto ofrecen servicio de atención telefónica 24 horas a usuarios de sus softwares de procesamiento de texto. Dado que los clientes solo llaman ante dificultades, y LíneaDirecta recibe cuatro veces más llamadas que VozContacto, se concluye que el software de LíneaDirecta es más difícil de usar. ¿Qué afirmación, de ser cierta, respalda mejor este razonamiento?\nA. El número de clientes con el software de texto VozContacto triplica al de LíneaDirecta.\nB. El número de llamadas recibidas por estas empresas ha aumentado progresivamente.\nC. Las llamadas a VozContacto duran en promedio el doble que las de LíneaDirecta.\nD. VozContacto recibe el doble de quejas por su software de texto que LíneaDirecta.",
+        "target_scores": {
+            "A. El número de clientes con el software de texto VozContacto triplica al de LíneaDirecta.": 1,
+            "B. El número de llamadas recibidas por estas empresas ha aumentado progresivamente.": 0,
+            "C. Las llamadas a VozContacto duran en promedio el doble que las de LíneaDirecta.": 0,
+            "D. VozContacto recibe el doble de quejas por su software de texto que LíneaDirecta.": 0
+        }
+    },
+    {
+        "input": "En la década de 1980, las visitas a urgencias por consumidores de heroína aumentaron en más del 25%. Esto sugiere claramente que su consumo creció durante esa década. ¿Qué suposición permite inferir válidamente esta conclusión?\nA. Desde 1980, los métodos de consumo de heroína han cambiado, reduciendo su peligrosidad.\nB. Esos consumidores de heroína visitan frecuentemente salas de emergencia.\nC. Las visitas a urgencias por consumo de heroína son proporcionales a su tasa de uso.\nD. Quienes buscan tratamiento por heroína suelen hacerlo en etapas avanzadas de adicción.",
+        "target_scores": {
+            "A. Desde 1980, los métodos de consumo de heroína han cambiado, reduciendo su peligrosidad.": 0,
+            "B. Esos consumidores de heroína visitan frecuentemente salas de emergencia.": 0,
+            "C. Las visitas a urgencias por consumo de heroína son proporcionales a su tasa de uso.": 1,
+            "D. Quienes buscan tratamiento por heroína suelen hacerlo en etapas avanzadas de adicción.": 0
+        }
+    }
+]

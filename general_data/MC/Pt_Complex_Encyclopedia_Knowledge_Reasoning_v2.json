@@ -1,0 +1,893 @@
+[
+    {
+        "input": "Se o livro Princípios Matemáticos da Filosofia Natural nunca tivesse sido publicado, que doença Newton não poderia ter sofrido em 1693?\nA. Desatento\nB. Doença da vaca louca\nC. Neurastenia\nD. Panleucopenia felina",
+        "target_scores": {
+            "A. Desatento": 0,
+            "B. Doença da vaca louca": 0,
+            "C. Neurastenia": 1,
+            "D. Panleucopenia felina": 0
+        }
+    },
+    {
+        "input": "Se em 1582, Bacon tivesse obtido qualificação médica, o que possivelmente não teria acontecido sete anos depois?\nA. Bacon foi acusado de corrupção\nB. Bacon foi eleito presidente do tribunal\nC. Bacon foi preso na Torre de Londres\nD. Bacon tornou-se escrivão após uma vaga no tribunal",
+        "target_scores": {
+            "A. Bacon foi acusado de corrupção": 0,
+            "B. Bacon foi eleito presidente do tribunal": 0,
+            "C. Bacon foi preso na Torre de Londres": 0,
+            "D. Bacon tornou-se escrivão após uma vaga no tribunal": 1
+        }
+    },
+    {
+        "input": "Se em 1761 Lavoisier tivesse entrado na Faculdade de Direito da Universidade de Paris, obtido a qualificação de advogado e se dedicado totalmente à carreira jurídica, o que ele não teria feito aos trinta e quatro anos?\nA. Organizou com Guettard uma pesquisa sobre recursos minerais na região da Alsácia-Lorena\nB. Refutou completamente a Teoria do flogisto\nC. Tornou-se membro da Academia Francesa de Ciências\nD. Venceu cem casos consecutivos",
+        "target_scores": {
+            "A. Organizou com Guettard uma pesquisa sobre recursos minerais na região da Alsácia-Lorena": 0,
+            "B. Refutou completamente a Teoria do flogisto": 1,
+            "C. Tornou-se membro da Academia Francesa de Ciências": 0,
+            "D. Venceu cem casos consecutivos": 0
+        }
+    },
+    {
+        "input": "Se em 1773, o grande interesse de William Herschel fosse mapeamento geográfico, que conquista ele não teria oito anos depois?\nA. Descobriu Urano\nB. Presenteou Caroline com um telescópio\nC. Telescópio caseiro\nD. Tocou órgão",
+        "target_scores": {
+            "A. Descobriu Urano": 1,
+            "B. Presenteou Caroline com um telescópio": 0,
+            "C. Telescópio caseiro": 0,
+            "D. Tocou órgão": 0
+        }
+    },
+    {
+        "input": "Em 1783, se William Herschel não tivesse presenteado Caroline com um telescópio e não a tivesse encorajado a fazer observações astronômicas, Caroline não faria o quê, quarenta e cinco anos depois?\nA. Atualizou e corrigiu as posições detalhadas das estrelas no catálogo de constelações de Flamsteed\nB. Descobriu e observou 8 cometas e 11 nebulosas\nC. Homenageada pela Sociedade Real de Astronomia Britânica\nD. Mudou-se para a quinta Clay em Windsor Antiga",
+        "target_scores": {
+            "A. Atualizou e corrigiu as posições detalhadas das estrelas no catálogo de constelações de Flamsteed": 0,
+            "B. Descobriu e observou 8 cometas e 11 nebulosas": 0,
+            "C. Homenageada pela Sociedade Real de Astronomia Britânica": 1,
+            "D. Mudou-se para a quinta Clay em Windsor Antiga": 0
+        }
+    },
+    {
+        "input": "Se Napoleão tivesse sido assassinado em 1799, que evento de junho do ano seguinte não teria ocorrido?\nA. Golpe de 18 Brumário\nB. Revolução de Junho\nC. Revolução de Paris\nD. Vitória na Batalha de Marengo",
+        "target_scores": {
+            "A. Golpe de 18 Brumário": 0,
+            "B. Revolução de Junho": 0,
+            "C. Revolução de Paris": 0,
+            "D. Vitória na Batalha de Marengo": 1
+        }
+    },
+    {
+        "input": "Em janeiro de 1803, se a esposa de Simón Bolívar não tivesse morrido de uma doença tropical, o que possivelmente não teria ocorrido em 2 de dezembro do ano seguinte?\nA. Professor Andrés Bello ensinou literatura e geografia a Bolívar\nB. Simón Bolívar e Marqués de Ustáriz começaram a se relacionar\nC. Simón Bolívar estudou francês na Espanha\nD. Simón Bolívar participou da coroação de Napoleão",
+        "target_scores": {
+            "A. Professor Andrés Bello ensinou literatura e geografia a Bolívar": 0,
+            "B. Simón Bolívar e Marqués de Ustáriz começaram a se relacionar": 0,
+            "C. Simón Bolívar estudou francês na Espanha": 0,
+            "D. Simón Bolívar participou da coroação de Napoleão": 1
+        }
+    },
+    {
+        "input": "Em 1808, se o rei Carlos IV da Espanha fosse adorado por militares e civis, o que Napoleão não teria feito alguns meses depois?\nA. Encontrou-se com o czar russo Alexandre I\nB. Forçou Fernando VII a abdicar\nC. Liderou tropas contra a Prússia\nD. Pegou a coroa e colocou-a em sua própria cabeça e na de sua esposa Josefina",
+        "target_scores": {
+            "A. Encontrou-se com o czar russo Alexandre I": 0,
+            "B. Forçou Fernando VII a abdicar": 1,
+            "C. Liderou tropas contra a Prússia": 0,
+            "D. Pegou a coroa e colocou-a em sua própria cabeça e na de sua esposa Josefina": 0
+        }
+    },
+    {
+        "input": "Se Edison não tivesse se interessado por algo em 1857, ele não teria começado a procurar trabalho para ganhar dinheiro para comprar medicamentos e equipamentos dois anos depois?\nA. Literatura\nB. Matemática\nC. Química\nD. Trabalhou na agricultura",
+        "target_scores": {
+            "A. Literatura": 0,
+            "B. Matemática": 0,
+            "C. Química": 1,
+            "D. Trabalhou na agricultura": 0
+        }
+    },
+    {
+        "input": "Em um dia de agosto de 1862, se Edison não tivesse salvado um menino nos trilhos do trem, que tecnologia ele não dominaria naquele ano?\nA. Fabricação de papel\nB. Impressão\nC. Mágica\nD. Tecnologia do telégrafo",
+        "target_scores": {
+            "A. Fabricação de papel": 0,
+            "B. Impressão": 0,
+            "C. Mágica": 0,
+            "D. Tecnologia do telégrafo": 1
+        }
+    },
+    {
+        "input": "Em 1870, se Edison tivesse recebido apenas o preço que tinha em mente ao vender a patente da impressora universal, o que ele não teria feito posteriormente na cidade de Newark?\nA. Abriu uma fábrica\nB. Acumulou ouro\nC. Comprou uma casa\nD. Investiu no mercado de ações",
+        "target_scores": {
+            "A. Abriu uma fábrica": 1,
+            "B. Acumulou ouro": 0,
+            "C. Comprou uma casa": 0,
+            "D. Investiu no mercado de ações": 0
+        }
+    },
+    {
+        "input": "No outono de 1873, supondo que Freud não tivesse conseguido entrar na Universidade de Viena para estudar medicina, que evento possivelmente não teria ocorrido doze anos depois?\nA. Freud começou a trabalhar no Hospital Geral de Viena\nB. Freud foi nomeado professor de neuropatologia na Faculdade de Medicina da Universidade de Viena\nC. Freud obteve seu doutorado em medicina\nD. Freud transferiu-se para o asilo psiquiátrico como médico assistente",
+        "target_scores": {
+            "A. Freud começou a trabalhar no Hospital Geral de Viena": 0,
+            "B. Freud foi nomeado professor de neuropatologia na Faculdade de Medicina da Universidade de Viena": 1,
+            "C. Freud obteve seu doutorado em medicina": 0,
+            "D. Freud transferiu-se para o asilo psiquiátrico como médico assistente": 0
+        }
+    },
+    {
+        "input": "Em 1874, se Max Planck, após ingressar na Universidade de Munique para estudar matemática, nunca tivesse mudado de especialidade, o que ele não teria feito em fevereiro, cinco anos depois?\nA. Apresentou a tese de doutorado Sobre a Segunda Lei da Termodinâmica\nB. Completou o exame de qualificação para professor\nC. Estudou por conta própria as lições de Rudolf Clausius\nD. Mudou para estudar física",
+        "target_scores": {
+            "A. Apresentou a tese de doutorado Sobre a Segunda Lei da Termodinâmica": 1,
+            "B. Completou o exame de qualificação para professor": 0,
+            "C. Estudou por conta própria as lições de Rudolf Clausius": 0,
+            "D. Mudou para estudar física": 0
+        }
+    },
+    {
+        "input": "Em 1884, se Freud e Josef Breuer nunca tivessem tido qualquer interação, o que ele provavelmente não teria feito no verão cinco anos depois?\nA. Estabeleceu consultório particular como médico neurologista\nB. Foi a Nancy, França, para aprender com Bernheim\nC. Foi a Paris para estudar com Charcot no Hospital Salpêtrière\nD. Usou o conceito de \"psicanálise\" pela primeira vez",
+        "target_scores": {
+            "A. Estabeleceu consultório particular como médico neurologista": 0,
+            "B. Foi a Nancy, França, para aprender com Bernheim": 1,
+            "C. Foi a Paris para estudar com Charcot no Hospital Salpêtrière": 0,
+            "D. Usou o conceito de \"psicanálise\" pela primeira vez": 0
+        }
+    },
+    {
+        "input": "Se Sun Yat-sen não tivesse percebido a corrupção dos oficiais do governo Qing em junho de 1894, o que não teria acontecido no 24º dia de novembro do mesmo ano?\nA. Sun Yat-sen completou Estratégia para a Fundação do País\nB. Sun Yat-sen estudou medicina em Hong Kong\nC. Sun Yat-sen fundou a Sociedade para a Regeneração Chinesa em Honolulu\nD. Sun Yat-sen seguiu sua mãe para Honolulu",
+        "target_scores": {
+            "A. Sun Yat-sen completou Estratégia para a Fundação do País": 0,
+            "B. Sun Yat-sen estudou medicina em Hong Kong": 0,
+            "C. Sun Yat-sen fundou a Sociedade para a Regeneração Chinesa em Honolulu": 1,
+            "D. Sun Yat-sen seguiu sua mãe para Honolulu": 0
+        }
+    },
+    {
+        "input": "Se Gauss, aos 18 anos, não tivesse conseguido ingressar com sucesso na Universidade de Göttingen, que conquista ele possivelmente não teria um ano depois?\nA. Provou que o heptadecágono regular pode ser construído com régua e compasso\nB. Provou que o polígono regular de dezesseis lados pode ser construído com régua e compasso\nC. Tornou-se professor na Universidade de Göttingen\nD. Transferiu-se para a Universidade de Göttingen para estudar",
+        "target_scores": {
+            "A. Provou que o heptadecágono regular pode ser construído com régua e compasso": 1,
+            "B. Provou que o polígono regular de dezesseis lados pode ser construído com régua e compasso": 0,
+            "C. Tornou-se professor na Universidade de Göttingen": 0,
+            "D. Transferiu-se para a Universidade de Göttingen para estudar": 0
+        }
+    },
+    {
+        "input": "Se o termômetro só tivesse sido inventado em 1900, o que William Herschel não poderia ter feito um século antes?\nA. Descobriu a radiação infravermelha do sol\nB. Fabricou mais de 400 telescópios\nC. Faleceu no observatório de Slough\nD. Nomeou uma cratera na Lua",
+        "target_scores": {
+            "A. Descobriu a radiação infravermelha do sol": 1,
+            "B. Fabricou mais de 400 telescópios": 0,
+            "C. Faleceu no observatório de Slough": 0,
+            "D. Nomeou uma cratera na Lua": 0
+        }
+    },
+    {
+        "input": "Se em 5 de dezembro de 1901, Werner Heisenberg tivesse nascido nos Estados Unidos, o que ele possivelmente não teria feito dezenove anos depois?\nA. Assumiu a presidência da Fundação Humboldt\nB. Ingressou na Universidade de Munique\nC. Liderou e participou do Projeto Manhattan\nD. Recebeu o Prêmio Nobel de Física de 1932",
+        "target_scores": {
+            "A. Assumiu a presidência da Fundação Humboldt": 0,
+            "B. Ingressou na Universidade de Munique": 1,
+            "C. Liderou e participou do Projeto Manhattan": 0,
+            "D. Recebeu o Prêmio Nobel de Física de 1932": 0
+        }
+    },
+    {
+        "input": "Em 1907, se Xu Beihong tivesse desenvolvido miastenia e nunca mais pudesse segurar um pincel, o que não poderia ter acontecido quando ele vagava no ano seguinte?\nA. Desenvolveu o hábito de nunca soltar a caneta\nB. Entrou na Universidade Aurora para estudar francês, continuando a pintar nas horas vagas\nC. Ficou em casa para se recuperar\nD. Recebeu honorários da Universidade Mingzhi, viajou ao Japão para estudar arte",
+        "target_scores": {
+            "A. Desenvolveu o hábito de nunca soltar a caneta": 1,
+            "B. Entrou na Universidade Aurora para estudar francês, continuando a pintar nas horas vagas": 0,
+            "C. Ficou em casa para se recuperar": 0,
+            "D. Recebeu honorários da Universidade Mingzhi, viajou ao Japão para estudar arte": 0
+        }
+    },
+    {
+        "input": "Se Fleming tivesse ficado cego em 1918, o que ele não conseguiria fazer quatro anos depois?\nA. Descobriu a \"lisozima\"\nB. Emitiu um selo comemorativo do centenário do nascimento de Fleming\nC. Encontrou um método para produzir penicilina em larga escala\nD. Retornou ao Hospital St. Mary",
+        "target_scores": {
+            "A. Descobriu a \"lisozima\"": 1,
+            "B. Emitiu um selo comemorativo do centenário do nascimento de Fleming": 0,
+            "C. Encontrou um método para produzir penicilina em larga escala": 0,
+            "D. Retornou ao Hospital St. Mary": 0
+        }
+    },
+    {
+        "input": "Se a partir de 1918, Enrico Fermi tivesse se dedicado ao campo da matemática, que experiência de vida ele se calhar não teria tido em dezembro de 1938?\nA. Levou toda a família para o exterior para receber o Prêmio Nobel\nB. Mudou-se de Los Alamos para Chicago\nC. Serviu como professor de física na Universidade de Chicago\nD. Tornou-se cidadão americano",
+        "target_scores": {
+            "A. Levou toda a família para o exterior para receber o Prêmio Nobel": 1,
+            "B. Mudou-se de Los Alamos para Chicago": 0,
+            "C. Serviu como professor de física na Universidade de Chicago": 0,
+            "D. Tornou-se cidadão americano": 0
+        }
+    },
+    {
+        "input": "Se Enrico Fermi fosse o pior aluno da escola em 1922, o que ele possivelmente não teria conseguido fazer no ano seguinte?\nA. Foi trabalhar no Instituto de Leiden na Holanda\nB. Formou-se na Escola Normal Superior de Pisa\nC. Obteve o doutorado em física\nD. Recebeu bolsa de estudos do governo italiano para estudar na Alemanha",
+        "target_scores": {
+            "A. Foi trabalhar no Instituto de Leiden na Holanda": 0,
+            "B. Formou-se na Escola Normal Superior de Pisa": 0,
+            "C. Obteve o doutorado em física": 0,
+            "D. Recebeu bolsa de estudos do governo italiano para estudar na Alemanha": 1
+        }
+    },
+    {
+        "input": "Se em 1929 Fleming não tivesse apontado que a penicilina teria usos importantes, o que não teria acontecido dezesseis anos depois?\nA. Descobriu a artemisinina\nB. Emissão do selo comemorativo do centenário do nascimento de Fleming\nC. Fleming publicou o artigo de pesquisa Sobre a Ação Bactericida das Culturas de Fungos\nD. Fleming, Florey e Chain compartilharam o Prêmio Nobel de Fisiologia ou Medicina",
+        "target_scores": {
+            "A. Descobriu a artemisinina": 0,
+            "B. Emissão do selo comemorativo do centenário do nascimento de Fleming": 0,
+            "C. Fleming publicou o artigo de pesquisa Sobre a Ação Bactericida das Culturas de Fungos": 0,
+            "D. Fleming, Florey e Chain compartilharam o Prêmio Nobel de Fisiologia ou Medicina": 1
+        }
+    },
+    {
+        "input": "Em 11 de dezembro de 1930, se Einstein não tivesse ido aos Estados Unidos pela primeira vez, que experiência ele não teria dois dias depois?\nA. Estudou geometria euclidiana de forma autodidata.\nB. Foi presenteado com uma chave de ouro\nC. Foi presenteado com uma colher de ouro\nD. Mudou-se com os pais para Munique",
+        "target_scores": {
+            "A. Estudou geometria euclidiana de forma autodidata.": 0,
+            "B. Foi presenteado com uma chave de ouro": 1,
+            "C. Foi presenteado com uma colher de ouro": 0,
+            "D. Mudou-se com os pais para Munique": 0
+        }
+    },
+    {
+        "input": "Se a dissertação de mestrado de Shannon em 1937 não fosse sobre álgebra booleana e relés, que honra ele não teria recebido três anos depois?\nA. Medalha Nacional de Ciências dos Estados Unidos\nB. Prêmio Shannon\nC. Prêmio de Engenheiro Alemão da Associação Qlfred Noble\nD. Prêmio de Engenheiro Americano da Associação Alfred Noble",
+        "target_scores": {
+            "A. Medalha Nacional de Ciências dos Estados Unidos": 0,
+            "B. Prêmio Shannon": 0,
+            "C. Prêmio de Engenheiro Alemão da Associação Qlfred Noble": 0,
+            "D. Prêmio de Engenheiro Americano da Associação Alfred Noble": 1
+        }
+    },
+    {
+        "input": "Se antes do século XXI, a Microsoft não tivesse criado sistemas operacionais e softwares de escritório, que cenário não teria se formado posteriormente na área da computação?\nA. A máquina de litografia foi inventada\nB. Bill Gates e Paul Allen se conheceram no ensino médio\nC. Windows e Microsoft Office ocupam posições dominantes em suas respectivas áreas\nD. Álgebra linear tornou-se disciplina obrigatória em instituições de ensino superior",
+        "target_scores": {
+            "A. A máquina de litografia foi inventada": 0,
+            "B. Bill Gates e Paul Allen se conheceram no ensino médio": 0,
+            "C. Windows e Microsoft Office ocupam posições dominantes em suas respectivas áreas": 1,
+            "D. Álgebra linear tornou-se disciplina obrigatória em instituições de ensino superior": 0
+        }
+    },
+    {
+        "input": "Se Edison nunca tivesse invejado os outros, que empresa não teria sido criada em 1886?\nA. Companhia Mobil\nB. Companhia Morgan\nC. General Company\nD. Tesla Electric Light and Manufacturing Company",
+        "target_scores": {
+            "A. Companhia Mobil": 0,
+            "B. Companhia Morgan": 0,
+            "C. General Company": 0,
+            "D. Tesla Electric Light and Manufacturing Company": 1
+        }
+    },
+    {
+        "input": "Quando Edison inventou a máquina de contagem de votos, se ninguém tivesse dito a Edison que a votação lenta era por considerações políticas, que conquista ele não teria onze anos depois?\nA. Aperfeiçoou o telefone inventado inicialmente por Alexander Bell\nB. Dedicou-se à pesquisa do telégrafo síncrono\nC. Inventou a lâmpada elétrica, mas não tinha amplo valor prático\nD. Inventou a primeira lâmpada elétrica de amplo valor prático para a humanidade",
+        "target_scores": {
+            "A. Aperfeiçoou o telefone inventado inicialmente por Alexander Bell": 0,
+            "B. Dedicou-se à pesquisa do telégrafo síncrono": 0,
+            "C. Inventou a lâmpada elétrica, mas não tinha amplo valor prático": 0,
+            "D. Inventou a primeira lâmpada elétrica de amplo valor prático para a humanidade": 1
+        }
+    },
+    {
+        "input": "Se Edison tivesse nascido durante o mandato de Franklin Roosevelt, o que Hoover não teria dito?\nA. A diligência é a pedra angular do sucesso\nB. Ele era um gênio raro. Ele tem sido um bem precioso para o mundo inteiro.\nC. Presidentes vêm e vão, mas Hoover permanece\nD. Uma das maiores figuras do mundo",
+        "target_scores": {
+            "A. A diligência é a pedra angular do sucesso": 0,
+            "B. Ele era um gênio raro. Ele tem sido um bem precioso para o mundo inteiro.": 1,
+            "C. Presidentes vêm e vão, mas Hoover permanece": 0,
+            "D. Uma das maiores figuras do mundo": 0
+        }
+    },
+    {
+        "input": "Se os realistas tivessem recuperado suas forças no sudoeste em fevereiro de 1648 e só iniciado a rebelião no ano seguinte, o que possivelmente não teria ocorrido no décimo primeiro dia de julho de 1648?\nA. Cromwell marchou para o País de Gales\nB. Implementou o Convênio do Povo\nC. O exército parlamentar ocupou Danby\nD. Pembroke foi expugnada",
+        "target_scores": {
+            "A. Cromwell marchou para o País de Gales": 0,
+            "B. Implementou o Convênio do Povo": 0,
+            "C. O exército parlamentar ocupou Danby": 0,
+            "D. Pembroke foi expugnada": 1
+        }
+    },
+    {
+        "input": "Após o fracasso na mineração, quando Edison entrou em um novo campo e abriu uma nova fábrica, se ele não tivesse adotado completamente dispositivos de energia mecânica, o que ele não conseguiria fazer em 1905?\nA. Investimento de dois milhões de dólares foi perdido\nB. Produziu o primeiro filme O Grande Roubo do Trem\nC. Sua fábrica de cimento tornou-se uma das cinco maiores dos Estados Unidos\nD. Vendeu acumuladores de novo tipo",
+        "target_scores": {
+            "A. Investimento de dois milhões de dólares foi perdido": 0,
+            "B. Produziu o primeiro filme O Grande Roubo do Trem": 0,
+            "C. Sua fábrica de cimento tornou-se uma das cinco maiores dos Estados Unidos": 1,
+            "D. Vendeu acumuladores de novo tipo": 0
+        }
+    },
+    {
+        "input": "Se Chen Jingrun tivesse sido uma pessoa comum quando faleceu em 1996, que evento relacionado a ele não teria acontecido três anos depois, em outubro?\nA. Cerimônia de inauguração da estátua de bronze de Chen Jingrun\nB. Realizada a cerimônia de inauguração da estátua de Chen Jingrun\nC. Surgimento da \"Estrela Chen Jingrun\"\nD. Surgimento do \"Plano Estrela do Futuro Chen Jingrun\"",
+        "target_scores": {
+            "A. Cerimônia de inauguração da estátua de bronze de Chen Jingrun": 0,
+            "B. Realizada a cerimônia de inauguração da estátua de Chen Jingrun": 0,
+            "C. Surgimento da \"Estrela Chen Jingrun\"": 1,
+            "D. Surgimento do \"Plano Estrela do Futuro Chen Jingrun\"": 0
+        }
+    },
+    {
+        "input": "Antigamente, se Shakespeare não tivesse criado Sonho de uma Noite de Verão, o que não teria acontecido com Titânia?\nA. Descoberto por William Herschel em 1787\nB. Passou por um ciclo sazonal extremo\nC. Sonho de uma Noite de Verão tem Titânia como inspiração criativa\nD. Titânia foi o nome dado ao terceiro satélite de Urano",
+        "target_scores": {
+            "A. Descoberto por William Herschel em 1787": 0,
+            "B. Passou por um ciclo sazonal extremo": 0,
+            "C. Sonho de uma Noite de Verão tem Titânia como inspiração criativa": 0,
+            "D. Titânia foi o nome dado ao terceiro satélite de Urano": 1
+        }
+    },
+    {
+        "input": "Se Descartes e Fermat não tivessem defendido o uso de métodos algébricos para estudar geometria, que conceito não teria mudado naquela época?\nA. A álgebra é apenas uma ferramenta auxiliar\nB. O cálculo diferencial e integral são considerados disciplinas independentes\nC. O cálculo é uma disciplina que estuda mudanças contínuas\nD. Os Princípios Matemáticos da Filosofia Natural são uma verdade absoluta",
+        "target_scores": {
+            "A. A álgebra é apenas uma ferramenta auxiliar": 1,
+            "B. O cálculo diferencial e integral são considerados disciplinas independentes": 0,
+            "C. O cálculo é uma disciplina que estuda mudanças contínuas": 0,
+            "D. Os Princípios Matemáticos da Filosofia Natural são uma verdade absoluta": 0
+        }
+    },
+    {
+        "input": "Se em meados da década de 1930, Norbert Wiener não tivesse visitado a China, o que Hua Luogeng não faria?\nA. Escreveu Carta a Todos os Estudantes Chineses nos Estados Unidos\nB. Estudou em Cambridge\nC. Ingressou no Departamento de Matemática da Universidade Tsinghua\nD. Publicou artigos na revista Ciência de Xangai e outras",
+        "target_scores": {
+            "A. Escreveu Carta a Todos os Estudantes Chineses nos Estados Unidos": 0,
+            "B. Estudou em Cambridge": 1,
+            "C. Ingressou no Departamento de Matemática da Universidade Tsinghua": 0,
+            "D. Publicou artigos na revista Ciência de Xangai e outras": 0
+        }
+    },
+    {
+        "input": "Se Francis Bacon tivesse sido fraco e doente na infância, impedindo-o de se concentrar nos estudos, o que ele possivelmente não teria conseguido fazer aos 12 anos?\nA. Faleceu por doença\nB. Foi eleito deputado\nC. Foi enviado para estudar no Trinity College da Universidade de Cambridge\nD. Residiu na França",
+        "target_scores": {
+            "A. Faleceu por doença": 0,
+            "B. Foi eleito deputado": 0,
+            "C. Foi enviado para estudar no Trinity College da Universidade de Cambridge": 1,
+            "D. Residiu na França": 0
+        }
+    },
+    {
+        "input": "Após a morte de seu pai, se Freud tivesse perdido todo o interesse acadêmico desde então, o que ele não teria feito no último ano do século XIX?\nA. Escreveu A Interpretação dos Sonhos\nB. Escreveu Estudos sobre a Histeria\nC. Escreveu Psicopatologia da Vida Cotidiana\nD. Escreveu Totem e Tabu",
+        "target_scores": {
+            "A. Escreveu A Interpretação dos Sonhos": 1,
+            "B. Escreveu Estudos sobre a Histeria": 0,
+            "C. Escreveu Psicopatologia da Vida Cotidiana": 0,
+            "D. Escreveu Totem e Tabu": 0
+        }
+    },
+    {
+        "input": "No décimo sétimo ano após o nascimento de Gauss, se ele não tivesse descoberto o método dos mínimos quadrados, que trabalho ele talvez não teria liderado entre o quadragésimo primeiro e o quadragésimo nono ano?\nA. Derivou a fórmula para calcular a data da Páscoa\nB. Escreveu em alemão Estudos Geométricos sobre a Teoria das Linhas Paralelas\nC. Trabalho de topografia do Principado de Hanôver\nD. Trabalho topográfico no Parque Hanôver",
+        "target_scores": {
+            "A. Derivou a fórmula para calcular a data da Páscoa": 0,
+            "B. Escreveu em alemão Estudos Geométricos sobre a Teoria das Linhas Paralelas": 0,
+            "C. Trabalho de topografia do Principado de Hanôver": 1,
+            "D. Trabalho topográfico no Parque Hanôver": 0
+        }
+    },
+    {
+        "input": "Aos sessenta e três anos de Gauss, se o artigo de Lobachevsky não tivesse chamado sua atenção, o que Gauss não faria a partir daquele ano?\nA. Estudou alemão\nB. Estudou russo\nC. Inventou o refletor solar\nD. Traduziu Investigações Geométricas sobre a Teoria das Linhas Paralelas",
+        "target_scores": {
+            "A. Estudou alemão": 0,
+            "B. Estudou russo": 1,
+            "C. Inventou o refletor solar": 0,
+            "D. Traduziu Investigações Geométricas sobre a Teoria das Linhas Paralelas": 0
+        }
+    },
+    {
+        "input": "Se a Revolução Industrial não tivesse se espalhado pela Alemanha, através de qual artigo Marx não expressaria suas visões sobre legislação em 1842?\nA. Debates sobre a Lei do Roubo de Madeira\nB. Gazeta Renana\nC. Manifesto Comunista\nD. O Capital",
+        "target_scores": {
+            "A. Debates sobre a Lei do Roubo de Madeira": 1,
+            "B. Gazeta Renana": 0,
+            "C. Manifesto Comunista": 0,
+            "D. O Capital": 0
+        }
+    },
+    {
+        "input": "Se o rei Felipe II não conhecesse Aristóteles, o que não teria acontecido em 343 a.C.?\nA. Aristóteles ajudou Alexandre, o Grande, a ascender ao trono\nB. Aristóteles foi contratado como professor de Alexandre, o Grande\nC. Aristóteles foi nomeado cavaleiro pelo rei Felipe II\nD. Aristóteles se aposentou e voltou para sua terra natal",
+        "target_scores": {
+            "A. Aristóteles ajudou Alexandre, o Grande, a ascender ao trono": 0,
+            "B. Aristóteles foi contratado como professor de Alexandre, o Grande": 1,
+            "C. Aristóteles foi nomeado cavaleiro pelo rei Felipe II": 0,
+            "D. Aristóteles se aposentou e voltou para sua terra natal": 0
+        }
+    },
+    {
+        "input": "Se o Secretário da Marinha Josephus Daniels nunca tivesse tido qualquer contato com Edison, o que Edison não teria passado dois anos fazendo em 1917?\nA. Desenvolveu baterias de melhor desempenho\nB. Discutiu planos de batalha e desenvolveu invenções necessárias para a guerra\nC. Focou na produção de discos\nD. Separou os negócios de discos da promoção de produtos de cilindros de cera",
+        "target_scores": {
+            "A. Desenvolveu baterias de melhor desempenho": 0,
+            "B. Discutiu planos de batalha e desenvolveu invenções necessárias para a guerra": 1,
+            "C. Focou na produção de discos": 0,
+            "D. Separou os negócios de discos da promoção de produtos de cilindros de cera": 0
+        }
+    },
+    {
+        "input": "Se no final de 1868, Edison tivesse decidido nunca mais inventar, qual das seguintes opções não teria inovada no vigésimo primeiro dia de outubro, onze anos depois?\nA. Lanterna\nB. Lâmpada de baixo consumo\nC. Lâmpada de filamento de algodão carbonizado\nD. Telefone",
+        "target_scores": {
+            "A. Lanterna": 0,
+            "B. Lâmpada de baixo consumo": 0,
+            "C. Lâmpada de filamento de algodão carbonizado": 1,
+            "D. Telefone": 0
+        }
+    },
+    {
+        "input": "Se até o século XX as pessoas só começassem a usar gelo, o que Faraday não conseguiria fazer em 1843?\nA. Faraday descobriu pela primeira vez o fenômeno da indução eletromagnética\nB. Inventou o gerador de disco\nC. Resumiu as leis de Faraday sobre eletrólise\nD. Verificou a conservação de carga através do \"experimento do balde de gelo\"",
+        "target_scores": {
+            "A. Faraday descobriu pela primeira vez o fenômeno da indução eletromagnética": 0,
+            "B. Inventou o gerador de disco": 0,
+            "C. Resumiu as leis de Faraday sobre eletrólise": 0,
+            "D. Verificou a conservação de carga através do \"experimento do balde de gelo\"": 1
+        }
+    },
+    {
+        "input": "Supondo que a Segunda Guerra Mundial já tivesse terminado em 1941, o que Shannon possivelmente não faria no verão daquele ano?\nA. Criou a teoria taxa-distorção\nB. Inventou o rato mecânico\nC. Projetou a máquina de \"leitura mental\"\nD. Projetou dispositivos direcionais para ajudar a Grã-Bretanha contra a Alemanha",
+        "target_scores": {
+            "A. Criou a teoria taxa-distorção": 0,
+            "B. Inventou o rato mecânico": 0,
+            "C. Projetou a máquina de \"leitura mental\"": 0,
+            "D. Projetou dispositivos direcionais para ajudar a Grã-Bretanha contra a Alemanha": 1
+        }
+    },
+    {
+        "input": "Supondo que a partir de 1923, Anna Freud tivesse começado a fazer prática clínica de dissecação de cadáveres, o que ela não estaria fazendo em 1927?\nA. Publicou Introdução à Técnica da Análise Infantil\nB. Publicou o livro O Ego e os Mecanismos de Defesa\nC. Publicou o relatório de pesquisa Vencendo Fantasias e Devaneios\nD. Tornou-se diretora da Clínica Hampstead",
+        "target_scores": {
+            "A. Publicou Introdução à Técnica da Análise Infantil": 1,
+            "B. Publicou o livro O Ego e os Mecanismos de Defesa": 0,
+            "C. Publicou o relatório de pesquisa Vencendo Fantasias e Devaneios": 0,
+            "D. Tornou-se diretora da Clínica Hampstead": 0
+        }
+    },
+    {
+        "input": "Supondo que Enrico Fermi nunca tivesse sofrido de doenças estomacais ao longo da sua vida, o que não teria acontecido no dia 28 de novembro de 1954?\nA. Enrico Fermi faleceu de câncer de estômago\nB. Enrico Fermi faleceu em São Francisco\nC. Enrico Fermi foi eleito membro da Academia Nacional de Ciências dos EUA\nD. Enrico Fermi inventou o gastroscópio",
+        "target_scores": {
+            "A. Enrico Fermi faleceu de câncer de estômago": 1,
+            "B. Enrico Fermi faleceu em São Francisco": 0,
+            "C. Enrico Fermi foi eleito membro da Academia Nacional de Ciências dos EUA": 0,
+            "D. Enrico Fermi inventou o gastroscópio": 0
+        }
+    },
+    {
+        "input": "Supondo que Hua Luogeng não tivesse sido forçado a abandonar a Escola Profissional Zhonghua de Xangai, o que ele não teria feito nos aproximadamente cinco anos seguintes?\nA. Autodidata, completou todo o currículo matemático do ensino médio e dos primeiros anos universitários\nB. Foi apelidado por seus companheiros de \"Luo, o bobo\"\nC. Foi intensamente cultivado pelo professor Wang Weike\nD. Ingressou na Escola Secundária do Condado de Jintan",
+        "target_scores": {
+            "A. Autodidata, completou todo o currículo matemático do ensino médio e dos primeiros anos universitários": 1,
+            "B. Foi apelidado por seus companheiros de \"Luo, o bobo\"": 0,
+            "C. Foi intensamente cultivado pelo professor Wang Weike": 0,
+            "D. Ingressou na Escola Secundária do Condado de Jintan": 0
+        }
+    },
+    {
+        "input": "Supondo que a equipe americana não tivesse participado do 31º Campeonato Mundial de Tênis de Mesa, o que possivelmente não teria acontecido em 24 de abril de 2021?\nA. \"A bola pequena empurra a bola grande\" (uma prática diplomática para o desenvolvimento da relação entre os dois países)\nB. 50º aniversário da \"diplomacia do ping-pong\" entre a China e os EUA\nC. China e EUA emitiram o Comunicado Conjunto em Xangai\nD. Visita secreta à China do Dr. Kissinger, Assessor de Segurança Nacional do Presidente dos EUA",
+        "target_scores": {
+            "A. \"A bola pequena empurra a bola grande\" (uma prática diplomática para o desenvolvimento da relação entre os dois países)": 0,
+            "B. 50º aniversário da \"diplomacia do ping-pong\" entre a China e os EUA": 1,
+            "C. China e EUA emitiram o Comunicado Conjunto em Xangai": 0,
+            "D. Visita secreta à China do Dr. Kissinger, Assessor de Segurança Nacional do Presidente dos EUA": 0
+        }
+    },
+    {
+        "input": "Supondo que Shakespeare nunca tivesse escrito comédias em toda a sua vida, qual evento seria improvável de ocorrer em 1594?\nA. Estreia de Sonho de uma Noite de Verão\nB. Primeira apresentação de Medida por Medida\nC. Publicação do poema longo O Estupro de Lucrécia\nD. Publicou As Alegres Comadres de Windsor",
+        "target_scores": {
+            "A. Estreia de Sonho de uma Noite de Verão": 1,
+            "B. Primeira apresentação de Medida por Medida": 0,
+            "C. Publicação do poema longo O Estupro de Lucrécia": 0,
+            "D. Publicou As Alegres Comadres de Windsor": 0
+        }
+    },
+    {
+        "input": "Supondo que a maravilha chinesa entre as sete novas maravilhas do mundo nunca tivesse existido na história, que palavra em inglês não teria aparecido no primeiro e-mail enviado da China para o exterior a partir de Pequim?\nA. the Great Wall\nB. the Palace Museum\nC. the Summer Palace\nD. the Yangtze River",
+        "target_scores": {
+            "A. the Great Wall": 1,
+            "B. the Palace Museum": 0,
+            "C. the Summer Palace": 0,
+            "D. the Yangtze River": 0
+        }
+    },
+    {
+        "input": "Supondo que Tagore fosse um indígena americano, o que ele não teria feito após assistir à performance de Mei Lanfang no 13º ano da República da China (1924)?\nA. Ensinou Mei Lanfang a cantar ópera em bengali\nB. Escreveu dísticos paralelos em bengali\nC. Escreveu um poema em bengali\nD. Escreveu um poema em tailandês",
+        "target_scores": {
+            "A. Ensinou Mei Lanfang a cantar ópera em bengali": 0,
+            "B. Escreveu dísticos paralelos em bengali": 0,
+            "C. Escreveu um poema em bengali": 1,
+            "D. Escreveu um poema em tailandês": 0
+        }
+    },
+    {
+        "input": "Supondo que Aristóteles e Alexandre não tivessem nenhuma relação, o que Aristóteles não precisaria fazer após a morte de Alexandre?\nA. Combateu o domínio macedônio\nB. Fugiu para Chalcis para se refugiar\nC. Fugiu para Olvera para se refugiar\nD. Sucedeu ao trono",
+        "target_scores": {
+            "A. Combateu o domínio macedônio": 0,
+            "B. Fugiu para Chalcis para se refugiar": 1,
+            "C. Fugiu para Olvera para se refugiar": 0,
+            "D. Sucedeu ao trono": 0
+        }
+    },
+    {
+        "input": "Supondo que até 1900 não existisse a agulha, o que não teria sido inventado por Edison vinte e três anos antes?\nA. Fonógrafo\nB. Lâmpada elétrica\nC. Telefone\nD. Válvula eletrônica",
+        "target_scores": {
+            "A. Fonógrafo": 1,
+            "B. Lâmpada elétrica": 0,
+            "C. Telefone": 0,
+            "D. Válvula eletrônica": 0
+        }
+    },
+    {
+        "input": "Se o Papa Urbano II tivesse nascido na América do Norte em 1042, que cargo oficial ele possivelmente não teria recebido quarenta e dois anos depois?\nA. Abade do Mosteiro de Cluny\nB. Arquidiácono da diocese de Reims\nC. Colaborador do Papa Gregório VII\nD. Núncio papal",
+        "target_scores": {
+            "A. Abade do Mosteiro de Cluny": 0,
+            "B. Arquidiácono da diocese de Reims": 0,
+            "C. Colaborador do Papa Gregório VII": 0,
+            "D. Núncio papal": 1
+        }
+    },
+    {
+        "input": "Se Kang Youwei tivesse estudado apenas o sistema político americano ao longo da sua vida, que obra especializada ele não teria escrito antes da Reforma dos Cem Dias?\nA. A Beleza da Matemática\nB. A Study of Confucius as a Reformer of Institutions\nC. História Geral dos Estados Unidos\nD. Uma Breve História do Tempo",
+        "target_scores": {
+            "A. A Beleza da Matemática": 0,
+            "B. A Study of Confucius as a Reformer of Institutions": 1,
+            "C. História Geral dos Estados Unidos": 0,
+            "D. Uma Breve História do Tempo": 0
+        }
+    },
+    {
+        "input": "Se os irmãos Wright, quando eram jovens, não tivessem desenvolvido um forte interesse pela mecânica, o que eles não teriam feito a partir do verão de 1903?\nA. Começou a fabricar biplanos\nB. Fabricou o segundo \"Flyer\"\nC. Inaugurou-se a oficina de reparos de bicicletas Wright\nD. Teste do voo de um modelo de avião a vapor",
+        "target_scores": {
+            "A. Começou a fabricar biplanos": 1,
+            "B. Fabricou o segundo \"Flyer\"": 0,
+            "C. Inaugurou-se a oficina de reparos de bicicletas Wright": 0,
+            "D. Teste do voo de um modelo de avião a vapor": 0
+        }
+    },
+    {
+        "input": "Se Laura Capon não tivesse ascendência judaica, o que Enrico Fermi possivelmente não teria feito no final de 1938?\nA. Entrou no Laboratório de Metalurgia da Universidade de Chicago para pesquisar plutônio e reatores\nB. Foi trabalhar na Universidade Columbia\nC. Mudou-se para os Estados Unidos\nD. Retornou à Itália",
+        "target_scores": {
+            "A. Entrou no Laboratório de Metalurgia da Universidade de Chicago para pesquisar plutônio e reatores": 0,
+            "B. Foi trabalhar na Universidade Columbia": 0,
+            "C. Mudou-se para os Estados Unidos": 1,
+            "D. Retornou à Itália": 0
+        }
+    },
+    {
+        "input": "Se Luttner e Martin Bartels nunca tivessem se cruzado com Gauss, que experiência Gauss não teria tido no seu décimo quarto ano após o nascimento?\nA. Aceitou o patrocínio dos dois homens mencionados anteriormente\nB. Derivou a forma geral do teorema binomial\nC. Previu o surgimento da geometria não-euclidiana\nD. Questionou as provas básicas na geometria elementar",
+        "target_scores": {
+            "A. Aceitou o patrocínio dos dois homens mencionados anteriormente": 1,
+            "B. Derivou a forma geral do teorema binomial": 0,
+            "C. Previu o surgimento da geometria não-euclidiana": 0,
+            "D. Questionou as provas básicas na geometria elementar": 0
+        }
+    },
+    {
+        "input": "Se os pais de Malthus fossem ambos analfabetos e ele tivesse sido obrigado a trabalhar na fazenda desde pequeno, qual evento possivelmente não teria ocorrido em 1784?\nA. Malthus era habilidoso em matemática\nB. Malthus foi admitido em Cambridge\nC. Malthus foi enterrado em um monastério\nD. Malthus obteve o grau de mestre",
+        "target_scores": {
+            "A. Malthus era habilidoso em matemática": 0,
+            "B. Malthus foi admitido em Cambridge": 1,
+            "C. Malthus foi enterrado em um monastério": 0,
+            "D. Malthus obteve o grau de mestre": 0
+        }
+    },
+    {
+        "input": "Se Michelangelo tivesse falecido em seu estúdio aos 60 anos, qual dos seguintes eventos não teria ocorrido um ano depois?\nA. Michelangelo teria construído um túmulo para o Papa\nB. Michelangelo teria criado o afresco O Juízo Final na Capela Sistina\nC. Michelangelo tornou-se diretor honorário da Academia de Diano\nD. Teria completado os afrescos da Gênesis",
+        "target_scores": {
+            "A. Michelangelo teria construído um túmulo para o Papa": 0,
+            "B. Michelangelo teria criado o afresco O Juízo Final na Capela Sistina": 1,
+            "C. Michelangelo tornou-se diretor honorário da Academia de Diano": 0,
+            "D. Teria completado os afrescos da Gênesis": 0
+        }
+    },
+    {
+        "input": "Se não houvesse minério de ferro em Minnesota, o que não teria acontecido na vida de Edison aos 51 anos?\nA. Edison foi indicado para o Prêmio Nobel\nB. Experimentou um segundo momento de prosperidade na carreira\nC. Falência da Edison Phonograph Company\nD. Gastou toda sua fortuna e ficou endividado",
+        "target_scores": {
+            "A. Edison foi indicado para o Prêmio Nobel": 0,
+            "B. Experimentou um segundo momento de prosperidade na carreira": 0,
+            "C. Falência da Edison Phonograph Company": 0,
+            "D. Gastou toda sua fortuna e ficou endividado": 1
+        }
+    },
+    {
+        "input": "Se depois de ser exilado em 1814, Napoleão nunca mais tivesse sido ouvido, qual evento relacionado a \"Napoleão\" não teria ocorrido um ano depois?\nA. Estabeleceu o Governo dos Cem Dias\nB. Foi exilado para a ilha de Elba\nC. Foi exilado para a ilha de Santa Helena\nD. Seu caixão foi transportado de volta ao Hôtel des Invalides em Paris",
+        "target_scores": {
+            "A. Estabeleceu o Governo dos Cem Dias": 1,
+            "B. Foi exilado para a ilha de Elba": 0,
+            "C. Foi exilado para a ilha de Santa Helena": 0,
+            "D. Seu caixão foi transportado de volta ao Hôtel des Invalides em Paris": 0
+        }
+    },
+    {
+        "input": "Se Newton estivesse em Espanha continuamente desde 1690, que evento relacionado a Newton possivelmente não teria acontecido seis anos depois?\nA. Estudou na Escola Real de Kings\nB. Foi nomeado cavaleiro pela rainha Ana\nC. Foi-lhe concedida a Cátedra Lucasiana de Matemática\nD. Trabalhou na Casa da Moeda Real de Londres",
+        "target_scores": {
+            "A. Estudou na Escola Real de Kings": 0,
+            "B. Foi nomeado cavaleiro pela rainha Ana": 0,
+            "C. Foi-lhe concedida a Cátedra Lucasiana de Matemática": 0,
+            "D. Trabalhou na Casa da Moeda Real de Londres": 1
+        }
+    },
+    {
+        "input": "Se em 1893, Freud tivesse mudado completamente seu campo de pesquisa para astrofísica, o que não teria acontecido dois anos depois?\nA. Freud trabalhou no laboratório de Brücke por um ano\nB. Freud transferiu-se para o asilo psiquiátrico como médico assistente\nC. Publicação de As Piadas e sua Relação com o Inconsciente\nD. Publicação de Estudos sobre a Histeria",
+        "target_scores": {
+            "A. Freud trabalhou no laboratório de Brücke por um ano": 0,
+            "B. Freud transferiu-se para o asilo psiquiátrico como médico assistente": 0,
+            "C. Publicação de As Piadas e sua Relação com o Inconsciente": 0,
+            "D. Publicação de Estudos sobre a Histeria": 1
+        }
+    },
+    {
+        "input": "Se em 1907, durante seus experimentos com aviões, os irmãos Wright tivessem morrido em um acidente, o que o Departamento do Exército dos EUA não teria feito em agosto dois anos depois?\nA. Comprou aviões dos irmãos Wright\nB. Entregou o primeiro avião militar aos irmãos Wright\nC. Estabeleceu o recorde mundial de voo contínuo de 1 hora\nD. Nomeou os irmãos Wright como comandantes-chefes do Departamento do Exército dos EUA",
+        "target_scores": {
+            "A. Comprou aviões dos irmãos Wright": 1,
+            "B. Entregou o primeiro avião militar aos irmãos Wright": 0,
+            "C. Estabeleceu o recorde mundial de voo contínuo de 1 hora": 0,
+            "D. Nomeou os irmãos Wright como comandantes-chefes do Departamento do Exército dos EUA": 0
+        }
+    },
+    {
+        "input": "Se apenas em 2000 as pessoas tivessem descoberto o rato como animal, o que Shannon não teria feito meio século antes?\nA. Inventou o gato mecânico\nB. Inventou o rato mecânico\nC. Participou da produção do desenho animado \"Tom e Jerry\"\nD. Realizou pesquisas sobre o analisador diferencial",
+        "target_scores": {
+            "A. Inventou o gato mecânico": 0,
+            "B. Inventou o rato mecânico": 1,
+            "C. Participou da produção do desenho animado \"Tom e Jerry\"": 0,
+            "D. Realizou pesquisas sobre o analisador diferencial": 0
+        }
+    },
+    {
+        "input": "Se Chen Jingrun nunca tivesse estudado, trabalhado e vivido na Universidade de Xiamen durante o século XX, o que não teria acontecido na Universidade de Xiamen em abril de 2019?\nA. A peça A Conjectura de Goldbach foi apresentada duas vezes\nB. Chen Jingrun foi incluído no oitavo grupo de selos comemorativos\nC. Estreia da série de televisão de 13 episódios Chen Jingrun\nD. Realizada a celebração do 80º aniversário de Chen Jingrun e inauguração de sua estátua de bronze",
+        "target_scores": {
+            "A. A peça A Conjectura de Goldbach foi apresentada duas vezes": 1,
+            "B. Chen Jingrun foi incluído no oitavo grupo de selos comemorativos": 0,
+            "C. Estreia da série de televisão de 13 episódios Chen Jingrun": 0,
+            "D. Realizada a celebração do 80º aniversário de Chen Jingrun e inauguração de sua estátua de bronze": 0
+        }
+    },
+    {
+        "input": "Se Edison não fosse uma pessoa que observasse as coisas em detalhes, o que não teria acontecido na Inglaterra em 1904 por causa dele?\nA. O nascimento do triodo\nB. Surgimento da lâmpada de filamento de bambu carbonizado\nC. Surgimento da válvula eletrônica\nD. Surgimento do transistor",
+        "target_scores": {
+            "A. O nascimento do triodo": 0,
+            "B. Surgimento da lâmpada de filamento de bambu carbonizado": 0,
+            "C. Surgimento da válvula eletrônica": 1,
+            "D. Surgimento do transistor": 0
+        }
+    },
+    {
+        "input": "Se a empresa de Edison tivesse mudado a lógica de design subjacente de seus produtos para corrente alternada na década de 1880, o que Morgan não teria dominado no início da década de 1890?\nA. A Edison General Electric Company fundiu-se com a Thomson-Houston Electric Company\nB. Comprou recursos minerais\nC. Entrou no negócio de cimento\nD. Monopolizou a eletricidade de corrente contínua",
+        "target_scores": {
+            "A. A Edison General Electric Company fundiu-se com a Thomson-Houston Electric Company": 1,
+            "B. Comprou recursos minerais": 0,
+            "C. Entrou no negócio de cimento": 0,
+            "D. Monopolizou a eletricidade de corrente contínua": 0
+        }
+    },
+    {
+        "input": "Se Edison não tivesse entrado nos negócios, qual gigante empresarial, cujo antecessor no final do século XIX foi a empresa de Thomson-Houston, não teria surgido?\nA. Boeing\nB. Companhia de Petróleo Mobil\nC. General Electric\nD. Microsoft",
+        "target_scores": {
+            "A. Boeing": 0,
+            "B. Companhia de Petróleo Mobil": 0,
+            "C. General Electric": 1,
+            "D. Microsoft": 0
+        }
+    },
+    {
+        "input": "Se Edison não tivesse se dedicado à indústria elétrica, o que o governo americano não faria nos dias seguintes à morte de Edison?\nA. Apagão nacional por 6 minutos\nB. Apelo ao apagão nacional por 1 minuto\nC. Eletricidade gratuita em todo o país por 2 minutos\nD. Proibição da venda de lâmpadas de querosene",
+        "target_scores": {
+            "A. Apagão nacional por 6 minutos": 0,
+            "B. Apelo ao apagão nacional por 1 minuto": 1,
+            "C. Eletricidade gratuita em todo o país por 2 minutos": 0,
+            "D. Proibição da venda de lâmpadas de querosene": 0
+        }
+    },
+    {
+        "input": "Se o novo líder da Academia de Platão não concordasse com as tendências matemáticas na filosofia platônica, como Aristóteles não seria?\nA. Continuou a estudar na Academia de Platão\nB. Deixou Atenas para viajar por vários lugares\nC. Permaneceu em Atenas\nD. Retornou à terra natal",
+        "target_scores": {
+            "A. Continuou a estudar na Academia de Platão": 0,
+            "B. Deixou Atenas para viajar por vários lugares": 1,
+            "C. Permaneceu em Atenas": 0,
+            "D. Retornou à terra natal": 0
+        }
+    },
+    {
+        "input": "Se I.M. Pei não tivesse dedicado sua vida ao design arquitetônico, o que não teria acontecido no distrito de Xuanwu, em Nanjing, no dia 11 de agosto de 2014?\nA. Fundação do escritório de arquitetura PEI\nB. I.M. Pei obteve seu diploma de bacharel no MIT\nC. Inauguração e abertura do Museu das Seis Dinastias\nD. O Museu das Seis Dinastias começou a ser construído nas ruínas do palácio Jiankang das Seis Dinastias",
+        "target_scores": {
+            "A. Fundação do escritório de arquitetura PEI": 0,
+            "B. I.M. Pei obteve seu diploma de bacharel no MIT": 0,
+            "C. Inauguração e abertura do Museu das Seis Dinastias": 1,
+            "D. O Museu das Seis Dinastias começou a ser construído nas ruínas do palácio Jiankang das Seis Dinastias": 0
+        }
+    },
+    {
+        "input": "Se Chen Jingrun nunca tivesse tido contato com a conjectura de Goldbach em seu campo de pesquisa, que evento de 1973 não teria acontecido?\nA. Chen Jingrun doou seu corpo para dissecação hospitalar\nB. Chen Jingrun foi para o Instituto de Estudos Avançados de Princeton nos EUA para intercâmbio e aprendizagem\nC. Chen Jingrun nasceu na cidade de Fuzhou, da província Fujian\nD. Nascimento do Teorema de Chen",
+        "target_scores": {
+            "A. Chen Jingrun doou seu corpo para dissecação hospitalar": 0,
+            "B. Chen Jingrun foi para o Instituto de Estudos Avançados de Princeton nos EUA para intercâmbio e aprendizagem": 0,
+            "C. Chen Jingrun nasceu na cidade de Fuzhou, da província Fujian": 0,
+            "D. Nascimento do Teorema de Chen": 1
+        }
+    },
+    {
+        "input": "Se o e-mail só tivesse surgido no século XXI, o que não teria acontecido em setembro de 1987?\nA. A China introduziu a rede ARPANET\nB. O primeiro e-mail da China, enviado de Pequim para a Alemanha\nC. O primeiro e-mail da China, enviado de Pequim para os Estados Unidos\nD. O professor Leonard K. é conhecido como o pai do e-mail",
+        "target_scores": {
+            "A. A China introduziu a rede ARPANET": 0,
+            "B. O primeiro e-mail da China, enviado de Pequim para a Alemanha": 1,
+            "C. O primeiro e-mail da China, enviado de Pequim para os Estados Unidos": 0,
+            "D. O professor Leonard K. é conhecido como o pai do e-mail": 0
+        }
+    },
+    {
+        "input": "Se Faraday, em 1813, não tivesse se tornado assistente de laboratório de Davy, o que ele provavelmente não conseguiria fazer três anos depois?\nA. Completou sua primeira grande invenção elétrica\nB. Descobriu métodos para liquefazer cloro e outros gases\nC. Inventou o primeiro motor elétrico\nD. Publicou seu primeiro artigo científico",
+        "target_scores": {
+            "A. Completou sua primeira grande invenção elétrica": 0,
+            "B. Descobriu métodos para liquefazer cloro e outros gases": 0,
+            "C. Inventou o primeiro motor elétrico": 0,
+            "D. Publicou seu primeiro artigo científico": 1
+        }
+    },
+    {
+        "input": "Se os estudos de Galileu sobre o movimento do pêndulo fossem superficiais, o que ele não faria em 1641, após ficar cego?\nA. Pediu ao filho para desenhar o projeto do relógio de pêndulo\nB. Pediu ao filho que desenhasse o projeto de um relógio\nC. Pediu ao filho que desenhasse o projeto de uma pulseira\nD. Pediu à filha para desenhar o projeto do relógio de pêndulo",
+        "target_scores": {
+            "A. Pediu ao filho para desenhar o projeto do relógio de pêndulo": 1,
+            "B. Pediu ao filho que desenhasse o projeto de um relógio": 0,
+            "C. Pediu ao filho que desenhasse o projeto de uma pulseira": 0,
+            "D. Pediu à filha para desenhar o projeto do relógio de pêndulo": 0
+        }
+    },
+    {
+        "input": "Se Galileu fosse uma pessoa que nunca valorizasse experimentos, o que ele não teria refutado em 1589 e nos dois anos seguintes?\nA. Heliocentrismo\nB. O conceito de sistema inercial\nC. Primeira Lei de Newton\nD. Visão de Aristóteles sobre a queda dos corpos",
+        "target_scores": {
+            "A. Heliocentrismo": 0,
+            "B. O conceito de sistema inercial": 0,
+            "C. Primeira Lei de Newton": 0,
+            "D. Visão de Aristóteles sobre a queda dos corpos": 1
+        }
+    },
+    {
+        "input": "Se Galileu já tivesse falecido no final do século XVI, o que não teria acontecido em 1609?\nA. Galileu analisou a dinâmica\nB. Galileu construiu um termômetro\nC. Galileu inventou a bússola\nD. Galileu inventou o telescópio astronômico",
+        "target_scores": {
+            "A. Galileu analisou a dinâmica": 0,
+            "B. Galileu construiu um termômetro": 0,
+            "C. Galileu inventou a bússola": 0,
+            "D. Galileu inventou o telescópio astronômico": 1
+        }
+    },
+    {
+        "input": "Se aos dezesseis anos Gauss dominasse química, o que ele não faria um ano depois?\nA. Calculou a órbita de Ceres\nB. Descobriu o teorema da distribuição dos números primos e o método dos mínimos quadrados\nC. Descobriu o teorema da distribuição dos números reais e o método dos mínimos quadrados\nD. Publicou Teoria do Movimento Celeste",
+        "target_scores": {
+            "A. Calculou a órbita de Ceres": 0,
+            "B. Descobriu o teorema da distribuição dos números primos e o método dos mínimos quadrados": 1,
+            "C. Descobriu o teorema da distribuição dos números reais e o método dos mínimos quadrados": 0,
+            "D. Publicou Teoria do Movimento Celeste": 0
+        }
+    },
+    {
+        "input": "Se o engenheiro Robert Whitehead tivesse nascido apenas em 1867, que evento possivelmente não teria ocorrido no ano anterior?\nA. Fundou a Companhia de Torpedos Whitehead\nB. Nascimento do torpedo\nC. O surgimento do McFish\nD. Viajou pela Europa para vender máquinas têxteis",
+        "target_scores": {
+            "A. Fundou a Companhia de Torpedos Whitehead": 0,
+            "B. Nascimento do torpedo": 1,
+            "C. O surgimento do McFish": 0,
+            "D. Viajou pela Europa para vender máquinas têxteis": 0
+        }
+    },
+    {
+        "input": "Se Max Planck fosse uma pessoa sem conceito de pátria, o que ele não teria feito em 1907?\nA. Completou o exame de qualificação para professor em Munique\nB. Ingressou na Universidade de Munique para estudar matemática\nC. Obteve o doutorado pela Universidade de Berlim\nD. Recusou uma oferta de cargo na Universidade de Viena, permanecendo na Universidade de Berlim",
+        "target_scores": {
+            "A. Completou o exame de qualificação para professor em Munique": 0,
+            "B. Ingressou na Universidade de Munique para estudar matemática": 0,
+            "C. Obteve o doutorado pela Universidade de Berlim": 0,
+            "D. Recusou uma oferta de cargo na Universidade de Viena, permanecendo na Universidade de Berlim": 1
+        }
+    },
+    {
+        "input": "Se nenhuma obra literária tivesse surgido antes do século XVII, como os satélites de Urano não teriam sido nomeados?\nA. A Voyager 2 sobrevoou Oberon (satélite, também designado Urano IV) em janeiro de 1986\nB. Nomeado segundo personagens das obras de William Shakespeare e Alexander Pope\nC. Oberon, o quarto satélite de Urano, foi originalmente chamado de \"segundo satélite de Urano\"\nD. Usou números romanos para nomear todos os satélites de Urano conhecidos na época",
+        "target_scores": {
+            "A. A Voyager 2 sobrevoou Oberon (satélite, também designado Urano IV) em janeiro de 1986": 0,
+            "B. Nomeado segundo personagens das obras de William Shakespeare e Alexander Pope": 1,
+            "C. Oberon, o quarto satélite de Urano, foi originalmente chamado de \"segundo satélite de Urano\"": 0,
+            "D. Usou números romanos para nomear todos os satélites de Urano conhecidos na época": 0
+        }
+    },
+    {
+        "input": "Se William Shakespeare tivesse iniciado uma carreira jurídica em 1587, o que não teria acontecido oito anos depois?\nA. Primeira apresentação de sua peça O Mercador de Veneza\nB. Primeira apresentação de sua peça Ricardo III\nC. Primeira apresentação de sua peça Sonho de uma Noite de Verão\nD. Primeira apresentação de suas peças Henrique VI, Parte 2 e Henrique VI, Parte 3",
+        "target_scores": {
+            "A. Primeira apresentação de sua peça O Mercador de Veneza": 0,
+            "B. Primeira apresentação de sua peça Ricardo III": 0,
+            "C. Primeira apresentação de sua peça Sonho de uma Noite de Verão": 1,
+            "D. Primeira apresentação de suas peças Henrique VI, Parte 2 e Henrique VI, Parte 3": 0
+        }
+    },
+    {
+        "input": "Se o cálculo diferencial só tivesse surgido no início do século XX, o que Maxwell não teria feito em sua teoria?\nA. Aplicou cálculo diferencial na teoria da relatividade geral\nB. Aplicou cálculo diferencial na teoria eletromagnética\nC. Recebeu a bolsa de estudos Smith\nD. Serviu como o primeiro diretor do Laboratório Cavendish",
+        "target_scores": {
+            "A. Aplicou cálculo diferencial na teoria da relatividade geral": 0,
+            "B. Aplicou cálculo diferencial na teoria eletromagnética": 1,
+            "C. Recebeu a bolsa de estudos Smith": 0,
+            "D. Serviu como o primeiro diretor do Laboratório Cavendish": 0
+        }
+    },
+    {
+        "input": "Se a doença de Alzheimer de Shannon tivesse começado em 1941, o que ele não faria dezessete anos depois?\nA. Obteve o mestrado em engenharia elétrica e doutorado em matemática no MIT\nB. Serviu como professor de ciência Donner no MIT\nC. Trabalhou como pesquisador no Instituto de Estudos Avançados de Princeton\nD. Trabalhou nos Laboratórios Bell",
+        "target_scores": {
+            "A. Obteve o mestrado em engenharia elétrica e doutorado em matemática no MIT": 0,
+            "B. Serviu como professor de ciência Donner no MIT": 1,
+            "C. Trabalhou como pesquisador no Instituto de Estudos Avançados de Princeton": 0,
+            "D. Trabalhou nos Laboratórios Bell": 0
+        }
+    },
+    {
+        "input": "Se Xu Beihong não tivesse sido contratado pela Universidade Mingzhi para pintar e dar palestras, para quem ele não teria pintado um retrato?\nA. Cai Yuanpei, Fu Zengxiang\nB. Gao Jianfu, Gao Qifeng\nC. Kang Youwei, sua falecida esposa He Zhanli e seus amigos\nD. Nakamura Fusetsu",
+        "target_scores": {
+            "A. Cai Yuanpei, Fu Zengxiang": 0,
+            "B. Gao Jianfu, Gao Qifeng": 0,
+            "C. Kang Youwei, sua falecida esposa He Zhanli e seus amigos": 1,
+            "D. Nakamura Fusetsu": 0
+        }
+    },
+    {
+        "input": "Se Jeme Tien Yow tivesse estudado na Alemanha aos 12 anos, qual evento real de admissão relacionado a ele possivelmente não teria ocorrido em 1878?\nA. Estudou em escola particular\nB. Estudou na Hillhouse High School em New Haven\nC. Ingressou no Departamento de Engenharia Civil da Universidade Yale\nD. Recebeu o prêmio de matemática pela segunda vez na Universidade Yale",
+        "target_scores": {
+            "A. Estudou em escola particular": 0,
+            "B. Estudou na Hillhouse High School em New Haven": 0,
+            "C. Ingressou no Departamento de Engenharia Civil da Universidade Yale": 1,
+            "D. Recebeu o prêmio de matemática pela segunda vez na Universidade Yale": 0
+        }
+    },
+    {
+        "input": "Se até a morte de Zu Chongzhi as pessoas só tivessem começado a ter conhecimento sobre figuras geométricas, que feito grandioso ele não poderia ter realizado?\nA. Calculou o valor de pi como 22/7≈3,14\nB. Calculou o valor de pi como 3,155\nC. Calculou o valor de pi como 3,162\nD. Calculou que o valor real de pi (π) está entre 3,1415926 e 3,1415927",
+        "target_scores": {
+            "A. Calculou o valor de pi como 22/7≈3,14": 0,
+            "B. Calculou o valor de pi como 3,155": 0,
+            "C. Calculou o valor de pi como 3,162": 0,
+            "D. Calculou que o valor real de pi (π) está entre 3,1415926 e 3,1415927": 1
+        }
+    },
+    {
+        "input": "No outono de algum ano do final da década de 1860, se Edison não tivesse criado sua própria empresa, que tipo de cargo ele não teria conseguido naquela companhia?\nA. Contador de votos\nB. Engenheiro elétrico\nC. Telefonista\nD. Telegrafista",
+        "target_scores": {
+            "A. Contador de votos": 0,
+            "B. Engenheiro elétrico": 1,
+            "C. Telefonista": 0,
+            "D. Telegrafista": 0
+        }
+    },
+    {
+        "input": "Se o fenômeno da persistência da visão só tivesse sido descoberto no século XX, que tecnologia não teria sido demonstrada por Edison em seu laboratório no final de maio de 1891?\nA. Mágica\nB. Tecnologia de geração de energia elétrica de corrente alternada\nC. Tecnologia de projeção de filmes em movimento\nD. Tecnologia de transmissão",
+        "target_scores": {
+            "A. Mágica": 0,
+            "B. Tecnologia de geração de energia elétrica de corrente alternada": 0,
+            "C. Tecnologia de projeção de filmes em movimento": 1,
+            "D. Tecnologia de transmissão": 0
+        }
+    },
+    {
+        "input": "Se William Herschel nunca tivesse se dedicado à pesquisa astronômica durante sua vida, o que John Herschel possivelmente não se tornaria?\nA. Astrônomo\nB. Pai da Bomba\nC. Pai da astronomia estelar\nD. Uma grande árvore",
+        "target_scores": {
+            "A. Astrônomo": 1,
+            "B. Pai da Bomba": 0,
+            "C. Pai da astronomia estelar": 0,
+            "D. Uma grande árvore": 0
+        }
+    },
+    {
+        "input": "Se o pai de Xu Beihong tivesse permitido que ele estudasse pintura em 1901, o que ele não teria feito?\nA. Desenhou discretamente um lago de lótus sob o luar\nB. Desenhou secretamente galinhas, patos, gatos e cães à beira do rio perto de casa\nC. Pintou girassóis abertamente\nD. Pintou nenúfares abertamente",
+        "target_scores": {
+            "A. Desenhou discretamente um lago de lótus sob o luar": 0,
+            "B. Desenhou secretamente galinhas, patos, gatos e cães à beira do rio perto de casa": 1,
+            "C. Pintou girassóis abertamente": 0,
+            "D. Pintou nenúfares abertamente": 0
+        }
+    },
+    {
+        "input": "No início do século XX, quando a vitória da corrente alternada já estava decidida, se Edison não fosse uma pessoa obstinada, o que ele não teria feito?\nA. Eletrocutou um elefante usando uma corrente alternada de 6.600 volts\nB. Melhorou o telefone\nC. Projetou um forno comprido (dragon kiln)\nD. Usou 6.700 volts de corrente alternada para executar um elefante",
+        "target_scores": {
+            "A. Eletrocutou um elefante usando uma corrente alternada de 6.600 volts": 1,
+            "B. Melhorou o telefone": 0,
+            "C. Projetou um forno comprido (dragon kiln)": 0,
+            "D. Usou 6.700 volts de corrente alternada para executar um elefante": 0
+        }
+    },
+    {
+        "input": "Se até 1500, Michelangelo Buonarroti só tivesse pegado um pincel pela primeira vez, o que ele não teria feito quatro anos antes?\nA. Criou Baco, o Deus do Vinho\nB. Criou Davi\nC. Criou Gênesis\nD. Criou O Juízo Final",
+        "target_scores": {
+            "A. Criou Baco, o Deus do Vinho": 1,
+            "B. Criou Davi": 0,
+            "C. Criou Gênesis": 0,
+            "D. Criou O Juízo Final": 0
+        }
+    },
+    {
+        "input": "Se até 1676, o Conde de Shaftesbury só tivesse começado a perder influência, o que John Locke provavelmente não teria feito no ano anterior?\nA. Defendeu a Revolução Gloriosa\nB. Fugiu para a Holanda\nC. Revisou os rascunhos de seu Ensaio sobre o Entendimento Humano e Carta sobre a Tolerância\nD. Viajou para a França",
+        "target_scores": {
+            "A. Defendeu a Revolução Gloriosa": 0,
+            "B. Fugiu para a Holanda": 0,
+            "C. Revisou os rascunhos de seu Ensaio sobre o Entendimento Humano e Carta sobre a Tolerância": 0,
+            "D. Viajou para a França": 1
+        }
+    },
+    {
+        "input": "Se até 1778, Lavoisier nunca tivesse realizado experimentos de calcinação de metais, o que ele não teria escrito um ano antes?\nA. A Origem das Espécies\nB. Introdução à Combustão\nC. Princípios Matemáticos da Filosofia Natural\nD. Tratado Elementar de Química",
+        "target_scores": {
+            "A. A Origem das Espécies": 0,
+            "B. Introdução à Combustão": 1,
+            "C. Princípios Matemáticos da Filosofia Natural": 0,
+            "D. Tratado Elementar de Química": 0
+        }
+    },
+    {
+        "input": "Se Werner Heisenberg, após o ensino médio, tivesse ingressado na Universidade de Munique para estudar medicina, o que não teria acontecido em 1925?\nA. Werner Heisenberg estabeleceu a mecânica matricial\nB. Werner Heisenberg ganhou o Prêmio Nobel de Física\nC. Werner Heisenberg nasceu em Würzburg, Alemanha\nD. Werner Heisenberg tornou-se diretor do Instituto de Física da Universidade de Göttingen",
+        "target_scores": {
+            "A. Werner Heisenberg estabeleceu a mecânica matricial": 1,
+            "B. Werner Heisenberg ganhou o Prêmio Nobel de Física": 0,
+            "C. Werner Heisenberg nasceu em Würzburg, Alemanha": 0,
+            "D. Werner Heisenberg tornou-se diretor do Instituto de Física da Universidade de Göttingen": 0
+        }
+    }
+]

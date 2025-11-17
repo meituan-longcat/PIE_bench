@@ -1,0 +1,848 @@
+[
+    {
+        "input": "Diketahui total pendapatan disposibel suatu negara sebesar $8.000$ miliar rupiah, dan total tabungan sebesar $2.000$ miliar rupiah, maka total konsumsinya adalah______.\nA. Lebih dari $6.000$ miliar rupiah\nB. Sama dengan $5.500$ miliar rupiah\nC. Sama dengan $5.800$ miliar rupiah\nD. Sama dengan $6.000$ miliar rupiah",
+        "target_scores": {
+            "A. Lebih dari $6.000$ miliar rupiah": 0,
+            "B. Sama dengan $5.500$ miliar rupiah": 0,
+            "C. Sama dengan $5.800$ miliar rupiah": 0,
+            "D. Sama dengan $6.000$ miliar rupiah": 1
+        }
+    },
+    {
+        "input": "Sebuah program penurunan berat badan baru mengklaim: Pada minggu pertama pelaksanaan program, rata-rata berat badan peserta dapat turun setidaknya $8$ pon. Diambil sampel acak sebanyak $40$ peserta program tersebut, hasil menunjukkan: rata-rata penurunan berat badan sampel adalah $7$ pon, dengan simpangan baku $2$ pon. Maka hipotesis nol dan hipotesis alternatifnya adalah______.\nA. $\\mathrm{H0:}\\mu\\mathrm{\\geq}8$,$\\mathrm{H1:}\\mu<8$\nB. $\\mathrm{H0:}\\mu\\mathrm{\\leq}8$,$\\mathrm{H1:}\\mu>8$\nC. $\\mathrm{H0:~\\mu\\geq7$,$~H1:~\\mu<7}$\nD. $\\mathrm{H0:~\\mu\\leq7$,$~H1:~\\mu>7}$",
+        "target_scores": {
+            "A. $\\mathrm{H0:}\\mu\\mathrm{\\geq}8$,$\\mathrm{H1:}\\mu<8$": 1,
+            "B. $\\mathrm{H0:}\\mu\\mathrm{\\leq}8$,$\\mathrm{H1:}\\mu>8$": 0,
+            "C. $\\mathrm{H0:~\\mu\\geq7$,$~H1:~\\mu<7}$": 0,
+            "D. $\\mathrm{H0:~\\mu\\leq7$,$~H1:~\\mu>7}$": 0
+        }
+    },
+    {
+        "input": "Di sebuah perusahaan, pegawai pria berjumlah $80\\%$ dengan rata-rata gaji bulanan sebesar Rp$4.500.000$, sedangkan pegawai wanita berjumlah $20\\%$ dengan rata-rata gaji bulanan sebesar Rp$4.000.000$. Maka rata-rata gaji seluruh pegawai perusahaan tersebut adalah ______.\nA. Rp$4.250.000$\nB. Rp$4.300.000$\nC. Rp$4.350.000$\nD. Rp$4.400.000$",
+        "target_scores": {
+            "A. Rp$4.250.000$": 0,
+            "B. Rp$4.300.000$": 0,
+            "C. Rp$4.350.000$": 0,
+            "D. Rp$4.400.000$": 1
+        }
+    },
+    {
+        "input": "Sebuah lift memiliki kapasitas maksimum $1.000$ kg. Misalkan lift tersebut dinaiki oleh $15$ orang sekaligus, dan berat badan setiap orang (dalam kg) mengikuti distribusi $\\mathcal{N}(60,\\ 15^2)$. Maka probabilitas terjadinya kelebihan beban adalah ______.\nA. $0{,}0142$\nB. $0{,}0427$\nC. $0{,}0528$\nD. $0{,}0785$",
+        "target_scores": {
+            "A. $0{,}0142$": 0,
+            "B. $0{,}0427$": 1,
+            "C. $0{,}0528$": 0,
+            "D. $0{,}0785$": 0
+        }
+    },
+    {
+        "input": "Diketahui rata-rata populasi sebesar $50$ dan simpangan baku sebesar $8$. Jika dari populasi tersebut dilakukan pengambilan acak sampel berukuran $64$, maka nilai harapan rata-rata sampel dan galat baku dari distribusi sampel tersebut masing-masing adalah ______.\nA. $50$, $1$\nB. $50$, $4$\nC. $50$, $8$\nD. $8$, $8$",
+        "target_scores": {
+            "A. $50$, $1$": 1,
+            "B. $50$, $4$": 0,
+            "C. $50$, $8$": 0,
+            "D. $8$, $8$": 0
+        }
+    },
+    {
+        "input": "Diketahui laju pertumbuhan berantai dalam beberapa tahun terakhir adalah $7{,}5\\%$, $9{,}5\\%$, $6{,}2\\%$, $4{,}9\\%$, maka laju pertumbuhan dasar adalah ______.\nA. $107{,}5\\%×109{,}5\\%×106{,}2\\%×104{,}9\\%$\nB. $107{,}5\\%×109{,}5\\%×106{,}2\\%×104{,}9\\%-1$\nC. $7{,}5\\%×9{,}5\\%×6{,}2\\%×4{,}9\\%$\nD. $7{,}5\\%×9{,}5\\%×6{,}2\\%×4{,}9\\%-1$",
+        "target_scores": {
+            "A. $107{,}5\\%×109{,}5\\%×106{,}2\\%×104{,}9\\%$": 0,
+            "B. $107{,}5\\%×109{,}5\\%×106{,}2\\%×104{,}9\\%-1$": 1,
+            "C. $7{,}5\\%×9{,}5\\%×6{,}2\\%×4{,}9\\%$": 0,
+            "D. $7{,}5\\%×9{,}5\\%×6{,}2\\%×4{,}9\\%-1$": 0
+        }
+    },
+    {
+        "input": "Nilai penjualan kuartal pertama di suatu pusat perbelanjaan meningkat sebesar $4\\%$ dibandingkan periode yang sama tahun lalu, dan indeks harga gabungan pusat perbelanjaan tersebut naik sebesar $5\\%$ dibandingkan tahun lalu, maka volume penjualan pusat perbelanjaan tersebut meningkat sebesar ______.\nA. $-0{,}95\\%$\nB. $-0{,}96\\%$\nC. $0{,}96\\%$\nD. $2\\%$",
+        "target_scores": {
+            "A. $-0{,}95\\%$": 1,
+            "B. $-0{,}96\\%$": 0,
+            "C. $0{,}96\\%$": 0,
+            "D. $2\\%$": 0
+        }
+    },
+    {
+        "input": "Jika harga barang pada periode pelaporan direncanakan turun sebesar $5\\%$ dan nilai penjualan direncanakan naik sebesar $10\\%$, maka volume penjualan seharusnya ______.\nA. Meningkat sebesar $15,79\\%$\nB. Meningkat sebesar $15\\%$\nC. Menurun sebesar $5,25\\%$\nD. Menurun sebesar $5\\%$",
+        "target_scores": {
+            "A. Meningkat sebesar $15,79\\%$": 1,
+            "B. Meningkat sebesar $15\\%$": 0,
+            "C. Menurun sebesar $5,25\\%$": 0,
+            "D. Menurun sebesar $5\\%$": 0
+        }
+    },
+    {
+        "input": "Diketahui indeks harga agregat dari dua jenis saham yang dibeli Budi naik sebesar 24%. Harga penutupan rata-rata saham hari ini adalah $14, maka harga penutupan rata-rata saham pada hari sebelumnya adalah _____.\nA. $0,5\nB. $10,64\nC. $11,29\nD. 1",
+        "target_scores": {
+            "A. $0,5": 0,
+            "B. $10,64": 0,
+            "C. $11,29": 1,
+            "D. 1": 0
+        }
+    },
+    {
+        "input": "Dalam sebuah penelitian mengenai pinjaman bantuan mahasiswa, diambil sampel acak dari 480 mahasiswa. Diperoleh rata-rata saldo utang sebelum lulus sebesar $12.168, dan simpangan baku sebesar $2.200. Maka interval kepercayaan $95\\%$ untuk rata-rata jumlah utang dalam populasi mahasiswa peminjam adalah ______.\nA. $11.971, $12.365\nB. $11.971, $13.365\nC. $11.971, $14.365\nD. $11.971, $15.365",
+        "target_scores": {
+            "A. $11.971, $12.365": 1,
+            "B. $11.971, $13.365": 0,
+            "C. $11.971, $14.365": 0,
+            "D. $11.971, $15.365": 0
+        }
+    },
+    {
+        "input": "Pejabat administrasi perpajakan berpendapat bahwa sebagian besar perusahaan melakukan  penghindaran pajak. Dalam pemeriksaan terhadap sampel acak yang terdiri atas $800$ perusahaan, ditemukan bahwa $144$ perusahaan melakukan penghindaran pajak. Berdasarkan tingkat kepercayaan $99\\%$, interval kepercayaan untuk estimasi proporsi perusahaan yang melakukan penghindaran pajak adalah ______.\nA. $0{,}18±0{,}015$\nB. $0{,}18±0{,}035$\nC. $0{,}18±0{,}045$\nD. $0{,}1±0{,}025$",
+        "target_scores": {
+            "A. $0{,}18±0{,}015$": 0,
+            "B. $0{,}18±0{,}035$": 1,
+            "C. $0{,}18±0{,}045$": 0,
+            "D. $0{,}1±0{,}025$": 0
+        }
+    },
+    {
+        "input": "Sebuah dadu dilempar dan hasilnya diamati. Peluang munculnya angka $1$, $2$, $3$, $4$, $5$, atau $6$ adalah ______.\nA. $0{,}166666666666667$\nB. $0{,}25$\nC. $0{,}5$\nD. $1$",
+        "target_scores": {
+            "A. $0{,}166666666666667$": 0,
+            "B. $0{,}25$": 0,
+            "C. $0{,}5$": 0,
+            "D. $1$": 1
+        }
+    },
+    {
+        "input": "Jika nilai penjualan barang meningkat sebesar 5% dan harga eceran barang meningkat sebesar 2%, maka volume penjualan barang meningkat sebesar ______.\nA. 10%\nB. 2,94%\nC. 3%\nD. 7%",
+        "target_scores": {
+            "A. 10%": 0,
+            "B. 2,94%": 1,
+            "C. 3%": 0,
+            "D. 7%": 0
+        }
+    },
+    {
+        "input": "Indeks musiman yang dihitung berdasarkan data nilai penjualan barang pada setiap kuartal berturut-turut adalah: kuartal pertama $125\\%$, kuartal kedua $70\\%$, kuartal ketiga $100\\%$, kuartal keempat $105\\%$. Kuartal yang paling terpengaruh oleh faktor musiman adalah______.\nA. Kuartal kedua\nB. Kuartal keempat\nC. Kuartal ketiga\nD. Kuartal pertama",
+        "target_scores": {
+            "A. Kuartal kedua": 1,
+            "B. Kuartal keempat": 0,
+            "C. Kuartal ketiga": 0,
+            "D. Kuartal pertama": 0
+        }
+    },
+    {
+        "input": "Pendapatan rata-rata tahunan rumah tangga petani di suatu daerah pada tahun 2004 adalah Rp $1.500.000$. Pada tahun 2005 meningkat sebesar $8\\%$, maka dibandingkan tahun 2004, setiap kenaikan $1$ poin persentase pada tahun 2005 setara dengan peningkatan pendapatan sebesar______.\nA. Rp$15.000$\nB. Rp$40.000$\nC. Rp$7.000$\nD. Rp$8.000$",
+        "target_scores": {
+            "A. Rp$15.000$": 1,
+            "B. Rp$40.000$": 0,
+            "C. Rp$7.000$": 0,
+            "D. Rp$8.000$": 0
+        }
+    },
+    {
+        "input": "Seorang peneliti dari salah satu universitas ingin memperkirakan rata-rata pengeluaran biaya hidup bulanan mahasiswa S1 di universitas tersebut. Untuk itu, ia meneliti $200$ mahasiswa dan menemukan bahwa rata-rata pengeluaran biaya hidup bulanan mereka adalah Rp $1.500.000$. Parameter yang menjadi perhatian peneliti tersebut adalah______.\nA. Jumlah seluruh mahasiswa di universitas tersebut\nB. Pengeluaran biaya hidup bulanan seluruh mahasiswa sarjana di universitas tersebut\nC. Rata-rata pengeluaran biaya hidup bulanan dari $200$ mahasiswa yang disurvei\nD. Rata-rata pengeluaran biaya hidup bulanan seluruh mahasiswa sarjana di universitas tersebut",
+        "target_scores": {
+            "A. Jumlah seluruh mahasiswa di universitas tersebut": 0,
+            "B. Pengeluaran biaya hidup bulanan seluruh mahasiswa sarjana di universitas tersebut": 0,
+            "C. Rata-rata pengeluaran biaya hidup bulanan dari $200$ mahasiswa yang disurvei": 0,
+            "D. Rata-rata pengeluaran biaya hidup bulanan seluruh mahasiswa sarjana di universitas tersebut": 1
+        }
+    },
+    {
+        "input": "Probabilitas seseorang pergi bekerja dengan bus atau MRT masing-masing adalah $0{,}3$ dan $0{,}7$. Ketika ia naik bus, ia terlambat pada $30\\%$ hari. Ketika ia naik MRT, ia terlambat pada $10\\%$ hari. Jika pada suatu hari orang ini terlambat bekerja, maka probabilitas bahwa ia naik MRT adalah______.\nA. $0{,}16$\nB. $0{,}3$\nC. $0{,}44$\nD. $0{,}56$",
+        "target_scores": {
+            "A. $0{,}16$": 0,
+            "B. $0{,}3$": 0,
+            "C. $0{,}44$": 1,
+            "D. $0{,}56$": 0
+        }
+    },
+    {
+        "input": "Pengelola properti di suatu kawasan permukiman mencurigai bahwa beberapa rumah tangga melakukan pencurian listrik. Untuk mengetahui konsumsi listrik bulanan penghuni, dilakukan survei sampel terhadap sebagian rumah tangga. Ditemukan bahwa beberapa rumah tangga memberikan laporan palsu atau menyembunyikan informasi. Kesalahan yang timbul dari survei ini termasuk dalam______.\nA. Kesalahan enumerator\nB. Kesalahan jawaban\nC. Kesalahan kerangka sampel\nD. Kesalahan tanpa jawaban",
+        "target_scores": {
+            "A. Kesalahan enumerator": 0,
+            "B. Kesalahan jawaban": 1,
+            "C. Kesalahan kerangka sampel": 0,
+            "D. Kesalahan tanpa jawaban": 0
+        }
+    },
+    {
+        "input": "Indikator berikut: ① Tingkat laba atas output, ② Tingkat konsumsi material, ③ Tingkat nilai tambah, ④ Jumlah hari perputaran aset lancar. Yang merupakan indikator negatif adalah______.\nA. ①③\nB. ②\nC. ②③\nD. ②④",
+        "target_scores": {
+            "A. ①③": 0,
+            "B. ②": 0,
+            "C. ②③": 0,
+            "D. ②④": 1
+        }
+    },
+    {
+        "input": "Tujuan dari suatu survei opini publik adalah untuk menentukan topik yang bersedia didiskusikan oleh kaum muda dengan orang tua mereka. Hasil survei menunjukkan: 45% kaum muda bersedia mendiskusikan kondisi keuangan keluarga dengan orang tua mereka, 38% bersedia mendiskusikan topik terkait pendidikan, dan 15% bersedia mendiskusikan masalah cinta. Data yang dikumpulkan dalam survei ini adalah______.\nA. Data eksperimental\nB. Data kategorikal\nC. Data numerik\nD. Data ordinal",
+        "target_scores": {
+            "A. Data eksperimental": 0,
+            "B. Data kategorikal": 1,
+            "C. Data numerik": 0,
+            "D. Data ordinal": 0
+        }
+    },
+    {
+        "input": "Dari tiga populasi, masing-masing diambil $4$ nilai observasi, diperoleh jumlah kuadrat antar kelompok $SSA=536$ dan jumlah kuadrat dalam kelompok $SSE=828$. Maka rata-rata kuadrat antar kelompok dan dalam kelompok masing-masing adalah______.\nA. $134$, $103$\nB. $179$, $92$\nC. $238$, $92$\nD. $268$, $92$",
+        "target_scores": {
+            "A. $134$, $103$": 0,
+            "B. $179$, $92$": 0,
+            "C. $238$, $92$": 0,
+            "D. $268$, $92$": 1
+        }
+    },
+    {
+        "input": "Berdasarkan sebuah sampel nilai ujian murid dari suatu kelas, interval kepercayaan rata-rata nilai ujian murid kelas tersebut dengan tingkat kepercayaan $95%$ adalah $75$ hingga $85$ poin. Rata-rata nilai seluruh murid kelas tersebut______.\nA. Ada kemungkinan $5%$ berada dalam interval ini\nB. Ada kemungkinan $95%$ berada dalam interval ini\nC. Mungkin berada dalam interval ini, mungkin tidak berada dalam interval ini\nD. Pasti berada dalam interval ini",
+        "target_scores": {
+            "A. Ada kemungkinan $5%$ berada dalam interval ini": 0,
+            "B. Ada kemungkinan $95%$ berada dalam interval ini": 0,
+            "C. Mungkin berada dalam interval ini, mungkin tidak berada dalam interval ini": 1,
+            "D. Pasti berada dalam interval ini": 0
+        }
+    },
+    {
+        "input": "Sebuah penelitian menemukan bahwa pada tahun 2000, $40\\%$ pembeli mobil baru adalah perempuan. Pada tahun 2005, dari $120$ pemilik mobil baru yang disurvei secara acak, $57$ di antaranya adalah perempuan. Pada tingkat signifikansi $\\alpha = 0{,}05$, untuk menguji apakah proporsi perempuan pemilik mobil baru pada tahun 2005 meningkat secara signifikan, dengan hipotesis nol $H0：π≤40\\%$ dan hipotesis alternatif $H1：π＞40\\%$, maka kesimpulan dari uji tersebut adalah______.\nA. Dapat menolak atau tidak menolak hipotesis nol\nB. Menolak hipotesis nol\nC. Mungkin menolak atau mungkin tidak menolak hipotesis nol\nD. Tidak menolak hipotesis nol",
+        "target_scores": {
+            "A. Dapat menolak atau tidak menolak hipotesis nol": 0,
+            "B. Menolak hipotesis nol": 1,
+            "C. Mungkin menolak atau mungkin tidak menolak hipotesis nol": 0,
+            "D. Tidak menolak hipotesis nol": 0
+        }
+    },
+    {
+        "input": "Sebuah survei menunjukkan bahwa $33\\%$ responden menganggap perusahaan tempat mereka bekerja sangat cocok untuk perempuan. Dengan mengasumsikan proporsi populasi sebesar $33\\%$, dan mengambil batas galat masing-masing sebesar $10\\%$, $5\\%$, $2\\%$, $1\\%$, ketika membangun interval kepercayaan $95\\%$ untuk proporsi populasi, seiring dengan penurunan batas galat, ukuran sampel akan______.\nA. Meningkat\nB. Menurun\nC. Mungkin menurun atau mungkin meningkat\nD. Tetap",
+        "target_scores": {
+            "A. Meningkat": 1,
+            "B. Menurun": 0,
+            "C. Mungkin menurun atau mungkin meningkat": 0,
+            "D. Tetap": 0
+        }
+    },
+    {
+        "input": "Indeks volume penjualan tiga jenis AC dengan tahun lalu sebagai tahun dasar dan tahun ini sebagai tahun laporan adalah $106\\%$, nilai penjualan tahun ini meningkat $8\\%$ dibandingkan tahun lalu. Maka, ______.\nA. Harga ketiga jenis AC mengalami kenaikan\nB. Indeks harga gabungan untuk tiga jenis AC adalah $101{,}89\\%$\nC. Kenaikan harga menyebabkan nilai penjualan meningkat sebesar $101{,}89\\%$\nD. Kenaikan harga menyebabkan nilai penjualan meningkat sebesar $14{,}48\\%$",
+        "target_scores": {
+            "A. Harga ketiga jenis AC mengalami kenaikan": 0,
+            "B. Indeks harga gabungan untuk tiga jenis AC adalah $101{,}89\\%$": 1,
+            "C. Kenaikan harga menyebabkan nilai penjualan meningkat sebesar $101{,}89\\%$": 0,
+            "D. Kenaikan harga menyebabkan nilai penjualan meningkat sebesar $14{,}48\\%$": 0
+        }
+    },
+    {
+        "input": "Untuk mengetahui minat pembelian perempuan terhadap suatu merek kosmetik, peneliti melakukan survei dengan secara sembarangan menghentikan beberapa perempuan di jalan. Metode survei ini adalah ______.\nA. Pengambilan sampel acak sederhana\nB. Pengambilan sampel berstrata\nC. Pengambilan sampel kemudahan\nD. Pengambilan sampel sukarela",
+        "target_scores": {
+            "A. Pengambilan sampel acak sederhana": 0,
+            "B. Pengambilan sampel berstrata": 0,
+            "C. Pengambilan sampel kemudahan": 1,
+            "D. Pengambilan sampel sukarela": 0
+        }
+    },
+    {
+        "input": "Nilai penjualan salah satu pusat perbelanjaan pada tahun 2009 dibandingkan dengan tahun 2008 adalah $120\\%$, sedangkan tingkat harga pada periode yang sama menurun sebesar $2\\%$. Maka, indeks volume penjualan pusat perbelanjaan tersebut adalah______.\nA. $118\\%$\nB. $122{,}4\\%$\nC. $123{,}5\\%$\nD. $133\\%$",
+        "target_scores": {
+            "A. $118\\%$": 0,
+            "B. $122{,}4\\%$": 1,
+            "C. $123{,}5\\%$": 0,
+            "D. $133\\%$": 0
+        }
+    },
+    {
+        "input": "Salah satu universitas memiliki sebuah restoran cepat saji yang mencatat omzet harian selama 5 tahun terakhir. Rata-rata omzet harian adalah $2500, dengan simpangan baku $400. Karena omzet harian pada beberapa hari libur cenderung lebih tinggi, distribusi omzet harian menjadi condong ke kanan. Misalkan dari 5 tahun tersebut diambil secara acak 100 hari dan dihitung rata-rata omzet harian dari 100 hari tersebut, maka distribusi sampling rata-rata adalah______.\nA. Distribusi condong ke kanan, rata-rata sebesar $2500, simpangan baku sebesar $400\nB. Distribusi normal, rata-rata sebesar $250, simpangan baku sebesar $40\nC. Distribusi normal, rata-rata sebesar $2500, simpangan baku sebesar $40\nD. Distribusi normal, rata-rata sebesar $2500, simpangan baku sebesar $400",
+        "target_scores": {
+            "A. Distribusi condong ke kanan, rata-rata sebesar $2500, simpangan baku sebesar $400": 0,
+            "B. Distribusi normal, rata-rata sebesar $250, simpangan baku sebesar $40": 0,
+            "C. Distribusi normal, rata-rata sebesar $2500, simpangan baku sebesar $40": 1,
+            "D. Distribusi normal, rata-rata sebesar $2500, simpangan baku sebesar $400": 0
+        }
+    },
+    {
+        "input": "Dalam hasil ujian suatu mata pelajaran dari $15$ siswa, nilai $70$ muncul sebanyak $3$ kali, nilai $80$ muncul sebanyak $4$ kali, nilai $85$ muncul sebanyak $6$ kali, dan nilai $90$ muncul sebanyak $2$ kali. Maka modus dari nilai mereka adalah______.\nA. $80$\nB. $81{,}3$\nC. $85$\nD. $90$",
+        "target_scores": {
+            "A. $80$": 0,
+            "B. $81{,}3$": 0,
+            "C. $85$": 1,
+            "D. $90$": 0
+        }
+    },
+    {
+        "input": "Pengambilan acak sebuah sampel yang terdiri dari $290$ guru, kemudian setiap orang diminta untuk menyatakan sikap mereka terhadap beberapa pernyataan. Pernyataan pertama adalah: 'Mahasiswa yang lebih tua lebih aktif dalam diskusi kelas dibandingkan mahasiswa yang lebih muda.' Sikap diukur dengan skala 5 poin: $1$ = sangat setuju; $2$ = setuju; $3$ = tidak berpendapat; $4$ = tidak setuju; $5$ = sangat tidak setuju. Terhadap pandangan ini, skor rata-rata sikap sampel adalah $1{,}94$, dengan simpangan baku $0{,}92$. Dengan tingkat kepercayaan $98\\%$, interval kepercayaan untuk skor rata-rata sikap guru terhadap pandangan ini adalah ______.\nA. $1{,}94±0{,}13$\nB. $1{,}94±1{,}13$\nC. $1{,}94±1{,}96$\nD. $1{,}94±2{,}58$",
+        "target_scores": {
+            "A. $1{,}94±0{,}13$": 1,
+            "B. $1{,}94±1{,}13$": 0,
+            "C. $1{,}94±1{,}96$": 0,
+            "D. $1{,}94±2{,}58$": 0
+        }
+    },
+    {
+        "input": "Di sebuah sekolah terdapat $10.000$ siswa. Secara acak diambil sampel sebanyak $1.000$ siswa, dan di antaranya terdapat $300$ siswa yang memiliki pendapat tentang manajemen sekolah. Maka estimasi titik jumlah murid di sekolah tersebut yang memiliki pendapat tentang manajemen sekolah adalah ______.\nA. $1.000$\nB. $3.000$\nC. $30%$\nD. $300$",
+        "target_scores": {
+            "A. $1.000$": 0,
+            "B. $3.000$": 1,
+            "C. $30%$": 0,
+            "D. $300$": 0
+        }
+    },
+    {
+        "input": "Jika koefisien skewness distribusi suatu kelompok data berada pada rentang $0{,}5 hingga 1$ atau $-1 hingga -0{,}5$, maka kelompok data tersebut termasuk ______.\nA. Distribusi miring sedang\nB. Distribusi sangat miring\nC. Distribusi sedikit miring\nD. Distribusi simetris",
+        "target_scores": {
+            "A. Distribusi miring sedang": 1,
+            "B. Distribusi sangat miring": 0,
+            "C. Distribusi sedikit miring": 0,
+            "D. Distribusi simetris": 0
+        }
+    },
+    {
+        "input": "Data nilai penjualan bulanan (dalam satuan sepuluh ribu rupiah) dari $10$ perusahaan adalah: $72$, $63$, $54$, $54$, $29$, $26$, $25$, $23$, $23$, $20$. Grafik manakah berikut ini yang kurang tepat digunakan untuk mendeskripsikan data tersebut?______\nA. Diagram batang\nB. Diagram batang daun\nC. Diagram lingkaran\nD. Diagram pencar",
+        "target_scores": {
+            "A. Diagram batang": 0,
+            "B. Diagram batang daun": 0,
+            "C. Diagram lingkaran": 0,
+            "D. Diagram pencar": 1
+        }
+    },
+    {
+        "input": "Dalam analisis deret waktu volume penjualan pakaian renang, jika indeks musiman pada kuartal ke-3 lebih dari $100\\%$, maka volume penjualan pakaian renang pada kuartal tersebut ______.\nA. Dipengaruhi oleh faktor musiman\nB. Termasuk musim ramai\nC. Termasuk musim sepi\nD. Tidak dipengaruhi oleh faktor musiman",
+        "target_scores": {
+            "A. Dipengaruhi oleh faktor musiman": 0,
+            "B. Termasuk musim ramai": 1,
+            "C. Termasuk musim sepi": 0,
+            "D. Tidak dipengaruhi oleh faktor musiman": 0
+        }
+    },
+    {
+        "input": "Dibandingkan tahun lalu, harga rata-rata seluruh barang di sebuah perusahaan serba ada tahun ini naik sebesar $10\\%$, sedangkan volume penjualan rata-rata turun sebesar $10\\%$. Dengan demikian, nilai penjualan barang perusahaan tersebut ______.\nA. Mungkin naik, mungkin juga turun\nB. Naik\nC. Tetap tidak berubah\nD. Turun",
+        "target_scores": {
+            "A. Mungkin naik, mungkin juga turun": 0,
+            "B. Naik": 0,
+            "C. Tetap tidak berubah": 0,
+            "D. Turun": 1
+        }
+    },
+    {
+        "input": "Nilai rata-rata siswa di suatu kelas adalah 80, dengan simpangan baku 5. Jika diketahui bahwa distribusi nilai ujian siswa di kelas tersebut tidak simetris, dapat disimpulkan bahwa setidaknya ______ siswa memiliki nilai antara 70 hingga 90.\nA. 68%\nB. 75%\nC. 89%\nD. 95%",
+        "target_scores": {
+            "A. 68%": 0,
+            "B. 75%": 1,
+            "C. 89%": 0,
+            "D. 95%": 0
+        }
+    },
+    {
+        "input": "Dari suatu populasi binomial diambil sampel acak berukuran $n=125$, diperoleh $p=0{,}73$. Pada tingkat signifikansi $α=0{,}01$, dilakukan uji hipotesis $H0：π=0{,}73$，$H1：π≠0{,}73$, maka kesimpulan yang diperoleh adalah ______.\nA. Dapat menolak atau tidak menolak hipotesis nol\nB. Menolak hipotesis nol\nC. Mungkin menolak atau mungkin tidak menolak hipotesis nol\nD. Tidak menolak hipotesis nol",
+        "target_scores": {
+            "A. Dapat menolak atau tidak menolak hipotesis nol": 0,
+            "B. Menolak hipotesis nol": 0,
+            "C. Mungkin menolak atau mungkin tidak menolak hipotesis nol": 0,
+            "D. Tidak menolak hipotesis nol": 1
+        }
+    },
+    {
+        "input": "Survei menunjukkan bahwa lima tahun yang lalu, rata-rata waktu menonton televisi per keluarga per hari adalah $6{,}7$ jam. Sedangkan hasil survei terbaru terhadap $200$ keluarga menunjukkan bahwa rata-rata waktu menonton televisi per keluarga per hari adalah $7{,}25$ jam, dengan simpangan baku sebesar $2{,}5$ jam. Pada tingkat signifikansi $\\alpha = 0{,}05$, uji hipotesis $H0: μ≤6{,}7$, $H1: μ＞6{,}7$, kesimpulan yang diperoleh adalah______.\nA. Dapat menolak maupun tidak menolak $H0$\nB. Menolak $H0$\nC. Mungkin menolak atau mungkin tidak menolak $H0$\nD. Tidak menolak $H0$",
+        "target_scores": {
+            "A. Dapat menolak maupun tidak menolak $H0$": 0,
+            "B. Menolak $H0$": 1,
+            "C. Mungkin menolak atau mungkin tidak menolak $H0$": 0,
+            "D. Tidak menolak $H0$": 0
+        }
+    },
+    {
+        "input": "Misalkan $p$ adalah harga barang dan $q$ adalah volume penjualan, maka makna sebenarnya dari indeks $\\frac{\\sum p_0q_1}{\\sum p_0q_0}$ adalah secara komprehensif mencerminkan______.\nA. Tingkat pengaruh perubahan harga barang terhadap nilai penjualan\nB. Tingkat pengaruh perubahan harga dan volume penjualan barang terhadap nilai penjualan\nC. Tingkat pengaruh perubahan volume penjualan barang terhadap nilai penjualan\nD. Tingkat perubahan nilai penjualan barang",
+        "target_scores": {
+            "A. Tingkat pengaruh perubahan harga barang terhadap nilai penjualan": 0,
+            "B. Tingkat pengaruh perubahan harga dan volume penjualan barang terhadap nilai penjualan": 0,
+            "C. Tingkat pengaruh perubahan volume penjualan barang terhadap nilai penjualan": 1,
+            "D. Tingkat perubahan nilai penjualan barang": 0
+        }
+    },
+    {
+        "input": "Departemen personalia di sebuah perusahaan pengembang perangkat lunak komputer melakukan survei dan menemukan bahwa dalam dua tahun terakhir, $40\\%$ karyawan mengundurkan diri karena tidak puas terhadap gaji, $30\\%$ karena tidak puas terhadap pekerjaan, dan $15\\%$ karena tidak puas terhadap keduanya, baik gaji maupun pekerjaan. Misalkan $A$ = karyawan mengundurkan diri karena tidak puas terhadap gaji; $B$ = karyawan mengundurkan diri karena tidak puas terhadap pekerjaan. Dengan demikian, di antara karyawan yang mengundurkan diri dalam dua tahun, probabilitas bahwa alasan pengunduran diri adalah karena tidak puas terhadap gaji, atau tidak puas terhadap pekerjaan, atau keduanya, adalah ______.\nA. $0{,}15$\nB. $0{,}30$\nC. $0{,}40$\nD. $0{,}55$",
+        "target_scores": {
+            "A. $0{,}15$": 0,
+            "B. $0{,}30$": 0,
+            "C. $0{,}40$": 0,
+            "D. $0{,}55$": 1
+        }
+    },
+    {
+        "input": "Dalam suatu survei besar berskala nasional, direncanakan untuk mengambil sampel acak sebanyak 1.000 orang dari setiap provinsi di negeri ini untuk membentuk sampel. Bentuk organisasi pengambilan sampel seperti ini disebut ______.\nA. Pengambilan sampel acak berkelompok\nB. Pengambilan sampel acak sederhana\nC. Pengambilan sampel berstrata\nD. Pengambilan sampel dua tahap",
+        "target_scores": {
+            "A. Pengambilan sampel acak berkelompok": 0,
+            "B. Pengambilan sampel acak sederhana": 0,
+            "C. Pengambilan sampel berstrata": 1,
+            "D. Pengambilan sampel dua tahap": 0
+        }
+    },
+    {
+        "input": "Untuk meneliti pengeluaran biaya pembelian buku di suatu sekolah, dari siswa laki-laki diambil sampel 60 orang dan dari siswi diambil sampel 40 orang. Metode survei ini adalah______.\nA. Pengambilan sampel acak berkelompok\nB. Pengambilan sampel acak sederhana\nC. Pengambilan sampel acak sistematis\nD. Pengambilan sampel berstrata",
+        "target_scores": {
+            "A. Pengambilan sampel acak berkelompok": 0,
+            "B. Pengambilan sampel acak sederhana": 0,
+            "C. Pengambilan sampel acak sistematis": 0,
+            "D. Pengambilan sampel berstrata": 1
+        }
+    },
+    {
+        "input": "Misalkan tunjangan lembur mingguan karyawan suatu perusahaan mengikuti distribusi normal dengan rata-rata $50$ dolar AS dan simpangan baku $10$ dolar AS. Maka, proporsi karyawan di seluruh perusahaan yang menerima tunjangan lembur mingguan antara $40$ dolar AS dan $60$ dolar AS adalah______.\nA. $0,0228$\nB. $0,3174$\nC. $0,6826$\nD. $0,9772$",
+        "target_scores": {
+            "A. $0,0228$": 0,
+            "B. $0,3174$": 0,
+            "C. $0,6826$": 1,
+            "D. $0,9772$": 0
+        }
+    },
+    {
+        "input": "Misalkan variabel acak $X1$, $X2$, ..., $Xn$ saling independen, $Sn=X1+X2+...+Xn$, maka menurut Teorema Limit Pusat Lévy–Lindeberg, ketika $n$ cukup besar, $Sn$ akan mendekati distribusi normal, asalkan $X1$, $X2$, ..., $Xn$______.\nA. Memiliki nilai harapan dan varians yang sama\nB. Mengikuti distribusi diskret yang sama\nC. Mengikuti distribusi eksponensial yang sama\nD. Mengikuti distribusi kontinu yang sama",
+        "target_scores": {
+            "A. Memiliki nilai harapan dan varians yang sama": 0,
+            "B. Mengikuti distribusi diskret yang sama": 0,
+            "C. Mengikuti distribusi eksponensial yang sama": 1,
+            "D. Mengikuti distribusi kontinu yang sama": 0
+        }
+    },
+    {
+        "input": "Sebuah toko pada tahun 2006 dibandingkan dengan tahun 2005, nilai penjualan barang meningkat sebesar 16%, volume penjualan meningkat sebesar 18%, maka persentase perubahan harga jual adalah______.\nA.  -1,7%\nB.  -3,7%\nC. 1,7%\nD. 3,7%",
+        "target_scores": {
+            "A.  -1,7%": 1,
+            "B.  -3,7%": 0,
+            "C. 1,7%": 0,
+            "D. 3,7%": 0
+        }
+    },
+    {
+        "input": "Di suatu daerah miskin, diperkirakan jumlah penduduk yang mengalami malnutrisi mencapai 20%. Namun, ada yang berpendapat bahwa proporsi ini sebenarnya lebih tinggi. Untuk menguji kebenaran pendapat tersebut, bentuk hipotesisnya adalah______.\nA. $H0：\\pi=0{,}2$，$H1：\\pi≠0{,}2$\nB. $H0：\\pi>0{,}3$，$H1：\\pi=0{,}3$\nC. $H0：\\pi≤0{,}2$，$H1：\\pi>0{,}2$\nD. $H0：\\pi≥0{,}3$，$H1：\\pi<0{,}3$",
+        "target_scores": {
+            "A. $H0：\\pi=0{,}2$，$H1：\\pi≠0{,}2$": 0,
+            "B. $H0：\\pi>0{,}3$，$H1：\\pi=0{,}3$": 0,
+            "C. $H0：\\pi≤0{,}2$，$H1：\\pi>0{,}2$": 1,
+            "D. $H0：\\pi≥0{,}3$，$H1：\\pi<0{,}3$": 0
+        }
+    },
+    {
+        "input": "Dalam sebuah pengujian hipotesis mengenai ekspektasi matematis μ dari populasi normal, apabila pada tingkat signifikansi 0,05 hipotesis H0: μ=μ0 diterima, maka pada tingkat signifikansi 0,01, kesimpulan yang benar adalah______.\nA. Menerima hipotesis\nB. Menolak hipotesis\nC. Mungkin menerima hipotesis, juga mungkin menolak hipotesis\nD. Tidak menerima hipotesis, juga tidak menolak hipotesis",
+        "target_scores": {
+            "A. Menerima hipotesis": 1,
+            "B. Menolak hipotesis": 0,
+            "C. Mungkin menerima hipotesis, juga mungkin menolak hipotesis": 0,
+            "D. Tidak menerima hipotesis, juga tidak menolak hipotesis": 0
+        }
+    },
+    {
+        "input": "Sebuah perusahaan survei menerima penugasan untuk meneliti tingkat kepuasan terhadap suatu jenis kosmetik, dengan skor penilaian antara 0 (sama sekali tidak puas) hingga 20 (sangat puas). Dengan pengambilan acak terhadap 36 konsumen, rata-rata skornya adalah $12$ poin dan simpangan bakunya 3 poin. Estimasi interval untuk rata-rata populasi dengan tingkat kepercayaan 95%. Hasilnya adalah______.\nA. 11 poin–13 poin\nB. 12 poin–14 poin\nC. 6 poin–18 poin\nD. 9 poin–15 poin",
+        "target_scores": {
+            "A. 11 poin–13 poin": 1,
+            "B. 12 poin–14 poin": 0,
+            "C. 6 poin–18 poin": 0,
+            "D. 9 poin–15 poin": 0
+        }
+    },
+    {
+        "input": "Sebuah survei yang dilakukan oleh sebuah supermarket menunjukkan bahwa 80% pelanggan datang ke supermarket untuk membeli makanan, 60% pelanggan datang untuk membeli barang lain, dan 35% pelanggan membeli baik makanan maupun barang lain. Misalkan A = pelanggan membeli makanan, B = pelanggan membeli barang lain. Maka probabilitas seorang pelanggan juga membeli barang lain dengan syarat ia datang ke supermarket untuk membeli makanan adalah ______.\nA. 0,35\nB. 0,4375\nC. 0,6\nD. 0,8",
+        "target_scores": {
+            "A. 0,35": 0,
+            "B. 0,4375": 1,
+            "C. 0,6": 0,
+            "D. 0,8": 0
+        }
+    },
+    {
+        "input": "Sebuah laporan yang baru-baru ini diterbitkan menyatakan, 'Sebuah sampel yang terdiri dari 150 mobil baru menunjukkan bahwa harga mobil baru asing secara signifikan lebih tinggi daripada mobil baru produksi dalam negeri.' Kesimpulan ini termasuk ______.\nA. Deskripsi terhadap populasi.\nB. Deskripsi terhadap sampel.\nC. Inferensi terhadap populasi.\nD. Inferensi terhadap sampel.",
+        "target_scores": {
+            "A. Deskripsi terhadap populasi.": 0,
+            "B. Deskripsi terhadap sampel.": 0,
+            "C. Inferensi terhadap populasi.": 1,
+            "D. Inferensi terhadap sampel.": 0
+        }
+    },
+    {
+        "input": "Koefisien variasi suatu kelompok data adalah 0,4, dengan rata-rata 20, maka simpangan bakunya adalah______.\nA. 0,02\nB. 4\nC. 8\nD. 80",
+        "target_scores": {
+            "A. 0,02": 0,
+            "B. 4": 0,
+            "C. 8": 1,
+            "D. 80": 0
+        }
+    },
+    {
+        "input": "Sebuah perusahaan ingin mengetahui rata-rata waktu yang dihabiskan karyawan setiap hari untuk perjalanan ke tempat kerja. Sebanyak $10$ karyawan diwawancarai, dan diperoleh hasil: rata-rata waktu perjalanan harian $10$ karyawan tersebut adalah $3{,}2$ jam, dengan simpangan baku $0{,}9$ jam. Jika interval kepercayaan adalah ($2{,}2$, $4{,}2$), maka tingkat kepercayaan adalah______.\nA. $0{,}05＞α＞0{,}01$\nB. $α＜0{,}01$\nC. $α＞0{,}025$\nD. $α＞0{,}05$",
+        "target_scores": {
+            "A. $0{,}05＞α＞0{,}01$": 0,
+            "B. $α＜0{,}01$": 1,
+            "C. $α＞0{,}025$": 0,
+            "D. $α＞0{,}05$": 0
+        }
+    },
+    {
+        "input": "Dari 200.000 mahasiswa di salah satu universitas, dilakukan pengambilan sampel acak sederhana terhadap 500 orang untuk survei, dan ditemukan bahwa 320 di antaranya pernah mengikuti berbagai organisasi kampus. Maka, pada tingkat kepercayaan 95,45%, dapat dianggap bahwa proporsi mahasiswa yang pernah mengikuti organisasi di antara 200.000 mahasiswa tersebut lebih tinggi dari______.\nA. 0.55\nB. 0.62\nC. 0.68\nD. 0.7",
+        "target_scores": {
+            "A. 0.55": 0,
+            "B. 0.62": 0,
+            "C. 0.68": 1,
+            "D. 0.7": 0
+        }
+    },
+    {
+        "input": "Dari populasi tak hingga yang mengikuti distribusi normal, diambil sampel dengan ukuran masing-masing 4, 16, dan 36. Ketika ukuran sampel bertambah besar, simpangan baku rata-rata sampel ______.\nA. Meningkat\nB. Menurun\nC. Tetap tidak berubah\nD. Tidak dapat ditentukan",
+        "target_scores": {
+            "A. Meningkat": 0,
+            "B. Menurun": 1,
+            "C. Tetap tidak berubah": 0,
+            "D. Tidak dapat ditentukan": 0
+        }
+    },
+    {
+        "input": "Dalam sebuah survei opini publik daring pada tahun 1998, sebanyak 7.553 orang berpartisipasi, di mana 4.381 orang berpendapat bahwa: 'Petugas investigasi kasus Whitewater seharusnya mewawancarai semua saksi yang dapat ditemukan, termasuk asisten Presiden Bill Clinton saat menjabat.' Berdasarkan hal tersebut, kesimpulan mana yang dapat Anda tarik?______.\nA. Data di atas memberikan bukti yang cukup bahwa mayoritas orang berpendapat bahwa petugas investigasi tidak seharusnya mewawancarai semua saksi yang dapat ditemukan, termasuk asisten Presiden Bill Clinton saat menjabat\nB. Data di atas memberikan bukti yang memadai bahwa mayoritas orang berpendapat bahwa petugas investigasi seharusnya mewawancarai semua saksi yang dapat ditemukan, termasuk asisten Presiden Bill Clinton saat menjabat\nC. Data di atas tidak memberikan bukti yang memadai bahwa mayoritas orang berpendapat bahwa petugas investigasi seharusnya mewawancarai semua saksi yang dapat ditemukan, termasuk asisten Presiden Bill Clinton saat menjabat\nD. Data di atas tidak memberikan bukti yang memadai bahwa mayoritas orang berpendapat bahwa petugas investigasi tidak seharusnya mewawancarai semua saksi yang dapat ditemukan, termasuk asisten Presiden Bill Clinton saat menjabat",
+        "target_scores": {
+            "A. Data di atas memberikan bukti yang cukup bahwa mayoritas orang berpendapat bahwa petugas investigasi tidak seharusnya mewawancarai semua saksi yang dapat ditemukan, termasuk asisten Presiden Bill Clinton saat menjabat": 0,
+            "B. Data di atas memberikan bukti yang memadai bahwa mayoritas orang berpendapat bahwa petugas investigasi seharusnya mewawancarai semua saksi yang dapat ditemukan, termasuk asisten Presiden Bill Clinton saat menjabat": 1,
+            "C. Data di atas tidak memberikan bukti yang memadai bahwa mayoritas orang berpendapat bahwa petugas investigasi seharusnya mewawancarai semua saksi yang dapat ditemukan, termasuk asisten Presiden Bill Clinton saat menjabat": 0,
+            "D. Data di atas tidak memberikan bukti yang memadai bahwa mayoritas orang berpendapat bahwa petugas investigasi tidak seharusnya mewawancarai semua saksi yang dapat ditemukan, termasuk asisten Presiden Bill Clinton saat menjabat": 0
+        }
+    },
+    {
+        "input": "Dengan asumsi kondisi lain tetap, apabila $\\alpha$ diturunkan dari $5\\%$ menjadi $2{,}5\\%$, maka lebar interval kepercayaan $1-\\alpha$ untuk rata-rata populasi $\\mu$ akan______\nA. Dapat meningkat atau menurun\nB. Meningkat\nC. Menurun\nD. Tetap",
+        "target_scores": {
+            "A. Dapat meningkat atau menurun": 0,
+            "B. Meningkat": 1,
+            "C. Menurun": 0,
+            "D. Tetap": 0
+        }
+    },
+    {
+        "input": "Simpangan baku sewa bulanan gedung perkantoran di suatu daerah adalah $80. Untuk memperkirakan interval kepercayaan 95% dari rata-rata populasi dengan batas galat yang diharapkan sebesar $25, ukuran sampel yang harus diambil adalah______.\nA. 20\nB. 30\nC. 40\nD. 50",
+        "target_scores": {
+            "A. 20": 0,
+            "B. 30": 0,
+            "C. 40": 1,
+            "D. 50": 0
+        }
+    },
+    {
+        "input": "Departemen lingkungan hidup ingin menguji apakah rata-rata penggunaan kotak makan sekali pakai di restoran dalam satu hari melebihi 600 buah. Hipotesis nol dan hipotesis alternatif yang harus dirumuskan adalah______.\nA. $H_0: \\mu = 600$, $H_1: \\mu \\neq 600$\nB. $H_0: \\mu \\geq 600$, $H_1: \\mu < 600$\nC. $H_0: \\mu \\leq 600$, $H_1: \\mu > 600$\nD. $H_0: \\mu \\neq 600$, $H_1: \\mu = 600$",
+        "target_scores": {
+            "A. $H_0: \\mu = 600$, $H_1: \\mu \\neq 600$": 0,
+            "B. $H_0: \\mu \\geq 600$, $H_1: \\mu < 600$": 0,
+            "C. $H_0: \\mu \\leq 600$, $H_1: \\mu > 600$": 1,
+            "D. $H_0: \\mu \\neq 600$, $H_1: \\mu = 600$": 0
+        }
+    },
+    {
+        "input": "Dalam menguji apakah terdapat hubungan linier antara tekanan darah dan usia, dilakukan pengambilan sampel acak pada kelompok usia 0–20, 20–30, 30–40, 40–50, 50–60, dan di atas 60 tahun. Metode pengambilan sampel ini termasuk______.\nA. Pengambilan sampel acak berkelompok\nB. Pengambilan sampel acak sistematis.\nC. Pengambilan sampel berstrata.\nD. Pengambilan sampel sederhana",
+        "target_scores": {
+            "A. Pengambilan sampel acak berkelompok": 0,
+            "B. Pengambilan sampel acak sistematis.": 0,
+            "C. Pengambilan sampel berstrata.": 1,
+            "D. Pengambilan sampel sederhana": 0
+        }
+    },
+    {
+        "input": "Sebuah survei menunjukkan bahwa karyawan yang bekerja di perusahaan asing rata-rata bekerja 52 jam per minggu. Dengan pengambilan acak sebuah sampel yang terdiri dari 650 karyawan, simpangan baku sampel adalah 8,2 jam. Interval kepercayaan 95% untuk rata-rata jam kerja mingguan karyawan di perusahaan asing adalah ______.\nA. (50,37, 52,63)\nB. (51,37, 52,63)\nC. (51,37, 53,63)\nD. (52,37, 53,63)",
+        "target_scores": {
+            "A. (50,37, 52,63)": 0,
+            "B. (51,37, 52,63)": 1,
+            "C. (51,37, 53,63)": 0,
+            "D. (52,37, 53,63)": 0
+        }
+    },
+    {
+        "input": "Sebuah lembaga penelitian melakukan pengambilan acak terhadap 500 pekerja di bidang IT sebagai sampel untuk disurvei. Di antaranya, 60% menjawab bahwa pendapatan bulanan mereka di atas Rp11.000.000, dan 50% menjawab bahwa mereka menggunakan kartu kredit sebagai metode pembayaran konsumsi. Populasi dalam kasus ini adalah ______.\nA. 500 pekerja IT\nB. Metode pembayaran konsumsi pekerja IT\nC. Seluruh pekerja di bidang IT\nD. Total pendapatan pekerja IT",
+        "target_scores": {
+            "A. 500 pekerja IT": 0,
+            "B. Metode pembayaran konsumsi pekerja IT": 0,
+            "C. Seluruh pekerja di bidang IT": 1,
+            "D. Total pendapatan pekerja IT": 0
+        }
+    },
+    {
+        "input": "Pada dua sisi △ABC, yaitu AB dan AC, masing-masing diambil satu titik P dan Q secara acak. Maka, ekspektasi matematis dari luas segiempat PBCQ adalah ______ dari luas △ABC.\nA. \\frac{1}{2}\nB. \\frac{2}{3}\nC. \\frac{3}{4}\nD. \\frac{4}{5}",
+        "target_scores": {
+            "A. \\frac{1}{2}": 0,
+            "B. \\frac{2}{3}": 0,
+            "C. \\frac{3}{4}": 1,
+            "D. \\frac{4}{5}": 0
+        }
+    },
+    {
+        "input": "Rata-rata nilai statistik siswa di suatu kelas adalah 70, nilai tertinggi 96, dan nilai terendah 62. Berdasarkan informasi ini, statistik yang dapat digunakan untuk mengukur tingkat dispersi adalah ______.\nA. Koefisien variasi\nB. Rentang\nC. Simpangan baku\nD. Varians",
+        "target_scores": {
+            "A. Koefisien variasi": 0,
+            "B. Rentang": 1,
+            "C. Simpangan baku": 0,
+            "D. Varians": 0
+        }
+    },
+    {
+        "input": "Ketika suatu produk baru pertama kali diluncurkan, permintaan pasar pada tahap awal meningkat dengan sangat cepat. Ketika jumlah produk yang dimiliki masyarakat mendekati titik jenuh, permintaan secara bertahap cenderung mencapai tingkat yang stabil. Menurut Anda, garis tren mana yang paling tepat digunakan untuk menggambarkan tren perkembangan produk baru ini______.\nA. Garis tren lurus\nB. Kurva Gompertz\nC. Kurva eksponensial yang dimodifikasi\nD. Kurva kuadrat",
+        "target_scores": {
+            "A. Garis tren lurus": 0,
+            "B. Kurva Gompertz": 0,
+            "C. Kurva eksponensial yang dimodifikasi": 1,
+            "D. Kurva kuadrat": 0
+        }
+    },
+    {
+        "input": "Untuk data deret waktu, grafik yang umumnya digunakan untuk menggambarkan tren perubahannya adalah______.\nA. Diagram batang\nB. Diagram garis\nC. Diagram kotak\nD. Histogram",
+        "target_scores": {
+            "A. Diagram batang": 0,
+            "B. Diagram garis": 1,
+            "C. Diagram kotak": 0,
+            "D. Histogram": 0
+        }
+    },
+    {
+        "input": "Dengan melakukan pengambilan acak terhadap sampel sebanyak 400 orang, ditemukan bahwa 26% pengguna internet adalah perempuan. Interval kepercayaan 95% untuk proporsi pengguna internet perempuan adalah______.\nA. (0,117, 0,403)\nB. (0,117, 0,503)\nC. (0,217, 0,303)\nD. (0,217, 0,403)",
+        "target_scores": {
+            "A. (0,117, 0,403)": 0,
+            "B. (0,117, 0,503)": 0,
+            "C. (0,217, 0,303)": 1,
+            "D. (0,217, 0,403)": 0
+        }
+    },
+    {
+        "input": "Pendapatan bulanan karyawan suatu perusahaan dibagi secara berurutan menjadi beberapa kelompok: di bawah Rp20.000.000 , Rp20.000.000 –30.000.000 , Rp30.000.000 –40.000.000 , Rp40.000.000 –50.000.000 , dan di atas Rp50.000.000 . Titik tengah kelompok untuk kelompok pertama dan terakhir kira-kira adalah______.\nA. 10.000.000; 55.000.000\nB. 10.000.000; 65.000.000\nC. 15.000.000; 55.000.000\nD. 15.000.000; 65.000.000",
+        "target_scores": {
+            "A. 10.000.000; 55.000.000": 0,
+            "B. 10.000.000; 65.000.000": 0,
+            "C. 15.000.000; 55.000.000": 1,
+            "D. 15.000.000; 65.000.000": 0
+        }
+    },
+    {
+        "input": "Dalam uji $t$ satu sampel, hipotesis alternatif adalah rata-rata populasi $＞1.000$, maka ini termasuk ______.\nA. Distribusi satu\nB. Uji dua sisi\nC. Uji sisi kanan\nD. Uji sisi kiri",
+        "target_scores": {
+            "A. Distribusi satu": 0,
+            "B. Uji dua sisi": 0,
+            "C. Uji sisi kanan": 1,
+            "D. Uji sisi kiri": 0
+        }
+    },
+    {
+        "input": "$1.000$ siswa mengikuti ujian pada suatu mata kuliah, dengan nilai rata-rata $82$ dan simpangan baku $8$. Dari siswa tersebut, diambil secara acak $100$ orang sebagai sampel. Maka, ekspektasi matematis dari rata-rata sampel dan simpangan baku dari distribusi sampling masing-masing adalah ______.\nA. $82$, $0{,}8$\nB. $82$, $64$\nC. $82$, $8$\nD. $86$, $1$",
+        "target_scores": {
+            "A. $82$, $0{,}8$": 1,
+            "B. $82$, $64$": 0,
+            "C. $82$, $8$": 0,
+            "D. $86$, $1$": 0
+        }
+    },
+    {
+        "input": "Gaji karyawan di suatu perusahaan dibagi menjadi empat kelompok: (1) di bawah Rp$8.000.000$; (2) Rp$8.000.000$–$10.000.000$; (3) Rp$10.000.000$–$15.000.000$; (4) di atas Rp$15.000.000$. Maka titik tengah untuk kelompok di atas Rp 15.000.000 seharusnya mendekati Rp______.\nA. $15.000.000$\nB. $16.000.000$\nC. $17.500.000$\nD. $20.000.000$",
+        "target_scores": {
+            "A. $15.000.000$": 0,
+            "B. $16.000.000$": 0,
+            "C. $17.500.000$": 1,
+            "D. $20.000.000$": 0
+        }
+    },
+    {
+        "input": "Diketahui jumlah kuadrat regresi $SSR=4854$, jumlah kuadrat residual $SSE=146$, maka koefisien determinasi $R2$ = ______.\nA. $2{,}92%$\nB. $33{,}25%$\nC. $3{,}01%$\nD. $97{,}08%$",
+        "target_scores": {
+            "A. $2{,}92%$": 0,
+            "B. $33{,}25%$": 0,
+            "C. $3{,}01%$": 0,
+            "D. $97{,}08%$": 1
+        }
+    },
+    {
+        "input": "Parkir untuk berbelanja di pusat perbelanjaan menjadi semakin sulit; pihak manajemen ingin mengetahui rata-rata waktu yang dibutuhkan pelanggan untuk menemukan tempat parkir. Untuk itu, seorang manajer melacak $50$ pelanggan dan mencatat waktu yang mereka butuhkan untuk menemukan tempat parkir. Populasi yang menjadi perhatian manajer di sini adalah ______.\nA. Pelanggan yang memarkir mobilnya di mal pada sore hari.\nB. Pelanggan yang parkir di pusat perbelanjaan pada pagi hari\nC. Seluruh pelanggan yang berbelanja di pusat perbelanjaan\nD. Seluruh pelanggan yang parkir di pusat perbelanjaan",
+        "target_scores": {
+            "A. Pelanggan yang memarkir mobilnya di mal pada sore hari.": 0,
+            "B. Pelanggan yang parkir di pusat perbelanjaan pada pagi hari": 0,
+            "C. Seluruh pelanggan yang berbelanja di pusat perbelanjaan": 0,
+            "D. Seluruh pelanggan yang parkir di pusat perbelanjaan": 1
+        }
+    },
+    {
+        "input": "Misalkan $F_1(X)$ dan $F_2(X)$ masing-masing adalah fungsi distribusi dari variabel acak $X_1$ dan $X_2$. Agar $F(X)=aF_1(X)-bF_2(X)$ merupakan fungsi distribusi dari suatu variabel acak, maka nilai yang harus diambil adalah ____.\nA. $a = 1/2$, $b= -3/2$\nB. $a =2/5$,$b =2/3$\nC. $a =3/5$, $b= -2/5$\nD. $a= -1/2$，$b=3/2$",
+        "target_scores": {
+            "A. $a = 1/2$, $b= -3/2$": 0,
+            "B. $a =2/5$,$b =2/3$": 0,
+            "C. $a =3/5$, $b= -2/5$": 1,
+            "D. $a= -1/2$，$b=3/2$": 0
+        }
+    },
+    {
+        "input": "Misalkan $(\\xi, \\eta)$ adalah variabel acak dua dimensi, dengan $D\\xi > 0$ dan $D\\eta > 0$, maka persamaan berikut yang benar adalah ____.\nA. $D(2\\xi+3\\eta)=2D(\\xi)+3D(\\eta)+12Cov(\\xi,\\eta)$\nB. $D(2\\xi+3\\eta)=4D(\\xi)+9D(\\eta)$\nC. $E(2\\xi+3\\eta)=2E(\\xi)+3E(\\eta)$\nD. $E(2\\xi\\cdot3\\eta)=2E(\\xi)\\cdot3E(\\eta)$",
+        "target_scores": {
+            "A. $D(2\\xi+3\\eta)=2D(\\xi)+3D(\\eta)+12Cov(\\xi,\\eta)$": 0,
+            "B. $D(2\\xi+3\\eta)=4D(\\xi)+9D(\\eta)$": 0,
+            "C. $E(2\\xi+3\\eta)=2E(\\xi)+3E(\\eta)$": 1,
+            "D. $E(2\\xi\\cdot3\\eta)=2E(\\xi)\\cdot3E(\\eta)$": 0
+        }
+    },
+    {
+        "input": "Sebuah perusahaan memiliki 2.000 karyawan, dengan rata-rata gaji bulanan sebesar Rp2.500.000 dan simpangan baku sebesar Rp500.000. Diasumsikan gaji karyawan perusahaan tersebut mengikuti distribusi normal, maka jumlah karyawan dengan gaji bulanan antara Rp2.000.000 hingga Rp3.000.000 diperkirakan sebanyak (  ).\nA. 1.360 orang\nB. 1.550 orang\nC. 1.750 orang\nD. 1.950 orang",
+        "target_scores": {
+            "A. 1.360 orang": 1,
+            "B. 1.550 orang": 0,
+            "C. 1.750 orang": 0,
+            "D. 1.950 orang": 0
+        }
+    },
+    {
+        "input": "Misalkan $z_c$ adalah nilai hitung statistik uji, dengan hipotesis $H_0:\\mu\\leq\\mu_0$ dan $H_1:\\mu>\\mu_0$. Jika $z_c= 1{,}645$, maka nilai $P$ yang diperoleh adalah ____.\nA. 0,0025\nB. 0,01\nC. 0,025\nD. 0,05",
+        "target_scores": {
+            "A. 0,0025": 0,
+            "B. 0,01": 0,
+            "C. 0,025": 0,
+            "D. 0,05": 1
+        }
+    },
+    {
+        "input": "Dalam tes kemampuan komputer yang dilakukan di sebuah perusahaan, skor rata-rata karyawan baru adalah 80, simpangan baku 5, dan median 86. Maka, bentuk distribusi skor karyawan baru adalah______.\nA. Condong ke kanan\nB. Condong ke kiri\nC. Simetris\nD. Tidak dapat ditentukan",
+        "target_scores": {
+            "A. Condong ke kanan": 0,
+            "B. Condong ke kiri": 1,
+            "C. Simetris": 0,
+            "D. Tidak dapat ditentukan": 0
+        }
+    },
+    {
+        "input": "Sebuah survei menunjukkan bahwa dari 1.000 konsumen yang diambil sebagai sampel, rata-rata pengeluaran belanja online mereka per bulan adalah Rp200.000, dan alasan utama mereka memilih belanja online adalah 'harga murah'. Parameter di sini adalah____\nA. 1.000 konsumen\nB. Rata-rata pengeluaran 1.000 konsumen\nC. Rata-rata pengeluaran seluruh konsumen yang berbelanja online\nD. Seluruh konsumen yang berbelanja online",
+        "target_scores": {
+            "A. 1.000 konsumen": 0,
+            "B. Rata-rata pengeluaran 1.000 konsumen": 0,
+            "C. Rata-rata pengeluaran seluruh konsumen yang berbelanja online": 1,
+            "D. Seluruh konsumen yang berbelanja online": 0
+        }
+    },
+    {
+        "input": " Untuk memperkirakan proporsi keluarga yang memiliki mobil di sebuah kota, diambil sampel sebanyak 500 keluarga, dan diperoleh proporsi keluarga yang memiliki mobil sebesar 35%. Di sini, 35% adalah____\nA. Nilai parameter\nB. Nilai statistik\nC. Ukuran sampel\nD. Variabel",
+        "target_scores": {
+            "A. Nilai parameter": 0,
+            "B. Nilai statistik": 1,
+            "C. Ukuran sampel": 0,
+            "D. Variabel": 0
+        }
+    },
+    {
+        "input": "Salah satu lembaga sangat memperhatikan waktu menonton televisi mingguan siswa sekolah dasar. Lembaga tersebut melakukan pengambilan sampel acak terhadap 300 orang tua siswa sekolah dasar untuk memperkirakan waktu menonton televisi mingguan anak-anak mereka. Hasil menunjukkan bahwa rata-rata waktu menonton televisi mingguan siswa sekolah dasar tersebut adalah 15 jam, dengan simpangan baku 5 jam. Cara lembaga tersebut mengumpulkan data adalah ____\nA. Pengambilan sampel non-probabilitas\nB. Pengambilan sampel probabilitas\nC. Survei eksperimental\nD. Survei observasi",
+        "target_scores": {
+            "A. Pengambilan sampel non-probabilitas": 0,
+            "B. Pengambilan sampel probabilitas": 1,
+            "C. Survei eksperimental": 0,
+            "D. Survei observasi": 0
+        }
+    },
+    {
+        "input": "Fakultas Ekonomi dan Manajemen di salah satu universitas memiliki 1.200 mahasiswa, Fakultas Hukum memiliki 800 mahasiswa, Fakultas Kedokteran memiliki 320 mahasiswa, dan Fakultas Sains memiliki 200 mahasiswa. Dalam deskripsi di atas, modusnya adalah______.\nA. 1.200\nB. 200\nC. Fakultas Ekonomi dan Manajemen\nD. Fakultas Sains",
+        "target_scores": {
+            "A. 1.200": 0,
+            "B. 200": 0,
+            "C. Fakultas Ekonomi dan Manajemen": 1,
+            "D. Fakultas Sains": 0
+        }
+    },
+    {
+        "input": "Dalam suatu industri, dilakukan pengambilan acak terhadap 10 perusahaan, dengan laba kuartal pertama (satuan: miliar) sebagai berikut: 72; 63,1; 54,7; 54,3; 29; 26,9; 25; 23,9; 23; 20. Median dari data tersebut adalah____\nA. 27,95\nB. 28,12\nC. 28,46\nD. 30,2",
+        "target_scores": {
+            "A. 27,95": 1,
+            "B. 28,12": 0,
+            "C. 28,46": 0,
+            "D. 30,2": 0
+        }
+    },
+    {
+        "input": "Nilai rata-rata siswa pada suatu kelas adalah 80, dengan simpangan baku sebesar 10. Jika diketahui bahwa distribusi nilai ujian siswa di kelas tersebut bersifat simetris, maka dapat diperkirakan bahwa proporsi siswa dengan nilai antara 70 hingga 90 adalah sekitar ____.\nA. 68%\nB. 89%\nC. 95%\nD. 99%",
+        "target_scores": {
+            "A. 68%": 1,
+            "B. 89%": 0,
+            "C. 95%": 0,
+            "D. 99%": 0
+        }
+    },
+    {
+        "input": "Misalkan proporsi populasi adalah 0,3. Jika dilakukan pengambilan sampel acak sederhana berukuran 100 dengan metode pengambilan sampel dengan pengembalian, maka nilai harapan proporsi sampel adalah ____.\nA. 0,3\nB. 0,8\nC. 1,6\nD. 2",
+        "target_scores": {
+            "A. 0,3": 1,
+            "B. 0,8": 0,
+            "C. 1,6": 0,
+            "D. 2": 0
+        }
+    },
+    {
+        "input": "Diambil sampel acak berukuran 100 dengan rata-rata x=81 dan simpangan baku s=12. Interval kepercayaan 95% untuk rata-rata populasi μ adalah ____.\nA. 81±1,97\nB. 81±2,35\nC. 81±3,10\nD. 81±3,52",
+        "target_scores": {
+            "A. 81±1,97": 0,
+            "B. 81±2,35": 1,
+            "C. 81±3,10": 0,
+            "D. 81±3,52": 0
+        }
+    },
+    {
+        "input": "Dari suatu daerah diambil secara acak 20 perusahaan, dan diperoleh pendapatan rata-rata tahunan manajer umum dari 20 perusahaan tersebut sebesar 25.964,7 dolar, dengan simpangan baku sebesar 42.807,8 dolar. Maka interval kepercayaan 95% untuk pendapatan rata-rata tahunan μ manajer umum perusahaan adalah ____\nA. 25.964,7±20.034,3\nB. 25.964,7±21.034,3\nC. 25.964,7±25.034,3\nD. 25.964,7±30.034,3",
+        "target_scores": {
+            "A. 25.964,7±20.034,3": 1,
+            "B. 25.964,7±21.034,3": 0,
+            "C. 25.964,7±25.034,3": 0,
+            "D. 25.964,7±30.034,3": 0
+        }
+    },
+    {
+        "input": "Sebuah perusahaan besar akan mengajukan suatu langkah reformasi. Untuk memperkirakan proporsi karyawan yang mendukung reformasi tersebut, dengan ketentuan kesalahan estimasi tidak melebihi 0,03 dan tingkat kepercayaan 90%, ukuran sampel yang harus diambil adalah ____\nA. 552\nB. 652\nC. 752\nD. 852",
+        "target_scores": {
+            "A. 552": 0,
+            "B. 652": 0,
+            "C. 752": 1,
+            "D. 852": 0
+        }
+    },
+    {
+        "input": "Dalam suatu survei kuesioner, responden diminta data etnis, status pernikahan, kode pos tempat tinggal, usia, dan pendapatan pribadi. Pernyataan berikut yang salah adalah____\nA. Etnis merupakan data kualitatif\nB. Kode pos merupakan data kuantitatif\nC. Pendapatan merupakan data kuantitatif\nD. Usia merupakan variabel kontinu",
+        "target_scores": {
+            "A. Etnis merupakan data kualitatif": 0,
+            "B. Kode pos merupakan data kuantitatif": 1,
+            "C. Pendapatan merupakan data kuantitatif": 0,
+            "D. Usia merupakan variabel kontinu": 0
+        }
+    },
+    {
+        "input": "Sebuah produsen lemari es berpendapat bahwa jika proporsi lemari es yang mengalami kerusakan pada lini perakitan tidak melebihi 3% per hari, maka proses perakitan tersebut dianggap memuaskan. Untuk menguji kualitas produksi lemari es pada suatu hari, produsen melakukan pengambilan acak terhadap 50 unit lemari es yang diproduksi pada hari tersebut untuk diuji. Populasi yang menjadi perhatian produsen adalah____\nA. 3% lemari es yang mengalami kerusakan\nB. 50 unit lemari es yang diambil sebagai sampel\nC. Hasil pemeriksaan terhadap 50 unit lemari es\nD. Seluruh lemari es yang diproduksi pada hari tersebut",
+        "target_scores": {
+            "A. 3% lemari es yang mengalami kerusakan": 0,
+            "B. 50 unit lemari es yang diambil sebagai sampel": 0,
+            "C. Hasil pemeriksaan terhadap 50 unit lemari es": 0,
+            "D. Seluruh lemari es yang diproduksi pada hari tersebut": 1
+        }
+    },
+    {
+        "input": "Untuk meneliti kondisi pembelajaran mata kuliah kalkulus, dari 186 kelas diambil sampel sebanyak 35 kelas, kemudian nilai ujian kalkulus mahasiswa pada kelas-kelas terpilih dianalisis. Metode pengambilan sampel ini termasuk ____\nA. Pengambilan sampel acak berkelompok.\nB. Pengambilan sampel acak sederhana.\nC. Pengambilan sampel acak sistematis.\nD. Pengambilan sampel berstrata.",
+        "target_scores": {
+            "A. Pengambilan sampel acak berkelompok.": 1,
+            "B. Pengambilan sampel acak sederhana.": 0,
+            "C. Pengambilan sampel acak sistematis.": 0,
+            "D. Pengambilan sampel berstrata.": 0
+        }
+    },
+    {
+        "input": "Asosiasi Produsen Mobil ingin mengetahui tren preferensi warna konsumen saat membeli mobil, dengan mengambil sampel 40 mobil yang baru saja terjual dan mencatat jenis warnanya (hitam, putih, merah, hijau, cokelat) serta tingkat kecerahan (terang, agak terang, sedang, agak gelap); Menurut Anda, di antara diagram berikut yang digunakan untuk menyajikan data, manakah yang tidak sesuai untuk mengolah data sampel ini?____\nA. Diagram batang\nB. Diagram frekuensi\nC. Diagram lingkaran\nD. Diagram pencar",
+        "target_scores": {
+            "A. Diagram batang": 0,
+            "B. Diagram frekuensi": 0,
+            "C. Diagram lingkaran": 0,
+            "D. Diagram pencar": 1
+        }
+    },
+    {
+        "input": "Seorang peneliti ingin menggunakan grafik untuk menggambarkan perubahan harian sewa harga sewa properti bekas di wilayah Beijing sejak bulan April. Grafik manakah berikut ini yang paling sesuai?____\nA. Diagram batang daun\nB. Diagram garis\nC. Diagram pencar\nD. Histogram",
+        "target_scores": {
+            "A. Diagram batang daun": 0,
+            "B. Diagram garis": 1,
+            "C. Diagram pencar": 0,
+            "D. Histogram": 0
+        }
+    },
+    {
+        "input": "Untuk nilai suatu mata pelajaran dari 100 siswa, jika ingin memperoleh kuartil pertama, median, dan kuartil ketiga, metode statistik deskriptif manakah berikut ini yang lebih efektif?____\nA. Diagram batang daun\nB. Diagram lingkaran\nC. Diagram titik\nD. Histogram",
+        "target_scores": {
+            "A. Diagram batang daun": 1,
+            "B. Diagram lingkaran": 0,
+            "C. Diagram titik": 0,
+            "D. Histogram": 0
+        }
+    },
+    {
+        "input": "Sebuah perusahaan penanaman modal asing membagi tingkat gaji menjadi empat kelompok: di bawah Rp 10.000.000: Rp10.000.000～15.000.000, Rp15.000.000～20.000.000, di atas Rp20.000.000. Nilai tengah kelompok untuk kelompok pertama dan keempat masing-masing adalah____\nA. 7.500.000 dan 22.500.000\nB. 7.500.000 dan 25.000.000\nC. 8.000.000 dan 22.500.000\nD. 8.000.000 dan 25.000.000",
+        "target_scores": {
+            "A. 7.500.000 dan 22.500.000": 1,
+            "B. 7.500.000 dan 25.000.000": 0,
+            "C. 8.000.000 dan 22.500.000": 0,
+            "D. 8.000.000 dan 25.000.000": 0
+        }
+    }
+]

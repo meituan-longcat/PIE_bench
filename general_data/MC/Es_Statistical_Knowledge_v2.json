@@ -1,0 +1,848 @@
+[
+    {
+        "input": "Se sabe que el ingreso disponible total de un país es de $800$ mil millones de euros y su ahorro total es de $200$ mil millones de euros, entonces su consumo total es ______.\nA. Igual a $550$ mil millones de euros\nB. Igual a $580$ mil millones de euros\nC. Igual a $600$ mil millones de euros\nD. Mayor que $600$ mil millones de euros",
+        "target_scores": {
+            "A. Igual a $550$ mil millones de euros": 0,
+            "B. Igual a $580$ mil millones de euros": 0,
+            "C. Igual a $600$ mil millones de euros": 1,
+            "D. Mayor que $600$ mil millones de euros": 0
+        }
+    },
+    {
+        "input": "Un nuevo plan de pérdida de peso afirma que, durante la primera semana de implementación, los participantes pueden reducir en promedio al menos $8$ libras de peso. Se toma una muestra aleatoria de $40$ participantes del programa, y los resultados muestran que la reducción promedio de peso en la muestra es de $7$ libras, con una desviación estándar de $2$ libras. Entonces, las hipótesis nula y alternativa son ______.\nA. $\\mathrm{H0:}\\mu\\mathrm{\\geq}8$,$\\mathrm{H1:}\\mu<8$\nB. $\\mathrm{H0:}\\mu\\mathrm{\\leq}8$,$\\mathrm{H1:}\\mu>8$\nC. $\\mathrm{H0:~\\mu\\geq7$,$~H1:~\\mu<7}$\nD. $\\mathrm{H0:~\\mu\\leq7$,$~H1:~\\mu>7}$",
+        "target_scores": {
+            "A. $\\mathrm{H0:}\\mu\\mathrm{\\geq}8$,$\\mathrm{H1:}\\mu<8$": 1,
+            "B. $\\mathrm{H0:}\\mu\\mathrm{\\leq}8$,$\\mathrm{H1:}\\mu>8$": 0,
+            "C. $\\mathrm{H0:~\\mu\\geq7$,$~H1:~\\mu<7}$": 0,
+            "D. $\\mathrm{H0:~\\mu\\leq7$,$~H1:~\\mu>7}$": 0
+        }
+    },
+    {
+        "input": "En una empresa, los empleados masculinos representan el $80\\%$ con un salario mensual promedio de $450$ euros, y las empleadas representan el $20\\%$ con un salario mensual promedio de $400$ euros. El salario promedio de todos los empleados de esta empresa es ______.\nA. $425$ euros\nB. $430$ euros\nC. $435$ euros\nD. $440$ euros",
+        "target_scores": {
+            "A. $425$ euros": 0,
+            "B. $430$ euros": 0,
+            "C. $435$ euros": 0,
+            "D. $440$ euros": 1
+        }
+    },
+    {
+        "input": "Un ascensor tiene un peso máximo de carga de $1.000$ kilogramos. Suponiendo que ingresan $15$ personas al ascensor, y si el peso corporal (en kilogramos) de cada persona sigue $\\mathcal{N}(60,\\ 15^2)$, entonces la probabilidad de sobrepeso es ______.\nA. $0,0142$\nB. $0,0427$\nC. $0,0528$\nD. $0,0785$",
+        "target_scores": {
+            "A. $0,0142$": 0,
+            "B. $0,0427$": 1,
+            "C. $0,0528$": 0,
+            "D. $0,0785$": 0
+        }
+    },
+    {
+        "input": "Se sabe que la media de una población es de $50$ y la desviación estándar es de $8$. Si se extrae una muestra aleatoria de tamaño $64$ de esta población, entonces el valor esperado de la media muestral y el error estándar de la distribución de muestreo son respectivamente ______.\nA. $50$, $1$\nB. $50$, $4$\nC. $50$, $8$\nD. $8$, $8$",
+        "target_scores": {
+            "A. $50$, $1$": 1,
+            "B. $50$, $4$": 0,
+            "C. $50$, $8$": 0,
+            "D. $8$, $8$": 0
+        }
+    },
+    {
+        "input": "Se conocen las tasas de crecimiento interanual en los últimos años: $7,5\\%$, $9,5\\%$, $6,2\\%$, $4,9\\%$. Entonces, la tasa de crecimiento de base fija es ______.\nA. $107,5\\%×109,5\\%×106,2\\%×104,9\\%$\nB. $107,5\\%×109,5\\%×106,2\\%×104,9\\%-1$\nC. $7,5\\%×9,5\\%×6,2\\%×4,9\\%$\nD. $7,5\\%×9,5\\%×6,2\\%×4,9\\%-1$",
+        "target_scores": {
+            "A. $107,5\\%×109,5\\%×106,2\\%×104,9\\%$": 0,
+            "B. $107,5\\%×109,5\\%×106,2\\%×104,9\\%-1$": 1,
+            "C. $7,5\\%×9,5\\%×6,2\\%×4,9\\%$": 0,
+            "D. $7,5\\%×9,5\\%×6,2\\%×4,9\\%-1$": 0
+        }
+    },
+    {
+        "input": "Las ventas del primer trimestre de un centro comercial aumentaron un $4\\%$ en comparación con el mismo período del año pasado, y su índice de precios compuesto subió un $5\\%$. Entonces, el crecimiento en el volumen de ventas del centro comercial es ______.\nA. $-0,95\\%$\nB. $-0,96\\%$\nC. $0,96\\%$\nD. $2\\%$",
+        "target_scores": {
+            "A. $-0,95\\%$": 1,
+            "B. $-0,96\\%$": 0,
+            "C. $0,96\\%$": 0,
+            "D. $2\\%$": 0
+        }
+    },
+    {
+        "input": "Si el precio de los productos en el período de informe planea reducirse un $5\\%$ y las ventas planean aumentar un $10\\%$, entonces el volumen de ventas debería ______.\nA. aumentar un $15,79\\%$\nB. aumentar un $15\\%$\nC. reducirse un $5,25\\%$\nD. reducirse un $5\\%$",
+        "target_scores": {
+            "A. aumentar un $15,79\\%$": 1,
+            "B. aumentar un $15\\%$": 0,
+            "C. reducirse un $5,25\\%$": 0,
+            "D. reducirse un $5\\%$": 0
+        }
+    },
+    {
+        "input": "Se sabe que el índice de precios compuesto de las dos acciones que compró Carlos aumentó 24 puntos. El precio promedio de cierre de las acciones hoy es de 14 euros. El precio promedio de cierre de las acciones del día anterior fue ______ euros.\nA. 0,5\nB. 1\nC. 10,64\nD. 11,29",
+        "target_scores": {
+            "A. 0,5": 0,
+            "B. 1": 0,
+            "C. 10,64": 0,
+            "D. 11,29": 1
+        }
+    },
+    {
+        "input": "En un estudio sobre préstamos de ayuda estudiantil, se tomó una muestra aleatoria de $480$ estudiantes. Se obtuvo un saldo promedio de deuda antes de la graduación de $12168$ euros, con una desviación estándar de $2200$ euros. El intervalo de confianza del $95\\%$ para la deuda promedio en la población de estudiantes con préstamos es ______.\nA. $11971$, $12365$\nB. $11971$, $13365$\nC. $11971$, $14365$\nD. $11971$, $15365$",
+        "target_scores": {
+            "A. $11971$, $12365$": 1,
+            "B. $11971$, $13365$": 0,
+            "C. $11971$, $14365$": 0,
+            "D. $11971$, $15365$": 0
+        }
+    },
+    {
+        "input": "Los funcionarios de administración tributaria creen que la mayoría de las empresas cometen evasión fiscal. En una inspección de una muestra aleatoria de $800$ empresas, se encontró que $144$ tenían prácticas de evasión. El intervalo de confianza para la proporción de empresas evasoras, con un nivel de confianza del $99\\%$, se estima como ______.\nA. $0,18±0,015$\nB. $0,18±0,035$\nC. $0,18±0,045$\nD. $0,1±0,025$",
+        "target_scores": {
+            "A. $0,18±0,015$": 0,
+            "B. $0,18±0,035$": 1,
+            "C. $0,18±0,045$": 0,
+            "D. $0,1±0,025$": 0
+        }
+    },
+    {
+        "input": "Se lanza un dado y se observa su resultado. La probabilidad de que el número de puntos sea $1$, $2$, $3$, $4$, $5$ o $6$ es ______.\nA. $0,166666666666667$\nB. $0,25$\nC. $0,5$\nD. $1$",
+        "target_scores": {
+            "A. $0,166666666666667$": 0,
+            "B. $0,25$": 0,
+            "C. $0,5$": 0,
+            "D. $1$": 1
+        }
+    },
+    {
+        "input": "Las ventas de cierto producto aumentaron un $5\\%$ y el precio minorista aumentó un $2\\%$. Entonces, el crecimiento en el volumen de ventas del producto es ______.\nA. $10\\%$\nB. $2,94\\%$\nC. $3\\%$\nD. $7\\%$",
+        "target_scores": {
+            "A. $10\\%$": 0,
+            "B. $2,94\\%$": 1,
+            "C. $3\\%$": 0,
+            "D. $7\\%$": 0
+        }
+    },
+    {
+        "input": "Según los índices estacionales calculados a partir de los datos de ventas trimestrales: primer trimestre $125\\%$, segundo trimestre $70\\%$, tercer trimestre $100\\%$, cuarto trimestre $105\\%$. El más afectado por factores estacionales es ______.\nA. cuarto trimestre\nB. primer trimestre\nC. segundo trimestre\nD. tercer trimestre",
+        "target_scores": {
+            "A. cuarto trimestre": 0,
+            "B. primer trimestre": 0,
+            "C. segundo trimestre": 1,
+            "D. tercer trimestre": 0
+        }
+    },
+    {
+        "input": "El ingreso anual promedio de las familias agrícolas en una región fue de $1500$ euros en 2004. En 2005, aumentó un $8\\%$. Comparando 2005 con 2004, el ingreso adicional por cada aumento de $1$ punto porcentual es ______.\nA. $15$ euros\nB. $40$ euros\nC. $7$ euros\nD. $8$ euros",
+        "target_scores": {
+            "A. $15$ euros": 1,
+            "B. $40$ euros": 0,
+            "C. $7$ euros": 0,
+            "D. $8$ euros": 0
+        }
+    },
+    {
+        "input": "Un investigador universitario desea estimar el gasto mensual promedio en gastos de manutención de los estudiantes universitarios de pregrado. Para ello, encuestó a $200$ estudiantes y encontró que su gasto mensual promedio es de $500$ euros. El parámetro de interés para el investigador es ______.\nA. el gasto mensual promedio de los $200$ estudiantes encuestados\nB. el gasto mensual promedio de todos los estudiantes de pregrado de la universidad\nC. el gasto mensual total de todos los estudiantes de pregrado de la universidad\nD. el número total de estudiantes en la universidad",
+        "target_scores": {
+            "A. el gasto mensual promedio de los $200$ estudiantes encuestados": 0,
+            "B. el gasto mensual promedio de todos los estudiantes de pregrado de la universidad": 1,
+            "C. el gasto mensual total de todos los estudiantes de pregrado de la universidad": 0,
+            "D. el número total de estudiantes en la universidad": 0
+        }
+    },
+    {
+        "input": "La probabilidad de que una persona vaya al trabajo en autobús o metro es 0,3 y 0,7 respectivamente. Cuando toma el autobús, un 30% de los días llega tarde; cuando toma el metro, un 10% de los días llega tarde. Si esta persona llega tarde un día, la probabilidad de que haya tomado el metro es ______.\nA. 0,16\nB. 0,3\nC. 0,44\nD. 0,56",
+        "target_scores": {
+            "A. 0,16": 0,
+            "B. 0,3": 0,
+            "C. 0,44": 1,
+            "D. 0,56": 0
+        }
+    },
+    {
+        "input": "El administrador de una comunidad residencial sospecha que algunos hogares roban electricidad. Para investigar el consumo mensual de electricidad, realizó una encuesta por muestreo a algunos hogares residentes. Se descubrió que algunos hogares reportaron cifras falsas u ocultaron información. Este tipo de error en la encuesta pertenece a ______.\nA. error de no respuesta\nB. error de respuesta\nC. error del encuestador\nD. error del marco muestral",
+        "target_scores": {
+            "A. error de no respuesta": 0,
+            "B. error de respuesta": 1,
+            "C. error del encuestador": 0,
+            "D. error del marco muestral": 0
+        }
+    },
+    {
+        "input": "Los siguientes indicadores: ① tasa de beneficio sobre producción, ② tasa de consumo material, ③ tasa de valor añadido, ④ días de rotación de activos circulantes. Todos los indicadores inversos son ______.\nA. ①③\nB. ②\nC. ②③\nD. ②④",
+        "target_scores": {
+            "A. ①③": 0,
+            "B. ②": 0,
+            "C. ②③": 0,
+            "D. ②④": 1
+        }
+    },
+    {
+        "input": "Una encuesta de opinión pretende determinar los temas que los jóvenes están dispuestos a discutir con sus padres. Los resultados muestran: el 45\\% está dispuesto a hablar sobre la situación financiera familiar, el 38\\% sobre temas educativos y el 15\\%$ sobre asuntos amorosos. Los datos recopilados en esta encuesta son ______.\nA. datos categóricos\nB. datos experimentales\nC. datos numéricos\nD. datos ordinales",
+        "target_scores": {
+            "A. datos categóricos": 1,
+            "B. datos experimentales": 0,
+            "C. datos numéricos": 0,
+            "D. datos ordinales": 0
+        }
+    },
+    {
+        "input": "De tres poblaciones se seleccionaron $4$ observaciones cada una. Se obtuvo una suma de cuadrados entre grupos $SSA=536$ y una suma de cuadrados dentro de los grupos $SSE=828$. Los cuadrados medios entre grupos y dentro de los grupos son respectivamente ______.\nA. $134$, $103$\nB. $179$, $92$\nC. $238$, $92$\nD. $268$, $92$",
+        "target_scores": {
+            "A. $134$, $103$": 0,
+            "B. $179$, $92$": 0,
+            "C. $238$, $92$": 0,
+            "D. $268$, $92$": 1
+        }
+    },
+    {
+        "input": "Según una muestra de calificaciones de exámenes de una clase, el intervalo de confianza del $95\\%$ para la calificación promedio de los estudiantes es de $75$ a $85$ puntos. La calificación promedio de todos los estudiantes ______.\nA. definitivamente está en este intervalo\nB. está dentro o fuera de este intervalo\nC. tiene un $5\\%$ de posibilidad de estar en este intervalo\nD. tiene un $95\\%$ de posibilidad de estar en este intervalo",
+        "target_scores": {
+            "A. definitivamente está en este intervalo": 0,
+            "B. está dentro o fuera de este intervalo": 1,
+            "C. tiene un $5\\%$ de posibilidad de estar en este intervalo": 0,
+            "D. tiene un $95\\%$ de posibilidad de estar en este intervalo": 0
+        }
+    },
+    {
+        "input": "Un estudio encontró que en 2.000, el $40\\%$ de los compradores nuevos de automóviles eran mujeres. En una encuesta de 2005, se seleccionaron aleatoriamente $120$ nuevos propietarios, de los cuales $57$ eran mujeres. Con un nivel de significancia $\\alpha=0{,}05$, para probar si la proporción de mujeres propietarias en 2005 aumentó significativamente, las hipótesis establecidas fueron $H0: π≤40\\%$, $H1: π>40\\%$. La conclusión de la prueba es ______.\nA. no rechazar la hipótesis nula\nB. posiblemente rechazar o no rechazar la hipótesis nula\nC. puede rechazarse o no rechazarse la hipótesis nula\nD. rechazar la hipótesis nula",
+        "target_scores": {
+            "A. no rechazar la hipótesis nula": 0,
+            "B. posiblemente rechazar o no rechazar la hipótesis nula": 0,
+            "C. puede rechazarse o no rechazarse la hipótesis nula": 0,
+            "D. rechazar la hipótesis nula": 1
+        }
+    },
+    {
+        "input": "Una encuesta indica que el $33\\%$ de los encuestados considera que su empresa es muy adecuada para que trabajen mujeres. Suponiendo una proporción poblacional del $33\\%$, con márgenes de error de $10\\%$, $5\\%$, $2\\%$ y $1\\%$, al construir un intervalo de confianza del $95\\%$ para la proporción poblacional, a medida que el margen de error disminuye, el tamaño de la muestra ______.\nA. Aumentará\nB. Disminuirá\nC. No cambia\nD. Podría disminuir o aumentar",
+        "target_scores": {
+            "A. Aumentará": 1,
+            "B. Disminuirá": 0,
+            "C. No cambia": 0,
+            "D. Podría disminuir o aumentar": 0
+        }
+    },
+    {
+        "input": "Los índices de volumen de ventas de tres tipos de aires acondicionados, tomando el año pasado como período base y este año como período de informe, son 106%. Las ventas este año aumentaron un 8% respecto al año pasado. Entonces ______.\nA. El aumento de precios elevó las ventas en 101,89%\nB. El aumento de precios elevó las ventas en 14,48%\nC. El índice de precios compuesto de los tres tipos es 101,89%\nD. Los precios de los tres tipos de aires acondicionados subieron",
+        "target_scores": {
+            "A. El aumento de precios elevó las ventas en 101,89%": 0,
+            "B. El aumento de precios elevó las ventas en 14,48%": 0,
+            "C. El índice de precios compuesto de los tres tipos es 101,89%": 1,
+            "D. Los precios de los tres tipos de aires acondicionados subieron": 0
+        }
+    },
+    {
+        "input": "Para entender el interés de las mujeres en comprar una marca específica de cosméticos, los encuestadores detuvieron aleatoriamente a mujeres en la calle. Este método de encuesta es ______.\nA. Muestreo aleatorio simple\nB. Muestreo estratificado\nC. Muestreo por conveniencia\nD. Muestreo voluntario",
+        "target_scores": {
+            "A. Muestreo aleatorio simple": 0,
+            "B. Muestreo estratificado": 0,
+            "C. Muestreo por conveniencia": 1,
+            "D. Muestreo voluntario": 0
+        }
+    },
+    {
+        "input": "Las ventas de un centro comercial en 2009 comparadas con 2008 fueron del 120%, mientras que el nivel de precios bajó un 2% en el mismo período. El índice de volumen de ventas del centro comercial es ______.\nA. 1.18\nB. 1.33\nC. 122,4%\nD. 123,5%",
+        "target_scores": {
+            "A. 1.18": 0,
+            "B. 1.33": 0,
+            "C. 122,4%": 1,
+            "D. 123,5%": 0
+        }
+    },
+    {
+        "input": "Una cafetería de una universidad registró las ventas diarias de los últimos $5$ años. La media diaria fue de $2.500$ euros con una desviación estándar de $400$ euros. Debido a ventas excepcionalmente altas en ciertos festivos, la distribución de las ventas diarias está sesgada a la derecha. Si se seleccionan aleatoriamente $100$ días de estos $5$ años y se calcula la media de ventas, la distribución muestral de la media será ______.\nA. Distribución normal, media $2.500$ euros, desviación estándar $40$ euros\nB. Distribución normal, media $2.500$ euros, desviación estándar $400$ euros\nC. Distribución normal, media $250$ euros, desviación estándar $40$ euros\nD. Sesgada a la derecha, media $2.500$ euros, desviación estándar $400$ euros",
+        "target_scores": {
+            "A. Distribución normal, media $2.500$ euros, desviación estándar $40$ euros": 1,
+            "B. Distribución normal, media $2.500$ euros, desviación estándar $400$ euros": 0,
+            "C. Distribución normal, media $250$ euros, desviación estándar $40$ euros": 0,
+            "D. Sesgada a la derecha, media $2.500$ euros, desviación estándar $400$ euros": 0
+        }
+    },
+    {
+        "input": "En las calificaciones de un curso de 15 estudiantes, el puntaje de 70 aparece 3 veces, 80 aparece 4 veces, 85 aparece 6 veces y 90 aparece 2 veces. La moda de sus calificaciones es ______.\nA. 80\nB. 81,3\nC. 85\nD. 90",
+        "target_scores": {
+            "A. 80": 0,
+            "B. 81,3": 0,
+            "C. 85": 1,
+            "D. 90": 0
+        }
+    },
+    {
+        "input": "Se extrajo una muestra aleatoria de 290 profesores y se les pidió que expresaran su actitud hacia ciertas afirmaciones. La primera afirmación fue: \"Los estudiantes mayores participan más activamente en discusiones en clase que los más jóvenes\". Las actitudes se midieron en una escala de 5 puntos: 1=muy de acuerdo; 2=de acuerdo; 3=neutral; 4=en desacuerdo; 5=muy en desacuerdo. Para esta afirmación, la puntuación promedio de actitud en la muestra fue 1,94 con una desviación estándar de 0,92. El intervalo de confianza del 98% para la puntuación promedio de actitud de los profesores hacia esta afirmación es ______.\nA. 1,94±0,13\nB. 1,94±1,13\nC. 1,94±1,96\nD. 1,94±2,58",
+        "target_scores": {
+            "A. 1,94±0,13": 1,
+            "B. 1,94±1,13": 0,
+            "C. 1,94±1,96": 0,
+            "D. 1,94±2,58": 0
+        }
+    },
+    {
+        "input": "Una universidad tiene $10.000$ estudiantes. En una muestra aleatoria de $1.000$, $300$ expresaron opiniones críticas sobre la gestión de la escuela. La estimación puntual del número total de estudiantes con opiniones críticas hacia la gestión de la escuela es ______.\nA. $1.000$\nB. $3.000$\nC. $30$\nD. $300$",
+        "target_scores": {
+            "A. $1.000$": 0,
+            "B. $3.000$": 1,
+            "C. $30$": 0,
+            "D. $300$": 0
+        }
+    },
+    {
+        "input": "Si el coeficiente de asimetría de una distribución de datos está entre 0,5 a 1 o -1 a -0,5, esto indica que los datos pertenecen a ______.\nA. distribución altamente sesgada\nB. distribución ligeramente sesgada\nC. distribución moderadamente sesgada\nD. distribución simétrica",
+        "target_scores": {
+            "A. distribución altamente sesgada": 0,
+            "B. distribución ligeramente sesgada": 0,
+            "C. distribución moderadamente sesgada": 1,
+            "D. distribución simétrica": 0
+        }
+    },
+    {
+        "input": "Los datos de ventas mensuales (en 10.000 euros) de $10$ empresas son: $72$, $63$, $54$, $54$, $29$, $26$, $25$, $23$, $23$, $20$. ¿Cuál de los siguientes gráficos no es adecuado para describir estos datos? ______\nA. Diagrama de dispersión\nB. Diagrama de tallo y hojas\nC. Gráfico circular\nD. Gráfico de barras",
+        "target_scores": {
+            "A. Diagrama de dispersión": 1,
+            "B. Diagrama de tallo y hojas": 0,
+            "C. Gráfico circular": 0,
+            "D. Gráfico de barras": 0
+        }
+    },
+    {
+        "input": "En el análisis de series temporales de ventas de suéteres, si el índice estacional del tercer trimestre supera el $100\\%$, indica que las ventas de suéteres en ese trimestre ______.\nA. Están influenciadas por factores estacionales\nB. No están afectadas por la estacionalidad\nC. Pertenecen a la temporada alta\nD. Pertenecen a la temporada baja",
+        "target_scores": {
+            "A. Están influenciadas por factores estacionales": 0,
+            "B. No están afectadas por la estacionalidad": 0,
+            "C. Pertenecen a la temporada alta": 1,
+            "D. Pertenecen a la temporada baja": 0
+        }
+    },
+    {
+        "input": "Una tienda departamental ha aumentado los precios de todos sus productos en un promedio del $10\\%$ este año en comparación con el año pasado, mientras que el volumen de ventas promedio disminuyó un $10\\%$. Entonces, las ventas totales de productos ______.\nA. Aumentaron\nB. Disminuyeron\nC. Permanecieron igual\nD. Podrían aumentar o disminuir",
+        "target_scores": {
+            "A. Aumentaron": 0,
+            "B. Disminuyeron": 1,
+            "C. Permanecieron igual": 0,
+            "D. Podrían aumentar o disminuir": 0
+        }
+    },
+    {
+        "input": "El promedio de calificaciones de un grupo de estudiantes es de 80 puntos con una desviación estándar de 5 puntos. Si se sabe que la distribución de las calificaciones es asimétrica, se puede concluir que al menos ______ de los estudiantes tienen calificaciones entre 70 y 90 puntos.\nA. 0.68\nB. 0.75\nC. 0.89\nD. 0.95",
+        "target_scores": {
+            "A. 0.68": 0,
+            "B. 0.75": 1,
+            "C. 0.89": 0,
+            "D. 0.95": 0
+        }
+    },
+    {
+        "input": "De una población binomial se extrajo una muestra aleatoria de $n=125$ con $p=0{,}73$. Con un nivel de significancia $α=0{,}01$, para probar las hipótesis $H0: π=0{,}73$, $H1: π≠0{,}73$, la conclusión obtenida es ______.\nA. No rechazar la hipótesis nula\nB. Posiblemente rechazar o no rechazar la hipótesis nula\nC. Puede rechazarse o no rechazarse la hipótesis nula\nD. Rechazar la hipótesis nula",
+        "target_scores": {
+            "A. No rechazar la hipótesis nula": 1,
+            "B. Posiblemente rechazar o no rechazar la hipótesis nula": 0,
+            "C. Puede rechazarse o no rechazarse la hipótesis nula": 0,
+            "D. Rechazar la hipótesis nula": 0
+        }
+    },
+    {
+        "input": "Una encuesta indicó que hace 5 años el tiempo promedio diario de televisión por familia era de $6,7$ horas. En una encuesta reciente a $200$ familias, el promedio fue de $7,25$ horas con una desviación estándar de $2,5$ horas. Con $\\alpha=0,05$, al probar las hipótesis $H0: μ≤6,7$, $H1: μ＞6,7$, la conclusión es ______.\nA. No rechazar $H0$\nB. Posiblemente rechazar o no rechazar $H0$\nC. Puede rechazarse o no rechazarse $H0$\nD. Rechazar $H0$",
+        "target_scores": {
+            "A. No rechazar $H0$": 0,
+            "B. Posiblemente rechazar o no rechazar $H0$": 0,
+            "C. Puede rechazarse o no rechazarse $H0$": 0,
+            "D. Rechazar $H0$": 1
+        }
+    },
+    {
+        "input": "Sea $p$ el precio de un producto y $q$ su volumen de ventas. El índice $\\frac{\\sum p_0q_1}{\\sum p_0q_0}$ refleja de manera integral ______.\nA. El grado de variación de las ventas totales\nB. La influencia combinada de precios y volumen en las ventas\nC. La influencia de los cambios de precios en las ventas\nD. La influencia de los cambios en el volumen de ventas en las ventas",
+        "target_scores": {
+            "A. El grado de variación de las ventas totales": 0,
+            "B. La influencia combinada de precios y volumen en las ventas": 0,
+            "C. La influencia de los cambios de precios en las ventas": 0,
+            "D. La influencia de los cambios en el volumen de ventas en las ventas": 1
+        }
+    },
+    {
+        "input": "El departamento de RRHH de una empresa de desarrollo de software realizó una encuesta y encontró que, en los últimos dos años, el 40% de los empleados que renunciaron lo hicieron por insatisfacción salarial, el 30% por insatisfacción laboral y el 15% por ambas razones. Sean A=renuncia por salario y B=renuncia por trabajo. La probabilidad de que un empleado renuncie por salario, trabajo o ambos en dos años es ______.\nA. 0,15\nB. 0,30\nC. 0,40\nD. 0,55",
+        "target_scores": {
+            "A. 0,15": 0,
+            "B. 0,30": 0,
+            "C. 0,40": 0,
+            "D. 0,55": 1
+        }
+    },
+    {
+        "input": "En una encuesta nacional a gran escala, se planea extraer aleatoriamente 1 000 personas de cada una de las 31 provincias de un cierto país. Esta forma de muestreo se denomina ______.\nA. Muestreo aleatorio simple\nB. Muestreo en dos etapas\nC. Muestreo estratificado\nD. Muestreo por conglomerados",
+        "target_scores": {
+            "A. Muestreo aleatorio simple": 0,
+            "B. Muestreo en dos etapas": 0,
+            "C. Muestreo estratificado": 1,
+            "D. Muestreo por conglomerados": 0
+        }
+    },
+    {
+        "input": "Una institución investiga el tiempo semanal que los estudiantes dedican a ver televisión. Se encuestó aleatoriamente a 300 padres de estudiantes primarios, quienes estimaron un promedio de 15 horas semanales con desviación estándar de 5 horas. El método de recolección de datos utilizado es ______.\nA. Datos de acceso público\nB. Encuesta de muestreo probabilístico\nC. Encuesta experimental\nD. Encuesta observacional",
+        "target_scores": {
+            "A. Datos de acceso público": 0,
+            "B. Encuesta de muestreo probabilístico": 1,
+            "C. Encuesta experimental": 0,
+            "D. Encuesta observacional": 0
+        }
+    },
+    {
+        "input": "Para investigar los gastos en libros de estudiantes de una universidad, se seleccionaron 60 hombres y 40 mujeres. Este método de muestreo es ______.\nA. Muestreo aleatorio simple\nB. Muestreo estratificado\nC. Muestreo por conglomerados\nD. Muestreo sistemático",
+        "target_scores": {
+            "A. Muestreo aleatorio simple": 0,
+            "B. Muestreo estratificado": 1,
+            "C. Muestreo por conglomerados": 0,
+            "D. Muestreo sistemático": 0
+        }
+    },
+    {
+        "input": "Para estimar la proporción de familias con automóvil en una ciudad, se extrajo una muestra de 500 familias. Se obtuvo que el $35\\%$ posee automóvil. Este $35\\%$ es ______.\nA. el tamaño de la muestra\nB. el valor del estadístico\nC. el valor del parámetro\nD. una variable",
+        "target_scores": {
+            "A. el tamaño de la muestra": 0,
+            "B. el valor del estadístico": 1,
+            "C. el valor del parámetro": 0,
+            "D. una variable": 0
+        }
+    },
+    {
+        "input": "Suponga que el subsidio por horas extras semanales de los empleados de una empresa sigue una distribución normal con media de 50 euros y desviación estándar de 10 euros. La proporción de empleados cuyo subsidio semanal está entre 40 y 60 euros es ______.\nA. 0,0228\nB. 0,3174\nC. 0,6826\nD. 0,9772",
+        "target_scores": {
+            "A. 0,0228": 0,
+            "B. 0,3174": 0,
+            "C. 0,6826": 1,
+            "D. 0,9772": 0
+        }
+    },
+    {
+        "input": "Sean las variables aleatorias $X1$, $X2$, ..., $Xn$ independientes, y $Sn=X1+X2+…+Xn$. Según el teorema central del límite de Lévy-Lindeberg, cuando $n$ es suficientemente grande, $Sn$ se aproxima a una distribución normal, siempre que $X1$, $X2$, ..., $Xn$ ______.\nA. sigan la misma distribución continua\nB. sigan la misma distribución discreta\nC. sigan la misma distribución exponencial\nD. tengan la misma esperanza y varianza",
+        "target_scores": {
+            "A. sigan la misma distribución continua": 0,
+            "B. sigan la misma distribución discreta": 0,
+            "C. sigan la misma distribución exponencial": 1,
+            "D. tengan la misma esperanza y varianza": 0
+        }
+    },
+    {
+        "input": "En 2006, en comparación con 2005, los ingresos por ventas de una tienda aumentaron un 16 % y el volumen de ventas aumentó un 18 %. El cambio porcentual en el precio de venta es ______.\nA. -1,7%\nB. -3,7%\nC. 1,7%\nD. 3,7%",
+        "target_scores": {
+            "A. -1,7%": 1,
+            "B. -3,7%": 0,
+            "C. 1,7%": 0,
+            "D. 3,7%": 0
+        }
+    },
+    {
+        "input": "Se estima que en una región pobre el 20% de la población sufre desnutrición. Sin embargo, algunos argumentan que esta proporción es mayor. Para verificar esta afirmación, la formulación de hipótesis es ______.\nA. $H0: \\pi=0{,}2$, $H1: \\pi≠0{,}2$\nB. $H0: \\pi≤0{,}2$, $H1: \\pi>0{,}2$\nC. $H0: \\pi≥0{,}3$, $H1: \\pi<0{,}3$\nD. $H0: \\pi＞0{,}3$, $H1: \\pi=0{,}3$",
+        "target_scores": {
+            "A. $H0: \\pi=0{,}2$, $H1: \\pi≠0{,}2$": 0,
+            "B. $H0: \\pi≤0{,}2$, $H1: \\pi>0{,}2$": 1,
+            "C. $H0: \\pi≥0{,}3$, $H1: \\pi<0{,}3$": 0,
+            "D. $H0: \\pi＞0{,}3$, $H1: \\pi=0{,}3$": 0
+        }
+    },
+    {
+        "input": "Al realizar una prueba de hipótesis sobre la esperanza matemática μ de una población normal, si se acepta $H0: μ=μ0$ con un nivel de significancia de 0,05, entonces bajo un nivel de significancia de 0,01, la conclusión correcta es ______.\nA. Aceptar la hipótesis\nB. Ni aceptar ni rechazar la hipótesis\nC. Podría aceptarse o rechazarse la hipótesis\nD. Rechazar la hipótesis",
+        "target_scores": {
+            "A. Aceptar la hipótesis": 1,
+            "B. Ni aceptar ni rechazar la hipótesis": 0,
+            "C. Podría aceptarse o rechazarse la hipótesis": 0,
+            "D. Rechazar la hipótesis": 0
+        }
+    },
+    {
+        "input": "Una empresa de investigación recibió el encargo de evaluar el grado de satisfacción con un cosmético, usando una escala de 0 (totalmente insatisfecho) a 20 (muy satisfecho). Se seleccionaron aleatoriamente 36 consumidores, obteniendo una puntuación promedio de 12 con desviación estándar de 3. La estimación del intervalo de confianza del 95\\% para la media poblacional es ______.\nA. 11 a 13 puntos\nB. 12 a 14 puntos\nC. 6 a 18 puntos\nD. 9 a 15 puntos",
+        "target_scores": {
+            "A. 11 a 13 puntos": 1,
+            "B. 12 a 14 puntos": 0,
+            "C. 6 a 18 puntos": 0,
+            "D. 9 a 15 puntos": 0
+        }
+    },
+    {
+        "input": "Un supermercado realizó una encuesta: el 80\\% de los clientes compra alimentos, el 60\\% compra otros productos y el 35\\% compra ambos. Sean A=compra alimentos y B=compra otros productos. La probabilidad de que un cliente compre otros productos dado que compra alimentos es ______.\nA. 0,35\nB. 0,4375\nC. 0,6\nD. 0,8",
+        "target_scores": {
+            "A. 0,35": 0,
+            "B. 0,4375": 1,
+            "C. 0,6": 0,
+            "D. 0,8": 0
+        }
+    },
+    {
+        "input": "Un informe reciente afirma: \"Una muestra de 150 autos nuevos muestra que los precios de autos extranjeros son significativamente más altos que los nacionales\". Esta conclusión pertenece a ______.\nA. Descripción de la muestra\nB. Descripción de la población\nC. Inferencia sobre la muestra\nD. Inferencia sobre la población",
+        "target_scores": {
+            "A. Descripción de la muestra": 0,
+            "B. Descripción de la población": 0,
+            "C. Inferencia sobre la muestra": 0,
+            "D. Inferencia sobre la población": 1
+        }
+    },
+    {
+        "input": "El coeficiente de variación de un conjunto de datos es 0,4, con una media de 20. Entonces, la desviación estándar es ______.\nA. 0,02\nB. 4\nC. 8\nD. 80",
+        "target_scores": {
+            "A. 0,02": 0,
+            "B. 4": 0,
+            "C. 8": 1,
+            "D. 80": 0
+        }
+    },
+    {
+        "input": "Una empresa investigó el tiempo promedio diario que sus empleados dedican al transporte. Preguntó a 10 empleados: el tiempo promedio fue de 3,2 horas con desviación estándar de 0,9 horas. Si el intervalo de confianza es (2,2, 4,2), el nivel de confianza ______.\nA. 0,05>α>0,01\nB. α <0,01\nC. α >0,05\nD. α>0,025",
+        "target_scores": {
+            "A. 0,05>α>0,01": 0,
+            "B. α <0,01": 1,
+            "C. α >0,05": 0,
+            "D. α>0,025": 0
+        }
+    },
+    {
+        "input": "De una población de 200.000 estudiantes universitarios, se tomó una muestra aleatoria simple de 500. Se encontró que 320 habían participado en clubes estudiantiles. Con una confianza del 95,45%, se puede concluir que la proporción de estudiantes que participaron en clubes supera ______.\nA. 0.55\nB. 0.62\nC. 0.68\nD. 0.7",
+        "target_scores": {
+            "A. 0.55": 0,
+            "B. 0.62": 0,
+            "C. 0.68": 1,
+            "D. 0.7": 0
+        }
+    },
+    {
+        "input": "De una población normal infinita, se extrajeron muestras de tamaños 4, 16 y 36. Al aumentar el tamaño muestral, la desviación estándar de la media muestral ______.\nA. Aumenta\nB. Disminuye\nC. No se puede determinar\nD. Permanece constante",
+        "target_scores": {
+            "A. Aumenta": 0,
+            "B. Disminuye": 1,
+            "C. No se puede determinar": 0,
+            "D. Permanece constante": 0
+        }
+    },
+    {
+        "input": "En una encuesta en línea de 1998 con 7.553 participantes, 4.381 opinaron que el fiscal del \"Caso Whitewater\" debería interrogar a todos los testigos posibles, incluidos los asistentes del presidente Clinton. ¿Qué conclusión se deduce? ______.\nA. Los datos no prueban que la mayoría cree que el fiscal debería interrogar a todos, incluidos los asistentes del presidente Clinton\nB. Los datos no prueban que la mayoría cree que el fiscal no debería interrogar a todos, incluidos los asistentes del presidente Clinton\nC. Los datos prueban que la mayoría cree que el fiscal no debería interrogar a todos, incluidos los asistentes del presidente Clinton\nD. Los datos prueban que la mayoría cree que el fiscal sí debería interrogar a todos, incluidos los asistentes del presidente Clinton",
+        "target_scores": {
+            "A. Los datos no prueban que la mayoría cree que el fiscal debería interrogar a todos, incluidos los asistentes del presidente Clinton": 0,
+            "B. Los datos no prueban que la mayoría cree que el fiscal no debería interrogar a todos, incluidos los asistentes del presidente Clinton": 0,
+            "C. Los datos prueban que la mayoría cree que el fiscal no debería interrogar a todos, incluidos los asistentes del presidente Clinton": 0,
+            "D. Los datos prueban que la mayoría cree que el fiscal sí debería interrogar a todos, incluidos los asistentes del presidente Clinton": 1
+        }
+    },
+    {
+        "input": "Suponiendo que otras condiciones permanecen constantes, si se reduce $\\alpha$ del $5\\%$ al $2{,}5\\%$, el ancho del intervalo de confianza de nivel $1-\\alpha$ para la media poblacional $\\mu$ ______.\nA. Aumentará\nB. Disminuirá\nC. No cambiará\nD. Podría aumentar o disminuir",
+        "target_scores": {
+            "A. Aumentará": 1,
+            "B. Disminuirá": 0,
+            "C. No cambiará": 0,
+            "D. Podría aumentar o disminuir": 0
+        }
+    },
+    {
+        "input": "La desviación estándar del alquiler mensual de oficinas en una región es de 80 euros. Para estimar un intervalo de confianza del 95% para la media poblacional con un margen de error deseado de 25 euros, el tamaño de muestra requerido es ______.\nA. 20\nB. 30\nC. 40\nD. 50",
+        "target_scores": {
+            "A. 20": 0,
+            "B. 30": 0,
+            "C. 40": 1,
+            "D. 50": 0
+        }
+    },
+    {
+        "input": "El departamento ambiental desea probar si el uso diario promedio de envases desechables en restaurantes excede los 600 unidades. Las hipótesis nula y alternativa deben ser ______.\nA. $H_0: \\mu = 600$, $H_1: \\mu \\neq 600$\nB. $H_0: \\mu \\geq 600$, $H_1: \\mu < 600$\nC. $H_0: \\mu \\leq 600$, $H_1: \\mu > 600$\nD. $H_0: \\mu \\neq 600$, $H_1: \\mu = 600$",
+        "target_scores": {
+            "A. $H_0: \\mu = 600$, $H_1: \\mu \\neq 600$": 0,
+            "B. $H_0: \\mu \\geq 600$, $H_1: \\mu < 600$": 0,
+            "C. $H_0: \\mu \\leq 600$, $H_1: \\mu > 600$": 1,
+            "D. $H_0: \\mu \\neq 600$, $H_1: \\mu = 600$": 0
+        }
+    },
+    {
+        "input": "Para probar si existe una relación lineal aproximada entre la presión arterial y la edad, se realizó un muestreo aleatorio en grupos de edades: 0-20, 20-30, 30-40, 40-50, 50-60 y mayores de 60. Este método de muestreo se clasifica como ______.\nA. Muestreo estratificado\nB. Muestreo por conglomerados\nC. Muestreo simple\nD. Muestreo sistemático",
+        "target_scores": {
+            "A. Muestreo estratificado": 1,
+            "B. Muestreo por conglomerados": 0,
+            "C. Muestreo simple": 0,
+            "D. Muestreo sistemático": 0
+        }
+    },
+    {
+        "input": "Una encuesta indica que los empleados de empresas extranjeras trabajan en promedio 52 horas semanales. Con una muestra aleatoria de 650 empleados y una desviación estándar de 8,2 horas, el intervalo de confianza del 95% para el promedio de horas semanales es ______.\nA. (50,37; 52,63)\nB. (51,37; 52,63)\nC. (51,37; 53,63)\nD. (52,37; 53,63)",
+        "target_scores": {
+            "A. (50,37; 52,63)": 0,
+            "B. (51,37; 52,63)": 1,
+            "C. (51,37; 53,63)": 0,
+            "D. (52,37; 53,63)": 0
+        }
+    },
+    {
+        "input": "Una institución de investigación tomó una muestra aleatoria de 500 profesionales de TI. El 60\\% reportó ingresos mensuales superiores a 5.000 euros, y el 50\\% indicó que usa tarjetas de crédito para pagos. La población aquí es ______.\nA. los 500 profesionales de TI muestreados\nB. los ingresos totales de los profesionales de TI\nC. los métodos de pago de los profesionales de TI\nD. todos los profesionales de TI",
+        "target_scores": {
+            "A. los 500 profesionales de TI muestreados": 0,
+            "B. los ingresos totales de los profesionales de TI": 0,
+            "C. los métodos de pago de los profesionales de TI": 0,
+            "D. todos los profesionales de TI": 1
+        }
+    },
+    {
+        "input": "En los lados AB y AC de un triángulo △ABC se toman puntos P y Q al azar respectivamente. La esperanza matemática del área del cuadrilátero PBCQ es igual a ______ del área de △ABC.\nA. \\frac{1}{2}\nB. \\frac{2}{3}\nC. \\frac{3}{4}\nD. \\frac{4}{5}",
+        "target_scores": {
+            "A. \\frac{1}{2}": 0,
+            "B. \\frac{2}{3}": 0,
+            "C. \\frac{3}{4}": 1,
+            "D. \\frac{4}{5}": 0
+        }
+    },
+    {
+        "input": "La calificación promedio en estadística de un grupo es 70 puntos, con máxima de 96 y mínima de 62. Con esta información, la medida de dispersión calculable es ______.\nA. coeficiente de variación\nB. desviación estándar\nC. rango\nD. varianza",
+        "target_scores": {
+            "A. coeficiente de variación": 0,
+            "B. desviación estándar": 0,
+            "C. rango": 1,
+            "D. varianza": 0
+        }
+    },
+    {
+        "input": "Un nuevo producto experimenta rápido crecimiento inicial en demanda, pero al aproximarse a la saturación del mercado, su demanda se estabiliza. ¿Qué curva es más adecuada para describir esta tendencia? ______.\nA. Curva cuadrática\nB. Curva de Gompertz\nC. Curva exponencial modificada\nD. Línea de tendencia recta",
+        "target_scores": {
+            "A. Curva cuadrática": 0,
+            "B. Curva de Gompertz": 0,
+            "C. Curva exponencial modificada": 1,
+            "D. Línea de tendencia recta": 0
+        }
+    },
+    {
+        "input": "Para describir tendencias en datos de series temporales, el gráfico usualmente empleado es ______.\nA. diagrama de caja\nB. gráfico de barras\nC. gráfico de líneas\nD. histograma",
+        "target_scores": {
+            "A. diagrama de caja": 0,
+            "B. gráfico de barras": 0,
+            "C. gráfico de líneas": 1,
+            "D. histograma": 0
+        }
+    },
+    {
+        "input": "Se extrajo una muestra aleatoria de 400 personas, donde el 26\\% de los usuarios de internet son mujeres. El intervalo de confianza del 95\\% para la proporción de mujeres usuarias es ______.\nA. (0,117; 0,403)\nB. (0,117; 0,503)\nC. (0,217; 0,303)\nD. (0,217; 0,403)",
+        "target_scores": {
+            "A. (0,117; 0,403)": 0,
+            "B. (0,117; 0,503)": 0,
+            "C. (0,217; 0,303)": 1,
+            "D. (0,217; 0,403)": 0
+        }
+    },
+    {
+        "input": "Al clasificar los ingresos mensuales de empleados de una empresa en grupos: menos de 2.000 euros, 2.000-3.000, 3.000-4.000, 4.000-5.000, y más de 5.000. Los puntos medios aproximados del primer y último grupo son ______.\nA. 1.000 y 5.500\nB. 1.000 y 6.500\nC. 1.500 y 5.500\nD. 1.500 y 6.500",
+        "target_scores": {
+            "A. 1.000 y 5.500": 0,
+            "B. 1.000 y 6.500": 0,
+            "C. 1.500 y 5.500": 1,
+            "D. 1.500 y 6.500": 0
+        }
+    },
+    {
+        "input": "En una prueba $t$ de una muestra, si la hipótesis alternativa es que la media poblacional $>1.000$, esto corresponde a ______.\nA. prueba bilateral\nB. prueba de cola derecha\nC. prueba de dos colas\nD. una distribución",
+        "target_scores": {
+            "A. prueba bilateral": 0,
+            "B. prueba de cola derecha": 1,
+            "C. prueba de dos colas": 0,
+            "D. una distribución": 0
+        }
+    },
+    {
+        "input": "1.000 estudiantes tomaron un examen con media de 82 puntos y desviación estándar de 8. Al extraer una muestra aleatoria de 100 estudiantes, la esperanza matemática de la media muestral y el error estándar de la distribución son respectivamente ______.\nA. 82, 0,8\nB. 82, 64\nC. 82, 8\nD. 86, 1",
+        "target_scores": {
+            "A. 82, 0,8": 1,
+            "B. 82, 64": 0,
+            "C. 82, 8": 0,
+            "D. 86, 1": 0
+        }
+    },
+    {
+        "input": "Los salarios de empleados de una empresa se dividen en grupos: (1) menos de $800$ euros; (2) $800$-$1.000$; (3) $1.000$-$1.500$; (4) más de $1.500$. El punto medio aproximado del grupo \"más de $1.500$\" es ______ euros.\nA. $1.500$\nB. $1.600$\nC. $1.750$\nD. $2.000$",
+        "target_scores": {
+            "A. $1.500$": 0,
+            "B. $1.600$": 0,
+            "C. $1.750$": 1,
+            "D. $2.000$": 0
+        }
+    },
+    {
+        "input": "Se conoce que la suma de cuadrados de regresión SSR=4.854 y la suma de cuadrados residual SSE=146. Entonces, el coeficiente de determinación R2= ______.\nA. 2,92%\nB. 3,01%\nC. 33,25%\nD. 97,08%",
+        "target_scores": {
+            "A. 2,92%": 0,
+            "B. 3,01%": 0,
+            "C. 33,25%": 0,
+            "D. 97,08%": 1
+        }
+    },
+    {
+        "input": "Encontrar estacionamiento en centros comerciales se ha vuelto difícil. Los administradores desean conocer el tiempo promedio que los clientes tardan en encontrar plaza. Para ello, un administrador registró el tiempo de $50$ clientes. La población de interés aquí es ______.\nA. clientes que estacionan en el aparcamiento por la tarde\nB. clientes que estacionan por la mañana\nC. todos los clientes que compran en el centro comercial\nD. todos los clientes que estacionan en el centro comercial",
+        "target_scores": {
+            "A. clientes que estacionan en el aparcamiento por la tarde": 0,
+            "B. clientes que estacionan por la mañana": 0,
+            "C. todos los clientes que compran en el centro comercial": 0,
+            "D. todos los clientes que estacionan en el centro comercial": 1
+        }
+    },
+    {
+        "input": "Sean $F_1(X)$ y $F_2(X)$ las funciones de distribución de las variables aleatorias $X_1$ y $X_2$ respectivamente. Para que $F(X)=aF_1(X)-bF_2(X)$ sea una función de distribución válida, se debe tomar ____.\nA. $a = 1/2$, $b= -3/2$\nB. $a =2/5$, $b =2/3$\nC. $a =3/5$, $b= -2/5$\nD. $a= -1/2$, $b=3/2$",
+        "target_scores": {
+            "A. $a = 1/2$, $b= -3/2$": 0,
+            "B. $a =2/5$, $b =2/3$": 0,
+            "C. $a =3/5$, $b= -2/5$": 1,
+            "D. $a= -1/2$, $b=3/2$": 0
+        }
+    },
+    {
+        "input": "Sea $(\\xi, \\eta)$ una variable aleatoria bidimensional con $D\\xi>0$ y $D\\eta>0$. ¿Cuál de las siguientes igualdades es correcta? ____.\nA. $D(2\\xi+3\\eta)=2D(\\xi)+3D(\\eta)+12Cov(\\xi,\\eta)$\nB. $D(2\\xi+3\\eta)=4D(\\xi)+9D(\\eta)$\nC. $E(2\\xi+3\\eta)=2E(\\xi)+3E(\\eta)$\nD. $E(2\\xi\\cdot3\\eta)=2E(\\xi)\\cdot3E(\\eta)$",
+        "target_scores": {
+            "A. $D(2\\xi+3\\eta)=2D(\\xi)+3D(\\eta)+12Cov(\\xi,\\eta)$": 0,
+            "B. $D(2\\xi+3\\eta)=4D(\\xi)+9D(\\eta)$": 0,
+            "C. $E(2\\xi+3\\eta)=2E(\\xi)+3E(\\eta)$": 1,
+            "D. $E(2\\xi\\cdot3\\eta)=2E(\\xi)\\cdot3E(\\eta)$": 0
+        }
+    },
+    {
+        "input": "Una empresa tiene 2.000 empleados con salario promedio mensual de 2.500 euros y desviación estándar de 500 euros. Suponiendo que los salarios siguen una distribución normal, el número aproximado de empleados con salarios entre 2.000 y 3.000 euros es ______.\nA. 1.360 personas\nB. 1.550 personas\nC. 1.750 personas\nD. 1.950 personas",
+        "target_scores": {
+            "A. 1.360 personas": 1,
+            "B. 1.550 personas": 0,
+            "C. 1.750 personas": 0,
+            "D. 1.950 personas": 0
+        }
+    },
+    {
+        "input": "Sea $z_c$ el valor calculado del estadístico de prueba. Para las hipótesis $H_0: \\mu \\leq \\mu_0$ y $H_1: \\mu > \\mu_0$, cuando $z_c = 1{,}645$, el valor $P$ calculado es ____.\nA. 0,0025\nB. 0,01\nC. 0,025\nD. 0,05",
+        "target_scores": {
+            "A. 0,0025": 0,
+            "B. 0,01": 0,
+            "C. 0,025": 0,
+            "D. 0,05": 1
+        }
+    },
+    {
+        "input": "En una prueba de habilidades informáticas realizada por una empresa, los nuevos empleados tienen una puntuación promedio de 80 puntos, una desviación estándar de 5 puntos y una mediana de 86 puntos. La forma de la distribución de las puntuaciones es ______.\nA. indeterminable\nB. sesgada a la derecha\nC. sesgada a la izquierda\nD. simétrica",
+        "target_scores": {
+            "A. indeterminable": 0,
+            "B. sesgada a la derecha": 0,
+            "C. sesgada a la izquierda": 1,
+            "D. simétrica": 0
+        }
+    },
+    {
+        "input": "Una encuesta muestra que, entre 1.000 consumidores seleccionados, el gasto mensual promedio en compras en línea es de 200 euros, y su principal razón para comprar en línea es \"precios bajos\". El parámetro aquí es ____.\nA. el gasto promedio de los 1.000 consumidores\nB. el gasto promedio de todos los consumidores que compran en línea\nC. los 1.000 consumidores\nD. todos los consumidores que compran en línea",
+        "target_scores": {
+            "A. el gasto promedio de los 1.000 consumidores": 0,
+            "B. el gasto promedio de todos los consumidores que compran en línea": 1,
+            "C. los 1.000 consumidores": 0,
+            "D. todos los consumidores que compran en línea": 0
+        }
+    },
+    {
+        "input": "La Facultad de Economía y Gestión de una universidad tiene 1.200 estudiantes, la Facultad de Derecho tiene 800, la Facultad de Medicina tiene 320 y la Facultad de Ciencias tiene 200. En esta descripción, la moda es ______.\nA. 1200\nB. 200\nC. La Facultad de Ciencias\nD. La Facultad de Economía y Gestión",
+        "target_scores": {
+            "A. 1200": 0,
+            "B. 200": 0,
+            "C. La Facultad de Ciencias": 0,
+            "D. La Facultad de Economía y Gestión": 1
+        }
+    },
+    {
+        "input": "En una industria, se seleccionaron aleatoriamente 10 empresas. Las ganancias del primer trimestre (en millones de euros) fueron: 72, 63, 54,7, 54,3, 29, 26,9, 25, 23,9, 23, 20. La mediana de estos datos es ______.\nA. 27,95\nB. 28,12\nC. 28,46\nD. 30,2",
+        "target_scores": {
+            "A. 27,95": 1,
+            "B. 28,12": 0,
+            "C. 28,46": 0,
+            "D. 30,2": 0
+        }
+    },
+    {
+        "input": "La calificación promedio de un grupo de estudiantes es de 80 puntos, con una desviación estándar de 10 puntos. Si se sabe que las calificaciones tienen una distribución simétrica, se puede estimar que aproximadamente el ______ de los estudiantes tiene calificaciones entre 70 y 90 puntos.\nA. 0.68\nB. 0.89\nC. 0.95\nD. 0.99",
+        "target_scores": {
+            "A. 0.68": 1,
+            "B. 0.89": 0,
+            "C. 0.95": 0,
+            "D. 0.99": 0
+        }
+    },
+    {
+        "input": "Suponiendo una proporción poblacional de 0,3, se toma una muestra aleatoria simple con reposición de tamaño 100. La esperanza de la proporción muestral es ______.\nA. 0,3\nB. 0,8\nC. 1,6\nD. 2",
+        "target_scores": {
+            "A. 0,3": 1,
+            "B. 0,8": 0,
+            "C. 1,6": 0,
+            "D. 2": 0
+        }
+    },
+    {
+        "input": "Se extrajo una muestra aleatoria de tamaño 100, con media x=81 y desviación estándar s=12. El intervalo de confianza del 95\\% para la media poblacional μ es ______.\nA. 81±1,97\nB. 81±2,35\nC. 81±3,10\nD. 81±3,52",
+        "target_scores": {
+            "A. 81±1,97": 0,
+            "B. 81±2,35": 1,
+            "C. 81±3,10": 0,
+            "D. 81±3,52": 0
+        }
+    },
+    {
+        "input": "De una región, se seleccionaron aleatoriamente 20 empresas. El ingreso anual promedio de sus directores fue de 25.964,7 euros, con desviación estándar de 42.807,8 euros. El intervalo de confianza del 95\\% para el ingreso anual promedio μ es ______.\nA. 25964,7±20034,3\nB. 25964,7±21034,3\nC. 25964,7±25034,3\nD. 25964,7±30034,3",
+        "target_scores": {
+            "A. 25964,7±20034,3": 1,
+            "B. 25964,7±21034,3": 0,
+            "C. 25964,7±25034,3": 0,
+            "D. 25964,7±30034,3": 0
+        }
+    },
+    {
+        "input": "Una empresa grande desea estimar la proporción de empleados que apoyan una reforma, con un error máximo de 0,03 y confianza del 90\\%. El tamaño de muestra requerido es ______.\nA. 552\nB. 652\nC. 752\nD. 852",
+        "target_scores": {
+            "A. 552": 0,
+            "B. 652": 0,
+            "C. 752": 1,
+            "D. 852": 0
+        }
+    },
+    {
+        "input": "En una encuesta, se pidió a los participantes indicar su etnia, estado civil, código postal de residencia, edad e ingresos. La afirmación incorrecta es ______.\nA. El código postal es un dato cuantitativo\nB. La edad es una variable continua\nC. La etnia es un dato cualitativo\nD. Los ingresos son datos cuantitativos",
+        "target_scores": {
+            "A. El código postal es un dato cuantitativo": 1,
+            "B. La edad es una variable continua": 0,
+            "C. La etnia es un dato cualitativo": 0,
+            "D. Los ingresos son datos cuantitativos": 0
+        }
+    },
+    {
+        "input": "Un fabricante de refrigeradores considera que el proceso de ensamblaje es satisfactorio si la proporción de fallos diarios en la línea de producción no supera el 3\\%. Para inspeccionar la calidad de un día, se extrajeron aleatoriamente 50 refrigeradores. La población de interés para el fabricante es ______.\nA. el 3\\% de refrigeradores defectuosos\nB. los 50 refrigeradores muestreados\nC. los resultados de inspección de los 50 refrigeradores\nD. todos los refrigeradores producidos ese día",
+        "target_scores": {
+            "A. el 3\\% de refrigeradores defectuosos": 0,
+            "B. los 50 refrigeradores muestreados": 0,
+            "C. los resultados de inspección de los 50 refrigeradores": 0,
+            "D. todos los refrigeradores producidos ese día": 1
+        }
+    },
+    {
+        "input": "Para investigar el rendimiento en cálculo, se seleccionaron 35 clases de un total de 186 y se analizaron las calificaciones de los estudiantes. Este método de muestreo es ______.\nA. muestreo aleatorio simple\nB. muestreo estratificado\nC. muestreo por conglomerados\nD. muestreo sistemático",
+        "target_scores": {
+            "A. muestreo aleatorio simple": 0,
+            "B. muestreo estratificado": 0,
+            "C. muestreo por conglomerados": 1,
+            "D. muestreo sistemático": 0
+        }
+    },
+    {
+        "input": "La Asociación de Fabricantes de Automóviles de EE. UU. quiere analizar las preferencias de color al comprar coches. Se registraron los colores (negro, blanco, rojo, verde, marrón) y tonalidades (brillante, claro, medio, oscuro) de 40 coches recientemente vendidos. ¿Qué gráfico no es adecuado para estos datos? ______.\nA. diagrama de dispersión\nB. gráfico circular\nC. gráfico de barras\nD. tabla de frecuencias",
+        "target_scores": {
+            "A. diagrama de dispersión": 1,
+            "B. gráfico circular": 0,
+            "C. gráfico de barras": 0,
+            "D. tabla de frecuencias": 0
+        }
+    },
+    {
+        "input": "Un investigador desea mostrar gráficamente los cambios diarios en los precios de alquiler de viviendas usadas en Pekín desde abril. ¿Qué gráfico es más apropiado? ______.\nA. Diagrama de dispersión\nB. Diagrama de tallo y hojas\nC. Gráfico de líneas\nD. Histograma",
+        "target_scores": {
+            "A. Diagrama de dispersión": 0,
+            "B. Diagrama de tallo y hojas": 0,
+            "C. Gráfico de líneas": 1,
+            "D. Histograma": 0
+        }
+    },
+    {
+        "input": "Para obtener los cuartiles (Q₁, mediana/Q₂, Q₃) de las calificaciones de 100 estudiantes, ¿qué método descriptivo es más efectivo? ______.\nA. Diagrama de puntos\nB. Diagrama de tallo y hojas\nC. Gráfico circular\nD. Histograma",
+        "target_scores": {
+            "A. Diagrama de puntos": 0,
+            "B. Diagrama de tallo y hojas": 1,
+            "C. Gráfico circular": 0,
+            "D. Histograma": 0
+        }
+    },
+    {
+        "input": "Una empresa extranjera clasifica los salarios en cuatro grupos: menos de 1.000 euros, 1.000-1.500, 1.500-2.000, y más de 2.000. Los puntos medios del primer y cuarto grupo son ______.\nA. 750 y 2.250\nB. 750 y 2.500\nC. 800 y 2.250\nD. 800 y 2.500",
+        "target_scores": {
+            "A. 750 y 2.250": 1,
+            "B. 750 y 2.500": 0,
+            "C. 800 y 2.250": 0,
+            "D. 800 y 2.500": 0
+        }
+    }
+]

@@ -1,0 +1,690 @@
+[
+    {
+        "input": "Carlos tuesta el pan en casa todas las mañanas para desayunar. Tostar el primer lado de cada rebanada toma 2 minutos, mientras que el segundo lado solo necesita 1 minuto. La tostadora que usa puede contener al máximo 2 rebanadas a la vez. Si Carlos necesita comer 3 rebanadas cada mañana, ¿cuál es el tiempo mínimo que requiere para tostarlas?",
+        "target": "5 minutos"
+    },
+    {
+        "input": "Papá fríe huevos para Miguel en una sartén. La sartén puede contener 2 huevos a la vez. Freír un huevo requiere 2 minutos (1 minuto por cada lado). ¿Cuál es el tiempo mínimo para freír 3 huevos?",
+        "target": "3 minutos"
+    },
+    {
+        "input": "María se levanta por la mañana, vestirse le toma 3 minutos, lavarse los dientes y cara 4 minutos, hervir agua 15 minutos, desayunar 7 minutos, lavar vajilla 2 minutos, organizar mochila 2 minutos, preparar leche en polvo (para llevar al colegio) 1 minuto. ¿Cuál es el tiempo mínimo para completar todas las tareas?",
+        "target": "19 minutos"
+    },
+    {
+        "input": "La tía Juana tiene 9 taburetes. Un pintor necesita dar dos capas de barniz: la primera toma 2 minutos pero requiere esperar 15 minutos para aplicar la segunda. ¿Cuál es el tiempo mínimo para barnizar todos?",
+        "target": "36 minutos"
+    },
+    {
+        "input": "José tarda 5 minutos en cepillarse y asearse por la mañana (sin agua caliente), 1 minuto en lavar la tetera, 10 minutos hervir agua, 3 minutos organizar mochila, 1 minuto preparar leche y 10 minutos desayunar. ¿Cuál es el tiempo mínimo con planificación óptima?",
+        "target": "22 minutos"
+    },
+    {
+        "input": "Ana necesita realizar estas tareas matutinas: aseo personal 4 minutos, desayunar 8 minutos, limpiar tetera 1 minuto, hervir agua 12 minutos, llenar termo 2 minutos. ¿Cuál es el tiempo mínimo requerido?",
+        "target": "15 minutos"
+    },
+    {
+        "input": "Un equipo de ingeniería debe completar un proyecto antes del plazo. Si el equipo A trabaja solo, cumple exactamente el plazo. Si el equipo B lo hace, se retrasa 3 días. Cuando trabajan juntos 2 días y luego continúa solo el B, cumplen exactamente el plazo. ¿Cuál es la fecha límite?",
+        "target": "6 días"
+    },
+    {
+        "input": "Una granja planeó cosechar trigo con 18 personas trabajando 6 horas diarias durante 15 días. Posteriormente, para acelerar el proceso, aumentaron 9 trabajadores diarios y extendieron la jornada por 2 horas. ¿Cuántos días antes de lo planeado completaron la tarea?",
+        "target": "7,5 días"
+    },
+    {
+        "input": "Una mina planeaba completar una operación de extracción con 50 personas trabajando 10 horas diarias durante 30 días. Posteriormente, para acelerar el progreso, se aumentó el personal en 25 personas diarias y la jornada laboral se extendió 4 horas más al día. ¿Cuántos días antes de lo planeado se completó la operación? (responde conservando 1 decimal)",
+        "target": "15,7 días"
+    },
+    {
+        "input": "A, B, C y D llegan simultáneamente a un grifo para usar agua. Cuando uno está usándolo, los demás deben esperar. A necesita 3 minutos para lavar su trapeador, B requiere 2 minutos para limpiar los paños, C tarda 1 minuto en llenar un balde, y D dedica 10 minutos a lavar ropa. ¿Cuál es el tiempo total mínimo (incluyendo uso y espera) que deben invertir?",
+        "target": "26 minutos"
+    },
+    {
+        "input": "Javier está montado sobre un buey mientras guía a otros bueyes para cruzar un río. Tiene cuatro bueyes: el buey A tarda 1 minuto en cruzar, el buey B tarda 2 minutos, el buey C requiere 5 minutos y el buey D necesita 6 minutos. En cada viaje, Javier solo puede montar un buey y guiar simultáneamente otro buey. ¿Cuál es el tiempo mínimo necesario para trasladar los cuatro bueyes a la orilla opuesta?",
+        "target": "13 minutos"
+    },
+    {
+        "input": "La casa de Miguel está situada a 10 kilómetros de su escuela. Si sale en bicicleta a las 8:00 a. m. a una velocidad de 20 km/h, llegará exactamente a tiempo. Además, esta opción le permite llegar 30 minutos antes que si recorriera todo el trayecto corriendo. Hoy, Miguel salió a las 8:00 a.m. pero recorrió parte del camino en el automóvil de un vecino a 40 km/h, y planea correr los últimos 2 kilómetros. ¿Cuánto tiempo antes de lo habitual llegará hoy a la escuela?",
+        "target": "6 minutos"
+    },
+    {
+        "input": "A, B y C llegan simultáneamente a un dispensador de agua caliente portando 2, 3 y 1 termo respectivamente. Solo hay un grifo disponible.El grifo disponible tarda exactamente 1 minuto en llenar completamente un termo. Considerando tanto el tiempo de llenado como los períodos de espera, ¿cuál es el tiempo total mínimo que requieren para llenar todos sus termos?",
+        "target": "10 minutos"
+    },
+    {
+        "input": "El director general de una empresa convoca a A (que necesitará 5 minutos de conversación), B (que requerirá 7 minutos) y C (que precisará 6 minutos) a su oficina para reuniones individuales. ¿Cuál es el tiempo total mínimo (incluyendo tanto las conversaciones como los tiempos de espera) que deberán invertir los tres?",
+        "target": "34 minutos"
+    },
+    {
+        "input": "Tres clientes llegan simultáneamente a un mostrador comercial. A necesita 5 minutos para realizar sus compras, B requiere 3 minutos y C utilizará 6 minutos. ¿Cuál es el tiempo total mínimo (incluyendo tanto la compra como los períodos de espera) que invertirán los tres clientes?",
+        "target": "25 minutos"
+    },
+    {
+        "input": "Para cocinar 5 tortillas donde cada una requiere 4 minutos para el primer lado y 2 minutos para el segundo lado, utilizando una sartén plana que puede contener hasta 3 tortillas simultáneamente, ¿cuál es el tiempo mínimo necesario para completar todas las tortillas?",
+        "target": "10 minutos"
+    },
+    {
+        "input": "Un proyecto de construcción tiene un plazo de 45 días. Si se utiliza una excavadora, puede completarse 15 días antes; si se usa mano de obra manual, se retrasará 15 días. El costo diario de la excavadora es 200 euros, mientras que el de la mano de obra es 80 euros. ¿Cuántos días debe emplearse la excavadora para completar el proyecto exactamente en 45 días con el menor gasto posible?",
+        "target": "15 días"
+    },
+    {
+        "input": "Se requiere un plan óptimo para completar una carretera en 60 días. Usando exclusivamente maquinaria pesada se adelantaría 20 días, con un costo diario de 300 euros; empleando solo mano de obra manual se retrasaría 20 días, con costo diario de 100 euros. ¿Cuántos días deben usarse las máquinas pesadas para terminar exactamente en 60 días con el mínimo costo?",
+        "target": "20 días"
+    },
+    {
+        "input": "Una empresa necesita completar un estudio de mercado en 10 días. Existen dos opciones: contratar un equipo especializado en estudios de mercado o utilizar personal interno de la empresa. Se sabe que si se emplea al equipo especializado durante todo el proceso, el trabajo se completará 5 días antes del plazo; si se utiliza exclusivamente al personal interno, se retrasará 10 días. Si solo se contrata al equipo especializado durante los primeros 4 días, ¿cuántos días antes del plazo original se finalizará la tarea?",
+        "target": "2 días"
+    },
+    {
+        "input": "Lucía viaja habitualmente al parque en patineta a una velocidad de 10 km/h, mientras que corriendo alcanza 8 km/h. Hoy salió de casa más temprano y, para no llegar demasiado pronto al parque (sin hacer pausas durante el trayecto), alternó entre patinar y correr, llegando exactamente 13 minutos después. Si la distancia entre su casa y el parque es de 2 kilómetros, ¿cuántos minutos en total utilizó la patineta?",
+        "target": "8 minutos"
+    },
+    {
+        "input": "Laura dispone hoy de 9 horas. Debe dedicar 2 horas a tareas domésticas, 4 horas a leer obras literarias clásicas, 1 hora a cocinar arroz en olla eléctrica y 2 horas a escuchar radionovelas. ¿Cuál es la cantidad máxima de tiempo que puede destinar a descansar?",
+        "target": "3 horas"
+    },
+    {
+        "input": "Esta mañana herví agua, lo cual me tomó 4 minutos; me lavé la cara en 2 minutos y me cepillé los dientes en 3 minutos. ¿Cuál es el tiempo mínimo total requerido para completar todas estas actividades?",
+        "target": "5 minutos"
+    },
+    {
+        "input": "Han llegado invitados a tu casa y deseas servirles té. Lavar la tetera toma 2 minutos, hervir agua toma 12 minutos, comprar té requiere 8 minutos, lavar las tazas toma 2 minutos y preparar el té toma 1 minuto. ¿Cuál es el tiempo mínimo necesario para que los invitados puedan beber el té?",
+        "target": "15 minutos"
+    },
+    {
+        "input": "Si el sábado dispones de 8 horas para organizar las actividades: 2 horas para limpiar la casa de la madre, 1 hora para ejercitarte y 2 horas para ir al cine, ¿cuál es el tiempo máximo disponible que queda para descansar?",
+        "target": "3 horas"
+    },
+    {
+        "input": "Todas las noches, Luisa debe realizar las siguientes tareas: memorizar frases idiomáticas durante 6 minutos, hervir agua durante 10 minutos, preparar leche en 2 minutos y tomarla en 5 minutos. ¿Cuál es el tiempo mínimo total que necesitará para completar todas estas actividades?",
+        "target": "17 minutos"
+    },
+    {
+        "input": "El domingo, Carlos ayudará a su madre con las siguientes tareas: barrer el piso (10 minutos), limpiar muebles (15 minutos), lavar ropa en la lavadora (40 minutos) y tender la ropa (5 minutos). Mediante una planificación eficiente, ¿cuál es el tiempo mínimo que requerirá para completar todas estas actividades?",
+        "target": "45 minutos"
+    },
+    {
+        "input": "Laura prepara un vaso de jugo de naranja. Lavar la taza y la cuchara toma 1 minuto cada uno, hervir agua requiere 8 minutos, y obtener el polvo de naranja necesita 2 minutos. Laura, mediante una planificación óptima, logró beber el jugo en el menor tiempo posible. ¿Cuál es este tiempo mínimo en minutos?",
+        "target": "8 minutos"
+    },
+    {
+        "input": "Tres compañeros de clase van juntos a lavarse las manos. El estudiante A necesita 1 minuto, el estudiante B requiere 3 minutos y el estudiante C precisa 2 minutos. Actualmente, solo hay un grifo disponible. Para lograr que el tiempo total de espera de los tres sea el mínimo posible, ¿cuál es la suma exacta de los minutos que los tres estudiantes invertirán en esperar?",
+        "target": "4 minutos"
+    },
+    {
+        "input": "Existe una sartén plana que únicamente puede freír dos pescados al mismo tiempo. Cada pescado necesita cocinarse durante 6 minutos en total (3 minutos por cada lado). ¿Cuántos minutos se tarda al menos en freír estos 3 pescados?",
+        "target": "9 minutos"
+    },
+    {
+        "input": "Es domingo y Carlos desea ayudar a su madre con las tareas domésticas: utilizar la lavadora para lavar ropa tomará 20 minutos, barrer el suelo requerirá 6 minutos, limpiar los muebles necesitará 15 minutos y tender la ropa tomará 5 minutos. Por favor, ayude a Carlos a idear un plan para completar todas estas tareas en el menor tiempo posible. ¿Cuál es exactamente este tiempo mínimo en minutos?",
+        "target": "26 minutos"
+    },
+    {
+        "input": "La tía Juana debe salir de casa, pero antes necesita completar cuatro tareas: organizar su habitación (5 minutos), colocar la ropa y el agua en la lavadora (1 minuto), esperar el ciclo de lavado automático de la lavadora (12 minutos), y limpiar sus zapatos (3 minutos). ¿Cuál es el tiempo mínimo exacto requerido para finalizar estas cuatro tareas?",
+        "target": "13 minutos"
+    },
+    {
+        "input": "Durante la limpieza general de la escuela, cuatro estudiantes (A, B, C, D) llevan cubos de diferentes tamaños para recolectar agua. Llenar completamente estos cubos requiere 3 minutos para el estudiante A, 5 minutos para el estudiante B, 2 minutos para el estudiante C y 4 minutos para el estudiante D. Actualmente, solo hay un grifo disponible. ¿Cuál es la suma total mínima exacta de minutos que los cuatro estudiantes invertirán en tiempos de espera?",
+        "target": "16 minutos"
+    },
+    {
+        "input": "Cada mañana, después de levantarse, el abuelo Juan debe realizar tres actividades: escuchar las noticias durante 20 minutos, cepillarse y asearse durante 8 minutos y desayunar durante 15 minutos. ¿Cuál es exactamente el tiempo mínimo que necesitará para completar todas estas actividades?",
+        "target": "23 minutos"
+    },
+    {
+        "input": "Rosa utiliza una sartén para cocinar tortas. Esta sartén puede contener un máximo de dos tortas simultáneamente. Cada torta debe cocinarse por ambos lados, y cada lado requiere exactamente 2 minutos. ¿Cuál es el tiempo mínimo absoluto que Rosa necesitará para cocinar completamente 5 tortas?",
+        "target": "10 minutos"
+    },
+    {
+        "input": "La madre está enferma. Miguel debe completar las siguientes tareas antes de ir a la escuela: tomarle la temperatura (5 minutos), buscar medicamentos para el resfriado (3 minutos), verter agua caliente y esperar a que esta se enfríe a temperatura adecuada (8 minutos), y administrarle la medicación a su madre (1 minuto). Después de organizar racionalmente estas tareas, ¿cuál es exactamente el tiempo mínimo total que Miguel necesitará?",
+        "target": "9 minutos"
+    },
+    {
+        "input": "Es domingo y Carlos está en casa aprendiendo a realizar tareas domésticas: barrer el suelo tomará 5 minutos, trapear el piso requerirá 10 minutos, limpiar mesas y sillas necesitará 5 minutos, lavar ropa en la lavadora tomará 35 minutos, organizar las habitaciones precisará 8 minutos, y tender la ropa lavada requerirá 5 minutos. ¿Cuál es exactamente el tiempo total mínimo que Carlos necesitará?",
+        "target": "40 minutos"
+    },
+    {
+        "input": "Miguel prepara té para un invitado. Lavar la tetera requiere 2 minutos, hervir el agua toma 12 minutos, lavar las tazas (sin usar agua caliente) necesita 2 minutos, tomar las hojas de té consume 1 minuto. Siguiendo la secuencia más eficiente, ¿cuál es el tiempo mínimo requerido para que el invitado pueda beber el té?",
+        "target": "14 minutos"
+    },
+    {
+        "input": "Una máquina para gofres solo puede tostar 2 unidades por vez, requiere 3 minutos por lado. ¿Cuál es el tiempo mínimo necesario para tostar 5 gofres si deben cocinarse ambos lados?",
+        "target": "15 minutos"
+    },
+    {
+        "input": "Miguel prepara té verde para un invitado con los siguientes pasos: recoger agua durante 1 minuto, hervir agua durante 6 minutos, lavar tazas (sin usar agua caliente) durante 2 minutos, tomar hojas de té en 1 minuto y finalmente preparar el té en 1 minuto. ¿Cuál es la duración mínima absoluta para completar este proceso mediante optimización de tareas?",
+        "target": "8 minutos"
+    },
+    {
+        "input": "Una sartén convencional puede freír como máximo 2 lubinas simultáneamente. La cocción completa de cada lubina requiere 4 minutos en total con 2 minutos dedicados a cada lado. Si una madre necesita preparar 3 lubinas, ¿cuál es el menor tiempo posible de cocción requerido?",
+        "target": "6 minutos"
+    },
+    {
+        "input": "Adrián conduce cuatro caballos A, B, C y D para cruzar un río.Para cruzar el río, Caballo A requiere 2 minutos, Caballo B necesita 3 minutos, Caballo C tarda 6 minutos y Caballo D, 7 minutos. Considerando que solo dos caballos pueden cruzarse juntos en cada viaje, ¿cuál es el tiempo acumulado mínimo para trasladar los cuatro caballos a la orilla opuesta?",
+        "target": "18 minutos"
+    },
+    {
+        "input": "Secuencia de optimización temporal de Miguel: Primero, arreglar la cama durante 3 minutos; segundo, cepillarse los dientes durante 3 minutos; tercero, lavarse la cara en 2 minutos; cuarto, escuchar grabaciones en inglés por 8 minutos. ¿Cuál es el tiempo total mínimo para completar todas estas actividades mediante ejecución paralela?",
+        "target": "8 minutos"
+    },
+    {
+        "input": "El Sr. Rodríguez debe fotocopiar 7 documentos que requieren reproducción en ambas caras. La máquina fotocopiadora solo permite copiar una cara por operación con capacidad máxima de 2 hojas. ¿Cuál es el número mínimo absoluto de ciclos de copiado necesarios?",
+        "target": "7 veces"
+    },
+    {
+        "input": "Miguel, Rosa y Daniela planean leer Mafalda (con solo 1 ejemplar disponible). Miguel afirma que lo leerá en 7 días, Rosa en 15 días y Daniela en 5 días. ¿Qué orden de préstamo minimizará la suma total del tiempo de espera acumulado por los tres?",
+        "target": "Daniela - Miguel - Rosa"
+    },
+    {
+        "input": "En un muelle hay tres buques mercantes A, B y C esperando descarga. El buque A requiere 10 horas para descargar, el B 12 horas y el C 9 horas. Debido a limitaciones de personal que obligan a descargas secuenciales, ¿qué orden producirá el menor tiempo total de espera combinado?",
+        "target": "C - A - B"
+    },
+    {
+        "input": "Estudiantes de tercer grado forman fila para ingresar a una exposición tecnológica. Se sabe que Alba está 39 posiciones delante de Cristiana y 50 posiciones detrás de Gabriel, mientras que Alonso está 78 posiciones antes de Cristiana. Entre Alba, Alonso y Gabriel, ¿quién ocupa la posición más adelantada en la fila?",
+        "target": "Gabriel"
+    },
+    {
+        "input": "Liliana desea ayudar a su madre el domingo con las siguientes tareas: lavar ropa en la lavadora (25 minutos), barrer el suelo (6 minutos), limpiar muebles (10 minutos), tender la ropa (5 minutos) y sacar la basura (3 minutos). Mediante una planificación óptima, ¿cuál es el tiempo mínimo absoluto que necesitará para completar todas estas actividades?",
+        "target": "30 minutos"
+    },
+    {
+        "input": "Un juego tiene partidas de 5 minutos, jugables en modo individual o doble. Diego, Carlos y Lucas quieren jugar dos partidas cada uno. ¿Cuál es el tiempo mínimo necesario?",
+        "target": "15 minutos"
+    },
+    {
+        "input": "El domingo por la mañana, después de levantarse, Rosa debe: barrer (3 minutos), lavar pisos (12 minutos), hervir agua (8 minutos) y organizar su mochila (2 minutos). ¿Cuál es el tiempo mínimo total requerido para completar todo?",
+        "target": "17 minutos"
+    },
+    {
+        "input": "Cocinar tortas en la estufa: ambas caras deben cocinarse, cada lado requiere 3 minutos. La estufa solo puede contener 2 tortas simultáneamente. ¿Cuánto tiempo mínimo se necesita para cocinar 3 tortas?",
+        "target": "9 minutos"
+    },
+    {
+        "input": "César necesita por la mañana: 5 minutos para vestirse, 3 minutos para arreglar la ropa de cama, 2 minutos para cepillarse los dientes, 1 minuto para lavarse la cara, 3 minutos para calentar leche, 2 minutos para tostar pan y 8 minutos para desayunar. ¿Cuál es el tiempo mínimo requerido?",
+        "target": "19 minutos"
+    },
+    {
+        "input": "Un visitante llega a casa. Miguel debe preparar té de flores: 2 minutos para lavar la tetera, 15 minutos para hervir agua, 1 minuto para lavar tazas (sin agua caliente), 1 minuto para llenar agua, 1 minuto para buscar hojas de té y 1 minuto para preparar el té. ¿Cuál es el tiempo mínimo para servir el té?",
+        "target": "19 minutos"
+    },
+    {
+        "input": "La madre utiliza una pequeña sartén plana para freír tortillas de huevo. La capacidad máxima de la sartén permite cocinar exactamente 2 tortillas simultáneamente. Cada tortilla requiere 2 minutos de cocción total (1 minuto por cada lado). ¿Cuál es el tiempo mínimo absoluto en minutos necesario para preparar 7 tortillas completas bajo estas condiciones?",
+        "target": "7 minutos"
+    },
+    {
+        "input": "Al tostar pan, el primer lado requiere 2 minutos de tostado. El segundo lado, debido a la reducción del contenido de humedad del pan, necesita únicamente 1 minuto exacto. La tostadora utilizada por la madre tiene una capacidad máxima de 2 rebanadas simultáneas. ¿Cuál es el tiempo mínimo absoluto en minutos requerido para tostar 3 rebanadas de pan completas?",
+        "target": "5 minutos"
+    },
+    {
+        "input": "En una peluquería, tres clientes (A, B, C) llegan simultáneamente. Cliente A : Corte de cabello + afeitado sin servicio de secado. Cliente B: Únicamente afeitado. Cliente C: Corte de cabello + secado + afeitado. La peluquería cuenta con un solo peluquero disponible. ¿Qué secuencia de atención debe establecerse para lograr que la suma total de tiempos de espera de los tres clientes sea la mínima posible?",
+        "target": "B - A - C"
+    },
+    {
+        "input": "En un restaurante de carnes, cocinar 1 filete requiere 6 minutos en total con 3 minutos dedicados a cada lado. Si la plancha admite máximo 4 filetes simultáneamente, ¿cuál es el tiempo mínimo necesario para cocinar 15 filetes?",
+        "target": "24 minutos"
+    },
+    {
+        "input": "La sala de copias de una escuela necesita reproducir 32 hojas por ambos lados. Considerando que la máquina tiene capacidad máxima de 3 hojas por operación, ¿cuál es el número mínimo de ciclos de copiado requeridos?",
+        "target": "22 veces"
+    },
+    {
+        "input": "En un establecimiento de chuletas de cerdo, cocinar 1 chuleta toma 6 minutos en total (con 3 minutos por cada cara). Si la parrilla tiene una capacidad máxima de 4 chuletas a la vez, ¿cuál es el tiempo mínimo requerido para cocinar 20 chuletas?",
+        "target": "30 minutos"
+    },
+    {
+        "input": "Diego debe realizar estas tareas matutinas: vestirse durante 2 minutos, tender la cama en 2 minutos, lavarse la cara y peinarse en 5 minutos, ir al baño en 3 minutos, esperar que el desayuno se enfríe durante 12 minutos y comer en 8 minutos. ¿Cuál es la duración mínima posible para completar todas las actividades?",
+        "target": "20 minutos"
+    },
+    {
+        "input": "Cuatro estudiantes, cada uno con un cubo de agua de tamaño diferente, van a recolectar agua. El cubo del estudiante A necesita 5 minutos para llenarse completamente, el cubo del estudiante B requiere 4 minutos, el cubo del estudiante C tarda 3 minutos y el cubo del estudiante D demora 2 minutos. Actualmente, solo hay un único grifo disponible. ¿Cuál es la suma total mínima absoluta de minutos de espera que los cuatro estudiantes deberán acumular?",
+        "target": "16 minutos"
+    },
+    {
+        "input": "El profesor Luis desea conversar individualmente con cuatro estudiantes identificados como A, B, C y D. El estudiante A necesitará 6 minutos para terminar la conversación, el estudiante B requerirá 10 minutos, el estudiante C utilizará 8 minutos y el estudiante D ocupará 5 minutos. ¿Cuál es la suma total mínima absoluta de minutos de espera que estos cuatro estudiantes deberán acumular colectivamente?",
+        "target": "35 minutos"
+    },
+    {
+        "input": "La señora Pedra debe completar las siguientes tareas antes de salir de compras: organizar la habitación (5 minutos), colocar ropa sucia en la lavadora (1 minuto exacto), esperar el ciclo de lavado automático de la lavadora (12 minutos), aplicar betún a los zapatos (3 minutos) y tender la ropa lavada (1 minuto exacto). ¿En cuántos minutos mínimos absolutos podrá la señora Pedra salir de su casa después de finalizar todas estas tareas?",
+        "target": "14 minutos"
+    },
+    {
+        "input": "La madre de Lili ha ido a trabajar, por lo que Lili debe preparar su comida sola. Las tareas son: lavar el arroz (3 minutos), limpiar la olla eléctrica (1 minuto exacto), cocinar el arroz en la olla eléctrica (20 minutos), calentar los platos precocinados en el microondas (8 minutos en total) y preparar un tazón de sopa (3 minutos). ¿Cuál es el tiempo mínimo absoluto en minutos que Lili necesitará para poder comenzar a comer?",
+        "target": "24 minutos"
+    },
+    {
+        "input": "Al utilizar una tostadora de pan, el primer lado de cada rebanada debe tostarse durante 2 minutos, mientras que el segundo lado solo requiere 1 minuto exacto, lo que significa que cada rebanada necesita 3 minutos en total. La tostadora de Carlos solo puede acomodar 2 rebanadas simultáneamente. Si Carlos desea comer 3 rebanadas completas cada mañana, ¿cuál es el tiempo mínimo absoluto en minutos que deberá dedicar al proceso de tostado?",
+        "target": "5 minutos"
+    },
+    {
+        "input": "Cinco personas (A, B, C, D, E) realizan operaciones de depósito o retiro en una única ventanilla bancaria. Los tiempos requeridos para cada transacción son: A necesita 10 minutos, B requiere 6 minutos, C utiliza 8 minutos, D tarda 3 minutos y E ocupa 15 minutos. ¿Cuál es la suma total mínima absoluta de minutos de espera que los cinco acumularán si se optimiza el orden de atención?",
+        "target": "56 minutos"
+    },
+    {
+        "input": "El domingo, Pedro ayuda a su madre a cocinar arroz en una olla eléctrica (35 minutos), completa su tarea de lengua china (15 minutos) y resuelve su tarea de matemáticas (10 minutos). Si Pedro organiza estas actividades de manera racional y secuencial, ¿cuál es el tiempo mínimo absoluto en minutos que necesitará para finalizar todas las tareas sin excepción?",
+        "target": "35 minutos"
+    },
+    {
+        "input": "Un médico atiende a tres pacientes: Rosa, quien requiere 4 minutos de consulta; Juan, que necesita 10 minutos; y Miguel, quien precisa 7 minutos. ¿Cuál es la suma total mínima absoluta de minutos de espera que los tres pacientes acumularán si se optimiza el orden de atención?",
+        "target": "15 minutos"
+    },
+    {
+        "input": "Se debe aplicar pintura a ambas caras de seis pizarras pequeñas. Pintar una cara toma 2 minutos, pero es obligatorio esperar 10 minutos después de pintar la primera cara para permitir que la pintura se seque antes de pintar la segunda cara. ¿Cuál es el tiempo mínimo absoluto en minutos necesario para completar las seis pizarras en su totalidad?",
+        "target": "24 minutos"
+    },
+    {
+        "input": "En una peluquería con un único peluquero en servicio, llegan simultáneamente cuatro clientes. Según el estilo de corte que solicitan: el cliente A necesita 15 minutos, el cliente B requiere 25 minutos, el cliente C demora 18 minutos y el cliente D ocupa 40 minutos. ¿En qué orden secuencial específico debe el peluquero atender a los clientes para minimizar la suma total acumulada de minutos de espera y servicio?",
+        "target": "A-C-B-D"
+    },
+    {
+        "input": "Miguel tiene un resfriado y debe descansar inmediatamente después de tomar su medicación. Sus tareas son: verter agua caliente (1 minuto), esperar a que el agua alcance una temperatura adecuada (7 minutos), buscar la medicina para el resfriado (1 minuto) y medir su temperatura corporal (5 minutos). Si Miguel organiza estas acciones de la manera más eficiente posible, ¿cuál es el tiempo mínimo absoluto en minutos que necesitará antes de poder descansar?",
+        "target": "8 minutos"
+    },
+    {
+        "input": "Una sartén puede contener únicamente dos rebanadas de pan simultáneamente. Cada lado de las rebanadas requiere 2 minutos de cocción. Si Rosa desea comer tres rebanadas completas para el desayuno, ¿cuál es el tiempo mínimo absoluto en minutos que deberá esperar?",
+        "target": "6 minutos"
+    },
+    {
+        "input": "Tres estudiantes (A, B, C) devuelven libros juntos en la biblioteca escolar, pero solo una persona puede realizar la devolución a la vez. El estudiante A tarda 4 minutos en completar su devolución, el estudiante B necesita 2 minutos y el estudiante C utiliza 8 minutos. ¿Cuál es la suma total mínima absoluta de minutos de espera que los tres acumularán?",
+        "target": "8 minutos"
+    },
+    {
+        "input": "Tres candidatos (Ana, Pedro, Laura) participan simultáneamente en un concurso de discursos para \"Reporteros Escolares\". Los tiempos requeridos son: Ana necesita 6 minutos, Pedro requiere 2 minutos y Laura utiliza 5 minutos. ¿En qué orden secuencial específico deben presentarse para minimizar la suma total acumulada de minutos de espera?",
+        "target": "Pedro - Laura - Ana"
+    },
+    {
+        "input": "Para reparar un canal de riego, el Equipo A trabajando solo requiere 20 días exactos, mientras que el Equipo B trabajando solo necesita 30 días exactos. Si colaboran, su eficiencia laboral se reduce: la eficiencia del Equipo A disminuye a 4/5 de su capacidad original, y la del Equipo B a 9/10. Si el proyecto debe completarse en 16 días exactos y se requiere que los días de colaboración sean los mínimos posibles, ¿cuántos días exactos deben trabajar juntos ambos equipos?",
+        "target": "10 días"
+    },
+    {
+        "input": "Si A y B colaboran en un trabajo, se estima que lo terminarán en 4 horas. Si B y C colaboran, requerirán 5 horas. Según el plan actual: primero A y C trabajan juntos 2 horas, luego B necesita 6 horas adicionales para completarlo. ¿Cuántas horas necesitaría B para terminar solo este trabajo?",
+        "target": "20 horas"
+    },
+    {
+        "input": "Un proyecto alterna días: día 1 A trabaja, día 2 B, repitiendo este ciclo hasta completarlo exactamente en días enteros. Si se alterna comenzando con B, el tiempo de finalización excede medio día al primer método. Sabiendo que B solo necesita 17 días, ¿cuántos días necesitaría A trabajando solo?",
+        "target": "8,5 días"
+    },
+    {
+        "input": "Según el plan de producción, un maestro y su aprendiz deben procesar la misma cantidad de piezas. Cuando el maestro completó la mitad, el aprendiz había terminado 120 piezas. Cuando el maestro finalizó toda la tarea, el aprendiz completó cuatro quintos de la suya. ¿Cuántas piezas hay en total según este plan?",
+        "target": "300 piezas"
+    },
+    {
+        "input": "Un lote de plántulas debe distribuirse entre estudiantes hombres y mujeres según un plan de siembra. Si se asigna de manera equitativa, cada persona planta 6 árboles en promedio. Si el plan se asigna solo a las mujeres, cada una planta 10 árboles en promedio. ¿Cuántos árboles plantaría cada hombre si el plan se asignara exclusivamente a ellos?",
+        "target": "15 árboles"
+    },
+    {
+        "input": "Victoria debe hacer varias tareas antes de salir en bicicleta: inflar las ruedas (2 minutos), ordenar su habitación (7 minutos), limpiar sus zapatos (2 minutos), llenar la lavadora con agua y poner la ropa (1 minuto), lavado automático de la lavadora (12 minutos), enjuagar y colgar la ropa (5 minutos). ¿Cuál es el tiempo mínimo que necesita para completar todas estas tareas?",
+        "target": "18 minutos"
+    },
+    {
+        "input": "Elena se levanta por la mañana y realiza las siguientes actividades: tender la cama (3 minutos), asearse (4 minutos), hervir agua (10 minutos), desayunar (7 minutos), lavar los utensilios (1 minuto) y organizar su mochila (2 minutos). ¿Cuál es el tiempo más corto posible para terminar todas estas tareas?",
+        "target": "17 minutos"
+    },
+    {
+        "input": "Miguel sale de casa a las 6:50 y llega a la escuela a las 7:20. Su maestro le sugiere llegar mañana 6 minutos antes. Si sigue saliendo a las 6:50, deberá correr 25 metros más por minuto para cumplir con la recomendación. ¿A cuántos metros está su casa de la escuela?",
+        "target": "3000 metros"
+    },
+    {
+        "input": "Un proyecto debe completarse antes de una fecha límite. Si el equipo A trabaja solo, supera la fecha límite en 1 día; si el equipo B lo hace solo, la supera en 4 días. Si ambos equipos trabajan juntos durante 3 días y luego el equipo B termina el resto justo a tiempo, ¿cuál es la fecha límite original?",
+        "target": "8 días"
+    },
+    {
+        "input": "Fernando y Pedro cuentan libros. El tiempo que Fernando tarda en contar 200 libros es el mismo que Pedro necesita para contar 300. Además, Pedro cuenta 10 libros más por minuto que Fernando. ¿Cuántos libros por minuto cuenta Fernando en promedio?",
+        "target": "20 libros"
+    },
+    {
+        "input": "La construcción de un túnel en cierta autopista, si la realiza solo el equipo A, se estima que tardará 200 días en completarse. Al trabajar simultáneamente los equipos A y B, el túnel se finaliza en 120 días. ¿Cuántos días necesitaría el equipo B para completarlo trabajando solo?",
+        "target": "300 días"
+    },
+    {
+        "input": "Para organizar un lote de libros en un tiempo determinado, si una persona trabaja sola tardaría 60 horas. Según el plan, un grupo inicial trabajó durante 1 hora, luego se unieron 15 personas más y juntos trabajaron 2 horas adicionales, completando el trabajo. Suponiendo que la eficiencia de cada persona es la misma, ¿cuántas personas se asignaron inicialmente?",
+        "target": "10 personas"
+    },
+    {
+        "input": "Lili prepara té para invitados: llenar la tetera (1 minuto), hervir agua (5 minutos), lavar tazas (sin agua caliente, 3 minutos) y sacar las hojas de té (1 minuto). Si organiza las tareas de manera eficiente, ¿cuál es el tiempo mínimo que necesitará?",
+        "target": "6 minutos"
+    },
+    {
+        "input": "Elvira usa su sartén para cocinar tortas: puede dorar 2 tortas a la vez, cada lado necesita 2 minutos. Si debe cocinar 3 tortas por completo, ¿cuál es el tiempo mínimo requerido?",
+        "target": "6 minutos"
+    },
+    {
+        "input": "El profesor Zapatero realiza las siguientes tareas cada mañana antes de clase: organizar mesas (5 minutos), limpiar la oficina (10 minutos), escuchar música (30 minutos), corregir tareas (20 minutos), hacer ejercicios (10 minutos) y hablar con los monitores (5 minutos). Si la clase empieza a las 8:00, ¿a qué hora debe llegar como tarde?",
+        "target": "07:10:00"
+    },
+    {
+        "input": "Un panadero tuesta pan: el primer lado necesita 2 minutos y el segundo 1 minuto (total 3 minutos por pan). La parrilla solo puede contener 2 panes a la vez. Si su familia come 5 panes cada mañana, ¿cuál es el tiempo mínimo de cocción?",
+        "target": "8 minutos"
+    },
+    {
+        "input": "Una pan debe cocinarse por ambos lados (3 minutos por un lado). Una sartén puede cocinar 3 panes simultáneamente. ¿Cuál es el tiempo mínimo para cocinar 5 panes?",
+        "target": "12 minutos"
+    },
+    {
+        "input": "Reparar piezas toma 20 horas si lo hace una sola persona. Primero, 1 persona trabaja 2 horas, luego un grupo adicional se une y juntos terminan en 3 horas. Si la eficiencia es igual para todos, ¿cuántas personas se agregaron?",
+        "target": "5 personas"
+    },
+    {
+        "input": "La escuela planea contratar personal para reparar el césped: una persona sola tardaría 240 horas. Según el plan, un grupo inicial trabajó 5 horas; luego se unieron 15 personas más y juntos completaron el trabajo en 4 horas. ¿Cuántas personas se asignaron inicialmente?",
+        "target": "20 personas"
+    },
+    {
+        "input": "A y B fabrican juguetes del mismo tipo: el tiempo que A tarda en producir 90 juguetes es igual al que B necesita para 120 juguetes. Si juntos producen 35 juguetes diarios, ¿cuántos juguetes fabrica A al día?",
+        "target": "15 unidades"
+    },
+    {
+        "input": "Para construir un túnel de 1300 metros en una autopista, los equipos A y B trabajan simultáneamente desde ambos extremos. El equipo A excava 10 metros más por día que el equipo B. Cuando el equipo A completa 300 metros, el equipo B termina 200 metros en el mismo tiempo. ¿Cuántos metros excava diariamente cada equipo?",
+        "target": "30 metros para el equipo A y 20 metros para el equipo B"
+    },
+    {
+        "input": "Durante una licitación para un proyecto de embellecimiento urbano, participaron dos equipos de construcción: Equipo A y Equipo B. Según los cálculos: el Equipo A puede completar este proyecto individualmente en 60 días, mientras que el Equipo B lo completaría en 90 días trabajando solo. Si el Equipo A trabaja primero durante 20 días, ¿cuántos días requerirán ambos equipos trabajando conjuntamente para finalizar el resto del proyecto?",
+        "target": "24 días"
+    },
+    {
+        "input": "El Profesor Luis necesita desarrollar una aplicación pequeña. Carlos puede completar este trabajo independientemente en 6 horas, y Ana puede hacerlo sola en 8 horas. Si colaboran ambos, ¿cuántas horas necesitarán para terminarlo? (Redondee a 1 decimal)",
+        "target": "3,4 horas"
+    },
+    {
+        "input": "Las tareas domésticas incluyen: lavar trastes y organizar la cocina (20 minutos), hervir agua para preparar té (15 minutos), lavar fundas de almohada en la lavadora (60 minutos), lavar ropa a mano (20 minutos), y colocar la ropa en la lavadora para centrifugado (5 minutos). ¿Cuál es el tiempo mínimo total que necesitará la madre de Diego para completar todas estas actividades?",
+        "target": "65 minutos"
+    },
+    {
+        "input": "Cocinar un huevo requiere 8 minutos. Si una olla puede contener 15 huevos simultáneamente, ¿cuál es el tiempo mínimo necesario para cocinar 27 huevos?",
+        "target": "16 minutos"
+    },
+    {
+        "input": "Carlos prepara té con leche para invitados: lavar la tetera toma 2 minutos, hervir agua consume 12 minutos, lavar tazas (sin usar agua caliente) requiere 2 minutos, y obtener la leche en polvo necesita 1 minuto. Siguiendo la secuencia más eficiente, ¿en cuántos minutos estará listo el té con leche para servir?",
+        "target": "14 minutos"
+    },
+    {
+        "input": "Antes de dormir, Juan debe realizar estas tareas: organizar la cama y prepararse para dormir (2 minutos), lavarse la cara y cepillarse los dientes (3 minutos), organizar la mochila escolar (2 minutos), escuchar inglés (5 minutos), y lavar los pies (5 minutos). ¿Cuál es el tiempo mínimo total que necesitará Juan para completar todas estas actividades?",
+        "target": "12 minutos"
+    },
+    {
+        "input": "Mamá hornea pan: cada uno requiere 5 minutos totales (3 minutos por un lado y 2 minutos por el otro). El horno familiar solo puede contener 2 panecillos simultáneamente. Si necesita hornear 3 panecillos, ¿es suficiente disponer de 8 minutos?",
+        "target": "Sí"
+    },
+    {
+        "input": "En el parque de diversiones hay dos áreas: tiro con arco y ciclismo. Cada actividad requiere 4 minutos por sesión, y cada área solo permite un niño a la vez. Si 3 niños quieren disfrutar ambas actividades, ¿cuál es el tiempo mínimo total requerido?",
+        "target": "12 minutos"
+    },
+    {
+        "input": "En el restaurante de la Sra. Lili, una plancha puede freír como máximo 10 tortas de papa simultáneamente, requiriendo 3 minutos por cada lado. Si un cliente solicita 15 tortas y exige entrega en 10 minutos, ¿podrá cumplir la Sra. Lili con este plazo?",
+        "target": "Sí"
+    },
+    {
+        "input": "Los estudiantes Pepe, Paco y Rosa deben realizar simultáneamente dos pruebas: declamación y caligrafía. Cada prueba dura 5 minutos por persona, supervisadas por dos profesores distintos. ¿Cuál es el tiempo mínimo total necesario para completar todas las evaluaciones?",
+        "target": "15 minutos"
+    },
+    {
+        "input": "Por las mañanas, Vera necesita: cepillarse los dientes y lavarse la cara (3 minutos), hervir agua (15 minutos), llenar el termo (2 minutos) y desayunar (8 minutos). ¿Cuál es el tiempo mínimo total que requerirá Vera para completar todas estas tareas?",
+        "target": "17 minutos"
+    },
+    {
+        "input": "Miguel debe realizar cada mañana: lavar la tetera (1 minuto), hervir agua (12 minutos), llenar el termo (2 minutos), desayunar (8 minutos) y organizar la mochila (2 minutos). ¿Cuál es la duración mínima absoluta para completar todas estas actividades?",
+        "target": "15 minutos"
+    },
+    {
+        "input": "A, B, C y D deben cruzar un puente. Cada uno requiere 1 minuto, 2 minutos, 5 minutos y 10 minutos respectivamente para cruzarlo. Debido a la oscuridad, deben utilizar una linterna, pero solo disponen de una. Además, la capacidad máxima del puente permite que como máximo dos personas lo crucen simultáneamente.  ¿Cuál es la duración mínima requerida en minutos para cruzar el puente?",
+        "target": "17 minutos"
+    },
+    {
+        "input": "Tres personas (A, B, C) usan un único grifo: A lava un trapeador en 3 minutos, B lava ropa en 10 minutos, y C llena un cubo en 2 minutos. ¿Cuál es la suma total mínima de tiempo (uso + espera) que invertirán?",
+        "target": "22 minutos"
+    },
+    {
+        "input": "Tres clientes (Sr. José, Sr. Pedro, Sr. Santiago) llegan a un restaurante con un solo chef, quien solo puede preparar un plato a la vez. El Sr. José espera 6 minutos por pan, el Sr. Pedro 2 minutos por huevo frito, y el Sr. Santiago 5 minutos por fideos. ¿Cuál es el mínimo posible de la suma total de los tiempos de espera de los tres?",
+        "target": "22 minutos"
+    },
+    {
+        "input": "Lucía realiza por la mañana: cepillarse y lavarse (3 minutos), limpiar la tetera (1 minuto), leer (8 minutos), hervir agua (18 minutos), llenar el termo (2 minutos) y desayunar (5 minutos). ¿Cuál es el tiempo mínimo requerido para completar todo?",
+        "target": "21 minutos"
+    },
+    {
+        "input": "En una sartén plana se cocinan 2 tortillas simultáneamente. Cada tortilla requiere 4 minutos (2 minutos por lado). ¿Cuál es el tiempo mínimo para cocinar 3 tortillas?",
+        "target": "6 minutos"
+    },
+    {
+        "input": "Ana y su madre preparan su salida: ordenar la habitación (5 minutos), lavar ropa en lavadora automática (20 minutos), tender ropa (2 minutos), limpiar zapatos (4 minutos), peinarse y lavarse (8 minutos), preparar bolsos (2 minutos). ¿Cuál es el tiempo mínimo para estar listas?",
+        "target": "22 minutos"
+    },
+    {
+        "input": "Tres estudiantes van a la biblioteca para tomar libros prestados. La biblioteca tiene un solo bibliotecario a cargo de los préstamos.El estudiante A necesita 4 minutos, el estudiante B requiere 8 minutos y el estudiante C tarda 3 minutos. ¿Cuál es la duración total mínima (sumando tanto el tiempo de préstamo individual como los períodos de espera) que los tres invertirán en total?",
+        "target": "25 minutos"
+    },
+    {
+        "input": "El domingo, varias colegas de la madre de Ramona llegaron a su casa. La madre le pidió a Ramona que calentara agua y preparara té para los invitados. Ramona comenzó a realizar las siguientes acciones: lavar la tetera para hervir agua le tomó 1 minuto, hervir el agua le tomó 8 minutos, lavar la tetera de té (sin usar agua caliente) le tomó 1 minuto, lavar las tazas (sin usar agua caliente) le tomó 2 minutos, tomar las hojas de té le tomó 2 minutos, y preparar el té le tomó 1 minuto. Por favor calcule: ¿cuántos minutos necesitará Ramona en total para que los invitados puedan beber el té lo más rápido posible?",
+        "target": "10 minutos"
+    },
+    {
+        "input": "Lucas debe realizar cada mañana: lavar la tetera (1 minuto), hervir agua (14 minutos), llenar el termo (2 minutos), desayunar (8 minutos) y organizar la mochila (2 minutos). ¿Cuál es el tiempo mínimo total requerido para completar todas estas tareas?",
+        "target": "17 minutos"
+    },
+    {
+        "input": "Rosa necesita cada mañana: cepillarse los dientes y lavarse la cara (sin usar agua caliente, 4 minutos), estudiar (8 minutos), hervir agua (10 minutos), preparar leche (1 minuto) y desayunar (5 minutos). ¿Cuántos minutos después de levantarse podrá salir hacia la escuela en el menor tiempo posible?",
+        "target": "18 minutos"
+    },
+    {
+        "input": "La tía Juana debe completar antes de salir: ordenar la habitación (5 minutos), colocar ropa en la lavadora (1 minuto), ciclo de lavado automático (12 minutos), limpiar zapatos (3 minutos) y tender ropa (4 minutos). ¿Cuál es el tiempo mínimo requerido para que pueda partir?",
+        "target": "17 minutos"
+    },
+    {
+        "input": "Al cocinar tortas, el primer lado requiere 3 minutos de cocción y el segundo lado 2 minutos. El estante solo puede contener 2 tortas simultáneamente. ¿Cuál es el tiempo mínimo necesario para cocinar 3 tortas?",
+        "target": "8 minutos"
+    },
+    {
+        "input": "A, B, C y D tienen cada uno un campo de trigo y sólo disponen de una cosechadora para cosecharlo; el campo de A tarda 4 horas en cosecharse, el de B tarda 1 hora, el de C tarda 3 horas y el de D tarda 2 horas. ¿Cuál es el tiempo total mínimo (incluyendo la cosecha y la espera) que emplearán?",
+        "target": "20 horas"
+    },
+    {
+        "input": "Hay cuatro alumnos esperando a ser atendidos por un médico en la sala de salud, y sólo hay un médico, que sólo puede atender a un alumno cada vez. A tarda 3 minutos en poner la inyección, B tarda 4 minutos en cambiar la gasa, C tarda 2 minutos en aplicar el medicamento y D tarda 1 minuto en utilizar el colirio. ¿Cuál es la suma mínima del tiempo que cada uno de ellos esperó en el hospital?",
+        "target": "10 minutos"
+    },
+    {
+        "input": "Tres clientes van al mismo mostrador a comprar algo, y sólo se puede atender a una persona a la vez; A tarda 4 minutos, B tarda 6 minutos y C tarda 2 minutos. ¿Cuál es el tiempo total mínimo que emplean (la suma de sus respectivos tiempos de compra y espera)?",
+        "target": "20 minutos"
+    },
+    {
+        "input": "Carlos cruza un río montado a caballo con 4 equinos (A, B, C, D). Los tiempos de cruce son: Caballo A (7 minutos), B (2 minutos), C (3 minutos), D (8 minutos). Considerando que solo pueden cruzar dos caballos por viaje, ¿cuál es el tiempo mínimo total requerido para trasladar todos los caballos a la orilla opuesta?",
+        "target": "19 minutos"
+    },
+    {
+        "input": "Laura, Juana y Pedro acuden simultáneamente a la enfermería escolar. Laura necesita una inyección (5 minutos), Juana requiere vendaje (3 minutos) y Pedro precisa aplicar colirio (1 minuto). Con solo un enfermero disponible (Profesor Martínez), ¿cuál es la suma total mínima de tiempo que permanecerán los tres en la enfermería?",
+        "target": "14 minutos"
+    },
+    {
+        "input": "Luis, Rosa y Lili planean tomar prestado el mismo libro ilustrado de una biblioteca de libros ilustrados. Luis dice que puede terminarlo en una semana, Rosa dice que puede terminarlo en medio mes y Lili dice que puede terminarlo en 5 días. ¿Cuál es el orden de préstamo de los libros para minimizar la suma de los tiempos de espera?",
+        "target": "Lili - Luis - Rosa"
+    },
+    {
+        "input": "Si Luis, Ana y Berta van juntos a la peluquería con un solo estilista, donde Luis necesita 20 minutos, Ana 30 minutos y Berta 40 minutos, ¿qué orden de atención debe seguirse para minimizar el tiempo total de espera combinado de los tres?",
+        "target": "Luis - Ana - Berta"
+    },
+    {
+        "input": "Carlos se unió al equipo de ping-pong escolar. Cada entrenamiento requiere: cambiarse de ropa (3 min), calzado (2 min), tomar la raqueta (1 min), calentamiento (4 min) y escuchar transmisiones deportivas (2 min). ¿Cuántos minutos necesita Carlos para comenzar a entrenar de manera óptima?",
+        "target": "10 minutos"
+    },
+    {
+        "input": "Sofía debe completar por la noche: escuchar música (10 min), higiene personal (20 min) y cenar (30 min). ¿Cuál es el tiempo mínimo requerido para terminar todas las actividades?",
+        "target": "50 minutos"
+    },
+    {
+        "input": "El abuelo Luis necesita cada mañana: preparar el desayuno (10 minutos), comer (10 minutos), escuchar radio (20 minutos), regar plantas y cultivar el huerto (30 minutos). ¿Cuál es el tiempo mínimo total requerido para completar todas estas actividades?",
+        "target": "50 minutos"
+    },
+    {
+        "input": "La tía Laura realiza cada mañana: hervir agua (10 minutos), preparar el desayuno (20 minutos), lavar ropa (20 minutos) y usar el baño (20 minutos). ¿Cuál es la duración mínima absoluta necesaria para terminar todas estas tareas?",
+        "target": "60 minutos"
+    },
+    {
+        "input": "Tres colegas (A, B, C) comparten una impresora. Los tiempos de impresión son: A (3 minutos), B (2 minutos), C (7 minutos). Para minimizar el tiempo total de espera acumulado, ¿qué orden de impresión debe establecerse?",
+        "target": "B-A-C"
+    },
+    {
+        "input": "Tres atletas (A, B, C) comparten una pista de atletismo. Los tiempos requeridos son: A (8 minutos), B (10 minutos), C (12 minutos). ¿En qué orden deben correr para minimizar el tiempo total de espera acumulado de los tres?",
+        "target": "A-B-C"
+    },
+    {
+        "input": "Tres chefs (A, B, C) utilizan una misma cocina. Los tiempos de preparación son: Chef A (12 minutos), Chef B (15 minutos), Chef C (8 minutos). ¿Qué secuencia de cocción debe establecerse para reducir al máximo la espera acumulada?",
+        "target": "C - A - B"
+    },
+    {
+        "input": "Tres hermanos (Diego, Sofía y Lucía) comparten una impresora. Diego necesita 16 minutos, Sofía 10 minutos y Lucía 8 minutos para imprimir sus documentos. ¿Cuál es el orden óptimo de impresión que minimiza el tiempo total de espera combinado?",
+        "target": "Lucía - Sofía - Diego"
+    },
+    {
+        "input": "Tres médicos (A, B y C) realizan cirugías rotativamente en un mismo quirófano. Los tiempos requeridos son: Médico A (100 minutos), Médico B (50 minutos), Médico C (15 minutos). ¿Qué orden de intervención minimizará la suma total del tiempo de espera acumulado?",
+        "target": "C-B-A"
+    },
+    {
+        "input": "Laura debe realizar cada mañana: higiene personal (10 minutos), escuchar música (20 minutos), preparar desayuno (10 minutos) y limpiar la casa (20 minutos). ¿Cuál es el tiempo mínimo necesario para completar todas estas tareas?",
+        "target": "40 minutos"
+    },
+    {
+        "input": "Mateo prepara un jugo de uva con estos pasos: lavar el vaso toma 1 minuto, hervir agua requiere 2 minutos, obtener el polvo de uva necesita 2 minutos y mezclar los ingredientes demanda 3 minutos. ¿Cuál es el tiempo mínimo cronometrado que Mateo necesitará para disfrutar su bebida con una planificación óptima?",
+        "target": "6 minutos"
+    },
+    {
+        "input": "Ana prepara verduras hervidas para la cena: Lavar las verduras (5 minutos), calentar agua (5 minutos), preparar ingredientes (10 minutos), cocinar las verduras (10 minutos), presentar el plato (5 minutos). ¿Cuál es el tiempo mínimo que necesita Ana para terminar la cena?",
+        "target": "30 minutos"
+    },
+    {
+        "input": "El Sr. Andrés organiza su mañana: Lavar ropa en lavadora automática (30 minutos), tender ropa manualmente (10 minutos), doblar ropa (10 minutos), escuchar radio (20 minutos), preparar desayuno (20 minutos), llevar a los hijos al colegio (50 minutos). ¿Cuál es la duración mínima total con planificación óptima?",
+        "target": "90 minutos"
+    },
+    {
+        "input": "La Sra. Laura gestiona sus tareas del mediodía: Cocinar (30 minutos), escuchar radio (30 minutos), lavar ropa interior a mano (10 minutos), lavar ropa en lavadora automática (30 minutos), recoger a los niños (20 minutos). ¿Cuál es el tiempo mínimo requerido para completar todas las actividades con organización eficiente?",
+        "target": "60 minutos"
+    },
+    {
+        "input": "La Sra. Laura prepara leche para el bebé: Llenar la tetera (1 minuto), hervir agua (6 minutos), lavar el biberón (5 minutos), tomar leche en polvo (2 minutos), mezclar la leche (1 minuto), enfriar la leche (3 minutos). Si la Sra. Laura organiza óptimamente estas tareas, ¿cuál es el tiempo mínimo requerido para que el bebé pueda tomar la leche?",
+        "target": "12 minutos"
+    },
+    {
+        "input": "Nina sale de la escuela a las 20:00 y debe hacer tareas (60 minutos), escuchar música (30 minutos), bañarse (40 minutos), jugar videojuegos (40 minutos), ordenar su habitación (40 minutos). ¿A qué hora podrá acostarse como muy pronto?",
+        "target": "23:00"
+    },
+    {
+        "input": "Carlos y su mamá preparan su salida a la calle: Barrer el suelo (5 minutos), lavado automático con lavadora (20 minutos), ordenar habitaciones (10 minutos), peinarse y lavarse (8 minutos), trapear pisos (8 minutos). ¿Cuál es el tiempo mínimo requerido para estar listos y salir?",
+        "target": "31 minutos"
+    },
+    {
+        "input": "Laura quiere visitar a su abuela. Antes de salir, necesita ordenar su habitación (20 minutos), lavar ropa en lavadora automática (30 minutos), cocinar (20 minutos) y preparar la comida para llevar (5 minutos). Si organiza estas tareas de manera eficiente, ¿cuál es el tiempo mínimo que necesitará para estar lista?",
+        "target": "45 minutos"
+    },
+    {
+        "input": "Carlos tiene 10 horas disponibles. Debe dedicar: hacer tareas (5 horas), jugar videojuegos (2 horas), cocinar (1 hora) y comer (1 hora). ¿Cuántas horas libres como máximo podrá disfrutar?",
+        "target": "1 hora"
+    },
+    {
+        "input": "Ana dispone de 8 horas el viernes. Necesita: hacer tareas (3 horas), escuchar música (1 hora) y cocinar (1 hora). ¿Cuál es la cantidad máxima de horas libres que le quedarán?",
+        "target": "4 horas"
+    },
+    {
+        "input": "Cecilia atiende a los invitados. Hervir agua toma 10 minutos, preparar el té requiere 5 minutos, traer bocadillos necesita 5 minutos y presentar los bocadillos en bandeja demanda 10 minutos. ¿Cuál es el tiempo mínimo total que necesitará para completar todas las tareas?",
+        "target": "20 minutos"
+    },
+    {
+        "input": "Julián organiza su mañana:\n⑴ Arreglar la cama 3 minutos\n⑵ Preparar la mochila 3 minutos\n⑶ cepillarse y asearse 10 minutos\n⑷ Escuchar grabaciones en inglés 8 minutos\nSi se levanta a las 6:00, ¿a qué hora podrá terminar todo como muy pronto?",
+        "target": "06:16"
+    },
+    {
+        "input": "Daniela quiere ayudar a su madre los fines de semana con las siguientes tareas: lavar ropa en lavadora automática (20 minutos), barrer el suelo (6 minutos), limpiar mesas (10 minutos) y tender la ropa (5 minutos). Si organiza estas actividades de manera eficiente, ¿cuál es el tiempo mínimo que necesitará para completar todas las tareas?​",
+        "target": "25 minutos"
+    },
+    {
+        "input": "Javier, por las mañanas, debe realizar estas actividades: cepillarse los dientes y lavarse la cara (3 minutos), ordenar su habitación (8 minutos), desayunar (5 minutos) y escuchar grabaciones en inglés (13 minutos). ¿Cuál es el tiempo mínimo que requiere para completar todas estas tareas?​",
+        "target": "16 minutos"
+    },
+    {
+        "input": "La familia Pérez realiza cada mañana dos tareas esenciales: hervir leche (10 minutos) y lavar 3 biberones (3 minutos por unidad). ¿Cuál es el tiempo mínimo necesario para que puedan tomar la leche?​",
+        "target": "10 minutos"
+    },
+    {
+        "input": "Cecilia recibe amigos en casa. Preparar bocadillos (3 minutos), hervir agua (5 minutos), buscar tazas (2 minutos), lavar tazas sin agua caliente (1 minuto), preparar el té (1 minuto). ¿Cuál es el tiempo mínimo que necesitará Cecilia para servir el té a sus amigos?",
+        "target": "6 minutos"
+    },
+    {
+        "input": "Sofía ayuda en casa durante la cuarentena. Barrer (5 minutos), lavar ropa en lavadora (40 minutos), doblar mantas (3 minutos), tender ropa (5 minutos). ¿Cuál es la duración mínima para completar estas tareas con planificación eficiente?",
+        "target": "45 minutos"
+    },
+    {
+        "input": "Valeria tiene gripe y necesita buscar una taza (1 minuto), esperar que el agua se temple (6 minutos), encontrar medicinas (1 minuto), tomar la temperatura (5 minutos). ¿Cuál es el tiempo mínimo que requerirá Valeria para completar todo?",
+        "target": "7 minutos"
+    },
+    {
+        "input": "Alberto organiza su mañana: Lavar arroz (3 minutos), cocinar con olla arrocera eléctrica (20 minutos), repasar vocabulario en inglés (10 minutos), aseo personal (5 minutos), desayunar (9 minutos). ¿Cuál es el tiempo mínimo total requerido?",
+        "target": "32 minutos"
+    },
+    {
+        "input": "Luis ayuda a su padre el domingo: Hornear alimentos (40 minutos), hacer tarea de lengua (15 minutos), completar ejercicios matemáticos (10 minutos). ¿Cuál es la duración mínima necesaria para terminar todo con organización óptima?",
+        "target": "40 minutos"
+    },
+    {
+        "input": "Al levantarse por la mañana, Juan debe lavarse la cara y cepillarse los dientes (8 minutos), hacer ejercicios de salud (6 minutos), lavar tazas sin agua caliente y preparar leche en polvo (2 minutos), hervir agua (15 minutos). ¿Cuál es el tiempo mínimo para que Juan pueda tomar su leche?",
+        "target": "16 minutos"
+    },
+    {
+        "input": "Ana gestiona sus tareas desde las 6:00 a.m.: Recoger la cama (3 min), lavarse y cepillarse (8 min), leer en idioma extranjero (26 min), desayunar (10 min), limpiar la mesa (9 min), escuchar la radio (30 min). ¿A qué hora podrá terminar todo como muy pronto?",
+        "target": "06:56"
+    },
+    {
+        "input": "Si Carlos tiene 10 horas libres el fin de semana, debe dedicar: tareas de matemáticas (1 hora), escuchar música (1 hora), tareas de lengua (1 hora), cocinar (1 hora). ¿Cuántas horas libres le quedarán como máximo?",
+        "target": "7 horas"
+    },
+    {
+        "input": "Diego, Miguel y Sofía llegan simultáneamente a la enfermería, donde solo hay un médico que los atiende uno por uno. Diego necesita una inyección de 10 minutos, Miguel requiere una consulta de 12 minutos y Sofía necesita una inyección de 15 minutos. ¿Qué orden de atención minimiza el tiempo total de espera acumulado?",
+        "target": "Diego - Miguel - Sofía"
+    },
+    {
+        "input": "Si Laura tiene 12 horas disponibles el viernes, debe dedicar: organizar la casa (2 horas), escuchar una radionovela (1 hora), cocinar (2 horas) y jugar videojuegos (1 hora). ¿Cuántas horas libres le quedarán como máximo?",
+        "target": "7 horas"
+    },
+    {
+        "input": "Tres clientes (A, B, C) piden platos distintos. Un único chef debe preparar: Plato A (10 minutos), Plato B (8 minutos), Plato C (12 minutos). ¿Qué orden de preparación minimiza el tiempo total de espera?",
+        "target": "B - A - C"
+    },
+    {
+        "input": "En una pequeña clínica durante el fin de semana, solo hay un médico disponible que atiende a un paciente por vez. Ana necesita una inyección que toma 4 minutos, Javier requiere una receta médica de 2 minutos, y Carlos necesita un cambio de vendaje de 25 minutos. Si el médico organiza el tiempo de manera óptima, ¿cuál es el tiempo mínimo total de espera acumulado para los tres pacientes?",
+        "target": "8 minutos"
+    },
+    {
+        "input": "Una sartén plana puede cocinar 2 tortillas simultáneamente. Cada lado de las tortillas requiere 3 minutos de cocción. ¿Cuánto tiempo mínimo se necesita para cocinar 5 tortillas?",
+        "target": "15 minutos"
+    },
+    {
+        "input": "A, B y C llegan al mismo tiempo a un grifo para usar agua. A necesita 15 minutos para lavar sábanas, B necesita 10 minutos para lavar ropa y C necesita 2 minutos para llenar un balde. ¿En qué orden deben usar el grifo para que el tiempo total de espera sea el mínimo?",
+        "target": "C-B-A"
+    },
+    {
+        "input": "Laura debe realizar por la mañana las siguientes tareas: lavar ropa en lavadora automática (20 minutos), regar plantas (10 minutos), escuchar la radio (10 minutos), preparar el desayuno (30 minutos) y ordenar la ropa (30 minutos). Si organiza estas actividades de manera eficiente, ¿cuál es el tiempo mínimo que necesitará?",
+        "target": "70 minutos"
+    },
+    {
+        "input": "Ana, Laura y Blanca van a una pista de patinaje para alquilar el mismo equipo. Ana lo necesita por 1 día, Laura por 2 días y Blanca por medio día. ¿Qué orden de alquiler minimiza el tiempo total de espera acumulado?",
+        "target": "Blanca - Ana - Laura"
+    },
+    {
+        "input": "Tres aficionados al monopatín usan sucesivamente la misma pista. A necesita 20 minutos, B 30 minutos y C 12 minutos. ¿Qué orden de uso minimizará el tiempo total de espera acumulado?",
+        "target": "C-A-B"
+    },
+    {
+        "input": "Lucas no necesita ir a la escuela y quiere ayudar a su madre el domingo: organizar la casa (30 minutos), limpiar el suelo (30 minutos), lavar sábanas en lavadora automática (1 hora), lavar ropa a mano (30 minutos) y tender la ropa (10 minutos). ¿Cuál es el tiempo mínimo para completar todo?",
+        "target": "100 minutos"
+    },
+    {
+        "input": "Tres actores esperan su audición. A necesita 12 minutos, B 18 minutos y C 22 minutos. ¿Qué orden minimiza el tiempo total de espera acumulado?",
+        "target": "A-B-C"
+    },
+    {
+        "input": "Nicolás ayuda a su abuela después de llegar a casa: hervir agua toma 10 minutos, escuchar música 30 minutos, lavar ropa en lavadora automática 60 minutos y cocinar 30 minutos. ¿Cuál es el tiempo mínimo necesario para completar todo?",
+        "target": "60 minutos"
+    },
+    {
+        "input": "Julia debe realizar por la mañana: desayunar (8 minutos), organizar su mochila (2 minutos) y escuchar la radio (10 minutos). ¿Cuál es el tiempo mínimo necesario?",
+        "target": "10 minutos"
+    },
+    {
+        "input": "Natalia realiza cada mañana: higiene personal (10 minutos), lectura matutina (10 minutos), hervir agua (10 minutos), preparar leche (5 minutos) y desayunar (5 minutos). ¿Cuántos minutos después de levantarse podrá salir al colegio?",
+        "target": "30 minutos"
+    }
+]

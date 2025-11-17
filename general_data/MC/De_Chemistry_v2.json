@@ -1,0 +1,1424 @@
+[
+    {
+        "input": "Welche der folgenden Verbindungen zeigt keine Iodoform-Reaktion?\nA. 2-Butanol\nB. Ethanol\nC. Isobutanol\nD. Isopropanol",
+        "target_scores": {
+            "A. 2-Butanol": 0,
+            "B. Ethanol": 0,
+            "C. Isobutanol": 1,
+            "D. Isopropanol": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden anorganischen Säuren kann $SiO_2$ lösen?\nA. $HClO_4$\nB. $HF$\nC. $HNO_3$\nD. $H_2SO_4$",
+        "target_scores": {
+            "A. $HClO_4$": 0,
+            "B. $HF$": 1,
+            "C. $HNO_3$": 0,
+            "D. $H_2SO_4$": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Stoffgruppen besteht vollständig aus amphoteren Substanzen?\nA. $CN^-$,$H_2O$,$PO_4^{3-}$,$OH^-$\nB. $Cl^-$,$NH_4^+$,$H_2O$,$HAc$\nC. $HCO_3^-$,$HPO_4^{2-}$,$HS^-$,$H_2O$\nD. $H_2$,$NO_2^-$,$HSO_4^-$,$H_2PO_4^-$",
+        "target_scores": {
+            "A. $CN^-$,$H_2O$,$PO_4^{3-}$,$OH^-$": 0,
+            "B. $Cl^-$,$NH_4^+$,$H_2O$,$HAc$": 0,
+            "C. $HCO_3^-$,$HPO_4^{2-}$,$HS^-$,$H_2O$": 1,
+            "D. $H_2$,$NO_2^-$,$HSO_4^-$,$H_2PO_4^-$": 0
+        }
+    },
+    {
+        "input": "Bei der Fotografie werden zwei Reaktionen durchgeführt: Das Waschen von unbelichtetem $AgBr$ mit $Na_2S_2O_3$ und die Rückgewinnung des ausgewaschenen Silbers mit $Na_2S$. Diese beiden Reaktionen sind ______.\nA. Koordinationsreaktion, Fällungsreaktion\nB. Koordinationsreaktion, Redoxreaktion\nC. Redoxreaktion, Fällungsreaktion\nD. Redoxreaktion, Koordinationsreaktion",
+        "target_scores": {
+            "A. Koordinationsreaktion, Fällungsreaktion": 1,
+            "B. Koordinationsreaktion, Redoxreaktion": 0,
+            "C. Redoxreaktion, Fällungsreaktion": 0,
+            "D. Redoxreaktion, Koordinationsreaktion": 0
+        }
+    },
+    {
+        "input": "Wenn in einer Reaktionsgleichung die absoluten Werte der stöchiometrischen Koeffizienten der Reaktanten genau den Exponenten der Konzentrationen in der Geschwindigkeitsgleichung entsprechen, dann handelt es sich bei dieser Reaktion um ______.\nA. Es handelt sich definitiv nicht um eine Elementarreaktion\nB. Es handelt sich definitiv um eine Elementarreaktion\nC. Es handelt sich definitiv um eine komplexe Reaktion\nD. Es könnte eine Elementarreaktion sein",
+        "target_scores": {
+            "A. Es handelt sich definitiv nicht um eine Elementarreaktion": 0,
+            "B. Es handelt sich definitiv um eine Elementarreaktion": 0,
+            "C. Es handelt sich definitiv um eine komplexe Reaktion": 0,
+            "D. Es könnte eine Elementarreaktion sein": 1
+        }
+    },
+    {
+        "input": "Wenn die sechste Elektronenschale im Grundzustand eines Atoms nur zwei Elektronen enthält, dann ist die Anzahl der Elektronen in der vorletzten Schale:\nA. 18 Elektronen\nB. 2 bis 8 Elektronen\nC. 8 Elektronen\nD. 8 bis 18 Elektronen",
+        "target_scores": {
+            "A. 18 Elektronen": 0,
+            "B. 2 bis 8 Elektronen": 0,
+            "C. 8 Elektronen": 0,
+            "D. 8 bis 18 Elektronen": 1
+        }
+    },
+    {
+        "input": "Eine Mischalkali-Lösung wird mit Phenolphthalein als Indikator mit einer HCl-Standardlösung bis zum Endpunkt titriert, wobei V1 mL $HCl$-Lösung verbraucht werden. Anschließend wird mit Methylorange als Indikator weiter bis zum Endpunkt titriert, wobei zusätzlich V2 mL $HCl$-Lösung verbraucht werden. Wenn $V2>V1$, dann besteht die Probe aus:\nA. $NaHCO_3$\nB. $NaOH$ und $Na_2CO_3$\nC. $Na_2CO_3$\nD. $Na_2CO_3$ und $NaHCO_3$",
+        "target_scores": {
+            "A. $NaHCO_3$": 0,
+            "B. $NaOH$ und $Na_2CO_3$": 0,
+            "C. $Na_2CO_3$": 0,
+            "D. $Na_2CO_3$ und $NaHCO_3$": 1
+        }
+    },
+    {
+        "input": "Wenn zu einer wässrigen Lösung von $[FeF_6]^{3-}$ Säure zugesetzt wird, welche der folgenden Aussagen ist richtig?\nA. Die Konzentration von $Fe^{3+}$ nimmt ab\nB. Die Konzentration von $Fe^{3+}$ nimmt zu\nC. Die Stabilität von $[FeF_6]^{3-}$ bleibt unverändert\nD. Die Stabilität von $[FeF_6]^{3-}$ nimmt zu",
+        "target_scores": {
+            "A. Die Konzentration von $Fe^{3+}$ nimmt ab": 0,
+            "B. Die Konzentration von $Fe^{3+}$ nimmt zu": 1,
+            "C. Die Stabilität von $[FeF_6]^{3-}$ bleibt unverändert": 0,
+            "D. Die Stabilität von $[FeF_6]^{3-}$ nimmt zu": 0
+        }
+    },
+    {
+        "input": "Wenn eine Reaktionsgeschwindigkeitskonstante k die Einheiten$L \\cdot mol^{-1} \\cdot s^{-1}$hat, dann ist die Reaktionsordnung dieser Reaktion ______.\nA. 0\nB. 1\nC. 2\nD. 3",
+        "target_scores": {
+            "A. 0": 0,
+            "B. 1": 0,
+            "C. 2": 1,
+            "D. 3": 0
+        }
+    },
+    {
+        "input": "Bei 298 K und konstantem Druck, wenn 1 mol Weißphosphor und 1 mol Rotphosphor vollständig mit überschüssigem $Cl_2$ (g) reagieren, um $PCl_5$(S) zu bilden, betragen die △rHmØ Werte $-447{,}1\\, \\text{KJ·mol}^{-1}$ und $-429{,}5\\, \\text{KJ·mol}^{-1}$, die △rHmØ Werte für Weißphosphor und Rotphosphor bei 298 K sind jeweils ______.\nA. $+17{,}6,\\text{KJ·mol}^{-1}$ und $0,\\text{KJ·mol}^{-1}$\nB. $-17{,}6,\\text{KJ·mol}^{-1}$ und $0,\\text{KJ·mol}^{-1}$\nC. $0,\\text{KJ·mol}^{-1}$ und $+17{,}6,\\text{KJ·mol}^{-1}$\nD. $0,\\text{KJ·mol}^{-1}$ und $-17{,}6,\\text{KJ·mol}^{-1}$",
+        "target_scores": {
+            "A. $+17{,}6,\\text{KJ·mol}^{-1}$ und $0,\\text{KJ·mol}^{-1}$": 0,
+            "B. $-17{,}6,\\text{KJ·mol}^{-1}$ und $0,\\text{KJ·mol}^{-1}$": 0,
+            "C. $0,\\text{KJ·mol}^{-1}$ und $+17{,}6,\\text{KJ·mol}^{-1}$": 0,
+            "D. $0,\\text{KJ·mol}^{-1}$ und $-17{,}6,\\text{KJ·mol}^{-1}$": 1
+        }
+    },
+    {
+        "input": "Behandelt man eine Lösung von $[FeCl(H_2O)]Br$ mit einer kleinen Menge $AgNO_3$, so entsteht ein Niederschlag, dessen Hauptbestandteil ______ ist.\nA. $AgBr$\nB. $AgCl$\nC. $AgCl$ und $AgBr$\nD. $Fe(OH)_2$",
+        "target_scores": {
+            "A. $AgBr$": 1,
+            "B. $AgCl$": 0,
+            "C. $AgCl$ und $AgBr$": 0,
+            "D. $Fe(OH)_2$": 0
+        }
+    },
+    {
+        "input": "Aceton, Cyclohexanon, Diphenylketon und Formaldehyd reagieren jeweils mit $HCN$ in einer nukleophilen Additionsreaktion. Die Reihenfolge der Reaktionsgeschwindigkeit von hoch nach niedrig ist ______.\nA. Aceton > Cyclohexanon > Diphenylketon > Formaldehyd\nB. Aceton > Diphenylketon > Formaldehyd > Cyclohexanon\nC. Formaldehyd > Aceton > Cyclohexanon > Diphenylketon\nD. Formaldehyd > Cyclohexanon > Diphenylketon > Aceton",
+        "target_scores": {
+            "A. Aceton > Cyclohexanon > Diphenylketon > Formaldehyd": 0,
+            "B. Aceton > Diphenylketon > Formaldehyd > Cyclohexanon": 0,
+            "C. Formaldehyd > Aceton > Cyclohexanon > Diphenylketon": 1,
+            "D. Formaldehyd > Cyclohexanon > Diphenylketon > Aceton": 0
+        }
+    },
+    {
+        "input": "Wenn Wasser bei einer bestimmten Temperatur und gesättigtem Dampfdruck verdampft, welcher der folgenden Werte beträgt null?\nA. $\\Delta G$\nB. $\\Delta H$\nC. $\\Delta S$\nD. $\\Delta U$",
+        "target_scores": {
+            "A. $\\Delta G$": 1,
+            "B. $\\Delta H$": 0,
+            "C. $\\Delta S$": 0,
+            "D. $\\Delta U$": 0
+        }
+    },
+    {
+        "input": "In den folgenden Molekülgruppen weisen () jeweils ein nicht-äquivalente sp³-Hybridisierung am Zentralatom auf.\nA. $BF_3$ und $H_2O$\nB. $BeCl_2$ und $BF_3$\nC. $CCl_4$ und $H_2S$\nD. $PCl_3$ und $NF_3$",
+        "target_scores": {
+            "A. $BF_3$ und $H_2O$": 0,
+            "B. $BeCl_2$ und $BF_3$": 0,
+            "C. $CCl_4$ und $H_2S$": 0,
+            "D. $PCl_3$ und $NF_3$": 1
+        }
+    },
+    {
+        "input": "In den folgenden Substanzen gehört ____ nicht zu den reduzierenden Zuckern.\nA. Fructose;\nB. Glucose;\nC. Maltose;\nD. Saccharose;",
+        "target_scores": {
+            "A. Fructose;": 0,
+            "B. Glucose;": 0,
+            "C. Maltose;": 0,
+            "D. Saccharose;": 1
+        }
+    },
+    {
+        "input": "In einer $pH=6$-Pufferlösung liegt Lysin ($pI=9{,}74$) überwiegend in folgender Form vor:\nA. Anion\nB. Kation\nC. Keine der oben genannten\nD. Zwitterion",
+        "target_scores": {
+            "A. Anion": 0,
+            "B. Kation": 1,
+            "C. Keine der oben genannten": 0,
+            "D. Zwitterion": 0
+        }
+    },
+    {
+        "input": "$Ca^{2+}$ wird als $CaC_2O_4$ gefällt, anschließend in Säure gelöst und das entstehende $H_2C_2O_4$ mit einer $KMnO_4$-Maßlösung titriert, um den Calciumgehalt zu bestimmen. Die verwendete Titrationsmethode ist ____.\nA. Direkttitration\nB. Indirekte Titration\nC. Redoxtitration\nD. Rücktitration",
+        "target_scores": {
+            "A. Direkttitration": 0,
+            "B. Indirekte Titration": 1,
+            "C. Redoxtitration": 0,
+            "D. Rücktitration": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Verbindungen reagiert mit einer wässrigen $KOH$-Lösung nach dem $SN_2$-Mechanismus am schnellsten?\nA. 2,2-Dimethyl-1-brompropan\nB. 2-Brompentan\nC. 2-Methyl-1-Brombutan\nD. 3-Methyl-1-Brombutan",
+        "target_scores": {
+            "A. 2,2-Dimethyl-1-brompropan": 0,
+            "B. 2-Brompentan": 0,
+            "C. 2-Methyl-1-Brombutan": 0,
+            "D. 3-Methyl-1-Brombutan": 1
+        }
+    },
+    {
+        "input": "In der quantitativen Analyse besteht das Ziel der mehrfachen parallelen Messung derselben Probe darin:\nA. Den Einfluss zufälliger Fehler auf das Messergebnis zu verringern\nB. Gerätefehler zu kompensieren\nC. Reagenzienfehler zu vermeiden\nD. Zu überprüfen, ob systematische Fehler vorhanden sind",
+        "target_scores": {
+            "A. Den Einfluss zufälliger Fehler auf das Messergebnis zu verringern": 1,
+            "B. Gerätefehler zu kompensieren": 0,
+            "C. Reagenzienfehler zu vermeiden": 0,
+            "D. Zu überprüfen, ob systematische Fehler vorhanden sind": 0
+        }
+    },
+    {
+        "input": "Am isoelektrischen Punkt ist die Löslichkeit von Aminosäuren in Wasser und die Konzentration der Zwitterionen:\nA. Maximale Löslichkeit, maximale Zwitterionenkonzentration\nB. Maximale Löslichkeit, minimale Zwitterionenkonzentration\nC. Minimale Löslichkeit, maximale Zwitterionenkonzentration\nD. Minimale Löslichkeit, minimale Zwitterionenkonzentration",
+        "target_scores": {
+            "A. Maximale Löslichkeit, maximale Zwitterionenkonzentration": 0,
+            "B. Maximale Löslichkeit, minimale Zwitterionenkonzentration": 0,
+            "C. Minimale Löslichkeit, maximale Zwitterionenkonzentration": 1,
+            "D. Minimale Löslichkeit, minimale Zwitterionenkonzentration": 0
+        }
+    },
+    {
+        "input": "Welches der folgenden Moleküle hat ein Zentralatom, das sp-hybridisiert ist?\nA. $BH_3$\nB. $CO_2$\nC. $H_2O$\nD. $NH_3$",
+        "target_scores": {
+            "A. $BH_3$": 0,
+            "B. $CO_2$": 1,
+            "C. $H_2O$": 0,
+            "D. $NH_3$": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Verbindungen hat den größten pKa-Wert?\nA. Essigsäure\nB. Kohlensäure\nC. Phenol\nD. Trichloressigsäure",
+        "target_scores": {
+            "A. Essigsäure": 0,
+            "B. Kohlensäure": 0,
+            "C. Phenol": 1,
+            "D. Trichloressigsäure": 0
+        }
+    },
+    {
+        "input": "Der höchste Siedepunkt einer wässrigen Lösung der folgenden Stoffe mit der gleichen  Molalität ist ______.\nA. $CH_3COOH$\nB. $C_{12}H_{22}O_{11}$\nC. $CaCl_2$\nD. $NaCl$",
+        "target_scores": {
+            "A. $CH_3COOH$": 0,
+            "B. $C_{12}H_{22}O_{11}$": 0,
+            "C. $CaCl_2$": 1,
+            "D. $NaCl$": 0
+        }
+    },
+    {
+        "input": "Unter den gleichen Bedingungen ist der Gefrierpunkt der wässrigen Lösung A höher als der der wässrigen Lösung B. Wie ist der Siedepunkt von Lösung A im Vergleich zu Lösung B?\nA. A ist höher\nB. A ist niedriger\nC. Beide sind gleich\nD. Es kann nicht bestimmt werden",
+        "target_scores": {
+            "A. A ist höher": 0,
+            "B. A ist niedriger": 1,
+            "C. Beide sind gleich": 0,
+            "D. Es kann nicht bestimmt werden": 0
+        }
+    },
+    {
+        "input": "Bei 298 K und 100 kPa beträgt die Aktivierungsenergie einer Elementarreaktion $10{,}7\\, \\text{kJ} \\cdot \\text{mol}^{-1}$ und die Reaktionsenthalpie $-193{,}8\\, \\text{kJ} \\cdot \\text{mol}^{-1}$. Die Aktivierungsenergie der Rückreaktion beträgt ( ).\nA. $-183{,}1\\, \\text{kJ} \\cdot \\text{mol}^{-1}$\nB. $-204{,}5\\, \\text{kJ} \\cdot \\text{mol}^{-1}$\nC. $183{,}1\\, \\text{kJ} \\cdot \\text{mol}^{-1}$\nD. $204{,}5\\, \\text{kJ} \\cdot \\text{mol}^{-1}$",
+        "target_scores": {
+            "A. $-183{,}1\\, \\text{kJ} \\cdot \\text{mol}^{-1}$": 0,
+            "B. $-204{,}5\\, \\text{kJ} \\cdot \\text{mol}^{-1}$": 0,
+            "C. $183{,}1\\, \\text{kJ} \\cdot \\text{mol}^{-1}$": 0,
+            "D. $204{,}5\\, \\text{kJ} \\cdot \\text{mol}^{-1}$": 1
+        }
+    },
+    {
+        "input": "Welches der folgenden Moleküle hat bei Raumtemperatur ein Dipolmoment ungleich null?\nA. $BF_3$\nB. $CH_4$\nC. $CO_2$\nD. $SO_2$",
+        "target_scores": {
+            "A. $BF_3$": 0,
+            "B. $CH_4$": 0,
+            "C. $CO_2$": 0,
+            "D. $SO_2$": 1
+        }
+    },
+    {
+        "input": "Die folgende Reihenfolge der Basizität der Verbindungen vom stärksten zur schwächsten lautet (). ① Benzamid ② Phthalimid ③ Harnstoff ④ Tetramethylammoniumhydroxid\nA. ①>②>③>④\nB. ②>③>④>①\nC. ④>③>①>②\nD. ④>③>②>①",
+        "target_scores": {
+            "A. ①>②>③>④": 0,
+            "B. ②>③>④>①": 0,
+            "C. ④>③>①>②": 1,
+            "D. ④>③>②>①": 0
+        }
+    },
+    {
+        "input": "Wenn man das dreifache Volumen an Wasser zur Ammoniaklösung hinzufügt, wird sich der pH-Wert der Lösung:\nA. um 2 lg 2 erhöhen\nB. um 2 lg 2 verringern\nC. um lg 2 erhöhen\nD. um lg 2 verringern",
+        "target_scores": {
+            "A. um 2 lg 2 erhöhen": 0,
+            "B. um 2 lg 2 verringern": 0,
+            "C. um lg 2 erhöhen": 0,
+            "D. um lg 2 verringern": 1
+        }
+    },
+    {
+        "input": "Von den folgenden Halogenwasserstoffsäuren mit gleicher Konzentration ist ______ die sauerste.\nA. $HBr$\nB. $HCl$\nC. $HF$\nD. $HI$",
+        "target_scores": {
+            "A. $HBr$": 0,
+            "B. $HCl$": 0,
+            "C. $HF$": 0,
+            "D. $HI$": 1
+        }
+    },
+    {
+        "input": "Welche der folgenden Trennungsmethoden eignet sich am besten zur Trennung von Zimtalkohol (Siedepunkt etwa 257°C) und Zimtaldehyd (Siedepunkt etwa 253°C)?\nA. Destillation\nB. Destillation unter vermindertem Druck\nC. Fällung mit gesättigter Natriumbisulfitlösung\nD. Wasserextraktion",
+        "target_scores": {
+            "A. Destillation": 0,
+            "B. Destillation unter vermindertem Druck": 0,
+            "C. Fällung mit gesättigter Natriumbisulfitlösung": 1,
+            "D. Wasserextraktion": 0
+        }
+    },
+    {
+        "input": "Der Gefrierpunkt einer wässrigen Lösung wird mit -0,186°C bestimmt. Welcher der folgenden Werte ist richtig? (Gegeben: $Kf = 1{,}86$ und $Kb = 0{,}512$)\nA. $\\Delta p = p^* \\times 0{,}1$\nB. $\\pi = 1{,}204$\nC. Der Siedepunkt der Lösung ist 100,0512°C\nD. Keine der obigen Angaben ist richtig",
+        "target_scores": {
+            "A. $\\Delta p = p^* \\times 0{,}1$": 0,
+            "B. $\\pi = 1{,}204$": 0,
+            "C. Der Siedepunkt der Lösung ist 100,0512°C": 1,
+            "D. Keine der obigen Angaben ist richtig": 0
+        }
+    },
+    {
+        "input": "Wenn eine Glucoselösung ($C_6H_{12}O_6$) mit einem Massenanteil von 0,05 isotonisch zum Blut ist, ist der osmotische Druck einer Harnstofflösung$[(NH_2)_2CO]$ mit demselben Massenanteil von 0,05 im Vergleich zum Blut:\nA. gleich\nB. höher\nC. nicht beurteilbar\nD. niedriger",
+        "target_scores": {
+            "A. gleich": 0,
+            "B. höher": 1,
+            "C. nicht beurteilbar": 0,
+            "D. niedriger": 0
+        }
+    },
+    {
+        "input": "Bei der komplexometrischen Titration mit EDTA zur Titration von Metallionen wird der pH-Wert des Systems ____, wenn keine Pufferlösung zur Kontrolle der Azidität des Mediums verwendet wird.\nA. ansteigen\nB. konstant bleiben\nC. sinken\nD. unbestimmbar",
+        "target_scores": {
+            "A. ansteigen": 0,
+            "B. konstant bleiben": 0,
+            "C. sinken": 1,
+            "D. unbestimmbar": 0
+        }
+    },
+    {
+        "input": "Die Stabilität welcher der folgenden Komplexe wird am wenigsten durch Säureeinwirkung beeinflusst?\nA. $[Ag(S_2O_3)_2]^{3-}$\nB. $[CdCl_4]^{2-}$\nC. $[FeF_6]^{3-}$\nD. $[MgY]^{2-}$",
+        "target_scores": {
+            "A. $[Ag(S_2O_3)_2]^{3-}$": 0,
+            "B. $[CdCl_4]^{2-}$": 1,
+            "C. $[FeF_6]^{3-}$": 0,
+            "D. $[MgY]^{2-}$": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Substanzen reagiert nicht mit Tollens-Reagenz? ______.\nA. Fructose\nB. Methylformiat\nC. Phenylacetylen\nD. Saccharose",
+        "target_scores": {
+            "A. Fructose": 0,
+            "B. Methylformiat": 0,
+            "C. Phenylacetylen": 0,
+            "D. Saccharose": 1
+        }
+    },
+    {
+        "input": "Der Siedepunkt von $H_2O$ beträgt 100°C, während $H_2Se$ bei -42°C siedet. Welche der folgenden Theorien kann diesen Unterschied erklären? ______.\nA. Ionenbindungen\nB. Kovalente Bindungen\nC. Van-der-Waals-Kräfte\nD. Wasserstoffbrückenbindungen",
+        "target_scores": {
+            "A. Ionenbindungen": 0,
+            "B. Kovalente Bindungen": 0,
+            "C. Van-der-Waals-Kräfte": 0,
+            "D. Wasserstoffbrückenbindungen": 1
+        }
+    },
+    {
+        "input": "Welche der folgenden Verbindungen zeigt die stärkste Basizität?\nA. Acetamid\nB. Ammoniak\nC. Anilin\nD. Pyrrolidin",
+        "target_scores": {
+            "A. Acetamid": 0,
+            "B. Ammoniak": 0,
+            "C. Anilin": 0,
+            "D. Pyrrolidin": 1
+        }
+    },
+    {
+        "input": "In der praktischen Arbeit, wie bei der Rücktitration zur Bestimmung der Ammoniaklösungskonzentration, sollte ein Leerversuch durchgeführt werden. Welche der folgenden Aussagen zur Ammoniak-Rücktitration ist nicht korrekt? ______.\nA. Bei zu hohem Leerwert sollten die Reagenzien gereinigt und die Messung wiederholt werden\nB. Das bei der Rücktitration verwendete Natronlauge-Volumen muss nicht unbedingt mehr als 20 mL betragen\nC. Der Leerversuch dient zur Reduzierung von Reagenzienfehlern\nD. Die verwendete Salzsäure- und Natronlauge-Lösung müssen genau standardisiert werden",
+        "target_scores": {
+            "A. Bei zu hohem Leerwert sollten die Reagenzien gereinigt und die Messung wiederholt werden": 0,
+            "B. Das bei der Rücktitration verwendete Natronlauge-Volumen muss nicht unbedingt mehr als 20 mL betragen": 1,
+            "C. Der Leerversuch dient zur Reduzierung von Reagenzienfehlern": 0,
+            "D. Die verwendete Salzsäure- und Natronlauge-Lösung müssen genau standardisiert werden": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Typen glykosidischer Bindungen kommen in Stärkemolekülen vor?\nA. α-1,4-glykosidische Bindung und α-1,6-glykosidische Bindung\nB. α-1,4-glykosidische Bindung und β-1,4-glykosidische Bindung\nC. α-1,6-glykosidische Bindung und β-1,6-glykosidische Bindung\nD. β-1,4-glykosidische Bindung und β-1,6-glykosidische Bindung",
+        "target_scores": {
+            "A. α-1,4-glykosidische Bindung und α-1,6-glykosidische Bindung": 1,
+            "B. α-1,4-glykosidische Bindung und β-1,4-glykosidische Bindung": 0,
+            "C. α-1,6-glykosidische Bindung und β-1,6-glykosidische Bindung": 0,
+            "D. β-1,4-glykosidische Bindung und β-1,6-glykosidische Bindung": 0
+        }
+    },
+    {
+        "input": "0.45 g eines Nichtelektrolyten werden in 30 g Wasser gelöst, der Gefrierpunkt der Lösung beträgt -0,15°C. Bei einer Kryoskopiekonstante des Wassers von $K_f=1{,}86\\, \\mathrm{K \\cdot kg \\cdot mol^{-1}}$ beträgt die molare Masse (g·mol⁻¹) des Nichtelektrolyten etwa:\nA. 100\nB. 186\nC. 204\nD. 83,2",
+        "target_scores": {
+            "A. 100": 0,
+            "B. 186": 1,
+            "C. 204": 0,
+            "D. 83,2": 0
+        }
+    },
+    {
+        "input": "Wenn zu einer wässrigen Lösung einer Mischung aus Glutaminsäure ($pI=3{,}22$), Valin ($pI=5{,}96$) und Arginin ($pI=10{,}76$) verdünnte Salzsäure zugegeben wird, bis der pH-Wert 6 beträgt, liegt ______ hauptsächlich in der Kationenform vor.\nA. Arginin\nB. Glutaminsäure\nC. Glutaminsäure und Arginin\nD. Valin",
+        "target_scores": {
+            "A. Arginin": 1,
+            "B. Glutaminsäure": 0,
+            "C. Glutaminsäure und Arginin": 0,
+            "D. Valin": 0
+        }
+    },
+    {
+        "input": "Unter Peroxid-Bedingungen verläuft die Reaktion von Alkenen mit $HBr$ nach welchem Mechanismus? ______.\nA. Elektrophile Addition\nB. Konzertierte Reaktion\nC. Nukleophile Addition\nD. Radikalische Addition",
+        "target_scores": {
+            "A. Elektrophile Addition": 0,
+            "B. Konzertierte Reaktion": 0,
+            "C. Nukleophile Addition": 0,
+            "D. Radikalische Addition": 1
+        }
+    },
+    {
+        "input": "Zu einer wässrigen Lösung von $K_2Cr_2O_7$ wird eine Lösung von $Pb(NO_3)_2$ getropft, und der entstandene Niederschlag ist ______.\nA. $Pb(OH)_2$\nB. $PbCrO_4$\nC. $PbCr_2O_7$\nD. $PbO_2$",
+        "target_scores": {
+            "A. $Pb(OH)_2$": 0,
+            "B. $PbCrO_4$": 1,
+            "C. $PbCr_2O_7$": 0,
+            "D. $PbO_2$": 0
+        }
+    },
+    {
+        "input": "Wenn 0,15 L Sauerstoff bei $9{,}8 \\times 10^4$ Pa und 0,30 L Stickstoff bei 4,66 × 10⁵ Pa in einen 0,30 L Vakuumbehälter eingefüllt werden, beträgt der Gesamtdruck des Gasgemisches ______ Pa.\nA. $1{,}23 \\times 10^5$ Pa\nB. $3{,}33 \\times 10^5$ Pa\nC. $5{,}15 \\times 10^5$ Pa\nD. $9{,}65 \\times 10^5$ Pa",
+        "target_scores": {
+            "A. $1{,}23 \\times 10^5$ Pa": 0,
+            "B. $3{,}33 \\times 10^5$ Pa": 0,
+            "C. $5{,}15 \\times 10^5$ Pa": 1,
+            "D. $9{,}65 \\times 10^5$ Pa": 0
+        }
+    },
+    {
+        "input": "Die Säurestärke folgt der Reihenfolge: Wasser > Ethanol > Acetylen. Welche der folgenden Aussagen ist nicht zutreffend?\nA. Zugabe von Acetylen zu Natriumethanolat führt zur Bildung von Natriumacetylenid\nB. Zugabe von Ethanol zu Natriumacetylenid führt zur Bildung von Natriumethanolat\nC. Zugabe von Wasser zu Natriumacetylenid führt zur Bildung von Natriumhydroxid\nD. Zugabe von Wasser zu Natriumethanolat führt zur Bildung von Natriumhydroxid",
+        "target_scores": {
+            "A. Zugabe von Acetylen zu Natriumethanolat führt zur Bildung von Natriumacetylenid": 1,
+            "B. Zugabe von Ethanol zu Natriumacetylenid führt zur Bildung von Natriumethanolat": 0,
+            "C. Zugabe von Wasser zu Natriumacetylenid führt zur Bildung von Natriumhydroxid": 0,
+            "D. Zugabe von Wasser zu Natriumethanolat führt zur Bildung von Natriumhydroxid": 0
+        }
+    },
+    {
+        "input": "Wie viele Isomere sind für das Komplex-Ion $[Co(NH_3)_4(H_2O)_2]^{3+}$ möglich? ______\nA. 1 Art\nB. 2 Arten\nC. 3 Arten\nD. 4 Arten",
+        "target_scores": {
+            "A. 1 Art": 0,
+            "B. 2 Arten": 1,
+            "C. 3 Arten": 0,
+            "D. 4 Arten": 0
+        }
+    },
+    {
+        "input": "Für die Reaktion $A \\Leftrightarrow B$ gilt bei 298K: KHin=100KRück. Wie ist das Verhältnis der Aktivierungsenergien der Hin- und Rückreaktion?\nA. EaHin< EaRück\nB. EaHin= EaRück\nC. EaHin> EaRück\nD. Unbestimmbar",
+        "target_scores": {
+            "A. EaHin< EaRück": 1,
+            "B. EaHin= EaRück": 0,
+            "C. EaHin> EaRück": 0,
+            "D. Unbestimmbar": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Reaktionen verläuft langsamer, wenn die Konzentration des Reagenzes sinkt?\nA. Beide Reaktionen\nB. E2-Reaktion\nC. Keine von beiden\nD. S<SUB>N</SUB>2-Reaktion",
+        "target_scores": {
+            "A. Beide Reaktionen": 1,
+            "B. E2-Reaktion": 0,
+            "C. Keine von beiden": 0,
+            "D. S<SUB>N</SUB>2-Reaktion": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Verbindungen kann in verdünnter Säure nicht hydrolysiert werden?\nA. Acetaldehyd-2,4-dinitrophenylhydrazon\nB. Diacetyldioxim\nC. Propionaldehyddiethylacetal\nD. β-Hydroxybutyraldehyd",
+        "target_scores": {
+            "A. Acetaldehyd-2,4-dinitrophenylhydrazon": 0,
+            "B. Diacetyldioxim": 0,
+            "C. Propionaldehyddiethylacetal": 0,
+            "D. β-Hydroxybutyraldehyd": 1
+        }
+    },
+    {
+        "input": "Für das Gleichgewichtssystem aus $NaCl$-Kristallen, Saccharose-Kristallen und ihrer gesättigten wässrigen Mischlösung bei konstantem Druck betragen die Anzahl der unabhängigen Komponenten (C) und die Freiheitsgrade (f'') ______.\nA. $C=3$, $f\"=1$\nB. $C=3$, $f\"=2$\nC. $C=4$, $f\"=2$\nD. $C=4$, $f\"=3$",
+        "target_scores": {
+            "A. $C=3$, $f\"=1$": 1,
+            "B. $C=3$, $f\"=2$": 0,
+            "C. $C=4$, $f\"=2$": 0,
+            "D. $C=4$, $f\"=3$": 0
+        }
+    },
+    {
+        "input": "In einem hermetisch verschlossenen, temperaturkonstanten Behälter befinden sich zwei unterschiedlich große Quecksilbertropfen. Nach ausreichender Zeit ist im Behälter noch flüssiges Quecksilber vorhanden. Welche der folgenden Aussagen ist korrekt? ______\nA. Der größere Tropfen verschwindet\nB. Der kleinere Tropfen verschwindet\nC. Zwei gleich große Tropfen bleiben bestehen\nD. Zwei unterschiedlich große Tropfen bleiben bestehen",
+        "target_scores": {
+            "A. Der größere Tropfen verschwindet": 0,
+            "B. Der kleinere Tropfen verschwindet": 1,
+            "C. Zwei gleich große Tropfen bleiben bestehen": 0,
+            "D. Zwei unterschiedlich große Tropfen bleiben bestehen": 0
+        }
+    },
+    {
+        "input": "Ein Wassertropfen und eine Gasblase sind vorhanden. Die Richtung des zusätzlichen Drucks ist jeweils:\nA. Wassertropfen: nach außen, Gasblase: nach außen\nB. Wassertropfen: nach außen, Gasblase: nach innen\nC. Wassertropfen: nach innen, Gasblase: nach außen\nD. Wassertropfen: nach innen, Gasblase: nach innen",
+        "target_scores": {
+            "A. Wassertropfen: nach außen, Gasblase: nach außen": 0,
+            "B. Wassertropfen: nach außen, Gasblase: nach innen": 0,
+            "C. Wassertropfen: nach innen, Gasblase: nach außen": 0,
+            "D. Wassertropfen: nach innen, Gasblase: nach innen": 1
+        }
+    },
+    {
+        "input": "In einem horizontal angeordneten sauberen Glaskapillarrohr befindet sich eine frei bewegliche Wassersäule. Wenn das rechte Ende der Säule leicht erwärmt wird, ist folgendes Phänomen zu beobachten: ______\nA. Die Wassersäule bewegt sich nach links\nB. Die Wassersäule bewegt sich nach rechts\nC. Die Wassersäule bewegt sich nicht\nD. Keine eindeutige Aussage möglich",
+        "target_scores": {
+            "A. Die Wassersäule bewegt sich nach links": 1,
+            "B. Die Wassersäule bewegt sich nach rechts": 0,
+            "C. Die Wassersäule bewegt sich nicht": 0,
+            "D. Keine eindeutige Aussage möglich": 0
+        }
+    },
+    {
+        "input": "Beim Verdünnen einer sehr konzentrierten Elektrolytlösung bei konstanter Temperatur ist das Veränderungsverhalten der elektrischen Leitfähigkeit κ und der molaren Leitfähigkeit $Λ_m$ wie folgt: ______.\nA. κ nimmt ab, $Λ_m$ nimmt zu\nB. κ nimmt zu, $Λ_m$ nimmt zu\nC. κ nimmt zunächst zu und dann ab, $Λ_m$ nimmt zu\nD. κ verändert sich unregelmäßig, $Λ_m$ nimmt zu",
+        "target_scores": {
+            "A. κ nimmt ab, $Λ_m$ nimmt zu": 0,
+            "B. κ nimmt zu, $Λ_m$ nimmt zu": 0,
+            "C. κ nimmt zunächst zu und dann ab, $Λ_m$ nimmt zu": 1,
+            "D. κ verändert sich unregelmäßig, $Λ_m$ nimmt zu": 0
+        }
+    },
+    {
+        "input": "Im Winter kann man Salz auf vereiste Straßen streuen, um das Ausrutschen zu verhindern. Welche Eigenschaft verdünnter Lösungen wird dabei ausgenutzt?\nA. Der Gefrierpunkt des Lösungsmittels wird erniedrigt\nB. Der Siedepunkt des Lösungsmittels wird erhöht\nC. Der Sättigungsdampfdruck des Lösungsmittels sinkt\nD. Verdünnte Lösungen besitzen einen osmotischen Druck",
+        "target_scores": {
+            "A. Der Gefrierpunkt des Lösungsmittels wird erniedrigt": 1,
+            "B. Der Siedepunkt des Lösungsmittels wird erhöht": 0,
+            "C. Der Sättigungsdampfdruck des Lösungsmittels sinkt": 0,
+            "D. Verdünnte Lösungen besitzen einen osmotischen Druck": 0
+        }
+    },
+    {
+        "input": "Wenn zwischen zwei verdünnten Elektrolytlösungen keine Osmose auftritt, welche der folgenden Aussagen ist richtig?\nA. Die Gefrierpunktserniedrigungen der beiden Lösungen sind gleich.\nB. Die Stoffmengenkonzentrationen der beiden Lösungen sind gleich.\nC. Die Volumina der beiden Lösungen sind gleich.\nD. Die molaren Massenkonzentrationen der beiden Lösungen sind gleich.",
+        "target_scores": {
+            "A. Die Gefrierpunktserniedrigungen der beiden Lösungen sind gleich.": 1,
+            "B. Die Stoffmengenkonzentrationen der beiden Lösungen sind gleich.": 0,
+            "C. Die Volumina der beiden Lösungen sind gleich.": 0,
+            "D. Die molaren Massenkonzentrationen der beiden Lösungen sind gleich.": 0
+        }
+    },
+    {
+        "input": "Der CaO-Gehalt in Kalkstein wird mit EDTA $[ c(H_2Y^{2-}) = 0{,}02\\, \\text{mol} \\cdot \\text{L}^{-1} ]$ bestimmt (die relative Molekülmasse von CaO beträgt bekanntlich 56,08). Wenn die Probe etwa 50% $CaO$ enthält, die Probe gelöst und auf 250,00 mL aufgefüllt wird, 25,00 mL der Probenlösung zur Titration entnommen werden und der Bestimmungsfehler nicht mehr als wenige Promille betragen soll, dann sollte die Probeneinwaage ______ betragen.\nA. 0,1 g oder so\nB. 0,2 bis 0,4 g\nC. 0,3 bis 0,45 g\nD. 1,2 bis 2,4 g",
+        "target_scores": {
+            "A. 0,1 g oder so": 0,
+            "B. 0,2 bis 0,4 g": 0,
+            "C. 0,3 bis 0,45 g": 1,
+            "D. 1,2 bis 2,4 g": 0
+        }
+    },
+    {
+        "input": "Unter schwach basischen Bedingungen ist die Verbindung, die mit Benzoldiazoniumchlorid eine Kopplungsreaktion eingehen und eine Azoverbindung bilden kann, ______.\nA. 2,4,6-Trichlorphenol\nB. Nitrobenzol\nC. Phenol\nD. Pyridin",
+        "target_scores": {
+            "A. 2,4,6-Trichlorphenol": 0,
+            "B. Nitrobenzol": 0,
+            "C. Phenol": 1,
+            "D. Pyridin": 0
+        }
+    },
+    {
+        "input": "4,5 g eines Nichtelektrolyten werden in 125 g Wasser gelöst. Der Gefrierpunkt dieser Lösung beträgt -0,372 °C. Dann beträgt die relative Molekülmasse dieser Substanz ______.\nA. 135\nB. 172,5\nC. 180\nD. 90",
+        "target_scores": {
+            "A. 135": 0,
+            "B. 172,5": 0,
+            "C. 180": 1,
+            "D. 90": 0
+        }
+    },
+    {
+        "input": "Wird eine leicht überschüssige Kaliumchlorid-Lösung mit Silbernitrat-Lösung gemischt, um kolloidales $AgCl$ herzustellen, welcher der folgenden Elektrolyte zeigt die stärkste Koagulationswirkung? ______.\nA. $Al_2(SO_4)_3$\nB. $MgCl_2$\nC. $Na_2SO_4$\nD. $Na_3PO_4$",
+        "target_scores": {
+            "A. $Al_2(SO_4)_3$": 1,
+            "B. $MgCl_2$": 0,
+            "C. $Na_2SO_4$": 0,
+            "D. $Na_3PO_4$": 0
+        }
+    },
+    {
+        "input": "Bei 25°C betragen die Löslichkeitsprodukte von $AgCl$ und $Ag_2CrO_4$​ jeweils $1{,}56\\times 10^{-10}$ und $1{,}12\\times 10^{-12}$. Im Vergleich der Löslichkeiten von $AgCl$ und $Ag_2CrO_4$​ gilt: ______.\nA. Beide sind gleich\nB. Erstere ist doppelt so groß wie letztere\nC. Erstere ist größer\nD. Erstere ist kleiner",
+        "target_scores": {
+            "A. Beide sind gleich": 0,
+            "B. Erstere ist doppelt so groß wie letztere": 0,
+            "C. Erstere ist größer": 0,
+            "D. Erstere ist kleiner": 1
+        }
+    },
+    {
+        "input": "Welche der folgenden Substituenten am Benzolring wirkt als meta-dirigierende Gruppe?\nA. Aminogruppe\nB. Halogenatom\nC. Methylgruppe\nD. Nitrogruppe",
+        "target_scores": {
+            "A. Aminogruppe": 0,
+            "B. Halogenatom": 0,
+            "C. Methylgruppe": 0,
+            "D. Nitrogruppe": 1
+        }
+    },
+    {
+        "input": "Bei der Titration von $HCl$ mit Borax als Standard löst ein Student das Borax unter Rühren mit einem Glasstab im Erlenmeyerkolben und entfernt den Rührstab anschließend ohne weitere Behandlung. Dadurch wird das Titrationsergebnis ______.\nA. korrekt\nB. mit engerem Konfidenzintervall\nC. zu hoch\nD. zu niedrig",
+        "target_scores": {
+            "A. korrekt": 0,
+            "B. mit engerem Konfidenzintervall": 0,
+            "C. zu hoch": 1,
+            "D. zu niedrig": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Verbindungen ist eine heterocyclische Verbindung?\nA. Furfural\nB. Gallussäure\nC. Pikrinsäure\nD. Salicylsäure",
+        "target_scores": {
+            "A. Furfural": 1,
+            "B. Gallussäure": 0,
+            "C. Pikrinsäure": 0,
+            "D. Salicylsäure": 0
+        }
+    },
+    {
+        "input": "Die Löslichkeit von $AgCl(s)$ in Wasser, in Calciumchloridlösung mit $c(CaCl_2)=0{,}01\\, \\text{mol} \\cdot \\text{L}^{-1}$, in Natriumchloridlösung mit $c(NaCl)=0{,}01\\, \\text{mol} \\cdot \\text{L}^{-1}$ und in Silbernitratlösung mit $c(AgNO_3)=0{,}05\\, \\text{mol} \\cdot \\text{L}^{-1}$ ist die Löslichkeit in Silbernitratlösung jeweils S0, S1, S2, S3. dann ______.\nA. $S0>S1=S2>S3$\nB. $S0>S1>S2>S3$\nC. $S0>S2>S1>S3$\nD. $S0>S2>S3>S1$",
+        "target_scores": {
+            "A. $S0>S1=S2>S3$": 0,
+            "B. $S0>S1>S2>S3$": 0,
+            "C. $S0>S2>S1>S3$": 1,
+            "D. $S0>S2>S3>S1$": 0
+        }
+    },
+    {
+        "input": "In welchem der folgenden Lösungsmittel zeigt Methyl-α-D-glucopyranosid Mutarotation?\nA. Ammoniakwasser\nB. ethanolische Natriumethanolat-Lösung\nC. wässrige Natriumphenolat-Lösung\nD. wässrige Trinitrophenol-Lösung",
+        "target_scores": {
+            "A. Ammoniakwasser": 0,
+            "B. ethanolische Natriumethanolat-Lösung": 0,
+            "C. wässrige Natriumphenolat-Lösung": 0,
+            "D. wässrige Trinitrophenol-Lösung": 1
+        }
+    },
+    {
+        "input": "In welchem der folgenden Fälle erfolgt die Hydrolyse eines Halogenalkans nicht nach dem $S_N2$-Mechanismus? ______.\nA. Erhöhung der Basenkonzentration beschleunigt die Reaktion\nB. Reaktion verläuft einstufig\nC. Reaktion verläuft zweistufig\nD. Vollständige Konfigurationsumkehr des Produkts",
+        "target_scores": {
+            "A. Erhöhung der Basenkonzentration beschleunigt die Reaktion": 0,
+            "B. Reaktion verläuft einstufig": 0,
+            "C. Reaktion verläuft zweistufig": 1,
+            "D. Vollständige Konfigurationsumkehr des Produkts": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Beschreibungen eines Elektronenzustands mit den vier Quantenzahlen n, l, m, m_s ist unzulässig?\nA. 3,0,1,-1/2\nB. 3,1,1,+1/2\nC. 3,2,-2,+1/2\nD. 3,2,1,-1/2",
+        "target_scores": {
+            "A. 3,0,1,-1/2": 1,
+            "B. 3,1,1,+1/2": 0,
+            "C. 3,2,-2,+1/2": 0,
+            "D. 3,2,1,-1/2": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Fettsäuren ist ungesättigt?\nA. Laurinsäure\nB. Palmitinsäure\nC. Stearinsäure\nD. Ölsäure",
+        "target_scores": {
+            "A. Laurinsäure": 0,
+            "B. Palmitinsäure": 0,
+            "C. Stearinsäure": 0,
+            "D. Ölsäure": 1
+        }
+    },
+    {
+        "input": "Welche der folgenden Carbonylverbindungen zeigt die höchste Reaktivität bei nukleophilen Additionen?\nA. $CH_3CHO$\nB. $F_3C\\text{-CHO}$\nC. $HCHO$\nD. Aceton",
+        "target_scores": {
+            "A. $CH_3CHO$": 0,
+            "B. $F_3C\\text{-CHO}$": 1,
+            "C. $HCHO$": 0,
+            "D. Aceton": 0
+        }
+    },
+    {
+        "input": "Eine Aminosäure löst sich vollständig in reinem Wasser ($pH＝7$) und ergibt eine Lösung mit $pH＝6$. Der isoelektrische Punkt dieser Aminosäure liegt ______.\nA. bei 6\nB. nicht bestimmbar\nC. unter 6\nD. über 6",
+        "target_scores": {
+            "A. bei 6": 0,
+            "B. nicht bestimmbar": 0,
+            "C. unter 6": 1,
+            "D. über 6": 0
+        }
+    },
+    {
+        "input": "Wird eine Aminosäure in Wasser ($pH=8{,}5$) gelöst und einem elektrischen Feld ausgesetzt, bewegt sie sich zur Kathode. Dies zeigt, dass die Aminosäure ______ ist.\nA. eine basische Aminosäure\nB. eine neutrale Aminosäure\nC. eine saure Aminosäure\nD. nicht bestimmbar",
+        "target_scores": {
+            "A. eine basische Aminosäure": 1,
+            "B. eine neutrale Aminosäure": 0,
+            "C. eine saure Aminosäure": 0,
+            "D. nicht bestimmbar": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Substanzen kann sowohl Proteinausfällung als auch Denaturierung verursachen? ______.\nA. $NaCl$\nB. $Na_2CO_3$\nC. $Na_2SO_4$\nD. Pikrinsäure",
+        "target_scores": {
+            "A. $NaCl$": 0,
+            "B. $Na_2CO_3$": 0,
+            "C. $Na_2SO_4$": 0,
+            "D. Pikrinsäure": 1
+        }
+    },
+    {
+        "input": "Welche der folgenden Verbindungen hat den höchsten Schmelzpunkt?\nA. Acetaldehyd\nB. Acetamid\nC. Essigsäure\nD. Glycin",
+        "target_scores": {
+            "A. Acetaldehyd": 0,
+            "B. Acetamid": 0,
+            "C. Essigsäure": 0,
+            "D. Glycin": 1
+        }
+    },
+    {
+        "input": "Man nimmt zwei gleiche Volumina eines Gemisches, das die gleiche Stoffmenge $NaOH$ und $Na_2CO_3$ enthält. Eine Probe wird mit Phenolphthalein als Indikator titriert, wobei das verbrauchte HCl-Volumen V_1 beträgt; die andere Probe wird mit Methylorange als Indikator mit HCl derselben Konzentration titriert, wobei das verbrauchte Volumen V_2 beträgt. Das Verhältnis zwischen V_1 und V_2 ist ______.\nA. $2V_1=3V_2$\nB. $3V_1=2V_2$\nC. $V_1=2V_2$\nD. $V_2=2V_1$",
+        "target_scores": {
+            "A. $2V_1=3V_2$": 0,
+            "B. $3V_1=2V_2$": 1,
+            "C. $V_1=2V_2$": 0,
+            "D. $V_2=2V_1$": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden wässrigen Lösungen mit jeweils 5 % Massenanteil hat den niedrigsten normalen Siedepunkt? ______.\nA. $C_3H_8O_3$-Lösung\nB. $C_6H_{12}O_6$-Lösung\nC. $C_{12}H_{22}O_{11}$-Lösung\nD. $\\text{CO}(\\text{NH}_2)_2$-Lösung",
+        "target_scores": {
+            "A. $C_3H_8O_3$-Lösung": 0,
+            "B. $C_6H_{12}O_6$-Lösung": 0,
+            "C. $C_{12}H_{22}O_{11}$-Lösung": 1,
+            "D. $\\text{CO}(\\text{NH}_2)_2$-Lösung": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Verbindungen bildet mit Phenylhydrazin ein Osazon, das sich von den anderen drei unterscheidet? ______.\nA. D-Fructose\nB. D-Galaktose\nC. D-Glucose\nD. D-Mannose",
+        "target_scores": {
+            "A. D-Fructose": 0,
+            "B. D-Galaktose": 1,
+            "C. D-Glucose": 0,
+            "D. D-Mannose": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Aminosäuren bewegt sich bei $pH=6{,}0$ im elektrischen Feld zum negativen Pol?\nA. Alanin ($pI=6{,}0$)\nB. Asparaginsäure ($pI=2{,}98$)\nC. Glutaminsäure ($pI=3{,}22$)\nD. Lysin ($pI=9{,}74$)",
+        "target_scores": {
+            "A. Alanin ($pI=6{,}0$)": 0,
+            "B. Asparaginsäure ($pI=2{,}98$)": 0,
+            "C. Glutaminsäure ($pI=3{,}22$)": 0,
+            "D. Lysin ($pI=9{,}74$)": 1
+        }
+    },
+    {
+        "input": "Welche der folgenden Verbindungen zeigt bei Raumtemperatur eine Trübung mit dem Lucas-Reagenz?\nA. Chlorcyclopentan\nB. Cyclopentanol\nC. Cyclopenten\nD. Pentanol",
+        "target_scores": {
+            "A. Chlorcyclopentan": 0,
+            "B. Cyclopentanol": 1,
+            "C. Cyclopenten": 0,
+            "D. Pentanol": 0
+        }
+    },
+    {
+        "input": "Um $\\text{Mg}(\\text{OH})_2$​ in Lösung zu bringen, kann man ______ hinzufügen.\nA. $NH_3·H_2O$\nB. $NH_4Cl$\nC. $NaCl$\nD. $NaOH$",
+        "target_scores": {
+            "A. $NH_3·H_2O$": 0,
+            "B. $NH_4Cl$": 1,
+            "C. $NaCl$": 0,
+            "D. $NaOH$": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Verbindungen hat den höchsten Siedepunkt?\nA. Acetaldehyd\nB. Essigsäure\nC. Ethan\nD. Ethanol",
+        "target_scores": {
+            "A. Acetaldehyd": 0,
+            "B. Essigsäure": 1,
+            "C. Ethan": 0,
+            "D. Ethanol": 0
+        }
+    },
+    {
+        "input": "Ein System absorbiert während eines Prozesses 100 kJ Wärme aus der Umgebung und verrichtet 25 kJ Arbeit an der Umgebung. Die innere Energie des Systems ändert sich um ______.\nA. -125kJ\nB. -75kJ\nC. 125kJ\nD. 75kJ",
+        "target_scores": {
+            "A. -125kJ": 0,
+            "B. -75kJ": 0,
+            "C. 125kJ": 0,
+            "D. 75kJ": 1
+        }
+    },
+    {
+        "input": "Welche der folgenden Substituenten übt am Benzolring einen stärkeren +C-Effekt als -I-Effekt aus? ______.\nA. Acetylgruppe\nB. Cyanogruppe\nC. Ethoxygruppe\nD. Trifluormethylgruppe",
+        "target_scores": {
+            "A. Acetylgruppe": 0,
+            "B. Cyanogruppe": 0,
+            "C. Ethoxygruppe": 1,
+            "D. Trifluormethylgruppe": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Verbindungen bildet beim Erhitzen ein inneres Anhydrid?\nA. Adipinsäure\nB. Glutarsäure\nC. Malonsäure\nD. Oxalsäure",
+        "target_scores": {
+            "A. Adipinsäure": 0,
+            "B. Glutarsäure": 1,
+            "C. Malonsäure": 0,
+            "D. Oxalsäure": 0
+        }
+    },
+    {
+        "input": "Wenn Propionaldehyd mit Ethylmagnesiumbromid reagiert und anschließend hydrolysiert wird, ist das Hauptprodukt ______.\nA. 2-Methyl-2-Butanol\nB. 2-Pentanol\nC. 3-Methyl-2-Butanol\nD. 3-Pentanol",
+        "target_scores": {
+            "A. 2-Methyl-2-Butanol": 0,
+            "B. 2-Pentanol": 0,
+            "C. 3-Methyl-2-Butanol": 0,
+            "D. 3-Pentanol": 1
+        }
+    },
+    {
+        "input": "Durchläuft ein System eine Reihe von Veränderungen und kehrt schließlich in den Ausgangszustand zurück, dann gilt mit Sicherheit die folgende Beziehung: ______.\nA. $$\\Delta U \\neq 0$$\nB. $Q=0$\nC. $W=0$\nD. $\\Delta U = 0$",
+        "target_scores": {
+            "A. $$\\Delta U \\neq 0$$": 0,
+            "B. $Q=0$": 0,
+            "C. $W=0$": 0,
+            "D. $\\Delta U = 0$": 1
+        }
+    },
+    {
+        "input": "Bei der elektrophilen aromatischen Substitution von Benzol ist ______ eine meta-dirigierende Gruppe.\nA. $CH_3$\nB. $Cl$\nC. $NO_2$\nD. $OCH_3$",
+        "target_scores": {
+            "A. $CH_3$": 0,
+            "B. $Cl$": 0,
+            "C. $NO_2$": 1,
+            "D. $OCH_3$": 0
+        }
+    },
+    {
+        "input": "Monokliner Schwefel und rhombischer Schwefel sind zwei Kristallformen des elementaren Schwefels. Unter Standardbedingungen ist rhombischer Schwefel unterhalb von 21{,}36 K stabil, oberhalb dieser Temperatur dagegen monokliner Schwefel. Somit ist die Reaktion S(monoklin) → S(rhombisch) ______.\nA. endotherm, mit Entropieabnahme\nB. endotherm, mit Entropiezunahme\nC. exotherm, mit Entropieabnahme\nD. exotherm, mit Entropiezunahme",
+        "target_scores": {
+            "A. endotherm, mit Entropieabnahme": 0,
+            "B. endotherm, mit Entropiezunahme": 0,
+            "C. exotherm, mit Entropieabnahme": 1,
+            "D. exotherm, mit Entropiezunahme": 0
+        }
+    },
+    {
+        "input": "Auf salz- und alkalihaltigen Böden wachsen Nutzpflanzen schlecht oder welken sogar. Die dafür direkt verantwortliche Eigenschaft verdünnter Lösungen ist ______.\nA. Dampfdrucksenkung\nB. Gefrierpunktsenkung\nC. Osmotischer Druck\nD. Siedepunktserhöhung",
+        "target_scores": {
+            "A. Dampfdrucksenkung": 0,
+            "B. Gefrierpunktsenkung": 0,
+            "C. Osmotischer Druck": 1,
+            "D. Siedepunktserhöhung": 0
+        }
+    },
+    {
+        "input": "13,0 g eines Nichtelektrolyten sind in 200 g Wasser gelöst, und der Gefrierpunkt dieser Lösung wird mit -1,95°C gemessen. Es ist bekannt, dass $K_f = 1{,}86\\, \\text{°C} \\cdot \\text{kg} \\cdot \\text{mol}^{-1} $ Die molare Masse (M) des Stoffes ist dann ______.\nA. $124g·mol^{-1}$\nB. $180g·mol^{-1}$\nC. $31g·mol^{-1}$\nD. $62g·mol^{-1}$",
+        "target_scores": {
+            "A. $124g·mol^{-1}$": 0,
+            "B. $180g·mol^{-1}$": 0,
+            "C. $31g·mol^{-1}$": 0,
+            "D. $62g·mol^{-1}$": 1
+        }
+    },
+    {
+        "input": "Welche der folgenden Verbindungen reagiert bei Raumtemperatur am schnellsten mit Lucas-Reagenz unter Trübungsbildung?\nA. 1-Butanol\nB. Methylpropylether\nC. Sek-Butanol\nD. Tert-Butanol",
+        "target_scores": {
+            "A. 1-Butanol": 0,
+            "B. Methylpropylether": 0,
+            "C. Sek-Butanol": 0,
+            "D. Tert-Butanol": 1
+        }
+    },
+    {
+        "input": "Wenn in einer galvanischen Zelle mit der Reaktion $Fe(s)+2Ag^{+}(aq)=Fe^{2+}(aq)+2Ag(s)$die Konzentration von $Ag^+$ auf ein Zehntel der ursprünglichen Konzentration reduziert wird, beträgt die Änderung der elektromotorischen Kraft ______.\nA. +0,0592V\nB. +0,118V\nC. -0,0592V\nD. -0,118V",
+        "target_scores": {
+            "A. +0,0592V": 0,
+            "B. +0,118V": 0,
+            "C. -0,0592V": 1,
+            "D. -0,118V": 0
+        }
+    },
+    {
+        "input": "Die Erschließung und Nutzung neuer Energiequellen ist ein zentrales Thema für die nachhaltige Entwicklung der menschlichen Gesellschaft. Welche der folgenden Optionen gehört zu den neuen Energiequellen?\nA. Erdgas\nB. Erdöl\nC. Kohle\nD. Wasserstoff",
+        "target_scores": {
+            "A. Erdgas": 0,
+            "B. Erdöl": 0,
+            "C. Kohle": 0,
+            "D. Wasserstoff": 1
+        }
+    },
+    {
+        "input": "Welche der folgenden Beschreibungen von Experimentierbeobachtungen ist falsch?\nA. Bei der Elektrolyse von Wasser beträgt das Volumenverhältnis der an der Anode und an der Kathode entstehenden Gase 1:2.\nB. Eisendraht verbrennt heftig in Sauerstoff mit Funkenbildung und bildet einen schwarzen Feststoff.\nC. Nach Zugabe von verdünnter Schwefelsäure zu einer Lackmuslösung wechselt die Farbe von violett zu blau.\nD. Schwefel verbrennt in Sauerstoff mit blau-violetter Flamme.",
+        "target_scores": {
+            "A. Bei der Elektrolyse von Wasser beträgt das Volumenverhältnis der an der Anode und an der Kathode entstehenden Gase 1:2.": 0,
+            "B. Eisendraht verbrennt heftig in Sauerstoff mit Funkenbildung und bildet einen schwarzen Feststoff.": 0,
+            "C. Nach Zugabe von verdünnter Schwefelsäure zu einer Lackmuslösung wechselt die Farbe von violett zu blau.": 1,
+            "D. Schwefel verbrennt in Sauerstoff mit blau-violetter Flamme.": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden alten chinesischen Erfindungen oder Technologien basiert hauptsächlich auf chemischen Reaktionen?\nA. Bewässerung mit Wasserrädern\nB. Buchdruck mit beweglichen Lettern\nC. Eisenerzverhüttung\nD. Steinskulptur",
+        "target_scores": {
+            "A. Bewässerung mit Wasserrädern": 0,
+            "B. Buchdruck mit beweglichen Lettern": 0,
+            "C. Eisenerzverhüttung": 1,
+            "D. Steinskulptur": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Veränderungen gehört nicht zu den Oxidationsreaktionen? ()\nA. Das Entfernen von Rost mit Salzsäure\nB. Die Atmung von Tieren\nC. Die Rostbildung bei Eisenprodukten\nD. Die Verbrennung von Erdgas",
+        "target_scores": {
+            "A. Das Entfernen von Rost mit Salzsäure": 1,
+            "B. Die Atmung von Tieren": 0,
+            "C. Die Rostbildung bei Eisenprodukten": 0,
+            "D. Die Verbrennung von Erdgas": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Maßnahmen ist aus Sicherheitsgründen korrekt?\nA. Einen Wasserkessel auf den Kohleofen stellen, um $CO$-Vergiftung zu verhindern\nB. Meeresfrüchte mit Formaldehyd behandeln\nC. Reinheit von $H_2$​ vor der Entzündung prüfen\nD. Verschimmelten Reis nach dem Kochen verzehren",
+        "target_scores": {
+            "A. Einen Wasserkessel auf den Kohleofen stellen, um $CO$-Vergiftung zu verhindern": 0,
+            "B. Meeresfrüchte mit Formaldehyd behandeln": 0,
+            "C. Reinheit von $H_2$​ vor der Entzündung prüfen": 1,
+            "D. Verschimmelten Reis nach dem Kochen verzehren": 0
+        }
+    },
+    {
+        "input": "Welches der folgenden Reagenzien führt zu drei unterschiedlichen Reaktionen, wenn sie jeweils zu $Ca(OH)_2$-, $H_2SO_4$- und $Na_2SO_4$-Lösungen gegeben werden?\nA. $Ba(NO_3)_2$-Lösung\nB. $MgCl_2$-Lösung\nC. $Na_2CO_3$-Lösung\nD. Phenolphthaleinlösung",
+        "target_scores": {
+            "A. $Ba(NO_3)_2$-Lösung": 0,
+            "B. $MgCl_2$-Lösung": 0,
+            "C. $Na_2CO_3$-Lösung": 1,
+            "D. Phenolphthaleinlösung": 0
+        }
+    },
+    {
+        "input": "Die Chemie steht in engem Zusammenhang mit der menschlichen Produktion und dem täglichen Leben. Welche der folgenden Aussagen ist korrekt?\nA. Alaun kann Meerwasser entsalzen und somit die „Trinkwasserkrise“ lösen.\nB. Farbenfrohes Feuerwerk enthält Verbindungen mit Kalium-, Natrium-, Calcium- und Kupferionen.\nC. Konzentrierte Schwefelsäure ist hygroskopisch und kann als Lebensmitteltrocknungsmittel verwendet werden.\nD. Nach einem Sommergewitter fühlt sich die Luft frischer an, weil eine geringe Menge $NO_2$ entsteht.",
+        "target_scores": {
+            "A. Alaun kann Meerwasser entsalzen und somit die „Trinkwasserkrise“ lösen.": 0,
+            "B. Farbenfrohes Feuerwerk enthält Verbindungen mit Kalium-, Natrium-, Calcium- und Kupferionen.": 1,
+            "C. Konzentrierte Schwefelsäure ist hygroskopisch und kann als Lebensmitteltrocknungsmittel verwendet werden.": 0,
+            "D. Nach einem Sommergewitter fühlt sich die Luft frischer an, weil eine geringe Menge $NO_2$ entsteht.": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Aussagen über die Anzahl der Konstitutionsisomere (ohne Berücksichtigung von Stereoisomerie) der angegebenen organischen Moleküle ist korrekt?\nA. $C_2H_4Cl_2$ 1 Isomer\nB. $C_2H_4O_2$ 2 Isomere\nC. $C_2H_6O$ 3 Isomere\nD. $C_4H_9Br$ 4 Isomere",
+        "target_scores": {
+            "A. $C_2H_4Cl_2$ 1 Isomer": 0,
+            "B. $C_2H_4O_2$ 2 Isomere": 0,
+            "C. $C_2H_6O$ 3 Isomere": 0,
+            "D. $C_4H_9Br$ 4 Isomere": 1
+        }
+    },
+    {
+        "input": "Die organische Verbindung A ist eine Substanz mit einem sechsgliedrigen Ring und der Summenformel $C_7H_{12}O_2$​. Unter sauren Bedingungen kann sie hydrolysiert werden, wobei nur ein einziges Produkt entsteht. Es ist außerdem bekannt, dass das Molekül A zwei Methylgruppen enthält. Wie viele mögliche Strukturen kann A haben?\nA. 10 Arten\nB. 11 Arten\nC. 12 Arten\nD. 6 Arten",
+        "target_scores": {
+            "A. 10 Arten": 1,
+            "B. 11 Arten": 0,
+            "C. 12 Arten": 0,
+            "D. 6 Arten": 0
+        }
+    },
+    {
+        "input": "Wie viele dreigliedrige ringförmige Isomere der Summenformel $C_4H_8O$ gibt es (ohne Berücksichtigung der Stereoisomerie)?\nA. 5 Arten\nB. 6 Arten\nC. 7 Arten\nD. 8 Arten",
+        "target_scores": {
+            "A. 5 Arten": 0,
+            "B. 6 Arten": 0,
+            "C. 7 Arten": 1,
+            "D. 8 Arten": 0
+        }
+    },
+    {
+        "input": "Die Anzahl der Isomere der Summenformel $C_7H_6O_2$, die zur Gruppe der aromatischen Verbindungen gehören, beträgt ( ).\nA. 3\nB. 4\nC. 5\nD. 6",
+        "target_scores": {
+            "A. 3": 0,
+            "B. 4": 0,
+            "C. 5": 0,
+            "D. 6": 1
+        }
+    },
+    {
+        "input": "Metallisches Natrium löst sich in flüssigem Ammoniak und bildet dabei solvatisierte Natriumkationen und solvatisierte Elektronen. Gibt man einen Kryptand-Liganden L zu dieser Lösung, entsteht die erste goldgelbe Verbindung mit einem alkalimetallischen Anion: [$NaL^{+}Na^{-}$]. Welche der folgenden Aussagen ist falsch? ()\nA. $Na^-$ besitzt ein stärkeres Reduktionsvermögen als metallisches Na.\nB. Der Radius von $Na^-$ ist größer als der von $F^-$.\nC. Die erste Ionisierungsenergie von $Na^-$ ist größer als die von H⁻.\nD. Diese Tatsache zeigt, dass Na auch nichtmetallische Eigenschaften aufweisen kann.",
+        "target_scores": {
+            "A. $Na^-$ besitzt ein stärkeres Reduktionsvermögen als metallisches Na.": 0,
+            "B. Der Radius von $Na^-$ ist größer als der von $F^-$.": 0,
+            "C. Die erste Ionisierungsenergie von $Na^-$ ist größer als die von H⁻.": 1,
+            "D. Diese Tatsache zeigt, dass Na auch nichtmetallische Eigenschaften aufweisen kann.": 0
+        }
+    },
+    {
+        "input": "Die ideale atomökonomische Reaktion liegt vor, wenn alle Atome der Edukte vollständig in das gewünschte Endprodukt übergehen. Welche der folgenden Reaktionen entspricht einer idealen atomökonomischen Reaktion?\nA. Die Eliminierung von Bromethan mit ethanolischer $NaOH$-Lösung zur Ethensynthese\nB. Die Herstellung von Ethylenoxid durch katalytische Oxidation von Ethen mit Sauerstoff unter Verwendung von Ag als Katalysator\nC. Die Reaktion von Calciumcarbid mit Wasser zur Acetylenerzeugung\nD. Die Reaktion von verdünnter Phenollösung mit gesättigter Bromlösung zur Herstellung von 2,4,6-Tribromphenol",
+        "target_scores": {
+            "A. Die Eliminierung von Bromethan mit ethanolischer $NaOH$-Lösung zur Ethensynthese": 0,
+            "B. Die Herstellung von Ethylenoxid durch katalytische Oxidation von Ethen mit Sauerstoff unter Verwendung von Ag als Katalysator": 1,
+            "C. Die Reaktion von Calciumcarbid mit Wasser zur Acetylenerzeugung": 0,
+            "D. Die Reaktion von verdünnter Phenollösung mit gesättigter Bromlösung zur Herstellung von 2,4,6-Tribromphenol": 0
+        }
+    },
+    {
+        "input": "Chemie steht in engem Zusammenhang mit Produktion und Alltag. Welche der folgenden Aussagen ist richtig? ().\nA. $BaSO_4$ wird in der Medizin als „Bariumbrei“ verwendet, $Ba^{2+}$ ist für den menschlichen Körper ungiftig\nB. $^{14}C$ kann zur Altersbestimmung von Artefakten verwendet werden und ist eine allotrope Form von $^{12}C$\nC. Die Trockendestillation von Kohle und die fraktionierte Destillation von Erdöl sind chemische Veränderungen\nD. Glukose-Injektionslösung zeigt keinen Tyndall-Effekt und gehört daher nicht zu den Kolloiden",
+        "target_scores": {
+            "A. $BaSO_4$ wird in der Medizin als „Bariumbrei“ verwendet, $Ba^{2+}$ ist für den menschlichen Körper ungiftig": 0,
+            "B. $^{14}C$ kann zur Altersbestimmung von Artefakten verwendet werden und ist eine allotrope Form von $^{12}C$": 0,
+            "C. Die Trockendestillation von Kohle und die fraktionierte Destillation von Erdöl sind chemische Veränderungen": 0,
+            "D. Glukose-Injektionslösung zeigt keinen Tyndall-Effekt und gehört daher nicht zu den Kolloiden": 1
+        }
+    },
+    {
+        "input": "Eine Lösung könnte $Cl^-$, $SO_4^{2-}$, $CO_3^{2-}$, $NH_4^+$, $Fe^{3+}$, $Al^{3+}$ und $K^+$ enthalten. Man entnimmt 100 mL dieser Lösung, gibt überschüssige $NaOH$-Lösung hinzu und erhitzt. Dabei entstehen 0,02 mol Gas und ein rotbrauner Niederschlag. Nach Filtration, Waschen und Glühen erhält man 1,6 g Feststoff. Zum Filtrat gibt man eine ausreichende Menge $BaCl_2$-Lösung hinzu, wobei 4,66 g eines in Salzsäure unlöslichen Niederschlags entstehen. Daraus lässt sich schließen:\nA. $CO_3^{2-}$ und $Al^{3+}$ sind sicher nicht vorhanden, $K^+$ ist möglicherweise vorhanden\nB. $Cl^-$ ist sicher vorhanden, und $c(Cl^-) \\geq 0{,}4$ mol/L\nC. $SO_4^{2-}$ und $NH_4^+$ sind sicher vorhanden, $Cl^-$ ist möglicherweise nicht vorhanden\nD. Mindestens fünf Ionen sind in der ursprünglichen Lösung vorhanden",
+        "target_scores": {
+            "A. $CO_3^{2-}$ und $Al^{3+}$ sind sicher nicht vorhanden, $K^+$ ist möglicherweise vorhanden": 0,
+            "B. $Cl^-$ ist sicher vorhanden, und $c(Cl^-) \\geq 0{,}4$ mol/L": 1,
+            "C. $SO_4^{2-}$ und $NH_4^+$ sind sicher vorhanden, $Cl^-$ ist möglicherweise nicht vorhanden": 0,
+            "D. Mindestens fünf Ionen sind in der ursprünglichen Lösung vorhanden": 0
+        }
+    },
+    {
+        "input": "Eine Lösung könnte $Na^+$, $NH_4^+$, $Ba^{2+}$, $SO_4^{2-}$, $I^-$, $S^{2-}$ enthalten. Es werden folgende Proben durchgeführt: ① Der pH-Wert wird mit einem pH-Meter gemessen, die Lösung zeigt eine schwach saure Reaktion. ② Beim Zusatz von Chlorwasser und Stärke tritt keine deutliche Reaktion auf. Um die Zusammensetzung der Lösung zu bestimmen, welches der folgenden Ionen muss noch überprüft werden?\nA. $Ba^{2+}$\nB. $NH_4^+$\nC. $Na^+$\nD. $SO_4^{2-}$",
+        "target_scores": {
+            "A. $Ba^{2+}$": 0,
+            "B. $NH_4^+$": 0,
+            "C. $Na^+$": 1,
+            "D. $SO_4^{2-}$": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Aussagen über die beiden Gase ¹²C¹⁸O und ¹⁴N₂ unter gleichen Bedingungen von Temperatur und Druck ist korrekt?\nA. Wenn das Volumen gleich ist, ist die Elektronenzahl gleich\nB. Wenn das Volumen gleich ist, sind auch die Dichten gleich\nC. Wenn die Atomanzahl gleich ist, ist die Neutronenzahl gleich\nD. Wenn die Masse gleich ist, ist die Protonenzahl gleich",
+        "target_scores": {
+            "A. Wenn das Volumen gleich ist, ist die Elektronenzahl gleich": 1,
+            "B. Wenn das Volumen gleich ist, sind auch die Dichten gleich": 0,
+            "C. Wenn die Atomanzahl gleich ist, ist die Neutronenzahl gleich": 0,
+            "D. Wenn die Masse gleich ist, ist die Protonenzahl gleich": 0
+        }
+    },
+    {
+        "input": "Stellen Sie ein Becherglas mit Ammoniumhydrogencarbonat-Pulver ($NH_4HCO_3$) in ein größeres Becherglas mit einer kleinen Menge Essigsäure. Geben Sie dann Salzsäure in das kleinere Becherglas. Die Reaktion verläuft heftig und die Essigsäure gefriert allmählich. Daraus lässt sich schließen:\nA. Bei dieser Reaktion wird Wärmeenergie in innere Energie der Produkte umgewandelt\nB. Die Gesamtenergie der Edukte ist größer als die Gesamtenergie der Produkte\nC. Die Reaktion zwischen $NH_4HCO_3$​ und Salzsäure ist exotherm\nD. Die thermochemische Reaktionsgleichung lautet: $NH_4HCO_3 + CH_3COOH \\rightarrow CH_3COONH_4 + CO_2 \\uparrow + H_2O$",
+        "target_scores": {
+            "A. Bei dieser Reaktion wird Wärmeenergie in innere Energie der Produkte umgewandelt": 1,
+            "B. Die Gesamtenergie der Edukte ist größer als die Gesamtenergie der Produkte": 0,
+            "C. Die Reaktion zwischen $NH_4HCO_3$​ und Salzsäure ist exotherm": 0,
+            "D. Die thermochemische Reaktionsgleichung lautet: $NH_4HCO_3 + CH_3COOH \\rightarrow CH_3COONH_4 + CO_2 \\uparrow + H_2O$": 0
+        }
+    },
+    {
+        "input": "Gegeben ist die Reaktion: $CO(g) + H_2O(g) \\rightarrow H_2(g) + CO_2(g)$ $\\Delta H﹤0$.Unter sonst gleichen Bedingungen:\nA. Eine Änderung des Drucks führt nicht zur Verschiebung des Gleichgewichts, die abgegebene Wärmemenge bleibt unverändert\nB. Erhöht man die Temperatur, steigt die Reaktionsgeschwindigkeit, die abgegebene Wärmemenge bleibt unverändert\nC. Gibt man einen Katalysator hinzu, ändert sich der Reaktionsweg, und $\\Delta H$ ändert sich entsprechend\nD. Wenn die Reaktion in einer galvanischen Zelle abläuft, bleibt die abgegebene Wärmemenge unverändert",
+        "target_scores": {
+            "A. Eine Änderung des Drucks führt nicht zur Verschiebung des Gleichgewichts, die abgegebene Wärmemenge bleibt unverändert": 1,
+            "B. Erhöht man die Temperatur, steigt die Reaktionsgeschwindigkeit, die abgegebene Wärmemenge bleibt unverändert": 0,
+            "C. Gibt man einen Katalysator hinzu, ändert sich der Reaktionsweg, und $\\Delta H$ ändert sich entsprechend": 0,
+            "D. Wenn die Reaktion in einer galvanischen Zelle abläuft, bleibt die abgegebene Wärmemenge unverändert": 0
+        }
+    },
+    {
+        "input": "Wenn sich $(NH_4)_2SO_4$​ bei starker Erhitzung in $SO_2$， $N_2$， $NH_3$ und $H_2O$ zersetzt, wie lautet dann das Verhältnis der Stickstoffatome, deren Oxidationszahl sich verändert, zu denen, deren Oxidationszahl unverändert bleibt?\nA. 1 zu 2\nB. 1 zu 4\nC. 2 zu 1\nD. 4 zu 1",
+        "target_scores": {
+            "A. 1 zu 2": 1,
+            "B. 1 zu 4": 0,
+            "C. 2 zu 1": 0,
+            "D. 4 zu 1": 0
+        }
+    },
+    {
+        "input": "0,195 g Zinkpulver wird zu 20,0 mL einer 0,100 mol·L⁻¹ $MO_2^+$-Lösung gegeben und reagiert genau vollständig. Welches der folgenden Teilchen könnte das Reduktionsprodukt sein?\nA. $MO_2^+$\nB. $M^{2+}$\nC. $M^{3+}$\nD. M",
+        "target_scores": {
+            "A. $MO_2^+$": 0,
+            "B. $M^{2+}$": 1,
+            "C. $M^{3+}$": 0,
+            "D. M": 0
+        }
+    },
+    {
+        "input": "Lithiumimid ($Li_2NH$) ist ein sicheres Feststoff-Wasserstoffspeichermaterial mit hoher Speicherkapazität. Das Prinzip der Wasserstoffspeicherung kann durch die Reaktionsgleichung $Li_2NH + H_2 \\rightleftharpoons LiNH_2 + LiH$ dargestellt werden. Welche der folgenden Aussagen ist richtig?\nA. Die Ionenradien von $Li^+$ und $H^+$ sind gleich\nB. Diese Methode der Wasserstoffspeicherung beruht auf dem gleichen Prinzip wie die Speicherung in Stahlflaschen\nC. In $Li_2NH$ beträgt die Oxidationszahl von Stickstoff –1\nD. In dieser Reaktion wirkt $H_2$ sowohl als Oxidationsmittel als auch als Reduktionsmittel",
+        "target_scores": {
+            "A. Die Ionenradien von $Li^+$ und $H^+$ sind gleich": 0,
+            "B. Diese Methode der Wasserstoffspeicherung beruht auf dem gleichen Prinzip wie die Speicherung in Stahlflaschen": 0,
+            "C. In $Li_2NH$ beträgt die Oxidationszahl von Stickstoff –1": 0,
+            "D. In dieser Reaktion wirkt $H_2$ sowohl als Oxidationsmittel als auch als Reduktionsmittel": 1
+        }
+    },
+    {
+        "input": "Zink und verdünnte Salpetersäure reagieren im Stoffmengenverhältnis 2:5 miteinander. Falls Salpetersäure zu $N_2O$ reduziert wird und nach der Reaktion kein Zink übrig bleibt, wie lautet das Stoffmengenverhältnis von reduzierter zu nicht reduzierter Salpetersäure?\nA. 1:4\nB. 1:5\nC. 2:3\nD. 2:5",
+        "target_scores": {
+            "A. 1:4": 1,
+            "B. 1:5": 0,
+            "C. 2:3": 0,
+            "D. 2:5": 0
+        }
+    },
+    {
+        "input": "Die kurzperiodischen Elemente X, Y, Z, W haben aufsteigende Ordnungszahlen. Die Summe ihrer Valenzelektronen beträgt 13. X hat einen kleineren Atomradius als Y, X und W gehören zur selben Gruppe, und Z ist das häufigste Element der Erdkruste. Welche der folgenden Aussagen ist richtig? ()\nA. Atomradien in dieser Reihenfolge: r(Y) > r(Z) > r(W)\nB. Das einfache gasförmige Hydrid von Y ist thermisch stabiler als das von Z\nC. Die einfachen Ionen von Z und W haben unterschiedliche Elektronenkonfigurationen\nD. Verbindungen nur aus X, Y, Z können ionisch oder kovalent sein",
+        "target_scores": {
+            "A. Atomradien in dieser Reihenfolge: r(Y) > r(Z) > r(W)": 0,
+            "B. Das einfache gasförmige Hydrid von Y ist thermisch stabiler als das von Z": 0,
+            "C. Die einfachen Ionen von Z und W haben unterschiedliche Elektronenkonfigurationen": 0,
+            "D. Verbindungen nur aus X, Y, Z können ionisch oder kovalent sein": 1
+        }
+    },
+    {
+        "input": "W, X, Y und Z sind Hauptgruppenelemente der kurzen Perioden, deren Ordnungszahlen in dieser Reihenfolge zunehmen. Das Verhältnis der Valenzelektronen von W zu X beträgt 4:3, und Z hat 4 Elektronen mehr in der Atomhülle als X. Welche der folgenden Aussagen ist richtig?\nA. Das von Y und Z gebildete Molekül könnte eine tetraedrische Geometrie aufweisen.\nB. Die Atomradien könnten in der Reihenfolge W>X>Y>Z abnehmen.\nC. Die Elektronegativitäten folgen zwingend der Reihe Z > Y > W.\nD. Im WY₂-Molekül beträgt das Verhältnis von σ- zu π-Bindungen 2:1.",
+        "target_scores": {
+            "A. Das von Y und Z gebildete Molekül könnte eine tetraedrische Geometrie aufweisen.": 1,
+            "B. Die Atomradien könnten in der Reihenfolge W>X>Y>Z abnehmen.": 0,
+            "C. Die Elektronegativitäten folgen zwingend der Reihe Z > Y > W.": 0,
+            "D. Im WY₂-Molekül beträgt das Verhältnis von σ- zu π-Bindungen 2:1.": 0
+        }
+    },
+    {
+        "input": "Bei welchen der folgenden Veränderungen muss derselbe Typ von zwischenmolekularer Kraft überwunden werden? ()\nA. Das Lösen von Chlorwasserstoff und Kaliumchlorid\nB. Das Schmelzen von Silicium und C60\nC. Das Sublimieren von Iod und Trockeneis\nD. Die Vergasung von Brom und Quecksilber",
+        "target_scores": {
+            "A. Das Lösen von Chlorwasserstoff und Kaliumchlorid": 0,
+            "B. Das Schmelzen von Silicium und C60": 0,
+            "C. Das Sublimieren von Iod und Trockeneis": 1,
+            "D. Die Vergasung von Brom und Quecksilber": 0
+        }
+    },
+    {
+        "input": "X, Y, Z und W sind Elemente aus den kurzen Perioden. Das äußerste Energieniveau des Elements X hat weniger als 8 Elektronen; sein Elementarstoff wird industriell durch die Fraktionierung von flüssiger Luft gewonnen. Das äußerste Energieniveau des Elements Y enthält gleich viele s- wie p-Elektronen. Das Kation Z²⁺ hat die gleiche Elektronenkonfiguration wie ein Neon-Atom. Das Atom des Elements W besitzt ein ungepaartes p-Elektron in der M-Schale. Welche der folgenden Aussagen zu den Eigenschaften dieser Elemente ist sicher richtig?\nA. Das kristalline höchstwertige Oxid des Elements Y hat einen sehr hohen Schmelz- und Siedepunkt.\nB. Der Elementarstoff von Z kann unter bestimmten Bedingungen mit dem Elementarstoff von X reagieren.\nC. Der Ionenradius von Z ist größer als der von W.\nD. Die wässrige Lösung der Wasserstoffverbindung von X reagiert basisch.",
+        "target_scores": {
+            "A. Das kristalline höchstwertige Oxid des Elements Y hat einen sehr hohen Schmelz- und Siedepunkt.": 0,
+            "B. Der Elementarstoff von Z kann unter bestimmten Bedingungen mit dem Elementarstoff von X reagieren.": 1,
+            "C. Der Ionenradius von Z ist größer als der von W.": 0,
+            "D. Die wässrige Lösung der Wasserstoffverbindung von X reagiert basisch.": 0
+        }
+    },
+    {
+        "input": "Die Elemente der ersten drei Perioden W, X, Y und Z haben Ordnungszahlen, die der Reihe nach zunehmen. Welche der folgenden Ionenpaare können beide das Dissoziationsgleichgewicht des Wassers stören?\nA. $W^{2-}$ und $X^+$\nB. $X^+$ und $Y^{3+}$\nC. $X^+$ und $Z^{2-}$\nD. $Y^{3+}$ und $Z^{2-}$",
+        "target_scores": {
+            "A. $W^{2-}$ und $X^+$": 0,
+            "B. $X^+$ und $Y^{3+}$": 0,
+            "C. $X^+$ und $Z^{2-}$": 0,
+            "D. $Y^{3+}$ und $Z^{2-}$": 1
+        }
+    },
+    {
+        "input": "Es ist bekannt, dass sich 33As und 35Br in derselben Periode befinden. Welche der folgenden Aussagen ist korrekt? ()\nA. Atomradius: $As>Cl >P$\nB. Reduktionsfähigkeit: $As^{3-} >S^{2-} >Cl^-$\nC. Säurestärke: $H_3AsO_4>H_2SO_4>H_3PO_4$\nD. Thermische Stabilität: $HCl>AsH_3>HBr$",
+        "target_scores": {
+            "A. Atomradius: $As>Cl >P$": 0,
+            "B. Reduktionsfähigkeit: $As^{3-} >S^{2-} >Cl^-$": 1,
+            "C. Säurestärke: $H_3AsO_4>H_2SO_4>H_3PO_4$": 0,
+            "D. Thermische Stabilität: $HCl>AsH_3>HBr$": 0
+        }
+    },
+    {
+        "input": "Die Ordnungszahlen der kurzperiodischen Elemente W, X, Y und Z nehmen der Reihe nach zu. Das Anion von W hat die gleiche Elektronenzahl wie die Anzahl der inneren Elektronen der Atome X, Y und Z jeweils. Ein Isotop von X wird in der Archäologie häufig zur Altersbestimmung von Artefakten verwendet. Das Element Y wird industriell durch fraktionierte Destillation von flüssiger Luft gewonnen. Z kann keine zweiatomigen Moleküle bilden. Welche der folgenden Aussagen ist korrekt?\nA. Der Atomradius der vier Elemente nimmt in der Reihenfolge W < X < Y < Z zu\nB. Die Gesamtanzahl der Valenzelektronen der Atome von W, X, Y und Z beträgt 20\nC. Die Siedepunkte der Verbindungen aus W und X sind immer niedriger als die der Verbindungen aus W und Y\nD. W und Y können eine Verbindung bilden, die sowohl polare als auch unpolare kovalente Bindungen enthält",
+        "target_scores": {
+            "A. Der Atomradius der vier Elemente nimmt in der Reihenfolge W < X < Y < Z zu": 0,
+            "B. Die Gesamtanzahl der Valenzelektronen der Atome von W, X, Y und Z beträgt 20": 0,
+            "C. Die Siedepunkte der Verbindungen aus W und X sind immer niedriger als die der Verbindungen aus W und Y": 0,
+            "D. W und Y können eine Verbindung bilden, die sowohl polare als auch unpolare kovalente Bindungen enthält": 1
+        }
+    },
+    {
+        "input": "Die Reaktion lautet: $X(g) + Y(g) \\rightarrow 2Z(g)$；$\\Delta H＜0$. Wenn das Gleichgewicht erreicht ist, welche der folgenden Aussagen ist richtig?\nA. Die Zugabe eines Katalysators erhöht die Ausbeute von Z\nB. Eine Absenkung der Temperatur erhöht den Umsatzgrad von Y\nC. Eine Erhöhung der Konzentration von X erhöht den Umsatzgrad von X\nD. Eine Verringerung des Volumens des Gefäßes verschiebt das Gleichgewicht nach rechts",
+        "target_scores": {
+            "A. Die Zugabe eines Katalysators erhöht die Ausbeute von Z": 0,
+            "B. Eine Absenkung der Temperatur erhöht den Umsatzgrad von Y": 1,
+            "C. Eine Erhöhung der Konzentration von X erhöht den Umsatzgrad von X": 0,
+            "D. Eine Verringerung des Volumens des Gefäßes verschiebt das Gleichgewicht nach rechts": 0
+        }
+    },
+    {
+        "input": "Bei Raumtemperatur sind für 0,10 mol·L⁻¹ Ammoniak folgende Aussagen richtig:\nA. Die Ionengleichung der Reaktion mit AlCl₃-Lösung lautet: $Al^{3+} + 3OH^- \\rightarrow Al(OH)_3 \\downarrow$\nB. Die Lösung hat einen $pH=13$\nC. Nach Verdünnung mit Wasser wird $c(NH_4^+)c(OH^-)$ in der Lösung größer\nD. Nach vollständiger Neutralisation mit $HNO_3$ Lösung ist die Lösung nicht neutral",
+        "target_scores": {
+            "A. Die Ionengleichung der Reaktion mit AlCl₃-Lösung lautet: $Al^{3+} + 3OH^- \\rightarrow Al(OH)_3 \\downarrow$": 0,
+            "B. Die Lösung hat einen $pH=13$": 0,
+            "C. Nach Verdünnung mit Wasser wird $c(NH_4^+)c(OH^-)$ in der Lösung größer": 0,
+            "D. Nach vollständiger Neutralisation mit $HNO_3$ Lösung ist die Lösung nicht neutral": 1
+        }
+    },
+    {
+        "input": "Überkritisches Wasser bei über 374℃ und 22,1 MPa besitzt eine starke Fähigkeit zur Lösung organischer Stoffe und enthält relativ viele $H^+$- und $OH^-$-Ionen. Daraus lässt sich schließen, dass überkritisches Wasser:\nA. neutral reagiert, pH-Wert = 7\nB. sauer reagiert, pH-Wert < 7\nC. sich wie ein polares Lösungsmittel verhält\nD. sich wie ein unpolares Lösungsmittel verhält",
+        "target_scores": {
+            "A. neutral reagiert, pH-Wert = 7": 0,
+            "B. sauer reagiert, pH-Wert < 7": 0,
+            "C. sich wie ein polares Lösungsmittel verhält": 0,
+            "D. sich wie ein unpolares Lösungsmittel verhält": 1
+        }
+    },
+    {
+        "input": "Dieser Bundesstaat ist reich an Steinsalz (Hauptbestandteil ist $NaCl$, es enthält außerdem lösliche Verunreinigungen wie $SO_4^{2-}$. Welche der folgenden Aussagen ist richtig? ()\nA. Bei Raumtemperatur ist die Löslichkeit von $AgCl$ in Wasser geringer als in Kochsalzlösung.\nB. Industriell wird metallisches Natrium und Chlor durch Elektrolyse einer Natriumchlorid-Lösung hergestellt\nC. Mit Phenolphthalein kann man gesättigte Kochsalzlösung und gesättigte Natriumcarbonatlösung unterscheiden\nD. Um aus Steinsalz Speisesalz herzustellen, ist $Ba(NO_3)_2$​ das am besten geeignetes Reagenz zur Entfernung von $SO_4^{2-}$​.",
+        "target_scores": {
+            "A. Bei Raumtemperatur ist die Löslichkeit von $AgCl$ in Wasser geringer als in Kochsalzlösung.": 0,
+            "B. Industriell wird metallisches Natrium und Chlor durch Elektrolyse einer Natriumchlorid-Lösung hergestellt": 0,
+            "C. Mit Phenolphthalein kann man gesättigte Kochsalzlösung und gesättigte Natriumcarbonatlösung unterscheiden": 1,
+            "D. Um aus Steinsalz Speisesalz herzustellen, ist $Ba(NO_3)_2$​ das am besten geeignetes Reagenz zur Entfernung von $SO_4^{2-}$​.": 0
+        }
+    },
+    {
+        "input": "Die übliche Zusammensetzung von Desoxidationsmitteln in Backwarenverpackungen ist reduziertes Eisenpulver, Natriumchlorid, Holzkohlepulver usw. Das Prinzip der Desoxidation ist das gleiche wie das der Sauerstoffkorrosion von Stahl. Welche der folgenden Analysen ist korrekt?\nA. Der Sauerstoffentfernungsprozess ist eine endotherme Reaktion, die die Temperatur senken und die Haltbarkeit von Backwaren verlängern kann\nB. Ein Sauerstoffabsorber, der 1,12 g Eisenpulver enthält, kann theoretisch maximal 336 mL Sauerstoff (unter Normalbedingungen) aufnehmen\nC. Während des Sauerstoffentfernungsprozesses fungiert Kohlenstoff als negative Elektrode in der galvanischen Zelle, mit der Elektrodenreaktion: $2H_2O + O_2 + 4e^- \\rightarrow 4OH^-$\nD. Während des Sauerstoffentfernungsprozesses wirkt Eisen als positive Elektrode in der galvanischen Zelle, mit der Elektrodenreaktion: $Fe - 3e^- \\rightarrow Fe^{3+}$",
+        "target_scores": {
+            "A. Der Sauerstoffentfernungsprozess ist eine endotherme Reaktion, die die Temperatur senken und die Haltbarkeit von Backwaren verlängern kann": 0,
+            "B. Ein Sauerstoffabsorber, der 1,12 g Eisenpulver enthält, kann theoretisch maximal 336 mL Sauerstoff (unter Normalbedingungen) aufnehmen": 1,
+            "C. Während des Sauerstoffentfernungsprozesses fungiert Kohlenstoff als negative Elektrode in der galvanischen Zelle, mit der Elektrodenreaktion: $2H_2O + O_2 + 4e^- \\rightarrow 4OH^-$": 0,
+            "D. Während des Sauerstoffentfernungsprozesses wirkt Eisen als positive Elektrode in der galvanischen Zelle, mit der Elektrodenreaktion: $Fe - 3e^- \\rightarrow Fe^{3+}$": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Maßnahmen zum Schutz vor Metallkorrosion ist eine Methode des kathodischen Schutzes mit angelegtem Strom?\nA. Anschluss einer unterirdischen Stahlleitung an einen Magnesiumblock\nB. Anstrich der Oberfläche von Metallbarrieren\nC. Besprühen des Fahrzeugunterbodens mit einer Polymerfolie\nD. Verbinden des Stahlschützes im Wasser mit dem Minuspol der Stromquelle",
+        "target_scores": {
+            "A. Anschluss einer unterirdischen Stahlleitung an einen Magnesiumblock": 0,
+            "B. Anstrich der Oberfläche von Metallbarrieren": 0,
+            "C. Besprühen des Fahrzeugunterbodens mit einer Polymerfolie": 0,
+            "D. Verbinden des Stahlschützes im Wasser mit dem Minuspol der Stromquelle": 1
+        }
+    },
+    {
+        "input": "Bei welchem der folgenden Zustände, die mit dem Sauerstoffatom (O) in Zusammenhang stehen, ist die Energie zum Entfernen eines Elektrons am geringsten?\nA. $1s^2 2s^2 2p^2$\nB. $1s^2 2s^2 2p^3 3s^1$\nC. $1s^2 2s^2 2p^3$\nD. $1s^2 2s^2 2p^4$",
+        "target_scores": {
+            "A. $1s^2 2s^2 2p^2$": 0,
+            "B. $1s^2 2s^2 2p^3 3s^1$": 1,
+            "C. $1s^2 2s^2 2p^3$": 0,
+            "D. $1s^2 2s^2 2p^4$": 0
+        }
+    },
+    {
+        "input": "Hanna führt ein Experiment mit einer Kerze durch. Welche der folgenden Aussagen ist falsch?\nA. Das Streichholz schwärzt sich zuerst beim Kontakt mit dem äußeren Bereich der Flamme\nB. Die Flamme einer brennenden Kerze besteht aus drei Schichten\nC. Nach dem Ausblasen der Kerze entsteht eine weiße Rauchfahne, deren Bestandteil Wasserdampf ist\nD. Wenn man ein kleines Stück Wachs in Wasser legt, schwimmt es auf der Oberfläche – das zeigt, dass Wachs schwer löslich in Wasser ist und eine geringere Dichte als Wasser hat",
+        "target_scores": {
+            "A. Das Streichholz schwärzt sich zuerst beim Kontakt mit dem äußeren Bereich der Flamme": 0,
+            "B. Die Flamme einer brennenden Kerze besteht aus drei Schichten": 0,
+            "C. Nach dem Ausblasen der Kerze entsteht eine weiße Rauchfahne, deren Bestandteil Wasserdampf ist": 1,
+            "D. Wenn man ein kleines Stück Wachs in Wasser legt, schwimmt es auf der Oberfläche – das zeigt, dass Wachs schwer löslich in Wasser ist und eine geringere Dichte als Wasser hat": 0
+        }
+    },
+    {
+        "input": "Welcher der folgenden Stoffe erzeugt beim Verbrennen in Sauerstoff ein Funkenregen?\nA. Eisendraht\nB. Holzkohle\nC. Roter Phosphor\nD. Schwefelpulver",
+        "target_scores": {
+            "A. Eisendraht": 1,
+            "B. Holzkohle": 0,
+            "C. Roter Phosphor": 0,
+            "D. Schwefelpulver": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Stoffgruppen ist in der Reihenfolge Element - Verbindung - Gemisch angeordnet?\nA. C₆₀, Eisen(II,III)-oxid, Kalkstein\nB. Erdgas, Kohle, Erdöl\nC. Flüssiger Sauerstoff, reine Luft, Chlorwasserstoff\nD. Wasserstoff, Trockeneis, Eis-Wasser-Gemisch",
+        "target_scores": {
+            "A. C₆₀, Eisen(II,III)-oxid, Kalkstein": 1,
+            "B. Erdgas, Kohle, Erdöl": 0,
+            "C. Flüssiger Sauerstoff, reine Luft, Chlorwasserstoff": 0,
+            "D. Wasserstoff, Trockeneis, Eis-Wasser-Gemisch": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Aussagen über Saccharose (chemische Formel $C_{12}H_{22}O_{11}$) ist richtig?\nA. Das Verhältnis der Anzahl der H- und O-Atome in Saccharose ist 2 zu 1\nB. Der Massenanteil des Sauerstoffelements in Saccharose ist am kleinsten\nC. Die relative Molekülmasse von Saccharose ist $(12+1+16)$\nD. Saccharose enthält 45 Elemente",
+        "target_scores": {
+            "A. Das Verhältnis der Anzahl der H- und O-Atome in Saccharose ist 2 zu 1": 1,
+            "B. Der Massenanteil des Sauerstoffelements in Saccharose ist am kleinsten": 0,
+            "C. Die relative Molekülmasse von Saccharose ist $(12+1+16)$": 0,
+            "D. Saccharose enthält 45 Elemente": 0
+        }
+    },
+    {
+        "input": "Der Rauch von brennenden Zigaretten enthält Nikotin(chemische Formel $\\text{C}_{10}\\text{H}_{14}\\text{N}_2$). Welche der folgenden Aussagen ist richtig?\nA. Das Nikotinmolekül besteht aus drei Elementen: Kohlenstoff, Wasserstoff und Sauerstoff\nB. Das Nikotinmolekül enthält Stickstoffmoleküle\nC. Das Verhältnis der Anzahl der Kohlenstoff- und Wasserstoffatome im Nikotinmolekül beträgt 5 zu 7\nD. Die relative Molekülmasse von Nikotin beträgt 162 g",
+        "target_scores": {
+            "A. Das Nikotinmolekül besteht aus drei Elementen: Kohlenstoff, Wasserstoff und Sauerstoff": 0,
+            "B. Das Nikotinmolekül enthält Stickstoffmoleküle": 0,
+            "C. Das Verhältnis der Anzahl der Kohlenstoff- und Wasserstoffatome im Nikotinmolekül beträgt 5 zu 7": 1,
+            "D. Die relative Molekülmasse von Nikotin beträgt 162 g": 0
+        }
+    },
+    {
+        "input": "Eine reine Substanz verbrennt vollständig in Sauerstoff und bildet ausschließlich Kohlenstoffdioxid und Wasser. Daraus folgt für diese Substanz: ______.\nA. Enthält definitiv Kohlenstoff und Wasserstoff, möglicherweise auch Sauerstoff\nB. Enthält nur Kohlenstoff und Wasserstoff, kein Sauerstoff\nC. Kann nicht eindeutig bestimmt werden\nD. Muss Kohlenstoff, Wasserstoff und Sauerstoff enthalten",
+        "target_scores": {
+            "A. Enthält definitiv Kohlenstoff und Wasserstoff, möglicherweise auch Sauerstoff": 1,
+            "B. Enthält nur Kohlenstoff und Wasserstoff, kein Sauerstoff": 0,
+            "C. Kann nicht eindeutig bestimmt werden": 0,
+            "D. Muss Kohlenstoff, Wasserstoff und Sauerstoff enthalten": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Aussagen ist falsch? ______\nA. 3,2 g Schwefel reagieren mit 3,2 g Sauerstoff zu 6,4 g Schwefeldioxid\nB. Die Masse der Verbrennungsprodukte von Magnesium in Luft ist geringer als die ursprüngliche Magnesiummasse.\nC. Die Summe der Massen aller reagierenden Stoffe entspricht der Summe der Massen aller Produkte.\nD. Nach der thermischen Zersetzung von Kaliumchlorat ist die Masse des entstandenen Kaliumchlorids geringer als die Ausgangsmasse.",
+        "target_scores": {
+            "A. 3,2 g Schwefel reagieren mit 3,2 g Sauerstoff zu 6,4 g Schwefeldioxid": 0,
+            "B. Die Masse der Verbrennungsprodukte von Magnesium in Luft ist geringer als die ursprüngliche Magnesiummasse.": 1,
+            "C. Die Summe der Massen aller reagierenden Stoffe entspricht der Summe der Massen aller Produkte.": 0,
+            "D. Nach der thermischen Zersetzung von Kaliumchlorat ist die Masse des entstandenen Kaliumchlorids geringer als die Ausgangsmasse.": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Aussagen über Kohlenstoff und seine Oxide ist korrekt? ______\nA. Kohlendioxid lässt trockene, mit Lackmus gefärbte Blüten rot werden.\nB. Kohlenmonoxid und Kohlendioxid unterscheiden sich stark in ihren Eigenschaften aufgrund ihrer unterschiedlichen molekularen Zusammensetzung.\nC. Kohlenstoff ist brennbar, Holzkohle verbrennt an Luft ausschließlich zu Kohlendioxid.\nD. Unter bestimmten Bedingungen können Kohlenmonoxid und Kohlendioxid ineinander umgewandelt werden.",
+        "target_scores": {
+            "A. Kohlendioxid lässt trockene, mit Lackmus gefärbte Blüten rot werden.": 0,
+            "B. Kohlenmonoxid und Kohlendioxid unterscheiden sich stark in ihren Eigenschaften aufgrund ihrer unterschiedlichen molekularen Zusammensetzung.": 0,
+            "C. Kohlenstoff ist brennbar, Holzkohle verbrennt an Luft ausschließlich zu Kohlendioxid.": 0,
+            "D. Unter bestimmten Bedingungen können Kohlenmonoxid und Kohlendioxid ineinander umgewandelt werden.": 1
+        }
+    },
+    {
+        "input": "Welche der folgenden Aussagen zu chemischen Experimenten ist nicht korrekt?\nA. Bei der Herstellung von $O_2$ aus Kaliumpermanganat muss das Reagenzglas leicht nach unten geneigt sein.\nB. Bei der Laborsimulation der Eisengewinnung kann man zuerst erhitzen und dann $CO$-Gas einleiten.\nC. Für Eisenverbrennungsversuche in $O_2$ sollte das Standgefäß zuerst mit wenig Wasser oder Sand befüllt werden.\nD. Für die H2H_2\nH2​-Herstellung aus aktiven Metallen und Säure kann man dieselbe Apparatur wie für CO2CO_2\nCO2​-Erzeugung verwenden.",
+        "target_scores": {
+            "A. Bei der Herstellung von $O_2$ aus Kaliumpermanganat muss das Reagenzglas leicht nach unten geneigt sein.": 0,
+            "B. Bei der Laborsimulation der Eisengewinnung kann man zuerst erhitzen und dann $CO$-Gas einleiten.": 1,
+            "C. Für Eisenverbrennungsversuche in $O_2$ sollte das Standgefäß zuerst mit wenig Wasser oder Sand befüllt werden.": 0,
+            "D. Für die H2H_2\nH2​-Herstellung aus aktiven Metallen und Säure kann man dieselbe Apparatur wie für CO2CO_2\nCO2​-Erzeugung verwenden.": 0
+        }
+    },
+    {
+        "input": "Ein Schüler möchte 50 g Natriumchloridlösung mit einem Massenanteil von 15 % ansetzen. Welche der folgenden Aussagen ist richtig? ().\nA. Beim Abmessen von Wasser ist ein Messzylinder mit einer Spezifikation von 50 ml zu verwenden\nB. Die im Experiment verwendeten Glasinstrumente sind Bechergläser, Glasstäbe, Messzylinder, Trichter\nC. Wenn beim Abmessen von Wasser die Messungen von oben vorgenommen werden, führt dies zu einem zu geringen gelösten Massenanteil in der Lösung\nD. Wenn die Nadel der Waage beim Wiegen nach links ausschlägt, sind in der rechten Schale Gewichte hinzuzufügen oder der Schieberegler zu verstellen, bis die Waage im Gleichgewicht ist",
+        "target_scores": {
+            "A. Beim Abmessen von Wasser ist ein Messzylinder mit einer Spezifikation von 50 ml zu verwenden": 1,
+            "B. Die im Experiment verwendeten Glasinstrumente sind Bechergläser, Glasstäbe, Messzylinder, Trichter": 0,
+            "C. Wenn beim Abmessen von Wasser die Messungen von oben vorgenommen werden, führt dies zu einem zu geringen gelösten Massenanteil in der Lösung": 0,
+            "D. Wenn die Nadel der Waage beim Wiegen nach links ausschlägt, sind in der rechten Schale Gewichte hinzuzufügen oder der Schieberegler zu verstellen, bis die Waage im Gleichgewicht ist": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Aussagen über Lösungen ist korrekt? ______\nA. Beim Abkühlen einer gesättigten Lösung und Kristallausscheidung verringert sich die Masse des gelösten Stoffes in der Lösung.\nB. Beim Übergang einer ungesättigten in eine gesättigte Lösung nimmt der Massenanteil des gelösten Stoffes zwangsläufig zu.\nC. Die Zugabe von 5 g eines Stoffes zu 95 g Wasser ergibt stets eine Lösung mit 5% Massenanteil.\nD. Eine gesättigte Lösung enthält immer mehr gelösten Stoff als eine ungesättigte Lösung.",
+        "target_scores": {
+            "A. Beim Abkühlen einer gesättigten Lösung und Kristallausscheidung verringert sich die Masse des gelösten Stoffes in der Lösung.": 1,
+            "B. Beim Übergang einer ungesättigten in eine gesättigte Lösung nimmt der Massenanteil des gelösten Stoffes zwangsläufig zu.": 0,
+            "C. Die Zugabe von 5 g eines Stoffes zu 95 g Wasser ergibt stets eine Lösung mit 5% Massenanteil.": 0,
+            "D. Eine gesättigte Lösung enthält immer mehr gelösten Stoff als eine ungesättigte Lösung.": 0
+        }
+    },
+    {
+        "input": "Welche Gerätekombination wird in einem Laborexperiment zur Herstellung von Sauerstoff aus Kaliumpermanganat nicht benötigt?\nA. Ableitungsrohr, Einlochstopfen\nB. Becherglas, Glasstab\nC. Standzylinder, Alkohollampe\nD. großes Reagenzglas, Stativ",
+        "target_scores": {
+            "A. Ableitungsrohr, Einlochstopfen": 0,
+            "B. Becherglas, Glasstab": 1,
+            "C. Standzylinder, Alkohollampe": 0,
+            "D. großes Reagenzglas, Stativ": 0
+        }
+    },
+    {
+        "input": "Die richtigen experimentellen Schritte sind von entscheidender Bedeutung für das Gelingen eines Experiments. Welche der folgenden Aussagen über „zuerst\" und „danach\" ist nicht korrekt?\nA. Beim Test auf reduzierende Zucker im Birnensaft mit Fehlingscher Lösung wird zuerst der Birnensaft mit der Kupfer(II)-hydroxid-Suspension gemischt. Danach wird die Mischung erhitzt, um einen ziegelroten Niederschlag zu erzeugen.\nB. Wenn man Sauerstoff durch Erhitzen von Kaliumpermanganat herstellt und ihn mittels Wasserverdrängung auffängt, zieht man, nachdem die Gasentwicklung abgeschlossen ist, zuerst das Ableitungsrohr aus dem Wasser und löscht danach die Spiritusflamme.\nC. Wenn man den Einfluss des pH-Werts auf die Speicheldrüsen-Amylase prüft, fügt man in ein Reagenzglas mit Stärkebrei zuerst Speichel hinzu und danach verdünnte Salzsäure.\nD. Wenn man die Verbrennungsprodukte von Methan überprüft, leitet man die Produkte zuerst durch wasserfreies Kupfersulfat und danach durch Kalkwasser.",
+        "target_scores": {
+            "A. Beim Test auf reduzierende Zucker im Birnensaft mit Fehlingscher Lösung wird zuerst der Birnensaft mit der Kupfer(II)-hydroxid-Suspension gemischt. Danach wird die Mischung erhitzt, um einen ziegelroten Niederschlag zu erzeugen.": 0,
+            "B. Wenn man Sauerstoff durch Erhitzen von Kaliumpermanganat herstellt und ihn mittels Wasserverdrängung auffängt, zieht man, nachdem die Gasentwicklung abgeschlossen ist, zuerst das Ableitungsrohr aus dem Wasser und löscht danach die Spiritusflamme.": 0,
+            "C. Wenn man den Einfluss des pH-Werts auf die Speicheldrüsen-Amylase prüft, fügt man in ein Reagenzglas mit Stärkebrei zuerst Speichel hinzu und danach verdünnte Salzsäure.": 1,
+            "D. Wenn man die Verbrennungsprodukte von Methan überprüft, leitet man die Produkte zuerst durch wasserfreies Kupfersulfat und danach durch Kalkwasser.": 0
+        }
+    },
+    {
+        "input": "Als Lukas feststellte, dass die Blätter seiner Pflanzen gelb und die Stängel schwach waren und umzufallen drohten, hätte er folgenden Dünger ausbringen müssen:\nA. $CO(NH_2)2$\nB. $Ca_3(PO_4)_2$\nC. $KNO_3$\nD. $K_2CO_3$",
+        "target_scores": {
+            "A. $CO(NH_2)2$": 0,
+            "B. $Ca_3(PO_4)_2$": 0,
+            "C. $KNO_3$": 1,
+            "D. $K_2CO_3$": 0
+        }
+    },
+    {
+        "input": "Welcher der folgenden Stoffe kann nicht zur Unterscheidung zwischen Natriumhydroxidlösung und verdünnter Salzsäure verwendet werden?\nA. Natriumchloridlösung\nB. Zinkpulver\nC. pH-Testpapier\nD. violette Lackmus-Testlösung",
+        "target_scores": {
+            "A. Natriumchloridlösung": 1,
+            "B. Zinkpulver": 0,
+            "C. pH-Testpapier": 0,
+            "D. violette Lackmus-Testlösung": 0
+        }
+    },
+    {
+        "input": "Bei den folgenden Veränderungen gibt es eine Veränderung, die sich in der Essenz von den anderen drei Veränderungen unterscheidet. Um welche Veränderung handelt es sich?\nA. Eisennägel, die für eine lange Zeit in feuchter Luft liegen, nehmen an Masse zu\nB. Konzentrierte Salzsäure wird offen gelassen, wodurch sie an Masse verliert\nC. Wird Kalziumoxid in Wasser gegeben, steigt die Wassertemperatur\nD. saurer Regen korrodiert Marmorstatuen",
+        "target_scores": {
+            "A. Eisennägel, die für eine lange Zeit in feuchter Luft liegen, nehmen an Masse zu": 0,
+            "B. Konzentrierte Salzsäure wird offen gelassen, wodurch sie an Masse verliert": 1,
+            "C. Wird Kalziumoxid in Wasser gegeben, steigt die Wassertemperatur": 0,
+            "D. saurer Regen korrodiert Marmorstatuen": 0
+        }
+    },
+    {
+        "input": "$ClSO_3H$ wird Chlorsulfonsäure genannt und ist eine starke Säure. Für die Reaktion: $ClSO_3H + HCOOH \\rightarrow CO + HCl + H_2SO_4$, welche der folgenden Aussagen ist richtig?\nA. Der pH-Wert der Lösung nach der Reaktion sinkt\nB. Der pH-Wert der Lösung nach der Reaktion wird größer\nC. Die Reaktion ist eine Doppelaustauschreaktion.\nD. Die Wertigkeit des Elements Kohlenstoff ändert sich bei dieser Reaktion",
+        "target_scores": {
+            "A. Der pH-Wert der Lösung nach der Reaktion sinkt": 1,
+            "B. Der pH-Wert der Lösung nach der Reaktion wird größer": 0,
+            "C. Die Reaktion ist eine Doppelaustauschreaktion.": 0,
+            "D. Die Wertigkeit des Elements Kohlenstoff ändert sich bei dieser Reaktion": 0
+        }
+    },
+    {
+        "input": "Eine bestimmte Menge Holzkohle wird in einem geschlossenen Behälter, der ein Gemisch aus Stickstoff und Sauerstoff enthält, unter Bildung von $CO$ und $CO_2$ verbrannt, und der Massenanteil des Kohlenstoffs in dem nach der Reaktion erhaltenen Gemisch aus $CO$, $CO_2$ und $N_2$ beträgt 24 Prozent. Der Massenanteil des Stickstoffs in dem Gemisch kann demnach betragen:\nA. 0.1\nB. 0.3\nC. 0.5\nD. 0.7",
+        "target_scores": {
+            "A. 0.1": 0,
+            "B. 0.3": 1,
+            "C. 0.5": 0,
+            "D. 0.7": 0
+        }
+    },
+    {
+        "input": "Ein Becherglas wird mit einer Essigsäurelösung einer bestimmten Konzentration gefüllt (die Dichte der Lösung beträgt etwa 1 g/cm³). Nachdem die gesamte Lösung ausgegossen wurde, verbleiben noch 0,5 mL Lösung im Becherglas. Es wird zweimal mit jeweils 20 mL destilliertem Wasser gespült. Zu diesem Zeitpunkt beträgt die Konzentration der im Becher verbleibenden Essigsäurelösung etwa das Folgende der ursprünglichen Konzentration:\nA. 1/1681\nB. 1/81\nC. 1/820\nD. unbestimmt",
+        "target_scores": {
+            "A. 1/1681": 1,
+            "B. 1/81": 0,
+            "C. 1/820": 0,
+            "D. unbestimmt": 0
+        }
+    },
+    {
+        "input": "Die folgenden Vorgehensweisen können zur Explosion des Reagenzglases führen:\n① Erhitzen des Reagenzglases mit der äußeren Flamme einer Alkohollampe\n② Das Wasser vor dem Erhitzen nicht an der Außenwand des Reagenzglases abwischen\n③ Der Boden des Reagenzglases berührt beim Erhitzen den Docht\n④ Die erhitzte Flüssigkeit übersteigt 1/3 des Volumens\n⑤ Direktes Erhitzen der Flüssigkeit im Reagenzglas ohne Vorwärmen\nA. ①③⑤\nB. ②③⑤\nC. ②④\nD. ③④⑤",
+        "target_scores": {
+            "A. ①③⑤": 0,
+            "B. ②③⑤": 1,
+            "C. ②④": 0,
+            "D. ③④⑤": 0
+        }
+    },
+    {
+        "input": "Wenn ein Ei in weißen Essig gelegt wird, entstehen auf der Oberfläche der Schale viele Blasen. Handelt es sich bei dem erzeugten Gas um Kohlendioxid? Lukas schlug vor, dass geklärtes Kalkwasser verwendet werden kann, um dies zu testen. Welcher Phase der wissenschaftlichen Untersuchung entspricht dieser Schritt?\nA. Austausch und Bewertung\nB. Experiment entwerfen\nC. Hypothese aufstellen\nD. Schlussfolgerung ziehen",
+        "target_scores": {
+            "A. Austausch und Bewertung": 0,
+            "B. Experiment entwerfen": 1,
+            "C. Hypothese aufstellen": 0,
+            "D. Schlussfolgerung ziehen": 0
+        }
+    },
+    {
+        "input": "Ein Schüler verwendet einen Messzylinder, um das Volumen einer Flüssigkeit zu messen. Der Messzylinder steht stabil auf dem Tisch, und der Schüler blickt frontal auf die Skala. Er blickt zunächst direkt auf den tiefsten Punkt der konkaven Flüssigkeitsoberfläche und liest 19 ml ab. Nachdem er etwas Flüssigkeit ausgegossen hat, schaut er nach unten und liest 10 ml ab. Wie groß ist das tatsächliche Volumen der vom Schüler ausgegossenen Flüssigkeit? ().\nA. gleich 9 ml\nB. größer als 9 ml\nC. unbestimmt\nD. weniger als 9 ml",
+        "target_scores": {
+            "A. gleich 9 ml": 0,
+            "B. größer als 9 ml": 1,
+            "C. unbestimmt": 0,
+            "D. weniger als 9 ml": 0
+        }
+    },
+    {
+        "input": "Ein Schüler verwendet einen Messzylinder, um Flüssigkeit zu entnehmen. Der Zylinder steht stabil auf dem Labortisch. Beim Ablesen des Flüssigkeitsspiegels auf Augenhöhe zeigt der unterste Punkt des Meniskus 20 ml an. Nachdem er einen Teil der Flüssigkeit ausgegossen hat, liest er den Meniskus jedoch von unten ab und erhält einen Wert von 15 ml. Das Volumen der Flüssigkeit, die der Schüler tatsächlich ausgegossen hat, ist ().\nA. Alles ist möglich\nB. definitiv gleich 5 ml\nC. definitiv größer als 5 ml\nD. definitiv kleiner als 5 ml",
+        "target_scores": {
+            "A. Alles ist möglich": 0,
+            "B. definitiv gleich 5 ml": 0,
+            "C. definitiv größer als 5 ml": 0,
+            "D. definitiv kleiner als 5 ml": 1
+        }
+    },
+    {
+        "input": "Bei welchem der folgenden Prozesse findet eine chemische Veränderung statt? ()\nA. Salzgewinnung aus Meerwasser durch Sonneneinwirkung\nB. Trennung von flüssiger Luft zur Sauerstoffgewinnung\nC. Verderb von Lebensmitteln\nD. Wasser gefriert zu Eis",
+        "target_scores": {
+            "A. Salzgewinnung aus Meerwasser durch Sonneneinwirkung": 0,
+            "B. Trennung von flüssiger Luft zur Sauerstoffgewinnung": 0,
+            "C. Verderb von Lebensmitteln": 1,
+            "D. Wasser gefriert zu Eis": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Verwendungen beruht auf einer chemischen Eigenschaft des Stoffes?\nA. Flüssiger Stickstoff wird verwendet, um Blut zu lagern.\nB. Gold wird zur Herstellung von Schmuckwaren eingesetzt.\nC. Kupfer wird als Drahtmaterial verwendet.\nD. Sauerstoff wird bei der medizinischen Notfallversorgung verwendet.",
+        "target_scores": {
+            "A. Flüssiger Stickstoff wird verwendet, um Blut zu lagern.": 0,
+            "B. Gold wird zur Herstellung von Schmuckwaren eingesetzt.": 0,
+            "C. Kupfer wird als Drahtmaterial verwendet.": 0,
+            "D. Sauerstoff wird bei der medizinischen Notfallversorgung verwendet.": 1
+        }
+    },
+    {
+        "input": "In welcher der folgenden Gruppen von Stoffveränderungen handelt es sich beim ersten Vorgang um eine chemische Veränderung und beim zweiten um eine physikalische Veränderung? ()\nA. Alkohol verflüchtigt sich, weißer Phosphor entzündet sich\nB. Eis schmilzt zu Wasser; Schießpulver explodiert\nC. Eisen rostet, Trockeneis sublimiert\nD. Schwefel verbrennt, Elektrolyse von Wasser",
+        "target_scores": {
+            "A. Alkohol verflüchtigt sich, weißer Phosphor entzündet sich": 0,
+            "B. Eis schmilzt zu Wasser; Schießpulver explodiert": 0,
+            "C. Eisen rostet, Trockeneis sublimiert": 1,
+            "D. Schwefel verbrennt, Elektrolyse von Wasser": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Küchenutensilien bestehen hauptsächlich aus synthetischem Material?\nA. Edelstahl-Messer\nB. Holz-Schneidebrett\nC. Keramik-Löffel\nD. Kunststoff-Schüssel",
+        "target_scores": {
+            "A. Edelstahl-Messer": 0,
+            "B. Holz-Schneidebrett": 0,
+            "C. Keramik-Löffel": 0,
+            "D. Kunststoff-Schüssel": 1
+        }
+    },
+    {
+        "input": "Welcher der folgenden Gegenstände besteht NICHT aus organischem synthetischem Polymermaterial?\nA. Basketball\nB. Nylon-Seil\nC. Plastik-Wasserbecher\nD. T-Shirt aus 100% Baumwolle",
+        "target_scores": {
+            "A. Basketball": 0,
+            "B. Nylon-Seil": 0,
+            "C. Plastik-Wasserbecher": 0,
+            "D. T-Shirt aus 100% Baumwolle": 1
+        }
+    },
+    {
+        "input": "Eine unzureichende Aufnahme von Zink im menschlichen Körper kann zu einer Vielzahl von Krankheiten führen. Menschen mit Zinkmangel können Zinkgluconat ($C_{12}H_{22}O_{14}Zn$) als orale Lösung zur Zinksupplementierung unter Anleitung eines Arztes einnehmen. Welche der folgenden Aussagen über Zinkgluconat ist falsch? ().\nA. Das Verhältnis der Atomanzahlen von Kohlenstoff, Wasserstoff, Sauerstoff und Zink beträgt 12:22:14:1.\nB. Es besteht aus Kohlenstoff, Wasserstoff, Sauerstoff und Zink\nC. Seine relative Molekülmasse ist 450\nD. Zn gehört zu den Spurenelementen",
+        "target_scores": {
+            "A. Das Verhältnis der Atomanzahlen von Kohlenstoff, Wasserstoff, Sauerstoff und Zink beträgt 12:22:14:1.": 0,
+            "B. Es besteht aus Kohlenstoff, Wasserstoff, Sauerstoff und Zink": 0,
+            "C. Seine relative Molekülmasse ist 450": 1,
+            "D. Zn gehört zu den Spurenelementen": 0
+        }
+    }
+]

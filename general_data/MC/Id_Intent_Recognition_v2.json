@@ -1,0 +1,902 @@
+[
+    {
+        "input": "Di situs web klinik dokter gigi, seorang pengguna berkata, \"Saya punya beberapa gigi yang tidak rata. Bisakah dilakukan perawatan ortodontik? Saya juga punya gigi berlubang yang sakit saat saya makan. Bisakah Anda memperbaikinya di saat yang sama? Jangan suruh saya mencabutnya.\" Pilih opsi yang paling mewakili maksud sebenarnya dari pengguna. 1. Pencabutan gigi 2. Penambalan gigi berlubang 3. Perawatan ortodontik\nA. 1 dan 2\nB. 1 dan 3\nC. 1, 2 dan 3\nD. 2 dan 3",
+        "target_scores": {
+            "A. 1 dan 2": 0,
+            "B. 1 dan 3": 0,
+            "C. 1, 2 dan 3": 0,
+            "D. 2 dan 3": 1
+        }
+    },
+    {
+        "input": "Di situs web janji temu rumah sakit, seorang pengguna berkata, \"Saya perlu pemeriksaan kesehatan yang diwajibkan oleh perusahaan untuk pekerjaan baru saya, bisa tolong aturkan untuk saya? Selain itu, saya akan segera mengajukan SIM, dan sekolah mengemudi juga mensyaratkan pemeriksaan kesehatan. Terima kasih.\"\nPilihan berikut mana yang kemungkinan besar merupakan maksud sebenarnya dari pengguna?\nA. Untuk menjadwalkan pemeriksaan kesehatan untuk SIM\nB. Untuk menjadwalkan pemeriksaan kesehatan untuk pekerjaan\nC. Untuk menjadwalkan pemeriksaan kesehatan untuk pekerjaan dan mengikuti tes mengemudi\nD. Untuk menjadwalkan pemeriksaan kesehatan untuk pekerjaan dan pemeriksaan kesehatan untuk SIM",
+        "target_scores": {
+            "A. Untuk menjadwalkan pemeriksaan kesehatan untuk SIM": 0,
+            "B. Untuk menjadwalkan pemeriksaan kesehatan untuk pekerjaan": 0,
+            "C. Untuk menjadwalkan pemeriksaan kesehatan untuk pekerjaan dan mengikuti tes mengemudi": 0,
+            "D. Untuk menjadwalkan pemeriksaan kesehatan untuk pekerjaan dan pemeriksaan kesehatan untuk SIM": 1
+        }
+    },
+    {
+        "input": "Di depan mesin layanan mandiri rumah sakit, seorang pengguna berkata, \"Saya ingin mengambil laporan pemeriksaan kesehatan saya yang dilakukan minggu lalu. Tolong bantu saya menjadwalkan janji temu dengan dokter spesialis jantung.\"\nPilihan berikut manakah yang kemungkinan besar merupakan maksud sebenarnya dari pengguna?\nA. Untuk mencetak laporan pemeriksaan kesehatan dan menjadwalkan janji temu dengan dokter spesialis jantung\nB. Untuk mengambil laporan pemeriksaan kesehatan\nC. Untuk menjadwalkan janji temu dengan dokter spesialis jantung\nD. Untuk menjadwalkan pemeriksaan kesehatan",
+        "target_scores": {
+            "A. Untuk mencetak laporan pemeriksaan kesehatan dan menjadwalkan janji temu dengan dokter spesialis jantung": 1,
+            "B. Untuk mengambil laporan pemeriksaan kesehatan": 0,
+            "C. Untuk menjadwalkan janji temu dengan dokter spesialis jantung": 0,
+            "D. Untuk menjadwalkan pemeriksaan kesehatan": 0
+        }
+    },
+    {
+        "input": "Di platform belanja online, seorang pelanggan bertanya, \"Ada rekomendasi gaun yang bagus nggak? Dan topi jenis apa yang cocok untuknya? Idealnya, gaun itu harus cocok dengan sepatu baru saya.\"\nPilihan berikut manakah yang paling menggambarkan maksud sebenarnya dari pelanggan tersebut?\nA. Membeli gaun dan sepatu\nB. Membeli gaun dan topi\nC. Membeli topi\nD. Membeli topi dan sepatu",
+        "target_scores": {
+            "A. Membeli gaun dan sepatu": 0,
+            "B. Membeli gaun dan topi": 1,
+            "C. Membeli topi": 0,
+            "D. Membeli topi dan sepatu": 0
+        }
+    },
+    {
+        "input": "Di depan robot konsultasi rumah sakit, pengguna berkata, \"Dokter baru saja menyuruh saya untuk mendapatkan infus. Saya rasa sebaiknya saya dirawat untuk observasi terlebih dahulu. Teman saya akan datang menemui saya nanti.\"\nPilihan berikut manakah yang paling menggambarkan maksud sebenarnya pengguna saat ini?\n1. Meminta infus\n2. Bertemu dengan teman\n3. Meminta rawat inap\nA. 1, 2\nB. 1, 3\nC. 2, 3\nD. 3",
+        "target_scores": {
+            "A. 1, 2": 0,
+            "B. 1, 3": 0,
+            "C. 2, 3": 0,
+            "D. 3": 1
+        }
+    },
+    {
+        "input": "Di grup WhatsApp toko jam dan arloji, pengguna berkata, \"Jam tangan saya terjatuh dan rusak. Kapan saya bisa membawanya ke tempat Anda untuk diperbaiki? Jam dinding saya juga berhenti bekerja, mungkin karena baterainya mati. Saya berencana mengirimkannya bersama.\"\nPilihan berikut mana yang paling menggambarkan maksud sebenarnya dari pengguna?\nA. Memperbaiki dan mengganti baterai jam dinding\nB. Memperbaiki jam tangan dan jam dinding\nC. Memperbaiki jam tangan dan mengganti baterai jam tangan\nD. Mengganti baterai jam tangan dan jam dinding",
+        "target_scores": {
+            "A. Memperbaiki dan mengganti baterai jam dinding": 0,
+            "B. Memperbaiki jam tangan dan jam dinding": 1,
+            "C. Memperbaiki jam tangan dan mengganti baterai jam tangan": 0,
+            "D. Mengganti baterai jam tangan dan jam dinding": 0
+        }
+    },
+    {
+        "input": "Di situs web resmi universitas, pengguna berkata, \"Halo, bolehkah saya bergabung dengan Serikat Mahasiswa? Oh ya, apakah ada klub yang baru-baru ini lagi merekrut anggota? Kelas saya akhir-akhir ini sedikit dan saya cukup bebas.\"\nPilihan berikut manakah yang paling mewakili maksud pengguna yang sebenarnya?\nA. Mendaftar untuk bergabung dengan Serikat Mahasiswa\nB. Mendaftar untuk bergabung dengan klub\nC. Mendaftar untuk bergabung dengan klub, mendaftar untuk bergabung dengan Serikat Mahasiswa\nD. Mendaftar untuk menambahkan mata kuliah, mendaftar untuk bergabung dengan Serikat Mahasiswa",
+        "target_scores": {
+            "A. Mendaftar untuk bergabung dengan Serikat Mahasiswa": 0,
+            "B. Mendaftar untuk bergabung dengan klub": 0,
+            "C. Mendaftar untuk bergabung dengan klub, mendaftar untuk bergabung dengan Serikat Mahasiswa": 1,
+            "D. Mendaftar untuk menambahkan mata kuliah, mendaftar untuk bergabung dengan Serikat Mahasiswa": 0
+        }
+    },
+    {
+        "input": "Pengguna berkata kepada asisten AI pemroses teks, \"Bisakah Anda memberi saya sebuah kalimat perumpamaan? Lalu kalimat dengan paralelisme?\"\nPilihan berikut manakah yang paling mewakili maksud sebenarnya dari pengguna?\n1. Ubah kalimat perumpamaan menjadi kalimat paralelisme.\n2. Berikan kalimat perumpamaan terlebih dahulu, lalu kalimat paralelisme.\n3. Tambahkan paralelisme pada kalimat perumpamaan.\nA. 1\nB. 2\nC. 3\nD. Semuanya tidak",
+        "target_scores": {
+            "A. 1": 0,
+            "B. 2": 1,
+            "C. 3": 0,
+            "D. Semuanya tidak": 0
+        }
+    },
+    {
+        "input": "Di situs web pemesanan hotel, pengguna berkata, \"Saya ingin memesan kamar king untuk tiga malam, check in pukul 5 sore besok. Karena sarapan dikenakan biaya terpisah, bisakah Anda juga memesan sarapan untuk seluruh masa inap?\"\nPilihan berikut manakah yang paling mewakili maksud sebenarnya dari pengguna?\nA. Pesan kamar king untuk tiga malam\nB. Pesan kamar king untuk tiga malam dan sarapan untuk dua hari\nC. Pesan kamar king untuk tiga malam dan sarapan untuk tiga hari\nD. Pesan sarapan untuk tiga hari",
+        "target_scores": {
+            "A. Pesan kamar king untuk tiga malam": 0,
+            "B. Pesan kamar king untuk tiga malam dan sarapan untuk dua hari": 0,
+            "C. Pesan kamar king untuk tiga malam dan sarapan untuk tiga hari": 1,
+            "D. Pesan sarapan untuk tiga hari": 0
+        }
+    },
+    {
+        "input": "Di situs web resmi bandara, pengguna berkata, \"Saya ingin tahu barang apa saja yang dilarang di bandara. Bagaimana cara melewati bea cukai untuk membawa karya seni? Saya seorang kolektor barang antik dan memiliki banyak barang antik.\"\nPilihan berikut manakah yang paling mewakili maksud sebenarnya dari pengguna?\nA. Menanyakan tentang barang yang dilarang di bandara dan cara membawa karya seni melewati bea cukai\nB. Menanyakan tentang barang yang dilarang di bandara dan koleksi barang antik\nC. Menanyakan tentang cara melewati bea cukai dan koleksi barang antik\nD. Menanyakan tentang deklarasi bea cukai dan koleksi karya seni",
+        "target_scores": {
+            "A. Menanyakan tentang barang yang dilarang di bandara dan cara membawa karya seni melewati bea cukai": 1,
+            "B. Menanyakan tentang barang yang dilarang di bandara dan koleksi barang antik": 0,
+            "C. Menanyakan tentang cara melewati bea cukai dan koleksi barang antik": 0,
+            "D. Menanyakan tentang deklarasi bea cukai dan koleksi karya seni": 0
+        }
+    },
+    {
+        "input": "Dalam sistem rumah pintar, pengguna berkata, \"Nyalakan AC ke mode dingin, dan hidupkan TV!\"\nPilihan manakah berikut yang paling mewakili maksud sebenarnya dari pengguna?\n1. Mencerahkan TV\n2. Nyalakan TV\n3. Nyalakan AC untuk mendinginkan\n4. Nyalakan AC untuk memanaskan\nA. 1 dan 3\nB. 1 dan 4\nC. 2 dan 3\nD. 2 dan 4",
+        "target_scores": {
+            "A. 1 dan 3": 0,
+            "B. 1 dan 4": 0,
+            "C. 2 dan 3": 1,
+            "D. 2 dan 4": 0
+        }
+    },
+    {
+        "input": "Di situs web klinik psikologis tersebut, pengguna berkata, \"Saya merasa cemas akhir-akhir ini dan sangat membutuhkan bantuan psikolog. Setahu saya, di sini tersedia hipnoterapi, saya ingin jalan-jalan ke sini dan melihat hasilnya seperti apa.\"\nPilihan berikut manakah yang paling menggambarkan maksud sebenarnya dari pengguna?\n1. Berkonsultasi dengan psikolog\n2. Kunjungi klinik\n3. Coba hipnoterapi\nA. 1 dan 2\nB. 1 dan 3\nC. 1, 2 dan 3\nD. 2 dan 3",
+        "target_scores": {
+            "A. 1 dan 2": 0,
+            "B. 1 dan 3": 0,
+            "C. 1, 2 dan 3": 1,
+            "D. 2 dan 3": 0
+        }
+    },
+    {
+        "input": "Di situs web firma hukum tersebut, pengguna berkata, \"Perusahaan saya memiliki beberapa masalah pajak dan memerlukan konsultasi dengan pengacara profesional. Selain itu, saya perlu segera menandatangani kontrak besar, adakah seseorang yang cakap menyusun kontrak dengan benar?\"\nPilihan berikut manakah yang paling mewakili maksud sebenarnya dari pengguna?\nA. Konsultasi pajak dan penandatanganan kontrak\nB. Konsultasi pajak dan penyusunan kontrak\nC. Mempekerjakan pengacara pajak dan pengacara kontrak\nD. Mempekerjakan pengacara pajak untuk menyusun kontrak terkait pajak",
+        "target_scores": {
+            "A. Konsultasi pajak dan penandatanganan kontrak": 0,
+            "B. Konsultasi pajak dan penyusunan kontrak": 1,
+            "C. Mempekerjakan pengacara pajak dan pengacara kontrak": 0,
+            "D. Mempekerjakan pengacara pajak untuk menyusun kontrak terkait pajak": 0
+        }
+    },
+    {
+        "input": "Di situs web klinik psikologis, pengguna berkata, \"Saya mengalami insomnia akhir-akhir ini. Saya ingin kesehatan mental saya dinilai untuk memahami apa yang terjadi. Saya juga ingin mengikuti tes IQ, katanya belakangan ini aku sering bego.\"\nPilihan berikut manakah yang paling menggambarkan maksud sebenarnya dari pengguna?\nA. Ikuti penilaian kesehatan mental dan atasi insomnia\nB. Ikuti penilaian kesehatan mental dan tes IQ\nC. Ikuti tes IQ dan atasi kebodohan\nD. Mengobati insomnia dan kebodohan",
+        "target_scores": {
+            "A. Ikuti penilaian kesehatan mental dan atasi insomnia": 0,
+            "B. Ikuti penilaian kesehatan mental dan tes IQ": 1,
+            "C. Ikuti tes IQ dan atasi kebodohan": 0,
+            "D. Mengobati insomnia dan kebodohan": 0
+        }
+    },
+    {
+        "input": "Di situs web janji temu rumah sakit, pengguna berkata, \"Akhir-akhir ini saya mengalami rasa tidak nyaman di kaki saya, mungkin karena terkilir saat bermain sepak bola. Saya ingin menjalani Sinar-X untuk memeriksanya. Selain itu, dapatkah saya menjadwalkan USG pada saat yang sama?\"\nPilihan berikut mana yang kemungkinan besar merupakan maksud sebenarnya dari pengguna?\nA. Untuk menjadwalkan Sinar-X dan USG\nB. Untuk menjadwalkan Sinar-X dan mengobati keseleo\nC. Untuk menjadwalkan USG\nD. Untuk menjadwalkan USG dan mengobati keseleo",
+        "target_scores": {
+            "A. Untuk menjadwalkan Sinar-X dan USG": 1,
+            "B. Untuk menjadwalkan Sinar-X dan mengobati keseleo": 0,
+            "C. Untuk menjadwalkan USG": 0,
+            "D. Untuk menjadwalkan USG dan mengobati keseleo": 0
+        }
+    },
+    {
+        "input": "Di halaman layanan pelanggan toko ponsel, pengguna berkata, \"Layar ponsel saya rusak, dan bisakah dikirim ke sana dan layarnya diperbaiki? Kalau melakukan jailbreak pada ponsel,bisa nggak ya? Oh ya, ponsel saya udah reset ke pengaturan pabrik.\"\nPilihan berikut manakah yang paling menggambarkan maksud sebenarnya dari pengguna?\nA. Lakukan jailbreak pada ponsel dan setel ulang ke pengaturan pabrik\nB. Perbaiki ponsel dan atur VPN\nC. Perbaiki ponsel dan lakukan jailbreak\nD. Perbaiki ponsel dan setel ulang ke pengaturan pabrik",
+        "target_scores": {
+            "A. Lakukan jailbreak pada ponsel dan setel ulang ke pengaturan pabrik": 0,
+            "B. Perbaiki ponsel dan atur VPN": 0,
+            "C. Perbaiki ponsel dan lakukan jailbreak": 1,
+            "D. Perbaiki ponsel dan setel ulang ke pengaturan pabrik": 0
+        }
+    },
+    {
+        "input": "Di aplikasi hotel, pengguna berkata, \"Jadwal checkout saya besok siang, tapi saya sudah memesan tiket kereta api untuk besok malam. Jadi beberapa barang bawaan perlu disimpan di sini terlebih dahulu \"\nPilihan mana yang paling sesuai dengan keinginan pengguna?\n1. Permintaan Check-out\n2. Pesan tiket kereta\n3. Simpan barang bawaan\nA. 1 dan 2\nB. 1 dan 3\nC. 2 dan 3\nD. 3",
+        "target_scores": {
+            "A. 1 dan 2": 0,
+            "B. 1 dan 3": 0,
+            "C. 2 dan 3": 0,
+            "D. 3": 1
+        }
+    },
+    {
+        "input": "Di situs web rumah duka, pengguna berkata, \"Saya perlu mengatur kremasi untuk keluarga saya. Saya juga butuh seseorang untuk memimpin upacara duka. Keluarga saya religius, dan pendeta gereja kami akan hadir.\"\nPilihan mana yang paling sesuai dengan keinginan pengguna?\n1. Atur pendeta melalui rumah duka\n2. Perlu pemimpin upacara peringatan\n3. Atur kremasi\n4. Mengajak orang untuk beragama\nA. 1 dan 4\nB. 2 dan 3\nC. 2 dan 4\nD. 3 dan 4",
+        "target_scores": {
+            "A. 1 dan 4": 0,
+            "B. 2 dan 3": 1,
+            "C. 2 dan 4": 0,
+            "D. 3 dan 4": 0
+        }
+    },
+    {
+        "input": "Dalam aplikasi perusahaan pernikahan, pengguna berkata, \"Saya ingin menyewa tim videografer pernikahan profesional Anda untuk mengambil foto pernikahan saya di luar ruangan. Fotonya bisa diambil di taman atau tempat bersantai lainnya.\"\nPilihan mana yang paling sesuai dengan keinginan pengguna?\nA. Pilih lokasi untuk foto pernikahan\nB. Rekam di taman dengan tim profesional\nC. Rencanakan pernikahan di taman dengan tim profesional\nD. Sewa tim profesional untuk foto pernikahan di luar ruangan",
+        "target_scores": {
+            "A. Pilih lokasi untuk foto pernikahan": 0,
+            "B. Rekam di taman dengan tim profesional": 0,
+            "C. Rencanakan pernikahan di taman dengan tim profesional": 0,
+            "D. Sewa tim profesional untuk foto pernikahan di luar ruangan": 1
+        }
+    },
+    {
+        "input": "Dalam APP pasar buah, pengguna berkata, \"Bisakah Anda memilih semangka manis dan tebu segar dalam bentuk potongan-potongan untuk saya? Jika buahnya bagus, saya mungkin akan kembali besok untuk membeli apel.\"\nPilihan mana yang paling menggambarkan maksud pengguna?\n1. Beli semangka\n2. Beli apel\n3. Beli tebu\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 0,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 1,
+            "D. 2, 3": 0
+        }
+    },
+    {
+        "input": "Di area pemesanan mandiri kafe, pengguna berkata, \"Mohon satu cangkir kopi Americano dengan tambahan gula yang lebih banyak. Akan lebih sempurna jika disertai sepotong kue tiramisu.\"\nPilihan mana yang paling menggambarkan maksud pengguna?\n1. Beli gula\n2. Beli kue kecil\n3. Beli kopi\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 0,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 0,
+            "D. 2, 3": 1
+        }
+    },
+    {
+        "input": "Di platform resmi perusahaan M&A, seorang pengguna berkata, \"Kami perlu mengaudit laporan keuangan perusahaan target; kami menduga adanya penipuan keuangan. Selain itu, carikan beberapa pakar M&A, saya butuh pendapat mereka untuk membantu saya menyelesaikan transaksi.\" Pilihan mana yang paling menggambarkan maksud sebenarnya dari pengguna?\nA. Audit laporan keuangan, penipuan keuangan\nB. Konsultasi M&A, audit laporan keuangan\nC. Konsultasi M&A, penipuan keuangan\nD. Penipuan keuangan, mempekerjakan pakar M&A",
+        "target_scores": {
+            "A. Audit laporan keuangan, penipuan keuangan": 0,
+            "B. Konsultasi M&A, audit laporan keuangan": 1,
+            "C. Konsultasi M&A, penipuan keuangan": 0,
+            "D. Penipuan keuangan, mempekerjakan pakar M&A": 0
+        }
+    },
+    {
+        "input": "Di forum universitas, pengguna berkata, \"Bagaimana cara saya mendapatkan tempat di seminar sastra mendatang? Kabarnya bahwa ada beberapa peluang studi ke luar negeri—saya ingin mendaftar. Saya telah menerima beasiswa selama bertahun-tahun.\"\nPilihan mana yang paling sesuai dengan keinginan pengguna?\nA. Mendaftar untuk beasiswa\nB. Mendaftar untuk program studi ke luar negeri dan beasiswa\nC. Mendaftar untuk seminar sastra dan mendaftar untuk beasiswa\nD. Mendaftar untuk seminar sastra dan mendaftar untuk program studi ke luar negeri",
+        "target_scores": {
+            "A. Mendaftar untuk beasiswa": 0,
+            "B. Mendaftar untuk program studi ke luar negeri dan beasiswa": 0,
+            "C. Mendaftar untuk seminar sastra dan mendaftar untuk beasiswa": 0,
+            "D. Mendaftar untuk seminar sastra dan mendaftar untuk program studi ke luar negeri": 1
+        }
+    },
+    {
+        "input": "Saat menggunakan program pemrosesan audio, pengguna berkata kepada asisten pintar, \"Percepat audio ini menjadi 1,5 kali lipat dari aslinya. Selain itu, ada terlalu banyak kebisingan dan nadanya tinggi. Bisakah Anda mengurangi kebisingan audio?\"\nPilihan mana yang paling sesuai dengan keinginan pengguna?\nA. Atur audio agar diputar pada kecepatan 1,5 kali lipat\nB. Atur audio agar diputar pada kecepatan 1,5 kali lipat dan kurangi kebisingan audio\nC. Kurangi kebisingan audio dan tingkatkan nada audio\nD. Tingkatkan kecepatan audio sebanyak 1,5 kali lipat dan kurangi kebisingan audio",
+        "target_scores": {
+            "A. Atur audio agar diputar pada kecepatan 1,5 kali lipat": 0,
+            "B. Atur audio agar diputar pada kecepatan 1,5 kali lipat dan kurangi kebisingan audio": 1,
+            "C. Kurangi kebisingan audio dan tingkatkan nada audio": 0,
+            "D. Tingkatkan kecepatan audio sebanyak 1,5 kali lipat dan kurangi kebisingan audio": 0
+        }
+    },
+    {
+        "input": "Pada aplikasi, pengguna berkata, \"Toko apa saja yang ada di mal? Kapan dibuka? Saya ingin menjadi orang pertama yang datang dengan mobil.\"\nPilihan mana yang paling sesuai dengan keinginan pengguna?\nA. Berkendara ke mal dan tanyakan tentang toko-toko\nB. Tanyakan tentang jam buka dan lokasi toko\nC. Tanyakan tentang jam buka dan rencanakan untuk berkendara ke mal\nD. Tanyakan tentang jam buka dan toko-toko",
+        "target_scores": {
+            "A. Berkendara ke mal dan tanyakan tentang toko-toko": 0,
+            "B. Tanyakan tentang jam buka dan lokasi toko": 0,
+            "C. Tanyakan tentang jam buka dan rencanakan untuk berkendara ke mal": 0,
+            "D. Tanyakan tentang jam buka dan toko-toko": 1
+        }
+    },
+    {
+        "input": "Dalam aplikasi layanan perbaikan dan pembukaan kunci, pengguna berkata, \"Saya kehilangan kunci pintu depan dan tidak bisa mendapatkannya kembali. Saya perlu mengganti kuncinya, tolong cepat dikit ke sini. Pertama tolong buka pintunya dan buat beberapa kunci tambahan untuk laci kamar tidur saya juga.\"\nPilihan mana yang paling mewakili maksud sebenarnya dari pengguna?\nA. Buka kunci pintu, ganti kunci pintu depan, buat kunci tambahan untuk laci\nB. Ganti kunci laci, buat kunci tambahan untuk pintu depan, buka kunci pintu\nC. Ganti kunci pintu depan, buat kunci tambahan untuk laci\nD. Ganti kunci pintu depan, buat kunci tambahan untuk pintu depan, buka kunci pintu",
+        "target_scores": {
+            "A. Buka kunci pintu, ganti kunci pintu depan, buat kunci tambahan untuk laci": 1,
+            "B. Ganti kunci laci, buat kunci tambahan untuk pintu depan, buka kunci pintu": 0,
+            "C. Ganti kunci pintu depan, buat kunci tambahan untuk laci": 0,
+            "D. Ganti kunci pintu depan, buat kunci tambahan untuk pintu depan, buka kunci pintu": 0
+        }
+    },
+    {
+        "input": "Pada platform reservasi restoran, pengguna berkata, \"Saya ingin memesan ruang VIP. Bisakah saya memesan makanan terlebih dahulu? Saya merasa proses pemesanan dan penyajian makanan di tempat terlalu lambat.\"\nPilihan mana yang paling sesuai dengan keinginan pengguna?\nA. Pesan makanan dan mohon agar makanannya segera disajikan.\nB. Pesan makanan terlebih dahulu.\nC. Pesan ruang VIP dan mohon agar makanannya segera disajikan.\nD. Pesan ruang VIP dan pesan makanan terlebih dahulu.",
+        "target_scores": {
+            "A. Pesan makanan dan mohon agar makanannya segera disajikan.": 0,
+            "B. Pesan makanan terlebih dahulu.": 0,
+            "C. Pesan ruang VIP dan mohon agar makanannya segera disajikan.": 0,
+            "D. Pesan ruang VIP dan pesan makanan terlebih dahulu.": 1
+        }
+    },
+    {
+        "input": "Pada sistem internal perusahaan, pengguna berkata, \"Jabatan saat ini tidak cocok untuk saya. Saya ingin melamar posisi lain. Selain itu, duduk di pojok benar-benar membuat saya jenuh. Sebaiknya tempat duduk saya dipindahkan.\"\nPilihan mana yang paling sesuai dengan keinginan pengguna?\n1. Ajukan permohonan mutasi pekerjaan\n2. Minta pindah tempat duduk\n3. Minta kursi baru\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 1,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 0,
+            "D. 2, 3": 0
+        }
+    },
+    {
+        "input": "Di situs web resmi perusahaan pameran, pengguna berkata, \"Saya perlu memesan ruang rapat untuk rapat penting besok. Selain itu, bisakah mengatur beberapa resepsionis untuk membantu kami selama pameran?\"\nPilihan mana yang paling menggambarkan maksud sebenarnya dari pengguna?\nA. Adakan rapat dan atur resepsionis \nB. Adakan rapat dan minta bantuan dari resepsionis \nC. Pesan ruang rapat dan atur resepsionis \nD. Pesan ruang rapat dan minta bantuan resepsionis",
+        "target_scores": {
+            "A. Adakan rapat dan atur resepsionis ": 0,
+            "B. Adakan rapat dan minta bantuan dari resepsionis ": 0,
+            "C. Pesan ruang rapat dan atur resepsionis ": 0,
+            "D. Pesan ruang rapat dan minta bantuan resepsionis": 1
+        }
+    },
+    {
+        "input": "Pada asisten pesan di toko swalayan komunitas, pengguna berkata, \"Ambilkan saya sekantong keripik dan cola seperti biasa. Rumah saya sedang direnovasi, ada orang di dalamnya, tolong antar langsung ke dalam.\"\nPilihan mana yang paling menggambarkan maksud sebenarnya dari pengguna?\nA. Beli bahan renovasi, beli cola\nB. Beli keripik dan cola dan minta diantar ke rumah\nC. Beli keripik, beli cola\nD. Beli keripik, cola, dan bahan renovasi dan minta diantar ke rumah",
+        "target_scores": {
+            "A. Beli bahan renovasi, beli cola": 0,
+            "B. Beli keripik dan cola dan minta diantar ke rumah": 1,
+            "C. Beli keripik, beli cola": 0,
+            "D. Beli keripik, cola, dan bahan renovasi dan minta diantar ke rumah": 0
+        }
+    },
+    {
+        "input": "Saat menggunakan asisten suara pintar, pengguna berkata, \"Saya mendapat pesan suara yang sangat cepat dan sulit dipahami. Bisakah Anda menyalinnya ke dalam bahasa Indonesia? Selain itu, saya juga sangat penasaran, apakah orang yang mengatakan ini laki-laki atau perempuan. Mohon beri tahu saya.\"\nPilihan mana yang paling menggambarkan maksud sebenarnya dari pengguna?\n1. Transkripsikan pesan suara ke dalam bahasa Indonesia\n2. Tentukan jenis kelamin pembicara\n3. Kuranilah kecepatan suara\nA. 1 dan 2\nB. 1 dan 3\nC. 1, 2 dan 3\nD. 2 dan 3",
+        "target_scores": {
+            "A. 1 dan 2": 1,
+            "B. 1 dan 3": 0,
+            "C. 1, 2 dan 3": 0,
+            "D. 2 dan 3": 0
+        }
+    },
+    {
+        "input": "Di halaman janji temu salon rambut, pengguna berkata, \"Saya ingin membuat janji dengan penata rambut untuk melakukan perm. Selain itu, saya juga ingin mengganti warna rambut. Tolong gunakan krim pewarna rambut yang berkualitas, ya.\"\nPilihan mana yang paling menggambarkan maksud sebenarnya dari pengguna?\n1. Mengeriting rambut\n2. Membeli pewarna rambut\n3. Mengubah warna rambut\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 0,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 1,
+            "D. 2, 3": 0
+        }
+    },
+    {
+        "input": "Di situs web penampungan hewan, pengguna berkata, \"Saya selalu merasa kucing liar tampak kasihan setiap kali saya berbelanja ke luar. Saya ingin mengadopsi satu dan sudah meminta orang untuk memasang teralis. Oh ya, tolong rekomendasikan pasir kucing yang bagus—saya mau menyelesaikan semua keperluan kucing.\"\nPilihan mana yang paling menggambarkan maksud sebenarnya pengguna?\n1. Adopsi kucing liar\n2. Beli pasir kucing\n3. Mencari tukang untuk memasang teralis\nA. 1 dan 2\nB. 1 dan 3\nC. 1, 2 dan 3\nD. 2 dan 3",
+        "target_scores": {
+            "A. 1 dan 2": 1,
+            "B. 1 dan 3": 0,
+            "C. 1, 2 dan 3": 0,
+            "D. 2 dan 3": 0
+        }
+    },
+    {
+        "input": "Di situs web pabrik, pengguna berkata, \"Saya suka produk Anda. Apakah Anda bersedia mengirimkan sampel kepada saya? Saya juga ingin mengunjungi pabrik Anda dan melihat proses produksinya.\"\nPilihan mana yang paling menggambarkan maksud sebenarnya pengguna?\n1. Dapatkan sampel\n2. Bergabung dengan produksi\n3. Kunjungi pabrik\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 0,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 1,
+            "D. 2, 3": 0
+        }
+    },
+    {
+        "input": "Pada sistem internal perusahaan, pengguna berkata, \"Hai, saya punya surat keterangan medis dua hari dari rumah sakit. Bisakah SDM membantu memprosesnya? Surat keterangan ini untuk awal bulan ini. Saya juga akan mengundurkan diri bulan depan dan ingin menggunakan cuti tahunan saya pada akhir bulan ini.\"\nPilihan mana yang paling menggambarkan maksud sebenarnya dari pengguna?\nA. Ajukan cuti sakit dan mengundurkan diri di akhir bulan\nB. Proses surat keterangan medis dan ajukan cuti tahunan di akhir bulan\nC. Proses surat keterangan medis dan ajukan cuti tahunan di awal bulan\nD. Proses surat keterangan medis dan mengundurkan diri di akhir bulan",
+        "target_scores": {
+            "A. Ajukan cuti sakit dan mengundurkan diri di akhir bulan": 0,
+            "B. Proses surat keterangan medis dan ajukan cuti tahunan di akhir bulan": 1,
+            "C. Proses surat keterangan medis dan ajukan cuti tahunan di awal bulan": 0,
+            "D. Proses surat keterangan medis dan mengundurkan diri di akhir bulan": 0
+        }
+    },
+    {
+        "input": "Di situs web rumah sakit hewan, pengguna berkata, \"Anjing saya akhir-akhir ini tidak enak badan dan tidak mau jalan-jalan. Bisakah Anda memeriksanya? Selain itu, saya juga ingin melakukan operasi pada kucing saya agar ia disterilkan.\"\nPilihan mana yang paling menggambarkan maksud sebenarnya dari pengguna?\n\nA. Obati anjing, obati kucing\nB. Obati anjing, sterilkan kucing\nC. Obati kucing, sterilkan anjing\nD. Suruh anjing jalan-jalan, sterilkan kucing",
+        "target_scores": {
+            "A. Obati anjing, obati kucing": 0,
+            "B. Obati anjing, sterilkan kucing": 1,
+            "C. Obati kucing, sterilkan anjing": 0,
+            "D. Suruh anjing jalan-jalan, sterilkan kucing": 0
+        }
+    },
+    {
+        "input": "Pada halaman reservasi toko roti, pengguna berkata, \"Ulang tahun teman saya sebentar lagi. Saya ingin memesan satu kue cokelat, tolong sertakan 20 batang lilin bersama kuenya. Selain itu, saya perlu pesan beberapa roti sederhana untuk sarapan.\"\nPilihan mana yang paling menggambarkan maksud sebenarnya dari pengguna?\nA. Pesan kue, beli roti sarapan, makan sarapan\nB. Pesan kue, mohon sertakan lilin\nC. Pesan kue, mohon sertakan lilin, beli roti sarapan\nD. Pesan kue, sertakan lilin, makan sarapan",
+        "target_scores": {
+            "A. Pesan kue, beli roti sarapan, makan sarapan": 0,
+            "B. Pesan kue, mohon sertakan lilin": 0,
+            "C. Pesan kue, mohon sertakan lilin, beli roti sarapan": 1,
+            "D. Pesan kue, sertakan lilin, makan sarapan": 0
+        }
+    },
+    {
+        "input": "Di kelompok pelanggan pembersih kering, pengguna berkata, \"Jaket kulit saya perlu dirawat karena sudah dipakai lama. Berapa biaya untuk membersihkan sepatu kulit? Selain itu, gorden di rumah juga sudah saya lepas dan perlu dicuci.\"\nPilihan mana yang paling menggambarkan maksud sebenarnya dari pengguna?\nA. Perawatan jaket kulit, beli sepatu kulit, melepas gorden\nB. Perawatan jaket kulit, perawatan sepatu kulit, pembersihan gorden\nC. Perawatan jaket kulit, tanyakan tentang harga pembersihan sepatu kulit, pembersihan gorden\nD. Perawatan jaket kulit, tanyakan tentang harga sepatu kulit, pembersihan gorden",
+        "target_scores": {
+            "A. Perawatan jaket kulit, beli sepatu kulit, melepas gorden": 0,
+            "B. Perawatan jaket kulit, perawatan sepatu kulit, pembersihan gorden": 0,
+            "C. Perawatan jaket kulit, tanyakan tentang harga pembersihan sepatu kulit, pembersihan gorden": 1,
+            "D. Perawatan jaket kulit, tanyakan tentang harga sepatu kulit, pembersihan gorden": 0
+        }
+    },
+    {
+        "input": "Di situs web perusahaan perencana pernikahan, pengguna berkata, \"Saya dan pacar saya berniat merencanakan pernikahan bulan depan. Adakah tempat lagi untuk kami? Oh ya, bisakah merekomendasikan pemandu acara yang baik buat kami? Kami sudah menyewa tim fotografer profesional.\"\nPilihan mana yang paling menggambarkan maksud pengguna yang sebenarnya?\n1. Pesan tempat pernikahan\n2. Rekam video pernikahan\n3. Pesan pemandu acara\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 0,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 1,
+            "D. 2, 3": 0
+        }
+    },
+    {
+        "input": "Di situs web firma hukum, pengguna berkata, \"Tetangga saya meminjam 100 juta rupiah dari saya dan tidak mau membayarnya! Saya butuh saran dan solusi dari Anda. Bisakah Anda membantu saya mengajukan gugatan terhadapnya? Saya punya surat perjanjian sebagai bukti.\"\nPilihan mana yang paling menggambarkan maksud pengguna yang sebenarnya?\n1. Konsultasi tentang sengketa perdata\n2. Minta perwakilan hukum untuk gugatan hukum\n3. Tulis surat perjanjian\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 1,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 0,
+            "D. 2, 3": 0
+        }
+    },
+    {
+        "input": "Pada platform perdagangan bursa berjangka, pengguna berkata, \"Tolong bantu saya membeli beberapa kedelai dan jual minyak mentah saat harganya tepat. Harga minyak sedang turun.\"\nPilihan berikut manakah yang paling akurat menggambarkan maksud sebenarnya dari pengguna?\nA. Beli kedelai, jual minyak mentah\nB. Beli kontrak berjangka kedelai, jual minyak mentah berjangka\nC. Beli kontrak berjangka kedelai, turunkan harga minyak, jual minyak mentah berjangka\nD. Beli minyak mentah, jual kedelai\n",
+        "target_scores": {
+            "A. Beli kedelai, jual minyak mentah": 0,
+            "B. Beli kontrak berjangka kedelai, jual minyak mentah berjangka": 1,
+            "C. Beli kontrak berjangka kedelai, turunkan harga minyak, jual minyak mentah berjangka": 0,
+            "D. Beli minyak mentah, jual kedelai\n": 0
+        }
+    },
+    {
+        "input": "Di komunitas toko alat musik, pengguna berkata, \"Punya gitar untuk pemula? Saya ingin suatu hari nanti bisa memainkan gitar dengan baik. Bisakah bosnya mengajari saya?\"\nPilihan mana yang paling menggambarkan maksud sebenarnya pengguna?\nA. Ajari gitar, beli gitar\nB. Belajar gitar, beli gitar\nC. Main gitar, ajari gitar\nD. Main gitar, beli gitar",
+        "target_scores": {
+            "A. Ajari gitar, beli gitar": 0,
+            "B. Belajar gitar, beli gitar": 1,
+            "C. Main gitar, ajari gitar": 0,
+            "D. Main gitar, beli gitar": 0
+        }
+    },
+    {
+        "input": "Di platform pemesanan bengkel mobil, pengguna berkata, \"Ban saya sudah aus dan perlu diganti. Mesinnya juga bermasalah, mengeluarkan suara keras. Bisakah Anda memeriksanya?\"\nPilihan mana yang paling menggambarkan maksud sebenarnya pengguna?\nA. Ganti ban, ganti mesin\nB. Ganti ban, periksa mesin\nC. Perbaiki ban, ganti mesin\nD. Perbaiki ban, periksa mesin",
+        "target_scores": {
+            "A. Ganti ban, ganti mesin": 0,
+            "B. Ganti ban, periksa mesin": 1,
+            "C. Perbaiki ban, ganti mesin": 0,
+            "D. Perbaiki ban, periksa mesin": 0
+        }
+    },
+    {
+        "input": "Di platform daring perpustakaan, seorang pengguna menyampaikan,“Saya ingin mengembalikan buku yang terakhir saya pinjam, karena sudah melewati batas waktu peminjaman dan belum sempat saya selesaikan. Oleh karena itu, saya berencana membeli sendiri satu set buku tersebut. Namun, saya masih perlu meminjam beberapa buku baru, yang tidak dapat saya temukan di toko buku.”\nManakah dari opsi berikut yang paling mungkin mencerminkan maksud sebenarnya dari pesan pengguna?\nA. Beli buku, pinjam buku\nB. Beli buku, pinjam buku, kembalikan buku\nC. Kembalikan buku, beli buku\nD. Kembalikan buku, pinjam buku",
+        "target_scores": {
+            "A. Beli buku, pinjam buku": 0,
+            "B. Beli buku, pinjam buku, kembalikan buku": 0,
+            "C. Kembalikan buku, beli buku": 0,
+            "D. Kembalikan buku, pinjam buku": 1
+        }
+    },
+    {
+        "input": "Dalam aplikasi pemesanan kendaraan, pengguna berkata kepada layanan pelanggan, \"Beri tahu pengemudi untuk menjemput saya di dekat pusat perbelanjaan. Saya berbelanja di sini. Beri tahu juga tujuan saya kepada pengemudi.\"\nPilihan mana yang paling menggambarkan maksud sebenarnya dari pengguna? \nA. Belanja di pusat perbelanjaan, beri tahu layanan pelanggan lokasi penjemputan\nB. Belanja di pusat perbelanjaan, beri tahu pengemudi lokasi penjemputan\nC. Beri tahu layanan pelanggan lokasi penjemputan, beri tahu layanan pelanggan tujuan\nD. Beri tahu pengemudi lokasi penjemputan, beri tahu pengemudi tujuan",
+        "target_scores": {
+            "A. Belanja di pusat perbelanjaan, beri tahu layanan pelanggan lokasi penjemputan": 0,
+            "B. Belanja di pusat perbelanjaan, beri tahu pengemudi lokasi penjemputan": 0,
+            "C. Beri tahu layanan pelanggan lokasi penjemputan, beri tahu layanan pelanggan tujuan": 0,
+            "D. Beri tahu pengemudi lokasi penjemputan, beri tahu pengemudi tujuan": 1
+        }
+    },
+    {
+        "input": "Pengguna sedang menggunakan model pemrosesan video AI, ia berkata, \"Ubah video AVI ini ke MP4 dan tambahkan subtitle untuk bagian konten yang sesuai.\"\nPilihan mana yang paling menggambarkan maksud sebenarnya dari pengguna?\nA. Ubah ke AVI, tambahkan subtitle\nB. Ubah ke MP4, hapus subtitle\nC. Ubah ke MP4, tambahkan subtitle\nD. Unduh ke MP4, tambahkan subtitle",
+        "target_scores": {
+            "A. Ubah ke AVI, tambahkan subtitle": 0,
+            "B. Ubah ke MP4, hapus subtitle": 0,
+            "C. Ubah ke MP4, tambahkan subtitle": 1,
+            "D. Unduh ke MP4, tambahkan subtitle": 0
+        }
+    },
+    {
+        "input": "Di situs web universitas, pengguna berkata, \"Bagaimana cara mendaftar di kursus non wajib? Selain itu, siapa yang harus saya hubungi untuk pindah prodi? Kepala prodi?\"\nPilihan mana yang paling menggambarkan maksud sebenarnya dari pengguna?\n1. Ajukan permohonan kursus non wajib\n2. Hubungi kepala prodi\n3. Tanyakan tentang pemindahan prodi\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 0,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 1,
+            "D. 2, 3": 0
+        }
+    },
+    {
+        "input": "Di aplikasi agen properti, pengguna mengatakan, “Saya ingin menyewa rumah. Apakah ada yang bisa menemani saya melihat-lihat pada hari Sabtu? Saya membutuhkan saran Anda terlebih dahulu, tetapi persyaratan saya cukup banyak dan tidak bisa dijelaskan dengan jelas di halaman ini.”\nSilakan pilih opsi yang paling mewakili niat sebenarnya pengguna.\n1. Meminta agen properti untuk menemani melihat rumah\n2. Menyewa rumah\n3. Menulis persyaratan sewa rumah\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 1,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 0,
+            "D. 2, 3": 0
+        }
+    },
+    {
+        "input": "Pada platform perdagangan bursa saham, pengguna berkata, \"Beli beberapa saham perusahaan rintisan AI untuk saya. Saya optimis terhadap mereka. Temukan pembeli untuk saham farmasi saya.\"\nPilihan mana yang paling mewakili maksud sebenarnya dari pengguna?\n1. Beli saham perusahaan rintisan AI\n2. Beli saham farmasi\n3. Beli perusahaan rintisan AI\n4. Jual saham farmasi\nA. 1, 2\nB. 1, 3\nC. 1,4\nD. 3, 4",
+        "target_scores": {
+            "A. 1, 2": 0,
+            "B. 1, 3": 0,
+            "C. 1,4": 1,
+            "D. 3, 4": 0
+        }
+    },
+    {
+        "input": "Pada platform lembaga pelatihan piano, pengguna berkata, \"Saya telah membeli piano dan butuh guru. Saya mau mendaftar untuk ujian ABRSM.\"\nPilihan mana yang paling mewakili maksud sebenarnya dari pengguna?\n1. Beli piano\n2. Daftar untuk ujian ABRSM\n3. Ikuti pelajaran piano\nA. 1, 2 dan 3\nB. 2\nC. 2 dan 3\nD. 3",
+        "target_scores": {
+            "A. 1, 2 dan 3": 0,
+            "B. 2": 0,
+            "C. 2 dan 3": 1,
+            "D. 3": 0
+        }
+    },
+    {
+        "input": "Di aplikasi seluler perusahaan keuangan, pengguna berkata, \"Saya punya uang tunai cadangan. Saya ingin membeli dana yang aman. Ada rekomendasi? Saya juga ingin membeli obligasi.\"\nPilihan mana yang paling mewakili maksud sebenarnya dari pengguna?\nA. Beli asuransi, beli obligasi\nB. Beli dana, beli asuransi\nC. Beli dana, beli obligasi\nD. Beli dana, jual obligasi",
+        "target_scores": {
+            "A. Beli asuransi, beli obligasi": 0,
+            "B. Beli dana, beli asuransi": 0,
+            "C. Beli dana, beli obligasi": 1,
+            "D. Beli dana, jual obligasi": 0
+        }
+    },
+    {
+        "input": "Di aplikasi asuransi mobil, pengguna berkata, \"Saya mengalami kecelakaan kecil minggu lalu. Bisakah Anda membantu dengan penilaian kewajiban? Mobil saya sedang diperbaiki di bengkel, dan saya ingin mengajukan klaim atas kerusakannya.\"\nPilihan mana yang paling mewakili maksud sebenarnya dari pengguna?\n1. Penilaian kewajiban\n2. Ajukan klaim asuransi\n3. Perbaikan mobil\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 1,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 0,
+            "D. 2, 3": 0
+        }
+    },
+    {
+        "input": "Di aplikasi real estat, pengguna berkata, \"Bisakah Anda menilai rumah saya berharga berapa? Penyewa terakhir merusaknya! Saya berencana untuk menjualnya dan menginginkan harga yang bagus.\" \nPilihan mana yang paling mewakili maksud sebenarnya dari pengguna?\nA. Menyewakan rumah, merenovasi rumah\nB. Penilaian rumah, menjual rumah\nC. Penilaian rumah, menyewakan rumah\nD. Renovasi rumah, menjual rumah",
+        "target_scores": {
+            "A. Menyewakan rumah, merenovasi rumah": 0,
+            "B. Penilaian rumah, menjual rumah": 1,
+            "C. Penilaian rumah, menyewakan rumah": 0,
+            "D. Renovasi rumah, menjual rumah": 0
+        }
+    },
+    {
+        "input": "Pada platform pemesanan taman hiburan, pengguna berkata, \"Saya tertarik roller coaster, tolong pesannya untukku. Selain itu, aku akan menjelajahi rumah hantu. Aku sudah siap dengan perlengkapanku.\"\nPilihan mana yang paling mewakili niat sebenarnya pengguna?\n1. Pesan roller coaster\n2. Pesan petualangan rumah hantu\n3. Mempersiapkan perlengkapan\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 1,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 0,
+            "D. 2, 3": 0
+        }
+    },
+    {
+        "input": "Di situs web perusahaan perjalanan, pengguna berkata, \"Saya akan mendaftar untuk tur Eropa bulan ini. Selain itu, saya ingin bergabung dengan tur AS bulan depan. Visaku sudah siap.\"\nPilihan mana yang paling mewakili niat sebenarnya pengguna?\nA. Daftar untuk tur AS, ajukan paspor\nB. Daftar untuk tur AS, ajukan visa\nC. Daftar untuk tur AS, daftar untuk tur Eropa\nD. Daftar untuk tur Eropa, ajukan visa",
+        "target_scores": {
+            "A. Daftar untuk tur AS, ajukan paspor": 0,
+            "B. Daftar untuk tur AS, ajukan visa": 0,
+            "C. Daftar untuk tur AS, daftar untuk tur Eropa": 1,
+            "D. Daftar untuk tur Eropa, ajukan visa": 0
+        }
+    },
+    {
+        "input": "Di mesin tiket, pengguna berkata, \"Batalkan tiket saya untuk lusa. Ubah juga tiket saya ke Beijing untuk besok menjadi lusa. Saya ada acara besok.\"\nPilihan mana yang paling mewakili maksud sebenarnya dari pengguna?\nA. Batalkan tiket, hadiri acara\nB. Batalkan tiket, transfer\nC. Batalkan tiket, ubah tiket\nD. Ubah tiket, hadiri acara",
+        "target_scores": {
+            "A. Batalkan tiket, hadiri acara": 0,
+            "B. Batalkan tiket, transfer": 0,
+            "C. Batalkan tiket, ubah tiket": 1,
+            "D. Ubah tiket, hadiri acara": 0
+        }
+    },
+    {
+        "input": "Pada halaman layanan toko desain grafis, pengguna berkata, \"Saya butuh poster promosi yang didesain. Saya sudah mengirim detailnya lewat email. Selain itu, ada satu batch brosur lagi yang perlu dijilid, informasinya juga sudah saya cantumkan di dalam email tersebut.\"\nPilihan mana yang paling mewakili maksud sebenarnya dari pengguna?\nA. Desain poster promosi, kirim email\nB. Jilid brosur, tulis email\nC. Minta poster promosi, minta penjilidan brosur\nD. Minta poster promosi, tulis email",
+        "target_scores": {
+            "A. Desain poster promosi, kirim email": 0,
+            "B. Jilid brosur, tulis email": 0,
+            "C. Minta poster promosi, minta penjilidan brosur": 1,
+            "D. Minta poster promosi, tulis email": 0
+        }
+    },
+    {
+        "input": "Di mesin layanan mandiri di rumah sakit, pengguna mengatakan, “Saya telah berkonsultasi dengan dokter spesialis gastroenterologi dan perlu melakukan gastroskopi. Saya pikir sebaiknya juga melakukan kolonoskopi sekaligus.”\nPilihan mana yang paling mewakili maksud sebenarnya dari pengguna?\nA. Minta gastroskopi, daftar untuk membuat janji temu\nB. Minta gastroskopi, minta kolonoskopi\nC. Minta gastroskopi, temui dokter spesialis gastroenterologi\nD. Temui dokter spesialis gastroenterologi, daftar untuk membuat janji temu",
+        "target_scores": {
+            "A. Minta gastroskopi, daftar untuk membuat janji temu": 0,
+            "B. Minta gastroskopi, minta kolonoskopi": 1,
+            "C. Minta gastroskopi, temui dokter spesialis gastroenterologi": 0,
+            "D. Temui dokter spesialis gastroenterologi, daftar untuk membuat janji temu": 0
+        }
+    },
+    {
+        "input": "Di grup Whatsapp salon rambut, pengguna berkata, \"Saya ingin rambut dikeriting. Rambut saya perlu dicuci dulu. Ada hairstylist yang direkomendasikan?\"\nPilihan mana yang paling mewakili maksud pengguna yang sebenarnya?\nA. Rambut dikeriting, cuci rambut, temukan hairstylist\nB. Rambut dikeriting, cuci rambut, temukan hairstylist untuk belajar\nC. Rekomendasikan hairstylist, rambut dikeriting\nD. Temukan hairstylist, cuci rambut",
+        "target_scores": {
+            "A. Rambut dikeriting, cuci rambut, temukan hairstylist": 1,
+            "B. Rambut dikeriting, cuci rambut, temukan hairstylist untuk belajar": 0,
+            "C. Rekomendasikan hairstylist, rambut dikeriting": 0,
+            "D. Temukan hairstylist, cuci rambut": 0
+        }
+    },
+    {
+        "input": "Pada halaman pemesanan studio foto, pengguna berkata, \"Saya ingin memesan waktu untuk foto keluarga dengan orang tua, suami, dan anak saya. Selain itu, tolong perbaiki juga foto artistik yang saya ambil sebelumnya.\"\nPilihan mana yang paling mewakili maksud sebenarnya dari pengguna?\nA. Ambil foto artistik, perbaiki foto artistik\nB. Ambil foto keluarga, ambil foto artistik\nC. Ambil foto keluarga, perbaiki foto artistik\nD. Ambil foto keluarga, perbaiki foto keluarga",
+        "target_scores": {
+            "A. Ambil foto artistik, perbaiki foto artistik": 0,
+            "B. Ambil foto keluarga, ambil foto artistik": 0,
+            "C. Ambil foto keluarga, perbaiki foto artistik": 1,
+            "D. Ambil foto keluarga, perbaiki foto keluarga": 0
+        }
+    },
+    {
+        "input": "Pada antarmuka asisten suara sistem seluler, pengguna berkata, \"Saya mau masuk ke Telegram dan Whatsapp. Kata sandinya mereka adalah 123456.\"\nPilihan mana yang paling mewakili maksud sebenarnya dari pengguna?\nA. Masuk ke Telegram, atur kata sandi\nB. Masuk ke Telegram, atur kata sandi untuk Whatsapp\nC. Masuk ke Telegram, masuk ke Whatsapp\nD. Masuk ke Whatsapp, atur kata sandi",
+        "target_scores": {
+            "A. Masuk ke Telegram, atur kata sandi": 0,
+            "B. Masuk ke Telegram, atur kata sandi untuk Whatsapp": 0,
+            "C. Masuk ke Telegram, masuk ke Whatsapp": 1,
+            "D. Masuk ke Whatsapp, atur kata sandi": 0
+        }
+    },
+    {
+        "input": "Di aplikasi pengiriman di sebuah mal tertentu, pengguna berkata, \"Bulan ini dan bulan depan, keluarga saya akan memesan susu—dua botol setiap hari. Selain itu, setiap pagi, tolong kirimkan sayuran segar ke restoran saya. Mohon ditata dengan rapi dan jangan sampai mengotori karpet, karena membersihkannya cukup merepotkan.\"\nPilihan mana yang paling mewakili maksud pengguna yang sebenarnya?\n1. Mengantar susu\n2. Mengantar sayuran\n3. Membersihkan karpet\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 1,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 0,
+            "D. 2, 3": 0
+        }
+    },
+    {
+        "input": "Di platform pengiriman makanan, pengguna bertanya kepada pedagang, \"Saya ingin memesan kotak makan siang murah. Ada rekomendasi? Saya juga ingin menambahkan lebih banyak cabai ke hidangan barbekyu yang saya pesan! Terima kasih.\"\nPilihan mana yang paling mewakili maksud pengguna yang sebenarnya?\nA. Minta pedagang untuk merekomendasikan kotak makan, tambahkan cabai ekstra ke barbekyu\nB. Minta pedagang untuk merekomendasikan makanan kotak, tambahkan cabai ekstra ke barbekyu\nC. Minta pedagang untuk merekomendasikan makanan kotak, tambahkan cabai ekstra ke makanan kotak\nD. Pesan makanan kotak, pesan cabai",
+        "target_scores": {
+            "A. Minta pedagang untuk merekomendasikan kotak makan, tambahkan cabai ekstra ke barbekyu": 0,
+            "B. Minta pedagang untuk merekomendasikan makanan kotak, tambahkan cabai ekstra ke barbekyu": 1,
+            "C. Minta pedagang untuk merekomendasikan makanan kotak, tambahkan cabai ekstra ke makanan kotak": 0,
+            "D. Pesan makanan kotak, pesan cabai": 0
+        }
+    },
+    {
+        "input": "Pada robot asisten kueri basis data, pengguna berkata, \"Temukan daftar siswa yang gagal ujian matematika dan periksa 10 siswa teratas berdasarkan total nilai ujian di kelas.\"\nPilihan mana yang paling mewakili maksud pengguna yang sebenarnya?\nA. Periksa 10 siswa teratas dalam matematika, periksa 10 siswa teratas berdasarkan total nilai nilai\nB. Periksa daftar siswa yang gagal ujian matematika, periksa 10 siswa teratas berdasarkan total nilai\nC. Periksa daftar siswa yang gagal ujian matematika, periksa 10 siswa teratas dalam matematika\nD. Periksa daftar ujian matematika, periksa 10 siswa teratas di kelas",
+        "target_scores": {
+            "A. Periksa 10 siswa teratas dalam matematika, periksa 10 siswa teratas berdasarkan total nilai nilai": 0,
+            "B. Periksa daftar siswa yang gagal ujian matematika, periksa 10 siswa teratas berdasarkan total nilai": 1,
+            "C. Periksa daftar siswa yang gagal ujian matematika, periksa 10 siswa teratas dalam matematika": 0,
+            "D. Periksa daftar ujian matematika, periksa 10 siswa teratas di kelas": 0
+        }
+    },
+    {
+        "input": "Pengguna berkata kepada robot asisten kueri basis data, \"Kumpulkan penjualan minuman selama seminggu terakhir dan buat laporan. Jumlahkan juga total laba.\"\nPilihan mana yang paling mewakili maksud sebenarnya dari pengguna?\n1. Buat laporan pendapatan penjualan mingguan\n2. Hitung total laba untuk minggu tersebut\n3. Jual minuman\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 1,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 0,
+            "D. 2, 3": 0
+        }
+    },
+    {
+        "input": "Di Komunitas pelanggan toko perhiasan, pengguna berkata, \"Saya butuh pemotongan berlian. Bisakah Anda menjadwalkannya? Selain itu, saya juga memiliki beberapa emas yang ingin saya daur ulangkan. Bisakah keduanya ditangani sekaligus? Seingat saya, dulu Anda pernah menerima batu permata juga.\"\nPilihan mana yang paling mewakili maksud sebenarnya dari pengguna?\nA. Daur ulang emas, daur ulang batu permata\nB. Daur ulang emas, pemotongan batu permata\nC. Jadwalkan pemotongan berlian, daur ulang batu permata\nD. Jadwalkan pemotongan berlian, daur ulang emas",
+        "target_scores": {
+            "A. Daur ulang emas, daur ulang batu permata": 0,
+            "B. Daur ulang emas, pemotongan batu permata": 0,
+            "C. Jadwalkan pemotongan berlian, daur ulang batu permata": 0,
+            "D. Jadwalkan pemotongan berlian, daur ulang emas": 1
+        }
+    },
+    {
+        "input": "Di saluran telepon layanan perusahaan perjalanan, pengguna berkata, \"Bisakah bantu pesan tiket pesawat ke Eropa? Tolong tangani aplikasi visa juga. Apakah saya perlu mengirimkan paspor saya?\"\nPilihan mana yang paling mewakili maksud sebenarnya dari pengguna? \nA. Membelikan tiket pesawat, menguruskan paspor\nB. Membelikan tiket pesawat, menguruskan visa\nC. Membelikan tiket pesawat, periksa status visa\nD. Menguruskan visa, kirim paspor",
+        "target_scores": {
+            "A. Membelikan tiket pesawat, menguruskan paspor": 0,
+            "B. Membelikan tiket pesawat, menguruskan visa": 1,
+            "C. Membelikan tiket pesawat, periksa status visa": 0,
+            "D. Menguruskan visa, kirim paspor": 0
+        }
+    },
+    {
+        "input": "Pengguna sedang menggunakan model AI, ia berkata, \"Saya menghadiri konferensi pers pemerintah kemarin dan mencatat beberapa tanya jawab dari wartawan. Ubah konten tanya jawab ini menjadi siaran pers dan rangkum tema utama dalam kurang dari 300 kata.\"\nPilihan mana yang paling mewakili maksud sebenarnya dari pengguna?\n1. Minta AI untuk menulis siaran pers\n2. Minta AI untuk membuat ringkasan teks\n3. Rekam konten Tanya Jawab\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 1,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 0,
+            "D. 2, 3": 0
+        }
+    },
+    {
+        "input": "Di meja layanan mandiri manajemen properti, pengguna berkata, \"Bisakah Anda membantu memperbaiki keran air di rumah saya? Saluran pembuangan sepertinya juga tersumbat. Saya menyadarinya saat menggunakan toilet, jadi perlu segera dibersihkan.\"\nPilihan mana yang paling mewakili maksud sebenarnya dari pengguna?\n1. Perbaiki keran\n2. Gunakan toilet\n3. Melancarkan saluran pembuangan\nA. 1 dan 2\nB. 1 dan 3\nC. 1, 2 dan 3\nD. 2 dan 3",
+        "target_scores": {
+            "A. 1 dan 2": 0,
+            "B. 1 dan 3": 1,
+            "C. 1, 2 dan 3": 0,
+            "D. 2 dan 3": 0
+        }
+    },
+    {
+        "input": "Di aplikasi resmi toko peralatan, pengguna berkata kepada layanan pelanggan, \"Saya ingin membeli AC yang benar-benar dingin, sampai rasanya seperti di Kutub Utara. Apakah Anda punya rekomendasi? Selain itu, pemasangan oleh teknisi ke rumah juga harus disertakan.\"\nPilihan mana yang paling mewakili maksud sebenarnya dari pengguna? \nA. Beli AC, minta layanan pemasangan\nB. Pergi ke Kutub Utara, minta layanan pemasangan\nC. Pergi ke Kutub Utara, pasang sendiri AC-nya\nD. Rekomendasi AC, konfirmasi efek pendinginan",
+        "target_scores": {
+            "A. Beli AC, minta layanan pemasangan": 1,
+            "B. Pergi ke Kutub Utara, minta layanan pemasangan": 0,
+            "C. Pergi ke Kutub Utara, pasang sendiri AC-nya": 0,
+            "D. Rekomendasi AC, konfirmasi efek pendinginan": 0
+        }
+    },
+    {
+        "input": "Di situs web pusat kebugaran, pengguna berkata, \"Saya berencana mengikuti beberapa sesi yoga. Ada yang menyarankan pilates, namun saya merasa senam lebih sesuai untuk saya, jadi saya juga akan mengikuti kelas tersebut.\"\nPilihan mana yang paling mewakili niat pengguna yang sebenarnya?\n1. Bergabung dengan kelas Pilates\n2. Bergabung dengan kelas senam\n3. Bergabung dengan kelas yoga\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 0,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 0,
+            "D. 2, 3": 1
+        }
+    },
+    {
+        "input": "Di situs web pencarian kerja, pengguna berkata, \"Seberapa kompetitif resume saya untuk posisi ini? Apakah ada pekerjaan insinyur perangkat lunak yang cocok? Tolong rekomendasikan beberapa.\"\nPilihan mana yang paling mewakili maksud pengguna yang sebenarnya?\nA. Minta rekomendasi pekerjaan, wawancara\nB. Periksa daftar pekerjaan, wawancara\nC. Periksa daya saing resume, minta rekomendasi pekerjaan\nD. Periksa deskripsi pekerjaan, kembangkan perangkat lunak",
+        "target_scores": {
+            "A. Minta rekomendasi pekerjaan, wawancara": 0,
+            "B. Periksa daftar pekerjaan, wawancara": 0,
+            "C. Periksa daya saing resume, minta rekomendasi pekerjaan": 1,
+            "D. Periksa deskripsi pekerjaan, kembangkan perangkat lunak": 0
+        }
+    },
+    {
+        "input": "Di situs web barang bekas, pengguna berkata, \"Saya ingin menjual ponsel saya, berapa kira-kira harganya ya? Oh ya, saya juga ingin memasang iklan mobil saya. Keduanya jarang dipakai, kondisinya masih mulus seperti baru!\"\nPilihan mana yang paling mewakili maksud pengguna yang sebenarnya?\n1. Jual ponsel lama\n2. Recondisi mobil\n3. Jual mobil bekas\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 0,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 1,
+            "D. 2, 3": 0
+        }
+    },
+    {
+        "input": "Pengguna berkata kepada asisten rumah pintar, \"Tolong angkat kursi saya sedikit lebih tinggi dan naikkan kecerahan lampunya. Saya akan membaca buku nanti, saya ingin duduk dengan nyaman!\"\nPilihan mana yang paling mewakili maksud sebenarnya dari pengguna?\nA. Angkat kursi, baca\nB. Angkat kursi, naikkan kecerahan lampu meja\nC. Baca, naikkan kecerahan lampu meja\nD. Duduk",
+        "target_scores": {
+            "A. Angkat kursi, baca": 0,
+            "B. Angkat kursi, naikkan kecerahan lampu meja": 1,
+            "C. Baca, naikkan kecerahan lampu meja": 0,
+            "D. Duduk": 0
+        }
+    },
+    {
+        "input": "Pada aplikasi layanan tata graha, pengguna berkata, \"Saya memiliki seorang anak yang belum genap satu tahun. Saya bekerja setiap hari dan membutuhkan pengasuh untuk merawatnya. Selain itu, di rumah saya juga ada orang tua yang kesulitan bergerak, sehingga saya perlu mencari pengasuh yang berpengalaman.\"\nPilihan mana yang paling mewakili maksud sebenarnya dari pengguna?\n1. Cari pengasuh untuk bayi\n2. Cari pengasuh untuk orang lansia\n3. Minta orang lansia untuk merawat bayi\nA. 1 dan 2\nB. 1 dan 3\nC. 1, 2 dan 3\nD. 2 dan 3",
+        "target_scores": {
+            "A. 1 dan 2": 1,
+            "B. 1 dan 3": 0,
+            "C. 1, 2 dan 3": 0,
+            "D. 2 dan 3": 0
+        }
+    },
+    {
+        "input": "Pada platform layanan tata graha, pengguna berkata, \"Kemarin saya masak dan makanan terbakar, jadi berantakan, tolong atur seseorang untuk membersihkan kotoran kap kompor, dan juga membersihkan jendela.\"\nPilihan mana yang paling mewakili maksud sebenarnya dari pengguna? \n1. Cari seseorang untuk membersihkan kap kompor\n2. Bersihkan kap kompor sendiri\n3. Bersihkan jendela sendiri\n4. Cari seseorang untuk membersihkan jendela\nA. 1 dan 3\nB. 1 dan 4\nC. 2 dan 3\nD. 2 dan 4",
+        "target_scores": {
+            "A. 1 dan 3": 0,
+            "B. 1 dan 4": 1,
+            "C. 2 dan 3": 0,
+            "D. 2 dan 4": 0
+        }
+    },
+    {
+        "input": "Pengguna berkata kepada asisten komputer, \"Tolong buka program Word saya, dan juga laporan Excel. Saya nanti perlu mengolah beberapa data.\"\nPilihan mana yang paling mewakili maksud sebenarnya dari pengguna?\n1. Buka Word sendiri\n2. Minta asisten untuk membuka perangkat lunak perkantoran\n3. Buka Excel sendiri\nA. 1\nB. 1, 2\nC. 2\nD. 3",
+        "target_scores": {
+            "A. 1": 0,
+            "B. 1, 2": 0,
+            "C. 2": 1,
+            "D. 3": 0
+        }
+    },
+    {
+        "input": "Di situs web toko tanaman, pengguna berkata, \"Saya ingin membeli beberapa tanaman bonsai untuk menghias taman di rumah. Saya mencari bonsai jenis pohon pinus dengan bentuk yang bisa serasi dengan bunga krisan yang sudah saya miliki. Selain itu, apakah Anda bisa membantu mencarikan seseorang untuk membersihkan rumput taman saya secara rutin?\"\nPilihan mana yang paling mewakili maksud sebenarnya dari pengguna?\n1. Beli bonsai pinus\n2. Temukan orang yang merawat halaman\n3. Beli krisan\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 1,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 0,
+            "D. 2, 3": 0
+        }
+    },
+    {
+        "input": "Pengguna berkata kepada asisten komputer, \"Setelah saya menerima email tersebut, sistem tiba-tiba menjadi sangat lambat. Mohon bantuannya untuk melakukan pemindaian terhadap seluruh drive guna mengecek kemungkinan adanya virus. Setelah itu, harap lakukan defragmentasi pada disk untuk optimalisasi kinerja.\"\nPilihan mana yang paling mewakili maksud sebenarnya dari pengguna?\n1. Terima email\n2. Defragmentasi disk\n3. Pindai virus\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 0,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 0,
+            "D. 2, 3": 1
+        }
+    },
+    {
+        "input": "Di saluran telepon layanan pelanggan, pengguna berbicara dengan layanan purna jual, \"Barang yang saya beli rusak. Bisakah saya mendapatkan pengembalian uang penuh? Saya memang membutuhkan produk ini, tetapi tidak bisa diperbaiki. Tolong ganti dengan yang baru.\"\nPilihan mana yang paling mewakili maksud sebenarnya dari pengguna?\nA. Ajukan permohonan pengembalian uang\nB. Ajukan permohonan penggantian produk\nC. Ajukan permohonan perbaikan produk\nD. Beli produk baru",
+        "target_scores": {
+            "A. Ajukan permohonan pengembalian uang": 0,
+            "B. Ajukan permohonan penggantian produk": 1,
+            "C. Ajukan permohonan perbaikan produk": 0,
+            "D. Beli produk baru": 0
+        }
+    },
+    {
+        "input": "Pengguna berkata kepada asisten pintar sistem teks, \"Tulis email iklan tentang produk kami dan kirimkan ke semua calon pelanggan!\"\nPilihan mana yang paling mewakili maksud sebenarnya dari pengguna?\n1. Meminta untuk memperkenalkan perusahaan\n2. Meminta untuk mengirim email\n3. Meminta untuk menulis email\nA. 1 dan 2\nB. 1 dan 3\nC. 1, 2 dan 3\nD. 2 dan 3",
+        "target_scores": {
+            "A. 1 dan 2": 0,
+            "B. 1 dan 3": 0,
+            "C. 1, 2 dan 3": 0,
+            "D. 2 dan 3": 1
+        }
+    },
+    {
+        "input": "Di situs web barang bekas, pengguna berkata, \"Saya mau beli komputer lama untuk pemutaran video yang lancar. Ada pilihan yang murah? Saya juga mencari buku-buku lama dari awal abad ke-20. Apakah ada?\"\nPilihan mana yang paling mewakili maksud sebenarnya dari pengguna?\nA. Beli buku lama, edit video\nB. Beli komputer lama, beli buku lama\nC. Beli komputer lama, edit video\nD. Beli komputer lama, putar video",
+        "target_scores": {
+            "A. Beli buku lama, edit video": 0,
+            "B. Beli komputer lama, beli buku lama": 1,
+            "C. Beli komputer lama, edit video": 0,
+            "D. Beli komputer lama, putar video": 0
+        }
+    },
+    {
+        "input": "Pada aplikasi perusahaan kurir, pengguna berkata, \"Saya mau cek kiriman terakhir saya, sudah sampai di mana ya? Terus, bisa minta kurir datang ke rumah? Saya mau kirim paket.\"\nPilihan mana yang paling mewakili maksud sebenarnya dari pengguna?\nA. Beli layanan pengiriman, lacak paket\nB. Lacak paket, kirim dokumen\nC. Minta penjemputan, kirim dokumen\nD. Minta penjemputan, lacak paket",
+        "target_scores": {
+            "A. Beli layanan pengiriman, lacak paket": 0,
+            "B. Lacak paket, kirim dokumen": 0,
+            "C. Minta penjemputan, kirim dokumen": 0,
+            "D. Minta penjemputan, lacak paket": 1
+        }
+    },
+    {
+        "input": "Pada situs web pencarian kerja, pengguna berkata, \"Saya merasa CV saya masih bisa ditingkatkan. Bisa bantu koreksi, ya? Selain itu, saya juga mau aktifkan fitur kirim otomatis. Tolong set supaya semua lowongan dari bank langsung dikirimin CV saya.\"\nPilihan mana yang paling mewakili maksud sebenarnya dari pengguna?\nA. Kirim CV atas nama, lamar wawancara bank\nB. Minta pengoptimalan CV, aktifkan pengiriman otomatis\nC. Minta pengoptimalan CV, rekrut orang di bank\nD. Tangani masalah perbankan, minta pengoptimalan CV",
+        "target_scores": {
+            "A. Kirim CV atas nama, lamar wawancara bank": 0,
+            "B. Minta pengoptimalan CV, aktifkan pengiriman otomatis": 1,
+            "C. Minta pengoptimalan CV, rekrut orang di bank": 0,
+            "D. Tangani masalah perbankan, minta pengoptimalan CV": 0
+        }
+    },
+    {
+        "input": "Di situs web layanan publik, pengguna berkata, \"Bayar tagihan air dan listrik saya.  Bayar biaya parkir untuk restoran yang saya pesan minggu ini.\"\nPilihan mana yang paling mewakili maksud pengguna yang sebenarnya?\nA. Bayar tagihan air, bayar biaya parkir\nB. Bayar tagihan air, bayar tagihan listrik, bayar biaya parkir\nC. Bayar tagihan air, bayar tagihan listrik, bayar biaya parkir, pesan restoran\nD. Bayar tagihan listrik, bayar biaya parkir",
+        "target_scores": {
+            "A. Bayar tagihan air, bayar biaya parkir": 0,
+            "B. Bayar tagihan air, bayar tagihan listrik, bayar biaya parkir": 1,
+            "C. Bayar tagihan air, bayar tagihan listrik, bayar biaya parkir, pesan restoran": 0,
+            "D. Bayar tagihan listrik, bayar biaya parkir": 0
+        }
+    },
+    {
+        "input": "Pada platform layanan tata graha, pengguna berkata, \"Butuh pembersih untuk rumahku. Butuh pembantu khusus masak untuk menyiapkan makan malam setiap malam. Aku akan mengurus belanjaan.\"\nPilihan mana yang paling mewakili maksud sebenarnya dari pengguna?\n1. Temukan pembersih\n2. Beli belanjaan\n3. Temukan pembantu khusus masak\nA. 1 dan 2\nB. 1 dan 3\nC. 1, 2 dan 3\nD. 2 dan 3",
+        "target_scores": {
+            "A. 1 dan 2": 0,
+            "B. 1 dan 3": 1,
+            "C. 1, 2 dan 3": 0,
+            "D. 2 dan 3": 0
+        }
+    },
+    {
+        "input": "Di situs web pusat kebugaran, pengguna berkata, \"Saya berencana membeli kartu tahunan. Selain itu, apakah tersedia layanan pelatih pribadi? Kali ini saya harus memutuskan untuk mengambilnya, karena saya merasa berlari sendiri di luar setiap hari kurang efektif untuk kebugaran saya.\"\nPilihan mana yang paling mewakili maksud sebenarnya dari pengguna?\nA. Beli keanggotaan tahunan, lari\nB. Beli keanggotaan tahunan, temukan pelatih pribadi\nC. Temukan pelatih pribadi, berolahraga\nD. Temukan pelatih pribadi, lari",
+        "target_scores": {
+            "A. Beli keanggotaan tahunan, lari": 0,
+            "B. Beli keanggotaan tahunan, temukan pelatih pribadi": 1,
+            "C. Temukan pelatih pribadi, berolahraga": 0,
+            "D. Temukan pelatih pribadi, lari": 0
+        }
+    },
+    {
+        "input": "Di halaman layanan manajemen properti, pengguna berkata, \"Atap rumah saya bocor, airnya netes sampai lantai basah semua. Tolong cepat kirim orang buat perbaiki! Lampu gantung juga rusak karena kena lembap, sekalian aja ya diperbaiki.\" \nPilihan mana yang paling mewakili maksud sebenarnya dari pengguna?\nA. Cari seseorang untuk memperbaiki atap yang bocor, kirim seseorang untuk memeriksa\nB. Cari seseorang untuk memperbaiki atap yang bocor, perbaiki lampu gantung\nC. Cari seseorang untuk memperbaiki lampu gantung, bersihkan lantai\nD. Cari seseorang untuk memperbaiki lampu gantung, periksa atap",
+        "target_scores": {
+            "A. Cari seseorang untuk memperbaiki atap yang bocor, kirim seseorang untuk memeriksa": 0,
+            "B. Cari seseorang untuk memperbaiki atap yang bocor, perbaiki lampu gantung": 1,
+            "C. Cari seseorang untuk memperbaiki lampu gantung, bersihkan lantai": 0,
+            "D. Cari seseorang untuk memperbaiki lampu gantung, periksa atap": 0
+        }
+    },
+    {
+        "input": "Pengguna berkata kepada asisten cerdas pemroses teks, \"Font artikel ini terlalu kecil dan saya tidak dapat membacanya dengan jelas. Buat nama menjadi tebal dan waktu menjadi miring dalam artikel ini agar saya dapat membacanya dengan lebih jelas.\"\nPilihan mana yang paling mewakili maksud sebenarnya dari pengguna?\nA. Perbesar ukuran font, miringkan waktu\nB. Tebalkan dan miringkan nama dan waktu\nC. Tebalkan nama, miringkan waktu\nD. Tebalkan nama, perbesar ukuran font",
+        "target_scores": {
+            "A. Perbesar ukuran font, miringkan waktu": 0,
+            "B. Tebalkan dan miringkan nama dan waktu": 0,
+            "C. Tebalkan nama, miringkan waktu": 1,
+            "D. Tebalkan nama, perbesar ukuran font": 0
+        }
+    },
+    {
+        "input": "Pada platform layanan publik, pengguna berkata, \"Saya butuh alamat dan info kontak Bank Negara Indonesia di dekat rumah saya.\"\nPilihan mana yang paling mewakili maksud sebenarnya dari pengguna?\n1. Dapatkan alamat bank\n2. Menangani urusan perbankan\n3. Periksa detail kontak bank\nA. 1 dan 2\nB. 1 dan 3\nC. 1, 2 dan 3\nD. 2 dan 3",
+        "target_scores": {
+            "A. 1 dan 2": 0,
+            "B. 1 dan 3": 1,
+            "C. 1, 2 dan 3": 0,
+            "D. 2 dan 3": 0
+        }
+    },
+    {
+        "input": "Pada sistem on-demand pintar, pengguna berkata, \"Saya membaca beberapa ulasan musik akhir-akhir ini, Tolong putar lagu tema Titanic, kemudian putar filmnya.\"\nPilihan mana yang paling mewakili maksud sebenarnya dari pengguna? \nA. Baca ulasan musik, minta lagu\nB. Baca ulasan musik, tonton film\nC. Dengarkan musik, tonton film\nD. Tulis ulasan musik, tonton film",
+        "target_scores": {
+            "A. Baca ulasan musik, minta lagu": 0,
+            "B. Baca ulasan musik, tonton film": 0,
+            "C. Dengarkan musik, tonton film": 1,
+            "D. Tulis ulasan musik, tonton film": 0
+        }
+    },
+    {
+        "input": "Pengguna berkata kepada asisten AI pembuat teks, \"Saya menemukan kesalahan ketik dalam artikel saya, tolong perbaiki kesalahan ketik dan tambahkan konten yang kurang jika ada. Jangan ubah strukturnya.\"\nPilihan mana yang paling mewakili maksud sebenarnya dari pengguna?\n1. Perbaiki kesalahan ketik\n2. Perluas konten\n3. Sesuaikan struktur teks\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 1,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 0,
+            "D. 2, 3": 0
+        }
+    },
+    {
+        "input": "Pada sistem reservasi dojo bela diri, pengguna berkata, \"Saya ingin menjadi pemegang sabuk hitam karate. Tolong atur waktu latihan untuk saya! Selain itu, saya juga ingin belajar pengetahuan tentang pertarungan, tolong lihat bagaimana bisa diatur. Saya telah melakukan latihan kekuatan setiap hari di rumah.\"\nPilihan mana yang paling mewakili maksud sebenarnya dari pengguna?\nA. Berpartisipasi dalam penilaian karate, mempelajari tentang pertarungan\nB. Menjadi pemegang sabuk hitam karate, melakukan latihan kekuatan\nC. Menjadwalkan latihan karate, melakukan latihan kekuatan\nD. Menjadwalkan latihan karate, mempelajari tentang pertarungan",
+        "target_scores": {
+            "A. Berpartisipasi dalam penilaian karate, mempelajari tentang pertarungan": 0,
+            "B. Menjadi pemegang sabuk hitam karate, melakukan latihan kekuatan": 0,
+            "C. Menjadwalkan latihan karate, melakukan latihan kekuatan": 0,
+            "D. Menjadwalkan latihan karate, mempelajari tentang pertarungan": 1
+        }
+    },
+    {
+        "input": "Pengguna berkata kepada asisten AI perusahaan dekorasi interior, \"Tingkatkan sistem perpipaan dan kelistrikan rumah saya supaya prasarana rumah andal dan aman. Ganti juga furnitur saya dengan perabot khusus biar gayanya rumah lebih sesuai selera saya.\"\nPilihan mana yang paling mewakili maksud pengguna yang sebenarnya?\nA. Peningkatan perpipaan dan kelistrikan, beli furnitur lama\nB. Peningkatan perpipaan dan kelistrikan, furnitur khusus\nC. Peningkatan perpipaan dan kelistrikan, jual furnitur lama\nD. Peningkatan perpipaan dan kelistrikan, perbaiki furnitur",
+        "target_scores": {
+            "A. Peningkatan perpipaan dan kelistrikan, beli furnitur lama": 0,
+            "B. Peningkatan perpipaan dan kelistrikan, furnitur khusus": 1,
+            "C. Peningkatan perpipaan dan kelistrikan, jual furnitur lama": 0,
+            "D. Peningkatan perpipaan dan kelistrikan, perbaiki furnitur": 0
+        }
+    },
+    {
+        "input": "Pengguna sedang menggunakan model AI, berkata, \"Buat gambar teratai dengan puisi asli di pojok kanan atas. Puisinya dari ciptaan sendiri tanpa kutipan puisi kuno.\"\nPilihan mana yang paling mewakili maksud sebenarnya dari pengguna?\nA. Buat gambar teratai, bacakan puisi asli\nB. Buat gambar teratai, bacakan puisi kuno\nC. Buat gambar teratai, kutip puisi kuno\nD. Buat gambar teratai, tambahkan puisi asli",
+        "target_scores": {
+            "A. Buat gambar teratai, bacakan puisi asli": 0,
+            "B. Buat gambar teratai, bacakan puisi kuno": 0,
+            "C. Buat gambar teratai, kutip puisi kuno": 0,
+            "D. Buat gambar teratai, tambahkan puisi asli": 1
+        }
+    },
+    {
+        "input": "Dalam program menggambar AI, pengguna berkata, \"Balik foto ini secara horizontal dan sensor semua konten sensitif.\"\nPilihan mana yang paling mewakili maksud sebenarnya dari pengguna?\nA. Balik foto secara horizontal, sensor konten sensitif\nB. Buat gambar, periksa konten sensitif\nC. Buat gambar, sensor gambar\nD. Periksa konten sensitif, sensor gambar",
+        "target_scores": {
+            "A. Balik foto secara horizontal, sensor konten sensitif": 1,
+            "B. Buat gambar, periksa konten sensitif": 0,
+            "C. Buat gambar, sensor gambar": 0,
+            "D. Periksa konten sensitif, sensor gambar": 0
+        }
+    },
+    {
+        "input": "Pengguna menggunakan model AI, ia berkata \"Saya punya makalah tentang analisis politik internasional. Saya sudah memberi tahu Anda topiknya. Tolong buat daftar isi dan tulis isi utama makalah tersebut.\"\nPilihan mana yang paling mewakili maksud sebenarnya dari pengguna?\nA. Minta AI untuk menentukan topik makalah dan menulis teks utama\nB. Minta AI untuk menganalisis politik internasional dan menulis kerangka\nC. Minta AI untuk menulis daftar isi dan teks utama makalah\nD. Minta AI untuk menulis topik makalah dan teks utama",
+        "target_scores": {
+            "A. Minta AI untuk menentukan topik makalah dan menulis teks utama": 0,
+            "B. Minta AI untuk menganalisis politik internasional dan menulis kerangka": 0,
+            "C. Minta AI untuk menulis daftar isi dan teks utama makalah": 1,
+            "D. Minta AI untuk menulis topik makalah dan teks utama": 0
+        }
+    },
+    {
+        "input": "Di platform resmi departemen bisnis, seorang pengguna bertanya: “Perusahaan kami telah menjual sejumlah pakaian ke luar negeri. Berapa persentase pengembalian pajak yang bisa kami dapatkan? Selain itu, apakah perusahaan seperti kami berhak mendapatkan subsidi?”\nSilakan pilih opsi yang paling sesuai dengan niat sebenarnya pengguna.\n1. Menanyakan persentase pengembalian pajak\n2. Menanyakan subsidi untuk perusahaan\n3. Mengajukan permohonan penjualan pakaian\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 1,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 0,
+            "D. 2, 3": 0
+        }
+    },
+    {
+        "input": "Pada saluran telepon layanan perusahaan kurir, pengguna berkata kepada asisten suara, \"Paket saya dari minggu lalu tidak pernah sampai. Saya mencarinya selama tiga hari. Lupakan saja, berikan saja kompensasi kepada saya. Selain itu, saya perlu mengirim paket besar. Kirim seseorang untuk mengambilnya.\"\nPilihan mana yang paling mewakili maksud sebenarnya dari pengguna?\n1. Klaim kompensasi untuk paket yang hilang\n2. Temukan paket yang hilang\n3. Kirim paket besar\nA. 1, 2\nB. 1, 2, 3\nC. 1, 3\nD. 2, 3",
+        "target_scores": {
+            "A. 1, 2": 0,
+            "B. 1, 2, 3": 0,
+            "C. 1, 3": 1,
+            "D. 2, 3": 0
+        }
+    },
+    {
+        "input": "Pada antarmuka asisten suara sistem seluler, pengguna berkata, \"Matikan alarm. Saya telah mendengarnya. Mulai pengatur waktu untuk latihan plank saya. Ingatkan saya dalam lima menit.\" \nPilihan mana yang paling mewakili maksud pengguna yang sebenarnya?\nA. Minta pengatur waktu, lakukan latihan plank\nB. Minta untuk mematikan alarm, lakukan latihan plank\nC. Minta untuk mematikan alarm, minta pengatur waktu\nD. Minta untuk menyalakan alarm, minta pengatur waktu",
+        "target_scores": {
+            "A. Minta pengatur waktu, lakukan latihan plank": 0,
+            "B. Minta untuk mematikan alarm, lakukan latihan plank": 0,
+            "C. Minta untuk mematikan alarm, minta pengatur waktu": 1,
+            "D. Minta untuk menyalakan alarm, minta pengatur waktu": 0
+        }
+    }
+]

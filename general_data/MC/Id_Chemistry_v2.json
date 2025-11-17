@@ -1,0 +1,1424 @@
+[
+    {
+        "input": "Di antara senyawa berikut, senyawa yang tidak mengalami reaksi iodoform adalah ( ).\nA. 2-butanol\nB. Etanol\nC. Isobutanol\nD. Isopropanol",
+        "target_scores": {
+            "A. 2-butanol": 0,
+            "B. Etanol": 0,
+            "C. Isobutanol": 1,
+            "D. Isopropanol": 0
+        }
+    },
+    {
+        "input": "Di antara asam anorganik berikut, senyawa yang dapat melarutkan $SiO_2$ adalah______.\nA. $HClO_4$\nB. $HF$\nC. $HNO_3$\nD. $H_2SO_4$",
+        "target_scores": {
+            "A. $HClO_4$": 0,
+            "B. $HF$": 1,
+            "C. $HNO_3$": 0,
+            "D. $H_2SO_4$": 0
+        }
+    },
+    {
+        "input": "Di antara kelompok zat berikut, zat yang semuanya bersifat amfoter adalah ( ).\nA. $CN^-$, $H_2O$, $PO_4^{3-}$, $OH^-$\nB. $Cl^-$, $NH_4^+$, $H_2O$, $HAc$\nC. $HCO_3^-$, $HPO_4^{2-}$, $HS^-$, $H_2O$\nD. $H_2$, $NO_2^-$, $HSO_4^-$, $H_2PO_4^-$",
+        "target_scores": {
+            "A. $CN^-$, $H_2O$, $PO_4^{3-}$, $OH^-$": 0,
+            "B. $Cl^-$, $NH_4^+$, $H_2O$, $HAc$": 0,
+            "C. $HCO_3^-$, $HPO_4^{2-}$, $HS^-$, $H_2O$": 1,
+            "D. $H_2$, $NO_2^-$, $HSO_4^-$, $H_2PO_4^-$": 0
+        }
+    },
+    {
+        "input": "Dalam fotografi, $AgBr$ yang tidak terpapar dicuci dengan $Na_2S_2O_3$, dan perak yang telah dicuci dipulihkan dengan $Na_2S$. Dua reaksi yang terlibat adalah ______.\nA. Reaksi koordinasi, reaksi oksidasi-reduksi\nB. Reaksi koordinasi, reaksi presipitasi\nC. Reaksi oksidasi-reduksi, reaksi koordinasi\nD. Reaksi oksidasi-reduksi, reaksi presipitasi",
+        "target_scores": {
+            "A. Reaksi koordinasi, reaksi oksidasi-reduksi": 0,
+            "B. Reaksi koordinasi, reaksi presipitasi": 1,
+            "C. Reaksi oksidasi-reduksi, reaksi koordinasi": 0,
+            "D. Reaksi oksidasi-reduksi, reaksi presipitasi": 0
+        }
+    },
+    {
+        "input": "Dalam persamaan reaksi tertentu, jika nilai absolut dari koefisien stoikiometri reaktan sama persis dengan eksponen konsentrasi setiap zat dalam persamaan laju, maka reaksinya adalah ______.\nA. Jelas bukan reaksi elementer;\nB. Jelas merupakan reaksi elementer;\nC. Jelas merupakan reaksi kompleks;\nD. Mungkin merupakan reaksi elementer;",
+        "target_scores": {
+            "A. Jelas bukan reaksi elementer;": 0,
+            "B. Jelas merupakan reaksi elementer;": 0,
+            "C. Jelas merupakan reaksi kompleks;": 0,
+            "D. Mungkin merupakan reaksi elementer;": 1
+        }
+    },
+    {
+        "input": "Ketika kulit elektron keenam dari atom keadaan dasar hanya memiliki dua elektron, jumlah elektron pada kulit kedua dari luar adalah ______.\nA. 18\nB. 2～8\nC. 8\nD. 8～18",
+        "target_scores": {
+            "A. 18": 0,
+            "B. 2～8": 0,
+            "C. 8": 0,
+            "D. 8～18": 1
+        }
+    },
+    {
+        "input": "Campuran alkali dititrasi dengan larutan standar HCl menggunakan fenolftalein sebagai indikator hingga titik akhir, menghabiskan V1 mL larutan $HCl$; kemudian dititrasi lagi dengan metil jingga sebagai indikator hingga titik akhir, menghabiskan V2 mL larutan $HCl$. Jika $V2 > V1$, komposisi sampelnya adalah (   ).\nA. $NaHCO_3$\nB. $NaOH$ dan $Na_2CO_3$\nC. $Na_2CO_3$\nD. $Na_2CO_3$ dan $NaHCO_3$",
+        "target_scores": {
+            "A. $NaHCO_3$": 0,
+            "B. $NaOH$ dan $Na_2CO_3$": 0,
+            "C. $Na_2CO_3$": 0,
+            "D. $Na_2CO_3$ dan $NaHCO_3$": 1
+        }
+    },
+    {
+        "input": "Ketika asam ditambahkan ke larutan berair $[FeF_6]^{3-}$, pernyataan berikut yang benar adalah ______.\nA. Konsentrasi $Fe^{3+}$ meningkat\nB. Konsentrasi $Fe^{3+}$ menurun\nC. Stabilitas $[FeF_6]^{3-}$ meningkat\nD. Stabilitas $[FeF_6]^{3-}$ tidak berubah",
+        "target_scores": {
+            "A. Konsentrasi $Fe^{3+}$ meningkat": 1,
+            "B. Konsentrasi $Fe^{3+}$ menurun": 0,
+            "C. Stabilitas $[FeF_6]^{3-}$ meningkat": 0,
+            "D. Stabilitas $[FeF_6]^{3-}$ tidak berubah": 0
+        }
+    },
+    {
+        "input": "Jika satuan konstanta laju k untuk suatu reaksi adalah $L·mol^{-1}·s^{-1}$，maka orde reaksinya adalah______.\nA. 0\nB. 1\nC. 2\nD. 3",
+        "target_scores": {
+            "A. 0": 0,
+            "B. 1": 0,
+            "C. 2": 1,
+            "D. 3": 0
+        }
+    },
+    {
+        "input": "Pada suhu 298K dan dalam kondisi tekanan konstan, ketika 1 mol fosfor putih dan 1 mol fosfor merah bereaksi secara sempurna dengan kelebihan $Cl_2$ (g) untuk membentuk $PCl_5$ (S), maka △rHmØ adalah $-447{,}1\\, \\text{KJ·mol}^{-1}$ dan $-429{,}5\\, \\text{KJ·mol}^{-1}$, masing-masing.  △rHmØ fosfor putih dan fosfor merah pada 298K adalah (   ).\nA. $+17{,}6 \\, \\text{KJ·mol}^{-1}$ dan $0 \\, \\text{KJ·mol}^{-1}$\nB. $-17{,}6 \\, \\text{KJ·mol}^{-1}$ dan $0 \\, \\text{KJ·mol}^{-1}$\nC. $0 \\, \\text{KJ·mol}^{-1}$ dan $+17{,}6 \\, \\text{KJ·mol}^{-1}$\nD. $0 \\, \\text{KJ·mol}^{-1}$ dan $-17{,}6 \\, \\text{KJ·mol}^{-1}$",
+        "target_scores": {
+            "A. $+17{,}6 \\, \\text{KJ·mol}^{-1}$ dan $0 \\, \\text{KJ·mol}^{-1}$": 0,
+            "B. $-17{,}6 \\, \\text{KJ·mol}^{-1}$ dan $0 \\, \\text{KJ·mol}^{-1}$": 0,
+            "C. $0 \\, \\text{KJ·mol}^{-1}$ dan $+17{,}6 \\, \\text{KJ·mol}^{-1}$": 0,
+            "D. $0 \\, \\text{KJ·mol}^{-1}$ dan $-17{,}6 \\, \\text{KJ·mol}^{-1}$": 1
+        }
+    },
+    {
+        "input": "Bila aseton, sikloheksanon, benzofenon, dan formaldehida bereaksi dengan $HCN$ dalam reaksi adisi nukleofilik, urutan laju reaksi dari tertinggi ke terendah adalah (    ).\nA. Aseton > Benzofenon > Formaldehida > Sikloheksanon\nB. Aseton > Sikloheksanon > Benzofenon > Formaldehida\nC. Formaldehida > Aseton > Sikloheksanon > Benzofenon\nD. Formaldehida > Sikloheksanon > Benzofenon > Aseton",
+        "target_scores": {
+            "A. Aseton > Benzofenon > Formaldehida > Sikloheksanon": 0,
+            "B. Aseton > Sikloheksanon > Benzofenon > Formaldehida": 0,
+            "C. Formaldehida > Aseton > Sikloheksanon > Benzofenon": 1,
+            "D. Formaldehida > Sikloheksanon > Benzofenon > Aseton": 0
+        }
+    },
+    {
+        "input": "Pada suhu tertentu, air menguap di bawah tekanan uap jenuhnya. Di antara fungsi-fungsi berikut, yang tetap tidak berubah (sama dengan nol) adalah (   ).\nA. $\\Delta G$\nB. $\\Delta H$\nC. $\\Delta S$\nD. $\\Delta U$",
+        "target_scores": {
+            "A. $\\Delta G$": 1,
+            "B. $\\Delta H$": 0,
+            "C. $\\Delta S$": 0,
+            "D. $\\Delta U$": 0
+        }
+    },
+    {
+        "input": "Di antara zat-zat berikut, yang bukan merupakan gula pereduksi adalah ____.\nA. Fruktosa;\nB. Glukosa;\nC. Maltosa;\nD. Sukrosa;",
+        "target_scores": {
+            "A. Fruktosa;": 0,
+            "B. Glukosa;": 0,
+            "C. Maltosa;": 0,
+            "D. Sukrosa;": 1
+        }
+    },
+    {
+        "input": "Dalam larutan penyangga pada $pH=6$, bentuk utama lisin ($pI=9{,}74$) adalah ____.\nA. Anion;\nB. Kation;\nC. Tidak ada yang benar.\nD. Zwitterion;",
+        "target_scores": {
+            "A. Anion;": 0,
+            "B. Kation;": 1,
+            "C. Tidak ada yang benar.": 0,
+            "D. Zwitterion;": 0
+        }
+    },
+    {
+        "input": "$Ca^{2+}$ diendapkan sebagai $CaC_2O_4$, kemudian dilarutkan dalam asam, dan $H_2C_2O_4$ yang dihasilkan dititrasi dengan larutan $KMnO_4$ standar untuk menentukan kandungan kalsium. Metode titrasi yang digunakan adalah ____.\nA. Titrasi balik;\nB. Titrasi langsung;\nC. Titrasi redoks.\nD. Titrasi tidak langsung;",
+        "target_scores": {
+            "A. Titrasi balik;": 0,
+            "B. Titrasi langsung;": 0,
+            "C. Titrasi redoks.": 0,
+            "D. Titrasi tidak langsung;": 1
+        }
+    },
+    {
+        "input": "Di antara senyawa berikut, senyawa yang bereaksi paling cepat dengan larutan $KOH$ dalam reaksi $SN_2$ adalah ____.\nA. 2,2-Dimetil-1-bromopropana\nB. 2-Bromopentana\nC. 2-Metil-1-bromobutana\nD. 3-Metil-1-bromobutana",
+        "target_scores": {
+            "A. 2,2-Dimetil-1-bromopropana": 0,
+            "B. 2-Bromopentana": 0,
+            "C. 2-Metil-1-bromobutana": 0,
+            "D. 3-Metil-1-bromobutana": 1
+        }
+    },
+    {
+        "input": "Dalam analisis kuantitatif, tujuan melakukan beberapa pengukuran paralel pada sampel yang sama adalah ____.\nA. Untuk memeriksa keberadaan kesalahan sistematis\nB. Untuk menghindari kesalahan reagen\nC. Untuk mengimbangi kesalahan instrumental\nD. Untuk mengurangi dampak kesalahan acak pada hasil",
+        "target_scores": {
+            "A. Untuk memeriksa keberadaan kesalahan sistematis": 0,
+            "B. Untuk menghindari kesalahan reagen": 0,
+            "C. Untuk mengimbangi kesalahan instrumental": 0,
+            "D. Untuk mengurangi dampak kesalahan acak pada hasil": 1
+        }
+    },
+    {
+        "input": "Pada titik isoelektrik, kelarutan asam amino dalam air dan konsentrasi zwitterion berada dalam keadaan ____.\nA. Kelarutan maksimum, konsentrasi zwitterion maksimum\nB. Kelarutan maksimum, konsentrasi zwitterion minimum\nC. Kelarutan minimum, konsentrasi zwitterion maksimum\nD. Kelarutan minimum, konsentrasi zwitterion minimum",
+        "target_scores": {
+            "A. Kelarutan maksimum, konsentrasi zwitterion maksimum": 0,
+            "B. Kelarutan maksimum, konsentrasi zwitterion minimum": 0,
+            "C. Kelarutan minimum, konsentrasi zwitterion maksimum": 1,
+            "D. Kelarutan minimum, konsentrasi zwitterion minimum": 0
+        }
+    },
+    {
+        "input": "Di antara molekul-molekul berikut, atom pusat yang mengalami hibridisasi sp adalah ____.\nA. $BH_3$\nB. $CO_2$\nC. $H_2O$\nD. $NH_3$",
+        "target_scores": {
+            "A. $BH_3$": 0,
+            "B. $CO_2$": 1,
+            "C. $H_2O$": 0,
+            "D. $NH_3$": 0
+        }
+    },
+    {
+        "input": "Di antara senyawa-senyawa berikut, yang memiliki pKa terbesar adalah (   ).\nA. Asam asetat\nB. Asam karbonat\nC. Asam trikloroasetat\nD. Fenol",
+        "target_scores": {
+            "A. Asam asetat": 0,
+            "B. Asam karbonat": 0,
+            "C. Asam trikloroasetat": 0,
+            "D. Fenol": 1
+        }
+    },
+    {
+        "input": "Di antara larutan berair zat-zat berikut dengan konsentrasi molal yang sama, yang memiliki titik didih tertinggi adalah ____.\nA. $CH_3COOH$\nB. $C_{12}H_{22}O_{11}$\nC. $CaCl_2$\nD. $NaCl$",
+        "target_scores": {
+            "A. $CH_3COOH$": 0,
+            "B. $C_{12}H_{22}O_{11}$": 0,
+            "C. $CaCl_2$": 1,
+            "D. $NaCl$": 0
+        }
+    },
+    {
+        "input": "Dalam kondisi yang sama, jika titik beku larutan A lebih tinggi daripada larutan B, maka perbandingan titik didihnya adalah ______.\nA. Lebih rendah untuk larutan A\nB. Lebih tinggi untuk larutan A\nC. Sama untuk keduanya\nD. Tidak dapat ditentukan",
+        "target_scores": {
+            "A. Lebih rendah untuk larutan A": 1,
+            "B. Lebih tinggi untuk larutan A": 0,
+            "C. Sama untuk keduanya": 0,
+            "D. Tidak dapat ditentukan": 0
+        }
+    },
+    {
+        "input": "Pada 298K dan 100 kPa, energi aktivasi reaksi elementer adalah $10{,}7\\,\\text{kJ} \\cdot \\text{mol}^{-1}$, dan perubahan entalpi adalah $-193{,}8 \\,\\text{kJ} \\cdot \\text{mol}^{-1}$, energi aktivasi reaksi sebaliknya adalah ( ).\nA. $-183{,}1\\, \\text{kJ} \\cdot \\text{mol}^{-1}$\nB. $-204{,}5\\, \\text{kJ} \\cdot \\text{mol}^{-1}$\nC. $183{,}1\\, \\text{kJ} \\cdot \\text{mol}^{-1}$\nD. $204{,}5\\, \\text{kJ} \\cdot \\text{mol}^{-1}$",
+        "target_scores": {
+            "A. $-183{,}1\\, \\text{kJ} \\cdot \\text{mol}^{-1}$": 0,
+            "B. $-204{,}5\\, \\text{kJ} \\cdot \\text{mol}^{-1}$": 0,
+            "C. $183{,}1\\, \\text{kJ} \\cdot \\text{mol}^{-1}$": 0,
+            "D. $204{,}5\\, \\text{kJ} \\cdot \\text{mol}^{-1}$": 1
+        }
+    },
+    {
+        "input": "Pada suhu kamar, di antara molekul-molekul berikut, yang memiliki momen dipol bukan nol adalah ______.\nA. $BF_3$\nB. $CH_4$\nC. $CO_2$\nD. $SO_2$",
+        "target_scores": {
+            "A. $BF_3$": 0,
+            "B. $CH_4$": 0,
+            "C. $CO_2$": 0,
+            "D. $SO_2$": 1
+        }
+    },
+    {
+        "input": "Jika tiga kali volume air ditambahkan ke larutan amonia berair, pH larutan akan ______.\nA. Naik 2 lg 2\nB. Naik lg 2\nC. Turun 2 lg 2\nD. Turun lg 2",
+        "target_scores": {
+            "A. Naik 2 lg 2": 0,
+            "B. Naik lg 2": 0,
+            "C. Turun 2 lg 2": 0,
+            "D. Turun lg 2": 1
+        }
+    },
+    {
+        "input": "Di antara asam hidrohalat berikut dengan konsentrasi yang sama, asam terkuat adalah ______.\nA. $HBr$\nB. $HCl$\nC. $HF$\nD. $HI$",
+        "target_scores": {
+            "A. $HBr$": 0,
+            "B. $HCl$": 0,
+            "C. $HF$": 0,
+            "D. $HI$": 1
+        }
+    },
+    {
+        "input": "Di antara metode pemisahan berikut, yang paling sesuai untuk memisahkan sinamaldehida (bp ~253°C) dan alkohol sinamail (bp ~257°C) adalah ______.\nA. Distilasi vakum;\nB. Distilasi;\nC. Ekstraksi air;\nD. Pengendapan dengan larutan natrium bisulfit jenuh.",
+        "target_scores": {
+            "A. Distilasi vakum;": 0,
+            "B. Distilasi;": 0,
+            "C. Ekstraksi air;": 0,
+            "D. Pengendapan dengan larutan natrium bisulfit jenuh.": 1
+        }
+    },
+    {
+        "input": "Titik beku larutan berair diukur sebesar -0,186°C. Di antara nilai-nilai berikut (dengan $Kf=1{,}86$，$Kb=0{,}512$) yang benar adalah ______.\nA. Larutan $\\Delta p = p^* \\times 0{,}1$\nB. Larutan $\\pi = 1{,}204$\nC. Tidak ada yang benar\nD. Titik didih larutan adalah 100,0512℃",
+        "target_scores": {
+            "A. Larutan $\\Delta p = p^* \\times 0{,}1$": 0,
+            "B. Larutan $\\pi = 1{,}204$": 0,
+            "C. Tidak ada yang benar": 0,
+            "D. Titik didih larutan adalah 100,0512℃": 1
+        }
+    },
+    {
+        "input": "Diketahui larutan glukosa($C_6H_{12}O_6$) dengan fraksi massa 0,05 isotonik dengan darah, tekanan osmotik larutan urea $[(NH_2)_2CO]$ dengan fraksi massa 0,05 lebih ______ dibandingkan dengan tekanan osmotik darah.\nA. Rendah\nB. Sama\nC. Tidak dapat ditentukan\nD. Tinggi",
+        "target_scores": {
+            "A. Rendah": 0,
+            "B. Sama": 0,
+            "C. Tidak dapat ditentukan": 0,
+            "D. Tinggi": 1
+        }
+    },
+    {
+        "input": "Dalam titrasi kompleksometri, ketika EDTA digunakan untuk menitrasi ion logam, jika keasaman medium tidak dikontrol oleh larutan penyangga, pH sistem akan ______.\nA. Menurun;\nB. Naik;\nC. Tetap konstan;\nD. Tidak dapat ditentukan;",
+        "target_scores": {
+            "A. Menurun;": 1,
+            "B. Naik;": 0,
+            "C. Tetap konstan;": 0,
+            "D. Tidak dapat ditentukan;": 0
+        }
+    },
+    {
+        "input": "Di antara kompleks berikut, yang stabilitasnya paling sedikit dipengaruhi oleh efek asam adalah (   ).\nA. $[Ag(S_2O_3)_2]^{3-}$\nB. $[CdCl_4]^{2-}$\nC. $[FeF_6]^{3-}$\nD. $[MgY]^{2-}$",
+        "target_scores": {
+            "A. $[Ag(S_2O_3)_2]^{3-}$": 0,
+            "B. $[CdCl_4]^{2-}$": 1,
+            "C. $[FeF_6]^{3-}$": 0,
+            "D. $[MgY]^{2-}$": 0
+        }
+    },
+    {
+        "input": "Di antara zat-zat berikut, yang tidak bereaksi dengan reagen Tollens adalah ______.\nA. Fenilasetilena\nB. Fruktosa\nC. Metil format\nD. Sukrosa",
+        "target_scores": {
+            "A. Fenilasetilena": 0,
+            "B. Fruktosa": 0,
+            "C. Metil format": 0,
+            "D. Sukrosa": 1
+        }
+    },
+    {
+        "input": "Titik didih $H_2O$ adalah 100°C, sedangkan titik didih $H_2Se$ adalah -42°C. Teori yang dapat digunakan untuk menjelaskan hal ini adalah ______.\nA. Gaya van der Waals\nB. Ikatan hidrogen\nC. Ikatan ionik\nD. Ikatan kovalen",
+        "target_scores": {
+            "A. Gaya van der Waals": 0,
+            "B. Ikatan hidrogen": 1,
+            "C. Ikatan ionik": 0,
+            "D. Ikatan kovalen": 0
+        }
+    },
+    {
+        "input": "Di antara senyawa-senyawa berikut, basa terkuat adalah ______.\nA. Amonia\nB. Anilina\nC. Asetamida\nD. Pirolidina",
+        "target_scores": {
+            "A. Amonia": 0,
+            "B. Anilina": 0,
+            "C. Asetamida": 0,
+            "D. Pirolidina": 1
+        }
+    },
+    {
+        "input": "Dalam praktik, seperti dalam titrasi balik untuk menentukan konsentrasi larutan amonia, uji blanko harus dilakukan. Mengenai titrasi balik untuk amonia, pernyataan yang salah adalah ______.\nA. Jika nilai blanko terlalu tinggi, reagen harus dimurnikan dan penentuan diulang.\nB. Larutan asam klorida dan natrium hidroksida yang digunakan harus distandarisasi secara akurat.\nC. Tujuan uji blanko adalah untuk mengurangi kesalahan reagen.\nD. Volume larutan natrium hidroksida yang digunakan dalam titrasi balik tidak harus lebih besar dari 20 mL.",
+        "target_scores": {
+            "A. Jika nilai blanko terlalu tinggi, reagen harus dimurnikan dan penentuan diulang.": 0,
+            "B. Larutan asam klorida dan natrium hidroksida yang digunakan harus distandarisasi secara akurat.": 0,
+            "C. Tujuan uji blanko adalah untuk mengurangi kesalahan reagen.": 0,
+            "D. Volume larutan natrium hidroksida yang digunakan dalam titrasi balik tidak harus lebih besar dari 20 mL.": 1
+        }
+    },
+    {
+        "input": "Di antara jenis ikatan glikosidik berikut, yang terdapat dalam molekul pati adalah ______.\nA. ikatan α-1,4-glikosidik, ikatan α-1,6-glikosidik\nB. ikatan α-1,4-glikosidik, ikatan β-1,4-glikosidik\nC. ikatan α-1,6-glikosidik, ikatan β-1,6-glikosidik\nD. ikatan β-1,4-glikosidik, ikatan β-1,6-glikosidik",
+        "target_scores": {
+            "A. ikatan α-1,4-glikosidik, ikatan α-1,6-glikosidik": 1,
+            "B. ikatan α-1,4-glikosidik, ikatan β-1,4-glikosidik": 0,
+            "C. ikatan α-1,6-glikosidik, ikatan β-1,6-glikosidik": 0,
+            "D. ikatan β-1,4-glikosidik, ikatan β-1,6-glikosidik": 0
+        }
+    },
+    {
+        "input": "0,45 g nonelektrolit yang dilarutkan dalam 30 g air menghasilkan larutan dengan titik beku -0,15°C. Diketahui bahwa konstanta krioskopik $K_f=1{,}86\\, \\mathrm{K \\cdot kg \\cdot mol^{-1}}$, Maka, massa molar dari nonelektrolit tersebut (g·mol⁻¹) kira-kira adalah ______.\nA. 100\nB. 186\nC. 204\nD. 83,2",
+        "target_scores": {
+            "A. 100": 0,
+            "B. 186": 1,
+            "C. 204": 0,
+            "D. 83,2": 0
+        }
+    },
+    {
+        "input": "Dalam larutan berair campuran asam glutamat ($pI=3{,}22$), valin ($pI=5{,}96$), dan arginin ($pI=10{,}76$), ketika asam klorida encer ditambahkan hingga larutan $pH=6$, asam amino ini yang sebagian besar berada dalam bentuk kationik adalah______.\nA. Arginin;\nB. Asam glutamat dan arginin.\nC. Asam glutamat;\nD. Valin;",
+        "target_scores": {
+            "A. Arginin;": 1,
+            "B. Asam glutamat dan arginin.": 0,
+            "C. Asam glutamat;": 0,
+            "D. Valin;": 0
+        }
+    },
+    {
+        "input": "Dengan adanya peroksida, mekanisme reaksi alkena dengan $HBr$ adalah ______.\nA. Penambahan elektrofilik\nB. Penambahan nukleofilik\nC. Penambahan radikal\nD. Reaksi concerted",
+        "target_scores": {
+            "A. Penambahan elektrofilik": 0,
+            "B. Penambahan nukleofilik": 0,
+            "C. Penambahan radikal": 1,
+            "D. Reaksi concerted": 0
+        }
+    },
+    {
+        "input": "Ketika larutan $Pb(NO_3)_2$ ditambahkan tetes demi tetes ke dalam larutan berair $K_2Cr_2O_7$, endapan yang terbentuk adalah ______.\nA. $Pb(OH)_2$\nB. $PbCrO_4$\nC. $PbCr_2O_7$\nD. $PbO_2$",
+        "target_scores": {
+            "A. $Pb(OH)_2$": 0,
+            "B. $PbCrO_4$": 1,
+            "C. $PbCr_2O_7$": 0,
+            "D. $PbO_2$": 0
+        }
+    },
+    {
+        "input": "Ketika 0,15 L oksigen pada $9{,}8 \\times 10^4$ Pa dan 0,30 L nitrogen pada 4,66×10^5Pa dimasukkan ke dalam wadah vakum 0,30 L, tekanan total gas campuran sama dengan ______Pa.\nA. $1{,}23 \\times 10^5$ Pa\nB. $3{,}33 \\times 10^5$ Pa\nC. $5{,}15 \\times 10^5$ Pa\nD. $9{,}65 \\times 10^5$ Pa",
+        "target_scores": {
+            "A. $1{,}23 \\times 10^5$ Pa": 0,
+            "B. $3{,}33 \\times 10^5$ Pa": 0,
+            "C. $5{,}15 \\times 10^5$ Pa": 1,
+            "D. $9{,}65 \\times 10^5$ Pa": 0
+        }
+    },
+    {
+        "input": "Urutan kekuatan asam adalah: air > etanol > asetilen. Fakta berikut yang tidak benar adalah (    ).\nA. Natrium asetilida terbentuk ketika asetilen ditambahkan ke natrium etoksida.\nB. Natrium etoksida terbentuk ketika etanol ditambahkan ke natrium asetilida.\nC. Natrium hidroksida terbentuk ketika air ditambahkan ke natrium asetilida.\nD. Natrium hidroksida terbentuk ketika air ditambahkan ke natrium etoksida.",
+        "target_scores": {
+            "A. Natrium asetilida terbentuk ketika asetilen ditambahkan ke natrium etoksida.": 1,
+            "B. Natrium etoksida terbentuk ketika etanol ditambahkan ke natrium asetilida.": 0,
+            "C. Natrium hidroksida terbentuk ketika air ditambahkan ke natrium asetilida.": 0,
+            "D. Natrium hidroksida terbentuk ketika air ditambahkan ke natrium etoksida.": 0
+        }
+    },
+    {
+        "input": "Jumlah isomer yang mungkin untuk ion kompleks $[Co(NH_3)_4(H_2O)_2]^{3+}$ adalah______.\nA. 1\nB. 2\nC. 3\nD. 4",
+        "target_scores": {
+            "A. 1": 0,
+            "B. 2": 1,
+            "C. 3": 0,
+            "D. 4": 0
+        }
+    },
+    {
+        "input": "Diketahui reaksi $A \\Leftrightarrow B$ pada suhu 298K, K maju = 100K mundur. Hubungan antara energi aktivasi reaksi maju dan reaksi balik adalah (   )\nA. Ea,maju<Ea,mundur\nB. Ea,maju=Ea,mundur\nC. Ea,maju>Ea,mundur\nD. Tidak dapat ditentukan",
+        "target_scores": {
+            "A. Ea,maju<Ea,mundur": 1,
+            "B. Ea,maju=Ea,mundur": 0,
+            "C. Ea,maju>Ea,mundur": 0,
+            "D. Tidak dapat ditentukan": 0
+        }
+    },
+    {
+        "input": "Reaksi yang lajunya menurun seiring dengan penurunan konsentrasi reagen adalah:\nA. Keduanya\nB. Reaksi E2\nC. Reaksi S<SUB>N</SUB>2\nD. Tidak satu pun",
+        "target_scores": {
+            "A. Keduanya": 1,
+            "B. Reaksi E2": 0,
+            "C. Reaksi S<SUB>N</SUB>2": 0,
+            "D. Tidak satu pun": 0
+        }
+    },
+    {
+        "input": "Dalam larutan asam encer, senyawa yang tidak dapat mengalami hidrolisis adalah:\nA. Asetaldehida-2,4-dinitrofenilhidrazon\nB. Dimetilglioksim (butana-2,3-dion dioksim)\nC. Propionaldehida dietil asetal\nD. β-hidroksihutiraldehida",
+        "target_scores": {
+            "A. Asetaldehida-2,4-dinitrofenilhidrazon": 0,
+            "B. Dimetilglioksim (butana-2,3-dion dioksim)": 0,
+            "C. Propionaldehida dietil asetal": 0,
+            "D. β-hidroksihutiraldehida": 1
+        }
+    },
+    {
+        "input": "Di bawah tekanan konstan, ketika kristal $NaCl$, kristal sukrosa, dan larutan berair campuran jenuhnya berada dalam kesetimbangan, nilai komponen independen C dan derajat kebebasan f\" adalah: ______.\nA. $C=3$, $f\"=1$;\nB. $C=3$, $f\"=2$;\nC. $C=4$, $f\"=2$;\nD. $C=4$, $f\"=3$.",
+        "target_scores": {
+            "A. $C=3$, $f\"=1$;": 1,
+            "B. $C=3$, $f\"=2$;": 0,
+            "C. $C=4$, $f\"=2$;": 0,
+            "D. $C=4$, $f\"=3$.": 0
+        }
+    },
+    {
+        "input": "Dalam wadah tertutup pada suhu konstan, terdapat dua tetes air raksa kecil dengan ukuran berbeda. Setelah waktu yang cukup lama, air raksa cair masih ada di dalam wadah. Pernyataan yang benar di antara yang berikut adalah: ______.\nA. Ada dua tetes yang ukurannya sama.\nB. Ada dua tetes yang ukurannya tidak sama;\nC. Tetesan yang lebih besar menghilang;\nD. Tetesan yang lebih kecil menghilang.",
+        "target_scores": {
+            "A. Ada dua tetes yang ukurannya sama.": 0,
+            "B. Ada dua tetes yang ukurannya tidak sama;": 0,
+            "C. Tetesan yang lebih besar menghilang;": 0,
+            "D. Tetesan yang lebih kecil menghilang.": 1
+        }
+    },
+    {
+        "input": "Untuk tetesan cairan dan gelembung yang terbentuk oleh air, arah tekanan tambahan masing-masing adalah: ______.\nA. Tetesan: Keluar, Gelembung: Keluar\nB. Tetesan: Keluar, Gelembung: Masuk\nC. Tetesan: Masuk, Gelembung: Keluar\nD. Tetesan: Masuk, Gelembung: Masuk",
+        "target_scores": {
+            "A. Tetesan: Keluar, Gelembung: Keluar": 0,
+            "B. Tetesan: Keluar, Gelembung: Masuk": 0,
+            "C. Tetesan: Masuk, Gelembung: Keluar": 0,
+            "D. Tetesan: Masuk, Gelembung: Masuk": 1
+        }
+    },
+    {
+        "input": "Ada kolom air yang dapat bergerak bebas dalam tabung kapiler kaca bersih yang diletakkan secara horizontal, jika ujung kanan kolom air dipanaskan dengan lembut, fenomena yang diamati adalah ______.\nA. Kolom air bergerak ke kanan;\nB. Kolom air bergerak ke kiri;\nC. Kolom air tidak bergerak;\nD. Tidak dapat ditentukan.",
+        "target_scores": {
+            "A. Kolom air bergerak ke kanan;": 0,
+            "B. Kolom air bergerak ke kiri;": 1,
+            "C. Kolom air tidak bergerak;": 0,
+            "D. Tidak dapat ditentukan.": 0
+        }
+    },
+    {
+        "input": "Ketika mengencerkan larutan elektrolit yang sangat pekat pada suhu tertentu, hukum variasi konduktivitas κ dan konduktivitas molar $Λ_m$ adalah ______.\nA. κ meningkat, $Λ_m$ meningkat;\nB. κ menurun, $Λ_m$ meningkat;\nC. κ pertama-tama meningkat dan kemudian menurun, $Λ_m$ meningkat;\nD. κ perubahannya tidak pasti, $Λ_m$ meningkat.",
+        "target_scores": {
+            "A. κ meningkat, $Λ_m$ meningkat;": 0,
+            "B. κ menurun, $Λ_m$ meningkat;": 0,
+            "C. κ pertama-tama meningkat dan kemudian menurun, $Λ_m$ meningkat;": 1,
+            "D. κ perubahannya tidak pasti, $Λ_m$ meningkat.": 0
+        }
+    },
+    {
+        "input": "Saat membuat es krim tradisional, garam ditambahkan ke es untuk mencapai suhu yang lebih rendah. Ini memanfaatkan sifat larutan encer yang mana______.\nA. Kenaikan titik didih pelarut;\nB. Penurunan tekanan uap pelarut;\nC. Penurunan titik beku pelarut;\nD. Tekanan osmotik larutan encer;",
+        "target_scores": {
+            "A. Kenaikan titik didih pelarut;": 0,
+            "B. Penurunan tekanan uap pelarut;": 0,
+            "C. Penurunan titik beku pelarut;": 1,
+            "D. Tekanan osmotik larutan encer;": 0
+        }
+    },
+    {
+        "input": "Jika tidak ada osmosis antara dua larutan elektrolit encer, pernyataan yang benar adalah:\nA. Konsentrasi molal kedua larutan sama.\nB. Konsentrasi molar kedua larutan sama.\nC. Nilai penurunan titik beku kedua larutan sama.\nD. Volume kedua larutan sama.",
+        "target_scores": {
+            "A. Konsentrasi molal kedua larutan sama.": 0,
+            "B. Konsentrasi molar kedua larutan sama.": 0,
+            "C. Nilai penurunan titik beku kedua larutan sama.": 1,
+            "D. Volume kedua larutan sama.": 0
+        }
+    },
+    {
+        "input": "EDTA dengan $[ c(H_2Y^{2-}) = 0{,}02\\, \\text{mol} \\cdot \\text{L}^{-1} ]$ digunakan untuk menentukan kandungan CaO dalam batu kapur (diketahui massa molekul relatif CaO adalah 56,08). Dengan asumsi sampel mengandung sekitar 50% CaO, setelah melarutkan sampel dan membuatnya hingga 250,00 mL, 25,00 mL larutan sampel diambil untuk titrasi. Untuk mengendalikan kesalahan pengukuran hingga beberapa per seribu, berat sampel harus ______.\nA. 0,2–0,4 g;\nB. 0,3–0,45 g;\nC. 1,2–2,4 g;\nD. Sekitar 0,1 g.",
+        "target_scores": {
+            "A. 0,2–0,4 g;": 0,
+            "B. 0,3–0,45 g;": 1,
+            "C. 1,2–2,4 g;": 0,
+            "D. Sekitar 0,1 g.": 0
+        }
+    },
+    {
+        "input": "Perlakuan larutan $[FeCl(H_2O)_5]Br$ dengan sedikit $AgNO_3$ akan menghasilkan endapan yang komponen utamanya adalah ______.\nA. $AgBr$ dan $AgCl$;\nB. $AgBr$;\nC. $AgCl$;\nD. $Fe(OH)_2$.",
+        "target_scores": {
+            "A. $AgBr$ dan $AgCl$;": 0,
+            "B. $AgBr$;": 1,
+            "C. $AgCl$;": 0,
+            "D. $Fe(OH)_2$.": 0
+        }
+    },
+    {
+        "input": "Dalam kondisi basa lemah, senyawa yang dapat mengalami reaksi penggandengan dengan benzenadiazonium klorida untuk membentuk senyawa azo adalah ______.\nA. 2,4,6-Triklorofenol;\nB. Fenol;\nC. Nitrobenzena;\nD. Piridina;",
+        "target_scores": {
+            "A. 2,4,6-Triklorofenol;": 0,
+            "B. Fenol;": 1,
+            "C. Nitrobenzena;": 0,
+            "D. Piridina;": 0
+        }
+    },
+    {
+        "input": "Bila 4,5 g zat nonelektrolit dilarutkan dalam 125 g air, dan titik beku larutan diukur menjadi -0,372°C, massa molekul relatif zat tersebut adalah ______.\nA. 135;\nB. 172,5;\nC. 180\nD. 90;",
+        "target_scores": {
+            "A. 135;": 0,
+            "B. 172,5;": 0,
+            "C. 180": 1,
+            "D. 90;": 0
+        }
+    },
+    {
+        "input": "Satu sol $AgCl$ dibuat dengan mencampur larutan kalium klorida yang sedikit berlebih dengan larutan perak nitrat. Di antara elektrolit berikut, yang memiliki kemampuan koagulasi terkuat adalah ______.\nA. $Al_2(SO_4)_3$\nB. $MgCl_2$\nC. $Na_2SO_4$\nD. $Na_3PO_4$",
+        "target_scores": {
+            "A. $Al_2(SO_4)_3$": 1,
+            "B. $MgCl_2$": 0,
+            "C. $Na_2SO_4$": 0,
+            "D. $Na_3PO_4$": 0
+        }
+    },
+    {
+        "input": "Di antara kelompok molekul berikut, molekul yang semua atom pusatnya mengalami hibridisasi $sp^3$ dan memiliki pasangan elektron bebas ______.\nA. $BF_3$ dan $H_2O$\nB. $BeCl_2$ dan $BF_3$\nC. $CCl_4$ dan $H_2S$\nD. $PCl_3$ dan $NF_3$",
+        "target_scores": {
+            "A. $BF_3$ dan $H_2O$": 0,
+            "B. $BeCl_2$ dan $BF_3$": 0,
+            "C. $CCl_4$ dan $H_2S$": 0,
+            "D. $PCl_3$ dan $NF_3$": 1
+        }
+    },
+    {
+        "input": "Pada suhu 25℃, hasil kali kelarutan $AgCl$ dan $Ag_2CrO_4$ berturut-turut adalah $1{,}56\\times 10^{-10}$ dan $1{,}12\\times 10^{-12}$. Kelarutan $AgCl$ dibandingkan dengan kelarutan $Ag_2CrO_4$______.\nA. Keduanya sama\nB. Yang pertama dua kali lipat dari yang kedua\nC. Yang pertama lebih besar\nD. Yang pertama lebih kecil",
+        "target_scores": {
+            "A. Keduanya sama": 0,
+            "B. Yang pertama dua kali lipat dari yang kedua": 0,
+            "C. Yang pertama lebih besar": 0,
+            "D. Yang pertama lebih kecil": 1
+        }
+    },
+    {
+        "input": "Di antara substituen berikut pada cincin benzena, yang merupakan gugus pengarah meta adalah ______.\nA. Atom halogen;\nB. Gugus amino;\nC. Gugus nitro.\nD. Metil;",
+        "target_scores": {
+            "A. Atom halogen;": 0,
+            "B. Gugus amino;": 0,
+            "C. Gugus nitro.": 1,
+            "D. Metil;": 0
+        }
+    },
+    {
+        "input": "Ketika mentitrasi $HCl$ dengan boraks, seorang siswa mengaduk larutan dalam labu Erlenmeyer dengan batang kaca dan kemudian mengeluarkannya tanpa perlakuan. Hasilnya, hasil titrasi adalah ______.\nA. Benar\nB. Interval kepercayaan lebih sempit\nC. Lebih rendah\nD. Lebih tinggi",
+        "target_scores": {
+            "A. Benar": 0,
+            "B. Interval kepercayaan lebih sempit": 0,
+            "C. Lebih rendah": 0,
+            "D. Lebih tinggi": 1
+        }
+    },
+    {
+        "input": "Di antara senyawa berikut, yang merupakan senyawa heterosiklik adalah ______.\nA. Asam galat\nB. Asam pikrat\nC. Asam salisilat\nD. Furfural",
+        "target_scores": {
+            "A. Asam galat": 0,
+            "B. Asam pikrat": 0,
+            "C. Asam salisilat": 0,
+            "D. Furfural": 1
+        }
+    },
+    {
+        "input": "Kelarutan $AgCl(s)$ dalam air, dalam larutan kalsium klorida dengan $c(CaCl_2)=0{,}01\\, \\text{mol} \\cdot \\text{L}^{-1}$, dalam larutan natrium klorida dengan $c(NaCl)=0{,}01\\, \\text{mol} \\cdot \\text{L}^{-1}$, dan dalam larutan perak nitrat dengan $c(AgNO_3)=0{,}05\\, \\text{mol} \\cdot \\text{L}^{-1}$ masing-masing adalah S0, S1, S2, dan S3, maka______.\nA. $S0>S1=S2>S3$;\nB. $S0>S1>S2>S3$;\nC. $S0>S2>S1>S3$;\nD. $S0>S2>S3>S1$;",
+        "target_scores": {
+            "A. $S0>S1=S2>S3$;": 0,
+            "B. $S0>S1>S2>S3$;": 0,
+            "C. $S0>S2>S1>S3$;": 1,
+            "D. $S0>S2>S3>S1$;": 0
+        }
+    },
+    {
+        "input": "Di antara media berikut, yang menunjukkan mutarotasi metil-α-D-glukopiranosida adalah ______.\nA. Air amonia;\nB. Larutan natrium etoksida dalam etanol;\nC. Larutan natrium fenolat dalam air;\nD. Larutan trinitrofenol dalam air;",
+        "target_scores": {
+            "A. Air amonia;": 0,
+            "B. Larutan natrium etoksida dalam etanol;": 0,
+            "C. Larutan natrium fenolat dalam air;": 0,
+            "D. Larutan trinitrofenol dalam air;": 1
+        }
+    },
+    {
+        "input": "Di antara situasi berikut, kondisi yang di dalamnya hidrolisis haloalkana tidak termasuk dalam $S_N2$adalah ______.\nA. Laju reaksi meningkat seiring dengan peningkatan konsentrasi basa;\nB. Pembalikan konfigurasi produk secara lengkap;\nC. Reaksi berlangsung dalam dua langkah.\nD. Reaksi selesai dalam satu langkah;",
+        "target_scores": {
+            "A. Laju reaksi meningkat seiring dengan peningkatan konsentrasi basa;": 0,
+            "B. Pembalikan konfigurasi produk secara lengkap;": 0,
+            "C. Reaksi berlangsung dalam dua langkah.": 1,
+            "D. Reaksi selesai dalam satu langkah;": 0
+        }
+    },
+    {
+        "input": "Empat bilangan kuantum n, l, m, dan ms digunakan untuk merepresentasikan keadaan gerak elektron, bilangan yang tidak masuk akal adalah ______.\nA. 3, 0, 1, -1/2.\nB. 3, 1, 1, +1/2;\nC. 3, 2, -2, +1/2;\nD. 3, 2, 1, -1/2;",
+        "target_scores": {
+            "A. 3, 0, 1, -1/2.": 1,
+            "B. 3, 1, 1, +1/2;": 0,
+            "C. 3, 2, -2, +1/2;": 0,
+            "D. 3, 2, 1, -1/2;": 0
+        }
+    },
+    {
+        "input": "Di antara asam lemak berikut, yang tidak jenuh adalah ______.\nA. Asam dodekanoat;\nB. Asam oleat;\nC. Asam palmitat;\nD. Asam stearat;",
+        "target_scores": {
+            "A. Asam dodekanoat;": 0,
+            "B. Asam oleat;": 1,
+            "C. Asam palmitat;": 0,
+            "D. Asam stearat;": 0
+        }
+    },
+    {
+        "input": "Urutan kebasaan senyawa berikut dari yang terkuat hingga terlemah adalah ______.\n① Benzamida\n② Ftalimida\n③ Urea\n④ Tetrametilamonium hidroksida\nA. ①＞②＞③＞④\nB. ②＞③＞④＞①\nC. ④＞③＞①＞②\nD. ④＞③＞②＞①",
+        "target_scores": {
+            "A. ①＞②＞③＞④": 0,
+            "B. ②＞③＞④＞①": 0,
+            "C. ④＞③＞①＞②": 1,
+            "D. ④＞③＞②＞①": 0
+        }
+    },
+    {
+        "input": "Di antara senyawa karbonil berikut, yang memiliki reaktivitas relatif tertinggi dalam adisi nukleofilik adalah ______.\nA. $CH_3CHO$\nB. $F_3C\\text{-CHO}$;\nC. $HCHO$;\nD. Aseton;",
+        "target_scores": {
+            "A. $CH_3CHO$": 0,
+            "B. $F_3C\\text{-CHO}$;": 1,
+            "C. $HCHO$;": 0,
+            "D. Aseton;": 0
+        }
+    },
+    {
+        "input": "Asam amino yang dapat larut sempurna dalam air murni pada $pH=7$, sehingga menghasilkan larutan dengan $pH=6$, memiliki titik isoelektrik ______.\nA. Kurang dari 6;\nB. Lebih besar dari 6;\nC. Sama dengan 6;\nD. Tidak dapat ditentukan;",
+        "target_scores": {
+            "A. Kurang dari 6;": 1,
+            "B. Lebih besar dari 6;": 0,
+            "C. Sama dengan 6;": 0,
+            "D. Tidak dapat ditentukan;": 0
+        }
+    },
+    {
+        "input": "Ketika asam amino dilarutkan dalam air pada $pH=8{,}5$ dan ditempatkan dalam medan listrik, asam amino bergerak menuju katode, yang menunjukkan bahwa asam amino tersebut adalah ______.\nA. Asam amino asam;\nB. Asam amino basa;\nC. Asam amino netral;\nD. Tidak dapat ditentukan;",
+        "target_scores": {
+            "A. Asam amino asam;": 0,
+            "B. Asam amino basa;": 1,
+            "C. Asam amino netral;": 0,
+            "D. Tidak dapat ditentukan;": 0
+        }
+    },
+    {
+        "input": "Di antara zat-zat berikut, yang dapat menyebabkan presipitasi dan denaturasi protein adalah ______.\nA. $NaCl$;\nB. $Na_2CO_3$;\nC. $Na_2SO_4$;\nD. Asam pikrat;",
+        "target_scores": {
+            "A. $NaCl$;": 0,
+            "B. $Na_2CO_3$;": 0,
+            "C. $Na_2SO_4$;": 0,
+            "D. Asam pikrat;": 1
+        }
+    },
+    {
+        "input": "Di antara senyawa-senyawa berikut, senyawa yang memiliki titik leleh tertinggi adalah ______.\nA. Asam asetat;\nB. Asetaldehida;\nC. Asetamida;\nD. Glisin.",
+        "target_scores": {
+            "A. Asam asetat;": 0,
+            "B. Asetaldehida;": 0,
+            "C. Asetamida;": 0,
+            "D. Glisin.": 1
+        }
+    },
+    {
+        "input": "Dua volume campuran yang identik yang mengandung jumlah $NaOH$ dan $Na_2CO_3$ yang sama diambil. Satu bagian dititrasi dengan fenolftalein sebagai indikator, menggunakan volume V_1 HCl untuk mencapai titik akhir. Bagian lainnya dititrasi dengan metil jingga sebagai indikator, menggunakan volume V_2 HCl dengan konsentrasi yang sama untuk mencapai titik akhir. Hubungan antara V_1 dan V_2 adalah ______.\nA. $2V_1=3V_2$;\nB. $3V_1=2V_2$;\nC. $V_1=2V_2$;\nD. $V_2=2V_1$;",
+        "target_scores": {
+            "A. $2V_1=3V_2$;": 0,
+            "B. $3V_1=2V_2$;": 1,
+            "C. $V_1=2V_2$;": 0,
+            "D. $V_2=2V_1$;": 0
+        }
+    },
+    {
+        "input": "Di antara larutan berair berikut dengan fraksi massa 5%, yang memiliki titik didih normal terendah adalah ______.\nA. Larutan $C_3H_8O_3$;\nB. Larutan $C_6H_{12}O_6$;\nC. Larutan $C_{12}H_{22}O_{11}$;\nD. Larutan $\\text{CO}(\\text{NH}_2)_2$;",
+        "target_scores": {
+            "A. Larutan $C_3H_8O_3$;": 0,
+            "B. Larutan $C_6H_{12}O_6$;": 0,
+            "C. Larutan $C_{12}H_{22}O_{11}$;": 1,
+            "D. Larutan $\\text{CO}(\\text{NH}_2)_2$;": 0
+        }
+    },
+    {
+        "input": "Di antara senyawa-senyawa berikut, senyawa yang bereaksi dengan fenilhidrazina untuk membentuk osazone yang berbeda dari tiga senyawa lainnya adalah ______.\nA. D-Fruktosa;\nB. D-Galaktosa;\nC. D-Glukosa;\nD. D-Manosa;",
+        "target_scores": {
+            "A. D-Fruktosa;": 0,
+            "B. D-Galaktosa;": 1,
+            "C. D-Glukosa;": 0,
+            "D. D-Manosa;": 0
+        }
+    },
+    {
+        "input": "Dalam larutan asam amino pada $pH=6{,}0$, ketika ditempatkan dalam medan listrik, senyawa yang bergerak menuju elektroda negatif adalah ______.\nA. Alanin($pI=6{,}0$);\nB. Asam aspartat($pI=2{,}98$);\nC. Asam glutamat($pI=3{,}22$);\nD. Lisin($pI=9{,}74$);",
+        "target_scores": {
+            "A. Alanin($pI=6{,}0$);": 0,
+            "B. Asam aspartat($pI=2{,}98$);": 0,
+            "C. Asam glutamat($pI=3{,}22$);": 0,
+            "D. Lisin($pI=9{,}74$);": 1
+        }
+    },
+    {
+        "input": "Di antara senyawa-senyawa berikut, senyawa yang menghasilkan kekeruhan dengan reagen Lucas pada suhu kamar adalah ______.\nA. Pentanol\nB. Siklopentanol;\nC. Siklopentena;\nD. Siklopentil klorida;",
+        "target_scores": {
+            "A. Pentanol": 0,
+            "B. Siklopentanol;": 1,
+            "C. Siklopentena;": 0,
+            "D. Siklopentil klorida;": 0
+        }
+    },
+    {
+        "input": "Untuk melarutkan $\\text{Mg}(\\text{OH})_2$, ____ dapat ditambahkan.\nA. $NH_3·H_2O$\nB. $NH_4Cl$\nC. $NaCl$\nD. $NaOH$",
+        "target_scores": {
+            "A. $NH_3·H_2O$": 0,
+            "B. $NH_4Cl$": 1,
+            "C. $NaCl$": 0,
+            "D. $NaOH$": 0
+        }
+    },
+    {
+        "input": "Di antara senyawa berikut, yang memiliki titik didih tertinggi adalah ______.\nA. Asam asetat;\nB. Asetaldehida;\nC. Etana.\nD. Etanol;",
+        "target_scores": {
+            "A. Asam asetat;": 1,
+            "B. Asetaldehida;": 0,
+            "C. Etana.": 0,
+            "D. Etanol;": 0
+        }
+    },
+    {
+        "input": "Selama proses perubahan, suatu sistem menyerap 100 kJ panas dari lingkungan dan melakukan 25 kJ kerja pada lingkungan. Perubahan energi termodinamika sistem adalah ______.\nA. -125 kJ;\nB. -75kJ;\nC. 125 kJ;\nD. 75 kJ;",
+        "target_scores": {
+            "A. -125 kJ;": 0,
+            "B. -75kJ;": 0,
+            "C. 125 kJ;": 0,
+            "D. 75 kJ;": 1
+        }
+    },
+    {
+        "input": "Di antara kelompok berikut, yang menghasilkan efek +C lebih besar daripada efek -I ketika melekat pada cincin benzena adalah ______.\nA. Kelompok asetil;\nB. Kelompok etoksi;\nC. Kelompok nitril;\nD. Kelompok trifluorometil;",
+        "target_scores": {
+            "A. Kelompok asetil;": 0,
+            "B. Kelompok etoksi;": 1,
+            "C. Kelompok nitril;": 0,
+            "D. Kelompok trifluorometil;": 0
+        }
+    },
+    {
+        "input": "Di antara senyawa berikut, yang membentuk anhidrida internal setelah dipanaskan adalah ______.\nA. Asam adipat;\nB. Asam glutarat;\nC. Asam malonat;\nD. Asam oksalat;",
+        "target_scores": {
+            "A. Asam adipat;": 0,
+            "B. Asam glutarat;": 1,
+            "C. Asam malonat;": 0,
+            "D. Asam oksalat;": 0
+        }
+    },
+    {
+        "input": "Ketika propionaldehida bereaksi dengan etilmagnesium bromida dan kemudian dihidrolisis, produk utama yang terbentuk adalah ______.\nA. 2-Metil-2-butanol\nB. 2-Pentanol\nC. 3-Metil-2-butanol\nD. 3-Pentanol",
+        "target_scores": {
+            "A. 2-Metil-2-butanol": 0,
+            "B. 2-Pentanol": 0,
+            "C. 3-Metil-2-butanol": 0,
+            "D. 3-Pentanol": 1
+        }
+    },
+    {
+        "input": "Jika suatu sistem mengalami serangkaian perubahan dan akhirnya kembali ke keadaan awalnya, hubungan berikut harus berlaku: ______.\nA. $$\\Delta U \\neq 0$$\nB. $Q=0$\nC. $W=0$\nD. $\\Delta U = 0$",
+        "target_scores": {
+            "A. $$\\Delta U \\neq 0$$": 0,
+            "B. $Q=0$": 0,
+            "C. $W=0$": 0,
+            "D. $\\Delta U = 0$": 1
+        }
+    },
+    {
+        "input": "Dalam reaksi substitusi elektrofilik benzena, gugus yang bertindak sebagai gugus pengarah meta adalah ______.\nA. $CH_3$\nB. $Cl$\nC. $NO_2$\nD. $OCH_3$",
+        "target_scores": {
+            "A. $CH_3$": 0,
+            "B. $Cl$": 0,
+            "C. $NO_2$": 1,
+            "D. $OCH_3$": 0
+        }
+    },
+    {
+        "input": "Belerang monoklinik dan belerang ortorombik adalah dua bentuk kristal dari unsur belerang. Dalam kondisi standar, belerang ortorombik lebih stabil pada suhu di bawah 21,36 K. Sebaliknya, belerang monoklinik lebih stabil di atas suhu ini. Reaksi S(monoklinik)=S(ortorombik) adalah ______.\nA. Eksotermik, entropi meningkat\nB. Eksotermik, entropi menurun\nC. Endotermik, entropi meningkat\nD. Endotermik, entropi menurun",
+        "target_scores": {
+            "A. Eksotermik, entropi meningkat": 0,
+            "B. Eksotermik, entropi menurun": 1,
+            "C. Endotermik, entropi meningkat": 0,
+            "D. Endotermik, entropi menurun": 0
+        }
+    },
+    {
+        "input": "Pertumbuhan yang buruk dan bahkan layu tanaman di tanah alkali-garam berhubungan langsung dengan sifat larutan encer ______.\nA. Peningkatan titik didih\nB. Penurunan tekanan uap\nC. Penurunan titik beku\nD. Tekanan osmotik",
+        "target_scores": {
+            "A. Peningkatan titik didih": 0,
+            "B. Penurunan tekanan uap": 0,
+            "C. Penurunan titik beku": 0,
+            "D. Tekanan osmotik": 1
+        }
+    },
+    {
+        "input": "13,0 g zat nonelektrolit dilarutkan dalam 200 g air, dan titik beku larutan tersebut terukur sebesar -1,95℃. Diketahui $K_f = 1{,}86\\, \\text{°C} \\cdot \\text{kg} \\cdot \\text{mol}^{-1} $, massa molar (M) dari zat tersebut adalah ______.\nA. $124g·mol^{-1}$\nB. $180g·mol^{-1}$\nC. $31g·mol^{-1}$\nD. $62g·mol^{-1}$",
+        "target_scores": {
+            "A. $124g·mol^{-1}$": 0,
+            "B. $180g·mol^{-1}$": 0,
+            "C. $31g·mol^{-1}$": 0,
+            "D. $62g·mol^{-1}$": 1
+        }
+    },
+    {
+        "input": "Di antara senyawa berikut, senyawa yang bereaksi dengan reagen Lucas pada suhu kamar dan menghasilkan kekeruhan paling cepat adalah ______.\nA. Butanol\nB. Butanol sekunder\nC. Metil propil eter\nD. Tert-butanol",
+        "target_scores": {
+            "A. Butanol": 0,
+            "B. Butanol sekunder": 0,
+            "C. Metil propil eter": 0,
+            "D. Tert-butanol": 1
+        }
+    },
+    {
+        "input": "Dalam sel galvanik yang terdiri dari reaksi $Fe(s)+2Ag^{+}(aq)=Fe^{2+}(aq)+2Ag(s)$, jika konsentrasi $Ag^+$\ndikurangi menjadi sepersepuluh dari nilai awalnya, perubahan gaya gerak listrik (EMF) sel adalah ______.\nA. Naik sebesar 0,0592 V\nB. Naik sebesar 0,118 V\nC. Turun sebesar 0,0592 V\nD. Turun sebesar 0,118 V",
+        "target_scores": {
+            "A. Naik sebesar 0,0592 V": 0,
+            "B. Naik sebesar 0,118 V": 0,
+            "C. Turun sebesar 0,0592 V": 1,
+            "D. Turun sebesar 0,118 V": 0
+        }
+    },
+    {
+        "input": "Pengembangan dan pemanfaatan sumber energi baru merupakan topik penting bagi pembangunan berkelanjutan masyarakat manusia. Di antara berikut ini, yang termasuk energi baru adalah\nA. Batubara\nB. Gas alam\nC. Hidrogen\nD. Minyak bumi",
+        "target_scores": {
+            "A. Batubara": 0,
+            "B. Gas alam": 0,
+            "C. Hidrogen": 1,
+            "D. Minyak bumi": 0
+        }
+    },
+    {
+        "input": "Di antara uraian fenomena eksperimen berikut, yang tidak tepat adalah\nA. Kawat besi terbakar hebat dalam oksigen, dengan percikan api beterbangan dan membentuk padatan hitam\nB. Selama elektrolisis air, rasio volume gas yang dihasilkan pada elektroda positif dan negatif adalah 1:2\nC. Setelah menambahkan asam sulfat encer ke dalam larutan lakmus, larutan berubah dari ungu menjadi biru\nD. Sulfur terbakar dalam oksigen, memancarkan nyala api biru-ungu",
+        "target_scores": {
+            "A. Kawat besi terbakar hebat dalam oksigen, dengan percikan api beterbangan dan membentuk padatan hitam": 0,
+            "B. Selama elektrolisis air, rasio volume gas yang dihasilkan pada elektroda positif dan negatif adalah 1:2": 0,
+            "C. Setelah menambahkan asam sulfat encer ke dalam larutan lakmus, larutan berubah dari ungu menjadi biru": 1,
+            "D. Sulfur terbakar dalam oksigen, memancarkan nyala api biru-ungu": 0
+        }
+    },
+    {
+        "input": "Di antara penemuan atau teknologi manusia kuno berikut, yang terutama melibatkan perubahan kimia adalah\nA. Irigasi kincir air\nB. Peleburan besi dari bijih\nC. Pencetakan huruf bergerak\nD. Ukiran patung batu",
+        "target_scores": {
+            "A. Irigasi kincir air": 0,
+            "B. Peleburan besi dari bijih": 1,
+            "C. Pencetakan huruf bergerak": 0,
+            "D. Ukiran patung batu": 0
+        }
+    },
+    {
+        "input": "Di antara perubahan berikut, yang tidak termasuk reaksi oksidasi adalah\nA. Karat pada produk besi\nB. Pembakaran gas alam\nC. Penghilangan karat dengan asam klorida\nD. Pernapasan hewan",
+        "target_scores": {
+            "A. Karat pada produk besi": 0,
+            "B. Pembakaran gas alam": 0,
+            "C. Penghilangan karat dengan asam klorida": 1,
+            "D. Pernapasan hewan": 0
+        }
+    },
+    {
+        "input": "Dari perspektif keselamatan, praktik yang benar di antara yang berikut adalah\nA. Makan nasi berjamur setelah dikukus\nB. Memurnikan hidrogen sebelum dinyalakan $H_2$\nC. Menempatkan sepanci air di atas kompor batu bara untuk mencegah keracunan $CO$\nD. Merendam makanan laut dalam formaldehida",
+        "target_scores": {
+            "A. Makan nasi berjamur setelah dikukus": 0,
+            "B. Memurnikan hidrogen sebelum dinyalakan $H_2$": 1,
+            "C. Menempatkan sepanci air di atas kompor batu bara untuk mencegah keracunan $CO$": 0,
+            "D. Merendam makanan laut dalam formaldehida": 0
+        }
+    },
+    {
+        "input": "Di antara reagen berikut, yang akan menghasilkan tiga fenomena berbeda saat ditambahkan ke larutan $Ca(OH)_2$, $H_2SO_4$,$Na_2SO_4$ adalah (   ).\nA. Larutan $Ba(NO_3)_2$\nB. Larutan $MgCl_2$\nC. Larutan $Na_2CO_3$\nD. Larutan fenolftalein",
+        "target_scores": {
+            "A. Larutan $Ba(NO_3)_2$": 0,
+            "B. Larutan $MgCl_2$": 0,
+            "C. Larutan $Na_2CO_3$": 1,
+            "D. Larutan fenolftalein": 0
+        }
+    },
+    {
+        "input": "Kimia sangat erat kaitannya dengan produksi manusia dan kehidupan sehari-hari. Di antara pernyataan berikut, yang benar adalah (   ).\nA. Asam sulfat pekat memiliki sifat higroskopis dan dapat digunakan sebagai pengering makanan.\nB. Kembang api berwarna-warni mengandung senyawa dengan unsur logam seperti kalium, natrium, kalsium, dan tembaga.\nC. Tawas dapat menjernihkan air, sehingga memecahkan \"krisis pasokan air tawar.\"\nD. Udara terasa segar setelah badai petir musim panas karena sejumlah kecil $NO_2$ dihasilkan.",
+        "target_scores": {
+            "A. Asam sulfat pekat memiliki sifat higroskopis dan dapat digunakan sebagai pengering makanan.": 0,
+            "B. Kembang api berwarna-warni mengandung senyawa dengan unsur logam seperti kalium, natrium, kalsium, dan tembaga.": 1,
+            "C. Tawas dapat menjernihkan air, sehingga memecahkan \"krisis pasokan air tawar.\"": 0,
+            "D. Udara terasa segar setelah badai petir musim panas karena sejumlah kecil $NO_2$ dihasilkan.": 0
+        }
+    },
+    {
+        "input": "Penilaian yang benar mengenai jumlah isomer (tidak termasuk stereoisomer) yang direpresentasikan oleh rumus molekul berikut adalah (   ).\nA. $C_2H_4Cl_2$　1\nB. $C_2H_4O_2$　 2\nC. $C_2H_6O$　 3\nD. $C_4H_9Br$　4",
+        "target_scores": {
+            "A. $C_2H_4Cl_2$　1": 0,
+            "B. $C_2H_4O_2$　 2": 0,
+            "C. $C_2H_6O$　 3": 0,
+            "D. $C_4H_9Br$　4": 1
+        }
+    },
+    {
+        "input": "Senyawa A merupakan senyawa organik yang mengandung struktur cincin beranggota enam dengan rumus molekul $C_7H_{12}O_2$. Senyawa ini dapat mengalami hidrolisis dalam kondisi asam, dan produk hidrolisisnya hanya satu jenis. Diketahui pula bahwa molekul A mengandung dua gugus metil. Kemungkinan struktur A adalah (   ).\nA. 10\nB. 11\nC. 12\nD. 6",
+        "target_scores": {
+            "A. 10": 1,
+            "B. 11": 0,
+            "C. 12": 0,
+            "D. 6": 0
+        }
+    },
+    {
+        "input": "Jumlah isomer cincin beranggota tiga (tidak termasuk stereoisomer) dengan rumus molekul $C_4H_8O$ adalah (   ).\nA. 5\nB. 6\nC. 7\nD. 8",
+        "target_scores": {
+            "A. 5": 0,
+            "B. 6": 0,
+            "C. 7": 1,
+            "D. 8": 0
+        }
+    },
+    {
+        "input": "Jumlah isomer yang termasuk dalam senyawa aromatik dengan rumus molekul $C_7H_6O_2$ adalah (   ).\nA. 3\nB. 4\nC. 5\nD. 6",
+        "target_scores": {
+            "A. 3": 0,
+            "B. 4": 0,
+            "C. 5": 0,
+            "D. 6": 1
+        }
+    },
+    {
+        "input": "Logam Na larut dalam amonia cair membentuk ion natrium teramonia dan elektron teramonia. Ketika ditambahkan ligan cryptand L ke dalam larutan, senyawa pertama yang mengandung anion logam alkali, [$NaL^{+}Na^{-}$], yang berwarna kuning keemasan, diperoleh. Pernyataan yang salah di antara yang berikut adalah (    ).\nA. Daya reduksi $Na^-$ lebih kuat daripada Na.\nB. Energi ionisasi pertama $Na^-$ lebih besar daripada H−.\nC. Fakta ini menunjukkan bahwa Na juga dapat menunjukkan sifat nonlogam.\nD. Jari-jari $Na^-$ lebih besar daripada F−.",
+        "target_scores": {
+            "A. Daya reduksi $Na^-$ lebih kuat daripada Na.": 0,
+            "B. Energi ionisasi pertama $Na^-$ lebih besar daripada H−.": 1,
+            "C. Fakta ini menunjukkan bahwa Na juga dapat menunjukkan sifat nonlogam.": 0,
+            "D. Jari-jari $Na^-$ lebih besar daripada F−.": 0
+        }
+    },
+    {
+        "input": "\"Reaksi ekonomi atom\" yang paling ideal mengacu pada reaksi di mana semua atom reaktan diubah menjadi produk akhir yang diinginkan. Reaksi yang termasuk dalam \"reaksi ekonomi atom\" yang paling ideal adalah (    ).\nA. Reaksi pembuatan asetilena menggunakan kalsium karbida dan air.\nB. Reaksi pembuatan etilen oksida menggunakan etilen dan oksigen dengan adanya katalis Ag.\nC. Reaksi untuk pembuatan 2,4,6-tribromofenol menggunakan larutan fenol encer dan air bromin jenuh.\nD. Reaksi untuk pembuatan etilena dengan memanaskan bromoetana dengan $NaOH$ dalam larutan etanol.",
+        "target_scores": {
+            "A. Reaksi pembuatan asetilena menggunakan kalsium karbida dan air.": 0,
+            "B. Reaksi pembuatan etilen oksida menggunakan etilen dan oksigen dengan adanya katalis Ag.": 1,
+            "C. Reaksi untuk pembuatan 2,4,6-tribromofenol menggunakan larutan fenol encer dan air bromin jenuh.": 0,
+            "D. Reaksi untuk pembuatan etilena dengan memanaskan bromoetana dengan $NaOH$ dalam larutan etanol.": 0
+        }
+    },
+    {
+        "input": "Kimia sangat erat kaitannya dengan produksi dan kehidupan sehari-hari. Pernyataan yang benar di antara yang berikut adalah\nA. $BaSO_4$ digunakan sebagai barium meal dalam pengobatan, dan $Ba^{2+}$ tidak beracun bagi tubuh manusia.\nB. $^{14}C$ dapat digunakan untuk penanggalan peninggalan budaya, dan $^{12}C$ merupakan alotrop satu sama lain.\nC. Baik distilasi kering batubara maupun fraksinasi minyak bumi merupakan perubahan kimia.\nD. Larutan injeksi glukosa tidak dapat menghasilkan efek Tyndall dan bukan koloid.",
+        "target_scores": {
+            "A. $BaSO_4$ digunakan sebagai barium meal dalam pengobatan, dan $Ba^{2+}$ tidak beracun bagi tubuh manusia.": 0,
+            "B. $^{14}C$ dapat digunakan untuk penanggalan peninggalan budaya, dan $^{12}C$ merupakan alotrop satu sama lain.": 0,
+            "C. Baik distilasi kering batubara maupun fraksinasi minyak bumi merupakan perubahan kimia.": 0,
+            "D. Larutan injeksi glukosa tidak dapat menghasilkan efek Tyndall dan bukan koloid.": 1
+        }
+    },
+    {
+        "input": "Suatu larutan dapat mengandung $Cl^-$, $SO_4^{2-}$, $CO_3^{2-}$, $NH_4^+$, $Fe^{3+}$, $Al^{3+}$,dan $K^+$. Sebanyak 100 mL larutan diambil, kemudian larutan $NaOH$ berlebih ditambahkan dan dipanaskan, menghasilkan 0,02 mol gas dan endapan berwarna merah kecokelatan. Setelah penyaringan, pencucian, dan pembakaran, diperoleh padatan sebanyak 1,6 g. Ketika larutan $BaCl_2$ berlebih ditambahkan ke dalam filtrat, diperoleh endapan sebanyak 4,66 g yang tidak larut dalam asam klorida. Dapat disimpulkan bahwa larutan awal mengandung\nA. $CO_3^{2-}$, $Al^{3+}$ pasti tidak ada, dan $K^+$ mungkin ada.\nB. $Cl^-$ pasti ada, dan $c(Cl^-) ≥ 0{,}4$ mol/L\nC. $SO_4^{2-}$, $NH_4^+$, pasti ada, dan $Cl^-$ mungkin tidak ada.\nD. Setidaknya lima jenis ion.",
+        "target_scores": {
+            "A. $CO_3^{2-}$, $Al^{3+}$ pasti tidak ada, dan $K^+$ mungkin ada.": 0,
+            "B. $Cl^-$ pasti ada, dan $c(Cl^-) ≥ 0{,}4$ mol/L": 1,
+            "C. $SO_4^{2-}$, $NH_4^+$, pasti ada, dan $Cl^-$ mungkin tidak ada.": 0,
+            "D. Setidaknya lima jenis ion.": 0
+        }
+    },
+    {
+        "input": "Suatu larutan mungkin mengandung $Na^+$, $NH_4^+$, $Ba^{2+}$, $SO_4^{2-}$, $I^-$, $S^{2-}$. Sampel diambil secara terpisah: ① diuji dengan pH meter, larutan menunjukkan keasaman lemah; ② tidak ada fenomena signifikan saat menambahkan air klorin dan kanji. Untuk menentukan komposisi larutan, ion-ion yang masih perlu diuji adalah\nA. $Ba^{2+}$\nB. $NH_4^+$\nC. $Na^+$\nD. $SO_4^{2-}$",
+        "target_scores": {
+            "A. $Ba^{2+}$": 0,
+            "B. $NH_4^+$": 0,
+            "C. $Na^+$": 1,
+            "D. $SO_4^{2-}$": 0
+        }
+    },
+    {
+        "input": "Pernyataan yang benar tentang dua gas, 12C18O dan 14N2, pada suhu dan tekanan yang sama adalah\nA. Jika jumlah atomnya sama, maka jumlah neutronnya juga sama.\nB. Jika massa sama, maka jumlah protonnya juga sama.\nC. Jika volume sama, maka jumlah elektronnya juga sama.\nD. Jika volume sama, maka massa jenisnya juga sama.",
+        "target_scores": {
+            "A. Jika jumlah atomnya sama, maka jumlah neutronnya juga sama.": 0,
+            "B. Jika massa sama, maka jumlah protonnya juga sama.": 0,
+            "C. Jika volume sama, maka jumlah elektronnya juga sama.": 1,
+            "D. Jika volume sama, maka massa jenisnya juga sama.": 0
+        }
+    },
+    {
+        "input": "Gelas kimia kecil yang berisi serbuk $NH_4HCO_3$ ditaruh dalam gelas kimia yang lebih besar dengan sedikit asam asetat. Kemudian, asam klorida ditambahkan ke gelas kimia kecil, menyebabkan reaksi yang kuat, dan asam asetat secara bertahap memadat. Dapat disimpulkan bahwa\nA. Dalam reaksi ini, energi termal diubah menjadi energi internal produk.\nB. Energi total reaktan lebih tinggi daripada produk.\nC. Persamaan termokimia untuk reaksi tersebut adalah: $NH_4HCO_3 + CH_3COOH \\rightarrow CH_3COONH_4 + CO_2 \\uparrow + H_2O$\nD. Reaksi antara $NH_4HCO_3$ dan asam klorida merupakan reaksi eksotermik.",
+        "target_scores": {
+            "A. Dalam reaksi ini, energi termal diubah menjadi energi internal produk.": 1,
+            "B. Energi total reaktan lebih tinggi daripada produk.": 0,
+            "C. Persamaan termokimia untuk reaksi tersebut adalah: $NH_4HCO_3 + CH_3COOH \\rightarrow CH_3COONH_4 + CO_2 \\uparrow + H_2O$": 0,
+            "D. Reaksi antara $NH_4HCO_3$ dan asam klorida merupakan reaksi eksotermik.": 0
+        }
+    },
+    {
+        "input": "$CO(g) + H_2O(g) \\rightarrow H_2(g) + CO_2(g)$ $\\Delta H﹤0$, dengan kondisi lain dijaga tetap\nA. Jika reaksi terjadi dalam sel galvanik, panas yang dilepaskan oleh reaksi tetap tidak berubah.\nB. Jika suhu dinaikkan, laju reaksi meningkat, tetapi panas yang dilepaskan oleh reaksi tetap tidak berubah.\nC. Ketika katalis ditambahkan, jalur reaksi berubah, dan $\\Delta H$ reaksi berubah.\nD. Ketika tekanan diubah, kesetimbangan tidak bergeser, dan panas yang dilepaskan oleh reaksi tetap tidak berubah.",
+        "target_scores": {
+            "A. Jika reaksi terjadi dalam sel galvanik, panas yang dilepaskan oleh reaksi tetap tidak berubah.": 0,
+            "B. Jika suhu dinaikkan, laju reaksi meningkat, tetapi panas yang dilepaskan oleh reaksi tetap tidak berubah.": 0,
+            "C. Ketika katalis ditambahkan, jalur reaksi berubah, dan $\\Delta H$ reaksi berubah.": 0,
+            "D. Ketika tekanan diubah, kesetimbangan tidak bergeser, dan panas yang dilepaskan oleh reaksi tetap tidak berubah.": 1
+        }
+    },
+    {
+        "input": "Jika $(NH_4)_2SO_4$ terurai setelah pemanasan kuat menghasilkan $SO_2$, $N_2$, $NH_3$ dan $H_2O$, rasio atom nitrogen yang keadaan oksidasinya berubah dengan yang tidak berubah dalam reaksi adalah\nA. 1: 2\nB. 1: 4\nC. 2: 1\nD. 4: 1",
+        "target_scores": {
+            "A. 1: 2": 1,
+            "B. 1: 4": 0,
+            "C. 2: 1": 0,
+            "D. 4: 1": 0
+        }
+    },
+    {
+        "input": "Jika 0,195 g bubuk seng ditambahkan ke dalam 20,0 mL larutan 0,100 mol/L $M O_2^+$ dan bereaksi tepat sepenuhnya, produk reduksi yang mungkin adalah\nA. $MO_2^+$\nB. $M^{2+}$\nC. $M^{3+}$\nD. M",
+        "target_scores": {
+            "A. $MO_2^+$": 0,
+            "B. $M^{2+}$": 1,
+            "C. $M^{3+}$": 0,
+            "D. M": 0
+        }
+    },
+    {
+        "input": "Lithium Imide ($Li_2NH$) adalah bahan penyimpan hidrogen padat dengan kapasitas hidrogen tinggi dan keamanan yang baik. Prinsip penyimpanan hidrogennya dapat direpresentasikan sebagai$Li_2NH + H_2 \\rightleftharpoons LiNH_2 + LiH$. Pernyataan yang benar di antara yang berikut adalah\nA. Dalam reaksi ini, $H_2$ bertindak sebagai oksidator dan reduktor.\nB. Jari-jari ionik $Li^＋$ dan $H^＋$ adalah sama.\nC. Keadaan oksidasi nitrogen dalam $Li_2NH$ adalah -1.\nD. Prinsip penyimpanan hidrogen dari metode ini sama dengan prinsip penyimpanan hidrogen pada tabung baja.",
+        "target_scores": {
+            "A. Dalam reaksi ini, $H_2$ bertindak sebagai oksidator dan reduktor.": 1,
+            "B. Jari-jari ionik $Li^＋$ dan $H^＋$ adalah sama.": 0,
+            "C. Keadaan oksidasi nitrogen dalam $Li_2NH$ adalah -1.": 0,
+            "D. Prinsip penyimpanan hidrogen dari metode ini sama dengan prinsip penyimpanan hidrogen pada tabung baja.": 0
+        }
+    },
+    {
+        "input": "Ketika seng bereaksi dengan asam nitrat encer dalam rasio molar 2:5, dan produk reduksi asam nitrat adalah $N_2O$, tanpa seng yang tersisa setelah reaksi, rasio jumlah asam nitrat yang direduksi dengan jumlah yang tidak direduksi dalam reaksi adalah\nA. 1: 4\nB. 1: 5\nC. 2: 3\nD. 2: 5",
+        "target_scores": {
+            "A. 1: 4": 1,
+            "B. 1: 5": 0,
+            "C. 2: 3": 0,
+            "D. 2: 5": 0
+        }
+    },
+    {
+        "input": "Nomor atom unsur-unsur periode pendek X, Y, Z, dan W meningkat secara berturut-turut, dan jumlah elektron pada kulit terluar adalah 13. Jari-jari atom X lebih kecil daripada Y, X dan W termasuk dalam golongan utama yang sama, dan Z adalah unsur dengan kandungan tertinggi di kerak bumi. Pernyataan yang benar di antara yang berikut adalah\nA. Senyawa yang hanya mengandung unsur-unsur X, Y, dan Z dapat berupa senyawa ionik atau kovalen.\nB. Stabilitas termal hidrida gas sederhana unsur Y lebih kuat daripada Z.\nC. Struktur lapisan elektronik ion-ion sederhana unsur Z dan W berbeda.\nD. Urutan jari-jari atom adalah: r(Y)>r(Z)>r(W).",
+        "target_scores": {
+            "A. Senyawa yang hanya mengandung unsur-unsur X, Y, dan Z dapat berupa senyawa ionik atau kovalen.": 1,
+            "B. Stabilitas termal hidrida gas sederhana unsur Y lebih kuat daripada Z.": 0,
+            "C. Struktur lapisan elektronik ion-ion sederhana unsur Z dan W berbeda.": 0,
+            "D. Urutan jari-jari atom adalah: r(Y)>r(Z)>r(W).": 0
+        }
+    },
+    {
+        "input": "Nomor atom unsur-unsur golongan utama periode pendek W, X, Y, dan Z meningkat secara berturut-turut. Rasio nomor elektron terluar atom W dan X adalah 4:3, dan atom A memiliki 4 elektron valensi lebih banyak daripada atom X. Pernyataan yang benar di antara pernyataan berikut adalah (   )\nA. Konfigurasi spasial molekul yang dibentuk oleh Y dan Z mungkin merupakan tetrahedron beraturan.\nB. Pada molekul WY₂, rasio jumlah ikatan δ terhadap ikatan π adalah 2:1.\nC. Urutan elektronegativitas untuk W, Y, dan Z haruslah Z > Y > W.\nD. Urutan jari-jari atom yang mungkin untuk W, X, Y, dan Z adalah W > X > Y > Z.",
+        "target_scores": {
+            "A. Konfigurasi spasial molekul yang dibentuk oleh Y dan Z mungkin merupakan tetrahedron beraturan.": 1,
+            "B. Pada molekul WY₂, rasio jumlah ikatan δ terhadap ikatan π adalah 2:1.": 0,
+            "C. Urutan elektronegativitas untuk W, Y, dan Z haruslah Z > Y > W.": 0,
+            "D. Urutan jari-jari atom yang mungkin untuk W, X, Y, dan Z adalah W > X > Y > Z.": 0
+        }
+    },
+    {
+        "input": "Perubahan yang diperlukan untuk mengatasi jenis gaya yang sama adalah\nA. Pelarutan hidrogen klorida dan kalium klorida.\nB. Pencairan silikon dan $C_60$.\nC. Penguapan bromin dan merkuri.\nD. Sublimasi yodium dan es kering.",
+        "target_scores": {
+            "A. Pelarutan hidrogen klorida dan kalium klorida.": 0,
+            "B. Pencairan silikon dan $C_60$.": 0,
+            "C. Penguapan bromin dan merkuri.": 0,
+            "D. Sublimasi yodium dan es kering.": 1
+        }
+    },
+    {
+        "input": "Unsur X, Y, Z, dan W merupakan unsur periode pendek. Kulit elektron terluar unsur X belum mencapai struktur stabil 8 elektron. Bentuk unsurnya diperoleh secara industri dengan memisahkan udara cair. Kulit elektron terluar unsur Y memiliki jumlah elektron s dan p yang sama. Kation valensi +2 unsur Z memiliki konfigurasi elektron yang sama dengan atom neon. Kulit M unsur W memiliki satu elektron p yang tidak berpasangan. Pernyataan berikut tentang sifat-sifat unsur-unsur ini sudah pasti benar\nA. Bentuk unsur Z dapat bereaksi dengan bentuk unsur X dalam kondisi tertentu.\nB. Jari-jari ion unsur Z lebih besar daripada jari-jari ion unsur W.\nC. Kristal oksida unsur Y yang bervalensi paling tinggi memiliki titik leleh dan titik didih yang sangat tinggi.\nD. Larutan berair hidrida unsur X bersifat basa.",
+        "target_scores": {
+            "A. Bentuk unsur Z dapat bereaksi dengan bentuk unsur X dalam kondisi tertentu.": 1,
+            "B. Jari-jari ion unsur Z lebih besar daripada jari-jari ion unsur W.": 0,
+            "C. Kristal oksida unsur Y yang bervalensi paling tinggi memiliki titik leleh dan titik didih yang sangat tinggi.": 0,
+            "D. Larutan berair hidrida unsur X bersifat basa.": 0
+        }
+    },
+    {
+        "input": "Nomor atom unsur periode pendek W, X, Y, dan Z meningkat secara berurutan. Ion-ion sederhana yang dapat mengganggu keseimbangan ionisasi air adalah\nA. $W^{2-}$ dan $X^+$\nB. $X^+$ dan $Y^{3+}$\nC. $X^+$ dan $Z^{2-}$\nD. $Y^{3+}$ dan $Z^{2-}$",
+        "target_scores": {
+            "A. $W^{2-}$ dan $X^+$": 0,
+            "B. $X^+$ dan $Y^{3+}$": 0,
+            "C. $X^+$ dan $Z^{2-}$": 0,
+            "D. $Y^{3+}$ dan $Z^{2-}$": 1
+        }
+    },
+    {
+        "input": "Diketahui 33As dan 35Br berada dalam periode yang sama. Manakah hubungan berikut yang benar?\nA. Daya reduksi: $As^{3-} > S^{2-} > Cl^-$\nB. Jari-jari atom: $As > Cl > P$\nC. Keasaman: $H_3AsO_4 > H_2SO_4 > H_3PO_4$\nD. Stabilitas termal: $HCl > AsH_3 > HBr$",
+        "target_scores": {
+            "A. Daya reduksi: $As^{3-} > S^{2-} > Cl^-$": 1,
+            "B. Jari-jari atom: $As > Cl > P$": 0,
+            "C. Keasaman: $H_3AsO_4 > H_2SO_4 > H_3PO_4$": 0,
+            "D. Stabilitas termal: $HCl > AsH_3 > HBr$": 0
+        }
+    },
+    {
+        "input": "Nomor atom unsur periode pendek W, X, Y, dan Z meningkat secara berurutan. Jumlah elektron luar inti ion negatif W sama dengan jumlah elektron kulit dalam atom X, Y, dan Z. Isotop X tertentu sering digunakan dalam arkeologi untuk menentukan usia beberapa peninggalan budaya. Secara industri, unsur Y dalam bentuk bebas diproduksi dengan distilasi fraksional udara cair, dan Z tidak dapat membentuk molekul diatomik. Berdasarkan uraian di atas, pernyataan yang benar di antara berikut ini adalah\nA. Jumlah elektron terluar dari atom W, X, Y, dan Z adalah 20.\nB. Titik didih senyawa yang terdiri dari W dan X selalu lebih rendah daripada senyawa yang terdiri dari W dan Y.\nC. Urutan jari-jari atom untuk keempat unsur tersebut adalah W < X < Y < Z.\nD. W dan Y dapat membentuk senyawa yang mengandung ikatan kovalen polar dan ikatan kovalen nonpolar.",
+        "target_scores": {
+            "A. Jumlah elektron terluar dari atom W, X, Y, dan Z adalah 20.": 0,
+            "B. Titik didih senyawa yang terdiri dari W dan X selalu lebih rendah daripada senyawa yang terdiri dari W dan Y.": 0,
+            "C. Urutan jari-jari atom untuk keempat unsur tersebut adalah W < X < Y < Z.": 0,
+            "D. W dan Y dapat membentuk senyawa yang mengandung ikatan kovalen polar dan ikatan kovalen nonpolar.": 1
+        }
+    },
+    {
+        "input": "Untuk reaksi $X(g) + Y(g) \\rightarrow 2Z(g)$；$\\Delta H＜0$, ketika kesetimbangan tercapai, pernyataan yang benar di antara yang berikut adalah\nA. Menambahkan katalis akan meningkatkan hasil Z.\nB. Mengurangi volume wadah akan menggeser kesetimbangan ke kanan.\nC. Meningkatkan konsentrasi X (c(X)) akan meningkatkan tingkat konversi X.\nD. Menurunkan suhu akan meningkatkan tingkat konversi Y.",
+        "target_scores": {
+            "A. Menambahkan katalis akan meningkatkan hasil Z.": 0,
+            "B. Mengurangi volume wadah akan menggeser kesetimbangan ke kanan.": 0,
+            "C. Meningkatkan konsentrasi X (c(X)) akan meningkatkan tingkat konversi X.": 0,
+            "D. Menurunkan suhu akan meningkatkan tingkat konversi Y.": 1
+        }
+    },
+    {
+        "input": "Pada suhu kamar, untuk 0,10 mol·L−1 larutan amonia, pernyataan yang benar di antara yang berikut adalah (    )\nA. Larutan memiliki$pH=13$.\nB. Persamaan ionik untuk reaksi dengan larutan AlCl3 adalah $Al^{3+} + 3OH^- \\rightarrow Al(OH)_3 \\downarrow$.\nC. Setelah netralisasi lengkap dengan larutan $HNO_3$, larutan tersebut tidak netral.\nD. Setelah pengenceran dengan air, produk $c(NH_4^+)c(OH^-)$ dalam larutan meningkat.",
+        "target_scores": {
+            "A. Larutan memiliki$pH=13$.": 0,
+            "B. Persamaan ionik untuk reaksi dengan larutan AlCl3 adalah $Al^{3+} + 3OH^- \\rightarrow Al(OH)_3 \\downarrow$.": 0,
+            "C. Setelah netralisasi lengkap dengan larutan $HNO_3$, larutan tersebut tidak netral.": 1,
+            "D. Setelah pengenceran dengan air, produk $c(NH_4^+)c(OH^-)$ dalam larutan meningkat.": 0
+        }
+    },
+    {
+        "input": "Air superkritis pada suhu di atas 374°C dan tekanan di atas 22,1 MPa memiliki kemampuan yang kuat untuk melarutkan senyawa organik dan mengandung konsentrasi $H^+$ dan $OH^-$ yang lebih tinggi. Dari sini, dapat disimpulkan bahwa air superkritis\nA. Bersifat asam, dengan pH<7.\nB. Bersifat netral, dengan pH=7.\nC. Menunjukkan karakteristik pelarut nonpolar.\nD. Menunjukkan karakteristik pelarut polar.",
+        "target_scores": {
+            "A. Bersifat asam, dengan pH<7.": 0,
+            "B. Bersifat netral, dengan pH=7.": 0,
+            "C. Menunjukkan karakteristik pelarut nonpolar.": 1,
+            "D. Menunjukkan karakteristik pelarut polar.": 0
+        }
+    },
+    {
+        "input": "Suatu tempat kaya akan garam batu (komponen utamanya adalah $NaCl$, dan juga mengandung ion pengotor terlarut lainnya seperti $SO_4^{2-}$). Pernyataan yang benar di antara yang berikut adalah\nA. Larutan fenolftalein dapat digunakan untuk membedakan antara air garam jenuh dan larutan soda jenuh.\nB. Pada suhu kamar, kelarutan $AgCl$ dalam air lebih kecil daripada kelarutannya dalam air garam.\nC. Secara industri, logam natrium dan gas klorin diproduksi melalui elektrolisis larutan natrium klorida.\nD. Untuk menghasilkan garam dapur dari garam batu dan menghilangkan $SO_4^{2-}$, reagen yang paling cocok adalah $Ba(NO_3)_2$.",
+        "target_scores": {
+            "A. Larutan fenolftalein dapat digunakan untuk membedakan antara air garam jenuh dan larutan soda jenuh.": 1,
+            "B. Pada suhu kamar, kelarutan $AgCl$ dalam air lebih kecil daripada kelarutannya dalam air garam.": 0,
+            "C. Secara industri, logam natrium dan gas klorin diproduksi melalui elektrolisis larutan natrium klorida.": 0,
+            "D. Untuk menghasilkan garam dapur dari garam batu dan menghilangkan $SO_4^{2-}$, reagen yang paling cocok adalah $Ba(NO_3)_2$.": 0
+        }
+    },
+    {
+        "input": "Komposisi umum penyerap oksigen dalam kemasan kue kering meliputi bubuk besi pereduksi, natrium klorida, dan bubuk karbon, dan prinsip penyerapan oksigennya sama dengan korosi penyerapan oksigen pada baja. Analisis yang benar di antara yang berikut adalah\nA. Penyerap oksigen yang mengandung 1,12 g bubuk besi secara teoritis dapat menyerap hingga 336 mL oksigen (dalam kondisi standar).\nB. Proses penyerapan oksigen merupakan reaksi endotermik, yang dapat menurunkan suhu dan memperpanjang masa simpan kue.\nC. Selama proses penyerapan oksigen, besi bertindak sebagai elektroda positif sel galvanik, dengan reaksi elektroda: $Fe - 3e^- \\rightarrow Fe^{3+}$.\nD. Selama proses penyerapan oksigen, karbon bertindak sebagai elektroda negatif sel galvanik, dengan reaksi elektroda: $2H_2O + O_2 + 4e^- \\rightarrow 4OH^-$",
+        "target_scores": {
+            "A. Penyerap oksigen yang mengandung 1,12 g bubuk besi secara teoritis dapat menyerap hingga 336 mL oksigen (dalam kondisi standar).": 1,
+            "B. Proses penyerapan oksigen merupakan reaksi endotermik, yang dapat menurunkan suhu dan memperpanjang masa simpan kue.": 0,
+            "C. Selama proses penyerapan oksigen, besi bertindak sebagai elektroda positif sel galvanik, dengan reaksi elektroda: $Fe - 3e^- \\rightarrow Fe^{3+}$.": 0,
+            "D. Selama proses penyerapan oksigen, karbon bertindak sebagai elektroda negatif sel galvanik, dengan reaksi elektroda: $2H_2O + O_2 + 4e^- \\rightarrow 4OH^-$": 0
+        }
+    },
+    {
+        "input": "Di antara tindakan pencegahan korosi logam berikut, tindakan yang menggunakan proteksi katodik dengan arus eksternal adalah\nA. Film polimer yang disemprotkan untuk sasis mobil\nB. Gerbang baja di dalam air dihubungkan ke terminal negatif sumber daya.\nC. Permukaan pagar logam dicat.\nD. Pipa baja bawah tanah dihubungkan ke blok magnesium.",
+        "target_scores": {
+            "A. Film polimer yang disemprotkan untuk sasis mobil": 0,
+            "B. Gerbang baja di dalam air dihubungkan ke terminal negatif sumber daya.": 1,
+            "C. Permukaan pagar logam dicat.": 0,
+            "D. Pipa baja bawah tanah dihubungkan ke blok magnesium.": 0
+        }
+    },
+    {
+        "input": "Di antara keadaan berikut yang terkait dengan atom O, yang memerlukan energi paling sedikit untuk kehilangan satu elektron adalah (    ).\nA. $1s^2 2s^2 2p^2$\nB. $1s^2 2s^2 2p^3 3s^1$\nC. $1s^2 2s^2 2p^3$\nD. $1s^2 2s^2 2p^4$",
+        "target_scores": {
+            "A. $1s^2 2s^2 2p^2$": 0,
+            "B. $1s^2 2s^2 2p^3 3s^1$": 1,
+            "C. $1s^2 2s^2 2p^3$": 0,
+            "D. $1s^2 2s^2 2p^4$": 0
+        }
+    },
+    {
+        "input": "Selama percobaan dengan lilin oleh Yuna, pernyataan yang salah di antara yang berikut adalah\nA. Bagian batang korek api yang bersentuhan dengan api luar berubah menjadi hitam terlebih dahulu.\nB. Ketika sepotong kecil lilin dimasukkan ke dalam air, lilin tersebut mengapung di permukaan, yang menunjukkan bahwa lilin tersebut tidak larut dalam air dan memiliki massa jenis yang lebih rendah daripada air.\nC. Nyala lilin terbagi menjadi tiga lapisan.\nD. Setelah lilin padam, terbentuk gumpalan asap putih, yang terdiri dari uap air.",
+        "target_scores": {
+            "A. Bagian batang korek api yang bersentuhan dengan api luar berubah menjadi hitam terlebih dahulu.": 0,
+            "B. Ketika sepotong kecil lilin dimasukkan ke dalam air, lilin tersebut mengapung di permukaan, yang menunjukkan bahwa lilin tersebut tidak larut dalam air dan memiliki massa jenis yang lebih rendah daripada air.": 0,
+            "C. Nyala lilin terbagi menjadi tiga lapisan.": 0,
+            "D. Setelah lilin padam, terbentuk gumpalan asap putih, yang terdiri dari uap air.": 1
+        }
+    },
+    {
+        "input": "Di antara zat-zat berikut, yang menghasilkan percikan api saat dibakar dalam oksigen adalah\nA. Arang\nB. Fosfor merah\nC. Kawat besi\nD. Serbuk belerang",
+        "target_scores": {
+            "A. Arang": 0,
+            "B. Fosfor merah": 0,
+            "C. Kawat besi": 1,
+            "D. Serbuk belerang": 0
+        }
+    },
+    {
+        "input": "Di antara kelompok zat berikut, yang disusun menurut urutan unsur, senyawa, dan campuran adalah\nA. C₆₀, Fe₃O₄, batu kapur\nB. Gas alam, batu bara, minyak bumi\nC. Gas hidrogen, es kering, campuran es dan air\nD. Oksigen cair, udara bersih, hidrogen klorida",
+        "target_scores": {
+            "A. C₆₀, Fe₃O₄, batu kapur": 1,
+            "B. Gas alam, batu bara, minyak bumi": 0,
+            "C. Gas hidrogen, es kering, campuran es dan air": 0,
+            "D. Oksigen cair, udara bersih, hidrogen klorida": 0
+        }
+    },
+    {
+        "input": "Pernyataan yang benar tentang sukrosa (rumus kimia $C_{12}H_{22}O_{11}$) adalah\nA. Fraksi massa oksigen dalam sukrosa adalah yang terkecil.\nB. Massa molekul relatif adalah $（12+1+16）$.\nC. Perbandingan atom hidrogen terhadap oksigen dalam sukrosa adalah 2:1.\nD. Sukrosa mengandung 45 unsur yang berbeda.",
+        "target_scores": {
+            "A. Fraksi massa oksigen dalam sukrosa adalah yang terkecil.": 0,
+            "B. Massa molekul relatif adalah $（12+1+16）$.": 0,
+            "C. Perbandingan atom hidrogen terhadap oksigen dalam sukrosa adalah 2:1.": 1,
+            "D. Sukrosa mengandung 45 unsur yang berbeda.": 0
+        }
+    },
+    {
+        "input": "Nikotin ($\\text{C}_{10}\\text{H}_{14}\\text{N}_2$) terkandung dalam asap hasil pembakaran rokok. Pernyataan yang benar di antara pernyataan berikut adalah\nA. Massa molekul relatif nikotin adalah 162.\nB. Molekul nikotin mengandung molekul nitrogen.\nC. Molekul nikotin terdiri dari tiga unsur: karbon, hidrogen, dan oksigen.\nD. Perbandingan atom karbon terhadap atom hidrogen dalam molekul nikotin adalah 5:7.",
+        "target_scores": {
+            "A. Massa molekul relatif nikotin adalah 162.": 0,
+            "B. Molekul nikotin mengandung molekul nitrogen.": 0,
+            "C. Molekul nikotin terdiri dari tiga unsur: karbon, hidrogen, dan oksigen.": 0,
+            "D. Perbandingan atom karbon terhadap atom hidrogen dalam molekul nikotin adalah 5:7.": 1
+        }
+    },
+    {
+        "input": "Suatu zat murni tertentu, jika terbakar sempurna dalam oksigen, hanya akan menghasilkan karbon dioksida dan air. Dapat disimpulkan bahwa zat murni tersebut\nA. Hanya mengandung unsur karbon dan hidrogen, dan tidak mengandung unsur oksigen.\nB. Pasti mengandung unsur karbon dan hidrogen, dan mungkin mengandung unsur oksigen.\nC. Pasti mengandung unsur karbon, hidrogen, dan oksigen.\nD. Tidak dapat ditentukan.",
+        "target_scores": {
+            "A. Hanya mengandung unsur karbon dan hidrogen, dan tidak mengandung unsur oksigen.": 0,
+            "B. Pasti mengandung unsur karbon dan hidrogen, dan mungkin mengandung unsur oksigen.": 1,
+            "C. Pasti mengandung unsur karbon, hidrogen, dan oksigen.": 0,
+            "D. Tidak dapat ditentukan.": 0
+        }
+    },
+    {
+        "input": "Pernyataan yang salah di antara pernyataan berikut adalah\nA. 3,2 g sulfur bereaksi dengan 3,2 g oksigen menghasilkan 6,4 g sulfur dioksida.\nB. Massa total zat yang terlibat dalam reaksi kimia sama dengan massa total zat yang dihasilkan setelah reaksi.\nC. Saat magnesium terbakar di udara, massa produk tersebut lebih kecil daripada massa magnesium.\nD. Setelah kalium klorat terurai melalui pemanasan, massa kalium klorida yang dihasilkan lebih kecil daripada massa kalium klorat.",
+        "target_scores": {
+            "A. 3,2 g sulfur bereaksi dengan 3,2 g oksigen menghasilkan 6,4 g sulfur dioksida.": 0,
+            "B. Massa total zat yang terlibat dalam reaksi kimia sama dengan massa total zat yang dihasilkan setelah reaksi.": 0,
+            "C. Saat magnesium terbakar di udara, massa produk tersebut lebih kecil daripada massa magnesium.": 1,
+            "D. Setelah kalium klorat terurai melalui pemanasan, massa kalium klorida yang dihasilkan lebih kecil daripada massa kalium klorat.": 0
+        }
+    },
+    {
+        "input": "Pernyataan yang benar di antara pernyataan berikut tentang karbon dan oksidanya adalah\nA. Dalam kondisi tertentu, karbon monoksida dan karbon dioksida dapat diubah menjadi satu sama lain.\nB. Karbon dioksida dapat mengubah bunga kering yang diwarnai dengan larutan lakmus ungu menjadi merah.\nC. Karbon monoksida dan karbon dioksida memiliki sifat yang sangat berbeda karena susunan atomnya yang berbeda.\nD. Karbon mudah terbakar, dan arang terbakar di udara hanya akan menghasilkan  karbon dioksida.",
+        "target_scores": {
+            "A. Dalam kondisi tertentu, karbon monoksida dan karbon dioksida dapat diubah menjadi satu sama lain.": 1,
+            "B. Karbon dioksida dapat mengubah bunga kering yang diwarnai dengan larutan lakmus ungu menjadi merah.": 0,
+            "C. Karbon monoksida dan karbon dioksida memiliki sifat yang sangat berbeda karena susunan atomnya yang berbeda.": 0,
+            "D. Karbon mudah terbakar, dan arang terbakar di udara hanya akan menghasilkan  karbon dioksida.": 0
+        }
+    },
+    {
+        "input": "Pernyataan yang salah di antara pernyataan berikut tentang percobaan kimia adalah\nA. Saat melakukan percobaan pembakaran kawat besi dalam $O_2$, sejumlah kecil air atau pasir halus harus dimasukkan ke dalam botol penampung gas terlebih dahulu.\nB. Saat melakukan simulasi peleburan besi di laboratorium, dimungkinkan untuk memanaskan terlebih dahulu dan kemudian memasukkan gas $CO$.\nC. Saat memproduksi $H_2$ dengan mereaksikan logam aktif dengan asam, peralatan pembangkit yang sama seperti yang digunakan untuk $CO_2$ dapat digunakan.\nD. Saat memproduksi $O_2$ dengan kalium permanganat, mulut tabung reaksi harus sedikit dimiringkan ke bawah.",
+        "target_scores": {
+            "A. Saat melakukan percobaan pembakaran kawat besi dalam $O_2$, sejumlah kecil air atau pasir halus harus dimasukkan ke dalam botol penampung gas terlebih dahulu.": 0,
+            "B. Saat melakukan simulasi peleburan besi di laboratorium, dimungkinkan untuk memanaskan terlebih dahulu dan kemudian memasukkan gas $CO$.": 1,
+            "C. Saat memproduksi $H_2$ dengan mereaksikan logam aktif dengan asam, peralatan pembangkit yang sama seperti yang digunakan untuk $CO_2$ dapat digunakan.": 0,
+            "D. Saat memproduksi $O_2$ dengan kalium permanganat, mulut tabung reaksi harus sedikit dimiringkan ke bawah.": 0
+        }
+    },
+    {
+        "input": "Seorang siswa ingin menyiapkan 50 g larutan natrium klorida dengan fraksi massa zat terlarut sebesar 15%. Pernyataan yang benar di antara pernyataan berikut adalah\nA. Peralatan gelas yang digunakan dalam percobaan tersebut meliputi gelas kimia, batang gelas, gelas ukur, dan corong.\nB. Saat mengukur air, gelas ukur dengan kapasitas 50 mL dapat digunakan.\nC. Saat mengukur air, jika pembacaan diambil dari atas, fraksi massa zat terlarut dalam larutan yang disiapkan akan lebih rendah dari yang dimaksudkan.\nD. Saat menimbang, jika jarum timbangan menyimpang ke kiri, beban harus ditambahkan ke piring sebelah kanan atau penggeser harus disesuaikan hingga timbangan seimbang.",
+        "target_scores": {
+            "A. Peralatan gelas yang digunakan dalam percobaan tersebut meliputi gelas kimia, batang gelas, gelas ukur, dan corong.": 0,
+            "B. Saat mengukur air, gelas ukur dengan kapasitas 50 mL dapat digunakan.": 1,
+            "C. Saat mengukur air, jika pembacaan diambil dari atas, fraksi massa zat terlarut dalam larutan yang disiapkan akan lebih rendah dari yang dimaksudkan.": 0,
+            "D. Saat menimbang, jika jarum timbangan menyimpang ke kiri, beban harus ditambahkan ke piring sebelah kanan atau penggeser harus disesuaikan hingga timbangan seimbang.": 0
+        }
+    },
+    {
+        "input": "Pernyataan yang benar di antara pernyataan berikut tentang larutan adalah\nA. Bila 5 gram zat tertentu ditambahkan ke dalam 95 gram air, persentase massa zat terlarut dalam larutan yang dihasilkan pastilah 5%.\nB. Larutan jenuh harus mengandung lebih banyak zat terlarut daripada larutan tak jenuh.\nC. Saat larutan tak jenuh menjadi jenuh, persentase massa zat terlarut dalam larutan harus meningkat.\nD. Setelah larutan jenuh dari zat tertentu didinginkan hingga terjadi pengendapan kristal, massa zat terlarut dalam larutan yang dihasilkan harus berkurang.",
+        "target_scores": {
+            "A. Bila 5 gram zat tertentu ditambahkan ke dalam 95 gram air, persentase massa zat terlarut dalam larutan yang dihasilkan pastilah 5%.": 0,
+            "B. Larutan jenuh harus mengandung lebih banyak zat terlarut daripada larutan tak jenuh.": 0,
+            "C. Saat larutan tak jenuh menjadi jenuh, persentase massa zat terlarut dalam larutan harus meningkat.": 0,
+            "D. Setelah larutan jenuh dari zat tertentu didinginkan hingga terjadi pengendapan kristal, massa zat terlarut dalam larutan yang dihasilkan harus berkurang.": 1
+        }
+    },
+    {
+        "input": "Dalam percobaan laboratorium untuk memproduksi oksigen menggunakan kalium permanganat, kelompok alat yang tidak diperlukan adalah\nA. Botol penampung gas, lampu spiritus\nB. Gelas kimia, batang kaca\nC. Tabung penghantar, sumbat satu lubang\nD. Tabung reaksi besar, dudukan besi",
+        "target_scores": {
+            "A. Botol penampung gas, lampu spiritus": 0,
+            "B. Gelas kimia, batang kaca": 1,
+            "C. Tabung penghantar, sumbat satu lubang": 0,
+            "D. Tabung reaksi besar, dudukan besi": 0
+        }
+    },
+    {
+        "input": "Urutan langkah yang benar sangat penting untuk keberhasilan percobaan. Pernyataan yang salah mengenai urutan \"pertama\" dan \"kemudian\" adalah\nA. Ketika menguji gula pereduksi dalam sari buah pir menggunakan reagen Fehling, pertama-tama campurkan sari buah pir dengan larutan suspensi tembaga hidroksida, kemudian panaskan hingga menghasilkan endapan merah bata.\nB. Saat menguji pengaruh pH pada amilase saliva, dalam tabung reaksi yang berisi pasta pati, saliva ditambahkan pertama, kemudian asam klorida encer.\nC. Saat menguji produk pembakaran metana, produk tersebut pertama dilewatkan melalui tembaga sulfat anhidrat dan kemudian melalui air kapur.\nD. Saat mengumpulkan oksigen yang dihasilkan dengan memanaskan kalium permanganat menggunakan metode perpindahan air, tabung penghubung pertama dikeluarkan dari air kemudian lampu spiritus dipadamkan.",
+        "target_scores": {
+            "A. Ketika menguji gula pereduksi dalam sari buah pir menggunakan reagen Fehling, pertama-tama campurkan sari buah pir dengan larutan suspensi tembaga hidroksida, kemudian panaskan hingga menghasilkan endapan merah bata.": 0,
+            "B. Saat menguji pengaruh pH pada amilase saliva, dalam tabung reaksi yang berisi pasta pati, saliva ditambahkan pertama, kemudian asam klorida encer.": 1,
+            "C. Saat menguji produk pembakaran metana, produk tersebut pertama dilewatkan melalui tembaga sulfat anhidrat dan kemudian melalui air kapur.": 0,
+            "D. Saat mengumpulkan oksigen yang dihasilkan dengan memanaskan kalium permanganat menggunakan metode perpindahan air, tabung penghubung pertama dikeluarkan dari air kemudian lampu spiritus dipadamkan.": 0
+        }
+    },
+    {
+        "input": "Mika mengamati daun-daun yang menguning dan batang tanaman yang lemah dan mudah rebah di lahan pertanian miliknya. Manakah pupuk di bawah ini yang harus ia gunakan?\nA. $CO(NH_2)_2$\nB. $Ca_3(PO_4)_2$\nC. $KNO_3$\nD. $K_2CO_3$",
+        "target_scores": {
+            "A. $CO(NH_2)_2$": 0,
+            "B. $Ca_3(PO_4)_2$": 0,
+            "C. $KNO_3$": 1,
+            "D. $K_2CO_3$": 0
+        }
+    },
+    {
+        "input": "Zat-zat berikut tidak dapat digunakan untuk membedakan antara larutan natrium hidroksida dan asam klorida encer adalah\nA. Kertas pH\nB. Larutan lakmus ungu\nC. Larutan natrium klorida\nD. Serbuk seng",
+        "target_scores": {
+            "A. Kertas pH": 0,
+            "B. Larutan lakmus ungu": 0,
+            "C. Larutan natrium klorida": 1,
+            "D. Serbuk seng": 0
+        }
+    },
+    {
+        "input": "Di antara perubahan-perubahan berikut, ada satu perubahan yang secara hakiki berbeda dari tiga perubahan lainnya. Perubahan ini adalah\nA. Massa asam klorida pekat berkurang ketika dibiarkan terbuka di udara.\nB. Massa paku besi meningkat ketika dibiarkan di udara lembab untuk waktu yang lama.\nC. Patung marmer terkorosi oleh hujan asam.\nD. Suhu air meningkat ketika kalsium oksida dimasukkan ke dalamnya.",
+        "target_scores": {
+            "A. Massa asam klorida pekat berkurang ketika dibiarkan terbuka di udara.": 1,
+            "B. Massa paku besi meningkat ketika dibiarkan di udara lembab untuk waktu yang lama.": 0,
+            "C. Patung marmer terkorosi oleh hujan asam.": 0,
+            "D. Suhu air meningkat ketika kalsium oksida dimasukkan ke dalamnya.": 0
+        }
+    },
+    {
+        "input": "$ClSO_3H$ disebut asam klorosulfonat, yang merupakan asam kuat. Untuk reaksi: $ClSO_3H + HCOOH \\rightarrow CO + HCl + H_2SO_4$, penilaian berikut dibuat, di antaranya yang masuk akal adalah (    ).\nA. Keadaan oksidasi karbon berubah dalam reaksi ini.\nB. Reaksi ini diklasifikasikan sebagai reaksi perpindahan ganda.\nC. pH larutan meningkat setelah reaksi.\nD. pH larutan menurun setelah reaksi.",
+        "target_scores": {
+            "A. Keadaan oksidasi karbon berubah dalam reaksi ini.": 0,
+            "B. Reaksi ini diklasifikasikan sebagai reaksi perpindahan ganda.": 0,
+            "C. pH larutan meningkat setelah reaksi.": 0,
+            "D. pH larutan menurun setelah reaksi.": 1
+        }
+    },
+    {
+        "input": "Setelah sejumlah arang dibakar dalam wadah tertutup yang berisi campuran gas nitrogen dan oksigen, akan terbentuk $CO$ dan $CO_2$. Diketahui bahwa fraksi massa karbon dalam campuran gas $CO$, $CO_2$, $N_2$ yang dihasilkan adalah 24%. Fraksi massa gas nitrogen kemungkinan adalah (   ).\nA. 10%\nB. 30%\nC. 50%\nD. 70%",
+        "target_scores": {
+            "A. 10%": 0,
+            "B. 30%": 1,
+            "C. 50%": 0,
+            "D. 70%": 0
+        }
+    },
+    {
+        "input": "Gelas kimia diisi dengan larutan asam asetat dengan konsentrasi tertentu (dengan massa jenis sekitar 1 g/cm³). Setelah larutan dituang seluruhnya, 0,5 mL larutan masih tersisa di dalam gelas kimia. Gelas kimia dibilas dengan 20 mL air suling sebanyak dua kali. Pada titik ini, konsentrasi larutan asam asetat yang tersisa di dalam gelas kimia kira-kira (    ) dari konsentrasi semula.\nA. 1/1681\nB. 1/81\nC. 1/820\nD. Tidak dapat ditentukan",
+        "target_scores": {
+            "A. 1/1681": 1,
+            "B. 1/81": 0,
+            "C. 1/820": 0,
+            "D. Tidak dapat ditentukan": 0
+        }
+    },
+    {
+        "input": "Praktik-praktik berikut yang dapat menyebabkan meledaknya tabung reaksi adalah (   )\n① Memanaskan tabung reaksi dengan api luar lampu alkohol;\n② Dinding luar tabung reaksi tidak dikeringkan sebelum dipanaskan;\n③ Bagian bawah tabung reaksi menyentuh sumbu selama pemanasan;\n④ Volume cairan yang dipanaskan melebihi sepertiga kapasitas tabung reaksi;\n⑤ Cairan dalam tabung reaksi dipanaskan secara langsung tanpa pemanasan awal.\nA. ①③⑤\nB. ②③⑤\nC. ②④\nD. ③④⑤",
+        "target_scores": {
+            "A. ①③⑤": 0,
+            "B. ②③⑤": 1,
+            "C. ②④": 0,
+            "D. ③④⑤": 0
+        }
+    },
+    {
+        "input": "Ketika telur dimasukkan ke dalam cuka putih, banyak gelembung terbentuk di cangkang telur. Apakah gas yang dihasilkan adalah karbon dioksida? Mika menyarankan bahwa air kapur bening dapat digunakan untuk mengujinya. Langkah ini termasuk dalam tahap-tahap penyelidikan ilmiah berikut\nA. Komunikasi dan evaluasi\nB. Menarik kesimpulan\nC. Merancang eksperimen\nD. Merumuskan hipotesis",
+        "target_scores": {
+            "A. Komunikasi dan evaluasi": 0,
+            "B. Menarik kesimpulan": 0,
+            "C. Merancang eksperimen": 1,
+            "D. Merumuskan hipotesis": 0
+        }
+    },
+    {
+        "input": "Seorang siswa mengukur volume cairan menggunakan gelas ukur. Gelas ukur diletakkan di permukaan datar, dan siswa tersebut menghadap skala. Pertama-tama, ia membaca titik terendah meniskus pada ketinggian mata, yaitu 19 mL. Setelah menuangkan sebagian cairan, ia membaca volume dari atas, yaitu 10 mL. Volume cairan sebenarnya yang dituangkan siswa tersebut adalah\nA. Kurang dari 9 mL\nB. Lebih dari 9 mL\nC. Sama dengan 9 mL\nD. Tidak dapat ditentukan",
+        "target_scores": {
+            "A. Kurang dari 9 mL": 0,
+            "B. Lebih dari 9 mL": 1,
+            "C. Sama dengan 9 mL": 0,
+            "D. Tidak dapat ditentukan": 0
+        }
+    },
+    {
+        "input": "Ketika seorang siswa mengukur volume cairan menggunakan gelas ukur, gelas ukur tersebut diletakkan dengan mantap di bangku laboratorium. Siswa tersebut membaca titik terendah meniskus pada ketinggian mata, yaitu 20 mL. Setelah menuangkan sebagian cairan, siswa tersebut membaca titik terendah meniskus dengan melihat ke atas, yaitu 15 mL. Volume cairan sebenarnya yang dituangkan siswa tersebut adalah (    ).\nA. Pasti kurang dari 5 mL\nB. Pasti lebih besar dari 5 mL\nC. Pasti sama dengan 5 mL\nD. Semua mungkin terjadi",
+        "target_scores": {
+            "A. Pasti kurang dari 5 mL": 1,
+            "B. Pasti lebih besar dari 5 mL": 0,
+            "C. Pasti sama dengan 5 mL": 0,
+            "D. Semua mungkin terjadi": 0
+        }
+    },
+    {
+        "input": "Di antara proses-proses berikut, yang melibatkan perubahan kimia adalah (    )\nA. Air membeku.\nB. Garam diperoleh dari air laut melalui penguapan.\nC. Makanan membusuk dan basi.\nD. Oksigen diproduksi dengan memisahkan udara cair.",
+        "target_scores": {
+            "A. Air membeku.": 0,
+            "B. Garam diperoleh dari air laut melalui penguapan.": 0,
+            "C. Makanan membusuk dan basi.": 1,
+            "D. Oksigen diproduksi dengan memisahkan udara cair.": 0
+        }
+    },
+    {
+        "input": "Di antara penggunaan zat-zat berikut, yang memanfaatkan sifat kimianya adalah\nA. Emas digunakan untuk membuat perhiasan.\nB. Nitrogen cair digunakan untuk mengawetkan darah.\nC. Oksigen digunakan untuk keadaan darurat medis.\nD. Tembaga digunakan untuk membuat kabel listrik.",
+        "target_scores": {
+            "A. Emas digunakan untuk membuat perhiasan.": 0,
+            "B. Nitrogen cair digunakan untuk mengawetkan darah.": 0,
+            "C. Oksigen digunakan untuk keadaan darurat medis.": 1,
+            "D. Tembaga digunakan untuk membuat kabel listrik.": 0
+        }
+    },
+    {
+        "input": "Di antara perubahan-perubahan kelompok zat berikut, yang mana yang pertama merupakan perubahan kimia dan yang kedua merupakan perubahan fisika adalah\nA. Alkohol menguap; fosfor putih terbakar spontan.\nB. Besi berkarat; es kering menyublim.\nC. Es mencair menjadi air; bubuk mesiu meledak.\nD. Sulfur terbakar; air mengalami elektrolisis.",
+        "target_scores": {
+            "A. Alkohol menguap; fosfor putih terbakar spontan.": 0,
+            "B. Besi berkarat; es kering menyublim.": 1,
+            "C. Es mencair menjadi air; bubuk mesiu meledak.": 0,
+            "D. Sulfur terbakar; air mengalami elektrolisis.": 0
+        }
+    },
+    {
+        "input": "Di antara peralatan dapur berikut, yang bahan utamanya tergolong bahan sintetis adalah\nA. Bak plastik\nB. Pisau baja tahan karat\nC. Sendok keramik\nD. Talenan kayu",
+        "target_scores": {
+            "A. Bak plastik": 1,
+            "B. Pisau baja tahan karat": 0,
+            "C. Sendok keramik": 0,
+            "D. Talenan kayu": 0
+        }
+    },
+    {
+        "input": "Di antara bahan-bahan yang digunakan pada benda-benda berikut, yang tidak termasuk bahan polimer sintetis organik adalah\nA. Bola basket\nB. Gelas air plastik\nC. Kaos katun murni\nD. Tali nilon",
+        "target_scores": {
+            "A. Bola basket": 0,
+            "B. Gelas air plastik": 0,
+            "C. Kaos katun murni": 1,
+            "D. Tali nilon": 0
+        }
+    },
+    {
+        "input": "Asupan seng yang tidak mencukupi dalam tubuh manusia dapat menyebabkan berbagai penyakit. Orang dengan defisiensi seng dapat menambah asupan seng dengan mengonsumsi larutan oral seng glukonat ($C_{12}H_{22}O_{14}Zn$) di bawah bimbingan dokter. Pernyataan yang salah tentang seng glukonat adalah (    )\nA. Massa molekul relatifnya adalah 450.\nB. Perbandingan jumlah atom karbon, hidrogen, oksigen, dan seng adalah 12:22:14:1.\nC. Senyawa ini tersusun atas karbon, hidrogen, oksigen, dan seng.\nD. Zn tergolong sebagai elemen jejak.",
+        "target_scores": {
+            "A. Massa molekul relatifnya adalah 450.": 1,
+            "B. Perbandingan jumlah atom karbon, hidrogen, oksigen, dan seng adalah 12:22:14:1.": 0,
+            "C. Senyawa ini tersusun atas karbon, hidrogen, oksigen, dan seng.": 0,
+            "D. Zn tergolong sebagai elemen jejak.": 0
+        }
+    }
+]

@@ -1,0 +1,350 @@
+[
+    {
+        "input": "[Round 0]\nUSER : Combien de kilomètres avez-vous parcourus en deux sections, l’une de 5 kilomètres et l’autre de 8 kilomètres ? Veuillez répondre avec des chiffres arabes uniquement.\nASSISTANT : 13\n[Round 1]\nUSER : Combien de kilomètres parcourez-vous pour 10 kilomètres supplémentaires ? Veuillez répondre avec des chiffres arabes uniquement.\nASSISTANT: ",
+        "target": "23"
+    },
+    {
+        "input": "[Round 0]\nUSER : Trois œufs de 50 grammes et quatre œufs de 100 grammes pèsent combien de grammes au total ? Veuillez répondre avec des chiffres arabes uniquement.\nASSISTANT : 550\n[Round 1]\nUSER : Si vous mangiez deux œufs de 50 grammes, combien de grammes resteraient ? Veuillez répondre avec des chiffres arabes uniquement.\nASSISTANT :",
+        "target": "450"
+    },
+    {
+        "input": "[Round 0]\nUSER : Si vous versez 1 millilitre d’une quantité de 4 millilitres d’eau, combien reste-t-il en millilitres ? Écrivez uniquement le nombre en lettres sans unité.\nASSISTANT : Trois\n[Round 1]\nUSER : Si vous ajoutiez ensuite 12 millilitres, combien de millilitres resteraient ? Écrivez uniquement le nombre en lettres sans unité.\nASSISTANT :",
+        "target": "Quinze"
+    },
+    {
+        "input": "[Round 0]\nUSER : Si une personne doit boire trois bouteilles d'eau par jour, combien de bouteilles boira-t-elle en deux jours ? Veuillez répondre avec des chiffres romains uniquement, sans autres contenus.\nASSISTANT : VI\n[Round 1]\nUSER : Combien de bouteilles boira-t-elle en quatre jours ? Veuillez répondre avec des chiffres romains uniquement, sans autres contenus.\nASSISTANT :\n",
+        "target": "XII"
+    },
+    {
+        "input": "[Round 0]\nUSER : Deux cartons d'une épaisseur de 1 centimètre chacun, superposés, ont une épaisseur totale de combien de centimètres ? Veuillez répondre avec des chiffres romains uniquement, sans unité.\nASSISTANT : II\n[Round 1]\nUSER : Si vous ajoutez cinq autres cartons de la même épaisseur, quelle est l'épaisseur totale en centimètres ? Veuillez répondre avec des chiffres romains uniquement, sans unité.\nASSISTANT : ",
+        "target": "VII"
+    },
+    {
+        "input": "[Round 0]\nUSER : Un rectangle de 6 centimètres de longueur et 4 centimètres de largeur a un périmètre de combien de centimètres ? Veuillez répondre avec les nombres écrits en lettres uniquement, sans unité.\nASSISTANT : Vingt\n[Round 1]\nUSER : Quelle est l'aire de ce rectangle en centimètres carrés ? Veuillez répondre avec les nombres écrits en lettres uniquement, sans unité.\nASSISTANT : ",
+        "target": "Vingt-quatre"
+    },
+    {
+        "input": "[Round 0]\nUSER : Un carré a une aire de 64 centimètres carrés, quelle est la longueur de son côté en centimètres ? Écrivez uniquement le nombre en lettres sans unité.\nASSISTANT : Huit\n[Round 1]\nUSER : Quelle est la partie entière de la longueur de la diagonale de ce carré ? Écrivez uniquement le nombre en lettres sans unité.\nASSISTANT :",
+        "target": "Onze"
+    },
+    {
+        "input": "[Round 0]\nUSER : Une piscine circulaire a un rayon de 5 mètres. Calculez l'aire de la piscine en mètres carrés. Écrivez uniquement la valeur, en utilisant la forme décimale. (π=3,14)\nASSISTANT : 78,5\n[Round 1]\nUSER : Calculez ensuite la circonférence en mètres. Écrivez uniquement la valeur, en utilisant la forme décimale. (π=3,14)\nASSISTANT : ",
+        "target": "31,4"
+    },
+    {
+        "input": "[Round 0]\nUSER : Un triangle isocèle a une base de 10 centimètres et une hauteur de 8 centimètres. Quelle est son aire en centimètres carrés ? Écrivez uniquement la valeur, en utilisant la forme décimale, arrondie à une décimale.\nASSISTANT : 40,0\n[Round 1]\nUSER : Quelle est la longueur des côtés égaux en centimètres ? Écrivez uniquement la valeur, en utilisant la forme décimale, arrondie à une décimale.\nASSISTANT :",
+        "target": "9,4"
+    },
+    {
+        "input": "[Round 0]\nUSER : Le premier jour, c'est 100, et l'augmentation quotidienne fixe est de 5. Combien sera-t-il au 7ème jour ? Répondez uniquement avec les nombres écrits en lettres.\nASSISTANT : Cent trente\n[Round 1]\nUSER : Si cela augmente jusqu'à 140, quel jour est-ce ? Veuillez répondre avec des chiffres romains.\nASSISTANT :",
+        "target": "IX"
+    },
+    {
+        "input": "[Round 0]\nUSER : Si vous répartissez cinq oiseaux A, B, C, D, E dans deux cages identiques, et qu'il n'est pas permis d'avoir de cage vide, combien de méthodes de répartition existe-t-il ? Écrivez uniquement la valeur. Veuillez répondre avec les nombres écrits en lettres uniquement\nASSISTANT : Quinze\n[Round 1]\nUSER : Si c'est trois cages identiques, et qu'il n'est pas permis d'avoir de cage vide, combien de méthodes de répartition existe-t-il ? Écrivez uniquement la valeur en toutes lettres.\nASSISTANT :",
+        "target": "Vingt-cinq"
+    },
+    {
+        "input": "[Round 0]\nUSER : Une feuille de papier de 20 centimètres de longueur et 10 centimètres de largeur est coupée en carré. Quelle est la longueur maximale du côté du carré ? Répondez uniquement avec les nombres écrits en lettres, sans autres contenus.\nASSISTANT : Dix\n[Round 1]\nUSER : Quelle est l'aire de ce carré en centimètres carrés ? Répondez uniquement avec les nombres écrits en lettres, sans autres contenus.\nASSISTANT :",
+        "target": "Cent"
+    },
+    {
+        "input": "[Round 0]\nUSER : Une voiture parcourt à une vitesse de 60 kilomètres par heure, combien de kilomètres a-t-elle parcourus après 2 heures ? Répondez uniquement avec les nombres écrits en lettres, sans unité.\nASSISTANT : Cent vingt\n[Round 1]\nUSER : Combien de kilomètres a-t-elle parcourus au total après 5 heures de plus ? Répondez uniquement avec les nombres écrits en lettres, sans unité.\nASSISTANT :",
+        "target": "Quatre cent vingt"
+    },
+    {
+        "input": "[Round 0]\nUSER : Chaque étage a 8 marches, combien de marches faut-il monter pour aller du 1er étage au 10ème étage ? Écrivez uniquement la valeur, en utilisant des chiffres arabes.\nASSISTANT : 72\n[Round 1]\nUSER : Si cette personne s'arrête au 8ème étage, combien de marches a-t-elle montées au total ? Écrivez uniquement la valeur, en utilisant des chiffres arabes.",
+        "target": "56"
+    },
+    {
+        "input": "[Round 0]\nUSER : Une boîte de chocolat contient 5 sortes de chocolats, et chaque sorte a 4 morceaux, combien de morceaux de chocolat y a-t-il en tout ? Écrivez uniquement la valeur, en utilisant des chiffres romains.\nASSISTANT : XX\n[Round 1]\nUSER : Si 2 sortes de chocolats sont mangées, combien de morceaux restent ? Écrivez uniquement la valeur, en utilisant des chiffres romains.\nASSISTANT :",
+        "target": "XII"
+    },
+    {
+        "input": "[Round 0]\nUSER : Un cinéma a 12 rangées de sièges, et chaque rangée a 20 sièges, combien de sièges y a-t-il en tout ? Répondez uniquement avec les nombres écrits en lettres, sans unité.\nASSISTANT : Deux cent quarante\n[Round 1]\nUSER : Sachant qu'une séance de cinéma a été suivie par 63 personnes, combien de sièges vides restent après que les spectateurs soient assis ? Répondez uniquement avec les nombres écrits en lettres, sans unité.\nASSISTANT :",
+        "target": "Cent soixante-dix-sept"
+    },
+    {
+        "input": "[Round 0]\nUSER : Un film a une durée de 2 heures 30 minutes, combien de minutes cela représente-t-il ? Répondez uniquement avec les nombres écrits en lettres, sans unité.\nASSISTANT : Cent cinquante\n[Round 1]\nUSER : Si 80 minutes ont déjà été regardées, combien de minutes restent ? Répondez uniquement avec les nombres écrits en lettres, sans unité.\nASSISTANT :",
+        "target": "Soixante-dix"
+    },
+    {
+        "input": "[Round 0]\nUSER : Un nombre multiplié par 8 donne 16, quel est ce nombre ? Répondez uniquement avec des chiffres romains, sans autres contenus.\nASSISTANT : II\n[Round 1]\nUSER : Multipliez ensuite cette valeur par 5, quel est le résultat ? Répondez uniquement avec des chiffres romains, sans autres contenus.\nASSISTANT : X\n[Round 2]\nUSER : Retirez ensuite 2, quel est le résultat ? Répondez uniquement avec des chiffres romains, sans autres contenus.\nASSISTANT :",
+        "target": "VIII"
+    },
+    {
+        "input": "[Round 0]\nUSER : Dans un panier, il y a 5 oranges, et dans un autre panier, il y a 7 oranges, combien d'oranges y a-t-il en tout dans les deux paniers ? Écrivez uniquement la valeur, en utilisant des chiffres romains, sans unité.\nASSISTANT : XII\n[Round 1]\nUSER : Si vous prenez 3 oranges du panier qui en a le plus, combien d'oranges restent dans ce panier ? Écrivez uniquement la valeur, en utilisant des chiffres romains, sans unité.\nASSISTANT : IV\n[Round 2]\nUSER : Ensuite, si vous rassemblez les oranges des deux paniers, combien d'oranges y a-t-il en tout ? Écrivez uniquement la valeur, en utilisant des chiffres romains, sans unité.\nASSISTANT :",
+        "target": "IX"
+    },
+    {
+        "input": "[Round 0]\nUTILISATEUR : Dans un verre de 88,8 grammes, si vous ajoutez 213,67 grammes d'eau, quel est le poids total du verre ? Répondez uniquement avec la forme décimale, arrondie à une décimale, sans unité.\nASSISTANT : 302,5\n[Round 1]\nUTILISATEUR : Si vous buvez ensuite 20,583 grammes d'eau, quel est le poids total restant ? Répondez uniquement avec la forme décimale, arrondie à une décimale, sans unité.\nASSISTANT : 281,9\n[Round 2]\nUTILISATEUR : Si vous renversez accidentellement 10,4 grammes d'eau, quel est le poids total restant ? Répondez uniquement avec la forme décimale, arrondie à une décimale, sans unité.\nASSISTANT :",
+        "target": "271,5"
+    },
+    {
+        "input": "[Round 0]\nUSER : Dans une pièce à 30 degrés Celsius et 95% d'humidité, si la température augmente de 1 degré Celsius, l'humidité diminue de 5%. Si l'humidité diminue à 75%, quelle est la température de la pièce en degrés Celsius ? Répondez uniquement avec des chiffres arabes, sans autres contenus.\nASSISTANT : 34\n[Round 1]\nUSER : Si la température de la pièce augmente de 30 degrés Celsius à 35 degrés Celsius, quelle est l'humidité ? Répondez uniquement avec des chiffres arabes, sous forme de pourcentage.\nASSISTANT : 70%\n[Round 2]\nUSER : Si l'humidité diminue de 95% à 50%, quelle est la température de la pièce en degrés Celsius ? Répondez uniquement avec des chiffres arabes, sans autres contenus.\nASSISTANT :",
+        "target": "39"
+    },
+    {
+        "input": "[Round 0]\nUSER : Si une personne prend trois comprimés le premier jour, et que chaque comprimé pèse 0,1 gramme, quel est le poids total des médicaments pris par cette personne en un jour ? Écrivez uniquement la valeur, sans unité, en utilisant la forme décimale.\nASSISTANT : 0,3\n[Round 1]\nUSER : Comme les symptômes s'améliorent, cette personne peut prendre un comprimé de moins le deuxième jour, quel est le poids total des médicaments pris ce jour-là ? Écrivez uniquement la valeur, sans unité, en utilisant la forme décimale.\nASSISTANT : 0,2\n[Round 2]\nUSER : Quel est le poids total des médicaments pris sur les deux jours ? Écrivez uniquement la valeur, sans unité, en utilisant la forme décimale.\nASSISTANT :",
+        "target": "0,5"
+    },
+    {
+        "input": "[Round 0]\nUSER : Un laboratoire a un échantillon à 273 degrés Celsius. Convertissez 273 degrés Celsius en degrés Fahrenheit. Donnez la réponse en chiffres arabes, avec le symbole d'unité, arrondi à une décimale, sans autres explications.\nASSISTANT : 523,4°F\n[Round 1]\nUSER : Le deuxième jour, on constate que la température de l'échantillon a augmenté de 10 degrés Celsius. Convertissez cette température en degrés Fahrenheit. Donnez la réponse en chiffres arabes, avec le symbole d'unité, arrondi à une décimale, sans autres explications.\nASSISTANT : 541,4°F\n[Round 2]\nUSER : Divisez la température en degrés Fahrenheit du deuxième jour par 5. Quel est le résultat en degrés Fahrenheit ? Donnez la réponse en chiffres arabes, avec le symbole d'unité, arrondi à une décimale, sans autres explications.\nASSISTANT :",
+        "target": "108,3°F"
+    },
+    {
+        "input": "[Round 0]\nUSER : D'après une suite numérique, un nombre se double chaque jour. Au 10ème jour, il atteint 1024. Calculez la valeur de ce nombre au 5ème jour.  Répondez uniquement avec les nombres écrits en lettres.\nASSISTANT : Trente-deux\n[Round 1]\nUSER : Quelle est alors la valeur au 7ème jour ? Répondez uniquement avec les nombres écrits en lettres.\nASSISTANT : Cent vingt-huit\n[Round 2]\nUSER : Calculez alors la valeur initiale de cette suite. Répondez uniquement avec les nombres écrits en lettres.\nASSISTANT :",
+        "target": "Deux"
+    },
+    {
+        "input": "[Round 0]\nUSER : Supposons qu'un volume de pièce soit de 150 000 centimètres cubes, et que vous souhaitiez augmenter ce volume de 50 000 centimètres cubes. Calculez le volume de la pièce après l'augmentation en centimètres cubes. Répondez uniquement avec les nombres écrits en lettres, sans autres contenus.\nASSISTANT :\nDeux cent mille\n[Round 1]\nUSER : Si vous réduisez ensuite le volume augmenté de 20 000 centimètres cubes, combien reste-t-il en centimètres cubes ? Répondez uniquement avec les nombres écrits en lettres, sans autres contenus.\nASSISTANT :\nCent quatre-vingt mille\n[Round 2]\nUSER : Enfin, si vous réduisez le volume restant de moitié, quel est le volume final en centimètres cubes ? Répondez uniquement avec les nombres écrits en lettres, sans autres contenus.\nASSISTANT :",
+        "target": "Quatre-vingt-dix mille"
+    },
+    {
+        "input": "[Round 0]\nUSER : Un triangle rectangle a ses deux côtés adjacents à l'angle droit de 3 centimètres et 4 centimètres. Quelle est la longueur de l'hypoténuse en centimètres ? Répondez uniquement avec des chiffres romains, sans unité.\nASSISTANT : V\n[Round 1]\nUSER : Quelle est alors l'aire de ce triangle en centimètres carrés ? Répondez uniquement avec des chiffres romains, sans unité.\nASSISTANT : VI\n[Round 2]\nUSER : Quelle est la hauteur perpendiculaire à l'hypoténuse ? Donnez la valeur sous forme de fraction, en fraction impropre, sans unité.\nASSISTANT :",
+        "target": "12/5"
+    },
+    {
+        "input": "[Round 0]\nUSER : Paul a deux pommes identiques, il en coupe une en quatre parts égales et en mange une part. Combien de pommes Paul a-t-il encore ? Donnez la valeur sous forme de fraction, en fraction impropre, sans unité.\nASSISTANT : 7/4\n[Round 1]\nUSER : Peu après, il mange deux parts de plus. Combien de pommes Paul a-t-il encore ? Donnez la valeur sous forme de fraction, en fraction impropre, sans unité.\nASSISTANT : 5/4\n[Round 2]\nUSER : Un peu plus tard, Paul donne la pomme entière à un camarade. Combien de pommes Paul a-t-il encore ? Donnez la valeur sous forme de fraction, sans unité.\nASSISTANT :",
+        "target": "1/4"
+    },
+    {
+        "input": "[Round 0]\nUSER : Une bibliothèque a 5 étages, et chaque étage peut contenir 12 livres. Combien de livres peut-elle contenir au total ? Écrivez uniquement la valeur en toutes lettres.\nASSISTANT : Soixante\n[Round 1]\nUSER : Si chaque étage ne peut contenir que 11 livres, combien de livres peut-elle contenir au total ? Écrivez uniquement la valeur en toutes lettres.\nASSISTANT : Cinquante-cinq\n[Round 2]\nUSER : Si un des étages est cassé et ne peut contenir de livres, combien de livres peut-elle contenir au total si chaque étage ne peut contenir que 10 livres ? Écrivez uniquement la valeur en toutes lettres.\nASSISTANT :",
+        "target": "Quarante"
+    },
+    {
+        "input": "[Round 0]\nUSER : Une usine produit 800 produits par jour de manière fixe. Combien de produits devrait-elle produire en 30 jours ? Répondez uniquement avec les nombres écrits en lettres, sans unité.\nASSISTANT : Vingt-quatre mille\n[Round 1]\nUSER : Il s'avère qu'il y a 5 jours de repos dans les 30 jours, combien de produits a-t-elle réellement produit en 30 jours ? Répondez uniquement avec les nombres écrits en lettres, sans unité.\nASSISTANT :",
+        "target": "Vingt mille"
+    },
+    {
+        "input": "[Round 0]\nUSER : Une personne court à une vitesse de 200 mètres par minute, combien de mètres a-t-elle couru après 30 minutes ? Répondez uniquement avec les nombres écrits en lettres, sans unité.\nASSISTANT : Six mille\n[Round 1]\nUSER : S'il s'arrête pour se reposer pendant 2 minutes, combien de mètres a-t-il couru après 30 minutes ? Répondez uniquement avec les nombres écrits en lettres, sans unité.\nASSISTANT :",
+        "target": "Cinq mille six cents"
+    },
+    {
+        "input": "[Round 0]\nUSER : Une action a une hausse de 5%, et son prix initial est de 100 francs, quel est le prix actuel en francs ? Répondez uniquement en utilisant le code ISO du franc CFA de l’Afrique de l’Ouest et des chiffres arabes.\nASSISTANT : XOF 105\n[Round 1]\nUSER : Si elle augmente encore de 20%, quel est alors le prix actuel en francs ? Répondez uniquement en utilisant le code ISO du franc CFA de l’Afrique de l’Ouest et des chiffres arabes.\nASSISTANT : XOF 126\n[Round 2]\nUSER : Si elle augmente encore de 5%, quel est alors le prix actuel en francs ? Répondez uniquement en utilisant le code ISO du franc CFA de l’Afrique de l’Ouest et des chiffres arabes.\nASSISTANT :",
+        "target": "XOF 132.3"
+    },
+    {
+        "input": "[Round 0]\nUSER : Le premier jour, Paul a acheté 3 livres, chaque livre coûtant 15 euros, combien a-t-il dépensé au total ? Répondez uniquement avec le symbole de la monnaie correspondant et des chiffres arabes.\nASSISTANT : €45\n[Round 1]\nUSER : Le deuxième jour, il a acheté 2 stylos, chaque stylo coûtant 10 euros, combien a-t-il dépensé au total en deux jours ? Répondez uniquement avec le symbole de la monnaie correspondant et des chiffres arabes.\nASSISTANT : €65\n[Round 2]\nUSER : En achetant les stylos, il a également donné 5 euros de pourboire au vendeur. Combien a-t-il dépensé au total en deux jours ? Répondez uniquement avec le symbole de la monnaie correspondant et des chiffres arabes.\nASSISTANT :",
+        "target": "€70"
+    },
+    {
+        "input": "[Round 0]\nUSER : 3 à la puissance de 4 est égal à combien ? Donnez uniquement la valeur, écrite en lettres.\nASSISTANT : Quatre-vingt-un\n[Round 1]\nUSER : Sur la base de [Round 0], divisez par 2, quel est le résultat ? Répondez uniquement avec la valeur en forme décimale, arrondie à une décimale.\nASSISTANT : 40,5\n[Round 2]\nUSER : Sur la base de [Round 1], réduisez de moitié, quel est le résultat ? Donnez uniquement le nombre écrit en lettres, arrondie à l'entier le plus proche si la valeur est décimale.",
+        "target": "Vingt"
+    },
+    {
+        "input": "[Round 0]\nUSER : Un livre A a 300 pages, vous avez déjà lu 120 pages, combien de pages restent-elles à lire ? Répondez uniquement avec les nombres écrits en lettres, sans unité.\nASSISTANT : Cent quatre-vingts\n[Round 1]\nUSER : Si vous avez lu ensuite 20 pages du livre B après avoir fini le livre A, combien de pages avez-vous lu au total ? Répondez uniquement avec les nombres écrits en lettres, sans unité.\nASSISTANT : Trois cent vingt\n[Round 2]\nUSER : Si le livre B a également 300 pages, combien de pages restent-elles à lire ? Répondez uniquement avec les nombres écrits en lettres, sans unité.\nASSISTANT :",
+        "target": "Deux cent quatre-vingts"
+    },
+    {
+        "input": "[Round 0]\nUSER : Si une personne travaille 220 jours par an, et que son salaire annuel est de 3 000 000 francs, combien gagne-t-elle par jour ? Répondez uniquement en utilisant le code ISO du franc CFA de l’Afrique de l’Ouest et des chiffres arabes, arrondis à l'entier le plus proche si la valeur est décimale. Sans autres textes.\nASSISTANT : XOF 13 636\n[Round 1]\nUSER : Si le taux de change entre le franc et le dollar américain est de 600:1, combien gagne-t-elle par jour en dollars américains sur la base de [Round 0] ? Répondez uniquement avec le symbole de la monnaie américaine et des chiffres arabes, arrondis à l'entier le plus proche si la valeur est décimale. Sans autres textes.\nASSISTANT : $23\n[Round 2]\nUSER : Il s'avère que cette personne a également un emploi à temps partiel, dont le revenu annuel est de 500 dollars, combien est son revenu total en un an en francs sur la base de [Round 1] ? Répondez uniquement en utilisant le code ISO du franc CFA de l’Afrique de l’Ouest et des chiffres arabes, arrondis à l'entier le plus proche si la valeur est décimale. Sans autres textes.\nASSISTANT : XOF 3 300 000\n[Round 3]\nUSER : Enfin, convertissez son revenu total en dollars américains sur la base du taux de change donné précédemment. Répondez uniquement avec le symbole de la monnaie américaine et des chiffres arabes, arrondis à l'entier le plus proche si la valeur est décimale, sans autres textes.\nASSISTANT :",
+        "target": "$5 500"
+    },
+    {
+        "input": "[Round 0]\nUSER : Si une peinture a une largeur de 10 centimètres et une longueur de 15 centimètres, quel est le rapport entre la largeur et la longueur ? Répondez sous forme de fraction.\nASSISTANT : 2/3\n[Round 1]\nUSER : Quel est alors le rapport entre la longueur et la largeur ? Donnez le rapport sous forme de rapport, avec le signe « : », sans autres textes.\nASSISTANT : 3:2\n[Round 2]\nUSER : Si vous taillez la longueur et la largeur pour qu'elles soient de même longueur, combien de centimètres devez-vous tailler de la longueur ? Répondez uniquement avec des chiffres arabes, sans autres contenus.\nASSISTANT :",
+        "target": "5"
+    },
+    {
+        "input": "[Round 0]\nUSER : Une personne doit ingérer 2 000 calories par jour, Paul a ingéré 500 calories au petit-déjeuner, combien de calories doit-il encore ingérer ? Répondez uniquement avec les nombres écrits en lettres, uniquement la partie numérique.\nASSISTANT : Mille cinq cents\n[Round 1]\nUSER : Paul a ingéré 1 000 calories au déjeuner, combien de calories lui manquent encore ? Répondez uniquement avec les nombres écrits en lettres, uniquement la partie numérique.\nASSISTANT : Cinq cents\n[Round 2]\nUSER : Paul a ingéré 1 000 calories de plus en après-midi, combien de calories a-t-il dépassé ? Répondez uniquement avec les nombres écrits en lettres, uniquement la partie numérique.\nASSISTANT :\nCinq cents\n[Round 3]\nUSER : Si Paul prévoit de faire de l'exercice pour brûler les calories en excès, combien de séries doit-il faire si chaque série brûle 250 calories ? Répondez uniquement avec les nombres écrits en lettres, uniquement la partie numérique.\nASSISTANT :",
+        "target": "Deux"
+    },
+    {
+        "input": "[Round 0]\nUSER : Si vous enlevez 3 kilos de riz des 10, combien de kilogrammes restent ? Répondez uniquement avec les nombres écrits en lettres, sans unité.\nASSISTANT : Sept\n[Round 1]\nUSER : Ensuite, si vous versez deux tiers de ce qui reste, combien de kilogrammes restent ? Répondez uniquement avec les nombres écrits en lettres, arrondis à l'entier le plus proche si la valeur est décimale, sans unité.\nASSISTANT : Deux\n[Round 2]\nUSER : Ensuite, si vous versez un quart de ce qui reste, combien de kilogrammes restent ? Répondez uniquement avec les nombres écrits en lettres, sous forme décimale, sans unité.\nASSISTANT : Un virgule sept cinq\n[Round 3]\nUSER : Ensuite, si vous versez un quart de ce qui reste, combien de kilogrammes restent ? Répondez uniquement en chiffres arabes, sous forme de fraction, sans unité.\nASSISTANT :",
+        "target": "21/16"
+    },
+    {
+        "input": "[Round 0]\nUSER : Un réservoir d'essence a une capacité de 50 litres, et il a déjà 20 litres d'essence, combien de litres peut-il encore contenir ? Répondez uniquement avec des chiffres arabes, avec unité.\nASSISTANT：30 litres\n[Round 1]\nUSER : Après avoir rempli le réservoir et conduit pendant un certain temps, le véhicule a consommé 15 litres, combien de litres restent ? Répondez uniquement avec des chiffres arabes, avec unité.\nASSISTANT：35 litres\n[Round 2]\nUSER : Ensuite, après avoir conduit pendant un certain temps, il a consommé autant d'essence, combien de litres restent ? Répondez uniquement avec des chiffres arabes, avec unité.\nASSISTANT：20 litres\n[Round 3]\nUSER : À ce moment-là, combien de litres peut-on encore ajouter dans le réservoir ? Répondez uniquement avec des chiffres arabes, avec unité.\nASSISTANT：",
+        "target": "30 litres"
+    },
+    {
+        "input": "[Round 0]\nUSER : Un projet nécessite 20 jours pour être complété, 7 jours se sont déjà écoulés, combien de jours sont encore nécessaires pour le compléter ? Répondez uniquement avec les nombres écrits en lettres, sans unité et sans texte superflu.\nASSISTANT：Treize\n[Round 1]\nUSER : Il a été notifié que le projet doit être retardé de 5 jours, combien de jours sont encore nécessaires pour le compléter ? Répondez uniquement avec les nombres écrits en lettres, sans unité et sans texte superflu.\nASSISTANT：Dix-huit\n[Round 2]\nUSER : Finalement, le projet a été terminé 3 jours plus tôt que prévu, combien de jours ont été utilisés au total pour ce projet ? Répondez uniquement avec les nombres écrits en lettres, sans unité et sans texte superflu.\nASSISTANT：Vingt-deux\n[Round 3]\nUSER : Alors, en enlevant les 7 premiers jours, combien de jours ont été utilisés pour la suite du projet ? Répondez uniquement avec les nombres écrits en lettres, sans unité et sans texte superflu.\nASSISTANT：",
+        "target": "Quinze"
+    },
+    {
+        "input": "[Round 0]\nUSER : Il est maintenant midi et demi, combien de temps sera-t-il dans 3,5 heures ? Répondez au format « 00:00:00 », uniquement avec des chiffres arabes, sans texte superflu.\nASSISTANT：16:00:00\n[Round 1]\nUSER : Ensuite, après 2,2 heures de plus, combien de temps sera-t-il ? Répondez au format « 00:00:00 », uniquement avec des chiffres arabes, sans texte superflu.\nASSISTANT：18:12:00\n[Round 2]\nUSER : Ensuite, après 1,6 heure de plus, combien de temps sera-t-il ? Répondez au format « 00:00:00 », sans utiliser le format 24 heures et sans texte superflu.\nASSISTANT：07:48:00\n[Round 3]\nUSER : Ensuite, après 20 minutes de travail, combien de temps sera-t-il ? Répondez au format « 00:00:00 », sans utiliser le format 24 heures et sans texte superflu.\nASSISTANT：",
+        "target": "08:08:00"
+    },
+    {
+        "input": "[Round 0]\nUSER : La durée d'un film est de 150 minutes, combien de minutes restent après avoir regardé la moitié ? Répondez au format « x heures x minutes x secondes », uniquement avec des chiffres arabes.\nASSISTANT：1 heure 15 minutes 0 secondes\n[Round 1]\nUSER : Ensuite, après avoir regardé la moitié de ce qui reste, combien de minutes restent ? Répondez au format « x heures x minutes x secondes », uniquement avec des chiffres arabes.\nASSISTANT：0 heures 37 minutes 30 secondes\n[Round 2]\nUSER : Ensuite, après avoir regardé 8 minutes de plus, combien de minutes restent ? Répondez au format « x heures x minutes x secondes », uniquement avec des chiffres arabes.\nASSISTANT：0 heures 29 minutes 30 secondes\n[Round 3]\nUSER : Enfin, après avoir regardé la moitié de ce qui reste, combien de minutes restent ? Répondez au format « x heures x minutes x secondes », uniquement avec des chiffres arabes.\nASSISTANT：",
+        "target": "0 heures 14 minutes 45 secondes"
+    },
+    {
+        "input": "[Round 0]\nUSER : Si vous avez deux sacs de sel, chaque sac pesant 1 kilogramme, quel est le poids total du sel en kilogrammes ? Répondez uniquement avec des chiffres romains.\nASSISTANT：II\n[Round 1]\nUSER : Si votre mère achète trois sacs de sel de la même spécification, quel est alors le poids total du sel en kilogrammes ? Répondez uniquement avec des chiffres romains.\nASSISTANT：V\n[Round 2]\nUSER : Après un certain temps, un sac de sel a été consommé, quel est le poids total du sel restant en kilogrammes ? Répondez uniquement avec des chiffres romains.\nASSISTANT：IV\n[Round 3]\nUSER : Finalement, il s'est avéré que votre père a accidentellement mouillé un sac de sel, qui a dû être jeté, quel est le poids total du sel restant en kilogrammes ? Répondez uniquement avec des chiffres romains.\nASSISTANT：",
+        "target": "III"
+    },
+    {
+        "input": "[Round 0]\nUSER : Dans une classe de 50 élèves, si 45 élèves sont absents, combien d'élèves restent ? Répondez uniquement avec des chiffres romains.\nASSISTANT：V\n[Round 1]\nUSER : Parmi les élèves absents, 30 sont atteints de grippe, et les autres sont atteints de Covid-19, combien d'élèves sont atteints de Covid-19 ? Répondez uniquement avec des chiffres romains.\nASSISTANT：XV\n[Round 2]\nUSER : Une semaine plus tard, 15 élèves atteints de grippe se sont rétablis et sont retournés en classe, combien d'élèves y a-t-il dans la classe ? Répondez uniquement avec des chiffres romains.\nASSISTANT：XX\n[Round 3]\nUSER : Deux semaines plus tard, 5 élèves atteints de Covid-19 se sont également rétablis et sont retournés en classe, combien d'élèves y a-t-il maintenant dans la classe ? Répondez uniquement avec des chiffres romains.\nASSISTANT：",
+        "target": "XXV"
+    },
+    {
+        "input": "[Round 0]\nUSER : 140 millilitres de lait et 130 millilitres d'eau mélangés ensemble font combien de millilitres ? Répondez uniquement avec les nombres écrits en lettres.\nASSISTANT : Deux cent soixante-dix\n[Round 1]\nUSER : Ensuite, si on ajoute 25 millilitres de jus d'orange, combien de millilitres ont-ils en tout ? Répondez uniquement avec les nombres écrits en lettres.\nASSISTANT : Deux cent quatre-vingt-quinze\n[Round 2]\nUSER : Ensuite, si on verse la moitié du mélange, combien de millilitres restent ? Répondez uniquement avec les nombres écrits en lettres.\nASSISTANT : Cent quarante-sept virgule cinq\n[Round 3]\nUSER : Ensuite, si on verse trois cinquièmes de ce qui reste, combien de millilitres restent ? Répondez uniquement avec les nombres écrits en lettres.\nASSISTANT : ",
+        "target": "Cinquante-neuf"
+    },
+    {
+        "input": "[Round 0]\nUSER : Si une personne tombe d'une hauteur de 100 mètres avec un parachute, et qu'elle tombe en moyenne 5 mètres par seconde, combien de temps lui faut-il pour atteindre le sol ? Répondez uniquement avec des chiffres arabes, et ajoutez l'unité « secondes », sans autres textes.\nASSISTANT : 20 secondes\n[Round 1]\nUSER : En ignorant la première question, supposons qu'elle tombe à raison de 4 mètres par seconde, combien de temps lui faut-il pour atteindre le sol ? Répondez uniquement avec des chiffres arabes, et ajoutez l'unité « secondes », sans autres textes.\nASSISTANT : 25 secondes\n[Round 2]\nUSER : En ignorant les deux premières questions, supposons qu'elle tombe à raison de 6 mètres par seconde, combien de temps lui faut-il pour atteindre le sol ? Répondez uniquement avec des chiffres arabes, et ajoutez l'unité « secondes », arrondis à deux décimales, sans autres textes.\nASSISTANT : 16,67 secondes\n[Round 3]\nUSER : Alors, en tombant à raison de 5 mètres par seconde pour la moitié de la hauteur, puis à raison de 6 mètres par seconde pour le reste, combien de temps lui faut-il pour atteindre le sol ? Répondez uniquement avec des chiffres arabes, et ajoutez l'unité « secondes », arrondis à deux décimales, sans autres textes.\nASSISTANT : ",
+        "target": "18,33 secondes"
+    },
+    {
+        "input": "[Round 0]\nUSER : Une équipe de football a besoin de 11 personnes, il y en a déjà 7, combien de personnes sont encore nécessaires pour former une équipe de football ? Répondez uniquement avec des chiffres arabes, sans autres textes.\nASSISTANT : 4\n[Round 1]\nUSER : Une semaine plus tard, 8 joueurs de plus ont été recrutés, combien de personnes en trop y a-t-il ? Répondez uniquement avec des chiffres arabes, sans autres textes.\nASSISTANT : 4\n[Round 2]\nUSER : Deux semaines plus tard, 2 joueurs ont quitté, combien de personnes restent ? Répondez uniquement avec des chiffres arabes, sans autres textes.\nASSISTANT : 13\n[Round 3]\nUSER : Alors, à ce moment-là, combien de personnes de plus y a-t-il par rapport au nombre nécessaire pour une équipe de football ? Répondez uniquement avec des chiffres arabes, sans autres textes.\nASSISTANT :",
+        "target": "2"
+    },
+    {
+        "input": "[Round 0]\nUSER : Un carré a une diagonale de 10 centimètres, quel est son périmètre en centimètres ? Répondez uniquement avec des chiffres arabes et des symboles mathématiques, sans forme décimale et sans autres textes.\nASSISTANT : 20√2\n[Round 1]\nUSER : Quelle est alors sa longueur de côté en centimètres ? Répondez uniquement avec des chiffres arabes et des symboles mathématiques, sans forme décimale et sans autres textes.\nASSISTANT : 5√2\n[Round 2]\nUSER : Quelle est son aire en centimètres carrés ? Répondez uniquement avec des chiffres arabes, sans autres textes.\nASSISTANT : 50\n[Round 3]\nUSER : Quelle est la moitié de son périmètre en centimètres ? Répondez uniquement avec des chiffres arabes et des symboles mathématiques, sans forme décimale, et sans autres textes.\nASSISTANT :",
+        "target": "10√2"
+    },
+    {
+        "input": "[Round 0]\nUSER : Une personne doit boire 8 verres d'eau par jour, Paul dort 8 heures par jour, combien de verres d'eau doit-il boire en moyenne par heure ? Répondez uniquement avec des chiffres arabes, et ajoutez l'unité « verre », sans autres textes.\nASSISTANT : 0.5 verre\n[Round 1]\nUSER : Le lendemain, il remplace ses verres par des verres dont la capacité est la moitié de celle des verres précédents, mais la quantité totale d'eau reste la même, combien de verres doit-il boire par jour ? Répondez uniquement avec des chiffres arabes, et ajoutez l'unité « verre », sans autres textes.\nASSISTANT ：16 verres\n[Round 2]\nUSER : Alors, à ce moment-là, combien de verres doit-il boire en moyenne par heure ? Répondez uniquement avec des chiffres arabes, et ajoutez l'unité « verre », sans autres textes.\nASSISTANT : 1 verre\n[Round 3]\nUSER : S'il boit 2 verres par heure, combien d'heures plus tôt finira-t-il de boire ? Répondez uniquement avec des chiffres arabes, et ajoutez l'unité « heure », sans autres textes.\nASSISTANT :",
+        "target": "8 heures"
+    },
+    {
+        "input": "[Round 0]\nUSER : Si vous enlevez 10 millilitres d'eau de 30 litres d'eau, combien de litres restent ? Répondez uniquement avec des chiffres décimaux, et ajoutez l'unité « litre », sans autres textes.\nASSISTANT : 29,99 litres\n[Round 1]\nUSER : Alors, combien de litres avez-vous enlevés ? Répondez uniquement avec des chiffres décimaux, et ajoutez l'unité « litre », sans autres textes.\nASSISTANT : 0,01 litre\n[Round 2]\nUSER : Ensuite, si vous enlevez trois fois la quantité enlevés dans le [Round 0], combien de litres restent ? Répondez uniquement avec des chiffres décimaux, et ajoutez l'unité « litre », sans autres textes.\nASSISTANT : 29,96 litres\n[Round 3]\nUSER : Alors, combien de litres avez-vous enlevés au total ? Répondez uniquement avec des chiffres décimaux, et ajoutez l'unité « litre », sans autres textes.\nASSISTANT :",
+        "target": "0,04 litre"
+    },
+    {
+        "input": "[Round 0]\nUSER : Dans le système solaire, quelle planète est connue comme la « planète de l'enfer » en raison de ses hautes températures et de sa haute pression ? Veuillez donner directement la réponse, sans explication.\nASSISTANT : Vénus\n[Round 1]\nUSER : Alors, quelle est la position de Vénus en partant du Soleil ?  Veuillez indiquer uniquement le numéro ordinal en français, sans texte superflu.\nASSISTANT :  ",
+        "target": "deuxième"
+    },
+    {
+        "input": "[Round 0]\nUSER : Dans la série de romans « Harry Potter », quel est le volume où le personnage « Harry » est le plus âgé ? Veuillez répondre avec le nom français du roman.\nASSISTANT : « Harry Potter et les Reliques de la Mort »\n[Round 1]\nUSER : En quelle année ce roman a-t-il été publié ? Veuillez fournir uniquement le numéro d'année.\nASSISTANT : ",
+        "target": "2007"
+    },
+    {
+        "input": "[Round 0]\nUSER : « To be or not to be » est une célèbre réplique de quelle œuvre de Shakespeare ? Veuillez répondre avec le nom de l'œuvre entre guillemets.\nASSISTANT :« Hamlet »\n[Round 1]\nUSER : De quel pays vient le protagoniste? Veuillez répondre en anglais sans texte superflu.\nASSISTANT : ",
+        "target": "Denmark"
+    },
+    {
+        "input": "[Round 0]\nUSER : Quelle ville était la capitale de l'Empire romain ? Répondez avec le nom en anglais.\nASSISTANT : Rome\n[Round 1]\nUSER : Dans quel pays se trouve cette ville aujourd'hui ? Répondez avec le nom en anglais.\nASSISTANT :",
+        "target": "Italy"
+    },
+    {
+        "input": "[Round 0]\nUSER : Jusqu'en 2024, quelle équipe de la NBA a le plus de titres de vice-champion ? Veuillez donner le nom de l'équipe en français.\nASSISTANT : Les Lakers de Los Angeles\n[Round 1]\nUSER : Yao Ming a-t-il jamais joué pour cette équipe ? Répondez par « oui » ou « non ».\nASSISTANT :",
+        "target": "Non"
+    },
+    {
+        "input": "[Round 0]\nUSER : Quelle est la plateforme de shopping en ligne la plus utilisée sous Alibaba ? Veuillez donner uniquement le nom en français.\nASSISTANT : Taobao\n[Round 1]\nUSER : Qui est le fondateur de cette plateforme ? Veuillez donner uniquement le nom en français.\nASSISTANT :",
+        "target": "Jack Ma"
+    },
+    {
+        "input": "[Round 0]\nUSER : Luis Carlos Galán Sarmiento est un homme politique de quel pays ? Veuillez répondre avec le nom du pays en français.\nASSISTANT : Colombie\n[Round 1]\nUSER : Sur quel continent se trouve ce pays ? Veuillez répondre sans texte superflu.\nASSISTANT :",
+        "target": "Amérique du Sud"
+    },
+    {
+        "input": "[Round 0]\nUSER : Qu'est-ce que le GDP ? Veuillez répondre en anglais sans texte superflu.\nASSISTANT : Gross Domestic Product\n[Round 1]\nUSER : Qu'est-ce que c'est en français ? Veuillez répondre en français sans texte superflu.\nASSISTANT :",
+        "target": "Produit intérieur brut"
+    },
+    {
+        "input": "[Round 0]\nUSER : Quelle loi stipule que l'entropie augmente toujours dans un système complètement fermé ? Veuillez donner uniquement le nom de la loi.\nASSISTANT : Deuxième principe de la thermodynamique\n[Round 1]\nUSER : Comment est cette loi aussi surnomée ? Veuillez donner uniquement le nom du principe.\nASSISTANT :",
+        "target": "Principe d'entropie"
+    },
+    {
+        "input": "[Round 0]\nUSER : Quelle est la formule moléculaire de l'eau ? Veuillez donner uniquement la formule moléculaire.\nASSISTANT : H₂O\n[Round 1]\nUSER : Quelle est l'équation chimique de sa réaction avec le sodium métal ? Veuillez donner uniquement l'équation chimique.\nASSISTANT :",
+        "target": "2Na+2H₂O=2NaOH+H₂↑"
+    },
+    {
+        "input": "[Round 0]\nUSER : Entre le gel douche et le shampoing, lequel est utilisé pour laver les cheveux ? Veuillez donner uniquement la réponse correcte.\nASSISTANT : Shampooing\n[Round 1]\nUSER : Quel est le nom français de l'autre produit qui n'est pas utilisé pour laver les cheveux ? Veuillez donner uniquement la réponse en français.\nASSISTANT :",
+        "target": "Gel douche"
+    },
+    {
+        "input": "[Round 0]\nUSER : Que représente le « E » dans l'équation célèbre d'Einstein E=mc² ? Veuillez donner uniquement la signification en français.\nASSISTANT : L’énergie de l’objet\n[Round 1]\nUSER : Quelle est son unité de mesure en français ? Veuillez donner uniquement l'unité en français.\nASSISTANT :",
+        "target": "Joule"
+    },
+    {
+        "input": "[Round 0]\nUSER : Antoine de Saint-Exupéry a écrit une nouvelle qui fait partie de la littérature jeunesse. Il suffit de donner le titre du livre, avec le numéro du titre.\nASSISTANT : « Le Petit Prince »\n[Round 1]\nUSER : Dans ce livre, quel est le sexe du personnage principal ? Répondez en un mot (masculin/feminin), aucune description supplémentaire n'est nécessaire.\nASSISTANT：",
+        "target": "Masculin"
+    },
+    {
+        "input": "[Round 0]\nUSER : Dans quel musée la célèbre œuvre de Van Gogh « La Nuit étoilée » est-elle actuellement exposée ? Veuillez donner uniquement le nom du musée.\nASSISTANT :\nMuseum of Modern Art\n[Round 1]\nUSER : Quelles sont les initiales de ce musée ? Veuillez donner uniquement les lettres.\nASSISTANT :",
+        "target": "MoMA"
+    },
+    {
+        "input": "[Round 0]\nUSER : Quelle est la position du joueur principal en défense dans un match de football ? Veuillez donner uniquement le nom de la position, sans mots superflus.\nASSISTANT : Défenseur\n[Round 1]\nUSER : Combien de joueurs occupent cette position dans une formation 4-4-2 ? Veuillez répondre uniquement avec les nombres écrits en lettres.\nASSISTANT :",
+        "target": "Quatre"
+    },
+    {
+        "input": "[Round 0]\nUSER : Quelle est la plus grande ville des États-Unis ? Veuillez donner uniquement le nom de la ville en français, sans texte superflus.\nASSISTANT : New York\n[Round 1]\nUSER : Cette ville abrite une statue emblématique de la liberté, offerte par la France pour le centenaire de la fondation des États-Unis. Quelle est cette statue ? Veuillez donner uniquement le nom de la statue en français, sans texte superflus.\nASSISTANT : Statue de la Liberté\n[Round 2]\nUSER : En quelle année a-t-elle été inaugurée ? Veuillez répondre au format « jj-mm-aaaa » en français, sans texte superflus.\nASSISTANT :",
+        "target": "28-10-1886"
+    },
+    {
+        "input": "[Round 0]\nUSER : Dans quel pays Kim Jae-gyu est-il un politicien ? Veuillez répondre en français.\nASSISTANT : Corée du Sud\n[Round 2]\nUSER : Quel était son nom japonais ? Veuillez répondre par utiliser les caractères de l’alphabet latin.\nASSISTANT : Takagi Masao\n[Round 3]\nUSER : Il a été exécuté par le gouvernement dirigé par qui ? Quel était son nom en français ?\nASSISTANT : ",
+        "target": "최규하 Choi Kyu-hah"
+    },
+    {
+        "input": "[Round 0]\nUSER : Quel est le réalisateur des films « Pulp Fiction », « Reservoir Dogs » et « Kill Bill » ? Veuillez donner son nom en anglais.\nASSISTANT : Quentin Tarantino\n[Round 1]\nUSER : Quelle est sa nationalité ? Veuillez donner le nom du pays en français.\nASSISTANT : Les États-Unis\n[Round 2]\nUSER : Quelle est la langue principale de ce pays ? Veuillez donner le nom de la langue en français.\nASSISTANT : ",
+        "target": "Anglais"
+    },
+    {
+        "input": "[Round 0]\nUSER : La partie chorale du quatrième mouvement de « Symphonie n°9 » de Beethoven a pour paroles un poème célèbre. Veuillez donner le titre du poème en français, sans aucun symbole.\nASSISTANT : Ode à la joie \n[Round 1]\nUSER : Qui est l'auteur de ce poème ?\nASSISTANT : Johann Christoph Friedrich von Schiller\n[Round 2]\nUSER : En quelle année est-il né ? Répondez uniquement avec des chiffres arabes, sans unités et sans autres explications textuelles.\nASSISTANT :",
+        "target": "1759"
+    },
+    {
+        "input": "[Round 0]\nUSER :« Land der Berge, Land am Strom » est l’hymne national de quel pays ?? \nASSISTANT : Autriche\n[Round 1]\nUSER : Quelle est la capitale de ce pays ? Veuillez donner uniquement le nom de la ville.\nASSISTANT : Vienne\n[Round 2]\nUSER : Combien de districts cette ville comprend-elle ? Veuillez répondre uniquement avec le chiffre arabe, sans texte superflu.\nASSISTANT :",
+        "target": "23"
+    },
+    {
+        "input": "[Round 0]\nUSER : Quel est le tag HTML utilisé pour définir une liste non ordonnée ? Veuillez répondre sans texte superflu.\nASSISTANT : <ul>\n[Round 1]\nUSER : Ce tag comprend des initiales. Quel est le nom complet en anglais ? Veuillez répondre sans texte superflu.\nASSISTANT : Unordered List\n[Round 2]\nUSER : Quel est le tag qui représente « ordered list » ? Veuillez répondre sans texte superflu.\nASSISTANT :",
+        "target": "<ol>"
+    },
+    {
+        "input": "[Round 0]\nUSER : Quelles sont les notes des quatre cordes d'un violon ? Veuillez répondre avec les noms des cordes en majuscules sans saut de ligne.\nASSISTANT : E, A, D, G\n[Round 1]\nUSER : Quelle est la corde la plus grave ? Veuillez répondre uniquement avec le nom de la corde en majuscules.\nASSISTANT :",
+        "target": "G"
+    },
+    {
+        "input": "[Round 0]\nUSER : Quelle est la fête chrétienne commémorant la naissance de Jésus ? Veuillez donner uniquement le nom de la fête.\nASSISTANT : Noël\n[Round 1]\nUSER : Quelle est la date exacte de cette fête ? Veuillez répondre uniquement avec la date, sans texte superflu.\nASSISTANT : 25 décembre\n[Round 2]\nUSER : Quel est le personnage emblématique de cette fête ? Veuillez donner uniquement le nom du personnage, sans texte superflu.\nASSISTANT :",
+        "target": "Père Noël"
+    },
+    {
+        "input": "[Round 0]\nUSER : Hier était le 9 octobre 2023, quelle est la date d'aujourd'hui ? Veuillez répondre au même format sans texte superflu.\nASSISTANT : 10 octobre 2023\n[Round 1]\nUSER : En Chine, il y a une longue période de vacances dans ce mois. Quelle est la fête pour cette période ? Veuillez donner uniquement le nom de la fête.\nASSISTANT : Fête nationale\n[Round 2]\nUSER : Quelles sont les jours fériés légaux pour cette fête en 2024 ? Veuillez répondre au format « j, j, etc. » en utilisant des chiffres arabes sans informations supplémentaires.\nASSISTANT :",
+        "target": "1, 2, 3"
+    },
+    {
+        "input": "[Round 0]\nUSER : À 10 kilomètres à l'ouest-sud-ouest de la capitale égyptienne Le Caire, sur le plateau de Gizeh, il existe la plus grande pyramide d'Égypte encore en existence. Quelle est cette pyramide ? Veuillez donner uniquement le nom de la pyramide sans explication.\nASSISTANT : Pyramide de Khéops\n[Round 1]\nUSER : Quel est son nom en arabe ? Veuillez répondre sans texte superflu.\nASSISTANT : هرم خوفو\n[Round 2]\nUSER : De quelle dynastie égyptienne antique cette pyramide est-elle ? Veuillez répondre avec le nombre ordinal écrit en lettres en français uniquement, sans texte superflu.\nASSISTANT :",
+        "target": "Quatrième"
+    },
+    {
+        "input": "[Round 0]\nUSER : Lequel des trois hommes, Zhang Xueliang, George Washington et Albert Einstein, est né le plus tôt ? Donnez simplement le nom de la personne.\nASSISTANT : George Washington\n[Round 1]\nUSER : Quelle est l'année de naissance de cette personne ? Donnez simplement l'année, au format « L'année xx ».\nASSISTANT : L'année 1732\n[Round 2] \nUSER : Qui était le plus jeune de ces trois personnes, par ordre de naissance ? Donnez simplement les noms des personnes.\nASSISTANT : Zhang Xueliang\n[Round 3]\nUSER : En quelle année cette personne est-elle née ? Indiquez simplement l'année, au format « L'année xx ».\nASSISTANT :",
+        "target": "L'année 1901"
+    },
+    {
+        "input": "[Round 0]\nUSER : Parmi les mots « Innovation », « Tomorrow », « Freedom », « Kindness », « Future », lequel doit être classé en premier selon l'alphabet anglais ? Veuillez donner uniquement le mot en anglais sans texte superflu.\nASSISTANT : Freedom\n[Round 1]\nUSER : Lequel doit être classé troisième ? Veuillez donner uniquement le mot en anglais sans texte superflu.\nASSISTANT : Innovation\n[Round 2]\nUSER : Lequel doit être classé dernier ? Veuillez donner uniquement le mot en anglais sans texte superflu.\nASSISTANT : Tomorrow\n[Round 3]\nUSER : Quel mot a la même lettre initiale que l'autre, mais vient après l'autre dans l'ordre alphabétique a-z ? Veuillez donner la réponse en anglais, aucun autre mot n’est requis.\nASSISTANT :",
+        "target": "Future"
+    },
+    {
+        "input": "[Round 0]\nUSER : Quel est le nom complet de l'auteur de la célèbre peinture « Mona Lisa » ? Veuillez donner uniquement le nom en français sans texte superflu.\nASSISTANT : Léonard de Vinci\n[Round 1]\nUSER : De quelle période cette œuvre est-elle ? Veuillez répondre en français sans texte superflu.\nASSISTANT : La Renaissance\n[Round 2]\nUSER : Quel pays a vu le début de ce mouvement de pensée et de culture ? Veuillez donner uniquement le nom du pays en français.\nASSISTANT : Italie\n[Round 3]\nUSER : Quelle est la ville la plus célèbre de ce pays pour ses canaux ? Veuillez donner uniquement le nom de la ville en français.\nASSISTANT :",
+        "target": "Venise"
+    },
+    {
+        "input": "[Round 0]\nUSER : Quel est le symbole chimique de l'or dans le tableau périodique des éléments ? Veuillez donner uniquement le symbole chimique.\nASSISTANT : Au\n[Round 1]\nUSER : Quel est le symbole chimique de l'élément à gauche de l'or ? Veuillez donner uniquement le symbole chimique.\nASSISTANT : Pt\n[Round 2]\nUSER : Quel est le symbole chimique de l'élément au-dessus de l'or ? Veuillez donner uniquement le symbole chimique.\nASSISTANT : Ag\n[Round 3]\nUSER : Quel est le nom français de l'élément à droite de l'or ? Veuillez donner uniquement le nom en français\nASSISTANT :",
+        "target": "mercure"
+    },
+    {
+        "input": "[Round 0]\nUSER : Qui est le président des États-Unis en 2025 ? Veuillez donner son nom complet sans texte superflu.\nASSISTANT : Donald John Trump.\n[Round 1]\nUSER : Qui était son prédécesseur ? Veuillez donner son nom complet sans texte superflu.\nASSISTANT : Joseph Robinette Biden Jr.\n[Round 2]\nUSER : Quel numéro présidentiel américain était-il ? Veuillez répondre uniquement avec le chiffre arabe, sans mots supplémentaires.\nASSISTANT : 46\n[Round 3]\nUSER : Quel était le jour où le président a prêté serment avant que Biden ne prête serment ? Veuillez répondre au format « jour mois année  » en utilisant des chiffres arabes sans mots supplémentaires.\nASSISTANT :",
+        "target": "20 janvier 2017"
+    },
+    {
+        "input": "[Round 0]\nUSER : Quel est le nom français de la plus longue galerie sous-marine au monde ? Veuillez donner uniquement le nom en français.\nASSISTANT : Tunnel de Seikan\n[Round 1]\nUSER : Dans quel pays se trouve-t-elle ? Veuillez donner le nom complet du pays en français.\nASSISTANT : Japon\n[Round 2]\nUSER : Quelle est la superficie terrestre de ce pays en milliers de kilomètres carrés ? Veuillez répondre uniquement avec les chiffres arabes sans autres textes.\nASSISTANT : 37,8\n[Round 3]\nUSER : Quelle est l'altitude de la montagne la plus haute de ce pays en mètres ? Veuillez répondre uniquement avec les chiffres arabes, arrondis à l'unité sans autres textes.\nASSISTANT :",
+        "target": "3776"
+    },
+    {
+        "input": "[Round 0]\nUSER : Qui était le chanteur original de la chanson « Bad Romance » sortie en 2009 ? Donnez-lui un nom littéraire sans texte superflu.\nASSISTANTE : Lady Gaga\n[Round 1]\nUSER : Quel était son premier album solo ? Donnez-le sous la forme d’un nom anglais, sans mots ni symboles explicatifs.\nASSISTANT: The Fame\n[Round 2]\nUSER : En quelle année cet album est-il sorti ? Il suffit de donner des chiffres arabes représentant l’année.\nASSISTANT : 2008\n[Round 3]\nUSER : Combien d’années lui a-t-il fallu pour sortir « Born This Way » ? Il suffit de donner les nombres écrits en lettres.\nASSISTANT: ",
+        "target": "trois"
+    },
+    {
+        "input": "[Round 0]\nUSER : Quelle est la langue d'origine du mot « матрешка » ? Veuillez donner uniquement le nom de la langue en français sans texte superflu.\nASSISTANT : Russe\n[Round 1]\nUSER : Quel est le nom du pays dont c'est la langue officielle ? Veuillez donner le nom du plus grand pays en superficie en français.\nASSISTANT : Russie\n[Round 2]\nUSER : Quelle est la capitale de ce pays ? Veuillez donner uniquement le nom de la ville en français.\nASSISTANT : Moscou\n[Round 3]\nUSER : Quel est le nom de l'église située au sud de la place Rouge au centre de cette ville ? Veuillez donner uniquement le nom en anglais.\nASSISTANT :",
+        "target": "Saint Basil's Cathedral"
+    },
+    {
+        "input": "[Round 0]\nUSER : Le prix Nobel fait référence au testament selon lequel il a été établi ? Donnez son nom complet en anglais, sans texte explicatif.\nASSISTANT : Alfred Bernhard Nobel\n[Round 1]\nUSER : Quel est l'élément synthétique nommé d'après lui ? Veuillez donner le nom de l'élément en français en un seul mot.\nASSISTANT : Nobélium\n[Round 2]\nUSER : Quel est le numéro atomique de cet élément ? Veuillez répondre uniquement avec des chiffres arabes.\nASSISTANT :",
+        "target": "102"
+    },
+    {
+        "input": "[Round 0]\nUSER : Dans la célèbre série de films « Star Wars », qui a joué le rôle de Luke Skywalker, le fils de Dark Vador ? Veuillez donner le nom en français.\nASSISTANT : Mark Hamill\n[Round 1]\nUSER : Quel prix a-t-il remporté pour ce rôle ? Veuillez donner le nom du prix en anglais.\nASSISTANT : Saturn Award\n[Round 2]\nUSER : En quelle année ce prix a-t-il été créé ? Veuillez répondre au format « créé en yyyy ».\nASSISTANT :\ncréé en 1972\n[Round 3]\nUSER : Quelle est l'institution fondatrice de ce prix ? Veuillez donner le nom en anglais.\nASSISTANT :",
+        "target": "Academy of Science Fiction, Fantasy and Horror Films"
+    },
+    {
+        "input": "[Round 0]\nUSER : Quel est le célèbre film romantique basé sur un naufrage survenu en 1912 ? Donnez le titre du film sans le symbole « » et sans autre texte supplémentaire.\nASSISTANT : Titanic\n[Round 1]\nUSER : Quelle compagnie a-t-elle utilisée pour ce voyage ? Veuillez donner uniquement le nom sans texte superflu.\nASSISTANT : White Star Line\n[Round 2]\nUSER : En quelle année cette compagnie a-t-elle été liquidée ? Veuillez répondre uniquement avec le numéro d'année en utilisant des chiffres arabes.\nASSISTANT : 1935\n[Round 3]\nUSER : Quel était le nom du capitaine de ce navire lors du naufrage ? Veuillez donner uniquement le nom anglais.\nASSISTANT :",
+        "target": "Edward John Smith"
+    },
+    {
+        "input": "[Round 0]\nUSER : Quel est le signe astrologique d'une personne née le 30 juillet ? Veuillez donner uniquement le nom du signe.\nASSISTANT : Lion\n[Round 1]\nUSER : Quel est le signe astrologique précédent ? Veuillez donner uniquement le nom du signe.\nASSISTANT : Cancer\n[Round 2]\nUSER : :D'après le [Round 1], quelles sont les dates du signe astrologique précédent ? Veuillez répondre au format « XX—XX » en utilisant des chiffres arabes.\nASSISTANT : 21 mai - 21 juin\n[Round 3]\nUSER :D'après le [Round 2], quel est le nom du signe précédant ? Donnez le nom sans autres contenus\nASSISTANT :",
+        "target": "Taureau"
+    }
+]

@@ -1,0 +1,350 @@
+[
+    {
+        "input": "[Round 0]\nUSER: Es wurden zwei Strecken gefahren, eine von 5 Kilometern und eine von 8 Kilometern. Wie viele Kilometer sind das insgesamt? Bitte antworten Sie nur mit arabischen Ziffern.\nASSISTANT: 13\n[Round 1]\nUSER: Und wenn noch 10 Kilometer hinzukommen, wie viele Kilometer sind es dann insgesamt? Bitte antworten Sie nur mit arabischen Ziffern.\nASSISTANT:",
+        "target": "23"
+    },
+    {
+        "input": "[Round 0]\nUSER: Wie viel Gramm haben drei 50-Gramm-Eier und vier 100-Gramm-Eier insgesamt? Bitte antworten Sie nur mit arabischen Ziffern.\nASSISTANT: 550\n[Round 1] \nUSER: Wenn ich zwei 50-Gramm-Eier gegessen habe, wie viele Gramm bleiben dann übrig? Bitte antworten Sie nur mit arabischen Ziffern.\nASSISTANT:",
+        "target": "450"
+    },
+    {
+        "input": "[Round 0]\nUSER: Wie viele Milliliter bleiben übrig, wenn man aus 4 Milliliter Wasser 1 Milliliter ausgießt? Schreiben Sie den Zahlenwert direkt, ohne Einheiten, in deutschen Zahlwörtern.\nASSISTANT: drei\n[Round 1]\nUSER: Wenn ich 12 Milliliter weiter hinzufüge, wie viele Milliliter sind es dann? Schreiben Sie den Zahlenwert direkt, ohne Einheiten, in deutschen Zahlwörtern.\nASSISTANT:",
+        "target": "fünfzehn"
+    },
+    {
+        "input": "[Round 0]\nUSER: Es wird vorgeschrieben, dass eine Person täglich drei Flaschen Wasser trinkt. Wie viele Flaschen Wasser hat die Person also in zwei Tagen getrunken? Antworten Sie in römischen Ziffern und nichts anderes.\nASSISTANT: VI\n[Round 1]\nUSER: Wie viele Flaschen Wasser hat diese Person in vier Tagen getrunken? Antworten Sie in römischen Ziffern und nichts anderes.\nASSISTANT:",
+        "target": "XII"
+    },
+    {
+        "input": "[Round 0]\nUSER: Wie viele Zentimeter dick ist die Gesamtdicke von zwei übereinander gestapelten Pappstücken mit einer Dicke von 1 cm? Bitte antworten Sie in römischen Ziffern, keine Einheiten.\nASSISTANT: II\n[Round 1]\nUSER: Wie viele Zentimeter dick ist die Gesamtdicke, wenn 5 weitere, gleich dicke Pappstücke dazugelegt werden? Bitte antworten Sie in römischen Ziffern, keine Einheiten.\nASSISTANT:",
+        "target": "VII"
+    },
+    {
+        "input": "[Round 0]\nUSER: Ein Rechteck hat eine Länge von 6 cm und eine Breite von 4 cm, wie groß ist der Umfang des Rechtecks in Zentimetern? Bitte antworten Sie in deutschen Zahlwörtern, ohne Einheiten.\nASSISTANT: Zwanzig\n[Round 1]\nUSER: Und wie groß ist die Fläche des Rechtecks in Quadratzentimetern? Bitte antworten Sie in deutschen Zahlwörtern, ohne Einheiten.\nASSISTANT:",
+        "target": "vierundzwanzig"
+    },
+    {
+        "input": "[Round 0]\nUSER: Ein Quadrat hat eine Fläche von 64 Quadratzentimetern. Wie lang ist seine Seite in Zentimetern? Schreiben Sie nur die Zahl als deutsches Wort.\nASSISTANT: acht\n[Round 1]\nUSER: Und wie lautet der ganzzahlige Teil der Länge der Diagonale dieses Quadrats? Schreiben Sie nur die Zahl als deutsches Wort.\nASSISTANT:",
+        "target": "elf"
+    },
+    {
+        "input": "[Round 0]\nUSER: Ein kreisförmiges Schwimmbecken hat einen Radius von 5 Metern. Berechnen Sie, wie groß die Fläche des Beckens in Quadratmetern ist? Geben Sie nur den Zahlenwert in Dezimalform an. (π=3,14)\nASSISTANT: 78,5\n[Round 1]\nUSER: Berechnen Sie noch einmal, wie viel Meter der Umfang beträgt? Geben Sie nur den Zahlenwert in Dezimalform an. (π=3,14)\nASSISTANT:",
+        "target": "31,4"
+    },
+    {
+        "input": "[Round 0]\nUSER: Ein gleichschenkliges Dreieck hat eine Grundseite von 10 cm und eine Höhe von 8 cm. Wie groß ist sein Flächeninhalt in Quadratzentimetern? Geben Sie den Zahlenwert direkt an und antworten Sie in Dezimalform mit einer Nachkommastelle.\nASSISTANT: 40,0\n[Round 1]\nUSER: Wie lang ist ein Schenkel in Zentimetern? Geben Sie den Zahlenwert direkt an und antworten Sie in Dezimalform mit einer Nachkommastelle.\nASSISTANT:",
+        "target": "9,4"
+    },
+    {
+        "input": "[Round 0]\nUSER: Der erste Tag ist 100 und der festgelegte tägliche Anstieg ist 5. Auf was wird er am 7. Tag steigen? Antworten Sie mit der ausgeschriebenen Zahl auf Deutsch.\nASSISTANT: Einhundertunddreißig\n[Round 1]\nUSER: Wenn die Zahl auf 140 ansteigt, welcher Tag wird es sein? Bitte antworten Sie in römischen Ziffern.\nASSISTANT:",
+        "target": "IX"
+    },
+    {
+        "input": "[Round 0]\nUSER: Wie viele Möglichkeiten gibt es, fünf Vögel A, B, C, D und E in zwei gleiche Käfige aufzuteilen, wobei keine leeren Käfige erlaubt sind? Schreiben Sie den deutschen Zahlenwert direkt.\nASSISTANT: fünfzehn\n[Round 1]\nUSER: Wenn es drei gleiche Käfige gibt und keine leeren Käfige erlaubt sind, wie viele Möglichkeiten gibt es dann? Schreiben Sie den deutschen Zahlenwert direkt.\nASSISTANT:",
+        "target": "Fünfundzwanzig"
+    },
+    {
+        "input": "[Round 0]\nUSER: Wie lang ist die Kantenlänge des größten Quadrats eines 20 cm langen und 10 cm breiten, in Quadrate geschnittenen Papiers? Bitte antworten Sie nur mit deutschen Zahlwörtern, ohne weitere Angaben.\nASSISTANT: zehn\n[Round 1]\nUSER: Wie groß ist die Fläche dieses Quadrats in Quadratzentimetern? Bitte antworten Sie nur mit deutschen Zahlwörtern, ohne weitere Angaben.\nASSISTANT:",
+        "target": "einhundert"
+    },
+    {
+        "input": "[Round 0]\nUSER: Ein Auto fährt mit 60 km/h, wie viele Kilometer hat es nach 2 Stunden zurückgelegt? Bitte antworten Sie mit deutschen Zahlwörtern, ohne Einheiten.\nASSISTANT: einhundertzwanzig\n[Round 1]\nUSER: Und wie viele Kilometer hat es insgesamt nach weiteren 5 Stunden zurückgelegt? Bitte antworten Sie mit deutschen Zahlwörtern, ohne Einheiten.\nASSISTANT:",
+        "target": "vierhundertzwanzig"
+    },
+    {
+        "input": "[Round 0]\nUSER: Die Treppe zwischen zwei Stockwerken hat 8 Stufen. Wie viele Stufen braucht man insgesamt, um vom 1. bis zum 10. Stockwerk zu gelangen? Schreiben Sie nur den Zahlenwert, ausgedrückt in arabischen Ziffern.\nASSISTANT: 72\n[Round 1]\nUSER: Wenn diese Person nur bis zum 8. Stockwerk geklettert ist, wie viele Stufen hat sie dann insgesamt erklommen? Schreiben Sie nur den Zahlenwert, ausgedrückt in arabischen Ziffern.\nASSISTANT:",
+        "target": "56"
+    },
+    {
+        "input": "[Round 0]\nUSER: In einer Pralinenschachtel sind 5 Geschmacksrichtungen und 4 Stück von jeder Geschmacksrichtung, wie viele Pralinen gibt es insgesamt? Schreiben Sie nur den Zahlenwert in römischen Ziffern auf.\nASSISTANT: XX\n[Round 1]\nUSER: Wenn 2 Geschmacksrichtungen aufgegessen werden, wie viele Stücke sind dann noch übrig? Schreiben Sie nur den Zahlenwert in römischen Ziffern auf.\nASSISTANT:",
+        "target": "XII"
+    },
+    {
+        "input": "[Round 0]\nUSER: Es gibt 12 Sitzreihen im Kino und jede Reihe hat 20 Plätze. Wie viele Plätze gibt es insgesamt? Antworten Sie mit deutschen Zahlwörtern, ohne Einheiten.\nASSISTANT: Zweihundertvierzig\n[Round 1]\nUSER: Es ist bekannt, dass sich 63 Personen einen Film ansehen. Wie viele leere Sitze bleiben in diesem Kino übrig, nachdem die Gäste Platz genommen haben? Antworten Sie mit deutschen Zahlwörtern, ohne Einheiten.\nASSISTANT:",
+        "target": "Einhundertundsiebenundsiezig"
+    },
+    {
+        "input": "[Round 0]\nUSER: Ein Film ist 2 Stunden und 30 Minuten lang. Wie viele Minuten sind es, wenn man sie in Minuten umrechnet? Antworten Sie bitte mit deutschen Zahlwörtern, ohne Einheiten.\nASSISTANT: einhundertfünfzig\n[Round 1]\nUSER: Der Film ist schon 80 Minuten gelaufen, wie viele Minuten sind noch übrig? Antworten Sie bitte mit deutschen Zahlwörtern, ohne Einheiten.\nASSISTANT:",
+        "target": "siebzig"
+    },
+    {
+        "input": "[Round 0]\nUSER: 8 mal eine Zahl ist 16, wie lautet diese Zahl? Antworten Sie in römischen Ziffern und nichts anderes.\nASSISTANT: II\n[Round 1] \nUSER: Wie lautet der Zahlenwert multipliziert mit 5? Antworten Sie in römischen Ziffern und nichts anderes.\nASSISTANT: X\n[Round 2]\nUSER: Wie wäre es mit der Subtraktion von 2? Antworten Sie in römischen Ziffern und nichts anderes.\nASSISTANT:",
+        "target": "VIII"
+    },
+    {
+        "input": "[Round 0]\nUSER: In dem einen Korb sind 5 Orangen und in dem anderen 7 Orangen, wie viele Orangen befinden sich in beiden Körben? Schreiben Sie den Zahlenwert direkt in römischen Ziffern ohne Einheiten.\nASSISTANT: XII\n[Round 1]\nUSER: Wenn 3 Orangen aus dem Korb mit den meisten Orangen genommen werden, wie viele Orangen sind dann noch in diesem Korb? Schreiben Sie den Zahlenwert direkt in römischen Ziffern ohne Einheiten.\nASSISTANT: IV\n[Round 2]\nUSER: Dann werden die Orangen aus beiden Körben zusammengelegt. Wie viele Orangen sind es insgesamt? Schreiben Sie den Zahlenwert direkt in römischen Ziffern ohne Einheiten.\nASSISTANT:",
+        "target": "IX"
+    },
+    {
+        "input": "[Round 0]\nUSER: Zu einer Tasse mit einem Gewicht von 88,8 g werden 213,67 g Wasser hinzugefügt. Wie hoch ist das Gesamtgewicht der Tasse? Bitte antworten Sie in Dezimalform mit einer Nachkommastelle, ohne Einheiten.\nASSISTANT: 302,5\n[Round 1]\nUSER: Dann werden weitere 20,583 Gramm Wasser getrunken, wie viel Gramm Gesamtgewicht bleiben dann übrig? Bitte antworten Sie in Dezimalform mit einer Nachkommastelle, ohne Einheiten.\nASSISTANT: 281,9\n[Round 2]\nUSER: 10,4 Gramm Wasser werden versehentlich verschüttet, wie viele Gramm bleiben übrig? Bitte antworten Sie in Dezimalform mit einer Nachkommastelle, ohne Einheiten.\nASSISTANT:",
+        "target": "271,5"
+    },
+    {
+        "input": "[Round 0]\nUSER: In einem Raum mit einer Temperatur von 30 Grad Celsius und einer Luftfeuchtigkeit von 95 % sinkt die Luftfeuchtigkeit um 5 % für jeden Grad Celsius Temperaturerhöhung. Zu diesem Zeitpunkt ist die Luftfeuchtigkeit auf 75 % gesunken. Wie hoch ist also die Temperatur in diesem Raum in Grad Celsius? Geben Sie die Antwort in arabischen Ziffern und nichts anderes.\nASSISTANT: 34\n[Round 1]\nUSER: Wenn sich die Temperatur des Raumes von 30 Grad Celsius auf 35 Grad Celsius ändert, wie hoch ist dann die Luftfeuchtigkeit? Bitte antworten Sie in arabischen Ziffern, in Form eines Prozentsatzes.\nASSISTANT: 70 %\n[Round 2]\nUSER: Und wie hoch ist die Temperatur des Raumes in Grad Celsius, wenn die Luftfeuchtigkeit von 95 % auf 50 % gesenkt wird? Antworten Sie direkt in arabischen Ziffern.\nASSISTANT:",
+        "target": "39"
+    },
+    {
+        "input": "[Round 0]\nUSER: Wenn eine Person am ersten Tag drei Tabletten einnimmt und jede Tablette 0,1 Gramm wiegt, wie hoch ist das Gesamtgewicht der Tabletten, die die Person an einem Tag einnimmt? Schreiben Sie den Zahlenwert direkt, ohne Einheiten, in Dezimalform.\nASSISTANT: 0,3\n[Round 1]\nUSER: Da sich seine Symptome verbessert haben, kann die Person am nächsten Tag eine Tablette weniger einnehmen. Wie hoch ist das Gesamtgewicht der Tabletten, die er am nächsten Tag einnehmen wird? Schreiben Sie den Zahlenwert direkt, ohne Einheiten, in Dezimalform.\nASSISTANT: 0,2\n[Round 2]\nUSER: Wie hoch ist das Gesamtgewicht der Tabletten, die er an beiden Tagen eingenommen hat, in Gramm? Schreiben Sie den Zahlenwert direkt, ohne Einheiten, in Dezimalform.\nASSISTANT:",
+        "target": "0,5"
+    },
+    {
+        "input": "[Round 0]\nUSER: In einem Labor herrschen 273 Grad Celsius. Rechnen Sie 273 Grad Celsius in Fahrenheit um, wie viel Grad Fahrenheit entspricht das? Geben Sie die Antwort in arabischen Ziffern mit Einheitssymbol und auf eine Nachkommastelle genau an, ohne weitere Erläuterungen.\nASSISTANT: 523,4°F\n[Round 1]\nUSER: Am zweiten Tag wurde ein Temperaturanstieg von 10 Grad Celsius festgestellt; umgerechnet in Fahrenheit, wie viel Grad Fahrenheit entspricht dies? Geben Sie die Antwort in arabischen Ziffern mit Einheitssymbol und auf eine Nachkommastelle genau an, ohne weitere Erläuterungen.\nASSISTANT: 541,4°F\n[Round 2]\nUSER: Wie viel Grad Fahrenheit ergibt sich, wenn man den Fahrenheit-Wert des zweiten Tages durch 5 teilt? Geben Sie die Antwort in arabischen Ziffern mit Einheitssymbol und auf eine Nachkommastelle genau an, ohne weitere Erläuterungen.\nASSISTANT:",
+        "target": "108,3°F"
+    },
+    {
+        "input": "[Round 0]\nUSER: Eine Zahlenfolge, die sich jeden Tag verdoppelt und am zehnten Tag den Zahlenwert 1024 erreicht. Berechnen Sie, wie hoch der Zahlenwert dieser Zahlenfolge am fünften Tag ist. Bitte antworten Sie in deutschen Zahlwörtern.\nASSISTANT: zweiunddreißig\n[Round 1]\nUSER: Wie hoch ist dann der Zahlenwert am siebten Tag? Bitte antworten Sie in deutschen Zahlwörtern.\nASSISTANT: einhundertachtundzwanzig\n[Round 2]\nUSER: Und wie lautet der Anfangswert der Zahlenfolge? Bitte antworten Sie in deutschen Zahlwörtern.\nASSISTANT:",
+        "target": "zwei"
+    },
+    {
+        "input": "[Round 0]\nUSER: Angenommen, das Volumen eines Raumes beträgt 150.000 Kubikzentimeter und Sie beabsichtigen, das Volumen dieses Raumes um weitere 50.000 Kubikzentimeter zu vergrößern. Berechnen Sie, wie viele Kubikzentimeter das Volumen des vergrößerten Raums betragen wird? Beantworten Sie die Frage in deutschen Zahlwörtern, weitere Angaben sind nicht erforderlich.\nASSISTANT: Zweihunderttausend\n[Round 1]\nUSER: Wenn der Raum nach der Vergrößerung um 20.000 Kubikzentimeter verkleinert wird, wie viele Kubikzentimeter bleiben dann übrig? Beantworten Sie die Frage in deutschen Zahlwörtern, weitere Angaben sind nicht erforderlich.\nASSISTANT: Einhundertachtzigtausend\n[Round 2]\nUSER: Wie viele Kubikzentimeter beträgt das endgültige Volumen, nachdem das verbleibende Raumvolumen nochmals halbiert wurde? Beantworten Sie die Frage in deutschen Zahlwörtern, weitere Angaben sind nicht erforderlich.\nASSISTANT:",
+        "target": "Neunzigtausend"
+    },
+    {
+        "input": "[Round 0]\nUSER: Die beiden rechtwinkligen Seiten eines rechtwinkligen Dreiecks sind 3 cm und 4 cm lang. Wie lang ist die Hypotenuse in Zentimetern? Antworten Sie direkt in römischen Ziffern, ohne die Einheiten zu schreiben.\nASSISTANT: V\n[Round 1]\nUSER: Wie groß ist der Flächeninhalt dieses Dreiecks in Quadratzentimetern? Antworten Sie direkt in römischen Ziffern, ohne die Einheiten zu schreiben.\nASSISTANT: VI\n[Round 2]\nUSER: Wie hoch ist die Höhe des Dreiecks senkrecht zur Hypotenuse in Zentimetern? Bitte antworten Sie mit einem Zahlenwert in Bruchform, indem Sie einen unechten Bruch verwenden, ohne die Einheiten zu schreiben.\nASSISTANT:",
+        "target": "12/5"
+    },
+    {
+        "input": "[Round 0]\nUSER: Leo hat zwei gleiche Äpfel, er schneidet einen der Äpfel in vier gleiche Teile und isst dann einen der gleichen Teile, wie viele Äpfel hat Leo nun übrig? Antworte als unechter Bruch, ohne die Einheiten zu schreiben.\nASSISTANT: 7/4\n[Round 1]\nUSER: In wenigen Augenblicken isst er zwei weitere gleiche Teile, wie viele Äpfel hat Leo also jetzt übrig? Antworte als unechter Bruch, ohne die Einheiten zu schreiben.\nASSISTANT: 5/4\n[Round 2]\nUSER: Nach etwas mehr Zeit hat Leo seinem Klassenkameraden den ganzen Apfel gegeben. Wie viele Äpfel hat Leo nun übrig? Antworte als Bruch, ohne die Einheiten zu schreiben.\nASSISTANT:",
+        "target": "1/4"
+    },
+    {
+        "input": "[Round 0]\nUSER: Das Bücherregal hat 5 Regalböden, jeder Regalboden fasst 12 Bücher, wie viele Bücher können insgesamt untergebracht werden? Schreiben Sie den Zahlenwert direkt an und geben Sie ihn in deutschen Zahlwörtern an.\nASSISTANT: sechzig\n[Round 1]\nUSER: Wenn jeder Regalboden nur 11 Bücher fasst, wie viele Bücher können dann insgesamt untergebracht werden? Schreiben Sie den Zahlenwert direkt an und geben Sie ihn in deutschen Zahlwörtern an.\nASSISTANT: fünfundfünfzig\n[Round 2]\nUSER: Wenn das Bücherregal kaputt ist, ein Regalboden keine Bücher aufnehmen kann und auf jeden der verbleibenden Regalböden nur 10 Bücher passen, wie viele Bücher können dann insgesamt untergebracht werden? Schreiben Sie die Antwort direkt als Zahlwort.\nASSISTANT:",
+        "target": "vierzig"
+    },
+    {
+        "input": "[Round 0]\nUSER: Eine Fabrik stellt täglich 800 Produkte her. Wie viele Produkte werden nach 30 Tagen insgesamt hergestellt? Bitte antworten Sie mit deutschen Zahlwörtern, keine Einheiten erforderlich.\nASSISTANT: vierundzwanzigtausend\n[Round 1]\nUSER: Es stellt sich heraus, dass es in den 30 Tagen 5 freie Tage gibt. Wie viele Produkte werden in diesen 30 Tagen tatsächlich hergestellt? Bitte antworten Sie mit deutschen Zahlwörtern, keine Einheiten erforderlich.\nASSISTANT:",
+        "target": "zwanzigtausend"
+    },
+    {
+        "input": "[Round 0]\nUSER: Eine Person läuft 200 Meter pro Minute, wie viele Meter hat sie also nach 30 Minuten zurückgelegt? Antworten Sie direkt in deutschen Zahlwörtern ohne Einheiten.\nASSISTANT: sechstausend\n[Round 1]\nUSER: Wenn er eine Pause von 2 Minuten macht, wie viele Meter ist er dann in 30 Minuten gelaufen? Antworten Sie direkt in deutschen Zahlwörtern ohne Einheiten.\nASSISTANT:",
+        "target": "fünftausendsechshundert"
+    },
+    {
+        "input": "[Round 0]\nUSER: Eine Aktie ist um 5 % gestiegen und hatte ursprünglich einen Kurs von 100 Euro. Wie hoch ist der aktuelle Kurs? Bitte antworten Sie nur mit Euro-Währungssymbol und arabischen Ziffern. \nASSISTANT: €105\n[Round 1]\nUSER: Wenn die Aktie um weitere 20% steigt, wie hoch ist dann der aktuelle Kurs in Euro? Bitte antworten Sie nur mit Euro-Währungssymbol und arabischen Ziffern.\nASSISTANT: €126\n[Round 2] \nUSER: Wie hoch ist der Preis in Euro unmittelbar nach einer weiteren Erhöhung um 5%? Bitte antworten Sie nur mit Euro-Währungssymbol und arabischen Ziffern.\nASSISTANT:",
+        "target": "€132,3"
+    },
+    {
+        "input": "[Round 0]\nUSER: Wie viel hat Leo am ersten Tag insgesamt ausgegeben, als er 3 Bücher zum Preis von je 15 € kaufte? Bitte antworten Sie nur mit den entsprechenden Währungssymbolen und arabischen Ziffern.\nASSISTANT: 45 €\n[Round 1]\nUSER: Am nächsten Tag kaufte er 2 Kugelschreiber für je 10 €. Wie viel hat er in den zwei Tagen insgesamt ausgegeben? Bitte antworten Sie nur mit den entsprechenden Währungssymbolen und arabischen Ziffern.\nASSISTANT: 65 €\n[Round 2]\nUSER: Er hat dem Besitzer beim Kauf der Kugelschreiber ein Trinkgeld von 5 € gegeben. Wie viel hat er in den letzten zwei Tagen ausgegeben? Bitte antworten Sie nur mit den entsprechenden Währungssymbolen und arabischen Ziffern.\nASSISTANT:",
+        "target": "70 €"
+    },
+    {
+        "input": "[Round 0]\nUSER: Was bedeutet 3 hoch 4? Geben Sie den Wert in Worten an.\nASSISTANT: Einundachtzig\n[Round 1]\nUSER: Was ergibt die Division von [Round 0] durch 2? Bitte geben Sie den Zahlenwert in Dezimalform an und lassen Sie dabei eine Stelle nach dem Komma.\nASSISTANT: 40,5\n[Round 2]\nUSER: Was ist der Wert von [Round 1], wenn man ihn halbiert? Geben Sie den Wert in Worten an. Wenn der Zahlenwert eine Dezimalzahl ist, runden Sie ihn bitte auf die nächste ganze Zahl.\nASSISTANT:",
+        "target": "Zwanzig"
+    },
+    {
+        "input": "[Round 0]\nUSER: Buch A hat 300 Seiten, Sie haben 120 Seiten gelesen, wie viele Seiten sind noch ungelesen? Antworten Sie in deutschen Zahlwörtern, keine Einheiten erforderlich.\nASSISTANT: einhundertundachzig\n[Round 1]\nUSER: Wenn Sie Buch A von Anfang an gelesen haben und dann 20 Seiten von Buch B lesen, wie viele Seiten haben Sie dann insgesamt gelesen? Antworten Sie in deutschen Zahlwörtern, keine Einheiten erforderlich.\nASSISTANT: dreihundertundzwanzig\n[Round 2]\nUSER: Wenn Buch B auch 300 Seiten lang ist, wie viele Seiten sind dann noch zu lesen? Antwort in deutschen Zahlwörtern, keine Einheiten erforderlich.\nASSISTANT:",
+        "target": "zweihundertundachzig"
+    },
+    {
+        "input": "[Round 0]\nUSER: Es gibt 220 Arbeitstage im Jahr, wenn das Jahresgehalt einer Person 30.000 Euro beträgt, wie hoch ist der Verdienst pro Arbeitstag in Euro? Antworten Sie mit dem Euro-Währungssymbol und einer arabischen Ziffer, runden Sie auf die nächste ganze Zahl, wenn es sich um eine Dezimalzahl handelt. Keine weiteren Wörter.\nASSISTANT: €136\n[Round 1]\nUSER: Wenn der Wechselkurs von Euro zu Dollar 1:1,14 beträgt, wie hoch ist dann der Tageslohn dieser Person in Dollar, basierend auf den Angaben aus [Round 0]? Antworten Sie mit dem Dollar-Währungssymbol und einer arabischen Ziffer, runden Sie auf die nächste ganze Zahl, wenn es sich um eine Dezimalzahl handelt. Keine weiteren Wörter.\nASSISTANT: $155\n[Round 2]\nUSER: Es hat sich herausgestellt, dass diese Person zusätzlich einen Nebenjob hat, der jährlich 500 Dollar einbringt. Wie hoch ist das gesamte Jahreseinkommen in Euro basierend auf dem Jahresgehalt aus [Round 0] und dem zusätzlichen Nebenjob? Antworten Sie mit dem Euro-Währungssymbol und einer arabischen Ziffer, runden Sie auf die nächste ganze Zahl, wenn es sich um eine Dezimalzahl handelt. Keine weiteren Wörter.\nASSISTANT: €30439\n[Round 3]\nUSER: Rechnen Sie zum Schluss bitte das gesamte Einkommen dieser Person zum bisherigen Kurs in Dollar um. Antworten Sie mit dem Dollar-Währungssymbol und einer arabischen Ziffer, runden Sie auf die nächste ganze Zahl, wenn es sich um eine Dezimalzahl handelt. Keine weiteren Wörter.\nASSISTANT:",
+        "target": "$34700"
+    },
+    {
+        "input": "[Round 0]\nUSER: Wenn ein Bild 10 cm breit und 15 cm lang ist, wie groß ist dann das Verhältnis zwischen der Breite und der Länge des Bildes? Beantworten Sie die Frage in Form von Brüchen.\nASSISTANT: 2/3\n[Round 1]\nUSER: Wie ist das Verhältnis von Länge zu Breite? Verwenden Sie die Verhältnisform mit einem \":\" Zeichen und ohne weiteren Text.\nASSISTANT: 3:2\n[Round 2]\nUSER: Um die Länge und Breite gleich lang zu machen, wie viele Zentimeter müssen von der Länge abgeschnitten werden? Bitte antworten Sie mit arabischen Ziffern und mit nichts anderem.\nASSISTANT:",
+        "target": "5"
+    },
+    {
+        "input": "[Round 0]\nUSER: Mann muss 2.000 Kalorien pro Tag zu sich nehmen. 500 Kalorien hat Lucas zum Frühstück zu sich genommen, wie viele Kalorien muss er also noch zu sich nehmen? Bitte antworten Sie in deutscher Sprache, solange der numerische Teil ausreichend ist.\nASSISTANT: Eintausendfünfhundert\n[Round 1]\nUSER: Am Mittag hat Lucas weitere 1.000 Kalorien zu sich genommen, wie viele Kalorien muss er noch zu sich nehmen? Bitte antworten Sie in deutscher Sprache, solange der numerische Teil ausreichend ist.\nASSISTANT: Fünfhundert\n[Round 2]\nUSER: Am Nachmittag nahm Lucas weitere 1000 Kalorien zu sich. Um wie viele Kalorien hat er die Grenze überschritten? Bitte antworten Sie in deutscher Sprache, solange der numerische Teil ausreichend ist.\nASSISTANT: Fünfhundert\n[Round 3]\nUSER: Wenn Lucas Sport treiben will, um die überschüssigen Kalorien zu verbrennen, wie viele Sätze zu je 250 Kalorien muss er dann machen? Bitte antworten Sie in deutscher Sprache, solange der numerische Teil ausreichend ist.\nASSISTANT:",
+        "target": "Zwei"
+    },
+    {
+        "input": "[Round 0]\nUSER: Wie viele Kilogramm bleiben übrig, wenn von 10 Kilogramm Reis 3 Kilogramm ausgeschüttet werden? Geben Sie den Zahlenwert direkt in deutscher Form an, ohne Einheiten zu addieren.\nASSISTANT: Sieben\n[Round 1] \nUSER: Wie viele Kilogramm bleiben übrig, wenn zwei Drittel des restlichen Reises weggeschüttet werden? Schreiben Sie den Zahlenwert direkt auf Deutsch, runden Sie auf die nächste ganze Zahl, wenn es sich um eine Dezimalzahl handelt, und addieren Sie keine Einheiten.\nASSISTANT: Zwei\n[Round 2]\nUSER: Wie viele Kilogramm sind übrig, nachdem ein weiteres Viertel ausgeschüttet wurde? Schreiben Sie den Zahlenwert direkt auf Deutsch und geben Sie ihn in Dezimalform an, ohne Einheiten zu addieren.\nASSISTANT: Eins Komma sieben fünf\n[Round 3] \nUSER: Dann wird ein weiteres Viertel ausgeschüttet. Wie viele Kilogramm sind übrig? Antwort bitte als arabische Ziffern, in Bruchform und ohne Einheiten.\nASSISTANT:",
+        "target": "21/16"
+    },
+    {
+        "input": "[Round 0]\nUSER: Wie viele Liter Kraftstoff können in ein Auto mit einem Tankinhalt von 50 Litern gefüllt werden, das bereits mit 20 Litern Kraftstoff befüllt wurde? Bitte antworten Sie in deutschen Zahlwörtern mit deutschen Einheiten und ohne weitere Textbeschreibung.\nASSISTANT: Dreißig Liter\n[Round 1]\nUSER: Nach dem Volltanken und einer Weile Fahrt hat das Fahrzeug 15 Liter verbraucht, wie viele Liter Kraftstoff sind noch übrig? Bitte antworten Sie in deutschen Zahlwörtern mit deutschen Einheiten und ohne weitere Textbeschreibung.\nASSISTANT: Fünfunddreißig Liter\n[Round 2]\nUSER: Nach weiterer Fahrt hat das Fahrzeug die gleiche Menge Kraftstoff verbraucht, wie viele Liter Kraftstoff sind dann noch übrig? Bitte antworten Sie in deutschen Zahlwörtern mit deutschen Einheiten und ohne weitere Textbeschreibung.\nASSISTANT: Zwanzig Liter\n[Round 3]\nUSER: Wie viele Liter Kraftstoff können an dieser Stelle in den Tank gefüllt werden? Bitte antworten Sie in deutschen Zahlwörtern mit deutschen Einheiten und ohne weitere Textbeschreibung.\nASSISTANT:",
+        "target": "Dreißig Liter"
+    },
+    {
+        "input": "[Round 0]\nUSER: Das Projekt dauert 20 Tage, 7 Tage sind bereits vergangen, wie viele Tage sind noch nötig, um es abzuschließen? Bitte antworten Sie direkt in deutschen Zahlwörtern, ohne Einheit und ohne weiteren Text.\nASSISTANT: Dreizehn\n[Round 1]\nUSER: Infolgedessen wurde mir mitgeteilt, dass das Projekt um 5 Tage verschoben werden muss. Wie viele Tage sind dann noch nötig, um es abzuschließen? Bitte antworten Sie direkt in deutschen Zahlwörtern, ohne Einheit und ohne weiteren Text.\nASSISTANT: Achzehn\n[Round 2]\nUSER: Nachdem das Projekt abgeschlossen war, wurde festgestellt, dass es 3 Tage früher als geplant fertig wurde. Wie viele Tage hat das Projekt insgesamt gedauert? Bitte antworten Sie direkt in deutschen Zahlwörtern, ohne Einheit und ohne weiteren Text.\nASSISTANT: Zweiundzwanzig\n[Round 3]\nUSER: Wenn man die 7 Tage vom Anfang abzieht, wie viele Tage wurde dann noch an diesem Projekt gearbeitet? Bitte antworten Sie direkt in deutschen Zahlwörtern, ohne Einheit und ohne weiteren Text.\nASSISTANT:",
+        "target": "Fünfzehn"
+    },
+    {
+        "input": "[Round 0]\nUSER: Es ist 12:30 Uhr, wie spät ist es in 3,5 Stunden? Bitte antworten Sie im Format „00:00:00\" mit arabischen Ziffern, ohne weiteren Text.\nASSISTANT: 16:00:00\n[Round 1]\nUSER: Und wie spät ist es nach weiteren 2,2 Stunden? Bitte antworten Sie im Format „00:00:00\" mit arabischen Ziffern, ohne weiteren Text.\nASSISTANT: 18:12:00\n[Round 2]\nUSER: In 1,6 Stunden, wie spät ist es dann abends? Bitte antworten Sie im Format „00:00:00\" mit arabischen Ziffern, ohne Verwendung des 24-Stunden-Formats, ohne weiteren Text.\nASSISTANT: 07:48:00\n[Round 3]\nUSER: Wie spät ist es abends, nachdem Sie weitere 20 Minuten Hausaufgaben gemacht haben? Bitte antworten Sie im Format „00:00:00\" mit arabischen Ziffern, ohne Verwendung des 24-Stunden-Formats, ohne weiteren Text.\nASSISTANT:",
+        "target": "08:08:00"
+    },
+    {
+        "input": "[Round 0]\nUSER: Ein Film ist 150 Minuten lang. Wie viele Minuten bleiben übrig, nachdem Lucas die erste Hälfte gesehen hat? Bitte verwenden Sie das Format „x Stunden, y Minuten, z Sekunden\", ausgedrückt in arabischen Ziffern und ohne weiteren Text.\nASSISTANT: 1 Stunde, 15 Minuten, 0 Sekunden\n[Round 1]\nUSER: Nachdem Lucas dann die Hälfte der verbleibenden Zeit gesehen hat, wie viele Minuten sind noch übrig? Bitte verwenden Sie das Format „x Stunden, y Minuten, z Sekunden\", ausgedrückt in arabischen Ziffern und ohne weiteren Text.\nASSISTANT: 0 Stunden, 37 Minuten und 30 Sekunden.\n[Round 2]\nUSER: Wie viele Minuten sind noch übrig, nachdem Lucas weitere 8 Minuten gesehen hat? Bitte verwenden Sie das Format „x Stunden x Minuten x Sekunden“, ausgedrückt in arabischen Ziffern und ohne weiteren Text.\nASSISTANT: 0 Stunden, 29 Minuten und 30 Sekunden.\n[Round 3]\nUSER: Nachdem Lucas dann die Hälfte der verbleibenden Zeit gesehen hat, wie viele Minuten sind noch übrig? Bitte verwenden Sie das Format „x Stunden, y Minuten, z Sekunden\", ausgedrückt in arabischen Ziffern und ohne weiteren Text.\nASSISTANT:",
+        "target": "0 Stunden, 14 Minuten und 45 Sekunden"
+    },
+    {
+        "input": "[Round 0]\nUSER: Wenn Sie zwei Säcke Salz haben, die jeweils 1 kg wiegen, wie hoch ist das Gesamtgewicht der Säcke? Antworten Sie in römischen Ziffern und nichts anderes.\nASSISTANT: II\n[Round 1]\nUSER: Wenn Ihre Mutter drei weitere Säcke Salz der gleichen Größe kauft, wie hoch ist dann das Gesamtgewicht? Antworten Sie in römischen Ziffern und nichts anderes.\nASSISTANT: V\n[Round 2]\nUSER: Nach einiger Zeit hat die Familie einen Sack Salz aufgegessen, wie viele Kilogramm des Gesamtgewichts an Salz sind also noch übrig? Antworten Sie in römischen Ziffern und nichts anderes.\nASSISTANT: IV\n[Round 3]\nUSER: Es stellte sich heraus, dass Ihr Vater versehentlich einen Sack Salz feucht gemacht hatte und ihn wegwerfen musste. Wie viele Kilogramm des Gesamtgewichts sind also übrig geblieben? Antworten Sie in römischen Ziffern und nichts anderes.\nASSISTANT:",
+        "target": "III"
+    },
+    {
+        "input": "[Round 0]\nUSER: Es gibt 50 Schüler in der Klasse. Wenn 45 Schüler fehlen, wie viele Schüler sind dann noch übrig? Schreiben Sie den Zahlenwert direkt, ohne Einheiten, in römischen Ziffern.\nASSISTANT: V\n[Round 1]\nUSER: Von den fehlenden Schülern sind 30 wegen Grippe abwesend, der Rest wegen COVID-19. Wie viele Schüler sind also an COVID-19 erkrankt? Schreiben Sie den Zahlenwert direkt, ohne Einheiten, in römischen Ziffern.\nASSISTANT: XV\n[Round 2]\nUSER: Nach einer Woche sind 15 der an Grippe erkrankten Schüler gesund in die Klasse zurückgekehrt, die anderen noch nicht. Wie viele Schüler sind also jetzt in der Klasse? Schreiben Sie den Zahlenwert direkt, ohne Einheiten, in römischen Ziffern.\nASSISTANT: XX\n[Round 3]\nUSER: Zwei Wochen später kehrten auch 5 der an COVID-19 erkrankten Schüler in die Klasse zurück. Wie viele Schüler sind also jetzt in der Klasse? Schreiben Sie den Zahlenwert direkt, ohne Einheiten, in römischen Ziffern.\nASSISTANT:",
+        "target": "XXV"
+    },
+    {
+        "input": "[Round 0]\nUSER: Wie viel Milliliter sind 140 Milliliter Milch gemischt mit 130 Milliliter Wasser? Die Antworten sollten in deutschen Zahlwörtern gegeben werden, ohne Einheiten oder andere Textbeschreibungen.\nASSISTANT: zweihundertundsiebzig\n[Round 1]\nUSER: Wie viele Milliliter sind es, nachdem unmittelbar 25 Milliliter Orangensaft hinzugefügt wurden? Die Antworten sollten in deutschen Zahlwörtern gegeben werden, ohne Einheiten oder andere Textbeschreibungen.\nASSISTANT: zweihundertundfünfundneunzig\n[Round 2]\nUSER: Wie viele Milliliter bleiben übrig, wenn die Hälfte davon ausgegossen wird? Die Antworten sollten in deutschen Zahlwörtern gegeben werden, ohne Einheiten oder andere Textbeschreibungen.\nASSISTANT: einhundertsiebenundvierzigkommafünf\n[Round 3]\nUSER: Wie viele Milliliter bleiben übrig, nachdem du drei Fünftel der restlichen Flüssigkeit ausgeschüttet hast? Die Antworten sollten in deutschen Zahlwörtern gegeben werden, ohne Einheiten oder andere Textbeschreibungen.\nASSISTANT:",
+        "target": "neunundfünzig"
+    },
+    {
+        "input": "[Round 0]\nUSER: Ein Fallschirmspringer öffnet seinen Fallschirm und fällt aus einer Höhe von 100 Metern mit einer durchschnittlichen Sinkgeschwindigkeit von 5 Metern pro Sekunde zu Boden. Wie lange braucht er? Schreiben Sie den Zahlenwert direkt auf, geben Sie ihn in arabischen Ziffern an und fügen Sie deutsche Einheiten hinzu, sonst nichts.\nASSISTANT: 20 Sekunden\n[Round 1]\nUSER: Ignorieren Sie die erste Frage. Angenommen, er fällt 4 Meter pro Sekunde? Schreiben Sie den Zahlenwert direkt auf, geben Sie ihn in arabischen Ziffern an und fügen Sie deutsche Einheiten hinzu, sonst nichts.\nASSISTANT: 25 Sekunden\n[Round 2]\nUSER: Ignorieren Sie die ersten beiden Fragen. Angenommen, es sind 6 Meter pro Sekunde? Bitte antworten Sie in Dezimalzahlen und fügen Sie die deutsche Einheit hinzu, behalten Sie 2 Dezimalstellen bei, kein weiterer Inhalt ist erforderlich.\nASSISTANT: 16,67 Sekunden\n[Round 3]\nUSER: Wie lange braucht er, um den Boden zu erreichen, wenn er zuerst mit 5 Metern pro Sekunde die Hälfte der Höhe und dann die restliche Hälfte der Höhe mit 6 Metern pro Sekunde hinunterfällt? Bitte antworten Sie in Dezimalzahlen und fügen Sie die deutsche Einheit hinzu, behalten Sie 2 Dezimalstellen bei, kein weiterer Inhalt ist erforderlich.\nASSISTANT:",
+        "target": "18,33 Sekunden"
+    },
+    {
+        "input": "[Round 0]\nUSER: Für eine Fußballmannschaft braucht man 11 Spieler, jetzt sind 7 da. Wie viele Spieler werden noch gebraucht, um die Fußballmannschaft zu vervollständigen? Antworten Sie direkt in arabischen Ziffern, ohne weiteren Text.\nASSISTANT: 4\n[Round 1]\nUSER: Eine Woche später wurden 8 weitere Spieler eingestellt. Um wie viele Spieler ist die Mannschaft dann überbesetzt? Antworten Sie direkt in arabischen Ziffern, ohne weiteren Text.\nASSISTANT: 4\n[Round 2] \nUSER: Zwei Wochen später sind 2 Spieler gegangen, wie viele Spieler sind noch übrig? Antworten Sie direkt in arabischen Ziffern. Kein weiterer zusätzlicher Text.\nASSISTANT: 13\n[Round 3]\nUSER: Wie viele Spieler hat die Mannschaft zu diesem Zeitpunkt mehr als nötig? Antworten Sie direkt in arabischen Ziffern, ohne weiteren Text.\nASSISTANT:",
+        "target": "2"
+    },
+    {
+        "input": "[Round 0]\nUSER: Die Diagonale eines Quadrats ist 10 Zentimeter lang, wie groß ist also sein Umfang in Zentimetern? Geben Sie die Antwort in Form von arabischen Ziffern und mathematischen Symbolen, nicht in Dezimalform. Kein weiterer zusätzlicher Text.\nASSISTANT: 20√2\n[Round 1]\nUSER: Wie lang ist die Seite in Zentimetern? Geben Sie die Antwort in Form von arabischen Ziffern und mathematischen Symbolen, nicht in Dezimalform. Kein weiterer zusätzlicher Text.\nASSISTANT: 5√2\n[Round 2]\nUSER: Wie groß ist die Fläche in Quadratzentimetern? Geben Sie die Antwort in Form von arabischen Ziffern. Kein weiterer zusätzlicher Text.\nASSISTANT: 50\n[Round 3]\nUSER: Wie viele Zentimeter beträgt die Hälfte des Umfangs? Geben Sie die Antwort in Form von arabischen Ziffern und mathematischen Symbolen, nicht in Dezimalform. Kein weiterer zusätzlicher Text.",
+        "target": "10√2"
+    },
+    {
+        "input": "[Round 0]\nUSER: Man muss 8 Gläser Wasser pro Tag trinken. Leo schläft 8 Stunden am Tag, wie viele Gläser Wasser muss er also durchschnittlich in einer Stunde trinken? Bitte antworten Sie in arabischen Ziffern, mit deutschen Einheiten und ohne weitere Textbeschreibungen.\nASSISTANT: 0,5 Gläser\n[Round 1]\nUSER: Am nächsten Tag wechselt er zu einem Glas, das halb so groß ist wie das vorherige, aber die Gesamtmenge an Wasser, die er trinkt, bleibt gleich: Wie viele Gläser Wasser muss er täglich trinken? Bitte antworten Sie in arabischen Ziffern, mit deutschen Einheiten und ohne weitere Textbeschreibungen.\nASSISTANT: 16 Gläser\n[Round 2]\nUSER: Wie viele Gläser muss er jetzt durchschnittlich in einer Stunde trinken? Bitte antworten Sie in arabischen Ziffern, mit deutschen Einheiten und ohne weitere Textbeschreibungen.\nASSISTANT: 1 Glas\n[Round 3] \nUSER: Wenn er 2 Gläser pro Stunde trinkt, wie viele Stunden vor dem Zeitplan wird er fertig sein? Bitte antworten Sie in arabischen Ziffern, mit deutschen Einheiten und ohne weitere Textbeschreibungen.\nASSISTANT:",
+        "target": "8 Stunden"
+    },
+    {
+        "input": "[Round 0]\nUSER: Wie viele Liter Wasser bleiben übrig, wenn man von 30 Litern 10 ml ausgießt? Bitte antworten Sie in Dezimalform, mit deutschen Einheiten und ohne weiteren Text.\nASSISTANT: 29,99 Liter\n[Round 1]\nUSER: Also, wie viele Liter wurden ausgegossen? Bitte antworten Sie in Dezimalform mit deutschen Einheiten. Die Einheiten sollten Liter sein und ohne weiteren Text.\nASSISTANT: 0,01 Liter\n[Round 2]\nUSER: Dann wird sofort die dreifache Menge Wasser ausgegossen, die in [Round 0] ausgegoßen wurde. Wie viele Liter bleiben übrig? Bitte antworten Sie in Dezimalform, mit deutschen Einheiten und ohne weiteren Text.\nASSISTANT: 29,96 Liter\n[Round 3]\nUSER: Wie viele Liter wurden insgesamt ausgegossen? Bitte antworten Sie in Dezimalform, mit deutschen Einheiten und ohne weiteren Text.\nASSISTANT:",
+        "target": "0,04 Liter"
+    },
+    {
+        "input": "[Round 0]\nUSER: Welcher Planet in unserem Sonnensystem ist wegen der hohen Temperaturen und des hohen Drucks auf seiner Oberfläche als „Höllenplanet\" bekannt? Bitte geben Sie die Antwort direkt und ohne weitere Worte an.\nASSISTANT: Venus\n[Round 1]\nUSER: Ist es der wievielte Planet von der Sonne? Bitte geben Sie die Ordnungszahl auf Deutsch direkt und ohne weitere Worte an.\nASSISTANT:",
+        "target": "Zweiter"
+    },
+    {
+        "input": "[Round 0]\nUSER: In der „Harry-Potter“-Romanreihe: In welchem Band ist die Figur „Harry“ am ältesten? Bitte antworten Sie mit dem deutschen Namen des Romans.\nASSISTANT: Harry Potter und die Heiligtümer des Todes\n[Round 1]\nUSER: In welchem Jahr wurde dieser Roman veröffentlicht? Geben Sie einfach die genaue Jahreszahl an.\nASSISTANT:",
+        "target": "2007"
+    },
+    {
+        "input": "[Round 0]\nUSER: „To be or not to be“ ist ein berühmter Satz aus welchem Shakespeare-Werk? Bitte antworten Sie mit dem Titel des Werks in Anführungszeichen.\nASSISTANT: „Hamlet“\n[Round 1]\nUSER: Aus welchem Land stammt die Hauptfigur? Schreiben Sie den Namen des Landes direkt auf Englisch. Erklärungen sind nicht erforderlich.\nASSISTANT:",
+        "target": "Denmark"
+    },
+    {
+        "input": "[Round 0]\nUSER: Welche Stadt war zur Zeit des Römischen Reiches die Hauptstadt des Reiches? Bitte antworten Sie mit dem englischen Namen.\nASSISTANT: Rome\n[Round 1]\nUSER: In welchem Land befindet sich diese Stadt heute? Bitte antworten Sie mit dem englischen Namen.\nASSISTANT:",
+        "target": "Italy"
+    },
+    {
+        "input": "[Round 0]\nUSER: Bis zum Jahr 2024 – welches Team hat die meisten Vizemeistertitel in der NBA? Nennen Sie nur den Namen der Mannschaft auf Deutsch.  \nASSISTANT: Los Angeles Lakers  \n[Round 1]\nUSER: Ist Yao Ming jemals diesem Team beigetreten? Bitte antworten Sie mit ja oder nein.  \nASSISTANT:",
+        "target": "Nein"
+    },
+    {
+        "input": "[Round 0]\nUSER: Wie lautet der Name der meistgenutzten Essenslieferplattform von Takeaway.com?\nASSISTANT: Lieferando\n[Round 1]\nUSER: Wie lautet der Name des Gründers von Takeaway.com?\nASSISTANT:",
+        "target": "Jitse Groen"
+    },
+    {
+        "input": "[Round 0]\nUSER: Luis Carlos Galán Sarmiento ist ein Politiker aus welchem Land? Antwort mit dem Namen des Landes auf Deutsch.\nASSISTANT: Kolumbien\n[Round 1]\nUSER: Auf welchem der sieben Kontinente befindet sich dieses Land? Es wird kein zusätzlicher Text zur Erklärung benötigt.\nASSISTANT:",
+        "target": "Südamerika"
+    },
+    {
+        "input": "[Round 0]\nUSER: Wie lautet die Abkürzung für GDP, Bitte antworten Sie auf Englisch ohne zusätzliche Textbeschreibungen.\nASSISTANT: Gross Domestic Product\n[Round 1]\nUSER: Was heißt das auf Deutsch, ohne zusätzliche Textbeschreibungen?\nASSISTANT:",
+        "target": "Bruttoinlandsprodukt"
+    },
+    {
+        "input": "[Round 0]\nUSER: Welches Gesetz besagt, dass die Entropie in einem vollständig geschlossenen System immer zunimmt? Nennen Sie nur den Namen des Gesetzes.\nASSISTANT: Zweiter Hauptsatz der Thermodynamik\n[Round 1]\nUSER: Als welches Prinzip ist es auch bekannt? Nennen Sie den Namen des Prinzips.\nASSISTANT:",
+        "target": "Entropieprinzip"
+    },
+    {
+        "input": "[Round 0]\nUSER: Wie lautet die Summenformel für Wasser? Geben Sie nur die Summenformel an.\nASSISTANT: H₂O\n[Round 1]\nUSER: Wie lautet die chemische Gleichung für die Reaktion mit Natriummetall? Geben Sie nur die Gleichung an.\nASSISTANT:",
+        "target": "2Na+2H₂O=2NaOH+H₂↑"
+    },
+    {
+        "input": "[Round 0]\nUSER: Was wird zum Haarewaschen verwendet, Duschgel oder Shampoo? Bitte geben Sie die richtige Antwort, keine Textbeschreibungen.\nASSISTANT: Shampoo\n[Round 1]\nUSER: Welcher dieser beiden Artikel wird nicht zum Haarewaschen verwendet? Bitte antworten Sie auf Deutsch, ohne weitere Erklärungen.\nASSISTANT:",
+        "target": "Duschgel"
+    },
+    {
+        "input": "[Round 0]\nUSER: Wofür steht „E“ in Einsteins berühmter Gleichung E=mc²? Geben Sie einfach die Bedeutung der Definition an, eine Erklärung ist nicht erforderlich.\nASSISTANT: Die Energie eines Objekts\n[Round 1]\nUSER: Was ist die Einheit davon? Bitte antworten Sie auf Deutsch, geben Sie nur die Einheit an.\nASSISTANT:",
+        "target": "Joule"
+    },
+    {
+        "input": "[Round 0]\nUSER: Antoine de Saint-Exupéry hat ein weltbekanntes Kinderbuch geschrieben. Wie lautet der Titel? Bitte geben Sie ihn in Anführungszeichen an.\nASSISTANT: „Der kleine Prinz“\n[Round 1]\nUSER: Welches Geschlecht hat die Hauptfigur in diesem Buch? Bitte antworten Sie mit nur einem Wort, ohne weitere Erklärung.\nASSISTANT:",
+        "target": "Männlich"
+    },
+    {
+        "input": "[Round 0]\nUSER: In welchem Museum befindet sich Van Goghs Meisterwerk „Sternennacht“ heute? Bitte geben Sie den englischen Namen des Museums an.\nASSISTANT: Museum of Modern Art in New York\n[Round 1] \nUSER: Wie lautet die Abkürzung für dieses Museum? Antworten Sie auf Englisch.\nASSISTANT:",
+        "target": "MoMA"
+    },
+    {
+        "input": "[Round 0]\nUSER: Welche Position ist in einem Fußballspiel hauptsächlich für die Verteidigung zuständig? Bitte geben Sie den Namen der Position an. Verwenden Sie keinen redundanten Text.\nASSISTANT: Verteidiger\n[Round 1]\nUSER: Wie viele Spieler spielen auf dieser Position in einer 4-4-2-Formation? Bitte antworten Sie mit einem deutschen Zahlwort.\nASSISTANT:",
+        "target": "Vier"
+    },
+    {
+        "input": "[Round 0]\nUSER: Wie heißt die größte Stadt in den Vereinigten Staaten? Nennen Sie direkt den deutschen Namen und nichts anderes.\nASSISTANT: New York\n[Round 1] \nUSER: In dieser Stadt steht eine Statue, die die Freiheit darstellt und von Frankreich zum 100. Jahrestag der Gründung der Vereinigten Staaten gestiftet wurde. Nennen Sie direkt den deutschen Namen und nichts anderes.\nASSISTANT: Freiheitsstatue\n[Round 2]\nUSER: In welchem Jahr wurde sie fertiggestellt? Bitte antworten Sie im Format xx Tag. xx Monat xx Jahr, kein weiterer Inhalt ist erforderlich.\nASSISTANT:",
+        "target": " 28. Oktober 1886"
+    },
+    {
+        "input": "[Round 0]\nUSER: 박정희 ist ein Politiker aus welchem Land? Antworten Sie mit dem Namen des Landes auf Deutsch.\nASSISTANT: Südkorea\n[Round 1]\nUSER: Wie lautet der japanische Name dieser Person? Bitte antworten Sie auf Deutsch ohne zusätzliche Wörter.\nASSISTANT: Masao Takagi\n[Round 2]\nUSER: Wer hat diesen Mann umgebracht? Bitte geben Sie sowohl den koreanischen als auch den deutschen Namen ohne zusätzliche Worte an.\nASSISTANT:",
+        "target": "김재규, Kim Jae-gyu"
+    },
+    {
+        "input": "[Round 0]\nUSER: „Pulp Fiction“, „Reservoir Dogs – Wilde Hunde“ und „Kill Bill“ sind die Meisterwerke von welchem Regisseur? Nennen Sie seinen Namen.\nASSISTANT: Quentin Tarantino\n[Round 1]\nUSER: Welche Nationalität hat er? Antworten Sie auf Deutsch und geben Sie den Namen des Landes an.\nASSISTANT: die Vereinigten Staaten von Amerika\n[Round 2] \nUSER: Welches ist die Hauptsprache, die in diesem Land gesprochen wird? Antworten Sie auf Deutsch und geben Sie den Namen der Sprache an.\nASSISTANT:",
+        "target": "Englisch"
+    },
+    {
+        "input": "[Round 0]\nUSER: Die Chorpartie des vierten Satzes von Beethovens Symphonie Nr. 9 verwendet ein berühmtes Gedicht als Text. Bitte geben Sie den deutschen Titel des Gedichts ohne Symbole an.\nASSISTANT: Ode an die Freude\n[Round 1]\nUSER: Wer ist der Autor dieses Gedichtes? Bitte antworten Sie auf Deutsch.\nASSISTANT: Johann Christoph Friedrich von Schiller\n[Round 2]\nUSER: In welchem Jahr wurde er geboren? Antworten Sie nur in arabischen Ziffern, keine Einheiten und keine anderen Textbeschreibungen.\nASSISTANT:",
+        "target": "1759"
+    },
+    {
+        "input": "[Round 0]\nUSER: „Land der Berge, Land am Strome“ ist die Nationalhymne welchen Landes?\nASSISTANT: Österreich\n[Round 1]\nUSER: Welche Stadt ist die Hauptstadt dieses Landes? Nennen Sie den Namen der Stadt.\nASSISTANT: Wien\n[Round 2]\nUSER: Aus wie vielen Bezirken besteht diese Stadt? Bitte antworten Sie mit deutschen Zahlwörtern, aber geben Sie keine weiteren Angaben.\nASSISTANT:",
+        "target": "Dreiundzwanzig"
+    },
+    {
+        "input": "[Round 0]\nUSER: Welches Tag wird in HTML verwendet, um eine ungeordnete Liste zu definieren? Es sind keine weiteren textlichen Erläuterungen erforderlich.\nASSISTANT: <ul>\n[Round 1]\nUSER: Wofür ist es die Abkürzung? Bitte antworten Sie auf Englisch, Es sind keine weiteren textlichen Erläuterungen erforderlich.\nASSISTANT: Unordered List\n[Round 2]\nUSER: Wie lautet das entsprechende Tag für geordnete Listen? Es sind keine weiteren textlichen Erläuterungen erforderlich.\nASSISTANT:",
+        "target": "<ol>"
+    },
+    {
+        "input": "[Round 0]\nUSER: Wie lauten die Tonhöhen der vier Saiten der Geige? Beantworten Sie die Frage mit den Saitennamen in Großbuchstaben ohne Zeilenumbruch.\nASSISTANT: E, A, D, G\n[Round 1] \nUSER: Welche Saite hat den tiefsten Ton? Antworten Sie nur mit dem Namen der Saite in Großbuchstaben.\nASSISTANT:",
+        "target": "G"
+    },
+    {
+        "input": "[Round 0]\nUSER: Welches ist der wichtigste christliche Feiertag zum Gedenken an die Geburt Jesu? Nennen Sie bitte direkt den Namen des Festes.\nASSISTANT: Weihnachten\n[Round 1]\nUSER: Wie lautet das genaue Datum? Geben Sie nur das Datum an, sonst nichts.\nASSISTANT: 25. Dezember\n[Round 2]\nUSER: Für diesen Feiertag gibt es auch eine ikonische Figur. Nennen Sie bitte nur den Namen und sonst nichts.\nASSISTANT:",
+        "target": "Weihnachtsmann"
+    },
+    {
+        "input": "[Round 0]\nUSER: Gestern war der 9. Oktober 2023, welches Datum ist dann heute? Geben Sie das Datum im gleichen Format an, ohne zusätzlichen Text.\nASSISTANT: 10. Oktober 2023\n[Round 1]\nUSER: In China gibt es in diesem Monat normalerweise eine längere Ferienzeit. Wegen welches Feiertags gibt es diese lange Ferienzeit? Bitte nennen Sie nur den Namen des Feiertags.\nASSISTANT: Nationalfeiertag\n[Round 2] \nUSER: Bis einschließlich 2024, an welchen konkreten Tagen fällt dieser Feiertag gemäß den von China festgelegten gesetzlichen Feiertagen? Bitte antworten Sie im Format \"von TT-MM bis TT-MM\" und verwenden Sie dabei arabische Ziffern. Geben Sie keine redundanten Informationen aus.\nASSISTANT:",
+        "target": "Von 01-10 bis 03-10."
+    },
+    {
+        "input": "[Round 0]\nUSER: Auf der Hochebene von Gizeh, etwa 10 Kilometer südwestlich der ägyptischen Hauptstadt Kairo, befindet sich die größte noch erhaltene Pyramide Ägyptens. Wie heißt diese Pyramide? Keine zusätzlichen Erklärungen nötig.\nASSISTANT: Cheops-Pyramide\n[Round 1]\nUSER: Wie heißt sie auf Arabisch? Keine zusätzlichen Erklärungen nötig.\nASSISTANT: هرم خوفو\n[Round 2]\nUSER: Aus welcher Dynastie des alten Ägypten stammt der Pharao dieser Pyramide? Bitte geben Sie die Ordnungszahl, keine zusätzlichen Erklärungen.\nASSISTANT:",
+        "target": "Vierte"
+    },
+    {
+        "input": "[Round 0]\nUSER: Welcher der drei Männer, Zhang Xueliang, George Washington und Albert Einstein, wurde am frühesten geboren? Nennen Sie einfach den Namen der Person.\nASSISTANT: George Washington\n[Round 1]\nUSER: In welchem Jahr wurde diese Person geboren? Geben Sie einfach das Jahr im Format \"Im Jahr xx\" an.\nASSISTANT: Im Jahr 1732\n[Round 2]\nUSER: Wer war die jüngste dieser drei Personen? Nennen Sie einfach den Namen der Person.\nASSISTANT: Zhang Xueliang\n[Round 3]\nUSER: In welchem Jahr wurde diese Person geboren? Geben Sie einfach das Jahr im Format \"Im Jahr xx\" an.\nASSISTANT:",
+        "target": "Im Jahr 1901"
+    },
+    {
+        "input": "[Round 0]\nUSER: Welches der folgenden fünf Wörter, in alphabetischer Reihenfolge von a bis z, soll an erster Stelle stehen: Innovation, Tomorrow, Freedom, Kindness, Future. Die Antwort soll in Form eines englischen Wortes gegeben werden. Weitere Erklärungen sind nicht erforderlich.\nASSISTANT: Freedom\n[Round 1]\nUSER: Welches ist das dritte Wort in alphabetischer Reihenfolge? Die Antwort soll in Form eines englischen Wortes gegeben werden. Weitere Erklärungen sind nicht erforderlich.\nASSISTANT: Innovation\n[Round 2] \nUSER: Welches ist das letzte Wort in der alphabetischen Reihenfolge? Die Antwort soll in Form eines englischen Wortes gegeben werden. Weitere Erklärungen sind nicht erforderlich.\nASSISTANT: Tomorrow\n[Round 3]\nUSER: Welches Wort beginnt mit demselben Buchstaben wie ein anderes, steht aber in alphabetischer Reihenfolge a-z dahinter? Die Antwort soll in Form eines englischen Wortes gegeben werden. Weitere Erklärungen sind nicht erforderlich.\nASSISTANT:",
+        "target": "Future"
+    },
+    {
+        "input": "[Round 0]\nUSER: Von wem stammt die Mona Lisa? Bitte geben Sie den vollständigen Namen der Person an, ohne zusätzlichen Text.\nASSISTANT: Leonardo da Vinci\n[Round 1]\nUSER: Aus welcher Epoche stammt dieses Gemälde? Antworten Sie im Format „xx-Zeit“ ohne weitere Erläuterungen.\nASSISTANT: Renaissance-Zeit\n[Round 2] \nUSER: In welchem Land hatten die geistigen und kulturellen Bewegungen dieser Epoche ihren Ursprung? Geben Sie den Namen des Landes direkt an.\nASSISTANT: Italien\n[Round 3] \nUSER: Welche Stadt ist die berühmteste Wasserstadt dieses Landes? Bitte nennen Sie nur den Städtenamen.\nASSISTANT:",
+        "target": "Venedig"
+    },
+    {
+        "input": "[Round 0]\nUSER: Wie lautet das Elementsymbol für Gold im Periodensystem der chemischen Elemente? Antworten Sie nur mit dem Elementsymbol.\nASSISTANT: Au\n[Round 1]\nUSER: Wie lautet das Symbol für das Element, das sich einen Platz links von Gold befindet? Antworten Sie nur mit dem Elementsymbol.\nASSISTANT: Pt\n[Round 2]\nUSER: Wie lautet das Symbol für das Element, das sich im Periodensystem eine Stelle über Gold befindet? Antworten Sie nur mit dem Elementsymbol.\nASSISTANT: Ag\n[Round 3]\nUSER: Wie heißt das Element, das sich im Periodensystem eine Stelle rechts von Gold befindet? Beantworten Sie die Frage mit dem Namen des Elements auf Deutsch, nur ein Wort.\nASSISTANT:",
+        "target": "Quecksilber"
+    },
+    {
+        "input": "[Round 0]\nUSER: Wer wird im Jahr 2025 Präsident der Vereinigten Staaten sein? Bitte geben Sie seinen vollen Namen auf Deutsch an, ohne zusätzlichen Text.\nASSISTANT: Donald John Trump\n[Round 1]\nUSER: Wer ist sein Vorgänger? Bitte geben Sie seinen vollen Namen auf Deutsch an, ohne zusätzlichen Text.\nASSISTANT: Joseph Robinette Biden Jr.\n[Round 2]\nUSER: Der wievielte Präsident der Vereinigten Staaten ist Joe Biden? Geben Sie Ihre Antwort in arabischen Ziffern ohne zusätzliche Wörter an.\nASSISTANT: 46\n[Round 3] \nUSER: An welchem Datum wurde der Präsident vor Joe Biden vereidigt? Befolgen Sie das Format‚ xx Tag/ xx Monat /xx Jahr.\nASSISTANT:",
+        "target": "20/01/2017"
+    },
+    {
+        "input": "[Round 0]\nUSER: Wie heißt der längste Unterwassertunnel der Welt? Geben Sie nur den Namen des Tunnels an.\n ASSISTANT: Seikan-Tunnel\n [Round 1]\n USER: In welchem Land befindet er sich? Geben Sie den vollständigen Namen des Landes an.\n ASSISTANT: Japan\n [Round 2] \n USER: Wie groß ist die ungefähre Landfläche dieses Landes in zehntausend Quadratkilometern? Antworten Sie nur mit arabischen Ziffern.\n ASSISTANT: 37,8\n [Round 3]\n USER: Was ist die Höhe des höchsten Berges in diesem Land in Metern? Antworten Sie nur mit arabischen Ziffern, und geben Sie die Höhe als ganze Zahl an.\n ASSISTANT:",
+        "target": "3776"
+    },
+    {
+        "input": "[Round 0]\nUSER: Wer ist die ursprüngliche Sängerin, die 2009 den Song „Bad Romance“ veröffentlichte? Nennen Sie ihren Künstlernamen auf Englisch ohne unnötige Erklärungen.\nASSISTANT: Lady Gaga\n[Round 1]\nUSER: Welches war ihr erstes Soloalbum? Nennen Sie den englischen Namen des Albums ohne erklärende Worte oder Symbole.\nASSISTANT: The Fame\n[Round 2]\nUSER: In welchem Jahr wurde dieses Album veröffentlicht? Geben Sie das Jahr in arabischen Ziffern an.\nASSISTANT: 2008\n[Round 3]\nUSER: Wie viele Jahre vergingen, bevor sie „Born This Way“ veröffentlichte? Geben Sie einfach die deutsche Zahl an.\nASSISTANT:",
+        "target": "Drei"
+    },
+    {
+        "input": "[Round 0]\nUSER: In welcher Sprache wird матрешка geschrieben? Es wird nur der deutsche Name der Sprache verlangt.\nASSISTANT: Russisch\n[Round 1]\nUSER: In welchem Land ist diese Sprache die offizielle Sprache? Nennen Sie das Land mit der größten Landfläche. Es ist nur der deutsche Name des Landes erforderlich.\nASSISTANT: Russland\n[Round 2]\nUSER: Was ist die Hauptstadt dieses Landes? Geben Sie nur den deutschen Namen der Stadt an.\nASSISTANT: Moskau\n[Round 3] USER: Wie lautet der Name der Kirche am südlichen Ende des Roten Platzes im Zentrum dieser Stadt? Es wird nur der englische Name der Kirche verlangt.\nASSISTANT:",
+        "target": "Saint Basil's Cathedral"
+    },
+    {
+        "input": "[Round 0]\nUSER: Nach wessen Testament wurde der Nobelpreis gestiftet? Nennen Sie seinen vollständigen englischen Namen ohne zusätzlichen Text.\nASSISTANT: Alfred Bernhard Nobel\n[Round 1] \nUSER: Welches künstliche Element ist nach ihm benannt? Geben Sie den deutschen Namen des Elements in einem Wort an.\nASSISTANT: Nobelium \n[Round 2]\nUSER: Wie lautet die Ordnungszahl dieses Elements? Antwort in Form einer arabischen Zahl ohne zusätzlichen Text.\nASSISTANT:",
+        "target": "102"
+    },
+    {
+        "input": "[Round 0]\nUSER: Wer spielte Luke Skywalker, den Sohn von Darth Vader, in der berühmten Filmreihe Star Wars? Nennen Sie einfach den Namen.\nASSISTANT: Mark Hamill\n[Round 1]\nUSER: Für welchen Preis wurde er für diesen Film als bester Schauspieler ausgezeichnet? Nennen Sie einfach den Namen des Preises.\nASSISTANT: Saturn Award\n[Round 2]\nUSER: In welchem Jahr wurde dieser Preis gegründet? Bitte antworten Sie in der Form \"Gegründet im Jahr xxxx\".\nASSISTANT: Gegründet im Jahr 1972\n[Round 3]\nUSER: Wie lautet die Gründungsorganisation? Geben Sie einfach den Namen an.\nASSISTANT:",
+        "target": "Academy of Science Fiction, Fantasy and Horror Films"
+    },
+    {
+        "input": "[Round 0]\nUSER: Wie heißt der berühmte romantische Film, der auf einem Schiffsunglück im Jahr 1912 basiert? Geben Sie den Titel des Films ohne das Symbol „ “ und ohne weiteren Text an.\nASSISTANT: Titanic\n[Round 1]\nUSER: Welcher Gesellschaft gehörte das Schiff, das in diesem realen Schiffsunglück verwickelt war? Bitte antworten Sie auf Deutsch, ohne weitere Symbole oder Inhalte.\nASSISTANT: White Star Line, Großbritannien\n[Round 2]\nUSER: In welchem Jahr wurde diese Gesellschaft geschlossen? Geben Sie bitte nur die Jahreszahl an.\nASSISTANT: 1935\n[Round 3] \nUSER: Wie lautete der Name des Kapitäns, der das Schiff während des Untergangs befehligte? Geben Sie nur den deutschen Namen an.\nASSISTANT:",
+        "target": "Edward John Smith"
+    },
+    {
+        "input": "[Round 0]\nUSER: Was ist das Sternzeichen einer Person, die am 30. Juli geboren ist? Nennen Sie einfach den Namen des Zeichens.\nASSISTANT: Löwe\n[Round 1]\nUSER: Welches Zeichen steht in chronologischer Reihenfolge vor ihm?\nASSISTANT: Krebs\n[Round 2]\nUSER: Ausgehend von [Round 1]: Welchen Datumsbereich hat das vorhergehende Sternzeichen? Bitte antworten Sie im Format „Tag. Monat – Tag. Monat\", wobei die Zahlen in arabischen Ziffern anzugeben sind.\nASSISTANT: 21. Mai - 21. Juni\n[Round 3]\nUSER: Wie heißt, ausgehend von [Round 2], das vorhergehende Sternzeichen dieses Sternzeichens? Nennen Sie nur den Namen, ohne Beschreibung.\nASSISTANT:",
+        "target": "Stier"
+    }
+]

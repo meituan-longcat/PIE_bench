@@ -1,0 +1,390 @@
+[
+    {
+        "input": "Eine Schulklasse unternimmt einen Ausflug in einen Park. Dabei organisieren 50 Schüler eine Bootsfahrt (Hinweise zur Bootsnutzung: Ein Großboot fasst maximal 6 Personen, ein Kleinboot maximal 4 Personen. Die Mietkosten betragen 10 Euro pro Großboot und 8 Euro pro Kleinboot). Sie haben insgesamt 10 Boote gemietet, und jedes Boot war voll besetzt. Wie viele Großboote wurden gemietet?",
+        "target": "5 Boote"
+    },
+    {
+        "input": "Ein Schiff verkehrt zwischen zwei Anlegestellen A und B. Flussabwärts benötigt es 5 Stunden, flussaufwärts 7 Stunden. Die Strömungsgeschwindigkeit des Flusses beträgt 5 km/h. Wie viele Kilometer beträgt die Entfernung zwischen A und B?",
+        "target": "175 km"
+    },
+    {
+        "input": "Luca fragt Herrn Müller nach seinem Alter. Herr Müller antwortet: „Als ich so alt war wie du jetzt, warst du erst 3 Jahre alt. Wenn du so alt bist wie ich jetzt, werde ich 45 Jahre alt sein.“ Wie alt ist er dieses Jahr?",
+        "target": "31 Jahre"
+    },
+    {
+        "input": "Ein Arbeiter hatte geplant, eine Reihe von Teilen innerhalb einer vorgegebenen Zeit zu verarbeiten. Wenn er pro Stunde 10 Teile verarbeitet, kann er 3 Teile mehr als geplant fertigen; wenn er pro Stunde 11 Teile verarbeitet, kann er die Aufgabe eine Stunde früher abschließen. Wie viele Teile sind in dieser Produktion?",
+        "target": "77 Teile"
+    },
+    {
+        "input": "Auf einer Eisenbahnstrecke befinden sich zwei Bahnhöfe (A und B) im Abstand von 408 km. Ein Regionalzug verlässt Bahnhof A mit einer Geschwindigkeit von 72 km/h, ein Expresszug startet gleichzeitig von Bahnhof B mit 96 km/h. Wenn zwei Züge voneinander weg in entgegengesetzte Richtungen fahren, nach wie vielen Stunden sind sie 660 Kilometer voneinander entfernt?",
+        "target": "1,5 Stunden"
+    },
+    {
+        "input": "Ein Geschäft verkauft ein touristisches Souvenir. Im April betrug der Umsatz 20.000 Euro. Um die Verkaufsmenge zu erhöhen, wurde das Souvenir im Mai mit einem Rabatt von 10 % verkauft. Dadurch stieg die Verkaufsmenge um 200 Stück, und der Umsatz erhöhte sich um 7.000 Euro. Berechnen Sie den Verkaufspreis des Souvenirs im April.",
+        "target": "50 Euro"
+    },
+    {
+        "input": "Im Kaufhaus „Westfield Centro\" wurde beim Verkauf festgestellt: Das Kaufhaus verkauft von der Kindermode der Marke „Monkind\" durchschnittlich 20 Stück pro Tag, mit einem Gewinn von 40 Euro pro Stück. Für jede 1 Euro Preissenkung pro Kleidungsstück steigt die tägliche Verkaufsmenge um 2 Stück. Berechnen Sie die maximale Preissenkung pro Stück, die einen Tagesgewinn von 1.200 Euro ermöglicht.",
+        "target": "20 Euro"
+    },
+    {
+        "input": "Zur Bearbeitung eines Werkstücks benötigt Arbeiter A allein 20 Tage, jedoch Arbeiter B allein nur 10 Tage. Die Aufgabe soll von den beiden Arbeitern innerhalb von 12 Tagen fertiggestellt werden. Wie viele Tage muss Arbeiter B allein arbeiten, bevor Arbeiter A die restliche Bearbeitung übernimmt, damit die Aufgabe genau rechtzeitig abgeschlossen wird?",
+        "target": "8 Tage"
+    },
+    {
+        "input": "Ein Projekt kann von Arbeiter A allein in 10 Tagen abgeschlossen werden, Arbeiter B benötigt dafür allein 15 Tage. Zuerst arbeitet A fünf Tage allein an dem Projekt. Anschließend arbeiten A und B gemeinsam weiter, um zwei Drittel der gesamten Arbeit zu erledigen. Wie viele Tage wurde insgesamt gearbeitet?",
+        "target": "6 Tage"
+    },
+    {
+        "input": "Ein Hemd hat einen Listenpreis von 100 Euro pro Stück. Wenn jedes Hemd mit 20 % Rabatt verkauft wird, beträgt der Gewinnaufschlag weiterhin 25%. Wie hoch ist der Einkaufspreis pro Hemd?",
+        "target": "64 Euro"
+    },
+    {
+        "input": "Eine Tasse und eine Wasserkanne kosten zusammen 45 Euro. Drei Tassen und zwei Wasserkannen kosten zusammen 99 Euro. Wie hoch ist dabei der Preis einer Tasse?",
+        "target": "9 Euro"
+    },
+    {
+        "input": "Eine Schulklasse hat an alle Schüler Eintrittskarten für den verpflichtenden Verkauf verteilt. Wenn jeder Schüler 9 Karten bekommt, bleiben 24 Karten übrig. Wenn jeder Schüler 10 Karten bekommt, fehlen 16 Karten. Wie viele Schüler sind in der Klasse?",
+        "target": "40 Schüler"
+    },
+    {
+        "input": "Während der Feiertage bietet eine Bekleidungsmarke reduzierte Kleidung an. Felix kaufte ein Outfit bestehend aus einer Jacke und einer Hose für insgesamt 400 Euro. Dabei wurde die Jacke mit 20% Rabatt und die Hose mit 30% Rabatt verkauft. Die Originalpreise von Jacke und Hose zusammen betragen 540 Euro. Wie hoch ist der Originalpreis der Jacke?",
+        "target": "220 Euro"
+    },
+    {
+        "input": "David und Felix gehen gleichzeitig von der Schule zum Technikmuseum los, um an einer Aktivität teilzunehmen. David läuft mit einer Geschwindigkeit von 6 km/h, Felix mit 8 km/h. Nach einer Stunde bemerkt Felix, dass er Materialien vergessen hat, er kehrt zur Schule zurück, um sie zu holen. Danach macht Felix sich sofort auf den Weg, um David einzuholen. Wie viele Stunden dauert es ab Felix' erneutem Aufbruch von der Schule, bis er David einholt?",
+        "target": "6 Stunden"
+    },
+    {
+        "input": "Ein Bekleidungsgroßhändler verkauft Hemden einer bestimmten Marke. Ursprünglich betrug der Gewinn pro Hemd 30 Euro. In der Nebensaison plant der Großhandel eine Preissenkung. Eine Umfrage hat ergeben, dass für jede Preissenkung von x Euro pro Hemd täglich (20 + x) Hemden verkauft werden können. Wenn täglich ein Gewinn von 616 Euro erzielt wird, wie viel sollte der Preis pro Hemd gesenkt werden, um den Lagerbestand schnell abzubauen?",
+        "target": "8 Euro"
+    },
+    {
+        "input": "Ein Entwicklungsunternehmen hat eine bestimmte Anzahl neuer Produkte hergestellt, die nach einer Feinbearbeitung auf den Markt gebracht werden können. Es gibt zwei Fabriken, A und B, die diese Produkte feinbearbeiten möchten. Es ist bekannt, dass Fabrik A täglich 16 Stück bearbeiten kann, Fabrik B täglich 24 Stück. Wenn Fabrik A die Produkte alleine bearbeitet, dauert es 20 Tage länger als bei Fabrik B. Wie viele Produkte gibt es insgesamt?",
+        "target": "960 Stück"
+    },
+    {
+        "input": "Ein Telekommunikationsanbieter bietet zwei Arten von SIM-Karten an. Die Tarife für die Karte A sind wie folgt: Es gibt keine monatliche Grundgebühr, und für jedes Gespräch werden 0,6 Euro pro Minute berechnet. Die Tarife für die Karte B sind wie folgt: Es wird eine monatliche Grundgebühr von 40 Euro erhoben, und zusätzlich fallen 0,4 Euro pro Minute für jedes Gespräch an. Nach wie vielen Gesprächsminuten sind die Gesamtkosten für Karte A und Karte B gleich?",
+        "target": "200 Minuten"
+    },
+    {
+        "input": "Daniel kaufte zwei Paare Schuhe mit 20% Rabatt und sparte dadurch 20 Euro im Vergleich zum Kauf ohne Rabatt. Wie viel Euro hat Daniel tatsächlich für die beiden Paare Schuhe bezahlt?",
+        "target": "80 Euro"
+    },
+    {
+        "input": "Die Bahnhöfe A und B liegen 480 Kilometer voneinander entfernt. Ein Regionalzug fährt gleichzeitig mit 90 km/h von Bahnhof A ab, während ein Expresszug mit 140 km/h von Bahnhof B abfährt. Der Regionalzug fährt hinter dem Expresszug in derselben Richtung. Nach wie vielen Stunden beträgt der Abstand zwischen beiden Zügen 600 Kilometer?",
+        "target": "2,4 Stunden"
+    },
+    {
+        "input": "Der Großvater ist derzeit fünfmal so alt wie sein Enkel. In 12 Jahren wird das Alter des Großvaters dreimal so alt sein wie das des Enkels. Wie alt ist der Enkel derzeit?",
+        "target": "12 Jahre"
+    },
+    {
+        "input": "Eine Mittelschule veranstaltet ein Basketballturnier für Schüler der 9. Jahrgangsstufe. Bei diesem Turnier tritt jede Klasse genau einmal gegen jede andere Klasse an. Wenn insgesamt 15 Spiele geplant sind, wie viele Klassen nehmen am Turnier teil?",
+        "target": "6"
+    },
+    {
+        "input": "Das Gesundheitsamt hat eine Grippeforschung durchgeführt, um die Ausbreitung der Grippe zu kontrollieren. Es wurde festgestellt, dass sich ausgehend von einer infizierten Person nach zwei Ansteckungsrunden insgesamt 100 Personen angesteckt haben. Wenn sich die Infektion mit dieser Geschwindigkeit fortsetzt, wie viele Personen werden nach der dritten Runde angesteckt sein?",
+        "target": "1.000 Personen"
+    },
+    {
+        "input": "In einer Schule werden Sportler in Gruppen trainiert. Werden Gruppen zu je 7 Personen gebildet, bleiben 5 Personen übrig. Bei Gruppen zu je 8 Personen fehlen hingegen 3 Personen. Wie viele Sportler hat die Schule insgesamt?",
+        "target": "61 Personen"
+    },
+    {
+        "input": "Ein Einkaufszentrum verkauft Markenhemden und erzielt einen Gewinn von 40 Euro pro Stück, wobei täglich 20 Stück verkauft werden. Um den Umsatz zu steigern, den Gewinn zu erhöhen und den Lagerbestand zu minimieren, hat das Einkaufszentrum beschlossen, einen Preisnachlass anzuwenden. Marktforschungen zeigen: Bei einer Preissenkung um 4,00 Euro pro Hemd erhöht sich der tägliche Absatz um 8 Stück. Wie viel Euro muss der Preis pro Hemd maximal gesenkt werden, damit der durchschnittliche Tagesgewinn 1200 Euro beträgt?",
+        "target": "20 Euro"
+    },
+    {
+        "input": "Frau Schmidt betreibt einen Obstladen und kauft eine bestimmte Obstsorte zum Einkaufspreis von 4 Euro pro Pfund. Der Verkaufspreis beträgt 6 Euro pro Pfund, wobei täglich 150 Pfund verkauft werden. Durch eine Marktanalyse wurde festgestellt: Bei einer Preissenkung von 0,1 Euro pro Pfund erhöht sich der tägliche Absatz um 30 Pfund. Um sicherzustellen, dass mindestens 360 Pfund pro Tag verkauft werden, beschließt Frau Schmidt, den Preis zu senken. Wie viel Euro muss der Verkaufspreis pro Pfund reduziert werden, um einen täglichen Gewinn von 450 Euro zu erzielen?",
+        "target": "1 Euro"
+    },
+    {
+        "input": "Ein Mantel hat einen Einkaufspreis von 360 Euro und einen Listenpreis von 600 Euro. Mit welchem Rabatt muss der Mantel verkauft werden, um einen Gewinn von 25% zu erzielen?",
+        "target": "4 Personen"
+    },
+    {
+        "input": "Ein Mantel hat einen Einkaufspreis von 360,00 Euro und einen Listenpreis von 600,00 Euro. Mit welchem Rabatt muss der Mantel verkauft werden, um einen Gewinn von 25% zu erzielen?",
+        "target": "25%"
+    },
+    {
+        "input": "Eine Bibliothek muss neu organisiert werden. Wenn eine einzelne Person diese Aufgabe alleine übernimmt, benötigt sie dafür 60 Stunden. Zunächst arbeitet eine Gruppe von Personen eine Stunde lang. Anschließend kommen 15 weitere Personen hinzu, und gemeinsam beenden sie die Arbeit in weiteren 2 Stunden. Angenommen, die Arbeitseffizienz jeder Person ist gleich, wie viele Personen waren anfangs mit dem Aufräumen beschäftigt?",
+        "target": "10 Personen"
+    },
+    {
+        "input": "Ein Unternehmen produziert ein Produkt, dessen Herstellungskosten 400 Euro betragen und der Verkaufspreis 505 Euro ist. Um den Markt weiter zu erweitern, hat das Unternehmen beschlossen, den Verkaufspreis dieses Produkts um 4 % zu senken, wodurch der Absatz um 5 % steigen wird. Um den gleichen Gewinn wie vor der Preissenkung zu erzielen, wie viel muss der Preis pro Stück des Produkts gesenkt werden?",
+        "target": "15,2 Euro"
+    },
+    {
+        "input": "In der Qualifikation zur Fußball-Weltmeisterschaft wird ein Rundenturnier mit Hin- und Rückspielen durchgeführt. Dabei spielt jede Mannschaft gegen jede andere Mannschaft je einmal zu Hause und einmal auswärts. Insgesamt finden 110 Spiele statt. Wie viele Mannschaften nehmen an den Spielen teil?",
+        "target": "11 Mannschaften"
+    },
+    {
+        "input": "Bei einer Windgeschwindigkeit von 25 km/h benötigt ein Flugzeug bei Rückenwind 2,8 Stunden, um vom Flughafen A zum Flughafen B zu fliegen. Bei Gegenwind auf derselben Strecke benötigt es 3 Stunden. Wie viele Kilometer beträgt die Entfernung zwischen den Flughäfen A und B?",
+        "target": "2.100 km"
+    },
+    {
+        "input": "In einem Einkaufszentrum wird der Preis für eine Jacke um 50% über dem Selbstkostenpreis festgelegt. Zur Förderung des Verkaufs wird die Jacke anschließend mit 20% Rabatt auf den Listenpreis für 240 Euro verkauft. Wie hoch ist der Selbstkostenpreis der Jacke?",
+        "target": "200 Euro"
+    },
+    {
+        "input": "Der ursprüngliche Preis eines Kleidungsstücks beträgt 150 Euro. Nach zwei Preissenkungen liegt der Verkaufspreis bei 96 Euro. Um wie viel Prozent wurde der Preis durchschnittlich pro Senkung reduziert?",
+        "target": "0.2"
+    },
+    {
+        "input": "Eine Person hat die Grippe. Nach zwei Runden der Ansteckung sind insgesamt 100 Menschen erkrankt. Wie viele Menschen steckt eine infizierte Person durchschnittlich pro Runde an?",
+        "target": "9 Personen"
+    },
+    {
+        "input": "Zu Beginn des neuen Schuljahres fragte ein Elternteil den Lehrer, wie viele Schüler derzeit in der Klasse sind. Der Lehrer antwortete: „Wenn zur jetzigen Schülerzahl noch einmal dieselbe Anzahl hinzukommt, dazu die Hälfte und ein Viertel der ursprünglichen Zahl, und wenn auch Ihr Kind dazukommt, sind es genau 100 Schüler.\" Berechnen Sie bitte, wie viele Schüler derzeit in der Klasse sind.",
+        "target": "36 Personen"
+    },
+    {
+        "input": "Ein Obstgarten plante ursprünglich, 100 Pfirsichbäume zu pflanzen, wobei jeder Baum im Durchschnitt 1.000 Pfirsiche trägt. Um die Ernte zu steigern, wurde beschlossen, mehr Bäume zu pflanzen. Eine Untersuchung zeigte, dass mit jedem zusätzlichen Baum die Ernte pro Baum um 2 Pfirsiche sinkt. Es können jedoch nicht mehr als 100 zusätzliche Bäume gepflanzt werden. Wenn die Ernte um 15,2% gesteigert werden soll, wie viele zusätzliche Bäume müssen gepflanzt werden?",
+        "target": "20 Bäume"
+    },
+    {
+        "input": "Felix geht in einen Schreibwarenladen, um Bleistifte zu kaufen. Der Verkäufer sagt: „Bei einem Kauf größerer Mengen gewähren wir 20% Rabatt auf den Originalpreis.“ Felix berechnet, dass er beim Kauf von 50 Bleistiften insgesamt 6 Euro im Vergleich zum Originalpreis spart. Wie hoch ist der Originalpreis pro Bleistift in Euro?",
+        "target": "0,6 Euro"
+    },
+    {
+        "input": "Aufgrund des Saisonwechsels bietet ein Geschäft Rabatte auf eine Bekleidung an. Wenn das Kleidungsstück mit 50 % des Listenpreises verkauft wird, entsteht ein Verlust von 20 Euro. Wenn es mit 80 % des Listenpreises verkauft wird, ergibt sich ein Gewinn von 40 Euro. Wie hoch ist der Listenpreis pro Kleidungsstück?",
+        "target": "200 Euro"
+    },
+    {
+        "input": "Ein Geschäft hat eine Lieferung von Bekleidung erhalten, deren Einkaufspreis 50 Euro pro Stück beträgt. Wenn die Kleidung zu einem Preis von 60 Euro pro Stück verkauft wird, können 800 Stück verkauft werden. Wenn der Preis pro Stück um 1 Euro erhöht wird, sinkt die Verkaufszahl um 20 Stück. Um einen Gewinn von 12.000 Euro zu erzielen, wobei die Kosten der verkauften Waren 24.000 Euro nicht übersteigen dürfen, welcher Verkaufspreis pro Stück wäre dann am besten?",
+        "target": "80 Euro"
+    },
+    {
+        "input": "Ein Geschäft verkauft ein Produkt, dessen Kosten 40 Euro pro Kilogramm betragen. Wenn es zu einem Preis von 50 Euro pro Kilogramm verkauft wird, können im Monat 500 Kilogramm verkauft werden. Für jede Preiserhöhung von 1 Euro sinkt die Verkaufsmenge um 10 Kilogramm. Das Geschäft möchte, dass der monatliche Verkaufsumsatz 20.000 Euro nicht überschreitet und gleichzeitig der monatliche Verkaufsgewinn 8.000 Euro beträgt. Zu welchem Preis pro Kilogramm sollte das Produkt verkauft werden?",
+        "target": "80 Euro"
+    },
+    {
+        "input": "Ein Geschäft hat den Preis eines Produkts angepasst und verkauft es zu 80 % des ursprünglichen Preises. Dabei beträgt der Gewinnzuschlagssatz 10 %. Der Einkaufspreis des Produkts liegt bei 160 Euro. Wie hoch ist der ursprüngliche Verkaufspreis des Produkts?",
+        "target": "220 Euro"
+    },
+    {
+        "input": "Das Reisebüro Opodo hat die folgende Preisstruktur eingeführt, um Touristen anzulocken: Wenn die Zahl der Teilnehmer 25 Personen nicht überschreitet, beträgt der Preis pro Person 1.000 Euro. Wenn die Zahl der Teilnehmer 25 Personen übersteigt, sinkt der Preis pro Person um 20 Euro für jede zusätzliche Person, jedoch nicht unter 700 Euro pro Person. Eine Firma organisiert eine Reise für ihre Mitarbeiter und zahlt dem Reisebüro insgesamt 27.000 Euro für die Reise. Wie viele Mitarbeiter der Firma haben an dieser Reise teilgenommen?",
+        "target": "30 Personen"
+    },
+    {
+        "input": "Leon und Tim trainieren zusammen für einen Sprintwettkampf. Leon läuft 7 Meter pro Sekunde, Tim 6,5 Meter pro Sekunde. Leon lässt Tim einen Startvorsprung von 5 Metern. Nach wie vielen Sekunden hat Leon Tim eingeholt?",
+        "target": "10 Sekunden"
+    },
+    {
+        "input": "Eine Schulklasse macht einen Ruder-Ausflug. Wenn 7 Schüler pro Boot sitzen, bleiben 5 Schüler ohne Platz. Wenn jedoch 8 Schüler pro Boot sitzen, bleiben 2 Plätze frei. Wie viele Personen nehmen an dem Ausflug teil?",
+        "target": "54 Personen"
+    },
+    {
+        "input": "Wenn eine Klasse ihren Abschluss macht, muss jeder Schüler mit jedem anderen Schüler ein Foto zu zweit machen. Insgesamt entstehen dabei 780 Fotos. Wie viele Schüler sind in dieser Klasse?",
+        "target": "40 Schüler"
+    },
+    {
+        "input": "Einige Arbeiter arbeiten in einer Ziegelei. Werden pro Arbeiter 2 Ziegel getragen, bleiben 6 Ziegel übrig. Werden pro Arbeiter 4 Ziegel getragen, reichen die Ziegel genau aus. Wie viele Arbeiter sind beschäftigt?",
+        "target": "3 Arbeiter"
+    },
+    {
+        "input": "Zu Neujahr hat Nina für 88,00 Euro zwei Arten von Geschenken gekauft: Geschenk A kostet 12 Euro pro Stück, Geschenk B kostet 8 Euro pro Stück. Von Geschenk A hat sie ein Stück weniger gekauft als von Geschenk B. Wie viele Stücke von Geschenk A hat Nina gekauft?",
+        "target": "4 Stücke"
+    },
+    {
+        "input": "Ein Kaufhaus vertreibt eine neue Art von Schreibtischlampen mit einem Einkaufspreis von 30 Euro pro Stück. Marktforschung zeigt: Wenn der Verkaufspreis bei 40 Euro liegt, können durchschnittlich 300 Stück pro Monat verkauft werden. Für jede Preiserhöhung um 1 Euro sinkt die monatliche Verkaufsmenge im Durchschnitt um 10 Stück. Bei welchem Verkaufspreis erzielen die Schreibtischlampen einen monatlichen Verkaufsgewinn von genau 4.000 Euro?",
+        "target": "50 Euro"
+    },
+    {
+        "input": "Der Listenpreis eines Kleidungsstücks beträgt 300 Euro. Beim Verkauf mit 20% Rabatt wird ein Gewinn von 60,00 Euro erzielt. Wie hoch sind die Selbstkosten dieses Kleidungsstücks?",
+        "target": "180 Euro"
+    },
+    {
+        "input": "Für 4 leere Mineralwasserflaschen kann man 1 volle Flasche Mineralwasser eintauschen. Eine Person hat 15 leere Mineralwasserflaschen. Wie viele Flaschen kann die Person maximal trinken, ohne zusätzliches Geld auszugeben?",
+        "target": "4 Flaschen"
+    },
+    {
+        "input": "Eine bestimmte Anzahl Pfirsiche soll an eine Gruppe Kinder verteilt werden. Wenn jedes Kind 5 Pfirsiche bekommt, bleiben 8 Pfirsiche übrig. Wenn jedoch jedes Kind 8 Pfirsiche bekommen soll, fehlen 7 Pfirsiche. Wie viele Pfirsiche gibt es insgesamt?",
+        "target": "33 Pfirsiche"
+    },
+    {
+        "input": "Ein Kaufhaus verkauft eine Charge Hemden mit einem durchschnittlichen Absatz von 20 Hemden pro Tag und einem Gewinn von 45 Euro pro Hemd. Aufgrund der globalen Finanzkrise beschließt das Kaufhaus, den Preis zu senken, um den Lagerbestand schneller zu reduzieren. Marktforschung zeigt, dass bei einer Preissenkung von 1 Euro pro Hemd der tägliche Absatz um 4 Hemden steigt. Um welchen maximalen Betrag sollte der Preis pro Hemd gesenkt werden, damit der durchschnittliche Tagesgewinn des Kaufhauses 2.100 Euro beträgt?",
+        "target": "30 Euro"
+    },
+    {
+        "input": "Der Einkaufspreis eines Produkts beträgt 100 Euro, der Verkaufspreis liegt bei 150 Euro. Aufgrund von Lagerüberbeständen plant der Händler, einen Rabatt anzubieten, muss jedoch eine Gewinnspanne von mindestens 20% sicherstellen. Wie viel Prozent Rabatt können maximal gewährt werden?",
+        "target": "20%"
+    },
+    {
+        "input": "Ein Projekt kann von A alleine in 10 Tagen abgeschlossen werden, während B alleine 15 Tage benötigt. Wenn A zunächst 5 Tage arbeitet und danach A und B gemeinsam den Rest des Projekts bearbeiten, wie viele Tage werden sie noch dafür benötigen?",
+        "target": "3 Tage"
+    },
+    {
+        "input": "Im Kaufhaus Karstadt hat eine Ware einen Listenpreis von 1.540 Euro. Wenn die Ware mit 10% Rabatt verkauft wird, wird dennoch ein Gewinn von 10% auf den Einkaufspreis erzielt. Wie hoch ist der Einkaufspreis der Ware?",
+        "target": "1.260 Euro"
+    },
+    {
+        "input": "Paul fährt mit dem Motorrad mit konstanter Geschwindigkeit von zu Hause zum Bahnhof. Wenn er mit einer Geschwindigkeit von 50 km/h fährt, verpasst er den Zug um 15 Minuten. Wenn er mit einer Geschwindigkeit von 60 km/h fährt, verpasst er den Zug um 5 Minuten. Wie viele Kilometer beträgt die Entfernung von Pauls Zuhause zum Bahnhof?",
+        "target": "50 km"
+    },
+    {
+        "input": "Die Touristeninformationen für ein Feriengebiet sind wie folgt: Bei bis zu 30 Personen beträgt der Preis pro Person 800,00 Euro; bei mehr als 30 Personen sinkt der Preis pro Person um 10 Euro für jede zusätzliche Person, jedoch nicht unter 550 Euro pro Person. Ein Unternehmen organisiert eine Reise für eine Gruppe von Mitarbeitern zu diesem Feriengebiet und zahlt eine Reisegebühr von 29.250 Euro. Wie viele Personen nehmen an dieser Reise teil?",
+        "target": "45 Personen"
+    },
+    {
+        "input": "Ein Produkt hat einen Listenpreis von 200 Euro. Wenn es mit einem Rabatt von 10 % verkauft wird, erzielt das Geschäft dennoch einen Gewinn von 20 Euro pro Stück. Wie hoch ist der Einkaufspreis dieses Produkts?",
+        "target": "160 Euro"
+    },
+    {
+        "input": "Um den Stromverbrauch der Einwohner zu fördern, hat das Elektrizitätswerk einer Stadt folgende Tarifregelung eingeführt: Für einen monatlichen Stromverbrauch bis zu 100 kWh beträgt der Preis 0,50 Euro pro kWh; für den über 100 kWh hinausgehenden Verbrauch beträgt der Preis 0,40 Euro pro kWh. Wenn ein Haushalt im Februar 2002 im Durchschnitt 0,48 Euro pro kWh bezahlt hat, wie hoch war dann der Stromverbrauch dieses Haushalts im Februar?",
+        "target": "125 kWh"
+    },
+    {
+        "input": "Opas 80. Geburtstag steht kurz bevor. Felix möchte diesen besonderen Tag im Kalender einkreisen, weiß aber nicht, um welches Datum es sich handelt. Also fragt er seinen Vater. Der lächelt und sagt: „Auf dem Kalender ergibt die Summe der vier Zahlen direkt über, unter, links und rechts von diesem Datum genau Opas Alter.\" An welchem Tag hat Felix' Opa Geburtstag?",
+        "target": "Am 20."
+    },
+    {
+        "input": "In der Saison 2018-2019 der chinesischen Basketballliga (CBA) wurde ein Doppelrundensystem verwendet, bei dem jedes Team zweimal gegen jedes andere Team spielt. Die Gesamtanzahl der Spiele betrug 380. Wie viele Teams nahmen an der Liga teil?",
+        "target": "20 Teams"
+    },
+    {
+        "input": "Team A hatte ursprünglich 65 Arbeiter, Team B hatte 40 Arbeiter. Nun kommen 30 weitere Arbeiter hinzu. Damit die Anzahl der Arbeiter in Team B der Hälfte der Anzahl in Team A entspricht, wie viele der neuen Arbeiter müssen Team A zugeteilt werden?",
+        "target": "25 Personen"
+    },
+    {
+        "input": "Eine Werkstatt erhält einen Fertigungsauftrag. Gemäß Plan sollen täglich 120 Stück bearbeitet werden, sodass der Auftrag termingerecht abgeschlossen werden kann. Tatsächlich wurden jedoch täglich 20 Stück mehr gefertigt, sodass der Auftrag 4 Tage früher fertiggestellt wurde. Wie viele Stücke umfasst dieser Fertigungsauftrag insgesamt?",
+        "target": "3.360 Stücke"
+    },
+    {
+        "input": "Um den Absatz zu fördern, hat ein Geschäft den Verkaufspreis einer Kamera angepasst: Sie wird zu 80% des ursprünglichen Verkaufspreises angeboten, wobei eine Gewinnspanne von 14% erzielt wird. Der Einkaufspreis der Kamera beträgt 1.200 Euro. Wie hoch war der ursprüngliche Verkaufspreis der Kamera?",
+        "target": "1.710 Euro"
+    },
+    {
+        "input": "Ein Bekleidungsgeschäft stellt fest, dass von einem Kinderkleidungsstück durchschnittlich 20 Stück pro Tag verkauft werden, wobei der Gewinn pro Stück 40 Euro beträgt. Das Einkaufszentrum beschließt, durch eine angemessene Preissenkung den Absatz zu steigern. Eine Untersuchung ergibt: Wenn der Preis pro Stück um 4 Euro gesenkt wird, können im Durchschnitt täglich 8 Stück mehr verkauft werden. Um mit dem Verkauf dieser Kinderkleidung täglich einen Gewinn von 1.200 Euro zu erzielen, um wie viel Euro kann der Preis pro Kinderkleidungsstück maximal gesenkt werden?",
+        "target": "20 Euro"
+    },
+    {
+        "input": "Eine Mutter heiratete im Alter von 26 Jahren und bekam im darauffolgenden Jahr einen Sohn. Einige Jahre später ist sie dreimal so alt wie ihr Sohn. Wie alt ist die Mutter zu diesem Zeitpunkt?",
+        "target": "40,5 Jahre"
+    },
+    {
+        "input": "Ein Produkt hat einen Listenpreis von 800 Euro. Wenn es mit einem Rabatt von 60% verkauft wird, erzielt das Geschäft dennoch einen Gewinn von 60 Euro. Wie hoch war der Einkaufspreis dieses Produkts?",
+        "target": "260 Euro"
+    },
+    {
+        "input": "Drei Bauteams sanieren gemeinsam eine Straße. Das erste Bauteam saniert 1/3 der gesamten Straßenlänge, das zweite Bauteam saniert 1/3 des verbleibenden Teils, und das dritte Bauteam saniert die restlichen 20 Kilometer. Wie lang ist die gesamte Straße?",
+        "target": "45 km"
+    },
+    {
+        "input": "Ein Produkt einer Marke wird mit einem Rabatt von 20 % verkauft und erzielt dennoch einen Gewinn von 10 %. Wenn der Listenpreis des Produkts 275 Euro beträgt, wie hoch war der Einkaufspreis des Produkts?",
+        "target": "200 Euro"
+    },
+    {
+        "input": "In Gruppe A haben 4 Arbeiter im März eine Gesamtarbeitsmenge erledigt, die 20 Stück mehr als das Vierfache der monatlichen Sollvorgabe pro Person beträgt. In Gruppe B haben 5 Arbeiter eine Gesamtarbeitsmenge erledigt, die 20 Stück weniger als das Sechsfache der monatlichen Sollvorgabe pro Person beträgt. Wenn die tatsächliche durchschnittliche Arbeitsmenge pro Person in beiden Gruppen gleich ist, wie hoch ist die monatliche Sollvorgabe pro Person?",
+        "target": "45 Stück"
+    },
+    {
+        "input": "Zum Neujahrsfest haben viele Einkaufszentren Rabattaktionen eingeführt, um den Konsum zu fördern und den Gewinn zu steigern. Das Kaufhaus „Galeria“ hat einen Rucksack so bepreist, dass der Listenpreis 50 % über dem Einkaufspreis liegt, und bietet dann einen Rabatt von 20 %. Bei jedem Verkauf eines Rucksacks erzielt das Geschäft einen Gewinn von 8 Euro. Wie hoch war der Einkaufspreis dieses Rucksacks?",
+        "target": "40 Euro"
+    },
+    {
+        "input": "Ein Fast-Food-Restaurant bietet testweise ein neues Menüpaket an und stellt nach einer Testphase fest, dass die Kosten für jedes Menü 5 Euro betragen und die täglichen Fixkosten des Restaurants (ohne die Kosten für das Menü) 600 Euro betragen. Wenn der Preis pro Menü 10 Euro oder weniger beträgt, können täglich 400 Menüs verkauft werden. Wenn der Preis jedoch über 10 Euro liegt, sinkt die Verkaufszahl um 40 Menüs für jede Preiserhöhung von 1 Euro. Bei einem täglichen Nettogewinn von 1.560 Euro, welchen Preis pro Menüpaket sollte man dann festlegen, um den Kunden entgegenzukommen?",
+        "target": "11 Euro"
+    },
+    {
+        "input": "Ein Bekleidungsbereich eines Einkaufszentrums verkauft ein Markenhemd, wobei täglich durchschnittlich 30 Stück verkauft werden und der Gewinn pro Stück 40 Euro beträgt. Um den Absatz zu steigern und den Lagerbestand zu reduzieren, beschloss das Einkaufszentrum, den Preis zu senken. Eine Untersuchung zeigt, dass bei einer Preissenkung von 1 Euro pro Stück täglich 2 weitere Stücke verkauft werden. Wenn das Einkaufszentrum einen täglichen Gewinn von 1.200 Euro erzielen möchte, um wie viel Euro muss der Preis pro Hemd gesenkt werden?",
+        "target": "25 Euro"
+    },
+    {
+        "input": "Eine Klasse ist in zwei Gruppen für eine Aktivität aufgeteilt: Gruppe A hat 26 Schüler und Gruppe B hat 32 Schüler. Aufgrund der Anforderungen der Aktivität wurden einige Schüler aus Gruppe A in Gruppe B versetzt. Danach war die Anzahl der Schüler in Gruppe B das Zweifache der Schülerzahl in Gruppe A plus 1. Wie viele Schüler wurden aus Gruppe A in Gruppe B versetzt?",
+        "target": "7 Schüler"
+    },
+    {
+        "input": "Eine Fabrik plant, die Jahresproduktion eines Produkts in den nächsten 2 Jahren von 1 Millionen Einheiten auf 1,21 Millionen Einheiten zu steigern. Wie hoch ist die durchschnittliche jährliche Wachstumsrate in Prozent?",
+        "target": "0.1"
+    },
+    {
+        "input": "Ein Fahrradteam führt ein Training durch, bei dem alle Mitglieder mit einer Geschwindigkeit von 35 km/h fahren. Plötzlich fährt der Fahrer 1 mit einer Geschwindigkeit von 45 km/h eine Strecke von 10 km alleine, danach kehrt er um und fährt mit derselben Geschwindigkeit zurück, bis er wieder mit den anderen Teammitgliedern zusammentrifft. Wie viele Stunden vergingen, vom Moment des Verlassens des Teams bis zum erneuten Zusammentreffen mit den anderen Fahrern?",
+        "target": "0,25h"
+    },
+    {
+        "input": "Eine Schule hat zur Förderung des Tischtennissports Ausrüstung angeschafft. Die Gesamtkosten für Netz, Schläger und Bälle betrugen 1.320 Euro. Die Ausgaben für diese drei Posten stehen im Verhältnis 3:6:2. Wie viel Euro entfielen auf das Tischtennisnetz?",
+        "target": "360 Euro"
+    },
+    {
+        "input": "Herr Wagner brachte nach seiner Geschäftsreise eine Anzahl von Spezialitäten mit und verteilte sie an seine Freunde zum Probieren. Wenn er jedem 5 Beutel gibt, bleiben 3 Beutel übrig. Wenn er jedem 6 Beutel gibt, fehlen 3 Beutel. Wie viele Beutel Spezialitäten brachte Herr Wagner insgesamt mit?",
+        "target": "33 Beutel"
+    },
+    {
+        "input": "Die Schule kaufte eine Anzahl von Übungsheften, die an die Schüler der 7. Klasse verteilt werden sollten. Wenn jedem Schüler 5 Hefte gegeben werden, bleiben 80 Hefte übrig. Wenn jedem Schüler 6 Hefte gegeben werden, fehlen 40 Hefte. Wie viele Schüler gibt es in der 7. Klasse?",
+        "target": "120 Schüler"
+    },
+    {
+        "input": "Fahrer X benötigt 2 Stunden, um mit dem Auto von Punkt A nach Punkt B zu fahren, und Fahrer Y braucht 3 Stunden, um mit dem Motorrad von Punkt B nach Punkt A zu fahren. Wenn Fahrer Y mit dem Motorrad 1 Stunde früher von Punkt B aus startet und Fahrer X dann mit dem Auto von Punkt A nach Punkt B fährt, nach wie vielen Stunden wird Fahrer X Fahrer Y treffen?",
+        "target": "0,8"
+    },
+    {
+        "input": "Nach dem Besuch von zwei Geschäften erfuhr man, dass der Preis für einen Schläger 25 Euro und der Preis für einen Ball 2 Euro beträgt. Geschäft A bietet einen Rabatt von 10% auf Schläger und Bälle an, während Geschäft B beim Kauf eines Schlägers zwei Bälle kostenlos beilegt. Wenn ein Kunde zwei Schläger und eine bestimmte Anzahl von Bällen kaufen möchte, wie viele Bälle muss er kaufen, damit die Gesamtkosten für 2 Schläger und diese Bälle in beiden Geschäften gleich hoch sind?",
+        "target": "15 Stück"
+    },
+    {
+        "input": "Die Strecke zwischen den Bahnhöfen A und B beträgt 448 km. Ein Regionalzug startet von Bahnhof A mit einer Geschwindigkeit von 60 km/h, und ein Expresszug startet gleichzeitig von Bahnhof B mit 80 km/h aufeinander zu. Nach wie vielen Stunden treffen sich die beiden Züge?",
+        "target": "3,2 Stunden"
+    },
+    {
+        "input": "Eine dreiköpfige Familie reist in den Ferien nach Bayern. Vor Ort gibt es die Reisebüros A und B, die beide den gleichen Preis anbieten, jedoch unterschiedliche Rabatte für Familienreisen gewähren. Reisebüro A gibt keinen Rabatt für Erwachsene, aber für Kinder gibt es einen Rabatt von 40%. Reisebüro B bietet einen Rabatt von 20% auf den Gesamtpreis für die Familie. Nach Berechnungen ist Reisebüro B 240 Euro günstiger. Wie viel kostet das Ticket für einen Erwachsenen im Originalpreis?",
+        "target": "1.200 Euro"
+    },
+    {
+        "input": "Ein Blumengeschäft kauft Schnittblumen zum Einkaufspreis von 5 Euro pro Stück ein. Wenn die Blumen zu 80% des Listenpreises verkauft werden, wird dennoch ein Gewinn von 3 Euro pro Stück erzielt. Wie hoch ist der ursprüngliche Listenpreis pro Blume?",
+        "target": "10 Euro"
+    },
+    {
+        "input": "In einer Region soll eine Straße gebaut werden. Wenn das Bauteam A das Projekt alleine übernimmt, dauert es 80 Tage, und wenn das Bauteam B es alleine übernimmt, dauert es 120 Tage. Wie viele Tage benötigen Bauteam A und Bauteam B zusammen, um das Projekt abzuschließen?",
+        "target": "48 Tage"
+    },
+    {
+        "input": "Ein biologisches Labor muss nützliche Bakterien kultivieren. Es gibt derzeit 60 lebende Proben, und nach zwei Vermehrungszyklen ist die Gesamtzahl auf 24.000 gestiegen. Dabei teilt sich jedes Bakterium pro Zyklus in eine gleichbleibende Anzahl neuer Bakterien. Wie viele neue Bakterien entstehen durchschnittlich pro Zyklus aus einem einzigen Bakterium?",
+        "target": "19 Bakterien"
+    },
+    {
+        "input": "Eine Gruppe von 30 Schülern stellt Papierflugzeugmodelle her. Jeder Schüler kann pro Stunde entweder 20 Flugzeugkörper oder 60 Flugzeugflügel herstellen. Für ein Flugzeugmodell sind 1 Flugzeugkörper und 2 Flugzeugflügel erforderlich. Wie viele Schüler sollten für die Herstellung der Flugzeugkörper pro Stunde zugewiesen werden, damit die Anzahl der hergestellten Modelle genau passend ist?",
+        "target": "18 Schüler"
+    },
+    {
+        "input": "Einige Bücher sollen an die Schüler einer Klasse verteilt werden. Wenn jedem Schüler 3 Bücher gegeben werden, bleiben 20 Bücher übrig. Wenn jedem Schüler 4 Bücher gegeben werden, fehlen noch 25 Bücher. Wie viele Schüler gibt es in der Klasse?",
+        "target": "45 Schüler"
+    },
+    {
+        "input": "Der Preis eines Produkts wird mit einem Aufschlag von 20% auf den Selbstkostenpreis festgelegt und dann mit einem Rabatt von 10% verkauft. Der Verkaufspreis beträgt 270 Euro. Wie hoch ist der Selbstkostenpreis dieses Produkts?",
+        "target": "250 Euro"
+    },
+    {
+        "input": "In einer Klasse gibt es zunächst einen Schüler, der sich mit Grippe infiziert hat. Nach zwei Ansteckungsrunden sind insgesamt 49 Schüler erkrankt. Bei dieser Ansteckungsrate, wie viele Schüler wären nach der ersten Ansteckungsrunde erkrankt, wenn zu Beginn 4 Schüler erkrankt wären?",
+        "target": "28 Schüler"
+    },
+    {
+        "input": "Zur Begrünung des Schulgeländes pflanzen die Schülerinnen und Schüler einer Klasse gemeinsam 144 Jungbäume. Jeder Junge pflanzt 3 Bäume, jedes Mädchen 2 Bäume, und es gibt 8 Jungen mehr als Mädchen. Wie viele Jungen gibt es in der Klasse?",
+        "target": "32 Jungen"
+    },
+    {
+        "input": "Vor dem Neujahrstag hat ein Supermarkt eine Charge von Waren, die zu einem Einkaufspreis von 12 Euro pro Stück erworben wurden, zu einem Verkaufspreis von 20 Euro pro Stück angeboten. Täglich wurden 240 Stück verkauft. Nach einer gewissen Zeit stellte man fest, dass bei einer Preiserhöhung von 1 Euro pro Stück täglich 20 Stück weniger verkauft wurden. Bei einer Preissenkung von 1 Euro pro Stück konnte man jedoch täglich 40 Stück mehr verkaufen. Wie stark muss der Preis pro Stück gesenkt werden, um bei der Preissenkung einen täglichen Gewinn von 1.800 Euro zu erzielen?",
+        "target": "3 Euro"
+    },
+    {
+        "input": "Bei einer Handelsmesse muss jedes Paar von Unternehmen einen Vertrag unterzeichnen. Am Ende der Veranstaltung wurden insgesamt 78 Verträge unterzeichnet. Wie viele Unternehmen haben an dieser Handelsmesse teilgenommen?",
+        "target": "13 Unternehmen"
+    },
+    {
+        "input": "Es ist bekannt, dass das Lager A 37 Tonnen Getreide und das Lager B 17 Tonnen Getreide lagern. Jetzt sollen 15 Tonnen Getreide an beide Lager verteilt werden. Wie viele Tonnen sollten an Lager A verteilt werden, damit die Menge an Getreide in Lager A das doppelte der Menge in Lager B beträgt?",
+        "target": "9 Tonnen"
+    },
+    {
+        "input": "Ein Sportgeschäft verkauft Fahrräder einer bestimmten Marke. Es ist bekannt, dass ein erfahrener Arbeiter und ein neuer Arbeiter zusammen täglich 8 Fahrräder montieren können. 3 erfahrene Arbeiter und 5 neue Arbeiter können zusammen täglich 28 Fahrräder montieren. Wie viele Fahrräder kann ein neuer Arbeiter täglich montieren?",
+        "target": "2 Fahrräder"
+    },
+    {
+        "input": "Hühner und Kaninchen haben zusammen 192 Füße. Wenn die Anzahl der Hühner und Kaninchen vertauscht wird, gibt es zusammen 198 Füße. Wie viele Hühner und wie viele Kaninchen gibt es?",
+        "target": "Es gibt 34 Hühner und 31 Kaninchen."
+    },
+    {
+        "input": "Es gibt 18 mehr Hühner als Kaninchen, und zusammen haben sie 84 Füße. Wie viele Hühner und wie viele Kaninchen gibt es?",
+        "target": "Es gibt 26 Hühner und 8 Kaninchen."
+    }
+]

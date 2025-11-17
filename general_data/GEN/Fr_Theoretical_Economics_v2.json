@@ -1,0 +1,394 @@
+[
+    {
+        "input": "En conditions de concurrence parfaite, lorsque le prix du marché se trouve au niveau le plus bas du coût moyen des entreprises, et que les entreprises atteignent un équilibre à court terme, quelle est la situation des profits des entreprises ?",
+        "target": "Les producteurs obtiennent des profits normaux, c'est-à-dire que les profits sont nuls."
+    },
+    {
+        "input": "Si les biens X et Y sont des biens complémentaires, et que le prix de X diminue, que se passera-t-il pour la demande de Y ?",
+        "target": "L'augmentation de la demande."
+    },
+    {
+        "input": "Supposons qu'un consommateur achète des pommes (représentées par X) et des bananes (représentées par Y). Sachant que l'utilité marginale des pommes est MUx, avec un prix Px, et que l'utilité marginale des bananes est MUy, avec un prix Py, quelles conditions doivent être remplies pour que le consommateur maximise son utilité ? Veuillez répondre en utilisant la formule de base de l'utilité marginale en économie.",
+        "target": "\\(\\frac{MU_X}{P_X}=\\frac{MU_Y}{P_Y}\\)"
+    },
+    {
+        "input": "Lorsque le revenu est fixe, l'équilibre du consommateur se situe à ( ) entre la courbe d'indifférence et la ligne budgétaire.",
+        "target": "Le point de tangence."
+    },
+    {
+        "input": "Si le prix des matières premières nécessaires à la production d'un bien augmente, que se passera-t-il pour la courbe d'offre de ce bien ?",
+        "target": "Il se déplacera vers la gauche."
+    },
+    {
+        "input": "Supposons qu'il y ait 30 jours dans ce mois-ci. Pascal est un travailleur indépendant et il a deux options de travail :\nOption 1 : Faire du travail de traduction à temps partiel, avec un revenu journalier de 300 euros, et un jour de repos tous les 10 jours de travail, sans revenu pendant les jours de repos.\nOption 2 : Livrer des plats, avec un revenu journalier de 250 euros, sans jour de repos.\nSi Pascal choisit de faire du travail de traduction à temps partiel ce mois-ci, quel est le coût d'opportunité ?\"",
+        "target": "7500 euros."
+    },
+    {
+        "input": "Dans une pratique anti-inflationniste, un gouvernement a réussi à réduire le taux d'inflation de 8% à 3%, mais au cours de ce processus, le PIB du pays a perdu 4% et le taux de chômage a augmenté de 5%. Quel est le taux de sacrifice économique du pays dans le processus de réduction de l'inflation ?",
+        "target": "0,8"
+    },
+    {
+        "input": "La fonction de l'utilité totale d'une usine pour la production de biens est \\(TU = 10x - x^2\\), où x représente la quantité de produits fabriqués par l'usine. Combien de produits l'usine doit-elle fabriquer pour que l'utilité totale atteigne sa valeur maximale ? Quelle est alors l'utilité marginale ?",
+        "target": "Lorsque l'usine fabrique le cinquième produit, l'utilité totale atteint son maximum, et l'utilité marginale est de 0."
+    },
+    {
+        "input": "Une usine a des équipements de production et des locaux fixes. Initialement, avec 10 ouvriers, elle pouvait produire 100 pièces par jour. Plus tard, l'usine a progressivement augmenté le nombre d'ouvriers. Lorsque le nombre d'ouvriers a atteint 15, la production totale quotidienne était de 120 pièces. Mais lorsque le nombre d'ouvriers a augmenté à 20, en raison de l'espace de l'atelier encombré, des interférences entre les ouvriers et une augmentation de la difficulté de gestion, la production totale quotidienne a finalement baissé à 110 pièces. Quelle est la productivité marginale des ouvriers lors de l'augmentation du nombre d'ouvriers de 15 à 20 ?",
+        "target": "−2"
+    },
+    {
+        "input": "Le lieu A est un site touristique non encore pleinement développé. Actuellement, il fournit 20 chambres d'hôtes et 100 billets par jour, ce qui suffit juste pour répondre à la demande quotidienne. Avec l'arrivée de la saison touristique, le nombre de visiteurs augmente considérablement, et la demande pour les chambres d'hôtes et les billets augmente de 30%. Pour des raisons de protection de l'environnement et d'expérience des visiteurs, le site décide d'augmenter la quantité quotidienne de billets de 20 et le nombre de chambres de 5. Veuillez maintenant juger quel type de rareté (relative/absolue) les quantités fournies des chambres d'hôtes et des billets appartiennent pendant la saison touristique.",
+        "target": "Chambres d'hôtes : rareté absolue.\nBillets : rareté absolue."
+    },
+    {
+        "input": "Selon le modèle IS-LM, pour qu'un pays atteigne l'objectif d'augmenter le niveau de production tout en maintenant le niveau des taux d'intérêt inchangé, quelle combinaison de politique fiscale et monétaire devrait-il choisir ?",
+        "target": "Une combinaison de politique fiscale expansionniste et de politique monétaire expansionniste."
+    },
+    {
+        "input": "Parmi les trois étapes du processus de production identifiées en économie néoclassique, à quelle étape les producteurs rationnels choisissent-ils généralement d’opérer ?",
+        "target": "La deuxième étape."
+    },
+    {
+        "input": "Supposons que le gouvernement impose une taxe de 20 euros sur la consommation d'un bien. Sachant que l'élasticité de la demande pour ce bien est 0, de combien augmentera le prix payé par les consommateurs ?",
+        "target": "20 euros"
+    },
+    {
+        "input": "Si le gouvernement fixe le prix d'un bien en dessous du niveau d'équilibre, le prix d'équilibre ___ (augmente/baisse/reste indéterminé) et la quantité d'équilibre ___ (augmente/baisse/reste indéterminée).",
+        "target": "baisse; baisse"
+    },
+    {
+        "input": "Le déplacement parallèle vers l'extérieur de la ligne de coût égal réflète quel type de changement des prix des facteurs de production ?",
+        "target": "Les prix des facteurs de production baissent proportionnellement."
+    },
+    {
+        "input": "Lorsque le prix du bien x diminue, l'effet de substitution augmente la consommation de x de 4 unités, tandis que l'effet de revenu réduit la consommation de x de 3 unités. Quel type de bien inférieur appartient à ce bien ?",
+        "target": "Biens inférieurs généraux"
+    },
+    {
+        "input": "Si l'élasticité de la demande par rapport au revenu d'un bien est de 2,2, quel type de bien est-ce ?",
+        "target": "Biens de luxe ou de haute qualité"
+    },
+    {
+        "input": "La courbe d'offre à long terme d'une industrie à coûts décroissants en concurrence parfaite, quelle est la direction de son inclinaison ?",
+        "target": "Vers le bas à droite"
+    },
+    {
+        "input": "Supposons qu'un été, un ouragan détruise soudainement les champs de canne à sucre et que le temps devienne soudainement très chaud, comment le prix d'équilibre des glaces sur le marché va-t-il changer ?",
+        "target": "L'augmentation du prix d'équilibre"
+    },
+    {
+        "input": "À court terme, si le coût total d'une entreprise est fixe, avec un coût fixe de 600 000 euros, un prix unitaire de produit de 100 euros, et un coût variable unitaire de 40 euros, si le profit cible est de 300 000 euros, quelle quantité de vente doit être atteinte pour répondre aux attentes ?",
+        "target": "15 000 unités"
+    },
+    {
+        "input": "Si une entreprise peut réduire l'utilisation de trois unités de capital en augmentant l'utilisation du travail d'une unité tout en produisant la même quantité de sortie, quelle est la taux marginal de substitution technique de cette entreprise ?",
+        "target": "3"
+    },
+    {
+        "input": "Lorsque la ligne budgétaire se déplace parallèlement vers la droite et tangente différentes courbes d'indifférence, quel est le nom de la courbe qui relie ces points d'équilibre des consommateurs ?",
+        "target": "Courbe de revenu-consommation"
+    },
+    {
+        "input": "Si les biens A et B sont des substituts, et que le prix de A diminue, comment la courbe de demande de B va-t-elle changer ?",
+        "target": "Se déplace vers la gauche"
+    },
+    {
+        "input": "Lorsque le prix d'un bien Giffen augmente, quelles sont les plages de valeurs de l'effet de substitution et de l'effet de revenu ? Quelle est la relation entre les valeurs absolues des deux ?",
+        "target": "L'effet de substitution est inférieur à 0 ; l'effet de revenu est supérieur à 0 ; la valeur absolue de l'effet de revenu est supérieure à la valeur absolue de l'effet de substitution"
+    },
+    {
+        "input": "Quelle est la valeur de l'élasticité de l'offre de la terre ?",
+        "target": "0"
+    },
+    {
+        "input": "Si un consommateur prévoit de dépenser tout son budget sur deux biens, alors la condition pour atteindre l'équilibre du consommateur devrait être que le ratio des marginal utilities des deux biens ( ) le ratio des prix de ces deux biens.",
+        "target": "Égale"
+    },
+    {
+        "input": "Lorsque le revenu du consommateur augmente, dans quelle direction la courbe de demande d'un bien normal va-t-elle se déplacer ?",
+        "target": "Il se déplacera vers la droite"
+    },
+    {
+        "input": "Si l'élasticité de l'offre d'un bien est égale à 0, alors ce bien a une offre de quel type ?",
+        "target": "Offre complètement inélastique"
+    },
+    {
+        "input": "Si un producteur veut maximiser son profit, quelle relation doit être satisfaite entre le coût marginal et le revenu marginal ?",
+        "target": "Le coût marginal est égal au revenu marginal"
+    },
+    {
+        "input": "Tout en gardant les autres facteurs de production constants, avec l'augmentation de la main-d'œuvre, la production totale apportée par chaque unité de main-d'œuvre supplémentaire finira par suivre une règle de variation qui commence par ( ) puis par ( ).",
+        "target": "Augmenter ; diminuer"
+    },
+    {
+        "input": "Si la demande et l'offre de tous les biens sur le marché dépendent non seulement du prix de ce bien ou de ce facteur de production, mais aussi de la demande, de l'offre et des prix de tous les autres biens et facteurs de production, alors cette situation correspond à quelle théorie économique ?",
+        "target": "Théorie de l'équilibre général"
+    },
+    {
+        "input": "La frontière des possibilités de production sert à représenter les combinaisons de biens que l’on peut produire en ( ) avec les ressources et la technologie disponibles.",
+        "target": "Quantité maximale"
+    },
+    {
+        "input": "Lorsqu'on détermine la courbe de demande d'un bien, quel est le seul facteur qui varie ?",
+        "target": "Le prix du bien"
+    },
+    {
+        "input": "Lorsque la demande reste constante, comment les variations de l'offre affectent-elles les prix ?",
+        "target": "L'augmentation de l'offre fait baisser les prix, et la diminution de l'offre fait monter les prix"
+    },
+    {
+        "input": "Pour les biens normaux, lorsque les prix baissent, quelles sont les plages de valeurs de l'effet de revenu et de l'effet de substitution ?",
+        "target": "L'effet de revenu est supérieur à 0, et l'effet de substitution est supérieur à 0"
+    },
+    {
+        "input": "Supposons que deux personnes discutent de la loi sur le salaire minimum, voici les deux affirmations que vous entendez :\nA : La loi sur le salaire minimum provoque le chômage.\nB : Le salaire minimum devrait être augmenté.\nVeuillez classer les affirmations de A et B selon les types d'affirmations sur le monde.",
+        "target": "A : affirmation positive ; B : affirmation normative"
+    },
+    {
+        "input": "Dans la deuxième phase de production illustrée par la fonction de production\\(Q = f(L,K)\\), quelle est la relation entre la production marginale et la production moyenne ?",
+        "target": "La production marginale est inférieure à la production moyenne"
+    },
+    {
+        "input": "Si x est la variable indépendante et y est la variable dépendante, et que y augmente avec x, mais que l'augmentation de y diminue progressivement avec l'augmentation de x, à quoi est-ce qu'on appelle ce principe ?",
+        "target": "Le principe de l'utilité marginale décroissante"
+    },
+    {
+        "input": "Quel est l'état de l'utilité totale lorsque l'utilité marginale d'un bien est égale à zéro ?",
+        "target": "Elle atteint la valeur maximale"
+    },
+    {
+        "input": "Si les préférences des gens pour une marque de thé augmentent, comment se déplacera la courbe de demande de ce thé ?",
+        "target": "Elle se déplace vers la droite"
+    },
+    {
+        "input": "Sachant que le revenu du consommateur est de 50 euros, les prix des biens x et y sont respectivement de 5 euros et 4 euros, et les utilités marginales sont respectivement de 60 et 30, comment le consommateur devrait-il ajuster ses achats de x et y respectivement pour maximiser son utilité ? (augmenter / réduire / maintenir)",
+        "target": "Augmenter les achats de x et réduire les achats de y"
+    },
+    {
+        "input": "Une entreprise produit au coût minimum. Si la production marginale du capital est de 5, le prix unitaire du capital est de 20 euros, et le prix unitaire du travail est de 8 euros, quelle est la production marginale du travail ?",
+        "target": "2"
+    },
+    {
+        "input": "Si le prix d'un bien baisse de 3 euros à 2,9 euros, et que la quantité demandée augmente de 9 unités à 11 unités, combien augmentera le revenu total du vendeur en euros ?",
+        "target": "4,9 euros"
+    },
+    {
+        "input": "Sachant que le prix d'équilibre d'un bien est de 1 euro lorsque la quantité d'équilibre est de 1000 unités. Supposons que l'augmentation du revenu des acheteurs augmente la demande de ce bien de 400 unités, quelle sera la plage de la quantité achetée par les acheteurs au niveau du nouveau prix d'équilibre ?",
+        "target": "Plus de 1000 unités et moins de 1400 unités."
+    },
+    {
+        "input": "En 2024, dans les activités économiques d'un pays, le secteur agricole a produit des produits agricoles d'une valeur de 50 milliards d'euros, dont 10 milliards d'euros ont été exportés et 40 milliards d'euros ont été utilisés comme intrants intermédiaires pour d'autres secteurs nationaux. Le secteur industriel a produit une valeur de 150 milliards d'euros, dont 40 milliards d'euros d'intrants intermédiaires provenant du secteur agricole et 30 milliards d'euros d'intrants intermédiaires provenant d'autres secteurs industriels. Veuillez calculer le PIB de ce pays en 2024 en utilisant la méthode de production et donnez directement la réponse finale.",
+        "target": "130 milliards d'euros"
+    },
+    {
+        "input": "Si une entreprise est un monopole naturel, quelle tendance présente son coût total moyen ?",
+        "target": "Tendance décroissante"
+    },
+    {
+        "input": "Une boulangerie opérant sur un marché concurrentiel vend des pâtisseries à 10 euros pièce et embauche des travailleurs à 5 euros par heure. Quelle doit être la production marginale du travail pour que la boulangerie maximise son profit ?",
+        "target": "0,5"
+    },
+    {
+        "input": "Dans un système de coordonnées cartésiennes, une courbe de possibilités de production convexe vers l'origine reflète quelle tendance du coût d'opportunité ?",
+        "target": "Le coût d'opportunité décroît"
+    },
+    {
+        "input": "Dans une courbe de demande linéaire inclinée vers le bas à droite, l'élasticité-prix de la demande en haut de la courbe est ( ) l'élasticité-prix de la demande en bas de la courbe.",
+        "target": "Supérieur à"
+    },
+    {
+        "input": "Si la production d'un bien provoque des externalités négatives, alors la courbe de coût social est ( ) la courbe d'offre, et la quantité optimale pour la société est ( ) la quantité d'équilibre.",
+        "target": "Au-dessus de ; inférieur à"
+    },
+    {
+        "input": "La différence principale entre les droits de douane et les licences d'importation en cas de contingent est que les droits de douane augmentent ( ).",
+        "target": "Revenu gouvernemental"
+    },
+    {
+        "input": "Si une entreprise concurrentielle maximisant ses profits produit une quantité dont le coût marginal est entre le coût variable moyen et le coût total moyen, comment ajustera-t-elle ses décisions de production à court terme et à long terme ?",
+        "target": "À court terme : continuer à produire ; à long terme : sortir du marché"
+    },
+    {
+        "input": "S'il y a deux consommateurs A et B, pour le consommateur A, le taux de substitution marginale de X pour Y est de 5, et pour le consommateur B, le taux de substitution marginale de X pour Y est de 3, quelle est la situation d'échange la plus probable entre A et B ?",
+        "target": "A échange Y contre X avec B"
+    },
+    {
+        "input": "Si les biens A et B sont des substituts, comment se déplacera la courbe de demande de B lorsque le prix de A augmente ?",
+        "target": "Elle se déplace vers la droite"
+    },
+    {
+        "input": "Supposons qu'une économie nationale ait des dépenses de consommation de 500 milliards d'euros, des dépenses d'investissement de 80 milliards d'euros, des dépenses gouvernementales de 30 milliards d'euros (dont 10 milliards d'euros de transferts), des exportations de 50 milliards d'euros et des importations de 20 milliards d'euros, quel est le PIB de ce pays ?",
+        "target": "630 milliards d'euros"
+    },
+    {
+        "input": "Marie évalue la valeur de son temps à 60 euros par heure, et elle prévoit de passer 2 heures à masser Pierre. Pierre est prêt à payer 300 euros pour le massage, mais le prix réellement payé est de 200 euros. Quels sont les surplus du consommateur et du producteur dans cette transaction ?",
+        "target": "Surplus du consommateur : 100 euros\nSurplus du producteur : 80 euros"
+    },
+    {
+        "input": "Marie a abandonné son travail d'enseignante en mathématiques au primaire pour retourner à l'école étudier la programmation informatique et a obtenu le certificat correspondant. Ensuite, elle a obtenu un emploi bien rémunéré dans une entreprise logicielle. Selon la théorie du capital humain, Becker, 1964, quel est cet exemple de différence salariale ?",
+        "target": "Différence salariale en raison du capital humain"
+    },
+    {
+        "input": "Dans le théorème de Coase, quels sont les deux conditions nécessaires pour atteindre une allocation optimale des ressources ?",
+        "target": "Propriété claire, absence de coûts de transaction (coûts de transaction nuls ou suffisamment bas)"
+    },
+    {
+        "input": "Sur un marché avec une limite de prix maximal, une augmentation du prix maximal ( ) l'offre, ( ) la demande et réduit le ( ).",
+        "target": "Augmente, réduit, manque"
+    },
+    {
+        "input": "Comparativement au niveau optimal social, une entreprise monopolistique, pour maximiser ses profits, ajustera généralement sa production et ses prix de quelle manière ?",
+        "target": "Réduire la production, augmenter les prix"
+    },
+    {
+        "input": "Supposons que la fonction de demande est \\(Q = 10 - 2P\\). Calculez la valeur absolue du coefficient d'élasticité-prix de la demande, lorsque \\(P = 1\\).",
+        "target": "0,25"
+    },
+    {
+        "input": "Mark prépare un dîner en 30 minutes et lave un vêtement en 20 minutes. Son colocataire prépare un dîner en 20 minutes et lave un vêtement en 10 minutes. En termes de coût d'opportunité, comment devraient-ils se répartir les tâches pour minimiser le coût d'opportunité total pour préparer le dîner et faire la lessive ?",
+        "target": "Mark prépare le dîner, le colocataire lave les vêtements"
+    },
+    {
+        "input": "Si deux entreprises produisent efficacement et échangent de manière avantageuse en fonction de leurs avantages comparatifs, ce modèle de coopération leur permettra d’atteindre, par leur consommation, un point ( ) de leurs frontières de possibilités de production.",
+        "target": "En dehors de"
+    },
+    {
+        "input": "Selon la théorie du capital humain, comment les changements dans le niveau d'éducation des demandeurs d'emploi affecteront-ils leurs salaires ?",
+        "target": "Plus le niveau d'éducation est élevé, plus le salaire est élevé ; plus le niveau d'éducation est bas, plus le salaire est bas"
+    },
+    {
+        "input": "Si un monopoleur voit son coût fixe augmenter, comment ses prix et ses profits seront-ils affectés ?",
+        "target": "Les prix restent inchangés, les profits diminuent"
+    },
+    {
+        "input": "Dans le système fiscal américain, quels deux organes partagent le pouvoir législatif fiscal, en termes de pouvoirs constitutionnels et de processus législatif réel, et dominent l'élaboration et la révision des lois fiscales américaines ?",
+        "target": "Le Sénat et la Chambre des représentants"
+    },
+    {
+        "input": "Lorsqu'un pays ouvre le commerce d'un produit et devient un importateur, comment les surplus des consommateurs, des producteurs et les surplus totaux sur ce marché changeront-ils ?",
+        "target": "Le surplus des consommateurs augmente, le surplus des producteurs diminue, le surplus total augmente"
+    },
+    {
+        "input": "Avec la hausse des salaires, dans la courbe d'offre de travail, quel élément finira par dominer progressivement ?",
+        "target": "Effet de revenu"
+    },
+    {
+        "input": "Lorsque le nombre d'entreprises dans une industrie oligopolistique augmente de plus en plus, le niveau de production atteint sera ( ) le niveau de monopole.",
+        "target": "Supérieur à (au)"
+    },
+    {
+        "input": "Si nous utilisons la source de l'impôt comme critère de distinction, comment devrions-nous différencier les impôts directs et indirects ?",
+        "target": "Les impôts sur le revenu sont des impôts directs, et les impôts sur la dépense sont des impôts indirects"
+    },
+    {
+        "input": "Comme Catherine a un antécédent majeur de maladie héréditaire familiale, elle a acheté une assurance maladie, tandis que son amie Marie, qui a une famille en bonne santé, n'a pas acheté d'assurance maladie. Quel phénomène de marché cet exemple reflète-t-il ?",
+        "target": "Sélection adverse"
+    },
+    {
+        "input": "Lors de l'analyse coût-volume-bénéfice, si le point d'équilibre reste inchangé, alors plus l'entreprise vend, plus le profit est ( ) ; plus les ventes sont faibles, plus le profit est ( ).",
+        "target": "Elevé ; bas"
+    },
+    {
+        "input": "Si pour un producteur, le taux de conversion marginale entre la production de produits A et B est de 3 A pour 1 B, et que sur le marché, le prix du produit B est le double du prix du produit A, quel produit devrait produire l'entreprise ?",
+        "target": "A"
+    },
+    {
+        "input": "Du point de vue de la théorie des courbes d'indifférence, le taux de substitution marginale des biens X et Y est équivalent au rapport de quoi ?",
+        "target": "Le rapport des utilités marginales de X et Y"
+    },
+    {
+        "input": "Pour combler le déficit budgétaire, un gouvernement décide d'émettre de la monnaie, mais en raison d'une planification mauvaise, l'émission de monnaie est excessive. Quel impact cela aura-t-il sur les prix des biens sur le marché ?",
+        "target": "Les prix augmentent"
+    },
+    {
+        "input": "Supposons que deux personnes puissent produire 60 unités de produit en un jour, et que trois personnes puissent produire 100 unités en un jour. Si le coût des matières premières est de 10 euros par unité et le coût fixe quotidien est de 600 euros, comment le coût moyen par unité de produit change-t-il lorsque la production passe de deux à trois personnes ?",
+        "target": "Diminué de 4 euros"
+    },
+    {
+        "input": "Si une entreprise veut maximiser ses profits ou minimiser ses pertes, quelle condition doivent être satisfaite par les revenus marginaux et les coûts marginaux ?",
+        "target": "Le revenu marginal est égal au coût marginal"
+    },
+    {
+        "input": "Une augmentation de ( )  provoque un mouvement le long d'une courbe de demande donnée, ce mouvement est appelé une variation de ( ).\nA. l'offre ; la demande\nB. l'offre ; la quantité demandée\nC. la demande ; l'offre\nD. la demande ; la quantité offerte",
+        "target": "B"
+    },
+    {
+        "input": "Si dans un projet anti-pauvreté, les avantages perçus par les pauvres diminuent avec l'augmentation des revenus personnels, quel impact cela aura-t-il sur le taux marginal effectif des pauvres ?",
+        "target": "Augmenter le taux marginal effectif des pauvres"
+    },
+    {
+        "input": "La courbe d'offre à court terme d'une entreprise concurrentielle est sa courbe de ( ) au-dessus de sa courbe de ( ).",
+        "target": "Coût marginal ; coût variable moyen"
+    },
+    {
+        "input": "Si l'impôt sur les œufs augmente de 2 cents à 3 cents, comment la demande pour les substituts des œufs (tels que les œufs de canard, de oie, etc.) changera-t-elle ? La demande ___ (augmentera/baissera/restera inchangée).",
+        "target": "La demande augmentera"
+    },
+    {
+        "input": "Quelles sont les similarités entre les courbes de coût moyen à long terme et à court terme ?",
+        "target": "Ce sont toutes des courbes en forme de \"U\" qui descendent d'abord puis montent"
+    },
+    {
+        "input": "Une entreprise monopolistique détermine que son revenu marginal est de 2 et son coût moyen est de 1,75. Sous les niveaux actuels de technologie et de prix des intrants, 1,75 est le coût moyen le plus bas maintenable. Pour maximiser les profits, comment l'entreprise devrait-elle ajuster sa production et ses prix ?\nA. Augmenter la production ; baisser les prix\nB. Augmenter la production ; augmenter les prix\nC. Baisser la production ; augmenter les prix\nD. Baisser la production ; baisser les prix",
+        "target": "A"
+    },
+    {
+        "input": "Lorsque le prix du lait augmente de 5 euros à 8 euros par boîte, quelles seront les variations de la courbe de demande du lait ? (Augmentation/Abaissement/Aucun changement)",
+        "target": "Aucun changement"
+    },
+    {
+        "input": "Si le gouvernement fixe un prix plancher supérieur au prix d'équilibre, la quantité demandée ( ), la quantité offerte ( ), ce qui conduit à ( ).\nA. augmentera, diminuera, pénurie d'offre\nB. augmentera, augmentera, excédent de demande,\nC. diminuera, augmentera, excédent d'offre\nD. diminuera, diminuera, pénurie de demande",
+        "target": "C"
+    },
+    {
+        "input": "Lorsque l'effet de substitution est supérieur à l'effet de revenu, la quantité de travail offerte augmente avec la hausse des salaires, alors la courbe d'offre de travail penchera vers ( ).",
+        "target": "Le haut à droite"
+    },
+    {
+        "input": "Les progrès techniques augmentant la productivité marginale du travail feront bouger la courbe de ( ) vers ( ).",
+        "target": "Demande ; la droite"
+    },
+    {
+        "input": "Lorsque le marché est en équilibre, les acheteurs sont ceux qui ont la volonté de payer ( ), et les vendeurs sont ceux dont les coûts sont ( ).",
+        "target": "au niveau le plus élevé ; au niveau le plus bas"
+    },
+    {
+        "input": "Sur un marché monopolistique, dans quelle direction penche la courbe de demande de l'entreprise ?",
+        "target": "Vers le bas à droite"
+    },
+    {
+        "input": "Si les prix des biens x et y augmentent proportionnellement, et que les revenus restent constants, dans quelle direction la ligne budgétaire se déplacera-t-elle ?",
+        "target": "Vers le bas à gauche"
+    },
+    {
+        "input": "Si un marché concurrentiel parfait devient un marché monopolistique, la réduction des surplus totaux résultant de ce changement est appelée quoi en termes de concept économique ?",
+        "target": "Perte sèche"
+    },
+    {
+        "input": "Dans une ville, les choix de petit-déjeuner populaires sont le pain et les céréales. Le pain est un bien inférieur, et les céréales sont des biens normaux. Si le revenu moyen des habitants de la ville augmente de 5000 euros à 10000 euros, alors la demande des habitants de la ville pour ( ) augmentera, et la demande pour ( ) diminuera.",
+        "target": "Les céréales ; le pain"
+    },
+    {
+        "input": "Tout autre chose étant égale, comment les variations de l'élasticité de l'offre affecteront-elles la charge fiscale des producteurs ?",
+        "target": "Plus l'élasticité de l'offre est faible, plus la charge fiscale est grande ; plus l'élasticité de l'offre est élevée, plus la charge fiscale est faible"
+    },
+    {
+        "input": "Tout en gardant les autres facteurs de production constants, avec l'augmentation d'un facteur de production, quelles sont les trajectoires de variation des courbes de production totale, de production moyenne et de production marginale ?",
+        "target": "Elle augmente d'abord puis diminue"
+    },
+    {
+        "input": "Si la production sociale est sur la frontière des possibilités de production, cela indique que l'économie sociale est dans quel état d'emploi ?",
+        "target": "État d'emploi plein"
+    },
+    {
+        "input": "Lorsque la frontière des possibilités de production est concave vers l'origine, quelle tendance de variation le coût d'opportunité présentera-t-il ?",
+        "target": "Tendance croissante"
+    },
+    {
+        "input": "Si les usines d'une ville sont détruites par une tempête, entraînant une réduction du stock de capital. Quels impacts cet événement aura-t-il respectivement sur les salaires des employés et les prix de location du capital dans la ville à court terme ?",
+        "target": "Les salaires des employés baissent, les prix de location du capital augmentent"
+    },
+    {
+        "input": "Si un pays augmente le taux d'impôt sur les produits importés, quel impact cela aura-t-il sur les prix des produits importés dans le pays ?",
+        "target": "Les prix augmentent"
+    }
+]

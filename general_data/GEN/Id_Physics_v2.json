@@ -1,0 +1,786 @@
+[
+    {
+        "input": "Terdapat tiga bola logam kecil dengan ukuran yang sama. Bola 1 dan bola 2 terletak berjauhan dengan muatan yang sama dan bertanda sama. Gaya interaksi antara keduanya adalah F. Bola 3 tidak bermuatan tetapi memiliki pegangan isolasi. Jika bola 3 mula-mula bersentuhan dengan bola 1, kemudian dengan bola 2, dan selanjutnya bola 3 dilepaskan. Berapakah besar gaya antara bola 1 dan bola 2?",
+        "target": "\\frac{3}{8} F"
+    },
+    {
+        "input": "Sebuah bola konduktor berjari-jari R memiliki kerapatan muatan permukaan sebesar σ, maka berapakah kuat medan listrik pada jarak R dari permukaan bola tersebut?",
+        "target": "\\sigma / (4\\varepsilon_0)"
+    },
+    {
+        "input": "Menurut Teorema Ekuipartisi Energi klasik, berapakah energi rata-rata untuk setiap derajat kebebasan?",
+        "target": "\\frac{1}{2}kT"
+    },
+    {
+        "input": "Suatu benda bergerak di bawah pengaruh gaya F = -k \\sin(\\omega t) , setelah waktu \\Delta t = \\frac{\\pi}{2\\omega}, berapakah perubahan momentum benda tersebut?",
+        "target": "-\\frac{k}{\\omega}"
+    },
+    {
+        "input": "Dalam sebuah rangkaian listrik berbentuk kubus, setiap rusuk memiliki hambatan sebesar 2 ohm, berapakah hambatan antara dua titik sudut dengan jarak paling jauh dalam kubus tersebut?",
+        "target": "\\frac{5}{3} \\Omega"
+    },
+    {
+        "input": "Sekumpulan atom netral melewati alat Stern-Gerlach, dan muncul 5 garis spektrum dengan jarak yang sama. Berapakah besar kuadrat dari momentum sudut total atom tersebut?",
+        "target": "6\\hbar^2"
+    },
+    {
+        "input": "Sebuah mobil bergerak lurus di jalan datar dengan kecepatan 10 \\, \\text{m/s}. Setelah pengemudi menyadari adanya kecelakaan di depan, ia mulai mengerem darurat dengan percepatan -0{,}2 \\, \\text{m/s} ^2, sehingga mobil bergerak lurus dengan perlambatan beraturan. Berapakah perpindahan mobil setelah satu menit pengereman?",
+        "target": "250 \\, \\text{m}"
+    },
+    {
+        "input": "Untuk keadaan D_{\\frac{3}{2}}, mungkinkah multiplisitasnya 3, 5, atau 7?",
+        "target": "Tidak mungkin"
+    },
+    {
+        "input": "Massa μ adalah 207 kali massa elektron, tetapi muatan dan interaksi lainnya sama persis dengan elektron. Jika sebuah elektron dalam atom hidrogen digantikan dengan μ, hitunglah energi pengikat keadaan dasar sistem ini? (Diketahui energi pengikat keadaan dasar atom hidrogen adalah 13,6 eV dan massa proton sekitar 1836 kali massa elektron.) Hasil akhirnya dibulatkan ke bilangan bulat.",
+        "target": "\\approx 2530 \\, \\text{eV}"
+    },
+    {
+        "input": "Bagaimana hubungan berbanding lurus atau berbanding terbalik antara jari-jari orbital elektron di kulit K suatu atom dan nomor atom Z?",
+        "target": "Berbanding terbalik dengan Z"
+    },
+    {
+        "input": "Berdasarkan prinsip Pauli, berapa jumlah status yang mungkin dapat dipilih oleh elektron dengan bilangan kuantum utama n?",
+        "target": "2n^2"
+    },
+    {
+        "input": "Konfigurasi elektron atom silikon (Si, Z = 14) dalam keadaan dasar adalah 1s^2 2s^2 2p^6 3s^2 3p^2. Menurut aturan Hund, berapakah notasi spektral atom untuk keadaan dasar atom ini?",
+        "target": "³P₀"
+    },
+    {
+        "input": "Perahu A dan B diam di permukaan danau, masing-masing memiliki massa m_1 dan m_2, dan m_1 < m_2. Kedua perahu berjarak s, dan seseorang di perahu A menarik perahu B dengan tali. Bila gaya hambatan air pada kedua kapal sama, maka saat kedua kapal bergerak saling mendekat, kapal manakah yang akan bergerak lebih jauh?",
+        "target": "A"
+    },
+    {
+        "input": "Ketika sebuah logam disinari dengan foton yang energinya 5 \\, \\text{eV}, elektron yang terlepas memiliki energi kinetik awal maksimum 2{,}5 \\, \\text{eV}. Jika foton yang digunakan memiliki energi 8 \\, \\text{eV}, berapakah energi kinetik awal maksimum dari elektron yang terlepas?",
+        "target": "5,5"
+    },
+    {
+        "input": "A dan B berdiri pada permukaan es yang horizontal dan halus dengan mengenakan sepatu es. Mereka masing-masing memegang salah satu ujung tali. Mereka mula-mula merentangkan tali, kemudian mereka menarik tali dengan kuat pada saat yang bersamaan. Jika massa A lebih kecil daripada massa B, siapa di antara mereka yang akan mencapai titik tengah terlebih dahulu?",
+        "target": "A"
+    },
+    {
+        "input": "Sebuah helikopter tetap melayang di udara dengan memanfaatkan gaya dorong baling-baling yang mendorong udara ke bawah. Jika massa helikopter adalah 800 \\, \\text{kg}, dan baling-balingnya mendorong udara ke bawah pada kecepatan 40 \\, \\text{m/s}, agar helikopter tetap melayang, berapakah massa udara (dalam kilogram) yang didorong baling-baling ke bawah setiap detik? （ g = 10 \\, \\text{m/s}^2 ）",
+        "target": "200 \\, \\text{kg}"
+    },
+    {
+        "input": "n       E/eV \n∞ …… 0 \n5      -0,54 \n4      -0,85 \n3      -1,51 \n2      -3,4 \n1      -13,6 \nData di atas menunjukkan diagram tingkat energi atom hidrogen. Ketika atom hidrogen berada dalam keadaan dasar, tingkat energi atomnya adalah E_1 = -13{,}6 \\, \\text{eV} (1 eV =  1{,}6 \\times 10^{-19}  J), dan konstanta Planck h = 6{,}63 \\times 10^{-34} J⋅s. Ketika atom hidrogen berada dalam keadaan tereksitasi n = 4, berapakah energi minimum foton dalam satuan Joule yang harus diserap agar atom hidrogen tersebut terionisasi?",
+        "target": "1{,}36 \\times 10^{-19} \\, \\text{J}"
+    },
+    {
+        "input": "n       E/eV \n∞ …… 0 \n5      -0,54 \n4      -0,85 \n3      -1,51 \n2      -3,4 \n1      -13,6 \nData di atas menunjukkan diagram tingkat energi atom hidrogen. Ketika atom hidrogen berada dalam keadaan dasar, tingkat energi atomnya adalah E_1 = -13{,}6 \\, \\text{eV} (1 eV = 1{,}6 \\times 10^{-19}  J), dan konstanta Planck h = 6{,}63 \\times 10^{-34}  J⋅s. Ketika atom hidrogen berada dalam keadaan tereksitasi n = 5, berapakah energi maksimum dari foton yang dapat dipancarkan oleh atom tersebut?",
+        "target": "13{,}06 \\, \\text{eV}"
+    },
+    {
+        "input": "Massanya 2 \\, \\text{kg}  Objek dari 20 \\, \\text{m}  jatuh bebas dari ketinggian tanpa memperhitungkan hambatan, kecepatan pantul setelah menyentuh tanah adalah 5\\, \\text{m/s}. Jadi, berapa nilai mutlak perubahan momentum sebelum dan sesudah benda memantul dari tanah?（ g = 10 \\, \\text{m/s}^2 ）",
+        "target": "50 \\, \\text{kg} \\cdot \\text{m/s}"
+    },
+    {
+        "input": "Dua buah magnet masing-masing ditempatkan di atas sebuah mobil kecil, dan kedua mobil dapat bergerak tanpa gesekan di atas permukaan datar dalam garis lurus. Diketahui massa total mobil A dan magnet A adalah 2\\, \\text{kg}, dan massa total mobil B dan magnet B adalah 3\\, \\text{kg}. Kutub utara kedua magnet saling berhadapan. Setelah diberi dorongan, kedua mobil bergerak saling mendekat. Pada waktu tertentu, mobil A bergerak dengan kecepatan 4 \\, \\text{m/s}, dan mobil B dengan kecepatan 6 \\, \\text{m/s} ke arah yang berlawanan dengan mobil A. Jika kedua mobil tidak pernah bertabrakan, maka berapakah nilai mutlak dari kecepatan mobil B saat jarak antar kedua mobil paling dekat?",
+        "target": "2 \\, \\text{m/s}"
+    },
+    {
+        "input": "Dua buah magnet masing-masing ditempatkan pada sebuah mobil kecil. Kedua mobil dapat bergerak bebas tanpa gesekan pada permukaan horizontal dalam satu garis lurus. Diketahui massa total mobil dan magnet A adalah 10 , \\text{kg}, dan massa total mobil dan magnet B adalah 12 , \\text{kg}. Kutub utara kedua magnet saling berhadapan. Setelah diberi dorongan, kedua mobil bergerak saling mendekati. Pada waktu tertentu, kecepatan mobil A adalah 5 , \\text{m/s}, dan kecepatan mobil B adalah 6 , \\text{m/s} ke arah yang berlawanan dengan mobil A. Selama pergerakan, kedua mobil tidak pernah bertabrakan. Berapakah nilai absolut dari kecepatan mobil B saat mobil A mulai bergerak ke arah berlawanan?",
+        "target": "\\frac{11}{6} , \\text{m/s}"
+    },
+    {
+        "input": "Dalam teori atom hidrogen Bohr, berapakah panjang gelombang cahaya yang dipancarkan saat bertransisi dari n = 500 ke n = 499 dalam satuan meter? （ r_1 = 0{,}53 \\times 10^{-10} \\, \\text{m} ， E_1 = -13{,}6 \\, \\text{eV} ， h = 6{,}67 \\times 10^{-34} \\, \\text{J} \\cdot \\text{s} ）",
+        "target": "5{,}698 \\, \\text{m}"
+    },
+    {
+        "input": "Diketahui fungsi kerja aluminium adalah 4{,}2 \\, \\text{eV}. Jika permukaan aluminium disinari cahaya dengan panjang gelombang 100 \\, \\text{nm}, berapa energi kinetik awal maksimum fotoelektron dalam joule (hingga satu desimal)?（ h = 6{,}67 \\times 10^{-34} \\, \\text{J} \\cdot \\text{s} ）",
+        "target": "1{,}3 \\times 10^{-18} \\, \\text{J}"
+    },
+    {
+        "input": "Diketahui fungsi kerja aluminium adalah 4{,}2 \\, \\text{eV}. Jika permukaan aluminium disinari cahaya dengan panjang gelombang 200 \\, \\text{nm}, berapakah tegangan henti dari elektron yang terlepas? (Dibulatkan sampai satu angka desimal)（ h = 6{,}67 \\times 10^{-34} \\, \\text{J} \\cdot \\text{s} ，1 eV = 1{,}6 \\times 10^{-19} \\text{J}，c = 3{,}0\\times10^8\\text{m/s}）",
+        "target": "2{,}1 \\, \\text{V}"
+    },
+    {
+        "input": "Diketahui fungsi kerja aluminium adalah 4{,}2 \\, \\text{eV}. Jika permukaan aluminium disinari cahaya dengan panjang gelombang 200 \\, \\text{nm}, berapakah frekuensi ambang batas aluminium tersebut? (Dibulatkan sampai satu angka desimal)（ h = 6{,}67 \\times 10^{-34} \\, \\text{J} \\cdot \\text{s}，1 eV = 1{,}6 \\times 10^{-19} \\text{J} ）",
+        "target": "\\approx 1{,}0 \\times 10^{15} \\, \\text{Hz}"
+    },
+    {
+        "input": "Sebuah pesawat model yang digerakkan dengan mesin pembakaran dalam dikendalikan menggunakan tali tipis untuk bergerak melingkar. Apakah seorang pengamat yang berdiri di pinggir lapangan akan mendengar perubahan frekuensi dari suara mesin pesawat tersebut?",
+        "target": "Bisa"
+    },
+    {
+        "input": "Sebuah berkas cahaya masuk dari udara ke suatu medium. Sudut antara sinar datang dan sinar pantul adalah 90^\\circ, dan sudut antara sinar bias dan sinar pantul adalah 105^\\circ. Berapakah indeks bias medium dan kecepatan perambatan dalam medium tersebut? Hasilnya dinyatakan dalam bentuk bilangan pecahan. (c = 3 \\times 10^8 \\, \\text{m/s} ) ",
+        "target": "Indeks bias: \\sqrt{2},\nKecepatan perambatan:  \\frac{3\\sqrt{2}}{2} \\times 10^8 \\, \\text{m/s}."
+    },
+    {
+        "input": "Pada tekanan atmosfer standar, air dengan massa 1 \\, \\text{kg} , dan suhu awal 70 \\, ^\\circ\\text{C}  yang melepaskan 4{,}2 \\times 10^4 \\, \\text{J}. Berapa derajat celsius (^\\circ\\text{C}) penurunan suhu air? ( c_{\\text{air}} = 4{,}2 \\times 10^3 \\, \\text{J/(kg}\\cdot^\\circ\\text{C)} )",
+        "target": "10 \\, ^\\circ\\text{C}"
+    },
+    {
+        "input": "Satu ton sampah dapat menghasilkan 170 kg bahan bakar minyak, jika bahan bakar tersebut terbakar sempurna, maka energi kimianya akan berubah menjadi energi ( ).",
+        "target": "Energi dalam"
+    },
+    {
+        "input": "Sebuah balok kayu diam di atas permukaan datar yang licin. Sebuah peluru datang dan menembus balok secara horizontal. Saat kedalaman maksimum peluru di dalam balok mencapai 3 cm, balok bergeser sejauh 2 cm di sepanjang permukaan datar. Dalam proses ini, berapakah perbandingan antara energi mekanik yang hilang dalam sistem dan energi kinetik peluru yang hilang?",
+        "target": "3∶5"
+    },
+    {
+        "input": "Sebuah pesawat terbang bergerak lurus mendatar dengan kecepatan konstan. Dari pesawat tersebut setiap 1 , \\text{s} secara berurutan dijatuhkan bola besi A, B, C, dan D dengan massa yang sama. Jarak antara bola besi A dan B serta jarak antara bola besi C dan D, manakah yang lebih besar?",
+        "target": "Sama besar"
+    },
+    {
+        "input": "Sebuah satelit buatan bumi bermassa 2.000 \\, \\text{kg}, berada pada ketinggian 6{,}4 \\times 10^6 \\, \\text{m} di atas permukaan bumi, bergerak dalam lintasan lingkaran dengan kecepatan tetap. Diketahui jari-jari bumi adalah 6{,}4 \\times 10^6 \\, \\text{m}, dan g = 10 \\, \\text{m/s} ^2. Berapakah besar gaya sentripetal yang dialami satelit tersebut?",
+        "target": "5.000 \\, \\text{N} "
+    },
+    {
+        "input": "Sebuah satelit buatan memiliki massa M berada pada ketinggian H dari permukaan bumi dan bergerak dalam lintasan melingkar dengan kecepatan tetap. Diketahui jari-jari Bumi adalah r, dan g = 10 \\, \\text{m/s} ^2, apakah rumus kecepatan satelit tersebut?",
+        "target": "v = \\sqrt{\\frac{gr^2}{r + H}}"
+    },
+    {
+        "input": "Diketahui frekuensi catu daya yang digunakan untuk pengetik waktu adalah $50\\, \\text{Hz} $, dan percepatan gravitasi lokal adalah $g = 10\\, \\text{m/s} ^2$. Diketahui massa benda berat yang digunakan adalah $200\\, \\text{g} $. Dalam percobaan diperoleh pita ticker yang jelas, dan titik pertama ditandai sebagai $O$. Dipilih empat titik berurutan sebagai titik pengukuran berupa $A$, $B$, $C$, dan $D$ dengan jarak setiap titik $A$, $B$, $C$, dan $D$ ke titik $O$ adalah $41{,}61\\, \\text{cm} $, $49{,}63\\, \\text{cm} $, $56{,}10\\, \\text{cm} $ dan $62{,}79\\, \\text{cm} $. Dengan begitu, ketika benda berat bergerak dari titik $O$ ke titik $C$, berapa joule pengurangan energi potensial gravitasinya?",
+        "target": "1{,}122 \\, \\text{J}"
+    },
+    {
+        "input": "Diketahui frekuensi catu daya yang digunakan untuk pengetik waktu adalah $50\\, \\text{Hz} $, dan percepatan gravitasi lokal adalah $g = 10\\, \\text{m/s} ^2$. Diketahui massa benda berat yang digunakan adalah $200\\, \\text{g} $. Dalam percobaan diperoleh pita kertas yang jelas, dan titik pertama ditandai sebagai $O$. Dipilih empat titik berurutan sebagai titik pengukuran berupa $A$, $B$, $C$, dan $D$ dengan jarak setiap titik $A$, $B$, $C$, dan $D$ ke titik $O$ adalah $41{,}61\\, \\text{cm} $, $49{,}63\\, \\text{cm} $, $56{,}10\\, \\text{cm} $ dan $62{,}79\\, \\text{cm} $. Dengan begitu, ketika benda berat bergerak dari titik $O$ ke titik $C$, berapakah kecepatan benda saat melewati titik $C$?",
+        "target": "3{,}29 \\, \\text{m/s}"
+    },
+    {
+        "input": "Diketahui frekuensi catu daya yang digunakan untuk penanda waktu adalah 50\\, \\text{Hz}, dan percepatan gravitasi lokal adalah g = 10\\, \\text{m/s} ^2. Diketahui massa benda berat yang digunakan adalah 200\\, \\text{g}. Dalam percobaan diperoleh pita penanda yang jelas, dan titik pertama ditandai sebagai O. Dipilih empat titik berurutan A, B, C, dan D sebagai titik pengukuran dengan jarak setiap titik A, B, C, dan D ke titik O adalah 41{,}61\\, \\text{cm}, 49{,}63\\, \\text{cm}, 56{,}10\\, \\text{cm} dan 62{,}79\\, \\text{cm}. Dengan begitu, berapakah kenaikan energi kinetik benda dari titik O ke titik C?",
+        "target": "1{,}08 \\, \\text{J}"
+    },
+    {
+        "input": "Sebuah mobil dengan massa 2 ton melaju di jalan datar dengan daya P_0 = 10\\, \\text{kw} dan mulai bergerak lurus dari keadaan diam. Ketika kecepatan maksimum mobil mencapai 50\\, \\text{m/s}, berapa besar nilai mutlak dari hambatan yang dialami mobil saat melaju?",
+        "target": "200 \\, \\text{N}"
+    },
+    {
+        "input": "Sebuah mobil dengan massa 2 ton melaju di jalan datar dengan daya P_0 = 10\\, \\text{kW} dan mulai bergerak lurus dari keadaan diam. Kecepatan maksimum mobil mencapai 50\\, \\text{m/s},  berapakah percepatannya ketika kecepatan mobil mencapai 20\\, \\text{m/s}?",
+        "target": "0{,}15 \\, \\text{m/s}^2"
+    },
+    {
+        "input": "Sebuah kapal memiliki kecepatan 1\\, \\text{m/s} di perairan tenang. Sungai memiliki tepi lurus dan lebar tetap. Kecepatan arus air di dekat tepi sungai adalah 2\\, \\text{m/s}, sedangkan di tengah sungai adalah 3\\, \\text{m/s}. Apakah kapal tersebut dapat menyeberangi sungai secara tegak lurus terhadap tepi sungai?",
+        "target": "Tidak bisa"
+    },
+    {
+        "input": "Sebuah pesawat mengalami perlambatan konstan saat mendarat. Saat pesawat tersebut bergerak di tanah, hambatan terhadap udara dan permukaan tanah adalah 0,5 kali beratnya. Berapakah percepatan yang dimiliki pesawat saat bergerak? （g = 10\\, \\text{m/s}^2）",
+        "target": "5 \\, \\text{m/s}^2"
+    },
+    {
+        "input": "Sebuah pesawat penumpang mendarat dengan kecepatan 216\\, \\text{km/h} , kemudian bergerak lurus dengan perlambatan beraturan. Saat bergerak, hambatan udara dan permukaan tanah adalah 0,3 kali berat pesawat. Berapa panjang landasan pacu bandara yang dibutuhkan agar pesawat dapat berhenti dengan aman? （g = 10\\, \\text{m/s}^2）",
+        "target": "600\\, \\text{m}"
+    },
+    {
+        "input": "Sebuah benda bermassa m = 8\\, \\text{kg}  meluncur ke atas gerobak bermassa M = 12\\, \\text{kg}, yang berada dalam keadaan diam di atas permukaan horizontal yang halus, dengan kecepatan horizontal v_0 = 4\\, \\text{m/s} . Berapa kecepatan bersama gerobak dan benda tersebut?（g = 10\\, \\text{m/s}^2）",
+        "target": "1{,}6\\, \\text{m/s}"
+    },
+    {
+        "input": "Sebuah benda bermassa m = 10\\, \\text{kg} bergerak horizontal dengan kecepatan konstan v_0 = 6\\, \\text{m/s} di atas sebuah kereta yang diam di atas permukaan datar yang licin. Diketahui massa kereta adalah M = 20\\, \\text{kg}, dan koefisien gesekan kinetik antara benda dan permukaan kereta adalah \\mu = 0{,}4. Berapa lama waktu yang dibutuhkan benda tersebut untuk meluncur di kereta? （g = 10\\, \\text{m/s}^2）",
+        "target": "1\\, \\text{s}"
+    },
+    {
+        "input": "Sebuah bola kecil jatuh bebas dari ketinggian 20\\, \\text{m} dari atas tanah, dan g = 10\\, \\text{m/s}^2. Berapa lama waktu yang dibutuhkan bola untuk sampai ke tanah?",
+        "target": "2\\, \\text{s}"
+    },
+    {
+        "input": "Sebuah bola kecil jatuh bebas dari ketinggian 60\\, \\text{m} dari atas tanah. Berapakah besar perpindahan bola selama 1\\, \\text{s} pertama setelah dijatuhkan? (g = 10\\, \\text{m/s}^2)",
+        "target": "5\\, \\text{m}"
+    },
+    {
+        "input": "Sebuah bola kecil jatuh bebas dari ketinggian h = 125\\, \\text{m}. Jika waktu dihitung sejak bola jatuh, berapa jauh perpindahan bola selama 1\\, \\text{s} terakhir? (g = 10\\, \\text{m/s}^2)",
+        "target": "45\\, \\text{m}"
+    },
+    {
+        "input": "Sebuah bola kecil jatuh bebas dari tempat tinggi, dan kecepatannya saat mendarat adalah 46\\, \\text{m/s}, maka berapa tinggi titik awal bola dari tanah? （g = 10\\, \\text{m/s}^2）",
+        "target": "105{,}8\\, \\text{m}"
+    },
+    {
+        "input": "Suatu benda bergerak lurus dengan perlambatan beraturan dan berhenti setelah 4\\, \\text{s}. Jika perpindahan pada detik pertama adalah 56\\, \\text{m} , berapakah perpindahan pada 1\\, \\text{s} terakhir?",
+        "target": "8\\, \\text{m}"
+    },
+    {
+        "input": "Sebuah benda dijatuhkan bebas, dan mulai dihitung sejak dilepaskan. Jika benda telah jatuh sejauh X meter, bagaimana cara menyatakan besar kecepatannya saat itu? (g = 9{,}8\\, \\text{m/s}^2)",
+        "target": "\\sqrt{19{,}6X}"
+    },
+    {
+        "input": "Sebuah benda jatuh bebas dibagi menjadi dua bagian dengan selang waktu yang sama. Berapakah perbandingan kecepatan rata-rata antara bagian atas dan bagian bawah?",
+        "target": "1∶3"
+    },
+    {
+        "input": "Sebuah benda jatuh bebas dari ketinggian H di atas permukaan tanah. Pergeseran yang ditempuh benda tersebut pada 1\\, \\text{s} terakhir sebelum mencapai permukaan tanah adalah 60\\, \\text{m} lebih besar daripada pergeseran yang ditempuh pada 1\\, \\text{s}  jatuhnya. Mengabaikan hambatan udara, berapa lama waktu t yang dibutuhkan benda tersebut untuk jatuh ke tanah dalam satuan detik? （g = 10\\, \\text{m/s}^2）",
+        "target": "7\\, \\text{s}"
+    },
+    {
+        "input": "Benda jatuh bebas memiliki kecepatan 10\\, \\text{m/s} saat melewati titik A, dan memiliki kecepatan 68{,}8\\, \\text{m/s} saat melewati titik B yang berada di bawahnya. Berapa lama waktu yang dibutuhkan benda untuk berpindah dari A ke B? (g = 9{,}8\\, \\text{m/s}^2)",
+        "target": "6\\, \\text{s}"
+    },
+    {
+        "input": "Kecepatan benda jatuh bebas yang melewati titik A adalah 10\\, \\text{m/s}, dan kecepatan melewati titik B lainnya di bawah adalah 68{,}8\\, \\text{m/s}. Berapa meter jarak antara titik A dan B? (g = 9{,}8\\, \\text{m/s}^2)",
+        "target": "236{,}4\\, \\text{m}"
+    },
+    {
+        "input": "Sebuah mobil bergerak maju dalam garis lurus dengan percepatan beraturan. Ketika kecepatannya berubah sebesar \\Delta V, mobil bergerak maju sejauh X meter; ketika kecepatannya berubah sebesar \\Delta V lagi, mobil bergerak maju sejauh Y meter. Bagaimana percepatan mobil ini seharusnya dinyatakan?",
+        "target": "\\frac{(\\Delta V)^{2}}{Y - X}"
+    },
+    {
+        "input": "Panjang total sebuah rel kereta api adalah 44{,}65\\, \\text{km}, dan panjang kereta adalah 350\\, \\text{m}. Jika kecepatan kereta adalah 90\\, \\text{km/h}, berapa menit yang dibutuhkan seluruh bagian kereta untuk melewati rel kereta api ini?",
+        "target": "30 menit"
+    },
+    {
+        "input": "Sebuah bola jatuh bebas dari suatu ketinggian. Setelah jatuh selama 0,5 detik, sebuah peluru ditembakkan ke bawah tepat di atas bola, dan peluru mengenai bola saat bola jatuh sejauh 1,8 m. Berapakah kecepatan peluru saat mengenai bola? （g =10\\, \\text{m/s}^2）",
+        "target": "18,5\\, \\text{m/s}"
+    },
+    {
+        "input": "Ujung bawah tiang vertikal sepanjang 10 meter terletak 10 meter dari pintu masuk terowongan vertikal. Jika panjang terowongan tersebut adalah 10 meter dan tiang tersebut dibiarkan jatuh bebas, berapa lama waktu yang dibutuhkan tiang tersebut untuk melewati seluruh terowongan? （g =10\\, \\text{m/s}^2）",
+        "target": "\\sqrt{6} - \\sqrt{2}\\, \\text{s}"
+    },
+    {
+        "input": "Sebuah batu dijatuhkan bebas dari tepi atap gedung. Setelah 1,1 detik, batu tepat melewati bagian atas sebuah jendela. Jika batu melewati jendela tersebut dalam waktu 0,2 detik, misalkan percepatan gravitasi g = 10\\, \\text{m/s}^2, berapakah tinggi jendela tersebut?",
+        "target": "2{,}4\\, \\text{m}"
+    },
+    {
+        "input": "Di atas kapal induk yang diam, terdapat sebuah pesawat kapal induk. Tanpa sistem pelontar, pesawat membutuhkan jarak L_0 untuk mencapai kecepatan lepas landas v dengan percepatan tetap. Dengan sistem pelontar yang memberikan kecepatan awal v_0, pesawat membutuhkan jarak L mencapai kecepatan v yang sama. Jika perbandingan kecepatan ejeksi v_0 terhadap kecepatan lepas landas v adalah 3:4, dan dengan asumsi percepatan pesawat adalah sama dalam kedua proses lepas landas, berapakah perbandingan L terhadap L_0?",
+        "target": "7∶16"
+    },
+    {
+        "input": "Sebuah benda dijatuhkan bebas, berapakah perbandingan antara energi kinetik saat menempuh setengah waktu jatuh dengan energi kinetik saat menyentuh tanah?",
+        "target": "1∶4"
+    },
+    {
+        "input": "Sebuah rantai berukuran 7,2 meter. Jika rantai tersebut dijatuhkan secara vertikal dari puncak gedung tinggi tanpa hambatan udara, berapa detik yang dibutuhkan agar seluruh rantai melewati titik yang berada 20 meter di bawah puncak gedung?（g =10\\, \\text{m/s}^2）",
+        "target": "0{,}4\\, \\text{s}"
+    },
+    {
+        "input": "Sebuah bus dengan kecepatan 54\\, \\text{km/h} berjalan pada kecepatan konstan di jalan datar. Jika bus tersebut mulai dipercepat dari suatu titik waktu dengan percepatan sebesar 1, \\text{m/s}^2, maka setelah 10\\, \\text{s}, berapakah kecepatan bus dalam meter per detik?",
+        "target": "25\\, \\text{m/s}"
+    },
+    {
+        "input": "Jika sebuah bola dilempar vertikal ke bawah gedung yang tingginya 50 meter dengan kecepatan awal 0, berapakah kecepatan bola tersebut saat bergerak sejauh 45 meter? （g =10\\, \\text{m/s}^2）",
+        "target": "30\\, \\text{m/s}"
+    },
+    {
+        "input": "Dua bola kecil identik, bola A dan bola B, dilepaskan dari ketinggian yang sama dengan selang waktu 1 detik. Jika mengabaikan hambatan udara, apakah selisih kecepatan antara bola A dan B akan tetap konstan pada setiap saat di udara?",
+        "target": "Ya"
+    },
+    {
+        "input": "Sebuah benda jatuh bebas, bergerak di udara selama 5 detik, sebelum jatuh ke tanah. Berapa perbandingan perpindahan dalam dua periode waktu: 2 detik pertama terhadap 2 detik kedua?",
+        "target": "1∶3"
+    },
+    {
+        "input": "Indah mengendarai sepeda dari titik A, mulai dari keadaan diam dan bergerak lurus dengan percepatan tetap. Ia melewati sebuah jembatan lurus BC = 14\\, \\text{m} dalam waktu 7\\, \\text{s}, dan setelah melewati jembatan kecepatannya adalah 3\\, \\text{m/s}. Berapakah kecepatan Indah saat mencapai awal jembatan pada titik B?",
+        "target": "1\\, \\text{m/s}"
+    },
+    {
+        "input": "Dari sebuah platform setinggi 5\\, \\text{m} di atas tanah, sebuah batu bermassa 1\\, \\text{kg} dilempar vertikal ke atas dengan kecepatan 25\\, \\text{m/s}. Jika mengabaikan hambatan udara, dan g = 10\\, \\text{m/s}^2, maka berapakah besar usaha oleh gaya gravitasi terhadap batu selama detik ketiga setelah dilempar?",
+        "target": "0\\, \\text{J}"
+    },
+    {
+        "input": "Sebuah benda dilemparkan vertikal ke atas, dan ketinggian maksimum yang dicapai adalah h. Jika massa benda adalah m dan hambatan udara yang dialami benda selalu sebesar f, maka berapakah besar usaha yang dilakukan oleh gaya hambat udara selama seluruh proses dari saat benda dilemparkan sampai kembali ke tanah?",
+        "target": "-2fh"
+    },
+    {
+        "input": "Tinggi Budi adalah 160 cm.Saat mengikuti lomba lompat tinggi, tinggi titik berat tubuhnya saat lepas landas adalah setengah dari tinggi badannya. Setelah melompat, tubuhnya melintasi palang horizontal yang tingginya sama dengan tinggi badannya. Berdasarkan ini, berapakah kecepatan vertikal ke atas ketika ia melompat? （g =10\\, \\text{m/s}^2）",
+        "target": "4\\, \\text{m/s}"
+    },
+    {
+        "input": "Sebuah benda dilempar vertikal ke atas dengan kecepatan awal 20\\, \\text{m/s}. Jika mengabaikan hambatan udara, kemanakah arah perubahan kecepatan benda itu?",
+        "target": "Vertikal ke bawah"
+    },
+    {
+        "input": "Terdapat dua balok kayu A dan B yang ditumpuk di atas pegas ringan vertikal (balok A di atas balok B), dan masing-masing balok memiliki massa 1\\, \\text{kg} serta pegas memiliki konstanta pegas 100\\, \\text{N/m}. Jika gaya vertikal ke atas F bekerja pada balok A, membuatnya mulai bergerak vertikal ke atas dengan percepatan tetap sebesar 2\\, \\text{m/s}^2 dari keadaan diam, maka berapakah nilai maksimum dari gaya F selama balok A bergerak ke atas dengan percepatan tetap?",
+        "target": "12\\, \\text{N}"
+    },
+    {
+        "input": "Saat melompat di tempat, pertama-tama tekuk kaki dan jongkok, lalu dorong tanah secara tiba-tiba. Dari awal mendorong tanah hingga meninggalkan tanah terjadi proses percepatan (dianggap sebagai percepatan seragam), dan jarak naiknya pusat massa selama proses percepatan disebut \"jarak percepatan\". Jarak percepatan seekor kutu yang melompat dari posisi tetap adalah d_1 = 0{,}00075\\, \\text{m}, kecepatan saat ia meninggalkan tanah adalah v_1 = 1{,}5\\, \\text{m/s}, sedangkan \"jarak percepatan\" seseorang yang melompat dari titik tetap adalah d_2 = 0{,}3\\, \\text{m}. Jika diasumsikan orang memiliki percepatan awal lompatan yang sama dengan kutu, maka berapakah kecepatan orang tersebut saat melompat dari tanah?",
+        "target": "30\\, \\text{m/s}"
+    },
+    {
+        "input": "Saat melompat di tempat, pertama-tama tekuk kaki dan jongkok, lalu dorong tanah secara tiba-tiba. Dari awal mendorong tanah hingga meninggalkan tanah terjadi proses percepatan (dianggap sebagai percepatan seragam), dan jarak naiknya pusat massa selama proses percepatan disebut \"jarak percepatan\". Jarak percepatan seekor kutu yang melompat dari posisi tetap adalah d_1 = 0{,}00075\\, \\text{m}, kecepatan saat ia meninggalkan tanah adalah v_1 = 1{,}5\\, \\text{m/s}. Jika seseorang melompat ke udara dengan kecepatan ini dan kemudian mengalami gerak lurus melambat dengan percepatan sebesar 10\\, \\text{m/s}^2, maka berapakah ketinggian maksimum yang dicapai orang tersebut setelah melompat dari tanah?",
+        "target": "0{,}1125\\, \\text{m}"
+    },
+    {
+        "input": "Sebuah balon bergerak ke atas dengan kecepatan tetap 5\\, \\text{m/s} , dan di bawah balon tergantung sebuah benda berat. Saat mencapai ketinggian 100\\, \\text{m}, tali pengikat benda berat putus. Sejak tali terputus, berapa detik waktu yang dibutuhkan benda berat untuk jatuh ke tanah?（g = 10\\, \\text{m/s}^2）",
+        "target": "5\\, \\text{s}"
+    },
+    {
+        "input": "Sebuah balon terbang vertikal ke atas dengan kecepatan tetap 5\\, \\text{m/s}, dan di bawah balon tergantung sebuah benda berat. Saat mencapai ketinggian 100\\, \\text{m}, tali pengikat benda berat putus. Sejak tali terputus, berapakah kecepatan benda berat itu saat jatuh ke tanah? （g = 10\\, \\text{m/s}^2）",
+        "target": "45\\, \\text{m/s}"
+    },
+    {
+        "input": "Seorang akrobat melemparkan tiga bola satu per satu secara vertikal ke atas, membentuk siklus berulang. Setelah melempar satu bola, ia menunggu waktu yang sama dengan waktu bola tersebut berada di tangannya sebelum menangkap bola berikutnya. Dalam satu siklus penuh, kadang terdapat tiga bola di udara, terkadang terdapat dua bola di udara, dan tangan akrobat memegang satu bola selama setengah waktu dan tangannya kosong pada setengah waktu lainnya. Jika tinggi maksimum setiap bola adalah 1{,}25\\, \\text{m}，dan (g = 10\\, \\text{m/s}^2)，berapa detik waktu setiap bola berada di tangan?",
+        "target": "0{,}2\\, \\text{s}"
+    },
+    {
+        "input": "Dalam kondisi tanpa hambatan udara, sebuah benda dilempar vertikal ke atas dari tanah dengan kecepatan awal 30\\, \\text{m/s}. Berapakah besar perpindahan benda dalam 4 detik pertama? (g = 10\\, \\text{m/s}^2)",
+        "target": "40\\, \\text{m}"
+    },
+    {
+        "input": "Sebuah benda bermassa 2\\, \\text{kg} dilempar vertikal ke atas dengan kecepatan awal 24\\, \\text{m/s}. Karena adanya hambatan udara, benda mencapai titik tertinggi setelah 3\\, \\text{s}. Jika hambatan udara selama gerakan dianggap tetap, maka berapakah tinggi maksimum yang dicapai benda? (g = 10\\, \\text{m/s}^2)",
+        "target": "36\\, \\text{m}"
+    },
+    {
+        "input": "Sebuah mobil melaju dengan kecepatan awal 10\\, \\text{m/s} dan melakukan gerak perlambatan dengan percepatan 2\\, \\text{m/s}^2. Berapa detik waktu yang dibutuhkan mobil tersebut untuk berhenti?",
+        "target": "5\\, \\text{s}"
+    },
+    {
+        "input": "Sebuah kembang api yang berisi bahan peledak diluncurkan secara vertikal ke atas dari tabung peluncur khusus, dan pada detik ke-3 mencapai titik tertinggi 60 meter dari permukaan tanah, lalu meledak. Jika selama proses peluncuran, kembang api hanya dipengaruhi oleh gaya gravitasi dan hambatan udara, dan hambatan udara besarnya tetap, maka berapakah kecepatan awal kembang api saat diluncurkan dari tabung?（g =10\\, \\text{m/s}^2）",
+        "target": "40\\, \\text{m/s}"
+    },
+    {
+        "input": "Sebuah kembang api yang berisi bahan peledak diluncurkan secara vertikal ke atas dari tabung peluncur khusus, dan pada akhir 3\\, \\text{s} mencapai titik tertinggi 60\\, \\text{m} dari permukaan tanah, lalu meledak. Jika selama proses peluncuran, kembang api hanya dipengaruhi oleh gaya gravitasi dan hambatan udara, dan hambatan udara besarnya tetap, seberapa besar percepatan yang dialami oleh sebuah peluru kembang api selama proses naiknya?（g =10\\, \\text{m/s}^2）",
+        "target": "\\frac{40}{3} \\, \\text{m/s}^2"
+    },
+    {
+        "input": "Sebuah kembang api yang berisi bahan peledak diluncurkan secara vertikal ke atas dari tabung peluncur khusus, dan pada akhir 3\\, \\text{s} mencapai titik tertinggi 60\\, \\text{m} dari permukaan tanah, lalu meledak. Jika selama proses gerak ke atas, kembang api hanya dipengaruhi oleh gaya gravitasi dan hambatan udara, dan hambatan udara besarnya tetap, maka berapakah perbandingan antara besar hambatan udara dan berat kembang api itu sendiri?（g =10\\, \\text{m/s}^2）",
+        "target": "1∶3"
+    },
+    {
+        "input": "Saat Anto mengemudi, lampu lalu lintas di depan tiba-tiba menjadi merah, sehingga ia mengerem, dan mobil terus melakukan gerak lurus diperlambat beraturan. Diketahui kecepatan awal adalah 14\\, \\text{m/s}, dan percepatannya adalah -2\\, \\text{m/s}^2. Berapakah kecepatan rata-rata mobil dalam 8\\, \\text{s} setelah pengereman?",
+        "target": "6{,}125\\, \\text{m/s}"
+    },
+    {
+        "input": "Titik A, B, dan C berada pada garis lurus yang sama. Sebuah benda mulai dari keadaan diam di titik A, kemudian bergerak lurus dengan percepatan beraturan. Kecepatannya di titik B adalah v, dan kecepatannya di titik C adalah 2v. Maka perbandingan x_{AB} :x_{BC} adalah berapa?",
+        "target": "1∶3"
+    },
+    {
+        "input": "Sebuah bola kecil bermassa 2\\, \\text{kg} dilempar dari ketinggian 20\\, \\text{m} di atas tanah. Jika bola dilempar dengan dua cara berbeda, yaitu horizontal dan vertikal ke atas, masing-masing dengan kecepatan 10\\, \\text{m/s}, berapakah kecepatan bola yang dilempar horizontal dan vertikal ke atas saat menyentuh tanah?（g = 10\\, \\text{m/s}^2）",
+        "target": "Kecepatannya sama, keduanya 10\\sqrt{5} \\, \\text{m/s}"
+    },
+    {
+        "input": "Sebuah truk bermassa 8 ton bergerak dari keadaan diam lalu bergerak lurus dengan percepatan beraturan di jalan datar. Setelah 20\\, \\text{s} truk tersebut bergerak maju sejauh 80 meter. Jika gaya hambat yang dialami truk saat bergerak adalah 1.000\\, \\text{N}, berapa besar gaya tarik yang bekerja pada truk?",
+        "target": "4.200\\, \\text{N}"
+    },
+    {
+        "input": "Sebuah benda dilempar vertikal ke atas dengan kecepatan awal 30\\, \\text{m/s}. Jika mengabaikan hambatan udara, dan menganggap permukaan horizontal tempat benda dilempar sebagai titik nol energi potensial, (g = 10\\, \\text{m/s}^2). Pada ketinggian berapa di atas titik lempar nilai energi potensial gravitasinya dua kali energi kinetiknya?",
+        "target": "30\\, \\text{m}"
+    },
+    {
+        "input": "Sebuah benda bermassa m dilempar vertikal ke atas dari tepi meja. Tinggi meja dari tanah adalah h. Titik tertinggi yang dicapai bola adalah H di atas meja. Jika permukaan meja dianggap sebagai titik nol energi potensial, maka bagaimana energi mekanik benda saat menyentuh tanah dinyatakan?",
+        "target": "mgH"
+    },
+    {
+        "input": "Sebuah bola kecil dilempar vertikal ke atas. Asumsikan bola tersebut terkena hambatan udara dan besarnya hambatan tersebut tetap konstan. Jika jarak yang ditempuh bola pada detik terakhir sebelum mencapai titik tertinggi dan detik pertama setelah meninggalkan titik tertinggi masing-masing adalah x_1 dan x_2, dan besarnya perubahan kecepatan masing-masing adalah \\Delta v_1 dan \\Delta v_2, manakah yang lebih besar, \\Delta v_1 atau \\Delta v_2?",
+        "target": "\\Delta v_1"
+    },
+    {
+        "input": "Untuk benda yang dilempar vertikal ke atas, arah momentumnya adalah ke atas. Ke arah manakah arah perubahan momentum?",
+        "target": "Ke Bawah"
+    },
+    {
+        "input": "Sebuah benda berat dilempar vertikal ke atas dari tanah dengan kecepatan 98\\, \\text{m/s}. Jika hambatan udara diabaikan, maka berapa detik waktu yang dibutuhkan benda tersebut dari saat dilempar hingga kembali ke tanah? （g=9{,}8\\, \\text{m/s}²）",
+        "target": "20\\, \\text{s}"
+    },
+    {
+        "input": "Sebuah balok kayu meluncur menuruni bidang miring dengan sudut kemiringan \\theta = 37^\\circ, dan g = 10\\, \\text{m/s} ^2, koefisien gesekan kinetik antara balok dan bidang miring adalah \\mu, jika percepatan balok saat ini adalah 2\\, \\text{m/s} ^2, berapakah nilai \\mu?",
+        "target": "0,5"
+    },
+    {
+        "input": "Sebuah bola kecil dengan kepadatan tinggi dipantulkan vertikal ke atas dari permukaan tanah. Diketahui waktu total dari saat bola dilempar hingga kembali menyentuh tanah adalah 3\\, \\text{s}. Diantara perpindahan pada 1\\, \\text{s} pertama sejauh X_1 dan perpindahan pada 1\\, \\text{s} terakhir sejauh X_3, manakah yang lebih besar? （g = 10\\, \\text{m/s}^2）",
+        "target": "Sama besar"
+    },
+    {
+        "input": "Sebuah bola kecil dilempar vertikal ke atas dari tanah dengan kecepatan tertentu. Waktu yang dibutuhkan bola untuk naik dari titik lempar ke titik tertinggi adalah t_1, dan waktu yang dibutuhkan bola untuk jatuh dari titik tertinggi ke titik lempar adalah t_2. Jika hambatan udara tidak diabaikan, maka manakah yang lebih besar, t_1 atau t_2?",
+        "target": "t_2"
+    },
+    {
+        "input": "Sebuah bola kecil dilempar vertikal ke atas dengan kecepatan v = 30\\, \\text{m/s}. Setelah 2\\, \\text{s}, bola kecil lain yang identik dilempar dari titik yang sama dengan kecepatan awal yang sama. Maka, pada ketinggian berapa meter dari titik awal kedua bola akan bertabrakan? (g = 10\\, \\text{m/s}^2)",
+        "target": "40\\, \\text{m}"
+    },
+    {
+        "input": "Massa total seorang pemain ski dan perlengkapannya adalah 75\\, \\text{kg}, meluncur turun menuruni lereng dalam garis lurus dengan percepatan konstan, dimulai dengan kecepatan awal 3\\, \\text{m/s}. Lereng tersebut memiliki kemiringan 30^\\circ. Dalam waktu 5\\, \\text{s}, dia menempuh jarak 60\\, \\text{m}. Berapakah besar hambatan (f) yang dialami pemain ski tersebut? （g = 10\\, \\text{m/s}^2）",
+        "target": "$-105\\, \\text{N}$"
+    },
+    {
+        "input": "Sebuah bola kecil dilempar vertikal ke atas dan jatuh kembali ke titik lempar pada akhir detik ke-4. Jika mengabaikan hambatan udara, berapa meter perpindahan bola selama detik ke-2? （g =10\\, \\text{m/s}^2）",
+        "target": "5\\, \\text{m}"
+    },
+    {
+        "input": "Benda A dan B saling bersentuhan. A berada di sisi kiri B, tetapi keduanya tidak terikat. Keduanya diletakkan di atas permukaan horizontal yang gesekannya dapat diabaikan. Diketahui massa A adalah 4\\, \\text{kg} dan massa B adalah 6\\, \\text{kg}. Jika dimulai dari t = 0, gaya dorong F_A dan gaya tarik F_B bekerja masing-masing pada A dan B, dengan perubahan terhadap waktu: F_A = 8 - 2t; F_B = 2 + 2t. Maka pada saat t = 2, berapa besar gaya interaksi antara A dan B?",
+        "target": "0\\, \\text{N}"
+    },
+    {
+        "input": "Di alun-alun air mancur, nosel air mancur kombinasi menyemprotkan air secara vertikal ke atas. Setiap detik, volume air yang disemprotkan dari nosel adalah 6\\, \\text{L}, dan kecepatan aliran air di nosel adalah 20\\, \\text{m/s}. Jika mengabaikan hambatan udara, berapa liter volume air yang berada di udara?（g = 10\\, \\text{m/s}^2）",
+        "target": "24L"
+    },
+    {
+        "input": "Amir memiliki tinggi 180\\, \\text{cm} dan berat badan 60\\, \\text{kg}. Ia melakukan gerakan lompat tinggi. Saat berdiri dengan tangan terangkat lurus, jangkauannya mencapai 2\\, \\text{m}. Dia kemudian menekuk kedua kaki, dan mendorong tanah dengan kuat selama 0{,}5\\, \\text{s}, lalu melompat vertikal ke atas. Jika gaya dorong kaki tetap sebesar 1.020\\, \\text{N}, dan hambatan udara diabaikan, berapa meter tinggi maksimum yang bisa dicapai Amir saat lompat tinggi?（g = 10\\, \\text{m/s}^2）",
+        "target": "2{,}6125\\, \\text{m}"
+    },
+    {
+        "input": "Air keran menetes dari pipa air. Interval waktu antara setiap tetesan yang berdekatan kurang-lebih sama. Tepat di bawah pipa air, ada baskom kecil yang diletakkan terbalik. Air menetes ke dasar baskom, sambil menimbulkan suara. Baskom secara bertahap dinaikkan ke atas hingga terlihat tetesan air jatuh bersamaan dengan terdengarnya suara tetesan air. Tinggi dasar baskom dari tanah tercatat H_1 = 10\\, \\text{cm}. Baskom terus dinaikkan, dan kali kedua dan ketiga, terlihat tetesan air jatuh bersamaan dengan terdengarnya suara tetesan air ke atas baskom dengan tinggi masing-masing H_2 = 75\\, \\text{cm} dan H_3 = 130\\, \\text{cm}. Berapa detik seharusnya interval waktu antara tetesan air yang berdekatan? （g = 10\\, \\text{m/s}^2）",
+        "target": "0{,}1\\, \\text{s}"
+    },
+    {
+        "input": "Air keran menetes dari pipa air. Interval waktu antara setiap tetesan yang berdekatan kurang-lebih sama. Tepat di bawah pipa air, ada baskom kecil yang diletakkan terbalik. Air menetes ke dasar baskom, sambil menimbulkan suara. Baskom secara bertahap dinaikkan ke atas hingga terlihat tetesan air baru saja menetes bersamaan dengan terdengarnya suara tetesan air. Tinggi dasar baskom dari tanah tercatat H_1 = 10\\, \\text{cm}. Baskom terus dinaikkan, dan kali kedua dan ketiga, terlihat tetesan air jatuh bersamaan dengan terdengarnya suara tetesan air ke atas baskom dengan tinggi masing-masing H_2 = 75\\, \\text{cm} dan H_3 = 130\\, \\text{cm}. Berapakah tinggi keran dari permukaan tanah? （g = 10\\, \\text{m/s}^2）",
+        "target": "255\\, \\text{cm}"
+    },
+    {
+        "input": "Dalam sebuah pertandingan tenis meja, bola pingpong bergerak menuju raket pemain dengan kecepatan 15\\, \\text{m/s}, lalu dipukul balik oleh pemain dengan kecepatan 20\\, \\text{m/s} ke arah berlawanan. Jika waktu interaksi antara bola dan raket adalah 0{,}1\\, \\text{s}, berapa besar percepatan bola pingpong selama proses tersebut?",
+        "target": "350\\, \\text{m/s}^2"
+    },
+    {
+        "input": "Jarak antara tempat A dan B adalah 900\\, \\text{km}. Sebuah kereta berangkat dari tempat A pukul 7.30 pagi menuju tempat B, berhenti di beberapa stasiun dalam perjalanan, dan tiba di tempat B pukul 16.30 pada hari yang sama. Kereta itu bergerak dengan kecepatan tetap 144\\, \\text{km/h} saat melalui jembatan sepanjang 900\\, \\text{m}, waktu yang dibutuhkan seluruh kereta untuk melewati jembatan adalah 25\\, \\text{s}. Berapa meter panjang kereta itu?",
+        "target": "100\\, \\text{m}"
+    },
+    {
+        "input": "Suatu benda bergerak dalam garis lurus dengan percepatan beraturan. Dalam dua selang waktu yang sama berturut-turut, perpindahannya adalah 24\\, \\text{m} dan 64\\, \\text{m}, dengan setiap interval waktu adalah 4\\, \\text{s}. Berapa besar percepatan benda selama dua perpindahan tersebut?",
+        "target": "Semuanya 2{,}5\\, \\text{m/s} ^2"
+    },
+    {
+        "input": "Sebuah pegas ringan diletakkan pada bidang horizontal. Sebuah benda A bermassa 3\\, \\text{kg} diam di atas pegas cahaya vertikal tersebut. Sebuah benda B bermassa 2\\, \\text{kg} digantung di atas A dengan seutas tali halus, A dan B saling bersentuhan tetapi tanpa gaya tekan. Pada suatu saat, tali dipotong. Berapa besar gaya yang diberikan B pada A tepat saat tali dipotong?（g = 10\\, \\text{m/s}^2）",
+        "target": "12\\, \\text{N}"
+    },
+    {
+        "input": "Sebuah bola kecil dilempar vertikal ke atas dengan kecepatan awal 49\\, \\text{m/s}. Jika hambatan udara diabaikan, berapa detik waktu yang dibutuhkan bola dari saat dilempar hingga kembali ke titik awal?（g = 9{,}8\\, \\text{m/s}^2）",
+        "target": "10\\, \\text{s}"
+    },
+    {
+        "input": "Sebuah balon naik ke arah vertikal dengan percepatan 1{,}25 \\text{m/s}^2 dari posisi diam di tanah. Jika massa total balon dan benda yang naik bersamanya adalah 2\\text{kg}, dan benda memiliki massa 0{,}5\\text{kg}, benda akan ​​jatuh pada ketinggian 40\\text{m} dari permukaan tanah, dan gaya apung balon tetap konstan selama pendakian jika hambatan udara tidak diperhitungkan, berapa meter balon berada di atas tanah ketika benda menyentuh tanah? (g = 10 \\text{m/s}^2)",
+        "target": "120\\, \\text{m}"
+    },
+    {
+        "input": "Sebuah bola dilempar vertikal ke atas dari ketinggian 50 meter di atas tanah. Pada akhir detik pertama dan akhir detik ketiga, ia melewati 15 meter di atas titik lemparan. Berapa kecepatan awal bola? （g = 10\\, \\text{m/s}^2）",
+        "target": "20\\, \\text{m/s}"
+    },
+    {
+        "input": "Sebuah bola dilempar vertikal ke atas dari ketinggian 50 meter di atas tanah. Pada akhir detik pertama dan akhir detik ketiga, ia melewati 15 meter di atas titik lemparan. Berapa waktu yang dibutuhkan dari bola dilempar hingga mendarat (g = 10\\, \\text{m/s} ^2)",
+        "target": "$2+\\sqrt{14}$"
+    },
+    {
+        "input": "Sebuah batu bermassa 2\\, \\text{kg} dilempar miring ke atas dari ketinggian 10\\, \\text{m} dengan kecepatan 5\\, \\text{m/s}, abaikan hambatan udara. Berapa besar kecepatan batu saat menyentuh tanah?（g = 10\\, \\text{m/s}^2）",
+        "target": "15\\, \\text{m/s}"
+    },
+    {
+        "input": "Sebuah batu bermassa 2\\, \\text{kg} dilempar ke atas secara miring dari ketinggian 10\\, \\text{m} dengan kecepatan 5\\, \\text{m/s}. Jika selama gerakan batu usaha yang dilakukan untuk mengatasi hambatan udara adalah 125\\, \\text{J}, berapa besar kecepatan batu saat menyentuh tanah?（g = 10\\, \\text{m/s}^2）",
+        "target": "10\\, \\text{m/s}"
+    },
+    {
+        "input": "Sebuah bola kecil dilempar vertikal ke atas dengan kecepatan awal 20\\, \\text{m/s}. Setelah 3\\, \\text{s}, sebuah bola lain dilempar dari titik yang sama dengan kecepatan awal yang sama. Berapa detik setelah bola pertama dilempar, kedua bola akan bertabrakan? (g = 10\\, \\text{m/s}^2)",
+        "target": "3{,}5\\, \\text{s}"
+    },
+    {
+        "input": "Sebuah benda dilempar vertikal ke atas dengan kecepatan awal 40 m/s. Berapa ketinggian maksimum benda tersebut? （g =10\\, \\text{m/s}^2）",
+        "target": "80\\, \\text{m}"
+    },
+    {
+        "input": "Sebuah lampion kertas terbang ke atas dengan kecepatan konstan 10\\, \\text{m/s}. Saat mencapai ketinggian 120\\, \\text{m}, sebuah benda jatuh dari lampion tersebut. Berapa detik waktu yang dibutuhkan benda tersebut untuk jatuh ke tanah?（g = 10\\, \\text{m/s}^2）",
+        "target": "6\\, \\text{s}"
+    },
+    {
+        "input": "Sebuah lampion kertas terbang ke atas dengan kecepatan konstan 10\\, \\text{m/s}. Saat mencapai ketinggian 120\\, \\text{m}, sebuah benda jatuh dari lampion tersebut. Berapakah kecepatan benda tersebut saat jatuh ke tanah?（g = 10\\, \\text{m/s}^2）",
+        "target": "50\\, \\text{m/s}"
+    },
+    {
+        "input": "Benda X, Y, dan Z melakukan gerak lurus berubah beraturan. Ketika melewati titik A, kecepatan benda X adalah 6\\, \\text{m/s}, percepatannya adalah 1\\, \\text{m/s} ^2; kecepatan benda Y adalah 2\\, \\text{m/s}, percepatannya adalah 6\\, \\text{m/s} ^2; kecepatan benda Z adalah -4\\, \\text{m/s}, percepatannya adalah 2\\, \\text{m/s} ^2. Setelah 1\\, \\text{s} melewati titik A, benda mana yang memiliki kecepatan tercepat?",
+        "target": "Y"
+    },
+    {
+        "input": "Jarak antara dua sensor akustik adalah d dan keduanya dipasang di tanah. Sensor dapat merekam interval waktu antara dua sinyal suara yang diterima berurutan. Siswa A dan B berdiri segaris di sisi kiri dan kanan kedua sensor akustik (tak satu pun dari mereka berdiri di antara kedua sensor), dan jarak dari masing-masing ke sensor terdekat adalah d'. Siswa A menembakkan pistol sebagai sinyal awal, siswa B mendengarnya dan setelah jeda waktu reaksi, juga menembakkan pistol. Diketahui sensor di sisi siswa A mencatat selang waktu t_1, dan sensor di sisi siswa B mencatat selang waktu t_2. Diketahui kecepatan rambat suara di udara tidak berubah, apakah kecepatan rambat sinyal suara akan menjadi lebih kecil jika siswa B bergerak menjauh dari sisi sensor?",
+        "target": "Tidak"
+    },
+    {
+        "input": "Seorang astronaut mencatat waktu T yang dibutuhkan sebuah pesawat luar angkasa untuk mengelilingi bulan secara melingkar dengan kecepatan konstan di dekat permukaan bulan sebelum mendarat; setelah mendarat, ia melemparkan sebuah bola kecil secara vertikal ke atas dengan kecepatan awal v_0 dan mencatat waktu t yang dibutuhkan bola untuk kembali ke titik semula. Bagaimana cara menyatakan jari-jari R Bulan?",
+        "target": "\\frac{v_0 T^2}{2\\pi^2 t}"
+    },
+    {
+        "input": "Sebuah benda langit dapat dianggap sebagai bola homogen dengan jari-jari R dan periode rotasi T. Jari-jari orbit satelit sinkronnya adalah 9R. Jika periode rotasi benda langit tersebut dipersingkat (tanpa mempertimbangkan kehancuran benda langit), ketika periode rotasi benda langit tersebut kurang dari nilai tertentu T_0, semua satelitnya tidak dapat lagi sinkron dengan rotasinya. Maka berapakah nilai T_0?",
+        "target": "\\frac{T}{27}"
+    },
+    {
+        "input": "Sebuah benda dilempar vertikal ke atas dari tanah dan melewati suatu titik dengan tinggi 30 meter di atas tanah dua kali dalam 1 detik. Dengan mengabaikan hambatan udara, berapakah kecepatan awal benda ketika dilempar vertikal ke atas? （g =10\\, \\text{m/s}^2）",
+        "target": "25\\, \\text{m/s}"
+    },
+    {
+        "input": "Sebuah benda dilemparkan secara vertikal ke atas dengan kecepatan 100\\, \\text{m/s}. Jika mengabaikan hambatan udara, berapa meter tinggi maksimum yang dicapai benda tersebut? (g = 10\\, \\text{m/s}^2)",
+        "target": "500\\, \\text{m}"
+    },
+    {
+        "input": "Sebuah benda dilemparkan secara vertikal ke atas dengan kecepatan 100\\, \\text{m/s}. Jika mengabaikan hambatan udara, berapa kecepatan benda tersebut ketika kembali ke titik awal? ",
+        "target": "100\\, \\text{m/s}"
+    },
+    {
+        "input": "Dari ketinggian H, sebuah benda kecil mulai jatuh bebas dari keadaan diam, dan pada saat yang bersamaan, dari permukaan tanah tepat di bawah benda, sebuah batu dilemparkan ke atas secara vertikal. Diketahui bahwa ketika benda yang jatuh dan batu saling bertemu di udara, batu telah mulai jatuh kembali ke bawah. Dalam kisaran berapakah seharusnya kecepatan awal batu yang dilempar?",
+        "target": "\\sqrt{\\frac{gH}{2}} < v_0 < \\sqrt{gH}"
+    },
+    {
+        "input": "Sebuah benda dilemparkan secara vertikal ke atas dari bidang horizontal dengan kecepatan 30\\, \\text{m/s}. Jika mengabaikan hambatan udara, berapa meter ketinggian benda tersebut dari titik lemparan setelah 5 detik? (g = 10\\, \\text{m/s}^2)",
+        "target": "25\\, \\text{m}"
+    },
+    {
+        "input": "Sebuah bola dilemparkan secara vertikal ke atas dengan kecepatan 20\\, \\text{m/s}. Dua detik kemudian, bola kedua dilemparkan dengan kecepatan awal yang sama dari titik yang sama. Maka, pada ketinggian berapa dari titik lemparan kedua bola akan saling bertemu? (g = 10\\, \\text{m/s}^2)",
+        "target": "15\\, \\text{m}"
+    },
+    {
+        "input": "Kecepatan rata-rata seseorang yang perjalanan pergi dari tempat A ke tempat B adalah v_1, dan kecepatan rata-rata orang yang kembali dari tempat B ke tempat A adalah v_2. Berapa kecepatan rata-rata orang yang perjalanan pulang-pergi antara tempat A dan B ?",
+        "target": "\\frac{2v_1 v_2}{v_1 + v_2}"
+    },
+    {
+        "input": "Sebuah bola bergerak ke kanan dengan kecepatan v_1 = 8\\, \\text{m/s}, setelah menabrak dinding, bola memantul kembali dengan kecepatan v_2 = 4\\, \\text{m/s}. Waktu tumbukan antara bola dan dinding adalah t = 0{,}1\\, \\text{s}. Jika Siswa A menetapkan arah kanan sebagai arah positif, bantu siswa A menghitung besar percepatan bola.",
+        "target": "120\\, \\text{m/s}^2"
+    },
+    {
+        "input": "Sebuah bola bergerak ke kanan dengan kecepatan v_1 = 6\\, \\text{m/s}, setelah menabrak dinding, bola memantul kembali dengan kecepatan v_2 = 5\\, \\text{m/s}. Waktu tumbukan antara bola dan dinding adalah t = 0{,}1\\, \\text{s}. Jika siswa B menetapkan arah kiri sebagai arah positif, bantu siswa B menghitung besar percepatan bola.",
+        "target": "110\\, \\text{m/s}^2"
+    },
+    {
+        "input": "Sebuah partikel bergerak lurus dengan kecepatan yang berubah-ubah di sepanjang garis Ox. Jaraknya dari titik O terhadap waktu t dinyatakan dengan fungsi x = 2 + 6t - 2t^3\\, (\\text{m}), dan kecepatannya terhadap waktu t dinyatakan sebagai v = 6 - 6t^2\\, (\\text{m/s}). Berapakah kecepatan partikel pada t = 2\\, \\text{s}?",
+        "target": "-18\\, \\text{m/s} , arahnya berlawanan dengan kecepatan awal"
+    },
+    {
+        "input": "Sebuah partikel bergerak lurus berubah-ubah di sepanjang garis Ox. Jaraknya dari titik O terhadap waktu t dinyatakan dengan fungsi x = 2 + 6t - 2t^3\\, (\\text{m}), dan kecepatannya terhadap waktu t dinyatakan sebagai v = 6 - 6t^2\\, (\\text{m/s}). Berapa percepatan rata-rata partikel tersebut selama 2 detik kedua?",
+        "target": "-36\\, \\text{m/s}^2"
+    },
+    {
+        "input": "Sebuah partikel bergerak lurus berubah-ubah di sepanjang garis Ox. Jaraknya dari titik O terhadap waktu t dinyatakan dengan fungsi x = 2 + 6t - 2t^3\\, (\\text{m}), dan kecepatannya terhadap waktu t dinyatakan sebagai v = 6 - 6t^2\\, (\\text{m/s}). Berapakah kecepatan rata-rata partikel dari t = 0 hingga t = 2\\, \\text{s}?",
+        "target": "-2\\, \\text{m/s} , arahnya berlawanan dengan kecepatan awal"
+    },
+    {
+        "input": "Jika kecepatan rata-rata suatu benda dalam satu detik adalah 5\\, \\text{m/s}, maka berapa meter perpindahan benda tersebut dalam satu detik itu?",
+        "target": "5\\, \\text{m}"
+    },
+    {
+        "input": "Sebuah mobil bergerak dengan kecepatan konstan 90\\, \\text{km/h}, akibat adanya gangguan, rem darurat diterapkan, yang pada akhirnya menghentikan pergerakan. Diketahui bahwa percepatan saat pengereman sebesar 5\\, \\text{m/s}^2. Maka, berapakah kecepatan mobil setelah 1\\, \\text{s} pengereman?",
+        "target": "20\\, \\text{m/s}"
+    },
+    {
+        "input": "Sebuah mobil bergerak dengan kecepatan konstan 90\\, \\text{km/h}, kemudian melakukan pengereman darurat karena ada kerusakan dan akhirnya berhenti. Diketahui bahwa percepatan saat pengereman sebesar 5\\, \\text{m/s}^2. Berapa menit waktu yang diperlukan mobil tersebut hingga berhenti?",
+        "target": "\\frac{1}{12}"
+    },
+    {
+        "input": "Sebuah benda dilemparkan secara vertikal ke atas dengan kecepatan awal 30\\, \\text{m/s}. Hambatan udara diabaikan, dan arah ke atas dianggap sebagai arah positif. Berapakah total jarak yang ditempuh benda tersebut dalam waktu 5\\, \\text{s}? (g = 10\\, \\text{m/s}^2)",
+        "target": "65\\, \\text{m}"
+    },
+    {
+        "input": "Sebuah benda dilemparkan secara vertikal ke atas dari ketinggian 560\\, \\text{m} dari permukaan tanah dengan kecepatan awal 30\\, \\text{m/s}. Berapa lama waktu yang dibutuhkan benda tersebut untuk mencapai tanah setelah dilempar? (g = 10\\, \\text{m/s}^2)",
+        "target": "14\\, \\text{s}"
+    },
+    {
+        "input": "Di permukaan tanah, sebuah bom hujan buatan bermassa m = 5\\, \\text{kg} ditembakkan secara vertikal ke atas dengan kecepatan v_0 = 360\\, \\text{m/s}. Bom tersebut meledak saat mencapai titik tertinggi dan menyebarkan agen pemicu hujan. Berapa kilojoule energi kinetik bom hujan buatan saat meninggalkan tanah?",
+        "target": "324\\, \\text{kJ}"
+    },
+    {
+        "input": "Di permukaan tanah, sebuah bom hujan buatan bermassa m = 5\\, \\text{kg} ditembakkan secara vertikal ke atas dengan kecepatan v_0 = 360\\, \\text{m/s}. Bom tersebut meledak saat mencapai titik tertinggi dan menyebarkan agen pemicu hujan. Berapakah pertambahan energi potensial gravitasi bom hujan buatan tersebut saat naik ke titik tertinggi?(g=10 \\text{m/s}^2)",
+        "target": "324.000\\, \\text{J}"
+    },
+    {
+        "input": "Di permukaan tanah, sebuah bom hujan buatan bermassa m = 5\\, \\text{kg} ditembakkan secara vertikal ke atas dengan kecepatan v_0 = 360\\, \\text{m/s}. Bom tersebut meledak saat mencapai titik tertinggi dan menyebarkan agen pemicu hujan. Jika hambatan udara diabaikan, berapakah ketinggian maksimum yang dicapai bom tersebut? (g = 10\\, \\text{m/s}^2)",
+        "target": "6{,}48\\, \\text{km}"
+    },
+    {
+        "input": "Dua buah balok, A dan B, yang dihubungkan dengan seutas tali ringan, diletakkan pada permukaan horizontal yang licin. Perbandingan massa Balok A dan B adalah m_A : m_B = 3 : 1. Jika gaya tarik horizontal ke kiri F = 12\\, \\text{N} diberikan pada Balok A, maka berapakah besar gaya tarik tali pada Balok B?",
+        "target": "3\\, \\text{N}"
+    },
+    {
+        "input": "Secara teori, proses kolaps bintang bermassa besar menjadi lubang hitam dipengaruhi oleh reaksi nuklir: _{6}^{12}\\text{C} + Y \\rightarrow _{8}^{16}\\text{O}. Jika Y adalah partikel, maka antara sinar α dan sinar γ, manakah yang memiliki kemampuan ionisasi lebih kuat?",
+        "target": "Sinar α"
+    },
+    {
+        "input": "Saat diam, Uranium-238 ( _{92}^{238}\\text{U} ) mengalami peluruhan α menjadi inti atom Th, dan memancarkan satu foton γ (dengan frekuensi \\nu ). Diketahui massa partikel α adalah m. (Konstanta Planck adalah h, kecepatan cahaya adalah c). Tuliskanlah persamaan peluruhannya.",
+        "target": " _{92}^{238}\\text{U} \\rightarrow _{90}^{234}\\text{Th} + _{2}^{4}\\text{He}"
+    },
+    {
+        "input": "Sebuah motor listrik kecil bekerja di bawah tegangan 5\\, \\text{V}, dan arus yang mengalir melaluinya adalah 0{,}5\\, \\text{A}. Berapakah daya masukan dalam watt?",
+        "target": "2{,}5\\, \\text{W} "
+    },
+    {
+        "input": "Keluarga Rina baru saja membeli pemanas air listrik. Tabel berikut menunjukkan beberapa parameter teknis pemanas air tersebut. Tangki diisi penuh dan dipanaskan selama 40, \\text{min}, suhu air naik dari 25^\\circ\\text{C} menjadi 45^\\circ\\text{C}. Berapakah efisiensi pemanas air tersebut? (Kalor jenis air: 4.200\\, \\text{J/(kg}\\cdot^\\circ\\text{C)})\n\n| Model | FED-H50 | \n| Tegangan nominal | 220\\, \\text{V}     | \n| Volume air maksimum | 50\\, \\text{kg}    | \n| Daya ​​nominal​​| 2.000\\, \\text{W}    |",
+        "target": "87,5%"
+    },
+    {
+        "input": "Akibat berkurangnya tegangan catu daya, daya listrik pada peralatan listrik dalam rangkaian berkurang 36%. Berapakah persentase penurunan tegangan catu daya dibandingkan sebelumnya?",
+        "target": "0.2"
+    },
+    {
+        "input": "Hubungkan dua kawat resistansi yang terbuat dari bahan yang sama di dua sirkuit berbeda.  Kawat A memiliki panjang L dan diameter d; kawat B memiliki panjang 4L dan diameter 4d. Agar daya yang dikonsumsi kedua kawat sama, berapakah perbandingan tegangan yang harus diberikan pada kawat A dan B?",
+        "target": "U_A∶U_B=2∶1"
+    },
+    {
+        "input": "Sebuah konduktor memiliki hambatan sebesar 4\\, \\Omega. Jika arus sebesar 4\\, \\text{A} mengalir melaluinya selama 30\\, \\text{min}, berapa joule panas yang dihasilkan?",
+        "target": "115.200\\, \\text{J}"
+    },
+    {
+        "input": "Lampu pijar L bertanda “40V 10W”, R adalah resistor tetap, dan setelah saklar S ditutup, lampu pijar L menyala normal, dan amperemeter menunjukkan 0,45A. Berapa arus nominal lampu pijar L dalam ampere?",
+        "target": "0{,}25\\, \\text{A}"
+    },
+    {
+        "input": "Dalam medan listrik yang dihasilkan oleh muatan titik positif Q, terdapat dua titik M dan N. Potensial listrik di titik M dan N masing-masing adalah φₘ dan φₙ, dan kuat medan listrik di kedua titik masing-masing adalah Eₘ dan Eₙ. Jika muatan uji positif dipindahkan dari titik M ke N dan gaya listrik melakukan usaha negatif, bagaimana hubungan antara Eₘ dan Eₙ? (Gunakan simbol ＞, ＜, =)",
+        "target": "E_m < E_n"
+    },
+    {
+        "input": "Sebuah partikel bergerak melingkar beraturan. Jika besar gaya resultan berbanding lurus dengan pangkat n dari jari-jari lintasan, dan periode geraknya berbanding terbalik dengan jari-jari lintasan, maka berapakah nilai n?",
+        "target": "3"
+    },
+    {
+        "input": "Karena rotasi Bumi, bandingkan benda A yang berada di khatulistiwa dengan benda B yang berada di lintang utara 60^\\circ. Berapakah perbandingan kecepatan sudut benda A dan B?",
+        "target": "1∶1"
+    },
+    {
+        "input": "Saat atlet lari melewati lintasan setengah lingkaran, mereka dapat dianggap sedang melakukan gerak melingkar. Lintasan luar dan dalam adalah setengah lingkaran konsentris. Jika kecepatan linear atlet di lintasan luar dan dalam sama, manakah yang memiliki kecepatan sudut lebih besar: lintasan dalam atau luar?",
+        "target": "Kecepatan sudut lintasan dalam lebih besar"
+    },
+    {
+        "input": "Suatu bahan kuantum baru dalam efek fotolistrik memiliki fungsi kerja W_0. Ketika disinari cahaya ultraviolet, hanya seberkas elektron koheren dengan energi kinetik dan momentum seragam yang dihasilkan. Jika berkas elektron diarahkan ke celah ganda dengan jarak antar celah d, dan layar pengamat berada pada jarak L dari celah, serta jarak antar pita interferensi adalah \\Delta x. Diketahui massa elektron m, konstanta Planck h, dan kecepatan cahaya c. Bagaimana cara menyatakan momentum elektron p?",
+        "target": "\\frac{hL}{d\\Delta x}"
+    },
+    {
+        "input": "Sebuah satelit observasi matahari \"ASO-S\" dapat mengamati radiasi sinar-X keras dari matahari. Sinar-X keras adalah foton dengan panjang gelombang sangat pendek, diasumsikan panjang gelombangnya λ. Jika matahari memancarkan sinar-X keras secara merata ke segala arah dan lensa detektor satelit menghadap langsung ke matahari, serta menerima N foton per detik. Diketahui luas lensa S, jarak satelit ke pusat matahari R, konstanta Planck h, dan kecepatan cahaya c. Berapakah energi setiap foton E?",
+        "target": "\\frac{hc}{\\lambda}"
+    },
+    {
+        "input": "Sebuah satelit observasi matahari \"ASO-S\" dapat mengamati radiasi sinar-X keras dari matahari. Sinar-X keras adalah foton dengan panjang gelombang sangat pendek, diasumsikan panjang gelombangnya λ. Jika matahari memancarkan sinar-X keras secara merata ke segala arah dan lensa detektor satelit menghadap langsung ke matahari, serta menerima N foton per detik. Diketahui luas lensa S, jarak satelit ke pusat matahari R, konstanta Planck h, dan kecepatan cahaya c. Berapakah daya total radiasi sinar-X keras dari matahari, P?",
+        "target": "\\frac{4\\pi NhcR^2}{S\\lambda}"
+    },
+    {
+        "input": "Di dalam matahari terjadi reaksi fusi nuklir ringan secara terus menerus yang memancarkan energi ke luar. Daya total radiasi dari matahari adalah P = 3{,}75 \\times 10^{26} \\, \\text{W}. Diketahui cahaya dari matahari memerlukan waktu t = 500 \\,\\text{s} untuk sampai ke Bumi, jari-jari Bumi R_0 = 6{,}4 \\times 10^6 \\, \\text{m}, dan kecepatan cahaya di vakum c = 3 \\times 10^8 \\, \\text{m/s}. Berapakah daya energi matahari yang diterima Bumi, P_0?",
+        "target": "\\approx 1{,}71 \\times 10^{17} \\, \\text{W}"
+    },
+    {
+        "input": "Sebuah motor listrik arus searah dengan arus nominal 4A memiliki resistansi kumparan 1Ω. Ketika bekerja normal, daya yang dihasilkan adalah 6W. Berapa watt daya listrik yang dikonsumsi motor saat bekerja normal?",
+        "target": "22\\, \\text{W}"
+    },
+    {
+        "input": "Kekekalan momentum dan energi adalah hukum yang berlaku universal di dunia mikroskopis. Cahaya ultraviolet ekstrim adalah sumber cahaya yang digunakan oleh mesin fotolitografi untuk memproduksi chip canggih, dengan panjang gelombang λ antara 121\\, \\text{nm} dan 10\\, \\text{nm}. Diketahui massa elektron m = 9{,}0 \\times 10^{-31}\\, \\text{kg}, konstanta Planck h = 6{,}6 \\times 10^{-34}\\, \\text{J}\\cdot\\text{s}, dan kecepatan cahaya di vakum c = 3 \\times 10^8\\, \\text{m/s}. Jika cahaya ultraviolet ekstrim dengan panjang gelombang 10\\, \\text{nm} diarahkan ke pelat seng, dan diketahui panjang gelombang ambang untuk efek fotolistrik pada seng adalah 3{,}7 \\times 10^{-7}\\, \\text{m}, berapakah energi kinetik awal maksimum E_k dari elektron yang keluar? (Hasil perhitungan dibulatkan menjadi 1 angka penting)",
+        "target": "2 \\times 10^{-17}\\, \\text{J} "
+    },
+    {
+        "input": "Ketika sebuah resistor dihubungkan ke suatu rangkaian, daya yang dikonsumsi adalah 220\\, \\text{W}. Saat muatan listrik sebesar 3\\, \\text{C} mengalir melaluinya, terdapat 330\\, \\text{J} energi listrik yang berubah menjadi energi dalam. Berapakah hambatan resistor tersebut dalam ohm?",
+        "target": "55\\, \\Omega "
+    },
+    {
+        "input": "Sebuah rumah memasang 12 panel surya di atap, menggunakan panel surya ini untuk mengumpulkan energi surya guna pembangkitan listrik. Total daya listrik yang dapat dihasilkan adalah 2{,}8\\, \\text{kW}, dengan tegangan kerja 350\\, \\text{V}. Berapakah total arus listrik dari proyek panel surya ini?",
+        "target": "8\\, \\text{A}"
+    },
+    {
+        "input": "Kawat A memiliki panjang L, diameter penampang d, dan tegangan U di kedua ujungnya. Kawat B terbuat dari bahan yang sama dan panjangnya 3L, diameter penampang 3d, dan tegangan di kedua ujungnya adalah 3U. Berapakah perbandingan arus pada kawat A dan B ?",
+        "target": "I_A∶I_B=1∶9"
+    },
+    {
+        "input": "Rover Mars memiliki massa 240\\, \\text{kg}. Diketahui jari-jari Mars sekitar setengah jari-jari Bumi, dan massanya sekitar 1/9 Bumi. Berapa percepatan gravitasi di permukaan Mars dibandingkan dengan di permukaan Bumi?",
+        "target": "\\frac{4}{9}"
+    },
+    {
+        "input": "Sebuah benda bermassa 10 kg bergerak dalam gerak melingkar beraturan pada sebuah lingkaran berjari-jari 2 m dengan kecepatan linear 2 m/s. Berapa besar gaya sentripetal yang dibutuhkan?",
+        "target": "20\\, \\text{N}"
+    },
+    {
+        "input": "Anto mengikuti lomba lompat tinggi. Arah kecepatan awalnya vertikal ke atas dan mengabaikan hambatan udara, tinggi lompatan adalah 1,50\\, \\text{m}. Jika Anto melompat dengan kecepatan awal yang sama di Bulan, diketahui jari-jari Bulan adalah sekitar 1/4 jari-jari Bumi dan massanya adalah 1/81 massa Bumi. Jika mengabaikan pengaruh rotasi Bulan, apakah ia dapat mencapai ketinggian lebih dari 10 meter? (g = 10\\, \\text{m/s}^2)",
+        "target": "Tidak"
+    },
+    {
+        "input": "Sebuah senter memiliki tegangan 6\\, \\text{V}. Jika hambatan bola lampu adalah 10\\, \\Omega, ketika lampu menyala secara normal, berapa ampere arus yang mengalir melalui filamen?",
+        "target": "0{,}6\\, \\text{A}"
+    },
+    {
+        "input": "Sebuah bohlam pijar memiliki daya dan tegangan nominal masing-masing 50\\, \\text{W} dan 50\\, \\text{V}. Jika bohlam ini dihubungkan ke sumber tegangan 25\\, \\text{V}, berapa daya listrik minimum yang dikonsumsi?",
+        "target": "12{,}5\\, \\text{W}"
+    },
+    {
+        "input": "A dan B adalah dua kawat logam polos yang identik. Bila kawat A diregangkan secara merata hingga menjadi 4 kali panjang awalnya, dan kawat B dilipat dua dan digabungkan menjadi satu, kemudian tegangan yang sama diberikan pada masing-masing kawat. Berapakah perbandingan muatan listrik yang melewati penampang kawat dalam waktu yang sama, q_A∶q_B?",
+        "target": "1∶64"
+    },
+    {
+        "input": "Dua bola logam kecil identik (dapat dianggap sebagai muatan titik), awalnya bermuatan +6q dan -2q, dengan gaya Coulomb antara keduanya sebesar F. Setelah keduanya disentuhkan dan kemudian dikembalikan ke posisi semula, berapakah besar gaya Coulomb antar kedua bola logam tersebut?",
+        "target": "\\frac{1}{3}F"
+    },
+    {
+        "input": "Suatu alat listrik terhubung ke sumber listrik sejauh L meter, dengan arus listrik I pada jalurnya. Agar penurunan tegangan pada kabel tidak melebihi U, dan diketahui hambatan jenis kabel adalah ρ, maka berapakah luas penampang minimum dari kabel penghantar tersebut?",
+        "target": "\\frac{2\\rho LI}{U}"
+    },
+    {
+        "input": "Sebuah kawat resistif seragam diberi tegangan 4\\, \\text{V} di kedua ujungnya, dan arus sebesar 8\\, \\text{A} mengalir melaluinya. Jika kawat tersebut kemudian direntangkan secara merata dan masih diberi tegangan 4\\, \\text{V}, tetapi arus yang mengalir menjadi 0{,}5\\, \\text{A}, maka kawat tersebut menjadi berapa kali panjang semula setelah direntangkan?",
+        "target": "4 kali"
+    },
+    {
+        "input": "Sebuah kawat resistif seragam dengan hambatan R, panjang L, dan luas penampang S. Dengan asumsi suhu tidak berubah, jika panjang L tetap dan luas penampang diperbesar menjadi 2S, maka hambatannya menjadi berapa dari semula?",
+        "target": "\\frac{1}{2}R"
+    },
+    {
+        "input": "Sebuah kawat nikel-krom seragam dengan diameter penampang d memiliki hambatan R. Jika kawat tersebut ditarik hingga menjadi kawat halus yang seragam dengan diameter d/5, berapa kali lipat hambatannya dibandingkan sebelumnya?",
+        "target": "625 kali"
+    },
+    {
+        "input": "Selama musim kemarau, mobil yang melaju di jalan raya mudah terisi muatan positif akibat gesekan dengan udara. Ketika seseorang menyentuh pintu mobil, terjadi “sengatan listrik”. Jadi, ketika muatan positif mengalir dari tangan orang tersebut ke pintu mobil, ke arah mana arus listrik mengalir?",
+        "target": "Dari tangan ke pintu."
+    },
+    {
+        "input": "Sebuah lampu dengan tegangan terukur U dan daya nominal P dihubungkan ke rangkaian dengan tegangan U' (U' < U), dan pengaruh suhu terhadap hambatan diabaikan. Maka, berapakah daya sebenarnya P' dari lampu tersebut?",
+        "target": "\\left(\\frac{U'}{U}\\right)^2 \\cdot P"
+    },
+    {
+        "input": "Suatu bohlam dengan daya 100\\, \\text{W} dihubungkan langsung ke kedua ujung sumber tegangan konstan U. Jika bohlam dihubungkan menggunakan kabel panjang sehingga posisinya jauh dari sumber listrik, dan daya bohlam menjadi 81\\, \\text{W}, berapakah daya yang hilang di kabel?",
+        "target": "9\\, \\text{W}"
+    },
+    {
+        "input": "Jika daya yang dikirimkan tetap, panjang, ketebalan, dan hambatan jenis kabel transmisi tetap, maka berapakah kelipatan daya yang hilang di kabel jika menggunakan tegangan 200\\, \\text{V} dibandingkan dengan menggunakan 600\\, \\text{V}?",
+        "target": "9 kali"
+    },
+    {
+        "input": "Sebuah kawat resistansi dihubungkan ke kedua ujung sumber tegangan tetap, daya yang dilakukan oleh arus listrik adalah p. Jika kawat resistansi ini ditarik secara merata menjadi dua kali panjang semula, kemudian disambungkan kembali ke sumber tersebut, maka dayanya menjadi berapa kali dari semula?",
+        "target": "\\frac{1}{4}P"
+    },
+    {
+        "input": "Sebuah kawat lurus sepanjang 2\\, \\text{m} diletakkan tegak lurus dalam medan magnet homogen dengan induksi magnet sebesar 0{,}2\\, \\text{T}. Ketika arus sebesar 5\\, \\text{A} mengalir melalui kawat, berapakah besar gaya Ampere yang dialami kawat lurus ini?",
+        "target": "2\\, \\text{N}"
+    },
+    {
+        "input": "Sebuah kawat lurus sepanjang 2\\, \\text{m} diletakkan tegak lurus dalam medan magnet homogen dengan induksi magnet sebesar 0{,}2\\, \\text{T}. Jika kawat diletakkan sejajar dengan arah medan magnet dan kondisi lainnya tetap, maka berapa besar gaya Ampere yang dialami kawat ini?",
+        "target": "0\\, \\text{N}"
+    },
+    {
+        "input": "Sebuah kawat lurus berpanjang 2\\, \\text{m}  ditempatkan secara vertikal dalam medan magnet seragam dengan intensitas induksi magnetik 2\\, \\text{T} . Ketika arus yang mengalir melalui kawat sebesar 10\\, \\text{A}, jika kawat berada pada sudut 30^\\circ terhadap arah medan magnet dan semua kondisi lain tetap konstan, berapa besar gaya Ampere yang bekerja pada kawat?",
+        "target": "20\\, \\text{N}"
+    },
+    {
+        "input": "Ukur tegangan pada masing-masing dari dua lampu dalam rangkaian menggunakan voltmeter, hasilnya menunjukkan tegangan pada masing-masing dari kedua bohlam adalah 20\\, \\text{V}. Maka, apakah jenis rangkaian antara kedua bohlam?",
+        "target": "Paralel"
+    },
+    {
+        "input": "Tiga buah resistor memiliki perbandingan nilai resistansi R1:R2:R3 = 1:2:3. Jika dihubungkan secara paralel dalam suatu rangkaian, maka berapakah perbandingan arus yang melalui masing-masing cabang?",
+        "target": "I_1 : I_2 : I_3 =6∶3∶2"
+    },
+    {
+        "input": "Sebuah pengukur amper memiliki batas ukur 6\\, \\text{A} dan resistansi dalam R_1. Kini sebuah resistor yang memiliki nilai sama dengan R_1 dihubungkan secara paralel dengan pengukur amper, kemudian dihubungkan secara seri dengan resistor R yang bernilai 10\\, \\Omega. Setelah dihubungkan ke rangkaian, amperemeter menunjukkan 4\\, \\text{A}. Maka, berapakah daya yang dikonsumsi oleh resistor R?",
+        "target": "640\\, \\text{W}"
+    },
+    {
+        "input": "Sebuah motor listrik memiliki tegangan  nominal 220\\, \\text{V}, dan hambatan 2\\, \\Omega. Ketika bekerja normal, arus yang mengalir sebesar 10\\, \\text{A}. Berapa jumlah kalor yang dihasilkan motor listrik setiap menit dalam satuan joule?",
+        "target": "12.000\\, \\text{J}"
+    },
+    {
+        "input": "Sebuah motor listrik memiliki tegangan  nominal 220\\, \\text{V}, dan hambatan 2\\, \\Omega. Ketika bekerja normal, arus yang mengalir sebesar 10\\, \\text{A}. Berapa besar usaha mekanik yang dilakukan motor tersebut setiap menit?",
+        "target": "120.000\\, \\text{J}"
+    },
+    {
+        "input": "Sebuah kawat timbal tipis dengan diameter 0{,}3\\, \\text{cm} akan meleleh saat dilalui arus 18\\, \\text{A}, dan sebuah kawat timbal tebal dengan diameter 0{,}6\\, \\text{cm} akan meleleh saat dilalui arus 50\\, \\text{A}. Jika dibuat sekring dari 20 kawat tipis dan satu kawat tebal dengan panjang yang sama, lalu disusun paralel, maka arus maksimum yang dapat dilewatkan oleh rangkaian sebelum terputus adalah berapa?",
+        "target": "300\\, \\text{A}"
+    },
+    {
+        "input": "Sebuah pengukur amper memiliki resistansi dalam R_g = 10\\, \\Omega dan arus penuh I_g = 3\\, \\text{A}. Untuk mengubahnya menjadi pengukur amper dengan batas ukur 0 \\sim 6\\, \\text{A} , berapakah nilai resistansi yang harus disambung secara paralel?",
+        "target": "10\\, \\Omega"
+    },
+    {
+        "input": "Sebuah pengukur amper memiliki resistansi dalam R_g = 10\\, \\Omega dan arus penuh I_g = 3\\, \\text{A}. Untuk mengubahnya menjadi pengukur amper dengan batas ukur 0 \\sim 6\\, \\text{A} ,  berapakah resistansi dalam dari alat ukur yang sudah dimodifikasi tersebut?",
+        "target": "5\\, \\Omega"
+    },
+    {
+        "input": "Sebuah pengukur amper memiliki resistansi dalam R_g = 200\\, \\Omega dan arus penuh I_g = 500\\, \\mu\\text{A}. Jika ingin diubah menjadi voltmeter dengan batas ukur 1\\, \\text{V}, berapakah nilai resistansi yang harus disambung secara seri?",
+        "target": "1.800\\, \\Omega"
+    },
+    {
+        "input": "Sebuah baterai dengan gaya gerak listrik 3\\, \\text{V} dan resistansi dalam yang tidak bisa diabaikan dihubungkan ke resistor R. Apakah ketika muatan 1\\, \\text{C} melewati R, kalor yang dihasilkan pada R sebesar 3\\, \\text{J}?",
+        "target": "Tidak sama dengan"
+    },
+    {
+        "input": "Sebuah panel surya memiliki tegangan rangkaian terbuka 1.000\\, \\text{V} dan arus hubung singkat 40\\, \\text{A}. Jika panel ini dihubungkan ke resistor 25\\, \\Omega membentuk rangkaian tertutup, berapakah tegangan terminal?",
+        "target": "500\\, \\text{V} "
+    },
+    {
+        "input": "Sebuah ohmmeter memiliki arus penuh 5\\, \\text{mA}, menggunakan satu baterai kering dengan gaya gerak listrik 1{,}5\\, \\text{V}. Jika resistor yang akan diukur dihubungkan ke kedua ujung probe (merah dan hitam), dan jarum penunjuk bergerak ke posisi 3/4 dari skala penuh, berapakah nilai resistansi yang diukur?",
+        "target": "100\\, \\Omega"
+    },
+    {
+        "input": "Sebuah lampu hanya dapat menyala normal jika disambungkan dengan tiga baterai aki yang disusun seri. Jika sekarang dua lampu identik disusun seri dan tetap disambungkan ke ketiga baterai tersebut, bagaimana perubahan tingkat kecerahan kedua lampu tersebut?",
+        "target": "Kecerahan menurun"
+    },
+    {
+        "input": "Saat menggunakan voltmeter, seorang siswa memperkirakan bahwa tegangan dalam rangkaian yang diuji harus diukur dalam rentang 0 \\sim 3\\, \\text{V}. Namun, ia secara keliru memilih rentang 0 \\sim 15\\, \\text{V} untuk pengukuran. Apakah hal ini akan menyebabkan jarum voltmeter berayun ke sudut yang lebih besar?",
+        "target": "Tidak, seharusnya mengecil"
+    },
+    {
+        "input": "Terdapat empat kawat: A, B, C, dan D. Kawat A, B, dan C terbuat dari tembaga, dan D merupakan kawat paduan nikel-kromium. Kawat A dan B memiliki diameter yang sama, tetapi A lebih pendek dari B; B dan C memiliki panjang sama, tetapi B lebih tebal dari C; C dan D memiliki panjang dan ketebalan yang sama. Maka urutan resistansi keempat kawat dari yang paling kecil hingga terbesar adalah seperti apa? (Gunakan simbol \">\", \"<\", atau \"=\" untuk menyatakan hubungan antara R_{\\text{A}}, R_{\\text{B}}, R_{\\text{C}}, dan R_{\\text{D}})",
+        "target": "R_{\\text{A}} < R_{\\text{B}} < R_{\\text{C}} < R_{\\text{D}}"
+    }
+]

@@ -1,0 +1,482 @@
+[
+    {
+        "input": "Ayu adalah seorang pengajar kursus pelatihan inovasi dan kewirausahaan. Ia menjadwalkan pelatihan dari pukul 10:00 hingga 18:00 setiap hari kerja, dengan istirahat makan siang selama satu jam. Mulai Senin pagi berikutnya, ia berencana untuk mengatur kursus dalam urutan berikut: Metode Inovasi akan berlangsung selama 5 jam, Perencanaan Proyek Kewirausahaan akan berlangsung selama 10 jam, dan Model Bisnis akan berlangsung selama 4 jam. Pada hari apa ia akan menyelesaikan pembelajaran Model Bisnis?",
+        "target": "Rabu depan"
+    },
+    {
+        "input": "Wulan sedang bepergian di Pittsburgh. Saat ini ia sedang mengunjungi Kebun Binatang Pittsburgh dan berencana untuk pergi ke Museum Seni Pittsburgh nanti. Sekarang pukul 13:00. Ia akan menghabiskan waktu setengah jam untuk makan siang dan setengah jam lagi untuk perjalanan. Kapan waktu paling awal ia dapat tiba di Museum Seni Pittsburgh?",
+        "target": "Ia dapat tiba pukul 14:00."
+    },
+    {
+        "input": "Mila ingin menyantap barbekyu terkenal di Seoul. Saat ini, ia sedang berbelanja di dekat Myeong-dong dan berencana untuk melanjutkan berbelanja selama satu jam lagi. Sekarang pukul 16:00, dan ia akan membutuhkan waktu setengah jam untuk sampai di sana dari lokasinya saat ini. Kapan ia dapat tiba di restoran barbekyu tersebut?",
+        "target": "17:30:00"
+    },
+    {
+        "input": "Dewi adalah seorang penulis, dan jam kerjanya pada setiap hari kerja adalah dari pukul 10:00 hingga 19:00. Urutan pengerjaannya adalah sebagai berikut: Ia membutuhkan waktu 4 jam untuk menulis bab atau paragraf baru, 1 jam untuk mengedit dan merevisi konten dari hari sebelumnya, 1 jam untuk mengatur dan menyusun alur cerita, dan 3 jam untuk melakukan analisis pasar dan persaingan. Pada pukul berapa ia akan selesai mengatur dan menyusun alur cerita?",
+        "target": "Ia akan selesai pada pukul 16:00."
+    },
+    {
+        "input": "Jika saya mengikuti kursus melukis jangka pendek minggu depan, kelas berlangsung dari pukul 10:00 hingga 18:00 pada hari kerja. Jadwal kursus, yang dimulai Senin pagi mendatang, adalah sebagai berikut: 6 jam menggambar garis, 11 jam teori warna, dan 8 jam perspektif. Pada hari apa saya akan selesai mempelajari perspektif?",
+        "target": "Kamis depan"
+    },
+    {
+        "input": "Wulan memiliki waktu 60 hari untuk mempersiapkan diri menghadapi ujian FRM-nya. Ia berencana menghabiskan waktu 5 hari untuk mengikuti ujian tiruan, 5 hari untuk mempelajari pasar dan produk keuangan, 10 hari untuk analisis kuantitatif risiko keuangan, dan 20 hari untuk manajemen risiko dan manajemen investasi. Berapa hari lagi yang tersisa baginya untuk mempraktikkan risiko operasional dan manajemen risiko?",
+        "target": "20 hari"
+    },
+    {
+        "input": "Bayu bangun pukul 10:00 pagi. Dia mengikuti kelas di sekolah dari pukul 10:00 hingga 12:00, menghabiskan waktu di gereja dari pukul 15:00 hingga 19:00, dan nongkrong di tempat temannya Lukas dari pukul 20:00 hingga 23:00. Dia tidur pukul 23:00. Jika dia ingin bermain basket selama tiga jam, kapan waktu yang paling tepat?",
+        "target": "12:00 hingga 15:00"
+    },
+    {
+        "input": "Sebagai seorang penulis, jam kerja saya pada hari kerja adalah dari pukul 10:00 hingga 16:00. Mulai Senin depan, saya berencana untuk bekerja dengan urutan sebagai berikut: 4 jam untuk mengumpulkan inspirasi dan ide, 8 jam untuk menulis bab atau paragraf baru, 6 jam untuk mencatat dan membuat kerangka karangan, dan 3 jam untuk melakukan penilaian diri dan refleksi. Pada hari apa saya akan menyelesaikan penilaian diri dan refleksi?",
+        "target": "Kamis depan"
+    },
+    {
+        "input": "Budi adalah seorang pekerja masyarakat. Dia memiliki waktu 5 hari minggu depan untuk menyelenggarakan acara masyarakat. Diperlukan waktu 1 hari untuk merencanakan dan menyiapkan konten dan pengaturan khusus untuk acara tersebut, setengah hari untuk berkomunikasi dan melakukan pelatihan tim relawan, setengah hari untuk berinteraksi dengan warga masyarakat, dan setengah hari untuk mengatur dan meringkas data dan umpan balik dari acara tersebut. Berapa hari yang tersisa baginya untuk menyelesaikan masalah warga masyarakat atau memberikan bantuan?",
+        "target": "2,5 hari"
+    },
+    {
+        "input": "Jika saya punya waktu 90 hari untuk mempersiapkan diri menghadapi ujian TOEFL, yang terdiri dari 7 hari untuk ujian tiruan, 20 hari untuk mendengarkan, 15 hari untuk menulis, dan 20 hari untuk membaca, berapa hari lagi yang tersisa untuk berlatih berbicara?",
+        "target": "28 hari"
+    },
+    {
+        "input": "Adik saya bangun jam 8 pagi hari ini. Dia ada kelas matematika dari jam 9:30 sampai 12:00, istirahat makan siang dari jam 12:00 sampai 3:00 siang, kelas bahasa Inggris dari jam 3:00 sampai 5:00 sore, dan dia berencana untuk bermain video game dari jam 8:00 sampai 10:00 malam, setelah itu dia tidur. Dia juga harus bermain sepak bola selama tiga jam hari ini. Pada rentang waktu apa yang paling cocok?",
+        "target": "Antara jam 17:00 dan 20:00"
+    },
+    {
+        "input": "Simposium akademis biasanya terdiri dari upacara pembukaan, pidato utama, diskusi kelompok, laporan akademis, dan interaksi akademis. Jika Ayu menyelenggarakan simposium akademis dari jam 10:00 sampai 18:00, dengan upacara pembukaan berlangsung selama 1 jam, diskusi kelompok berlangsung selama 1 jam, istirahat makan siang selama 1 jam, presentasi akademik 3 jam, dan pidato utama 1 jam, berapa jam yang dialokasikan untuk interaksi akademis? ",
+        "target": "1 jam"
+    },
+    {
+        "input": "Wulan punya waktu 50 hari untuk mempersiapkan diri menghadapi ujian ACT. Dia berencana menghabiskan 10 hari untuk ujian tiruan, 10 hari untuk bahasa Inggris, 7 hari untuk matematika, dan 15 hari untuk membaca. Berapa hari lagi yang tersisa untuk berlatih di bagian penalaran sains?",
+        "target": "8 hari"
+    },
+    {
+        "input": "Dewi adalah instruktur IT. Jadwal pelatihannya adalah dari pukul 10:00 hingga 18:00 pada hari kerja. Mulai Senin pagi mendatang, ia berencana untuk mengatur kursusnya dalam urutan berikut: 8 jam tentang dasar-dasar komputer, 4 jam tentang bahasa pemrograman, dan 10 jam tentang analisis data. Pada hari apa ia akan menyelesaikan kursus analisis data?",
+        "target": "Rabu depan"
+    },
+    {
+        "input": "Hari ini tanggal 1 Agustus. Handuk bayi yang dipesan oleh Siti secara online akan tiba dalam lima hari, botol susu bayi yang dipesannya akan tiba dalam 8 hari, dan susu formula yang dibelinya akan tiba dalam 3 hari. Kapan ia akan menyiapkan semua perlengkapan bayi ini?",
+        "target": "Semuanya akan siap pada tanggal 9 Agustus."
+    },
+    {
+        "input": "Surya adalah seorang perencana pernikahan dengan waktu 5 hari untuk bekerja. Diperlukan waktu 1 hari untuk memilih dan mengonfirmasi upacara pernikahan dan tempat perjamuan, setengah hari untuk memesan perusahaan pernikahan atau tim perencana, setengah hari untuk memulai proses pemasangan dan penyesuaian gaun pengantin, 1 hari untuk memilih dan membeli cincin kawin dan cincin pertunangan, setengah hari untuk mengonfirmasi akomodasi dan transportasi tamu, dan setengah hari untuk mengatur dekorasi tempat pernikahan dan penataan meja. Berapa hari lagi yang tersisa untuk memesan fotografer dan videografer?",
+        "target": "Satu hari"
+    },
+    {
+        "input": "Siti berencana menyelenggarakan acara sukarela selama 5 hari. Diperlukan waktu 1 hari untuk publisitas, setengah hari untuk penjualan amal dan kegiatan penggalangan dana, setengah hari untuk mengatur staf dan sumber daya, dan setengah hari untuk umpan balik dan perayaan bersama tim sukarelawan. Berapa hari yang tersisa untuk evaluasi dan perbaikan?",
+        "target": "2,5 hari"
+    },
+    {
+        "input": "Wulan adalah instruktur pelatihan komunikasi dan ekspresi. Jadwal pelatihannya adalah dari pukul 10:00 hingga 18:00 pada hari kerja. Mulai Senin pagi mendatang, ia berencana untuk mengatur kursusnya dalam urutan berikut: 6 jam tentang komunikasi efektif, 12 jam tentang manajemen hubungan interpersonal, dan 7 jam tentang keterampilan berbicara di depan umum. Pada hari apa ia akan menyelesaikan kursus keterampilan berbicara di depan umum?",
+        "target": "Kamis depan"
+    },
+    {
+        "input": "Ayu bangun pukul 9:00 pagi hari ini. Dia bekerja di toko roti dari pukul 9:00 hingga 12:00, makan siang dari pukul 12:00 hingga 13:00, bekerja di kafe dari pukul 15:00 hingga 19:00, dan pulang dari pukul 19:00 hingga 20:00. Dia bermain gim video sendirian di rumah hingga pukul 23:00 lalu tidur. Dewi dan Ayu mengikuti kelas dansa selama dua jam bersama. Pada rentang waktu apa mereka mengikuti pelajaran tersebut?",
+        "target": "Antara pukul 13:00 dan 15:00"
+    },
+    {
+        "input": "Hari ini, saya akan pergi ke rumah nenek untuk menjaga anak kucingnya. Diperlukan 2 jam untuk perjalanan pulang pergi, setengah jam untuk memberi makan kucing, setengah jam untuk merapikan bulu kucing, dan 1 jam untuk bermain dengan kucing. Jika saya ingin pulang sekitar pukul 18:00, kapan waktu paling lambat saya bisa berangkat?",
+        "target": "Berangkat pukul 14:00"
+    },
+    {
+        "input": "Ayu ada rapat penting di Jakarta pada tanggal 21, yang dimulai pukul 17:00 dia perlu tiba di sana dari Bandung. Tiket pesawat sudah habis terjual, jadi dia berencana naik kereta cepat. Ada tiga keberangkatan harian dari Bandung: pukul 08:00, 12:00 dan 16:00, dengan waktu tempuh sekitar 7 jam. Butuh waktu 1 jam lagi untuk pergi dari stasiun kereta ke tempat pertemuan, dan dia perlu menyisihkan waktu 1 jam untuk persiapan setelah tiba di Jakarta. Sekarang pukul 6:00 pagi tanggal 21. Kereta kecepatan tinggi mana yang harus dia tumpangi paling lambat?",
+        "target": "Kereta cepat pukul 8:00 pagi tanggal 21"
+    },
+    {
+        "input": "Siti adalah seorang wedding planner dengan waktu kerja 4 hari. Dia membutuhkan waktu setengah hari untuk merencanakan menu dan minuman jamuan pernikahan, setengah hari untuk memesan mobil pengantin dan jasa transportasi, setengah hari untuk memesan kue dan hidangan penutup pernikahan, 1 hari untuk mengatur gladi bersih pernikahan dan musik upacara, dan setengah hari untuk menyelesaikan sertifikat pernikahan dan prosedur pendaftaran. Berapa hari lagi yang tersisa untuk memastikan proses dan urutan upacara pernikahan?",
+        "target": "Satu hari"
+    },
+    {
+        "input": "Budi ingin pergi ke supermarket untuk berbelanja keperluan keluarga hari Minggu ini. Dia punya waktu 2 jam untuk berbelanja dan membayar di supermarket. Dia butuh waktu setengah jam untuk memilih sayuran, setengah jam untuk memilih daging, dan setengah jam untuk membayar. Berapa jam lagi yang tersisa untuk memilih barang-barang rumah tangga?",
+        "target": "0,5 jam"
+    },
+    {
+        "input": "Saya berencana untuk mendapatkan izin tinggal tetap Inggris. Hari ini tanggal 20 Januari. Diperlukan waktu 2 bulan untuk mengajukan aplikasi, 1 bulan untuk wawancara, dan 6 bulan untuk menyerahkan dokumen dan menjalani pemeriksaan medis. Kapan tanggal paling awal saya bisa mendapatkan izin tinggal tetap Inggris?",
+        "target": "Tanggal paling awal adalah 20 Oktober"
+    },
+    {
+        "input": "Departemen neurologi tempat Direktur Melati bekerja menyelenggarakan simposium akademis hari Minggu ini dari pukul 10:00 hingga 16:00. Jadwalnya meliputi makan siang dari pukul 12:00 hingga 13:00, upacara pembukaan dan pidato utama dari pukul 10:00 hingga 11:00, interaksi akademis dari pukul 13:00 hingga 14:00, jamuan makan atau acara sosial dari pukul 14:00 hingga 15:30, dan upacara penutupan dari pukul 15:30 hingga 16:00. Kapan waktu untuk laporan akademis?",
+        "target": "Dari pukul 11:00 hingga 12:00"
+    },
+    {
+        "input": "Melati adalah seorang wedding planner dengan waktu kerja 5 hari. Ia membutuhkan waktu setengah hari untuk menyelesaikan sertifikat pernikahan dan prosedur pendaftaran, setengah hari untuk memulai proses pemasangan dan penyesuaian gaun pengantin, 1 hari untuk merencanakan perjalanan bulan madu, 1 hari untuk mengonfirmasi akomodasi dan pengaturan transportasi tamu, dan setengah hari untuk mengatur dekorasi tempat pernikahan dan penataan meja. Berapa hari lagi yang tersisa baginya untuk menentukan pemandu acara atau pembawa acara pernikahan?",
+        "target": "1,5 hari"
+    },
+    {
+        "input": "Jika saya mengikuti kursus kebugaran jangka pendek minggu depan, kelas akan berlangsung dari pukul 10:00 hingga 18:00 pada hari kerja. Dimulai Senin pagi depan, kursus akan diatur dalam urutan berikut: 3 jam untuk latihan aerobik, 2 jam untuk latihan kekuatan, dan 4 jam untuk latihan fleksibilitas dan stabilitas inti. Pada hari apa saya akan menyelesaikan latihan fleksibilitas dan stabilitas inti?",
+        "target": "Selasa depan"
+    },
+    {
+        "input": "Saya dan keluarga berencana untuk berimigrasi ke Prancis. Hari ini tanggal 5 Januari. Diperlukan waktu 1 bulan untuk memahami kebijakan imigrasi, 1 bulan untuk mengajukan aplikasi dan menyiapkan dokumen, 3 bulan untuk biro imigrasi memproses dan meninjau aplikasi, dan 4 bulan untuk visa dikeluarkan. Kapan tanggal paling awal kita dapat berimigrasi ke Prancis?",
+        "target": "Tanggal paling awal adalah 5 Oktober"
+    },
+    {
+        "input": "Jika sekarang pukul 10:00, saya butuh waktu setengah jam untuk memberi makan kelinci saya, setengah jam untuk membersihkan kandangnya, dan 1 jam untuk bermain dengannya. Kapan waktu paling cepat saya bisa menyelesaikan semua tugas ini?",
+        "target": "Pukul 12:00"
+    },
+    {
+        "input": "Jika Budi punya waktu 30 hari untuk mempersiapkan diri menghadapi ujian HSK, yang mana 5 hari untuk berlatih berbicara, 5 hari untuk mendengarkan, 10 hari untuk menulis, dan 5 hari untuk membaca, berapa hari lagi yang tersisa baginya untuk mengikuti ujian tiruan?",
+        "target": "5 hari"
+    },
+    {
+        "input": "Jurusan Ilmu Komputer tempat Budi belajar akan menyelenggarakan simposium akademis Sabtu ini dari pukul 10:00 hingga 17:00. Jadwalnya meliputi: makan siang dari pukul 11:00 hingga 12:00, upacara pembukaan dan pidato utama dari pukul 10:00 hingga 11:00, interaksi akademis dari pukul 12:00 hingga 14:00, jamuan makan atau acara sosial dari pukul 14:00 hingga 15:00, dan upacara penutupan dari pukul 16:30 hingga 17:00. Kapan waktu untuk presentasi akademis?",
+        "target": "Dari pukul 15:00 hingga 16:30"
+    },
+    {
+        "input": "Eko adalah instruktur pijat. Jadwal pelatihannya adalah dari pukul 10:00 hingga 17:00 pada hari kerja. Mulai Senin pagi depan, ia berencana untuk mengatur kursusnya dalam urutan berikut: 5 jam untuk teknik pijat dasar, 4 jam untuk penyakit umum dan perawatan pijat, 10 jam untuk praktik keterampilan pijat, dan 4 jam untuk pijat untuk kesehatan dan kebugaran. Kapan ia akan memulai kursus pijat untuk kesehatan dan kebugaran?",
+        "target": "Rabu depan"
+    },
+    {
+        "input": "Wulan adalah seorang penulis dengan jam kerja dari pukul 11:00 hingga 20:00 pada hari kerja. Jadwal kerja hariannya secara berurutan adalah sebagai berikut: 6 jam untuk menulis bab atau paragraf baru, 1 jam untuk mengedit dan merevisi pekerjaan hari sebelumnya, 1 jam untuk mengatur dan menyusun alur cerita atau konten, dan 1 jam untuk analisis pasar dan persaingan. Jam berapa ia akan selesai mengatur dan menyusun alur cerita atau konten?",
+        "target": "Pukul 19:00"
+    },
+    {
+        "input": "Minggu ini, saya ingin pergi ke supermarket untuk berbelanja keperluan keluarga. Kami punya waktu 4 jam di supermarket untuk berbelanja, makan, dan membayar. Kami butuh waktu setengah jam untuk membeli sayur, setengah jam untuk membeli daging, 1 jam untuk makan, setengah jam untuk membeli perlengkapan rumah tangga, dan setengah jam untuk membayar. Berapa jam lagi yang tersisa untuk membeli perabotan rumah?",
+        "target": "1 jam"
+    },
+    {
+        "input": "Perusahaan saya berjarak 2,5 km dari rumah saya. Saya ingin berolahraga dan memutuskan untuk berjalan kaki ke dan dari tempat kerja setiap hari. Saya berjalan dengan kecepatan 5 km per jam. Setiap pagi, saya membutuhkan waktu 15 menit untuk sarapan, 10 menit untuk merapikan barang-barang pribadi saya, dan 15 menit untuk membersihkan kamar. Saya harus tiba di perusahaan sebelum pukul 8:30. Kapan waktu paling lambat saya bisa bangun untuk memastikan saya tiba tepat waktu?",
+        "target": "Harus bangun paling lambat pukul 7:20"
+    },
+    {
+        "input": "Jika saudara perempuan saya memiliki waktu 60 hari untuk mempersiapkan diri menghadapi ujian MCAT, yang terdiri dari 7 hari untuk ilmu biologi, 10 hari untuk ilmu fisika, 15 hari untuk ilmu sosial, dan 15 hari untuk analisis kritis, berapa hari lagi yang tersisa baginya untuk mempelajari keterampilan penalaran?",
+        "target": "13 hari"
+    },
+    {
+        "input": "Tanggal persalinan Wulan adalah 2 Oktober, dan ia ingin menyiapkan tas bersalinnya sebelum tanggal persalinan. Hari ini tanggal 2 Agustus, botol susu bayi yang dipesannya akan tiba dalam 5 hari, susu formula bayi dalam 3 hari dan celana bersalin dalam 4 hari. Kapan dia akan menyiapkan semua barang ini?",
+        "target": "Semuanya dapat disiapkan paling lambat tanggal 7 Agustus"
+    },
+    {
+        "input": "Rina bangun pukul 10:00 pagi. Ia bertamu ke rumah Budi dari pukul 11:00 hingga 15:00, bekerja di gereja dari pukul 18:00 hingga 22:00, makan malam dari pukul 22:00 hingga 23:00, lalu tidur. Jika Rina ingin menonton pertunjukan selama tiga jam, pada rentang waktu apa yang paling cocok?",
+        "target": "Antara pukul 15:00 dan 18:00"
+    },
+    {
+        "input": "Dewi berencana untuk menyelenggarakan acara sukarela selama 6 hari. Diperlukan waktu 2 hari untuk menghubungi organisasi dan mitra terkait, setengah hari untuk menetapkan peran dan tugas khusus bagi para sukarelawan, 1 hari untuk mengatur staf dan sumber daya, dan 1 hari untuk publisitas. Berapa hari yang tersisa untuk umpan balik dan perayaan dengan tim sukarelawan?",
+        "target": "1,5 hari"
+    },
+    {
+        "input": "Tanggal persalinan saya adalah 20 Oktober, dan saya ingin menyiapkan tas bersalin saya sebelum tanggal persalinan. Hari ini tanggal 20 September, tempat tidur bayi yang saya pesan akan tiba dalam 15 hari. Botol susu bayi dan susu formula akan tiba minggu depan. Sementara itu, celana bersalin dan pembalut akan tiba dalam 10 hari. Kapan saya bisa mendapatkan semua barang ini?",
+        "target": "Paling lambat tanggal 5 Oktober"
+    },
+    {
+        "input": "Jika saya mengikuti kursus pelatihan fotografi jangka pendek minggu depan, kelas akan berlangsung dari pukul 10:00 hingga 18:00 pada hari kerja. Dimulai Selasa pagi depan, kursus akan diatur dalam urutan berikut: 8 jam untuk memilih dan menggunakan peralatan fotografi, 6 jam untuk komposisi dan pembingkaian, dan 8 jam untuk kontrol cahaya dan pasca-pemrosesan. Kapan saya akan menyelesaikan kursus tentang kontrol cahaya dan pasca-pemrosesan?",
+        "target": "Kamis depan"
+    },
+    {
+        "input": "Saya seorang perawat hewan panggilan, dan saya akan pergi ke rumah klien untuk merawat anak kucing. Diperlukan waktu 1 jam untuk perjalanan pulang pergi, 1 jam untuk memeriksa telinga, mata, dan gigi kucing, 1 jam untuk merawat bulunya, dan 1 jam untuk menghilangkan cacing pada kucing. Jika saya ingin pulang sekitar pukul 17:00, jam berapa saya bisa berangkat paling lambat?",
+        "target": "Pukul 13:00"
+    },
+    {
+        "input": "Jika saya punya waktu 30 hari untuk mempersiapkan diri menghadapi ujian IELTS, yang terdiri dari 8 hari untuk berbicara, 7 hari untuk menulis, 5 hari untuk membaca, dan 7 hari untuk ujian tiruan, berapa hari lagi yang tersisa untuk berlatih mendengarkan?",
+        "target": "3 hari"
+    },
+    {
+        "input": "Wulan adalah seorang penulis dengan jam kerja dari pukul 9:00 hingga 17:00 pada hari kerja. Jadwal hariannya biasanya mengikuti urutan ini: 5 jam untuk menulis bab atau paragraf baru, 1 jam untuk mencatat dan membuat kerangka karangan, 1 jam untuk menulis penelitian dan wawancara, dan 1 jam untuk penilaian diri dan refleksi. Jam berapa dia akan menyelesaikan penulisan penelitian dan wawancara?",
+        "target": "Pukul 16:00"
+    },
+    {
+        "input": "Dewi adalah seorang wedding planner dengan waktu kerja 6 hari. Diperlukan waktu 1 hari untuk memesan musik dan pengisi acara pernikahan, setengah hari untuk mengonfirmasi rangkaian bunga dan dekorasi, setengah hari untuk memesan mobil pengantin dan layanan transportasi, 1 hari untuk memesan fotografer dan videografer, dan 2 hari untuk mengonfirmasi lokasi pernikahan dan detail hotel. Berapa hari yang tersisa untuk mengonfirmasi proses dan urutan upacara pernikahan?",
+        "target": "1 hari"
+    },
+    {
+        "input": "Budi dan teman-teman sekelasnya akan pergi ke IKEA untuk berbelanja keperluan kembali ke sekolah. Mereka punya waktu 4 jam di IKEA untuk berbelanja, makan, dan membayar. Mereka butuh 1 jam untuk memilih peralatan makan, 1 jam untuk makan, setengah jam untuk memilih perlengkapan tidur, dan setengah jam untuk membayar. Berapa jam lagi mereka punya waktu untuk membeli perabot?",
+        "target": "1 jam"
+    },
+    {
+        "input": "Ayu adalah instruktur pelatihan kepemimpinan. Jadwal pelatihannya adalah dari pukul 10:00 hingga 18:00 pada hari kerja. Mulai Senin pagi mendatang, ia berencana untuk mengatur kursusnya dalam urutan berikut: 9 jam tentang konsep kepemimpinan, 7 jam tentang gaya kepemimpinan, dan 18 jam tentang kepemimpinan tim. Pada hari apa ia akan menyelesaikan kursus tentang kepemimpinan tim?",
+        "target": "Jumat depan"
+    },
+    {
+        "input": "Universitas Jakarta menyelenggarakan konferensi akademis Sabtu ini dari pukul 10:00 hingga 17:00. Jadwalnya meliputi: makan siang dari pukul 12:00 hingga 14:00, upacara pembukaan dan pidato utama dari pukul 10:00 hingga 11:00, komentar akademis dari pukul 14:00 hingga 15:30, kegiatan sosial akademis dari pukul 15:30 hingga 16:30, dan upacara penutupan dari pukul 16:30 hingga 17:00. Kapan waktu untuk pertukaran akademis?",
+        "target": "Dari pukul 11:00 hingga 12:00."
+    },
+    {
+        "input": "Budi berencana menyelenggarakan acara sukarelawan selama 3 hari. Diperlukan waktu setengah hari untuk menghubungi organisasi dan mitra terkait, setengah hari untuk menetapkan peran dan tugas khusus bagi sukarelawan, setengah hari untuk mengatur staf dan sumber daya, dan setengah hari untuk publisitas. Berapa hari yang tersisa untuk evaluasi dan perbaikan?",
+        "target": "1 hari"
+    },
+    {
+        "input": "Saya berencana untuk mengajukan permohonan kartu Izin Tinggal Tetap Singapura. Hari ini tanggal 1 Februari. Diperlukan waktu 1 bulan untuk memahami kebijakan imigrasi, 1 bulan untuk mengajukan permohonan dan menyiapkan dokumen, 3 bulan bagi biro imigrasi untuk memproses dan meninjau permohonan, dan 1 bulan untuk penerbitan visa. Kapan tanggal paling awal saya bisa mendapatkan Izin Tinggal Tetap Singapura?",
+        "target": "Tanggal paling awal adalah 1 Agustus."
+    },
+    {
+        "input": "Ayu memiliki waktu 30 hari untuk mempersiapkan diri menghadapi ujian PMP, yang terdiri dari 5 hari untuk inisiasi proyek, 5 hari untuk perencanaan proyek, 7 hari untuk pelaksanaan proyek, dan 10 hari untuk pemantauan dan pengendalian proyek. Berapa hari lagi yang tersisa baginya untuk mempelajari penutupan proyek?",
+        "target": "3 hari"
+    },
+    {
+        "input": "Universitas Indonesia menyelenggarakan simposium akademis Sabtu ini dari pukul 09:00 hingga 17:00. Jadwalnya meliputi: makan siang dari pukul 12:00 hingga 14:00, upacara pembukaan dan pidato utama dari pukul 09:00 hingga 10:00, ulasan akademis dari pukul 14:00 hingga 15:30, kegiatan sosial akademis dari pukul 15:30 hingga 16:30, dan upacara penutupan dari pukul 16:30 hingga 17:00. Kapan waktu untuk diskusi ilmiah?",
+        "target": "Dari pukul 10:00 hingga 12:00."
+    },
+    {
+        "input": "Budi punya waktu 30 hari untuk mempersiapkan diri menghadapi ujian JLPT N2, yang terdiri dari 5 hari untuk kosa kata, 10 hari untuk mendengarkan, dan 10 hari untuk membaca. Berapa hari lagi yang tersisa untuk berlatih tata bahasa?",
+        "target": "5 hari"
+    },
+    {
+        "input": "Fitri adalah mentor pendidikan. Jadwal pelatihannya adalah dari pukul 10:00 hingga 17:00 pada hari kerja. Mulai Senin pagi depan, ia berencana untuk mengatur kursusnya dalam urutan berikut: 5 jam teori pendidikan, 4 jam desain pengajaran, dan 5 jam penilaian pengajaran. Pada hari apa ia akan memulai kursus penilaian pengajaran?",
+        "target": "Selasa depan"
+    },
+    {
+        "input": "Saya ingin magang dari Jakarta ke Hong Kong mulai tanggal 30 November. Untuk memastikan magang berjalan lancar, saya perlu membuat persiapan terperinci dan merencanakan waktu saya dengan saksama. Pertama, saya perlu mengajukan visa (diperkirakan memakan waktu 2 minggu), lalu memesan tiket pesawat pulang pergi (diperkirakan memakan waktu 1 hari) dan mencari akomodasi jangka pendek yang sesuai (diperkirakan memakan waktu 7 hari). Selain itu, saya perlu meluangkan waktu satu minggu sebelum magang untuk membiasakan diri dengan transportasi dan lingkungan hidup di Hong Kong. Selama magang, saya berencana untuk mengunjungi tempat-tempat wisata lokal di akhir pekan dan menghabiskan satu minggu di akhir magang untuk tur mendalam di Hong Kong. Kapan waktu terakhir saya perlu mengajukan visa?",
+        "target": "Pengajuan visa harus dimulai pada tanggal 1 November"
+    },
+    {
+        "input": "Jika Dewi mempunyai waktu 25 hari untuk mempersiapkan ujian GRE, yang mana 5 hari untuk ujian tiruan, 8 hari untuk penalaran verbal, dan 7 hari untuk menulis, berapa hari lagi yang tersisa baginya untuk belajar penalaran kuantitatif?",
+        "target": "5 hari"
+    },
+    {
+        "input": "Andi adalah seorang penulis dengan jam kerja dari pukul 10:00 hingga 19:00 pada hari kerja. Urutan penjadwalan kerja adalah sebagai berikut: 4 jam untuk menulis bab atau paragraf baru, 2 jam untuk mencatat dan membuat kerangka karangan, 1 jam untuk mengatur dan menyusun alur cerita atau konten, dan 2 jam untuk analisis pasar dan persaingan. Jam berapa ia akan selesai mengatur dan menyusun alur cerita atau konten?",
+        "target": "Pukul 17:00"
+    },
+    {
+        "input": "Eko selalu ingin mencoba roti Prancis. Saat ini ia sedang bertamasya di dekat Menara Eiffel, dan sekarang sudah pukul 15:00. Ia berencana untuk melanjutkan bertamasya selama 2 jam lagi. Perjalanan dari Menara Eiffel ke toko roti akan memakan waktu 1 jam. Kapan dia bisa tiba di toko roti tersebut?",
+        "target": "Pukul 18:00"
+    },
+    {
+        "input": "Jika saya mengikuti kursus pelatihan pemasaran digital minggu depan, kelas akan berlangsung dari pukul 10:00 hingga 18:00 pada hari kerja. Dimulai Selasa pagi depan, kursus akan diatur dalam urutan berikut: 6 jam tentang optimasi mesin pencari, 6 jam tentang pemasaran media sosial, dan 9 jam tentang pemasaran email. Kapan saya akan menyelesaikan kursus tentang pemasaran email?",
+        "target": "Kamis depan"
+    },
+    {
+        "input": "Wulan akan pergi ke IKEA untuk berbelanja bersama saudara perempuannya Jumat ini. Mereka memiliki waktu 4 jam di IKEA untuk berbelanja, makan, dan membayar. Diperlukan waktu setengah jam untuk memilih peralatan makan, 1 jam untuk makan, setengah jam untuk memilih perlengkapan tempat tidur, dan setengah jam untuk membayar. Berapa banyak waktu yang tersisa untuk mereka alokasikan secara bebas?",
+        "target": "1,5 jam"
+    },
+    {
+        "input": "Ayu adalah seorang penulis dengan jam kerja dari pukul 9:00 hingga 18:00 pada hari kerja.  Urutan penjadwalan kerja adalah sebagai berikut: 5  jam untuk menulis bab atau paragraf baru, 2 jam untuk mengedit dan merevisi pekerjaan hari sebelumnya, 1 jam untuk mengatur dan menyusun alur cerita atau konten, dan 1 jam untuk analisis pasar dan persaingan. Jam berapa dia akan selesai mengatur dan menyusun alur cerita atau konten?",
+        "target": "Pukul 17:00"
+    },
+    {
+        "input": "Cuaca saat ini sangat menyenangkan dan cocok untuk perjalanan santai. Saya ingin bepergian dari Jakarta ke Singapura, dan saya hanya punya waktu libur 5 hari. Pertama, saya perlu memesan tiket pesawat dan hotel, yang akan memakan waktu sekitar setengah hari. Kemudian, saya perlu mengemas barang bawaan dan menyiapkan perlengkapan perjalanan, yang juga akan memakan waktu sekitar setengah hari. Perjalanan pulang pergi akan memakan waktu 1 hari. Setelah tiba di Singapura, saya butuh waktu setengah hari untuk membiasakan diri dengan transportasi dan akomodasi setempat. Sisa waktu, saya berencana untuk mengunjungi tempat-tempat wisata utama dan mencoba kuliner setempat. Berapa banyak waktu yang tersisa untuk jalan-jalan dan makan?",
+        "target": "2,5 hari"
+    },
+    {
+        "input": "Jika saya mengikuti kursus pelatihan jangka pendek tentang pemikiran inovatif dan kreativitas minggu depan, kelas akan berlangsung dari pukul 10:00 hingga 16:00 pada hari kerja. Dimulai Senin pagi depan, kursus akan diatur dalam urutan berikut: 9 jam untuk curah pendapat dan 2 jam untuk pemikiran desain. Kapan saya akan menyelesaikan kursus tentang pemikiran desain?",
+        "target": "Selasa depan"
+    },
+    {
+        "input": "Budi adalah seorang penulis dengan jam kerja dari pukul 10:00 hingga 20:00 pada hari kerja. Urutan penjadwalan kerja adalah sebagai berikut: 5 jam untuk menulis bab atau paragraf baru, 2 jam untuk mengedit dan merevisi pekerjaan hari sebelumnya, 1 jam untuk riset sastra atau membaca karya yang relevan, dan 2 jam untuk analisis pasar dan persaingan. Jam berapa dia akan menyelesaikan riset sastra atau membaca karya yang relevan?",
+        "target": "Pukul 18:00"
+    },
+    {
+        "input": "Jika saya mengikuti kursus pelatihan analisis data jangka pendek minggu depan, kelas akan berlangsung dari pukul 10:00 hingga 18:00 pada hari kerja. Dimulai dari Senin pagi minggu depan, kursus akan diatur dalam urutan berikut:6 jam untuk pengumpulan data, 12 jam untuk pembersihan data, dan 8 jam untuk analisis dan visualisasi data. Pada hari apa saya akan menyelesaikan kursus analisis dan visualisasi data?",
+        "target": "Kamis depan"
+    },
+    {
+        "input": "Saya berencana untuk mengajukan visa permanen Australia. Hari ini tanggal 1 Januari. Diperlukan waktu 1 bulan untuk memahami kebijakan imigrasi, 3 bulan untuk mengajukan Ekspresi Ketertarikan (EOI), 3 bulan bagi biro imigrasi untuk memproses dan meninjau aplikasi, dan 3 bulan untuk visa diterbitkan. Kapan tanggal paling awal saya bisa mendapatkan visa permanen Australia?",
+        "target": "Tanggal paling awal adalah 1 November"
+    },
+    {
+        "input": "Jika saya mengikuti kursus pelatihan memanggang jangka pendek minggu depan, kelas akan berlangsung dari pukul 10:00 hingga 18:00 pada hari kerja. Dimulai Senin pagi depan, kursus akan disusun dalam urutan berikut: 5 jam tentang persiapan adonan, 4 jam tentang pengaturan suhu oven, dan 5 jam tentang teknik dekorasi. Pada hari apa saya akan belajar kursus tentang teknik dekorasi?",
+        "target": "Selasa depan"
+    },
+    {
+        "input": "Budi berencana untuk menyelenggarakan acara sukarela selama 4 hari. 1 hari akan dihabiskan untuk mempersiapkan tempat acara komunitas. Setengah hari untuk menetapkan peran dan tugas khusus kepada para sukarelawan. Setengah hari untuk menangani masalah warga komunitas atau memberikan bantuan. Setengah hari lagi untuk publisitas. Berapa hari yang tersisa untuk evaluasi dan perbaikan?",
+        "target": "1,5 hari"
+    },
+    {
+        "input": "Fitri memiliki waktu 80 hari untuk mempersiapkan ujian. Ia berencana untuk menghabiskan waktu 20 hari untuk membaca pemahaman, 20 hari untuk penalaran analitis, dan 15 hari untuk penalaran logis. Berapa hari yang tersisa untuk berlatih menulis?",
+        "target": "25 hari"
+    },
+    {
+        "input": "Yuni adalah seorang pekerja komunitas dengan waktu 5 hari minggu depan untuk menyelenggarakan acara komunitas. Diperlukan waktu 1 hari untuk merencanakan dan menyiapkan konten dan pengaturan khusus untuk acara tersebut, 1 hari untuk menetapkan peran dan tugas khusus kepada para relawan, 1 hari untuk berinteraksi dengan warga komunitas, dan setengah hari untuk mengatur dan meringkas data dan umpan balik dari acara tersebut. Berapa hari lagi yang tersisa untuk publisitas?",
+        "target": "1,5 hari"
+    },
+    {
+        "input": "Jika sekarang pukul 12:00, saya akan membutuhkan waktu 1 jam untuk merawat dan memandikan hewan peliharaan saya, 0,5 jam untuk mengeringkan bulunya, 1,5 jam untuk merawat hewan peliharaan, dan 1 jam untuk bermain dengan hewan peliharaan. Kapan waktu paling cepat saya dapat menyelesaikan semua tugas ini?",
+        "target": "16:00:00"
+    },
+    {
+        "input": "Rina ingin pergi ke toko swalayan untuk berbelanja keperluan kembali ke sekolah minggu ini. Dia memiliki waktu luang selama 3 jam. Dia akan membutuhkan waktu 0,5 jam untuk membeli kebutuhan sehari-hari, 0,5 jam untuk membeli buah, 1 jam untuk makan, dan 0,5 jam untuk membayar. Berapa banyak waktu yang tersisa untuk membeli alat tulis?",
+        "target": "0,5 jam"
+    },
+    {
+        "input": "Ayu adalah instruktur pelatihan keterampilan penjualan. Jadwal pelatihannya adalah dari pukul 10:00 hingga 18:00 pada hari kerja. Mulai Senin pagi depan, ia berencana untuk mengatur kursusnya dalam urutan berikut: 8 jam untuk riset pasar, 12 jam untuk penentuan posisi pasar, 6 jam untuk promosi merek, dan 8 jam untuk strategi pemasaran. Pada hari apa ia akan menyelesaikan kursus tentang strategi pemasaran?",
+        "target": "Jumat depan"
+    },
+    {
+        "input": "Melati menghabiskan total 3 jam di IKEA. Dia menghabiskan setengah jam untuk memilih peralatan makan, setengah jam untuk makan, dan setengah jam untuk membayar. Berapa jam yang dia habiskan untuk membeli perabotan?",
+        "target": "1,5 jam"
+    },
+    {
+        "input": "Teman sekamar saya mulai sekolah pada tanggal 25 November dan berencana untuk bepergian dari Beijing ke Los Angeles. Dia hanya punya waktu tiga hari sebelum sekolah dimulai. Pertama, dia perlu menghabiskan 1 hari untuk memesan tiket pesawat dan mengemas barang bawaannya. Kemudian, dia butuh waktu setengah hari untuk mengurus berbagai hal sebelum berangkat. Perjalanan ke bandara, pemeriksaan keamanan, dan waktu penerbangan diperkirakan akan memakan waktu 1 hari lagi. Setelah tiba di Los Angeles, dia butuh waktu setengah hari untuk mengurus prosedur pendaftaran dan menetap di akomodasinya. Berapa banyak waktu yang tersisa untuk membiasakan diri dengan kampus dan mempersiapkan diri untuk kelas?",
+        "target": "Tidak ada waktu tersisa"
+    },
+    {
+        "input": "Simposium akademis biasanya terdiri dari upacara pembukaan, pidato utama, diskusi kelompok, laporan akademis, dan interaksi akademis. Jika Hendra menyelenggarakan simposium dari pukul 10:00 hingga 18:00, dengan istirahat makan siang selama 1 jam, diskusi kelompok selama 1 jam, laporan akademis selama 2 jam, interaksi akademis selama 2 jam, dan pidato utama selama 1 jam, berapa jam yang tersisa untuk upacara pembukaan?",
+        "target": "1 jam"
+    },
+    {
+        "input": "Rumah saya berjarak 0,5 km dari kantor, dan saya perlu waktu 10 menit untuk berjalan kaki ke kantor setiap hari. Di pagi hari, saya perlu waktu 15 menit untuk sarapan, 10 menit untuk mencuci dan berpakaian, dan 5 menit untuk menyiapkan perlengkapan kerja. Setelah tiba di kantor, saya perlu waktu 5 menit untuk absen dan merapikan meja kerja. Jika saya ingin mulai bekerja tepat pukul 9:00, pukul berapa saya harus bangun paling lambat?",
+        "target": "Bangun paling lambat pukul 8:15"
+    },
+    {
+        "input": "Ayu berangkat dari rumah pukul 9:00 pagi. Dia bekerja di McDonald's dari pukul 9:00 hingga 15:00 dan di KFC dari pukul 18:00 hingga 22:00. Dia butuh waktu 1 jam untuk pulang dari KFC, dan dia tidur pukul 23:00. Jika Ayu berolahraga selama tiga jam, pada rentang waktu apa dia melakukannya?",
+        "target": "15:00 hingga 18:00"
+    },
+    {
+        "input": "Budi punya waktu 40 hari untuk mempersiapkan diri menghadapi ujian CMA. Dia berencana menghabiskan 5 hari untuk ujian tiruan, 5 hari untuk perencanaan keuangan, dan 15 hari untuk kinerja dan kontrol. Berapa hari lagi yang tersisa baginya untuk berlatih membuat keputusan keuangan?",
+        "target": "15 hari"
+    },
+    {
+        "input": "Saya ingin bepergian dari Hong Kong ke Tokyo dan punya banyak waktu, tetapi saya ingin merencanakan rencana perjalanan saya dengan baik. Pertama, saya perlu menghabiskan 1 hari untuk memesan tiket pesawat dan menyiapkan barang bawaan saya. Kemudian, saya berencana untuk menghabiskan 2 hari mengunjungi tempat-tempat wisata utama di Tokyo. Setelah itu, saya ingin menghabiskan 1 hari di Disneyland. Terakhir, saya perlu 1 hari untuk berbelanja dan mencoba kuliner lokal. Jika saya memiliki total rencana 7 hari, berapa hari yang tersisa bagi saya untuk bebas mengatur kegiatan lainnya?",
+        "target": "2 hari"
+    },
+    {
+        "input": "Budi bangun pukul 9:00 pagi setiap hari. Dia sarapan dari pukul 9:00 hingga 10:00, kelas sains dari pukul 10:00 hingga 12:00, makan siang dari pukul 12:00 hingga 13:00, diikuti dengan istirahat dua jam. Dia memiliki kelas sejarah dari pukul 15:00 hingga 17:00 dan kelas tari dari pukul 17:00 hingga 20:00. Dia tidur pukul 23:00. Jika dia juga menghabiskan waktu tiga jam di gereja, pada rentang waktu apa yang paling mungkin?",
+        "target": "20:00 hingga 23:00"
+    },
+    {
+        "input": "Hari ini, saya akan pergi ke rumah guru saya untuk menjaga anak anjingnya. Perjalanan pulang pergi memakan waktu 2 jam, setengah jam untuk memberi makan anjing, setengah jam untuk merapikan bulunya, dan 1 jam untuk bermain dengannya. Jika saya ingin pulang sekitar pukul 16:00, jam berapa saya bisa berangkat paling lambat?",
+        "target": "Berangkat paling lambat pukul 12:00."
+    },
+    {
+        "input": "Jika sekarang pukul 9:00, dan saya berencana untuk membersihkan apartemen saya secara menyeluruh hari ini, maka dibutuhkan waktu 1 jam untuk membersihkan meja makan, 1 jam untuk mengepel lantai, 1 jam untuk menghilangkan tungau debu, 1 jam untuk mengelap furnitur, dan 2 jam untuk mendisinfeksi. Kapan waktu paling cepat saya dapat menyelesaikan semua tugas ini?",
+        "target": "Waktu paling cepat pukul 15:00"
+    },
+    {
+        "input": "Kakak perempuan saya bangun pukul 9:00 pagi. Dia mengikuti kelas matematika dari pukul 9:00 hingga 11:00, kelas bahasa Indonesia dari pukul 13:00 hingga 15:00, dan kelas bahasa Inggris dari pukul 16:00 hingga 18:00. Dia makan malam dari pukul 19:00 hingga 20:00 dan bermain gim video dari pukul 21:00 hingga 22:00, lalu tidur pukul 22:00. Jika dia mengikuti ujian selama dua jam, kapan itu?",
+        "target": "Ujian berlangsung dari pukul 11:00 hingga 13:00."
+    },
+    {
+        "input": "Dewi berencana menyelenggarakan acara sukarelawan selama 7 hari. Diperlukan waktu 1,5 hari untuk berkomunikasi dan melatih tim sukarelawan, setengah hari untuk menetapkan peran dan tugas khusus bagi sukarelawan, 2 hari untuk mengatur staf dan sumber daya, dan setengah hari untuk promosi dan publisitas. Berapa hari yang tersisa untuk evaluasi dan perbaikan?",
+        "target": "2,5 hari"
+    },
+    {
+        "input": "Dewi adalah seorang penulis dengan jam kerja dari pukul 10:00 hingga 18:00 pada hari kerja. Mulai Senin depan, ia berencana untuk bekerja dengan urutan sebagai berikut: 5 jam untuk membaca dan meneliti topik atau materi yang relevan untuk mengumpulkan inspirasi dan ide, 15 jam untuk menulis bab atau paragraf baru, 1 jam untuk mengedit dan merevisi pekerjaan hari sebelumnya, memeriksa kesalahan dan memastikan kelancaran, 9 jam untuk mencatat dan menguraikan, mengatur dan menyusun alur cerita atau konten, 10 jam untuk melakukan penelitian penulisan dan wawancara untuk mengumpulkan lebih banyak informasi dan perspektif. Kapan ia akan memulai penelitian penulisan dan wawancara?",
+        "target": "Kamis depan"
+    },
+    {
+        "input": "Joko adalah instruktur pelatihan manajemen keuangan. Jadwal pelatihannya adalah dari pukul 10:00 hingga 17:00 pada hari kerja. Mulai Senin pagi depan, ia berencana untuk mengatur kursusnya dalam urutan berikut: analisis laporan keuangan (7 jam), manajemen anggaran (7 jam), dan pengambilan keputusan investasi (15 jam). Pada hari apa ia akan menyelesaikan kursus tentang pengambilan keputusan investasi?",
+        "target": "Jumat depan"
+    },
+    {
+        "input": "Ayu adalah instruktur pelatihan keterampilan penjualan. Jadwal pelatihannya adalah dari pukul 10:00 hingga 17:00 pada hari kerja. Mulai Senin pagi depan, ia berencana untuk mengatur kursusnya dalam urutan berikut: keterampilan komunikasi penjualan (8 jam), manajemen hubungan pelanggan (12 jam), dan negosiasi penjualan (5 jam). Kapan ia akan menyelesaikan kursus tentang negosiasi penjualan?",
+        "target": "Kamis depan"
+    },
+    {
+        "input": "Jika saya mengikuti kursus pelatihan tinju jangka pendek minggu depan, kelas akan berlangsung dari pukul 10:00 hingga 17:00 pada hari kerja. Dimulai Senin pagi mendatang, kursus akan diatur dalam urutan berikut: 6 jam untuk pukulan dasar, 6 jam untuk keterampilan bertahan, dan 6 jam untuk peningkatan kebugaran fisik dan koordinasi. Kapan saya akan menyelesaikan kursus tentang peningkatan kebugaran fisik dan koordinasi?",
+        "target": "Rabu depan"
+    },
+    {
+        "input": "Melati adalah pekerja komunitas dengan 5 hari minggu depan untuk menyelenggarakan acara komunitas. Diperlukan waktu 2 hari untuk menghubungi organisasi dan mitra terkait, setengah hari untuk berkomunikasi dan berlatih dengan tim relawan, setengah hari untuk berinteraksi dengan warga komunitas, dan setengah hari untuk menugaskan peran dan tugas khusus kepada relawan. Berapa hari yang tersisa untuk mengatasi masalah warga komunitas atau memberikan bantuan?",
+        "target": "1,5 hari"
+    },
+    {
+        "input": "Ayu adalah seorang penulis dengan jam kerja dari pukul 10:00 hingga 20:00 pada hari kerja. Urutan penjadwalan kerja adalah sebagai berikut: 5 jam untuk menulis bab atau paragraf baru, 2 jam untuk mengedit dan merevisi pekerjaan hari sebelumnya, 1 jam untuk mengatur dan menyusun alur cerita atau konten, dan 2 jam untuk menganalisis pasar dan persaingan. Jam berapa dia akan selesai mengatur dan menyusun alur cerita atau konten?",
+        "target": "Dia akan selesai mengatur dan menyusun alur cerita atau konten pada pukul 18:00."
+    },
+    {
+        "input": "Kali ini, saya datang ke Tokyo, Jepang, bersama ibu saya. Kami bertamasya di Ginza dan berencana untuk melanjutkan perjalanan selama setengah jam lagi. Dia ingin makan sushi. Perjalanan ke tempat makan sushi akan memakan waktu sekitar 1 jam dari sini. Saat ini pukul 16:00, dan kami harus mengantre selama 1 jam lagi. Kapan mereka bisa duduk di tempatnya?",
+        "target": "Pukul 18:30"
+    },
+    {
+        "input": "Ibu Ayu sedang berlibur di Portland. Saat ini dia sedang menikmati bunga-bunga di Rose Garden dan berencana untuk mengunjungi Museum Sains dan Industri Oregon nanti. Sekarang pukul 12:00. Perjalanan ke Museum Sains dan Industri Oregon diperkirakan akan memakan waktu 1 jam, dan dia juga berencana untuk makan selama 1 jam. Kapan dia bisa tiba di Museum Sains dan Industri Oregon paling cepat?",
+        "target": "Dia bisa tiba di Museum Sains dan Industri Oregon paling cepat pukul 14:00."
+    },
+    {
+        "input": "Siti punya waktu 25 hari untuk mempersiapkan diri menghadapi ujian SIELE, yang terdiri dari 2 hari untuk mendengarkan, 8 hari untuk membaca, 5 hari untuk menulis, dan 5 hari untuk berbicara. Berapa hari lagi yang tersisa baginya untuk mengikuti ujian tiruan?",
+        "target": "Ia punya waktu 5 hari lagi untuk mengikuti ujian tiruan."
+    },
+    {
+        "input": "Jika saya mengikuti kursus pelatihan manajemen manufaktur jangka pendek minggu depan, kelas akan berlangsung dari pukul 10:00 hingga 18:00 pada hari kerja. Mulai Senin pagi mendatang, kursus akan disusun dalam urutan berikut: perencanaan dan pengendalian produksi (7 jam), manajemen mutu (12 jam), dan manajemen rantai pasokan (6 jam). Pada hari apa saya akan menyelesaikan kursus manajemen rantai pasokan?",
+        "target": "Kamis depan"
+    },
+    {
+        "input": "Ayu berangkat dari rumah pukul 11:00 pagi. Ia mengikuti kelas matematika dari pukul 11:00 hingga 13:00, kemudian ia mempunyai kelas komputer dari pukul 16:00 hingga 18:00, dan setelah itu mengikuti kegiatan klub dari pukul 18:00 hingga 20:00 sebelum pulang ke rumah pada pukul 20:00. Fitri dan Ayu bermain basket bersama di lapangan basket selama tiga jam. Pada rentang waktu apa mereka bermain bersama?",
+        "target": "Pukul 13:00 hingga 16:00"
+    },
+    {
+        "input": "Dedi adalah anggota Superindo, Dedi berencana pergi ke supermarket Superindo untuk berbelanja besar-besaran di akhir pekan Minggu ini. Dia punya waktu 4 jam di toko. Dia butuh waktu setengah jam untuk membeli buah dan sayur, setengah jam untuk membeli daging, setengah jam untuk membeli kebutuhan sehari-hari, dan setengah jam untuk membayar. Berapa jam lagi yang tersisa untuk berbelanja perabotan rumah?",
+        "target": "2 jam"
+    },
+    {
+        "input": "Budi dan orang tuanya ingin pergi ke supermarket untuk berbelanja bersama keluarga Minggu ini. Mereka punya waktu 3 jam untuk berbelanja, makan, dan membayar, di mana setengah jam untuk membeli daging, setengah jam untuk membeli buah, 1 jam untuk makan, dan setengah jam untuk membeli kebutuhan sehari-hari. Berapa jam lagi yang tersisa untuk membayar?",
+        "target": "Waktu untuk membayar adalah 0,5 jam"
+    },
+    {
+        "input": "Sebagai pekerja komunitas, Ayu memiliki 3 hari pada minggu depan untuk menyelenggarakan acara komunitas. Diperlukan waktu 1 hari untuk merencanakan dan menyiapkan konten serta pengaturan khusus untuk acara tersebut, setengah hari untuk berkomunikasi dan berlatih dengan tim relawan, setengah hari untuk berinteraksi dengan warga masyarakat, dan setengah hari untuk mengatur serta merangkum data dan umpan balik dari acara tersebut. Berapa hari yang tersisa untuk memberikan umpan balik kepada tim relawan?",
+        "target": "0,5 hari"
+    },
+    {
+        "input": "Wulan ingin mencoba pizza Italia sejak lama. Saat ini dia sedang mengunjungi Colosseum di Roma, dan sekarang pukul 16:00. Dia berencana untuk menghabiskan 1 jam lagi untuk bertamasya di sana. Dia akan membutuhkan waktu setengah jam untuk pergi dari Colosseum ke restoran pizza. Jam berapa dia bisa duduk?",
+        "target": "Pukul 17:30"
+    },
+    {
+        "input": "Saya dan adik perempuan saya tidak bisa menyetir, dan menurut kami Uber terlalu mahal. Selama perjalanan kami ke New York, kami memutuskan untuk memakai transportasi umum sepenuhnya. Kami berencana untuk meninggalkan hotel pukul 9:00 pagi, mengunjungi Metropolitan Museum of Art, lalu naik kereta bawah tanah ke Central Park untuk bertamasya selama 2,5 jam. Kami akan makan siang dan beristirahat di dekat Central Park, tergantung pada suasana hati kami. Setelah itu, kami berencana untuk mengunjungi Times Square selama 1 jam. Kami juga ingin menghabiskan 1 jam di Gedung Empire State lalu naik kereta bawah tanah selama 30 menit kembali ke hotel kami. Jika kami ingin kembali ke hotel sebelum pukul 17:00, paling lambat jam berapa kami harus berangkat dari Central Park menuju Times Square?",
+        "target": "Harus berangkat dari Central Park menuju Times Square paling lambat pukul 14:30."
+    },
+    {
+        "input": "Saya seorang penulis dengan jam kerja dari pukul 10:00 hingga 17:00 pada hari kerja. Mulai Senin depan, saya berencana untuk bekerja dengan urutan sebagai berikut: menghabiskan 10 jam menulis bab atau paragraf baru, 2 jam mengedit dan merevisi pekerjaan hari sebelumnya, 6 jam mengatur dan menyusun alur cerita atau konten, dan 5 jam untuk analisis pasar dan persaingan. Pada hari apa saya akan menyelesaikan analisis pasar dan persaingan?",
+        "target": "Kamis depan"
+    },
+    {
+        "input": "Fitri akan pergi ke rumah saudara perempuannya untuk menjaga anak kucing hari ini. Dia membutuhkan waktu 1 jam untuk perjalanan pulang pergi, setengah jam untuk memberi makan kucing, setengah jam untuk membersihkan kotak pasir kucing, dan 1 jam untuk bermain dengan kucing. Jika saat ini pukul 9:00, jam berapa dia bisa tiba di rumah paling cepat?",
+        "target": "Dia bisa tiba di rumah paling cepat pukul 12:00."
+    },
+    {
+        "input": "Saya bangun kesiangan tadi pagi. Kantor saya berjarak 10 km dari tempatku, dan saya hanya punya waktu 20 menit lagi sebelum terlambat. Saya membutuhkan waktu 10 menit untuk berjalan kaki ke stasiun kereta bawah tanah, dan perjalanan kereta bawah tanah memakan waktu 47 menit. Jika saya naik sepeda, akan memakan waktu 67 menit. Naik taksi akan memakan waktu sekitar 10 menit jika tidak macet, atau sekitar 20 menit jika terjadi kemacetan lalu lintas. Menurut Anda, apa cara terbaik buat saya—naik kereta bawah tanah, naik sepeda, atau naik taksi?",
+        "target": "Naik taksi"
+    },
+    {
+        "input": "Universitas Gadjah Mada menyelenggarakan konferensi akademis Minggu ini dari pukul 09:00 hingga 18:00. Jadwalnya meliputi: makan siang dari pukul 12:00 hingga 14:00, upacara pembukaan dan pidato utama dari pukul 09:00 hingga 10:00, ulasan akademis dari pukul 14:00 hingga 16:30, kegiatan sosial akademis dari pukul 16:30 hingga 17:30, dan upacara penutupan dari pukul 17:30 hingga 18:00. Kapan sesi komunikasi akademis akan berlangsung?",
+        "target": "Sesi komunikasi akademis akan berlangsung antara pukul 10:00 dan 12:00."
+    },
+    {
+        "input": "Wulan adalah instruktur teknisi kuku. Jadwal pelatihannya adalah dari pukul 09:00 hingga 17:00 pada hari kerja. Dimulai Senin pagi depan, ia berencana untuk mengatur kursusnya dalam urutan berikut: pengenalan teori dasar kuku (3 jam), teknik perawatan dan pemangkasan kuku (4 jam), gaya dan desain kuku umum (3 jam), teknik aplikasi cat kuku dan stiker (2 jam), keterampilan dasar mengecat dan mengaplikasikan kuku (5 jam), dan praktik perbaikan dan perawatan permukaan kuku dasar (3 jam). Pada hari apa ia akan mulai mempelajari keterampilan dasar mengecat dan mengaplikasikan kuku?",
+        "target": "Selasa depan"
+    },
+    {
+        "input": "Rina dan keluarganya ingin pergi ke supermarket untuk berbelanja bersama keluarga Sabtu ini. Mereka punya waktu 5 jam untuk berbelanja, makan, dan membayar. Mereka membutuhkan waktu 1 jam untuk membeli sayur, 1 jam untuk membeli daging, setengah jam untuk makan, setengah jam untuk membayar, dan 1 jam untuk membeli perabot. Berapa jam lagi mereka punya waktu untuk memilih kebutuhan sehari-hari?",
+        "target": "1 jam"
+    },
+    {
+        "input": "Fajar punya waktu 60 hari untuk mempersiapkan diri menghadapi ujian SAT. Dia berencana menghabiskan 10 hari untuk ujian tiruan, 20 hari untuk matematika, 5 hari untuk fisika, dan 15 hari untuk kimia. Berapa hari lagi yang tersisa untuk berlatih bahasa Inggris?",
+        "target": "10 hari"
+    },
+    {
+        "input": "Simposium akademis biasanya terdiri dari upacara pembukaan, pidato utama, diskusi kelompok, laporan akademis, dan interaksi akademis. Jika Ayu menyelenggarakan simposium akademis dari pukul 10:00 hingga 17:00, dengan upacara pembukaan berlangsung selama 1 jam, diskusi kelompok berlangsung selama 1 jam, laporan akademis berlangsung selama 1 jam, interaksi akademis berlangsung selama 1 jam, dan pidato utama selama 1 jam,berapa jam yang dialokasikan untuk makan siang?",
+        "target": "2 jam"
+    },
+    {
+        "input": "Hari ini adalah Hari Hewan Peliharaan. Jika saat ini pukul 11:00, saya membutuhkan waktu 1 jam untuk menyisir dan memandikan hewan peliharaan saya, 1 jam untuk mengeringkan bulunya, 1 jam untuk membersihkan kandang atau area hewan peliharaan, serta 1 jam untuk bermain dengan hewan peliharaan. Kapan waktu paling cepat saya dapat menyelesaikan semua tugas ini?",
+        "target": "Semua tugas dapat diselesaikan pada pukul 15:00."
+    },
+    {
+        "input": "Wulan adalah seorang penulis dengan jam kerja dari pukul 10:00 hingga 17:00 pada hari kerja. Mulai Senin depan, ia berencana untuk bekerja dengan urutan sebagai berikut: menghabiskan 12 jam menulis bab atau paragraf baru, 4 jam mengedit dan merevisi pekerjaan hari sebelumnya, 4 jam mencatat dan membuat kerangka, dan 4 jam berdiskusi dan berkomunikasi dengan editor atau mitra penulis. Pada hari apa ia akan selesai berdiskusi dan berkomunikasi dengan editor atau mitra penulis?",
+        "target": "Kamis depan"
+    },
+    {
+        "input": "Eko memiliki waktu 30 hari untuk mempersiapkan diri menghadapi ujian PTE. Ia berencana menghabiskan 2 hari untuk ujian tiruan, 6 hari untuk mendengarkan, 7 hari untuk menulis, dan 10 hari untuk membaca. Berapa hari yang tersisa untuk berlatih berbicara?",
+        "target": "5 hari"
+    },
+    {
+        "input": "Kereta bawah tanah tutup pukul 23:00. Saya dan saudara perempuan saya menonton pertunjukan hingga pukul 23:30. Kami memerlukan waktu setengah jam untuk membereskan rumah setelah sampai di rumah lalu tidur. Rumah saya berjarak 30 menit dari kantor, dan saya ada rapat penting pukul 8:00 besok. Mengingat saya butuh tidur setidaknya 7 jam, jam berapa saya harus sudah tiba di rumah paling lambat?",
+        "target": "Harus tiba di rumah paling lambat pukul 00:00."
+    },
+    {
+        "input": "Hari ini, saya akan pergi ke rumah klien untuk menjaga anak anjingnya. Perjalanan pulang pergi memakan waktu 2 jam, setengah jam untuk memberi makan anjing, setengah jam untuk membersihkan anjing, dan 1 jam untuk bermain dengan anjing. Jika sekarang pukul 10:00, jam berapa saya tiba di rumah paling cepat?",
+        "target": "Tiba di rumah paling cepat pukul 14:00"
+    },
+    {
+        "input": "Pada hari Jumat ini Melati akan pergi ke supermarket untuk berbelanja bersama kakak perempuannya dan Ayu. Mereka punya waktu 4 jam di supermarket. Mereka butuh waktu 1 jam untuk membeli perabotan rumah, setengah jam untuk membeli daging, setengah jam untuk membeli kebutuhan sehari-hari, dan setengah jam untuk membayar. Berapa banyak waktu yang tersisa untuk membeli sayur?",
+        "target": "1,5 jam"
+    },
+    {
+        "input": "Jika sekarang pukul 11:00, dan saya berencana untuk membersihkan apartemen saya secara menyeluruh hari ini, di mana 1 jam untuk membersihkan bulu hewan peliharaan, setengah jam untuk mengepel lantai, setengah jam untuk membersihkan tungau, 1 jam untuk mengelap perabotan, dan 1 jam untuk mendisinfeksi. Kapan waktu paling cepat saya bisa menyelesaikan semua tugas ini?",
+        "target": "Paling cepat pukul 15:00"
+    },
+    {
+        "input": "Dalam perjalanan ini, saya mengajak nenek saya ke Pelabuhan Victoria di Hong Kong. Kami ingin mencoba dim sum Hong Kong. Perjalanan dari Pelabuhan Victoria ke restoran dim sum memakan waktu sekitar 1 jam. Saat ini pukul 17:00, dan kami masih ingin bermain sekitar 1 jam lagi sebelum menuju restoran. Waktu tunggu untuk mendapatkan meja diperkirakan sekitar 1 jam. Pada pukul berapa kami bisa duduk?",
+        "target": "Pukul 20:00"
+    },
+    {
+        "input": "Jika saya mengikuti kursus pelatihan menulis kreatif jangka pendek minggu depan, kelas akan berlangsung dari pukul 10:00 hingga 18:00 pada hari kerja. Dimulai Selasa pagi depan, kursus akan diatur dalam urutan berikut: berpikir kreatif (6 jam) dan keterampilan menulis (12 jam). Pada hari apa saya akan menyelesaikan kursus keterampilan menulis?",
+        "target": "Kamis depan"
+    },
+    {
+        "input": "Hari ini, saya akan pergi ke rumah klien untuk menjaga anak kucingnya. Perjalanan pulang pergi memakan waktu 1 jam, setengah jam untuk memberi makan kucing, setengah jam untuk merawat kucing, dan 1 jam untuk bermain dengan kucing. Jika saya ingin pulang sekitar pukul 17:00, jam berapa saya bisa berangkat paling lambat?",
+        "target": "Berangkat paling lambat pukul 14:00"
+    },
+    {
+        "input": "Budi adalah seorang pekerja masyarakat yang memiliki waktu 3 hari pada minggu depan untuk menyelenggarakan sebuah acara masyarakat. Diperlukan 1 hari untuk merencanakan dan menyiapkan konten dan pengaturan khusus untuk acara tersebut, setengah hari untuk berkomunikasi dan melakukan pelatihan tim relawan, dan setengah hari untuk berinteraksi dengan warga masyarakat. Berapa hari yang tersisa baginya untuk menyelesaikan masalah warga masyarakat atau memberikan bantuan?",
+        "target": "1 hari"
+    }
+]

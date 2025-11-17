@@ -1,0 +1,390 @@
+[
+    {
+        "input": "Une classe organise une sortie au parc. Dans cette classe, 50 élèves participent à une activité de location de bateaux (les consignes sont les suivantes : un grand bateau peut accueillir jusqu’à 6 personnes, un petit bateau jusqu’à 4 personnes ; le loyer d’un grand bateau est de 10 euros et celui d’un petit bateau de 8 euros). Ils ont loué 10 bateaux en tout, et chaque embarcation était pleine. Combien de grands bateaux ont-ils loués ?",
+        "target": "5 bateaux"
+    },
+    {
+        "input": "Un bateau navigue entre deux quais, A et B. Avec le courant, il met 5 heures et, à contre-courant, 7 heures. Sachant que la vitesse du courant est de 5 km/h, quelle est la distance (en km) entre A et B ?",
+        "target": "175 km"
+    },
+    {
+        "input": "Pierre demande à son professeur, Monsieur Dupont : « Lorsque j’avais ton âge, tu n’avais que 3 ans ; quand tu auras mon âge, j’aurai 45 ans. » Quel âge a actuellement Monsieur Dupont ?",
+        "target": "31 ans"
+    },
+    {
+        "input": "Un ouvrier avait prévu de traiter une série de pièces dans un temps imparti. S’il traitait 10 pièces par heure, il dépasserait son objectif de 3 pièces ; s’il en traitait 11 par heure, il achèverait la tâche une heure plus tôt. Combien y a-t-il de pièces dans cette série ?",
+        "target": "77 pièces"
+    },
+    {
+        "input": "Sur une ligne ferroviaire, il y a deux gares, A et B, situées à 408 km l’une de l’autre. Un train lent part de la gare A à 72 km/h et un train rapide part de la gare B à 96 km/h. Si les deux trains se dirigent en sens opposé, après combien d’heures seront-ils distants de 660 km ?",
+        "target": "Une heure et demie"
+    },
+    {
+        "input": "Un magasin commercialise un type de souvenir touristique. En avril, le chiffre d’affaires était de 20 000 euros. Afin d’accroître les ventes, en mai le magasin a vendu ce souvenir à 90 % du prix affiché, ce qui a permis une augmentation de 200 unités vendues et une hausse du chiffre d’affaires de 7 000 euros. Quel était le prix de vente de ce souvenir en avril ?",
+        "target": "50 euros"
+    },
+    {
+        "input": "Le comptoir de vêtements du centre commercial La Samaritaine a constaté que la marque «  Petit Bateau  » de vêtements pour enfants se vendait en moyenne à 20 pièces par jour, avec un bénéfice de 40 euros par pièce. Pour chaque baisse de 1 euro du prix, le magasin peut vendre en moyenne 2 pièces de plus par jour. Au but de maximiser les ventes, en atteignant un bénéfice quotidien de 1 200 euros, de combien le prix de chaque vêtement pour enfants devrait-il être réduit ?",
+        "target": "20 euros"
+    },
+    {
+        "input": "Pour fabriquer un certain type de pièce, A peut terminer la tâche en 20 jours et B peut la terminer en 10 jours. Afin que l’ensemble soit achevé en 12 jours, B doit travailler seul pendant un certain nombre de jours avant que A ne prenne le relais. Combien de jours B doit-il travailler seul pour que, complété par A par la suite, la tâche soit exactement terminée dans les 12 jours prévus ?",
+        "target": "8 jours"
+    },
+    {
+        "input": "Dans un projet, A peut le réaliser seul en 10 jours et B en 15 jours. Si A travaille seul pendant 5 jours puis A et B travaillent ensemble, et que l’ensemble du travail accompli correspond aux deux tiers du projet, combien de jours ont-ils travaillé au total ?",
+        "target": "6 jours"
+    },
+    {
+        "input": "Le prix catalogue d’un certain type de chemise est de 100 euros la pièce. Si chaque chemise est vendue à 80 % du prix affiché tout en permettant un bénéfice de 25 %, quel était le prix d’achat de chaque chemise ?",
+        "target": "64 euros"
+    },
+    {
+        "input": "Le prix d’une tasse et d’une bouilloire est de 45 euros, tandis que le prix de 3 tasses et de 2 bouilloires est de 99 euros. Quel est le prix d’une tasse ?",
+        "target": "9 euros"
+    },
+    {
+        "input": "Une classe a reçu un nombre de billets d'entrée à distribuer aux élèves pour qu’ils les vendent bénévolement. Si chaque élève recevait 9 billets, il en resterait 24 ; si chaque élève recevait 10 billets, il en manquerait 16. Combien y a-t-il d’élèves dans la classe ?",
+        "target": "40 élèves"
+    },
+    {
+        "input": "Lors d’une fête, une marque de vêtements propose des réductions. Paul a acheté une tenue pour 400 euros, sachant que la veste était vendue à 80 % du prix initial et le pantalon à 70 %, et que le prix catalogue total de la veste et du pantalon était de 540 euros. Quel était le prix total de la veste ?",
+        "target": "220 euros"
+    },
+    {
+        "input": "Yann et Paul partent en même temps de l'école pour se rendre au musée des sciences et technologies afin de participer à une activité. Yann marche à 6 km/h et Paul à 8 km/h. Après une heure de marche, Paul s'aperçoit qu'il a oublié son matériel et retourne immédiatement à l'école pour le chercher, puis repart sur ses traces. Combien d'heures après son départ rattrape-t-il Yann?",
+        "target": "6 heures"
+    },
+    {
+        "input": "Un magasin de vente en gros de vêtements propose une certaine marque de chemises, dont le bénéfice initial est de 30 euros par pièce. Au début de la basse saison, le magasin envisage de baisser les prix pour écouler rapidement son stock, D'après une enquête, si le prix de chaque chemise est réduit de x euros, alors le nombre de chemises vendues chaque jour passe à (20 + x). Si le bénéfice quotidien souhaité est de 616 euros, de combien chaque chemise devrait-elle être réduite ?",
+        "target": "8 euros"
+    },
+    {
+        "input": "Une société de développement a fabriqué un certain nombre de nouveaux produits nécessitant un traitement de finition avant leur mise sur le marché. Deux usines, A et B, souhaitent chacune traiter ces produits. Sachant que l'usine A peut traiter 16 unités par jour et l'usine B 24 unités par jour, et que si l'on traitait ces produits séparément, l'usine A mettrait 20 jours de plus que l'usine B pour achever le traitement. Combien y a-t-il\nd'unités dans cette série ?",
+        "target": "960 unités"
+    },
+    {
+        "input": "Un opérateur télécom propose deux types de cartes SIM. La carte de type A ne comporte pas d'abonnement mensuel et coûte 0,6 euro par minute d'appel. La carte de type B comporte un abonnement mensuel fixe de 40 euros, auquel s'ajoute 0,4 euro par minute d'appel. Pour quelle durée d'appel (en minutes) les frais des cartes de type A et de type B sont-ils équivalents ?",
+        "target": "200 minutes"
+    },
+    {
+        "input": "Hugo a acheté deux paires de chaussures à un prix réduit de 20 % et a ainsi économisé 20 euros par rapport au prix sans remise. Combien a-t-il dépensé en réalité pour ces deux paires de chaussures ?",
+        "target": "80 euros"
+    },
+    {
+        "input": "Les gares A et B sont distantes de 480 kilomètres. Un train lent part de la gare A et roule à une vitesse de 90 km/h. Un train rapide part de la gare B et roule à une vitesse de 140 kilomètres par heure. Les deux trains partent en même temps, le train lent roulant derrière le train rapide dans la même direction. Au bout de combien d’heures la distance entre les deux trains sera-t-elle de 600 kilomètres ?",
+        "target": "2,4 heures"
+    },
+    {
+        "input": "L’âge actuel du grand-père est cinq fois celui de son petit-fils. Dans 12 ans, l’âge du grand-père sera trois fois celui de son petit-fils. Quel est l’âge actuel du petit-fils ?",
+        "target": "Il a 12 ans"
+    },
+    {
+        "input": "Une école secondaire organise un tournoi de basket-ball pour ses élèves en troisième année de collège. Chaque paire de classes joue un match. Si le tournoi prévoit 15 matchs, combien de classes participent au tournoi ?",
+        "target": "6 classes"
+    },
+    {
+        "input": "Pour contrôler la propagation de la grippe, le département de la santé a découvert que lorsqu’une personne est infectée par une grippe donnée, après deux cycles de transmission, 100 personnes au total seront infectées. Si cette vitesse de transmission se maintient, combien de personnes seront infectées après le troisième cycle ?",
+        "target": "1 000 personnes"
+    },
+    {
+        "input": "Une école regroupe ses athlètes en groupes d’entraînement. Si chaque groupe contient 7 athlètes, il reste 5 athlètes sans groupe. Si chaque groupe contient 8 athlètes, il manque 3 athlètes pour compléter un groupe. Combien d’athlètes cette école compte-t-elle au total ?",
+        "target": "61 athlètes"
+    },
+    {
+        "input": "Un magasin vend des chemises de marque. Actuellement, il vend 20 chemises par jour, avec un bénéfice de 40 euros par chemise. Pour augmenter les ventes, réduire les stocks et maximiser les profits, le magasin envisage une baisse de prix. Selon une enquête, une réduction de 4 euros par chemise entraînerait une augmentation des ventes moyennes de 8 chemises par jour. Pour que le magasin réalise un bénéfice quotidien moyen de 1200 euros, de combien le prix par chemise doit-il être réduit ?",
+        "target": "20 euros"
+    },
+    {
+        "input": "Madame Camille, propriétaire d’une boutique de fruits, achète un certain fruit à 4 euros par kilogramme, qu’elle revend ensuite à 6 euros par kilogramme. Elle peut vendre 150 kilogrammes par jour à ce prix. Une enquête révèle que chaque baisse de 0,1 euro par kilogramme permet de vendre 30 kilogrammes de plus par jour. Pour garantir une vente d’au moins 360 kilogrammes par jour, Madame Camille décide de réduire le prix de vente. Pour obtenir un bénéfice quotidien de 450 euros, de combien le prix par kilogramme doit-il être réduit ?",
+        "target": "1 euro"
+    },
+    {
+        "input": "Plusieurs personnes plantent des arbres ensemble. Si chaque personne en plante 12, il reste 6 arbres non plantés. Si chaque personne en plante 15, il manque 6 arbres. Combien de personnes participent à la plantation ?",
+        "target": "4 personnes"
+    },
+    {
+        "input": "Le prix d’achat d’un manteau est de 360 euros et son prix affiché est de 600 euros. Pour que la marge bénéficiaire soit de 25%, à quel pourcentage du prix affiché ce manteau doit-il être vendu ?",
+        "target": "Au 75% du prix affiché"
+    },
+    {
+        "input": "Un individu seul mettrait 60 heures pour organiser des livres. Actuellement, un groupe commence le travail pendant 1 heure, puis 15 autres s’y joignent pour 2 heures, ce qui termine le travail. Si chaque personne a la même efficacité, combien de personnes étaient initialement assignées pour organiser les livres ?",
+        "target": "10 personnes"
+    },
+    {
+        "input": "Une entreprise fabrique un produit avec un coût unitaire de 400 euros et un prix de vente de 505 euros. Pour élargir son marché, elle décide de réduire à la fois le coût et le prix de vente unitaire de 4 %. Les ventes augmenteraient alors de 5 %. De combien le coût unitaire doit-il baisser pour que les profits avant et après la réduction de prix restent constants ?",
+        "target": "15,2 euros"
+    },
+    {
+        "input": "Lors des qualifications de la Coupe du Monde de football, chaque équipe affronte toutes les autres à domicile et à l’extérieur. Avec 110 matchs organisés, combien d’équipes participent à la compétition ?",
+        "target": "11 équipes"
+    },
+    {
+        "input": "Avec un vent soufflant à une vitesse de 25 kilomètres par heure, un avion met 2,8 heures pour voler de l’aéroport A à l’aéroport B dans le sens du vent. En revanche, il met 3 heures pour voler sur le même trajet à contre-vent. Quelle est la distance entre les aéroports A et B ?",
+        "target": "2 100 km"
+    },
+    {
+        "input": "Dans un centre commercial, une veste est affichée avec une augmentation de 50 % par rapport à son coût initial. Pour promouvoir les ventes, elle est vendue avec une remise de 20 % sur le prix affiché, soit à 240 euros. Quel est le coût initial de cette veste ?",
+        "target": "200 euros"
+    },
+    {
+        "input": "Un type de vêtement avait un prix initial de 150 euros par pièce. Après deux réductions successives, le prix actuel est de 96 euros. Quelle est la réduction moyenne en pourcentage par étape ?",
+        "target": "Le prix a baissé de 20 % à chaque fois"
+    },
+    {
+        "input": "Une personne attrape la grippe. Après deux phases de transmission, 100 personnes au total sont infectées. En moyenne, combien de personnes une seule personne infecte-t-elle à chaque cycle ?",
+        "target": "9 personnes"
+    },
+    {
+        "input": "Au début de la nouvelle année scolaire, un parent demande au professeur combien d’élèves il y a actuellement dans la classe. Le professeur répond : « Si on ajoute un nombre égal à la classe actuelle, plus la moitié de la classe, plus un quart de la classe, et votre enfant, cela fera 100 élèves ». Aidez ce parent à calculer le nombre actuel d’élèves dans la classe.",
+        "target": "36 personnes"
+    },
+    {
+        "input": "Un verger prévoyait initialement de planter 100 pêchers, chaque arbre produisant en moyenne 1 000 pêches. Pour augmenter la production, on envisage de planter davantage d’arbres. L’expérience montre que chaque arbre supplémentaire réduit la production de chaque arbre de 2 fruits. Cependant, le nombre d’arbres supplémentaires ne peut pas dépasser 100. De combien d'arbres supplémentaires aurions-nous besoin pour augmenter la production totale de 15,2 % ?",
+        "target": "20 arbres"
+    },
+    {
+        "input": "Pierre se rend dans une papeterie pour acheter des crayons. Le vendeur lui dit : « Si vous en achetez davantage, vous bénéficiez d’une réduction de 20 %. » Pierre calcule que s’il achète 50 crayons, il économisera 6 euros par rapport au prix d’origine. Quel est le prix initial de chaque crayon ?",
+        "target": "0,6 euro"
+    },
+    {
+        "input": "Un magasin décide de solder un type de vêtements à cause du changement de saison. Si chaque pièce est vendue à 50 % du prix affiché, le magasin perd 20 euros par pièce, tandis qu’à 80 % du prix affiché, il gagne 40 euros. Quel est le prix affiché de chaque pièce ?",
+        "target": "200 euros"
+    },
+    {
+        "input": "Un magasin reçoit un lot de vêtements au prix d’achat unitaire de 50 euros. Si chaque pièce est vendue à 60 euros, 800 pièces peuvent être écoulées. Si le prix est augmenté de 1 euro par pièce, le volume de vente diminue de 20 pièces. Pour réaliser un profit de 12 000 euros tout en maintenant un coût d'achat de vente inférieur à 24 000 euros, quel doit être le prix unitaire des vêtements ?",
+        "target": "80 euros"
+    },
+    {
+        "input": "Un magasin vend un produit au coût unitaire de 40 euros par kilogramme. À 50 euros le kilogramme, il peut en vendre 500 kilogrammes par mois. Si le prix augmente de 1 euro par kilogramme, les ventes mensuelles diminuent de 10 kilogrammes. Afin d’obtenir un profit mensuel de 8 000 euros tout en ne dépassant pas un chiffre d’affaires de 20 000 euros, quel doit être le prix de vente par kilogramme ?",
+        "target": "80 euros"
+    },
+    {
+        "input": "Un magasin ajuste le prix d’un produit en offrant une réduction de 20 % sur le prix d’origine. Dans ce cas, le taux de marge bénéficiaire est de 10 %, et le prix d’achat est de 160 euros. Quel est le prix d’origine du produit ?",
+        "target": "220 euros"
+    },
+    {
+        "input": "Une agence de voyages Ansel Travel propose la tarification suivante pour attirer les touristes : si le groupe compte 25 personnes ou moins, le coût par personne est de 1 000 euros. Si le groupe dépasse 25 personnes, chaque personne supplémentaire réduit le coût par personne de 20 euros, mais le coût par personne ne peut pas descendre en dessous de 700 euros par personne. Une organisation a payé 27 000 euros pour un voyage. Combien d’employés de cette organisation ont participé à ce voyage ?",
+        "target": "30 personnes"
+    },
+    {
+        "input": "Pierre et François s’entraînent à la course. Pierre court à une vitesse de 7 mètres par seconde, et François court à une vitesse de 6,5 mètres par seconde. Pierre laisse François partir avec une avance de 5 mètres. Combien de secondes Pierre mettra-t-il pour rattraper François ?",
+        "target": "10 secondes"
+    },
+    {
+        "input": "Les élèves d’une classe vont ramer. Si chaque bateau contient 7 élèves, il reste 5 élèves sans place. Si chaque bateau contient 8 élèves, il y a 2 places vides. Combien d’élèves participent à cette activité ?",
+        "target": "54 personnes"
+    },
+    {
+        "input": "Lors de la remise des diplômes, chaque élève d’une classe doit prendre un photo de deux personnes, formant des paires pour les photos. La classe a pris un total de 780 photos. Combien y a-t-il d’élèves dans la classe ?",
+        "target": "40 personnes"
+    },
+    {
+        "input": "Un groupe de travailleurs déplace des briques dans une usine. Si chaque personne déplace 2 briques, il reste 6 briques. Si chaque personne déplace 4 briques, il n’en reste aucune. Combien de travailleurs y a-t-il ?",
+        "target": "3 travailleurs"
+    },
+    {
+        "input": "Lors du Nouvel An, Camille a dépensé 88 euros pour acheter deux types de cadeaux, A et B. Chaque cadeau de type A coûte 12 euros, et chaque cadeau de type B coûte 8 euros. Elle a acheté un cadeau de type A de moins qu’un cadeau de type B. Combien de cadeaux de type A a-t-elle achetés ?",
+        "target": "4 cadeaux"
+    },
+    {
+        "input": "Un centre commercial vend un nouveau modèle de lampe de bureau au prix d’achat unitaire de 300 euros. Les études de marché montrent qu’à un prix de vente de 400 euros, le centre commercial peut vendre 300 lampes mensuelles moyennes. Chaque augmentation de 10 euros dans le prix entraîne une baisse de 10 lampes vendues par mois. Quel prix de vente permettrait au centre commercial de réaliser un profit mensuel de 40 000 euros ? ",
+        "target": "500 euros"
+    },
+    {
+        "input": "Le prix affiché d’un vêtement est de 300 euros. Lorsqu’il est vendu avec une réduction de 20 %, le magasin réalise un profit de 60 euros. Quel est le coût unitaire de ce vêtement ?",
+        "target": "180 euros"
+    },
+    {
+        "input": "Avec 4 bouteilles vides d’eau minérale, on peut en échanger une pleine. Si l’on ne possède que 15 bouteilles vides, combien de bouteilles pleines peut-on obtenir au maximum sans dépenser davantage ?",
+        "target": "4 bouteilles"
+    },
+    {
+        "input": "Une pile de pêches est partagée entre un groupe d’enfants. Si chaque enfant reçoit 5 pêches, il reste 8 pêches. Si chaque enfant reçoit 8 pêches, il manque 7 pêches. Combien de pêches contient cette pile ?",
+        "target": "33 pêches"
+    },
+    {
+        "input": "Un magasin vend un lot de chemises à raison de 20 pièces par jour, réalisant un profit de 45 euros par pièce. À cause de la crise financière internationale, le magasin décide de réduire les prix pour liquider les stocks le plus rapidement possible. Une enquête montre que chaque réduction de 1 euro par chemise augmente les ventes quotidiennes de 4 pièces. Si le magasin souhaite réaliser un profit quotidien moyen de 2 100 euros, de combien chaque chemise doit-elle être réduite ?",
+        "target": "30 euros"
+    },
+    {
+        "input": "Le coût unitaire d’un produit est de 100 euros, et le prix de vente est de 150 euros. Cependant, à cause d’un surplus de stock, le magasin envisage une réduction. Quelle réduction maximale peut être appliquée tout en garantissant un taux de marge bénéficiaire d’au moins 20 % ?",
+        "target": "80 % du prix affiché"
+    },
+    {
+        "input": "Une tâche prendrait 10 jours à être réalisée par A seul et 15 jours par B seul. Si A travaille 5 jours seul, combien de jours supplémentaires faudra-t-il pour qu’A et B achèvent ensemble le reste de la tâche ?",
+        "target": "3 jours"
+    },
+    {
+        "input": "Un produit est affiché à 1 540 euros dans un magasin. Avec une réduction de 10 %, il rapporte encore un profit de 10 % (par rapport au prix d’achat). Quel est le prix d’achat de ce produit ?",
+        "target": "1 260 euros"
+    },
+    {
+        "input": "Pierre se rend en moto de chez lui à la gare ferroviaire à vitesse constante. À 50 kilomètres par heure, il arrivera 15 minutes après le départ du train ; à 60 kilomètres par heure, il arrivera 5 minutes après le départ du train. Quelle est la distance entre la maison de Pierre et la gare ?",
+        "target": "50 km"
+    },
+    {
+        "input": "Les informations touristiques d’une zone pittoresque sont les suivantes : pour un groupe de 30 personnes ou moins, le coût par personne est de 800 euros ; pour un groupe de plus de 30 personnes, chaque personne supplémentaire réduit le coût individuel de 10 euros, mais le coût individuel ne peut pas descendre en dessous de 550 euros. Une entreprise organise un voyage pour ses employés et paie un total de 29 250 euros. Combien de personnes participent à ce voyage ?",
+        "target": "45 personnes"
+    },
+    {
+        "input": "Le prix affiché d’un produit est de 200 euros. Lorsqu’il est vendu avec une réduction de 10 %, chaque article génère encore un bénéfice de 20 euros. Quel est le coût d'achat de ce produit ?",
+        "target": "160 euros"
+    },
+    {
+        "input": "Afin d’inciter les ménages à consommer plus d’électricité, une compagnie électrique municipale a défini les règles suivantes : pour une consommation mensuelle ne dépassant pas 100 kWh, chaque kWh est facturé à 0,50 euro ; au-delà de 100 kWh, l’excédent est facturé à 0,40 euro par kWh. Si un ménage a payé en moyenne 0,48 euro par kWh en février 2002, combien d’électricité a-t-il consommé ce mois-là ?",
+        "target": "125 kWh"
+    },
+    {
+        "input": "Le grand-père de Pierre approche de son 80e anniversaire. Pierre veut encercler cette date sur le calendrier, mais il ne sait pas quel jour c’est. Il demande à son père, qui répond en souriant : « Les quatre jours autour de cette date additionnent exactement l’âge de ton grand-père. » Quel est le jour d’anniversaire de son grand-père ?",
+        "target": "Le 20"
+    },
+    {
+        "input": "Lors de la saison 2018-2019 du championnat de France masculin de basket-ball, un système de double confrontation a été utilisé (chaque équipe joue deux matchs contre une autre équipe). Le nombre total de matchs joués était de 380. Combien d’équipes ont participé à la compétition ?",
+        "target": "20 équipes"
+    },
+    {
+        "input": "L’équipe A comptait initialement 65 travailleurs, et l’équipe B en comptait 40. Après l’arrivée de 30 nouveaux travailleurs, combien de travailleurs doivent être transférés vers l’équipe A pour que le nombre dans l’équipe B soit la moitié de celui de l’équipe A ?",
+        "target": "25 personnes"
+    },
+    {
+        "input": "Un atelier reçoit une commande et prévoit de traiter 120 pièces par jour pour terminer à temps. En réalité, il traite 20 pièces de plus par jour et termine le travail 4 jours plus tôt que prévu. Combien de pièces comportait cette commande ?",
+        "target": "3 360 pièces"
+    },
+    {
+        "input": "Pour étendre son marché, un magasin ajuste le prix d’un appareil photo. Lorsqu’il est vendu avec une réduction de 20 % par rapport au prix initial, le taux de profit est de 14 %. Si le prix d’achat de l’appareil est de 1 200 euros, quel est le prix initial de cet appareil photo ?",
+        "target": "1 710 euros"
+    },
+    {
+        "input": "Une boutique de vêtements a constaté qu’un type de vêtements pour enfants se vendait en moyenne à 20 pièces par jour, chaque pièce générant un bénéfice de 40 euros. La boutique décide de faire des promotions adaptées pour maximiser les ventes. Après la recherche, une réduction de 4 euros par article, les ventes augmentent en moyenne de 8 pièces par jour. Pour que le magasin réalise un bénéfice quotidien moyen de 1 200 euros, de combien faut-il réduire le prix de chaque vêtement pour enfants ?",
+        "target": "20 euros"
+    },
+    {
+        "input": "Une mère s’est mariée à l’âge de 25 ans et a eu un fils l’année suivante. Plusieurs années plus tard, l’âge de la mère est trois fois celui de son fils. Quel âge a-t-elle alors ?",
+        "target": "39 ans"
+    },
+    {
+        "input": "Le prix affiché d’un produit est de 800 euros. Même avec une réduction de 40 %, le magasin réalise un profit de 60 euros par pièce. Quel est le coût d'achat de ce produit ?",
+        "target": "260 euros"
+    },
+    {
+        "input": "Trois équipes de construction travaillent ensemble sur une route. La première équipe construit un tiers de la route, la deuxième équipe construit un tiers de la partie restante, et la troisième équipe termine en construisant 20 kilomètres. Quelle est la longueur totale de la route ?",
+        "target": "45 km"
+    },
+    {
+        "input": "Un produit d'une certaine marque est vendu avec une réduction de 20 % par rapport à son prix affiché tout en générant un profit de 10 %. Si le prix affiché est de 275 euros, quel est le coût de ce produit ?",
+        "target": "200 euros"
+    },
+    {
+        "input": "En mars, une équipe de 4 travailleurs a terminé un volume de travail supérieur de 20 pièces à quatre fois la norme mensuelle par personne. Une autre équipe de 5 travailleurs a terminé un volume de travail inférieur de 20 pièces à six fois la norme mensuelle. Si le volume de travail effectué par personne dans les deux équipes est égal, quelle est le volume mensuel par personne ?",
+        "target": "45 pièces"
+    },
+    {
+        "input": "Le Nouvel An arrive, tous les grands centres commerciaux ont conçu des mesures promotionnelles pour stimuler la consommation et augmenter les profits. Un centre commercial a augmenté de 50 % le prix d’achat d’un cartable avant d’afficher son prix. Ensuite, il a proposé une réduction de 20 % sur le prix affiché, réalisant un profit de 8 euros par cartable vendu. Quel est le coût d’achat initial de ce cartable ?",
+        "target": "40 euros"
+    },
+    {
+        "input": "Une restauration rapide teste la vente d’un plat. Après une période d’essai, il est constaté que le coût de chaque plat est de 5 euros, et les frais fixes quotidiens de cette restauration s’élèvent à 600 euros (hors coût des plats). Si le prix par plat n’excède pas 10 euros, 400 plats peuvent être vendus par jour. Si le prix dépasse 10 euros, chaque augmentation d’un euro entraîne une baisse de 40 plats vendus par jour. Si le revenu net journalier de la restauration est de 1 560 euros, quel devrait être le prix du plat afin de favoriser les clients ?",
+        "target": "11 euros"
+    },
+    {
+        "input": "Le rayon des vêtements d'un centre commercial vend une chemise d’une marque réputée. En moyenne, 30 chemises sont vendues par jour avec un bénéfice de 40 euros par pièce. Afin d’augmenter les ventes et de réduire les stocks, le centre commercial décide de baisser les prix. Une enquête montre que pour chaque réduction de 1 euro par pièce, le nombre moyen de chemises vendues augmente de 2 par jour. Si le centre commercial exige que le rayon des vêtements réalise un bénéfice quotidien de 1 200 euros, de combien d'euros chaque chemise doit-elle être réduite ?",
+        "target": "25 euros"
+    },
+    {
+        "input": "Une classe d’élèves est divisée en deux groupes pour participer à une activité. Le groupe A compte 26 élèves, et le groupe B en compte 32. Par la suite, en raison des besoins de l’activité, un certain nombre d’élèves du groupe A ont été transférés au groupe B, de sorte que le nombre d’élèves dans le groupe B est le double de celui dans le groupe A, plus 1. Combien d’élèves ont été transférés du groupe A au groupe B ?",
+        "target": "7 personnes"
+    },
+    {
+        "input": "On sait qu’une usine prévoit, en l’espace de 2 ans, d’augmenter la production annuelle d’un produit de 1 million à 1,21 million d’unités. Quel est le pourcentage moyen de croissance annuelle ?",
+        "target": "Le taux de croissance annuel moyen est de 10 %"
+    },
+    {
+        "input": "Une équipe de cyclistes s'entraîne en avançant tous à une vitesse de 35 km/h. Tout à coup, le cycliste numéro 1 roule seul à une vitesse de 45 km/h sur une distance de 10 km avant de faire demi-tour. Ensuite, il retourne vers l'équipe à la même vitesse de 45 km/h jusqu'à la rejoindre. Combien d'heures se sont écoulées depuis que le cycliste numéro 1 s'est séparé du groupe jusqu'à ce qu'il rejoigne les membres à nouveau ?",
+        "target": "0,25 heure"
+    },
+    {
+        "input": "Une école a investi dans du matériel de tennis de table pour promouvoir ce sport. Le coût total pour les filets, les raquettes et les balles est de 1 320 euros. Le rapport des dépenses pour ces trois articles est de 3:6:2. Combien coûte l'achat des filets de tennis de table ?",
+        "target": "360 euros"
+    },
+    {
+        "input": "Le manager Pierre a rapporté plusieurs sacs de spécialités locales après un voyage d'affaires, qu'il partage avec ses amis. S'il donne 5 sacs à chaque personne, il en reste 3. Mais s'il donne 6 sacs à chaque personne, il lui manque 3 sacs. Combien de sacs de spécialités locales le manager Pierre a-t-il rapportés ?",
+        "target": "33 sacs"
+    },
+    {
+        "input": "Une école a acheté plusieurs cahiers pour les distribuer aux élèves de cinquième année. Si chaque élève reçoit 5 cahiers, il reste 80 cahiers. Mais si chaque élève reçoit 6 cahiers, il en manque 40. Combien d'élèves y a-t-il?",
+        "target": "120"
+    },
+    {
+        "input": "Si le conducteur Alex prend deux heures pour se rendre de A à B en voiture, et que le conducteur Benois met trois heures pour aller de B à A en moto, sachant que Benois part de B en direction de A et qu’une heure après, Alex part de A en direction de B, combien d’heures après son départ Alex rencontrera-t-il Benois ?",
+        "target": "0,8 heure"
+    },
+    {
+        "input": "Après avoir consulté deux magasins, on apprend qu'une paire de raquettes coûte 25 euros et une balle coûte 2 euros. Le magasin A dit que les raquettes et les balles bénéficient d'une réduction de 10 %. Le magasin B dit que pour chaque paire de raquettes achetée, 2 balles sont offertes. Si un client souhaite acheter 2 paires de raquettes et un certain nombre de balles, comparez le coût total des deux magasins et déterminez quel est le nombre de balles pour lequel le coût est le même dans les deux magasins.",
+        "target": "15 balles"
+    },
+    {
+        "input": "La distance entre A et B est de 448 kilomètres. Un train lent part de A à une vitesse de 60 kilomètres par heure. Un train rapide part de B à une vitesse de 80 kilomètres par heure. Si les deux trains partent simultanément en sens opposés, combien d’heures après le départ du train rapide les deux trains se rencontreront-ils ?",
+        "target": "3,2 heures"
+    },
+    {
+        "input": "Une famille de trois membres passe les vacances dans le nord, et deux agences de voyage (A et B) locales proposent les mêmes tarifs de base avec des réductions respectives pour les familles. L’agence A offre une réduction de 40 % pour les enfants, mais pas pour les adultes. L’agence B applique une réduction générale de 20 % pour les trois membres de la famille. Après calculs, l’agence B est moins chère de 240 euros. Quel est le prix standard pour un adulte ?",
+        "target": "1 200 euros"
+    },
+    {
+        "input": "Le prix d'achat d'une fleur est de 5 euros. Si elle est vendue à 80% de son prix affiché, elle génère un bénéfice de 3 euros par unité. Quel est le prix affiché ?",
+        "target": "10 euros"
+    },
+    {
+        "input": "Une route est en construction. Si l’équipe A travaille seule, elle mettrait 80 jours pour terminer, et si l’équipe B travaille seule, cela prendrait 120 jours. Maintenant, les équipes A et B collaborent pour accomplir cette tâche. Combien de jours leur faudra-t-il pour terminer ensemble ?",
+        "target": "48 jours"
+    },
+    {
+        "input": "Un laboratoire de biologie doit cultiver des bactéries bénéfiques. Il dispose actuellement de 60 échantillons vivants. Après deux cycles de culture, le total atteint 24 000 bactéries. Chaque bactérie bénéfique peut, à chaque cycle, se diviser en plusieurs bactéries identiques. En moyenne, combien de bactéries chaque bactérie bénéfique produit-elle à chaque cycle de division ?",
+        "target": "19 bactéries"
+    },
+    {
+        "input": "Un groupe d'étudiants de 30 membres fabrique des modèles d’avions en papier. Chaque étudiant peut fabriquer 20 fuselages ou 60 ailes par heure. Pour qu’un avion soit complet, il faut 1 fuselage et 2 ailes. Combien d’étudiants doivent être assignés à la fabrication des fuselages pour que les modèles complétés soient en juste proportion chaque heure ?",
+        "target": "18 étudiants"
+    },
+    {
+        "input": "On distribue des livres à des élèves d'une classe et si chaque élève reçoit 3 livres, il reste 20 livres. Si chaque élève reçoit 4 livres, il manque encore 25 livres. Combien d'élèves y a-t-il dans cette classe ?",
+        "target": "45 élèves"
+    },
+    {
+        "input": "Un produit est marqué avec un prix augmenté de 20 % par rapport à son coût, puis vendu avec une réduction de 10 %, atteignant un prix de vente de 270 euros. Quel est le coût unitaire de ce produit ?",
+        "target": "250 euros"
+    },
+    {
+        "input": "Dans une classe, une personne a attrapé la grippe. Après 2 cycles de transmission, 49 personnes sont atteintes dans la classe. À ce rythme, si 4 personnes contractent la grippe, combien de personnes auront été contaminées lors du premier cycle ?",
+        "target": "28 personnes"
+    },
+    {
+        "input": "Pour verdir le campus, une classe d'étudiants a planté au total 144 jeunes arbres. Chaque garçon a planté 3 arbres et chaque fille en a planté 2. Il y a 8 garçons de plus que de filles dans cette classe. Combien y a-t-il de garçons ?",
+        "target": "32 garçons"
+    },
+    {
+        "input": "Avant le Nouvel An chinois, un supermarché vend un lot de produits à 20 euros l'unité, dont le prix d'achat est de 12 euros. Chaque jour, 240 unités sont vendues. Après avoir vendu pendant un certain temps, il s'est avéré que : pour chaque augmentation de 1 euro par unité, 20 unités de moins sont vendues quotidiennement ; pour chaque réduction de 1 euro par unité, 40 unités supplémentaires sont vendues chaque jour. Si, avec une réduction, le bénéfice quotidien de ces produits atteint 1800 euros, de combien le prix doit-il être réduit par unité ?",
+        "target": "3 euros"
+    },
+    {
+        "input": "Lors d'une foire commerciale, chaque paire d’entreprises participantes signe un contrat. À la fin de la réunion, 78 contrats ont été signés. Combien d’entreprises ont participé à cette foire ?",
+        "target": "13 entreprises"
+    },
+    {
+        "input": "Un entrepôt A contient 37 tonnes de grains, et un entrepôt B en contient 17 tonnes. En redistribuant 15 tonnes entre les deux entrepôts, quelle quantité devrait être attribuée à l’entrepôt A pour que la quantité de grains dans l’entrepôt A soit deux fois celle de l’entrepôt B ?",
+        "target": "9 tonnes"
+    },
+    {
+        "input": "Un magasin d’articles de sport vend des vélos d’une certaine marque. On sait qu’un ouvrier expérimenté et un novice assemblent ensemble 8 vélos par jour ; tandis que 3 ouvriers expérimentés et 5 novices assemblent ensemble 28 vélos par jour. Combien de vélos un novice peut-il assembler chaque jour ?",
+        "target": "2 vélos"
+    },
+    {
+        "input": "Un groupe de poules et de lapins a 192 pattes au total. Si le nombre de poules et de lapins est inversé, le total devient 198 pattes. Combien y a-t-il de poules et de lapins ?",
+        "target": "34 poules, 31 lapins"
+    },
+    {
+        "input": "Il y a 18 poules de plus que de lapins, et le total des pattes est de 84. Combien y a-t-il de poules et de lapins ?",
+        "target": "26 poules, 8 lapins"
+    }
+]

@@ -1,0 +1,830 @@
+[
+    {
+        "input": "Homem, 39 anos, nos últimos seis meses apresenta fraqueza e sensibilidade ao morder alimentos duros com o dente posterior inferior direito, sem histórico de dor espontânea. Exame: esmalte oclusal parcialmente desgastado, dentina exposta, sensibilidade dolorosa insuportável ao teste ácido, lesão cariosa detectada no sulco vestibular, sensibilidade à dor ácida e aos estímulos frios. O diagnóstico relacionado à queixa principal deste dente é ____\nA. Abrasão\nB. Cárie média\nC. Hipersensibilidade dentinária\nD. Pulpite reversível",
+        "target_scores": {
+            "A. Abrasão": 0,
+            "B. Cárie média": 0,
+            "C. Hipersensibilidade dentinária": 1,
+            "D. Pulpite reversível": 0
+        }
+    },
+    {
+        "input": "Se as condições dos dentes pilares forem boas, para restaurar dois dentes ausentes usando uma ponte, geralmente é possível recuperar ____ da área oclusal original\nA. 0.75\nB. 0.8\nC. 0.85\nD. 0.9",
+        "target_scores": {
+            "A. 0.75": 1,
+            "B. 0.8": 0,
+            "C. 0.85": 0,
+            "D. 0.9": 0
+        }
+    },
+    {
+        "input": "Após a cimentação de uma coroa total, surge dor de hipersensibilidade. A causa mais improvável para isso é ____\nA. Cárie secundária\nB. Dissolução do agente de fixação\nC. Irritação por agente adesivo\nD. Recessão gengival",
+        "target_scores": {
+            "A. Cárie secundária": 0,
+            "B. Dissolução do agente de fixação": 0,
+            "C. Irritação por agente adesivo": 1,
+            "D. Recessão gengival": 0
+        }
+    },
+    {
+        "input": "A linfopoietina estromal tímica (thymic stromal lymphopoietin, TSLP) tem estrutura semelhante a qual das seguintes citocinas ____\nA. IL-1\nB. IL-2\nC. IL-6\nD. IL-7",
+        "target_scores": {
+            "A. IL-1": 0,
+            "B. IL-2": 0,
+            "C. IL-6": 0,
+            "D. IL-7": 1
+        }
+    },
+    {
+        "input": "Paciente com aumento progressivo na região do molar mandibular, ângulo e ramo ascendente unilateral, com sensação de \"bola de pingue-pongue\" à palpação. A radiografia mostra área radiolúcida cística, multilocular, com tamanhos extremamente variados dos lóculos e bordas em forma de entalhe. O diagnóstico mais provável é ____\nA. Ameloblastoma\nB. Cisto odontogênico queratocístico\nC. Fibroma odontogênico\nD. Tumor odontogênico calcificante",
+        "target_scores": {
+            "A. Ameloblastoma": 1,
+            "B. Cisto odontogênico queratocístico": 0,
+            "C. Fibroma odontogênico": 0,
+            "D. Tumor odontogênico calcificante": 0
+        }
+    },
+    {
+        "input": "Homem, 45 anos, durante exame físico foram detectados na região da comissura labial direita pontos amarelo-esbranquiçados do tamanho de grãos de milho, distribuídos em grupos, sem sintomas evidentes. Lesões semelhantes também foram encontradas no vermelhão do lábio superior. O diagnóstico mais provável é ____\nA. Estomatite herpética\nB. Herpes labial recorrente\nC. Leucoplasia\nD. Lipidose",
+        "target_scores": {
+            "A. Estomatite herpética": 0,
+            "B. Herpes labial recorrente": 0,
+            "C. Leucoplasia": 0,
+            "D. Lipidose": 1
+        }
+    },
+    {
+        "input": "Mulher, 12 anos, inchaço na região do dente canino superior direito há meio ano. Radiografia mostra área radiolúcida com margens bem definidas e áreas de calcificação radiopacas. O exame histopatológico revelou um tumor sólido com células tumorais dispostas em estruturas tubulares ou massas sólidas, com características semelhantes a uma \"roseta\". O diagnóstico patológico mais provável é ____\nA. Adenoma odontogênico\nB. Odontoma\nC. Tumor odontogênico adenomatoide calcificante\nD. Tumor odontogênico epitelial calcificante",
+        "target_scores": {
+            "A. Adenoma odontogênico": 1,
+            "B. Odontoma": 0,
+            "C. Tumor odontogênico adenomatoide calcificante": 0,
+            "D. Tumor odontogênico epitelial calcificante": 0
+        }
+    },
+    {
+        "input": "Mulher, 60 anos, erosão bilateral nas comissuras labiais há um mês. Exame clínico mostra ausência de dentes nas arcadas, distância vertical diminuída, pele e mucosa das comissuras labiais com hiperemia, manchas brancas úmidas e fissuras. Para determinar a causa desta condição, deve-se realizar os seguintes exames, exceto ____\nA. Coloração com azul de toluidina\nB. Cultura bacteriana\nC. Determinação dos níveis séricos de vitaminas\nD. Esfregaço da comissura labial",
+        "target_scores": {
+            "A. Coloração com azul de toluidina": 1,
+            "B. Cultura bacteriana": 0,
+            "C. Determinação dos níveis séricos de vitaminas": 0,
+            "D. Esfregaço da comissura labial": 0
+        }
+    },
+    {
+        "input": "Paciente de 49 anos, com dor ao mastigar nos dentes posteriores superiores esquerdos há 3 meses, dor intensa ao morder em posição específica. Exame: primeiro molar superior direito com desgaste na superfície oclusal, dentina exposta, possível trinca oculta do centro à região mesial da superfície oclusal. O método de exame adicional é ____\nA. Sondagem\nB. Teste de percussão\nC. Teste térmico a quente\nD. coloração com tintura de iodo",
+        "target_scores": {
+            "A. Sondagem": 0,
+            "B. Teste de percussão": 0,
+            "C. Teste térmico a quente": 0,
+            "D. coloração com tintura de iodo": 1
+        }
+    },
+    {
+        "input": "Paciente, 23 anos, há 3 meses sente sensibilidade a estímulos frios e quentes no dente posterior inferior direito, às vezes desconforto ao mastigar. Há 3 dias começou a sentir dor espontânea e intermitente, agravada pelo frio, calor e à noite, não conseguindo identificar o dente afetado. O método de exame mais útil para identificar o dente afetado é ____\nA. Exame radiográfico\nB. Sondagem\nC. Teste de percussão\nD. Teste térmico (frio e calor)",
+        "target_scores": {
+            "A. Exame radiográfico": 0,
+            "B. Sondagem": 0,
+            "C. Teste de percussão": 0,
+            "D. Teste térmico (frio e calor)": 1
+        }
+    },
+    {
+        "input": "Paciente do sexo masculino, 33 anos, com massa na região mentoniana esquerda há 4 anos, com sensação de pulsação. Exame: massa vermelho-púrpura na região mentoniana esquerda de aproximadamente 7 cm×6 cm, elevada em forma de rosário, temperatura superficial maior que a pele normal, sensação de frêmito à palpação, sopro audível à ausculta. O exame complementar mais valioso para o diagnóstico é ____\nA. Angiografia por ressonância magnética\nB. Radiografia panorâmica da mandíbula\nC. TC (Tomografia Computadorizada)\nD. Ultrassonografia",
+        "target_scores": {
+            "A. Angiografia por ressonância magnética": 1,
+            "B. Radiografia panorâmica da mandíbula": 0,
+            "C. TC (Tomografia Computadorizada)": 0,
+            "D. Ultrassonografia": 0
+        }
+    },
+    {
+        "input": "Mulher de 55 anos apresenta nódulo indolor na região pré-auricular que cresceu gradualmente ao longo de 6 anos. À palpação, o nódulo tem limites bem definidos, é móvel, esférico, com superfície nodular, consistência moderadamente firme, sem aderência à pele. O diagnóstico mais provável é ____\nA. Carcinoma linfoepitelial da parótida\nB. Cisto sebáceo\nC. Metástase carcinomatosa para linfonodo parotídeo\nD. Tumor misto de parótida",
+        "target_scores": {
+            "A. Carcinoma linfoepitelial da parótida": 0,
+            "B. Cisto sebáceo": 0,
+            "C. Metástase carcinomatosa para linfonodo parotídeo": 0,
+            "D. Tumor misto de parótida": 1
+        }
+    },
+    {
+        "input": "Ângulo ANB de $0^{\\circ}$, ângulo SN-MP de $42^{\\circ}$, o tipo de maloclusão mais provável é ____\nA. Maloclusão esquelética Classe I com ângulo alto\nB. Maloclusão esquelética Classe I com ângulo normal\nC. Maloclusão esquelética Classe III com ângulo alto\nD. Maloclusão esquelética Classe III com ângulo normal",
+        "target_scores": {
+            "A. Maloclusão esquelética Classe I com ângulo alto": 1,
+            "B. Maloclusão esquelética Classe I com ângulo normal": 0,
+            "C. Maloclusão esquelética Classe III com ângulo alto": 0,
+            "D. Maloclusão esquelética Classe III com ângulo normal": 0
+        }
+    },
+    {
+        "input": "Sialoadenite submandibular com recorrência frequente de longo prazo, resistente ao tratamento conservador, massa palpável na região submandibular, cálculo confirmado na junção do ducto com a glândula. A conduta a ser tomada é ____\nA. Antibioticoterapia sistêmica\nB. Excisão da glândula submandibular\nC. Remoção de cálculo\nD. Terapia física",
+        "target_scores": {
+            "A. Antibioticoterapia sistêmica": 0,
+            "B. Excisão da glândula submandibular": 1,
+            "C. Remoção de cálculo": 0,
+            "D. Terapia física": 0
+        }
+    },
+    {
+        "input": "Mulher, 40 anos, nos últimos seis meses notou crescimento gengival nos dentes anteriores inferiores, afetando a estética, ocasionalmente sangramento durante a escovação. Exame: leve crescimento gengival no lado labial dos dentes anteriores inferiores, textura elástica, cor quase normal, pequena quantidade de cálculo supra e subgengival detectada. Ao coletar o histórico, deve-se focar nos seguintes aspectos, exceto ____\nA. História familiar\nB. Histórico de medicação\nC. Histórico de trauma\nD. Hábitos parafuncionais",
+        "target_scores": {
+            "A. História familiar": 0,
+            "B. Histórico de medicação": 0,
+            "C. Histórico de trauma": 1,
+            "D. Hábitos parafuncionais": 0
+        }
+    },
+    {
+        "input": "Um paciente com ausência de múltiplos dentes posteriores inferiores, mobilidade dos dentes anteriores, concavidade lingual pronunciada, distância do assoalho bucal à margem gengival de 6 mm. O conector maior mais adequado seria ____\nA. Barra lingual acima da área retentiva\nB. Barra lingual afastada da superfície da mucosa, paralela ao rebordo alveolar\nC. Barra lingual em contato paralelo com a mucosa\nD. Placa lingual",
+        "target_scores": {
+            "A. Barra lingual acima da área retentiva": 0,
+            "B. Barra lingual afastada da superfície da mucosa, paralela ao rebordo alveolar": 0,
+            "C. Barra lingual em contato paralelo com a mucosa": 0,
+            "D. Placa lingual": 1
+        }
+    },
+    {
+        "input": "Crianças submetidas à cirurgia de reparo de fenda palatina na infância geralmente apresentam durante o período de crescimento ____\nA. Maloclusão Classe I de Angle\nB. Maloclusão Classe II divisão 1 de Angle\nC. Maloclusão Classe II divisão 2 de Angle\nD. Maloclusão Classe III de Angle",
+        "target_scores": {
+            "A. Maloclusão Classe I de Angle": 0,
+            "B. Maloclusão Classe II divisão 1 de Angle": 0,
+            "C. Maloclusão Classe II divisão 2 de Angle": 0,
+            "D. Maloclusão Classe III de Angle": 1
+        }
+    },
+    {
+        "input": "Em qual das seguintes situações ocorre elevação na pronúncia ____\nA. Aumento da tensão das cordas vocais, afinamento e encurtamento da área vibrante\nB. Aumento da tensão das cordas vocais, espessamento da sua forma e aumento da área vibrante\nC. Aumento da tensão das cordas vocais, espessamento e alongamento da área vibrante\nD. Diminuição da tensão das cordas vocais, espessamento e encurtamento da área vibrante",
+        "target_scores": {
+            "A. Aumento da tensão das cordas vocais, afinamento e encurtamento da área vibrante": 1,
+            "B. Aumento da tensão das cordas vocais, espessamento da sua forma e aumento da área vibrante": 0,
+            "C. Aumento da tensão das cordas vocais, espessamento e alongamento da área vibrante": 0,
+            "D. Diminuição da tensão das cordas vocais, espessamento e encurtamento da área vibrante": 0
+        }
+    },
+    {
+        "input": "Após restauração de um dente cariado, o paciente sente dor ao frio e calor, que desaparece após a remoção do estímulo, mas sem dor espontânea. A causa da sensibilidade térmica é ____\nA. Erro de diagnóstico\nB. Excesso de material restaurador\nC. Margem da restauração não está adaptada\nD. Restauração sem forramento",
+        "target_scores": {
+            "A. Erro de diagnóstico": 0,
+            "B. Excesso de material restaurador": 0,
+            "C. Margem da restauração não está adaptada": 0,
+            "D. Restauração sem forramento": 1
+        }
+    },
+    {
+        "input": "Paciente com \"dificuldade para abrir a boca\", após exame a abertura bucal é de 1,5 cm. O grau de limitação da abertura bucal é ____\nA. Grau normal de abertura bucal\nB. Limitação leve de abertura bucal\nC. Limitação moderada de abertura bucal\nD. Limitação severa de abertura bucal",
+        "target_scores": {
+            "A. Grau normal de abertura bucal": 0,
+            "B. Limitação leve de abertura bucal": 0,
+            "C. Limitação moderada de abertura bucal": 1,
+            "D. Limitação severa de abertura bucal": 0
+        }
+    },
+    {
+        "input": "Paciente do sexo feminino, 9 anos, com fissura labial esquerda e fissura palatina, submetida a cirurgia de reparo de fissura labiopalatina antes de 1 ano de idade. Procura atendimento devido à mordida cruzada anterior e desalinhamento dentário. A radiografia mostra fissura no processo alveolar entre o incisivo lateral superior esquerdo e o canino decíduo. Qual é o melhor momento para realizar a cirurgia de enxerto ósseo alveolar?\nA. Aguardar fechamento completo do forame apical do incisivo lateral\nB. Aguardar formação completa da raiz do canino\nC. Aguardar formação de 1/3 da raiz do canino\nD. Aguardar formação de 2/3 da raiz do canino",
+        "target_scores": {
+            "A. Aguardar fechamento completo do forame apical do incisivo lateral": 0,
+            "B. Aguardar formação completa da raiz do canino": 0,
+            "C. Aguardar formação de 1/3 da raiz do canino": 0,
+            "D. Aguardar formação de 2/3 da raiz do canino": 1
+        }
+    },
+    {
+        "input": "Após a moldagem com alginato, se não for possível vazar o modelo de trabalho imediatamente, qual dos seguintes métodos pode manter a estabilidade dimensional relativa da moldagem antes de vazar o modelo ____\nA. Molde obtido colocado em estufa a 37 °C\nB. Molde obtido e mantido em temperatura ambiente\nC. Molde obtido embrulhado em papel toalha úmido e selado em saco plástico\nD. Molde obtido imerso em água da torneira",
+        "target_scores": {
+            "A. Molde obtido colocado em estufa a 37 °C": 0,
+            "B. Molde obtido e mantido em temperatura ambiente": 0,
+            "C. Molde obtido embrulhado em papel toalha úmido e selado em saco plástico": 1,
+            "D. Molde obtido imerso em água da torneira": 0
+        }
+    },
+    {
+        "input": "Durante a prova de dentes em uma prótese total, observa-se que em oclusão protrusiva apenas os dentes anteriores tocam, com contato entre os dentes anteriores esquerdo e direito, mas sem contato entre os segundos molares superiores e inferiores bilateralmente. O método correto de tratamento é ____\nA. Extrusão do dente 7 superior direito ao longo do eixo longitudinal\nB. Inclinação anterior do eixo cervical do dente 7 superior direito\nC. Inclinação posterior do eixo cervical do dente 7 superior direito\nD. Intrusão do dente 7 superior direito ao longo do eixo longitudinal",
+        "target_scores": {
+            "A. Extrusão do dente 7 superior direito ao longo do eixo longitudinal": 0,
+            "B. Inclinação anterior do eixo cervical do dente 7 superior direito": 0,
+            "C. Inclinação posterior do eixo cervical do dente 7 superior direito": 1,
+            "D. Intrusão do dente 7 superior direito ao longo do eixo longitudinal": 0
+        }
+    },
+    {
+        "input": "Menino de 8 anos, ativo e saudável, apresenta úlcera irregular na região da gordura bucal da mucosa jugal esquerda, com base profunda mas pouca dor. O diagnóstico mais provável é ____\nA. Úlcera aftosa\nB. Úlcera auto-infligida\nC. Úlcera por pressão\nD. Úlcera tuberculosa",
+        "target_scores": {
+            "A. Úlcera aftosa": 0,
+            "B. Úlcera auto-infligida": 1,
+            "C. Úlcera por pressão": 0,
+            "D. Úlcera tuberculosa": 0
+        }
+    },
+    {
+        "input": "Dor contínua, espontânea e latejante após restauração de cárie, bem localizada, sem dor provocada, piora com a mastigação. Isso geralmente ocorre devido a ____\nA. Contato prematuro na restauração\nB. Cárie secundária com pulpite\nC. Geração excessiva de calor durante o preparo cavitário\nD. Não recuperação do ponto de contato ou formação de excesso cervical",
+        "target_scores": {
+            "A. Contato prematuro na restauração": 0,
+            "B. Cárie secundária com pulpite": 0,
+            "C. Geração excessiva de calor durante o preparo cavitário": 0,
+            "D. Não recuperação do ponto de contato ou formação de excesso cervical": 1
+        }
+    },
+    {
+        "input": "Mulher, 14 anos, queixa principal: protuberância em forma de bola entre os dentes anteriores, macia e brilhante. Se o diagnóstico for gengivite puberal, qual das seguintes medidas de tratamento está incorreta ____\nA. Correção de hábitos parafuncionais\nB. Gengivectomia precoce\nC. Orientação de higiene bucal\nD. Tratamento periodontal básico",
+        "target_scores": {
+            "A. Correção de hábitos parafuncionais": 0,
+            "B. Gengivectomia precoce": 1,
+            "C. Orientação de higiene bucal": 0,
+            "D. Tratamento periodontal básico": 0
+        }
+    },
+    {
+        "input": "Homem, 25 anos, dor ao frio e calor espontânea no dente posterior inferior esquerdo há 3 dias. Há meio ano, começou a sentir dor aos estímulos frios e quentes, seguida de desconforto frequente. Exame: cárie na superfície oclusal mesial do primeiro pré-molar inferior esquerdo, exposição pulpar à sondagem, dor à sondagem (++), dor à percussão (±), crescimento gengival mesial invadindo a cavidade cariosa. O diagnóstico correto e o tratamento mais apropriado para este dente são ____\nA. Pulpite aguda com periodontite apical, necessita tratamento endodôntico\nB. Pulpite aguda, necessita de tratamento de pulpotomia\nC. Pulpite crônica com exacerbação aguda, necessita de tratamento de pulpotomia\nD. Pulpite crônica com exacerbação aguda, necessita de tratamento endodôntico",
+        "target_scores": {
+            "A. Pulpite aguda com periodontite apical, necessita tratamento endodôntico": 0,
+            "B. Pulpite aguda, necessita de tratamento de pulpotomia": 0,
+            "C. Pulpite crônica com exacerbação aguda, necessita de tratamento de pulpotomia": 0,
+            "D. Pulpite crônica com exacerbação aguda, necessita de tratamento endodôntico": 1
+        }
+    },
+    {
+        "input": "Qual infecção de espaço pode causar grave limitação de abertura bucal ____\nA. Espaço bucal\nB. Espaço massetérico\nC. Espaço sublingual\nD. Espaço submandibular",
+        "target_scores": {
+            "A. Espaço bucal": 0,
+            "B. Espaço massetérico": 1,
+            "C. Espaço sublingual": 0,
+            "D. Espaço submandibular": 0
+        }
+    },
+    {
+        "input": "Mulher, 21 anos, dor espontânea após restauração dos dentes anteriores superiores há 3 dias. Exame: incisivo central superior direito restaurado com coroa de porcelana, percussão (-), estímulo frio (-), mobilidade (-); incisivo lateral superior direito com cárie mesial proximal, sondagem (+), percussão (+), estímulo frio (+); radiografia sem sombras periapicais nos dentes 12 superiores direitos. A causa mais provável da dor é ____\nA. Periodontite apical aguda no dente 1 superior direito\nB. Periodontite apical aguda no dente 2 superior direito\nC. Pulpite aguda no dente 1 superior direito\nD. Pulpite aguda no dente 2 superior direito",
+        "target_scores": {
+            "A. Periodontite apical aguda no dente 1 superior direito": 0,
+            "B. Periodontite apical aguda no dente 2 superior direito": 0,
+            "C. Pulpite aguda no dente 1 superior direito": 0,
+            "D. Pulpite aguda no dente 2 superior direito": 1
+        }
+    },
+    {
+        "input": "Em um espaço de extração de pré-molar de 7 mm, 6 mm são ocupados pelo deslocamento anterior do dente posterior e 1 mm pelo deslocamento posterior do dente anterior. O dente posterior é considerado ____\nA. Ancoragem absoluta\nB. Ancoragem forte\nC. Ancoragem fraca\nD. Ancoragem moderada",
+        "target_scores": {
+            "A. Ancoragem absoluta": 0,
+            "B. Ancoragem forte": 0,
+            "C. Ancoragem fraca": 1,
+            "D. Ancoragem moderada": 0
+        }
+    },
+    {
+        "input": "Homem de 36 anos com inchaço doloroso na região submandibular esquerda durante a alimentação, que diminui gradualmente algumas horas após comer. Abertura do ducto da glândula submandibular inflamada, secreção purulenta ao pressionar levemente a glândula e o ducto. Qual exame auxiliaria no diagnóstico ____\nA. Radiografia da região anterior da mandíbula\nB. Radiografia posteroanterior da mandíbula\nC. Radiografia transversal da mandíbula\nD. Tomografia panorâmica",
+        "target_scores": {
+            "A. Radiografia da região anterior da mandíbula": 0,
+            "B. Radiografia posteroanterior da mandíbula": 0,
+            "C. Radiografia transversal da mandíbula": 1,
+            "D. Tomografia panorâmica": 0
+        }
+    },
+    {
+        "input": "Para tumores pequenos, profundos e com pele e mucosa intactas, o método de biópsia mais apropriado é ____\nA. Biópsia excisional\nB. Biópsia incisional\nC. Biópsia por aspiração com agulha fina\nD. Biópsia por congelação",
+        "target_scores": {
+            "A. Biópsia excisional": 0,
+            "B. Biópsia incisional": 0,
+            "C. Biópsia por aspiração com agulha fina": 1,
+            "D. Biópsia por congelação": 0
+        }
+    },
+    {
+        "input": "Paciente do sexo masculino, 60 anos, 6 anos após cirurgia para câncer de língua, tendo realizado radioterapia cervical e submandibular pós-operatória, dose desconhecida. Há 1 mês apresenta úlcera na gengiva mandibular que não cicatriza, com exposição local e dor intensa na região mandibular. O diagnóstico mais provável é\nA. Carcinoma gengival mandibular\nB. Neuralgia do trigêmeo primária\nC. Osteomielite marginal da mandíbula\nD. Osteonecrose mandibular por radiação",
+        "target_scores": {
+            "A. Carcinoma gengival mandibular": 0,
+            "B. Neuralgia do trigêmeo primária": 0,
+            "C. Osteomielite marginal da mandíbula": 0,
+            "D. Osteonecrose mandibular por radiação": 1
+        }
+    },
+    {
+        "input": "Sobre o megacólon tóxico, a afirmação incorreta é ____\nA. Diminuição do tônus intestinal, ausência de peristaltismo colônico\nB. Doença mais grave no reto e cólon sigmoide\nC. Hipocalemia, enema de bário ou uso de anticolinérgicos como fatores desencadeantes\nD. Prognóstico ruim, fácil perfuração intestinal aguda",
+        "target_scores": {
+            "A. Diminuição do tônus intestinal, ausência de peristaltismo colônico": 0,
+            "B. Doença mais grave no reto e cólon sigmoide": 1,
+            "C. Hipocalemia, enema de bário ou uso de anticolinérgicos como fatores desencadeantes": 0,
+            "D. Prognóstico ruim, fácil perfuração intestinal aguda": 0
+        }
+    },
+    {
+        "input": "Mulher, 18 anos, internada com febre e petéquias nos membros inferiores há uma semana. Hemograma: leucócitos $3,1\\times10^{9}/\\mathrm{L}$, hemácias $2,86\\times10^{12}/\\mathrm{L}$, hemoglobina 80 g/L, plaquetas $30\\times10^{9}/\\mathrm{L}$. Esfregaço de medula óssea mostra aumento significativo de linfócitos imaturos (80%). Das opções abaixo, qual não é comum no exame da medula óssea desta paciente?\nA. Corpos de Auer\nB. Hiperplasia medular extremamente ativa\nC. PAS positivo\nD. Série vermelha suprimida",
+        "target_scores": {
+            "A. Corpos de Auer": 1,
+            "B. Hiperplasia medular extremamente ativa": 0,
+            "C. PAS positivo": 0,
+            "D. Série vermelha suprimida": 0
+        }
+    },
+    {
+        "input": "Paciente de 40 anos, com febre irregular, diarreia e perda de peso progressiva há 3 meses, linfonodomegalia cervical e axilar múltipla há 1 mês. Radiografia de tórax mostra sombras em placas no pulmão superior esquerdo. Hemograma: leucócitos $2,8\\times10^{9}/\\mathcal{L}$, neutrófilos 0,92, linfócitos 0,08, plaquetas $250\\times10^{9}/\\mathcal{L}$, hemoglobina 105 g/L. O diagnóstico mais provável é ____\nA. AIDS\nB. Enterite\nC. Tuberculose pulmonar\nD. Tumor pulmonar",
+        "target_scores": {
+            "A. AIDS": 1,
+            "B. Enterite": 0,
+            "C. Tuberculose pulmonar": 0,
+            "D. Tumor pulmonar": 0
+        }
+    },
+    {
+        "input": "Homem, 65 anos, submetido a ressuscitação cardiopulmonar por parada cardíaca. Qual das seguintes afirmações está correta ____\nA. Apesar da fibrilação ventricular, a desfibrilação elétrica só deve ser realizada após confirmação de falha no tratamento medicamentoso\nB. Desfibrilação elétrica pode ser repetida\nC. Lidocaína é usada para todas as formas de parada cardíaca, exceto fibrilação ventricular\nD. Uso rotineiro de bicarbonato de sódio durante ressuscitação cardiopulmonar",
+        "target_scores": {
+            "A. Apesar da fibrilação ventricular, a desfibrilação elétrica só deve ser realizada após confirmação de falha no tratamento medicamentoso": 0,
+            "B. Desfibrilação elétrica pode ser repetida": 1,
+            "C. Lidocaína é usada para todas as formas de parada cardíaca, exceto fibrilação ventricular": 0,
+            "D. Uso rotineiro de bicarbonato de sódio durante ressuscitação cardiopulmonar": 0
+        }
+    },
+    {
+        "input": "Homem de 25 anos com hematúria macroscópica, sua urina de 1 L contém ____\nA. 0,5 ml\nB. ≥1 ml\nC. ≥2 ml\nD. ≥3 ml",
+        "target_scores": {
+            "A. 0,5 ml": 0,
+            "B. ≥1 ml": 1,
+            "C. ≥2 ml": 0,
+            "D. ≥3 ml": 0
+        }
+    },
+    {
+        "input": "Mulher, 55 anos, linfonodomegalia axilar há 1 mês, suspeita de linfoma. Qual característica não é compatível com linfonodomegalia ____\nA. Dor em linfonodos após consumo de álcool em poucos casos\nB. Indolor\nC. Pode fundir-se em blocos\nD. Sem aumento progressivo",
+        "target_scores": {
+            "A. Dor em linfonodos após consumo de álcool em poucos casos": 0,
+            "B. Indolor": 0,
+            "C. Pode fundir-se em blocos": 0,
+            "D. Sem aumento progressivo": 1
+        }
+    },
+    {
+        "input": "Mulher, 18 anos, vem à consulta por sopro cardíaco detectado em exame físico. Não tolera atividades físicas intensas, sem história de edema nos membros inferiores ou dificuldade respiratória noturna, suscetível a resfriados. Exame físico: pressão arterial 130/80 mmHg, frequência cardíaca 90 bpm. S1 diminuído, S2 ligeiramente elevado. Sopro sistólico de regurgitação A:SM 3/6 irradiando para a axila esquerda, clique sistólico audível em L4-5, clique mais evidente após agachamento seguido de posição ortostática, sem estertores pulmonares, fígado e baço não palpáveis, sem edema nos membros inferiores. O diagnóstico inicial a considerar é ____\nA. Comunicação interventricular\nB. Estenose aórtica\nC. Insuficiência da válvula mitral\nD. Insuficiência da válvula tricúspide",
+        "target_scores": {
+            "A. Comunicação interventricular": 0,
+            "B. Estenose aórtica": 0,
+            "C. Insuficiência da válvula mitral": 1,
+            "D. Insuficiência da válvula tricúspide": 0
+        }
+    },
+    {
+        "input": "Homem, 45 anos, submetido a transplante de pulmão há 3 anos, seguido de insuficiência renal que necessitou transplante renal. 18 horas após a cirurgia, o volume urinário era de 1 200 ml, mas após 20 horas diminuiu progressivamente até anúria, com rápida elevação da creatinina sérica. O tipo de rejeição que apresenta é ____\nA. Reação de rejeição vascular\nB. Rejeição aguda\nC. Rejeição crônica\nD. Rejeição hiperaguda",
+        "target_scores": {
+            "A. Reação de rejeição vascular": 0,
+            "B. Rejeição aguda": 0,
+            "C. Rejeição crônica": 0,
+            "D. Rejeição hiperaguda": 1
+        }
+    },
+    {
+        "input": "Homem, 45 anos, admitido 2 horas após acidente de carro com traumatismo abdominal pelo volante. Exame físico: pressão arterial 120/80 mmHg, pulso 90 bpm, respiração 24 vezes/min, abdome em tábua, dor à palpação e dor à descompressão em todo o abdome, radiografia abdominal em posição ortostática mostra gás livre sob o diafragma, o órgão mais provavelmente lesionado é____\nA. Ruptura esplênica\nB. Ruptura gástrica ou duodenal\nC. Ruptura hepática\nD. Ruptura pancreática",
+        "target_scores": {
+            "A. Ruptura esplênica": 0,
+            "B. Ruptura gástrica ou duodenal": 1,
+            "C. Ruptura hepática": 0,
+            "D. Ruptura pancreática": 0
+        }
+    },
+    {
+        "input": "Paciente de 20 anos, com episódios recorrentes de hematêmese, melena e hemorragia cutaneomucosa há 1 semana. Fígado e baço não aumentados, hemoglobina 76 g/L, contagem de leucócitos $5,0\\times10^9/\\mathcal{L}$, contagem de plaquetas $10\\times10^9/\\mathcal{L}$, medula óssea hiperativa, relação mieloide:eritroide de 5:1, número de megacariócitos aumentado com proporção elevada de megacariócitos imaturos. O diagnóstico mais provável é____\nA. Anemia aplástica\nB. Leucemia aguda\nC. Púrpura alérgica\nD. Púrpura trombocitopênica idiopática",
+        "target_scores": {
+            "A. Anemia aplástica": 0,
+            "B. Leucemia aguda": 0,
+            "C. Púrpura alérgica": 0,
+            "D. Púrpura trombocitopênica idiopática": 1
+        }
+    },
+    {
+        "input": "Homem, 30 anos, com histórico de uso de drogas injetáveis, apresenta sensação de queimação na boca e língua com dificuldade para engolir há 10 dias. Exame físico: linfonodos axilares bilaterais de aproximadamente 1,5 cm, consistência elástica, indolores e móveis. Lábios acinzentados, manchas brancas semelhantes a látex dispersas no dorso da língua e na mucosa bucal, dolorosas ao toque, não removíveis. Ruídos respiratórios ásperos em ambos os pulmões, coração e abdome normais. Radiografia torácica sugere tuberculose pulmonar bilateral. Secreções orais mostram hifas e esporos fúngicos. Diagnóstico de tuberculose pulmonar. Qual doença deve ser altamente suspeita neste paciente?\nA. AIDS\nB. Imunodeficiência congênita\nC. Tumor faríngeo\nD. Tumor pulmonar",
+        "target_scores": {
+            "A. AIDS": 1,
+            "B. Imunodeficiência congênita": 0,
+            "C. Tumor faríngeo": 0,
+            "D. Tumor pulmonar": 0
+        }
+    },
+    {
+        "input": "Mulher, 29 anos, internada com sangramento gengival e febre baixa há 1 semana. Exames laboratoriais para contagem de sangue:  leucócitos $11{,}3\\times10^9/L$, hemácias $2{,}6\\times10^12/L$, hemoglobina 68 g/L, plaquetas $30\\times10^9/L$, punção de medula óssea indica leucemia monocítica aguda (M5). Qual dos seguintes sinais é menos comum?\nA. Dor à pressão esternal\nB. Edema gengival\nC. Hepatoesplenomegalia\nD. Icterícia escleral",
+        "target_scores": {
+            "A. Dor à pressão esternal": 0,
+            "B. Edema gengival": 0,
+            "C. Hepatoesplenomegalia": 0,
+            "D. Icterícia escleral": 1
+        }
+    },
+    {
+        "input": "Homem, 27 anos, apresenta sensação de plenitude no hipocôndrio esquerdo, fadiga e fraqueza generalizada há 3 meses. Exame mostra aparência levemente anêmica, leve dor à pressão esternal, baço aumentado (esplenomegalia), hemograma com leucócitos $172\\times10^{9}/\\mathrm{L}$, aumento de células imaturas, hemácias $3{,}50\\times10^{12}/\\mathrm{L}$, hemoglobina $90\\,\\mathrm{g}/\\mathrm{L}$, plaquetas $78\\times10^{9}/\\mathrm{L}$, mielograma com hiperplasia extremamente ativa, mieloblastos 36\\%, elevação acima do normal de promielócitos, mielócitos e neutrófilos em bastão. O diagnóstico deste paciente deve ser____\nA. Leucemia mieloide aguda (tipo indiferenciado)\nB. Leucemia mieloide crônica (fase acelerada)\nC. Leucemia mieloide crônica (fase blástica)\nD. Leucemia mieloide crônica (fase crônica)",
+        "target_scores": {
+            "A. Leucemia mieloide aguda (tipo indiferenciado)": 0,
+            "B. Leucemia mieloide crônica (fase acelerada)": 0,
+            "C. Leucemia mieloide crônica (fase blástica)": 1,
+            "D. Leucemia mieloide crônica (fase crônica)": 0
+        }
+    },
+    {
+        "input": "Mulher, 35 anos. Diagnosticada com anemia hemolítica. O tratamento com corticosteroides não é indicado para qual das seguintes causas de hemólise____\nA. Anemia hemolítica autoimune\nB. Hemoglobinúria paroxística noturna\nC. Lúpus eritematoso sistêmico\nD. Talassemia",
+        "target_scores": {
+            "A. Anemia hemolítica autoimune": 0,
+            "B. Hemoglobinúria paroxística noturna": 0,
+            "C. Lúpus eritematoso sistêmico": 0,
+            "D. Talassemia": 1
+        }
+    },
+    {
+        "input": "Paciente feminina, 25 anos, submetida a tireoidectomia subtotal por hipertireoidismo primário. Após 10 horas da cirurgia, apresenta agitação, dificuldade respiratória, cianose labial, curativo seco, sem líquido sanguinolento no dreno, pescoço espessado. O manejo correto para a paciente é____\nA. Drenagem imediata à beira do leito, limpeza do hematoma\nB. Intubação traqueal imediata, oxigenação sob pressão\nC. Transferência imediata para cirurgia exploratória\nD. Traqueostomia imediata",
+        "target_scores": {
+            "A. Drenagem imediata à beira do leito, limpeza do hematoma": 1,
+            "B. Intubação traqueal imediata, oxigenação sob pressão": 0,
+            "C. Transferência imediata para cirurgia exploratória": 0,
+            "D. Traqueostomia imediata": 0
+        }
+    },
+    {
+        "input": "Paciente feminina, 18 anos, exame detecta proteinúria maciça. A quantificação de proteínas em 24 horas seria____\nA. >1,0 g/dia\nB. >2,0 g/dia\nC. >3,0 g/dia\nD. >3,5 g/dia",
+        "target_scores": {
+            "A. >1,0 g/dia": 0,
+            "B. >2,0 g/dia": 0,
+            "C. >3,0 g/dia": 0,
+            "D. >3,5 g/dia": 1
+        }
+    },
+    {
+        "input": "Homem, 32 anos, hospitalizado por febre, tosse, expectoração esbranquiçada há 5 dias e falta de ar há 2 dias. Histórico de uso de drogas. Exame físico: temperatura 38,5 °C, pulso 128bpm, respiração 44 vezes/min, pressão arterial 110/70 mmHg, respiração acelerada, cianose labial, sem linfonodomegalia, estertores úmidos leves nas bases pulmonares. Radiografia mostra doença intersticial pulmonar bilateral, hemograma com leucócitos $3.8\\times10^9/L$, neutrófilos 0.92, linfócitos 0.08, plaquetas $250\\times10^9/\\mathcal{L}$, hemoglobina 105 g/L, teste anti-HIV positivo. Diagnóstico preliminar de AIDS, a complicação pulmonar mais provável é____\nA. Pneumonia bacteriana\nB. Pneumonia por Pneumocystis jirovecii\nC. Pneumonia por micoplasma\nD. Pneumonia viral",
+        "target_scores": {
+            "A. Pneumonia bacteriana": 0,
+            "B. Pneumonia por Pneumocystis jirovecii": 1,
+            "C. Pneumonia por micoplasma": 0,
+            "D. Pneumonia viral": 0
+        }
+    },
+    {
+        "input": "Homem, 58 anos, histórico de hipertensão há 10 anos, tratamento ambulatorial regular, recentemente com pressão arterial oscilando entre 180-190/100-110 mmHg. Radiografia mostra coração aórtico, eletrocardiograma com alta voltagem do ventrículo esquerdo, proteinúria (+). O diagnóstico mais apropriado é____\nA. Hipertensão grau 1 com alto risco\nB. Hipertensão grau 2 com risco muito alto\nC. Hipertensão grau 3 com risco muito alto\nD. Hipertensão secundária",
+        "target_scores": {
+            "A. Hipertensão grau 1 com alto risco": 0,
+            "B. Hipertensão grau 2 com risco muito alto": 0,
+            "C. Hipertensão grau 3 com risco muito alto": 1,
+            "D. Hipertensão secundária": 0
+        }
+    },
+    {
+        "input": "Mulher, 60 anos. Tontura e fadiga há 2 semanas, perda de peso progressiva. Exame físico: aparência anêmica, linfonodo palpável do tamanho de meio polegar no pescoço esquerdo, fígado e baço 2 dedos abaixo do rebordo costal. Hemograma: leucócitos $5,0\\times10^9/\\mathcal{L}$, hemoglobina 52g/L, plaquetas $165\\times10^9/\\mathcal{L}$. Bilirrubina não conjugada 56 μmol/L. Medula óssea compatível com anemia hemolítica. Teste de Coombs positivo. Após 4 semanas de tratamento regular com corticosteroides com resultado insatisfatório, esta paciente pode ter anemia secundária a qual tipo de tumor____\nA. Carcinoma hepático\nB. Câncer metastático\nC. Linfoma não-Hodgkin\nD. Mieloma múltiplo",
+        "target_scores": {
+            "A. Carcinoma hepático": 0,
+            "B. Câncer metastático": 0,
+            "C. Linfoma não-Hodgkin": 1,
+            "D. Mieloma múltiplo": 0
+        }
+    },
+    {
+        "input": "Homem, 50 anos, febre e dispneia há 3 semanas. A radiografia torácica mostra grande derrame pleural à esquerda. Ultrassom abdominal mostra hepatoesplenomegalia. Hemograma: leucócitos $2,0\\times10^{9}/\\mathcal{L}$, hemoglobina 82 g/L, plaquetas $65\\times10^{9}/\\mathcal{L}$. Biópsia de medula óssea: linfoma anaplásico de grandes células. Este tipo de linfoma foi anteriormente frequentemente diagnosticado erroneamente como qual doença____\nA. Histiocitose maligna\nB. Leucemia monocítica aguda\nC. Linfadenite necrosante\nD. Síndrome hemofagocítica",
+        "target_scores": {
+            "A. Histiocitose maligna": 1,
+            "B. Leucemia monocítica aguda": 0,
+            "C. Linfadenite necrosante": 0,
+            "D. Síndrome hemofagocítica": 0
+        }
+    },
+    {
+        "input": "Homem, 52 anos, nos últimos 2-3 meses apresenta episódios de dor torácica ao subir escadas, eletrocardiograma em repouso normal. Para confirmar o diagnóstico, exames adicionais são necessários. Qual afirmação sobre o diagnóstico de doença coronariana está correta____\nA. A angiografia coronária pode identificar o local e estimar o grau das lesões estenóticas arteriais\nB. Teste de esforço positivo confirma doença coronariana\nC. Tomografia por emissão de pósitrons (PET) é base confiável para diagnóstico de doença coronariana\nD. Ultrassom intravascular é o principal método atual para diagnóstico de doença coronariana",
+        "target_scores": {
+            "A. A angiografia coronária pode identificar o local e estimar o grau das lesões estenóticas arteriais": 1,
+            "B. Teste de esforço positivo confirma doença coronariana": 0,
+            "C. Tomografia por emissão de pósitrons (PET) é base confiável para diagnóstico de doença coronariana": 0,
+            "D. Ultrassom intravascular é o principal método atual para diagnóstico de doença coronariana": 0
+        }
+    },
+    {
+        "input": "Pacientes hipertensos usando inibidores da enzima conversora de angiotensina (IECA) de longo prazo desenvolvem tosse seca irritativa devido a____\nA. Aumento de bradicinina no organismo\nB. Efeito dos inibidores da ECA\nC. Inibidores da ECA podem promover movimento ciliar\nD. Inibidores da ECA reduzem secreções brônquicas",
+        "target_scores": {
+            "A. Aumento de bradicinina no organismo": 1,
+            "B. Efeito dos inibidores da ECA": 0,
+            "C. Inibidores da ECA podem promover movimento ciliar": 0,
+            "D. Inibidores da ECA reduzem secreções brônquicas": 0
+        }
+    },
+    {
+        "input": "Mulher, 24 anos, inchaço progressivo com dor abaixo do joelho direito há mais de 8 meses. Exame físico: movimento normal na articulação do joelho, protuberância na parte superior da tíbia abaixo do joelho direito com dor à palpação. Radiografia mostra área de destruição na extremidade superior da tíbia direita, osso adelgaçado, com alterações semelhantes a bolhas de sabão no centro, sem reação periosteal evidente. O diagnóstico deve ser____\nA. Cisto ósseo\nB. Osteomielite\nC. Osteossarcoma\nD. Tumor de células gigantes ósseas",
+        "target_scores": {
+            "A. Cisto ósseo": 0,
+            "B. Osteomielite": 0,
+            "C. Osteossarcoma": 0,
+            "D. Tumor de células gigantes ósseas": 1
+        }
+    },
+    {
+        "input": "Paciente masculino, 3 anos, com necrose tubular aguda devido a choque por pneumonia, volume urinário de 350 ml em 24 horas, creatinina sérica 325 μmol/L. O indicador diagnóstico urinário mais provável é____\nA. Densidade urinária 1,010\nB. Fração de filtração de sódio <1\nC. Sódio urinário 15 mmol/L\nD. Índice de insuficiência renal <1",
+        "target_scores": {
+            "A. Densidade urinária 1,010": 1,
+            "B. Fração de filtração de sódio <1": 0,
+            "C. Sódio urinário 15 mmol/L": 0,
+            "D. Índice de insuficiência renal <1": 0
+        }
+    },
+    {
+        "input": "Paciente masculino, 18 anos, com dor óssea há 2 anos. Exames: pH urinário 5,0, glicosúria (++), aminoacidúria (+), cristais de fosfato na urina (++), potássio sérico 3,0 mmol/L, cálcio sérico 2,0 mmol/L, glicemia 4,6 mmol/L, pH sanguíneo 7,35, cloreto sanguíneo 110 mmol/L. O diagnóstico mais provável é____\nA. Acidose tubular renal distal com hipocalemia\nB. Acidose tubular renal tipo III\nC. Acidose tubular renal tipo IV\nD. Síndrome de Fanconi",
+        "target_scores": {
+            "A. Acidose tubular renal distal com hipocalemia": 0,
+            "B. Acidose tubular renal tipo III": 0,
+            "C. Acidose tubular renal tipo IV": 0,
+            "D. Síndrome de Fanconi": 1
+        }
+    },
+    {
+        "input": "Homem, 38 anos, com dor abdominal superior intensa, 4 horas após consumo excessivo de álcool. Inclinar-se para frente alivia a dor. Dor à palpação no abdome superior, leve rigidez muscular abdominal. O diagnóstico mais provável é____\nA. Colecistite aguda\nB. Gastrite aguda\nC. Gastroenterite aguda\nD. Pancreatite aguda",
+        "target_scores": {
+            "A. Colecistite aguda": 0,
+            "B. Gastrite aguda": 0,
+            "C. Gastroenterite aguda": 0,
+            "D. Pancreatite aguda": 1
+        }
+    },
+    {
+        "input": "Mulher, 68 anos, com bronquite crônica e enfisema pulmonar há 12 anos. Há 2 dias, após tosse intensa, sentiu dor torácica súbita à esquerda com dificuldade respiratória, não conseguindo deitar-se. O diagnóstico mais provável é____\nA. Embolia pulmonar\nB. Infarto do miocárdio\nC. Pleurisia tuberculosa\nD. Pneumotórax espontâneo",
+        "target_scores": {
+            "A. Embolia pulmonar": 0,
+            "B. Infarto do miocárdio": 0,
+            "C. Pleurisia tuberculosa": 0,
+            "D. Pneumotórax espontâneo": 1
+        }
+    },
+    {
+        "input": "No método de enxerto de pele autóloga em pequenos fragmentos implantados em orifícios de pele heteróloga, geralmente o tamanho e o espaçamento dos enxertos autólogos devem ser____\nA. Tamanho 0,1 cm×0,1 cm, espaçamento 1,0 cm\nB. Tamanho 0,2 cm×0,2 cm, espaçamento 0,5 cm\nC. Tamanho 0,5 cm×0,5 cm, espaçamento 0,5 cm\nD. Tamanho 0,5 cm×0,5 cm, espaçamento 1,0 cm",
+        "target_scores": {
+            "A. Tamanho 0,1 cm×0,1 cm, espaçamento 1,0 cm": 0,
+            "B. Tamanho 0,2 cm×0,2 cm, espaçamento 0,5 cm": 0,
+            "C. Tamanho 0,5 cm×0,5 cm, espaçamento 0,5 cm": 0,
+            "D. Tamanho 0,5 cm×0,5 cm, espaçamento 1,0 cm": 1
+        }
+    },
+    {
+        "input": "Mulher, 50 anos, inchaço e dor intensa no lábio superior há 2 dias. Exame físico: massa vermelho-púrpura no centro do lábio superior com ponto de pus visível. Diagnóstico: furúnculo labial. A complicação mais perigosa é____\nA. Febre alta\nB. Infecção do espaço infraorbitário\nC. Septicemia\nD. Tromboflebite do seio cavernoso",
+        "target_scores": {
+            "A. Febre alta": 0,
+            "B. Infecção do espaço infraorbitário": 0,
+            "C. Septicemia": 0,
+            "D. Tromboflebite do seio cavernoso": 1
+        }
+    },
+    {
+        "input": "Paciente jovem submetido à extração de terceiro molar inferior direito semi-incluso mesioangulado com osteotomia e odontossecção. Após 4 dias, apresenta dor intensa e contínua irradiando para a região auricular e temporal. Exame mostra alvéolo vazio com parede óssea alveolar coberta por membrana cinza-esbranquiçada. O diagnóstico mais provável é____\nA. Alveolite seca\nB. Dano ao dente adjacente durante extração\nC. Fratura do processo alveolar\nD. Reação normal após extração dentária",
+        "target_scores": {
+            "A. Alveolite seca": 1,
+            "B. Dano ao dente adjacente durante extração": 0,
+            "C. Fratura do processo alveolar": 0,
+            "D. Reação normal após extração dentária": 0
+        }
+    },
+    {
+        "input": "Paciente feminina, 11 anos, sem dor espontânea. Exame oral: cárie superficial nas superfícies oclusais do primeiro e segundo molares decíduos superiores esquerdos, percussão(-), sondagem(-). O manuseio inadequado é ____\nA. Extração\nB. Método de remineralização\nC. Restauração de amálgama\nD. Terapia medicamentosa",
+        "target_scores": {
+            "A. Extração": 1,
+            "B. Método de remineralização": 0,
+            "C. Restauração de amálgama": 0,
+            "D. Terapia medicamentosa": 0
+        }
+    },
+    {
+        "input": "Paciente com cárie profunda na superfície ocluso-mesial do primeiro molar inferior esquerdo, sensível à sondagem, percussão(-), sensibilidade transitória ao teste frio. Se o diagnóstico for cárie profunda, o plano de tratamento correto deve ser____\nA. Restauração com amálgama de prata após forramento duplo\nB. Restauração com hidróxido de cálcio e cimento de ionômero de vidro\nC. Restauração com resina composta\nD. Tratamento endodôntico",
+        "target_scores": {
+            "A. Restauração com amálgama de prata após forramento duplo": 1,
+            "B. Restauração com hidróxido de cálcio e cimento de ionômero de vidro": 0,
+            "C. Restauração com resina composta": 0,
+            "D. Tratamento endodôntico": 0
+        }
+    },
+    {
+        "input": "Paciente com lesão cervical em forma de cunha no dente posterior inferior direito, apresenta dor a estímulos frios e quentes após restauração com resina composta e não consegue morder. Exame: dente 5 superior esquerdo restaurado com resina composta, dor ao teste frio que alivia após remoção; dor à percussão (+), dor acentuada a estímulos frios e quentes que persiste após remoção. O tratamento para o dente 5 superior esquerdo deve ser____\nA. Remoção da restauração antiga, aplicação de cimento de óxido de zinco e eugenol para alívio\nB. Remoção da restauração antiga, nova restauração\nC. Tratamento dessensibilizante\nD. Tratamento pulpar",
+        "target_scores": {
+            "A. Remoção da restauração antiga, aplicação de cimento de óxido de zinco e eugenol para alívio": 0,
+            "B. Remoção da restauração antiga, nova restauração": 0,
+            "C. Tratamento dessensibilizante": 0,
+            "D. Tratamento pulpar": 1
+        }
+    },
+    {
+        "input": "Paciente masculino, 42 anos, dor intensa no dente posterior superior esquerdo nos últimos 5 dias, impossibilidade de morder, sensação de alongamento dentário. Se o diagnóstico for abscesso subperiostal agudo, os sintomas típicos incluem____\nA. Achatamento do sulco de transição, sensação de flutuação profunda\nB. Linfonodos regionais aumentados e dolorosos à palpação\nC. Mobilidade dentária grau III, percussão positiva (+++)\nD. Vermelhidão e inchaço gengival na região apical, sensível à palpação",
+        "target_scores": {
+            "A. Achatamento do sulco de transição, sensação de flutuação profunda": 1,
+            "B. Linfonodos regionais aumentados e dolorosos à palpação": 0,
+            "C. Mobilidade dentária grau III, percussão positiva (+++)": 0,
+            "D. Vermelhidão e inchaço gengival na região apical, sensível à palpação": 0
+        }
+    },
+    {
+        "input": "Homem, 70 anos. Dor e inchaço na região anterior da mandíbula esquerda há 3 semanas, já aliviados após tratamento com antibióticos. Exame mostra raiz residual do incisivo lateral inferior esquerdo (32), sem mobilidade. Radiografia mostra área radiolúcida periapical de aproximadamente 3 mm × 5 mm no dente 32 e leve reabsorção radicular apical. O tratamento imediato deve ser____\nA. Cirurgia periapical\nB. Prótese overlay\nC. Tratamento de plastificação\nD. Tratamento endodôntico",
+        "target_scores": {
+            "A. Cirurgia periapical": 0,
+            "B. Prótese overlay": 0,
+            "C. Tratamento de plastificação": 0,
+            "D. Tratamento endodôntico": 1
+        }
+    },
+    {
+        "input": "Paciente com dor espontânea no dente posterior direito há um dia, piorando à noite. Exame mostra cárie profunda mesial no segundo pré-molar superior direito. O método de exame para confirmar o diagnóstico é____\nA. Palpação\nB. Percussão\nC. Sondagem\nD. Teste de temperatura",
+        "target_scores": {
+            "A. Palpação": 0,
+            "B. Percussão": 0,
+            "C. Sondagem": 0,
+            "D. Teste de temperatura": 1
+        }
+    },
+    {
+        "input": "Homem, 21 anos, apresenta-se com avulsão completa do incisivo central superior esquerdo devido a trauma. Sobre as opções de tratamento, qual está incorreta____\nA. Dente avulsionado contaminado, após irrigação com solução salina, se não for reimplantado imediatamente, deve ser armazenado a seco\nB. Em casos de avulsão dental com mais de 2 horas, o tratamento endodôntico deve ser realizado extrabucalmente antes do reimplante\nC. Reimplante imediato dentro de meia hora após trauma\nD. Se o dente avulsionado estiver contaminado após queda, deve ser irrigado com solução salina e reimplantado imediatamente",
+        "target_scores": {
+            "A. Dente avulsionado contaminado, após irrigação com solução salina, se não for reimplantado imediatamente, deve ser armazenado a seco": 1,
+            "B. Em casos de avulsão dental com mais de 2 horas, o tratamento endodôntico deve ser realizado extrabucalmente antes do reimplante": 0,
+            "C. Reimplante imediato dentro de meia hora após trauma": 0,
+            "D. Se o dente avulsionado estiver contaminado após queda, deve ser irrigado com solução salina e reimplantado imediatamente": 0
+        }
+    },
+    {
+        "input": "Homem, 22 anos, com impactação alimentar frequente e dor no dente posterior superior esquerdo, sensibilidade a estímulos frios, quentes, doces e ácidos, sem dor espontânea. Exame mostra cárie profunda na superfície oclusal do primeiro molar superior esquerdo, sensibilidade à sondagem do fundo da cavidade, sem dor à percussão. A principal questão a ser determinada antes do tratamento é____\nA. Localização da cavidade cariosa\nB. Quantidade de tecido cariado\nC. Resposta do complexo dentino-pulpar\nD. Tamanho da cavidade cariosa",
+        "target_scores": {
+            "A. Localização da cavidade cariosa": 0,
+            "B. Quantidade de tecido cariado": 0,
+            "C. Resposta do complexo dentino-pulpar": 1,
+            "D. Tamanho da cavidade cariosa": 0
+        }
+    },
+    {
+        "input": "Homem, 28 anos. Apresenta descoloração generalizada dos dentes por tetraciclina usada na infância, comprometendo a estética e solicitando clareamento. O agente clareador mais adequado é____\nA. Hidróxido de cálcio a 30%\nB. Hipoclorito de sódio a 30%\nC. Peróxido de hidrogênio a 30%\nD. Ácido fosfórico a 30%",
+        "target_scores": {
+            "A. Hidróxido de cálcio a 30%": 0,
+            "B. Hipoclorito de sódio a 30%": 0,
+            "C. Peróxido de hidrogênio a 30%": 1,
+            "D. Ácido fosfórico a 30%": 0
+        }
+    },
+    {
+        "input": "Paciente masculino, 36 anos, dor espontânea no dente posterior esquerdo há um dia, piorando à noite. Exame mostra cárie profunda mesial no segundo pré-molar superior esquerdo. O método de exame para confirmar o diagnóstico é____\nA. Exame radiográfico\nB. Palpação\nC. Sondagem\nD. Teste de temperatura",
+        "target_scores": {
+            "A. Exame radiográfico": 0,
+            "B. Palpação": 0,
+            "C. Sondagem": 0,
+            "D. Teste de temperatura": 1
+        }
+    },
+    {
+        "input": "Mulher, 46 anos. Consulta por sensibilidade a estímulos frios e quentes no dente posterior superior esquerdo há 1 semana. Exame mostra cárie no dente 7 superior esquerdo, cavidade profunda próxima à polpa. Durante a remoção do tecido cariado, a paciente apresenta dor significativa. O tratamento de primeira escolha deve ser____\nA. Forramento com cimento de policarboxilato de zinco e restauração permanente\nB. Forramento com cimento de óxido de zinco e eugenol e restauração permanente\nC. Pulpectomia sob anestesia local\nD. Tratamento paliativo progressivo ou capeamento pulpar indireto",
+        "target_scores": {
+            "A. Forramento com cimento de policarboxilato de zinco e restauração permanente": 0,
+            "B. Forramento com cimento de óxido de zinco e eugenol e restauração permanente": 0,
+            "C. Pulpectomia sob anestesia local": 0,
+            "D. Tratamento paliativo progressivo ou capeamento pulpar indireto": 1
+        }
+    },
+    {
+        "input": "Menino, 2 anos e meio. Cárie profunda na face vestibular dos quatro incisivos superiores, cárie superficial nas faces vestibular e oclusal do primeiro molar decíduo superior, criança com hábito de mamar durante a noite. Deve ser considerado como____\nA. Cárie de mamadeira\nB. Cárie múltipla\nC. Cárie na primeira infância\nD. Cárie rampante",
+        "target_scores": {
+            "A. Cárie de mamadeira": 1,
+            "B. Cárie múltipla": 0,
+            "C. Cárie na primeira infância": 0,
+            "D. Cárie rampante": 0
+        }
+    },
+    {
+        "input": "Criança, 10 anos, dor nos dentes anteriores a estímulos frios há vários dias. Exame: cárie profunda mesial no incisivo central superior direito, sem alterações à percussão, sem mobilidade, dor transitória ao teste frio. Tratamento: remoção completa do tecido cariado extremamente próximo à polpa, sensibilidade. Qual método de tratamento deve ser escolhido____\nA. Capeamento pulpar direto\nB. Capeamento pulpar indireto com cimento de óxido de zinco e eugenol\nC. Pulpotomia\nD. Remoção secundária de tecido cariado",
+        "target_scores": {
+            "A. Capeamento pulpar direto": 0,
+            "B. Capeamento pulpar indireto com cimento de óxido de zinco e eugenol": 1,
+            "C. Pulpotomia": 0,
+            "D. Remoção secundária de tecido cariado": 0
+        }
+    },
+    {
+        "input": "Paciente feminina, 5 anos, dor nos dentes anteriores superiores a estímulos frios e quentes há 1 semana, sem dor espontânea ou noturna. Exame mostra cárie média na superfície mésio-lingual do incisivo central decíduo superior esquerdo, sensibilidade à sondagem, dor de percussão(-), sem ponto de exposição pulpar. O material de restauração mais correto a ser escolhido é____\nA. Amálgama de prata\nB. Cimento de fosfato de zinco\nC. Cimento de ionômero de vidro\nD. Óxido de zinco e eugenol",
+        "target_scores": {
+            "A. Amálgama de prata": 0,
+            "B. Cimento de fosfato de zinco": 0,
+            "C. Cimento de ionômero de vidro": 1,
+            "D. Óxido de zinco e eugenol": 0
+        }
+    },
+    {
+        "input": "Homem, 52 anos. Diagnosticado com diabetes tipo 2 há 1 ano, tratado com dieta adequada, exercícios e metformina 500 mg, três vezes ao dia. Exame físico: altura 173 cm, peso 78 kg, pressão arterial 130/90 mmHg, exames cardíaco, pulmonar e abdominal sem alterações. Reavaliação mostra glicemia de jejum 5,2 mmol/L, glicemia pós-prandial de 2 horas nas três refeições respectivamente 11,4 mmol/L, 13,1 mmol/L e 12,6 mmol/L. O próximo passo mais razoável no tratamento é____\nA. Adição de inibidor de alfa-glicosidase\nB. Adição de sulfonilureia para controle glicêmico\nC. Aumento da dose de metformina\nD. Troca para medicação sulfonilureia",
+        "target_scores": {
+            "A. Adição de inibidor de alfa-glicosidase": 1,
+            "B. Adição de sulfonilureia para controle glicêmico": 0,
+            "C. Aumento da dose de metformina": 0,
+            "D. Troca para medicação sulfonilureia": 0
+        }
+    },
+    {
+        "input": "Mulher, 16 anos. Devido ao consumo excessivo de laranjas apresenta aumento de carotenoides no sangue, a coloração amarelada da pele e mucosas aparece primeiro em____\nA. Esclera\nB. Mucosa oral\nC. Palmas das mãos e plantas dos pés\nD. Tronco",
+        "target_scores": {
+            "A. Esclera": 0,
+            "B. Mucosa oral": 0,
+            "C. Palmas das mãos e plantas dos pés": 1,
+            "D. Tronco": 0
+        }
+    },
+    {
+        "input": "Paciente de 45 anos, trabalhador, dor abdominal superior há 6 anos, dor antes das refeições acompanhada de azia. Há 2 horas apresentou dor abdominal superior intensa e contínua, irradiando para a região lombar e dorsal. Exame: abdome em tábua, dor à palpação abdominal, dor à descompressão significativa, temperatura 38,5 °C, leucocitose com 70% de neutrófilos. O diagnóstico mais provável é____\nA. Câncer gástrico\nB. Gastrite crônica\nC. Perfuração de úlcera duodenal\nD. Úlcera gástrica",
+        "target_scores": {
+            "A. Câncer gástrico": 0,
+            "B. Gastrite crônica": 0,
+            "C. Perfuração de úlcera duodenal": 1,
+            "D. Úlcera gástrica": 0
+        }
+    },
+    {
+        "input": "Criança de 5 anos. Dor de cabeça paroxística há 3 meses, admitida na emergência devido a dor de cabeça súbita e intensa com vômitos repetidos há meio dia. Exame: consciente, pupilas normais, rigidez de nuca, após meia hora apresentou pausa respiratória súbita, batimentos cardíacos presentes. O diagnóstico é____\nA. Adenoma hipofisário\nB. Edema cerebral agudo\nC. Hérnia do forame magno\nD. Meningite aguda",
+        "target_scores": {
+            "A. Adenoma hipofisário": 0,
+            "B. Edema cerebral agudo": 0,
+            "C. Hérnia do forame magno": 1,
+            "D. Meningite aguda": 0
+        }
+    },
+    {
+        "input": "Paciente masculino, 28 anos, previamente normal mentalmente, chegando de viagem em outra cidade, ao desembarcar do trem, subitamente sentiu que uma guerra estava prestes a eclodir porque muitas pessoas corriam para a saída. O quadro mais provável é____\nA. Delírio primário\nB. Delírio secundário\nC. Distúrbio de percepção\nD. Ilusão",
+        "target_scores": {
+            "A. Delírio primário": 1,
+            "B. Delírio secundário": 0,
+            "C. Distúrbio de percepção": 0,
+            "D. Ilusão": 0
+        }
+    },
+    {
+        "input": "Paciente feminina, 30 anos, febre persistente há 2 semanas, histórico de cardiopatia congênita. Exame na admissão: aparência anêmica, sopro sistólico áspero de grau 4/6 com frêmito no 3º-4º espaço intercostal na borda esternal esquerda, baço 2 cm abaixo do rebordo costal, duas hemoculturas positivas. Três dias após admissão, súbita dificuldade respiratória, dor torácica e hemoptise recorrente. O diagnóstico mais provável é____\nA. Comunicação interventricular com bronquiectasia\nB. Comunicação interventricular com insuficiência cardíaca aguda\nC. Endocardite infecciosa com embolia pulmonar aguda\nD. Endocardite infecciosa com infecção pulmonar",
+        "target_scores": {
+            "A. Comunicação interventricular com bronquiectasia": 0,
+            "B. Comunicação interventricular com insuficiência cardíaca aguda": 0,
+            "C. Endocardite infecciosa com embolia pulmonar aguda": 1,
+            "D. Endocardite infecciosa com infecção pulmonar": 0
+        }
+    },
+    {
+        "input": "Homem, 28 anos, com manifestações recorrentes duas vezes ao ano, na primavera e no outono. Apresenta hiperemia e edema nas mucosas dos lábios e bochechas, às vezes com eritema e vesículas que que se rompem rapidamente, formando grandes áreas de erosão. As erosões apresentam exsudato abundante formando pseudomembranas espessas. Este paciente pode ser diagnosticado com____\nA. Eritema\nB. Eritema multiforme exsudativo\nC. Estomatite tuberculosa\nD. Leucoplasia",
+        "target_scores": {
+            "A. Eritema": 0,
+            "B. Eritema multiforme exsudativo": 1,
+            "C. Estomatite tuberculosa": 0,
+            "D. Leucoplasia": 0
+        }
+    },
+    {
+        "input": "Dente gravemente cariado, após extração observa-se tecido aderido à região apical. Ao microscópio, caracteriza-se por infiltrado de linfócitos, plasmócitos e macrófagos, proliferação de células endoteliais vasculares e fibroblastos, com ilhas irregulares de proliferação epitelial e células espumosas. O diagnóstico patológico deve ser____\nA. Abscesso alveolar\nB. Cisto radicular\nC. Granuloma periapical\nD. Periodontite apical aguda",
+        "target_scores": {
+            "A. Abscesso alveolar": 0,
+            "B. Cisto radicular": 0,
+            "C. Granuloma periapical": 1,
+            "D. Periodontite apical aguda": 0
+        }
+    },
+    {
+        "input": "Mulher, 45 anos, há dois anos com inchaço na gengiva dos dentes anteriores inferiores, ocasionalmente com saída de secreção purulenta e sanguinolenta, percepção de mobilidade dentária. Exame mostra gengiva vermelha e inchada, incisivos centrais e laterais inferiores com mobilidade grau II, bastante cálculo nas superfícies radiculares, bolsas periodontais de 5 mm de profundidade com pequena quantidade de pus. A primeira consideração diagnóstica deve ser____\nA. Gengivite crônica\nB. Hiperplasia gengival\nC. Periodontite\nD. Recessão periodontal",
+        "target_scores": {
+            "A. Gengivite crônica": 0,
+            "B. Hiperplasia gengival": 0,
+            "C. Periodontite": 1,
+            "D. Recessão periodontal": 0
+        }
+    },
+    {
+        "input": "A substituição do osso normal por tecido fibroso contendo trabéculas ósseas metaplásicas é observada em____\nA. Displasia fibrosa óssea\nB. Fibroma cemento-ossificante\nC. Macrognatia familiar\nD. Osteomielite crônica com periostite proliferativa",
+        "target_scores": {
+            "A. Displasia fibrosa óssea": 1,
+            "B. Fibroma cemento-ossificante": 0,
+            "C. Macrognatia familiar": 0,
+            "D. Osteomielite crônica com periostite proliferativa": 0
+        }
+    },
+    {
+        "input": "Paciente masculino, 29 anos, inchaço na região anterior do palato há 3 meses, radiografia mostra área radiolúcida circular na parte anterior da linha média palatina. Ao microscópio, o epitélio de revestimento é composto por epitélio escamoso estratificado e epitélio colunar ciliado pseudoestratificado. O diagnóstico patológico mais provável é____\nA. Cisto do canal nasopalatino\nB. Cisto maxilar globulomaxilar\nC. Cisto nasolabial\nD. Cisto radicular",
+        "target_scores": {
+            "A. Cisto do canal nasopalatino": 1,
+            "B. Cisto maxilar globulomaxilar": 0,
+            "C. Cisto nasolabial": 0,
+            "D. Cisto radicular": 0
+        }
+    },
+    {
+        "input": "Paciente masculino consultado por icterícia, exames laboratoriais compatíveis com icterícia obstrutiva, exame físico mostra vesícula biliar aumentada. Para diferenciar entre câncer da ampola de Vater e cálculo no fundo da vesícula biliar, qual dos seguintes sinais é mais indicativo do último.____\nA. Coloração amarelo-esverdeada da pele\nB. Coloração amarelo-limão da pele\nC. Pele de coloração amarelo-dourada\nD. Vesícula biliar endurecida e irregular",
+        "target_scores": {
+            "A. Coloração amarelo-esverdeada da pele": 0,
+            "B. Coloração amarelo-limão da pele": 0,
+            "C. Pele de coloração amarelo-dourada": 0,
+            "D. Vesícula biliar endurecida e irregular": 1
+        }
+    },
+    {
+        "input": "Dente com cavidade profunda na superfície oclusal, sem dor habitualmente, dor intensa após impactação alimentar, sondagem do orifício pulpar causa dor intensa, percussão causa desconforto no dente, indicando____\nA. Necrose pulpar\nB. Polpa normal\nC. Pulpite crônica\nD. Pulpite reversível",
+        "target_scores": {
+            "A. Necrose pulpar": 0,
+            "B. Polpa normal": 0,
+            "C. Pulpite crônica": 1,
+            "D. Pulpite reversível": 0
+        }
+    },
+    {
+        "input": "Paciente masculino, 15 anos, submetido a reposicionamento e fixação com ligadura após luxação traumática do incisivo superior esquerdo. O período de contenção da fixação deve ser____\nA. 1-2 semanas\nB. 2-3 meses\nC. 3-4 semanas\nD. 3-5 dias",
+        "target_scores": {
+            "A. 1-2 semanas": 0,
+            "B. 2-3 meses": 0,
+            "C. 3-4 semanas": 1,
+            "D. 3-5 dias": 0
+        }
+    },
+    {
+        "input": "Homem, 60 anos, sofreu fratura da base do crânio em acidente de carro ontem, há 2 horas apresentou vômito súbito de 300 ml de líquido cor de café. O diagnóstico mais provável é____\nA. Exacerbação aguda de gastrite crônica\nB. Ruptura de varizes esofágicas\nC. Úlcera de estresse ou lesão aguda da mucosa gástrica\nD. Úlcera gástrica",
+        "target_scores": {
+            "A. Exacerbação aguda de gastrite crônica": 0,
+            "B. Ruptura de varizes esofágicas": 0,
+            "C. Úlcera de estresse ou lesão aguda da mucosa gástrica": 1,
+            "D. Úlcera gástrica": 0
+        }
+    }
+]

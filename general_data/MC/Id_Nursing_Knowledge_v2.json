@@ -1,0 +1,884 @@
+[
+    {
+        "input": "Pasien adalah seorang pria berusia 45 tahun dengan riwayat tukak lambung selama 10 tahun. Sejak kemarin, nyeri epigastriumnya memburuk, dan dia mengeluarkan tinja melena sebanyak 5 kali, setiap kali sekitar 100-200 ml, dan pagi ini dia mengeluarkan tinja melena sebanyak 2 kali, sekitar 500 ml, kemudian dia dirawat di rumah sakit dalam keadaan gawat darurat dengan wajah pucat, kulit dingin dan lembab, dan tidak responsif terhadap panggilan. Pemeriksaan fisik: pasien kebingungan, sianosis bibir, P125 kali/menit, R25 kali/menit, TD80/55mmHg. Berdasarkan manifestasi klinis pasien, jumlah perdarahan diperkirakan sebanyak?\nA. 250-300ml\nB. 300～500ml\nC. 500～800ml\nD. ＞1000ml",
+        "target_scores": {
+            "A. 250-300ml": 0,
+            "B. 300～500ml": 0,
+            "C. 500～800ml": 0,
+            "D. ＞1000ml": 1
+        }
+    },
+    {
+        "input": "Ketika konsentrasi terapi oksigen lebih dari 60% selama lebih dari 24 jam, efek samping yang mungkin terjadi dari terapi oksigen adalah?\nA. Bernapas dalam-dalam\nB. Dispnea inspirasi\nC. Memicu asma\nD. Toksisitas oksigen",
+        "target_scores": {
+            "A. Bernapas dalam-dalam": 0,
+            "B. Dispnea inspirasi": 0,
+            "C. Memicu asma": 0,
+            "D. Toksisitas oksigen": 1
+        }
+    },
+    {
+        "input": "Ketika hernia yang tertahan berkembang menjadi hernia strangulata, pilihan berikut ini yang manakah yang salah?\nA. Gerakan peristaltik usus masih ada\nB. Hilangnya denyut arteri mesenterika\nC. Hilangnya elastisitas dinding usus\nD. Hilangnya kilau dinding usus",
+        "target_scores": {
+            "A. Gerakan peristaltik usus masih ada": 1,
+            "B. Hilangnya denyut arteri mesenterika": 0,
+            "C. Hilangnya elastisitas dinding usus": 0,
+            "D. Hilangnya kilau dinding usus": 0
+        }
+    },
+    {
+        "input": "Mengapa terapi panas dikontraindikasikan pada abdomen akut ketika diagnosisnya belum diketahui?\nA. Dapat menutupi gejala penyakit\nB. Dapat menyebabkan penyempitan koroner refleks\nC. Menghambat penyerapan peradangan\nD. Menyebabkan diare",
+        "target_scores": {
+            "A. Dapat menutupi gejala penyakit": 1,
+            "B. Dapat menyebabkan penyempitan koroner refleks": 0,
+            "C. Menghambat penyerapan peradangan": 0,
+            "D. Menyebabkan diare": 0
+        }
+    },
+    {
+        "input": "Seorang pasien, laki-laki, 28 tahun, tertabrak mobil dan melukai perut bagian kiri atas 5 hari yang lalu, pada saat itu terdapat distensi dan nyeri pada perut bagian kiri atas dengan tekanan dan nyeri yang terlokalisir, setelah masuk rumah sakit, dokter memberikan pengobatan konservatif. Pagi ini pasien tiba-tiba pingsan, dengan wajah pucat, nadi cepat, dan tidak ada tanda-tanda iritasi peritoneum yang jelas pada pemeriksaan fisik. Apa diagnosis yang paling mungkin untuk pasien ini?\nA. Pecahnya ginjal\nB. Pecahnya hati\nC. Pecahnya limpa\nD. Perforasi kantong empedu",
+        "target_scores": {
+            "A. Pecahnya ginjal": 0,
+            "B. Pecahnya hati": 0,
+            "C. Pecahnya limpa": 1,
+            "D. Perforasi kantong empedu": 0
+        }
+    },
+    {
+        "input": "Seorang pasien dengan hipertensi tiba-tiba merasakan sesak dada yang ekstrem saat tidur, sesak napas, berkeringat banyak, batuk dahak berbusa berwarna merah muda dalam jumlah banyak, dan bernapas sambil duduk, dengan tekanan darah 26,6/14,7 kPa (200/110 mmHg) dan denyut jantung 110 denyut/menit. Manakah yang salah?\nA. Infus intravena harus diberikan dengan cepat\nB. Pemasangan akses intravena\nC. Posisikan pasien dalam posisi duduk dengan kaki menggantung ke bawah\nD. Terapi oksigen yang dilembabkan dengan alkohol 4-6 L/menit",
+        "target_scores": {
+            "A. Infus intravena harus diberikan dengan cepat": 1,
+            "B. Pemasangan akses intravena": 0,
+            "C. Posisikan pasien dalam posisi duduk dengan kaki menggantung ke bawah": 0,
+            "D. Terapi oksigen yang dilembabkan dengan alkohol 4-6 L/menit": 0
+        }
+    },
+    {
+        "input": "Pasien lansia yang sering mengalami serangan asma pada malam hari dengan batuk yang sering, dahak berbusa berwarna merah muda, kadang-kadang berdarah, dan terdengar ronki basah di dasar kedua paru-paru. Manakah dari yang berikut ini yang merupakan diagnosis yang paling mungkin untuk penyakit ini?\nA. Asma bronkial\nB. Asma jantung\nC. Kanker paru-paru\nD. Pneumonia Alergi",
+        "target_scores": {
+            "A. Asma bronkial": 0,
+            "B. Asma jantung": 1,
+            "C. Kanker paru-paru": 0,
+            "D. Pneumonia Alergi": 0
+        }
+    },
+    {
+        "input": "Seorang pasien, laki-laki, 70 tahun, masuk rumah sakit karena koma mendadak selama 1 jam, pemeriksaan fisik: lipatan nasolabial kiri dangkal, kelumpuhan pada lengan dan kaki kiri, perawatan yang salah adalah?\nA. Kateter urin yang menetap\nB. Puasa sementara\nC. Terapi oksigen\nD. Tiduran tanpa bantal",
+        "target_scores": {
+            "A. Kateter urin yang menetap": 0,
+            "B. Puasa sementara": 0,
+            "C. Terapi oksigen": 0,
+            "D. Tiduran tanpa bantal": 1
+        }
+    },
+    {
+        "input": "Pasien wanita, hipokalemia karena muntah berulang, kondisi mental pasien lesu, seluruh tubuh terasa lemas, refleks tendon melemah, diagnosis keperawatan yang tepat adalah?\nA. Bersihan Jalan Nafas Tidak Efektif\nB. Intoleransi Aktivitas\nC. Nutrisi Kurang dari Kebutuhan\nD. Risiko Cedera",
+        "target_scores": {
+            "A. Bersihan Jalan Nafas Tidak Efektif": 0,
+            "B. Intoleransi Aktivitas": 1,
+            "C. Nutrisi Kurang dari Kebutuhan": 0,
+            "D. Risiko Cedera": 0
+        }
+    },
+    {
+        "input": "Seorang pasien dengan nyeri dada dan sesak napas setelah cedera dada, nyeri tekan terlokalisasi pada pemeriksaan fisik, nyeri pada titik tekan dada pada sisi yang cedera saat meremas dada anterior dan posterior, bunyi napas sedikit melemah pada sisi yang cedera pada auskultasi, bunyi napas jernih pada sisi yang sehat, trakea terpusat, denyut jantung 96 denyut/menit, dan tekanan darah 120/80 mmHg, pertimbangan pertama?\nA. Emfisema mediastinum\nB. Patah tulang rusuk\nC. Pneumotoraks tegang\nD. Tamponade ​​perikardium",
+        "target_scores": {
+            "A. Emfisema mediastinum": 0,
+            "B. Patah tulang rusuk": 1,
+            "C. Pneumotoraks tegang": 0,
+            "D. Tamponade ​​perikardium": 0
+        }
+    },
+    {
+        "input": "Seorang pasien dengan luka bakar yang luas, tekanan darah setelah rehidrasi adalah 80/72mmHg, keluaran urin 20ml/jam, tekanan vena sentral 4cmH2O, mengindikasikan bahwa pasien tersebut mengalami?\nA. Edema paru-paru\nB. Gagal jantung\nC. Gangguan fungsi ginjal\nD. Hipovolemia",
+        "target_scores": {
+            "A. Edema paru-paru": 0,
+            "B. Gagal jantung": 0,
+            "C. Gangguan fungsi ginjal": 0,
+            "D. Hipovolemia": 1
+        }
+    },
+    {
+        "input": "Pasien, laki-laki, 50 tahun, sirosis hati yang dipersulit dengan perdarahan saluran cerna bagian atas, selama penggunaan tabung Sengstaken-Blakemore untuk hemostasis, tiba-tiba muncul agitasi, sianosis, kesulitan bernapas, saat ini harus segera?\nA. Laporkan ke dokter\nB. Memberikan oksigen\nC. Memberikan stimulan pernapasan\nD. Mengempiskan kantung balon",
+        "target_scores": {
+            "A. Laporkan ke dokter": 0,
+            "B. Memberikan oksigen": 0,
+            "C. Memberikan stimulan pernapasan": 0,
+            "D. Mengempiskan kantung balon": 1
+        }
+    },
+    {
+        "input": "Nona Rania, wanita, 35 tahun, ditabrak mobil dan mengeluh nyeri dada yang tak tertahankan di sisi kanan. Pemeriksaan fisik: sadar penuh, sianosis, sesak napas, agitasi, denyut nadi cepat dan lemah, ekstremitas dingin dan basah, suhu tubuh 36,5 ℃, denyut nadi 104 kali/menit, pernapasan 25 kali/menit, tekanan darah 11/8 kPa. Cedera dinding dada kanan, ada luka terbuka ukuran $ 3cm × 2cm $, terlihat ujung rusuk yang patah, disertai perdarahan terus-menerus, pernapasan paradoks, pada luka dapat didengar suara mendesis. Perawatan di tempat yang harus dilakukan pertama kali?\nA. Drainase pleura tertutup\nB. Infus cairan dan oksigen yang cepat\nC. Perban kompresi berlapis kapas tebal\nD. Pungsi thoraks untuk melepaskan udara",
+        "target_scores": {
+            "A. Drainase pleura tertutup": 0,
+            "B. Infus cairan dan oksigen yang cepat": 0,
+            "C. Perban kompresi berlapis kapas tebal": 1,
+            "D. Pungsi thoraks untuk melepaskan udara": 0
+        }
+    },
+    {
+        "input": "Pasien dengan cedera kraniocerebral menunjukkan gangguan kesadaran dengan periode sadar, pupil melebar di satu sisi, kehilangan reaksi terhadap cahaya, dan hemiparesis pada tungkai kontralateral. Kondisi ini mengindikasikan diagnosis apa?\nA. Cedera batang otak\nB. Hematoma epidural\nC. Hernia foramen magnum oksipitalis\nD. Kontusio serebral",
+        "target_scores": {
+            "A. Cedera batang otak": 0,
+            "B. Hematoma epidural": 1,
+            "C. Hernia foramen magnum oksipitalis": 0,
+            "D. Kontusio serebral": 0
+        }
+    },
+    {
+        "input": "Pasien, laki-laki, 67 tahun, pasien dengan eksaserbasi akut penyakit jantung paru. Analisis gas darah: $ pH 7{,}25$, $ PaCO_{2} 9{,}3kPa$, $ HCO^{-} _{3} 30mmol/L$. Pengobatan untuk ketidakseimbangan asam-basa yang seharusnya dilakukan?\nA. Arginin hidroklorida intravena\nB. Natrium bikarbonat 5% intravena\nC. Pemberian diuretik\nD. Perbaiki fungsi ventilasi",
+        "target_scores": {
+            "A. Arginin hidroklorida intravena": 0,
+            "B. Natrium bikarbonat 5% intravena": 0,
+            "C. Pemberian diuretik": 0,
+            "D. Perbaiki fungsi ventilasi": 1
+        }
+    },
+    {
+        "input": "Pasien, perempuan, 60 tahun, mengalami demam tinggi dan menggigil, batuk, dahak disertai darah, dan nyeri dada selama dua hari. Pemeriksaan fisik: suhu 37°C, wajah kelabu, kulit dingin dan berkeringat, sianosis pada bibir dan mulut, kekeruhan pada perkusi paru kiri atas, suara napas lemah, sedikit ronki, denyut jantung 128 kali/menit, tekanan darah 70/50 mmHg. Apakah tindakan yang harus dilakukan segera?\nA. Infus + obat vasoaktif\nB. Kultur dahak + tes sensitivitas obat\nC. Periksa sel darah putih + klasifikasi\nD. Rontgen dada",
+        "target_scores": {
+            "A. Infus + obat vasoaktif": 1,
+            "B. Kultur dahak + tes sensitivitas obat": 0,
+            "C. Periksa sel darah putih + klasifikasi": 0,
+            "D. Rontgen dada": 0
+        }
+    },
+    {
+        "input": "Pasien, laki-laki, 55 tahun, menderita bronkitis kronis, emfisema paru obstruktif, mengalami kekambuhan baru-baru ini, 2 jam yang lalu, tiba-tiba dada kiri nyeri tajam, sesak napas bertambah parah, untuk memperjelas diagnosis, pemeriksaan manakah yang paling tepat?\nA. CT paru-paru\nB. Elektrokardiogram\nC. Rontgen dada\nD. Ultrasonografi paru-paru",
+        "target_scores": {
+            "A. CT paru-paru": 0,
+            "B. Elektrokardiogram": 0,
+            "C. Rontgen dada": 1,
+            "D. Ultrasonografi paru-paru": 0
+        }
+    },
+    {
+        "input": "Pasien adalah seorang pria berusia 36 tahun. Dia biasanya sehat. Demam dan batuk selama 2 hari setelah mandi hujan, nyeri perut kanan atas dengan sesak napas dan mual selama 1 hari. Selain mempertimbangkan abdomen akut, apakah banding utama yang perlu dipertimbangkan?\nA. Infark paru-paru\nB. Kelumpuhan saraf frenikus\nC. Pneumonia pneumokokus\nD. Pneumotoraks spontan",
+        "target_scores": {
+            "A. Infark paru-paru": 0,
+            "B. Kelumpuhan saraf frenikus": 0,
+            "C. Pneumonia pneumokokus": 1,
+            "D. Pneumotoraks spontan": 0
+        }
+    },
+    {
+        "input": "Seorang wanita berusia 38 tahun dirawat dengan fraktur panggul, ruptur hati, dan syok hemoragik. Selama perawatan, ia mengalami pernapasan yang dipercepat, gangguan pernapasan, sianosis pada bibir dan mulut, ronki basah terdengar di kedua paru-paru, dan PaO₂-nya <8,0 kPa. Penatalaksanaan yang efektif adalah?\nA. Menghirup oksigen dengan masker konsentrasi tinggi\nB. Penggunaan stimulan pernapasan\nC. Ventilasi tekanan ekspirasi akhir yang positif\nD. Ventilasi tekanan negatif akhir ekspirasi",
+        "target_scores": {
+            "A. Menghirup oksigen dengan masker konsentrasi tinggi": 0,
+            "B. Penggunaan stimulan pernapasan": 0,
+            "C. Ventilasi tekanan ekspirasi akhir yang positif": 1,
+            "D. Ventilasi tekanan negatif akhir ekspirasi": 0
+        }
+    },
+    {
+        "input": "Wanita, 47 tahun, tertabrak mobil di bagian kepala, dapat membuka matanya saat dipanggil, menjawab pertanyaan dengan salah, menghindari rangsangan nyeri saat pemeriksaan, menurut Skor Koma Glasgow sebesar ?\nA. 11 poin\nB. 12 poin\nC. 15 poin\nD. 8 poin",
+        "target_scores": {
+            "A. 11 poin": 1,
+            "B. 12 poin": 0,
+            "C. 15 poin": 0,
+            "D. 8 poin": 0
+        }
+    },
+    {
+        "input": "Pasien, perempuan, 32 tahun, tertabrak mobil dan mengalami cedera pada perut bagian kiri atas, datang dengan nyeri perut, pucat, berkeringat dingin, nadi cepat, dan tekanan darah menurun, apa pertimbangan pertama?\nA. Pecahnya hati\nB. Pecahnya limpa\nC. Perforasi lambung\nD. Perforasi usus",
+        "target_scores": {
+            "A. Pecahnya hati": 0,
+            "B. Pecahnya limpa": 1,
+            "C. Perforasi lambung": 0,
+            "D. Perforasi usus": 0
+        }
+    },
+    {
+        "input": "Apa yang harus dipertimbangkan pada pasien setelah lobektomi hepatik yang mengalami kantuk berlebihan, mudah gelisah, dan ikterus?\nA. Abses subdiafragma\nB. Ensefalopati hati\nC. Perdarahan internal\nD. Peritonitis biliaris",
+        "target_scores": {
+            "A. Abses subdiafragma": 0,
+            "B. Ensefalopati hati": 1,
+            "C. Perdarahan internal": 0,
+            "D. Peritonitis biliaris": 0
+        }
+    },
+    {
+        "input": "Pasien laki-laki, 62 tahun, angina pektoris selama dua tahun, nyeri hebat di bagian tengah sternum muncul 4 jam yang lalu, yang tidak dapat diredakan dengan nitrogliserin sublingual, pemeriksaan fisik: denyut jantung meningkat, irama gallop diastolik dapat didengar di bagian apikal jantung, dan peninggian segmen ST pada elektrokardiogram, apakah hasil pemeriksaan yang mungkin muncul pada pasien tersebut?\nA. Gula darah turun\nB. Peningkatan enzim jantung serum\nC. Penurunan protein C-reaktif\nD. Sel putih berkurang",
+        "target_scores": {
+            "A. Gula darah turun": 0,
+            "B. Peningkatan enzim jantung serum": 1,
+            "C. Penurunan protein C-reaktif": 0,
+            "D. Sel putih berkurang": 0
+        }
+    },
+    {
+        "input": "Laki-laki, 48 tahun, 23 hari setelah operasi untuk “pankreatitis nekrotikans hemoragik akut”, telah dirawat dengan TPN dengan kateter vena dalam selama 20 hari. Hari ini dia tiba-tiba menggigil, demam tinggi, suhu tubuh 39,8°C, sakit kepala, pusing, dan muka memerah. Pasien sangat mudah tersinggung, P132 denyut/menit, R36 napas/menit. Pemeriksaan darah rutin: jumlah leukosit $25×10^9/L$, inti neutrofil bergeser ke kiri. Pada titik ini, pasien harus pertama kali dianggap sebagai?\nA. Infeksi kateter vena menyebabkan sepsis\nB. Sepsis karena infeksi enterogenik\nC. Sepsis karena infeksi insisi\nD. Toksemia akibat penyerapan toksin dari jaringan nekrotik",
+        "target_scores": {
+            "A. Infeksi kateter vena menyebabkan sepsis": 1,
+            "B. Sepsis karena infeksi enterogenik": 0,
+            "C. Sepsis karena infeksi insisi": 0,
+            "D. Toksemia akibat penyerapan toksin dari jaringan nekrotik": 0
+        }
+    },
+    {
+        "input": "Pasien, laki-laki, 40 tahun, dengan demam, batuk, dan nyeri dada disertai kebingungan selama setengah hari. Pemeriksaan fisik menunjukkan bahwa pasien pucat, tekanan darah 70/40 mmHg, dan denyut nadi 120 kali/menit. Pemeriksaan laboratorium: jumlah sel darah putih $16×10^9/L$, dan klasifikasi neutrofil 85%. Rontgen dada: terdapat bayangan homogen yang besar pada paru kanan atas, dan diagnosis pasien pertama kali harus dipertimbangkan sebagai?\nA. Bronkiektasis dengan infeksi\nB. Pneumonia Mycoplasma\nC. Pneumonia berat dengan syok septik\nD. Radang selaput dada tuberkulosis",
+        "target_scores": {
+            "A. Bronkiektasis dengan infeksi": 0,
+            "B. Pneumonia Mycoplasma": 0,
+            "C. Pneumonia berat dengan syok septik": 1,
+            "D. Radang selaput dada tuberkulosis": 0
+        }
+    },
+    {
+        "input": "Tes untuk menentukan reaktivitas saluran pernapasan dengan menghirup histamin atau asetilkolin adalah?\nA. Pengukuran Aliran Ekspirasi Maksimum\nB. Pengukuran fungsi ventilasi\nC. Tes bronkodilator\nD. Tes provokasi bronkial",
+        "target_scores": {
+            "A. Pengukuran Aliran Ekspirasi Maksimum": 0,
+            "B. Pengukuran fungsi ventilasi": 0,
+            "C. Tes bronkodilator": 0,
+            "D. Tes provokasi bronkial": 1
+        }
+    },
+    {
+        "input": "Ketika seorang pasien bedah datang dengan nyeri spasmodik, refleks tendon melemah, kebingungan, dan koma, pertimbangan pertama yang harus dilakukan adalah?\nA. Hipernatremia\nB. Hipokalemia\nC. Hiponatremia\nD. Kecelakaan serebrovaskular yang rumit",
+        "target_scores": {
+            "A. Hipernatremia": 0,
+            "B. Hipokalemia": 0,
+            "C. Hiponatremia": 1,
+            "D. Kecelakaan serebrovaskular yang rumit": 0
+        }
+    },
+    {
+        "input": "Pasien, laki-laki, usia 37 tahun. Memiliki riwayat tukak lambung. Nyeri epigastrium yang parah dengan mual dan muntah terjadi setelah makan siang. Otot perut terasa tegang, keringat dingin, dan syok. Apa komplikasi pertama yang harus dipertimbangkan?\nA. Infeksi\nB. Kanker\nC. Pendarahan Masif\nD. Perforasi akut",
+        "target_scores": {
+            "A. Infeksi": 0,
+            "B. Kanker": 0,
+            "C. Pendarahan Masif": 0,
+            "D. Perforasi akut": 1
+        }
+    },
+    {
+        "input": "Pasien adalah seorang laki-laki, berusia 12 tahun. Dia datang dengan tenggorokan kering, sakit tenggorokan, hidung tersumbat, pilek, batuk kering, sakit kepala, dan menggigil ringan setelah terkena dingin dua hari yang lalu. Pemeriksaan fisik: T37,1°C, faring merah, tidak ada pembesaran amandel, suara napas vesikuler, tidak terdengar ronki kering atau basah. Apa kemungkinan diagnosis pasien?\nA. Bronkitis virus akut\nB. Faringitis virus akut\nC. Laringitis virus akut\nD. Pilek biasa",
+        "target_scores": {
+            "A. Bronkitis virus akut": 0,
+            "B. Faringitis virus akut": 0,
+            "C. Laringitis virus akut": 0,
+            "D. Pilek biasa": 1
+        }
+    },
+    {
+        "input": "Pasien TBC, tiba-tiba mengalami hemoptisis masif, ​​darah keluar dari hidung​​, karena ketakutan, pasien berusaha menahan napas segera tampak mudah gelisah, sulit duduk, sesak napas yang sangat hebat, sianosis wajah, berkeringat, ​​bola mata berputar ke atas​​, tindakan penyelamatan yang harus dilakukan adalah?\nA. Aspirasi dada\nB. Oksigen melalui kanula hidung, injeksi stimulan pernapasan\nC. Pengangkatan gumpalan darah atau trakeotomi\nD. Pernapasan buatan",
+        "target_scores": {
+            "A. Aspirasi dada": 0,
+            "B. Oksigen melalui kanula hidung, injeksi stimulan pernapasan": 0,
+            "C. Pengangkatan gumpalan darah atau trakeotomi": 1,
+            "D. Pernapasan buatan": 0
+        }
+    },
+    {
+        "input": "Pasien, laki-laki, 65 tahun, dirawat di rumah sakit dengan infark serebral, kesadaran kabur selama 2 hari, tubuh lemah, tanda-tanda vital masih stabil, dan anggota badan dingin. Perawat menggunakan kantung air panas untuk menghangatkannya, bagaimana cara yang benar?\nA. Kantong air panas yang dibungkus dengan handuk\nB. Kantung air panas di perut\nC. Menginstruksikan keluarga untuk mengganti air panas di dalam kantong setiap saat\nD. Suhu air 60°C di dalam kantong",
+        "target_scores": {
+            "A. Kantong air panas yang dibungkus dengan handuk": 1,
+            "B. Kantung air panas di perut": 0,
+            "C. Menginstruksikan keluarga untuk mengganti air panas di dalam kantong setiap saat": 0,
+            "D. Suhu air 60°C di dalam kantong": 0
+        }
+    },
+    {
+        "input": "Seorang pasien dirawat dengan diet cairan setelah melepas selang lambung pada hari ke-3 setelah operasi kanker esofagus, pada hari ke-5, suhu tubuhnya mencapai 39℃, dengan kesulitan bernapas, nyeri dada, dan efusi pleura yang terlihat pada foto rontgen dada, apakah komplikasi pertama yang harus dipertimbangkan?\nA. Abses subphrenic\nB. Fistula anastomosis esofagus\nC. Infeksi pada sayatan\nD. Pneumonia aspirasi",
+        "target_scores": {
+            "A. Abses subphrenic": 0,
+            "B. Fistula anastomosis esofagus": 1,
+            "C. Infeksi pada sayatan": 0,
+            "D. Pneumonia aspirasi": 0
+        }
+    },
+    {
+        "input": "Pasien pria, 70 tahun, trombosis serebral menyebabkan hemiplegia, setelah masuk rumah sakit, perawat menemukan bahwa kulit daerah sakrokoksigeal menunjukkan warna merah keunguan, dengan luas $4 cm×3 cm$, yang tidak memudar dengan tekanan dan keras saat palpasi. Pada hari kedua, ditemukan lepuhan dengan diameter sekitar 2 cm pada kulitnya. Apa saja perubahan pada kulit daerah sakrokoksigeal pada pasien ini?\nA. Tahap infiltrasi inflamasi dari luka tekan\nB. Tahap memar dan memerah dari luka tekan\nC. Tahap ulseratif superfisial dari luka tekan\nD. Tahap ulseratif yang dalam dari luka tekan",
+        "target_scores": {
+            "A. Tahap infiltrasi inflamasi dari luka tekan": 1,
+            "B. Tahap memar dan memerah dari luka tekan": 0,
+            "C. Tahap ulseratif superfisial dari luka tekan": 0,
+            "D. Tahap ulseratif yang dalam dari luka tekan": 0
+        }
+    },
+    {
+        "input": "Pasien, laki-laki, 68 tahun, memiliki benjolan yang dapat kembali ke posisi semula di daerah selangkangan kanan selama 7 tahun, dan benjolan tersebut kadang-kadang dapat masuk ke dalam skrotum. Pemeriksaan fisik: terdapat benjolan di daerah selangkangan kanan, dapat kembali ke posisi semula, dengan cincin luar yang dapat menampung dua jari. Setelah menekan cincin dalam, benjolan tidak muncul lagi. Untuk membedakan apakah benjolan tersebut merupakan hernia inguinalis oblique atau hernia inguinalis direct, apa poin pembeda yang paling signifikan?\nA. Apakah isi hernia telah masuk ke dalam skrotum\nB. Jalur hernia\nC. Protrusi ulang isi hernia setelah kompresi cincin dalam\nD. Usia onset",
+        "target_scores": {
+            "A. Apakah isi hernia telah masuk ke dalam skrotum": 0,
+            "B. Jalur hernia": 0,
+            "C. Protrusi ulang isi hernia setelah kompresi cincin dalam": 1,
+            "D. Usia onset": 0
+        }
+    },
+    {
+        "input": "Seorang pasien dirawat di rumah sakit dengan sirosis dan perdarahan saluran cerna bagian atas, perdarahan membaik dengan pengobatan, tetapi ia berangsur-angsur buang air kecil lebih sedikit, yaitu 500 ml per hari, dengan sedikit protein dalam urinalisis, kalium darah 5,0 mmol/L, natrium darah 129 mmol/L, klorida darah 90 mmol/L, dan nitrogen urea darah 24,1 mmol/L. Apa diagnosis yang paling mungkin?\nA. Asidosis\nB. Gangguan elektrolit\nC. Perdarahan gastrointestinal\nD. Sindrom hepatorenal",
+        "target_scores": {
+            "A. Asidosis": 0,
+            "B. Gangguan elektrolit": 0,
+            "C. Perdarahan gastrointestinal": 0,
+            "D. Sindrom hepatorenal": 1
+        }
+    },
+    {
+        "input": "Pasien, laki-laki, 68 tahun. Batuk iritatif selama 3 minggu, tidak membaik dengan pengobatan antibiotik. Rontgen dada menunjukkan bayangan yang tidak diketahui asalnya di paru-paru kanan, manakah dari berikut ini yang harus diselidiki lebih lanjut saat ini?\nA. Analisis gas darah arteri\nB. Bronkoskopi fiberoptik\nC. Tes fungsi paru\nD. Thoracentesis",
+        "target_scores": {
+            "A. Analisis gas darah arteri": 0,
+            "B. Bronkoskopi fiberoptik": 1,
+            "C. Tes fungsi paru": 0,
+            "D. Thoracentesis": 0
+        }
+    },
+    {
+        "input": "Pasien, wanita, 22 tahun, 1 jam setelah menggunakan perban plester pada betis, ia mengalami nyeri hebat pada jari-jari kaki, pucat dan dingin, dan denyut arteri dorsalis pedis melemah, apa yang harus dilakukan pertama kali?\nA. Melonggarkan gips secara tepat\nB. Pemberian obat penghilang rasa sakit\nC. Peninggian tungkai yang terkena\nD. Tetap hangat",
+        "target_scores": {
+            "A. Melonggarkan gips secara tepat": 1,
+            "B. Pemberian obat penghilang rasa sakit": 0,
+            "C. Peninggian tungkai yang terkena": 0,
+            "D. Tetap hangat": 0
+        }
+    },
+    {
+        "input": "Pasien, laki-laki, 31 tahun, cedera kepala akibat kecelakaan mobil, tidak ada riwayat koma, mengeluh sakit kepala, keluar sedikit cairan serosa berdarah dari liang telinga kanan, tanda-tanda vital normal. Perawatan yang benar adalah?\nA. Angkat kepala tempat tidur 15-30 cm\nB. Berbaring di sisi kiri\nC. Menyumbat saluran telinga luar dengan bola kapas steril\nD. Siram saluran telinga secara teratur",
+        "target_scores": {
+            "A. Angkat kepala tempat tidur 15-30 cm": 1,
+            "B. Berbaring di sisi kiri": 0,
+            "C. Menyumbat saluran telinga luar dengan bola kapas steril": 0,
+            "D. Siram saluran telinga secara teratur": 0
+        }
+    },
+    {
+        "input": "Anak, laki-laki berusia 2 tahun. Dia dirawat di rumah sakit karena demam skarlet. Anak tersebut berada dalam tahap pengelupasan kulit, dengan pengelupasan seperti dedak pada batang tubuh dan serpihan besar di tangan dan kaki. Apakah instruksi perawatan kulit yang salah untuk tahap ini?\nA. Cuci kulit dengan air hangat untuk menghindari infeksi\nB. Jika kulit yang mengelupas berukuran besar, dapat dikupas dengan lembut dengan tangan\nC. Mengamati perkembangan pengelupasan\nD. Mengganti pakaian dan menjemur pakaian dan selimut secara teratur",
+        "target_scores": {
+            "A. Cuci kulit dengan air hangat untuk menghindari infeksi": 0,
+            "B. Jika kulit yang mengelupas berukuran besar, dapat dikupas dengan lembut dengan tangan": 1,
+            "C. Mengamati perkembangan pengelupasan": 0,
+            "D. Mengganti pakaian dan menjemur pakaian dan selimut secara teratur": 0
+        }
+    },
+    {
+        "input": "Ketika menambah volume darah pada pneumonia yang dikombinasikan dengan syok septik, tekanan vena sentral tidak lebih dari () cmH2O dan output urin () ml/jam atau lebih adalah tepat.\nA. 10, 20\nB. 10, 30\nC. 5, 20\nD. 5, 30",
+        "target_scores": {
+            "A. 10, 20": 0,
+            "B. 10, 30": 1,
+            "C. 5, 20": 0,
+            "D. 5, 30": 0
+        }
+    },
+    {
+        "input": "Pekerja konstruksi, 42 tahun, lengan kanan atas terluka karena tertimpa batu bata selama 1 jam. Pemeriksaan fisik: lengan kanan atas bengkak, pergerakan abnormal, pergelangan tangan dan sendi metakarpofalangeal tidak dapat digerakkan secara dorsofleksi, ibu jari tidak dapat digerakkan secara dorsofleksi. Kemungkinan cedera?\nA. Arteri brakialis\nB. Saraf median\nC. Saraf radial\nD. Saraf ulnaris",
+        "target_scores": {
+            "A. Arteri brakialis": 0,
+            "B. Saraf median": 0,
+            "C. Saraf radial": 1,
+            "D. Saraf ulnaris": 0
+        }
+    },
+    {
+        "input": "Pasien adalah seorang wanita berusia 32 tahun yang sering mengalami nyeri perut bagian kiri atas selama 3 tahun terakhir, sering setelah makan, dan telah muntah darah sebanyak 3 kali. Pemeriksaan barium gastrointestinal tidak menunjukkan adanya kelainan yang signifikan, dan pemeriksaan fisik hanya menunjukkan adanya nyeri tekan. Apa diagnosis yang paling mungkin untuk pasien ini?\nA. Gastritis kronis\nB. Kanker lambung\nC. Obstruksi usus\nD. Tukak lambung",
+        "target_scores": {
+            "A. Gastritis kronis": 0,
+            "B. Kanker lambung": 0,
+            "C. Obstruksi usus": 0,
+            "D. Tukak lambung": 1
+        }
+    },
+    {
+        "input": "Pada pasien dengan hipertensi esensial, kenaikan tekanan darah secara tiba-tiba hingga 230/130 mmHg dengan sakit kepala parah, mual, muntah, kejang, dan kantuk. Diagnosis apa yang harus dipertimbangkan terlebih dahulu?\nA. Emboli otak\nB. Ensefalopati hipertensi\nC. Krisis hipertensi\nD. Serangan iskemik sementara",
+        "target_scores": {
+            "A. Emboli otak": 0,
+            "B. Ensefalopati hipertensi": 1,
+            "C. Krisis hipertensi": 0,
+            "D. Serangan iskemik sementara": 0
+        }
+    },
+    {
+        "input": "Seorang wanita berusia 18 tahun dirawat di rumah sakit dengan demam, batuk, dan diagnosis pneumonia, dengan suhu 39,5°C, kulit memerah, terasa panas saat disentuh, serta peningkatan laju pernapasan dan denyut jantung. Salah satu diagnosis keperawatan pasien: “Hipertermia: berhubungan dengan infeksi bakteri patogen”, apa dasar diagnostik utamanya?\nA. Kemerahan pada kulit\nB. Pernapasan cepat\nC. Suhu tubuh 39,5°C\nD. Terasa panas saat bersentuhan dengan kulit",
+        "target_scores": {
+            "A. Kemerahan pada kulit": 0,
+            "B. Pernapasan cepat": 0,
+            "C. Suhu tubuh 39,5°C": 1,
+            "D. Terasa panas saat bersentuhan dengan kulit": 0
+        }
+    },
+    {
+        "input": "Pasien, perempuan, 60 tahun, stroke dengan kelumpuhan ekstremitas bawah kiri. Perawat sedang mengembangkan tindakan keperawatan untuk mencegah terjadinya ulkus tekanan, pendekatan keperawatan yang terbaik adalah?\nA. Gunakan bantalan udara di tempat tonjolan tulang\nB. Membalikkan dan memijat pasien setiap 2 jam\nC. Memperbaiki nutrisi sistemik\nD. Pertahankan pasien dalam posisi lateral kanan",
+        "target_scores": {
+            "A. Gunakan bantalan udara di tempat tonjolan tulang": 0,
+            "B. Membalikkan dan memijat pasien setiap 2 jam": 1,
+            "C. Memperbaiki nutrisi sistemik": 0,
+            "D. Pertahankan pasien dalam posisi lateral kanan": 0
+        }
+    },
+    {
+        "input": "Seorang pasien dengan sirosis hati diobati dengan terapi diuretik, asites mereda, tetapi sering tidur nyenyak, dapat dibangunkan, menjawab pertanyaan dengan benar pada saat terbangun, dan kembali tidur dengan cepat setelah stimulus dihilangkan, yang harus dinilai sebagai?\nA. Delirium\nB. Koma dangkal\nC. Mengantuk\nD. Stupor",
+        "target_scores": {
+            "A. Delirium": 0,
+            "B. Koma dangkal": 0,
+            "C. Mengantuk": 1,
+            "D. Stupor": 0
+        }
+    },
+    {
+        "input": "Pasien, perempuan, 35 tahun, pasien leukemia. Sakit kepala mendadak, muntah, penglihatan kabur dan kebingungan setelah beraktivitas. Tindakan keperawatan yang tidak tepat?\nA. Istirahat total di tempat tidur\nB. Jaga agar kepala tetap sedikit menunduk untuk memastikan oksigenasi otak\nC. Letakkan tutup es di kepala\nD. Terapi oksigen",
+        "target_scores": {
+            "A. Istirahat total di tempat tidur": 0,
+            "B. Jaga agar kepala tetap sedikit menunduk untuk memastikan oksigenasi otak": 1,
+            "C. Letakkan tutup es di kepala": 0,
+            "D. Terapi oksigen": 0
+        }
+    },
+    {
+        "input": "Pasien, laki-laki, 28 tahun, datang dengan demam tinggi dan diare setelah makan di warung dan didiagnosis dengan disentri basiler. Dari tindakan keperawatan yang dilakukan untuk pasien ini, tindakan keperawatan yang tidak tepat adalah?\nA. Berikan diet tinggi protein\nB. Diet cairan atau semi-cairan yang sesuai\nC. Isolasi saluran cerna\nD. Simpan spesimen tinja untuk pemeriksaan",
+        "target_scores": {
+            "A. Berikan diet tinggi protein": 1,
+            "B. Diet cairan atau semi-cairan yang sesuai": 0,
+            "C. Isolasi saluran cerna": 0,
+            "D. Simpan spesimen tinja untuk pemeriksaan": 0
+        }
+    },
+    {
+        "input": "Seorang pasien dengan kanker stadium lanjut dirawat di rumah sakit dengan luka berukuran $2 cm×2 cm$ di pantat dengan eksudat kuning di dermis, stadium luka tekan manakah yang dialami pasien ini?\nA. Tahap infiltrasi inflamasi\nB. Tahap memar dan memerah\nC. Tahap ulkus dalam\nD. Tahap ulkus superfisial",
+        "target_scores": {
+            "A. Tahap infiltrasi inflamasi": 0,
+            "B. Tahap memar dan memerah": 0,
+            "C. Tahap ulkus dalam": 0,
+            "D. Tahap ulkus superfisial": 1
+        }
+    },
+    {
+        "input": "Pasien anak laki-laki, 10 bulan. Tiga hari yang lalu, tiba-tiba kedua matanya terbalik ke atas, otot wajah dan anggota tubuhnya kejang-kejang, sehingga dibawa ke ruang gawat darurat dan didiagnosis menderita kejang tangan dan kaki akibat kekurangan vitamin D. Saat pasien ini keluar dari rumah sakit, apa yang menjadi poin terpenting dalam bimbingan kesehatan yang diberikan perawat kepada orang tua?\nA. Anjurkan latihan berdiri\nB. Instruksi dalam menyusui\nC. Metode penanganan kejang dan spasme laring\nD. Tambahkan makanan yang mengandung vitamin D",
+        "target_scores": {
+            "A. Anjurkan latihan berdiri": 0,
+            "B. Instruksi dalam menyusui": 0,
+            "C. Metode penanganan kejang dan spasme laring": 1,
+            "D. Tambahkan makanan yang mengandung vitamin D": 0
+        }
+    },
+    {
+        "input": "Pasien, laki-laki, 56 tahun, dirawat di rumah sakit karena perdarahan saluran cerna, tekanan darah 60/30 mmHg, denyut jantung 140 kali/menit, hemoglobin 35 g/L, setelah dilakukan perawatan infus, tekanan darah pulih menjadi 100/70 mmHg, denyut jantung 100 kali/menit, namun pasien oliguria selama 3 hari, kalium darah diperiksa: 6,4 mmol/L, BUN: 28,5 mmol/L. Manakah dari prinsip manajemen berikut ini yang benar?\nA. Hemodialisis darurat\nB. Lanjutkan transfusi darah\nC. Tingkatkan volume cairan\nD. ​​Cedilanid​​ 0,4 mg injeksi IV lambat",
+        "target_scores": {
+            "A. Hemodialisis darurat": 1,
+            "B. Lanjutkan transfusi darah": 0,
+            "C. Tingkatkan volume cairan": 0,
+            "D. ​​Cedilanid​​ 0,4 mg injeksi IV lambat": 0
+        }
+    },
+    {
+        "input": "Pasien, perempuan, 47 tahun. Setelah 3 bulan menjalani pengobatan antibiotik untuk abses paru, ia masih batuk berdahak bernanah, dan hasil rontgen menunjukkan rongga abses berdiameter 6 cm. Pengobatan apa yang pertama-tama harus dipertimbangkan untuk langkah selanjutnya?\nA. Antibiotik tetes intratracheal\nB. Meningkatkan drainase postural\nC. Pembedahan\nD. Tingkatkan dosis antibiotik",
+        "target_scores": {
+            "A. Antibiotik tetes intratracheal": 0,
+            "B. Meningkatkan drainase postural": 0,
+            "C. Pembedahan": 1,
+            "D. Tingkatkan dosis antibiotik": 0
+        }
+    },
+    {
+        "input": "Pasien adalah seorang pria dengan gagal jantung kiri kronis yang datang dengan penurunan nafsu makan, penglihatan kabur, dan apatis setelah istirahat, pembatasan garam, diuresis, vasodilatasi, dan penggunaan sediaan digitalis. Apa yang paling mungkin menjadi penyebab gejala-gejala ini?\nA. Dispepsia\nB. Gangguan elektrolit\nC. Hipoksia serebral kronis\nD. Toksisitas digitalis",
+        "target_scores": {
+            "A. Dispepsia": 0,
+            "B. Gangguan elektrolit": 0,
+            "C. Hipoksia serebral kronis": 0,
+            "D. Toksisitas digitalis": 1
+        }
+    },
+    {
+        "input": "Seorang pasien dengan “gagal jantung” dirawat di rumah sakit dengan sesak napas, sianosis, ketidakmampuan untuk berbaring, edema tungkai bawah bilateral, dan nafsu makan yang buruk. Ada riwayat sembelit. Apa masalah prioritas pertamanya?\nA. Gangguan nutrisi di bawah kebutuhan tubuh\nB. Gangguan pertukaran gas\nC. Risiko kerusakan integritas kulit\nD. Sembelit",
+        "target_scores": {
+            "A. Gangguan nutrisi di bawah kebutuhan tubuh": 0,
+            "B. Gangguan pertukaran gas": 1,
+            "C. Risiko kerusakan integritas kulit": 0,
+            "D. Sembelit": 0
+        }
+    },
+    {
+        "input": "Pasien, laki-laki, usia 52 tahun, datang dengan hernia oblik sisi kanan yang telah terperangkap selama 5 jam. Pasien mengeluhkan nyeri perut yang persisten disertai muntah. Pemeriksaan fisik menunjukkan nyeri tekan di seluruh perut, kekakuan otot, massa hernia yang kemerahan dan bengkak dengan nyeri tekan yang nyata, serta ketidakmampuan untuk mengembalikan hernia ke posisi semula. Apa jenis patologisnya?\nA. Hernia geser\nB. Hernia ireponibilis\nC. Hernia reponibilis\nD. Hernia yang tercekik",
+        "target_scores": {
+            "A. Hernia geser": 0,
+            "B. Hernia ireponibilis": 0,
+            "C. Hernia reponibilis": 0,
+            "D. Hernia yang tercekik": 1
+        }
+    },
+    {
+        "input": "Seorang pasien laki-laki, usia 20 tahun, didiagnosis menderita ensefalitis Jepang yang menyebabkan gagal napas sentral. Diperlukan penanganan intravena segera. Apa terapi yang diindikasikan?\nA. 20% manitol\nB. Larutan garam fisiologis\nC. Natrium bikarbonat\nD. Norepinefrin",
+        "target_scores": {
+            "A. 20% manitol": 1,
+            "B. Larutan garam fisiologis": 0,
+            "C. Natrium bikarbonat": 0,
+            "D. Norepinefrin": 0
+        }
+    },
+    {
+        "input": "Pasien, perempuan, 45 tahun. Dia menderita artritis reumatoid selama 12 tahun dan mengalami kekambuhan nyeri dan pembengkakan di kedua pergelangan tangan 3 hari yang lalu. Tes berikut ini merupakan indikasi dari aktivitas penyakit?\nA. Laju endap darah rendah\nB. Osteoporosis pada ujung sendi pada rontgen sendi\nC. Peningkatan cairan sinovial dalam rongga sendi\nD. Peningkatan protein C-reaktif",
+        "target_scores": {
+            "A. Laju endap darah rendah": 0,
+            "B. Osteoporosis pada ujung sendi pada rontgen sendi": 0,
+            "C. Peningkatan cairan sinovial dalam rongga sendi": 0,
+            "D. Peningkatan protein C-reaktif": 1
+        }
+    },
+    {
+        "input": "Seorang pasien dengan apendisitis akut perforasi dan peritonitis, pada hari ketiga setelah operasi, mengalami peningkatan suhu 39°C dengan peningkatan frekuensi buang air besar, urgensi, dan tinja berlendir, tidak ada nyeri luka, dan tidak ada batuk, manakah kemungkinan diagnosis yang paling mungkin?\nA. Abses panggul\nB. Disentri basiler\nC. Infeksi pada sayatan\nD. Radang usus",
+        "target_scores": {
+            "A. Abses panggul": 1,
+            "B. Disentri basiler": 0,
+            "C. Infeksi pada sayatan": 0,
+            "D. Radang usus": 0
+        }
+    },
+    {
+        "input": "Hipertensi portal dengan perdarahan saluran cerna bagian atas yang dikombinasikan dengan koma hepatik, manakah yang paling sesuai untuk menghilangkan akumulasi darah usus dan mengurangi pembentukan amonia?\nA. Enema cairan alkali yang lemah\nB. Enema cairan asam yang lemah\nC. Enema garam fisiologis\nD. Enema sabun dan air",
+        "target_scores": {
+            "A. Enema cairan alkali yang lemah": 0,
+            "B. Enema cairan asam yang lemah": 1,
+            "C. Enema garam fisiologis": 0,
+            "D. Enema sabun dan air": 0
+        }
+    },
+    {
+        "input": "Seorang pasien, laki-laki, 40 tahun, seorang penambang diselamatkan setelah terjebak selama enam jam akibat longsoran tanah saat bekerja di dalam terowongan, dengan pembengkakan yang nyata pada paha dan bokong, kalium serum 5,5 mmol/L, dan diagnosis cedera himpitan. Untuk mengamati adanya komplikasi ginjal, manakah yang paling relevan?\nA. Pendarahan, infeksi\nB. Tekanan darah, denyut nadi\nC. Tekanan vena sentral\nD. Volume urin, natrium urin",
+        "target_scores": {
+            "A. Pendarahan, infeksi": 0,
+            "B. Tekanan darah, denyut nadi": 0,
+            "C. Tekanan vena sentral": 0,
+            "D. Volume urin, natrium urin": 1
+        }
+    },
+    {
+        "input": "Pasien, perempuan, 38 tahun, mengalami episode nyeri perut bagian bawah yang terputus-putus dengan diare selama 3 tahun, dengan 4-5 kali buang air besar/hari, tinja bernanah dan darah, dengan rasa sakit yang hilang setelah buang air besar. Kolonoskopi telah dilakukan untuk melihat adanya kemerahan mukosa, erosi dan ulkus kecil yang dangkal. Apa diagnosis yang paling mungkin untuk pasien ini?\nA. Disbiosis flora usus\nB. Disentri bakteri\nC. Kolitis ulserativa\nD. Sindrom iritasi usus besar",
+        "target_scores": {
+            "A. Disbiosis flora usus": 0,
+            "B. Disentri bakteri": 0,
+            "C. Kolitis ulserativa": 1,
+            "D. Sindrom iritasi usus besar": 0
+        }
+    },
+    {
+        "input": "Dinda, 30 tahun, 2 minggu setelah gastrektomi mayor Billroth II, pasien mengalami rasa penuh pada epigastrium, mual, muntah, diare dan pusing 10-20 menit setelah makan, komplikasi yang mungkin terjadi adalah?\nA. Dumping Syndrome\nB. Fistula tunggul duodenum\nC. Obstruksi anastomosis\nD. Obstruksi loop keluaran",
+        "target_scores": {
+            "A. Dumping Syndrome": 1,
+            "B. Fistula tunggul duodenum": 0,
+            "C. Obstruksi anastomosis": 0,
+            "D. Obstruksi loop keluaran": 0
+        }
+    },
+    {
+        "input": "Pasien adalah seorang pria, berusia 48 tahun. Pasien datang dengan keluhan batuk, hemoptisis, dan nyeri dada sebelah kanan selama 3 minggu dan secara klinis dan pencitraan didiagnosis dengan kanker paru tipe sentral pada lobus kanan bawah. Hal terpenting yang harus diidentifikasi dan dievaluasi lebih lanjut pada pasien ini adalah?\nA. Jumlah sel darah\nB. Kualitas hidup\nC. Status kekebalan tubuh\nD. Tipe dan stadium histologis",
+        "target_scores": {
+            "A. Jumlah sel darah": 0,
+            "B. Kualitas hidup": 0,
+            "C. Status kekebalan tubuh": 0,
+            "D. Tipe dan stadium histologis": 1
+        }
+    },
+    {
+        "input": "Seorang pasien, perempuan, 35 tahun, dengan konstipasi kronis, nyeri hebat selama dan setelah buang air besar selama dua bulan terakhir, dan sedikit perdarahan pada permukaan feses, kemungkinan diagnosis yang paling tepat adalah?\nA. Abses perianal\nB. Fisura anus\nC. Wasir eksternal yang mengalami trombosis\nD. Wasir internal",
+        "target_scores": {
+            "A. Abses perianal": 0,
+            "B. Fisura anus": 1,
+            "C. Wasir eksternal yang mengalami trombosis": 0,
+            "D. Wasir internal": 0
+        }
+    },
+    {
+        "input": "Tania, 40 tahun. Dia telah menderita uremia selama 2 tahun dan mengalami mual dan muntah setelah bangun tidur di pagi hari selama 3 hari berturut-turut. Apa intervensi keperawatan gejala yang tepat?\nA. Jangan makan atau minum sebelum tidur\nB. Makan camilan kecil sebelum tidur\nC. Mengonsumsi obat antiemetik terlebih dahulu setelah bangun tidur\nD. Minum air 1 atau 2 kali pada malam hari sebelum tidur",
+        "target_scores": {
+            "A. Jangan makan atau minum sebelum tidur": 0,
+            "B. Makan camilan kecil sebelum tidur": 1,
+            "C. Mengonsumsi obat antiemetik terlebih dahulu setelah bangun tidur": 0,
+            "D. Minum air 1 atau 2 kali pada malam hari sebelum tidur": 0
+        }
+    },
+    {
+        "input": "Pasien adalah seorang wanita, berusia 50 tahun. Pembengkakan dan nyeri berulang pada sendi kecil kedua tangan selama 1 tahun terakhir, dengan kekakuan di pagi hari saat bangun tidur sekitar 1 jam. Pemeriksaan fisik: nodul subkutan terlihat pada sendi interphalangeal proksimal dan sendi interphalangeal distal kedua tangan pada sisi ekstensor, dengan nyeri tekan ringan dan tidak ada kemerahan atau bengkak. Foto rontgen kedua tangan: penyempitan ruang sendi interphalangeal proksimal dan distal pada jari II, III, dan IV. RF positif, LED dan CRP yang sedikit meningkat. Apa diagnosis yang paling mungkin untuk pasien ini?\nA. Ankylosing spondylitis\nB. Artritis reumatoid\nC. Lupus eritematosus sistemik\nD. Osteoartritis",
+        "target_scores": {
+            "A. Ankylosing spondylitis": 0,
+            "B. Artritis reumatoid": 1,
+            "C. Lupus eritematosus sistemik": 0,
+            "D. Osteoartritis": 0
+        }
+    },
+    {
+        "input": "Pasien, laki-laki, 50 tahun, perokok dan peminum alkohol dengan riwayat kolelitiasis, semalam setelah minum dan makan berlebihan, ia mengalami nyeri di perut kiri atas, kemungkinan besar penyakit apa yang dideritanya?\nA. Kantung empedu berlubang\nB. Obstruksi saluran empedu\nC. Pankreatitis akut\nD. Sirosis",
+        "target_scores": {
+            "A. Kantung empedu berlubang": 0,
+            "B. Obstruksi saluran empedu": 0,
+            "C. Pankreatitis akut": 1,
+            "D. Sirosis": 0
+        }
+    },
+    {
+        "input": "Pasien, wanita, 50 tahun, menderita kolelitiasis selama bertahun-tahun, 3 hari yang lalu masuk rumah sakit karena sakit perut, menggigil, demam tinggi dan serangan ikterus, setelah pengobatan infus antibiotik tidak efektif, hari ini dalam asuhan keperawatan, ditemukan pasien bingung, tekanan darah 85/60 mmHg. Apa diagnosis yang mungkin?\nA. Cacing gelang empedu dengan infeksi\nB. Choledocholithiasis\nC. Kolangitis purulen obstruktif akut\nD. Kolesistitis gangren akut",
+        "target_scores": {
+            "A. Cacing gelang empedu dengan infeksi": 0,
+            "B. Choledocholithiasis": 0,
+            "C. Kolangitis purulen obstruktif akut": 1,
+            "D. Kolesistitis gangren akut": 0
+        }
+    },
+    {
+        "input": "Pasien, laki-laki, 20 tahun, sering pilek, jantung berdebar-debar, tidak bisa berbaring, dan edema pada tungkai bawah. Pemeriksaan fisik: vena jugularis sedikit membesar, kardiomegali ringan, bunyi jantung pertama apikal berkurang, bunyi jantung S2 patologis dan murmur. Apa diagnosis yang paling mungkin?\nA. Demam rematik akut\nB. Efusi perikardial tuberkulosis\nC. Gagal jantung koroner\nD. Miokarditis virus",
+        "target_scores": {
+            "A. Demam rematik akut": 0,
+            "B. Efusi perikardial tuberkulosis": 0,
+            "C. Gagal jantung koroner": 0,
+            "D. Miokarditis virus": 1
+        }
+    },
+    {
+        "input": "Pasien, laki-laki, 65 tahun, dengan riwayat hipertensi selama bertahun-tahun, 3 jam yang lalu mengalami gejolak emosi tiba-tiba sakit kepala parah, disertai muntah proyektil, diikuti dengan kehilangan kesadaran dan menjalani observasi di Unit Gawat Darurat (UGD), manakah dari penatalaksanaan berikut ini yang tidak tepat?\nA. Berbaring dengan kepala miring ke satu sisi\nB. Mengubah posisi pasien secara dini dan teratur\nC. Pembuangan muntahan dengan segera\nD. Pengamatan yang cermat terhadap perubahan pupil",
+        "target_scores": {
+            "A. Berbaring dengan kepala miring ke satu sisi": 0,
+            "B. Mengubah posisi pasien secara dini dan teratur": 1,
+            "C. Pembuangan muntahan dengan segera": 0,
+            "D. Pengamatan yang cermat terhadap perubahan pupil": 0
+        }
+    },
+    {
+        "input": "Pasien, laki-laki, 59 tahun, batuk dan berdahak selama 20 tahun, memburuk selama 10 hari, letargi selama 1 hari, sianosis yang jelas, pernapasan 10 kali/menit, dangkal, kedua paru-paru terdengar ronki kering dan basah, denyut jantung 110 kali/menit, TD120/80 mmHg, analisis gas darah: PaO2 32 mmHg, PaCO2 80 mmHg, pH 7,293, tindakan penyelamatan yang paling penting adalah?\nA. Infus Coramine\nB. Infus dopamin IV\nC. Infus natrium bikarbonat 5%\nD. Pernapasan dengan bantuan ventilator",
+        "target_scores": {
+            "A. Infus Coramine": 0,
+            "B. Infus dopamin IV": 0,
+            "C. Infus natrium bikarbonat 5%": 0,
+            "D. Pernapasan dengan bantuan ventilator": 1
+        }
+    },
+    {
+        "input": "Seorang pasien dengan obstruksi usus kronis telah memuntahkan cairan gastrointestinal dalam jumlah besar setiap hari selama 10 hari, dan telah diberi infus harian 3000 ml larutan glukosa 10% dan 500 ml larutan glukosa-garam 5%, pasien mengalami kebingungan, ataksia, agitasi, dan koma. Apa yang perlu dipertimbangkan?\nA. Edema paru\nB. Hipokalaemia\nC. Keracunan air\nD. Koma hipertonik non-ketotik",
+        "target_scores": {
+            "A. Edema paru": 0,
+            "B. Hipokalaemia": 0,
+            "C. Keracunan air": 1,
+            "D. Koma hipertonik non-ketotik": 0
+        }
+    },
+    {
+        "input": "Pasien, laki-laki, 42 tahun, setelah kanulasi vena sentral melalui pungsi vena jugularis interna, mengalami sesak dada, nyeri dada, dispnea, dan suara napas ipsilateral yang berkurang, komplikasi pertama yang harus dipertimbangkan adalah?\nA. Cedera duktus thoracicus\nB. Cedera pembuluh darah\nC. Emboli udara\nD. Pneumotoraks",
+        "target_scores": {
+            "A. Cedera duktus thoracicus": 0,
+            "B. Cedera pembuluh darah": 0,
+            "C. Emboli udara": 0,
+            "D. Pneumotoraks": 1
+        }
+    },
+    {
+        "input": "Seorang pria, 66 tahun, menderita hernia inguinalis kanan. 10 jam yang lalu, ia merasakan peningkatan ukuran massa yang signifikan ketika ia mengejan untuk buang air besar, nyeri perut, dan muntah beberapa kali, disertai demam dan rasa tidak enak badan. Pemeriksaan fisik: dapat ditemukan massa inguinalis dan skrotum kanan, tegangan tinggi, nyeri tekan yang jelas, nyeri tekan abdomen, otot perut tegang. Jumlah sel darah putih sangat meningkat. Operasi darurat diusulkan. Jenis hernia pada kasus ini adalah?\nA. Hernia inguinalis direk, hernia inkarserata\nB. Hernia inguinalis direk, hernia strangulata\nC. Hernia inguinalis indirek, hernia inkarserata\nD. Hernia inguinalis indirek, hernia strangulata",
+        "target_scores": {
+            "A. Hernia inguinalis direk, hernia inkarserata": 0,
+            "B. Hernia inguinalis direk, hernia strangulata": 0,
+            "C. Hernia inguinalis indirek, hernia inkarserata": 0,
+            "D. Hernia inguinalis indirek, hernia strangulata": 1
+        }
+    },
+    {
+        "input": "Perempuan, 40 tahun, mengalami ketidaknyamanan di perut bagian atas selama 4 tahun. Dalam 1 bulan terakhir, ia merasakan sensasi kenyang setelah makan, kadang-kadang disertai dengan sendawa. Pemeriksaan serum: antibodi anti-sel parietal negatif. Pemeriksaan endoskopi lambung: mukosa bertekstur granular, jaringan pembuluh darah terlihat jelas. Diagnosis paling mungkin untuk pasien ini adalah?\nA. Gastritis atrofi multifokal\nB. Gastritis autoimun\nC. Gastritis superfisial kronis\nD. Tukak lambung",
+        "target_scores": {
+            "A. Gastritis atrofi multifokal": 1,
+            "B. Gastritis autoimun": 0,
+            "C. Gastritis superfisial kronis": 0,
+            "D. Tukak lambung": 0
+        }
+    },
+    {
+        "input": "Setelah operasi reseksi sebagian hati, jumlah cairan darah pada drainase abdomen lebih dari 100 ml per jam selama tiga jam berturut-turut. Apa yang harus dipertimbangkan?\nA. Hipoalbuminemia\nB. Infeksi intra-abdomen\nC. Perdarahan empedu\nD. Perdarahan intra-abdomen",
+        "target_scores": {
+            "A. Hipoalbuminemia": 0,
+            "B. Infeksi intra-abdomen": 0,
+            "C. Perdarahan empedu": 0,
+            "D. Perdarahan intra-abdomen": 1
+        }
+    },
+    {
+        "input": "Pasien, wanita, operasi usus buntu dengan anestesi lumbal, 4 jam pasca operasi pasien mudah tersinggung, mengeluh perut kembung, tekanan darah terukur, nadi dan pernapasan normal, pemeriksaan fisik: perut bagian bawah kembung, suara keruh pada perkusi, apa pertimbangan pertama?\nA. Dilatasi lambung akut\nB. Obstruksi usus\nC. Peritonitis akut\nD. Retensi urin",
+        "target_scores": {
+            "A. Dilatasi lambung akut": 0,
+            "B. Obstruksi usus": 0,
+            "C. Peritonitis akut": 0,
+            "D. Retensi urin": 1
+        }
+    },
+    {
+        "input": "Pasien laki-laki, syok pasca trauma 25 jam, setelah resusitasi, tekanan darah kembali normal, tetapi belum buang air kecil, kandung kemih tidak penuh, kateterisasi menghasilkan urin 100 ml. Untuk menentukan apakah itu gagal ginjal akut, mana dari tes berikut ini yang layak dilakukan?\nA. Hematologi\nB. Pengukuran natrium urin\nC. Pengukuran tekanan vena sentral\nD. Tes PSP",
+        "target_scores": {
+            "A. Hematologi": 0,
+            "B. Pengukuran natrium urin": 1,
+            "C. Pengukuran tekanan vena sentral": 0,
+            "D. Tes PSP": 0
+        }
+    },
+    {
+        "input": "Pasien Rahmat, laki-laki, 48 tahun, lumpuh, mengalami luka di daerah sakrokoksigeal, berukuran $2 cm×15 cm$, dalam sampai ke lapisan otot, ada sekresi bernanah, dan terdapat jaringan nekrosis berwarna hitam di sekitar luka. Bagaimana cara menangani luka tersebut?\nA. Membilas luka dengan larutan salin fisiologis dan menutupnya dengan selaput telur segar\nB. Memotong jaringan nekrotik dan menyiram dengan hidrogen peroksida dan memasang kasa drainase\nC. Menyinari luka yang terbuka dengan sinar ultraviolet setiap hari\nD. Pijat luka dan kulit di sekitarnya dengan etanol 10%",
+        "target_scores": {
+            "A. Membilas luka dengan larutan salin fisiologis dan menutupnya dengan selaput telur segar": 0,
+            "B. Memotong jaringan nekrotik dan menyiram dengan hidrogen peroksida dan memasang kasa drainase": 1,
+            "C. Menyinari luka yang terbuka dengan sinar ultraviolet setiap hari": 0,
+            "D. Pijat luka dan kulit di sekitarnya dengan etanol 10%": 0
+        }
+    },
+    {
+        "input": "Pasien, laki-laki, 55 tahun, menderita tuberkulosis paru 20 tahun yang lalu, dan dalam 4 bulan terakhir ini mengalami batuk iritatif dengan darah dalam dahak, disertai dengan nyeri dada sebelah kanan dan demam, dan pada foto rontgen menunjukkan bayangan berukuran 4cm x 5cm di paru bagian kanan atas, dengan tepi yang tidak jelas dan terdapat spikula. Diagnosis yang harus dipertimbangkan adalah?\nA. Kanker paru-paru\nB. Kista paru-paru\nC. Tuberkulosis\nD. Tumor paru-paru jinak",
+        "target_scores": {
+            "A. Kanker paru-paru": 1,
+            "B. Kista paru-paru": 0,
+            "C. Tuberkulosis": 0,
+            "D. Tumor paru-paru jinak": 0
+        }
+    },
+    {
+        "input": "Laki-laki, 58 tahun, batuk, dahak disertai mengi selama 3 tahun, pada musim pancaroba selama 3 bulan, 5 hari terakhir setelah pilek, batuk dan mengi diperparah dengan demam, paru-paru terdengar ronki kering dan basah, diagnosis yang paling mungkin adalah?\nA. Bronkitis asmatik kronis (eksaserbasi akut)\nB. Bronkitis asmatik kronis (kronis berkepanjangan)\nC. Bronkitis sederhana kronis (eksaserbasi akut)\nD. Bronkitis sederhana kronis (kronis berkepanjangan)",
+        "target_scores": {
+            "A. Bronkitis asmatik kronis (eksaserbasi akut)": 1,
+            "B. Bronkitis asmatik kronis (kronis berkepanjangan)": 0,
+            "C. Bronkitis sederhana kronis (eksaserbasi akut)": 0,
+            "D. Bronkitis sederhana kronis (kronis berkepanjangan)": 0
+        }
+    },
+    {
+        "input": "Pasien, wanita, 42 tahun, menjalani tiroidektomi unilateral mayor, 12 jam setelah operasi, ditemukan pembesaran leher pada pasien, sesak napas, tindakan segera apa yang harus diambil?\nA. Menghirup oksigen\nB. Menghirup uap\nC. Pengangkatan jahitan dan pengangkatan gumpalan darah\nD. Trakeotomi",
+        "target_scores": {
+            "A. Menghirup oksigen": 0,
+            "B. Menghirup uap": 0,
+            "C. Pengangkatan jahitan dan pengangkatan gumpalan darah": 1,
+            "D. Trakeotomi": 0
+        }
+    },
+    {
+        "input": "Pengobatan akselerator linier pada tumor menyebabkan dermatitis, kondisi ini disebut sebagai?\nA. Cedera akibat bahan kimia\nB. Cedera mekanis\nC. Cedera radiasi\nD. Cedera suhu",
+        "target_scores": {
+            "A. Cedera akibat bahan kimia": 0,
+            "B. Cedera mekanis": 0,
+            "C. Cedera radiasi": 1,
+            "D. Cedera suhu": 0
+        }
+    },
+    {
+        "input": "Seorang ibu hamil pada usia kehamilan 30 minggu dengan posisi janin sungsang (bokong di depan). Posisi berbaring apa yang dapat digunakan untuk memperbaiki posisi janin?\nA. Posisi Trendelenburg\nB. Posisi knee-chest\nC. Posisi litotomi\nD. Posisi terlentang lutut tertekuk",
+        "target_scores": {
+            "A. Posisi Trendelenburg": 0,
+            "B. Posisi knee-chest": 1,
+            "C. Posisi litotomi": 0,
+            "D. Posisi terlentang lutut tertekuk": 0
+        }
+    },
+    {
+        "input": "Pasien yang mengalami keracunan parah harus dalam posisi apa saat menjalani prosedur cuci lambung?\nA. Berbaring di sisi yang sakit\nB. Berbaring pada sisi kanan\nC. Berbaring pada sisi kiri\nD. Posisi semi-telentang",
+        "target_scores": {
+            "A. Berbaring di sisi yang sakit": 0,
+            "B. Berbaring pada sisi kanan": 0,
+            "C. Berbaring pada sisi kiri": 1,
+            "D. Posisi semi-telentang": 0
+        }
+    },
+    {
+        "input": "Perubahan patologis di bagian ileocecal pada penyakit amoebik dapat dilakukan dengan posisi apa saat melakukan enema obat?\nA. Posisi lateral kanan dengan enema retensi\nB. Posisi lateral kanan, enema evakuasi volume besar\nC. Posisi lateral kanan, enema evakuasi volume kecil\nD. Posisi lateral kiri, enema retensi",
+        "target_scores": {
+            "A. Posisi lateral kanan dengan enema retensi": 1,
+            "B. Posisi lateral kanan, enema evakuasi volume besar": 0,
+            "C. Posisi lateral kanan, enema evakuasi volume kecil": 0,
+            "D. Posisi lateral kiri, enema retensi": 0
+        }
+    },
+    {
+        "input": "Apa tujuan utama dari posisi duduk pada pasien dengan gagal jantung kiri?\nA. Melebarkan pembuluh darah koroner dan meningkatkan nutrisi miokard\nB. Memperbesar rongga dada dan meningkatkan kapasitas paru-paru\nC. Mengurangi aliran balik vena dari tungkai bawah dan mengurangi beban jantung\nD. Menurunkan diafragma untuk meringankan kompresi jantung",
+        "target_scores": {
+            "A. Melebarkan pembuluh darah koroner dan meningkatkan nutrisi miokard": 0,
+            "B. Memperbesar rongga dada dan meningkatkan kapasitas paru-paru": 0,
+            "C. Mengurangi aliran balik vena dari tungkai bawah dan mengurangi beban jantung": 1,
+            "D. Menurunkan diafragma untuk meringankan kompresi jantung": 0
+        }
+    },
+    {
+        "input": "Seorang pasien masuk rumah sakit dalam keadaan gawat darurat karena pecah limpa akibat kecelakaan mobil, dengan dada sesak, sesak napas, keringat dingin, nadi cepat dan lemah, dan tekanan darah 68/50 mmHg, perawat harus segera menempatkan pasien dalam posisi apa?\nA. Posisi Trendelenburg tradisional\nB. Posisi Trendelenburg yang dimodifikasi\nC. Posisi berbaring miring\nD. Posisi terlentang",
+        "target_scores": {
+            "A. Posisi Trendelenburg tradisional": 0,
+            "B. Posisi Trendelenburg yang dimodifikasi": 1,
+            "C. Posisi berbaring miring": 0,
+            "D. Posisi terlentang": 0
+        }
+    },
+    {
+        "input": "Seorang pasien yang telah lama berbaring di tempat tidur mengalami sekresi saluran pernapasan yang kental dan sulit untuk batuk keluar dapat memicu yang mana dari berikut ini?\nA. Bronkitis kronis\nB. Pneumonia aspirasi\nC. Pneumonia hipostatik\nD. Pneumotoraks spontan",
+        "target_scores": {
+            "A. Bronkitis kronis": 0,
+            "B. Pneumonia aspirasi": 0,
+            "C. Pneumonia hipostatik": 1,
+            "D. Pneumotoraks spontan": 0
+        }
+    },
+    {
+        "input": "Seorang anak berusia 3 tahun dengan demam tinggi, kejang-kejang, dan diare dirawat di rumah sakit dengan diagnosis “disentri basiler toksik”; apa metode yang paling tepat untuk mengukur suhu tubuh anak tersebut?\nA. Termometer alcohol untuk suhu anus\nB. Termometer alcohol untuk suhu mulut\nC. Termometer elektronik untuk suhu aksila\nD. Termometer inframerah jauh untuk mengukur suhu tubuh",
+        "target_scores": {
+            "A. Termometer alcohol untuk suhu anus": 0,
+            "B. Termometer alcohol untuk suhu mulut": 0,
+            "C. Termometer elektronik untuk suhu aksila": 1,
+            "D. Termometer inframerah jauh untuk mengukur suhu tubuh": 0
+        }
+    },
+    {
+        "input": "Seorang wanita berusia 43 tahun dirawat di rumah sakit dengan diagnosis \"kolesistitis\". Pasien menjalani prosedur cholangiography. Untuk menjaga kerapian bangsal, jenis tempat tidur apa yang harus disiapkan perawat untuk pasien?\nA. Tempat tidur anestesi\nB. Tempat tidur bedah\nC. Tempat tidur cadangan\nD. Tempat tidur terbuka",
+        "target_scores": {
+            "A. Tempat tidur anestesi": 0,
+            "B. Tempat tidur bedah": 0,
+            "C. Tempat tidur cadangan": 0,
+            "D. Tempat tidur terbuka": 1
+        }
+    },
+    {
+        "input": "Seorang pasien mengeluh sesak dada, sesak napas, tidak dapat berbaring, observasi menemukan bahwa waktu ekspirasi pasien lebih lama dari waktu inhalasi, napas terasa sangat sulit, tidak ada tanda-tanda retraksi dinding dada yang jelas, pernapasan seperti apa yang mungkin terjadi?\nA. Asidosis metabolik\nB. Edema laring\nC. Pneumonia lobar\nD. Serangan asma",
+        "target_scores": {
+            "A. Asidosis metabolik": 0,
+            "B. Edema laring": 0,
+            "C. Pneumonia lobar": 0,
+            "D. Serangan asma": 1
+        }
+    },
+    {
+        "input": "Pasien, laki-laki, 18 tahun. Tiba-tiba mengalami sakit perut yang parah yang menjalar ke punggung bawah dan muntah setelah makan lalu berolahraga berat, ia dirawat di rumah sakit sebagai keadaan darurat. Apa kemungkinan komplikasi dari penyakit ini?\nA. Obstruksi usus adhesif\nB. Obstruksi usus kejang\nC. Obstruksi usus sederhana\nD. Obstruksi usus strangulata",
+        "target_scores": {
+            "A. Obstruksi usus adhesif": 0,
+            "B. Obstruksi usus kejang": 0,
+            "C. Obstruksi usus sederhana": 0,
+            "D. Obstruksi usus strangulata": 1
+        }
+    },
+    {
+        "input": "Pasien, laki-laki, 18 tahun. Dia dirawat di rumah sakit sebagai pasien gawat darurat dengan nyeri perut parah yang tiba-tiba menjalar ke punggung bawah dan muntah setelah berolahraga berat setelah makan. Berdasarkan presentasi klinis pasien, apa yang harus dipertimbangkan?\nA. Adhesi usus\nB. Intususepsi\nC. Torsi usus\nD. Tumor Usus",
+        "target_scores": {
+            "A. Adhesi usus": 0,
+            "B. Intususepsi": 0,
+            "C. Torsi usus": 1,
+            "D. Tumor Usus": 0
+        }
+    },
+    {
+        "input": "Pasien, laki-laki, 45 tahun. 1 minggu yang lalu, karena apendisitis akut, perawatan bedah, perdarahan mesenterium apendiks, hemostasis dengan penjahitan menyebabkan gangguan suplai darah ujung ileum, dilakukan reseksi parsial anastomosis ileum, drainase abdomen, drainase intermiten cairan berdarah sekitar 200 ml per hari. Saat ini, pasien mengeluhkan perut kembung. Pada pemeriksaan: distensi abdomen, nyeri tekan perut sisi kanan, tidak ada massa yang teraba, bising usus lemah, tekanan darah 16/11kPa, nadi 120 kali/menit, leukosit $12×10^9/L$, neutrofil 80%. Diagnosis yang paling mungkin untuk pasien ini adalah?\nA. Obstruksi karena adhesi\nB. Obstruksi usus paralitik\nC. Obstruksi usus strangulata\nD. Stenosis anastomosis",
+        "target_scores": {
+            "A. Obstruksi karena adhesi": 0,
+            "B. Obstruksi usus paralitik": 1,
+            "C. Obstruksi usus strangulata": 0,
+            "D. Stenosis anastomosis": 0
+        }
+    },
+    {
+        "input": "Pasien laki-laki, 45 tahun. Satu minggu yang lalu, pasien menjalani operasi untuk apendisitis akut. Selama operasi, terjadi perdarahan pada mesenterium apendiks. Upaya menghentikan perdarahan dengan penjahitan menyebabkan gangguan suplai darah ke ujung ileum, sehingga dilakukan reseksi parsial dan anastomosis ileum, serta pemasangan drainase abdomen. Pascaoperasi, dari drainase keluar cairan hemoragik secara intermiten sekitar 200 ml per hari. Saat ini, pasien mengeluhkan perut kembung. Pada pemeriksaan: distensi abdomen, nyeri tekan perut sisi kanan, tidak ada massa yang teraba, bising usus lemah, tekanan darah sekitar 120/80 mmHg, nadi 120 kali/menit, leukosit $12×10^9/L$, neutrofil 80%. Pemeriksaan yang harus dilakukan untuk memperjelas diagnosis ini adalah?\nA. CT abdomen\nB. Enteroskopi\nC. Rontgen perut\nD. Ultrasonografi perut",
+        "target_scores": {
+            "A. CT abdomen": 0,
+            "B. Enteroskopi": 0,
+            "C. Rontgen perut": 1,
+            "D. Ultrasonografi perut": 0
+        }
+    },
+    {
+        "input": "Anak, laki-laki, 6 tahun. Ia mengalami luka bakar di dada dan perutnya karena air mendidih dengan pembentukan lepuh lokal dan nyeri hebat. Berapakah kedalaman luka bakarnya?\nA. Kedalaman peralihan tingkat II ke III\nB. Tingkat I\nC. Tingkat II dalam\nD. Tingkat II superfisial",
+        "target_scores": {
+            "A. Kedalaman peralihan tingkat II ke III": 0,
+            "B. Tingkat I": 0,
+            "C. Tingkat II dalam": 0,
+            "D. Tingkat II superfisial": 1
+        }
+    },
+    {
+        "input": "Berapa laju infus yang seharusnya diberikan kepada pasien yang menjalani reseksi paru total?\nA. Tidak lebih dari 1000 ml/d, 15-20 tetes/menit\nB. Tidak lebih dari 1500 ml/d, 20-30 tetes/menit\nC. Tidak lebih dari 2000 ml/d, 20-30 tetes/menit\nD. Tidak lebih dari 2500 ml/d, 30-40 tetes/menit",
+        "target_scores": {
+            "A. Tidak lebih dari 1000 ml/d, 15-20 tetes/menit": 0,
+            "B. Tidak lebih dari 1500 ml/d, 20-30 tetes/menit": 0,
+            "C. Tidak lebih dari 2000 ml/d, 20-30 tetes/menit": 1,
+            "D. Tidak lebih dari 2500 ml/d, 30-40 tetes/menit": 0
+        }
+    }
+]

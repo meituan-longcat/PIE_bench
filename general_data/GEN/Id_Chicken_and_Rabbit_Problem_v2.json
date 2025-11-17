@@ -1,0 +1,390 @@
+[
+    {
+        "input": "Sebuah kelas menyelenggarakan kegiatan siswa untuk pergi bermain ke taman. Kelas tersebut memiliki total 50 siswa dan menyelenggarakan kegiatan berperahu. (Berikut adalah petunjuk berperahu: Sebuah perahu besar dapat menampung hingga 6 orang, dan sebuah perahu kecil dapat menampung hingga 4 orang. Biaya sewa sebuah perahu besar adalah Rp 30.000, dan biaya sewa sebuah perahu kecil adalah Rp 25.000.) Mereka menyewa 10 buah perahu, dan setiap perahu terisi penuh. Berapa banyak perahu besar yang mereka sewa?",
+        "target": "5 buah"
+    },
+    {
+        "input": "Sebuah kapal berlayar di antara dermaga A dan B. Kapal tersebut membutuhkan waktu 5 jam untuk berlayar ke hilir dan 7 jam untuk berlayar ke hulu. Diketahui kecepatan aliran air mencapai 5 kilometer per jam. Berapa kilometer jarak antara dermaga A dan B?",
+        "target": "175 kilometer"
+    },
+    {
+        "input": "Pada saat Jono menanyakan umur Bu Wina, Bu Wina menjawab, \"Ketika saya seusia Anda, Anda baru berusia 3 tahun; ketika Anda seusia saya, saya akan berusia 45 tahun.\" Berapa umur Bu Wina tahun ini?",
+        "target": "31 tahun"
+    },
+    {
+        "input": "Seorang pekerja berencana untuk memproduksi sejumlah komponen dalam waktu yang terbatas. Jika ia memproduksi 10 komponen per jam, ia akan menghasilkan 3 komponen lebih dari target; jika ia memproduksi 11 komponen per jam, maka ia akan selesai satu jam lebih cepat dari jadwal. Berapa banyak total komponen yang diproduksi?",
+        "target": "77 buah"
+    },
+    {
+        "input": "Pada sebuah jalur kereta api terdapat Stasiun A dan B dengan jarak 408 kilometer. Sebuah kereta biasa berangkat dari Stasiun A dengan kecepatan 72 kilometer per jam, dan sebuah kereta ekspres berangkat dari Stasiun B dengan kecepatan 96 kilometer per jam. Jika kedua kereta tersebut bergerak menjauhi satu sama lain, berapa jam yang dibutuhkan hingga jarak keduanya mencapai 660 kilometer?",
+        "target": "1,5 jam"
+    },
+    {
+        "input": "Sebuah konter pakaian di Mangga Dua Mall menyadari bahwa rata-rata penjualan pakaian anak-anak merek \"Harta\" adalah 20 potong per hari, dengan keuntungan Rp40 per potong. Dengan pengurangan harga Rp1 untuk setiap pakaian anak-anak, mall tersebut dapat menjual rata-rata 2 potong lebih banyak per hari. Jika mall tersebut ingin mendapat untung Rp1.200 sehari, berapakah jumlah maksimum potongan harga untuk setiap pakaian anak?",
+        "target": "Rp20"
+    },
+    {
+        "input": "Untuk memproses suatu produk, A membutuhkan waktu 20 hari, sedangkan B dapat menyelesaikannya dalam 10 hari. Pada saat ini, kedua orang tersebut diminta untuk menyelesaikannya dalam waktu 12 hari. Berapa hari B perlu bekerja sebelum A dapat melanjutkan pemrosesan agar tugas dapat diselesaikan tepat waktu?",
+        "target": "8 hari"
+    },
+    {
+        "input": "Untuk menyelesaikan sebuah proyek, A membutuhkan waktu 10 hari, dan B membutuhkan waktu 15 hari. Jika A mengerjakan proyek terlebih dahulu selama 5 hari, kemudian A dan B bekerja sama hingga total pekerjaan yang selesai mencapai 2/3 dari keseluruhan proyek, berapa total hari yang dibutuhkan?",
+        "target": "6 hari"
+    },
+    {
+        "input": "Label harga pada setiap potong suatu jenis kemeja adalah Rp100.000. Jika setiap kemeja dijual dengan diskon 20% dari harga label, keuntungan yang didapat adalah sebesar 25%. Berapakah modal setiap potong kemeja?",
+        "target": "Rp64.000"
+    },
+    {
+        "input": "Harga 1 buah gelas dan 1 buah ketel air adalah 45.000 rupiah, dan harga 3 buah gelas dan 2 buah ketel air adalah 99.000 rupiah. Maka, berapa harga 1 buah gelas?",
+        "target": "9.000 rupiah"
+    },
+    {
+        "input": "Selama diskon festival, Budi pergi ke sebuah toko pakaian dan membeli satu set pakaian dengan total pengeluaran Rp400.000. Diketahui bahwa harga baju diskon 20% dan harga celana diskon 30%. Total harga baju dan celana adalah Rp540.000. Berapa harga asli baju tersebut?",
+        "target": "Rp220.000"
+    },
+    {
+        "input": "Wulan dan Budi berangkat dari sekolah ke Museum Sains dan Teknologi untuk mengikuti kegiatan bersamaan, Wulan berjalan kaki dengan kecepatan 6 kilometer per jam, Budi berjalan kaki dengan kecepatan 8 kilometer per jam, setelah berjalan selama 1 jam, Budi teringat bahwa ia lupa membawa materi dan kembali ke sekolah untuk mengambilnya, lalu segera mengejar Wulan melalui jalan yang sama. Berapa jam yang dibutuhkan Budi untuk mengejar Wulan setelah meninggalkan sekolah?",
+        "target": "6 jam"
+    },
+    {
+        "input": "Sebuah toko grosir pakaian menjual kemeja merek tertentu, dan ternyata bisa menghasilkan 30 dolar per kemeja. Di luar musim penjualan, toko tersebut bersiap untuk menurunkan harga jual. Berdasarkan analisa, ditemukan bahwa jika setiap baju dikurangi x dolar, maka toko tersebut dapat menjual (20+x) kemeja setiap hari. Jika toko tersebut menghasilkan 616 dolar sehari, berapa dolar yang dikurangi per kemeja untuk menghabiskan inventaris sesegera mungkin?",
+        "target": "8 dolar"
+    },
+    {
+        "input": "Sebuah perusahaan manufaktur telah menghasilkan beberapa produk baru yang perlu disempurnakan sebelum dapat dipasarkan. Pabrik pengolahan A dan B ingin memproses batch produk ini. Diketahui bahwa pabrik A dan B masing-masing dapat memproses 16 buah dan 24 buah produk per hari, dan diketahui bahwa pabrik A akan membutuhkan waktu 20 hari lebih lama daripada pabrik B. Berapakah jumlah total produk baru tersebut?",
+        "target": "960 buah"
+    },
+    {
+        "input": "Sebuah perusahaan operator telekomunikasi memiliki 2 jenis kartu telepon seluler. Biaya standar untuk kartu Kelas A adalah sebagai berikut: tidak ada sewa bulanan. Dikenakan biaya Rp0,6 setiap 1 menit panggilan. Biaya standar untuk kartu Kelas B adalah sebagai berikut: biaya bulanan tetap sebesar Rp40 setiap bulan, selain itu, dikenakan biaya tambahan sebesar Rp0,4 setiap 1 menit panggilan. Berapa lama panggilan harus berlangsung sebelum biaya kartu Kelas A dan kartu Kelas B sama?",
+        "target": "200 menit"
+    },
+    {
+        "input": "Ayu membeli 2 pasang sepatu dengan diskon 20% dan menghemat Rp20.000 dibanding membeli pada harga normal. Ayu mengeluarkan berapa rupiah untuk membeli 2 pasang sepatu tersebut?",
+        "target": "Rp80.000"
+    },
+    {
+        "input": "Stasiun A dan B berjarak 480 kilometer. Dari Stasiun A berangkat sebuah kereta biasa dengan kecepatan 90 kilometer per jam, sedangkan dari Stasiun B berangkat sebuah kereta ekspres dengan kecepatan 140 kilometer per jam. Kedua kereta berangkat pada waktu yang bersamaan. Kereta biasa berada di belakang kereta ekspres, dan keduanya bergerak ke arah yang sama. Berapa jam yang dibutuhkan hingga jarak antara kedua kereta menjadi 600 kilometer?",
+        "target": "2,4 jam"
+    },
+    {
+        "input": "Kakek sekarang berusia 5 kali lipat dari umur cucunya. 12 tahun kemudian, Kakek berusia 3 kali lipat dari umur cucunya. Berapa umur cucunya sekarang?",
+        "target": "12 tahun"
+    },
+    {
+        "input": "Sebuah sekolah menengah menyelenggarakan perlombaan bola basket untuk siswa kelas 9 SMP. Berdasarkan pembagian per kelas, setiap dua kelas saling bertanding satu kali, dengan total perencanaan 15 pertandingan. Berapa banyak kelas yang akan berpartisipasi dalam kompetisi ini?",
+        "target": "6 kelas"
+    },
+    {
+        "input": "Untuk mengendalikan penyebaran influenza, departemen kesehatan telah mempelajari jenis influenza tersebut dan menemukan bahwa: jika satu orang menderita influenza, setelah dua putaran infeksi, total 100 orang telah terinfeksi. Berdasarkan pada kecepatan infeksi tersebut, berapa banyak orang yang akan menderita influenza setelah infeksi putaran ketiga?",
+        "target": "1.000 orang"
+    },
+    {
+        "input": "Atlet dari sebuah sekolah berlatih secara berkelompok. Jika setiap kelompok terdiri dari 7 orang, akan tersisa 5 orang; Jika terdiri dari 8 orang, akan kurang 3 orang. Berapa jumlah atlet di sekolah tersebut?",
+        "target": "61 orang"
+    },
+    {
+        "input": "Sebuah pusat perbelanjaan menjual 20 kemeja bermerek per hari dan menghasilkan keuntungan sebesar Rp40.000 per kemeja. Untuk memperbanyak penjualan, meningkatkan keuntungan, dan mengurangi persediaan, pusat perbelanjaan tersebut memutuskan untuk menurunkan harga. Setelah diselidiki, ditemukan bahwa untuk setiap penurunan harga sebesar Rp4.000 per kemeja, penjualan rata-rata harian akan bertambah 8 potong. Jika pusat perbelanjaan ingin mendapatkan keuntungan rata-rata sebesar Rp1.200.000 per hari, berapakah potongan harga maksimum yang seharusnya diberikan untuk setiap kemeja?",
+        "target": "Rp20.000"
+    },
+    {
+        "input": "Tante Ayu membeli beberapa kati buah-buahan tertentu dengan harga Rp4.000 per kati, lalu dijual di toko buahnya dengan harga Rp6.000 per kati. Tante Ayu dapat menjual 150 kati buah per hari. Berdasarkan penyelidikan, ditemukan bahwa setiap pengurangan Rp100 per kati, penjualan meningkat 30 kati per hari. Untuk memastikan bahwa setidaknya 360 kati terjual setiap hari, Tante Ayu memutuskan untuk menjual dengan harga yang lebih murah. Jika ia ingin mendapat untung Rp450.000 per hari dari penjualan buah ini, berapa rupiah per kati yang harus diturunkan Tante Ayu?",
+        "target": "Rp1.000"
+    },
+    {
+        "input": "Beberapa orang menanam pohon bersama. Jika setiap orang menanam 12 pohon, akan ada 6 bibit pohon yang tidak tertanam; jika setiap orang menanam 15 pohon, mereka akan kekurangan 6 bibit pohon. Hitunglah jumlah orang yang menanam pohon.",
+        "target": "4 orang"
+    },
+    {
+        "input": "Harga beli mantel adalah 360.000 rupiah, dan harga labelnya adalah 600.000 rupiah. Untuk mendapatkan keuntungan 0,25 dari mantel tersebut, berapa diskon yang harus dikenakan saat menjual mantel tersebut?",
+        "target": "Diskon 25%"
+    },
+    {
+        "input": "Satu orang membutuhkan waktu 60 jam untuk menata buku sendirian. Sekelompok orang menghabiskan 1 jam untuk menata buku bersama, lalu kelompok tersebut bertambah 15 orang, dan mereka menghabiskan 2 jam lagi untuk menyelesaikannya. Dengan asumsi efisiensi kerja setiap orang sama, berapa banyak orang pada kelompok mula-mula?",
+        "target": "10 orang"
+    },
+    {
+        "input": "Suatu perusahaan menghasilkan suatu produk, dengan modal Rp400 per unit, dan harga jualnya adalah Rp505. Untuk lebih meningkatkan penjualan, perusahaan memutuskan untuk mengurangi biaya sekaligus menurunkan harga jual per unit sebesar 4%, sehingga volume penjualan dapat ditingkatkan sebesar 5%. Berapa biaya per unit produk ini yang perlu dikurangi agar keuntungan penjualan perusahaan tetap tidak berubah sebelum dan sesudah penurunan harga?",
+        "target": "Rp15,2"
+    },
+    {
+        "input": "Kualifikasi Piala Dunia sepak bola menerapkan sistem round robin pertandingan kandang dan tandang, di mana setiap dua tim harus memainkan satu pertandingan di kandang dan satu pertandingan tandang. Jika terdapat total 110 pertandingan, berapa banyak tim yang berpartisipasi dalam kompetisi tersebut?",
+        "target": "11 tim"
+    },
+    {
+        "input": "Dengan kondisi kecepatan angin 25 kilometer per jam, sebuah pesawat membutuhkan waktu 2,8 jam untuk terbang dari bandara A ke bandara B mengikuti arah angin, dan 3 jam untuk terbang pada rute yang sama melawan arah angin. Berapa jarak antara bandara A dan B dalam kilometer?",
+        "target": "2.100 kilometer"
+    },
+    {
+        "input": "Di sebuah pusat perbelanjaan, sebuah jaket dijual dengan harga 50% lebih tinggi dari harga pokoknya, sebagai bentuk promosi jaket tersebut dijual dengan diskon 20%, dengan setiap jaket seharga Rp240.000. Berapa harga pokok jaket tersebut?",
+        "target": "Rp200.000"
+    },
+    {
+        "input": "Sebuah pakaian awalnya dihargai Rp150.000 per potong. Setelah dua kali penurunan harga, harga saat ini adalah Rp96.000 per potong. Berapa persentase pengurangan harga rata-rata pakaian setiap kali?",
+        "target": "20%"
+    },
+    {
+        "input": "Satu orang menderita influenza, setelah dua putaran infeksi, total 100 orang telah terinfeksi. Dalam setiap putaran penularan, rata-rata satu orang menularkan kepada berapa orang?",
+        "target": "9 orang"
+    },
+    {
+        "input": "Pada awal tahun ajaran baru, salah satu orang tua bertanya kepada guru berapa jumlah siswa di kelas tersebut. Guru menjawab, \"Jika ada kelompok siswa lain dengan jumlah yang sama seperti sekarang, ditambah setengahnya, lalu seperempatnya lagi, dan ditambah anak Anda, maka totalnya tepat 100 orang.\" Tolong bantu orang tua ini menghitung, berapa banyak siswa di kelas sekarang?",
+        "target": "36 orang"
+    },
+    {
+        "input": "Sebuah kebun buah awalnya berencana menanam 100 pohon persik, dengan rata-rata hasil 1.000 buah persik per pohon. Sekarang, kebun tersebut berencana menambah pohon persik untuk meningkatkan hasil panen. Berdasarkan percobaan, setiap penambahan 1 pohon, hasil panen per pohon akan berkurang sebanyak 2 buah, dan jumlah tambahan pohon tidak boleh melebihi 100. Jika ingin meningkatkan hasil panen sebesar 15,2%, berapa banyak pohon persik yang perlu ditambahkan?",
+        "target": "20 pohon"
+    },
+    {
+        "input": "Budi pergi ke toko alat tulis untuk membeli pensil, lalu pemiliknya berkata, \"Jika membeli lebih banyak, bisa mendapatkan diskon 20%.” Lalu Budi menghitung, jika ia membeli 50 pensil, maka harganya bisa lebih murah Rp6.000 dari harga aslinya. Berapa harga asli masing-masing pensil?",
+        "target": "Rp600"
+    },
+    {
+        "input": "Sebuah toko sedang bersiap untuk menjual suatu pakaian dengan harga diskon karena pergantian musim. Jika setiap pakaian dijual dengan diskon 50% dari harga label, maka toko akan rugi Rp20.000, namun jika dijual dengan diskon 20% dari harga label, maka toko akan untung Rp40.000. Pertanyaan: Berapa harga label per pakaian?",
+        "target": "Rp200.000"
+    },
+    {
+        "input": "Sebuah toko membeli sejumlah pakaian, dan harga beli setiap potong adalah Rp50.000. Jika dijual dengan harga Rp60.000 per potong, toko tersebut dapat menjual 800 potong. Jika dijual dengan kenaikan harga Rp1.000 per potong, volume penjualan akan berkurang 20 potong. Toko tersebut sekarang perlu mendapat untung Rp12.000.000, dengan total modal tidak melebihi Rp24.000.000. Berapa harga jual satuan yang sesuai untuk pakaian ini?",
+        "target": "Rp80.000"
+    },
+    {
+        "input": "Sebuah toko menjual suatu produk dengan harga pokok Rp40 per kilogram. Jika ia menjualnya dengan harga Rp50 per kilogram, ia bisa menjual 500 kilogram produk dalam satu bulan. Untuk setiap kenaikan 1 rupiah dalam harga satuan penjualan, volume penjualan bulanan akan berkurang 10 kilogram. Berapakah harga jual produk tersebut jika toko tersebut ingin memperoleh keuntungan penjualan bulanan sebesar Rp8.000 dengan nilai penjualan tidak melebihi Rp20.000?",
+        "target": "Rp80"
+    },
+    {
+        "input": "Sebuah toko menyesuaikan harga produk tertentu dan menjualnya dengan diskon 20% dari harga awal. Saat ini, keuntungan yang didapat adalah 10% dari harga belinya, dan harga beli produk ini adalah Rp160.000. Berapa harga jual awal produk tersebut?",
+        "target": "Rp220.000"
+    },
+    {
+        "input": "Untuk menarik wisatawan, Agen Perjalanan Podomoro memberikan penawaran berikut: jika jumlah orang tidak melebihi 25, biaya perjalanan per orang adalah Rp1.000.000; jika jumlah orang melebihi 25, untuk setiap penambahan 1 orang, biaya perjalanan per orang berkurang Rp20.000, tetapi biaya perjalanan per orang tidak boleh kurang dari Rp700.000. Sebuah perusahaan tertentu mengadakan wisata karyawan dan membayar total Rp27.000.000 kepada agen perjalanan. Berapa banyak jumlah karyawan yang akan mengikuti perjalanan ini?",
+        "target": "30 orang"
+    },
+    {
+        "input": "Eko dan Gusti sedang berlatih lomba lari. Eko berlari 7 meter per detik, dan Gusti berlari 6,5 meter per detik. Jika Gusti berlari 5 meter lebih dahulu, berapa detik yang dibutuhkan Eko untuk mengejar Gusti?",
+        "target": "10 detik"
+    },
+    {
+        "input": "Sekelompok siswa dari suatu kelas pergi mendayung. Jika ada 7 orang di setiap perahu, maka 5 orang sisanya tidak mendapat kursi; jika ada 8 orang di setiap perahu, maka terdapat 2 kursi kosong. Berapa jumlah siswa yang pergi mendayung di kelas ini?",
+        "target": "54 orang"
+    },
+    {
+        "input": "Saat siswa pada suatu kelas lulus, setiap orang harus berfoto berdua dengan teman sekelas lainnya. Jika ada total 780 foto yang diambil pada kelas tersebut, berapa jumlah orang di kelas itu?",
+        "target": "40 orang"
+    },
+    {
+        "input": "Beberapa pekerja bekerja di pabrik batu bata. Jika setiap orang memindahkan 2 batu bata, maka masih ada 6 yang tersisa; jika setiap orang memindahkan 4 batu bata, semua batu bata selesai dipindahkan. Berapakah jumlah pekerja?",
+        "target": "3 orang"
+    },
+    {
+        "input": "Tahun Baru tahun ini, Andi menghabiskan Rp88 untuk membeli dua jenis hadiah, Tipe A dan Tipe B. Satu hadiah Tipe A adalah Rp12, dan satu hadiah Tipe B adalah Rp8. Diantaranya, jumlah hadiah tipe A lebih sedikit 1 dari hadiah Tipe B. Berapa banyak hadiah Tipe A yang Andi beli?",
+        "target": "4 buah"
+    },
+    {
+        "input": "Harga label sepotong pakaian adalah Rp300.000, dan setelah diskon 20%, Anda dapat memperoleh keuntungan sebesar Rp60.000. Berapa harga pokok pakaian tersebut?",
+        "target": "Rp180.000"
+    },
+    {
+        "input": "Diketahui, 4 botol air mineral kosong bisa ditukar dengan 1 botol air mineral. Jika ada 15 botol air mineral kosong, berapa jumlah botol air mineral terbanyak yang bisa ditukar tanpa menambah uang?",
+        "target": "4 botol"
+    },
+    {
+        "input": "Ada setumpuk buah persik, lalu dibagikan kepada sekelompok anak-anak. Jika setiap anak mendapat 5, maka akan tersisa 8 buah; jika setiap anak mendapat 8, maka akan kurang 7 buah. Berapa banyak buah persik yang ada di tumpukan ini?",
+        "target": "33 buah"
+    },
+    {
+        "input": "Sebuah pusat perbelanjaan menjual sejumlah kemeja, dengan penjualan rata-rata 20 potong per hari, dan menghasilkan keuntungan sebesar Rp45.000 per potong. Karena dampak krisis keuangan internasional, pusat perbelanjaan tersebut memutuskan untuk mengambil tindakan penurunan harga untuk mengurangi persediaan sesegera mungkin. Berdasarkan hasil riset: Jika harga setiap kemeja dikurangi Rp1.000, rata-rata terjual 4 potong lebih banyak setiap hari. Jika pusat perbelanjaan ingin mendapatkan keuntungan harian rata-rata sebesar Rp2.100.000, berapa banyak potongan harga maksimum yang dapat diberikan untuk setiap kemeja?",
+        "target": "Rp30.000"
+    },
+    {
+        "input": "Harga beli produk tertentu adalah Rp100.000, dan harga labelnya adalah Rp150.000. Lalu, karena adanya tumpukan persediaan produk, toko berencana menjualnya dengan harga diskon. Untuk memastikan margin keuntungan tidak kurang dari 20%, berapa diskon maksimum yang dapat diberikan?",
+        "target": "Diskon 20%"
+    },
+    {
+        "input": "Untuk sebuah proyek, dibutuhkan waktu 10 hari bagi A untuk menyelesaikannya sendiri dan 15 hari bagi B untuk menyelesaikannya sendiri. A mengerjakan proyek itu terlebih dahulu selama 5 hari, setelah itu sisa pekerjaannya diselesaikan bersama oleh A dan B. Berapa hari yang dibutuhkan?",
+        "target": "3 hari"
+    },
+    {
+        "input": "Harga jual suatu komoditas di lantai 4 Gedung Komersial Nusantara adalah Rp1.540. Jika dijual dengan diskon 10%, masih bisa mendapat untung 10% (berdasarkan harga beli). Berapa harga beli komoditas ini?",
+        "target": "Rp1.260"
+    },
+    {
+        "input": "Budi naik sepeda motor dari rumah ke stasiun kereta api dengan kecepatan yang tetap. Jika ia melaju 50 kilometer per jam, ia akan tiba di stasiun kereta api 15 menit lebih lambat dari waktu keberangkatan kereta; jika ia melaju 60 kilometer per jam, ia akan tiba di stasiun kereta api 5 menit lebih lambat dari waktu keberangkatan kereta. Berapa kilometer jarak dari rumah Budi ke stasiun kereta api?",
+        "target": "50 kilometer"
+    },
+    {
+        "input": "Informasi pariwisata untuk suatu kawasan wisata adalah sebagai berikut: tidak lebih dari 30 orang: biaya per orang adalah Rp800.000; lebih dari 30 orang: untuk setiap penambahan 1 orang, biaya per orang dikurangi Rp10.000, tetapi tidak bisa kurang dari Rp550.000. Sebuah perusahaan mengadakan wisata karyawan untuk melihat pemandangan dan membayar Rp29.250.000 untuk biaya perjalanan. Hitunglah jumlah orang yang berpartisipasi dalam perjalanan ini.",
+        "target": "45 orang"
+    },
+    {
+        "input": "Harga label produk tertentu adalah Rp200.000. Saat dijual dengan diskon 10% dari harga label, keuntungan yang bisa didapat dari setiap produk adalah Rp20.000. Berapakah harga beli setiap produk?",
+        "target": "Rp160.000"
+    },
+    {
+        "input": "Untuk mendorong warga menggunakan listrik, sebuah perusahaan tenaga listrik kota menetapkan metode perhitungan tarif listrik sebagai berikut: jika konsumsi listrik bulanan tidak melebihi 100 kWh, akan dikenakan biaya sebesar Rp500 per kWh; jika melebihi 100 kWh, kelebihannya akan dikenakan biaya sebesar Rp400 per kWh. Jika seorang warga membayar biaya listrik rata-rata sebesar Rp480 per kWh pada bulan Februari 2002, berapa konsumsi listrik warga tersebut pada bulan Februari?",
+        "target": "125 kWh"
+    },
+    {
+        "input": "Kakek sebentar lagi akan merayakan ulang tahun yang ke-80, Budi ingin melingkari hari tersebut di kalender, tetapi tidak tahu tanggal berapa, jadi ia bertanya kepada ayah. Ayah hanya tersenyum dan berkata, \"Di kalender, jumlah dari empat tanggal di sisi atas, bawah, kiri, dan kanan pada tanggal itu sama persis dengan usia kakek.\" Tanggal berapa hari ulang tahun kakek Budi?",
+        "target": "Tanggal 20"
+    },
+    {
+        "input": "Pada musim 2018-2019 Indonesian Basketball League (IBL) akan terus mengadopsi sistem 2 round robin (2 pertandingan akan dimainkan antara setiap 2 tim), dengan total 380 pertandingan. Berapa banyak tim yang akan berpartisipasi dalam kompetisi tersebut?",
+        "target": "20 tim"
+    },
+    {
+        "input": "Tim A awalnya memiliki 65 pekerja, Tim B memiliki 40 pekerja, dan kini 30 pekerja baru akan bergabung. Agar Tim B menjadi 1/2 Tim A, berapa banyak pekerja yang harus dipindahkan ke Tim A?",
+        "target": "25 orang"
+    },
+    {
+        "input": "Sebuah bengkel menerima tugas pemrosesan dan berencana memproses 120 buah produk per hari, agar dapat selesai sesuai jadwal. Dalam pengerjaan aktual, bengkel tersebut memproses 20 buah produk lebih banyak setiap harinya. Sehingga, tugas tersebut selesai 4 hari lebih awal. Berapa banyak produk yang perlu diproses dalam tugas ini?",
+        "target": "3.360 buah"
+    },
+    {
+        "input": "Untuk meningkatkan penjualan, sebuah toko menyesuaikan harga kamera tertentu dan menjualnya dengan diskon 20% dari harga aslinya. Saat ini, margin keuntungan adalah 14%. Jika harga beli kamera tersebut adalah Rp1.200.000, berapa harga jual mula-mula kamera tersebut?",
+        "target": "Rp1.710.000"
+    },
+    {
+        "input": "Sebuah konter pakaian mengetahui bahwa rata-rata 20 potong pakaian anak-anak terjual setiap hari, dengan keuntungan Rp40 per potong. Toko tersebut memutuskan untuk melakukan pengurangan harga untuk meningkatkan volume penjualan. Setelah diselidiki, ditemukan bahwa setiap penurunan harga sebesar Rp4 per potong, toko tersebut dapat menjual rata-rata 8 potong lebih banyak setiap hari. Jika toko tersebut ingin mendapat untung rata-rata Rp1.200 dari penjualan pakaian anak-anak setiap hari,berapakah jumlah maksimum potongan harga untuk setiap pakaian anak?",
+        "target": "Rp20"
+    },
+    {
+        "input": "Ibu menikah pada usia 26 tahun dan melahirkan seorang putra pada tahun berikutnya. Beberapa tahun kemudian, sang ibu berusia tiga kali lebih tua dari putranya. Berapa umur ibu saat ini?",
+        "target": "40,5 tahun"
+    },
+    {
+        "input": "Sebuah toko menjual suvenir wisata. Omset pada bulan April adalah Rp20.000.000. Untuk meningkatkan penjualan, toko menjual suvenir wisata tersebut dengan diskon 10% di bulan Mei. Hasilnya, penjualan meningkat 200 buah dan omset meningkat Rp7.000.000. Hitunglah harga jual suvenir wisata tersebut di bulan April.",
+        "target": "Rp50.000"
+    },
+    {
+        "input": "Sebuah kelas menerima sejumlah tiket dan membagikannya kepada seluruh siswa di kelas untuk melakukan penjualan sukarela. Jika setiap orang mendapat 9 lembar, akan tersisa 24 lembar tiket; jika setiap orang mendapat 10 lembar, akan kurang 16 lembar tiket. Berapakah jumlah siswa di kelas?",
+        "target": "40 orang"
+    },
+    {
+        "input": "Harga suatu produk adalah Rp800.000, jika dijual dengan diskon 60%, maka akan memperoleh keuntungan sebesar Rp60.000. Berapakah harga beli produk tersebut?",
+        "target": "Rp260.000"
+    },
+    {
+        "input": "Sebuah pusat perbelanjaan menjual lampu meja jenis baru dengan harga beli masing-masing Rp300.000. Riset pasar menunjukkan bahwa ketika harga jual satuan ditetapkan pada Rp400.000, rata-rata 300 lampu dapat dijual per bulan; dan ketika harga jual satuan naik Rp10.000, volume penjualan rata-rata turun 10 buah lampu. Berapa harga jual satuan agar keuntungan penjualan rata-rata lampu meja jenis baru bisa mencapai Rp40.000.000 per bulan?",
+        "target": "Rp500.000"
+    },
+    {
+        "input": "Tiga tim konstruksi bersama-sama memperbaiki sebuah jalan raya, tim konstruksi ke-1 memperbaiki 1/3 dari seluruh jalan, tim konstruksi ke-2 memperbaiki 1/3 dari sisanya, dan tim konstruksi ke-3 memperbaiki 20 kilometer untuk menyelesaikan seluruh jalan raya. Berapa kilometer total panjang jalan raya ini?",
+        "target": "45 kilometer"
+    },
+    {
+        "input": "Merek suatu barang dijual dengan diskon 20% dari harga label, dan menghasilkan keuntungan sebesar 10%. Jika harga label produk adalah Rp275.000, berapa harga beli produk tersebut?",
+        "target": "Rp200.000"
+    },
+    {
+        "input": "Total beban kerja yang diselesaikan oleh empat pekerja di Grup A pada bulan Maret adalah 20 buah lebih banyak dari 4 kali target pekerjaan per orang bulan itu. Sementara itu, lima pekerja di Grup B menyelesaikan total 20 buah lebih sedikit dari 6 kali target per orang bulan itu. Jika rata-rata pekerjaan aktual per orang yang diselesaikan oleh kedua kelompok sama, berapa target pekerjaan per orang bulan Maret?",
+        "target": "45 buah"
+    },
+    {
+        "input": "Menjelang Tahun Baru Masehi, berbagai pusat perbelanjaan telah merancang kegiatan promosi untuk meningkatkan penjualan dan keuntungan. Mal Sejahtera menetapkan harga label 50% lebih tinggi dari harga beli, kemudian menawarkan diskon 20%. Dengan begitu, setiap tas sekolah yang dijual dapat memperoleh keuntungan sebesar Rp8.000. Berapa harga beli tas sekolah tersebut?",
+        "target": "Rp40.000"
+    },
+    {
+        "input": "Sebuah restoran cepat saji mencoba menjual paket makanan. Setelah masa uji coba penjualan, ditemukan bahwa modal setiap paket adalah Rp5.000, dan pengeluaran harian tetap toko adalah Rp600.000 (tidak termasuk biaya paket). Jika harga setiap paket tidak melebihi Rp10.000, restoran tersebut dapat menjual 400 paket per hari; jika harga setiap paket melebihi Rp10.000, untuk setiap kenaikan 1.000 rupiah, volume penjualan harian akan berkurang 40 paket.Jika pendapatan bersih harian toko tersebut adalah Rp1.560.000, berapa harga jual per paket demi kepentingan pelanggan?",
+        "target": "Rp11.000"
+    },
+    {
+        "input": "Sebuah departemen pakaian di sebuah mal menjual kemeja bermerek, dengan rata-rata penjualan 30 potong per hari, dan menghasilkan keuntungan Rp40.000 per potong. Untuk meningkatkan penjualan dan menghabiskan persediaan, mal tersebut memutuskan untuk menurunkan harga. Berdasarkan analisa, ketika harga kemeja turun Rp1.000, mal tersebut dapat menjual rata-rata 2 potong lebih banyak setiap hari. Jika mal tersebut mengharuskan departemen pakaian mendapat untung Rp1.200.000 per hari, berapa harga yang harus dikurangi untuk setiap kemeja?",
+        "target": "Rp25.000"
+    },
+    {
+        "input": "Siswa pada sebuah kelas dibagi menjadi 2 kelompok untuk mengikuti suatu kegiatan. Kelompok A beranggotakan 26 orang, dan Kelompok B beranggotakan 32 orang. Kemudian, karena kebutuhan kegiatan tersebut, beberapa siswa dari Kelompok A dipindahkan ke Kelompok B. Alhasil, jumlah anggota Kelompok B adalah dua kali lipat dari jumlah anggota Kelompok A, ditambah satu orang. Berapa banyak siswa yang telah dipindahkan dari Kelompok A ke Kelompok B?",
+        "target": "7 orang"
+    },
+    {
+        "input": "Jika sebuah pabrik berencana meningkatkan produksi tahunan suatu produk dari 1 juta unit saat ini menjadi 1,21 juta unit dalam jangka waktu 2 tahun, berapakah rata-rata persentase pertumbuhan tahunannya?",
+        "target": "10%"
+    },
+    {
+        "input": "Sebuah tim bersepeda sedang berlatih, dan semua anggotanya melaju dengan kecepatan 35 km/jam. Tiba-tiba, anggota No.1 melaju sendirian dengan kecepatan 45 km/jam sejauh 10 kilometer sebelum berbalik arah dan kembali dengan kecepatan 45 km/jam hingga ia bergabung kembali dengan anggota lainnya. Berapa jam yang dihabiskan anggota No.1 sejak meninggalkan tim hingga bergabung kembali dengan tim?",
+        "target": "0,25 jam"
+    },
+    {
+        "input": "Suatu sekolah membeli sejumlah peralatan tenis meja untuk mendukung kegiatan olahraga tersebut. Total harga net tenis meja, raket, dan bola pingpong yang dibeli adalah Rp1.320.000. Perbandingan biaya ketiga peralatan ini adalah 3:6:2. Jadi, berapa biaya untuk membeli net tenis tersebut?",
+        "target": "Rp360.000"
+    },
+    {
+        "input": "Manajer Budi membawa beberapa bungkus oleh-oleh dari perjalanan bisnis untuk dibagikan kepada teman-teman untuk dicicipi. Jika setiap orang mendapatkan 5 bungkus, akan tersisa 3 bungkus; jika setiap orang mendapat 6 bungkus, akan kurang 3 bungkus, maka berapa bungkus oleh-oleh yang Manajer Budi bawa?",
+        "target": "33 bungkus"
+    },
+    {
+        "input": "Sekolah membeli beberapa buku latihan dan membagikannya kepada siswa kelas tujuh. Jika setiap orang mendapat 5 buku, akan tersisa 80 buku. Jika setiap orang mendapat 6 buku, akan kekurangan 40 buku. Hitunglah berapa banyak siswa di kelas tujuh.",
+        "target": "120 orang"
+    },
+    {
+        "input": "X membutuhkan waktu 2 jam untuk mengendarai mobil dari lokasi A ke lokasi B, dan Y membutuhkan waktu 3 jam untuk mengendarai sepeda motor dari lokasi B ke lokasi A. Jika Y mengendarai sepeda motor dari lokasi B ke lokasi A, dan 1 jam kemudian X berangkat dari lokasi A ke lokasi B dengan mobil, berapa jam yang dibutuhkan X untuk berpapasan dengan Y setelah berangkat dari lokasi A?",
+        "target": "0,8"
+    },
+    {
+        "input": "Setelah bertanya di dua toko, saya mengetahui bahwa raket harganya Rp50.000 per pasang dan bolanya Rp4.000 per buah. Toko A menawarkan diskon 10% untuk raket dan bola. Toko B menawarkan dua bola gratis untuk pembelian satu raket. Jika seorang pelanggan ingin membeli dua raket dan sejumlah bola, dengan membandingkan total harga di kedua toko, berapa jumlah bola yang dibutuhkan agar biayanya sama?",
+        "target": "15 buah"
+    },
+    {
+        "input": "Jarak antara Stasiun A dan B adalah 448 kilometer. Sebuah kereta biasa berangkat dari Stasiun A dengan kecepatan 60 kilometer per jam, dan sebuah kereta ekspres berangkat dari Stasiun B dengan kecepatan 80 kilometer per jam. Jika kedua kereta berangkat pada waktu yang sama dan berjalan menuju satu sama lain, berapa jam setelah berangkat kedua kereta akan bertemu?",
+        "target": "3,2 jam"
+    },
+    {
+        "input": "Sebuah keluarga beranggotakan 3 orang pergi ke Bali selama liburan. Di area lokal terdapat agen perjalanan A dan B. Harga kedua agen perjalanan tersebut sama, namun keduanya menawarkan diskon perjalanan keluarga. Agen Perjalanan A mengatakan tidak ada diskon untuk orang dewasa, namun ada diskon 40% untuk anak-anak; sedangkan Agen Perjalanan B mengatakan bahwa keluarga dengan 3 orang akan mendapatkan diskon 20%. Setelah dihitung-hitung, Agen Perjalanan B lebih murah Rp240. Berapakah harga untuk orang dewasa?",
+        "target": "Rp1.200"
+    },
+    {
+        "input": "Harga beli jenis bunga tertentu adalah Rp5.000 per tangkai. Jika dijual dengan diskon 20% dari harga label, Anda masih bisa mendapat untung sebesar Rp3.000. Berapa harga label per tangkai?",
+        "target": "Rp10.000"
+    },
+    {
+        "input": "Di suatu tempat akan dibangun sebuah jalan. Jika dikerjakan sendiri, tim konstruksi A membutuhkan 80 hari untuk menyelesaikannya, sedangkan tim konstruksi B membutuhkan 120 hari. Jika tim A dan tim B bekerja bersama, berapa hari yang dibutuhkan untuk menyelesaikan pekerjaan tersebut?",
+        "target": "48 hari"
+    },
+    {
+        "input": "Sebuah laboratorium biologi perlu membiakkan bakteri baik. Saat ini terdapat 60 sampel hidup. Setelah melalui 2 siklus pembiakan, jumlah totalnya mencapai 24.000. Setiap bakteri baik dapat membelah diri menjadi beberapa bakteri baik dengan jumlah yang sama setiap kalinya. Dalam setiap siklus pembelahan, rata-rata setiap bakteri baik dapat membelah diri menjadi berapa bakteri baik?",
+        "target": "20"
+    },
+    {
+        "input": "Kelompok kerajinan tangan yang terdiri dari 30 siswa membuat model pesawat kertas. Setiap orang dapat membuat 20 badan pesawat atau 60 sayap per jam. Sebuah model pesawat membutuhkan 1 badan pesawat dengan 2 sayap. Agar jumlah komponen yang dibuat setiap jam pas untuk dirakit menjadi model pesawat, berapa siswa yang harus ditugaskan untuk membuat badan pesawat?",
+        "target": "18 orang"
+    },
+    {
+        "input": "Sejumlah buku perlu dibagikan ke kelas tertentu untuk dibaca siswa. Jika setiap siswa menerima 3 buku, maka masih tersisa 20 buku; jika setiap siswa mendapatkan 4 buku, akan kurang 25 buku. Berapakah jumlah siswa di kelas ini?",
+        "target": "45 orang"
+    },
+    {
+        "input": "Sebuah barang dinaikkan 20% dari harga pokok untuk ditetapkan sebagai harga jual, kemudian dijual dengan diskon 10%, harga jual akhirnya adalah Rp270.000. Berapakah harga pokok barang tersebut?",
+        "target": "Rp250.000"
+    },
+    {
+        "input": "Satu orang di kelas tertentu terkena flu. Setelah dua siklus infeksi, total 49 orang di kelas tersebut terkena flu. Pada tingkat infeksi ini, jika 4 orang terkena flu, berapa jumlah orang yang terkena flu setelah infeksi siklus pertama?",
+        "target": "28 orang"
+    },
+    {
+        "input": "Untuk penghijauan kampus, satu kelas mahasiswa berpartisipasi dalam penanaman sebanyak 144 tunas pohon. Di antara mereka, setiap laki-laki menanam 3 pohon dan setiap perempuan menanam 2 pohon. Jika jumlah mahasiswa laki-laki di kelas ini 8 orang lebih banyak daripada mahasiswa perempuan, berapa jumlah mahasiswa laki-laki?",
+        "target": "32 orang"
+    },
+    {
+        "input": "Menjelang Tahun Baru Imlek, sebuah supermarket menjual barang dengan harga pokok Rp12.000 per unit dan harga jual Rp20.000 per unit, dengan penjualan harian sebanyak 240 unit. Setelah beberapa waktu, diketahui bahwa jika harga dinaikkan Rp1.000, penjualan berkurang sebanyak 20 unit per hari; jika harga diturunkan Rp1.000, penjualan meningkat sebanyak 40 unit per hari. Untuk mencapai keuntungan harian sebesar Rp1.800.000 dengan penurunan harga, berapa besar penurunan harga per unit?",
+        "target": "Rp3.000"
+    },
+    {
+        "input": "Dalam sebuah pameran dagang, setiap 2 perusahaan yang berpartisipasi harus menandatangani 1 kontrak. Setelah pameran selesai, total ada 78 kontrak yang ditandatangani. Berapa banyak perusahaan yang hadir dalam pameran ini?",
+        "target": "13 perusahaan"
+    },
+    {
+        "input": "Diketahui bahwa Gudang A menyimpan 37 ton gandum dan Gudang B menyimpan 17 ton gandum. Sekarang, 15 ton gandum akan dipindahkan ke kedua gudang tersebut. Berapa banyak gandum yang harus dialokasikan ke Gudang A agar jumlah gandum di Gudang A menjadi dua kali lipat jumlah di Gudang B?",
+        "target": "9 ton"
+    },
+    {
+        "input": "Sebuah mal perlengkapan olahraga menjual sepeda merek tertentu. Diketahui bahwa 1 pekerja terampil dan 1 pekerja baru dapat merakit total 8 sepeda per hari, dan 3 pekerja terampil dan 5 pekerja baru dapat merakit total 28 sepeda per hari. Berapa banyak sepeda yang dapat dirakit oleh seorang pekerja baru setiap hari?",
+        "target": "2 buah"
+    },
+    {
+        "input": "Ayam dan kelinci memiliki total 192 kaki. Jika jumlah ayam dan jumlah kelinci ditukar, totalnya ada 198 kaki. Berapa jumlah ayam dan kelinci masing-masing?",
+        "target": "34 ekor ayam dan 31 ekor kelinci"
+    },
+    {
+        "input": "Jumlah ayam 18 lebih banyak daripada jumlah kelinci, dan total kaki ayam dan kelinci adalah 84. Berapa jumlah ayam dan kelinci masing-masing?",
+        "target": "26 ekor ayam dan 8 ekor kelinci"
+    }
+]

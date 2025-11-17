@@ -1,0 +1,402 @@
+[
+    {
+        "input": "Un ladrón entró de noche en la mansión de un millonario para robar. Fue picado múltiples veces por mosquitos, que se llenaron de su sangre. Finalmente, no pudo soportarlo y aplastó un mosquito en la pared. Luego robó y escapó. Cuando la policía inspeccionó la escena, no encontró evidencia biológica obvia. Al retirarse, un técnico descubrió el mosquito aplastado. Usó papel de filtro humedecido para recolectar sangre de la pared y recogió cuidadosamente los restos del mosquito. Luis, un nuevo empleado, pensó que esto era innecesario. ¿Tenía razón Luis?",
+        "target": "No."
+    },
+    {
+        "input": "Una paciente desapareció de su habitación de hospital, dejando una nota suicida y huellas en la ventana. Su cuerpo fue encontrado bajo la ventana. La ventana era alta y difícil de escalar. Una enfermera dijo que le administró somníferos fuertes por la noche. Otra afirmó verla en su habitación 30 minutos después. ¿Podría ser suicidio?",
+        "target": "Imposible."
+    },
+    {
+        "input": "Se encontró un cadáver colgado con una soga y un taburete volcado. Tenía los ojos cerrados, el rostro presentaba un tono rojizo violáceo y no había espuma en la boca. Al bajarlo, se observaron dos marcas en el cuello: una coincidía con la soga, la otra era más fina con desgarros y vasos rotos. ¿Fue suicidio?",
+        "target": "No."
+    },
+    {
+        "input": "En Bangkok, se halló un esqueleto casi descarnado con restos de tendones. No hay carroñeros en la zona, solo insectos. Los investigadores estimaron 15 días de antigüedad. ¿Es correcto?",
+        "target": "Incorrecto."
+    },
+    {
+        "input": "Una joven de un lugar murió en un tornado, el cadáver presentaba un golpe en la cabeza y había una estaca de madera con manchas de sangre cerca. Las manchas de sangre alrededor del cuerpo mostraban una dispersión uniforme. La policía interrogó a tres personas: la madre de la víctima dijo \"Estaba yendo a recogerla cuando ocurrió el tornado inesperadamente, fue un accidente\"; el novio dijo \"Ayer le advertí que el pronóstico anunciaba tornado hoy, pero no me hizo caso\"; la prima declaró \"Estaba de visita en mi casa y la acompañé a salir, pero luego...\". Finalmente, la policía se llevó a uno de ellos como sospechoso. ¿A quién?",
+        "target": "La víctima es el Novio."
+    },
+    {
+        "input": "Una banda planeó un efecto especial para su concierto: poner al vocalista en un ataúd con hielo seco para crear niebla. Según el plan, el guitarrista tocaría una canción de 5 minutos y luego lo liberaría, pero al terminar encontraron al vocalista inconsciente. ¿Por qué se desmayó?",
+        "target": "La alta concentración de dióxido de carbono provocó hipoxia y desmayo en el vocalista."
+    },
+    {
+        "input": "El viejo Carlos fue encontrado ahorcado en su casa. Sus pies estaban a un metro del suelo sin ningún objeto para apoyarse, ni marcas de agua. Tenía movilidad limitada. Las ventanas estaban cerradas, solo un ventilador de extracción funcionaba (con rejilla impenetrable). Había un contenedor de hielo seco fijo con restos del mismo. La policía descartó homicidio. ¿Cómo alcanzó la soga?",
+        "target": "Utilizando hielo seco como base. El hielo seco (sólido) se sublimó a gas."
+    },
+    {
+        "input": "En un taller químico, un trabajador fue hallado inconsciente. Había quemado sustancias químicas en la habitación. La policía encontró lámpara de alcohol, agua destilada y bolsa de gránulos de poliacrilamida. No había alcohol en su organismo. La ventilación era deficiente. ¿Cuál fue la causa del desmayo?",
+        "target": "Intoxicación por gases de combustión de poliacrilamida."
+    },
+    {
+        "input": "Un electricista fue encontrado muerto en una casa. Estaba conectando el cableado de tierra para la iluminación antes del incidente, con muchos cables pelados sin terminar. No tenía heridas ni golpes; la causa fue paro cardíaco. Usaba equipos de protección aislantes nuevos en manos y pies, sin contacto directo con cables. Había un charco de líquido amarillo (orina) cerca. ¿Cuál fue la causa probable de su muerte?",
+        "target": "Posiblemente, la orina entró en contacto con cables eléctricos expuestos."
+    },
+    {
+        "input": "En junio, dos niños encontraron un cadáver en el bosque. El cuerpo no presentaba rigidez, pero el rostro estaba muy hinchado, con ojos protuberantes, inflamado y con olor a gases de descomposición. La temperatura promedio de la semana previa fue 30°C. Luis cree que murió hace 5 días. ¿Es correcto?",
+        "target": "Incorrecto"
+    },
+    {
+        "input": "En un taller de perlas naturales, la policía aplicó ácido clorhídrico a unas perlas, pero no hubo reacción. Inmediatamente determinaron que eran falsificaciones. ¿Es correcta su conclusión?",
+        "target": "Correcto"
+    },
+    {
+        "input": "Una persona sufrió quemaduras faciales por salpicadura de aceite caliente al cocinar. En el hospital, explicó: \"Cuando la sartén se incendió, intenté apagarlo y terminé así\". ¿Qué método probable usó para apagar el fuego?",
+        "target": "Echar agua en la sartén con aceite ardiente."
+    },
+    {
+        "input": "En una noche de verano, dos investigadores perseguían a un fugitivo. Al llegar a un arrozal, perdieron el rastro. Tras detenerse a escuchar, oyeron ranas croando a la izquierda, silencio en el camino central y grillos a la derecha. ¿Por cuál camino escapó?",
+        "target": "El camino del centro."
+    },
+    {
+        "input": "Una persona, tras sufrir una lesión, desarrolló trismo, espasmos intermitentes y rigidez muscular. El médico diagnosticó tétanos. Sus eventos recientes: tortícolis al levantarse, herida con clavo oxidado y caída contra una silla de madera. ¿Cuál fue la causa más probable?",
+        "target": "Herida con un clavo oxidado."
+    },
+    {
+        "input": "En un caso, el culpable es seguidor del sijismo. Una mujer sospechosa lleva cruz al pecho, tiene una Biblia en casa, va a la iglesia frecuentemente y vivió en un convento. ¿Podría ser ella la culpable?",
+        "target": "Imposible."
+    },
+    {
+        "input": "Llueve intensamente. Turistas llegaron al museo (sin estacionamiento cercano). A los 3 minutos de abrir, desapareció un buda de jade (existente en el inventario previo). Un detective vio a un hombre con camiseta saliendo, no era empleado, y su paraguas no goteaba. Informó a la policía. ¿Es razonable su sospecha?",
+        "target": "Es razonable"
+    },
+    {
+        "input": "El señor Pablo fue a caminar por el bosque en invierno y encontró un cadáver en el suelo. La autopsia indicó que murió la noche anterior, con temperaturas bajo cero. Tenía perforaciones en el cuello y se detectó veneno de serpiente en su sangre, coincidiendo con una especie local. ¿Es posible que muriera por la mordedura de una serpiente del bosque?",
+        "target": "Imposible."
+    },
+    {
+        "input": "Un ladrón fue encarcelado. En la prisión se realizan eventos culturales mensuales. Un día llegó una banda con músicos de viento, cuerdas y un estuche de contrabajo. Al terminar la actuación, faltaba un recluso y quedaron instrumentos. La banda salió por la puerta principal con la misma cantidad de personas, tras inspección. ¿Dónde podría estar el recluso desaparecido?",
+        "target": "Escapó escondido dentro del estuche de contrabajo."
+    },
+    {
+        "input": "En una casa se hallaron varios cadáveres sin heridas ni intoxicación, pero con órganos internos dañados. Supuestamente, alguien usó un altavoz para emitir un sonido no audible. El oficial García sospecha \"música tóxica\", mientras que el oficial López cree que fueron ondas de infrasonido. ¿Quién tiene razón?",
+        "target": "La hipótesis del oficial López es más plausible."
+    },
+    {
+        "input": "La casa de la tía Ana se incendió, llena de humo espeso. Su cuerpo estaba parcialmente carbonizado, sin rastros de humo en los pulmones. Además de quemaduras, tenía un traumatismo contundente en la nuca con fractura craneal. Murió boca abajo, sin daño en la frente. ¿Fue el fuego la causa de su muerte?",
+        "target": "No."
+    },
+    {
+        "input": "En el robo de una cocina de restaurante, un sospechoso declaró: \"Estaba en la cocina porque pedí langostinos al vapor, pero el chef tardaba. Fui a reclamar y vi que tomaba langostinos rojos vivos para cocinar. Decidí esperar\". La policía detectó inconsistencias. ¿Por qué?",
+        "target": "Los langostinos vivos no son rojos; adquieren ese color al cocinarse."
+    },
+    {
+        "input": "Tras un homicidio con balas redondas en la escena, se incautaron armas: AK47, Glock, Barrett y M16. ¿Cuál fue el arma homicida?",
+        "target": "Glock."
+    },
+    {
+        "input": "Miguel y amigos comieron en el gimnasio después de entrenar: pan, huevo, leche. Él comió ensalada con papa germinada. Luego tuvo náuseas, vómitos y diarrea. ¿Por qué solo él?",
+        "target": "Comer ensalada de papa. Las papas germinadas contienen solanina, que puede causar síntomas gastrointestinales."
+    },
+    {
+        "input": "El señor Juan, diabético, usaba medicamentos con ácido salicílico. Fue hallado inconsciente en casa (ventana abierta, sin olores). En el hospital, su orina era morada con daño hepatorrenal. Su esposa dijo que solo comió y tomó sus medicinas. ¿Cuál fue la causa del coma?",
+        "target": "El coma del señor Hu podría deberse a una sobredosis de medicamentos con ácido salicílico, causando intoxicación."
+    },
+    {
+        "input": "En un área silvestre se encontró un cadáver que, al momento de morir, estaba cocinando una sopa. Entre los ingredientes había un hongo con sombrero rojo y tallo blanco, una lata abierta de carne en conserva (no vencida), pimienta en polvo y rodajas de manzana compradas por la mañana. Se confirmó que murió por intoxicación de un solo ingrediente. ¿Cuál es el más probable?",
+        "target": "Hongos con sombrero rojo y tallo blanco."
+    },
+    {
+        "input": "Un coleccionista guardó un anillo antiguo de hierro en una botella de vidrio de cuello estrecho (imposible introducir la mano). La botella era inamovible y tenía dispositivos antirrobo que sonarían si se tocaba. Un día, el anillo desapareció sin activar las alarmas. Al registrar al mayordomo y al limpiador de alfombras que entraron a la habitación, se halló: guantes en el mayordomo y sedal con imán en el limpiador. ¿Quién es más sospechoso?",
+        "target": "El limpiador es más sospechoso."
+    },
+    {
+        "input": "Tras una avalancha, se encontró a una persona enterrada con un rifle y un venado herido por bala. Antes de la avalancha se escuchó un estruendo. ¿Cómo se originó?",
+        "target": "El disparo del cazador generó vibraciones del aire que desencadenaron la avalancha."
+    },
+    {
+        "input": "En un caso criminal, un sospechoso declaró: \"Hubo un cortocircuito en el interruptor eléctrico esa noche, hubo apagón y me fui a dormir\". Al ver peces tropicales nadando en una pecera con calentador, y recordando que nevó esa noche, la policía concluyó que mentía. ¿Es correcto?",
+        "target": "Correcto."
+    },
+    {
+        "input": "En un caso de robo, se encontró cabello del sospechoso en la escena con bajo contenido de zinc. Hay cuatro sospechosos: un entrenador físico, un niño delgado y bajo, un chef obeso y un hombre alto. ¿Quién tiene mayor probabilidad de ser el culpable?",
+        "target": "El niño delgado y de baja estatura."
+    },
+    {
+        "input": "Tres ladrones robaron monedas de oro de un banco y las guardaron en una caja de plástico completamente sellada y llena. Al ser perseguidos por la policía, un ladrón sugirió: \"Tiremos la caja al agua como marcador para recuperarla mañana\". Otro dijo: \"No, el plástico es menos denso que el agua; la caja flotará\". ¿A quién debería hacer caso el tercer ladrón para que el plan funcione?",
+        "target": "Debe hacer caso al primer ladrón."
+    },
+    {
+        "input": "Una pareja encontró un globo de exposición desinflado en un parque, con la cremallera abierta pero conectado a una bomba de aire. Aunque el globo no podía elevarse, entraron, cerraron la cremallera y lo exploraron. Horas después, fueron encontrados muertos dentro sin heridas. Pedro cree que murieron por asfixia. ¿Es correcta su suposición?",
+        "target": "Correcto."
+    },
+    {
+        "input": "Fernando jugaba entre flores cuando una rosa le pinchó la mano y una avispa lo picó. Poco después, murió por hinchazón de garganta y asfixia. Aunque nunca tuvo alergia al polen, era altamente sensible a las secreciones de insectos. ¿Cuál fue la causa exacta de su muerte?",
+        "target": "Reacción alérgica grave por picadura de avispa."
+    },
+    {
+        "input": "En el escritorio de la víctima, la policía encontró un teclado con desgaste notable en las teclas numéricas del teclado ubicado a la derecha, mientras que las demás teclas estaban normales. ¿Cuál de estas profesiones es más probable que tuviera la víctima: programador, contador, escritor o jugador profesional de esports?",
+        "target": "Contador."
+    },
+    {
+        "input": "Luis tiene varios hematomas en el cuerpo, pero sin sangrado ni heridas abiertas. Aunque recientemente hubo muchos robos con arma blanca en la ciudad, él es boxeador con entrenamiento diario, participó recientemente en una competencia y es bastante conocido, por lo que nadie se atrevería a atacarlo. ¿Cuál es la explicación más probable de sus lesiones?",
+        "target": "Lesiones por golpes recibidos en competiciones o entrenamientos de boxeo."
+    },
+    {
+        "input": "Se encontró un cadáver en una zona rural, inicialmente determinado como muerte por impacto de un vehículo. En el camino solo se halló una marca de neumático. Los vehículos que suelen transitar allí son automóviles, motocicletas, carruajes de caballo y bicicletas. ¿Cuál es el vehículo más probable que lo atropelló?",
+        "target": "Motocicleta."
+    },
+    {
+        "input": "En un callejón se hallaron dos cadáveres. Ambos murieron por disparos a corta distancia, cada uno con un arma en la mano y un cartucho menos en el cargador. Vecinos informaron haber escuchado solo un disparo, sin otros sonidos. No había silenciadores en el suelo ni evidencia de terceros. ¿Por qué solo se escuchó un disparo?",
+        "target": "Ambos dispararon simultáneamente y se dispararon mutuamente al mismo tiempo."
+    },
+    {
+        "input": "digital desconocida. La policía investigó y confirmó que el ladrón estaba dentro del apartamento, pero ninguna huella de los residentes coincidió. Durante las entrevistas, se supo que algunos tenían perros, gatos y un mono. ¿Quién es el probable culpable?",
+        "target": "Mono."
+    },
+    {
+        "input": "Un niño jugaba en el estudio de pintura de su hermana. Al regresar, ella notó que la pintura azul y amarilla de su paleta habían desaparecido, la pintura verde había aumentado, y el lienzo seguía igual que el día anterior. El niño no podía alcanzar los botes de pintura. ¿De dónde obtuvo el niño el verde adicional?",
+        "target": "El hermano mezcló pintura azul y amarilla para crear pintura verde, aumentando su cantidad."
+    },
+    {
+        "input": "En una fábrica, se reportó una muerte. La policía acordonó el área pero no encontró un cadáver. Nadie había salido del taller ni había rastros de sangre. Solo había un horno con acero fundido. ¿Dónde podría estar el cuerpo?",
+        "target": "El cadáver cayó en acero fundido y se derritió instantáneamente."
+    },
+    {
+        "input": "Luis fue hallado muerto en su casa por asfixia, descartándose homicidio. Era alérgico al polen y recientemente tenía muchos lirios en su hogar. ¿Cuál fue la causa de su muerte?",
+        "target": "Alergia al polen de los lirios, causando asfixia fatal."
+    },
+    {
+        "input": "En un caso de homicidio, las huellas en la escena mostraban dos barras horizontales sin contorno de pies. Entre los sospechosos, uno usaba zapatillas deportivas, otro tacones altos, otro zapatos formales y otro geta japonesas (sandalias de madera). ¿Quién es el culpable?",
+        "target": "La persona que usaba geta japonesas (sandalias de madera)."
+    },
+    {
+        "input": "En una joyería desapareció un collar. No se encontró en la tienda ni en las personas registradas. Nadie salió del local. Dos clientes entraron con mascotas: el cliente A con un gato y el cliente B con un caniche. Las mascotas también desaparecieron. Había una rejilla de ventilación estrecha (20 cm de diámetro) que conducía al exterior. En el conducto se hallaron pelos de gato, pero no el collar. ¿Quién se llevó el collar?",
+        "target": "Es posible que el collar lo sacara el gato, quien salió por la rejilla de ventilación."
+    },
+    {
+        "input": "Felipe celebraba el Año Nuevo con amigos usando armas y alcohol. Al sonar las campanadas, escuchó \"¡pum, pum, pum!\", sintió un dolor agudo en el pecho, comenzó a sangrar y murió. ¿Cuál fue la causa de su muerte?",
+        "target": "Muerte por disparo."
+    },
+    {
+        "input": "Una empresa de España vendió mercancía a una compañía extranjera con pago completo y una cláusula de exención por fuerza mayor (guerra, robo, etc.). El cargamento fue robado durante el transporte. La policía descubrió que la empresa lo recompró a bajo precio del mercado negro. ¿Es razonable sospechar que el robo fue premeditado?",
+        "target": "Es razonable."
+    },
+    {
+        "input": "Un anciano murió por infarto cerebral. Tenía diabetes y solo trombos leves. Según su familia, ese día tomó metformina. En su mesa se encontraron tabletas de furosemida. Investigaciones revelaron que olvidaba si ya había tomado sus medicamentos. ¿Fue su muerte por la metformina o por exceso de furosemida?",
+        "target": "Posiblemente, el consumo excesivo de furosemida."
+    },
+    {
+        "input": "En un mediodía soleado, dos japoneses se batieron en duelo con katanas. Uno murió por electrocución sin heridas físicas. Las katanas medían 1 metro, ambos superaban 1.6 m de altura, y había una línea de alta tensión a 2,5 metros sobre el suelo. ¿Cómo murió?",
+        "target": "La katana del difunto tocó una línea de alta tensión al levantarla."
+    },
+    {
+        "input": "En un cruce ocurrió un accidente: un camión giró a la derecha y chocó a un ciclista que estaba paralelo al lado derecho (la ventana del camión estaba más alta que la cabeza del ciclista). No hubo heridos. El ciclista acusó al conductor de homicidio intencional. ¿Es válida su acusación?",
+        "target": "No es válida."
+    },
+    {
+        "input": "En la casa del señor Luis, un cajón con candado de gancho fue robado. El candado estaba abierto en el suelo sin daños por fuerza. Luis afirmó tener la llave consigo y no había marcas de golpes en el cajón. Solo se encontraron horquillas cerca. ¿Cómo abrieron el candado?",
+        "target": "Abrieron el candado usando horquillas."
+    },
+    {
+        "input": "Un amigo de Luis le dijo: \"Viajé mucho por Kansas, EE. UU., hermano. Los paisajes son increíbles: se ven bosques de coníferas interminables\". ¿Realmente viajó su amigo a Kansas?",
+        "target": "No."
+    },
+    {
+        "input": "El gallo de pelea del señor Luis es invicto en más de veinte combates. Tras cada pelea, el gallo rival tiene heridas cortantes con objetos metálicos. Sospechan trampas, pero los espectadores (a 3 metros del gallinero) no vieron anomalías. El espectador A cree que Luis ató cuchillas metálicas a las patas de su gallo. El B piensa que le dio estimulantes. El C sugiere que lanzó proyectiles ocultos al gallinero. ¿Qué sospecha es más probable?",
+        "target": "El espectador A"
+    },
+    {
+        "input": "En una pelea entre persona A y persona B, A usaba una barra de hierro y B un arma similar. Al contacto entre ambas armas, A sintió entumecimiento, calambres y dolor en las manos. Esto indica que el arma de B no era ordinaria. ¿Qué tipo de arma podría estar usando?",
+        "target": "B usó una porra eléctrica."
+    },
+    {
+        "input": "Un detective investigó el robo de una pintura en una galería. Las obras estaban colgadas con cuerdas a 2,5 metros del suelo: tocar las cuerdas activaba una alarma. El día del robo, la alarma no sonó, pero la pintura desapareció. El techo tenía un sistema de claraboyas complejas que permitían entrada de luz natural. En el borde de una claraboya, el detective encontró pequeñas marcas de arañazos y un fragmento de una lente convexa pequeña. ¿Cómo logró el ladrón llevarse la pintura sin tocar las cuerdas?",
+        "target": "Usaron una lente convexa para enfocar la luz solar y quemar las cuerdas que sostenían el marco de la pintura"
+    },
+    {
+        "input": "En un restaurante, un hombre tragó un huevo crudo en un espectáculo. Tras romper el cascarón intacto y tragar la yema, gritó de dolor, escupió sangre y se agarró la garganta, donde había agujas delgadas. Estas agujas no podrían perforar el cascarón normalmente. Los huevos los proporcionó el chef, cuya cocina tenía condimentos como salsa de soya y vinagre. La policía cree que el chef usó un condimento para insertar las agujas en la yema. ¿Qué condimento podría haber usado?",
+        "target": "Usó vinagre."
+    },
+    {
+        "input": "Un agente escribió un mensaje importante en una carta con jugo de limón, invisible a simple vista. Sofía obtuvo la carta y solo tiene una lámpara de escritorio, un vaso de agua y un plato con arena. ¿Qué objeto puede usar para revelar el mensaje?",
+        "target": "La lámpara de escritorio."
+    },
+    {
+        "input": "Una persona murió en una explosión mientras excavaba buscando tesoros en un área que fue campo de batalla en la Segunda Guerra Mundial. En el lugar quedaron fragmentos metálicos y esferas de acero. La persona A cree que excavó un barril de gasolina que explotó. La persona B no está de acuerdo y argumenta que encontró una mina terrestre abandonada de la guerra. ¿Qué teoría es más plausible?",
+        "target": "La teoría de B es más plausible."
+    },
+    {
+        "input": "Un paciente llevaba tiempo tomando bloqueadores beta. Hace dos días se le acabó la medicación. Debido a su movilidad reducida, no fue al hospital a recetarse y permaneció en casa con un cuidador. Esta mañana, el cuidador lo encontró muerto sin heridas. ¿Cuál fue la causa?",
+        "target": "La suspensión abrupta de bloqueadores beta puede provocar rebote cardiovascular y muerte."
+    },
+    {
+        "input": "En un lugar se reportó una desaparición sin cadáver, preliminarmente considerado caso de descuartizamiento. Al interrogar a residentes de comunidades cercanas, ninguno reportó ver cuerpos u olores extraños, pero un testigo vio al sospechoso cargar bolsas de plástico de noche. La policía identificó tres posibles sitios de desecho: la sala de basura comunitaria, el estanque de la comunidad o el inodoro de la casa del sospechoso. ¿Cuál es el más probable?",
+        "target": "Sala de basura comunitaria."
+    },
+    {
+        "input": "Un policía persiguiendo a un ladrón llegó a una granja. Preguntó a un campesino: \"¿Vio pasar al ladrón?\". Este respondió: \"No sé, estaba alimentando a mis gansos con peces pequeños. Quizá fueron el abuelo y su nieto vecinos o el médico del pueblo\". ¿Por qué el policía detectó una contradicción en sus palabras?",
+        "target": "Los gansos domésticos generalmente no comen peces."
+    },
+    {
+        "input": "En una joyería, robaron piezas valiosas del escaparate, cuyo vidrio tenía un corte circular. No se hallaron herramientas de corte en la escena. El único presente era el empleado Diego, quien no tenía llaves del escaparate pero sí de otros gabinetes de diamantes. ¿Es posible que Diego sea el culpable?",
+        "target": "Es posible."
+    },
+    {
+        "input": "El ladrón maestro A y el ladrón excéntrico B son amigos. Un día, compitieron abriendo cajas fuertes. B volteó un reloj de arena para cronometrar: justo cuando el reloj se vació, su caja fuerte se abrió. Cambió la contraseña, cerró la puerta y se sentó junto a la chimenea, burlándose de A. Cuando A estuvo listo, B volteó el reloj de arena nuevamente y lo colocó en el piso junto a sus pies. A confiaba, pero al vaciarse el reloj, la caja no se abrió (con unos segundos de diferencia). B se burló, pero A observó la posición del reloj y acusó: \"Hiciste trampa en el tiempo, ¡reintentemos!\". ¿Qué notó A?",
+        "target": "El reloj de arena fue colocado en dos posiciones diferentes."
+    },
+    {
+        "input": "Un grupo terrorista se refugió en una villa con armamento pesado. La policía antiterrorista usó un arma que no dañó la estructura, pero rompió todos los cristales de ventanas y puertas. Los terroristas sufrieron náuseas y se rindieron. ¿Qué arma usó la policía?",
+        "target": "Arma de ondas sonoras."
+    },
+    {
+        "input": "Luis fue de campamento y comió semillas de una planta con hojas casi circulares, bordes aserrados, pecíolos gruesos, cápsulas ovoides o esféricas con protuberancias suaves o lisas. No se lavó las manos, bebió agua fría y comió un sándwich. Luego tuvo dolor abdominal, diarrea y descoordinación motora. ¿De qué planta eran las semillas?",
+        "target": "Luis consumió accidentalmente semillas de ricino."
+    },
+    {
+        "input": "Un niño fue hospitalizado con quemaduras. Según el relato, abrió un paquete de snacks inflados, comió parte y luego vertió el desecante (óxido de calcio) en una botella pequeña, agregándole agua del grifo. ¿Por qué sufrió las quemaduras?",
+        "target": "El desecante (óxido de calcio) reacciona con el agua generando calor intenso, lo que provocó salpicaduras de agua caliente y quemaduras."
+    },
+    {
+        "input": "Un hombre murió intoxicado tras comer en un restaurante japonés. Los platos servidos incluyeron salsa de soya, carne de res, tofu y pez globo. Todos los ingredientes provenían de canales regulares y no hubo envenenamiento intencional. La única irregularidad era que el chef era novato y no limpió bien los alimentos. ¿Qué plato causó la intoxicación?",
+        "target": "Pez globo."
+    },
+    {
+        "input": "Un cadáver fue hallado en el bosque. Su compañero declaró: \"Mientras preparaba café, dos ladrones nos atacaron, me ataron y mataron a mi compañero. Me tomó una hora liberarme\". La policía, observando la cafetera hirviendo con café derramándose, determinó que mentía. ¿Por qué sospecharon de su declaración?",
+        "target": "Porque la persona afirmó haber estado preparando café durante una hora, pero en ese momento el café de la cafetera acababa de empezar a derramarse."
+    },
+    {
+        "input": "El dueño de una joyería reportó el robo de una costosa pieza que ya había sido reservada por un empresario adinerado (con depósito transferido). La joya iba a ser empaquetada al día siguiente para su envío y pago final. Al revisar las cámaras, la policía descubrió que nadie excepto el dueño entró o salió de la tienda. ¿Es razonable sospechar que el dueño ocultó la joya?",
+        "target": "Es razonable."
+    },
+    {
+        "input": "Un ladrón quedó atrapado colgado boca abajo durante su huida y no pudo escapar. Medio día después, seguía colgado pero ya estaba muerto. La temperatura ambiental era adecuada, sin sol ni lluvia. ¿Su muerte estuvo relacionada con permanecer colgado invertido tanto tiempo?",
+        "target": "Sí está relacionado."
+    },
+    {
+        "input": "Una persona dormía en el suelo cuando una rata pasó y orinó sobre ella. La orina escurrió por su pantalón hacia una herida en su pierna. Poco después, presentó síntomas gripales que ignoró, pero su condición empeoró hasta morir. ¿Con qué se relacionó su muerte?",
+        "target": "Infección bacteriana por la orina de la rata."
+    },
+    {
+        "input": "Un peatón fue asesinado por un atacante armado con múltiples heridas de bala en el cuerpo. Según testigos, la víctima estaba a unos 5 metros del agresor y solo se escuchó un disparo. ¿Qué tipo de arma usó el atacante?",
+        "target": "Escopeta."
+    },
+    {
+        "input": "Un trabajador de limpieza ingresaba a un laboratorio sin usar traje protector, confiando en su fortaleza física. En el laboratorio había muestras de plutonio, bicarbonato de sodio y láminas de aluminio almacenadas en gabinetes sellados (no requerían limpieza). El hombre no tuvo contacto directo con estos materiales, pero poco después murió por fallo multiorgánico. ¿Por qué ocurrió esto?",
+        "target": "Envenenamiento por radiación del plutonio, elemento radiactivo."
+    },
+    {
+        "input": "En una casa ocurrió un homicidio: la víctima murió por corte en la garganta. El dueño es sospechoso y no salió del lugar tras el crimen. No se hallaron cuchillos, pero se sabe que el dueño es patinador de velocidad y tiene equipos para deportes de hielo (zapatos con cuchillas de patinaje, patines de hielo, cuchillas de patinaje, etc.). ¿Es posible que el dueño cometiera el crimen?",
+        "target": "Es posible."
+    },
+    {
+        "input": "Santiago fue encontrado muerto en una casa de baños con una larga herida en el pecho: piel abierta, bordes lisos y extremos puntiagudos. El agua estaba rojiza con olor a sangre. En la escena se hallaron un cuchillo, un pelador y chinchetas. ¿Cuál podría ser el arma homicida?",
+        "target": "El arma homicida más probable es el cuchillo."
+    },
+    {
+        "input": "Un robot cortador equipado con sierra eléctrica y cámara infrarroja (capaz de detectar objetos metálicos para cortar) estaba instalado en una habitación. Un día, un científico fue hallado muerto allí: puertas y ventanas estaban cerradas con llave, solo él dentro. Tenía las piernas seccionadas y abrazaba una placa de hierro. ¿Quién pudo ser el asesino?",
+        "target": "El robot."
+    },
+    {
+        "input": "Un millonario con depresión reciente pidió a su piloto privado que lo llevara en helicóptero a una isla para vacacionar solo. Poco después, el helicóptero regresó sin el millonario. El piloto mostró una nota en el asiento del hombre: \"Estoy cansado de este mundo, no tengo nada que me ate. Adiós\", afirmando que saltó en vuelo. ¿Realmente fue un suicidio?",
+        "target": "No."
+    },
+    {
+        "input": "Un entrenador físico fue hallado muerto en el suelo con una pesada barra de discos sobre el pecho, causándole hemorragia interna por compresión. Solo él podía levantar esa barra. Según testigos, antes de morir bebió mucho alcohol con un amigo y planeaba entrenar después. ¿Cómo se puede explicar su muerte?",
+        "target": "El entrenador físico, ebrio, intentó levantar la barra de pesas, perdió el control y fue aplastado."
+    },
+    {
+        "input": "El señor Pedro, un personaje importante con un reloj Rolex, demostró cómo romper vidrio templado. Invitó a tres hombres corpulentos a chocar contra el vidrio juntos, pero no se agrietó. Luego, Pedro tomó carrerilla solo y lo rompió con un golpe de antebrazo. ¿Cómo lo logró?",
+        "target": "El reloj Rolex es muy resistente, y el señor Ma lo usó para golpear el vidrio."
+    },
+    {
+        "input": "En un laboratorio ocurrió una explosión e incendio durante una reacción entre hidróxido de sodio y aluminio en grandes cantidades. Junto al reactor había un mechero de alcohol encendido sin tapa. ¿Qué pudo causar la explosión?",
+        "target": "La reacción entre hidróxido de sodio y aluminio produce hidrógeno (H2), que al entrar en contacto con la llama del mechero de alcohol provocó la explosión."
+    },
+    {
+        "input": "Dos explosivistas instalaron una bomba conectada a un sistema GPS programado para detonar a las 10:00. El reloj del encargado de custodiar la bomba estaba adelantado 1 hora, y el del instalador estaba atrasado 1 hora. ¿A qué hora explotará la bomba?",
+        "target": "A las 10:00."
+    },
+    {
+        "input": "En el robo de una joyería, las cámaras de seguridad fueron saboteadas y se robaron gemas valiosas. Los sospechosos son: A (dueño de la joyería), B (guardia de seguridad), C (diseñador de joyas) y D (personal de limpieza). Esa noche, la caja fuerte fue abierta sin signos de fuerza. La policía encontró residuos de caolín (usado en lijado y pulido de joya) cerca de la caja. ¿Quién es el principal sospechoso?",
+        "target": "C."
+    },
+    {
+        "input": "Un pasajero de avión fue hallado inconsciente junto al baño y murió. No tenía enfermedades previas. Se desplomó durante el vuelo a gran altura. Se supo que había practicado buceo antes del vuelo. ¿Por qué colapsó?",
+        "target": "Enfermedad descompresiva por ascenso rápido tras el buceo"
+    },
+    {
+        "input": "En una planta procesadora de carne, un trabajador lleva desaparecido más de dos meses. Las cámaras muestran que nunca salió de la instalación. No se ha encontrado su cuerpo, rastros de sangre u olores de descomposición. La fábrica cuenta con un bosquecillo, cámaras frigoríficas, baños y talleres de trabajo. ¿Dónde es más probable que haya muerto?",
+        "target": "Cámara frigorífica."
+    },
+    {
+        "input": "El señor Carlos, un empleado bancario, murió intoxicado un día después de contar una gran suma de dinero en efectivo que un amigo le había devuelto para saldar una deuda. No había consumido ningún alimento, pero se encontró su saliva en los billetes. El oficial Diego deduce que es posible que el criminal haya puesto veneno en los billetes. ¿Es razonable esta deducción?",
+        "target": "Es razonable."
+    },
+    {
+        "input": "Un empleado, enfadado, planeó discutir con su jefe en la oficina. Antes, bebió varias bebidas energéticas de golpe. En la oficina, habló agitadamente y, antes de que el jefe respondiera, colapsó inconsciente. ¿Cuál es la explicación correcta?",
+        "target": "Las bebidas energéticas contienen cafeína. La combinación de alta ingesta de cafeína y agitación emocional provocó un colapso."
+    },
+    {
+        "input": "En una habitación con puertas y ventanas herméticamente cerradas, se encontró a un hombre muerto sin heridas externas. Junto a él había un termómetro roto, pero no se hallaron gotas de mercurio en el piso, solo vidrios rotos y una mesa de té volcada. ¿Cómo murió?",
+        "target": "Muerte por envenenamiento de mercurio"
+    },
+    {
+        "input": "La casa de Carlos sufrió un incendio. Él recordó haber dejado las luces encendidas, la manta eléctrica conectada, un grifo goteando y la cámara de seguridad en la entrada funcionando. ¿Cuál fue la causa más probable del incendio?",
+        "target": "Manta eléctrica."
+    },
+    {
+        "input": "En un rincón de un almacén se halló un cadáver. La autopsia reveló córneas húmedas y pupilas ligeramente blanquecinas. Según las grabaciones de las cámaras, solo cuatro personas habían entrado al almacén: A hoy a las 10:00, B hoy a las 12:00, C hoy a las 8:00 y D ayer a las 12:00. Ahora son las 16:00. ¿Quién es el principal sospechoso?",
+        "target": "El principal sospechoso es B."
+    },
+    {
+        "input": "Un hombre con una enfermedad de la garganta, a quien el médico le prohibió beber alcohol, insertó un catéter por el recto para inyectarse dos botellas de licor fuerte por el ano. Creía que no se embriagaría, pero murió al día siguiente. La autopsia no mostró daños intestinales ni infección. ¿Cuál fue la causa de su muerte?",
+        "target": "Muerte por intoxicación etílica."
+    },
+    {
+        "input": "En un complejo residencial colapsó un edificio. Antes del derrumbe, varias viviendas en renovación habían derribado algunas paredes. Los vecinos demandaron a esas familias. ¿Qué tipo de paredes probablemente demolieron?",
+        "target": "Paredes de carga."
+    },
+    {
+        "input": "En una biblioteca desapareció un antiguo libro valioso. El bibliotecario recordó que, durante la noche del robo, cuatro visitantes estuvieron en áreas distintas: A (leyendo en la sección geográfica, con tierra roja en la ropa), B (en la sección histórica, con manchas de tinta en las manos), C (en la sección de arte, con pintura en la ropa) y D (en la sección de ciencias naturales, con un imán). Las cámaras alrededor del estante central (donde estaba el libro) fallaron durante el robo. Bajo el estante se encontró polvo negro, identificado como óxido de hierro. El libro tenía capas metálicas internas. ¿Qué visitante es el principal sospechoso?",
+        "target": "Visitante D"
+    },
+    {
+        "input": "Un fumador empedernido decidió dejar el hábito rápidamente y se aplicó docenas de parches para dejar de fumar en el cuerpo, lo que resultó en su muerte. ¿Cuál fue la causa de su muerte?",
+        "target": "Intoxicación por nicotina absorbida a través de la piel de los parches para dejar de fumar."
+    },
+    {
+        "input": "Miguel fue a jugar a un parque donde la fuente estaba apagada durante el descanso del mediodía. Se sentó sobre la fuente, pero un guardia de seguridad lo detuvo advirtiendo peligro. Un transeúnte A dijo: \"El guardia lo detiene porque el agua fría de la fuente le dará resfriado\". El transeúnte B opinó: \"No hay peligro, el guardia exagera\". El transeúnte C argumentó: \"No, es porque la presión del agua de la fuente es alta y al activarse repentinamente podría dañar su cuerpo\". ¿Quién tiene más razón?",
+        "target": "Transeúnte C"
+    },
+    {
+        "input": "En la playa se encontró el cadáver de un hombre con rastros de agua en la boca, pupilas dilatadas, tímpanos rotos con sangrado y presencia de agua en los pulmones. No había otras heridas o sangre en su cuerpo. ¿Cuál fue la causa de su muerte?",
+        "target": "Muerte por ahogamiento."
+    },
+    {
+        "input": "Un hombre que solía disfrazarse de oso con pieles en el bosque para asustar a la gente fue alcanzado por un cazador (que usó un rifle de dardos tranquilizantes al creer que era un oso real) en la pierna. A pesar de eso, el hombre murió. ¿Cuál fue la causa de su muerte?",
+        "target": "La dosis de tranquilizante para osos (animales grandes) es excesiva para humanos, resultando en una sobredosis letal."
+    },
+    {
+        "input": "En un distrito financiero (CBD), una persona murió tras caer al suelo con heridas en la cabeza y lesiones fuertes en las piernas (sin marcas de aplastamiento). Testigos escucharon un frenado brusco de un auto antes del incidente. A sospecha: \"Alguien bajó del auto y lo golpeó en la cabeza con un palo\". B argumenta: \"Fue atropellado, las piernas impactaron contra el auto y la cabeza golpeó el capó o el suelo\". ¿Qué teoría es más plausible?",
+        "target": "La teoría de B es más plausible."
+    },
+    {
+        "input": "Un grupo de saqueadores de tumbas entró en una tumba antigua sellada durante mucho tiempo. Usaron linternas y caminaron brevemente sin sentir falta de aire, pero de repente sufrieron mareos, debilidad y murieron. ¿Fue por inhalar gases tóxicos de descomposición en la tumba o por una \"maldición del dueño de la tumba\"?",
+        "target": "Inhalación de gases tóxicos por descomposición en la tumba antigua."
+    },
+    {
+        "input": "Un arqueólogo afirmó haber hecho un gran descubrimiento en una cueva y mostró una fotografía de un mural primitivo que representaba a humanos cazando dinosaurios. ¿Es probable que el arqueólogo haya cometido fraude?",
+        "target": "Es un fraude."
+    },
+    {
+        "input": "En una cabaña de madera se encontró un cadáver sin heridas ni signos de lucha. Las puertas y ventanas estaban cerradas y sin daños. Había un pastel y un té (no contaminados). Junto a la chimenea había carbón recién quemado, pero la chimenea estaba bloqueada. ¿Cómo murió?",
+        "target": "Intoxicación por monóxido de carbono (CO)."
+    },
+    {
+        "input": "La policía perseguía a un ladrón armado. Al perderlo en un sitio de construcción, vieron a un hombre sentado (con complexión similar) que afirmó estar descansando y comiendo. Al abrir una lata de Coca-Cola, las burbujas salieron violentamente. La policía consideró sospechoso a este hombre. ¿Es razonable su sospecha?",
+        "target": "Razonable."
+    },
+    {
+        "input": "Un hombre fue encontrado muerto. Según las cámaras, había luchado con alguien: recibió golpes en el rostro y una puñalada en el pulmón. El agresor huyó. La víctima cayó al suelo, presionó la herida para detener el sangrado con éxito, pero murió tras 10 minutos de agonía. ¿Murió por asfixia debido a la perforación pulmonar o por desangramiento excesivo tras la puñalada?",
+        "target": "Muerte por asfixia debido a la perforación pulmonar."
+    },
+    {
+        "input": "La policía interrogó a un sospechoso, quien afirmó tener una coartada y mostró una foto en la que estaba en una montaña de 3500 metros de altura. En la foto, el sospechoso y sus amigos estaban abriendo una cerveza para celebrar, que expulsaba espuma. La policía dijo que la coartada era inválida porque a esa altitud la presión atmosférica es tan baja que no se produciría espuma al abrir la cerveza. ¿Tiene sentido la explicación de la policía?",
+        "target": "No tiene sentido."
+    }
+]

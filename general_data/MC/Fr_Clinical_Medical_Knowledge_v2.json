@@ -1,0 +1,830 @@
+[
+    {
+        "input": "Homme, 39 ans. Depuis six mois, douleur acide et sensation de faiblesse lors de la mastication d’aliments durs avec les dents de la mâchoire inférieure droite, sans antécédent de douleur spontanée. Examen : la dentine de la surface occlusale est partiellement usée, exposée, et la douleur est insupportable lors du sondage. Une carie est détectée dans le sillon buccal, sensible au sondage et aux stimuli froids.\nLe diagnostic lié au motif de consultation pour cette dent est            .\nA. Caries moyenne\nB. Hypersensibilité dentinaire\nC. Pulpite réversible\nD. Usure",
+        "target_scores": {
+            "A. Caries moyenne": 0,
+            "B. Hypersensibilité dentinaire": 1,
+            "C. Pulpite réversible": 0,
+            "D. Usure": 0
+        }
+    },
+    {
+        "input": "Si les deux dents de support sont en bon état, en utilisant un pont pour restaurer deux dents manquantes, on peut généralement restaurer ____ de la surface occlusale d'origine.\nA. 75%\nB. 80%\nC. 85%\nD. 90%",
+        "target_scores": {
+            "A. 75%": 1,
+            "B. 80%": 0,
+            "C. 85%": 0,
+            "D. 90%": 0
+        }
+    },
+    {
+        "input": "Après une certaine période de cimentation d'une couronne complète, quelle ne peut pas être la cause principale d'une douleur allergique?\nA. Caries secondaires(secondary or recurrent caries)\nB. Dissolution du ciment\nC. Irritation due au ciment\nD. Récession gingivale",
+        "target_scores": {
+            "A. Caries secondaires(secondary or recurrent caries)": 0,
+            "B. Dissolution du ciment": 0,
+            "C. Irritation due au ciment": 1,
+            "D. Récession gingivale": 0
+        }
+    },
+    {
+        "input": "La lymphopoïétine stromale thymique(thymic stromal lymphopoietin, TSLP) a une structure similaire à quelle autre cytokine ?\nA. IL-1\nB. IL-2\nC. IL-6\nD. IL-7",
+        "target_scores": {
+            "A. IL-1": 0,
+            "B. IL-2": 0,
+            "C. IL-6": 0,
+            "D. IL-7": 1
+        }
+    },
+    {
+        "input": "Un patient présente une tuméfaction progressive unilatérale au niveau de la région molaire de la mandibule, s’étendant vers l’angle mandibulaire et la branche montante. À la palpation, la zone est comparable à une balle de ping-pong. La radiographie montre une image radioclaire multiloculaire, avec des loges de tailles très variables et des contours festonnés. Le diagnostic le plus probable est :____.\nA. Améloblastome\nB. Fibrome d'origine dentaire\nC. Kyste kératinisé d'origine dentaire\nD. Tumeur calcifiée d'origine dentaire",
+        "target_scores": {
+            "A. Améloblastome": 1,
+            "B. Fibrome d'origine dentaire": 0,
+            "C. Kyste kératinisé d'origine dentaire": 0,
+            "D. Tumeur calcifiée d'origine dentaire": 0
+        }
+    },
+    {
+        "input": "Homme, 45 ans, lors d'un examen médical, des taches jaunâtres de la taille de grains de riz sont détectées sur la muqueuse de la région buccale droite, en distribution conglomérée, sans symptômes cliniques évidents, et des lésions similaires sont également présentes sur la partie rouge de la lèvre supérieure. Le diagnostic le plus probable est :____.\nA. Granules de Fordyce\nB. Herpès labial récurrent\nC. Leukoplakia\nD. Stomatite herpétique",
+        "target_scores": {
+            "A. Granules de Fordyce": 1,
+            "B. Herpès labial récurrent": 0,
+            "C. Leukoplakia": 0,
+            "D. Stomatite herpétique": 0
+        }
+    },
+    {
+        "input": "Fille, 12 ans, gonflement de la région des molaires supérieures droites depuis six mois, la radiographie montre une zone de transparence à bord net avec une zone de calcification opaque. L'examen histopathologique montre que le tissu tumoral est solide, les cellules tumorales sont organisées en structures tubulaires glandulaires ou en masses solides, avec des structures en rosette. Le diagnostic pathologique le plus probable est ____\nA. Adénome d'origine dentaire\nB. Odontome\nC. Tumeur calcifiée kystique d'origine dentaire\nD. Tumeur épithéliale calcifiée d'origine dentaire",
+        "target_scores": {
+            "A. Adénome d'origine dentaire": 1,
+            "B. Odontome": 0,
+            "C. Tumeur calcifiée kystique d'origine dentaire": 0,
+            "D. Tumeur épithéliale calcifiée d'origine dentaire": 0
+        }
+    },
+    {
+        "input": "Une femme de 60 ans présente depuis un mois une érosion des commissures labiales bilatérales. L’examen clinique révèle un édentement complète, une diminution de la dimension verticale, ainsi que des lésions cutanées et muqueuses au niveau des commissures labiales bilatérales, qui sont congestives, humides, blanchâtres et fissurées. Pour déterminer la cause de la maladie, les examens suivants doivent être effectués, à l'exception de ____     \nA. Coloration au bleu de toluidine\nB. Culture bactérienne\nC. Dosage des vitamines dans le sérum\nD. Frottis des commissures labiales",
+        "target_scores": {
+            "A. Coloration au bleu de toluidine": 1,
+            "B. Culture bactérienne": 0,
+            "C. Dosage des vitamines dans le sérum": 0,
+            "D. Frottis des commissures labiales": 0
+        }
+    },
+    {
+        "input": "Homme, 49 ans, douleur à la mastication des dents postérieures droites depuis 3 mois, une douleur intense peut être provoquée en mordant sur une position spécifique. Examen : la surface occlusale de la première molaire supérieure droite est usée, la dentine est exposée, il semble y avoir une fissure latente du centre de la surface occlusale à la partie médiane. La méthode d'examen supplémentaire est :____.\nA. Coloration due à la présence de teinture d'iode\nB. Exploration par sondage\nC. Percussion\nD. Test thermique",
+        "target_scores": {
+            "A. Coloration due à la présence de teinture d'iode": 1,
+            "B. Exploration par sondage": 0,
+            "C. Percussion": 0,
+            "D. Test thermique": 0
+        }
+    },
+    {
+        "input": "Patient, 23 ans, sensibilité aux stimuli thermiques et parfois inconfortable à la mastication des dents postérieures inférieures droites il y a 3 mois, il y a 3 jours, une douleur spontanée et paroxystique est survenue soudainement, augmentée par les stimuli thermiques et la nuit, incapable de localiser la dent affectée. La méthode d'examen la plus utile pour déterminer la dent affectée est :____.\nA. Exploration par sondage\nB. Percussion\nC. Radiographie\nD. Test thermique",
+        "target_scores": {
+            "A. Exploration par sondage": 0,
+            "B. Percussion": 0,
+            "C. Radiographie": 0,
+            "D. Test thermique": 1
+        }
+    },
+    {
+        "input": "Patient, homme de 33 ans, présente depuis 4 ans une masse au niveau du menton gauche, avec perception d’un battement spontané. À l’examen clinique : présence d’une masse violacée d’environ 7 × 6 cm, à contours lobulés, située dans la région mentonnière gauche. La température locale est augmentée par rapport à la peau adjacente. Un thrill est perçu à la palpation, et un souffle vasculaire est audible à l’auscultation. L’examen complémentaire le plus utile pour confirmer le diagnostic est : ____\nA. Angiographie par résonance magnétique\nB. Radiographie panoramique de la mandibule\nC. Tomodensitométrie (TDM)\nD. Échographie en mode B",
+        "target_scores": {
+            "A. Angiographie par résonance magnétique": 1,
+            "B. Radiographie panoramique de la mandibule": 0,
+            "C. Tomodensitométrie (TDM)": 0,
+            "D. Échographie en mode B": 0
+        }
+    },
+    {
+        "input": "Femme de 55 ans, présentant depuis 6 ans une masse indolore située à l’avant du lobe de l’oreille, augmentant lentement de volume.\nÀ l’examen : masse bien délimitée, mobile, de forme nodulaire, à surface irrégulière, de consistance ferme, non adhérente à la peau.\nLe diagnostic le plus probable est : ____.\nA. Adénolymphome de la glande parotide\nB. Cancer métastatique des ganglions lymphatiques sous-maxillaires\nC. Kyste sébacé\nD. Tumeur mixte de la glande parotide",
+        "target_scores": {
+            "A. Adénolymphome de la glande parotide": 0,
+            "B. Cancer métastatique des ganglions lymphatiques sous-maxillaires": 0,
+            "C. Kyste sébacé": 0,
+            "D. Tumeur mixte de la glande parotide": 1
+        }
+    },
+    {
+        "input": "Compte tenu d’un angle ANB de $0^{\\circ}$ et d’un angle SN-MP de $42^{\\circ}$, le type de malocclusion dentaire le plus probable est : ____\nA. Classe I squelettique à angle moyen\nB. Classe I squelettique à angle élevé\nC. Classe III squelettique à angle moyen\nD. Classe III squelettique à angle élevé",
+        "target_scores": {
+            "A. Classe I squelettique à angle moyen": 0,
+            "B. Classe I squelettique à angle élevé": 1,
+            "C. Classe III squelettique à angle moyen": 0,
+            "D. Classe III squelettique à angle élevé": 0
+        }
+    },
+    {
+        "input": "Lorsque l'inflammation chronique récurrente de la sialadénite sous-maxillaire(sialadenitis of submandibular gland) est inefficace avec un traitement conservateur, qu'une masse dure peut être palpée sous la mâchoire et qu'un calcul est prouvé à la jonction du canal et de la glande, il devrait être procédé à : ____.\nA. Ablation du calcul\nB. Exérèse de la glande sous-maxillaire\nC. Thérapie physique\nD. Traitement antibiotique systémique",
+        "target_scores": {
+            "A. Ablation du calcul": 0,
+            "B. Exérèse de la glande sous-maxillaire": 1,
+            "C. Thérapie physique": 0,
+            "D. Traitement antibiotique systémique": 0
+        }
+    },
+    {
+        "input": "Femme, 40 ans, se plaint depuis six mois d'une hyperplasie gingivale au niveau des dents antérieures inférieures, affectant l'esthétique, avec des saignements occasionnels lors du brossage. Examen : une hyperplasie légère de la gencive labiale des dents antérieures inférieures, de texture élastique, de couleur proche de la normale, une petite quantité de tartre supra-gingival et sous-gingival a été détectée. Lors de la collecte de l'anamnèse, il faut se concentrer sur les situations suivantes, à l'exception de laquelle :____.   \nA. Antécédents de prise de médicaments\nB. Antécédents de traumatisme\nC. Antécédents familiaux\nD. Mauvaises habitudes",
+        "target_scores": {
+            "A. Antécédents de prise de médicaments": 0,
+            "B. Antécédents de traumatisme": 1,
+            "C. Antécédents familiaux": 0,
+            "D. Mauvaises habitudes": 0
+        }
+    },
+    {
+        "input": "Un patient a une majorité de dents postérieures inférieures manquantes, des dents antérieures mobiles, une concavité évidente du côté de la langue, la distance du plancher buccal à la marge gingivale est de 6 mm. Lequel des éléments suivants est le plus approprié en tant que grand connecteur ?\nA. Bandeau lingual (plaque linguale classique)\nB. Barre linguale au-dessus de la zone de sous-dépouille\nC. Barre linguale en contact parallèle à la muqueuse\nD. Barre linguale parallèle à la crête alvéolaire, éloignée de la surface muqueuse",
+        "target_scores": {
+            "A. Bandeau lingual (plaque linguale classique)": 1,
+            "B. Barre linguale au-dessus de la zone de sous-dépouille": 0,
+            "C. Barre linguale en contact parallèle à la muqueuse": 0,
+            "D. Barre linguale parallèle à la crête alvéolaire, éloignée de la surface muqueuse": 0
+        }
+    },
+    {
+        "input": "Les enfants qui ont subi une chirurgie de fente palatine dans l'enfance, pendant la période de croissance et de développement, sont souvent caractérisés par ____\nA. Classe I selon Angle\nB. Classe II division 1 selon Angle\nC. Classe II division 2 selon Angle\nD. Classe III selon Angle",
+        "target_scores": {
+            "A. Classe I selon Angle": 0,
+            "B. Classe II division 1 selon Angle": 0,
+            "C. Classe II division 2 selon Angle": 0,
+            "D. Classe III selon Angle": 1
+        }
+    },
+    {
+        "input": "Dans quelles circonstances suivantes peut-on augmenter la hauteur de la voix ____\nA. Augmentation de la tension, amenuisement et raccourcissement de la partie vibrante des cordes vocales\nB. Augmentation de la tension, épaississement et allongement de la partie vibrante des cordes vocales\nC. Augmentation de la tension, épaississement et augmentation de la partie vibrante des cordes vocales\nD. Diminution de la tension, épaississement et raccourcissement de la partie vibrante des cordes vocales",
+        "target_scores": {
+            "A. Augmentation de la tension, amenuisement et raccourcissement de la partie vibrante des cordes vocales": 1,
+            "B. Augmentation de la tension, épaississement et allongement de la partie vibrante des cordes vocales": 0,
+            "C. Augmentation de la tension, épaississement et augmentation de la partie vibrante des cordes vocales": 0,
+            "D. Diminution de la tension, épaississement et raccourcissement de la partie vibrante des cordes vocales": 0
+        }
+    },
+    {
+        "input": "Un patient a une odontalgie thermosensible après une obturation pour carie, la douleur peut être soulagée après le retrait du stimulus, mais il n'y a pas de douleur spontanée. Quelle est la cause de la douleur thermique de la dent affectée ?\nA. Erreur de diagnostic\nB. Mauvaise adaptation marginale inexacte du plombage dentaire\nC. Plombage dentaire sans base\nD. Surplomb du plombage dentaire",
+        "target_scores": {
+            "A. Erreur de diagnostic": 0,
+            "B. Mauvaise adaptation marginale inexacte du plombage dentaire": 0,
+            "C. Plombage dentaire sans base": 1,
+            "D. Surplomb du plombage dentaire": 0
+        }
+    },
+    {
+        "input": "Un patient consulte pour une « difficulté à ouvrir la bouche ». L'examen révèle une ouverture buccale de 1 cm. Le degré de limitation de l'ouverture buccale est :____.\nA. Limitation légère de l'ouverture buccale\nB. Limitation modérée de l'ouverture buccale\nC. Limitation sévère de l'ouverture buccale\nD. Ouverture buccale normale",
+        "target_scores": {
+            "A. Limitation légère de l'ouverture buccale": 0,
+            "B. Limitation modérée de l'ouverture buccale": 1,
+            "C. Limitation sévère de l'ouverture buccale": 0,
+            "D. Ouverture buccale normale": 0
+        }
+    },
+    {
+        "input": "Patiente, fille, 9 ans, fente labiale et palatine gauche, a subi une chirurgie de réparation de la fente labiale et palatine avant l'âge de 1 an, est venue consulter pour une malocclusion antérieure et une malposition des dents, la radiographie montre une fente alvéolaire entre la deuxième incisive supérieure gauche et la canine lactéale. Quel est le moment optimal pour réaliser une greffe osseuse de la fente alvéolaire ?\nA. Attendre la fermeture complète des apices des incisives latérales\nB. Attendre la formation complète des racines des canines\nC. Attendre que les racines des canines soient formées à 1/3\nD. Attendre que les racines des canines soient formées à 2/3",
+        "target_scores": {
+            "A. Attendre la fermeture complète des apices des incisives latérales": 0,
+            "B. Attendre la formation complète des racines des canines": 0,
+            "C. Attendre que les racines des canines soient formées à 1/3": 0,
+            "D. Attendre que les racines des canines soient formées à 2/3": 1
+        }
+    },
+    {
+        "input": "Si une empreinte en alginate ne peut pas être immédiatement moulée après la prise d'empreinte, quelle méthode suivante peut être utilisée pour maintenir la taille de l'empreinte relativement stable avant le moulage du modèle ?\nA. L'empreinte est enveloppée dans un chiffon humide et scellée dans un sac en plastique\nB. L'empreinte est laissée à température ambiante\nC. L'empreinte est placée dans un four à 37℃\nD. L'empreinte est trempée dans l'eau du robinet",
+        "target_scores": {
+            "A. L'empreinte est enveloppée dans un chiffon humide et scellée dans un sac en plastique": 1,
+            "B. L'empreinte est laissée à température ambiante": 0,
+            "C. L'empreinte est placée dans un four à 37℃": 0,
+            "D. L'empreinte est trempée dans l'eau du robinet": 0
+        }
+    },
+    {
+        "input": "Lors de l'essayage des dents en cire d'une prothèse totale, il a été constaté que lorsque le patient effectue une occlusion protrusive, seules les dents antérieures (gauche et droite) sont en contact, les deuxièmes molaires supérieures et inférieures gauche et droite ne sont pas en contact. La méthode de traitement correcte est :____.\nA. Incliner le col de la dent 7 supérieure droite vers l'arrière le long de son axe longitudinal\nB. Incliner le col de la dent 7 supérieure droite vers l'avant le long de son axe longitudinal\nC. Tirer la dent 7 supérieure droite vers le bas le long de son axe longitudinal\nD. Écraser la dent 7 supérieure droite vers le haut le long de son axe longitudinal",
+        "target_scores": {
+            "A. Incliner le col de la dent 7 supérieure droite vers l'arrière le long de son axe longitudinal": 1,
+            "B. Incliner le col de la dent 7 supérieure droite vers l'avant le long de son axe longitudinal": 0,
+            "C. Tirer la dent 7 supérieure droite vers le bas le long de son axe longitudinal": 0,
+            "D. Écraser la dent 7 supérieure droite vers le haut le long de son axe longitudinal": 0
+        }
+    },
+    {
+        "input": "Garçon, 8 ans, actif et en bonne santé, un ulcère irrégulier est visible sur la muqueuse buccale du côté gauche, la surface de l'ulcère est profonde, mais la douleur n'est pas évidente, le diagnostic le plus probable est :____.\nA. Aphtes\nB. Ulcères auto-infligés\nC. Ulcères de pression\nD. Ulcères tuberculeux",
+        "target_scores": {
+            "A. Aphtes": 0,
+            "B. Ulcères auto-infligés": 1,
+            "C. Ulcères de pression": 0,
+            "D. Ulcères tuberculeux": 0
+        }
+    },
+    {
+        "input": "Une douleur sourde spontanée persistante après une obturation dentaire, localisable, sans douleur provoquée, et aggravée par la mastication est généralement due à ____\nA. Caries secondaire avec pulpites\nB. Pas de restauration du point de contact ou formation d'un surplomb cervical\nC. Plombage dentaire avec contact prématuré\nD. Trop de chaleur produite pendant la préparation de la cavité",
+        "target_scores": {
+            "A. Caries secondaire avec pulpites": 0,
+            "B. Pas de restauration du point de contact ou formation d'un surplomb cervical": 1,
+            "C. Plombage dentaire avec contact prématuré": 0,
+            "D. Trop de chaleur produite pendant la préparation de la cavité": 0
+        }
+    },
+    {
+        "input": "Fille, 14 ans, plainte principale : les papilles interdentaires des incisives sont enflées en forme de boule, molles et brillantes. Si le diagnostic est une gingivite de l'adolescence, quelle mesure de traitement suivante est incorrecte ?\nA. Conseils en hygiène bucco-dentaire\nB. Corriger les mauvaises habitudes\nC. Effectuer une gingivectomie le plus tôt possible\nD. Traitement de base parodontal",
+        "target_scores": {
+            "A. Conseils en hygiène bucco-dentaire": 0,
+            "B. Corriger les mauvaises habitudes": 0,
+            "C. Effectuer une gingivectomie le plus tôt possible": 1,
+            "D. Traitement de base parodontal": 0
+        }
+    },
+    {
+        "input": "Homme, 25 ans, douleur spontanée aux dents inférieures gauches aux stimuli thermiques depuis 3 jours. Il y a six mois, les dents inférieures gauches ont commencé à présenter une douleur aux stimuli thermiques, puis une sensation de malaise persistante. L'examen révèle une carie sur la surface distale de la première prémolaire inférieure gauche, perforation pulpaire, réaction au sondage (++), percussion (±), et une papille gingivale distale hypertrophiée entrant dans la cavité carieuse. Le diagnostic correct et le traitement le plus approprié pour cette dent sont :____.\nA. Exacerbation aiguë de pulpite chronique nécessitant un traitement de canal radiculaire\nB. Exacerbation aiguë de pulpite chronique nécessitant une obturation canalaire\nC. Pulpite aiguë avec périapicite nécessitant un traitement de canal radiculaire\nD. Pulpite aiguë nécessitant une obturation canalaire",
+        "target_scores": {
+            "A. Exacerbation aiguë de pulpite chronique nécessitant un traitement de canal radiculaire": 1,
+            "B. Exacerbation aiguë de pulpite chronique nécessitant une obturation canalaire": 0,
+            "C. Pulpite aiguë avec périapicite nécessitant un traitement de canal radiculaire": 0,
+            "D. Pulpite aiguë nécessitant une obturation canalaire": 0
+        }
+    },
+    {
+        "input": "Quelle infection de l'espace est susceptible de provoquer une limitation sévère de l'ouverture buccale ?\nA. Espace buccal\nB. Espace masséterique\nC. Espace sous-lingual\nD. Espace sous-maxillaire",
+        "target_scores": {
+            "A. Espace buccal": 0,
+            "B. Espace masséterique": 1,
+            "C. Espace sous-lingual": 0,
+            "D. Espace sous-maxillaire": 0
+        }
+    },
+    {
+        "input": "Femme, 21 ans, douleur spontanée trois jours après une réparation des incisives supérieures. Examen : couronne céramique complète sur la dent supérieure droite 1, percussion (-), stimulus thermique (-), mobilité (-) ; carie sur la surface distale de la dent supérieure droite 2, palpation (+), percussion (+), stimulus thermique (+) ; radiographie montrant aucune ombre au niveau des apices des dents supérieures 1 et 2. La cause la plus probable de la douleur est :____.\nA. Pulpite aiguë de la dent 1 supérieure droite\nB. Pulpite aiguë de la dent 2 supérieure droite\nC. Périapicite aiguë de la dent 1 supérieure droite\nD. Périapicite aiguë de la dent 2 supérieure droite",
+        "target_scores": {
+            "A. Pulpite aiguë de la dent 1 supérieure droite": 0,
+            "B. Pulpite aiguë de la dent 2 supérieure droite": 1,
+            "C. Périapicite aiguë de la dent 1 supérieure droite": 0,
+            "D. Périapicite aiguë de la dent 2 supérieure droite": 0
+        }
+    },
+    {
+        "input": "L'espace d'extraction d'une prémolaire est de 7 mm, dont 6 mm sont occupés par le déplacement des dents postérieures et 1 mm par le recul des dents antérieures. Les dents postérieures appartiennent à :____.\nA. Ancrage absolu\nB. Ancrage faible\nC. Ancrage fort\nD. Ancrage modéré",
+        "target_scores": {
+            "A. Ancrage absolu": 0,
+            "B. Ancrage faible": 1,
+            "C. Ancrage fort": 0,
+            "D. Ancrage modéré": 0
+        }
+    },
+    {
+        "input": "Homme, 36 ans, gonflement et douleur dans la région sous-maxillaire gauche pendant la mastication, qui disparaît progressivement quelques heures après la mastication. L'orifice du canal de la glande sous-maxillaire est rouge et enflé, et une pression légère sur la glande provoque une émission de pus. Quel examen suivant aide à confirmer le diagnostic ?\nA. Radiographie de la partie antérieure de la mandibule\nB. Radiographie panoramique\nC. Radiographie postéro-antérieure de la mandibule\nD. Radiographie transversale de la mandibule",
+        "target_scores": {
+            "A. Radiographie de la partie antérieure de la mandibule": 0,
+            "B. Radiographie panoramique": 0,
+            "C. Radiographie postéro-antérieure de la mandibule": 0,
+            "D. Radiographie transversale de la mandibule": 1
+        }
+    },
+    {
+        "input": "Pour les tumeurs de petite taille, profondément situées et avec une muqueuse intacte, la méthode de biopsie la plus appropriée est :____.\nA. Biopsie extemporanée\nB. Biopsie par aspiration à l'aiguille fine\nC. Biopsie par excision\nD. Biopsie par incision",
+        "target_scores": {
+            "A. Biopsie extemporanée": 0,
+            "B. Biopsie par aspiration à l'aiguille fine": 1,
+            "C. Biopsie par excision": 0,
+            "D. Biopsie par incision": 0
+        }
+    },
+    {
+        "input": "Patient, homme, 60 ans, 6 ans après une chirurgie pour cancer de la langue, ayant subi une radiothérapie postopératoire de la région cervicale et sous-mandibulaire (dose inconnue). Il présente, depuis un mois, un ulcère persistant de la gencive mandibulaire, avec exposition osseuse locale et douleur aiguë en coup de poignard dans la région mandibulaire. Lequel parmi les diagnostics suivants est le plus probable ?\nA. Cancer de la gencive mandibulaire\nB. Névralgie du trijumeau primaire\nC. Ostéomyélite de la mandibule (forme marginale)\nD. Ostéoradionécrose mandibulaire",
+        "target_scores": {
+            "A. Cancer de la gencive mandibulaire": 0,
+            "B. Névralgie du trijumeau primaire": 0,
+            "C. Ostéomyélite de la mandibule (forme marginale)": 0,
+            "D. Ostéoradionécrose mandibulaire": 1
+        }
+    },
+    {
+        "input": "À propos de la méga-colite toxique, la description incorrecte est :____.\nA. Diminution de la tension de la paroi intestinale, disparition des mouvements péristaltiques du colon\nB. Hypokaliémie, lavement au sulfate de baryum ou utilisation de médicaments anticholinergiques comme facteurs déclenchants\nC. Les lésions sont les plus graves au niveau du rectum et du sigmoïde\nD. Mauvais pronostic, susceptible de provoquer une perforation intestinale aiguë",
+        "target_scores": {
+            "A. Diminution de la tension de la paroi intestinale, disparition des mouvements péristaltiques du colon": 0,
+            "B. Hypokaliémie, lavement au sulfate de baryum ou utilisation de médicaments anticholinergiques comme facteurs déclenchants": 0,
+            "C. Les lésions sont les plus graves au niveau du rectum et du sigmoïde": 1,
+            "D. Mauvais pronostic, susceptible de provoquer une perforation intestinale aiguë": 0
+        }
+    },
+    {
+        "input": "Femme, 18 ans, hospitalisée pour fièvre et ecchymoses sur les jambes inférieures depuis 1 semaine, numération sanguine : leucocytes$3{,}1\\times10^9/\\mathcal{L}$, érythrocytes$2{,}86\\times10^{12}/L$ hémoglobine80g/L, plaquettes$30\\times10^9/\\mathcal{L}$, frottis de moelle osseuse montrant une augmentation significative de lymphocytes primitifs à 80 %. Quelle situation est la moins commune dans l'examen de cette patiente ?\nA. Hyperplasie médullaire extrêmement active\nB. Inhibition de la lignée érythroïde\nC. Présence de corps d'Auer\nD. Réaction positive au PAS",
+        "target_scores": {
+            "A. Hyperplasie médullaire extrêmement active": 0,
+            "B. Inhibition de la lignée érythroïde": 0,
+            "C. Présence de corps d'Auer": 1,
+            "D. Réaction positive au PAS": 0
+        }
+    },
+    {
+        "input": "Homme, 40 ans, fièvre irrégulière, diarrhée, perte de poids progressive depuis 3 mois, découverte de ganglions lymphatiques superficiels multiples au cou et aux aisselles depuis 1 mois. Radiographie thoracique montrant une ombre en patch sur le poumon supérieur gauche. Numération sanguine : leucocytes$2{,}8\\times10^9/\\mathcal{L}$, neutrophiles 0,92, lymphocytes 0,08, plaquettes$250\\times10^{9}/\\mathcal{L}$,  hémoglobine 105 g/L. Le diagnostic le plus probable est ____\nA. Entérite\nB. SIDA\nC. Tuberculose pulmonaire\nD. Tumeur pulmonaire",
+        "target_scores": {
+            "A. Entérite": 0,
+            "B. SIDA": 1,
+            "C. Tuberculose pulmonaire": 0,
+            "D. Tumeur pulmonaire": 0
+        }
+    },
+    {
+        "input": "Homme, 65 ans, réanimation cardio-pulmonaire après un arrêt cardiaque. Laquelle des affirmations suivantes est correcte ?\nA. Bien qu'il y ait fibrillation ventriculaire, la défibrillation électrique ne peut être effectuée que si le traitement médicamenteux s'avère inefficace\nB. En dehors de la fibrillation ventriculaire, la lidocaïne est utilisée pour tous les autres types d'arrêt cardiaque\nC. La défibrillation électrique peut être répétée\nD. Utilisation routinière de bicarbonate de sodium pendant la réanimation cardio-pulmonaire",
+        "target_scores": {
+            "A. Bien qu'il y ait fibrillation ventriculaire, la défibrillation électrique ne peut être effectuée que si le traitement médicamenteux s'avère inefficace": 0,
+            "B. En dehors de la fibrillation ventriculaire, la lidocaïne est utilisée pour tous les autres types d'arrêt cardiaque": 0,
+            "C. La défibrillation électrique peut être répétée": 1,
+            "D. Utilisation routinière de bicarbonate de sodium pendant la réanimation cardio-pulmonaire": 0
+        }
+    },
+    {
+        "input": "Patient, homme, 25 ans, hématurie macroscopique détectée, alors que son urine contient ____ de sang par litre.\nA. 0,5ml\nB. ≥1ml\nC. ≥2ml\nD. ≥3ml",
+        "target_scores": {
+            "A. 0,5ml": 0,
+            "B. ≥1ml": 1,
+            "C. ≥2ml": 0,
+            "D. ≥3ml": 0
+        }
+    },
+    {
+        "input": "Patiente, femme, 55 ans. Gonflement des ganglions lymphatiques axillaires depuis 1 mois. Suspect de lymphome, laquelle des caractéristiques suivantes ne correspond pas à un ganglion lymphatique d’allure lymphomateuse ?\nA. Absence d'augmentation progressive\nB. Douleur des ganglions lymphatiques après une consommation alcoolique modérée\nC. Fusion en conglomérat\nD. Indolore",
+        "target_scores": {
+            "A. Absence d'augmentation progressive": 1,
+            "B. Douleur des ganglions lymphatiques après une consommation alcoolique modérée": 0,
+            "C. Fusion en conglomérat": 0,
+            "D. Indolore": 0
+        }
+    },
+    {
+        "input": "Patiente, femme, 18 ans, visite médicale pour un bruit cardiaque détecté. Elle ne tolère pas les activités physiques intenses, sans œdème des membres inférieures ni dyspnée nocturne, mais est sujette aux rhumes. Examen : tension artérielle 130/80 mmHg, fréquence cardiaque 90 battements par minute. S1 abaissé, S2 légèrement augmenté. A : bruit systolique de reflux 3/6 vers l'aisselle gauche, un clic systolique systolique peut être entendu aux 4ème et 5ème espaces intercostaux, le clic systolique est plus évident après la position accroupie et debout, pas de rales secs ou humides dans les poumons, foie et rate non palpables, pas d'œdème des membres inférieures. Le diagnostic primaire pour ce cas est :____.\nA. Défaut de la paroi interventriculaire\nB. Insuffisance mitrale\nC. Insuffisance tricuspide\nD. Sténose aortique",
+        "target_scores": {
+            "A. Défaut de la paroi interventriculaire": 0,
+            "B. Insuffisance mitrale": 1,
+            "C. Insuffisance tricuspide": 0,
+            "D. Sténose aortique": 0
+        }
+    },
+    {
+        "input": "Homme, 45 ans, greffe pulmonaire il y a 3 ans, puis insuffisance rénale nécessitant une greffe rénale, 18 heures après l'opération, la diurèse est de 1200 ml, mais à partir de 20 heures, l'anurie se produit progressivement, et la créatinine sanguine augmente rapidement. La réaction de rejet qu'il a subie est :____.\nA. Réaction de rejet aiguë\nB. Réaction de rejet chronique\nC. Réaction de rejet hyperaiguë\nD. Réaction de rejet vasculaire",
+        "target_scores": {
+            "A. Réaction de rejet aiguë": 0,
+            "B. Réaction de rejet chronique": 0,
+            "C. Réaction de rejet hyperaiguë": 1,
+            "D. Réaction de rejet vasculaire": 0
+        }
+    },
+    {
+        "input": "Homme, 45 ans, hospitalisé 2 heures après un choc abdominal par le volant lors d'un accident de voiture. Examen : tension artérielle 120/80 mmHg, pouls 90 battements par minute, respiration 24 fois par minute, ventre de bois, douleur et signe de rebond positif à la palpation de l'abdomen, radiographie de l'abdomen en position debout montre du gaz libre sous le diaphragme, la lésion la plus probable est :____.\nA. Rupture de l'estomac ou du duodénum\nB. Rupture de la rate\nC. Rupture du foie\nD. Rupture du pancréas",
+        "target_scores": {
+            "A. Rupture de l'estomac ou du duodénum": 1,
+            "B. Rupture de la rate": 0,
+            "C. Rupture du foie": 0,
+            "D. Rupture du pancréas": 0
+        }
+    },
+    {
+        "input": "Patient, 20 ans, hématémèses récidivantes, selles noires, saignements cutanés et muqueux depuis 1 semaine. Foie et rate pas augmentés, hémoglobine 76 g/L, numération des leucocytes $5{,}0\\times10^9/\\mathcal{L}$, numération des plaquettes$10\\times10^9/\\mathcal{L}$, hyperplasie médullaire, rapport myéloïde/érythroïde de 5:1, augmentation du nombre de mégacaryocytes, augmentation de la proportion de mégacaryocytes immatures. Le diagnostic le plus probable est ____\nA. Anémie aplasique\nB. Leucémie aiguë\nC. Purpura allergique\nD. Purpura thrombopénique idiopathique",
+        "target_scores": {
+            "A. Anémie aplasique": 0,
+            "B. Leucémie aiguë": 0,
+            "C. Purpura allergique": 0,
+            "D. Purpura thrombopénique idiopathique": 1
+        }
+    },
+    {
+        "input": "Homme, 30 ans, antécédent de toxicomanie intraveineuse, consulte pour une douleur buccale et une dysphagie depuis 10 jours. Examen physique : un ganglion lymphatique d'environ 1,5 cm de taille sous chaque aisselle, ferme, sans douleur à la palpation, mobile. Les lèvres sont grisâtres, plaques blanches laiteuses sont dispersées sur la muqueuse buccale et la langue dorsale, avec une douleur au toucher, difficile à enlever. Les sons respiratoires pulmonaires sont rudes, le cœur et l'abdomen sont normaux. La radiographie thoracique suggère une tuberculose pulmonaire. Les sécrétions buccales montrent des mycéliums et des spores fongiques. Le diagnostic est une tuberculose pulmonaire. Ce patient devrait être hautement suspectée de quelle maladie ?\nA. Immunodéficience congénitale\nB. SIDA\nC. Tumeur pharyngée\nD. Tumeur pulmonaire",
+        "target_scores": {
+            "A. Immunodéficience congénitale": 0,
+            "B. SIDA": 1,
+            "C. Tumeur pharyngée": 0,
+            "D. Tumeur pulmonaire": 0
+        }
+    },
+    {
+        "input": "Femme, 29 ans, hospitalisée pour une gingivorrhagie et une fièvre basse depuis 1 semaine, examen sanguin : leucocytes$11{,}3×10^9/L$, érythrocytes$2{,}6×10^12/L$,  hémoglobine 68 g/L, plaquettes$30×10^9/L$, la ponction de moelle osseuse indique une leucémie monocytique aiguë (M5), quel signe clinique est le moins fréquent ?\nA. Douleur à la palpation du sternum\nB. Gonflement gingival\nC. Hépatosplénomégalie\nD. Ictère scléral",
+        "target_scores": {
+            "A. Douleur à la palpation du sternum": 0,
+            "B. Gonflement gingival": 0,
+            "C. Hépatosplénomégalie": 0,
+            "D. Ictère scléral": 1
+        }
+    },
+    {
+        "input": "Homme, 27 ans, consulte pour une sensation de plénitude dans l’hypochondre gauche accompagnée d’une asthénie généralisée depuis 3 mois., l'examen révèle une légère anémie, une douleur légère à la palpation de la pointe sternale, une splénomégalie massive, numération sanguine : leucocytes$172\\times10^9/\\mathcal{L}$, augmentation des cellules immatures, érythrocytes 3,50×10^12/L, hémoglobine 90 g/L, plaquettes$78\\times10^9/\\mathcal{L}$, hyperplasie médullaire extrêmement active, 36 % de myéloblastes, une augmentation des granulocytes en stade moyen et tardif en dehors des limites normales, le diagnostic pour ce patient est :____.\nA. Leucémie myéloïde aiguë (non différenciée)\nB. Leucémie myéloïde chronique (phase accélérée)\nC. Leucémie myéloïde chronique (phase blastique)\nD. Leucémie myéloïde chronique (phase chronique)",
+        "target_scores": {
+            "A. Leucémie myéloïde aiguë (non différenciée)": 0,
+            "B. Leucémie myéloïde chronique (phase accélérée)": 0,
+            "C. Leucémie myéloïde chronique (phase blastique)": 1,
+            "D. Leucémie myéloïde chronique (phase chronique)": 0
+        }
+    },
+    {
+        "input": "Femme, 35 ans. Diagnostiquée d'anémie hémolytique. Le traitement par corticostéroïdes n'est pas approprié pour le traitement de la cause suivante de l'anémie hémolytique :____.\nA. Anémie hémolytique auto-immune\nB. Anémie thalassémique\nC. Hémoglobinurie paroxystique nocturne\nD. Lupus érythémateux systémique",
+        "target_scores": {
+            "A. Anémie hémolytique auto-immune": 0,
+            "B. Anémie thalassémique": 1,
+            "C. Hémoglobinurie paroxystique nocturne": 0,
+            "D. Lupus érythémateux systémique": 0
+        }
+    },
+    {
+        "input": "Patiente, 25 ans, après une thyroïdectomie partielle pour hyperthyroïdie primaire depuis 10 heures, la patient est agitée, a des difficultés respiratoires, des lèvres cyanosées, le pansement de la plaie est sec, aucun liquide sanguin dans le drain, le cou est gonflé. Le traitement correct pour cette patiente est :____.\nA. Exploration chirurgicale immédiate en salle d'opération\nB. Incision immédiate au chevet pour évacuer l'hématome\nC. Intubation trachéale immédiate et oxygénothérapie à pression positive\nD. Trachéotomie immédiate",
+        "target_scores": {
+            "A. Exploration chirurgicale immédiate en salle d'opération": 0,
+            "B. Incision immédiate au chevet pour évacuer l'hématome": 1,
+            "C. Intubation trachéale immédiate et oxygénothérapie à pression positive": 0,
+            "D. Trachéotomie immédiate": 0
+        }
+    },
+    {
+        "input": "Patiente, 18 ans, une protéinurie massive est détectée, alors sa quantité de protéines en 24 heures est :____.\nA. >1,0g/d\nB. >2,0g/d\nC. >3,0g/d\nD. >3,5g/d",
+        "target_scores": {
+            "A. >1,0g/d": 0,
+            "B. >2,0g/d": 0,
+            "C. >3,0g/d": 0,
+            "D. >3,5g/d": 1
+        }
+    },
+    {
+        "input": "Homme, 32 ans, hospitalisé pour fièvre, toux, expectoration de crachats blancs depuis 5 jours, essoufflement depuis 2 jours. Histoire de consommation de drogues, examen : température 38,5 °C, pouls 128 battements par minute, respiration 44 fois par minute, tension artérielle 110/70 mmHg, respiration rapide, lèvres cyanosées, aucun ganglion lymphatique palpable, légers rales humides au bas des poumons. Radiographie thoracique montrant une lésion interstitielle pulmonaire, numération sanguine : leucocytes3,8×10^9/L, neutrophiles 0,92, lymphocytes 0,08, plaquettes$250 \\times 10^{9} / \\mathcal{L}$, hémoglobine 105 g/L, test anti-VIH positif. Le diagnostic préliminaire est le SIDA, la complication pulmonaire la plus probable est :____.\nA. Pneumonie bactérienne\nB. Pneumonie virale\nC. Pneumonie à Mycoplasma\nD. Pneumonie à Pneumocystis",
+        "target_scores": {
+            "A. Pneumonie bactérienne": 0,
+            "B. Pneumonie virale": 0,
+            "C. Pneumonie à Mycoplasma": 0,
+            "D. Pneumonie à Pneumocystis": 1
+        }
+    },
+    {
+        "input": "Homme, 58 ans, antécédent d'hypertension artérielle de 10 ans, suivi régulier en consultation externe, la tension artérielle fluctue récemment entre 180-190/100-110 mmHg, radiographie montrant un cœur à type aortique, électrocardiogramme avec voltage élevé du ventricule gauche, protéinurie (+), le diagnostic le plus approprié est :____.\nA. Hypertension de grade 1, groupe à haut risque\nB. Hypertension de grade 2, groupe à très haut risque\nC. Hypertension de grade 3, groupe à très haut risque\nD. Hypertension secondaire",
+        "target_scores": {
+            "A. Hypertension de grade 1, groupe à haut risque": 0,
+            "B. Hypertension de grade 2, groupe à très haut risque": 0,
+            "C. Hypertension de grade 3, groupe à très haut risque": 1,
+            "D. Hypertension secondaire": 0
+        }
+    },
+    {
+        "input": "Femme, 60 ans. Vertige, fatigue depuis 2 semaines, amaigrissement progressif.\nExamen : aspect anémique, un ganglion lymphatique de la taille d'un demi-pouce palpable au niveau du cou gauche, foie et rate palpables à 2 doigts sous les côtes.\nNumération sanguine : leucocytes $5{,}0 \\times 10^9/\\mathcal{L}$, hémoglobine 52 g/L, plaquettes $165 \\times 10^9/\\mathcal{L}$.\nBilirubine non conjuguée 56 µmol/L. Moelle osseuse : conforme à l'anémie hémolytique. Test de Coombs positif.\nLe traitement régulier par corticostéroïdes pendant 4 semaines a été inefficace, cette condition peut être secondaire à quel type de tumeur ?\nA. Cancer du foie\nB. Cancer métastatique\nC. Lymphome non hodgkinien\nD. Myélome multiple",
+        "target_scores": {
+            "A. Cancer du foie": 0,
+            "B. Cancer métastatique": 0,
+            "C. Lymphome non hodgkinien": 1,
+            "D. Myélome multiple": 0
+        }
+    },
+    {
+        "input": "Homme, 50 ans, fièvre, dyspnée depuis 3 semaines. Radiographie thoracique : une grande quantité d'effusion pleurale à gauche. Échographie abdominale : hépatosplénomégalie. Numération sanguine : leucocytes$2{,}0\\times10^9/\\mathcal{L}$, hémoglobine 82 g/L, plaquettes$65\\times10^9/\\mathcal{L}$. Biopsie de moelle osseuse : lymphome à grandes cellules anaplasiques. Ce type de lymphome est souvent mal diagnostiqué par le passé comme :____.\nA. Histiocytose maligne\nB. Leucémie monocytique aiguë\nC. Lymphadénite nécrosante\nD. Syndrome de la phagocytose hémophagocytaire",
+        "target_scores": {
+            "A. Histiocytose maligne": 1,
+            "B. Leucémie monocytique aiguë": 0,
+            "C. Lymphadénite nécrosante": 0,
+            "D. Syndrome de la phagocytose hémophagocytaire": 0
+        }
+    },
+    {
+        "input": "Homme, 52 ans, depuis 2 à 3 mois, des douleurs thoraciques intermittentes apparaissent après avoir monté des escaliers ou marché, l'électrocardiogramme au repos est normal. Pour établir un diagnostic précis, des examens supplémentaires sont nécessaires. Parmi les affirmations suivantes concernant le diagnostic de la maladie coronarienne, laquelle est correcte ?\nA. L'angiographie coronaire peut détecter les sites des lésions sténosantes des artères et estimer leur degré\nB. L'échographie intravasculaire est le principal moyen de diagnostic de la maladie coronarienne\nC. La tomographie par émission de positons (TEP) est un moyen fiable pour confirmer la maladie coronarienne\nD. Une épreuve d'effort positif peut confirmer la maladie coronarienne",
+        "target_scores": {
+            "A. L'angiographie coronaire peut détecter les sites des lésions sténosantes des artères et estimer leur degré": 1,
+            "B. L'échographie intravasculaire est le principal moyen de diagnostic de la maladie coronarienne": 0,
+            "C. La tomographie par émission de positons (TEP) est un moyen fiable pour confirmer la maladie coronarienne": 0,
+            "D. Une épreuve d'effort positif peut confirmer la maladie coronarienne": 0
+        }
+    },
+    {
+        "input": "Les patients hypertendus qui utilisent à long terme des inhibiteurs de l'enzyme de conversion de l'angiotensine (ACEI) peuvent développer une toux sèche irritante. La cause est :____.\nA. Augmentation de la bradykinine dans l’organisme\nB. L'action irritante des ACEI\nC. Les ACEI peuvent promouvoir le mouvement ciliaire\nD. Les ACEI réduisent les sécrétions bronchiques",
+        "target_scores": {
+            "A. Augmentation de la bradykinine dans l’organisme": 1,
+            "B. L'action irritante des ACEI": 0,
+            "C. Les ACEI peuvent promouvoir le mouvement ciliaire": 0,
+            "D. Les ACEI réduisent les sécrétions bronchiques": 0
+        }
+    },
+    {
+        "input": "Femme, 24 ans, une bosse progressivement apparue sous le genou droit avec une douleur et gonflement depuis plus de 8 mois. Examen physique : le genou droit a une mobilité normale, une bosse enflée sous le genou et à l'extrémité supérieure du tibia, avec une douleur à la palpation. La radiographie montre une zone de destruction à l'extrémité supérieure du tibia droit, l'épaisseur osseuse est réduite, avec une modification en forme de bulle de savon au centre, sans réaction périostée évidente. Le diagnostic devrait être :____.\nA. Kyste osseux\nB. Ostéomyélite\nC. Sarcome osseux\nD. Tumeur à cellules géantes",
+        "target_scores": {
+            "A. Kyste osseux": 0,
+            "B. Ostéomyélite": 0,
+            "C. Sarcome osseux": 0,
+            "D. Tumeur à cellules géantes": 1
+        }
+    },
+    {
+        "input": "Patient masculin de 3 ans, souffrant de pneumonie compliquée par un choc, avec une diurèse de 350 ml en 24 heures, une créatinine sanguine de 325 µmol/L. Cliniquement, une nécrose tubulaire aiguë est envisagée. L'indicateur diagnostique urinaire le plus probable est :____.\nA. Densité urinaire 1,010\nB. Fraction d’excrétion du sodium (FENa)＜1\nC. Indice de défaillance rénale < 1\nD. Sodium urinaire 15 mmol/L",
+        "target_scores": {
+            "A. Densité urinaire 1,010": 1,
+            "B. Fraction d’excrétion du sodium (FENa)＜1": 0,
+            "C. Indice de défaillance rénale < 1": 0,
+            "D. Sodium urinaire 15 mmol/L": 0
+        }
+    },
+    {
+        "input": "Patient masculin de 18 ans, consulte pour une douleur osseuse depuis 2 ans. Examen : pH urinaire 5,0, sucre dans l'urine (++), acides aminés dans l'urine (+), cristaux de phosphates dans l'urine (++), potassium sanguin 3,0 mmol/L, calcium sanguin 2,0 mmol/L, glycémie 4,6 mmol/L, pH sanguin 7,35, chlore sanguin 110 mmol/L. Le diagnostic le plus probable est :____.\nA. Acidose tubulaire rénale de type III\nB. Acidose tubulaire rénale de type IV\nC. Acidose tubulaire rénale distale hypokaliémique\nD. Syndrome de Fanconi",
+        "target_scores": {
+            "A. Acidose tubulaire rénale de type III": 0,
+            "B. Acidose tubulaire rénale de type IV": 0,
+            "C. Acidose tubulaire rénale distale hypokaliémique": 0,
+            "D. Syndrome de Fanconi": 1
+        }
+    },
+    {
+        "input": "Homme, 38 ans, après une consommation excessive d'alcool il y a 4 heures, une douleur abdominale aiguë est apparue. Une position courbée peut atténuer la douleur. Il y a une douleur à la palpation de l'abdomen supérieur et une légère tension musculaire abdominale. Le diagnostic le plus probable est :____.\nA. Cholécystite aiguë\nB. Gastrite aiguë\nC. Gastro-entérite aiguë\nD. Pancréatite aiguë",
+        "target_scores": {
+            "A. Cholécystite aiguë": 0,
+            "B. Gastrite aiguë": 0,
+            "C. Gastro-entérite aiguë": 0,
+            "D. Pancréatite aiguë": 1
+        }
+    },
+    {
+        "input": "Femme de 68 ans, atteinte de bronchite chronique et d’emphysème depuis 12 ans. Il y a deux jours, après une toux violente, elle a soudainement présenté une douleur thoracique gauche, une dyspnée et une incapacité à rester allongée. Le diagnostic le plus probable est :____.\nA. Embolie pulmonaire\nB. Infarctus du myocarde\nC. Pleurésie tuberculeuse\nD. Pneumothorax spontané",
+        "target_scores": {
+            "A. Embolie pulmonaire": 0,
+            "B. Infarctus du myocarde": 0,
+            "C. Pleurésie tuberculeuse": 0,
+            "D. Pneumothorax spontané": 1
+        }
+    },
+    {
+        "input": "La méthode de greffe de petits fragments de peau autologue implantés dans une allogreffe de grande taille préalablement perforée exige généralement que la taille et l'espacement des fragments soient :____.\nA. Taille 0,1 cm × 0,1 cm, espacement 1,0 cm\nB. Taille 0,2 cm × 0,2 cm, espacement 0,5 cm\nC. Taille 0,5 cm × 0,5 cm, espacement 0,5 cm\nD. Taille 0,5 cm × 0,5 cm, espacement 1,0 cm",
+        "target_scores": {
+            "A. Taille 0,1 cm × 0,1 cm, espacement 1,0 cm": 0,
+            "B. Taille 0,2 cm × 0,2 cm, espacement 0,5 cm": 0,
+            "C. Taille 0,5 cm × 0,5 cm, espacement 0,5 cm": 0,
+            "D. Taille 0,5 cm × 0,5 cm, espacement 1,0 cm": 1
+        }
+    },
+    {
+        "input": "Femme de 50 ans, tuméfaction douloureuse de la lèvre supérieure depuis deux jours. À l’examen physique : une masse violacée est visible au milieu de la lèvre supérieure, avec un point purulent localisé. Le diagnostic est un furoncle de la lèvre supérieure. La complication la plus dangereuse est :____.\nA. Fièvre élevée\nB. Infection de l'espace sous-orbitaire\nC. Septicémie\nD. Thrombophlébite du sinus caverneux",
+        "target_scores": {
+            "A. Fièvre élevée": 0,
+            "B. Infection de l'espace sous-orbitaire": 0,
+            "C. Septicémie": 0,
+            "D. Thrombophlébite du sinus caverneux": 1
+        }
+    },
+    {
+        "input": "Un jeune patient a subi une ostéotomie et une odontotomie pour l’extraction d’une dent de sagesse en position mésio-angulaire incluse à droite de la mandibule. Quatre jours plus tard, une douleur intense continue est apparue, irradiant vers la région temporale et auriculaire. L'examen révèle un alvéole vide, avec une pseudomembrane grisâtre recouvrant la surface de l'os alvéolaire. Le diagnostic le plus probable est :____.\nA. Alvéolite ostéite\nB. Dommages aux dents adjacentes lors de l'extraction\nC. Fracture de la crête alvéolaire\nD. Réaction normale après extraction dentaire",
+        "target_scores": {
+            "A. Alvéolite ostéite": 1,
+            "B. Dommages aux dents adjacentes lors de l'extraction": 0,
+            "C. Fracture de la crête alvéolaire": 0,
+            "D. Réaction normale après extraction dentaire": 0
+        }
+    },
+    {
+        "input": "Patiente, fille, 11 ans, sans douleur spontanée. Examen bucco-dentaire : une carie superficielle est présente sur les surfaces occlusales des première et deuxième molaires temporaires supérieures gauches, sans douleur à la percussion ni à l'exploration. Laquelle des méthodes suivantes convient le moins ?\nA. Extraction\nB. Obturation à l’amalgame\nC. Réminéralisation\nD. Thérapie médicamenteuse",
+        "target_scores": {
+            "A. Extraction": 1,
+            "B. Obturation à l’amalgame": 0,
+            "C. Réminéralisation": 0,
+            "D. Thérapie médicamenteuse": 0
+        }
+    },
+    {
+        "input": "Le patient présente une carie profonde sur la face mésio-occlusale de la première molaire inférieure gauche, sensible à l’exploration, sans douleur à la percussion, avec une sensibilité transitoire au froid. Si le diagnostic est une carie profonde, le traitement approprié est :____.\nA. Obturation au ciment d'hydroxyde de calcium et ionomère de verre\nB. Obturation en résine composite\nC. Obturation à l'amalgame après double couche de base\nD. Traitement endodontique",
+        "target_scores": {
+            "A. Obturation au ciment d'hydroxyde de calcium et ionomère de verre": 0,
+            "B. Obturation en résine composite": 0,
+            "C. Obturation à l'amalgame après double couche de base": 1,
+            "D. Traitement endodontique": 0
+        }
+    },
+    {
+        "input": "Le patient présente une douleur à la stimulation thermique (froid et chaud) après une obturation en résine composite réalisée pour une lésion en coin sur une dent postérieure inférieure droite. Il évite de mastiquer. Examen : une obturation en résine composite est présente sur la première prémolaire maxillaire gauche (dent 25), avec douleur au froid qui s'atténue après retrait. Percussion positive, douleur marquée à la stimulation thermique (froid et chaud), qui persiste quelque temps après retrait du stimulus. Le principe de traitement pour la première prémolaire maxillaire gauche devrait être :___.\nA. Retrait de l'ancien obturation, apaisement avec pâte à huile de clou de girofle et oxyde de zinc\nB. Retrait de l'ancien obturation, nouvelle restauration\nC. Traitement de désensibilisation\nD. Traitement pulpaire",
+        "target_scores": {
+            "A. Retrait de l'ancien obturation, apaisement avec pâte à huile de clou de girofle et oxyde de zinc": 0,
+            "B. Retrait de l'ancien obturation, nouvelle restauration": 0,
+            "C. Traitement de désensibilisation": 0,
+            "D. Traitement pulpaire": 1
+        }
+    },
+    {
+        "input": "Patient masculin de 42 ans, une douleur intense des dents postérieures supérieures gauche depuis 5 jours, incapable de mâcher, avec une sensation de prolongation de la dent affectée. Si le diagnostic est un abcès sous-périostal aigu, le symptôme typique que le patient peut présenter est :____.\nA. Dent affectée avec mobilité de degré III, percussion (+++)\nB. Ganglions lymphatiques régionaux augmentés et douloureux à la palpation\nC. Rougeur et douleur gingivale à la palpation au niveau de l'apex\nD. Sillon vestibulaire aplati, sensation de fluctuation en profondeur",
+        "target_scores": {
+            "A. Dent affectée avec mobilité de degré III, percussion (+++)": 0,
+            "B. Ganglions lymphatiques régionaux augmentés et douloureux à la palpation": 0,
+            "C. Rougeur et douleur gingivale à la palpation au niveau de l'apex": 0,
+            "D. Sillon vestibulaire aplati, sensation de fluctuation en profondeur": 1
+        }
+    },
+    {
+        "input": "Homme, 70 ans. Une douleur et un gonflement de la partie antérieure de la mâchoire inférieure gauche il y a 3 semaines, qui ont été soulagés après un traitement antibiotique. Examen : un résidu de racine au dent 32, non mobile, une radiographie montre une zone radiotransparente périapicale de 3 mm × 5 mm de la racine, avec une légère résorption externe à l'apex. Le traitement à effectuer ce jour est :____.\nA. Chirurgie apicale\nB. Obturation canalaire\nC. Prothèse partielle amovible\nD. Traitement endodontique",
+        "target_scores": {
+            "A. Chirurgie apicale": 0,
+            "B. Obturation canalaire": 0,
+            "C. Prothèse partielle amovible": 0,
+            "D. Traitement endodontique": 1
+        }
+    },
+    {
+        "input": "Le patient a une douleur spontanée des dents postérieures droites depuis un jour, qui s'aggrave la nuit. Examen : une carie profonde sur la surface mésiale de la deuxième prémolaire supérieure droite. La méthode d'examen pour déterminer le diagnostic de la dent affectée est :___.\nA. Exploration par sondage\nB. Palpation\nC. Percussion\nD. Test thermique",
+        "target_scores": {
+            "A. Exploration par sondage": 0,
+            "B. Palpation": 0,
+            "C. Percussion": 0,
+            "D. Test thermique": 1
+        }
+    },
+    {
+        "input": "Homme, 21 ans, la première incisive supérieure gauche est complètement arrachée à cause d'un traumatisme. Le choix erroné concernant la méthode de traitement est :____.\nA. Replantation immédiate dans les 30 minutes après un traumatisme\nB. Si le temps de déplacement de la dent dépasse 2 heures, seul un traitement de canal radiculaire en dehors de la bouche peut être effectué avant la réimplantation\nC. Si une dent complètement avulsée et contaminée est rincée avec du sérum physiologique et non replacée immédiatement, elle doit être conservée au sec\nD. Si une dent est tombée et contaminée, il faut la rincer avec du sérum physiologique sur place et la remplacer immédiatement",
+        "target_scores": {
+            "A. Replantation immédiate dans les 30 minutes après un traumatisme": 0,
+            "B. Si le temps de déplacement de la dent dépasse 2 heures, seul un traitement de canal radiculaire en dehors de la bouche peut être effectué avant la réimplantation": 0,
+            "C. Si une dent complètement avulsée et contaminée est rincée avec du sérum physiologique et non replacée immédiatement, elle doit être conservée au sec": 1,
+            "D. Si une dent est tombée et contaminée, il faut la rincer avec du sérum physiologique sur place et la remplacer immédiatement": 0
+        }
+    },
+    {
+        "input": "Homme, 22 ans, une douleur lors de l’inclusion alimentaire et une sensibilité aux stimuli thermiques, sucrés et acides sur la deuxième molaire supérieure gauche récemment, mais sans douleur spontanée. Examen : une carie profonde sur la surface occlusale de la deuxième molaire supérieure gauche, sensible à l’exploration du fond de la cavité, sans douleur à la percussion. Le principal problème à clarifier avant le traitement est :____.\nA. Emplacement de la carie\nB. Quantité de tissu carieux\nC. Réaction du complexe pulpe-dentine\nD. Taille de la cavité carieuse",
+        "target_scores": {
+            "A. Emplacement de la carie": 0,
+            "B. Quantité de tissu carieux": 0,
+            "C. Réaction du complexe pulpe-dentine": 1,
+            "D. Taille de la cavité carieuse": 0
+        }
+    },
+    {
+        "input": "Homme, 28 ans. Des dents tachées par la tétracycline en raison d'une consommation fréquente pendant l'enfance, affectant l'esthétique et nécessitant un blanchiment. Le médicament le plus approprié pour le blanchiment est ____.\nA. Acide phosphorique à 30%\nB. Hydroxyde de calcium à 30%\nC. Hypochlorite de sodium à 30%\nD. Peroxyde d'hydrogène à 30%",
+        "target_scores": {
+            "A. Acide phosphorique à 30%": 0,
+            "B. Hydroxyde de calcium à 30%": 0,
+            "C. Hypochlorite de sodium à 30%": 0,
+            "D. Peroxyde d'hydrogène à 30%": 1
+        }
+    },
+    {
+        "input": "Patient masculin de 36 ans, une douleur spontanée des dents postérieures gauches depuis un jour, qui s'aggrave la nuit. Examen : une carie profonde sur la face mésiale de la deuxième prémolaire supérieure gauche. La méthode d'examen pour déterminer le diagnostic de la dent affectée est :____.\nA. Exploration par sondage\nB. Palpation\nC. Radiographie\nD. Test thermique",
+        "target_scores": {
+            "A. Exploration par sondage": 0,
+            "B. Palpation": 0,
+            "C. Radiographie": 0,
+            "D. Test thermique": 1
+        }
+    },
+    {
+        "input": "Femme, 46 ans. Une sensibilité aux stimuli thermiques des dents postérieures gauche depuis une semaine. Examen : une carie sur la septième dent supérieure gauche, avec un fond de cavité profond et proche de la pulpe. La douleur est marquée pendant le processus de débridement. La méthode de traitement préférée devrait être :____.\nA. Pansement sédatif ou coiffage pulpaire indirect (indirect pulp capping)\nB. Remplissage permanent avec base de ciment de zinc polyacrylate\nC. Remplissage permanent avec base de ciment de zinc à l'huile de clou de girofle\nD. Traitement pulpaire sous anesthésie locale avec ouverture pulpaire",
+        "target_scores": {
+            "A. Pansement sédatif ou coiffage pulpaire indirect (indirect pulp capping)": 1,
+            "B. Remplissage permanent avec base de ciment de zinc polyacrylate": 0,
+            "C. Remplissage permanent avec base de ciment de zinc à l'huile de clou de girofle": 0,
+            "D. Traitement pulpaire sous anesthésie locale avec ouverture pulpaire": 0
+        }
+    },
+    {
+        "input": "Homme, 2 ans et demi. Quatre incisives supérieures ont des caries profondes sur la face labiale, et les premières molaires temporaires supérieures ont des caries superficielles sur la face buccale et la surface occlusale. L'enfant a l'habitude de boire du lait la nuit. On devrait considérer :____.\nA. Caries chez les nourrissons et les jeunes enfants\nB. Caries multiples\nC. Caries rampantes\nD. Caries à biberon",
+        "target_scores": {
+            "A. Caries chez les nourrissons et les jeunes enfants": 0,
+            "B. Caries multiples": 0,
+            "C. Caries rampantes": 0,
+            "D. Caries à biberon": 1
+        }
+    },
+    {
+        "input": "Enfant de 10 ans, une douleur aux incisives supérieures lors de la stimulation thermique froide depuis quelques jours. Examen : une carie profonde sur la face mésiale de l'incisive centrale supérieure droite, sans anomalie à la percussion, pas de mobilité, une douleur transitoire lors du test thermique froid. Traitement : l’excavation carieuse s’approche très près de la pulpe, avec une sensibilité notable. La méthode de traitement à choisir est :___.\nA. Coiffage pulpaire direct\nB. Coiffage pulpaire indirect avec pâte à eugénol et oxyde de zinc\nC. Deuxième débridement de la carie\nD. Pulpotomie",
+        "target_scores": {
+            "A. Coiffage pulpaire direct": 0,
+            "B. Coiffage pulpaire indirect avec pâte à eugénol et oxyde de zinc": 1,
+            "C. Deuxième débridement de la carie": 0,
+            "D. Pulpotomie": 0
+        }
+    },
+    {
+        "input": "Enfant, fille, 5 ans, une douleur aux incisives supérieures lors de la stimulation thermique froide et chaude depuis une semaine, sans douleur spontanée ni nocturne. Examen : une carie moyenne sur la face mésio-linguale de la première incisive supérieure gauche, sensible à la palpation, sans douleur à la percussion, pas de perforation de la pulpe. Le matériau de remplissage le plus correct pour le traitement de remplissage est :____.\nA. Amalgam\nB. Ciment verre ionomère\nC. Eugénol et oxyde de zinc\nD. Résine composite à photopolymérisation",
+        "target_scores": {
+            "A. Amalgam": 0,
+            "B. Ciment verre ionomère": 1,
+            "C. Eugénol et oxyde de zinc": 0,
+            "D. Résine composite à photopolymérisation": 0
+        }
+    },
+    {
+        "input": "Homme, 52 ans. Diagnostiqué avec le diabète de type 2 depuis 1 an, traité avec une alimentation raisonnable et de l'exercice, et prenant de la métformine 500 mg trois fois par jour. Examen : taille 173 cm, poids 78 kg, tension artérielle 130/90 mmHg, aucune anomalie trouvée lors de l'examen du cœur, des poumons et de l'abdomen. Reprise : glycémie à jeun 5,2 mmol/L, glycémie 2 heures après les 3 repas respectivement 11,4 mmol/L, 13,1 mmol/L et 12,6 mmol/L. Le traitement le plus raisonnable à suivre est :____.\nA. Ajout d'un hypoglycémiant sulfonylurée\nB. Ajout d'un inhibiteur de l'alpha-glucosidase\nC. Augmentation de la dose de métformine\nD. Changement vers un hypoglycémiant sulfonylurée",
+        "target_scores": {
+            "A. Ajout d'un hypoglycémiant sulfonylurée": 0,
+            "B. Ajout d'un inhibiteur de l'alpha-glucosidase": 1,
+            "C. Augmentation de la dose de métformine": 0,
+            "D. Changement vers un hypoglycémiant sulfonylurée": 0
+        }
+    },
+    {
+        "input": "Femme, 16 ans. Une hypercaroténémie due à une consommation excessive d'oranges, avec une jaunisse de la peau et des muqueuses, d'abord visible sur :____.\nA. Muqueuse buccale\nB. Paumes des mains, plantes des pieds\nC. Sclère\nD. Tronc",
+        "target_scores": {
+            "A. Muqueuse buccale": 0,
+            "B. Paumes des mains, plantes des pieds": 1,
+            "C. Sclère": 0,
+            "D. Tronc": 0
+        }
+    },
+    {
+        "input": "Patient, 45 ans, ouvrier, douleur abdominale supérieure depuis 6 ans, douleur avant les repas avec régurgitation acide, une douleur abdominale aiguë il y a 2 heures, continue, irradiant vers le dos, examen : abdomen en plaque, douleur abdominale et douleur à la décompression marquées, T38,5℃, leucocytes élevés, neutrophiles 70 %, le diagnostic à envisager en premier est :____.\nA. Cancer de l'estomac\nB. Gastrite chronique\nC. Perforation d'ulcère duodénal\nD. Ulcère peptique",
+        "target_scores": {
+            "A. Cancer de l'estomac": 0,
+            "B. Gastrite chronique": 0,
+            "C. Perforation d'ulcère duodénal": 1,
+            "D. Ulcère peptique": 0
+        }
+    },
+    {
+        "input": "Enfant de 5 ans. Des céphalées paroxystiques depuis 3 mois, admis aux urgences pour des céphalées aiguës et des vomissements répétés depuis la matinée, examen : conscient, pupilles normales, raideur de la nuque, une demi-heure plus tard, un arrêt respiratoire soudain, mais le cœur bat encore, le diagnostic est :____.\nA. Adénome hypophysaire\nB. Engagement cérébral\nC. Méningite aiguë\nD. Œdème cérébral aigu",
+        "target_scores": {
+            "A. Adénome hypophysaire": 0,
+            "B. Engagement cérébral": 1,
+            "C. Méningite aiguë": 0,
+            "D. Œdème cérébral aigu": 0
+        }
+    },
+    {
+        "input": "Patient, homme, 28 ans, précédemment en bonne santé mentale, juste après être descendu du train en voyage, il a soudainement senti qu'une guerre allait éclater parce que beaucoup de gens couraient vers la sortie. Le trouble le plus probable est :____.\nA. Délire primaire\nB. Délire secondaire\nC. Illusion\nD. trouble de l’intégration perceptuelle",
+        "target_scores": {
+            "A. Délire primaire": 1,
+            "B. Délire secondaire": 0,
+            "C. Illusion": 0,
+            "D. trouble de l’intégration perceptuelle": 0
+        }
+    },
+    {
+        "input": "Patiente, femme, 30 ans, fièvre continue depuis 2 semaines, antécédent de maladie cardiaque congénitale. Examen clinique à l'admission : faciès anémique, souffle systolique rugueux de grade 4/6 avec frémissement au bord sternal gauche, 3ème-4ème espace intercostal, splénomégalie palpable à 2 cm sous le rebord costal, deux hémocultures positives. Trois jours après l'admission, une dyspnée soudaine, une douleur thoracique, des épisodes répétés de crachats de sang, le diagnostic le plus probable est :____.\nA. Défaut de la paroi interventriculaire avec bronchiectasie\nB. Défaut de la paroi interventriculaire avec insuffisance cardiaque aiguë\nC. Endocardite infectieuse avec embolie pulmonaire aiguë\nD. Endocardite infectieuse avec infection pulmonaire",
+        "target_scores": {
+            "A. Défaut de la paroi interventriculaire avec bronchiectasie": 0,
+            "B. Défaut de la paroi interventriculaire avec insuffisance cardiaque aiguë": 0,
+            "C. Endocardite infectieuse avec embolie pulmonaire aiguë": 1,
+            "D. Endocardite infectieuse avec infection pulmonaire": 0
+        }
+    },
+    {
+        "input": "Homme, 28 ans, au printemps et à l'automne chaque année. Des lésions muqueuses congestionnées et oedémateuses sur les lèvres, les joues, etc., parfois avec des érythèmes et des vésicules. Mais les vésicules se rompent rapidement, et les lésions deviennent de grandes ulcérations. La surface ulcérée a une grande quantité de sécrétion formant une épaisse membrane. Le diagnostic probable est :____.\nA. Erythème\nB. Erythème polymorphe exsudatif\nC. Leucoplasie\nD. Stomatite tuberculeuse",
+        "target_scores": {
+            "A. Erythème": 0,
+            "B. Erythème polymorphe exsudatif": 1,
+            "C. Leucoplasie": 0,
+            "D. Stomatite tuberculeuse": 0
+        }
+    },
+    {
+        "input": "Une dent gravement cariée a été extraite, révélant un tissu adhérent à la région apicale. L'examen microscopique montre une infiltration de lymphocytes, de plasmocytes et de macrophages, ainsi qu'une prolifération d'endothélium vasculaire et de fibroblastes. Des îlots de prolifération épithéliale irréguliers et des cellules spumeuses sont également observés. Le diagnostic pathologique devrait être :____.\nA. Abcès alvéolaire\nB. Granulome apical\nC. Kyste apical\nD. Parodontite apicale aiguë",
+        "target_scores": {
+            "A. Abcès alvéolaire": 0,
+            "B. Granulome apical": 1,
+            "C. Kyste apical": 0,
+            "D. Parodontite apicale aiguë": 0
+        }
+    },
+    {
+        "input": "Femme, 45 ans, gonflement des gencives des incisives inférieures depuis 2 ans, avec des écoulements purulents et sanguins intermittents, et une sensation de mobilité dentaire. L'examen révèle des gencives rouges et gonflées, une mobilité de degré 2 des incisives centrales et latérales inférieures, une présence importante de tartre sur les surfaces radiculaires, une poche parodontale de 5 mm de profondeur avec une petite quantité de pus à l'intérieur. On devrait d'abord envisager :____.\nA. Atrophie parodontale\nB. Gingivite chronique\nC. Hyperplasie gingivale\nD. Parodontite",
+        "target_scores": {
+            "A. Atrophie parodontale": 0,
+            "B. Gingivite chronique": 0,
+            "C. Hyperplasie gingivale": 0,
+            "D. Parodontite": 1
+        }
+    },
+    {
+        "input": "La substitution de tissu fibreux à l'os normal, avec des trabécules osseuses de métaplasie à l'intérieur, est observée chez les patients atteints de :____.\nA. Chérubisme familial\nB. Dysplasie fibreuse des os\nC. Fibrome ossifiant cémentaire\nD. Ostéomyélite chronique avec ostéopériostite productive",
+        "target_scores": {
+            "A. Chérubisme familial": 0,
+            "B. Dysplasie fibreuse des os": 1,
+            "C. Fibrome ossifiant cémentaire": 0,
+            "D. Ostéomyélite chronique avec ostéopériostite productive": 0
+        }
+    },
+    {
+        "input": "Patient masculin de 29 ans, gonflement de la partie antérieure du palais depuis 3 mois. La radiographie montre une zone de transparence circulaire à l'avant de la ligne médiane du palais. L'examen microscopique révèle un épithélium de revêtement en épithélium squameux stratifié et en épithélium pseudo-stratifié cilié. Le diagnostic pathologique le plus probable est :____.\nA. Kyste apical\nB. Kyste du canal nasopalatinien\nC. Kyste nasolabial\nD. Kyste sphérique maxillaire",
+        "target_scores": {
+            "A. Kyste apical": 0,
+            "B. Kyste du canal nasopalatinien": 1,
+            "C. Kyste nasolabial": 0,
+            "D. Kyste sphérique maxillaire": 0
+        }
+    },
+    {
+        "input": "Un patient masculin consulte pour une jaunisse, les examens de laboratoire sont conformes à une jaunisse obstructive, et une palpation révèle une vésicule biliaire distendue. Pour distinguer entre un cancer de l'ampoule de Vater et un calcul dans la partie inférieure de la vésicule biliaire, le signe clinique suivant soutient le dernier :____.\nA. Peau citronnée\nB. Peau dorée\nC. Peau jaune verdâtre\nD. Vésicule biliaire dure et irrégulière",
+        "target_scores": {
+            "A. Peau citronnée": 0,
+            "B. Peau dorée": 0,
+            "C. Peau jaune verdâtre": 0,
+            "D. Vésicule biliaire dure et irrégulière": 1
+        }
+    },
+    {
+        "input": "Une dent présente une carie profonde sur la surface occlusale, sans douleur habituelle, mais une douleur intense après l'inclusion alimentaire. L'examen révèle un trou de perforation pulpaire provoquant une douleur intense, et une percussion de la dent affectée provoque un malaise. Cela indique :____.\nA. Nécrose pulpaire\nB. Pulpe normale\nC. Pulpite chronique\nD. Pulpite réversible",
+        "target_scores": {
+            "A. Nécrose pulpaire": 0,
+            "B. Pulpe normale": 0,
+            "C. Pulpite chronique": 1,
+            "D. Pulpite réversible": 0
+        }
+    },
+    {
+        "input": "Patient, garçon de 15 ans, une luxation dentaire traumatique des incisives supérieures gauche a été rétablie et fixée par ligature. La durée de la fixation par ligature devrait être :____.\nA. 1 à 2 semaines\nB. 2 à 3 mois\nC. 3 à 4 semaines\nD. 3 à 5 jours",
+        "target_scores": {
+            "A. 1 à 2 semaines": 0,
+            "B. 2 à 3 mois": 0,
+            "C. 3 à 4 semaines": 1,
+            "D. 3 à 5 jours": 0
+        }
+    },
+    {
+        "input": "Homme, 60 ans, hier soir, un accident de la route a causé une fracture de la base du crâne. Il y a deux heures, il a soudainement vomi 300 ml de liquide brunâtre semblable au marc de café. Le diagnostic à envisager en premier est :____.\nA. Exacerbation aiguë de la gastrite chronique\nB. Rupture des varices œsophagiennes\nC. Ulcère de stress ou lésion aiguë de la muqueuse gastrique\nD. Ulcère péptique",
+        "target_scores": {
+            "A. Exacerbation aiguë de la gastrite chronique": 0,
+            "B. Rupture des varices œsophagiennes": 0,
+            "C. Ulcère de stress ou lésion aiguë de la muqueuse gastrique": 1,
+            "D. Ulcère péptique": 0
+        }
+    }
+]

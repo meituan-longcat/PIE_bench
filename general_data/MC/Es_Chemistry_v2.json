@@ -1,0 +1,1424 @@
+[
+    {
+        "input": "¿Cuál de los siguientes compuestos no ocurre la reacción del yodoformo?\nA. 2-butanol\nB. Alcohol isobutílico\nC. Etanol\nD. Isopropanol",
+        "target_scores": {
+            "A. 2-butanol": 0,
+            "B. Alcohol isobutílico": 1,
+            "C. Etanol": 0,
+            "D. Isopropanol": 0
+        }
+    },
+    {
+        "input": "¿Cuál de los siguientes ácidos inorgánicos puede disolver $SiO_2$?\nA. $HClO_4$\nB. $HF$\nC. $HNO_3$\nD. $H_2SO_4$",
+        "target_scores": {
+            "A. $HClO_4$": 0,
+            "B. $HF$": 1,
+            "C. $HNO_3$": 0,
+            "D. $H_2SO_4$": 0
+        }
+    },
+    {
+        "input": "¿Cuál de los siguientes grupos de sustancias es todas sustancias anfóteras?\nA. $CN^-$, $H_2O$, $PO_4^{3-}$, $OH^-$\nB. $Cl^-$, $NH_4^+$, $H_2O$, $HAc$\nC. $HCO_3^-$, $HPO_4^{2-}$, $HS^-$, $H_2O$\nD. $H_2$, $NO_2^-$, $HSO_4^-$, $H_2PO_4^-$",
+        "target_scores": {
+            "A. $CN^-$, $H_2O$, $PO_4^{3-}$, $OH^-$": 0,
+            "B. $Cl^-$, $NH_4^+$, $H_2O$, $HAc$": 0,
+            "C. $HCO_3^-$, $HPO_4^{2-}$, $HS^-$, $H_2O$": 1,
+            "D. $H_2$, $NO_2^-$, $HSO_4^-$, $H_2PO_4^-$": 0
+        }
+    },
+    {
+        "input": "Al fotografiar, se usa $Na_2S_2O_3$ para lavar el $AgBr$ no expuesto, y luego se utiliza $Na_2S$ para recuperar la plata lavada, las dos reacciones involucradas son ______.\nA. Reacción de coordinación, reacción de precipitación\nB. Reacción de coordinación, reacción redox\nC. Reacción redox, reacción de coordinación\nD. Reacción redox, reacción de precipitación",
+        "target_scores": {
+            "A. Reacción de coordinación, reacción de precipitación": 1,
+            "B. Reacción de coordinación, reacción redox": 0,
+            "C. Reacción redox, reacción de coordinación": 0,
+            "D. Reacción redox, reacción de precipitación": 0
+        }
+    },
+    {
+        "input": "Si en una ecuación de reacción, el valor absoluto de los coeficientes estequiométricos de los reactivos es exactamente igual a los exponentes de las concentraciones de cada sustancia en la ecuación de velocidad, entonces esta reacción ____.\nA. es necesariamente una reacción compleja\nB. es necesariamente una reacción elemental\nC. no es una reacción elemental\nD. puede ser una reacción elemental",
+        "target_scores": {
+            "A. es necesariamente una reacción compleja": 0,
+            "B. es necesariamente una reacción elemental": 0,
+            "C. no es una reacción elemental": 0,
+            "D. puede ser una reacción elemental": 1
+        }
+    },
+    {
+        "input": "Cuando la sexta capa electrónica de un átomo en estado fundamental solo tiene dos electrones, el número de electrones en su penúltima capa electrónica es ______.\nA. 18\nB. 2-8\nC. 8\nD. 8-18",
+        "target_scores": {
+            "A. 18": 0,
+            "B. 2-8": 0,
+            "C. 8": 0,
+            "D. 8-18": 1
+        }
+    },
+    {
+        "input": "Para una mezcla alcalina, al titular con solución estándar de $HCl$ usando fenolftaleína como indicador hasta el punto final, se consume un volumen V₁ mL de la solución de $HCl$. Luego, al continuar la valoración con naranja de metilo como indicador hasta el nuevo punto final, se consume un volumen adicional V₂ mL de $HCl$. Si V₂ > V₁, la composición de la muestra es ( ).\nA. $NaHCO_3$\nB. $NaOH$ y $Na_2CO_3$\nC. $Na_2CO_3$\nD. $Na_2CO_3$ y $NaHCO_3$",
+        "target_scores": {
+            "A. $NaHCO_3$": 0,
+            "B. $NaOH$ y $Na_2CO_3$": 0,
+            "C. $Na_2CO_3$": 0,
+            "D. $Na_2CO_3$ y $NaHCO_3$": 1
+        }
+    },
+    {
+        "input": "Al agregar ácido a una solución acuosa de $[FeF_6]^{3-}$, ¿cuál afirmación es correcta?\nA. La concentración de $Fe^{3+}$ aumenta\nB. La concentración de $Fe^{3+}$ disminuye\nC. La estabilidad de $[FeF_6]^{3-}$ aumenta\nD. La estabilidad de $[FeF_6]^{3-}$ permanece igual",
+        "target_scores": {
+            "A. La concentración de $Fe^{3+}$ aumenta": 1,
+            "B. La concentración de $Fe^{3+}$ disminuye": 0,
+            "C. La estabilidad de $[FeF_6]^{3-}$ aumenta": 0,
+            "D. La estabilidad de $[FeF_6]^{3-}$ permanece igual": 0
+        }
+    },
+    {
+        "input": "Si la unidad de la constante de velocidad k de una reacción es $L·mol^{-1}·s^{-1}$, el orden de la reacción es ______.\nA. 0\nB. 1\nC. 2\nD. 3",
+        "target_scores": {
+            "A. 0": 0,
+            "B. 1": 0,
+            "C. 2": 1,
+            "D. 3": 0
+        }
+    },
+    {
+        "input": "A 298 K y presión constante, cuando 1 mol de fósforo blanco y 1 mol de fósforo rojo reaccionan completamente con $Cl_2$ (g) en cantidad suficiente para formar $PCl_5$(s), los valores de $\\Delta_\\mathrm{r}\\mathit{H}_\\mathrm{m}^\\ominus$ son $-447{\\,}1 \\, \\text{kJ} \\cdot \\text{mol}^{-1}$ y $-429{\\,}5 \\, \\text{kJ} \\cdot \\text{mol}^{-1}$ respectivamente. Los $\\Delta_\\mathrm{r}\\mathit{H}_\\mathrm{m}^\\ominus$ (298 K) del fósforo blanco y rojo son ( )  \nA. $+17{,}6 \\, \\text{kJ} \\cdot \\text{mol}^{-1}$ y $0 \\, \\text{kJ} \\cdot \\text{mol}^{-1}$\nB. $-17{,}6 \\, \\text{kJ} \\cdot \\text{mol}^{-1}$ y $0 \\, \\text{kJ} \\cdot \\text{mol}^{-1}$\nC. $0 \\, \\text{kJ} \\cdot \\text{mol}^{-1}$ y $+17{,}6 \\, \\text{kJ} \\cdot \\text{mol}^{-1}$\nD. $0 \\, \\text{kJ} \\cdot \\text{mol}^{-1}$ y $-17{,}6 \\, \\text{kJ} \\cdot \\text{mol}^{-1}$",
+        "target_scores": {
+            "A. $+17{,}6 \\, \\text{kJ} \\cdot \\text{mol}^{-1}$ y $0 \\, \\text{kJ} \\cdot \\text{mol}^{-1}$": 0,
+            "B. $-17{,}6 \\, \\text{kJ} \\cdot \\text{mol}^{-1}$ y $0 \\, \\text{kJ} \\cdot \\text{mol}^{-1}$": 0,
+            "C. $0 \\, \\text{kJ} \\cdot \\text{mol}^{-1}$ y $+17{,}6 \\, \\text{kJ} \\cdot \\text{mol}^{-1}$": 0,
+            "D. $0 \\, \\text{kJ} \\cdot \\text{mol}^{-1}$ y $-17{,}6 \\, \\text{kJ} \\cdot \\text{mol}^{-1}$": 1
+        }
+    },
+    {
+        "input": "El orden de velocidad de reacción de adición nucleófila con $HCN$ para acetona, ciclohexanona, difenilcetona y formaldehído, de mayor a menor, es ( )\nA. Acetona > ciclohexanona > difenilcetona > formaldehído\nB. Acetona > difenilcetona > formaldehído > ciclohexanona\nC. Formaldehído > acetona > ciclohexanona > difenilcetona\nD. Formaldehído > ciclohexanona > difenilcetona > acetona",
+        "target_scores": {
+            "A. Acetona > ciclohexanona > difenilcetona > formaldehído": 0,
+            "B. Acetona > difenilcetona > formaldehído > ciclohexanona": 0,
+            "C. Formaldehído > acetona > ciclohexanona > difenilcetona": 1,
+            "D. Formaldehído > ciclohexanona > difenilcetona > acetona": 0
+        }
+    },
+    {
+        "input": "Cuando el agua se vaporiza a su presión de vapor saturado a temperatura determinada, ¿cuál de las siguientes funciones cambia a cero?\nA. $\\Delta G$\nB. $\\Delta H$\nC. $\\Delta S$\nD. $\\Delta U$",
+        "target_scores": {
+            "A. $\\Delta G$": 1,
+            "B. $\\Delta H$": 0,
+            "C. $\\Delta S$": 0,
+            "D. $\\Delta U$": 0
+        }
+    },
+    {
+        "input": "¿Cuál de las siguientes sustancias NO es un azúcar reductor?\nA. Fructosa\nB. Glucosa\nC. Maltosa\nD. Sacarosa",
+        "target_scores": {
+            "A. Fructosa": 0,
+            "B. Glucosa": 0,
+            "C. Maltosa": 0,
+            "D. Sacarosa": 1
+        }
+    },
+    {
+        "input": "En una solución tampón con $pH=6$, la forma predominante de la lisina ($pI=9{,}74$) es ____.\nA. Anión\nB. Catión\nC. Ninguna de las anteriores\nD. Zwitterión",
+        "target_scores": {
+            "A. Anión": 0,
+            "B. Catión": 1,
+            "C. Ninguna de las anteriores": 0,
+            "D. Zwitterión": 0
+        }
+    },
+    {
+        "input": "Precipitar el $Ca^{2+}$ como $CaC_2O_4$, disolver el precipitado con ácido y luego titular el $H_2C_2O_4$ generado con una solución estándar de $KMnO_4$ para determinar la cantidad de calcio. La valoración utilizada es ____.\nA. Método redox\nB. Valoración directa\nC. Valoración indirecta\nD. Valoración por retroceso",
+        "target_scores": {
+            "A. Método redox": 0,
+            "B. Valoración directa": 0,
+            "C. Valoración indirecta": 1,
+            "D. Valoración por retroceso": 0
+        }
+    },
+    {
+        "input": "De los siguientes compuestos, ¿cuál reacciona más rápido con una solución acuosa de $KOH$ mediante un mecanismo de reacción $S_N2$?\nA. 2, 2-dimetil-1-bromopropano\nB. 2-bromopentano\nC. 2-metil-1-bromobutano\nD. 3-metil-1-bromobutano",
+        "target_scores": {
+            "A. 2, 2-dimetil-1-bromopropano": 0,
+            "B. 2-bromopentano": 0,
+            "C. 2-metil-1-bromobutano": 0,
+            "D. 3-metil-1-bromobutano": 1
+        }
+    },
+    {
+        "input": "En análisis cuantitativo, el propósito de realizar múltiples determinaciones paralelas en la misma muestra es ____.\nA. Compensar errores instrumentales\nB. Detectar la presencia de errores sistemáticos\nC. Evitar errores de reactivos\nD. Reducir el impacto de los errores aleatorios en los resultados de medición",
+        "target_scores": {
+            "A. Compensar errores instrumentales": 0,
+            "B. Detectar la presencia de errores sistemáticos": 0,
+            "C. Evitar errores de reactivos": 0,
+            "D. Reducir el impacto de los errores aleatorios en los resultados de medición": 1
+        }
+    },
+    {
+        "input": "En el punto isoeléctrico, el estado de solubilidad de un aminoácido en agua y la concentración del zwitterión son:\nA. Solubilidad máxima, concentración máxima de iones dipolares\nB. Solubilidad máxima, concentración mínima de iones dipolares\nC. Solubilidad mínima, concentración máxima de iones dipolares\nD. Solubilidad mínima, concentración mínima de iones dipolares",
+        "target_scores": {
+            "A. Solubilidad máxima, concentración máxima de iones dipolares": 0,
+            "B. Solubilidad máxima, concentración mínima de iones dipolares": 0,
+            "C. Solubilidad mínima, concentración máxima de iones dipolares": 1,
+            "D. Solubilidad mínima, concentración mínima de iones dipolares": 0
+        }
+    },
+    {
+        "input": "¿Qué molécula tiene un átomo central con hibridación $sp$?\nA. $BH_3$\nB. $CO_2$\nC. $H_2O$\nD. $NH_3$",
+        "target_scores": {
+            "A. $BH_3$": 0,
+            "B. $CO_2$": 1,
+            "C. $H_2O$": 0,
+            "D. $NH_3$": 0
+        }
+    },
+    {
+        "input": "¿Cuál de los siguientes compuestos tiene el mayor valor de pKa?\nA. Fenol\nB. Ácido acético\nC. Ácido carbónico\nD. Ácido tricloroacético",
+        "target_scores": {
+            "A. Fenol": 1,
+            "B. Ácido acético": 0,
+            "C. Ácido carbónico": 0,
+            "D. Ácido tricloroacético": 0
+        }
+    },
+    {
+        "input": "Entre las siguientes soluciones acuosas con la misma molalidad, ¿cuál tiene el punto de ebullición más alto?\nA. $CH_3COOH$\nB. $C_{12}H_{22}O_{11}$\nC. $CaCl_2$\nD. $NaCl$",
+        "target_scores": {
+            "A. $CH_3COOH$": 0,
+            "B. $C_{12}H_{22}O_{11}$": 0,
+            "C. $CaCl_2$": 1,
+            "D. $NaCl$": 0
+        }
+    },
+    {
+        "input": "En condiciones idénticas, si una solución acuosa A tiene un punto de congelación más alto que una solución acuosa B, ¿cómo se comparan sus puntos de ebullición?\nA. Ambos son iguales\nB. El de A es más alto\nC. El de A es más bajo\nD. No se puede determinar",
+        "target_scores": {
+            "A. Ambos son iguales": 0,
+            "B. El de A es más alto": 0,
+            "C. El de A es más bajo": 1,
+            "D. No se puede determinar": 0
+        }
+    },
+    {
+        "input": "A 298 K y 100 kPa, una reacción elemental tiene una energía de activación de $10{,}7 \\, \\text{kJ} \\cdot \\text{mol}^{-1}$ y una entalpía de reacción de $-193{,}8 \\, \\text{kJ} \\cdot \\text{mol}^{-1}$. La energía de activación de la reacción inversa es (  ).\nA. $-183{,}1 \\, \\text{kJ} \\cdot \\text{mol}^{-1}$\nB. $-204{,}5 \\, \\text{kJ} \\cdot \\text{mol}^{-1}$\nC. $183{,}1 \\, \\text{kJ} \\cdot \\text{mol}^{-1}$\nD. $204{,}5 \\, \\text{kJ} \\cdot \\text{mol}^{-1}$",
+        "target_scores": {
+            "A. $-183{,}1 \\, \\text{kJ} \\cdot \\text{mol}^{-1}$": 0,
+            "B. $-204{,}5 \\, \\text{kJ} \\cdot \\text{mol}^{-1}$": 0,
+            "C. $183{,}1 \\, \\text{kJ} \\cdot \\text{mol}^{-1}$": 0,
+            "D. $204{,}5 \\, \\text{kJ} \\cdot \\text{mol}^{-1}$": 1
+        }
+    },
+    {
+        "input": "A temperatura ambiente, ¿cuál de las siguientes moléculas presenta momento dipolar no nulo?\nA. $BF_3$\nB. $CH_4$\nC. $CO_2$\nD. $SO_2$",
+        "target_scores": {
+            "A. $BF_3$": 0,
+            "B. $CH_4$": 0,
+            "C. $CO_2$": 0,
+            "D. $SO_2$": 1
+        }
+    },
+    {
+        "input": "Al agregar 3 volúmenes de agua a una solución de amoníaco, el pH de la solución ______.\nA. Aumentará en 2 lg 2\nB. Aumentará en lg 2\nC. Disminuirá en 2 lg 2\nD. Disminuirá en lg 2",
+        "target_scores": {
+            "A. Aumentará en 2 lg 2": 0,
+            "B. Aumentará en lg 2": 0,
+            "C. Disminuirá en 2 lg 2": 0,
+            "D. Disminuirá en lg 2": 1
+        }
+    },
+    {
+        "input": "Entre los siguientes ácidos hidrohálidos de la misma concentración, ¿cuál es el más ácido?\nA. $HBr$\nB. $HCl$\nC. $HF$\nD. $HI$",
+        "target_scores": {
+            "A. $HBr$": 0,
+            "B. $HCl$": 0,
+            "C. $HF$": 0,
+            "D. $HI$": 1
+        }
+    },
+    {
+        "input": "¿Cuál de los siguientes métodos de separación es más adecuado para separar alcohol cinámico (punto de ebullición ≈ 257°C) y aldehído cinámico (punto de ebullición ≈ 253°C)?\nA. Destilación\nB. Destilación al vacío\nC. Extracción acuosa\nD. Precipitación con solución saturada de bisulfito de sodio",
+        "target_scores": {
+            "A. Destilación": 0,
+            "B. Destilación al vacío": 0,
+            "C. Extracción acuosa": 0,
+            "D. Precipitación con solución saturada de bisulfito de sodio": 1
+        }
+    },
+    {
+        "input": "Si el punto de congelación medido de una solución acuosa es -0,186°C, ¿cuál de los siguientes valores es correcto? (Datos: $Kf=1{,}86$, $Kb=0{,}512$)\nA. $Presión osmótica \\pi = 1{,}204$\nB. $Punto de ebullición de la solución = 100{,}0512°C$\nC. $\\Delta p de la solución= p^* \\times 0{,}1$\nD. Ninguno de los anteriores",
+        "target_scores": {
+            "A. $Presión osmótica \\pi = 1{,}204$": 0,
+            "B. $Punto de ebullición de la solución = 100{,}0512°C$": 1,
+            "C. $\\Delta p de la solución= p^* \\times 0{,}1$": 0,
+            "D. Ninguno de los anteriores": 0
+        }
+    },
+    {
+        "input": "Se sabe que una solución de glucosa ($C_6H_{12}O_6$) con una fracción de masa de 0,05 es isotónica con la sangre. La presión osmótica de una solución de urea ($[(NH_2)_2CO]$) al 0,05 en fracción másica comparada con la de la sangre será ______.\nA. Igual\nB. Mayor\nC. Menor\nD. No se puede determinar",
+        "target_scores": {
+            "A. Igual": 0,
+            "B. Mayor": 1,
+            "C. Menor": 0,
+            "D. No se puede determinar": 0
+        }
+    },
+    {
+        "input": "En valoraciones por complejación, al titular iones metálicos con EDTA sin usar solución tampón para controlar acidez del medio, el pH del sistema ____.\nA. Aumentará\nB. Disminuirá\nC. No puede determinarse\nD. Permanece constante",
+        "target_scores": {
+            "A. Aumentará": 0,
+            "B. Disminuirá": 1,
+            "C. No puede determinarse": 0,
+            "D. Permanece constante": 0
+        }
+    },
+    {
+        "input": "¿Cuál de los siguientes complejos presenta la menor afectación por efecto ácido en su estabilidad?\nA. $[Ag(S_2O_3)_2]^{3-}$\nB. $[CdCl_4]^{2-}$\nC. $[FeF_6]^{3-}$\nD. $[MgY]^{2-}$",
+        "target_scores": {
+            "A. $[Ag(S_2O_3)_2]^{3-}$": 0,
+            "B. $[CdCl_4]^{2-}$": 1,
+            "C. $[FeF_6]^{3-}$": 0,
+            "D. $[MgY]^{2-}$": 0
+        }
+    },
+    {
+        "input": "¿Cuál de las siguientes sustancias NO reacciona con el reactivo de Tollens?\nA. Fenilacetileno\nB. Formiato de metilo\nC. Fructosa\nD. Sacarosa",
+        "target_scores": {
+            "A. Fenilacetileno": 0,
+            "B. Formiato de metilo": 0,
+            "C. Fructosa": 0,
+            "D. Sacarosa": 1
+        }
+    },
+    {
+        "input": "El punto de ebullición de $H_2O$ es 100°C y el de $H_2Se$ es -42°C. La teoría que puede explicar esto es ______.\nA. Enlace covalente\nB. Enlace de hidrógeno\nC. Enlace iónico\nD. Fuerzas de van der Waals",
+        "target_scores": {
+            "A. Enlace covalente": 0,
+            "B. Enlace de hidrógeno": 1,
+            "C. Enlace iónico": 0,
+            "D. Fuerzas de van der Waals": 0
+        }
+    },
+    {
+        "input": "¿Cuál de los siguientes compuestos presenta la mayor basicidad?\nA. Acetamida\nB. Amoníaco\nC. Anilina\nD. Pirrolidina",
+        "target_scores": {
+            "A. Acetamida": 0,
+            "B. Amoníaco": 0,
+            "C. Anilina": 0,
+            "D. Pirrolidina": 1
+        }
+    },
+    {
+        "input": "En la práctica, al determinar la concentración de amoníaco por valoración por retroceso, debe realizarse un ensayo en blanco. Sobre la determinación de amoníaco por valoración por retroceso, la afirmación INCORRECTA es ______.\nA. El ensayo en blanco busca reducir errores de reactivos\nB. El volumen de NaOH usado en el retroceso no necesariamente debe exceder 20 mL\nC. Si el valor del blanco es excesivo, se debe purificar el reactivo y repetir la determinación\nD. Tanto la solución de ácido clorhídrico (HCl) como la de hidróxido de sodio (NaOH) deben estandarizarse con precisión",
+        "target_scores": {
+            "A. El ensayo en blanco busca reducir errores de reactivos": 0,
+            "B. El volumen de NaOH usado en el retroceso no necesariamente debe exceder 20 mL": 1,
+            "C. Si el valor del blanco es excesivo, se debe purificar el reactivo y repetir la determinación": 0,
+            "D. Tanto la solución de ácido clorhídrico (HCl) como la de hidróxido de sodio (NaOH) deben estandarizarse con precisión": 0
+        }
+    },
+    {
+        "input": "¿Cuál de los siguientes grupos de enlaces glucosídicos está presente en la molécula de almidón?\nA. Enlace glucosídico α-1,4 y enlace glucosídico α-1,6\nB. Enlace glucosídico α-1,4 y enlace glucosídico β-1,4\nC. Enlace glucosídico α-1,6 y enlace glucosídico β-1,6\nD. Enlace glucosídico β-1,4 y enlace glucosídico β-1,6",
+        "target_scores": {
+            "A. Enlace glucosídico α-1,4 y enlace glucosídico α-1,6": 1,
+            "B. Enlace glucosídico α-1,4 y enlace glucosídico β-1,4": 0,
+            "C. Enlace glucosídico α-1,6 y enlace glucosídico β-1,6": 0,
+            "D. Enlace glucosídico β-1,4 y enlace glucosídico β-1,6": 0
+        }
+    },
+    {
+        "input": "Se disuelven 0,45 g de un no electrolito en 30 g de agua, obteniendo una solución con un punto de congelación de -0,15 °C. Si la constante crioscópica del agua es $K_f = 1,86 \\, \\mathrm{K \\cdot kg \\cdot mol^{-1}}$, la masa molar (en g·mol⁻¹) de este no electrolito es aproximadamente ______.\nA. 100\nB. 186\nC. 204\nD. 83,2",
+        "target_scores": {
+            "A. 100": 0,
+            "B. 186": 1,
+            "C. 204": 0,
+            "D. 83,2": 0
+        }
+    },
+    {
+        "input": "¿Cuál de los siguientes aminoácidos en una mezcla acuosa de ácido glutámico ($pI=3{,}22$), valina ($pI=5{,}96$) y arginina ($pI=10{,}76$) existirá principalmente como catión cuando se agrega HCl diluido hasta alcanzar $pH=6$?\nA. Arginina\nB. Valina\nC. Ácido glutámico\nD. Ácido glutámico y arginina",
+        "target_scores": {
+            "A. Arginina": 1,
+            "B. Valina": 0,
+            "C. Ácido glutámico": 0,
+            "D. Ácido glutámico y arginina": 0
+        }
+    },
+    {
+        "input": "En presencia de peróxidos, el mecanismo de reacción de un alqueno con $HBr$ es ______.\nA. Adición de radicales libres\nB. Adición electrofílica\nC. Adición nucleófila\nD. Reacción concertada",
+        "target_scores": {
+            "A. Adición de radicales libres": 1,
+            "B. Adición electrofílica": 0,
+            "C. Adición nucleófila": 0,
+            "D. Reacción concertada": 0
+        }
+    },
+    {
+        "input": "Al agregar lentamente una solución de $Pb(NO_3)_2$ a una solución acuosa de $K_2Cr_2O_7$, el precipitado formado es ______.\nA. $Pb(OH)_2$\nB. $PbCrO_4$\nC. $PbCr_2O_7$\nD. $PbO_2$",
+        "target_scores": {
+            "A. $Pb(OH)_2$": 0,
+            "B. $PbCrO_4$": 1,
+            "C. $PbCr_2O_7$": 0,
+            "D. $PbO_2$": 0
+        }
+    },
+    {
+        "input": "Se introducen 0,15 L de oxígeno a $9{,}8 \\times 10^4$ Pa y 0,30 L de nitrógeno a $4{,}66 \\times 10^5$ Pa en un recipiente al vacío de 0,30 L. La presión total de la mezcla gaseosa es igual a ______ Pa.\nA. $1{,}23 \\times 10^5$ Pa\nB. $3{,}33 \\times 10^5$ Pa\nC. $5{,}15 \\times 10^5$ Pa\nD. $9{,}65 \\times 10^5$ Pa",
+        "target_scores": {
+            "A. $1{,}23 \\times 10^5$ Pa": 0,
+            "B. $3{,}33 \\times 10^5$ Pa": 0,
+            "C. $5{,}15 \\times 10^5$ Pa": 1,
+            "D. $9{,}65 \\times 10^5$ Pa": 0
+        }
+    },
+    {
+        "input": "Dado el orden de acidez: agua > etanol > acetileno, ¿cuál de las siguientes afirmaciones es FALSA?\nA. Al agregar acetileno al etóxido de sodio, se forma acetiluro de sodio\nB. Al agregar agua al acetiluro de sodio, se forma hidróxido de sodio\nC. Al agregar agua al etóxido de sodio, se forma hidróxido de sodio\nD. Al agregar etanol al acetiluro de sodio, se forma etóxido de sodio",
+        "target_scores": {
+            "A. Al agregar acetileno al etóxido de sodio, se forma acetiluro de sodio": 1,
+            "B. Al agregar agua al acetiluro de sodio, se forma hidróxido de sodio": 0,
+            "C. Al agregar agua al etóxido de sodio, se forma hidróxido de sodio": 0,
+            "D. Al agregar etanol al acetiluro de sodio, se forma etóxido de sodio": 0
+        }
+    },
+    {
+        "input": "¿Cuántos isómeros puede tener el ion complejo $[Co(NH_3)_4(H_2O)_2]^{3+}$?\nA. 1 isómero\nB. 2 isómeros\nC. 3 isómeros\nD. 4 isómeros",
+        "target_scores": {
+            "A. 1 isómero": 0,
+            "B. 2 isómeros": 1,
+            "C. 3 isómeros": 0,
+            "D. 4 isómeros": 0
+        }
+    },
+    {
+        "input": "Para la reacción $A \\Leftrightarrow B$ a 298 K donde $K_{\\text{directa}} = 100K_{\\text{inversa}}$, la relación entre las energías de activación de las reacciones directa e inversa es ( )\nA. $E_{a,\\text{directa}} < E_{a,\\text{inversa}}$\nB. $E_{a,\\text{directa}} = E_{a,\\text{inversa}}$\nC. $E_{a,\\text{directa}} > E_{a,\\text{inversa}}$\nD. Indeterminado",
+        "target_scores": {
+            "A. $E_{a,\\text{directa}} < E_{a,\\text{inversa}}$": 1,
+            "B. $E_{a,\\text{directa}} = E_{a,\\text{inversa}}$": 0,
+            "C. $E_{a,\\text{directa}} > E_{a,\\text{inversa}}$": 0,
+            "D. Indeterminado": 0
+        }
+    },
+    {
+        "input": "La velocidad de reacción disminuye al reducir la concentración del reactivo en:\nA. Ambas\nB. Ninguna de las anteriores\nC. Reacción $\\mathrm{E2}$\nD. Reacción $\\mathrm{S_N2}$",
+        "target_scores": {
+            "A. Ambas": 1,
+            "B. Ninguna de las anteriores": 0,
+            "C. Reacción $\\mathrm{E2}$": 0,
+            "D. Reacción $\\mathrm{S_N2}$": 0
+        }
+    },
+    {
+        "input": "En una solución diluida de ácido, ¿cuál de los siguientes compuestos NO puede sufrir hidrólisis?\nA. Dietilacetal de propanal\nB. Dimetilglioxima\nC. Fenilhidrazona de acetaldehído (2,4-dinitrofenil)\nD. β-hidroxibutiraldehído",
+        "target_scores": {
+            "A. Dietilacetal de propanal": 0,
+            "B. Dimetilglioxima": 0,
+            "C. Fenilhidrazona de acetaldehído (2,4-dinitrofenil)": 0,
+            "D. β-hidroxibutiraldehído": 1
+        }
+    },
+    {
+        "input": "En condiciones de presión constante, para un sistema en equilibrio con cristales de $NaCl$, cristales de sacarosa y su solución acuosa saturada mezclada, los valores del número de componentes independientes (C) y grados de libertad condicionados (f') son: ______.\nA. $C=3$, $f'=1$\nB. $C=3$, $f'=2$\nC. $C=4$, $f'=2$\nD. $C=4$, $f'=3$",
+        "target_scores": {
+            "A. $C=3$, $f'=1$": 1,
+            "B. $C=3$, $f'=2$": 0,
+            "C. $C=4$, $f'=2$": 0,
+            "D. $C=4$, $f'=3$": 0
+        }
+    },
+    {
+        "input": "En un recipiente cerrado isotérmico con dos pequeñas gotas de mercurio de diferente tamaño, después de un tiempo suficientemente largo (aún con mercurio líquido presente), la descripción correcta es: ______.\nA. La gota grande desaparece\nB. La gota pequeña desaparece\nC. Persisten dos gotas de tamaños desiguales\nD. Quedan dos gotas de igual tamaño",
+        "target_scores": {
+            "A. La gota grande desaparece": 0,
+            "B. La gota pequeña desaparece": 1,
+            "C. Persisten dos gotas de tamaños desiguales": 0,
+            "D. Quedan dos gotas de igual tamaño": 0
+        }
+    },
+    {
+        "input": "Para una gota líquida de agua y una burbuja de gas, las direcciones de la presión adicional son: ______.\nA. Gota líquida: hacia adentro; Burbuja de gas: hacia adentro\nB. Gota líquida: hacia adentro; Burbuja de gas: hacia afuera\nC. Gota líquida: hacia afuera; Burbuja de gas: hacia adentro\nD. Gota líquida: hacia afuera; Burbuja de gas: hacia afuera",
+        "target_scores": {
+            "A. Gota líquida: hacia adentro; Burbuja de gas: hacia adentro": 1,
+            "B. Gota líquida: hacia adentro; Burbuja de gas: hacia afuera": 0,
+            "C. Gota líquida: hacia afuera; Burbuja de gas: hacia adentro": 0,
+            "D. Gota líquida: hacia afuera; Burbuja de gas: hacia afuera": 0
+        }
+    },
+    {
+        "input": "En un tubo capilar de vidrio limpio colocado horizontalmente, hay una columna de agua móvil. Si se calienta suavemente el extremo derecho de la columna de agua, el fenómeno observado es ______\nA. La columna de agua no se mueve\nB. La columna de agua se mueve hacia la derecha\nC. La columna de agua se mueve hacia la izquierda\nD. No se puede determinar",
+        "target_scores": {
+            "A. La columna de agua no se mueve": 0,
+            "B. La columna de agua se mueve hacia la derecha": 0,
+            "C. La columna de agua se mueve hacia la izquierda": 1,
+            "D. No se puede determinar": 0
+        }
+    },
+    {
+        "input": "Al diluir una solución electrolítica muy concentrada a temperatura dada, las tendencias de variación en la conductividad κ y la conductividad molar ($\\Lambda_{\\mathrm{m}}$) son ______.  \nA. El cambio en κ es incierto, $\\Lambda_{\\mathrm{m}}$ aumenta\nB. κ aumenta, $\\Lambda_{\\mathrm{m}}$ aumenta\nC. κ disminuye, $\\Lambda_{\\mathrm{m}}$ aumenta\nD. κ primero aumenta luego disminuye, $\\Lambda_{\\mathrm{m}}$ aumenta",
+        "target_scores": {
+            "A. El cambio en κ es incierto, $\\Lambda_{\\mathrm{m}}$ aumenta": 0,
+            "B. κ aumenta, $\\Lambda_{\\mathrm{m}}$ aumenta": 0,
+            "C. κ disminuye, $\\Lambda_{\\mathrm{m}}$ aumenta": 0,
+            "D. κ primero aumenta luego disminuye, $\\Lambda_{\\mathrm{m}}$ aumenta": 1
+        }
+    },
+    {
+        "input": "En invierno, esparcir sal en carreteras congeladas previene el deslizamiento. ¿Qué propiedad de la solución diluida se utiliza?\nA. Aumento del punto de ebullición del disolvente\nB. Descenso crioscópico del disolvente\nC. Descenso de la presión de vapor saturado del disolvente\nD. Presión osmótica de la solución diluida",
+        "target_scores": {
+            "A. Aumento del punto de ebullición del disolvente": 0,
+            "B. Descenso crioscópico del disolvente": 1,
+            "C. Descenso de la presión de vapor saturado del disolvente": 0,
+            "D. Presión osmótica de la solución diluida": 0
+        }
+    },
+    {
+        "input": "Si dos soluciones diluidas de electrolitos no presentan fenómeno de ósmosis, la afirmación correcta es:  ______.\nA. El descenso del punto de congelación es igual en ambas soluciones\nB. El volumen de ambas soluciones es la misma\nC. La concentración molar de ambas soluciones es la misma\nD. La molalidad de ambas soluciones es la misma",
+        "target_scores": {
+            "A. El descenso del punto de congelación es igual en ambas soluciones": 1,
+            "B. El volumen de ambas soluciones es la misma": 0,
+            "C. La concentración molar de ambas soluciones es la misma": 0,
+            "D. La molalidad de ambas soluciones es la misma": 0
+        }
+    },
+    {
+        "input": "Al determinar el contenido de CaO en piedra caliza utilizando EDTA de concentración $[ c(H_2Y^{2-}) = 0{,}02 \\, \\text{mol} \\cdot \\text{L}^{-1} ]$ (masa molar relativa del CaO: 56,08), se sabe que la muestra contiene aproximadamente un 50% de CaO. Después de disolver la muestra, se afora a 250,00 mL y se toma una alícuota de 25,00 mL para la titulación. Para que el error de medición sea del orden de unas milésimas, ¿cuál es la masa recomendada de muestra?\nA. 0,2-0,4 g\nB. 0,3-0,45 g\nC. 1,2-2,4 g\nD. Alrededor de 0,1 g",
+        "target_scores": {
+            "A. 0,2-0,4 g": 0,
+            "B. 0,3-0,45 g": 1,
+            "C. 1,2-2,4 g": 0,
+            "D. Alrededor de 0,1 g": 0
+        }
+    },
+    {
+        "input": "¿Cuál es el componente principal del precipitado formado al tratar una solución de $[FeCl(H_2O)_5]Br$ con una pequeña cantidad de $AgNO_3$? ______.\nA. $AgBr$\nB. $AgBr$ y $AgCl$\nC. $AgCl$\nD. $Fe(OH)_2$",
+        "target_scores": {
+            "A. $AgBr$": 1,
+            "B. $AgBr$ y $AgCl$": 0,
+            "C. $AgCl$": 0,
+            "D. $Fe(OH)_2$": 0
+        }
+    },
+    {
+        "input": "En condiciones débilmente alcalinas, ¿cuál de los siguientes compuestos puede acoplar con cloruro de diazonio de benceno para formar un compuesto azo?\nA. 2,4,6-triclorofenol\nB. Fenol\nC. Nitrobenceno\nD. Piridina",
+        "target_scores": {
+            "A. 2,4,6-triclorofenol": 0,
+            "B. Fenol": 1,
+            "C. Nitrobenceno": 0,
+            "D. Piridina": 0
+        }
+    },
+    {
+        "input": "Al disolver 4,5 g de un no electrolito en 125 g de agua, se mide un punto de congelación de -0,372°C. La masa molar relativa de la sustancia es ______.\nA. 135\nB. 172,5\nC. 180\nD. 90",
+        "target_scores": {
+            "A. 135": 0,
+            "B. 172,5": 0,
+            "C. 180": 1,
+            "D. 90": 0
+        }
+    },
+    {
+        "input": "Al mezclar un exceso moderado de solución de $KCl$ con solución de $AgNO_3$ para formar un sol de $AgCl$, ¿cuál de los siguientes electrolitos tiene el mayor poder coagulante?\nA. $Al_2(SO_4)_3$\nB. $MgCl_2$\nC. $Na_2SO_4$\nD. $Na_3PO_4$",
+        "target_scores": {
+            "A. $Al_2(SO_4)_3$": 1,
+            "B. $MgCl_2$": 0,
+            "C. $Na_2SO_4$": 0,
+            "D. $Na_3PO_4$": 0
+        }
+    },
+    {
+        "input": "¿En cuál de los siguientes pares de moléculas los átomos centrales presentan hibridación $sp^3$ desigual?\nA. $BF_3$ y $H_2O$\nB. $BeCl_2$ y $BF_3$\nC. $CCl_4$ y $H_2S$\nD. $PCl_3$ y $NF_3$",
+        "target_scores": {
+            "A. $BF_3$ y $H_2O$": 0,
+            "B. $BeCl_2$ y $BF_3$": 0,
+            "C. $CCl_4$ y $H_2S$": 0,
+            "D. $PCl_3$ y $NF_3$": 1
+        }
+    },
+    {
+        "input": "A 25°C, los productos de solubilidad de $AgCl$ y $Ag_2CrO_4$ son $1{,}56\\times 10^{-10}$  y $1{,}12\\times 10^{-12}$ respectivamente. La comparación de la solubilidad de $AgCl$ con la de $Ag_2CrO_4$ es ______.\nA. Ambas son iguales\nB. El primero es el doble que el segundo\nC. La primera es mayor\nD. La primera es menor",
+        "target_scores": {
+            "A. Ambas son iguales": 0,
+            "B. El primero es el doble que el segundo": 0,
+            "C. La primera es mayor": 0,
+            "D. La primera es menor": 1
+        }
+    },
+    {
+        "input": "¿Cuál de los siguientes grupos orientadores en el benceno es un orientador meta?\nA. Grupo amino\nB. Grupo metilo\nC. Grupo nitro\nD. Átomo halógeno",
+        "target_scores": {
+            "A. Grupo amino": 0,
+            "B. Grupo metilo": 0,
+            "C. Grupo nitro": 1,
+            "D. Átomo halógeno": 0
+        }
+    },
+    {
+        "input": "Al estandarizar $HCl$ con bórax, un estudiante agitó la solución en un matraz con una varilla de vidrio y luego la retiró sin limpiarla. Esto resultará en una valoración ______.\nA. Con intervalo de confianza estrecho\nB. Correcta\nC. Sobrestimada\nD. Subestimada",
+        "target_scores": {
+            "A. Con intervalo de confianza estrecho": 0,
+            "B. Correcta": 0,
+            "C. Sobrestimada": 1,
+            "D. Subestimada": 0
+        }
+    },
+    {
+        "input": "¿Cuál de los siguientes compuestos es un compuesto heterocíclico?\nA. Furfural\nB. Ácido gálico\nC. Ácido pícrico\nD. Ácido salicílico",
+        "target_scores": {
+            "A. Furfural": 1,
+            "B. Ácido gálico": 0,
+            "C. Ácido pícrico": 0,
+            "D. Ácido salicílico": 0
+        }
+    },
+    {
+        "input": "La solubilidad del $AgCl(s)$ en agua, en una solución de cloruro de calcio con $c(CaCl_2)$ de 0,01 $\\text{mol} \\cdot \\text{L}^{-1}$, en una solución de cloruro de sodio con $c(NaCl)$ de 0,01 $\\text{mol} \\cdot \\text{L}^{-1}$ y en una solución de nitrato de plata con $c(AgNO_3)$ de 0,05 $\\text{mol} \\cdot \\text{L}^{-1}$ es $S_0$, $S_1$, $S_2$ y $S_3$ respectivamente. Entonces, ______ .\nA. $S_0＞S_1=S_2＞S_3$\nB. $S_0＞S_1＞S_2＞S_3$\nC. $S_0＞S_2＞S_1＞S_3$\nD. $S_0＞S_2＞S_3＞S_1$",
+        "target_scores": {
+            "A. $S_0＞S_1=S_2＞S_3$": 0,
+            "B. $S_0＞S_1＞S_2＞S_3$": 0,
+            "C. $S_0＞S_2＞S_1＞S_3$": 1,
+            "D. $S_0＞S_2＞S_3＞S_1$": 0
+        }
+    },
+    {
+        "input": "¿En qué medio presentará mutarrotación el metil-α-D-glucopiranósido?\nA. Solución acuosa de fenolato de sodio\nB. Solución acuosa de ácido trinitrofénico\nC. Solución de amoníaco\nD. Solución etanólica de etóxido de sodio",
+        "target_scores": {
+            "A. Solución acuosa de fenolato de sodio": 0,
+            "B. Solución acuosa de ácido trinitrofénico": 1,
+            "C. Solución de amoníaco": 0,
+            "D. Solución etanólica de etóxido de sodio": 0
+        }
+    },
+    {
+        "input": "¿En cuál de las siguientes situaciones la hidrólisis de un haloalcano NO sigue un mecanismo $S_N2$?\nA. La configuración del producto se invierte completamente\nB. La reacción ocurre en dos etapas\nC. La reacción ocurre en un solo paso\nD. La velocidad de reacción aumenta al incrementar la concentración de la base",
+        "target_scores": {
+            "A. La configuración del producto se invierte completamente": 0,
+            "B. La reacción ocurre en dos etapas": 1,
+            "C. La reacción ocurre en un solo paso": 0,
+            "D. La velocidad de reacción aumenta al incrementar la concentración de la base": 0
+        }
+    },
+    {
+        "input": "Al describir el estado de un electrón con los cuatro números cuánticos (n, l, m, ms), ¿cuál combinación es incorrecta?\nA. 3, 0, 1, -1/2\nB. 3, 1, 1, +1/2\nC. 3, 2, -2, +1/2\nD. 3, 2, 1, -1/2",
+        "target_scores": {
+            "A. 3, 0, 1, -1/2": 1,
+            "B. 3, 1, 1, +1/2": 0,
+            "C. 3, 2, -2, +1/2": 0,
+            "D. 3, 2, 1, -1/2": 0
+        }
+    },
+    {
+        "input": "¿Cuál de los siguientes ácidos grasos es insaturado?\nA. Ácido dodecanoico\nB. Ácido esteárico\nC. Ácido oleico\nD. Ácido palmítico",
+        "target_scores": {
+            "A. Ácido dodecanoico": 0,
+            "B. Ácido esteárico": 0,
+            "C. Ácido oleico": 1,
+            "D. Ácido palmítico": 0
+        }
+    },
+    {
+        "input": "El orden decreciente de basicidad de los siguientes  compuestos es:  \n① Benzamida  ② Ftalimida  ③ Urea  ④ Hidróxido de tetrametilamonio\nA. ①＞②＞③＞④\nB. ②＞③＞④＞①\nC. ④＞③＞①＞②\nD. ④＞③＞②＞①",
+        "target_scores": {
+            "A. ①＞②＞③＞④": 0,
+            "B. ②＞③＞④＞①": 0,
+            "C. ④＞③＞①＞②": 1,
+            "D. ④＞③＞②＞①": 0
+        }
+    },
+    {
+        "input": "¿Cuál compuesto carbonílico muestra la mayor reactividad en adición nucleofílica?\nA. $CH_3CHO$\nB. $C_3H_6O$\nC. $F_3C\\text{-CHO}$\nD. $HCHO$",
+        "target_scores": {
+            "A. $CH_3CHO$": 0,
+            "B. $C_3H_6O$": 0,
+            "C. $F_3C\\text{-CHO}$": 1,
+            "D. $HCHO$": 0
+        }
+    },
+    {
+        "input": "Un aminoácido se puede disolver completamente en agua pura ($pH=7$), obteniendo una solución con $pH=6$. Su punto isoeléctrico ______.\nA. Es mayor que 6\nB. Es menor que 6\nC. Iguala a 6\nD. No se puede determinar",
+        "target_scores": {
+            "A. Es mayor que 6": 0,
+            "B. Es menor que 6": 1,
+            "C. Iguala a 6": 0,
+            "D. No se puede determinar": 0
+        }
+    },
+    {
+        "input": "Cuando un aminoácido se disuelve en agua a $pH=8{,}5$ y se coloca en un campo eléctrico, este migra hacia el cátodo. Esto indica que el aminoácido es ____.\nA. Aminoácido básico\nB. Aminoácido neutro\nC. Aminoácido ácido\nD. Indeterminable",
+        "target_scores": {
+            "A. Aminoácido básico": 1,
+            "B. Aminoácido neutro": 0,
+            "C. Aminoácido ácido": 0,
+            "D. Indeterminable": 0
+        }
+    },
+    {
+        "input": "¿Cuál de las siguientes sustancias puede provocar tanto la precipitación como la desnaturalización de proteínas?\nA. $NaCl$\nB. $Na_2CO_3$\nC. $Na_2SO_4$\nD. Ácido pícrico",
+        "target_scores": {
+            "A. $NaCl$": 0,
+            "B. $Na_2CO_3$": 0,
+            "C. $Na_2SO_4$": 0,
+            "D. Ácido pícrico": 1
+        }
+    },
+    {
+        "input": "¿Cuál compuesto tiene el punto de fusión más alto?\nA. Acetaldehído\nB. Acetamida\nC. Glicina\nD. Ácido acético",
+        "target_scores": {
+            "A. Acetaldehído": 0,
+            "B. Acetamida": 0,
+            "C. Glicina": 1,
+            "D. Ácido acético": 0
+        }
+    },
+    {
+        "input": "Se toman dos porciones de la misma cantidad de líquido que contienen la misma cantidad de sustancia de $NaOH$ y $Na_2CO_3$ en volúmenes iguales. En una porción, se usa fenolftaleína como indicador, gastando $V_1$ mL de $HCl$ para alcanzar el punto final de la valoración. En la otra, se usa naranja de metilo como indicador y se gastan $V_2$ mL de $HCl$ de igual concentración para alcanzar el punto final de la valoración. La relación entre $V_1$ y $V_2$ es ______.\nA. $2V_1=3V_2$\nB. $3V_1=2V_2$\nC. $V_1=2V_2$\nD. $V_2=2V_1$",
+        "target_scores": {
+            "A. $2V_1=3V_2$": 0,
+            "B. $3V_1=2V_2$": 1,
+            "C. $V_1=2V_2$": 0,
+            "D. $V_2=2V_1$": 0
+        }
+    },
+    {
+        "input": "¿Cuál de las siguientes soluciones acuosas con una fracción de masa del 5% tiene el punto de ebullición normal más bajo?\nA. Solución de $\\text{CO(NH}_2\\text{)}_2$\nB. Solución de $\\text{C}_3\\text{H}_8\\text{O}_3$\nC. Solución de $\\text{C}_6\\text{H}_{12}\\text{O}_6$\nD. Solución de $\\text{C}_{12}\\text{H}_{22}\\text{O}_{11}$",
+        "target_scores": {
+            "A. Solución de $\\text{CO(NH}_2\\text{)}_2$": 0,
+            "B. Solución de $\\text{C}_3\\text{H}_8\\text{O}_3$": 0,
+            "C. Solución de $\\text{C}_6\\text{H}_{12}\\text{O}_6$": 0,
+            "D. Solución de $\\text{C}_{12}\\text{H}_{22}\\text{O}_{11}$": 1
+        }
+    },
+    {
+        "input": "¿Cuál de los siguientes compuestos genera un osazona diferente al reaccionar con fenilhidrazina, en comparación con los otros tres?\nA. D-fructosa\nB. D-galactosa\nC. D-glucosa\nD. D-manosa",
+        "target_scores": {
+            "A. D-fructosa": 0,
+            "B. D-galactosa": 1,
+            "C. D-glucosa": 0,
+            "D. D-manosa": 0
+        }
+    },
+    {
+        "input": "¿Qué disolución acuosa de aminoácidos a $pH=6{,}0$ migrará hacia el cátodo en un campo eléctrico?\nA. Alanina ($pI=6{,}0$)\nB. Lisina ($pI=9{,}74$)\nC. Ácido aspártico ($pI=2{,}98$)\nD. Ácido glutámico ($pI=3{,}22$)",
+        "target_scores": {
+            "A. Alanina ($pI=6{,}0$)": 0,
+            "B. Lisina ($pI=9{,}74$)": 1,
+            "C. Ácido aspártico ($pI=2{,}98$)": 0,
+            "D. Ácido glutámico ($pI=3{,}22$)": 0
+        }
+    },
+    {
+        "input": "¿Cuál de los siguientes compuestos puede producir turbidez con el reactivo de Lucas a temperatura ambiente?\nA. Ciclopentanol\nB. Ciclopenteno\nC. Clorociclopentano\nD. Pentanol",
+        "target_scores": {
+            "A. Ciclopentanol": 1,
+            "B. Ciclopenteno": 0,
+            "C. Clorociclopentano": 0,
+            "D. Pentanol": 0
+        }
+    },
+    {
+        "input": "Para disolver $\\text{Mg}(\\text{OH})_2$, se puede agregar ____.\nA. $NH_3·H_2O$\nB. $NH_4Cl$\nC. $NaCl$\nD. $NaOH$",
+        "target_scores": {
+            "A. $NH_3·H_2O$": 0,
+            "B. $NH_4Cl$": 1,
+            "C. $NaCl$": 0,
+            "D. $NaOH$": 0
+        }
+    },
+    {
+        "input": "¿Cuál de los siguientes compuestos tiene el punto de ebullición más alto?\nA. Acetaldehído\nB. Etano\nC. Etanol\nD. Ácido acético",
+        "target_scores": {
+            "A. Acetaldehído": 0,
+            "B. Etano": 0,
+            "C. Etanol": 0,
+            "D. Ácido acético": 1
+        }
+    },
+    {
+        "input": "Un sistema absorbe 100 kJ de calor del entorno durante un proceso de cambio y realiza 25 kJ de trabajo sobre el entorno. Por lo tanto, la energía interna del sistema se convierte en ______.\nA. -125 kJ \nB. -75 kJ\nC. 125 kJ\nD. 75 kJ",
+        "target_scores": {
+            "A. -125 kJ ": 0,
+            "B. -75 kJ": 0,
+            "C. 125 kJ": 0,
+            "D. 75 kJ": 1
+        }
+    },
+    {
+        "input": "¿Cuál de los siguientes grupos, al estar unido a un anillo de benceno, ejerce un efecto positivo de resonancia mayor que un efecto inductivo negativo sobre dicho anillo?\nA. Grupo acetilo\nB. Grupo etoxi\nC. Grupo nitrilo\nD. Trifluorometilo",
+        "target_scores": {
+            "A. Grupo acetilo": 0,
+            "B. Grupo etoxi": 1,
+            "C. Grupo nitrilo": 0,
+            "D. Trifluorometilo": 0
+        }
+    },
+    {
+        "input": "¿Cuál de los siguientes compuestos al calentarse forma un anhídrido interno? ______.\nA. Ácido adípico\nB. Ácido glutárico\nC. Ácido malónico\nD. Ácido oxálico",
+        "target_scores": {
+            "A. Ácido adípico": 0,
+            "B. Ácido glutárico": 1,
+            "C. Ácido malónico": 0,
+            "D. Ácido oxálico": 0
+        }
+    },
+    {
+        "input": "El producto principal obtenido tras la hidrólisis de la reacción entre propanal y bromuro de magnesio etílico es ____.\nA. 2-metil-2-butanol\nB. 2-pentanol\nC. 3-metil-2-butanol\nD. 3-pentanol",
+        "target_scores": {
+            "A. 2-metil-2-butanol": 0,
+            "B. 2-pentanol": 0,
+            "C. 3-metil-2-butanol": 0,
+            "D. 3-pentanol": 1
+        }
+    },
+    {
+        "input": "Cuando un sistema experimenta una serie de cambios y regresa a su estado inicial, ¿cuál de las siguientes relaciones es definitivamente cierta?\nA. $Q=0$\nB. $W=0$\nC. $\\Delta U = 0$\nD. $\\Delta U \\neq 0$",
+        "target_scores": {
+            "A. $Q=0$": 0,
+            "B. $W=0$": 0,
+            "C. $\\Delta U = 0$": 1,
+            "D. $\\Delta U \\neq 0$": 0
+        }
+    },
+    {
+        "input": "En las reacciones de sustitución electrofílica del benceno, ¿cuál grupo de los siguientes es un orientador meta?\nA. $CH_3$\nB. $Cl$\nC. $NO_2$\nD. $OCH_3$",
+        "target_scores": {
+            "A. $CH_3$": 0,
+            "B. $Cl$": 0,
+            "C. $NO_2$": 1,
+            "D. $OCH_3$": 0
+        }
+    },
+    {
+        "input": "El azufre monoclínico y el azufre rómbico son dos formas cristalinas del azufre elemental. En condiciones estándar, por debajo de 21,36 K,  el azufre rómbico es más estable; por encima de esta temperatura, el azufre monoclínico es más estable. La reacción S(monoclínico) → S(rómbico) es ______.\nA. Endotérmica, con aumento de entropía\nB. Endotérmica, con disminución de entropía\nC. Exotérmica, con aumento de entropía\nD. Exotérmica, con disminución de entropía",
+        "target_scores": {
+            "A. Endotérmica, con aumento de entropía": 0,
+            "B. Endotérmica, con disminución de entropía": 0,
+            "C. Exotérmica, con aumento de entropía": 0,
+            "D. Exotérmica, con disminución de entropía": 1
+        }
+    },
+    {
+        "input": "Los cultivos en suelos salino-alcalinos muestran un crecimiento deficiente e incluso se marchitan, lo que está directamente relacionado con las propiedades ______ de las soluciones diluidas.\nA. Descenso crioscópico\nB. Descenso de la presión de vapor\nC. Elevación del punto de ebullición\nD. Presión osmótica",
+        "target_scores": {
+            "A. Descenso crioscópico": 0,
+            "B. Descenso de la presión de vapor": 0,
+            "C. Elevación del punto de ebullición": 0,
+            "D. Presión osmótica": 1
+        }
+    },
+    {
+        "input": "Al disolver 13,0 g de un no electrolito en 200 g de agua, se observa que el punto de congelación de la disolución resultante es -1,95 °C. Dado $K_f = 1{,}86 \\, \\text{°C} \\cdot \\text{kg} \\cdot \\text{mol}^{-1} $, la masa molar de esta sustancia es ______.\nA. $124 \\, \\text{g·mol}^{-1}$\nB. $180 \\, \\text{g·mol}^{-1}$\nC. $31 \\, \\text{g·mol}^{-1}$\nD. $62 \\, \\text{g·mol}^{-1}$",
+        "target_scores": {
+            "A. $124 \\, \\text{g·mol}^{-1}$": 0,
+            "B. $180 \\, \\text{g·mol}^{-1}$": 0,
+            "C. $31 \\, \\text{g·mol}^{-1}$": 0,
+            "D. $62 \\, \\text{g·mol}^{-1}$": 1
+        }
+    },
+    {
+        "input": "Entre los siguientes compuestos, el que puede reaccionar con la prueba de Lucas a temperatura ambiente y produce turbidez más rápidamente es ______.\nA. Alcohol ter-butílico\nB. Butan-1-ol\nC. Butan-2-ol\nD. Metil propil éter",
+        "target_scores": {
+            "A. Alcohol ter-butílico": 1,
+            "B. Butan-1-ol": 0,
+            "C. Butan-2-ol": 0,
+            "D. Metil propil éter": 0
+        }
+    },
+    {
+        "input": "En una celda galvánica basada en la reacción $Fe(s)+2Ag^{+}(aq)=Fe^{2+}(aq)+2Ag(s)$, si la concentración de $Ag^+$ se reduce a una décima parte, la fuerza electromotriz de la celda galvánica ______.\nA. Aumentará 0,0592 V\nB. Aumentará 0,118 V\nC. Disminuirá 0,0592 V\nD. Disminuirá 0,118 V",
+        "target_scores": {
+            "A. Aumentará 0,0592 V": 0,
+            "B. Aumentará 0,118 V": 0,
+            "C. Disminuirá 0,0592 V": 1,
+            "D. Disminuirá 0,118 V": 0
+        }
+    },
+    {
+        "input": "El desarrollo y utilización de nuevas fuentes de energía es un tema importante para el desarrollo sostenible de la sociedad humana. ¿Cuál pertenece a la nueva fuente de energía?\nA. Carbón\nB. Gas natural\nC. Hidrógeno\nD. Petróleo",
+        "target_scores": {
+            "A. Carbón": 0,
+            "B. Gas natural": 0,
+            "C. Hidrógeno": 1,
+            "D. Petróleo": 0
+        }
+    },
+    {
+        "input": "¿Cuál descripción experimental es INCORRECTA?\nA. Al añadir ácido sulfúrico diluido a una solución de tornasol, la solución cambia de violeta a azul\nB. El azufre arde en oxígeno con llama azul-violácea\nC. El hierro arde intensamente en oxígeno con chispas y forma un sólido negro\nD. En la electrólisis del agua, la relación volumen gas ánodo:cátodo es 1:2",
+        "target_scores": {
+            "A. Al añadir ácido sulfúrico diluido a una solución de tornasol, la solución cambia de violeta a azul": 1,
+            "B. El azufre arde en oxígeno con llama azul-violácea": 0,
+            "C. El hierro arde intensamente en oxígeno con chispas y forma un sólido negro": 0,
+            "D. En la electrólisis del agua, la relación volumen gas ánodo:cátodo es 1:2": 0
+        }
+    },
+    {
+        "input": "¿Entre los siguientes antiguos inventos o tecnologías en un país, cuál involucra principalmente cambios químicos?\nA. Escultura en piedra\nB. Fundición de mineral de hierro\nC. Impresión con tipos móviles\nD. Riego con noria",
+        "target_scores": {
+            "A. Escultura en piedra": 0,
+            "B. Fundición de mineral de hierro": 1,
+            "C. Impresión con tipos móviles": 0,
+            "D. Riego con noria": 0
+        }
+    },
+    {
+        "input": "¿Cuál cambio NO es una reacción de oxidación?\nA. Combustión de gas natural\nB. Corrosión de productos de hierro\nC. Eliminación de óxido con ácido clorhídrico\nD. Respiración animal",
+        "target_scores": {
+            "A. Combustión de gas natural": 0,
+            "B. Corrosión de productos de hierro": 0,
+            "C. Eliminación de óxido con ácido clorhídrico": 1,
+            "D. Respiración animal": 0
+        }
+    },
+    {
+        "input": "Desde el punto de vista de la seguridad, ¿cuál práctica es correcta?\nA. Comprobar la pureza del $H_2$ antes de su combustión\nB. El arroz mohoso se cocina y luego se consume\nC. Se coloca una olla de agua sobre la estufa de carbón para prevenir la intoxicación por $CO$.\nD. Sumergir el marisco en formaldehído",
+        "target_scores": {
+            "A. Comprobar la pureza del $H_2$ antes de su combustión": 1,
+            "B. El arroz mohoso se cocina y luego se consume": 0,
+            "C. Se coloca una olla de agua sobre la estufa de carbón para prevenir la intoxicación por $CO$.": 0,
+            "D. Sumergir el marisco en formaldehído": 0
+        }
+    },
+    {
+        "input": "Al gotear los siguientes reactivos en soluciones de $Ca(OH)_2$, $H_2SO_4$ y $Na_2SO_4$ respectivamente, ¿cuál producirá tres reacciones distintas?\nA. Solución de $Ba(NO_3)_2$\nB. Solución de $MgCl_2$\nC. Solución de $Na_2CO_3$\nD. Solución de fenolftaleína",
+        "target_scores": {
+            "A. Solución de $Ba(NO_3)_2$": 0,
+            "B. Solución de $MgCl_2$": 0,
+            "C. Solución de $Na_2CO_3$": 1,
+            "D. Solución de fenolftaleína": 0
+        }
+    },
+    {
+        "input": "La química está relacionada con la producción y vida humana. ¿Cuál de las afirmaciones es correcta?\nA. Después de una tormenta de verano, el aire se siente fresco porque se produce una pequeña cantidad de $NO_2$.\nB. El alumbre puede desalinizar agua marina para resolver la \"crisis de suministro de agua dulce\"\nC. El ácido sulfúrico concentrado tiene higroscopicidad y sirve como desecante alimentario\nD. Los fuegos artificiales coloridos y brillantes contienen compuestos con elementos metálicos como potasio, sodio, calcio y cobre",
+        "target_scores": {
+            "A. Después de una tormenta de verano, el aire se siente fresco porque se produce una pequeña cantidad de $NO_2$.": 0,
+            "B. El alumbre puede desalinizar agua marina para resolver la \"crisis de suministro de agua dulce\"": 0,
+            "C. El ácido sulfúrico concentrado tiene higroscopicidad y sirve como desecante alimentario": 0,
+            "D. Los fuegos artificiales coloridos y brillantes contienen compuestos con elementos metálicos como potasio, sodio, calcio y cobre": 1
+        }
+    },
+    {
+        "input": "¿Cuál de las siguientes afirmaciones sobre el número de isómeros estructurales (excluyendo estereoisómeros) representados por las fórmulas moleculares es correcta?\nA. $C_2H_4Cl_2$: 1 isómero\nB. $C_2H_4O_2$: 2 isómeros\nC. $C_2H_6O$: 3 isómeros\nD. $C_4H_9Br$: 4 isómeros",
+        "target_scores": {
+            "A. $C_2H_4Cl_2$: 1 isómero": 0,
+            "B. $C_2H_4O_2$: 2 isómeros": 0,
+            "C. $C_2H_6O$: 3 isómeros": 0,
+            "D. $C_4H_9Br$: 4 isómeros": 1
+        }
+    },
+    {
+        "input": "El compuesto orgánico A (fórmula $C_7H_{12}O_2$) tiene un anillo hexagonal, se hidroliza en medio ácido dando un único producto y la molécula de A contiene dos grupos metilo. ¿Cuántas estructuras posibles tiene A?\nA. 10 estructuras\nB. 11 estructuras\nC. 12 estructuras\nD. 6 estructuras",
+        "target_scores": {
+            "A. 10 estructuras": 1,
+            "B. 11 estructuras": 0,
+            "C. 12 estructuras": 0,
+            "D. 6 estructuras": 0
+        }
+    },
+    {
+        "input": "¿Cuántos isómeros de anillo de tres miembros con fórmula molecular $C_4H_8O$ existen (sin considerar \nestereoisómeros)?\nA. 5 isómeros\nB. 6 isómeros\nC. 7 isómeros\nD. 8 isómeros",
+        "target_scores": {
+            "A. 5 isómeros": 0,
+            "B. 6 isómeros": 0,
+            "C. 7 isómeros": 1,
+            "D. 8 isómeros": 0
+        }
+    },
+    {
+        "input": "El número de isómeros estructurales para la fórmula molecular $C_7H_6O_2$ que son compuestos aromáticos es (　　)\nA. 3\nB. 4\nC. 5\nD. 6",
+        "target_scores": {
+            "A. 3": 0,
+            "B. 4": 0,
+            "C. 5": 0,
+            "D. 6": 1
+        }
+    },
+    {
+        "input": "El Na metálico se disuelve en amoníaco líquido formando iones sodio amoniacados y electrones solvatados. Al añadir un ligando de criptando (L) a esta solución, se obtiene el primer compuesto dorado [$NaL^{+}Na^{-}$], que contiene un anión metálico alcalino. ¿Cuál afirmación es INCORRECTA?\nA. El poder reductor de $Na^-$ es mayor que el del Na metálico\nB. El radio de $Na^-$ es mayor que el de $F^-$\nC. Este hecho muestra que el Na también puede exhibir propiedades no metálicas\nD. La primera energía de ionización de $Na^-$ es mayor que la de $H^-$",
+        "target_scores": {
+            "A. El poder reductor de $Na^-$ es mayor que el del Na metálico": 0,
+            "B. El radio de $Na^-$ es mayor que el de $F^-$": 0,
+            "C. Este hecho muestra que el Na también puede exhibir propiedades no metálicas": 0,
+            "D. La primera energía de ionización de $Na^-$ es mayor que la de $H^-$": 1
+        }
+    },
+    {
+        "input": "La reacción de \"economía atómica ideal\" se refiere a una reacción en la que todos los átomos de los reactantes se convierten en el producto final deseado. ¿Cuál ejemplo corresponde a esto?\nA. La síntesis de etileno mediante calentamiento de bromoetano con una solución de $NaOH$ en etanol\nB. La síntesis de óxido de etileno mediante la reacción de etileno con oxígeno en presencia de un catalizador de Ag\nC. Producción de acetileno con carburo de calcio y agua\nD. Síntesis de 2,4,6-tribromofenol mediante la reacción entre una solución diluida de fenol y agua de bromo saturada",
+        "target_scores": {
+            "A. La síntesis de etileno mediante calentamiento de bromoetano con una solución de $NaOH$ en etanol": 0,
+            "B. La síntesis de óxido de etileno mediante la reacción de etileno con oxígeno en presencia de un catalizador de Ag": 1,
+            "C. Producción de acetileno con carburo de calcio y agua": 0,
+            "D. Síntesis de 2,4,6-tribromofenol mediante la reacción entre una solución diluida de fenol y agua de bromo saturada": 0
+        }
+    },
+    {
+        "input": "La química está estrechamente relacionada con la producción y la vida cotidiana. La siguiente afirmación es correcta:\nA. El $BaSO_4$ se utiliza en medicina como un contraste de bario, y el $Ba^{2+}$ no es tóxico para el cuerpo humano\nB. El $^{14}C$ data restos arqueológicos; $^{12}C$ y $^{14}C$ son alótropos\nC. La destilación seca del carbón y el fraccionamiento del petróleo son cambios químicos\nD. La solución inyectable de glucosa no produce el fenómeno del efecto Tyndall, por lo que no pertenece a un coloide",
+        "target_scores": {
+            "A. El $BaSO_4$ se utiliza en medicina como un contraste de bario, y el $Ba^{2+}$ no es tóxico para el cuerpo humano": 0,
+            "B. El $^{14}C$ data restos arqueológicos; $^{12}C$ y $^{14}C$ son alótropos": 0,
+            "C. La destilación seca del carbón y el fraccionamiento del petróleo son cambios químicos": 0,
+            "D. La solución inyectable de glucosa no produce el fenómeno del efecto Tyndall, por lo que no pertenece a un coloide": 1
+        }
+    },
+    {
+        "input": "Una solución puede contener $Cl^-$, $SO_4^{2-}$, $CO_3^{2-}$, $NH_4^+$, $Fe^{3+}$, $Al^{3+}$ y $K^+$. Se toman 100 mL de esta solución, se agrega $NaOH$ en exceso y se calienta, obteniendo 0,02 mol de gas y un precipitado de color marrón rojizo. Tras filtrar, lavar y calcinar, se obtienen 1,6 g de sólido. Al añadir una cantidad suficiente de solución de $BaCl_2$ al filtrado mencionado anteriormente, se forman 4,66 g de precipitado insoluble en $HCl$. Esto indica que en la solución original:\nA. $CO_3^{2-}$ y $Al^{3+}$ no existen, $K^+$ podría existir\nB. $Cl^-$ existe definitivamente con $c(Cl^-) ≥ 0{,}4$ mol/L\nC. $SO_4^{2-}$ y $NH_4^+$ existen, $Cl^-$ podría no existir\nD. Al menos existen 5 iones",
+        "target_scores": {
+            "A. $CO_3^{2-}$ y $Al^{3+}$ no existen, $K^+$ podría existir": 0,
+            "B. $Cl^-$ existe definitivamente con $c(Cl^-) ≥ 0{,}4$ mol/L": 1,
+            "C. $SO_4^{2-}$ y $NH_4^+$ existen, $Cl^-$ podría no existir": 0,
+            "D. Al menos existen 5 iones": 0
+        }
+    },
+    {
+        "input": "Una solución podría contener $Na^+$, $NH_4^+$, $Ba^{2+}$, $SO_4^{2-}$, $I^-$, $S^{2-}$. Pruebas realizadas: ① Mediante un medidor de pH, se determina que la solución presenta un carácter ligeramente ácido.; ② No se observan fenómenos evidentes al agregar cloro acuoso y almidón. ¿Qué ion debe verificarse adicionalmente para confirmar la composición de la solución?\nA. $Ba^{2+}$\nB. $NH_4^+$\nC. $Na^+$\nD. $SO_4^{2-}$",
+        "target_scores": {
+            "A. $Ba^{2+}$": 0,
+            "B. $NH_4^+$": 0,
+            "C. $Na^+$": 1,
+            "D. $SO_4^{2-}$": 0
+        }
+    },
+    {
+        "input": "Para gases $^{12}C^{18}O$ y $^{14}N_2$ a misma temperatura y presión, ¿cuál afirmación es correcta?\nA. Cuando las masas son iguales, tienen el mismo número de protones\nB. Cuando los números de átomos son iguales, también lo son los números de neutrones\nC. Cuando los volúmenes son iguales, las densidades también lo son\nD. Cuando los volúmenes son iguales, también lo son los números de electrones",
+        "target_scores": {
+            "A. Cuando las masas son iguales, tienen el mismo número de protones": 0,
+            "B. Cuando los números de átomos son iguales, también lo son los números de neutrones": 0,
+            "C. Cuando los volúmenes son iguales, las densidades también lo son": 0,
+            "D. Cuando los volúmenes son iguales, también lo son los números de electrones": 1
+        }
+    },
+    {
+        "input": "Se coloca un vaso de precipitados pequeño con polvo de $NH_4HCO_3$ dentro de un vaso de precipitados grande que contiene ácido acético. Al añadir $HCl$ al vaso de precipitados pequeño, la reacción es violenta y el ácido acético se solidifica gradualmente. Esto indica que:\nA. A. La ecuación termoquímica es: $NH_4HCO_3 + CH_3COOH \\rightarrow CH_3COONH_4 + CO_2 \\uparrow + H_2O$ $\\Delta H>0$\nB. En esta reacción, la energía térmica se convierte en energía interna de los productos\nC. La energía total de los reactivos es mayor que la de los productos\nD. La reacción entre $NH_4HCO_3$ y $HCl$ es exotérmica",
+        "target_scores": {
+            "A. A. La ecuación termoquímica es: $NH_4HCO_3 + CH_3COOH \\rightarrow CH_3COONH_4 + CO_2 \\uparrow + H_2O$ $\\Delta H>0$": 0,
+            "B. En esta reacción, la energía térmica se convierte en energía interna de los productos": 1,
+            "C. La energía total de los reactivos es mayor que la de los productos": 0,
+            "D. La reacción entre $NH_4HCO_3$ y $HCl$ es exotérmica": 0
+        }
+    },
+    {
+        "input": "Para $CO(g) + H_2O(g) \\rightarrow H_2(g) + CO_2(g)$ $\\Delta H﹤0$, bajo condiciones constantes:\nA. Al aumentar la temperatura, la velocidad de reacción aumenta pero el calor liberado no cambia\nB. Al cambiar la presión, el equilibrio no se desplaza y el calor liberado por la reacción no varía\nC. Si ocurre en una celda galvánica, el calor liberado permanece igual\nD. Un catalizador cambia la ruta de reacción, modificando $\\Delta H$ de la reacción",
+        "target_scores": {
+            "A. Al aumentar la temperatura, la velocidad de reacción aumenta pero el calor liberado no cambia": 0,
+            "B. Al cambiar la presión, el equilibrio no se desplaza y el calor liberado por la reacción no varía": 1,
+            "C. Si ocurre en una celda galvánica, el calor liberado permanece igual": 0,
+            "D. Un catalizador cambia la ruta de reacción, modificando $\\Delta H$ de la reacción": 0
+        }
+    },
+    {
+        "input": "Si los productos de la descomposición de $(NH_4)_2SO_4$ al calentarlo fuertemente son $SO_2$, $N_2$, $NH_3$ y $H_2O$, la proporción de átomos de N que cambian/no cambian su valencia en la reacción es:\nA. 1∶2\nB. 1∶4\nC. 2∶1\nD. 4∶1",
+        "target_scores": {
+            "A. 1∶2": 1,
+            "B. 1∶4": 0,
+            "C. 2∶1": 0,
+            "D. 4∶1": 0
+        }
+    },
+    {
+        "input": "Se añaden 0,195g de Zn en polvo a 20,0 mL de solución 0,100 mol·L⁻¹ de $M O_2^+$, reaccionando completamente.  Entonces, el producto de reducción podría ser:\nA. $MO_2^+$\nB. $M^{2+}$\nC. $M^{3+}$\nD. M",
+        "target_scores": {
+            "A. $MO_2^+$": 0,
+            "B. $M^{2+}$": 1,
+            "C. $M^{3+}$": 0,
+            "D. M": 0
+        }
+    },
+    {
+        "input": "La imida de litio ($Li_2NH$) es un material sólido de almacenamiento de hidrógeno con alta capacidad y seguridad, cuyo principio de almacenamiento de hidrógeno se representa como:  \n$Li_2NH + H_2 \\rightleftharpoons LiNH_2 + LiH$\n¿Cuál afirmación es correcta?\nA. El principio de almacenamiento de hidrógeno es igual al de cilindros de acero\nB. En esta reacción, $H_2$ actúa como oxidante y reductor\nC. La valencia de N en $Li_2NH$ es -1\nD. Los radios iónicos de $Li^+$ y $H^+$ son iguales",
+        "target_scores": {
+            "A. El principio de almacenamiento de hidrógeno es igual al de cilindros de acero": 0,
+            "B. En esta reacción, $H_2$ actúa como oxidante y reductor": 1,
+            "C. La valencia de N en $Li_2NH$ es -1": 0,
+            "D. Los radios iónicos de $Li^+$ y $H^+$ son iguales": 0
+        }
+    },
+    {
+        "input": "Para una reacción entre Zn y HNO₃ diluido en relación molar 2:5, donde el producto reducido del HNO₃ es $N_2O$ y no hay Zn residual, la relación molar entre HNO₃ reducido y no reducido es:\nA. 1∶4\nB. 1∶5\nC. 2∶3\nD. 2∶5",
+        "target_scores": {
+            "A. 1∶4": 1,
+            "B. 1∶5": 0,
+            "C. 2∶3": 0,
+            "D. 2∶5": 0
+        }
+    },
+    {
+        "input": "Los números atómicos de los elementos X, Y, Z, W de los tres primeros períodos aumentan en ese orden y la suma de los electrones de valencia es 13. El radio atómico de X es más pequeño que el de Y, y X pertenece al mismo grupo que W. Z es el elemento más abundante en la corteza. ¿Cuál afirmación es correcta?\nA. La estabilidad térmica del hidruro gaseoso simple del elemento Y es mayor que la de Z\nB. La estructura de la capa de electrones de los iones simples de los elementos Z y W es diferente\nC. Los compuestos que contienen solo tres elementos, X, Y y Z, pueden ser iónicos o covalentes\nD. Orden de magnitud del radio atómico: r(Y)>r(Z)>r(W)",
+        "target_scores": {
+            "A. La estabilidad térmica del hidruro gaseoso simple del elemento Y es mayor que la de Z": 0,
+            "B. La estructura de la capa de electrones de los iones simples de los elementos Z y W es diferente": 0,
+            "C. Los compuestos que contienen solo tres elementos, X, Y y Z, pueden ser iónicos o covalentes": 1,
+            "D. Orden de magnitud del radio atómico: r(Y)>r(Z)>r(W)": 0
+        }
+    },
+    {
+        "input": "Los elementos principales X, Y, Z, W de los tres primeros períodos aumentan secuencialmente. La proporción de electrones en la capa más externa entre los átomos W y X es de 4:3, y el átomo Z tiene 4 electrones fuera del núcleo más que el átomo X. ¿Cuál afirmación es correcta?\nA. El orden de magnitud de electronegatividad de W, Y, Z debe ser: Z > Y > W\nB. En WY2, la relación enlaces δ:π es 2:1\nC. La geometría de Y-Z podría ser tetraédrica\nD. Posible orden de magnitud de radios atómicos de W, X, Y, Z: W > X > Y > Z",
+        "target_scores": {
+            "A. El orden de magnitud de electronegatividad de W, Y, Z debe ser: Z > Y > W": 0,
+            "B. En WY2, la relación enlaces δ:π es 2:1": 0,
+            "C. La geometría de Y-Z podría ser tetraédrica": 1,
+            "D. Posible orden de magnitud de radios atómicos de W, X, Y, Z: W > X > Y > Z": 0
+        }
+    },
+    {
+        "input": "¿En cuál de los siguientes cambios se requiere superar el mismo tipo de fuerzas intermoleculares?\nA. Disolución de HCl y KCl\nB. Fusión del silicio y del C₆₀\nC. Sublimación del yodo y del hielo seco\nD. Vaporización del bromo y del mercurio",
+        "target_scores": {
+            "A. Disolución de HCl y KCl": 0,
+            "B. Fusión del silicio y del C₆₀": 0,
+            "C. Sublimación del yodo y del hielo seco": 1,
+            "D. Vaporización del bromo y del mercurio": 0
+        }
+    },
+    {
+        "input": "Los elementos W, X, Y, Z son los de los tres primeros períodos. La capa más externa del átomo del elemento X no alcanza la estructura estable de 8 electrones, y la forma elemental de X se obtiene industrialmente por destilación fraccionada de aire líquido. Y tiene igual número de electrones s y p en su capa de valencia. Z tiene un ion +2 con configuración electrónica idéntica al neón. W posee un electrón p desapareado en su capa M. ¿Cuál de las siguientes afirmaciones sobre las propiedades de estos elementos es necesariamente correcta?\nA. El elemento Z en su forma elemental puede reaccionar con el elemento X en su forma elemental bajo ciertas condiciones\nB. El radio iónico de Z es mayor que el de W\nC. El óxido de mayor valencia del elemento Y forma un cristal con puntos de fusión y ebullición extremadamente altos\nD. Las soluciones acuosas de hidruros del elemento X son alcalinas",
+        "target_scores": {
+            "A. El elemento Z en su forma elemental puede reaccionar con el elemento X en su forma elemental bajo ciertas condiciones": 1,
+            "B. El radio iónico de Z es mayor que el de W": 0,
+            "C. El óxido de mayor valencia del elemento Y forma un cristal con puntos de fusión y ebullición extremadamente altos": 0,
+            "D. Las soluciones acuosas de hidruros del elemento X son alcalinas": 0
+        }
+    },
+    {
+        "input": "Para los elementos de los tres primeros períodos W, X, Y, Z (orden creciente de número atómico), ¿cuáles de sus iones simples alteran la disociación del agua?\nA. $W^{2-}$ y $X^+$\nB. $X^+$ y $Y^{3+}$\nC. $X^+$ y $Z^{2-}$\nD. $Y^{3+}$ y $Z^{2-}$",
+        "target_scores": {
+            "A. $W^{2-}$ y $X^+$": 0,
+            "B. $X^+$ y $Y^{3+}$": 0,
+            "C. $X^+$ y $Z^{2-}$": 0,
+            "D. $Y^{3+}$ y $Z^{2-}$": 1
+        }
+    },
+    {
+        "input": "Dado que $^{33}$As y $^{35}$Br están en el mismo periodo, ¿cuál de las siguientes relaciones es correcta?\nA. Acidez: $H_3AsO_4 > H_2SO_4 > H_3PO_4$\nB. Carácter reductor: $As^{3-} > S^{2-} > Cl^-$\nC. Estabilidad térmica: $HCl > AsH_3 > HBr$\nD. Radio atómico: $As > Cl > P$",
+        "target_scores": {
+            "A. Acidez: $H_3AsO_4 > H_2SO_4 > H_3PO_4$": 0,
+            "B. Carácter reductor: $As^{3-} > S^{2-} > Cl^-$": 1,
+            "C. Estabilidad térmica: $HCl > AsH_3 > HBr$": 0,
+            "D. Radio atómico: $As > Cl > P$": 0
+        }
+    },
+    {
+        "input": "Los elementos W, X, Y, Z de los tres primeros períodos tienen números atómicos crecientes. El anión del elemento W tiene el mismo número de electrones externos que los electrones internos de los átomos X, Y y Z. Un isótopo de X se usa comúnmente en arqueología para datar artefactos, el método industrial para producir Y en forma elemental es la destilación fraccionada de aire líquido, y Z no puede formar moléculas diatómicas. Según estas afirmaciones, ¿cuál de las siguientes conclusiones es correcta?\nA. El orden de los radios atómicos de los cuatro elementos mencionados es: W < X < Y < Z\nB. La suma de electrones de valencia de W, X, Y, Z es 20\nC. Los compuestos de W con X siempre tienen menor punto de ebullición que los de W con Y\nD. W e Y pueden formar compuestos con enlaces covalentes polares y no polares",
+        "target_scores": {
+            "A. El orden de los radios atómicos de los cuatro elementos mencionados es: W < X < Y < Z": 0,
+            "B. La suma de electrones de valencia de W, X, Y, Z es 20": 0,
+            "C. Los compuestos de W con X siempre tienen menor punto de ebullición que los de W con Y": 0,
+            "D. W e Y pueden formar compuestos con enlaces covalentes polares y no polares": 1
+        }
+    },
+    {
+        "input": "Para la reacción $X(g) + Y(g) \\rightarrow 2Z(g)$; $\\Delta H<0$ en equilibrio, ¿cuál afirmación es correcta?\nA. Aumentar c(X) incrementa la conversión de X\nB. Bajar temperatura aumenta la conversión de Y\nC. Reducir el volumen desplaza el equilibrio a la derecha\nD. Un catalizador aumenta el rendimiento de Z",
+        "target_scores": {
+            "A. Aumentar c(X) incrementa la conversión de X": 0,
+            "B. Bajar temperatura aumenta la conversión de Y": 1,
+            "C. Reducir el volumen desplaza el equilibrio a la derecha": 0,
+            "D. Un catalizador aumenta el rendimiento de Z": 0
+        }
+    },
+    {
+        "input": "Para una solución de amoníaco 0,10 mol·L⁻¹ a temperatura ambiente, ¿cuál de las afirmaciones es correcta?\nA. El pH de su solución=13\nB. La ecuación iónica de la reacción con una solución de AlCl3 es: $Al^{3+} + 3OH^- \\rightarrow Al(OH)_3 \\downarrow$\nC. Tras la dilución con agua, $c(NH_4^+)c(OH^-)$ aumenta\nD. Tras la neutralización completa con una solución de $HNO_3$, la solución resultante no es neutra",
+        "target_scores": {
+            "A. El pH de su solución=13": 0,
+            "B. La ecuación iónica de la reacción con una solución de AlCl3 es: $Al^{3+} + 3OH^- \\rightarrow Al(OH)_3 \\downarrow$": 0,
+            "C. Tras la dilución con agua, $c(NH_4^+)c(OH^-)$ aumenta": 0,
+            "D. Tras la neutralización completa con una solución de $HNO_3$, la solución resultante no es neutra": 1
+        }
+    },
+    {
+        "input": "El agua supercrítica por encima de 374℃ y 22,1 MPa posee una capacidad excepcional para disolver compuestos orgánicos y contiene más $H^+$ y $OH^-$. Esto implica que el agua supercrítica:\nA. Es neutra con pH =7\nB. Muestra propiedades de disolvente no polar\nC. Muestra propiedades de disolvente polar\nD. Presenta acidez con pH <7",
+        "target_scores": {
+            "A. Es neutra con pH =7": 0,
+            "B. Muestra propiedades de disolvente no polar": 1,
+            "C. Muestra propiedades de disolvente polar": 0,
+            "D. Presenta acidez con pH <7": 0
+        }
+    },
+    {
+        "input": "Una provincia es rica en sal mineral (el componente principal es $NaCl$, pero también contiene iones de impurezas solubles como $SO_4^{2-}$). ¿Cuál afirmación es correcta?\nA. A temperatura ambiente, la solubilidad del $AgCl$ en agua es menor que en solución salina.\nB. En la industria, el sodio metálico y el cloro se obtienen mediante electrólisis de solución de cloruro de sodio.\nC. La sal mineral produce sal, para eliminar $SO_4^{2-}$, el reactivo más adecuado es $Ba(NO_3)_2$.\nD. La solución saturada de $NaCl$ y la solución saturada de $Na_2CO_3$ pueden distinguirse usando fenolftaleína.",
+        "target_scores": {
+            "A. A temperatura ambiente, la solubilidad del $AgCl$ en agua es menor que en solución salina.": 0,
+            "B. En la industria, el sodio metálico y el cloro se obtienen mediante electrólisis de solución de cloruro de sodio.": 0,
+            "C. La sal mineral produce sal, para eliminar $SO_4^{2-}$, el reactivo más adecuado es $Ba(NO_3)_2$.": 0,
+            "D. La solución saturada de $NaCl$ y la solución saturada de $Na_2CO_3$ pueden distinguirse usando fenolftaleína.": 1
+        }
+    },
+    {
+        "input": "En los paquetes de pastelería, el agente desoxidante común contiene polvo de hierro reducido, cloruro de sodio y carbón. Su principio de desoxidación es idéntico a la corrosión por oxígeno del acero. ¿Qué análisis es correcto?\nA. El carbono actúa como cátodo en la celda galvánica en la desoxidación, con reacción de electrodo: $2H_2O + O_2 + 4e^- \\rightarrow 4OH^-$\nB. El hierro actúa como ánodo de la celda galvánica, con reacción de electrodo: $Fe - 3e^- \\rightarrow Fe^{3+}$\nC. La desoxidación es endotérmica, reduciendo la temperatura y prolongando la vida útil de los pasteles\nD. Un agente desoxidante con 1,12 g de polvo de hierro puede absorber teóricamente un máximo de 336 mL de oxígeno (condiciones estándar)",
+        "target_scores": {
+            "A. El carbono actúa como cátodo en la celda galvánica en la desoxidación, con reacción de electrodo: $2H_2O + O_2 + 4e^- \\rightarrow 4OH^-$": 0,
+            "B. El hierro actúa como ánodo de la celda galvánica, con reacción de electrodo: $Fe - 3e^- \\rightarrow Fe^{3+}$": 0,
+            "C. La desoxidación es endotérmica, reduciendo la temperatura y prolongando la vida útil de los pasteles": 0,
+            "D. Un agente desoxidante con 1,12 g de polvo de hierro puede absorber teóricamente un máximo de 336 mL de oxígeno (condiciones estándar)": 1
+        }
+    },
+    {
+        "input": "Entre las siguientes medidas de protección contra la corrosión metálica, ¿cuál utiliza el método de protección catódica con corriente externa?\nA. Aplicar películas poliméricas en chasis de vehículos\nB. Conectar compuertas de acero en agua al polo negativo de una fuente\nC. Conectar tuberías subterráneas a bloques de magnesio\nD. Recubrir barreras metálicas con pintura",
+        "target_scores": {
+            "A. Aplicar películas poliméricas en chasis de vehículos": 0,
+            "B. Conectar compuertas de acero en agua al polo negativo de una fuente": 1,
+            "C. Conectar tuberías subterráneas a bloques de magnesio": 0,
+            "D. Recubrir barreras metálicas con pintura": 0
+        }
+    },
+    {
+        "input": "De los siguientes estados relacionados con el átomo de oxígeno, ¿en cuál se requiere la menor energía para perder un electrón?\nA. $1s^2 2s^2 2p^2$\nB. $1s^2 2s^2 2p^3 3s^1$\nC. $1s^2 2s^2 2p^3$\nD. $1s^2 2s^2 2p^4$",
+        "target_scores": {
+            "A. $1s^2 2s^2 2p^2$": 0,
+            "B. $1s^2 2s^2 2p^3 3s^1$": 1,
+            "C. $1s^2 2s^2 2p^3$": 0,
+            "D. $1s^2 2s^2 2p^4$": 0
+        }
+    },
+    {
+        "input": "Carlos realizó experimentos con velas. La afirmación incorrecta es:\nA. Al apagarse la vela, se produce una columna de humo blanco, compuesta por vapor de agua\nB. Al cortar un trozo de vela y colocarlo en agua, la vela flota en la superficie del agua, lo que indica que es insoluble en agua y menos densa que el agua\nC. La llama de la vela al quemarse se divide en tres capas\nD. La parte de la cerilla en contacto con la zona exterior de la llama se ennegrece primero",
+        "target_scores": {
+            "A. Al apagarse la vela, se produce una columna de humo blanco, compuesta por vapor de agua": 1,
+            "B. Al cortar un trozo de vela y colocarlo en agua, la vela flota en la superficie del agua, lo que indica que es insoluble en agua y menos densa que el agua": 0,
+            "C. La llama de la vela al quemarse se divide en tres capas": 0,
+            "D. La parte de la cerilla en contacto con la zona exterior de la llama se ennegrece primero": 0
+        }
+    },
+    {
+        "input": "¿Cuál de los siguientes grupos de sustancias produce una lluvia de chispas al quemarse en oxígeno?\nA. Alambre de hierro\nB. Carbón vegetal\nC. Fósforo rojo\nD. Polvo de azufre",
+        "target_scores": {
+            "A. Alambre de hierro": 1,
+            "B. Carbón vegetal": 0,
+            "C. Fósforo rojo": 0,
+            "D. Polvo de azufre": 0
+        }
+    },
+    {
+        "input": "De los siguientes grupos de sustancias, ¿cuál está ordenado en la secuencia de sustancia elemental, compuesto y mezcla?\nA. C60, óxido ferroso férrico, piedra caliza\nB. Gas natural, carbón, petróleo\nC. Hidrógeno, hielo seco, mezcla de agua y hielo\nD. Oxígeno líquido, aire limpio, cloruro de hidrógeno",
+        "target_scores": {
+            "A. C60, óxido ferroso férrico, piedra caliza": 1,
+            "B. Gas natural, carbón, petróleo": 0,
+            "C. Hidrógeno, hielo seco, mezcla de agua y hielo": 0,
+            "D. Oxígeno líquido, aire limpio, cloruro de hidrógeno": 0
+        }
+    },
+    {
+        "input": "¿Cuál de las siguientes afirmaciones sobre la sacarosa (fórmula química $C_{12}H_{22}O_{11}$) es correcta?\nA. El oxígeno es el elemento con el menor porcentaje en masa en la sacarosa\nB. En la sacarosa, la proporción entre el número de átomos de hidrógeno (H) y oxígeno (O) es de 2 a 1\nC. La masa molecular relativa es $(12+1+16)$\nD. La sacarosa contiene 45 tipos de elementos",
+        "target_scores": {
+            "A. El oxígeno es el elemento con el menor porcentaje en masa en la sacarosa": 0,
+            "B. En la sacarosa, la proporción entre el número de átomos de hidrógeno (H) y oxígeno (O) es de 2 a 1": 1,
+            "C. La masa molecular relativa es $(12+1+16)$": 0,
+            "D. La sacarosa contiene 45 tipos de elementos": 0
+        }
+    },
+    {
+        "input": "El humo del cigarrillo contiene nicotina (fórmula química $\\text{C}_{10}\\text{H}_{14}\\text{N}_2$). ¿Cuál de las siguientes afirmaciones es correcta?\nA. En la molécula de nicotina, la proporción entre el número de átomos de carbono e hidrógeno es de 5 a 7\nB. La masa molecular relativa de la nicotina es 162g\nC. La molécula de nicotina contiene moléculas de nitrógeno\nD. La nicotina está compuesta por los elementos carbono, hidrógeno y oxígeno.",
+        "target_scores": {
+            "A. En la molécula de nicotina, la proporción entre el número de átomos de carbono e hidrógeno es de 5 a 7": 1,
+            "B. La masa molecular relativa de la nicotina es 162g": 0,
+            "C. La molécula de nicotina contiene moléculas de nitrógeno": 0,
+            "D. La nicotina está compuesta por los elementos carbono, hidrógeno y oxígeno.": 0
+        }
+    },
+    {
+        "input": "Un compuesto puro se quema completamente en oxígeno produciendo solo CO₂ y H₂O. Esto indica que el compuesto:\nA. Debe contener carbono e hidrógeno, posiblemente oxígeno.\nB. Debe contener carbono, hidrógeno y oxígeno.\nC. No se puede determinar.\nD. Solo contiene carbono e hidrógeno, sin oxígeno.",
+        "target_scores": {
+            "A. Debe contener carbono e hidrógeno, posiblemente oxígeno.": 1,
+            "B. Debe contener carbono, hidrógeno y oxígeno.": 0,
+            "C. No se puede determinar.": 0,
+            "D. Solo contiene carbono e hidrógeno, sin oxígeno.": 0
+        }
+    },
+    {
+        "input": "¿Cuál de las siguientes afirmaciones es INCORRECTA?\nA. 3,2 g de azufre y 3,2 g de oxígeno reaccionan para producir 6,4 g de dióxido de azufre.\nB. Cuando el clorato de potasio se descompone por calentamiento, la masa de cloruro de potasio producido es menor que la masa del clorato de potasio original.\nC. Cuando el magnesio se quema en el aire, la masa del producto es menor que la masa del magnesio.\nD. La suma de las masas de las sustancias que participan en una reacción química es igual a la suma de las masas de las sustancias obtenidas tras la reacción.",
+        "target_scores": {
+            "A. 3,2 g de azufre y 3,2 g de oxígeno reaccionan para producir 6,4 g de dióxido de azufre.": 0,
+            "B. Cuando el clorato de potasio se descompone por calentamiento, la masa de cloruro de potasio producido es menor que la masa del clorato de potasio original.": 0,
+            "C. Cuando el magnesio se quema en el aire, la masa del producto es menor que la masa del magnesio.": 1,
+            "D. La suma de las masas de las sustancias que participan en una reacción química es igual a la suma de las masas de las sustancias obtenidas tras la reacción.": 0
+        }
+    },
+    {
+        "input": "¿Cuál afirmación sobre el carbono y sus óxidos es correcta?\nA. Bajo ciertas condiciones, el monóxido de carbono y el dióxido de carbono pueden transformarse mutuamente.\nB. El carbono es combustible, y al quemar carbón vegetal en aire solo se produce dióxido de carbono.\nC. El dióxido de carbono puede hacer que pequeñas flores secas teñidas con tornasol morado se pongan rojas.\nD. Las diferencias en la disposición atómica entre CO y CO₂ causan grandes variaciones en sus propiedades.",
+        "target_scores": {
+            "A. Bajo ciertas condiciones, el monóxido de carbono y el dióxido de carbono pueden transformarse mutuamente.": 1,
+            "B. El carbono es combustible, y al quemar carbón vegetal en aire solo se produce dióxido de carbono.": 0,
+            "C. El dióxido de carbono puede hacer que pequeñas flores secas teñidas con tornasol morado se pongan rojas.": 0,
+            "D. Las diferencias en la disposición atómica entre CO y CO₂ causan grandes variaciones en sus propiedades.": 0
+        }
+    },
+    {
+        "input": "¿Cuál afirmación sobre experimentos químicos es INCORRECTA?\nA. Al preparar $O_2$ con permanganato de potasio, la boca del tubo de reacción debe inclinarse ligeramente hacia abajo\nB. En experimentos de combustión de hierro en $O_2$, la matraz colector debe contener previamente poca cantidad de agua o arena\nC. En la simulación de fundición de hierro en laboratorio, se puede calentar primero y luego se introduce el gas $CO$\nD. Para producir $H_2$ con metales reactivos y ácido, puede usarse el mismo dispositivo que para producir $CO_2$",
+        "target_scores": {
+            "A. Al preparar $O_2$ con permanganato de potasio, la boca del tubo de reacción debe inclinarse ligeramente hacia abajo": 0,
+            "B. En experimentos de combustión de hierro en $O_2$, la matraz colector debe contener previamente poca cantidad de agua o arena": 0,
+            "C. En la simulación de fundición de hierro en laboratorio, se puede calentar primero y luego se introduce el gas $CO$": 1,
+            "D. Para producir $H_2$ con metales reactivos y ácido, puede usarse el mismo dispositivo que para producir $CO_2$": 0
+        }
+    },
+    {
+        "input": "Al preparar 50 g de solución de NaCl al 15%, ¿cuál afirmación es correcta?\nA. Al medir agua, si se lee la escala desde arriba, esto hará que la porcentaje en masa de la solución preparada sea menor de lo esperado\nB. Los instrumentos de vidrio requeridos son vaso de precipitados, varilla, probeta y embudo\nC. Para medir agua, puede usarse una probeta de 50 mL\nD. Si la balanza se inclina a la izquierda al pesar, se añaden pesas o se ajusta el cursor hacia la derecha",
+        "target_scores": {
+            "A. Al medir agua, si se lee la escala desde arriba, esto hará que la porcentaje en masa de la solución preparada sea menor de lo esperado": 0,
+            "B. Los instrumentos de vidrio requeridos son vaso de precipitados, varilla, probeta y embudo": 0,
+            "C. Para medir agua, puede usarse una probeta de 50 mL": 1,
+            "D. Si la balanza se inclina a la izquierda al pesar, se añaden pesas o se ajusta el cursor hacia la derecha": 0
+        }
+    },
+    {
+        "input": "¿Cuál afirmación sobre soluciones es correcta?\nA. Cuando una solución insaturada se convierte en saturada, la fracción de masa del soluto en la solución necesariamente aumenta\nB. Cuando una solución saturada de una sustancia se enfría y precipita cristales, la masa del soluto en la solución resultante necesariamente disminuye\nC. Las soluciones saturadas siempre contienen más soluto que las no saturadas\nD. Si se añaden 5 gramos de una sustancia a 95 gramos de agua, la fracción másica del soluto en la solución resultante será necesariamente del 5%",
+        "target_scores": {
+            "A. Cuando una solución insaturada se convierte en saturada, la fracción de masa del soluto en la solución necesariamente aumenta": 0,
+            "B. Cuando una solución saturada de una sustancia se enfría y precipita cristales, la masa del soluto en la solución resultante necesariamente disminuye": 1,
+            "C. Las soluciones saturadas siempre contienen más soluto que las no saturadas": 0,
+            "D. Si se añaden 5 gramos de una sustancia a 95 gramos de agua, la fracción másica del soluto en la solución resultante será necesariamente del 5%": 0
+        }
+    },
+    {
+        "input": "En la preparación de oxígeno con permanganato de potasio en el laboratorio, el conjunto de instrumentos que no se requiere es:\nA. Frasco colector, mechero de alcohol\nB. Tubo conductor, tapón de un orificio\nC. Tubo de ensayo grande, soporte universal\nD. Vaso de precipitados, varilla de agitación",
+        "target_scores": {
+            "A. Frasco colector, mechero de alcohol": 0,
+            "B. Tubo conductor, tapón de un orificio": 0,
+            "C. Tubo de ensayo grande, soporte universal": 0,
+            "D. Vaso de precipitados, varilla de agitación": 1
+        }
+    },
+    {
+        "input": "Los pasos experimentales correctos son cruciales para el éxito del experimento. ¿Cuál de las siguientes descripciones sobre el orden \"primero\" y \"después\" es incorrecta?\nA. Al estudiar el efecto del pH en la amilasa salival, en un tubo con pasta de almidón, primero se agrega saliva y luego ácido clorhídrico diluido\nB. Al recolectar oxígeno por desplazamiento de agua tras calentar permanganato de potasio, primero se retira el tubo conductor del agua y luego se apaga el mechero de alcohol\nC. Al verificar azúcares reductores en jugo de pera con reactivo de Fehling, primero se mezcla el jugo con la suspensión de hidróxido de cobre y luego se calienta para producir un precipitado rojo ladrillo\nD. Al verificar los productos de la combustión de metano, primero se hace pasar el gas por sulfato de cobre anhidro y después por agua de cal",
+        "target_scores": {
+            "A. Al estudiar el efecto del pH en la amilasa salival, en un tubo con pasta de almidón, primero se agrega saliva y luego ácido clorhídrico diluido": 1,
+            "B. Al recolectar oxígeno por desplazamiento de agua tras calentar permanganato de potasio, primero se retira el tubo conductor del agua y luego se apaga el mechero de alcohol": 0,
+            "C. Al verificar azúcares reductores en jugo de pera con reactivo de Fehling, primero se mezcla el jugo con la suspensión de hidróxido de cobre y luego se calienta para producir un precipitado rojo ladrillo": 0,
+            "D. Al verificar los productos de la combustión de metano, primero se hace pasar el gas por sulfato de cobre anhidro y después por agua de cal": 0
+        }
+    },
+    {
+        "input": "Miguel notó que los cultivos en su campo tenían hojas amarillentas y tallos débiles y propensos al vuelco. ¿Cuál de los siguientes fertilizantes debería aplicar?\nA. $CO(NH_2)_2$\nB. $Ca_3(PO_4)_2$\nC. $KNO_3$\nD. $K_2CO_3$",
+        "target_scores": {
+            "A. $CO(NH_2)_2$": 0,
+            "B. $Ca_3(PO_4)_2$": 0,
+            "C. $KNO_3$": 1,
+            "D. $K_2CO_3$": 0
+        }
+    },
+    {
+        "input": "¿Cuál de las siguientes sustancias no puede distinguir entre solución de NaOH y ácido clorhídrico diluido?\nA. Papel indicador de pH\nB. Polvo de zinc\nC. Solución de cloruro de sodio\nD. Solución de tornasol morado",
+        "target_scores": {
+            "A. Papel indicador de pH": 0,
+            "B. Polvo de zinc": 0,
+            "C. Solución de cloruro de sodio": 1,
+            "D. Solución de tornasol morado": 0
+        }
+    },
+    {
+        "input": "Entre los siguientes cambios, uno difiere esencialmente de los otros tres. Este cambio es:\nA. Cuando el ácido clorhídrico concentrado se deja en un recipiente abierto, su masa disminuye\nB. Cuando se agrega óxido de calcio al agua, la temperatura del agua aumenta\nC. Cuando un clavo de hierro se deja expuesto al aire húmedo durante mucho tiempo, su masa aumenta\nD. La lluvia ácida corroe  las estatuas de mármol",
+        "target_scores": {
+            "A. Cuando el ácido clorhídrico concentrado se deja en un recipiente abierto, su masa disminuye": 1,
+            "B. Cuando se agrega óxido de calcio al agua, la temperatura del agua aumenta": 0,
+            "C. Cuando un clavo de hierro se deja expuesto al aire húmedo durante mucho tiempo, su masa aumenta": 0,
+            "D. La lluvia ácida corroe  las estatuas de mármol": 0
+        }
+    },
+    {
+        "input": "El $ClSO_3H$ (ácido clorosulfónico) es un ácido fuerte. Para la reacción:  \n$ClSO_3H + HCOOH \\rightarrow CO + HCl + H_2SO_4$,  \n¿cuál afirmación es razonable?\nA. El número de oxidación del carbono cambia en esta reacción\nB. El pH de la solución aumenta tras la reacción\nC. El pH de la solución disminuye tras la reacción\nD. Es una reacción de doble desplazamiento",
+        "target_scores": {
+            "A. El número de oxidación del carbono cambia en esta reacción": 0,
+            "B. El pH de la solución aumenta tras la reacción": 0,
+            "C. El pH de la solución disminuye tras la reacción": 1,
+            "D. Es una reacción de doble desplazamiento": 0
+        }
+    },
+    {
+        "input": "Una cantidad determinada de carbón vegetal se quema en un recipiente cerrado con una mezcla de nitrógeno y oxígeno, generando $CO$ y $CO_2$. Si  la fracción de masa del carbono en la mezcla de gases ($CO$, $CO_2$, $N_2$) obtenida después de la reacción es del 24%, entonces, la fracción de masa del nitrógeno en la mezcla podría ser ( ).\nA. 10%\nB. 30%\nC. 50%\nD. 70%",
+        "target_scores": {
+            "A. 10%": 0,
+            "B. 30%": 1,
+            "C. 50%": 0,
+            "D. 70%": 0
+        }
+    },
+    {
+        "input": "En un vaso de precipitados se llena con una solución de ácido acético de cierta concentración (densidad de la solución ≈1 g/cm³). Después de verterse por completo, quedaron 0,5 mL de solución residual en el vaso. Luego, se enjuaga dos veces con 20 mL de agua destilada en cada lavado. La concentración final del ácido acético residual es aproximadamente （）de lo que era originalmente.\nA. 1/1 681\nB. 1/81\nC. 1/820\nD. Indeterminable",
+        "target_scores": {
+            "A. 1/1 681": 1,
+            "B. 1/81": 0,
+            "C. 1/820": 0,
+            "D. Indeterminable": 0
+        }
+    },
+    {
+        "input": "¿Cuáles de las siguientes acciones pueden causar la ruptura de un tubo de ensayo?  \n① Calentar el tubo con la zona externa de la llama del mechero de alcohol.  \n② No secar las gotas de agua en la pared externa del tubo antes de calentar.  \n③ Permitir que la base del tubo toque la mecha del mechero durante el calentamiento.  \n④ Llenar el tubo con líquido hasta más 1/3 de su capacidad.  \n⑤ Calentar el líquido directamente sin precalentamiento.  \nLas combinaciones correctas son:\nA. ①③⑤\nB. ②③⑤\nC. ②④\nD. ③④⑤",
+        "target_scores": {
+            "A. ①③⑤": 0,
+            "B. ②③⑤": 1,
+            "C. ②④": 0,
+            "D. ③④⑤": 0
+        }
+    },
+    {
+        "input": "Al sumergir un huevo en vinagre blanco, aparecen burbujas en la cáscara. ¿Es el gas producido dióxido de carbono? Miguel propone usar agua de cal para verificarlo. Esta etapa corresponde a ( ) en la investigación científica.\nA. Conclusión\nB. Discusión y evaluación\nC. Diseño experimental\nD. Formulación de hipótesis",
+        "target_scores": {
+            "A. Conclusión": 0,
+            "B. Discusión y evaluación": 0,
+            "C. Diseño experimental": 1,
+            "D. Formulación de hipótesis": 0
+        }
+    },
+    {
+        "input": "Un estudiante usa una probeta para medir el volumen de un líquido. La probeta está colocada de manera estable y el estudiante está mirando la escala de frente. Primero, observa la parte inferior del menisco cóncavo al nivel de los ojos y registra una lectura de 19 mL. Después de verter parte del líquido, observa la lectura desde arriba y registra 10 mL. Entonces, el volumen real del líquido que el estudiante vierte es\nA. Igual a 9 mL\nB. Indeterminado\nC. Menos de 9 mL\nD. Más de 9 mL",
+        "target_scores": {
+            "A. Igual a 9 mL": 0,
+            "B. Indeterminado": 0,
+            "C. Menos de 9 mL": 0,
+            "D. Más de 9 mL": 1
+        }
+    },
+    {
+        "input": "Un estudiante usa una probeta para medir el volumen de un líquido. La probeta está colocada de manera estable sobre la mesa de laboratorio. Primero, observa la parte inferior del menisco cóncavo al nivel de los ojos y registra una lectura de 20 mL. Después de verter parte del líquido, observa la parte inferior del menisco cóncavo desde abajo y registra una lectura de 15 mL. El volumen real vertido:\nA. Es definitivamente menos de 5 mL\nB. Es definitivamente más de 5 mL\nC. Es exactamente 5 mL\nD. Existe posibilidades para todos los casos",
+        "target_scores": {
+            "A. Es definitivamente menos de 5 mL": 1,
+            "B. Es definitivamente más de 5 mL": 0,
+            "C. Es exactamente 5 mL": 0,
+            "D. Existe posibilidades para todos los casos": 0
+        }
+    },
+    {
+        "input": "¿Cuál de estos procesos implica un cambio químico?\nA. Congelación del agua\nB. Descomposición de alimentos\nC. Obtención de oxígeno mediante la separación del aire líquido\nD. Obtención de sal mediante evaporación solar del agua de mar",
+        "target_scores": {
+            "A. Congelación del agua": 0,
+            "B. Descomposición de alimentos": 1,
+            "C. Obtención de oxígeno mediante la separación del aire líquido": 0,
+            "D. Obtención de sal mediante evaporación solar del agua de mar": 0
+        }
+    },
+    {
+        "input": "¿Cuál de los siguientes usos de sustancias aprovecha una propiedad química?\nA. El cobre se utiliza para fabricar cables conductores\nB. El nitrógeno líquido se usa para criopreservación de sangre\nC. El oro se emplea en la fabricación de joyería\nD. El oxígeno se usa en emergencias médicas",
+        "target_scores": {
+            "A. El cobre se utiliza para fabricar cables conductores": 0,
+            "B. El nitrógeno líquido se usa para criopreservación de sangre": 0,
+            "C. El oro se emplea en la fabricación de joyería": 0,
+            "D. El oxígeno se usa en emergencias médicas": 1
+        }
+    },
+    {
+        "input": "¿Cuál de los siguientes pares de sustancias presenta un cambio químico en el primer caso y un cambio físico en el segundo?\nA. El alcohol se evapora / El fósforo blanco experimenta combustión espontánea\nB. El azufre se quema / Electrólisis del agua\nC. El hielo se derrite en agua / La explosión de pólvora\nD. El hierro se oxida / El hielo seco se sublima",
+        "target_scores": {
+            "A. El alcohol se evapora / El fósforo blanco experimenta combustión espontánea": 0,
+            "B. El azufre se quema / Electrólisis del agua": 0,
+            "C. El hielo se derrite en agua / La explosión de pólvora": 0,
+            "D. El hierro se oxida / El hielo seco se sublima": 1
+        }
+    },
+    {
+        "input": "¿Cuál objeto de cocina está hecho principalmente de material sintético?\nA. Cuchara de cerámica\nB. Cuchillo de acero inoxidable\nC. Cuenco de plástico\nD. Tabla de cortar de madera",
+        "target_scores": {
+            "A. Cuchara de cerámica": 0,
+            "B. Cuchillo de acero inoxidable": 0,
+            "C. Cuenco de plástico": 1,
+            "D. Tabla de cortar de madera": 0
+        }
+    },
+    {
+        "input": "¿Cuál de estos materiales NO es un material polimérico sintético orgánico?\nA. Balón de baloncesto\nB. Camiseta de algodón puro\nC. Cuerda de nailon\nD. Vaso de plástico",
+        "target_scores": {
+            "A. Balón de baloncesto": 0,
+            "B. Camiseta de algodón puro": 1,
+            "C. Cuerda de nailon": 0,
+            "D. Vaso de plástico": 0
+        }
+    },
+    {
+        "input": "La ingesta insuficiente de zinc en el cuerpo humano puede causar diversas enfermedades. Las personas con deficiencia de zinc pueden suplementarlo, bajo supervisión médica, tomando solución oral de gluconato de zinc ($C_{12}H_{22}O_{14}Zn$). ¿Cuál afirmación sobre este compuesto es incorrecta?\nA. El Zn es un oligoelemento\nB. Está compuesto por carbono, hidrógeno, oxígeno y zinc\nC. La proporción de átomos de carbono, hidrógeno, oxígeno y zinc es 12:22:14:1\nD. Su masa molecular relativa es 450",
+        "target_scores": {
+            "A. El Zn es un oligoelemento": 0,
+            "B. Está compuesto por carbono, hidrógeno, oxígeno y zinc": 0,
+            "C. La proporción de átomos de carbono, hidrógeno, oxígeno y zinc es 12:22:14:1": 0,
+            "D. Su masa molecular relativa es 450": 1
+        }
+    }
+]

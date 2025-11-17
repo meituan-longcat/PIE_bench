@@ -1,0 +1,902 @@
+[
+    {
+        "input": "Paul est en train de faire de la pâtisserie à la maison lorsqu'il se rend compte qu'il a oublié d'acheter du papier de cuisson. Il doit trouver un objet qui peut remplacer le papier de cuisson pour empêcher la nourriture de coller à la plaque de cuisson. Il a les objets suivants dans sa cuisine, lequel est le meilleur remplacement pour le papier de cuisson ?\nA. Du film alimentaire\nB. Du papier d'aluminium\nC. Un chiffon humide\nD. Un journal",
+        "target_scores": {
+            "A. Du film alimentaire": 0,
+            "B. Du papier d'aluminium": 1,
+            "C. Un chiffon humide": 0,
+            "D. Un journal": 0
+        }
+    },
+    {
+        "input": "Paul est en train de créer une peinture à l'huile et a besoin d'un dissolvant pour ajuster la viscosité des pigments, mais il a épuisé son dissolvant. Il doit trouver un objet qui peut temporairement remplacer le dissolvant. Lequel des objets suivants est le plus susceptible de remplacer le dissolvant pour la peinture à l'huile ?\nA. De l'huile d'olive\nB. Du beurre\nC. Du vinaigre blanc\nD. Une banane",
+        "target_scores": {
+            "A. De l'huile d'olive": 1,
+            "B. Du beurre": 0,
+            "C. Du vinaigre blanc": 0,
+            "D. Une banane": 0
+        }
+    },
+    {
+        "input": "Alors que Paul réparait une table en bois à la maison, il a découvert qu’il avait besoin de papier de verre pour polir le dessus de la table. Mais il n’a plus de papier de verre et il doit trouver une alternative au papier de verre. Il a les articles suivants dans son garage, lequel est le mieux utilisé comme substitut au papier de verre ?\nA. Un brosse métallique\nB. Un sac en plastique\nC. Un torchon\nD. Une lime à ongles",
+        "target_scores": {
+            "A. Un brosse métallique": 0,
+            "B. Un sac en plastique": 0,
+            "C. Un torchon": 0,
+            "D. Une lime à ongles": 1
+        }
+    },
+    {
+        "input": "Emma prépare le dîner et se rend compte qu'elle n'a pas de presse-ail. Elle doit trouver un objet qui peut remplacer le presse-ail pour faire de l'ail haché. Elle a les objets suivants dans sa cuisine, lequel est le plus susceptible de remplacer le presse-ail ?\nA. Des gants de cuisine\nB. Un bouchon de bouteille\nC. Un couvercle de boîte de conserve\nD. Un presse-citron",
+        "target_scores": {
+            "A. Des gants de cuisine": 0,
+            "B. Un bouchon de bouteille": 0,
+            "C. Un couvercle de boîte de conserve": 0,
+            "D. Un presse-citron": 1
+        }
+    },
+    {
+        "input": "Alice est sortie lorsqu'il a commencé à pleuvoir. Elle n'a pas de parapluie et doit trouver un objet qui peut la protéger temporairement de la pluie. Lequel des objets suivants peut remplacer un parapluie ?\nA. Un blouson à capuche\nB. Un magazine\nC. Un mug\nD. Un voile",
+        "target_scores": {
+            "A. Un blouson à capuche": 1,
+            "B. Un magazine": 0,
+            "C. Un mug": 0,
+            "D. Un voile": 0
+        }
+    },
+    {
+        "input": "Jules veut faire une carte de vœux à la maison, mais il n'a pas de papier coloré. Il a les objets suivants sur son bureau. Lequel peut remplacer le papier coloré ?\nA. Ancien calendrier\nB. Couverture de magazine\nC. Feuille d'examen\nD. Papier d'emballage",
+        "target_scores": {
+            "A. Ancien calendrier": 0,
+            "B. Couverture de magazine": 0,
+            "C. Feuille d'examen": 0,
+            "D. Papier d'emballage": 1
+        }
+    },
+    {
+        "input": "Alice veut faire un masque facial à la maison, mais elle a épuisé ses feuilles de masque. Parmi les objets suivants sur sa table de maquillage, lequel est le plus proche de la fonction des feuilles de masque ?\nA. Boîte de médicament\nB. Papier filtre à café\nC. Parfum\nD. Rouge à lèvres",
+        "target_scores": {
+            "A. Boîte de médicament": 0,
+            "B. Papier filtre à café": 1,
+            "C. Parfum": 0,
+            "D. Rouge à lèvres": 0
+        }
+    },
+    {
+        "input": "Paul veut mesurer la longueur d'une planche de bois à la maison, mais il ne trouve pas de mètre ruban. Parmi les objets suivants, lequel est le meilleur remplacement pour un mètre ruban ?\nA. Ceinture\nB. Gomme à mâcher\nC. Sous-verre\nD. Élastique pour cheveux",
+        "target_scores": {
+            "A. Ceinture": 1,
+            "B. Gomme à mâcher": 0,
+            "C. Sous-verre": 0,
+            "D. Élastique pour cheveux": 0
+        }
+    },
+    {
+        "input": "Alice doit fixer temporairement des documents au bureau, mais elle ne trouve pas d'agrafeuse. Parmi les objets suivants dans son tiroir, lequel est le plus approprié pour fixer les documents ?\nA. Pinces à linge\nB. Ruban adhésif transparent\nC. Élastique\nD. Épingle à papier",
+        "target_scores": {
+            "A. Pinces à linge": 0,
+            "B. Ruban adhésif transparent": 0,
+            "C. Élastique": 0,
+            "D. Épingle à papier": 1
+        }
+    },
+    {
+        "input": "Jules doit utiliser un marteau pour faire des objets d'artisanat à la maison, mais il ne trouve pas de marteau. Parmi les objets suivants dans sa boîte à outils, lequel est le meilleur remplacement pour un marteau ?\nA. Ballon\nB. Crayon\nC. Cuillère en plastique\nD. Grande clé à molette",
+        "target_scores": {
+            "A. Ballon": 0,
+            "B. Crayon": 0,
+            "C. Cuillère en plastique": 0,
+            "D. Grande clé à molette": 1
+        }
+    },
+    {
+        "input": "Paul est en pique-nique et s'est rendu compte qu'il a oublié son couteau. Il a besoin de couper des fruits pour ses amis. Parmi les objets suivants dans son sac, lequel est le plus susceptible d'être utilisé pour couper des fruits ?\nA. Carte de crédit\nB. Clé\nC. Peigne\nD. Téléphone portable",
+        "target_scores": {
+            "A. Carte de crédit": 1,
+            "B. Clé": 0,
+            "C. Peigne": 0,
+            "D. Téléphone portable": 0
+        }
+    },
+    {
+        "input": "Alice est en train de laver ses vêtements et a épuisé son poudre à laver. Elle doit trouver un objet qui peut remplacer la poudre à laver pour nettoyer ses vêtements. Parmi les objets suivants dans sa buanderie, lequel est le meilleur remplacement pour la poudre à laver ?\nA. Détachant pour vaisselle\nB. Farine\nC. Sel de cuisine\nD. Vinaigre blanc",
+        "target_scores": {
+            "A. Détachant pour vaisselle": 1,
+            "B. Farine": 0,
+            "C. Sel de cuisine": 0,
+            "D. Vinaigre blanc": 0
+        }
+    },
+    {
+        "input": "Jules est en train de faire ses devoirs lorsque de l'encre de son stylo a éclaboussé la table. Mais il a épuisé son détergent à encre et doit trouver un objet qui peut remplacer le détergent à encre pour enlever les taches d'encre. Parmi les objets suivants qu'il peut trouver, lequel est le plus susceptible de remplacer le détergent à encre ?\nA. Jus d'orange\nB. Pastèque\nC. Pâte à dents\nD. Sèche-cheveux",
+        "target_scores": {
+            "A. Jus d'orange": 0,
+            "B. Pastèque": 0,
+            "C. Pâte à dents": 1,
+            "D. Sèche-cheveux": 0
+        }
+    },
+    {
+        "input": "Paul prépare un dîner aux chandelles pour le soir, mais il a oublié d'acheter des bougies. Il doit trouver un objet qui peut remplacer les bougies pour créer une ambiance. Parmi les objets suivants qu'il a trouvés dans son armoire, lequel peut remplacer les bougies ?\nA. Bâton lumineux\nB. Cure-dent\nC. Lampe de poche\nD. Une bretzel",
+        "target_scores": {
+            "A. Bâton lumineux": 1,
+            "B. Cure-dent": 0,
+            "C. Lampe de poche": 0,
+            "D. Une bretzel": 0
+        }
+    },
+    {
+        "input": "Jules travaille tard dans son bureau et a faim, mais le micro-ondes du bureau est en panne. Il doit trouver un objet qui peut remplacer le micro-ondes pour réchauffer sa nourriture. Parmi les objets suivants qu'il a trouvés dans la salle de pause, lequel est le meilleur remplacement pour un micro-ondes ?\nA. Bouilloire à thermostat\nB. Gants jetables\nC. Gobelet en papier\nD. Ustensiles jetables",
+        "target_scores": {
+            "A. Bouilloire à thermostat": 1,
+            "B. Gants jetables": 0,
+            "C. Gobelet en papier": 0,
+            "D. Ustensiles jetables": 0
+        }
+    },
+    {
+        "input": "Alice est en voyage à Londres et s'est rendu compte qu'elle a oublié son support de téléphone portable, mais elle a besoin de filmer une vidéo. Parmi les objets suivants qu'elle a trouvés dans son sac et celui de son compagnon de voyage, lequel est le plus susceptible de remplacer un support de téléphone portable ?\nA. Boîte à lunettes\nB. Encre\nC. Portefeuille\nD. Poudrier",
+        "target_scores": {
+            "A. Boîte à lunettes": 1,
+            "B. Encre": 0,
+            "C. Portefeuille": 0,
+            "D. Poudrier": 0
+        }
+    },
+    {
+        "input": "Jules est en camping avec ses amis dans la montagne et a besoin d'allumer un feu de camp, mais son briquet est à sec. Parmi les objets suivants qu'il a trouvés dans sa tente, lequel est le plus susceptible d'allumer le feu de camp ?\nA. Allumettes\nB. Loupe\nC. Montre étanche\nD. Pile",
+        "target_scores": {
+            "A. Allumettes": 1,
+            "B. Loupe": 0,
+            "C. Montre étanche": 0,
+            "D. Pile": 0
+        }
+    },
+    {
+        "input": "Alice est en train de dessiner un personnage d'animation dans la salle de dessin et a besoin de peinture blanche, mais elle a épuisé sa peinture blanche. Parmi les objets suivants qu'elle a trouvés dans la salle de dessin, lequel est le plus susceptible de remplacer la peinture blanche ?\nA. Correcteur\nB. Crayon\nC. Stylo noir\nD. Vernis incolore",
+        "target_scores": {
+            "A. Correcteur": 1,
+            "B. Crayon": 0,
+            "C. Stylo noir": 0,
+            "D. Vernis incolore": 0
+        }
+    },
+    {
+        "input": "Maman est en train de cuisiner et s'est rendu compte que le bocal à épices de la cuisine a disparu. Elle doit trouver un objet qui peut remplacer le bocal à épices pour stocker les épices. Parmi les objets suivants, lequel est le meilleur remplacement pour le bocal à épices ?\nA. Assiette à huile\nB. Baguette\nC. Bouteille vide\nD. Film alimentaire",
+        "target_scores": {
+            "A. Assiette à huile": 0,
+            "B. Baguette": 0,
+            "C. Bouteille vide": 1,
+            "D. Film alimentaire": 0
+        }
+    },
+    {
+        "input": "La famille de Jules est en randonnée en plein air le week-end et Jules a besoin d'une boussole pour déterminer la direction, mais sa boussole a disparu. Parmi les objets suivants qu'ils ont trouvés dans leurs sacs, lequel est le plus susceptible de remplacer une boussole ?\nA. Carte géographique\nB. Corde de chanvre\nC. Corde statique\nD. Un petit aimant de la taille d'un bouton et deux petits clous de fer",
+        "target_scores": {
+            "A. Carte géographique": 0,
+            "B. Corde de chanvre": 0,
+            "C. Corde statique": 0,
+            "D. Un petit aimant de la taille d'un bouton et deux petits clous de fer": 1
+        }
+    },
+    {
+        "input": "Paul arrive au bureau et découvre qu'il y a un petit trou sur la manchette de sa veste. Il veut réparer d'urgence avant la réunion, mais il n'a pas de trousse à couture. Parmi les objets suivants dans son tiroir, lequel est le meilleur remplacement pour un outil de couture temporaire ?\nA. Agrafe pour cravate\nB. Câble d'écouteur\nC. Perforateur\nD. Trombone",
+        "target_scores": {
+            "A. Agrafe pour cravate": 0,
+            "B. Câble d'écouteur": 0,
+            "C. Perforateur": 0,
+            "D. Trombone": 1
+        }
+    },
+    {
+        "input": "Jules est en train d'écrire un mémoire et a besoin d'un marqueur fluo pour faire des annotations, mais son marqueur fluo est à sec. Parmi les objets suivants qu'il a à portée de main, lequel est le plus susceptible de remplacer le marqueur fluo ?\nA. Crayon de couleur\nB. Gomme à effacer\nC. Marqueur pour tableau blanc\nD. Tapis de souris",
+        "target_scores": {
+            "A. Crayon de couleur": 1,
+            "B. Gomme à effacer": 0,
+            "C. Marqueur pour tableau blanc": 0,
+            "D. Tapis de souris": 0
+        }
+    },
+    {
+        "input": "Alice va bientôt rencontrer son crush et s'aperçoit que ses cheveux sont un peu ébouriffés en regardant dans le miroir. Elle touche son sac et se rend compte qu'elle a oublié son peigne. Il y a un fast-food à côté. Parmi les objets suivants dans le fast-food, lequel est le plus susceptible de remplacer un peigne ?\nA. Boîte à emporter\nB. Couteau à steak\nC. Fourchette\nD. Sac de transport",
+        "target_scores": {
+            "A. Boîte à emporter": 0,
+            "B. Couteau à steak": 0,
+            "C. Fourchette": 1,
+            "D. Sac de transport": 0
+        }
+    },
+    {
+        "input": "Jules cherche un conteneur pour ranger ses outils et vis dans son atelier, mais il ne veut pas acheter une nouvelle boîte à outils. Parmi les objets suivants dans son atelier, lequel peut remplacer une boîte à outils traditionnelle ?\nA. Cendrier neuf\nB. Clé à molette\nC. Niveau à bulle\nD. Tournevis",
+        "target_scores": {
+            "A. Cendrier neuf": 1,
+            "B. Clé à molette": 0,
+            "C. Niveau à bulle": 0,
+            "D. Tournevis": 0
+        }
+    },
+    {
+        "input": "La poignée de porte de Paul émet toujours un bruit grinçant et il veut trouver un lubrifiant pour résoudre ce problème, mais il n'a trouvé aucun lubrifiant à la maison. Parmi les objets suivants qu'il a trouvés, lequel peut être utilisé comme lubrifiant ?\nA. Bicarbonate de soude\nB. Gel de silice\nC. Huile d'olive\nD. Vinaigre à manger",
+        "target_scores": {
+            "A. Bicarbonate de soude": 0,
+            "B. Gel de silice": 0,
+            "C. Huile d'olive": 1,
+            "D. Vinaigre à manger": 0
+        }
+    },
+    {
+        "input": "Emma veut créer un espace de lecture dans un coin de sa maison, mais elle n'a pas trouvé d'étagère. Parmi les objets suivants, lequel peut être utilisé comme étagère temporaire ?\nA. Boîte en carton\nB. Chariot à étages multifonctionnel\nC. Panier à linge\nD. Panier à linge sale",
+        "target_scores": {
+            "A. Boîte en carton": 0,
+            "B. Chariot à étages multifonctionnel": 1,
+            "C. Panier à linge": 0,
+            "D. Panier à linge sale": 0
+        }
+    },
+    {
+        "input": "Le clavier d'ordinateur de Paul est plein de poussière, et son aspirateur de bureau est à plat. Il a besoin d'un autre outil pour nettoyer. Parmi les objets suivants, lequel peut être utilisé comme outil de nettoyage ?\nA. Bloc-notes\nB. Gomme à effacer\nC. Papier à notes\nD. Plumeau",
+        "target_scores": {
+            "A. Bloc-notes": 0,
+            "B. Gomme à effacer": 0,
+            "C. Papier à notes": 0,
+            "D. Plumeau": 1
+        }
+    },
+    {
+        "input": "Emma veut fabriquer un jouet pour son chien Pablo, mais la balle en silicone qu'il mâchait a disparu. Parmi les objets suivants, lequel peut être utilisé pour en faire un similaire ?\nA. Balle en caoutchouc\nB. Skateboard\nC. Télécommande de climatiseur\nD. Vieux torchon",
+        "target_scores": {
+            "A. Balle en caoutchouc": 1,
+            "B. Skateboard": 0,
+            "C. Télécommande de climatiseur": 0,
+            "D. Vieux torchon": 0
+        }
+    },
+    {
+        "input": "Paul a perdu son chiffon pour nettoyer sa voiture et a besoin d'un outil qui peut absorber l'eau pour essuyer sa voiture. Parmi les objets suivants qu'il a trouvés dans son garage, lequel peut être utilisé comme remplacement ?\nA. Journal\nB. Livre de fiction\nC. Magazine\nD. Vieux t-shirt en coton",
+        "target_scores": {
+            "A. Journal": 0,
+            "B. Livre de fiction": 0,
+            "C. Magazine": 0,
+            "D. Vieux t-shirt en coton": 1
+        }
+    },
+    {
+        "input": "Emma est en train de peindre dans le parc et a oublié sa palette. Elle a cherché autour d'elle et n'a trouvé que ces quatre objets. Lequel peut être utilisé comme remplacement le plus probable pour une palette ?\nA. Boîte de conserve\nB. Couvercle de boîte à biscuits\nC. Feuille d'arbre\nD. Rose",
+        "target_scores": {
+            "A. Boîte de conserve": 0,
+            "B. Couvercle de boîte à biscuits": 1,
+            "C. Feuille d'arbre": 0,
+            "D. Rose": 0
+        }
+    },
+    {
+        "input": "Paul a rempli son étagère à figurines et a acheté une nouvelle boîte surprise à la maison, mais le nouvel étagère n'est pas encore arrivé. Parmi les objets suivants, lequel peut remplacer l'étagère pour exposer sa nouvelle figurine ?\nA. Boîte en acrylique transparente à chaussures\nB. Chaise pliante\nC. Rouleau de papier toilette\nD. Élastique",
+        "target_scores": {
+            "A. Boîte en acrylique transparente à chaussures": 1,
+            "B. Chaise pliante": 0,
+            "C. Rouleau de papier toilette": 0,
+            "D. Élastique": 0
+        }
+    },
+    {
+        "input": "Emma s'est blessé le doigt et a besoin d'un simple doigtier pour protéger sa blessure, mais il n'y a pas de poste de secours à proximité. Parmi les objets suivants, lequel peut être utilisé pour fabriquer un doigtier ?\nA. Bâton de réglisse\nB. Bâton de sucette\nC. Diadème\nD. Petit tube en caoutchouc",
+        "target_scores": {
+            "A. Bâton de réglisse": 0,
+            "B. Bâton de sucette": 0,
+            "C. Diadème": 0,
+            "D. Petit tube en caoutchouc": 1
+        }
+    },
+    {
+        "input": "Paul a oublié son étui à écouteurs, mais il a des écouteurs Bluetooth qui sont petits. Parmi les objets suivants qu'il a trouvés dans son sac, lequel est le moins susceptible de remplacer un étui à écouteurs ?\nA. Boîte à chewing-gum\nB. Boîte à pilules\nC. Porte-monnaie\nD. Spray rafraîchissant pour l'haleine",
+        "target_scores": {
+            "A. Boîte à chewing-gum": 0,
+            "B. Boîte à pilules": 0,
+            "C. Porte-monnaie": 0,
+            "D. Spray rafraîchissant pour l'haleine": 1
+        }
+    },
+    {
+        "input": "Emma veut fabriquer un porte-stylos à la maison, mais elle n'a pas trouvé de conteneur approprié. Parmi les objets suivants, lequel est le moins susceptible de remplacer un porte-stylos ?\nA. Boîte à café en grains\nB. Gobelet en papier\nC. Seau de pop-corn Disney\nD. Verre à pied",
+        "target_scores": {
+            "A. Boîte à café en grains": 0,
+            "B. Gobelet en papier": 0,
+            "C. Seau de pop-corn Disney": 0,
+            "D. Verre à pied": 1
+        }
+    },
+    {
+        "input": "Paul veut faire une boîte à mouchoirs, mais il trouve cela trop compliqué et veut trouver un remplacement prêt à l'emploi à la maison. Parmi les objets suivants, lequel peut être utilisé comme boîte à mouchoirs ?\nA. Boîte de colis\nB. Bâton à chat\nC. Niche pour chien\nD. Processeur de déchets",
+        "target_scores": {
+            "A. Boîte de colis": 1,
+            "B. Bâton à chat": 0,
+            "C. Niche pour chien": 0,
+            "D. Processeur de déchets": 0
+        }
+    },
+    {
+        "input": "Alice est en train de préparer le dîner et doit mélanger une grande salade, mais elle ne trouve pas de fouet. Parmi les objets suivants, lequel est le moins susceptible d'être utilisé comme outil de mélange ?\nA. Baguettes\nB. Bonnet de douche\nC. Couteau à dents\nD. Deux cuillères de tailles différentes",
+        "target_scores": {
+            "A. Baguettes": 0,
+            "B. Bonnet de douche": 1,
+            "C. Couteau à dents": 0,
+            "D. Deux cuillères de tailles différentes": 0
+        }
+    },
+    {
+        "input": "Alice veut ajouter quelques gouttes d'huile d'olive à sa salade, mais elle ne veut pas trop d'huile et n'a pas de pipette pour contrôler la quantité. Parmi les objets suivants dans la cuisine, lequel peut être utilisé comme un dispositif temporaire pour goutter l'huile ?\nA. Assiette à sauce soja\nB. Bol en céramique\nC. Petite tasse à thé\nD. Spray propre",
+        "target_scores": {
+            "A. Assiette à sauce soja": 0,
+            "B. Bol en céramique": 0,
+            "C. Petite tasse à thé": 0,
+            "D. Spray propre": 1
+        }
+    },
+    {
+        "input": "Alice veut faire un gâteau à la maison, mais elle a découvert que son mélangeur électrique est en panne. Elle doit trouver un outil de mélange de remplacement. Parmi les objets suivants dans sa cuisine, lequel peut être utilisé comme mélangeur temporaire ?\nA. Ciseaux de jardinage\nB. Gants en caoutchouc\nC. Lave-vaisselle\nD. Pelle en acier inoxydable",
+        "target_scores": {
+            "A. Ciseaux de jardinage": 0,
+            "B. Gants en caoutchouc": 0,
+            "C. Lave-vaisselle": 0,
+            "D. Pelle en acier inoxydable": 1
+        }
+    },
+    {
+        "input": "Pendant le grand ménage à la maison, vous vous rendez compte que vous n'avez plus de nettoyant vitre. Parmi les objets suivants, lequel peut être utilisé comme remplacement pour nettoyer les vitres ?\nA. Lait\nB. Vin rouge\nC. Vinaigre blanc\nD. Vinaigre de cidre",
+        "target_scores": {
+            "A. Lait": 0,
+            "B. Vin rouge": 0,
+            "C. Vinaigre blanc": 1,
+            "D. Vinaigre de cidre": 0
+        }
+    },
+    {
+        "input": "Le pull d'Alice est devenu pilé et elle n'a pas de dépileur. Elle n'a trouvé que quelques objets. Parmi les objets suivants, lequel peut l'aider à enlever les bouloches de son vêtement ?\nA. Bouillote à eau\nB. Clé\nC. Ruban adhésif\nD. Éponge",
+        "target_scores": {
+            "A. Bouillote à eau": 0,
+            "B. Clé": 0,
+            "C. Ruban adhésif": 1,
+            "D. Éponge": 0
+        }
+    },
+    {
+        "input": "Jules veut cirer ses chaussures de cuir, mais il n'a pas de cirage à chaussures et le cordonnier du marché est rentré chez lui pour les vacances. Parmi les objets suivants, lequel peut être utilisé pour entretenir ses chaussures ?\nA. Huile d'olive\nB. Miel\nC. Sauce pimentée\nD. Shampoing",
+        "target_scores": {
+            "A. Huile d'olive": 1,
+            "B. Miel": 0,
+            "C. Sauce pimentée": 0,
+            "D. Shampoing": 0
+        }
+    },
+    {
+        "input": "Jules veut faire voler un cerf-volant dans le parc, mais le cerf-volant qu'il a apporté a un grand trou. Il doit trouver un matériau similaire dans son sac pour le remplacer. Parmi les objets suivants, lequel est le plus adapté pour remplacer le cerf-volant ?\nA. Brosse à poils collants\nB. Couteau suisse\nC. Grand sac poubelle en plastique\nD. Ouvreur de bouteille",
+        "target_scores": {
+            "A. Brosse à poils collants": 0,
+            "B. Couteau suisse": 0,
+            "C. Grand sac poubelle en plastique": 1,
+            "D. Ouvreur de bouteille": 0
+        }
+    },
+    {
+        "input": "Jules est en train de déménager et doit emballer des objets fragiles, mais il n'a pas de mousse plastique ni d'autres matériaux d'emballage. Parmi les objets suivants, lequel est le plus proche d'un matériau d'emballage pour protéger les objets fragiles ?\nA. Riz\nB. Riz gluant\nC. Serviettes en tissu\nD. Œufs",
+        "target_scores": {
+            "A. Riz": 0,
+            "B. Riz gluant": 0,
+            "C. Serviettes en tissu": 1,
+            "D. Œufs": 0
+        }
+    },
+    {
+        "input": "Jules veut fabriquer un masque facial à la maison, mais il n'a pas de non-tissé. Il a trouvé quelques objets dans la salle de bain. Parmi les objets suivants, lequel est le plus susceptible de remplacer le non-tissé ?\nA. Couches pour bébés\nB. Foulard en soie\nC. Grand disque de coton démaquillant\nD. Jean",
+        "target_scores": {
+            "A. Couches pour bébés": 0,
+            "B. Foulard en soie": 0,
+            "C. Grand disque de coton démaquillant": 1,
+            "D. Jean": 0
+        }
+    },
+    {
+        "input": "Jules est en pique-nique au parc et se rend compte qu'il n'a pas assez de couverts en plastique. Il n'y a pas de supermarché à proximité pour acheter des couverts jetables. Parmi les objets suivants, lequel peut être utilisé comme remplacement pour les couverts ?\nA. Carte en plastique\nB. Enveloppe\nC. Nappe jetable\nD. Poncho de pluie",
+        "target_scores": {
+            "A. Carte en plastique": 1,
+            "B. Enveloppe": 0,
+            "C. Nappe jetable": 0,
+            "D. Poncho de pluie": 0
+        }
+    },
+    {
+        "input": "Jules veut accrocher un nouveau tableau qu'il a acheté, mais il ne trouve pas de clou ni de marteau. Il a besoin d'un outil pour frapper le clou. Parmi les objets suivants dans son atelier, lequel peut être utilisé comme marteau temporaire ?\nA. Baume à lèvres\nB. Bouteille de boisson vide\nC. Lampe de poche lourde\nD. Sandale en plastique",
+        "target_scores": {
+            "A. Baume à lèvres": 0,
+            "B. Bouteille de boisson vide": 0,
+            "C. Lampe de poche lourde": 1,
+            "D. Sandale en plastique": 0
+        }
+    },
+    {
+        "input": "Alice doit changer l'eau des fleurs dans le vase, mais il n'y a pas d'engrais floral à la maison. Son père lui a donné quatre objets pour tester lequel peut remplacer l'engrais floral pour prolonger la fraîcheur des fleurs.\nA. Farine de soja\nB. Levure\nC. Pièce de monnaie\nD. Sucre blanc",
+        "target_scores": {
+            "A. Farine de soja": 0,
+            "B. Levure": 0,
+            "C. Pièce de monnaie": 0,
+            "D. Sucre blanc": 1
+        }
+    },
+    {
+        "input": "Vous êtes en train de prendre un bain et voulez utiliser une éponge pour vous frotter le dos, mais vous ne trouvez pas votre éponge. Parmi les objets suivants dans la salle de bain, lequel peut être utilisé comme remplacement pour une éponge ?\nA. Boule à récurer\nB. Rasoir électrique\nC. Shampoing\nD. Éponge à vaisselle",
+        "target_scores": {
+            "A. Boule à récurer": 0,
+            "B. Rasoir électrique": 0,
+            "C. Shampoing": 0,
+            "D. Éponge à vaisselle": 1
+        }
+    },
+    {
+        "input": "Jules préparait un gâteau et était sur le point d’étaler la pâte avec un rouleau à pâtisserie lorsqu’il a constaté que le rouleau à pâtisserie avait disparu. Il regarda autour de lui dans la cuisine pour se demander lequel des articles suivants serait le mieux utilisé comme substitut à un rouleau à pâtisserie ?\nA. Balance de cuisine\nB. Bouteille de vin vide\nC. Distributeur d'eau\nD. Élastique",
+        "target_scores": {
+            "A. Balance de cuisine": 0,
+            "B. Bouteille de vin vide": 1,
+            "C. Distributeur d'eau": 0,
+            "D. Élastique": 0
+        }
+    },
+    {
+        "input": "Alice lit un livre et veut trouver un marque-page pour le glisser dans son livre, mais elle n'a pas de marque-page dans sa chambre. Parmi les objets suivants qu'elle a trouvés, lequel est le plus adapté pour servir de marque-page ?\nA. Ancienne carte de crédit\nB. Balle de ping-pong\nC. Raquette de ping-pong\nD. Rubik's Cube",
+        "target_scores": {
+            "A. Ancienne carte de crédit": 1,
+            "B. Balle de ping-pong": 0,
+            "C. Raquette de ping-pong": 0,
+            "D. Rubik's Cube": 0
+        }
+    },
+    {
+        "input": "Jules joue sur la plage et veut construire un château de sable, mais il n'a pas apporté de jouets de plage. Parmi les objets suivants qu'il a à proximité, lequel est le plus susceptible d'être utilisé pour construire un château de sable ?\nA. Ballon de plage\nB. Bouteille d'eau minérale vide\nC. Sandale de plage\nD. Vêtement anti-UV",
+        "target_scores": {
+            "A. Ballon de plage": 0,
+            "B. Bouteille d'eau minérale vide": 1,
+            "C. Sandale de plage": 0,
+            "D. Vêtement anti-UV": 0
+        }
+    },
+    {
+        "input": "Alice veut faire une pizza à la maison, mais elle n'a pas de pierre à pizza. Parmi les objets suivants qu'elle a trouvés, lequel est le meilleur remplacement pour une pierre à pizza ?\nA. Bol en cristal\nB. Papier sulfurisé\nC. Planche à découper en marbre\nD. Plat en verre",
+        "target_scores": {
+            "A. Bol en cristal": 0,
+            "B. Papier sulfurisé": 0,
+            "C. Planche à découper en marbre": 1,
+            "D. Plat en verre": 0
+        }
+    },
+    {
+        "input": "Lors de l'entretien des plantes d'intérieur, il est nécessaire de fournir un support aux plantes, mais il n'y a pas de support spécifique. Parmi les objets suivants, lequel peut être utilisé comme remplacement pour soutenir les plantes ?\nA. Accordéon\nB. Graines de pastèque\nC. Nid d'oiseau\nD. Paille en plastique",
+        "target_scores": {
+            "A. Accordéon": 0,
+            "B. Graines de pastèque": 0,
+            "C. Nid d'oiseau": 0,
+            "D. Paille en plastique": 1
+        }
+    },
+    {
+        "input": "Jules a accidentellement endommagé son plan de coupe en hachant de la viande trop fort et a besoin d'un remplacement pour couper les légumes. Parmi les objets suivants dans sa cuisine, lequel peut être utilisé temporairement comme plan de coupe ?\nA. Annuaire téléphonique\nB. Chiffon à vaisselle\nC. Planche en bois\nD. Tapis de sol",
+        "target_scores": {
+            "A. Annuaire téléphonique": 0,
+            "B. Chiffon à vaisselle": 0,
+            "C. Planche en bois": 1,
+            "D. Tapis de sol": 0
+        }
+    },
+    {
+        "input": "La lampe de bureau de Paul est en panne et il n'a pas de lampe de rechange. Il a besoin d'un dispositif d'éclairage pour continuer à lire. Parmi les objets suivants, lequel est le moins susceptible d'être utilisé comme outil d'éclairage temporaire ?\nA. Bougie\nB. Brique de mur\nC. Lampe de poche intégrée au téléphone\nD. Lampe à pétrole",
+        "target_scores": {
+            "A. Bougie": 0,
+            "B. Brique de mur": 1,
+            "C. Lampe de poche intégrée au téléphone": 0,
+            "D. Lampe à pétrole": 0
+        }
+    },
+    {
+        "input": "Le bureau de Paul est couvert de poussière, mais son plumeau habituel est en train de se faire laver. Il doit trouver un objet pour nettoyer. Parmi les objets suivants, lequel est le plus susceptible d'être utilisé comme outil de nettoyage temporaire ?\nA. Un bloc de sable\nB. Un paquet de bonbons mous\nC. Un pinceau à calligraphie\nD. Un stylo",
+        "target_scores": {
+            "A. Un bloc de sable": 0,
+            "B. Un paquet de bonbons mous": 0,
+            "C. Un pinceau à calligraphie": 1,
+            "D. Un stylo": 0
+        }
+    },
+    {
+        "input": "Vous avez trouvé que le bol de nourriture de votre chat a été cassé par lui et vous devez trouver un remplacement pour nourrir votre chat. Parmi les objets suivants que vous avez trouvés à la maison, lequel peut être utilisé ?\nA. Boîte de savon vide\nB. Couteau à steak\nC. Grand bol à laver le visage\nD. Tapis en argile",
+        "target_scores": {
+            "A. Boîte de savon vide": 1,
+            "B. Couteau à steak": 0,
+            "C. Grand bol à laver le visage": 0,
+            "D. Tapis en argile": 0
+        }
+    },
+    {
+        "input": "Emma a perdu son pinceau pendant qu'elle peignait en plein air et il n'y a pas de magasin autour, seulement des champs. Elle doit trouver un remplacement pour terminer son tableau à l'huile. Parmi les objets suivants, lequel est le moins susceptible d'être utilisé comme pinceau temporaire ?\nA. Un bouquet de coton-tige\nB. Un cure-dent\nC. Une boîte à déjeuner\nD. Une brin d'herbe",
+        "target_scores": {
+            "A. Un bouquet de coton-tige": 0,
+            "B. Un cure-dent": 0,
+            "C. Une boîte à déjeuner": 1,
+            "D. Une brin d'herbe": 0
+        }
+    },
+    {
+        "input": "Paul était en train de sécher des vêtements dans la grande cour de sa maison à la campagne quand il a cassé le porte-vêtements. Plusieurs objets sont éparpillés dans la cour. Parmi les objets suivants, lequel est le plus susceptible d'être utilisé comme remplacement temporaire pour le porte-vêtements ?\nA. Un bouquet de maïs\nB. Un fil de fer\nC. Un épouvantail\nD. Une poignée de blé",
+        "target_scores": {
+            "A. Un bouquet de maïs": 0,
+            "B. Un fil de fer": 1,
+            "C. Un épouvantail": 0,
+            "D. Une poignée de blé": 0
+        }
+    },
+    {
+        "input": "Sous le soleil de plomb, Paul était en train de faire un barbecue en plein air quand il s'est rendu compte qu'il avait oublié son briquet pour allumer le charbon. Il a trouvé quelques objets autour de lui. Parmi les objets suivants, lequel est le plus susceptible d'aider à allumer le feu ?\nA. Un bonbon au haricot rouge\nB. Un film en plastique\nC. Une bouteille de jus d'orange\nD. Une loupe",
+        "target_scores": {
+            "A. Un bonbon au haricot rouge": 0,
+            "B. Un film en plastique": 0,
+            "C. Une bouteille de jus d'orange": 0,
+            "D. Une loupe": 1
+        }
+    },
+    {
+        "input": "Emma était en train de découper des fleurs de papier pour les fenêtres quand elle est allée aux toilettes et, à son retour, ses ciseaux avaient disparu. Parmi les objets suivants qu'elle a à proximité, lequel peut être utilisé comme remplacement pour les ciseaux ?\nA. Un fil métallique\nB. Un pince à épiler\nC. Un éclat de verre\nD. Une ccoupe-ongles",
+        "target_scores": {
+            "A. Un fil métallique": 0,
+            "B. Un pince à épiler": 0,
+            "C. Un éclat de verre": 0,
+            "D. Une ccoupe-ongles": 1
+        }
+    },
+    {
+        "input": "Paul était en train de nettoyer sa chambre quand il a réalisé qu'il n'avait pas de nouveau balai et que l'ancien était en piteux état. Il est allé dans le débarras pour chercher quelque chose à utiliser. Parmi les objets suivants, lequel est le moins susceptible d'être utilisé comme balai temporaire ?\nA. Un bouquet de branches\nB. Une grande brosse à chaussures\nC. Une paire de bottes de randonnée\nD. Une plume d'autruche",
+        "target_scores": {
+            "A. Un bouquet de branches": 0,
+            "B. Une grande brosse à chaussures": 0,
+            "C. Une paire de bottes de randonnée": 1,
+            "D. Une plume d'autruche": 0
+        }
+    },
+    {
+        "input": "Emma est une blogueuse de voyage et est passée devant un gymnase de boxe en plein air où elle voulait filmer des contenus, mais elle a perdu son pied d'appareil photo. Parmi les objets suivants, lequel est le moins susceptible d'être utilisé comme remplacement pour un pied d'appareil photo ?\nA. Un sac de sable\nB. Un sac de snacks\nC. Un tas de pierres\nD. Une pile de livres",
+        "target_scores": {
+            "A. Un sac de sable": 0,
+            "B. Un sac de snacks": 1,
+            "C. Un tas de pierres": 0,
+            "D. Une pile de livres": 0
+        }
+    },
+    {
+        "input": "Paul est un adepte du fitness en plein air et, après une séance en extérieur, il a besoin de rafraîchir son corps, mais il n'a pas de ventilateur ni de glace. Parmi les objets suivants qu'il a trouvés à proximité, lequel est le moins susceptible d'être utilisé pour se rafraîchir ?\nA. Plusieurs sacs de glace\nB. Un petit parapluie\nC. Une bouteille de boisson glacée\nD. Une serviette humide",
+        "target_scores": {
+            "A. Plusieurs sacs de glace": 0,
+            "B. Un petit parapluie": 1,
+            "C. Une bouteille de boisson glacée": 0,
+            "D. Une serviette humide": 0
+        }
+    },
+    {
+        "input": "Emma était en train de camper dans le parc forestier et voulait accrocher des décorations à l'intérieur de sa tente pour prendre des photos, mais elle n'avait ni ruban adhésif ni crochet. Parmi les objets suivants qu'elle a trouvés dans son sac, lequel est impossible à utiliser pour accrocher des décorations ?\nA. Argile à modeler\nB. Chips de pomme de terre\nC. Colle à fixer\nD. Gomme à mâcher",
+        "target_scores": {
+            "A. Argile à modeler": 0,
+            "B. Chips de pomme de terre": 1,
+            "C. Colle à fixer": 0,
+            "D. Gomme à mâcher": 0
+        }
+    },
+    {
+        "input": "Paul est en train de faire ses devoirs dans un café et s'est trompé. Il veut effacer et réécrire, mais il n'a pas de gomme à effacer. Parmi les objets suivants, lequel est le plus susceptible d'être utilisé comme remplacement ?\nA. Capuchon de stylo\nB. Crayon\nC. Gobelet isotherme\nD. Miettes de pain",
+        "target_scores": {
+            "A. Capuchon de stylo": 0,
+            "B. Crayon": 0,
+            "C. Gobelet isotherme": 0,
+            "D. Miettes de pain": 1
+        }
+    },
+    {
+        "input": "Papa est en train de préparer un plat japonais et a besoin seulement de blanc d'œuf. Il doit séparer le blanc du jaune, mais il n'a pas d'outil spécifique. Parmi les objets suivants, lequel peut aider Papa ?\nA. Bouteille d'eau minérale vide\nB. Boîte à biscuits carrée\nC. Papier absorbant à huile\nD. Éponge à vaisselle",
+        "target_scores": {
+            "A. Bouteille d'eau minérale vide": 1,
+            "B. Boîte à biscuits carrée": 0,
+            "C. Papier absorbant à huile": 0,
+            "D. Éponge à vaisselle": 0
+        }
+    },
+    {
+        "input": "Pendant un barbecue en plein air, vous devez badigeonner les brochettes de viande, mais vous avez oublié votre pinceau. Vous avez seulement des ingrédients dans le panier à vos pieds. Parmi les ingrédients suivants, lequel est le moins susceptible de remplacer un pinceau ?\nA. Champignon\nB. Feuille de laitue fraîche\nC. Segment de céleri frais\nD. Soie de maïs fraîche",
+        "target_scores": {
+            "A. Champignon": 1,
+            "B. Feuille de laitue fraîche": 0,
+            "C. Segment de céleri frais": 0,
+            "D. Soie de maïs fraîche": 0
+        }
+    },
+    {
+        "input": "Paul va organiser un dîner à la maison, mais il n'a pas assez de nappes pour la table. Parmi les objets suivants qu'il a trouvés, lequel est le moins adapté pour servir de nappe temporaire ?\nA. Drap\nB. Housse de canapé\nC. Microphone\nD. Rideau",
+        "target_scores": {
+            "A. Drap": 0,
+            "B. Housse de canapé": 0,
+            "C. Microphone": 1,
+            "D. Rideau": 0
+        }
+    },
+    {
+        "input": "Emma veut prendre des photos amusantes de son chat, mais elle n'a pas de accessoires. Parmi les objets suivants qu'elle a trouvés, lequel est le plus adapté pour servir d'accessoire photo ?\nA. Boule de laine\nB. Clavier d'ordinateur\nC. Durian\nD. Orange",
+        "target_scores": {
+            "A. Boule de laine": 1,
+            "B. Clavier d'ordinateur": 0,
+            "C. Durian": 0,
+            "D. Orange": 0
+        }
+    },
+    {
+        "input": "Paul est en train de frire des œufs à la maison, mais il a perdu sa spatule. Il regarde autour de lui pour trouver un objet pour retourner les œufs. Parmi les objets suivants, lequel est le plus susceptible d'être utilisé ?\nA. Couteau à dents\nB. Machine à glaçons\nC. Magazine\nD. Peigne en plastique",
+        "target_scores": {
+            "A. Couteau à dents": 1,
+            "B. Machine à glaçons": 0,
+            "C. Magazine": 0,
+            "D. Peigne en plastique": 0
+        }
+    },
+    {
+        "input": "Paul veut tailler les buissons de son jardin, mais ses ciseaux ne sont pas assez tranchants. Il doit trouver un outil pour remplacer les ciseaux. Parmi les objets suivants dans sa boîte à outils, lequel peut être utilisé pour tailler ?\nA. Brosse à récurer\nB. Fourchette à barbecue\nC. Pelle\nD. Scie",
+        "target_scores": {
+            "A. Brosse à récurer": 0,
+            "B. Fourchette à barbecue": 0,
+            "C. Pelle": 0,
+            "D. Scie": 1
+        }
+    },
+    {
+        "input": "Paul et sa nouvelle petite amie sont en train de dîner quand ils découvrent que la bouteille de vin mousseux qu'ils ont apportée ne peut pas être ouverte. Il doit trouver un objet pour remplacer l'ouvre-bouteille. Parmi les objets suivants, lequel ne devrait-il pas essayer d'utiliser ?\nA. Une carte de crédit\nB. Une croustille de crevette\nC. Une cuillère en métal\nD. Une pièce de monnaie",
+        "target_scores": {
+            "A. Une carte de crédit": 0,
+            "B. Une croustille de crevette": 1,
+            "C. Une cuillère en métal": 0,
+            "D. Une pièce de monnaie": 0
+        }
+    },
+    {
+        "input": "Emma est en train de faire des biscuits et a besoin de tamiser la farine, mais elle a perdu son tamis. Parmi les objets suivants, lequel est le moins susceptible d'être utilisé pour tamiser la farine ?\nA. Brosse à pâtisserie\nB. Panier à légumes troué\nC. Sac à fruits en filet\nD. Sac à linge",
+        "target_scores": {
+            "A. Brosse à pâtisserie": 1,
+            "B. Panier à légumes troué": 0,
+            "C. Sac à fruits en filet": 0,
+            "D. Sac à linge": 0
+        }
+    },
+    {
+        "input": "Paul veut pratiquer l'écriture et a besoin d'une surface rigide pour écrire, mais il n'a pas de bureau. Parmi les objets suivants, lequel est le moins susceptible d'être utilisé comme remplacement pour un bureau ?\nA. Carreau de sol\nB. Oreiller\nC. Planche à découper\nD. Tapis en argile sèche",
+        "target_scores": {
+            "A. Carreau de sol": 0,
+            "B. Oreiller": 1,
+            "C. Planche à découper": 0,
+            "D. Tapis en argile sèche": 0
+        }
+    },
+    {
+        "input": "Le collier en silicone de la chienne de Paul a disparu et il veut en faire un nouveau. Parmi les objets suivants, lequel est le meilleur remplacement pour un collier ?\nA. Bande élastique\nB. Collants\nC. Dentelle\nD. Soie",
+        "target_scores": {
+            "A. Bande élastique": 1,
+            "B. Collants": 0,
+            "C. Dentelle": 0,
+            "D. Soie": 0
+        }
+    },
+    {
+        "input": "Emma est en train de faire une manucure à la maison et a besoin d'un stylo à diamants pour ongles, mais elle n'en trouve pas. Parmi les objets suivants, lequel peut être utilisé comme remplacement pour le stylo à diamants pour ongles ?\nA. Cils postiches\nB. Couteau suisse\nC. Cure-dent\nD. Fard à joues",
+        "target_scores": {
+            "A. Cils postiches": 0,
+            "B. Couteau suisse": 0,
+            "C. Cure-dent": 1,
+            "D. Fard à joues": 0
+        }
+    },
+    {
+        "input": "Paul participe à une conférence financière et s'aperçoit qu'il y a de la poussière sur l'écran de son téléphone, mais il n'a pas de chiffon de nettoyage. Parmi les objets suivants, lequel est le moins susceptible d'être utilisé pour nettoyer l'écran ?\nA. Carte d'invitation\nB. Chiffon pour lunettes\nC. Cravate\nD. Lingette à alcool",
+        "target_scores": {
+            "A. Carte d'invitation": 1,
+            "B. Chiffon pour lunettes": 0,
+            "C. Cravate": 0,
+            "D. Lingette à alcool": 0
+        }
+    },
+    {
+        "input": "À la fin d'un voyage, vous voulez emballer des souvenirs pour les protéger, mais vous n'avez pas de boîte de rangement de la bonne taille dans votre bagage. Parmi les objets suivants, lequel est le moins adapté pour servir de boîte de rangement temporaire ?\nA. Album photo\nB. Boîte de café en verre\nC. Boîte de chocolat en fer-blanc\nD. Boîte de lait en poudre vide",
+        "target_scores": {
+            "A. Album photo": 1,
+            "B. Boîte de café en verre": 0,
+            "C. Boîte de chocolat en fer-blanc": 0,
+            "D. Boîte de lait en poudre vide": 0
+        }
+    },
+    {
+        "input": "Emma veut fixer un mémo important à côté de son ordinateur au bureau, mais elle a épuisé son rouleau de scotch. Parmi les objets suivants, lequel peut être utilisé comme remplacement temporaire ?\nA. Calendrier de bureau\nB. Montre-bracelet\nC. Sucre fondu\nD. Téléphone fixe",
+        "target_scores": {
+            "A. Calendrier de bureau": 0,
+            "B. Montre-bracelet": 0,
+            "C. Sucre fondu": 1,
+            "D. Téléphone fixe": 0
+        }
+    },
+    {
+        "input": "Paul répare son vélo, mais il n'a pas de clé à molette. Il doit serrer le boulon du siège de vélo. Parmi les objets suivants dans sa boîte à outils, lequel est le meilleur remplacement pour une clé à molette ?\nA. Marteau\nB. Pinces\nC. Règle en métal\nD. Tube",
+        "target_scores": {
+            "A. Marteau": 0,
+            "B. Pinces": 1,
+            "C. Règle en métal": 0,
+            "D. Tube": 0
+        }
+    },
+    {
+        "input": "Emma fait de l'aérobic à la maison et a besoin d'un bloc de yoga pour l'aider dans ses exercices, mais elle n'a pas de bloc de yoga. Parmi les objets suivants qu'elle a trouvés, lequel est le plus adapté ?\nA. Dictionnaire\nB. Porte-monnaie\nC. Trousse à clés\nD. Écharpe",
+        "target_scores": {
+            "A. Dictionnaire": 1,
+            "B. Porte-monnaie": 0,
+            "C. Trousse à clés": 0,
+            "D. Écharpe": 0
+        }
+    },
+    {
+        "input": "Paul fait une expérience à la maison et doit mesurer le volume d'un liquide, mais il n'a pas de verre doseur. Il doit trouver un remplacement pour mesurer. Parmi les objets suivants qu'il a trouvés dans le salon, lequel est le plus susceptible de remplacer un verre doseur ?\nA. Biberon pour bébé\nB. Coupe à vin\nC. Rack de rouge à lèvre\nD. Tasse à thé en céramique",
+        "target_scores": {
+            "A. Biberon pour bébé": 1,
+            "B. Coupe à vin": 0,
+            "C. Rack de rouge à lèvre": 0,
+            "D. Tasse à thé en céramique": 0
+        }
+    },
+    {
+        "input": "Le pot à sel de Paul s'est cassé et il doit trouver un conteneur temporaire pour stocker le sel. Parmi les objets suivants qu'il a trouvés dans son garage, lequel est le plus susceptible de remplacer un pot à sel ?\nA. Bassine à laver le visage\nB. Bouteille de tincture de médicament\nC. Cuvette de toilette\nD. Flacon à gélules",
+        "target_scores": {
+            "A. Bassine à laver le visage": 0,
+            "B. Bouteille de tincture de médicament": 0,
+            "C. Cuvette de toilette": 0,
+            "D. Flacon à gélules": 1
+        }
+    },
+    {
+        "input": "Lors d'une coupure de courant, Emma ne trouve pas de bougies à la maison. Elle doit chercher un objet qui peut servir de source de lumière temporaire. Parmi les objets suivants, lequel peut être utilisé comme éclairage d'urgence ?\nA. Couteau à fruits\nB. Gel de silice\nC. Montre lumineuse\nD. Téléviseur à cristaux liquides",
+        "target_scores": {
+            "A. Couteau à fruits": 0,
+            "B. Gel de silice": 0,
+            "C. Montre lumineuse": 1,
+            "D. Téléviseur à cristaux liquides": 0
+        }
+    },
+    {
+        "input": "Paul prépare des pâtes à la maison, mais il n'a pas d'égouttoir à pâtes. Parmi les objets suivants dans sa cuisine, lequel est le plus adapté pour remplacer un support à pâtes ?\nA. Lampe d'éclairage\nB. Porte-vêtements\nC. Ventilateur électrique\nD. Élastique",
+        "target_scores": {
+            "A. Lampe d'éclairage": 0,
+            "B. Porte-vêtements": 1,
+            "C. Ventilateur électrique": 0,
+            "D. Élastique": 0
+        }
+    },
+    {
+        "input": "Paul veut aérer le sol de ses plantes en pot, mais il n'a pas de pelle de jardinage. Parmi les objets suivants que son ami lui a prêtés, lequel peut être utilisé comme remplacement pour une pelle de jardinage ?\nA. Cuillère en céramique\nB. Cure-oreille\nC. Massager pour cuir chevelu\nD. Paille plastique",
+        "target_scores": {
+            "A. Cuillère en céramique": 1,
+            "B. Cure-oreille": 0,
+            "C. Massager pour cuir chevelu": 0,
+            "D. Paille plastique": 0
+        }
+    },
+    {
+        "input": "Emma veut faire de l'entraînement de force pour renforcer ses muscles des bras, mais elle n'a pas d'haltères. Parmi les objets suivants, lequel peut être utilisé comme remplacement pour des haltères ?\nA. Ballon de football\nB. Boule de neige\nC. Bouteille d'eau de 1,5 litres\nD. Oreiller",
+        "target_scores": {
+            "A. Ballon de football": 0,
+            "B. Boule de neige": 0,
+            "C. Bouteille d'eau de 1,5 litres": 1,
+            "D. Oreiller": 0
+        }
+    },
+    {
+        "input": "Emma veut préparer un grand repas de poisson grillé, mais elle a perdu son gril. Parmi les objets suivants, lequel est le plus adapté pour griller le poisson ?\nA. Appât à pêche\nB. Grille en fil de fer\nC. Ligne de pêche\nD. Planche à découper en bois",
+        "target_scores": {
+            "A. Appât à pêche": 0,
+            "B. Grille en fil de fer": 1,
+            "C. Ligne de pêche": 0,
+            "D. Planche à découper en bois": 0
+        }
+    },
+    {
+        "input": "Paul vient de cuire une fournée de palmiers et s'aperçoit qu'il n'a pas de gants de four. Il a une salle de bain à côté. Parmi les objets suivants, lequel est le moins susceptible d'être utilisé comme remplacement pour des gants de four ?\nA. Peignoir en terry\nB. Serviette de bain\nC. Serviette à mains\nD. Verre à dents",
+        "target_scores": {
+            "A. Peignoir en terry": 0,
+            "B. Serviette de bain": 0,
+            "C. Serviette à mains": 0,
+            "D. Verre à dents": 1
+        }
+    },
+    {
+        "input": "Sarah vient d'être admise à l'université de ses rêves et organise une fête de célébration à la maison, mais elle n'a pas assez de seaux à glace pour refroidir les boissons. Parmi les objets suivants, lequel peut être utilisé comme seau à glace temporaire ?\nA. Casquette de béret\nB. Grand bol à laver le visage\nC. Grille à pain\nD. Tiroir",
+        "target_scores": {
+            "A. Casquette de béret": 0,
+            "B. Grand bol à laver le visage": 1,
+            "C. Grille à pain": 0,
+            "D. Tiroir": 0
+        }
+    },
+    {
+        "input": "Alice a soudainement besoin d'une boîte pour ranger des agrafes, mais ses tiroirs sont pleins et elle n'a pas de petite boîte. Parmi les objets suivants sur son bureau, lequel est le moins susceptible d'être utilisé ?\nA. Boîte à lunettes\nB. Boîte à écouteurs\nC. Coque de téléphone portable\nD. Porte rouge à lèvre",
+        "target_scores": {
+            "A. Boîte à lunettes": 0,
+            "B. Boîte à écouteurs": 0,
+            "C. Coque de téléphone portable": 1,
+            "D. Porte rouge à lèvre": 0
+        }
+    },
+    {
+        "input": "Henry a besoin d'un nid en coton pour son hamster en hiver, mais le précédent a été déchiré. Parmi les objets suivants qu'il a chez lui, lequel est le moins adapté pour faire un nid de hamster ?\nA. Chaussettes en laine\nB. Doublure de veste en coton\nC. Papier de brouillon\nD. Vieux couvre-lit",
+        "target_scores": {
+            "A. Chaussettes en laine": 0,
+            "B. Doublure de veste en coton": 0,
+            "C. Papier de brouillon": 1,
+            "D. Vieux couvre-lit": 0
+        }
+    },
+    {
+        "input": "Sur la plage, Sophia veut fabriquer un filet de volley-ball de plage avec ses amis. Parmi les objets suivants, lequel est le plus susceptible d'être utilisé ?\nA. Bouteille de lotion solaire\nB. Chapeau de soleil\nC. Maillot de bain\nD. Serviette de bain",
+        "target_scores": {
+            "A. Bouteille de lotion solaire": 0,
+            "B. Chapeau de soleil": 0,
+            "C. Maillot de bain": 0,
+            "D. Serviette de bain": 1
+        }
+    },
+    {
+        "input": "James a eu son nouveau portefeuille en tissu, qu'il a fabriqué lui-même, volé par un ami, mais le nouveau tissu n'est pas encore arrivé. Parmi les objets suivants, lequel est le moins susceptible d'être utilisé pour faire un portefeuille ?\nA. Carte routière\nB. Casquette de baseball\nC. Jean\nD. T-shirt usagé",
+        "target_scores": {
+            "A. Carte routière": 1,
+            "B. Casquette de baseball": 0,
+            "C. Jean": 0,
+            "D. T-shirt usagé": 0
+        }
+    },
+    {
+        "input": "Paul a les mains et les pieds froids en hiver et a besoin d'une source de chaleur pour se réchauffer, mais il a perdu son sac à eau chaude. Parmi les objets suivants, lequel peut être utilisé comme remplacement ?\nA. Bouteille en plastique remplie d'eau chaude\nB. Chocolat au lait\nC. Pomme\nD. Verre vide",
+        "target_scores": {
+            "A. Bouteille en plastique remplie d'eau chaude": 1,
+            "B. Chocolat au lait": 0,
+            "C. Pomme": 0,
+            "D. Verre vide": 0
+        }
+    },
+    {
+        "input": "Paul organise une fête à la maison et doit accrocher des ballons, mais il n'a pas de ficelle. Parmi les objets suivants dans son placard, lequel peut être utilisé comme remplacement pour accrocher les ballons ?\nA. Câble électrique\nB. Panier à vapeur\nC. Réveil\nD. Skateboard",
+        "target_scores": {
+            "A. Câble électrique": 1,
+            "B. Panier à vapeur": 0,
+            "C. Réveil": 0,
+            "D. Skateboard": 0
+        }
+    },
+    {
+        "input": "Vous êtes en plein air et votre téléphone est à plat. Vous n'avez pas de chargeur portatif. Parmi les objets suivants dans votre sac, lequel est le plus susceptible d'être utilisé comme source de charge temporaire ?\nA. Bottes de neige\nB. Gourde militaire\nC. Ordinateur portable\nD. Piolet d'escalade",
+        "target_scores": {
+            "A. Bottes de neige": 0,
+            "B. Gourde militaire": 0,
+            "C. Ordinateur portable": 1,
+            "D. Piolet d'escalade": 0
+        }
+    },
+    {
+        "input": "Vous êtes dans une cabine d'essayage d'un magasin de vêtements et vous vous rendez compte qu'il n'y a pas de cintre. Vous ne pouvez pas sortir pour en prendre un car vous êtes déjà déshabillé. Parmi les objets suivants dans la cabine, lequel est le moins adapté pour servir de cintre ?\nA. Crochet\nB. Dossier de chaise\nC. Manche de parapluie\nD. Poignée de porte",
+        "target_scores": {
+            "A. Crochet": 0,
+            "B. Dossier de chaise": 0,
+            "C. Manche de parapluie": 1,
+            "D. Poignée de porte": 0
+        }
+    },
+    {
+        "input": "Vous êtes sorti et vos vêtements sont mouillés à cause de la pluie. Vous avez besoin de les sécher rapidement, mais vous n'avez pas de sèche-linge à la maison. Parmi les objets suivants, lequel peut être utilisé comme remplacement ?\nA. Four à cuisson\nB. Plaque de cuisson\nC. Poêle à frire\nD. Sèche-cheveux",
+        "target_scores": {
+            "A. Four à cuisson": 0,
+            "B. Plaque de cuisson": 0,
+            "C. Poêle à frire": 0,
+            "D. Sèche-cheveux": 1
+        }
+    }
+]

@@ -1,0 +1,350 @@
+[
+    {
+        "input": "[Round 0]\nUSER: Telah menempuh dua bagian jalan, satu sepanjang 5 km dan satu lagi sepanjang 8 km. Berapa total jarak yang ditempuh? Silakan jawab hanya dengan angka Arab. \nASSISTANT: 13\n[Round 1]\nUSER: Jika kemudian menempuh 10 km lagi, total sudah menempuh berapa km? Silakan jawab hanya dengan angka Arab.\nASSISTANT:",
+        "target": "23"
+    },
+    {
+        "input": "[Round 0]\nUSER: Tiga butir telur masing-masing beratnya 50 gram dan empat butir telur masing-masing beratnya 100 gram, totalnya berapa gram? Silakan jawab hanya dengan angka Arab. \nASSISTANT: 550\n[Round 1]\nUSER: Jika saya memakan dua butir telur yang beratnya 50 gram, sisa berapa gram? Silakan jawab hanya dengan angka Arab.\nASSISTANT:",
+        "target": "450"
+    },
+    {
+        "input": "[Round 0]\nUSER: Jika dari 4 mililiter air dituangkan 1 mililiter, sisa berapa mililiter? Silakan tuliskan langsung menggunakan kata bilangan dalam bahasa Indonesia dan tanpa satuan. \nASSISTANT: Tiga \n[Round 1] \nUSER: Jika saya menambahkan 12 mililiter lagi, berapa mililiter yang tersisa? Silakan tuliskan langsung menggunakan kata bilangan dalam bahasa Indonesia dan tanpa satuan.\nASSISTANT:",
+        "target": "Lima belas"
+    },
+    {
+        "input": "[Round 0]\nUSER: Ditetapkan satu orang minum tiga botol air per hari. Maka, dalam dua hari orang ini minum berapa botol air? Silakan jawab menggunakan angka Romawi, jangan menambahkan keterangan lain. \nASSISTANT: VI\n[Round 1]\nUSER: Lalu, dalam empat hari orang ini minum berapa botol air? Silakan jawab menggunakan angka Romawi, jangan menambahkan keterangan lain.\nASSISTANT:",
+        "target": "XII"
+    },
+    {
+        "input": "[Round 0]\nUSER: Dua papan karton dengan ketebalan 1 cm, jika ditumpuk, berapa total ketebalannya dalam cm? Jawab menggunakan angka Romawi, tanpa satuan. \nASSISTANT: II\n[Round 1]\nUSER: Di atas [Round 0] ditambahkan lagi 5 lembar karton dengan ketebalan yang sama, berapakah total ketebalannya dalam cm? Silakan jawab menggunakan angka Romawi, tanpa satuan.\nASSISTANT:",
+        "target": "VII"
+    },
+    {
+        "input": "[Round 0]\nUSER: Sebuah persegi panjang dengan panjang 6 cm dan lebar 4 cm, berapakah keliling persegi panjang tersebut dalam cm? Jawab dalam bentuk kata dengan huruf kapital dan tanpa menuliskan satuan. \nASSISTANT: DUA PULUH\n[Round 1]\nUSER: Lalu, berapakah luas persegi panjang ini dalam cm²? Jawab dalam bentuk kata dengan huruf kapital dan tanpa menuliskan satuan.\nASSISTANT:",
+        "target": "DUA PULUH EMPAT"
+    },
+    {
+        "input": "[Round 0]\nUSER: Luas sebuah persegi adalah 64 cm². Berapakah panjang sisi persegi tersebut dalam cm? Hanya tuliskan nilainya, gunakan huruf kapital. \nASSISTANT: DELAPAN\n[Round 1]\nUSER: Berapakah bagian bilangan bulat dari panjang diagonal persegi ini? Hanya tuliskan nilainya, gunakan huruf kapital.\nASSISTANT:",
+        "target": "SEBELAS"
+    },
+    {
+        "input": "[Round 0]\nUSER: Sebuah kolam berbentuk lingkaran dengan jari-jari 5 meter. Hitung luas kolam tersebut dalam m². Hanya tuliskan nilainya, gunakan format desimal. (π=3,14)\nASSISTANT: 78,5\n[Round 1]\nUSER: Hitung juga kelilingnya dalam meter. Hanya tuliskan nilainya, gunakan format desimal. (π=3,14)\nASSISTANT:",
+        "target": "31,4"
+    },
+    {
+        "input": "[Round 0]\nUSER: Sebuah segitiga sama kaki memiliki panjang alas 10 cm dan tinggi 8 cm. Berapakah luasnya dalam cm²? Tuliskan nilainya secara langsung dalam bentuk desimal dengan presisi satu angka di belakang koma.\nASSISTANT: 40,0\n[Round 1]\nUSER: Berapa panjang sisi kakinya dalam cm? Tulis langsung nilainya, gunakan bentuk desimal, dan presisi hingga satu angka di belakang koma.\nASSISTANT:",
+        "target": "9,4"
+    },
+    {
+        "input": "[Round 0]\nUSER: Pada hari pertama nilainya 100, setiap hari bertambah tetap sebanyak 5. Pada hari ketujuh akan menjadi berapa? Jawab langsung dengan kata angka dalam bahasa Inggris.\nASSISTANT: One hundred and thirty\n[Round 1]\nUSER: Jika bertambah menjadi 140, itu hari ke berapa? Silakan jawab dengan kata angka dalam bahasa Romawi.\nASSISTANT:",
+        "target": "IX"
+    },
+    {
+        "input": "[Round 0]\nUSER: Bagilah lima burung A, B, C, D, dan E ke dalam dua sangkar yang sama, tanpa ada sangkar kosong. Ada berapa cara membaginya? Tulis nilainya dalam bentuk kata dengan huruf kapital. \nASSISTANT: LIMA BELAS\n[Round 1]\nUSER: Jika terdapat tiga sangkar yang identik dan tidak diperbolehkan ada sangkar kosong, ada berapa cara pembagiannya? Tulis nilainya dalam bentuk kata dengan huruf kapital.\nASSISTANT:",
+        "target": "DUA PULUH LIMA"
+    },
+    {
+        "input": "[Round 0]\nUSER: Sebuah kertas dengan panjang 20 cm dan lebar 10 cm dipotong menjadi persegi. Berapakah panjang sisi persegi terbesar? Jawab dalam bentuk kata dengan huruf kapital dan tanpa menambahkan keterangan lain. \nASSISTANT: SEPULUH\n[Round 1]\nUSER: Berapakah luas persegi ini dalam cm²? Jawab dalam bentuk kata dengan huruf kapital dan tanpa menambahkan keterangan lain.\nASSISTANT:",
+        "target": "SERATUS"
+    },
+    {
+        "input": "[Round 0]\nUSER: Sebuah mobil melaju dengan kecepatan 60 km per jam. Setelah 2 jam, berapa km yang telah ditempuh? Jawab langsung dengan kata angka dalam bahasa Inggris, jangan menambahkan keterangan lain. \nASSISTANT: One hundred and twenty\n[Round 1]\nUSER: Setelah 5 jam lagi, berapa total km yang telah ditempuh? Jawab langsung dengan kata angka dalam bahasa Inggris, jangan menulis satuannya.\nASSISTANT:",
+        "target": "Four hundred and twenty"
+    },
+    {
+        "input": "[Round 0]\nUSER: Setiap lantai memiliki 8 anak tangga. Dari lantai 1 sampai lantai 10, berapa total anak tangga yang harus dinaiki? Tulis langsung nilainya, gunakan angka Arab. \nASSISTANT: 72\n[Round 1]\nUSER: Jika orang tersebut hanya naik sampai lantai 8, berapa total anak tangga yang telah dinaiki? Tulis langsung nilainya, gunakan angka Arab.\nASSISTANT:",
+        "target": "56"
+    },
+    {
+        "input": "[Round 0]\nUSER: Dalam satu kotak cokelat terdapat 5 jenis rasa, setiap jenis rasa terdiri dari 4 potong. Berapakah total cokelatnya? Hanya tuliskan nilainya, gunakan angka Romawi. \nASSISTANT: XX\n[Round 1]\nUSER: Jika 2 jenis rasa telah habis dimakan, berapa sisa cokelatnya? Hanya tuliskan nilainya, gunakan angka Romawi.\nASSISTANT:",
+        "target": "XII"
+    },
+    {
+        "input": "[Round 0]\nUSER: Suatu bioskop memiliki 12 baris kursi, setiap baris terdapat 20 kursi. Berapakah total jumlah kursi? Jawab dalam bentuk kata tanpa menuliskan satuan. \nASSISTANT: dua ratus empat puluh\n[Round 1]\nUSER: Diketahui ada 63 orang menonton sebuah film. Setelah penonton duduk, berapa sisa kursi kosong di bioskop ini? Jawab dalam bentuk kata tanpa menuliskan satuan.\nASSISTANT:",
+        "target": "Seratus tujuh puluh tujuh"
+    },
+    {
+        "input": "[Round 0]\nUSER: Durasi sebuah film adalah 2 jam 30 menit. Jika dikonversikan ke dalam satuan menit, menjadi berapa menit? Silakan tuliskan langsung menggunakan kata bilangan dalam bahasa Indonesia dan tanpa menuliskan satuan.\nASSISTANT: Seratus lima puluh\n[Round 1]\nUSER: Sudah menonton selama 80 menit, masih tersisa berapa menit? Silakan tuliskan langsung menggunakan kata bilangan dalam bahasa Indonesia dan tanpa menuliskan satuan.\nASSISTANT:",
+        "target": "Tujuh puluh"
+    },
+    {
+        "input": "[Round 0]\nUSER: Delapan kali sebuah angka adalah 16. Berapakah angka tersebut? Jawab menggunakan angka Romawi, jangan menambahkan keterangan lain. \nASSISTANT: II\n[Round 1]\nUSER: Nilai yang didapatkan tadi dikalikan 5, hasilnya berapa? Jawab menggunakan angka Romawi, jangan menambahkan keterangan lain. \nASSISTANT: X\n[Round 2]\nUSER: Jika dikurangi 2 lagi, berapa hasilnya? Jawab menggunakan angka Romawi, jangan menambahkan keterangan lain.\nASSISTANT:",
+        "target": "VIII"
+    },
+    {
+        "input": "[Round 0]\nUSER: Dalam satu keranjang terdapat 5 jeruk, dan di keranjang lain terdapat 7 jeruk. Berapa total jeruk di kedua keranjang? Tulis nilainya langsung dengan angka Romawi, tanpa satuan. \nASSISTANT: Ⅻ\n[Round 1]\nUSER: Ambil 3 jeruk dari keranjang yang jumlahnya lebih banyak, berapa sisa jeruk di keranjang itu? Tulis nilainya langsung dengan angka Romawi, tanpa satuan. \nASSISTANT: Ⅳ\n[Round 2]\nUSER: Selanjutnya, gabungkan semua jeruk dari kedua keranjang. Berapa total jeruknya? Tulis nilainya langsung dengan angka Romawi, tanpa satuan.\nASSISTANT:",
+        "target": "IX"
+    },
+    {
+        "input": "[Round 0]\nUSER: Masukkan 213,67 gram air ke dalam sebuah gelas yang beratnya 88,8 gram. Berapakah total berat gelas tersebut?  Silakan jawab dalam angka desimal, tepat satu angka di belakang koma, tanpa satuan. \nASSISTANT: 302,5\n[Round 1]\nUSER: Kemudian, sebanyak 20,583 gram air diminum. Berapa sisa total beratnya? Silakan jawab dalam angka desimal, tepat satu angka di belakang koma, tanpa satuan. \nASSISTANT: 281,9\n[Round 2]\nUSER: Selanjutnya, tanpa sengaja tumpah lagi 10,4 gram air. Berapa sisa total beratnya? Silakan jawab dalam angka desimal, tepat satu angka di belakang koma, tanpa satuan.\nASSISTANT:",
+        "target": "271,5"
+    },
+    {
+        "input": "[Round 0]\nUSER: Di sebuah ruangan dengan suhu 30 derajat Celsius dan kelembapan 95%, setiap kenaikan suhu 1 derajat Celsius, kelembapan akan berkurang sebesar 5%. Ketika kelembapan turun menjadi 75%, berapakah suhu ruangan tersebut dalam derajat Celsius? Silakan jawab menggunakan angka Arab, jangan menambahkan keterangan lain. \nASSISTANT: 34\n[Round 1]\nUSER: Jika suhu ruangan naik dari 30 Derajat Celsius menjadi 35 Derajat Celsius, berapakah kelembapannya? Silakan jawab menggunakan angka Arab dalam bentuk persentase. \nASSISTANT: 70%\n[Round 2]\nUSER: Jika kelembapan turun dari 95% menjadi 50%, berapakah suhu ruangan dalam derajat Celsius? Jawab menggunakan angka Arab.\nASSISTANT:",
+        "target": "39"
+    },
+    {
+        "input": "[Round 0]\nUSER: Jika seseorang pada hari pertama meminum tiga butir tablet, setiap tablet memiliki berat 0,1 gram, berapakah total berat obat yang dikonsumsi orang tersebut dalam satu hari? Tulis langsung nilainya, tanpa satuan, gunakan format desimal. \nASSISTANT: 0,3\n[Round 1]\nUSER: Karena gejalanya membaik, orang ini pada hari kedua dapat mengurangi satu tablet. Berapakah total berat obat yang dikonsumsi pada hari kedua? Tulis langsung nilainya, tanpa satuan, gunakan format desimal. \nASSISTANT: 0,2\n[Round 2]\nUSER: Berapakah total berat obat yang dikonsumsi selama dua hari? Tulis langsung nilainya, tanpa satuan, gunakan format desimal.\nASSISTANT:",
+        "target": "0,5"
+    },
+    {
+        "input": "[Round 0]\nUSER: Di sebuah laboratorium, terdapat sampel dengan suhu 273°C. Ubah 273°C menjadi derajat Fahrenheit, berapa derajat Fahrenheit hasilnya? Jawab menggunakan angka Arab dan tambahkan satuan, bulatkan hingga satu angka di belakang koma, jangan menambahkan keterangan lain. \nASSISTANT: 523,4°F\n[Round 1]\nUSER: Keesokan harinya, suhu sampel meningkat 10°C. Ubah menjadi derajat Fahrenheit, berapa derajat Fahrenheit hasilnya? Jawab menggunakan angka Arab dan tambahkan satuan, bulatkan hingga satu angka di belakang koma, jangan menambahkan keterangan lain. \nASSISTANT: 541,4°F\n[Round 2]\nUSER: Bagilah derajat Fahrenheit pada hari kedua dengan 5, berapa derajat Fahrenheit hasilnya? Jawab menggunakan angka Arab dan tambahkan satuan, bulatkan hingga satu angka di belakang koma, jangan menambahkan keterangan lain.\nASSISTANT:",
+        "target": "108,3°F"
+    },
+    {
+        "input": "[Round 0]\nUSER: Dalam deret bilangan yang bertambah dua kali lipat setiap hari, pada hari ke-10 nilainya adalah 1024. Hitung nilai deret tersebut pada hari ke-5. Jawab langsung dengan kata angka dalam bahasa Inggris, jangan menambahkan keterangan lain.\nASSISTANT: Thirty-two\n[Round 1]\nUSER: Lalu, berapa nilai pada hari ke-7? Jawab langsung dengan kata angka dalam bahasa Inggris. \nASSISTANT: One hundred and twenty-eight\n[Round 2]\nUSER: Kalau begitu, coba hitung berapa nilai awal deret ini? Jawab langsung dengan kata angka dalam bahasa Inggris.\nASSISTANT:",
+        "target": "Two"
+    },
+    {
+        "input": "[Round 0]\nUSER: Misalkan volume sebuah ruangan adalah 150.000 cm³, dan kamu berencana menambah volume ruangan tersebut sebesar 50.000 cm³. Hitung berapa volume ruangan setelah ditambah dalam satuan cm³. Jawab langsung dengan kata angka dalam bahasa Inggris dan tanpa menambahkan keterangan lain. \nASSISTANT: Two hundred thousand\n[Round 1]\nUSER: Jika setelah diperbesar kemudian diperkecil lagi sebanyak 20.000 cm³, berapa cm³ yang tersisa? Jawab langsung dengan kata angka dalam bahasa Inggris dan tanpa menambahkan keterangan lain. \nASSISTANT: One hundred eighty thousand\n[Round 2]\nUSER: Selanjutnya, jika volume ruangan yang tersisa kembali diperkecil menjadi setengahnya, berapa cm³ akhirnya? Jawab langsung dengan kata angka dalam bahasa Inggris dan tanpa menambahkan keterangan lain.\nASSISTANT:",
+        "target": "Ninety thousand"
+    },
+    {
+        "input": "[Round 0]\nUSER: Sebuah segitiga siku-siku memiliki dua sisi siku-siku masing-masing 3 cm dan 4 cm. Berapakah panjang sisi miringnya? Jawab menggunakan angka Romawi, tanpa satuan. \nASSISTANT: V\n[Round 1]\nUSER: Berapa luas segitiga tersebut dalam cm²? Jawab menggunakan angka Romawi, tanpa satuan. \nASSISTANT: VI\n[Round 2]\nUSER: Berapa tinggi tegak lurus terhadap sisi miringnya  dalam cm? Jawab dalam bentuk pecahan tak wajar, tanpa satuan.\nASSISTANT:",
+        "target": "12/5"
+    },
+    {
+        "input": "[Round 0]\nUSER: Budi memiliki dua apel yang sama. Dia memotong satu apel menjadi empat bagian yang sama besar, lalu memakan satu bagian. Sekarang berapa apel yang dimiliki Budi? Jawab dalam bentuk pecahan tidak wajar, tanpa satuan. \nASSISTANT: 7/4\n[Round 1]\nUSER: Tak lama kemudian, dia memakan dua bagian lagi, sekarang berapa banyak apel yang tersisa? Jawab dalam bentuk pecahan tidak wajar, tanpa satuan. \nASSISTANT: 5/4\n[Round 2]\nUSER: Setelah beberapa saat, Budi memberikan apel utuh kepada temannya, maka sekarang berapa apel yang dimiliki Budi? Jawab dalam bentuk pecahan, tanpa satuan.\nASSISTANT:",
+        "target": "1/4"
+    },
+    {
+        "input": "[Round 0]\nUSER: Sebuah rak buku memiliki 5 tingkat, setiap tingkat berisi 12 buku. Berapa total buku yang dapat ditampung? Silakan tuliskan langsung menggunakan kata bilangan dalam bahasa Indonesia. \nASSISTANT: Enam puluh\n[Round 1]\nUSER: Jika setiap tingkat hanya berisi 11 buku, berapa total buku yang dapat ditampung? Silakan tuliskan langsung menggunakan kata bilangan dalam bahasa Indonesia. \nASSISTANT: Lima puluh lima\n[Round 2]\nUSER: Jika satu tingkat rusak dan tidak dapat digunakan untuk menaruh buku, setiap tingkat hanya dapat menampung 10 buku. Berapa total buku yang dapat ditampung? Silakan tuliskan langsung menggunakan kata bilangan dalam bahasa Indonesia. \nASSISTANT:",
+        "target": "Empat puluh"
+    },
+    {
+        "input": "[Round 0]\nUSER: Pabrik memproduksi 800 produk setiap hari secara tetap. Setelah 30 hari, berapa total produk yang seharusnya diproduksi? Silakan tuliskan langsung menggunakan kata bilangan dalam bahasa Indonesia dan tanpa satuan. \nASSISTANT: Dua puluh empat ribu\n[Round 1]\nUSER: Ternyata dalam 30 hari terdapat 5 hari libur. Jadi, berapa total produk yang sebenarnya diproduksi dalam 30 hari? Silakan tuliskan langsung menggunakan kata bilangan dalam bahasa Indonesia dan tanpa satuan.\nASSISTANT:",
+        "target": "Dua puluh ribu"
+    },
+    {
+        "input": "[Round 0]\nUSER: Seseorang berlari 200 meter setiap menit. Berapa meter yang telah ditempuhnya setelah 30 menit? Jawab langsung dengan huruf kapital dalam bahasa Indonesia dan tanpa menuliskan satuan. \nASSISTANT: ENAM RIBU\n[Round 1]\nUSER: Jika ia beristirahat selama 2 menit di tengah, berapa meter yang telah ditempuhnya setelah 30 menit? Jawab dalam bentuk kata dengan huruf kapital dan tanpa menuliskan satuan.\nASSISTANT:",
+        "target": "LIMA RIBU ENAM RATUS"
+    },
+    {
+        "input": "[Round 0]\nUSER: Sebuah saham naik sebesar 5%, harga awalnya Rp100.000. Berapa harganya sekarang? Jawab hanya menggunakan simbol mata uang Rupiah dan angka Arab. \nASSISTANT: Rp105.000\n[Round 1]\nUSER: Jika naik lagi 20%, berapa harga sekarang? Jawab hanya menggunakan simbol mata uang Rupiah dan angka Arab. \nASSISTANT: Rp126.000\n[Round 2]\nUSER: Setelah itu naik lagi 5%, berapa jumlahnya? Jawab hanya menggunakan simbol mata uang Rupiah dan angka Arab.\nASSISTANT:",
+        "target": "Rp132.300"
+    },
+    {
+        "input": "[Round 0]\nUSER: Pada hari pertama, Budi membeli 3 buku. Harga tiap buku adalah Rp150.000. Berapa total uang yang dia habiskan? Jawab hanya menggunakan simbol mata uang yang sesuai dan angka Arab. \nASSISTANT: Rp450.000\n[Round 1]\nUSER: Pada hari kedua, dia membeli 2 pena lagi, masing-masing seharga Rp100.000. Berapa total uang yang dia habiskan selama dua hari? Jawab hanya menggunakan simbol mata uang yang sesuai dan angka Arab. \nASSISTANT: Rp650.000\n[Round 2]\nUSER: Saat membeli pena, dia juga memberikan tip sebesar Rp50.000 kepada pemilik toko. Berapa total uang yang dia habiskan selama dua hari? Jawab hanya menggunakan simbol mata uang yang sesuai dan angka Arab.\nASSISTANT:",
+        "target": "Rp700.000"
+    },
+    {
+        "input": "[Round 0]\nUSER: Berapakah hasil 3 pangkat 4? Jawab nilainya dengan huruf kapital. \nASSISTANT: DELAPAN PULUH SATU\n[Round 1]\nUSER: Berdasarkan [Round 0], bagi lagi dengan 2. Berapa hasilnya? Silakan jawab dengan nilai dalam bentuk desimal, dengan satu angka di belakang koma. \nASSISTANT: 40,5\n[Round 2]\nUSER: Berdasarkan [Round 1], kurangi lagi setengahnya. Berapa hasilnya? Jawab nilainya dengan huruf kapital. Jika nilainya desimal, bulatkan ke bilangan bulat terdekat.\nASSISTANT:",
+        "target": "DUA PULUH"
+    },
+    {
+        "input": "[Round 0]\nUSER: Buku A memiliki 300 halaman. Anda sudah membaca 120 halaman. Berapa halaman yang belum dibaca? Jawab dalam bentuk kata dengan huruf kapital dan tanpa menuliskan satuan. \nASSISTANT: SERATUS DELAPAN PULUH\n[Round 1]\nUSER: Jika Anda telah membaca buku A dari awal hingga selesai, lalu membaca 20 halaman buku B, berapa total halaman yang telah dibaca? Jawab dalam bentuk kata dengan huruf kapital dan tanpa menuliskan satuan. \nASSISTANT: TIGA RATUS DUA PULUH\n[Round 2]\nUSER: Jika buku B juga terdiri dari 300 halaman, berapa halaman yang belum dibaca saat ini? Jawab dalam bentuk kata dengan huruf kapital dan tanpa menuliskan satuan.\nASSISTANT:",
+        "target": "DUA RATUS DELAPAN PULUH"
+    },
+    {
+        "input": "[Round 0]\nUSER: Dalam satu tahun harus bekerja 220 hari. Jika gaji tahunan seseorang adalah ¥30.000, berapa gaji per harinya? Jawab menggunakan simbol mata uang RMB dan angka Arab. Jika hasilnya desimal, bulatkan ke bilangan bulat terdekat. Jangan tambahkan keterangan lain. \nASSISTANT: ¥136\n[Round 1]\nUSER: Jika rasio tukar RMB ke dolar AS adalah 6:1, maka berdasarkan [Round 0], berapakah gaji harian orang tersebut dalam dolar AS? Jawab menggunakan simbol mata uang dolar AS dan angka Arab. Jika hasilnya berupa desimal, bulatkan ke bilangan bulat terdekat. Jangan sertakan teks lain. \nASSISTANT: $23\n[Round 2]\nUSER: Diketahui orang ini juga melakukan beberapa pekerjaan paruh waktu, dengan pendapatan paruh waktu selama satu tahun sebesar 500 dolar AS. Maka berdasarkan [Round 1], berapakah total pendapatannya dalam satu tahun dalam RMB? Jawab menggunakan simbol mata uang RMB dan angka Arab. Jika hasilnya berupa desimal, bulatkan ke bilangan bulat terdekat. Jangan tambahkan keterangan lain. \nASSISTANT: ¥33.000\n[Round 3]\nUSER: Terakhir, tolong konversikan total pendapatan tahunan orang ini ke dalam dolar AS berdasarkan rasio yang telah diberikan sebelumnya. Jawab menggunakan simbol mata uang dolar AS dan angka Arab. Jika terdapat angka desimal, bulatkan ke bilangan bulat terdekat. Jangan tambahkan keterangan lain.\nASSISTANT:",
+        "target": "$5.500"
+    },
+    {
+        "input": "[Round 0]\nUSER: Jika lebar sebuah lukisan adalah 10 cm dan panjangnya 15 cm, berapakah perbandingan lebar dan panjang lukisan tersebut? Jawab dalam bentuk pecahan. \nASSISTANT: 2/3\n[Round 1]\nUSER: Selanjutnya, berapakah perbandingan panjang terhadap lebar? Jawablah dalam bentuk rasio dengan tanda “:”, tanpa teks lain. \nASSISTANT: 3:2\n[Round 2]\nUSER: Jika panjang dan lebar dipotong agar sama panjang, berapa cm panjang yang harus dipotong? Jawab dalam angka Arab tanpa menambahkan keterangan lain.\nASSISTANT:",
+        "target": "5"
+    },
+    {
+        "input": "[Round 0]\nUSER: Kebutuhan kalori harian adalah 2000 kalori. Joko sudah mengonsumsi 500 kalori saat sarapan, maka masih perlu mengonsumsi berapa kalori lagi? Jawab dengan mengeja angka dalam bahasa Inggris. \nASSISTANT: One thousand five hundred\n[Round 1]\nUSER: Saat makan siang Joko mengonsumsi 1000 kalori. Masih kekurangan berapa kalori? Jawab dengan mengeja angka dalam bahasa Inggris. \nASSISTANT: Five hundred\n[Round 2]\nUSER: Sore harinya Joko mengonsumsi lagi 1000 kalori. Berapa kalori yang melebihi kebutuhan? Jawab dengan mengeja angka dalam bahasa Inggris. \nASSISTANT: Five hundred\n[Round 3]\nUSER: Jika Joko ingin membakar kelebihan kalori itu dengan olahraga, dan setiap sesi olahraga membakar 250 kalori, berapa sesi yang perlu dilakukan? Jawab dengan mengeja angka dalam bahasa Inggris. \nASSISTANT:",
+        "target": "Two"
+    },
+    {
+        "input": "[Round 0]\nUSER: Dari 10 kg beras, dituangkan 3 kg. Berapa kg yang tersisa? Jawab dengan mengeja angka dalam bahasa Inggris dan tanpa menuliskan satuan. \nASSISTANT: Seven\n[Round 1]\nUSER: Kemudian dari sisa beras tadi dituangkan lagi dua pertiga, berapa kg yang tersisa? Jawab dengan mengeja angka dalam bahasa Inggris. Jika hasilnya desimal, bulatkan ke bilangan bulat terdekat, tanpa satuan. \nASSISTANT: Two\n[Round 2]\nUSER: Kemudian dituangkan lagi seperempatnya, berapa kg yang tersisa? Tuliskan jawaban dalam format desimal menggunakan kata-kata bahasa Inggris tanpa satuan.\nASSISTANT: One point seven five\n[Round 3]\nUSER: Kemudian dituangkan lagi seperempatnya, berapa kg yang tersisa? Tulis nilai dalam bentuk pecahan, gunakan angka Arab, tanpa satuan. \nASSISTANT:",
+        "target": "21/16"
+    },
+    {
+        "input": "[Round 0]\nUSER: Kapasitas tangki bensin mobil adalah 50 liter. Sudah diisi 20 liter bensin, masih bisa diisi berapa liter lagi? Jawab dalam bentuk kata dan tambahkan satuan, tanpa menambahkan keterangan lain. \nASSISTANT: Tiga puluh liter\n[Round 1]\nUSER: Setelah diisi penuh dan dikendarai beberapa saat, mobil menghabiskan 15 liter, berapa liter bensin yang tersisa? Jawab dalam bentuk kata dan tambahkan satuan, tanpa menambahkan keterangan lain. \nASSISTANT: Tiga puluh lima liter\n[Round 2]\nUSER: Setelah kembali mengemudi untuk beberapa waktu dan menghabiskan jumlah bensin yang sama, berapa liter bensin yang tersisa? Jawab dalam bentuk kata dan tambahkan satuan, tanpa menambahkan keterangan lain. \nASSISTANT: Dua puluh liter\n[Round 3]\nUSER: Saat ini, berapa liter bensin yang masih dapat ditambahkan ke tangki? Jawab dalam bentuk kata dan tambahkan satuan, tanpa menambahkan keterangan lain.\nASSISTANT:",
+        "target": "Tiga puluh liter"
+    },
+    {
+        "input": "[Round 0]\nUSER: Suatu proyek butuh 20 hari untuk selesai. Sudah berlalu 7 hari, berapa hari lagi yang dibutuhkan untuk menyelesaikannya? Jawab dalam bentuk kata, tanpa menuliskan satuan dan keterangan lain. \nASSISTANT: Tiga belas\n[Round 1]\nUSER: Proyek ini diumumkan akan ditunda 5 hari. Jadi, masih perlu berapa hari lagi untuk selesai? Jawab langsung dengan huruf, tanpa satuan dan keterangan lain. \nASSISTANT: Delapan belas\n[Round 2]\nUSER: Setelah proyek selesai, ternyata proyek selesai 3 hari lebih awal. Jadi, total berapa hari proyek ini dikerjakan? Jawab langsung dengan huruf, tanpa satuan dan keterangan lain. \nASSISTANT: Dua puluh dua\n[Round 3]\nUSER: Proyek ini dikerjakan selama berapa hari setelah 7 hari pertama? Jawab langsung dengan huruf, tanpa satuan dan keterangan lain.\nASSISTANT:",
+        "target": "Lima belas"
+    },
+    {
+        "input": "[Round 0]\nUSER: Sekarang pukul 12:30 siang, 3,5 jam kemudian pukul berapa? Silakan jawab dengan format \"00:00:00\" menggunakan angka Arab, jangan menambahkan keterangan lain. \nASSISTANT: 16:00:00\n[Round 1]\nUSER: Setelah 2,2 jam lagi, pukul berapa? Silakan jawab dengan format \"00:00:00\" menggunakan angka Arab, jangan menambahkan keterangan lain. \nASSISTANT: 18:12:00\n[Round 2]\nUSER: Setelah 1,6 jam lagi, sekarang pukul berapa malam? Silakan jawab dengan format \"00:00:00\", jangan gunakan format 24 jam, dan tanpa keterangan lain. \nASSISTANT: 07:48:00\n[Round 3]\nUSER: Setelah menulis PR selama 20 menit lagi, sekarang pukul berapa malam? Silakan jawab dengan format \"00:00:00\", jangan gunakan format 24 jam, dan tanpa keterangan lain.\nASSISTANT:",
+        "target": "08:08:00"
+    },
+    {
+        "input": "[Round 0]\nUSER: Durasi sebuah film adalah 150 menit. Setelah Susi menonton separuh bagian awal film tersebut, berapa menit sisa durasi yang belum ia tonton? Silakan jawab dengan format \"x jam x menit x detik\" menggunakan angka Arab, jangan menambahkan keterangan lain. \nASSISTANT: 1 jam 15 menit 0 detik\n[Round 1]\nUSER: Kemudian Susi menonton lagi setengah dari sisa film, masih tersisa berapa menit? Silakan jawab dengan format \"x jam x menit x detik\" menggunakan angka Arab, jangan menambahkan keterangan lain. \nASSISTANT: 0 jam 37 menit 30 detik\n[Round 2]\nUSER: Kemudian Susi menonton lagi selama 8 menit, masih tersisa berapa menit? Silakan jawab dengan format \"x jam x menit x detik\" menggunakan angka Arab, jangan menambahkan keterangan lain. \nASSISTANT: 0 jam 29 menit 30 detik\n[Round 3]\nUSER: Terakhir, Susi menonton lagi setengah dari sisa film, masih tersisa berapa menit? Silakan jawab dengan format \"x jam x menit x detik\" menggunakan angka Arab, jangan menambahkan keterangan lain.\nASSISTANT:",
+        "target": "0 jam 14 menit 45 detik"
+    },
+    {
+        "input": "[Round 0]\nUSER: Jika Anda memiliki dua kantong garam, masing-masing seberat 1 kg, berapakah total berat garam yang ada sekarang? Silakan jawab menggunakan angka Romawi, jangan menambahkan keterangan lain. \nASSISTANT: II\n[Round 1]\nUSER: Jika ibu Anda membeli tiga kantong garam dengan spesifikasi yang sama, berapakah total berat garam milik kalian berdua sekarang? Silakan jawab menggunakan angka Romawi, jangan menambahkan keterangan lain. \nASSISTANT: V\n[Round 2]\nUSER: Setelah beberapa waktu, keluarga telah menghabiskan satu kantong garam. Berapa kg total garam yang tersisa? Silakan jawab menggunakan angka Romawi, jangan menambahkan keterangan lain. \nASSISTANT: IV\n[Round 3]\nUSER: Kemudian diketahui bahwa ayah tidak sengaja membasahi satu kantong garam sehingga harus dibuang. Berapa kg total garam yang tersisa? Silakan jawab menggunakan angka Romawi, jangan menambahkan keterangan lain.\nASSISTANT:",
+        "target": "III"
+    },
+    {
+        "input": "[Round 0]\nUSER: Di suatu kelas ada 50 murid. Jika 45 murid izin, berapa murid yang tersisa? Tulis langsung nilainya tanpa satuan, gunakan angka Romawi. \nASSISTANT: V\n[Round 1]\nUSER: Dari murid yang izin, 30 orang karena flu, sisanya karena COVID-19. Berapa jumlah murid yang terkena COVID-19? Tulis langsung angkanya tanpa satuan, gunakan angka Romawi. \nASSISTANT: XV\n[Round 2]\nUSER: Seminggu kemudian, 15 murid yang terkena flu telah sembuh dan kembali ke kelas, sisanya belum. Sekarang ada berapa murid di kelas? Tulis langsung angkanya tanpa satuan, gunakan angka Romawi. \nASSISTANT: XX\n[Round 3]\nUSER: Dua minggu kemudian, 5 murid yang terkena COVID-19 juga telah sembuh dan kembali ke kelas. Sekarang ada berapa murid di kelas? Tulis langsung angkanya tanpa satuan, gunakan angka Romawi.\nASSISTANT:",
+        "target": "XXV"
+    },
+    {
+        "input": "[Round 0]\nUSER: 140 mililiter susu dan 130 mililiter air dicampur, berapa mililiter hasilnya? Jawab dalam bentuk kata dengan huruf kapital dan tanpa menuliskan satuan atau keterangan lain. \nASSISTANT: DUA RATUS TUJUH PULUH\n[Round 1]\nUSER: Selanjutnya, tambahkan 25 mililiter jus jeruk. Setelah dicampur, berapa mililiter totalnya? Jawab dalam bentuk kata dengan huruf kapital dan tanpa menuliskan satuan atau keterangan lain. \nASSISTANT: DUA RATUS SEMBILAN PULUH LIMA\n[Round 2]\nUSER: Kemudian, tuangkan setengahnya. Berapa mililiter yang tersisa? Jawab dalam bentuk kata dengan huruf kapital dan tanpa menuliskan satuan atau keterangan lain. \nASSISTANT: SERATUS EMPAT PULUH TUJUH KOMA LIMA\n[Round 3]\nUSER: Selanjutnya, setelah menuangkan tiga per lima dari sisa cairan, berapa mililiter yang masih tersisa? Jawab dalam bentuk kata dengan huruf kapital dan tanpa menuliskan satuan atau keterangan lain.\nASSISTANT:",
+        "target": "LIMA PULUH SEMBILAN"
+    },
+    {
+        "input": "[Round 0]\nUSER: Setelah parasut terbuka, seseorang jatuh dari ketinggian 100 meter, dengan kecepatan rata-rata 5 meter per detik. Berapa waktu yang dibutuhkan untuk mencapai tanah? Tulis nilainya, gunakan angka Arab dan tambahkan satuan, tanpa menambahkan keterangan lain. \nASSISTANT: 20 detik\n[Round 1]\nUSER: Abaikan pertanyaan pertama, jika kecepatannya 4 meter per detik? Tulis nilainya, gunakan angka Arab dan tambahkan satuan, tanpa menambahkan keterangan lain. \nASSISTANT: 25 detik\n[Round 2]\nUSER: Abaikan dua pertanyaan sebelumnya, misalkan kecepatannya turun 6 meter per detik. Jawab dalam bentuk desimal dan tambahkan satuan, bulatkan hingga dua angka di belakang koma, tanpa menambahkan keterangan lain. \nASSISTANT: 16,67 detik\n[Round 3]\nUSER: Selanjutnya, pertama-tama turun setengah ketinggian dengan kecepatan 5 meter per detik, lalu turun dengan kecepatan 6 meter per detik. Berapa waktu yang dibutuhkan untuk mencapai tanah? Jawab dalam bentuk desimal dan tambahkan satuan, bulatkan hingga dua angka di belakang koma, tanpa menambahkan keterangan lain.\nASSISTANT:",
+        "target": "18,33 detik"
+    },
+    {
+        "input": "[Round 0]\nUSER: Sebuah tim sepak bola membutuhkan 11 orang, sekarang sudah ada 7 orang. Berapa orang lagi yang dibutuhkan untuk membentuk sebuah tim sepak bola? Jawab langsung dengan angka Arab. Jangan tambahkan keterangan lain. \nASSISTANT: 4\n[Round 1]\nUSER: Setelah satu minggu, 8 anggota baru bergabung. Jadi, tim tersebut kelebihan berapa orang? Jawab menggunakan angka Arab. Jangan tambahkan keterangan lain. \nASSISTANT: 4\n[Round 2]\nUSER: Setelah dua minggu, terdapat 2 anggota yang keluar. Berapa orang yang tersisa? Jawab menggunakan angka Arab. Jangan tambahkan keterangan lain. \nASSISTANT: 13\n[Round 3]\nUSER: Maka, saat ini, berapa orang lebih banyak dibandingkan jumlah yang dibutuhkan oleh satu tim sepak bola? Jawab menggunakan angka Arab. Jangan tambahkan keterangan lain.\nASSISTANT:",
+        "target": "2"
+    },
+    {
+        "input": "[Round 0]\nUSER: Diagonal persegi adalah 10 cm. Berapakah kelilingnya dalam cm? Jawab menggunakan angka Arab dan simbol matematika, jangan gunakan desimal. Jangan tambahkan keterangan lain yang tidak diperlukan.\nASSISTANT: 20√2\n[Round 1]\nUSER: Berapakah panjang sisinya dalam cm? Jawab menggunakan angka Arab dan simbol matematika, jangan gunakan desimal. Jangan tambahkan keterangan lain yang tidak diperlukan. \nASSISTANT: 5√2\n[Round 2]\nUSER: Berapakah luasnya dalam cm²? Jawab menggunakan angka Arab. Jangan tambahkan keterangan lain yang tidak diperlukan. \nASSISTANT: 50\n[Round 3]\nUSER: Berapakah setengah dari kelilingnya dalam cm? Jawab menggunakan angka Arab dan simbol matematika, jangan gunakan desimal. Jangan tambahkan keterangan lain yang tidak diperlukan.\nASSISTANT:",
+        "target": "10√2"
+    },
+    {
+        "input": "[Round 0]\nUSER: Setiap hari harus minum 8 gelas air. Budi tidur selama 8 jam setiap hari. Maka rata-rata berapa gelas air yang harus diminum setiap jam? Jawab menggunakan angka Arab dan tambahkan satuan, tanpa menambahkan keterangan lain. \nASSISTANT: 0,5 gelas\n[Round 1]\nUSER: Pada hari kedua, ia menggunakan gelas dengan kapasitas setengah dari sebelumnya, tetapi jumlah air yang diminum tetap sama. Berapa gelas air yang harus ia minum setiap hari? Jawab menggunakan angka Arab dan tambahkan satuan, tanpa menambahkan keterangan lain. \nASSISTANT: 16 gelas\n[Round 2]\nUSER: Maka, berapa rata-rata gelas yang harus ia minum setiap jam? Jawab menggunakan angka Arab dan tambahkan satuan, tanpa menambahkan keterangan lain. \nASSISTANT: 1 gelas\n[Round 3]\nUSER: Jika ia minum 2 gelas setiap jam, berapa jam lebih awal ia akan selesai minum? Jawab menggunakan angka Arab dan tambahkan satuan, tanpa menambahkan keterangan lain.\nASSISTANT:",
+        "target": "8 jam"
+    },
+    {
+        "input": "[Round 0]\nUSER: Dari 30 liter air, dituangkan 10 ml. Berapa liter yang tersisa? Jawab dalam bentuk desimal dan tambahkan satuan, tanpa menambahkan keterangan lain. \nASSISTANT: 29,99 liter\n[Round 1]\nUSER: Lalu, berapa liter yang dituangkan? Jawab dalam bentuk desimal dan tambahkan satuan, tanpa menambahkan keterangan lain. \nASSISTANT: 0,01 liter\n[Round 2]\nUSER: Selanjutnya, dituangkan lagi 3 kali lipat dari jumlah air yang dituangkan di [Round 0]. Berapa liter yang tersisa? Jawab dalam bentuk desimal dan tambahkan satuan, tanpa menambahkan keterangan lain. \nASSISTANT: 29,96 liter\n[Round 3] \nUSER: Jadi, total berapa liter yang sudah dituangkan? Jawab dalam bentuk desimal dan tambahkan satuan, tanpa menambahkan keterangan lain.\nASSISTANT:",
+        "target": "0,04 liter"
+    },
+    {
+        "input": "[Round 0]\nUSER: Di tata surya, planet mana yang disebut sebagai \"planet neraka\" karena suhu dan tekanan permukaannya yang tinggi? Silakan berikan jawabannya secara langsung tanpa penjelasan. \nASSISTANT: Venus\n[Round 1]\nUSER: Lalu, planet ini adalah planet keberapa dari Matahari? Silakan tuliskan langsung menggunakan kata bilangan dalam bahasa Indonesia, tanpa menuliskan satuan atau keterangan lain.\nASSISTANT:",
+        "target": "Kedua"
+    },
+    {
+        "input": "[Round 0]\nUSER: Dalam seri novel \"Harry Potter\", di novel mana karakter \"Harry\" memiliki usia tertua? Harap jawab dengan judul novel dalam bahasa Indonesia. \nASSISTANT: \"Harry Potter dan Relikui Kematian\"\n[Round 1]\nUSER: Tahun berapa novel ini diterbitkan? Cukup berikan angka tahunnya saja.\nASSISTANT:",
+        "target": "2007"
+    },
+    {
+        "input": "[Round 0]\nUSER: \"To be or not to be\" adalah kutipan terkenal dari karya Shakespeare yang mana? Silakan jawab dengan nama karya dalam format \"\". \nASSISTANT: \"Hamlet\"\n[Round 1]\nUSER: Tokoh utamanya berasal dari negara mana, tuliskan langsung nama negaranya dalam bahasa Inggris, tanpa perlu penjelasan tambahan.\nASSISTANT:",
+        "target": "Denmark"
+    },
+    {
+        "input": "[Round 0]\nUSER: Pada masa Kekaisaran Romawi, kota mana yang menjadi ibu kota kekaisaran? Jawab menggunakan nama dalam bahasa Inggris. \nASSISTANT: Rome\n[Round 1]\nUSER: Kota ini sekarang berada di negara mana? Jawab menggunakan nama dalam bahasa Inggris.\nASSISTANT:",
+        "target": "Italy"
+    },
+    {
+        "input": "[Round 0]\nUSER: Hingga tahun 2024, tim NBA mana yang memiliki gelar runner-up terbanyak? Sebutkan nama tim saja. \nASSISTANT: Los Angeles Lakers\n[Round 1]\nUSER: Apakah Yao Ming pernah bergabung dengan tim ini? Silakan jawab dengan ya atau tidak.\nASSISTANT:",
+        "target": "Tidak"
+    },
+    {
+        "input": "[Round 0]\nUSER: Apa nama platform belanja milik Sea Limited yang memiliki jumlah pengguna terbanyak? Jawab hanya dengan nama dalam bahasa Indonesia.\nASSISTANT: Shopee\n[Round 1]\nUSER: Siapa nama pendirinya? Jawab hanya dengan nama dalam bahasa Indonesia.\nASSISTANT:",
+        "target": "Forrest Li"
+    },
+    {
+        "input": "[Round 0]\nUSER: Luis Carlos Galán Sarmiento adalah politisi dari negara mana? Jawab dengan nama negara dalam bahasa Indonesia. \nASSISTANT: Kolombia\n[Round 1]\nUSER: Negara ini terletak di benua mana dari tujuh benua? Tidak perlu menambahkan keterangan tambahan.\nASSISTANT:",
+        "target": "Amerika Selatan"
+    },
+    {
+        "input": "[Round 0]\nUSER: GDP adalah singkatan dari apa? Jawab dalam bahasa Inggris, tanpa menambahkan keterangan lain. \nASSISTANT: Gross Domestic Product \n[Round 1]\nUSER: Lalu, apa istilahnya dalam bahasa Indonesia? Jawab dalam bentuk kata, tanpa menambahkan keterangan lain.\nASSISTANT:",
+        "target": "Produk Domestik Bruto"
+    },
+    {
+        "input": "[Round 0]\nUSER: Hukum mana yang menyatakan bahwa dalam sistem yang sepenuhnya tertutup, entropi selalu meningkat? Sebutkan hanya nama hukumnya. \nASSISTANT: Hukum Kedua Termodinamika\n[Round 1]\nUSER: Ini juga dikenal sebagai prinsip apa? Sebutkan nama prinsipnya.\nASSISTANT:",
+        "target": "Prinsip Kenaikan Entropi"
+    },
+    {
+        "input": "[Round 0]\nUSER: Apa rumus molekul air? Hanya berikan rumus molekulnya. \nASSISTANT: H₂O \n[Round 1]\nUSER: Apa persamaan reaksi kimianya dengan natrium logam? Hanya berikan persamaan reaksinya. \nASSISTANT:",
+        "target": "2Na+2H₂O=2NaOH+H₂↑"
+    },
+    {
+        "input": "[Round 0]\nUSER: Mana yang digunakan untuk mencuci rambut, shower gel atau shampoo? Berikan hanya satu jawaban yang benar, tanpa penjelasan. \nASSISTANT: Shampoo \n[Round 1]\nUSER: Dari dua barang ini, yang bukan digunakan untuk mencuci rambut adalah yang mana? Silakan jawab dengan bahasa Indonesia. Jawab dalam bentuk kata tanpa menambahkan keterangan lain. \nASSISTANT:",
+        "target": "Sabun mandi cair"
+    },
+    {
+        "input": "[Round 0]\nUSER: Dalam persamaan terkenal Einstein E=mc², apa arti dari \"E\"? Berikan hanya maknanya, tanpa penjelasan. \nASSISTANT: Energi\n[Round 1]\nUSER: Apa satuan umumnya? Silakan jawab dengan satuan dalam bahasa Indonesia, hanya sebutkan satuannya saja.\nASSISTANT:",
+        "target": "Joule"
+    },
+    {
+        "input": "[Round 0]\nUSER: Antoine de Saint-Exupéry pernah menulis sebuah novel anak-anak yang sangat terkenal. Apa judulnya? Cukup berikan judul buku beserta tanda kutip \"\". \nASSISTANT: \"Pangeran Kecil\"\n[Round 1]\nUSER: Dalam buku ini, apa jenis kelamin tokoh utamanya? Jawab dengan satu kata saja, tanpa menambahkan keterangan lain.\nASSISTANT:",
+        "target": "Laki-laki"
+    },
+    {
+        "input": "[Round 0]\nUSER: Karya terkenal Van Gogh, 'Starry Night', saat ini disimpan di museum mana? Mohon jawab dengan nama museumnya. \nASSISTANT: Museum Seni Modern\n[Round 1]\nUSER: Apa singkatan dalam bahasa Inggris dari museum ini? Jawablah dengan huruf alfabet Inggris.\nASSISTANT:",
+        "target": "MoMA"
+    },
+    {
+        "input": "[Round 0]\nUSER: Dalam pertandingan sepak bola, pemain di posisi mana yang terutama bertanggung jawab untuk bertahan? Sebutkan nama posisinya. Jangan gunakan kata-kata tambahan. \nASSISTANT: Bek\n[Round 1]\nUSER: Pada pertandingan sepak bola dengan formasi 4-4-2, ada berapa pemain di posisi ini? Silakan tuliskan langsung menggunakan kata bilangan dalam bahasa Indonesia.\nASSISTANT:",
+        "target": "Empat"
+    },
+    {
+        "input": "[Round 0]\nUSER: Kota terbesar pertama di Amerika Serikat adalah kota apa? Sebutkan namanya dalam bahasa Indonesia saja, tidak perlu yang lain. \nASSISTANT: New York\n[Round 1]\nUSER: Di kota ini terdapat sebuah patung yang melambangkan kebebasan, yang diberikan oleh Prancis kepada Amerika Serikat pada peringatan 100 tahun berdirinya negara tersebut. Patung apakah itu? Silakan berikan nama dalam bahasa Indonesia saja, tanpa informasi lain. \nASSISTANT: Patung Liberty\n[Round 2]\nUSER: Pada tahun berapa patung tersebut selesai dibangun? Jawablah dengan format \"tahun bulan tanggal\", tanpa informasi lain.\nASSISTANT:",
+        "target": "1886 Oktober 28"
+    },
+    {
+        "input": "[Round 0]\nUSER: 박정희 adalah politisi dari negara mana? Jawablah dengan nama negara dalam bahasa Indonesia. \nASSISTANT: Korea Selatan\n[Round 1]\nUSER: Apa nama Jepang orang ini? Jawablah dalam bahasa Indonesia, tanpa menambahkan keterangan lain. \nASSISTANT: Takagi Masao\n[Round 2]\nUSER: Siapa yang membunuh orang ini? Harap berikan nama dalam bahasa Korea dan nama dalam bahasa Indonesia, tanpa kata-kata tambahan.\nASSISTANT:",
+        "target": "김재규, Kim Jae-gyu"
+    },
+    {
+        "input": "[Round 0]\nUSER: Pulp Fiction, Reservoir Dogs, dan Kill Bill adalah karya dari sutradara siapa? Berikan namanya dalam bahasa Inggris. \nASSISTANT: Quentin Tarantino\n[Round 1]\nUSER: Apa kewarganegaraannya? Jawab dalam bahasa Indonesia, sebutkan nama negaranya. \nASSISTANT: Amerika Serikat\n[Round 2]\nUSER: Apa bahasa utama yang digunakan di negara ini? Jawab dalam bahasa Indonesia, sebutkan nama bahasanya.\nASSISTANT:",
+        "target": "Bahasa Inggris"
+    },
+    {
+        "input": "[Round 0]\nUSER: Bagian paduan suara pada gerakan keempat \"Simfoni No. 9\"  karya Beethoven menggunakan sebuah puisi terkenal sebagai lirik. Harap berikan nama karya puisi tersebut dalam bahasa Inggris, tanpa simbol apa pun. \nASSISTANT: Ode to Joy\n[Round 1]\nUSER: Siapa penulis puisi ini? Silakan jawab dengan nama dalam bahasa Inggris.\nASSISTANT: Friedrich Schiller\n[Round 2]\nUSER: Dia lahir pada tahun berapa? Jawab hanya dengan angka Arab, tanpa satuan atau keterangan lain.\nASSISTANT:",
+        "target": "1759"
+    },
+    {
+        "input": "[Round 0]\nUSER: \"Land der Berge, Land am Strom\" adalah lagu kebangsaan negara mana?\nASSISTANT: Austria\n[Round 1]\nUSER: Apa nama ibu kota negara ini? Sebutkan nama kotanya. \nASSISTANT: Wina\n[Round 2]\nUSER: Kota ini terdiri dari berapa distrik? Jawab dalam bentuk kata bahasa Indonesia, tanpa menambahkan keterangan lain.\nASSISTANT:",
+        "target": "Dua puluh tiga"
+    },
+    {
+        "input": "[Round 0]\nUSER: Dalam HTML, tag apa yang digunakan untuk mendefinisikan daftar tak berurutan. Tidak perlu keterangan tambahan. \nASSISTANT: <ul>\n[Round 1]\nUSER: Singkatan dari apa itu? Jawab dalam bahasa Inggris, jangan menambahkan keterangan lain. \nASSISTANT: Unordered List\n[Round 2]\nUSER: Apa tag untuk daftar berurutan yang berlawanan dengan tag tersebut? Jangan menambahkan keterangan lain.\nASSISTANT:",
+        "target": "<ol>"
+    },
+    {
+        "input": "[Round 0]\nUSER: Apa nada dari keempat senar biola? Gunakan huruf kapital untuk menuliskan nama senarnya, tanpa pindah baris.\nASSISTANT: E, A, D, G\n[Round 1]\nUSER: Senar mana yang memiliki nada terendah? Gunakan huruf kapital untuk menuliskan nama senarnya. \nASSISTANT:",
+        "target": "G"
+    },
+    {
+        "input": "[Round 0]\nUSER: Hari raya penting dalam agama Kristen untuk memperingati kelahiran Yesus disebut apa? Jawab langsung dengan nama hari rayanya. \nASSISTANT: Natal\n[Round 1]\nUSER: Tanggal berapa hari raya tersebut dirayakan? Hanya jawab tanggal, jangan menambahkan keterangan lain. \nASSISTANT: 25 Desember\n[Round 2]\nUSER: Hari raya ini juga memiliki tokoh simbolik yang sangat terkenal. Siapakah dia? Hanya sebutkan namanya, jangan menambahkan keterangan lain.\nASSISTANT:",
+        "target": "Sinterklas"
+    },
+    {
+        "input": "[Round 0]\nUSER: Jika kemarin adalah 17 Agustus 2023, maka hari ini tanggal berapa? Berikan tanggal dengan format yang sama, jangan menambahkan keterangan lain. \nASSISTANT: 18 Agustus 2023\n[Round 1]\nUSER: Di Indonesia, bulan ini biasanya ada libur. Libur tersebut memperingati hari libur nasional apa? Hanya berikan nama hari besar nasional. \nASSISTANT: Hari Kemerdekaan\n[Round 2]\nUSER: Hingga tahun 2024, pada hari libur nasional yang disebutkan tadi, tanggal berapa saja yang termasuk hari libur resmi menurut pemerintah Indonesia? Jawab dengan format \"Tanggal x\", dan angka Arab. Jangan menambahkan keterangan lain.\nASSISTANT:",
+        "target": "Tanggal 17"
+    },
+    {
+        "input": "[Round 0]\nUSER: Di Dataran Tinggi Giza, sekitar 10 km barat daya dari ibu kota Mesir, Kairo, terdapat piramida terbesar yang masih ada di Mesir. Apa nama piramida tersebut? Jangan menambahkan keterangan lain. \nASSISTANT: Piramida Khufu\n[Round 1]\nUSER: Apa nama dalam bahasa Arabnya? Jangan menambahkan keterangan lain. \nASSISTANT: هرم خوفو\n[Round 2]\nUSER: Piramida ini milik firaun dari dinasti ke berapa dalam sejarah Mesir Kuno? tuliskan dalam bentuk kata. Jangan menambahkan keterangan lain.\nASSISTANT:",
+        "target": "Empat"
+    },
+    {
+        "input": "[Round 0]\nUSER: Dari Zhang Xueliang, George Washington, dan Einstein, siapakah yang lahir paling awal? Cukup sebutkan namanya. \nASSISTANT: George Washington\n[Round 1]\nUSER: Pada tahun berapa orang ini lahir? Cukup jawab tahunnya saja, gunakan format “Tahun xx”. \nASSISTANT: Tahun 1732\n[Round 2]\nUSER: Berdasarkan urutan waktu kelahiran, siapakah yang paling muda di antara ketiga orang ini? Sebutkan namanya saja. \nASSISTANT: Zhang Xueliang\n[Round 3]\nUSER: Orang ini lahir pada tahun berapa? Jawab tahunnya saja, gunakan format \"Tahun xx\".\nASSISTANT:",
+        "target": "Tahun 1901"
+    },
+    {
+        "input": "[Round 0]\nUSER: Berdasarkan urutan alfabet a-z, dari lima kata berikut, mana yang seharusnya berada di urutan pertama? Innovation, Tomorrow, Freedom, Kindness, Future. Jawaban diberikan dalam bahasa Inggris, jangan menambahkan keterangan lain. \nASSISTANT: Freedom\n[Round 1]\nUSER: Berdasarkan urutan alfabet, yang berada di urutan ketiga seharusnya yang mana? Jawaban diberikan dalam bentuk kata bahasa Inggris, jangan menambahkan keterangan lain. \nASSISTANT: Innovation\n[Round 2]\nUSER: Yang berada di urutan terakhir adalah yang mana? Jawaban diberikan dalam bahasa Inggris, jangan menambahkan keterangan lain. \nASSISTANT: Tomorrow\n[Round 3]\nUSER: Di antara dua kata yang berawalan huruf sama, kata mana yang urutan alfabetnya di belakang? Jawaban diberikan dalam bahasa Inggris, jangan menambahkan keterangan lain.\nASSISTANT:",
+        "target": "Future"
+    },
+    {
+        "input": "[Round 0]\nUSER: Siapa pencipta \"Mona Lisa\"? Berikan nama lengkap orang tersebut dalam bahasa Indonesia, jangan menambahkan keterangan lain. \nASSISTANT: Leonardo da Vinci\n[Round 1]\nUSER: Lukisan ini berasal dari zaman apa? Jawab dengan format \"Zaman xx\", jangan menambahkan keterangan lain.\nASSISTANT:  Zaman Renaisans\n[Round 2]\nUSER: Serangkaian gerakan pemikiran dan budaya pada masa ini pertama kali muncul di negara mana? Sebutkan nama negaranya. \nASSISTANT: Italia\n[Round 3]\nUSER: Kota air paling terkenal di negara ini adalah? Sebutkan nama kotanya.\nASSISTANT:",
+        "target": "Venesia"
+    },
+    {
+        "input": "[Round 0]\nUSER: Dalam tabel periodik unsur kimia, apa simbol unsur untuk emas? Jawab hanya dengan simbol unsur. \nASSISTANT: Au\n[Round 1]\nUSER: Apa simbol unsur yang terletak satu posisi di sebelah kiri emas? Jawab hanya dengan simbol unsur. \nASSISTANT: Pt\n[Round 2]\nUSER: Apa simbol unsur yang terletak satu posisi di atas emas? Jawab hanya dengan simbol unsur. \nASSISTANT: Ag\n[Round 3]\nUSER: Unsur apa yang terletak satu posisi di sebelah kanan emas? Jawablah dalam bentuk kata, hanya satu kata.\nASSISTANT:",
+        "target": "Merkuri"
+    },
+    {
+        "input": "[Round 0]\nUSER: Siapa presiden Amerika Serikat pada tahun 2025? Berikan nama lengkapnya dalam bahasa Indonesia, jangan menambahkan keterangan lain. \nASSISTANT: Donald John Trump\n[Round 1]\nUSER: Siapa pendahulunya? Berikan nama lengkapnya dalam bahasa Indonesia, jangan menambahkan keterangan lain. \nASSISTANT: Joseph Robinette Biden Jr.\n[Round 2]\nUSER: Biden adalah Presiden Amerika Serikat ke berapa? Jawab dengan angka Arab, jangan menambahkan keterangan lain. \nASSISTANT: 46\n[Round 3]\nUSER: Tuliskan tanggal pelantikan presiden sebelum Biden dalam format \"tanggal bulan tahun\" seperti yang biasa digunakan di Indonesia.\nASSISTANT:",
+        "target": "20 Januari 2017"
+    },
+    {
+        "input": "[Round 0]\nUSER: Apa nama terowongan bawah laut terpanjang di dunia? Hanya sebutkan nama terowongan. \nASSISTANT: Terowongan Seikan\n[Round 1]\nUSER: Terowongan ini terletak di negara mana? Jawab dengan nama lengkap negara. \nASSISTANT: Negara Jepang\n[Round 2]\nUSER: Luas daratan negara ini kira-kira berapa (dalam puluhan ribu km²)? Jawab menggunakan angka Arab, jangan menambahkan keterangan lain. \nASSISTANT: 37,8 \n[Round 3]\nUSER: Berapakah ketinggian gunung tertinggi di negara ini dalam satuan meter? Harap jawab dengan angka Arab dan bulat, tanpa tambahan lain. \nASSISTANT:",
+        "target": "3776"
+    },
+    {
+        "input": "[Round 0]\nUSER: Siapa penyanyi asli lagu \"Bad Romance\" yang dirilis pada tahun 2009? Berikan nama panggungnya dalam bahasa Inggris, jangan menambahkan keterangan lain. \nASSISTANT: Lady Gaga\n[Round 1]\nUSER: Apa judul album solo pertamanya? Berikan dalam nama bahasa Inggris tanpa keterangan atau simbol tambahan. \nASSISTANT: The Fame\n[Round 2]\nUSER: Pada tahun berapa album ini dirilis? Berikan hanya angka tahun dalam angka Arab. \nASSISTANT: 2008\n[Round 3]\nUSER: Berapa tahun kemudian dia merilis \"Born This Way\"? Silakan tuliskan langsung menggunakan kata bilangan dalam bahasa Indonesia.\nASSISTANT:",
+        "target": "Tiga"
+    },
+    {
+        "input": "[Round 0]\nUSER: матрешка adalah tulisan dari bahasa apa? Cukup berikan nama bahasa dalam bahasa Indonesia. \nASSISTANT: Bahasa Rusia\n[Round 1]\nUSER: Bahasa ini merupakan bahasa resmi negara mana?  Sebutkan satu negara dengan luas wilayah terbesar. Cukup berikan nama negara dalam bahasa Indonesia. \nASSISTANT: Rusia\n[Round 2]\nUSER: Apa ibu kota negara ini? Cukup berikan nama kota dalam bahasa Indonesia. \nASSISTANT: Moskwa\n[Round 3]\nUSER: Apa nama gereja yang terletak di ujung selatan Lapangan Merah di pusat kota ini? Cukup berikan nama gereja dalam bahasa Inggris.\nASSISTANT:",
+        "target": "Saint Basil's Cathedral"
+    },
+    {
+        "input": "[Round 0]\nUSER: Hadiah Nobel didirikan berdasarkan wasiat siapa? Berikan nama lengkapnya dalam bahasa Inggris, tanpa menambahkan keterangan lain. \nASSISTANT: Alfred Bernhard Nobel\n[Round 1]\nUSER: Unsur buatan yang dinamai menurut namanya adalah unsur apa? Sebutkan nama unsur dalam bahasa Indonesia dengan satu kata. \nASSISTANT: Nobelium\n[Round 2]\nUSER: Berapa nomor atom unsur ini? Jawab dengan angka Arab, jangan menambahkan keterangan lain.\nASSISTANT:",
+        "target": "102"
+    },
+    {
+        "input": "[Round 0]\nUSER: Dalam seri film terkenal \"Star Wars\", siapa yang memerankan Luke Skywalker, putra Darth Vader? Cukup berikan nama dalam bahasa Inggris\nASSISTANT: Mark Hamill\n[Round 1]\nUSER: Berkat film ini, penghargaan Aktor Utama Terbaik apa yang ia menangkan? Berikan nama penghargaan dalam bahasa Indonesia saja. \nASSISTANT: Penghargaan Saturn\n[Round 2]\nUSER: Penghargaan ini didirikan pada tahun berapa? Jawab dengan format \"Didirikan pada tahun xxxx\". \nASSISTANT: Didirikan pada tahun 1972\n[Round 3]\nUSER: Apa nama lembaga pendirinya? Cukup berikan nama dalam bahasa Inggris.\nASSISTANT:",
+        "target": "Academy of Science Fiction, Fantasy and Horror Films"
+    },
+    {
+        "input": "[Round 0]\nUSER: Apa judul film cinta terkenal yang diadaptasi berdasarkan insiden kapal karam tahun 1912? Berikan nama film tanpa tanda \"\" dan tanpa keterangan lainnya. \nASSISTANT: Titanic\n[Round 1]\nUSER: Dalam insiden kapal karam yang nyata ini, kapal pesiar yang digunakan milik perusahaan apa? Silakan jawab dalam bahasa Inggris, tanpa simbol atau informasi lain. \nASSISTANT: White Star Line\n[Round 2]\nUSER: Pada tahun berapa perusahaan ini bangkrut? Jawab menggunakan angka Arab dan sertakan satuannya. \nASSISTANT: Tahun 1935\n[Round 3]\nUSER: Dalam insiden kapal karam ini, siapa nama kapten yang memimpin kapal pesiar tersebut? Hanya perlu memberikan nama dalam bahasa Inggris.\nASSISTANT:",
+        "target": "Edward John Smith"
+    },
+    {
+        "input": "[Round 0]\nUSER: Seseorang yang lahir pada tanggal 30 Juli termasuk zodiak apa? Jawab hanya dengan nama zodiaknya. \nASSISTANT: Leo\n[Round 1]\nUSER: Berdasarkan urutan waktu, zodiak apa yang datang sebelum ini?\nASSISTANT: Cancer\n[Round 2]\nUSER: Berdasarkan [Round 1], tanggal lahir zodiak sebelum zodiak ini dimulai dari tanggal berapa hingga berapa? Gunakan format \"Tanggal X bulan X—Tanggal X bulan X\", dan angka Arab untuk bagian angkanya. \nASSISTANT: 21 Mei—21 Juni\n[Round 3]\nUSER: Berdasarkan [Round 2], apa nama zodiak sebelum zodiak ini? Hanya sebutkan namanya, jangan menambahkan keterangan lain.\nASSISTANT:",
+        "target": "Taurus"
+    }
+]

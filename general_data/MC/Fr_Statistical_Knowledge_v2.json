@@ -1,0 +1,848 @@
+[
+    {
+        "input": "On sait que le revenu disponible total d’un pays est de $800$ milliards d'euros et que son épargne totale est de $200$ milliards d'euros, alors sa consommation totale est ______.\nA. Plus de $600$ milliards d'euros\nB. Égale à $550$ milliards d'euros\nC. Égale à $580$ milliards d'euros\nD. Égale à $600$ milliards d'euros",
+        "target_scores": {
+            "A. Plus de $600$ milliards d'euros": 0,
+            "B. Égale à $550$ milliards d'euros": 0,
+            "C. Égale à $580$ milliards d'euros": 0,
+            "D. Égale à $600$ milliards d'euros": 1
+        }
+    },
+    {
+        "input": "Un nouveau programme de perte de poids affirme que les participants peuvent perdre en moyenne au moins $8$ livres au cours de la première semaine du programme. Un échantillon de $40$ participants au programme a été sélectionné au hasard. Les résultats ont montré une perte de poids moyenne de $7$ livres, avec un écart type de $2$ livres. L'hypothèse nulle et l'hypothèse alternative sont ______.\nA. $\\mathrm{H0:}\\mu\\mathrm{\\geq}8$,$\\mathrm{H1:}\\mu<8$\nB. $\\mathrm{H0:}\\mu\\mathrm{\\leq}8$,$\\mathrm{H1:}\\mu>8$\nC. $\\mathrm{H0:~\\mu\\geq7$,$~H1:~\\mu<7}$\nD. $\\mathrm{H0:~\\mu\\leq7$,$~H1:~\\mu>7}$",
+        "target_scores": {
+            "A. $\\mathrm{H0:}\\mu\\mathrm{\\geq}8$,$\\mathrm{H1:}\\mu<8$": 1,
+            "B. $\\mathrm{H0:}\\mu\\mathrm{\\leq}8$,$\\mathrm{H1:}\\mu>8$": 0,
+            "C. $\\mathrm{H0:~\\mu\\geq7$,$~H1:~\\mu<7}$": 0,
+            "D. $\\mathrm{H0:~\\mu\\leq7$,$~H1:~\\mu>7}$": 0
+        }
+    },
+    {
+        "input": "Les hommes représentent $80\\%$ du personnel d'une entreprise, avec un salaire mensuel moyen de $450$ euros, et les femmes représentent $20\\%$ du personnel, avec un salaire mensuel moyen de $400$ euros. Le salaire moyen de tous les employés de l'entreprise est de ______.\nA. $425$ euros\nB. $430$ euros\nC. $435$ euros\nD. $440$ euros",
+        "target_scores": {
+            "A. $425$ euros": 0,
+            "B. $430$ euros": 0,
+            "C. $435$ euros": 0,
+            "D. $440$ euros": 1
+        }
+    },
+    {
+        "input": "La capacité de charge maximale d'un ascenseur est de $1000$ kg. Supposons que $15$ personnes puissent y accéder simultanément. Si le poids (en kg) de chaque personne est égal à $\\mathbb{N}(60{,}\\quad15^{2})$, la probabilité d'être en surcharge est de ______.\nA. $0{,}0142$\nB. $0{,}0427$\nC. $0{,}0528$\nD. $0{,}0785$",
+        "target_scores": {
+            "A. $0{,}0142$": 0,
+            "B. $0{,}0427$": 1,
+            "C. $0{,}0528$": 0,
+            "D. $0{,}0785$": 0
+        }
+    },
+    {
+        "input": "On sait que la moyenne de la population est de $50$ et l'écart type de $8$. Un échantillon de $64$ est tiré aléatoirement de la population. L'espérance mathématique de la moyenne de l'échantillon et l'erreur type de la distribution d'échantillonnage sont alors respectivement de ______.\nA. $50$, $1$\nB. $50$, $4$\nC. $50$, $8$\nD. $8$, $8$",
+        "target_scores": {
+            "A. $50$, $1$": 1,
+            "B. $50$, $4$": 0,
+            "C. $50$, $8$": 0,
+            "D. $8$, $8$": 0
+        }
+    },
+    {
+        "input": "On sait que les taux de croissance mensuels de ces dernières années sont de $7{,}5\\%$, $9{,}5\\%$, $6{,}2\\%$ et $4{,}9\\%$, donc le taux de croissance de base fixe est de ______.\nA. $107{,}5\\%×109{,}5\\%×106{,}2\\%×104{,}9\\%$\nB. $107{,}5\\%×109{,}5\\%×106{,}2\\%×104{,}9\\%-1$\nC. $7{,}5\\%×9{,}5\\%×6,2\\%×4{,}9\\%$\nD. $7{,}5\\%×9{,}5\\%×6{,}2\\%×4{,}9\\%-1$",
+        "target_scores": {
+            "A. $107{,}5\\%×109{,}5\\%×106{,}2\\%×104{,}9\\%$": 0,
+            "B. $107{,}5\\%×109{,}5\\%×106{,}2\\%×104{,}9\\%-1$": 1,
+            "C. $7{,}5\\%×9{,}5\\%×6,2\\%×4{,}9\\%$": 0,
+            "D. $7{,}5\\%×9{,}5\\%×6{,}2\\%×4{,}9\\%-1$": 0
+        }
+    },
+    {
+        "input": "Au premier trimestre, les ventes d'un centre commercial ont augmenté de $4\\%$ par rapport à la même période l'an dernier, et l'indice global des prix du centre commercial a augmenté de $5\\%$ par rapport à l'année précédente. Par conséquent, le volume des ventes du centre commercial a augmenté de ______.\nA. $-0{,}95\\%$\nB. $-0{,}96\\%$\nC. $0{,}96\\%$\nD. $2\\%$",
+        "target_scores": {
+            "A. $-0{,}95\\%$": 1,
+            "B. $-0{,}96\\%$": 0,
+            "C. $0{,}96\\%$": 0,
+            "D. $2\\%$": 0
+        }
+    },
+    {
+        "input": "Si le prix des marchandises est prévu pour diminuer de $5\\%$ et que le volume des ventes est prévu pour augmenter de $10\\%$ au cours de la période de référence, le volume des ventes devrait ______.\nA. Augmenter de $15\\%$\nB. Augmenter de $15{,}79\\%$\nC. Diminuer de $5\\%$\nD. Diminuer de $5{,}25\\%$",
+        "target_scores": {
+            "A. Augmenter de $15\\%$": 0,
+            "B. Augmenter de $15{,}79\\%$": 1,
+            "C. Diminuer de $5\\%$": 0,
+            "D. Diminuer de $5{,}25\\%$": 0
+        }
+    },
+    {
+        "input": "Sachant que l'indice composite des prix des deux actions achetées par Pierre a augmenté de $24$ points, le prix moyen de clôture des actions aujourd'hui est de $14$ euros, et le prix moyen de clôture des actions hier était de ______ euros.\nA. $0{,}5$\nB. $1$\nC. $10{,}64$\nD. $11{,}29$",
+        "target_scores": {
+            "A. $0{,}5$": 0,
+            "B. $1$": 0,
+            "C. $10{,}64$": 0,
+            "D. $11{,}29$": 1
+        }
+    },
+    {
+        "input": "Dans une étude sur les prêts d’aide aux étudiants, $480$ étudiants ont été sélectionnés au hasard comme échantillon et le solde impayé moyen avant l’obtention du diplôme était de $12 168$ avec un écart type de $2 200$. L'intervalle de confiance à $95\\%$ pour le montant moyen dû par la population des étudiants emprunteurs est alors ______.\nA. $11 971$, $12 365$\nB. $11 971$, $13 365$\nC. $11 971$, $14 365$\nD. $11 971$, $15 365$",
+        "target_scores": {
+            "A. $11 971$, $12 365$": 1,
+            "B. $11 971$, $13 365$": 0,
+            "C. $11 971$, $14 365$": 0,
+            "D. $11 971$, $15 365$": 0
+        }
+    },
+    {
+        "input": "Les responsables de l’administration fiscale estiment que la plupart des entreprises échappent à l’impôt. Lors d’une inspection d’un échantillon aléatoire de $800$ entreprises, $144$ d’entre elles se sont révélées coupables d’évasion fiscale. L'intervalle de confiance de la proportion d'entreprises d'évasion fiscale estimée sur la base du niveau de confiance de $99\\%$ est ______.\nA. $0{,}18±0{,}015$\nB. $0{,}18±0{,}035$\nC. $0{,}18±0{,}045$\nD. $0{,}1±0{,}025$",
+        "target_scores": {
+            "A. $0{,}18±0{,}015$": 0,
+            "B. $0{,}18±0{,}035$": 1,
+            "C. $0{,}18±0{,}045$": 0,
+            "D. $0{,}1±0{,}025$": 0
+        }
+    },
+    {
+        "input": "Lancez un dé et observez le résultat. La probabilité que le nombre de points soit de $1$ point ou $2$ points ou $3$ points ou $4$ points ou $5$ points ou $6$ points est ______.\nA. $100\\%$\nB. $16{,}7\\%$\nC. $25\\%$\nD. $50\\%$",
+        "target_scores": {
+            "A. $100\\%$": 1,
+            "B. $16{,}7\\%$": 0,
+            "C. $25\\%$": 0,
+            "D. $50\\%$": 0
+        }
+    },
+    {
+        "input": "Si le chiffre d'affaires d’un certain produit augmente de 5 % et que le prix de détail du produit augmente de 2 %, alors volume des ventes du produit augmentera de ______.\nA. 10%\nB. 2,94 %\nC. 3%\nD. 7%",
+        "target_scores": {
+            "A. 10%": 0,
+            "B. 2,94 %": 1,
+            "C. 3%": 0,
+            "D. 7%": 0
+        }
+    },
+    {
+        "input": "Les indices saisonniers calculés sur la base des données de ventes de marchandises de chaque trimestre sont les suivants : $125\\%$ au premier trimestre, $70\\%$ au deuxième trimestre, $100\\%$ au troisième trimestre et $105\\%$ au quatrième trimestre. Le trimestre le plus affecté par la saisonnalité est ______.\nA. Deuxième trimestre\nB. Premier trimestre\nC. Quatrième trimestre\nD. Troisième trimestre",
+        "target_scores": {
+            "A. Deuxième trimestre": 1,
+            "B. Premier trimestre": 0,
+            "C. Quatrième trimestre": 0,
+            "D. Troisième trimestre": 0
+        }
+    },
+    {
+        "input": "Le revenu annuel moyen des familles d'agriculteurs dans une certaine zone était de $1 500$ euros en 2004 et a augmenté de $8\\%$ en 2005. Par rapport à 2004, l'augmentation du revenu pour chaque point de pourcentage d'augmentation en 2005 était de ______.\nA. $15$ euros\nB. $40$ euros\nC. $7$ euros\nD. $8$ euros",
+        "target_scores": {
+            "A. $15$ euros": 1,
+            "B. $40$ euros": 0,
+            "C. $7$ euros": 0,
+            "D. $8$ euros": 0
+        }
+    },
+    {
+        "input": "Un chercheur d'une université souhaite estimer les dépenses moyennes mensuelles de subsistance des étudiants de premier cycle de cette université. Pour cela, il a enquêté auprès de $200$ étudiants et a constaté que leurs dépenses moyennes mensuelles de subsistance s'élèvent à $500$ euros. Le paramètre qui intéresse ce chercheur est ______.\nA. La dépense mensuelle totale de subsistance de tous les étudiants de premier cycle de cette université.\nB. La dépense moyenne mensuelle de subsistance de tous les étudiants de premier cycle de cette université\nC. La dépense moyenne mensuelle de subsistance des $200$ étudiants enquêtés\nD. Le nombre total d'étudiants de cette université",
+        "target_scores": {
+            "A. La dépense mensuelle totale de subsistance de tous les étudiants de premier cycle de cette université.": 0,
+            "B. La dépense moyenne mensuelle de subsistance de tous les étudiants de premier cycle de cette université": 1,
+            "C. La dépense moyenne mensuelle de subsistance des $200$ étudiants enquêtés": 0,
+            "D. Le nombre total d'étudiants de cette université": 0
+        }
+    },
+    {
+        "input": "La probabilité qu'une personne prenne le bus ou le métro pour se rendre au travail est respectivement de $30\\%$ et $70\\%$. Lorsqu'elle prend le bus, elle est en retard $30\\%$ des jours ; lorsqu'elle prend le métro, elle est en retard $10\\%$ des jours. Si cette personne est en retard au travail un jour, la probabilité qu’elle prenne le métro est de ______.\nA. $16\\%$\nB. $30\\%$\nC. $44\\%$\nD. $56\\%$",
+        "target_scores": {
+            "A. $16\\%$": 0,
+            "B. $30\\%$": 0,
+            "C. $44\\%$": 1,
+            "D. $56\\%$": 0
+        }
+    },
+    {
+        "input": "Le gestionnaire immobilier d'un quartier résidentiel soupçonne que certains ménages volent de l'électricité. Afin de comprendre la consommation électrique mensuelle des résidents, une méthode d'enquête par échantillonnage a été utilisée pour interroger certains ménages. Il a été découvert que certains ménages déclaraient de manière inexacte ou dissimulaient des informations. L'erreur générée par ce type d'enquête appartient à ______.\nA. Erreur d'absence de réponse\nB. Erreur d'enquêteur\nC. Erreur de cadre d'échantillonnage\nD. Erreur de réponse",
+        "target_scores": {
+            "A. Erreur d'absence de réponse": 0,
+            "B. Erreur d'enquêteur": 0,
+            "C. Erreur de cadre d'échantillonnage": 0,
+            "D. Erreur de réponse": 1
+        }
+    },
+    {
+        "input": "Parmi les indicateurs suivants : ① Taux de profit de la production, ② Taux de consommation des matériaux, ③ Taux de valeur ajoutée, ④ Durée de rotation des actifs circulants, ceux qui sont des indicateurs à interprétation inverse sont ______.\nA. ①③\nB. ②\nC. ②③\nD. ②④",
+        "target_scores": {
+            "A. ①③": 0,
+            "B. ②": 0,
+            "C. ②③": 0,
+            "D. ②④": 1
+        }
+    },
+    {
+        "input": "Le but d’un sondage d’opinion publique est de déterminer les sujets que les jeunes sont prêts à discuter avec leurs parents. Les résultats de l’enquête montrent que : 45% des jeunes sont prêts à discuter des finances familiales avec leurs parents. 38% des jeunes sont prêts à discuter d’éducation avec leurs parents. 15% des jeunes sont prêts à discuter de questions amoureuses avec leurs parents. Les données recueillies dans cette enquête sont______.\nA. Données catégorielles\nB. Données expérimentales\nC. Données numériques\nD. Données séquentielles",
+        "target_scores": {
+            "A. Données catégorielles": 1,
+            "B. Données expérimentales": 0,
+            "C. Données numériques": 0,
+            "D. Données séquentielles": 0
+        }
+    },
+    {
+        "input": "$4$ observations ont été sélectionnées dans chacune des trois populations, et la somme des carrés intergroupes $SSA=536$, la somme des carrés intragroupes $SSE=828$ et le carré moyen intergroupes et le carré moyen intragroupes étaient respectivement ______.\nA. $134$, $103$\nB. $179$, $92$\nC. $238$, $92$\nD. $268$, $92$",
+        "target_scores": {
+            "A. $134$, $103$": 0,
+            "B. $179$, $92$": 0,
+            "C. $238$, $92$": 0,
+            "D. $268$, $92$": 1
+        }
+    },
+    {
+        "input": "D'après un échantillon des résultats d'examen des étudiants d'une classe, avec un niveau de confiance de $95\\%$, l'intervalle de confiance de la moyenne des notes d'examen de cette classe est de $75$ à $85$ points. La moyenne des notes de tous les étudiants de la classe est ______.\nA. Certainement dans cet intervalle\nB. Il y a $95\\%$ de probabilité qu'elle se situe dans cet intervalle\nC. Il y a une probabilité de $5\\%$ qu'elle se situe dans cet intervalle\nD. Soit c'est dans cet intervalle, soit elle n'est pas dans cet intervalle",
+        "target_scores": {
+            "A. Certainement dans cet intervalle": 0,
+            "B. Il y a $95\\%$ de probabilité qu'elle se situe dans cet intervalle": 0,
+            "C. Il y a une probabilité de $5\\%$ qu'elle se situe dans cet intervalle": 0,
+            "D. Soit c'est dans cet intervalle, soit elle n'est pas dans cet intervalle": 1
+        }
+    },
+    {
+        "input": "Une étude a révélé qu'en 2000, $40\\%$ des nouveaux acheteurs de voitures étaient des femmes. Lors d'une enquête menée en 2005, un échantillon aléatoire de $120$ nouveaux propriétaires de voitures a montré que $57$ étaient des femmes. Au niveau de signification $\\alpha = 0,05$, on teste si la proportion de femmes parmi les nouveaux propriétaires de voitures en 2005 a augmenté de manière significative. Les hypothèses nulle et alternative établies sont $H0 : π≤40\\%$, $H1 : π＞40\\%$, quelle est la conclusion du test ?\nA. Il est possible de rejeter ou de ne pas rejeter l'hypothèse nulle\nB. Ne pas rejeter l'hypothèse nulle\nC. On peut rejeter ou ne pas rejeter l'hypothèse nulle\nD. Rejeter l'hypothèse nulle",
+        "target_scores": {
+            "A. Il est possible de rejeter ou de ne pas rejeter l'hypothèse nulle": 0,
+            "B. Ne pas rejeter l'hypothèse nulle": 0,
+            "C. On peut rejeter ou ne pas rejeter l'hypothèse nulle": 0,
+            "D. Rejeter l'hypothèse nulle": 1
+        }
+    },
+    {
+        "input": "Une enquête montre que $33\\%$ des personnes interrogées estiment que leur entreprise est très adaptée aux femmes. En supposant que la proportion de la population est de $33\\%$ et que les erreurs marginales sont respectivement de $10\\%$, $5\\%$, $2\\%$ et $1\\%$, lors de l'établissement d'un intervalle de confiance de $95\\%$ pour la proportion de la population, à mesure que la marge d'erreur diminue, la taille de l'échantillon sera ______.\nA. Augmentée\nB. Diminuée\nC. Invariable\nD. Possiblement diminuée ou augmentée",
+        "target_scores": {
+            "A. Augmentée": 1,
+            "B. Diminuée": 0,
+            "C. Invariable": 0,
+            "D. Possiblement diminuée ou augmentée": 0
+        }
+    },
+    {
+        "input": "Pour trois types de climatiseurs, avec l'année dernière comme période de base et cette année comme période de rapport, l'indice de volume des ventes est de $106\\%$, et le chiffre d'affaires de cette année a augmenté de $8\\%$ par rapport à l'année dernière. Par conséquent, ______.\nA. En raison de l'augmentation des prix, le chiffre d'affaires a augmenté de $101{,}89\\%$\nB. En raison de l'augmentation des prix, le chiffre d'affaires a augmenté de $14{,}48\\%$\nC. L'indice composite des prix des trois types de climatiseurs est de $101{,}89\\%$\nD. Les prix des trois types de climatiseurs ont tous augmenté",
+        "target_scores": {
+            "A. En raison de l'augmentation des prix, le chiffre d'affaires a augmenté de $101{,}89\\%$": 0,
+            "B. En raison de l'augmentation des prix, le chiffre d'affaires a augmenté de $14{,}48\\%$": 0,
+            "C. L'indice composite des prix des trois types de climatiseurs est de $101{,}89\\%$": 1,
+            "D. Les prix des trois types de climatiseurs ont tous augmenté": 0
+        }
+    },
+    {
+        "input": "Afin de comprendre la volonté des femmes d’acheter une certaine marque de cosmétiques, les enquêteurs ont intercepté au hasard quelques femmes dans la rue et ont mené des enquêtes. Ce type d’enquête est ______.\nA. Échantillonnage aléatoire simple\nB. Échantillonnage de commodité\nC. Échantillonnage stratifié\nD. Échantillonnage volontaire",
+        "target_scores": {
+            "A. Échantillonnage aléatoire simple": 0,
+            "B. Échantillonnage de commodité": 1,
+            "C. Échantillonnage stratifié": 0,
+            "D. Échantillonnage volontaire": 0
+        }
+    },
+    {
+        "input": "En 2009, le chiffre d'affaires d'un centre commercial a atteint $120\\%$ par rapport à 2008, et l'indice des prix a baissé de $2\\%$ durant la même période. L'indice du volume des ventes du centre commercial est de ______.\nA. $118\\%$\nB. $122{,}4\\%$\nC. $123{,}5\\%$\nD. $133\\%$",
+        "target_scores": {
+            "A. $118\\%$": 0,
+            "B. $122{,}4\\%$": 1,
+            "C. $123{,}5\\%$": 0,
+            "D. $133\\%$": 0
+        }
+    },
+    {
+        "input": "Une cafétéria d'une université a enregistré son chiffre d'affaires quotidien au cours des $5$ dernières années. La moyenne des chiffres d'affaires quotidiens est de $2 500$ euros, avec un écart-type de $400$ euros. Étant donné que le chiffre d'affaires est plus élevé lors de certains festivals, la distribution du chiffre d'affaires quotidien est asymétrique à droite. Supposons que $100$ jours soient tirés au hasard de ces $5$ années et que la moyenne du chiffre d'affaires de ces $100$ jours soit calculée. La distribution d'échantillonnage de la moyenne de l'échantillon est ______.\nA. Asymétrique à droite, avec une moyenne de $2 500$ euros et un écart-type de $400$ euros\nB. Distribution normale, avec une moyenne de $2 500$ euros et un écart-type de $40$ euros\nC. Distribution normale, avec une moyenne de $2 500$ euros et un écart-type de $400$ euros\nD. Distribution normale, avec une moyenne de $250$ euros et un écart-type de $40$ euros",
+        "target_scores": {
+            "A. Asymétrique à droite, avec une moyenne de $2 500$ euros et un écart-type de $400$ euros": 0,
+            "B. Distribution normale, avec une moyenne de $2 500$ euros et un écart-type de $40$ euros": 1,
+            "C. Distribution normale, avec une moyenne de $2 500$ euros et un écart-type de $400$ euros": 0,
+            "D. Distribution normale, avec une moyenne de $250$ euros et un écart-type de $40$ euros": 0
+        }
+    },
+    {
+        "input": "Parmi les notes d'examen d'une matière pour $15$ étudiants, $70$ points apparaissent $3$ fois, $80$ points apparaissent $4$ fois, $85$ points apparaissent $6$ fois et $90$ points apparaissent $2$ fois. Par conséquent, le mode de leurs notes est ______.\nA. $80$\nB. $81{,}3$\nC. $85$\nD. $90$",
+        "target_scores": {
+            "A. $80$": 0,
+            "B. $81{,}3$": 0,
+            "C. $85$": 1,
+            "D. $90$": 0
+        }
+    },
+    {
+        "input": "Un échantillon composé de $290$ enseignants a été sélectionné au hasard, et chaque enseignant a exprimé son opinion sur certaines affirmations. La première affirmation est : \"Les étudiants plus âgés participent plus activement aux discussions en classe que les étudiants plus jeunes.\" L'attitude est mesurée sur une échelle de 5 points : $1$ = Tout à fait d'accord ; $2$ = D'accord ; $3$ = Pas d'opinion ; $4$ = Pas d'accord ; $5$ = Pas du tout d'accord. Pour cette affirmation, le point moyen d'attitude de l'échantillon est de $1{,}94$, avec un écart-type de $0{,}92$. Avec un niveau de confiance de $98\\%$, l'intervalle de confiance estimé pour le point moyen d'attitude des enseignants sur cette affirmation est ______.\nA. $1{,}94±0{,}13$\nB. $1{,}94±1{,}13$\nC. $1{,}94±1{,}96$\nD. $1{,}94±2{,}58$",
+        "target_scores": {
+            "A. $1{,}94±0{,}13$": 1,
+            "B. $1{,}94±1{,}13$": 0,
+            "C. $1{,}94±1{,}96$": 0,
+            "D. $1{,}94±2{,}58$": 0
+        }
+    },
+    {
+        "input": "Une école compte $10 000$ élèves. Un échantillon aléatoire de $1 000$ élèves a été prélevé, et $300$ d'entre eux se sont plaints de la gestion de l'école. L'estimation du nombre d'élèves se plaignant de la gestion de l'école est donc de ______.\nA. $1 000$\nB. $3 000$\nC. $300$\nD. $30\\%$",
+        "target_scores": {
+            "A. $1 000$": 0,
+            "B. $3 000$": 1,
+            "C. $300$": 0,
+            "D. $30\\%$": 0
+        }
+    },
+    {
+        "input": "Si le coefficient d'asymétrie d'un ensemble de distribution de données est compris entre $0{,}5$ et $1$ ou entre $-1$ et $-0{,}5$, cela indique que l'ensemble de données appartient à ______.\nA. Distribution légèrement biaisée\nB. Distribution modérément asymétrique\nC. Distribution symétrique\nD. Distribution très asymétrique",
+        "target_scores": {
+            "A. Distribution légèrement biaisée": 0,
+            "B. Distribution modérément asymétrique": 1,
+            "C. Distribution symétrique": 0,
+            "D. Distribution très asymétrique": 0
+        }
+    },
+    {
+        "input": "Les données de ventes mensuelles (en dix mille euros) des 10 entreprises sont : $72$, $63$, $54$, $54$, $29$, $26$, $25$, $23$, $23$ et $20$. Lequel des graphiques suivants ne serait pas approprié pour décrire ces données ?______\nA. Diagramme tige-feuille\nB. Diagramme à barres\nC. Graphique à secteurs\nD. Nuage de points",
+        "target_scores": {
+            "A. Diagramme tige-feuille": 0,
+            "B. Diagramme à barres": 0,
+            "C. Graphique à secteurs": 0,
+            "D. Nuage de points": 1
+        }
+    },
+    {
+        "input": "Dans l'analyse des séries chronologiques des ventes de pulls, si l'indice saisonnier du 3e trimestre est supérieur à $100\\%$, cela indique que les ventes de pulls ce trimestre ______.\nA. Correspondent à la basse saison\nB. Correspondent à la haute saison\nC. Ne sont pas affectées par les saisons\nD. Sont influencées par des facteurs saisonniers",
+        "target_scores": {
+            "A. Correspondent à la basse saison": 0,
+            "B. Correspondent à la haute saison": 1,
+            "C. Ne sont pas affectées par les saisons": 0,
+            "D. Sont influencées par des facteurs saisonniers": 0
+        }
+    },
+    {
+        "input": "Par rapport à l'année dernière, les prix de tous les produits dans un grand magasin ont augmenté en moyenne de $10\\%$, et le volume des ventes a diminué en moyenne de $10\\%$ cette année. Le chiffre d'affaires des produits est donc ______.\nA. Augmenté\nB. Augmenté ou diminué\nC. Diminué\nD. Invariable",
+        "target_scores": {
+            "A. Augmenté": 0,
+            "B. Augmenté ou diminué": 0,
+            "C. Diminué": 1,
+            "D. Invariable": 0
+        }
+    },
+    {
+        "input": "La note moyenne des élèves d'une classe est de 80 points et l'écart type est de 5 points. Si l’on sait que les résultats des tests des élèves de cette classe sont distribués de manière asymétrique, on peut juger que la proportion des élèves dont les résultats sont compris entre 70 et 90 points est d’au moins ______.\nA. 68%\nB. 75%\nC. 89%\nD. 95%",
+        "target_scores": {
+            "A. 68%": 0,
+            "B. 75%": 1,
+            "C. 89%": 0,
+            "D. 95%": 0
+        }
+    },
+    {
+        "input": "Un échantillon aléatoire de taille $n=125$ est prélevé à partir d'une population binomiale, avec $p=0{,}73$. Au niveau de signification $α=0{,}01$, on teste l'hypothèse $H0 : π=0{,}73$, $H1 : π≠0{,}73$. La conclusion obtenue est ______.\nA. La possibilité de rejeter ou de ne pas rejeter l'hypothèse nulle\nB. La possibilité de rejeter ou non l’hypothèse nulle\nC. Ne pas rejeter l'hypothèse nulle\nD. Rejeter l'hypothèse nulle",
+        "target_scores": {
+            "A. La possibilité de rejeter ou de ne pas rejeter l'hypothèse nulle": 0,
+            "B. La possibilité de rejeter ou non l’hypothèse nulle": 0,
+            "C. Ne pas rejeter l'hypothèse nulle": 1,
+            "D. Rejeter l'hypothèse nulle": 0
+        }
+    },
+    {
+        "input": "Selon une enquête, il y a 5 ans, le temps moyen passé par chaque famille à regarder la télévision par jour était de $6{,}7$ heures. Une enquête récente auprès de $200$ familles révèle que le temps moyen quotidien passé à regarder la télévision est de $7{,}25$ heures, avec un écart-type de $2{,}5$ heures. Au niveau de signification $\\alpha = 0{,}05$, on teste l'hypothèse $H0 : μ≤6{,}7$，$H1 : μ＞6{,}7$.  Quelle est la conclusion du test ?\nA. Il est possible de rejeter ou de ne pas rejeter $H0$\nB. Ne pas rejeter $H0$\nC. On peut rejeter ou ne pas rejeter $H0$\nD. Rejeter $H0$",
+        "target_scores": {
+            "A. Il est possible de rejeter ou de ne pas rejeter $H0$": 0,
+            "B. Ne pas rejeter $H0$": 0,
+            "C. On peut rejeter ou ne pas rejeter $H0$": 0,
+            "D. Rejeter $H0$": 1
+        }
+    },
+    {
+        "input": "Soit $p$ le prix d'un produit et $q$ la quantité vendue. L'indice $\\frac{\\sum p_0q_1}{\\sum p_0q_0}$ reflète globalement ______.\nA. Le degré d'influence de la variation des prix des produits sur le chiffre d'affaires\nB. Le degré d'influence de la variation des quantités vendues sur le chiffre d'affaires\nC. Le degré d'influence des variations des prix et des quantités vendues sur le chiffre d'affaires\nD. Le degré de variation du chiffre d'affaires des produits",
+        "target_scores": {
+            "A. Le degré d'influence de la variation des prix des produits sur le chiffre d'affaires": 0,
+            "B. Le degré d'influence de la variation des quantités vendues sur le chiffre d'affaires": 1,
+            "C. Le degré d'influence des variations des prix et des quantités vendues sur le chiffre d'affaires": 0,
+            "D. Le degré de variation du chiffre d'affaires des produits": 0
+        }
+    },
+    {
+        "input": "Un département des ressources humaines d'une société de développement de logiciels informatiques a mené une enquête, révélant que parmi les employés ayant quitté l'entreprise au cours des deux dernières années, $40\\%$ l'ont fait en raison d'une insatisfaction salariale, $30\\%$ en raison d'une insatisfaction au travail, et $15\\%$ en raison d'une insatisfaction concernant à la fois le salaire et le travail. Soit $A$ = les employés quittant l'entreprise à cause d'une insatisfaction salariale ; $B$ = les employés quittant l'entreprise à cause d'une insatisfaction au travail. La probabilité que les raisons de départ soient dues à une insatisfaction salariale, ou à une insatisfaction au travail, ou aux deux, est ______.\nA. $0{,}15$\nB. $0{,}30$\nC. $0{,}40$\nD. $0{,}55$",
+        "target_scores": {
+            "A. $0{,}15$": 0,
+            "B. $0{,}30$": 0,
+            "C. $0{,}40$": 0,
+            "D. $0{,}55$": 1
+        }
+    },
+    {
+        "input": "Une enquête nationale par sondage à grande échelle consiste à sélectionner aléatoirement $1 000$ personnes dans chacune des $18$ régions, municipalités et régions autonomes du pays afin de constituer un échantillon. Ce type d'organisation de l'échantillonnage est appelé ______.\nA. Échantillonnage aléatoire simple\nB. Échantillonnage en deux étapes\nC. Échantillonnage en grappes\nD. Échantillonnage stratifié",
+        "target_scores": {
+            "A. Échantillonnage aléatoire simple": 0,
+            "B. Échantillonnage en deux étapes": 0,
+            "C. Échantillonnage en grappes": 0,
+            "D. Échantillonnage stratifié": 1
+        }
+    },
+    {
+        "input": "Afin d'étudier les dépenses d'achat de livres des élèves d'une école, 60 garçons et 40 filles ont été sélectionnés. Cette méthode d'enquête est ______.\nA. Échantillonnage aléatoire simple\nB. Échantillonnage en grappes\nC. Échantillonnage stratifié\nD. Échantillonnage systématique",
+        "target_scores": {
+            "A. Échantillonnage aléatoire simple": 0,
+            "B. Échantillonnage en grappes": 0,
+            "C. Échantillonnage stratifié": 1,
+            "D. Échantillonnage systématique": 0
+        }
+    },
+    {
+        "input": "En supposant que l'indemnité hebdomadaire d'heures supplémentaires des employés d'une entreprise suive une distribution normale avec une moyenne de 50 euros et un écart type de $10$ euros, alors la proportion d'employés de l'entreprise dont l'indemnité hebdomadaire d'heures supplémentaires est comprise entre $40$ euros et $60$ euros est ______.\nA. $0{,}0228$\nB. $0{,}3174$\nC. $0{,}6826$\nD. $0{,}9772$",
+        "target_scores": {
+            "A. $0{,}0228$": 0,
+            "B. $0{,}3174$": 0,
+            "C. $0{,}6826$": 1,
+            "D. $0{,}9772$": 0
+        }
+    },
+    {
+        "input": "Soient les variables aléatoires $X1$, $X2$, …, $Xn$ mutuellement indépendantes, et $Sn=X1+X2+…+Xn$. Selon le théorème central limite de Lévy-Lindeberg, lorsque $n$ est suffisamment grand, $Sn$ suit approximativement une distribution normale, à condition que $X1$, $X2$, …, $Xn$ ______.\nA. Aient la même espérance et la même variance\nB. Suivent la même distribution continue\nC. Suivent la même distribution discrète\nD. Suivent la même distribution exponentielle",
+        "target_scores": {
+            "A. Aient la même espérance et la même variance": 0,
+            "B. Suivent la même distribution continue": 0,
+            "C. Suivent la même distribution discrète": 0,
+            "D. Suivent la même distribution exponentielle": 1
+        }
+    },
+    {
+        "input": "Par rapport à 2005, les ventes de marchandises d'un magasin en 2006 ont augmenté de 16% et son volume de ventes a augmenté de 18%. La variation en pourcentage du prix de vente est de ______.\nA. -1,7%\nB. -3,7%\nC. 1,7%\nD. 3,7%",
+        "target_scores": {
+            "A. -1,7%": 1,
+            "B. -3,7%": 0,
+            "C. 1,7%": 0,
+            "D. 3,7%": 0
+        }
+    },
+    {
+        "input": "On estime que le nombre de personnes souffrant de malnutrition dans certaines zones pauvres peut atteindre 20%, mais certains pensent que cette proportion est encore plus élevée. Pour vérifier l'exactitude de cette affirmation, l'hypothèse est ______.\nA. $H0 : \\pi=0{,}2$，$H1 : \\pi≠0{,}2$\nB. $H0 : \\pi>0.3$，$H1 : \\pi=0.3$\nC. $H0 : \\pi≤0{,}2$，$H1 : \\pi>0{,}2$\nD. $H0 : \\pi≥0{,}3$，$H1 : \\pi<0{,}3$",
+        "target_scores": {
+            "A. $H0 : \\pi=0{,}2$，$H1 : \\pi≠0{,}2$": 0,
+            "B. $H0 : \\pi>0.3$，$H1 : \\pi=0.3$": 0,
+            "C. $H0 : \\pi≤0{,}2$，$H1 : \\pi>0{,}2$": 1,
+            "D. $H0 : \\pi≥0{,}3$，$H1 : \\pi<0{,}3$": 0
+        }
+    },
+    {
+        "input": "Pour effectuer un test d'hypothèse sur l'espérance mathématique μ d'une population normale, si l'hypothèse nulle $H0 : μ=μ0$ est acceptée au niveau de signification de 0,05, alors au niveau de signification de 0,01. Parmi les conclusions suivantes, laquelle est correcte ?\nA. Incertain, on peut rejeter ou ne pas rejeter l'hypothèse $H0 : μ=μ0$\nB. On ne peut pas accepter l’hypothèse $H0 : μ=μ0$ ni la rejeter\nC. On ne peut rejeter l'hypothèse $H0 : μ=μ0$\nD. On peut accepter l'hypothèse $H0 : μ=μ0$",
+        "target_scores": {
+            "A. Incertain, on peut rejeter ou ne pas rejeter l'hypothèse $H0 : μ=μ0$": 0,
+            "B. On ne peut pas accepter l’hypothèse $H0 : μ=μ0$ ni la rejeter": 0,
+            "C. On ne peut rejeter l'hypothèse $H0 : μ=μ0$": 0,
+            "D. On peut accepter l'hypothèse $H0 : μ=μ0$": 1
+        }
+    },
+    {
+        "input": "Une société a été chargée de réaliser une enquête sur le niveau de satisfaction d'un certain produit cosmétique, avec un point allant de 0 (complètement insatisfait) à 20 (très satisfait). Trente-six consommateurs ont été sélectionnés aléatoirement avec un point moyen de $12$ et un écart type de 3 points. Une estimation par intervalle de la moyenne de la population a été réalisée avec un niveau de confiance de 95%. Le résultat est ______\nA. 11 à 13 points\nB. 12 à 14 points\nC. 6 à 18 points\nD. 9 à 15 points",
+        "target_scores": {
+            "A. 11 à 13 points": 1,
+            "B. 12 à 14 points": 0,
+            "C. 6 à 18 points": 0,
+            "D. 9 à 15 points": 0
+        }
+    },
+    {
+        "input": "Une enquête menée par un supermarché a montré que 80% des clients se rendaient au supermarché pour acheter de la nourriture, 60% pour acheter d’autres produits et 35% pour acheter à la fois de la nourriture et d’autres produits. Soit A = les clients qui achètent de la nourriture et B = les clients qui achètent d’autres biens. La probabilité qu’un client achète également d’autres biens lorsqu’il vient au supermarché pour acheter de la nourriture est alors ______.\nA. 0,35\nB. 0,4375\nC. 0,6\nD. 0,8",
+        "target_scores": {
+            "A. 0,35": 0,
+            "B. 0,4375": 1,
+            "C. 0,6": 0,
+            "D. 0,8": 0
+        }
+    },
+    {
+        "input": "Un rapport récent a déclaré qu'« un échantillon de 150 voitures neuves a montré que les prix des voitures neuves étrangères étaient significativement plus élevés que ceux des voitures neuves produites dans le pays ». Cette conclusion appartient à ______.\nA. Description de l'ensemble\nB. Description de l'échantillon\nC. Inférence sur l'échantillon\nD. Inférence sur la population",
+        "target_scores": {
+            "A. Description de l'ensemble": 0,
+            "B. Description de l'échantillon": 0,
+            "C. Inférence sur l'échantillon": 0,
+            "D. Inférence sur la population": 1
+        }
+    },
+    {
+        "input": "Le coefficient de variation d’un ensemble de données est de 0,4 et la moyenne est de 20, donc l’écart type est de ______.\nA. 0,02\nB. 4\nC. 8\nD. 80",
+        "target_scores": {
+            "A. 0,02": 0,
+            "B. 4": 0,
+            "C. 8": 1,
+            "D. 80": 0
+        }
+    },
+    {
+        "input": "Afin de comprendre le temps moyen passé par ses employés à se rendre au travail chaque jour, une entreprise a interrogé $10$ employés. Le résultat est le suivant: le temps moyen passé par ces $10$ employés à se rendre au travail chaque jour est de $3{,}2$ heures, avec un écart type de $0{,}9$ heure. Si l'intervalle de confiance est ($2{,}2$, $4{,}2$), le niveau de confiance est de ______.\nA. $0{,}05>α>0{,}01$\nB. $α<0{,}01$\nC. $α>0{,}025$\nD. $α>0{,}05$",
+        "target_scores": {
+            "A. $0{,}05>α>0{,}01$": 0,
+            "B. $α<0{,}01$": 1,
+            "C. $α>0{,}025$": 0,
+            "D. $α>0{,}05$": 0
+        }
+    },
+    {
+        "input": "Une méthode d'échantillonnage aléatoire simple a été utilisée pour sélectionner 500 étudiants parmi 200 000 étudiants d'une ville universitaire. Il a été constaté que 320 d'entre eux avaient participé à divers clubs universitaires. Avec un niveau de confiance de 95,45%, on peut considérer que la proportion d'étudiants ayant participé à des clubs parmi les 200 000 étudiants est supérieure à ______.\nA. 55%\nB. 62%\nC. 68%\nD. 70%",
+        "target_scores": {
+            "A. 55%": 0,
+            "B. 62%": 0,
+            "C. 68%": 1,
+            "D. 70%": 0
+        }
+    },
+    {
+        "input": "Des échantillons de tailles respectives 4, 16 et 36 sont extraits d'une population infinie suivant une distribution normale. Lorsque la taille de l'échantillon augmente, l'écart-type de la moyenne de l'échantillon ______.\nA. Augmente\nB. Diminue\nC. Ne peut pas être déterminé\nD. Reste inchangé",
+        "target_scores": {
+            "A. Augmente": 0,
+            "B. Diminue": 1,
+            "C. Ne peut pas être déterminé": 0,
+            "D. Reste inchangé": 0
+        }
+    },
+    {
+        "input": "Lors d'une enquête d'opinion en ligne en 1998, un total de 7 553 personnes ont été interrogées, parmi lesquelles 4 381 ont estimé que : « L'enquêteur chargé de l'affaire Whitewater devrait interroger tous les témoins disponibles, y compris les assistants du président Clinton en fonction à l'époque. » Par conséquent, laquelle des conclusions suivantes pouvez-vous tirer ? ______.\nA. Ces données fournissent des preuves suffisantes pour montrer que la majorité pense que l'enquêteur devrait interroger tous les témoins disponibles, y compris les assistants du président Clinton en fonction à l'époque\nB. Ces données fournissent des preuves suffisantes pour montrer que la majorité pense que l'enquêteur ne devrait pas interroger tous les témoins disponibles, y compris les assistants du président Clinton en fonction à l'époque\nC. Ces données ne fournissent pas de preuves suffisantes pour montrer que la majorité pense que l'enquêteur devrait interroger tous les témoins disponibles, y compris les assistants du président Clinton en fonction à l'époque\nD. Ces données ne fournissent pas de preuves suffisantes pour montrer que la majorité pense que l'enquêteur ne devrait pas interroger tous les témoins disponibles, y compris les assistants du président Clinton en fonction à l'époque.",
+        "target_scores": {
+            "A. Ces données fournissent des preuves suffisantes pour montrer que la majorité pense que l'enquêteur devrait interroger tous les témoins disponibles, y compris les assistants du président Clinton en fonction à l'époque": 1,
+            "B. Ces données fournissent des preuves suffisantes pour montrer que la majorité pense que l'enquêteur ne devrait pas interroger tous les témoins disponibles, y compris les assistants du président Clinton en fonction à l'époque": 0,
+            "C. Ces données ne fournissent pas de preuves suffisantes pour montrer que la majorité pense que l'enquêteur devrait interroger tous les témoins disponibles, y compris les assistants du président Clinton en fonction à l'époque": 0,
+            "D. Ces données ne fournissent pas de preuves suffisantes pour montrer que la majorité pense que l'enquêteur ne devrait pas interroger tous les témoins disponibles, y compris les assistants du président Clinton en fonction à l'époque.": 0
+        }
+    },
+    {
+        "input": "En supposant que les autres conditions restent inchangées, réduisez $\\alpha$ de $5\\%$ à $2{,}5\\%$, alors la largeur de l'intervalle de confiance du niveau de confiance $1-\\alpha$ de la moyenne de la population $\\mu$ sera ______\nA. Augmentée\nB. Diminuée\nC. Invariable\nD. Possiblement augmentée ou diminuée",
+        "target_scores": {
+            "A. Augmentée": 1,
+            "B. Diminuée": 0,
+            "C. Invariable": 0,
+            "D. Possiblement augmentée ou diminuée": 0
+        }
+    },
+    {
+        "input": "L'écart type des loyers mensuels des bureaux dans une zone donnée est de 80 euros. Pour estimer un intervalle de confiance à 95% pour la moyenne de la population, avec une marge d'erreur souhaitée de 25 euros, la taille de l'échantillon à prélever est de ______.\nA. 20\nB. 30\nC. 40\nD. 50",
+        "target_scores": {
+            "A. 20": 0,
+            "B. 30": 0,
+            "C. 40": 1,
+            "D. 50": 0
+        }
+    },
+    {
+        "input": "Le département de protection de l'environnement souhaite tester si le nombre moyen de boîtes de restauration rapide utilisées par les restaurants par jour dépasse 600. L'hypothèse nulle et l'hypothèse alternative devraient être ______.\nA. $H_0: \\mu = 600$, $H_1: \\mu \\neq 600$\nB. $H_0: \\mu \\geq 600$, $H_1: \\mu < 600$\nC. $H_0: \\mu \\leq 600$, $H_1: \\mu > 600$\nD. $H_0: \\mu \\neq 600$, $H_1: \\mu = 600$",
+        "target_scores": {
+            "A. $H_0: \\mu = 600$, $H_1: \\mu \\neq 600$": 0,
+            "B. $H_0: \\mu \\geq 600$, $H_1: \\mu < 600$": 0,
+            "C. $H_0: \\mu \\leq 600$, $H_1: \\mu > 600$": 1,
+            "D. $H_0: \\mu \\neq 600$, $H_1: \\mu = 600$": 0
+        }
+    },
+    {
+        "input": "Pour vérifier l'existence d'une relation linéaire approximative entre la tension artérielle et l'âge, des tests d'échantillonnage aléatoire sont effectués sur des personnes âgées de 0 à 20 ans, de 20 à 30 ans, de 30 à 40 ans, de 40 à 50 ans, de 50 à 60 ans et de plus de 60 ans. Cette méthode d'échantillonnage appartient à ______.\nA. Échantillonnage en grappes\nB. Échantillonnage simple\nC. Échantillonnage stratifié\nD. Échantillonnage systématique",
+        "target_scores": {
+            "A. Échantillonnage en grappes": 0,
+            "B. Échantillonnage simple": 0,
+            "C. Échantillonnage stratifié": 1,
+            "D. Échantillonnage systématique": 0
+        }
+    },
+    {
+        "input": "Une enquête révèle que les salariés d'entreprises étrangères travaillent en moyenne 52 heures par semaine. Un échantillon aléatoire de 650 salariés présente un écart type de 8,2 heures. L'intervalle de confiance à 95% de la durée hebdomadaire moyenne du travail des salariés d'entreprises étrangères est de ______.\nA. (50,37, 52,63)\nB. (51,37, 52,63)\nC. (51,37, 53,63)\nD. (52,37, 53,63)",
+        "target_scores": {
+            "A. (50,37, 52,63)": 0,
+            "B. (51,37, 52,63)": 1,
+            "C. (51,37, 53,63)": 0,
+            "D. (52,37, 53,63)": 0
+        }
+    },
+    {
+        "input": "Un institut de recherche a sélectionné au hasard un échantillon de 500 professionnels de l'informatique pour une enquête, parmi lesquels 60% ont répondu que leur revenu mensuel dépassait 5 000 euros, et 50% ont répondu que leur mode de paiement pour les dépenses était par carte de crédit. La population ici est ______.\nA. L'ensemble des professionnels de l'informatique\nB. Le mode de paiement des dépenses des professionnels de l'informatique\nC. Le revenu total des professionnels de l'informatique\nD. Les 500 professionnels de l'informatique",
+        "target_scores": {
+            "A. L'ensemble des professionnels de l'informatique": 1,
+            "B. Le mode de paiement des dépenses des professionnels de l'informatique": 0,
+            "C. Le revenu total des professionnels de l'informatique": 0,
+            "D. Les 500 professionnels de l'informatique": 0
+        }
+    },
+    {
+        "input": "Si l'on prend un point P ou Q quelconque sur les deux côtés AB et AC du triangle ABC, l'espérance mathématique de l'aire du quadrilatère PBCQ est égale à ______ de l'aire du triangle ABC.\nA. 1/4\nB. 1/5\nC. 3/4\nD. 4/5",
+        "target_scores": {
+            "A. 1/4": 0,
+            "B. 1/5": 0,
+            "C. 3/4": 1,
+            "D. 4/5": 0
+        }
+    },
+    {
+        "input": "La moyenne statistique des notes des étudiants d'une classe est de 70 points, la note maximale est de 96 points et la note minimale est de 62 points. À partir de ces informations, les statistiques mesurant le degré de dispersion qui peuvent être calculées sont ______.\nA. L'écart-type\nB. L'étendue\nC. La variance\nD. Le coefficient de variation",
+        "target_scores": {
+            "A. L'écart-type": 0,
+            "B. L'étendue": 1,
+            "C. La variance": 0,
+            "D. Le coefficient de variation": 0
+        }
+    },
+    {
+        "input": "Lorsqu'un nouveau produit est lancé, la demande initiale sur le marché augmente rapidement, puis, à mesure que la possession sociale approche la saturation, la demande tend progressivement vers un niveau stable. Selon vous, laquelle des courbes de tendance suivantes convient le mieux pour décrire l'évolution de ce produit ? ______.\nA. Courbe de Gompertz\nB. Courbe exponentielle modifiée (modified exponential curve)\nC. Courbe quadratique\nD. Ligne de tendance",
+        "target_scores": {
+            "A. Courbe de Gompertz": 0,
+            "B. Courbe exponentielle modifiée (modified exponential curve)": 1,
+            "C. Courbe quadratique": 0,
+            "D. Ligne de tendance": 0
+        }
+    },
+    {
+        "input": "Pour les données de séries chronologiques, le graphique couramment utilisé pour décrire leur tendance est ______.\nA. Diagramme en boîte\nB. Diagramme à barres\nC. Graphique en ligne\nD. Histogramme",
+        "target_scores": {
+            "A. Diagramme en boîte": 0,
+            "B. Diagramme à barres": 0,
+            "C. Graphique en ligne": 1,
+            "D. Histogramme": 0
+        }
+    },
+    {
+        "input": "Un échantillon aléatoire de 400 personnes a été prélevé et il a été constaté que 26% des utilisateurs d’Internet étaient des femmes. L'intervalle de confiance à 95% pour la proportion d'utilisatrices d'Internet est de______.\nA. (0,117, 0,403)\nB. (0,117, 0,503)\nC. (0,217, 0,303)\nD. (0,217, 0,403)",
+        "target_scores": {
+            "A. (0,117, 0,403)": 0,
+            "B. (0,117, 0,503)": 0,
+            "C. (0,217, 0,303)": 1,
+            "D. (0,217, 0,403)": 0
+        }
+    },
+    {
+        "input": "Le revenu mensuel des employés d'une entreprise est divisé en plusieurs groupes : moins de 2 000 euros, 2 000 à 3 000 euros, 3 000 à 4 000 euros, 4 000 à 5 000 euros et plus de 5 000 euros. Les médianes du premier et du dernier groupe sont approximativement ______.\nA. 1 000, 5 500\nB. 1 000, 6 500\nC. 1 500, 5 500\nD. 1 500, 6 500",
+        "target_scores": {
+            "A. 1 000, 5 500": 0,
+            "B. 1 000, 6 500": 0,
+            "C. 1 500, 5 500": 1,
+            "D. 1 500, 6 500": 0
+        }
+    },
+    {
+        "input": "Dans le test t à un échantillon, l'hypothèse alternative est que la moyenne de la population est supérieure à 1 000, alors il s'agit d'un____.\nA. Distribution monomiale\nB. Test bilatéral (Two Tailed Test)\nC. Test à queue droit (Right Tailed Test)\nD. Test à queue gauche (Left Tailed Test)",
+        "target_scores": {
+            "A. Distribution monomiale": 0,
+            "B. Test bilatéral (Two Tailed Test)": 0,
+            "C. Test à queue droit (Right Tailed Test)": 1,
+            "D. Test à queue gauche (Left Tailed Test)": 0
+        }
+    },
+    {
+        "input": "$1 000$ étudiants ont passé un examen pour un cours. La note moyenne était de $82$ et l'écart type de $8$. $100$ étudiants ont été sélectionnés aléatoirement pour constituer un échantillon. L'espérance mathématique de la moyenne de l'échantillon et l'écart type de la distribution d'échantillonnage sont ______.\nA. $82$, $0{,}8$\nB. $82$, $64$\nC. $82$, $8$\nD. $86$, $1$",
+        "target_scores": {
+            "A. $82$, $0{,}8$": 1,
+            "B. $82$, $64$": 0,
+            "C. $82$, $8$": 0,
+            "D. $86$, $1$": 0
+        }
+    },
+    {
+        "input": "Les salaires des employés d'une entreprise donnée sont divisés en quatre groupes : (1) moins de $800$ ; (2) $800$ à $1 000$ ; (3) $1 000$ à $1 500$ ; (4) plus de $1 500$. La valeur centrale du groupe « plus de 1 500 euros » est d’environ ______ euros.\nA. $1 500$\nB. $1 600$\nC. $1 750$\nD. $2 000$",
+        "target_scores": {
+            "A. $1 500$": 0,
+            "B. $1 600$": 0,
+            "C. $1 750$": 1,
+            "D. $2 000$": 0
+        }
+    },
+    {
+        "input": "Étant donné que la somme des carrés de régression $SSR=4854$ et la somme des carrés résiduels $SSE=146$, le coefficient de détermination $R2$=______\nA. $2{,}92\\%$\nB. $33{,}25\\%$\nC. $3{,}01\\%$\nD. $97{,}08\\%$",
+        "target_scores": {
+            "A. $2{,}92\\%$": 0,
+            "B. $33{,}25\\%$": 0,
+            "C. $3{,}01\\%$": 0,
+            "D. $97{,}08\\%$": 1
+        }
+    },
+    {
+        "input": "Se garer devient de plus en plus difficile lors des achats dans un centre commercial, et les gestionnaires souhaitent comprendre le temps moyen qu'il faut aux clients pour trouver une place de stationnement. Pour ce faire, un gestionnaire a suivi les $50$ clients et a enregistré le temps qu’il leur fallait pour trouver une place de stationnement. La population qui intéresse les gestionnaires ici est ______.\nA. Les clients qui se garent dans le centre commercial l'après-midi\nB. Les clients qui se garent dans le centre commercial le matin\nC. Tous les clients qui se garent au centre commercial\nD. Tous les clients qui viennent au centre commercial pour faire du shopping",
+        "target_scores": {
+            "A. Les clients qui se garent dans le centre commercial l'après-midi": 0,
+            "B. Les clients qui se garent dans le centre commercial le matin": 0,
+            "C. Tous les clients qui se garent au centre commercial": 1,
+            "D. Tous les clients qui viennent au centre commercial pour faire du shopping": 0
+        }
+    },
+    {
+        "input": "Supposons que $F_1(X)$ et $F_2(X)$ soient les fonctions de répartition des variables aléatoires $X_1$ et $X_2$ respectivement. Pour que $F(X)=aF_1(X)-bF_2(X)$ soit la fonction de répartition d'une variable aléatoire, il faut prendre ____.\nA. $a = -1/2$，$b = 3/2$\nB. $a = 1/2$, $b = -3/2$\nC. $a = 2/5$, $b = 2/3$\nD. $a = 3/5$, $b = -2/5$",
+        "target_scores": {
+            "A. $a = -1/2$，$b = 3/2$": 0,
+            "B. $a = 1/2$, $b = -3/2$": 0,
+            "C. $a = 2/5$, $b = 2/3$": 0,
+            "D. $a = 3/5$, $b = -2/5$": 1
+        }
+    },
+    {
+        "input": "Supposons que $(\\xi, \\eta)$ soit une variable aléatoire bidimensionnelle et que $D\\xi＞0$, $D\\eta＞0$, alors laquelle des équations suivantes est vraie ?\nA. $D(2\\xi+3\\eta)=2D(\\xi)+3D(\\eta)+12Cov(\\xi,\\eta)$\nB. $D(2\\xi+3\\eta)=4D(\\xi)+9D(\\eta)$\nC. $E(2\\xi+3\\eta)=2E(\\xi)+3E(\\eta)$\nD. $E(2\\xi\\cdot3\\eta)=2E(\\xi)\\cdot3E(\\eta)$",
+        "target_scores": {
+            "A. $D(2\\xi+3\\eta)=2D(\\xi)+3D(\\eta)+12Cov(\\xi,\\eta)$": 0,
+            "B. $D(2\\xi+3\\eta)=4D(\\xi)+9D(\\eta)$": 0,
+            "C. $E(2\\xi+3\\eta)=2E(\\xi)+3E(\\eta)$": 1,
+            "D. $E(2\\xi\\cdot3\\eta)=2E(\\xi)\\cdot3E(\\eta)$": 0
+        }
+    },
+    {
+        "input": "Une entreprise compte 2 000 employés. Le salaire mensuel moyen est de 2 500 euros et l'écart type est de 500 euros. En supposant que le salaire des employés de l'entreprise suive une distribution normale, le nombre d'employés dont le salaire mensuel est compris entre 2 000 et 3 000 euros est d'environ ( ).\nA. 1 360 personnes\nB. 1 550 personnes\nC. 1 750 personnes\nD. 1 950 personnes",
+        "target_scores": {
+            "A. 1 360 personnes": 1,
+            "B. 1 550 personnes": 0,
+            "C. 1 750 personnes": 0,
+            "D. 1 950 personnes": 0
+        }
+    },
+    {
+        "input": "Soit $z_c$ la valeur calculée de la statistique de test, l'hypothèse testée est $H_0:\\mu\\leq\\mu_0$, $H_1:\\mu>\\mu_0$, lorsque $z_c= 1{,}645$, la valeur $P$ calculée est ____.\nA. 0,0025\nB. 0,01\nC. 0,025\nD. 0,05",
+        "target_scores": {
+            "A. 0,0025": 0,
+            "B. 0,01": 0,
+            "C. 0,025": 0,
+            "D. 0,05": 1
+        }
+    },
+    {
+        "input": "Lors d'un test de compétences informatiques mené par une entreprise, le score moyen des nouveaux employés était de 80 points, l'écart type de 5 points et la médiane de 86 points. La distribution des points des nouveaux employés est ______.\nA. Asymétrique à droite\nB. Asymétrique à gauche\nC. Impossible à déterminer\nD. Symétrique",
+        "target_scores": {
+            "A. Asymétrique à droite": 0,
+            "B. Asymétrique à gauche": 1,
+            "C. Impossible à déterminer": 0,
+            "D. Symétrique": 0
+        }
+    },
+    {
+        "input": "Une enquête montre que parmi 1 000 consommateurs interrogés, leurs dépenses mensuelles moyennes en achats en ligne s'élèvent à 200 euros, et la principale raison pour laquelle ils choisissent d'acheter en ligne est le fait que « les prix sont bas » . Le paramètre ici est ____\nA. La dépense moyenne de tous les consommateurs qui achètent en ligne\nB. La dépense moyenne des 1 000 consommateurs\nC. Le nombre total de consommateurs qui achètent en ligne\nD. Un échantillon de 1 000 consommateurs",
+        "target_scores": {
+            "A. La dépense moyenne de tous les consommateurs qui achètent en ligne": 1,
+            "B. La dépense moyenne des 1 000 consommateurs": 0,
+            "C. Le nombre total de consommateurs qui achètent en ligne": 0,
+            "D. Un échantillon de 1 000 consommateurs": 0
+        }
+    },
+    {
+        "input": "Afin d'estimer la proportion de ménages d'une ville qui possèdent une voiture, un échantillon de 500 ménages est tiré et la proportion de ménages qui possèdent une voiture est de 35%, où 35% est ____\nA. Taille de l'échantillon\nB. Valeur de la statistique\nC. Valeur du paramètre\nD. variable",
+        "target_scores": {
+            "A. Taille de l'échantillon": 0,
+            "B. Valeur de la statistique": 1,
+            "C. Valeur du paramètre": 0,
+            "D. variable": 0
+        }
+    },
+    {
+        "input": "Une certaine organisation est très préoccupée par le temps que les élèves du primaire passent à regarder la télévision chaque semaine. L'agence a sélectionné au hasard 300 parents d'élèves du primaire et a estimé le temps que leurs enfants passaient à regarder la télévision chaque semaine. Les résultats ont montré que le temps moyen que ces élèves du primaire passaient à regarder la télévision par semaine était de 15 heures, avec un écart type de 5 heures. L'agence collecte des données par ____\nA. Enquête d'observation\nB. Enquête expérimentale\nC. Échantillonnage non probabiliste\nD. Échantillonnage probabiliste",
+        "target_scores": {
+            "A. Enquête d'observation": 0,
+            "B. Enquête expérimentale": 0,
+            "C. Échantillonnage non probabiliste": 0,
+            "D. Échantillonnage probabiliste": 1
+        }
+    },
+    {
+        "input": "Une certaine université compte 1 200 étudiants dans sa faculté d’économie et de gestion, 800 étudiants dans sa faculté de droit, 800 étudiants dans sa faculté de médecine et 200 étudiants dans sa faculté des sciences. Dans la description ci-dessus, le mode est ______.\nA. 1 200\nB. 200\nC. 320\nD. 800",
+        "target_scores": {
+            "A. 1 200": 0,
+            "B. 200": 0,
+            "C. 320": 0,
+            "D. 800": 1
+        }
+    },
+    {
+        "input": "Dix entreprises ont été sélectionnées au hasard dans un certain secteur, et leurs montants de bénéfices au premier trimestre (en dix mille euros) étaient : 72, 63,1, 54,7, 54,3, 29, 26,9, 25, 23,9, 23 et 20. La médiane de cet ensemble de données est ____\nA. 27,95\nB. 28,12\nC. 28,46\nD. 30,2",
+        "target_scores": {
+            "A. 27,95": 1,
+            "B. 28,12": 0,
+            "C. 28,46": 0,
+            "D. 30,2": 0
+        }
+    },
+    {
+        "input": "La note moyenne des élèves d'une classe est de 80 points et l'écart type est de 10 points. Si nous savons que les résultats des tests des élèves de cette classe sont distribués symétriquement, nous pouvons déterminer que les élèves ayant des résultats compris entre 70 et 90 représentent environ ____\nA. 68%\nB. 89%\nC. 95%\nD. 99%",
+        "target_scores": {
+            "A. 68%": 1,
+            "B. 89%": 0,
+            "C. 95%": 0,
+            "D. 99%": 0
+        }
+    },
+    {
+        "input": "En supposant que la proportion de la population est de 0,3, un échantillon aléatoire simple de taille 100 est tiré de cette population par la méthode de remplacement. L'espérance mathématique de la proportion de l'échantillon est ____.\nA. 0,3\nB. 0,8\nC. 1,6\nD. 2",
+        "target_scores": {
+            "A. 0,3": 1,
+            "B. 0,8": 0,
+            "C. 1,6": 0,
+            "D. 2": 0
+        }
+    },
+    {
+        "input": "Un échantillon aléatoire de taille 100 est tiré avec une moyenne x = 81 et un écart type s = 12. L'intervalle de confiance à 95% pour la moyenne de la population μ est ____\nA. 81±1,97\nB. 81±2,35\nC. 81±3,10\nD. 81±3,52",
+        "target_scores": {
+            "A. 81±1,97": 0,
+            "B. 81±2,35": 1,
+            "C. 81±3,10": 0,
+            "D. 81±3,52": 0
+        }
+    },
+    {
+        "input": "Vingt entreprises ont été sélectionnées au hasard dans une certaine zone, et le revenu annuel moyen des directeurs généraux des 20 entreprises s'est avéré être de 25 964,7 euros, avec un écart type de 42 807,8 euros. L'intervalle de confiance à 95 % du revenu annuel moyen μ du directeur général de l'entreprise est ____\nA. 25 964,7±20 034,3\nB. 25 964,7±21 034,3\nC. 25 964,7±25 034,3\nD. 25 964,7±30 034,3",
+        "target_scores": {
+            "A. 25 964,7±20 034,3": 1,
+            "B. 25 964,7±21 034,3": 0,
+            "C. 25 964,7±25 034,3": 0,
+            "D. 25 964,7±30 034,3": 0
+        }
+    },
+    {
+        "input": "Une grande entreprise va proposer une réforme. Pour estimer la proportion de salariés favorables à la réforme, l'erreur estimée doit être inférieure ou égale à 0,03, le niveau de confiance doit être de 90% et la taille de l'échantillon à prélever doit être de ____.\nA. 552\nB. 652\nC. 752\nD. 852",
+        "target_scores": {
+            "A. 552": 0,
+            "B. 652": 0,
+            "C. 752": 1,
+            "D. 852": 0
+        }
+    },
+    {
+        "input": "Dans une enquête par questionnaire, les répondants devaient indiquer leur origine ethnique, leur état civil, leur code postal de résidence, leur âge et leurs revenus. Laquelle des affirmations suivantes est incorrecte ?\nA. L'âge est une variable continue\nB. La nationalité est une donnée de qualité\nC. Le revenu est une donnée quantitative\nD. Les codes postaux sont des données quantitatives",
+        "target_scores": {
+            "A. L'âge est une variable continue": 0,
+            "B. La nationalité est une donnée de qualité": 0,
+            "C. Le revenu est une donnée quantitative": 0,
+            "D. Les codes postaux sont des données quantitatives": 1
+        }
+    },
+    {
+        "input": "Un fabricant de réfrigérateurs estime que si le pourcentage de réfrigérateurs défectueux assemblés sur la chaîne de production ne dépasse pas 3\\% par jour, le processus d'assemblage est satisfaisant. Afin de vérifier la qualité de production des réfrigérateurs pour une journée donnée, le fabricant a sélectionné au hasard 50 réfrigérateurs produits ce jour-là pour les tester. La population qui intéresse le fabricant est ______.\nA. Les 3\\% de réfrigérateurs défectueux\nB. Les 50 réfrigérateurs sélectionnés\nC. Les résultats des tests des 50 réfrigérateurs\nD. Tous les réfrigérateurs produits ce jour-là",
+        "target_scores": {
+            "A. Les 3\\% de réfrigérateurs défectueux": 0,
+            "B. Les 50 réfrigérateurs sélectionnés": 0,
+            "C. Les résultats des tests des 50 réfrigérateurs": 0,
+            "D. Tous les réfrigérateurs produits ce jour-là": 1
+        }
+    },
+    {
+        "input": "Pour étudier la situation d'apprentissage du cours de calcul différentiel et intégral, 35 classes ont été sélectionnées parmi 186 classes, et les résultats des examens de calcul des étudiants des classes sélectionnées ont été analysés. Cette méthode d'échantillonnage appartient à ______.\nA. Échantillonnage aléatoire simple\nB. Échantillonnage en grappes\nC. Échantillonnage stratifié\nD. Échantillonnage systématique",
+        "target_scores": {
+            "A. Échantillonnage aléatoire simple": 0,
+            "B. Échantillonnage en grappes": 1,
+            "C. Échantillonnage stratifié": 0,
+            "D. Échantillonnage systématique": 0
+        }
+    },
+    {
+        "input": "L'Association des constructeurs automobiles américains souhaite comprendre les préférences de couleurs des consommateurs lors de l'achat d'une voiture. Elle sélectionne au hasard 40 voitures récemment vendues et enregistre leurs types de couleurs (noir, blanc, rouge, vert, marron) et leurs nuances (clair, pâle, moyen, foncé). Lequel des tableaux suivants ne convient pas, selon vous, au traitement de cet échantillon de données ? ____\nA. Graphique de fréquence\nB. Graphique à barres\nC. Graphique à secteurs\nD. Nuage de points",
+        "target_scores": {
+            "A. Graphique de fréquence": 0,
+            "B. Graphique à barres": 0,
+            "C. Graphique à secteurs": 0,
+            "D. Nuage de points": 1
+        }
+    },
+    {
+        "input": "Un chercheur souhaite utiliser un graphique pour illustrer l'évolution quotidienne des loyers des logements anciens à Pékin depuis avril. Lequel des graphiques suivants est le plus approprié ? ____\nA. Diagramme tige-feuille\nB. Graphique linéaire\nC. Histogramme\nD. Nuage de points",
+        "target_scores": {
+            "A. Diagramme tige-feuille": 0,
+            "B. Graphique linéaire": 1,
+            "C. Histogramme": 0,
+            "D. Nuage de points": 0
+        }
+    },
+    {
+        "input": "Pour les notes de 100 étudiants d'un cours, si vous souhaitez obtenir le premier quartile, la médiane et le troisième quartile, laquelle des méthodes statistiques descriptives suivantes est la plus efficace ? ____\nA. Diagramme tige-feuille\nB. Graphique à secteurs\nC. Histogramme\nD. Tableau de points",
+        "target_scores": {
+            "A. Diagramme tige-feuille": 1,
+            "B. Graphique à secteurs": 0,
+            "C. Histogramme": 0,
+            "D. Tableau de points": 0
+        }
+    },
+    {
+        "input": "Une entreprise à capitaux étrangers divise ses employés en quatre groupes en fonction de leur niveau de salaire : moins de 1 000 euros, de 1 000 à 1 500 euros, de 1 500 à 2 000 euros et plus de 2 000 euros. Les valeurs centrales des 1er et 4e groupes (Group value) sont respectivement ____.\nA. 750 et 2 250\nB. 750 et 2 500\nC. 800 et 2 250\nD. 800 et 2 500",
+        "target_scores": {
+            "A. 750 et 2 250": 1,
+            "B. 750 et 2 500": 0,
+            "C. 800 et 2 250": 0,
+            "D. 800 et 2 500": 0
+        }
+    }
+]

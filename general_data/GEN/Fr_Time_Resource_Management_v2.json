@@ -1,0 +1,690 @@
+[
+    {
+        "input": "Jean se fait griller du pain chez lui chaque matin. Pour griller la première face, il faut 2 minutes ; pour griller l’autre face, 1 minute suffit. Le dispositif qu’il utilise ne peut contenir que deux tranches à la fois. Sachant que Jean doit manger 3 tranches chaque matin, combien de minutes au minimum faut-il griller le pain ?",
+        "target": "5 minutes"
+    },
+    {
+        "input": "Le père prépare des œufs au plat dans une poêle pour Paul. La poêle ne peut contenir que deux œufs simultanément. Pour cuire un œuf, il faut 2 minutes (une minute pour chaque face). Quel est le temps minimal, en minutes, nécessaire pour que le père cuise 3 œufs ?",
+        "target": "3 minutes"
+    },
+    {
+        "input": "Chloé se réveille le matin et enchaîne les tâches suivantes :\nS’habiller : 3 minutes\nSe brosser les dents et se laver le visage : 4 minutes\nFaire bouillir de l’eau : 15 minutes\nPrendre le petit-déjeuner : 7 minutes\nLaver la vaisselle : 2 minutes\nOrganiser son sac d’école : 2 minutes\nPréparer le lait en poudre (à emporter à l’école) : 1 minute\nEn réalisant ces activités de la manière la plus efficiente possible, combien de minutes au total sont nécessaires ?",
+        "target": "19 minutes"
+    },
+    {
+        "input": "Madame Dupont possède 9 tabourets. Un peintre est appelé pour leur appliquer deux couches de peinture. La première couche nécessite 2 minutes par tabouret, mais il faut attendre 15 minutes après cette première application pour pouvoir appliquer la deuxième couche. Quel est le temps minimal, en minutes, pour que les 9 tabourets soient entièrement peints ?",
+        "target": "36 minutes"
+    },
+    {
+        "input": "Louis se lève le matin et organise ses activités comme suit :\nSe brosser les dents et se laver le visage (sans eau chaude) : 5 minutes\nNettoyer la bouilloire : 1 minute\nFaire bouillir de l’eau : 10 minutes\nPréparer son sac : 3 minutes\nPréparer le lait du petit-déjeuner : 1 minute\nPrendre le petit-déjeuner : 10 minutes\nEn planifiant ces tâches de manière optimale, quel est le temps minimal requis, en minutes, pour qu’il les accomplisse toutes ?",
+        "target": "22 minutes"
+    },
+    {
+        "input": "Marie se lève et doit réaliser les activités suivantes :\nSe brosser les dents et se laver le visage : 4 minutes\nPrendre son petit-déjeuner : 8 minutes\nNettoyer la bouilloire : 1 minute\nFaire bouillir de l’eau : 12 minutes\nRemplir sa bouteille d’eau : 2 minutes\nEnchaîner ces actions le plus rapidement possible, combien de minutes au total lui faut-il ?",
+        "target": "15 minutes"
+    },
+    {
+        "input": "Un chantier doit être terminé dans un délai fixé. Si c’est l’équipe A qui exécute le travail, celui-ci est achevé pile à la date prévue. S’il en est de l’équipe B qui s’en charge, le chantier se termine avec 3 jours de retard. Cependant, si les équipes A et B coopèrent pendant 2 jours avant que l’équipe B ne termine le reste du travail seule, l’ouvrage est achevé exactement à temps. Quel est le nombre de jours initialement prévus pour le chantier ?",
+        "target": "6 jours"
+    },
+    {
+        "input": "Sur une exploitation, la récolte du blé était planifiée avec 18 personnes travaillant 6 heures par jour pendant 15 jours. Pour accélérer les opérations, on augmente chaque jour l’effectif de 9 personnes et la durée de travail de 2 heures supplémentaires. En conséquence, la récolte est terminée en avance par rapport au planning initial. De combien de jours l’achèvement est-il avancé ?",
+        "target": "7,5 jours"
+    },
+    {
+        "input": "Une mine prévoyait d’effectuer une opération d’extraction en 30 jours avec 50 personnes travaillant 10 heures par jour. Afin d’accélérer le processus, on ajoute quotidiennement 25 personnes et on augmente le temps de travail de 4 heures. De combien de jours l’extraction est-elle terminée plus tôt par rapport à l’échéance prévue ? (Résultat arrondi à une décimale)",
+        "target": "15,7 jours"
+    },
+    {
+        "input": "Quatre personnes, nommées A, B, C et D, se présentent simultanément devant un petit robinet pour se servir en eau. Comme une seule personne peut utiliser le robinet à la fois, les autres doivent attendre. A passe 3 minutes à laver une serpillière. B passe 2 minutes à nettoyer un chiffon. C remplit un seau d’eau en 1 minute. D lave des vêtements en 10 minutes. Quel est le temps minimal requis pour achever l’ensemble des tâches, y compris les attentes ?",
+        "target": "26 minutes"
+    },
+    {
+        "input": "François traverse une rivière à dos de vache, en conduisant les autres vaches, il y a quatre vaches (A, B, C et D). La vache A traverse en 1 minute, les vaches B en 2 minutes, la vache C en 5 minutes et la vache D en 6 minutes. À chaque traversée, on ne peut guider qu'une seule vache à la fois. Quel est le temps minimal requis, en minutes, pour faire traverser les quatre vaches sur l'autre rive ?",
+        "target": "13 minutes"
+    },
+    {
+        "input": "La maison de Maxime se trouve à 10 km de l’école. S’il part à 8 h et fait du vélo à 20 km/h, il arrive pile à l’heure, ce qui représente une arrivée 30 minutes plus précoce que s’il courait tout le trajet. Aujourd’hui, toujours parti à 8 h, il bénéficie d’un covoiturage chez son voisin pour une partie du chemin à 40 km/h et court ensuite les 2 km restants. De combien de minutes Maxime arrive-t-il en avance par rapport à l’heure prévue ?",
+        "target": "6 minutes"
+    },
+    {
+        "input": "Alice, Bertrand et Camille arrivent simultanément à un point d’approvisionnement en eau bouillante pour remplir leurs thermos, en ayant respectivement 2, 3 et 1 bouteille(s). Comme il n’y a qu’un seul robinet et que le remplissage d’une bouteille prend 1 minute, quel est le temps minimal total nécessaire, en minutes, pour que toutes les bouteilles soient remplies ?",
+        "target": "10 minutes"
+    },
+    {
+        "input": "Le directeur général d’une entreprise convoque trois collaborateurs – Paul, Benoît et Christophe – dans son bureau pour un entretien. Leurs entretiens durent respectivement 5, 7 et 6 minutes. Quel est le temps total minimum (comprenant entretien et temps d’attente) requis pour réaliser les trois entretiens ?",
+        "target": "34 minutes"
+    },
+    {
+        "input": "Trois clients se rendent ensemble au comptoir pour effectuer leurs achats. Les temps de service individuels sont de 5 minutes, 3 minutes et 6 minutes. Quel est le temps total minimum (achat + attente) pour servir les trois clients ?",
+        "target": "25 minutes"
+    },
+    {
+        "input": "Pour cuire une galette, il faut la griller sur les deux faces : le premier côté demande 4 minutes et le deuxième 2 minutes. Une poêle peut simultanément cuire 3 galettes. Pour cuire 5 galettes, quel est le temps minimum requis ?",
+        "target": "10 minutes"
+    },
+    {
+        "input": "Un chantier de construction est prévu sur 45 jours. En utilisant des excavatrices, le travail serait terminé 15 jours en avance, tandis qu’en recourant uniquement à la main-d’œuvre, il prendrait 15 jours de retard. Le coût est de 200 euros par jour pour une excavatrice et 80 euros par jour pour la main-d’œuvre. Pendant combien de jours doit-on utiliser l’excavatrice pour achever le chantier dans les 45 jours tout en minimisant le coût ?",
+        "target": "15 jours"
+    },
+    {
+        "input": "Pour réaliser une construction de route dans 60 jours, deux options s’offrent : \n– Utiliser exclusivement de gros engins permet de terminer 20 jours en avance avec un coût journalier de 300 euros. \n– Utiliser uniquement de la main-d’œuvre entraîne un retard de 20 jours avec un coût journalier de 100 euros. \nPour combien de jours doit-on employer les engins afin d’achever le projet dans les 60 jours tout en minimisant le coût ?",
+        "target": "20 jours"
+    },
+    {
+        "input": "Une entreprise doit mener une étude de marché en 10 jours. On sait que : \n– En confiant l’intégralité du projet à une équipe spécialisée, l’étude se termine 5 jours en avance.\n– En confiant le projet uniquement aux employés internes, l’étude aurait un retard de 10 jours.\nSi l’on fait appel à l’équipe spécialisée seulement pendant les 4 premiers jours, de combien de jours l’étude sera-t-elle achevée en avance ?",
+        "target": "2 jours"
+    },
+    {
+        "input": "Julie se rend habituellement au parc en skateboard à une vitesse de 10 km/h, ou bien en courant à 8 km/h. Aujourd’hui, étant partie en avance et ne souhaitant pas arriver trop tôt (sans pause), elle a alterné entre course et skateboard. Elle a mis exactement 13 minutes pour parcourir les 2 km. Combien de minutes a-t-elle passé en skateboard ?",
+        "target": "8 minutes"
+    },
+    {
+        "input": "Zoé dispose de 9 heures aujourd’hui, et doit y consacrer : 2 heures aux tâches ménagères, 4 heures à la lecture de grands classiques, 1 heure pour faire cuire du riz dans le cuiseur, 2 heures à écouter une série radiophonique. Combien de temps au maximum lui reste-t-il pour se reposer ?",
+        "target": "3 heures"
+    },
+    {
+        "input": "Ce matin, j’ai mis 4 minutes pour faire bouillir de l’eau, 2 minutes pour me laver le visage et 3 minutes pour me brosser les dents. Quel est le temps minimum, en minutes, pour réaliser l’ensemble de ces actions ?",
+        "target": "5 minutes"
+    },
+    {
+        "input": "Des invités sont arrivés chez vous et vous souhaitez préparer du thé. Les tâches sont : \nLaver la bouilloire : 2 minutes \nFaire bouillir l’eau : 12 minutes\nAcheter les feuilles de thé : 8 minutes\nLaver les tasses : 2 minutes\nInfuser le thé : 1 minute\nQuel est le temps minimum (en minutes) nécessaire pour que vos invités puissent déguster le thé ?",
+        "target": "15 minutes"
+    },
+    {
+        "input": "Si vous avez 8 heures à organiser samedi, dont 2 heures pour aider à faire le ménage chez maman, 1 heures pour faire du sport et 2 heures pour aller au cinéma, combien d'heures au maximum pouvez-vous consacrer au repos ?",
+        "target": "3 heures"
+    },
+    {
+        "input": "Chaque soir, Chloé doit réaliser les tâches suivantes : mémoriser des expressions idiomatiques pendant 6 minutes, faire bouillir de l’eau pendant 10 minutes, préparer le lait pendant 2 minutes, boire le lait pendant 5 minutes. Quel est le temps total minimum nécessaire, en minutes, pour accomplir ces activités ?",
+        "target": "17 minutes"
+    },
+    {
+        "input": "Dimanche, Pierre doit aider sa mère à la maison en réalisant les tâches suivantes : \nBalayer le sol : 10 minutes \nDépoussiérer les meubles : 15 minutes \nLaver le linge à la machine : 40 minutes \nÉtendre le linge : 5 minutes\nEn aménageant ces tâches de façon optimale, quel est le temps minimum requis (en minutes) pour les terminer ?",
+        "target": "45 minutes"
+    },
+    {
+        "input": "Manon prépare un jus d’orange. Elle doit : \nLaver le gobelet : 1 minute \nLaver la cuillère : 1 minute \nFaire bouillir de l’eau : 8 minutes \nPrendre la poudre d’orange : 2 minutes\nEn organisant ces étapes de manière optimale, quel est le temps minimum (en minutes) pour que Manon puisse déguster son jus ?",
+        "target": "8 minutes"
+    },
+    {
+        "input": "Trois élèves, Antoine, Benoît et Charles, vont se laver les mains, mais il n’existe qu’un seul robinet. Leurs temps individuels sont : \nAntoine : 1 minute\nBenoît : 3 minutes\nCharles : 2 minutes\nAfin de minimiser le temps d’attente total, quel est le temps d’attente minimum cumulé (en minutes) pour les trois ?",
+        "target": "4 minutes"
+    },
+    {
+        "input": "Une poêle permet de frire simultanément 2 poissons. Chaque poisson requiert 6 minutes de cuisson (soit 3 minutes de chaque côté). Pour frire 3 poissons, quel est le temps minimum requis ?",
+        "target": "9 minutes"
+    },
+    {
+        "input": "Dimanche, Pierre veut aider sa mère à faire des tâches ménagères : laver le linge en machine prend 20 minutes, balayer le sol prend 6 minutes, dépoussiérer les meubles prend 15 minutes et étendre le linge prend 5 minutes. Pouvez-vous aider Pierre à déterminer combien de minutes il lui faudrait au minimum pour terminer ces tâches le plus rapidement possible ?",
+        "target": "26 minutes"
+    },
+    {
+        "input": "Madame Dupont doit sortir et, avant de partir, elle doit réaliser ces tâches : \nRanger sa chambre : 5 minutes \nMettre les vêtements et l’eau dans la machine à laver : 1 minute \nLancer le cycle de lavage automatique : 12 minutes \nNettoyer ses chaussures : 3 minutes\nQuel est le temps minimum, en minutes, nécessaire pour terminer ces quatre tâches ?",
+        "target": "13 minutes"
+    },
+    {
+        "input": "Lors d’un grand nettoyage à l’école, quatre élèves, Antoine, Béatrice, Christophe et Daphné, chacun muni d’un seau de capacité différente, vont remplir leurs seaux au même robinet. Le remplissage prend :  \n- Antoine : 3 minutes ;  \n- Béatrice : 5 minutes ;  \n- Christophe : 2 minutes ;  \n- Daphné : 4 minutes.  \nEn supposant qu’un seul élève peut remplir son seau à la fois, quel est le temps total minimum d’attente pour ces quatre élèves ?\n",
+        "target": "16 minutes"
+    },
+    {
+        "input": "Chaque matin, Monsieur Martin doit réaliser trois activités : \nÉcouter les informations : 20 minutes \nSe laver : 8 minutes \nPrendre son petit-déjeuner : 15 minutes \nQuel est le temps minimum total en minutes qu’il lui faut pour accomplir ces tâches ?",
+        "target": "23 minutes"
+    },
+    {
+        "input": "Sophie utilise une poêle pour cuire des galettes. La poêle peut simultanément cuire 2 galettes. Chaque galette nécessite la cuisson des deux faces, 2 minutes par face. Pour cuire 5 galettes, quel est le temps minimum requis ?",
+        "target": "10 minutes"
+    },
+    {
+        "input": "La mère de Maxime est malade. Avant d’aller en cours, Maxime doit :\nPrendre la température de sa mère : 5 minutes \nChercher un médicament contre le rhume : 3 minutes \nFaire bouillir de l’eau et attendre qu’elle atteigne une température adaptée : 8 minutes \nAdministrer le médicament : 1 minute \nEn optimisant l’ordre de ces tâches, quel est le temps minimum nécessaire, en minutes ?",
+        "target": "9 minutes"
+    },
+    {
+        "input": "Dimanche, Pierre veut apprendre à faire des tâches ménagères à la maison. Son programme est le suivant : \nBalayer le sol : 5 minutes\nPasser la serpillière : 10 minutes \nEssuyer les tables et les chaises : 5 minutes \nLaver le linge en machine : 35 minutes \nRanger la pièce : 8 minutes \nÉtendre le linge : 5 minutes \nQuel est le temps total minimum (en minutes) pour achever toutes ces tâches ?",
+        "target": "40 minutes"
+    },
+    {
+        "input": "Maxime fait bouillir de l'eau pour préparer du thé pour un invité. Les étapes sont : \nLaver la bouilloire : 2 minutes \nFaire bouillir l’eau : 12 minutes \nLaver les tasses (à l’eau froide) : 2 minutes \nChercher les feuilles de thé : 1 minute \nEn organisant ces actions de la manière la plus efficace, quel est le temps minimum (en minutes) nécessaire pour servir le thé ?",
+        "target": "14 minutes"
+    },
+    {
+        "input": "Une gaufrière peut cuire simultanément 2 gaufres. Chaque gaufre doit être cuite des deux faces, avec 3 minutes par face. Pour cuire 5 gaufres, quel est le temps minimum requis ?",
+        "target": "15 minutes"
+    },
+    {
+        "input": "Jean prépare du thé vert pour un invité. Les tâches à réaliser sont les suivantes :  \nRemplir d’eau : 1 minute  \nFaire bouillir l’eau : 6 minutes \nLaver la tasse à thé (sans eau chaude) : 2 minutes  \nPrendre les feuilles de thé : 1 minute  \nInfuser le thé vert : 1 minute \nEn organisant judicieusement ces opérations, quel est le temps minimum nécessaire pour que l’invité puisse déguster son thé au plus vite ?",
+        "target": "8 minutes"
+    },
+    {
+        "input": "Une poêle plate ne peut frire que deux bars perches à la fois. Frire une perche nécessite 4 minutes (2 minutes pour chaque face). La mère doit préparer 3 perches. Quel est le temps minimum requis pour les cuire ?",
+        "target": "6 minutes"
+    },
+    {
+        "input": "Marc traverse une rivière à dos de cheval, en conduisant les autres chevaux, il y a quatre chevaux (A, B, C et D). Les temps de traversée pour chaque cheval sont :  \nCheval A : 2 minutes  \nCheval B : 3 minutes  \nCheval C : 6 minutes  \nCheval D : 7 minutes \nOn ne peut faire traverser au maximum que deux chevaux à la fois. Quel est le temps minimum pour amener les quatre chevaux de l’autre côté ?",
+        "target": "18 minutes"
+    },
+    {
+        "input": "Jean organise son emploi du temps de la manière suivante :  \n(1) Se lever et faire son lit : 3 minutes  \n(2) Se brosser les dents : 3 minutes  \n(3) Se laver le visage : 2 minutes  \n(4) Écouter un enregistrement en anglais : 8 minutes \nEn combinant astucieusement ces tâches, quel est le temps minimum pour tout accomplir ?",
+        "target": "8 minutes"
+    },
+    {
+        "input": "Monsieur Dupont doit photocopier 7 documents, chacun devant être reproduit sur les deux faces. La photocopieuse ne peut copier qu’un côté à la fois et accepte au maximum 2 feuilles par opération. Combien d’opérations de copie sont nécessaires au minimum ?",
+        "target": "7 minutes"
+    },
+    {
+        "input": "Jean, Claire et Paul souhaitent emprunter à la bibliothèque le livre Totto-chan, la petite fille à la fenêtre (un seul exemplaire disponible). Ils estiment pouvoir le lire en respectivement :  \nJean : une semaine  \nClaire : 15 jours  \nPaul : 5 jours \nPour minimiser la somme totale des temps d’attente, dans quel ordre devraient-ils emprunter le livre ?",
+        "target": "Paul-Jean-Claire"
+    },
+    {
+        "input": "Au quai, trois navires attendent le déchargement. Les temps requis pour vider chacun sont :  \nNavire A : 10 heures  \nNavire B : 12 heures  \nNavire C : 9 heures \nEn raison d’un effectif insuffisant, le déchargement ne peut s’effectuer qu’un navire à la fois. Dans quel ordre faut-il décharger les navires pour minimiser le temps d’attente cumulé ?",
+        "target": "C-A-B"
+    },
+    {
+        "input": "Lors d’une visite d’une exposition scientifique par des élèves de troisième année, trois élèves se trouvent dans la file de vérification des billets : Sophie se situe 39 positions devant Marie, Sophie se trouve également 50 positions après Pierre, Bernard se place 78 positions devant Marie. Parmi Sophie, Bernard et Pierre, lequel est le premier dans la file ?",
+        "target": "Pierre"
+    },
+    {
+        "input": "Dimanche, Camille veut aider sa mère en réalisant les tâches suivantes : \nLancer la machine à laver : 25 minutes  \nBalayer le sol : 6 minutes  \nDépoussiérer les meubles : 10 minutes  \nÉtendre le linge : 5 minutes  \nSortir les poubelles : 3 minutes \nEn programmant ces activités de la manière la plus efficace, quel est le temps minimum nécessaire pour tout accomplir ?",
+        "target": "30 minutes"
+    },
+    {
+        "input": "Un jeu dure 5 minutes par partie et peut se pratiquer en solo ou à deux. Didier, Chantal et Luc souhaitent chacun jouer 2 parties. Combien de minutes au minimum sont nécessaires pour que chacun joue ses 2 parties ?",
+        "target": "15 minutes"
+    },
+    {
+        "input": "Le dimanche matin, dès son réveil, Claire prévoit d’effectuer les tâches suivantes :  \nBalayer le sol : 3 minutes  \nLaver le sol : 12 minutes  \nFaire bouillir de l’eau : 8 minutes  \nRanger son sac à dos : 2 minutes \nEn optimisant l’ordre d’exécution, quel est le temps minimum nécessaire pour tout terminer ?",
+        "target": "17 minutes"
+    },
+    {
+        "input": "Pour cuire des galettes sur le foyer, il faut griller les deux faces de chaque galette ; chaque face nécessite 3 minutes. Le foyer ne peut accueillir que 2 galettes à la fois. Pour cuire 3 galettes, quel est le temps minimum requis ?",
+        "target": "9 minutes"
+    },
+    {
+        "input": "Antoine effectue les tâches matinales suivantes :  \nS’habiller : 5 minutes  \nFaire son lit : 3 minutes  \nSe brosser les dents : 2 minutes  \nSe laver le visage : 1 minute  \nRéchauffer du lait : 3 minutes  \nFaire griller du pain : 2 minutes  \nPrendre son petit déjeuner : 8 minutes \nEn organisant ces activités de façon optimale, quel est le temps minimum nécessaire ?",
+        "target": "19 minutes"
+    },
+    {
+        "input": "Des visiteurs arrivent chez Jean, qui doit leur préparer un thé au jasmin. Les étapes à réaliser sont :  \nLaver la bouilloire : 2 minutes  \nFaire bouillir de l’eau : 15 minutes  \nLaver la tasse à thé (sans eau chaude) : 1 minute  \nRemplir la bouilloire d’eau : 1 minute  \nChercher les feuilles de thé : 1 minute  \nInfuser le thé : 1 minute \nEn organisant ces opérations de manière optimale, quel est le temps minimum avant que les invités puissent déguster leur au jasmin ?",
+        "target": "19 minutes"
+    },
+    {
+        "input": "La mère utilise une petite poêle qui peut cuire au maximum 2 galettes à l’œuf à la fois. Chaque galette nécessite 2 minutes de cuisson (1 minute par face). Pour préparer 7 galettes, combien de minutes sont nécessaires au minimum ?",
+        "target": "7 minutes"
+    },
+    {
+        "input": "Pour faire griller du pain, la première face nécessite 2 minutes, tandis que la seconde face (le pain étant déjà sec) ne demande que 1 minute. Comme le grille-pain de maman ne peut contenir que deux tranches à la fois, quel est le temps minimal requis pour griller trois tranches ?",
+        "target": "5 minutes"
+    },
+    {
+        "input": "Dans un salon de coiffure où un seul coiffeur est présent, trois clients arrivent simultanément :  \nLe client A souhaite une coupe de cheveux (pas de séchage) et un rasage \nLe client B demande uniquement un rasage  \nLe client C souhaite une coupe de cheveux, un rasage et un séchage \nIl n'y a qu'un seul coiffeur dans le salon. Veuillez prévoir un ordre raisonnable afin de minimiser le temps d'attente total des trois personnes.",
+        "target": "B-A-C"
+    },
+    {
+        "input": "Dans un steakhouse, la cuisson d’un steak requiert 6 minutes (3 minutes pour chaque face). Une plaque de cuisson ne peut contenir que 4 steaks à la fois. Pour cuire 15 steaks, quel est le temps minimum nécessaire, en optimisant le chevauchement des cuissons ?",
+        "target": "24 minutes"
+    },
+    {
+        "input": "La salle de reprographie de l’école doit copier 32 documents sur les deux faces. Si, à chaque opération, on peut placer au maximum 3 feuilles, combien d’opérations sont nécessaires au minimum pour réaliser toutes les copies ?",
+        "target": "22 minutes"
+    },
+    {
+        "input": "Dans un restaurant spécialisé dans les côtelettes de porc, cuire une côtelette nécessite 6 minutes (3 minutes pour chaque face). Une plaque ne peut accueillir simultanément que 4 côtelettes. Pour cuire 20 côtelettes, quel est le temps minimum requis ?",
+        "target": "30 minutes"
+    },
+    {
+        "input": "Après son réveil, Didier doit effectuer les tâches suivantes :  \nS’habiller : 2 minutes  \nFaire son lit : 2 minutes  \nSe laver le visage et se coiffer : 5 minutes  \nAller aux toilettes : 3 minutes  \nAttendre que le petit déjeuner refroidisse : 12 minutes  \nPrendre le petit déjeuner : 8 minutes\nQuel est le temps total minimum en minutes que Didier doit consacrer si l’on organise ces tâches de façon optimale ?",
+        "target": "20 minutes"
+    },
+    {
+        "input": "Quatre élèves se rendent, chacun avec un seau de taille différente, au robinet. Pour remplir intégralement leur seau, les temps sont les suivants : \nÉlève A : 5 minutes\nÉlève B : 4 minutes\nÉlève C : 3 minutes\nÉlève D : 2 minutes\nSachant qu’il n’existe qu’un seul robinet, quelle est la somme minimale des temps d’attente en minutes pour que chacun puisse remplir son seau ?",
+        "target": "16 minutes"
+    },
+    {
+        "input": "Le professeur Pierre doit tenir un entretien individuel avec quatre élèves désignés par A, B, C et D. Les durées d’entretien sont respectivement : \nÉlève A : 6 minutes\nÉlève B : 10 minutes\nÉlève C : 8 minutes\nÉlève D : 5 minutes\nEn organisant judicieusement l’ordre des entretiens, quel est le total minimal en minutes des temps d’attente cumulés pour ces élèves ?",
+        "target": "35 minutes"
+    },
+    {
+        "input": "Avant de sortir faire ses courses, Mme Léa doit terminer ces tâches :  \nRanger la chambre : 5 minutes  \nMettre le linge sale dans la machine à laver : 1 minute\nLaisser la machine réaliser son cycle automatique : 12 minutes  \nCirer les chaussures : 3 minutes  \nÉtendre le linge : 1 minute\nAu bout de combien de minutes au minimum Mme Léa peut-elle sortir, en organisant ces tâches de manière optimale ?",
+        "target": "14 minutes"
+    },
+    {
+        "input": "Puisque sa mère est au travail, Camille doit se préparer à manger seule. Pour cela, elle dispose des étapes suivantes : \nRincer le riz : 3 minutes  \nLaver la casserole : 1 minute \nCuire le riz dans le cuiseur : 20 minutes \nRéchauffer quelques plats préparés par sa mère au micro-ondes : 8 minutes  \nPréparer une soupe : 3 minutes\nEn optimisant l’enchaînement des opérations, quel est le temps minimum en minutes après lequel Camille pourra manger ?",
+        "target": "24 minutes"
+    },
+    {
+        "input": "Dans le grille-pain, la première face d’une tranche se grille en 2 minutes et la seconde en 1 minute (soit 3 minutes par tranche). Le grille-pain de Philipe ne pouvant accueillir que 2 tranches simultanément, il doit griller 3 tranches pour le petit déjeuner.\nQuel est le temps minimum en minutes nécessaire pour griller les 3 tranches ?",
+        "target": "5 minutes"
+    },
+    {
+        "input": "Cinq personnes (A, B, C, D, E) effectuent des opérations (dépôts et retraits) au même guichet, et leurs transactions prennent respectivement : \nA : 10 minutes  \nB : 6 minutes  \nC : 8 minutes  \nD : 3 minutes  \nE : 15 minutes\nEn optimisant l’ordre de passage, quel est le temps total minimum d’attente cumulée pour ces 5 personnes ?",
+        "target": "56 minutes"
+    },
+    {
+        "input": "Le dimanche, Yann aide sa mère et réalise les activités suivantes :  \nCuire du riz dans le cuiseur : 35 minutes  \nFaire ses devoirs de langue : 15 minutes  \nFaire ses devoirs de mathématiques : 10 minutes\nEn planifiant astucieusement ces tâches, quel est le temps minimum en minutes nécessaire pour tout terminer ?",
+        "target": "35 minutes"
+    },
+    {
+        "input": "Un médecin doit examiner trois patients, Clara, Paul et Jean  : \nClara : 4 minutes  \nPaul : 10 minutes  \nJean : 7 minutes\nQuel est le temps total minimum d’attente en minutes pour que ces consultations soient réalisées ?",
+        "target": "15 minutes"
+    },
+    {
+        "input": "Pour chaque petit tableau noir, il faut appliquer la peinture sur une face en 2 minutes et attendre 10 minutes pour que la peinture sèche avant de peindre l’autre face.\nPour peindre les deux faces de 6 tableaux ainsi, quel est le temps minimum en minutes requis ?",
+        "target": "24 minutes"
+    },
+    {
+        "input": "Dans un salon où le seul coiffeur doit s’occuper de 4 clients arrivant en même temps, les prestations demandées nécessitent :  \nClient A : 15 minutes  \nClient B : 25 minutes  \nClient C : 18 minutes  \nClient D : 40 minutes\nDans quel ordre le coiffeur doit-il organiser ces coupes pour minimiser le temps total en minutes de coiffure et d’attente cumulée pour les 4 clients ?",
+        "target": "A-C-B-D"
+    },
+    {
+        "input": "Jean a contracté un rhume, après avoir pris son médicament, Jean doit se reposer aussitôt. Il réalise les étapes suivantes :  \nFaire bouillir de l’eau : 1 minute  \nAttendre que l’eau refroidisse (atteigner une température adaptée) : 7 minutes  \nChercher son médicament contre le rhume : 1 minute  \nPrendre sa température : 5 minutes \nEn organisant judicieusement ces tâches, quel est le temps minimum en minutes nécessaire pour que Jean puisse se reposer au plus vite ?",
+        "target": "8 minutes"
+    },
+    {
+        "input": "Une grille-pain ne peut accueillir que 2 tranches de pain simultanément, et chaque face se cuit en 2 minutes. Claire a besoin de 3 tranches pour le petit déjeuner. Quel est le temps minimum à attendre (en minutes) pour que les 3 tranches soient entièrement toastées ?",
+        "target": "6 minutes"
+    },
+    {
+        "input": "Trois élèves se rendent ensemble à la bibliothèque pour rendre leurs livres, mais un seul élève peut effectuer le dépôt à la fois. Les temps nécessaires sont :  \nÉlève A : 4 minutes  \nÉlève B : 2 minutes  \nÉlève C : 8 minutes \nQuelle est la somme minimale des temps d’attente en minutes pour l’ensemble des trois élèves si l’on organise leur passage de façon optimale ?",
+        "target": "8 minutes"
+    },
+    {
+        "input": "Léa, Maxime et Camille participent simultanément au concours d'éloquence « Jeunes Journalistes de l'École ». Leurs temps de discours sont respectivement :  \nLéa : 6 minutes  \nMaxime : 2 minutes  \nCamille : 5 minutes \nPour minimiser le temps d’attente total, dans quel ordre devrait-on programmer leurs interventions ?",
+        "target": "Maxime-Camille-Léa"
+    },
+    {
+        "input": "Pour construire un canal : L’équipe A, travaillant seule, met 20 jours. L’équipe B, travaillant seule, met 30 jours. Lorsqu’elles collaborent, leur efficacité est réduite à : 4/5 pour l’équipe A, 9/10 pour l’équipe B. On souhaite terminer le canal en 16 jours tout en minimisant le nombre de jours où les deux équipes travaillent ensemble. Combien de jours de travail commun sont nécessaires ?",
+        "target": "10 jours"
+    },
+    {
+        "input": "Pour une même tâche : A et B, en travaillant ensemble, terminent en 4 heures. B et C, en travaillant ensemble, terminent en 5 heures. Le plan consiste à faire travailler A et C ensemble pendant 2 heures puis à confier le reste du travail à B, qui y consacre 6 heures. Selon ce planning, B, s’il devait réaliser la totalité de la tâche seul, mettrait-il combien d’heures ?",
+        "target": "20 heures"
+    },
+    {
+        "input": "Un projet est réalisé selon deux plannings alternés : Dans le premier cas : A travaille le premier jour, B travaille le deuxième jour, encore A le troisième jour, puis B le quatrième jour, et ainsi de suite. Il sera alors terminé en un nombre entier de jours. Ce qui permet de terminer en un nombre entier de jours. Dans le second cas, l’ordre est inversé (commençant par B, puis A, etc.) et la durée totale excède celle du premier planning d’une demi-journée. On sait que B, travaillant seul, met 17 jours pour achever le projet. Combien de jours mettrait A pour terminer le projet s’il travaillait seul ?",
+        "target": "8,5 jours"
+    },
+    {
+        "input": "Selon le plan de production, le maître et son apprenti doivent traiter le même nombre de pièces. Au moment où le maître a accompli la moitié de son travail, l’apprenti a traité 120 pièces. Lorsque le maître termine l’ensemble de sa tâche, l’apprenti a complété 4/5 de sa part assignée. Combien de pièces comporte la totalité du lot ?",
+        "target": "300 pièces"
+    },
+    {
+        "input": "Pour un lot de jeunes plants, on a constaté que : si l’on répartit la tâche entre garçons et filles, chaque élève plante en moyenne 6 arbres ; si le plan est conçu pour que seules les filles reçoivent une part, chacune plante en moyenne 10 arbres. Si, à l’inverse, on attribuait une part réservée uniquement aux garçons, combien d’arbres, en moyenne, chaque garçon planterait-il ?",
+        "target": "15 arbres"
+    },
+    {
+        "input": "Antoine doit sortir à vélo, mais avant de partir, il doit accomplir les tâches suivantes :  \nGonfler les pneus de son vélo : 2 minutes  \nRanger sa chambre dans le dortoir : 7 minutes  \nCirer ses chaussures : 2 minutes  \nMettre ses vêtements dans la machine (en laissant l’eau couler) : 1 minute\nLaisser le cycle de lavage de la machine : 12 minutes \nRincer, essorer et étendre ses vêtements : 5 minutes \nQuel est le temps minimum total en minutes nécessaire pour que Antoine soit prêt ?",
+        "target": "18 minutes"
+    },
+    {
+        "input": "Émilie se lève le matin et exécute les tâches suivantes :  \nFaire son lit : 3 minutes  \nSe laver (brossage, lavage du visage, etc.) : 4 minutes  \nFaire bouillir de l’eau : 10 minutes  \nPrendre son petit déjeuner : 7 minutes  \nLaver la vaisselle : 1 minute  \nPréparer son sac : 2 minutes \nQuel est le temps minimum (en minutes) pour réaliser l’ensemble de ces opérations ?",
+        "target": "17 minutes"
+    },
+    {
+        "input": "Jean quitte sa maison tous les matins à 6h50 pour arriver à l’école à 7h20. Son professeur lui suggère d’arriver 6 minutes plus tôt demain. S’il part à 6h50 demain également, il devra courir 25 mètres supplémentaires par minute par rapport à sa vitesse habituelle pour atteindre l’école à l’heure souhaitée. Quelle est la distance en mètres entre la maison de Jean et l’école ?",
+        "target": "3000 mètres"
+    },
+    {
+        "input": "Un projet doit être terminé à une date fixée. Si l’équipe A travaille seule, elle finirait avec 1 jour de retard ; si l’équipe B travaille seule, elle terminerait avec 4 jours de retard. À présent, A et B travaillent ensemble pendant 3 jours, puis B continue seul pour achever le projet, qui se termine exactement à la date prévue. Quelle est la durée en jours de l’échéance fixée ?",
+        "target": "8 jours"
+    },
+    {
+        "input": "Pierre et Louis comptent ensemble une collection de livres. On sait que le temps que met Pierre pour compter 200 livres est identique à celui que Louis met pour compter 300 livres, et que Louis compte en moyenne 10 livres de plus par minute que Pierre. Combien de livres Pierre compte-t-il, en moyenne, par minute ?",
+        "target": "20 livres"
+    },
+    {
+        "input": "Sur l’autoroute Titans, un tunnel doit être construit. L’équipe A, travaillant seule, mettrait 200 jours pour terminer le tunnel. Pour ouvrir la route plus rapidement, les équipes A et B œuvrent ensemble et le tunnel est achevé en 120 jours. Combien de jours l’équipe B mettrait-elle, travaillant seule, pour terminer le tunnel ?",
+        "target": "300 jours"
+    },
+    {
+        "input": "Pour classer un lot de livres dans un délai imparti, une personne seule mettrait 60 heures. Le plan prévoit qu’un certain nombre de personnes commence le classement pendant 1 heure, puis que 15 personnes supplémentaires se joignent pour travailler ensemble pendant 2 heures, et le travail est ainsi achevé exactement dans les temps. Dans le cadre de cette planification, nous supposons que chaque personne a la même efficacité au travail. Combien de personnes ont été engagées initialement ?",
+        "target": "10 personnes"
+    },
+    {
+        "input": "Sophie prépare du thé pour un invité. Elle effectue les opérations suivantes : \nPuiser de l’eau : 1 minute  \nPorter l’eau à ébullition : 5 minutes  \nLaver la tasse à thé (sans utiliser d’eau chaude) : 3 minutes  \nRécupérer les feuilles de thé : 1 minute \nEn organisant ces étapes de manière judicieuse, quel est le temps minimum en minutes nécessaire pour terminer le tout ?",
+        "target": "6 minutes"
+    },
+    {
+        "input": "Madame Rouget utilise sa poêle pour cuisiner des galettes. Celle-ci ne peut contenir que 2 galettes à la fois. Pour chaque galette, chaque face doit être cuite pendant 2 minutes (les deux faces devant être traitées). Pour cuire 3 galettes, quel est le temps minimum (en minutes) requis ?",
+        "target": "6 minutes"
+    },
+    {
+        "input": "Monsieur Dupont doit, chaque matin dès son arrivée à l’école, accomplir les tâches suivantes : ranger les tables et les chaises (5 minutes), nettoyer le bureau (10 minutes), écouter de la musique (30 minutes), corriger les devoirs d’hier (20 minutes), faire des exercices de gymnastique (10 minutes) et discuter avec les délégués de classe (5 minutes). Si le cours commence à 8h00, à quelle heure au plus tard doit-il arriver à l’école ?",
+        "target": "7h10"
+    },
+    {
+        "input": "Un boulanger prépare le pain de la façon suivante : la première face est cuite pendant 2 minutes et la deuxième pendant 1 minute, soit 3 minutes par tranche. Comme le support ne peut accueillir que deux tranches à la fois, et qu’il doit consommer 5 tranches chaque matin, combien de minutes au minimum faut-il pour griller le pain ?",
+        "target": "8 minutes"
+    },
+    {
+        "input": "Pour cuire une galette, il convient de la faire griller des deux côtés, chaque face nécessitant 3 minutes. Une poêle permet de cuire simultanément 3 galettes. Pour réaliser la cuisson de 5 galettes, combien de minutes au minimum seront nécessaires ?",
+        "target": "12 minutes"
+    },
+    {
+        "input": "Pour réparer un ensemble de pièces, une seule personne mettrait 20 heures si elle travaillait seule. On a d’abord affecté une personne qui a travaillé 2 heures pour réparer les pièces, puis une équipe supplémentaire a rejoint cette personne pour travailler 3 heures, ce qui a permis de terminer exactement les réparations. En supposant que chacun travaille à la même vitesse, combien de personnes supplémentaires ont été recrutées ?",
+        "target": "5 personnes"
+    },
+    {
+        "input": "L’école envisage d’employer quelques personnes pour réparer le gazon. Si une seule personne pouvait réaliser cette tâche, il lui faudrait 240 heures. On prévoit de faire travailler un groupe pendant 5 heures, puis d'ajouter 15 personnes pour travailler ensemble pendant 4 heures, de manière à terminer exactement le travail. En supposant que chaque personne a la même efficacité, combien de personnes composaient le premier groupe ?",
+        "target": "20 personnes"
+    },
+    {
+        "input": "Deux personnes, A et B, fabriquent le même type de jouet. Le temps que A prend pour produire 90 jouets équivaut au temps que B prend pour 120 jouets. Sachant qu’ensemble ils fabriquent 35 jouets par jour, combien de jouets A produit-il quotidiennement ?",
+        "target": "15 jouets"
+    },
+    {
+        "input": "Pour rénover une autoroute, il est nécessaire de creuser un tunnel de 1300 mètres. Afin d’améliorer l’efficacité, le commandement a décidé que deux équipes, A et B, commenceraient à creuser simultanément aux deux extrémités. Il est établi que l’équipe A peut creuser 10 mètres de plus par jour que l’équipe B, et que le temps qu’il faut à l’équipe A pour creuser 300 mètres est identique à celui que met l’équipe B pour creuser 200 mètres. Combien de mètres chacune des équipes peut-elle creuser par jour ?",
+        "target": "A 30 mètres par jour, B 20 mètres par jour"
+    },
+    {
+        "input": "Dans le cadre d’un appel d’offres pour un projet d’embellissement urbain, deux entreprises, A et B, ont soumis leurs propositions. D’après les estimations, l’équipe A mettrait 60 jours pour achever le projet seule, tandis que l’équipe B en mettrait 90. Si l’équipe A travaille d’abord seule pendant 20 jours, puis que les deux équipes collaborent pour terminer le reste des travaux, pendant combien de jours devront-elles travailler en commun ?",
+        "target": "24 jours"
+    },
+    {
+        "input": "M. Lenoir recherche quelqu’un pour développer une petite application. Si Jean peut la réaliser en 6 heures et que Pierre en met 8 heures, combien de temps leur faudra-t-il s’ils travaillent ensemble ? (Arrondissez à une décimale.)",
+        "target": "3,4 heures"
+    },
+    {
+        "input": "Faire la vaisselle et ranger la cuisine prennent 20 minutes, faire bouillir de l’eau et préparer le thé 15 minutes, laver une housse de couette à la machine 1 heure, laver des vêtements à la main 20 minutes, et mettre les vêtements dans la machine pour l’essorage 5 minutes. Au minimum, combien de minutes la mère de Léo doit-elle consacrer pour réaliser ces tâches ?",
+        "target": "65 minutes"
+    },
+    {
+        "input": "Faire cuire un œuf nécessite 8 minutes. Une casserole peut cuire 15 œufs à la fois. Combien de minutes au moins faut-il pour cuire 27 œufs ?",
+        "target": "16 minutes"
+    },
+    {
+        "input": "Pour préparer de l’eau bouillante afin de faire du thé au lait pour des invités, Maxime doit laver la bouilloire en 2 minutes, faire bouillir l’eau en 12 minutes, laver une tasse à thé en 2 minutes (sans eau chaude) et prendre le thé en poudre en 1 minute. En organisant les tâches de la manière la plus optimisée, au bout de combien de minutes les invités pourront-ils déguster leur thé au lait ?",
+        "target": "14 minutes"
+    },
+    {
+        "input": "Avant de se coucher, Julien doit réaliser les tâches suivantes : faire son lit (2 minutes), se laver le visage et se brosser les dents (3 minutes), ranger son sac (2 minutes), écouter de l’anglais (5 minutes) et se laver les pieds avec un bain de pieds (5 minutes). Combien de minutes minimum lui faut-il pour tout accomplir ?",
+        "target": "12 minutes"
+    },
+    {
+        "input": "Maman grille des tranches de pain. Chaque tranche nécessite 5 minutes de cuisson, avec 3 minutes pour une face et 2 minutes pour l’autre. Le four ne peut contenir que 2 tranches à la fois. Si elle doit griller 3 tranches, 8 minutes suffisent-elles ?",
+        "target": "Suffisant"
+    },
+    {
+        "input": "Dans un parc d’attractions, il existe un stand de tir à l’arc et un stand de vélo. Chaque session (tir à l’arc ou vélo) dure 4 minutes, et sur chaque stand, un seul enfant peut jouer à la fois. Si 3 enfants souhaitent essayer les deux activités, combien de minutes au minimum seront nécessaires ?",
+        "target": "12 minutes"
+    },
+    {
+        "input": "Chez Madame Martin, la poêle peut cuire simultanément 10 galettes de pommes de terre, qui doivent être frites sur les deux faces, chaque face nécessitant 3 minutes. Or, un client a commandé 15 galettes et demande qu’elles soient prêtes en 10 minutes. Madame Martin peut-elle respecter ce délai ?",
+        "target": "Oui"
+    },
+    {
+        "input": "Pierre, Marie et Sophie se rendent simultanément à deux épreuves — la récitation et l’écriture. Chaque épreuve dure 5 minutes par élève, et deux enseignants surveillent respectivement ces tests. Quel est le temps minimum nécessaire pour que tous les élèves terminent leurs épreuves ?",
+        "target": "15 minutes"
+    },
+    {
+        "input": "Le matin, Léa se brosse les dents et se lave le visage en 3 minutes, fait bouillir de l’eau en 15 minutes, remplit sa gourde en 2 minutes et prend son petit-déjeuner en 8 minutes. Quel est le temps minimum nécessaire pour qu’elle termine l’ensemble de ces tâches ?",
+        "target": "17 minutes"
+    },
+    {
+        "input": "Le matin, Jean Dupont doit accomplir les tâches suivantes : laver la bouilloire en 1 minute, faire bouillir l’eau en 12 minutes, remplir sa gourde en 2 minutes, prendre son petit-déjeuner en 8 minutes et préparer son sac d’école en 2 minutes. Quel est le temps minimum nécessaire pour achever l’ensemble de ces activités ?",
+        "target": "15 minutes"
+    },
+    {
+        "input": "Alain, Benoît, Charles et Didier doivent traverser un pont. Ils mettent respectivement 1 minute, 2 minutes, 5 minutes et 10 minutes pour traverser. Comme il fait nuit, ils doivent utiliser une lampe de poche, mais ils n’en disposent que d’une, et le pont ne peut supporter que deux personnes à la fois. Quel est le temps minimum nécessaire pour que tous traversent ?",
+        "target": "17 minutes"
+    },
+    {
+        "input": "Alain, Benoît et Charles se rendent simultanément à un robinet. Cependant, le robinet ne peut être utilisé que par une personne à la fois. Alain met 3 minutes pour laver sa serpillière, Benoît 10 minutes pour laver des vêtements, et Charles 2 minutes pour remplir un seau d’eau. Quel est le temps total minimum (temps d’utilisation et d’attente confondus) que l’on peut obtenir ?",
+        "target": "22 minutes"
+    },
+    {
+        "input": "Lemoine, Girard et Moreau se rendent simultanément dans un petit restaurant. Le restaurant ne dispose que d’un seul chef, qui ne prépare qu’un plat à la fois. Chez Girard, pour des raviolis, l’attente est de 6 minutes ; chez Lemoine, pour un œuf au plat, 2 minutes ; et chez Moreau, pour des nouilles, 5 minutes. Quel est le temps total minimum d’attente (somme des temps pour chacun) ?",
+        "target": "22 minutes"
+    },
+    {
+        "input": "Le matin, Marie se brosse les dents et se lave le visage en 3 minutes, lave la bouilloire en 1 minute, lit pendant 8 minutes, fait bouillir de l’eau pendant 18 minutes, remplit sa gourde en 2 minutes, et prend son petit-déjeuner en 5 minutes. Quel est le temps minimum nécessaire pour qu’elle termine toutes ces activités ?",
+        "target": "21 minutes"
+    },
+    {
+        "input": "À l’aide d’une poêle, on doit cuire des crêpes. La poêle ne peut contenir que deux crêpes simultanément, et la cuisson d’une crêpe nécessite 4 minutes (2 minutes pour chaque côté). Sachant qu’il faut cuire trois crêpes, quel est le temps minimum requis ?",
+        "target": "6 minutes"
+    },
+    {
+        "input": "Chloé doit aller en ville avec sa mère. Avant de sortir, elles doivent accomplir les tâches suivantes : ranger la chambre en 5 minutes, lancer le cycle de lavage automatique en 20 minutes, étendre le linge en 2 minutes, nettoyer les chaussures en 4 minutes, se coiffer et se laver le visage en 8 minutes et préparer leurs sacs en 2 minutes. En organisant ces activités de manière optimale, après combien de minutes au minimum pourront-elles partir ?",
+        "target": "22 minutes"
+    },
+    {
+        "input": "Trois élèves se rendent à la médiathèque pour emprunter des livres. Alain a besoin de 4 minutes, Benoît de 8 minutes et Charles de 3 minutes. Quel est le temps total minimum (temps de prise en charge + temps d’attente) pour que chacun puisse emprunter son livre ?",
+        "target": "25 minutes"
+    },
+    {
+        "input": "Le dimanche, plusieurs collègues de la mère de Lilou se rendent chez elle. Lilou est demandé de faire bouillir de l’eau et de préparer du thé pour les invités. Elle commence ainsi : laver la bouilloire en 1 minute, faire bouillir l’eau en 8 minutes, laver la théière en 1 minute (sans utiliser d’eau chaude), laver les tasses en 2 minutes (sans utiliser d’eau chaude), sortir le thé  en 2 minutes et infuser le thé en 1 minute. Combien de temps lui faudra-t-elle au minimum pour que les invités puissent déguster le thé ?",
+        "target": "10 minutes"
+    },
+    {
+        "input": "Le matin, Léo doit accomplir les tâches suivantes : laver la bouilloire en 1 minute, faire bouillir de l’eau en 14 minutes, remplir sa gourde en 2 minutes, prendre son petit-déjeuner en 8 minutes et préparer son sac d’école en 2 minutes. Quel est le temps minimum nécessaire pour terminer l’ensemble de ces activités ?",
+        "target": "17 minutes"
+    },
+    {
+        "input": "Le matin, Claire se brosse les dents et se lave le visage (sans utiliser d’eau chaude) en 4 minutes, lit pendant 8 minutes, fait bouillir de l’eau en 10 minutes, prépare du lait chaud en 1 minute et prend son petit-déjeuner en 5 minutes. Au minimum, combien de minutes s’écoulent entre son réveil et son départ pour l’école ?",
+        "target": "18 minutes"
+    },
+    {
+        "input": "Madame Martin doit sortir, mais avant cela, elle doit accomplir les tâches suivantes : ranger la chambre en 5 minutes, mettre les vêtements dans la machine à lever en 1 minute, lancer le cycle de lavage automatique en 12 minutes, nettoyer ses chaussures en 3 minutes et étendre le linge en 4 minutes. Au bout de combien de minutes au minimum pourra-t-elle partir ?",
+        "target": "17 minutes"
+    },
+    {
+        "input": "Lors de la cuisson des galettes, la première face doit être rôtie pendant 3 minutes et la seconde pendant 2 minutes, tandis que le plateau ne peut accueillir que deux galettes à la fois. Combien de minutes faut‑il au minimum pour cuire trois galettes ?",
+        "target": "8 minutes"
+    },
+    {
+        "input": "Albert, Bernard, Charles et Didier possèdent chacun un champ de blé. Ils ne disposent que d’une seule moissonneuse, et les récoltes nécessitent respectivement 4 heures, 1 heure, 3 heures et 2 heures. Quel est le temps total minimum (comprenant la récolte et le temps d’attente) pour terminer le travail ?",
+        "target": "20 heures"
+    },
+    {
+        "input": "Dans le service de santé, quatre étudiants attendent le médecin, qui ne peut soigner qu’un patient à la fois. Albert doit recevoir une injection en 3 minutes,  Bernard nécessite un changement de pansement en 4 minutes, Charles doit se faire appliquer du peroxyde d'hydrogène en 2 minutes, Didier a besoin d’un traitement par collyres en 1 minute. Quel est le minimum total de minutes d’attente cumulée pour ces quatre étudiants ?",
+        "target": "10 minutes"
+    },
+    {
+        "input": "Trois clients se rendent à un même guichet où un seul client peut être servi à la fois. Albert met 4 minutes, Bernard 6 minutes, Charles 2 minutes. Quel est le total minimal de minutes (temps d’achat et d’attente inclus) pour les trois clients ?",
+        "target": "20 minutes"
+    },
+    {
+        "input": "Marc traverse une rivière à dos de cheval, en conduisant les autres chevaux, il y a quatre chevaux (A, B, C et D). Les temps de traversée pour chaque cheval sont : \nCheval A : 7 minutes\nCheval B : 2 minutes\nCheval C : 3 minutes\nCheval D : 8 minutes\nSi seules deux traversées simultanées sont autorisées, combien de minutes faut‑il au minimum pour amener les quatre chevaux sur l’autre rive ?",
+        "target": "19 minutes"
+    },
+    {
+        "input": "Dans une classe de CE2, Élise, Sophie et Guillaume se présentent simultanément à l’infirmerie de l’école pour être soignés. Élise doit recevoir une injection en 5 minutes, Sophie nécessite un pansement en 3 minutes, Guillaume a besoin d’un traitement par collyres en 1 minute. Sachant que l’infirmerie n'a que Madame Dupont, quel est le temps total minimum d’attente cumulé pour ces trois élèves ?",
+        "target": "14 minutes"
+    },
+    {
+        "input": "Pierre, Marie et Nicolas souhaitent emprunter le même album illusté dans une médiathèque d’images. Pierre affirme pouvoir le lire en une semaine, Marie en deux semaines, Nicolas en 5 jours. Pour minimiser la somme des temps d’attente, dans quel ordre l’emprunt de l’album devrait‑on organiser ?",
+        "target": "Nicolas-Pierre-Marie"
+    },
+    {
+        "input": "Louis, Fifi et Béatrice se rendent ensemble dans un salon de coiffure où un seul coiffeur est disponible. Louis nécessite 20 minutes, Fifi 30 minutes, Béatrice 40 minutes. Afin de minimiser la somme totale des temps d’attente, quel ordre de passage est le plus approprié ?",
+        "target": "Louis-Fifi-Béatrice"
+    },
+    {
+        "input": "Thomas, membre de l’équipe de tennis‑de‑table de son école, passe par les étapes suivantes avant chaque séance : \nChanger de vêtements : 3 minutes\nChanger de chaussures : 2 minutes\nRécupérer sa raquette : 1 minute\nEffectuer l’échauffement : 4 minutes\nÉcouter les bulletins du match : 2 minutes.\nQuel est le nombre minimum de minutes nécessaires pour que Thomas puisse commencer l’entraînement au plus tôt ?",
+        "target": "10 minutes"
+    },
+    {
+        "input": "Chloé doit effectuer les tâches suivantes le soir : écouter de la musique en 10 minutes, se laver et se préparer en 20 minutes, prendre son repas en 30 minutes. Quel est le temps minimum total nécessaire pour mener à bien ces activités ?",
+        "target": "50 minutes"
+    },
+    {
+        "input": "Chaque matin, Grand‑père Jean consacre 10 minutes à préparer le petit‑déjeuner, 10 minutes à le déguster, 20 minutes à écouter la radio et 30 minutes à arroser les plantes et jardiner. Quel est le temps minimum en minutes requis pour accomplir l’ensemble de ces tâches ?",
+        "target": "50 minutes"
+    },
+    {
+        "input": "Chaque matin, Tante Claire doit : faire bouillir de l’eau (10 minutes), préparer le petit‑déjeuner (20 minutes), faire la lessive (20 minutes), utiliser les toilettes (20 minutes). Quel est le temps minimum nécessaire pour terminer ces tâches ?",
+        "target": "60 minutes"
+    },
+    {
+        "input": "Trois collègues, Albert, Bernard et Charles, utilisent une même imprimante. Albert met 3 minutes pour imprimer, Bernard 2 minutes, Charles 7 minutes. Dans quel ordre doivent‑ils lancer leurs impressions pour minimiser la somme totale des temps d’attente ?",
+        "target": "Bernard-Albert-Charles"
+    },
+    {
+        "input": "Trois athlètes se relaient sur une même piste : Albert termine en 8 minutes, Bernard en 10 minutes, Charles en 12 minutes. Quel ordre de passage permet de réduire au minimum la somme totale des temps d’attente ?",
+        "target": "Albert-Bernard-Charles"
+    },
+    {
+        "input": "Trois cuisiniers utilisent une seule plaque de cuisson pour préparer leur plat : Le chef A termine en 12 minutes, le chef B en 15 minutes, le chef C en 8 minutes. Quel ordre d’utilisation de la plaque minimisant la somme totale des temps d’attente ?",
+        "target": "C一A一B"
+    },
+    {
+        "input": "Gaspard (grand frère), Charlotte (grande sœur) et Zoé (la cadette) se rendent ensemble à une imprimante pour imprimer des documents. Gaspard met 16 minutes, Charlotte 10 minutes, Zoé 8 minutes. Quel ordre de passage permet de réaliser la somme des temps d’attente minimale ?",
+        "target": "Zoé-Charlotte-Gaspard"
+    },
+    {
+        "input": "Trois médecins, Albert, Bernard et Charles, opèrent à tour de rôle sur une même table d’opération. Albert termine en 100 minutes, Bernard en 50 minutes, Charles en 15 minutes. Quel ordre de passage minimise la somme totale des temps d’attente ?",
+        "target": "Charles-Bernard-Albert"
+    },
+    {
+        "input": "Chaque matin, Lina doit réaliser les tâches suivantes : se laver en 10 minutes, écouter de la musique en 20 minutes, préparer le petit‑déjeuner en 10 minutes, faire le ménage en 20 minutes. Quel est le temps minimum total pour terminer ces activités ?",
+        "target": "40 minutes"
+    },
+    {
+        "input": "Maxime se prépare à faire un verre de jus de raisin. Il doit laver le verre en 1 minute, faire bouillir l’eau en 2 minutes, prendre la poudre de raisin en 2 minutes et laisser infuser le mélange pendant 3 minutes. Après avoir organisé ses opérations de manière optimale, il parvient à boire du jus de raisin en un temps minimum. Quel est ce temps, en minutes ?",
+        "target": "6 minutes"
+    },
+    {
+        "input": "Caroline envisage de préparer des légumes bouillis pour le dîner. Les étapes sont les suivantes : laver des légumes en 5 minutes, chauffer de l’eau en 5 minutes, préparer des ingrédients en 10 minutes, cuisiner des légumes en 10 minutes et dresser du plat en 5 minutes. Quel est le temps minimum requis pour achever le dîner ?",
+        "target": "30 minutes"
+    },
+    {
+        "input": "Jean doit accomplir ces tâches chaque matin : laver le linge en machine en 30 minutes, étendre le linge à la main en 10 minutes, plier les vêtements en 10 minutes, écouter la radio en 20 minutes, préparer le petit‑déjeuner en 20 minutes et conduire les enfants à l’école en 50 minutes. En organisant judicieusement son emploi du temps, quel est le temps total minimum nécessaire en minutes ?",
+        "target": "90 minutes"
+    },
+    {
+        "input": "À midi, Sophie doit réaliser les activités suivantes : préparer le repas en 30 minutes, écouter la radio en 30 minutes, laver à la main la lingerie en 10 minutes, utiliser la machine à laver (cycle complet) en 30 minutes, aller chercher les enfants en 20 minutes. En organisant ces tâches de façon optimale, quel est le temps minimum en minutes pour tout terminer ?",
+        "target": "60 minutes"
+    },
+    {
+        "input": "Madame Dubois prépare du lait pour un enfant. Pour ce faire, elle doit : aller chercher de l’eau (1 minute), faire bouillir l’eau (6 minutes) , laver le biberon (5 minutes), prendre le lait en poudre (2 minutes), préparer le lait (1 minute) et laisser refroidir le lait (3 minutes). En organisant ces tâches de manière optimale, quel est le nombre minimal de minutes nécessaires pour que l’enfant puisse boire son lait le plus rapidement possible ?",
+        "target": "12 minutes"
+    },
+    {
+        "input": "Claire termine les cours à 20h00. Après l’école, elle doit : faire ses devoirs en 60 minutes, écouter de la musique pendant 30 minutes, prendre une douche pendant 40 minutes, jouer aux jeux vidéo pendant 40 minutes et ranger sa chambre pendant 40 minutes. À quelle heure pourra-t-elle se coucher au plus tôt ?",
+        "target": "23h00"
+    },
+    {
+        "input": "Camille doit aller en ville avec sa mère. Avant de sortir, elles doivent compléter les tâches suivantes : balayer (5 minutes), lancer un cycle de lavage automatique à la machine (20 minutes) , ranger la chambre (10 minutes), se coiffer et se laver le visage (8 minutes) et passer la serpillière (8 minutes). En organisant ces tâches de façon judicieuse, combien de temps leur faudra-t-il au minimum avant de pouvoir partir ?",
+        "target": "31 minutes"
+    },
+    {
+        "input": "Madame Leblanc doit aller rendre visite à sa grand-mère. Avant de sortir, elle doit réaliser : le rangement de sa chambre (20 minutes), une lessive complète avec une machine entièrement automatique (30 minutes), la préparation du repas (20 minutes) et l’emballage du repas à emporter (5 minutes). Si elle organise ses tâches de manière optimale, quel est le temps minimal (en minutes) nécessaire avant de pouvoir sortir ?",
+        "target": "45 minutes"
+    },
+    {
+        "input": "Si Alex dispose de 10 heures et que son emploi du temps comprenne 5 heures de devoirs, 2 heures de jeux vidéo, 1 heure pour cuisiner et 1 heure pour manger. Combien d’heures au maximum lui restera-il pour ses activités personnelles ? ",
+        "target": "1 heure"
+    },
+    {
+        "input": "Si Madame Martin a 8 heures à organiser le vendredi, réparties de la façon suivante : 3 heures de devoirs, 1 heure d’écoute de musique et 1 heure pour cuisiner. Combien d’heures au maximum pourra-t-elle consacrer à ses occupations libres ?",
+        "target": "4 heures"
+    },
+    {
+        "input": "Chloé doit recevoir des invités et doit effectuer les tâches suivantes : faire bouillir de l’eau (10 minutes), infuser le thé (5 minutes), prendre quelques amuse-bouches (5 minutes) et disposer joliment les amuse-bouches sur un plateau (10 minutes). Quel est le temps minimum requis pour terminer ces préparatifs ?",
+        "target": "20 minutes"
+    },
+    {
+        "input": "Jean Lefebvre doit organiser son temps pour réaliser les activités suivantes :\n(1) Se lever et ranger sa literie en 3 minutes\n(2) Ranger son sac en 3 minutes\n(3) Se laver en 10 minutes\n(4) Écouter un enregistrement en anglais (8 minutes)\nS’il se lève à 6h00, à quelle heure pourra-t-il accomplir l’ensemble de ces tâches au plus tôt ?",
+        "target": "6h16"
+    },
+    {
+        "input": "Durant le week-end, Maxime souhaite aider sa mère en effectuant : une lessive complète avec une machine entièrement automatique (20 minutes), le balayage de la maison (6 minutes), l’essuyage de la table (10 minutes), l’étendage du linge (5 minutes). En planifiant ces activités de façon optimale, quel est le temps minimum (en minutes) nécessaire pour tout terminer ?",
+        "target": "25 minutes"
+    },
+    {
+        "input": "Lucas se réveille le matin et doit : se brosser les dents et se laver le visage (3 minutes), ranger sa chambre (8 minutes), prendre son petit-déjeuner (5 minutes), écouter de l’anglais (13 minutes). Quel est le temps minimal requis pour terminer l’ensemble de ces activités ?",
+        "target": "16 minutes"
+    },
+    {
+        "input": "Chez la famille Perrin, chaque matin, ils doivent effectuer deux tâches : chauffer le lait (10 minutes), laver 3 biberons (3 minutes par biberon). Quel est le temps minimum nécessaire pour que la famille puisse boire son lait au plus tôt ?",
+        "target": "10 minutes"
+    },
+    {
+        "input": "Lorsque les camarades de Manon viennent jouer chez elle, elle prépare du thé pour les recevoir. Pour cela, elle doit : préparer quelques amuse-bouches (3 minutes), faire bouillir de l’eau (5 minutes), chercher une tasse (2 minutes), laver la tasse (sans eau chaude, 1 minute), infuser le thé (1 minute). Quel est le temps minimum requis pour que Manon puisse servir le thé à ses amis ?",
+        "target": "6 minutes"
+    },
+    {
+        "input": "Pendant la période de confinement liée à la pandémie, Sophie aide sa mère à faire les tâches ménagères suivantes : balayer (5 minutes), faire effectuer une lessive par la machine (40 minutes), plier les couvertures (3 minutes), étendre les vêtements. Quel est le temps minimal requis pour terminer l’ensemble de ces activités ?",
+        "target": "45 minutes"
+    },
+    {
+        "input": "Marie est enrhumée et décide de se reposer rapidement après avoir avalé son médicament. Pour cela, elle doit : trouver un verre en 1 minute, attendre que l’eau bouillante ait refroidi en 6 minutes - chercher son médicament contre le rhume en 1 minute, prendre sa température en 5 minutes.\nSi elle organise ces tâches de manière optimale, combien de minutes lui faudra-t-elle au minimum ?",
+        "target": "7 minutes"
+    },
+    {
+        "input": "Chloé se lève le matin. Elle doit : rincer le riz en 3 minutes, brancher l’appareil et cuire le riz dans un cuiseur en 20 minutes, apprendre des mots en anglais en 10 minutes, se brosser les dents et se laver le visage en 5 minutes, prendre son petit déjeuner en 9 minutes.\nEn organisant ces activités de la meilleure façon possible, quel est le temps minimum requis pour tout accomplir ?",
+        "target": "32 minutes"
+    },
+    {
+        "input": "Un dimanche, Lucas aide son père à rôtir des légumes au four en 40 minutes, fait ses devoirs de français en 15 minutesen et ses devoirs de mathématiques en 10 minutes. S’il planifie astucieusement ses activités, combien de minutes lui faudra-t-il au minimum pour tout terminer ?",
+        "target": "40 minutes"
+    },
+    {
+        "input": "Antoine se lève tôt et, dès le matin, il : se lave le visage, se brosse les dents et fait son lit en 8 minutes, fait ses exercices physiques en 6 minutes, lave sa tasse (sans eau chaude) et prend le lait en poudre en 2 minutes, fait bouillir de l’eau en 15 minutes.\nPour pouvoir boire son lait le plus rapidement possible, quel est le temps minimum nécessaire à l’exécution de l’ensemble de ces tâches ?",
+        "target": "16 minutes"
+    },
+    {
+        "input": "Marie se lève à 6 h du matin et doit accomplir les tâches suivantes : faire son lit (3 minutes), se brosser les dents et se laver le visage (8 minutes), étudier une langue étrangère (26 minutes), prendre son petit déjeuner (10 minutes), ranger la vaisselle et essuyer la table (9 minutes), écouter la radio (30 minutes).\nA quelle heure au plus tôt pourra-t-elle terminer toutes ces tâches ?",
+        "target": "6h56"
+    },
+    {
+        "input": "Si Sophie dispose de 10 heures pendant le week-end et consacre : 1 heure à ses devoirs de mathématiques, 1 heure à écouter de la musique, 1 heure à ses devoirs de français, 1 heure à cuisiner.\nCombien d’heures maximales lui restera-il pour ses occupations personnelles, si elle organise son temps de manière judicieuse ?",
+        "target": "7 heures"
+    },
+    {
+        "input": "Jean, Pierre et Sophie arrivent simultanément à l'infirmerie. Un seul médecin les traite à tour de rôle. L'injection pour Jean prend 10 minutes, la consultation pour Pierre 12 minutes et l'injection pour Sophie 15 minutes. Dans quel ordre doivent-ils être soignés pour minimiser la somme totale des temps d'attente ?",
+        "target": "Jean-Pierre-Sophie"
+    },
+    {
+        "input": "Si Chloé dispose de 12 heures le vendredi et qu'elle consacre : 2 heures à ranger la maison, 1 heure à écouter un radiodrame, 2 heures à préparer un cassoulet dans la cuisine, 1 heure à jouer aux jeux vidéo. Combien d'heures de temps libre lui reste-t-il au maximum ?",
+        "target": "7 heures"
+    },
+    {
+        "input": "Les clients A, B et C commandent chacun un plat préparé par un seul chef. Le plat du client A prend 10 minutes, celui du client B prend 8 minutes et celui du client C prend 12 minutes. Dans quel ordre ces plats doivent-ils être préparés afin de minimiser le temps d'attente total ?",
+        "target": "B-A-C"
+    },
+    {
+        "input": "Dans un petit cabinet médical disposant d’un seul médecin le week-end, qui ne peut traiter les patients qu’un par un, la situation est la suivante :\nÉmilie reçoit une injection en 4 minutes, Pierre obtient une ordonnance en 2 minutes, Alice se fait changer le pansement en 25 minutes.\nSi le médecin organise son emploi du temps de manière optimale, quel est le temps d'attente total minimum pour ces trois patients ?",
+        "target": "8 minutes"
+    },
+    {
+        "input": "Une poêle à fond plat peut cuire simultanément deux galettes, et la cuisson d'une face nécessite 3 minutes. Combien de minutes faut-il pour cuire 5 galettes ?",
+        "target": "15 minutes"
+    },
+    {
+        "input": "Trois personnes (A, B et C) se présentent en même temps devant un robinet pour utiliser l'eau. A met 15 minutes pour laver des draps, B met 10 minutes pour laver des vêtements, C prend 2 minutes pour remplir un seau d'eau.\nDans quel ordre faut-il les servir pour minimiser le temps d'attente total ?",
+        "target": "C-B-A"
+    },
+    {
+        "input": "Ce matin, Camille doit réaliser les tâches suivantes :\nLaver le linge avec une machine entièrement automatique en 20 minutes, arroser les fleurs en 10 minutes, écouter une émission de radio en 10 minutes, préparer le petit-déjeuner en 30 minutes, ranger ses vêtements en 30 minutes.\nEn organisant ces activités de façon optimale, quel est le temps minimum nécessaire ?",
+        "target": "70 minutes"
+    },
+    {
+        "input": "Émilie, Claire et Alice se rendent à la patinoire pour emprunter le même équipement.Émilie en a besoin pour 1 jour, Claire pour 2 jours, Alice pour une demi-journée.\nQuel ordre de passage permet de minimiser la somme totale des temps d'attente ?",
+        "target": "Alice-Émilie-Claire"
+    },
+    {
+        "input": "Trois passionnés de skateboard descendent successivement sur le même parcours :\nLe skateur A met 20 minutes\nLe skateur B met 30 minutes\nLe skateur C met 12 minutes\nDans quel ordre doivent-ils effectuer leur descente afin de minimiser le temps d'attente total ? Indiquez l'ordre dans le format A-B-C.",
+        "target": "C-A-B"
+    },
+    {
+        "input": "Ce dimanche, Lola n’ayant pas école, veut aider sa mère en effectuant les tâches suivantes :\nRanger la maison : 30 minutes\nPasser la serpillière : 30 minutes\nLaver les draps avec une machine automatique : 1 heure\nLaver ses vêtements à la main : 30 minutes\nÉtendre le linge : 10 minutes\nQuel est le temps minimum total requis pour terminer ces tâches ?",
+        "target": "100 minutes"
+    },
+    {
+        "input": "Trois acteurs attendent leur audition :\nL'acteur A doit auditionner pendant 18 minutes\nL'acteur B pendant 12 minutes\nL'acteur C pendant 22 minutes\nDans quel ordre doivent-ils passer pour minimiser la somme totale des temps d'attente ? Indiquez l'ordre dans le format A-B-C.",
+        "target": "B-A-C"
+    },
+    {
+        "input": "Après être rentré chez lui, Lucas aide sa grand-mère en réalisant les actions suivantes :\nFaire bouillir de l'eau : 10 minutes\nÉcouter de la musique : 30 minutes\nLaver les vêtements (la machine fonctionne automatiquement) : 60 minutes\nCuisiner un repas : 30 minutes\nQuel est le temps total minimum nécessaire pour accomplir ces activités ?",
+        "target": "60 minutes"
+    },
+    {
+        "input": "Le matin, Juliette doit accomplir les tâches suivantes :\nPrendre son petit-déjeuner : 8 minutes\nPréparer son sac : 2 minutes\nÉcouter une émission de radio : 10 minutes\nQuel est le temps minimum requis pour réaliser toutes ces activités ?",
+        "target": "10 minutes"
+    },
+    {
+        "input": "Dès son réveil, Nina doit :\nSe laver et se préparer : 10 minutes\nLire pendant sa séance de lecture matinale : 10 minutes\nFaire bouillir de l'eau : 10 minutes\nPréparer du lait : 5 minutes\nPrendre son petit-déjeuner : 5 minutes\nAu bout de combien de minutes, au minimum après son réveil, pourra-t-elle être prête pour aller à l'école ?",
+        "target": "30 minutes"
+    }
+]

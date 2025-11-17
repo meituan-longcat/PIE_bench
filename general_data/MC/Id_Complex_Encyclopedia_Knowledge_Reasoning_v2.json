@@ -1,0 +1,893 @@
+[
+    {
+        "input": "Apabila buku yang berjudul Philosophiæ Naturalis Principia Mathematica tidak diterbitkan, penyakit apa yang tidak mungkin diderita oleh Newton pada tahun 1693?\nA. Gangguan saraf\nB. Penyakit sapi gila\nC. Tidak peka\nD. Wabah kucing",
+        "target_scores": {
+            "A. Gangguan saraf": 1,
+            "B. Penyakit sapi gila": 0,
+            "C. Tidak peka": 0,
+            "D. Wabah kucing": 0
+        }
+    },
+    {
+        "input": "Apabila Bacon mendapatkan kualifikasi sebagai dokter pada tahun 1582, apa yang mungkin tidak akan terjadi pada tujuh tahun kemudian?\nA. Bacon dipenjara di Menara London\nB. Bacon dituduh korupsi\nC. Bacon menjadi panitera pengadilan setelah terjadi lowongan jabatan\nD. Bacon terpilih sebagai Presiden Pengadilan",
+        "target_scores": {
+            "A. Bacon dipenjara di Menara London": 0,
+            "B. Bacon dituduh korupsi": 0,
+            "C. Bacon menjadi panitera pengadilan setelah terjadi lowongan jabatan": 1,
+            "D. Bacon terpilih sebagai Presiden Pengadilan": 0
+        }
+    },
+    {
+        "input": "Jika pada tahun 1761 Lavoisier masuk Fakultas Hukum Universitas Paris dan setelah memperoleh kualifikasi sebagai pengacara ia sepenuhnya mendedikasikan diri pada karier hukum, maka pada usia 34 tahun, hal apa yang tidak akan ia capai?\nA. Guettard bersama-sama mengorganisir survei sumber daya mineral di wilayah Alsace-Lorraine.\nB. Menang 100 kasus secara berturut-turut\nC. Menggulingkan teori flogiston secara menyeluruh\nD. Menjadi anggota Akademi Ilmu Pengetahuan Prancis",
+        "target_scores": {
+            "A. Guettard bersama-sama mengorganisir survei sumber daya mineral di wilayah Alsace-Lorraine.": 0,
+            "B. Menang 100 kasus secara berturut-turut": 0,
+            "C. Menggulingkan teori flogiston secara menyeluruh": 1,
+            "D. Menjadi anggota Akademi Ilmu Pengetahuan Prancis": 0
+        }
+    },
+    {
+        "input": "Apabila William Herschel mulai tahun 1773 memiliki ketertarikan kuat pada pemetaan geografi, maka pencapaian apa yang tidak akan dimilikinya pada delapan tahun kemudian?\nA. Memainkan organ\nB. Memberikan sebuah teleskop kepada Caroline\nC. Membuat teleskop sendiri\nD. Menemukan Uranus",
+        "target_scores": {
+            "A. Memainkan organ": 0,
+            "B. Memberikan sebuah teleskop kepada Caroline": 0,
+            "C. Membuat teleskop sendiri": 0,
+            "D. Menemukan Uranus": 1
+        }
+    },
+    {
+        "input": "Apabila William Herschel tidak memberikan teleskop kepada Caroline dan tidak mendorongnya untuk melakukan pengamatan astronomi pada tahun 1783, apa yang tidak akan terjadi pada Caroline pada empat puluh lima tahun kemudian?\nA. Dipuji oleh Persatuan Astronomi Diraja\nB. Memperbarui dan mengoreksi posisi bintang rinci dalam Katalog Bintang Flamsteed\nC. Menemukan dan mengamati 8 komet, 11 nebula\nD. Pindah ke Claygate Estate di Old Windsor",
+        "target_scores": {
+            "A. Dipuji oleh Persatuan Astronomi Diraja": 1,
+            "B. Memperbarui dan mengoreksi posisi bintang rinci dalam Katalog Bintang Flamsteed": 0,
+            "C. Menemukan dan mengamati 8 komet, 11 nebula": 0,
+            "D. Pindah ke Claygate Estate di Old Windsor": 0
+        }
+    },
+    {
+        "input": "Apabila Napoleon dibunuh pada tahun 1799, peristiwa apa pada bulan Juni tahun berikutnya yang tidak akan terjadi?\nA. Kemenangan pertempuran Marengo\nB. Kudeta Brumaire\nC. Revolusi Juni\nD. Revolusi Paris",
+        "target_scores": {
+            "A. Kemenangan pertempuran Marengo": 1,
+            "B. Kudeta Brumaire": 0,
+            "C. Revolusi Juni": 0,
+            "D. Revolusi Paris": 0
+        }
+    },
+    {
+        "input": "Apabila istri Simón Bolívar tidak meninggal karena penyakit tropis pada Januari 1803, apa yang mungkin tidak akan terjadi pada tanggal 2 Desember tahun berikutnya?\nA. Profesor Andrés Bello mengajar sastra dan geografi Bolívar\nB. Simón Bolívar belajar bahasa Perancis di Spanyol\nC. Simón Bolívar dan Marqués de Uztáriz mulai melakukan kontak\nD. Simón Bolívar menghadiri upacara penobatan Napoleon",
+        "target_scores": {
+            "A. Profesor Andrés Bello mengajar sastra dan geografi Bolívar": 0,
+            "B. Simón Bolívar belajar bahasa Perancis di Spanyol": 0,
+            "C. Simón Bolívar dan Marqués de Uztáriz mulai melakukan kontak": 0,
+            "D. Simón Bolívar menghadiri upacara penobatan Napoleon": 1
+        }
+    },
+    {
+        "input": "Pada tahun 1808, apabila Raja Spanyol Carlos IV dicintai oleh militer dan rakyatnya, apa yang tidak akan dilakukan oleh Napoleon pada beberapa bulan kemudian?\nA. Bertemu dengan Tsar Rusia Alexander I\nB. Memaksa Ferdinand VII untuk turun takhta\nC. Memimpin pasukan untuk melawan Prusia\nD. Mengambil mahkota dan mengenakannya di kepala dirinya dan istrinya Josephine",
+        "target_scores": {
+            "A. Bertemu dengan Tsar Rusia Alexander I": 0,
+            "B. Memaksa Ferdinand VII untuk turun takhta": 1,
+            "C. Memimpin pasukan untuk melawan Prusia": 0,
+            "D. Mengambil mahkota dan mengenakannya di kepala dirinya dan istrinya Josephine": 0
+        }
+    },
+    {
+        "input": "Jika pada tahun 1857 Edison tidak tertarik pada apa, maka dua tahun kemudian dia tidak akan mencari pekerjaan untuk membeli perlengkapan dan obat-obatan?\nA. Ilmu kimia\nB. Kesastraan\nC. Matematika\nD. Pertanian",
+        "target_scores": {
+            "A. Ilmu kimia": 1,
+            "B. Kesastraan": 0,
+            "C. Matematika": 0,
+            "D. Pertanian": 0
+        }
+    },
+    {
+        "input": "Pada suatu hari di bulan Agustus 1862, apabila Edison tidak menyelamatkan seorang anak di rel kereta api, teknologi apa yang tidak akan ia kuasai pada tahun itu?​\nA. Sulap\nB. Teknik pembuatan kertas\nC. Teknik pencetakan\nD. Teknik telegraf",
+        "target_scores": {
+            "A. Sulap": 0,
+            "B. Teknik pembuatan kertas": 0,
+            "C. Teknik pencetakan": 0,
+            "D. Teknik telegraf": 1
+        }
+    },
+    {
+        "input": "Pada tahun 1870, ketika Edison menjual hak paten untuk mesin cetak umum, apabila dia hanya mendapatkan harga yang dia inginkan, apa yang tidak akan dia lakukan di kota Newark setelah itu?\nA. Membeli rumah\nB. Mendirikan pabrik\nC. Menginvestasikan saham\nD. Menimbun emas",
+        "target_scores": {
+            "A. Membeli rumah": 0,
+            "B. Mendirikan pabrik": 1,
+            "C. Menginvestasikan saham": 0,
+            "D. Menimbun emas": 0
+        }
+    },
+    {
+        "input": "Pada musim gugur tahun 1873, seandainya Freud tidak berhasil masuk ke Universitas Wina untuk mengambil jurusan kedokteran, peristiwa apa yang mungkin tidak akan terjadi pada tahun 1885?\nA. Freud dipindahkan ke rumah sakit jiwa sebagai asisten dokter\nB. Freud ditunjuk sebagai Dosen Neuropatologi di Fakultas Kedokteran Universitas Wina\nC. Freud memperoleh gelar Doktor Kedokteran\nD. Freud mulai bekerja di Rumah Sakit Umum Wina",
+        "target_scores": {
+            "A. Freud dipindahkan ke rumah sakit jiwa sebagai asisten dokter": 0,
+            "B. Freud ditunjuk sebagai Dosen Neuropatologi di Fakultas Kedokteran Universitas Wina": 1,
+            "C. Freud memperoleh gelar Doktor Kedokteran": 0,
+            "D. Freud mulai bekerja di Rumah Sakit Umum Wina": 0
+        }
+    },
+    {
+        "input": "Apabila Max Planck tidak pernah mengubah jurusannya sejak dia memasuki Universitas Munich pada tahun 1874 untuk belajar matematika, apa yang tidak akan dia lakukan pada bulan Februari lima tahun kemudian?\nA. Beralih ke jurusan fisika teoritis\nB. Mempelajari ajaran-ajaran Rudolf Clausius secara otodidak\nC. Menyelesaikan ujian sertifikasi guru\nD. Menyerahkan disertasi doktoral dengan judul \"Hukum Kedua Termodinamika\"",
+        "target_scores": {
+            "A. Beralih ke jurusan fisika teoritis": 0,
+            "B. Mempelajari ajaran-ajaran Rudolf Clausius secara otodidak": 0,
+            "C. Menyelesaikan ujian sertifikasi guru": 0,
+            "D. Menyerahkan disertasi doktoral dengan judul \"Hukum Kedua Termodinamika\"": 1
+        }
+    },
+    {
+        "input": "Apabila Freud dan Joseph Breuer tidak pernah memiliki interaksi apa pun pada tahun 1884, apa yang seharusnya tidak dia lakukan pada musim panas lima tahun kemudian?\nA. Berpraktik pribadi sebagai dokter spesialis penyakit saraf\nB. Pergi ke Nancy, Prancis untuk belajar dari Bernheim\nC. Pertama kali menggunakan konsep \"psikoanalisis\"\nD. Untuk belajar di bawah bimbingan Dr. Charcot di Rumah Sakit Salpêtrière di Paris",
+        "target_scores": {
+            "A. Berpraktik pribadi sebagai dokter spesialis penyakit saraf": 0,
+            "B. Pergi ke Nancy, Prancis untuk belajar dari Bernheim": 1,
+            "C. Pertama kali menggunakan konsep \"psikoanalisis\"": 0,
+            "D. Untuk belajar di bawah bimbingan Dr. Charcot di Rumah Sakit Salpêtrière di Paris": 0
+        }
+    },
+    {
+        "input": "Jika Sun Yat-sen gagal mengenali korupsi di kalangan pejabat pemerintah Qing pada Juni 1894, peristiwa manakah yang tidak akan terjadi pada hari ketujuh sebelum akhir November tahun yang sama?\nA. Sun Yat-Sen mempelajari ilmu kedokteran di Hong Kong\nB. Sun Yat-Sen mendirikan Perhimpunan Kebangkitan Tiongkok di Hawaii\nC. Sun Yat-Sen menyelesaikan buku yang berjudul \"Rencana Umum untuk Konstruksi Nasional\"\nD. Sun Yat-Sen pergi ke Hawaii bersama dengan ibunya",
+        "target_scores": {
+            "A. Sun Yat-Sen mempelajari ilmu kedokteran di Hong Kong": 0,
+            "B. Sun Yat-Sen mendirikan Perhimpunan Kebangkitan Tiongkok di Hawaii": 1,
+            "C. Sun Yat-Sen menyelesaikan buku yang berjudul \"Rencana Umum untuk Konstruksi Nasional\"": 0,
+            "D. Sun Yat-Sen pergi ke Hawaii bersama dengan ibunya": 0
+        }
+    },
+    {
+        "input": "Apabila Gauss yang berusia 18 tahun tidak berhasil masuk ke Universitas Göttingen, prestasi apa yang mungkin tidak akan ia capai setahun kemudian?\nA. Membuktikan bahwa bentuk segi enam belas beraturan dapat dibuat dengan penggaris dan jangka\nB. Membuktikan bahwa bentuk segi tujuh belas beraturan dapat dibuat dengan penggaris dan jangka\nC. Menjadi profesor di Universitas Göttingen\nD. Pindah ke Universitas Göttingen untuk belajar",
+        "target_scores": {
+            "A. Membuktikan bahwa bentuk segi enam belas beraturan dapat dibuat dengan penggaris dan jangka": 0,
+            "B. Membuktikan bahwa bentuk segi tujuh belas beraturan dapat dibuat dengan penggaris dan jangka": 1,
+            "C. Menjadi profesor di Universitas Göttingen": 0,
+            "D. Pindah ke Universitas Göttingen untuk belajar": 0
+        }
+    },
+    {
+        "input": "Apabila termometer baru saja ditemukan pada tahun 1900, apa yang tidak mungkin dilakukan oleh William Herschel seratus tahun sebelumnya?\nA. Membuat lebih dari 400 teleskop\nB. Menamai kawah di Bulan\nC. Menemukan radiasi inframerah matahari\nD. Meninggal di gedung observasi Slough",
+        "target_scores": {
+            "A. Membuat lebih dari 400 teleskop": 0,
+            "B. Menamai kawah di Bulan": 0,
+            "C. Menemukan radiasi inframerah matahari": 1,
+            "D. Meninggal di gedung observasi Slough": 0
+        }
+    },
+    {
+        "input": "Apabila Werner Karl Heisenberg lahir di Amerika Serikat pada tanggal 5 Desember tahun 1901, apa yang mungkin dia tidak akan melakukan setelah 19 tahun?\nA. Diberikan Hadiah Nobel Fisika untuk tahun 1932\nB. Memimpin dan berpartisipasi dalam Proyek Manhattan\nC. Menjabat sebagai ketua Alexander von Humboldt Stiftung\nD. Menloloskan ujian Universitas Munich",
+        "target_scores": {
+            "A. Diberikan Hadiah Nobel Fisika untuk tahun 1932": 0,
+            "B. Memimpin dan berpartisipasi dalam Proyek Manhattan": 0,
+            "C. Menjabat sebagai ketua Alexander von Humboldt Stiftung": 0,
+            "D. Menloloskan ujian Universitas Munich": 1
+        }
+    },
+    {
+        "input": "Pada tahun 1907, Xu Beihong kehilangan kemampuan menggenggam kuas selamanya karena menderita miastenia gravis, hal apa yang tidak mungkin terjadi saat dia hidup mengembara setahun kemudian?\nA. Diterima oleh Universitas Aurora dan mengambil jurusan Bahasa Prancis, dan tetap melukis pada waktu luang\nB. Membiasakan diri untuk tidak melepaskan kuas dari tangan\nC. Memulihkan diri di rumah dan tidak keluar\nD. Menerima honorarium dari Universitas Meiji, lalu pergi ke Jepang untuk mempelajari seni lukis",
+        "target_scores": {
+            "A. Diterima oleh Universitas Aurora dan mengambil jurusan Bahasa Prancis, dan tetap melukis pada waktu luang": 0,
+            "B. Membiasakan diri untuk tidak melepaskan kuas dari tangan": 1,
+            "C. Memulihkan diri di rumah dan tidak keluar": 0,
+            "D. Menerima honorarium dari Universitas Meiji, lalu pergi ke Jepang untuk mempelajari seni lukis": 0
+        }
+    },
+    {
+        "input": "Apabila Fleming menjadi buta pada tahun 1918, hal apa yang tidak bisa dia lakukan pada empat tahun kemudian?\nA. Kembali ke Institut Kedokteran St. Mary\nB. Menemukan \"lisozim\"\nC. Menemukan cara untuk memproduksi penisilin dalam skala besar\nD. Menerbitkan prangko peringatan ulang tahun ke-100 kelahiran Fleming",
+        "target_scores": {
+            "A. Kembali ke Institut Kedokteran St. Mary": 0,
+            "B. Menemukan \"lisozim\"": 1,
+            "C. Menemukan cara untuk memproduksi penisilin dalam skala besar": 0,
+            "D. Menerbitkan prangko peringatan ulang tahun ke-100 kelahiran Fleming": 0
+        }
+    },
+    {
+        "input": "Apabila Enrico Fermi berkecimpung dalam bidang matematika sejak tahun 1918, pengalaman hidup seperti apa yang tidak akan dia miliki pada bulan Desember tahun 1938?\nA. Membawa Seluruh keluarga ke luar negeri untuk menerima Hadiah Nobel\nB. Menjabat sebagai profesor ilmu fisika di Chicago\nC. Menjadi penduduk Amerika Serikat\nD. Pindah dari Los Alamos ke Chicago",
+        "target_scores": {
+            "A. Membawa Seluruh keluarga ke luar negeri untuk menerima Hadiah Nobel": 1,
+            "B. Menjabat sebagai profesor ilmu fisika di Chicago": 0,
+            "C. Menjadi penduduk Amerika Serikat": 0,
+            "D. Pindah dari Los Alamos ke Chicago": 0
+        }
+    },
+    {
+        "input": "Apabila Enrico Fermi menjadi siswa peringkat terakhir di sekolahnya pada tahun 1922, apa yang mungkin tidak akan dia lakukan pada setahun berikutnya?\nA. Lulus dari Scuola Normale Superiore di Pisa\nB. Mendapatkan beasiswa pemerintah Italia untuk pergi ke Jerman\nC. Mendapatkan gelar doktor ilmu fisika\nD. Menuju ke Institut Leiden untuk bekerja",
+        "target_scores": {
+            "A. Lulus dari Scuola Normale Superiore di Pisa": 0,
+            "B. Mendapatkan beasiswa pemerintah Italia untuk pergi ke Jerman": 1,
+            "C. Mendapatkan gelar doktor ilmu fisika": 0,
+            "D. Menuju ke Institut Leiden untuk bekerja": 0
+        }
+    },
+    {
+        "input": "Apabila Fleming tidak menunjukkan bahwa penisilin akan memiliki kegunaan yang penting pada tahun 1929, peristiwa apa yang tidak akan terjadi enam belas tahun kemudian?\nA. Fleming menerbitkan makalah penelitian dengan judul \"Efek Bakterisidal dari Kultur Kapang\"\nB. Fleming, Flory dan Chain mendapatkan Hadiah Nobel dalam Fisiologi dan Kedokteran\nC. Menemukan artemisinin\nD. Menerbitkan prangko peringatan ulang tahun ke-100 kelahiran Fleming",
+        "target_scores": {
+            "A. Fleming menerbitkan makalah penelitian dengan judul \"Efek Bakterisidal dari Kultur Kapang\"": 0,
+            "B. Fleming, Flory dan Chain mendapatkan Hadiah Nobel dalam Fisiologi dan Kedokteran": 1,
+            "C. Menemukan artemisinin": 0,
+            "D. Menerbitkan prangko peringatan ulang tahun ke-100 kelahiran Fleming": 0
+        }
+    },
+    {
+        "input": "Pada 11 Desember tahun 1930, apabila Einstein tidak pergi ke Amerika Serikat untuk pertama kalinya, pengalaman apa yang tidak akan dia miliki pada dua hari kemudian?\nA. Belajar Geometri Euclidean secara otodidak\nB. Berimigrasi ke Munich bersama dengan orang tuanya\nC. Dihadiahkan kunci emas\nD. Dihadiahkan sendok emas",
+        "target_scores": {
+            "A. Belajar Geometri Euclidean secara otodidak": 0,
+            "B. Berimigrasi ke Munich bersama dengan orang tuanya": 0,
+            "C. Dihadiahkan kunci emas": 1,
+            "D. Dihadiahkan sendok emas": 0
+        }
+    },
+    {
+        "input": "Apabila Shannon tidak meneliti aljabar Boolean dan relay dalam tesis magisternya pada tahun 1937, penghargaan apa yang tidak akan ia peroleh pada tiga tahun kemudian?\"\nA. Medali Ilmu Pengetahuan Nasional Amerika Serikat\nB. Penghargaan Claude E. Shannon\nC. Penghargaan Insinyur Amerika Serikat dari Alfred Noble Society\nD. Penghargaan Insinyur Jerman dari Qlfred Noble Society",
+        "target_scores": {
+            "A. Medali Ilmu Pengetahuan Nasional Amerika Serikat": 0,
+            "B. Penghargaan Claude E. Shannon": 0,
+            "C. Penghargaan Insinyur Amerika Serikat dari Alfred Noble Society": 1,
+            "D. Penghargaan Insinyur Jerman dari Qlfred Noble Society": 0
+        }
+    },
+    {
+        "input": "Sebelum abad ke-21, apabila Microsoft tidak mengembangkan sistem operasi dan produk perangkat lunak perkantoran, keadaan apa di bidang komputer tidak akan terbentuk di masa depan?\nA. Aljabar linier menjadi mata kuliah wajib di perguruan tinggi dan universitas\nB. Bill Gates dan Paul Allen bertemu di sekolah menengah atas\nC. Mesin fotolitografi ditemukan\nD. Windows dan Microsoft Office menduduki posisi dominan di bidang masing-masing",
+        "target_scores": {
+            "A. Aljabar linier menjadi mata kuliah wajib di perguruan tinggi dan universitas": 0,
+            "B. Bill Gates dan Paul Allen bertemu di sekolah menengah atas": 0,
+            "C. Mesin fotolitografi ditemukan": 0,
+            "D. Windows dan Microsoft Office menduduki posisi dominan di bidang masing-masing": 1
+        }
+    },
+    {
+        "input": "Apabila Edison tidak iri pada orang lain, perusahaan apa tidak akan didirikan pada tahun 1886?\nA. Exxon Mobil Corporation\nB. General Motors Corporation\nC. J.P.Morgan Chase & Co\nD. Tesla Electric Light & Manufacturing",
+        "target_scores": {
+            "A. Exxon Mobil Corporation": 0,
+            "B. General Motors Corporation": 0,
+            "C. J.P.Morgan Chase & Co": 0,
+            "D. Tesla Electric Light & Manufacturing": 1
+        }
+    },
+    {
+        "input": "Saat Edison menemukan alat penghitung suara, andaikan tidak ada yang memberitahunya bahwa proses pemungutan suara yang lambat itu terkait pertimbangan politik, maka sebelas tahun kemudian, pencapaian apa yang tidak akan ia miliki?\nA. Fokus pada penelitian telegraf sinkronisasi\nB. Menemukan lampu listrik pertama yang memiliki nilai guna yang luas bagi umat manusia\nC. Menemukan lampu listrik, tetapi tidak memiliki nilai guna yang luas\nD. Menyempurnakan telepon yang awalnya ditemukan oleh Alexander Bell",
+        "target_scores": {
+            "A. Fokus pada penelitian telegraf sinkronisasi": 0,
+            "B. Menemukan lampu listrik pertama yang memiliki nilai guna yang luas bagi umat manusia": 1,
+            "C. Menemukan lampu listrik, tetapi tidak memiliki nilai guna yang luas": 0,
+            "D. Menyempurnakan telepon yang awalnya ditemukan oleh Alexander Bell": 0
+        }
+    },
+    {
+        "input": "Apabila Edison lahir dalam masa pemerintahan Franklin Delano Roosevelt, apa yang tidak akan dikatakan oleh Hoover?\nA. Dia adalah seorang jenius yang langka dan aset berharga bagi dunia\nB. Kerajinan adalah batu loncatan menuju kesuksesan\nC. Presiden silih berganti, Hoover tetap abadi\nD. Tokoh terbesar di seluruh dunia",
+        "target_scores": {
+            "A. Dia adalah seorang jenius yang langka dan aset berharga bagi dunia": 1,
+            "B. Kerajinan adalah batu loncatan menuju kesuksesan": 0,
+            "C. Presiden silih berganti, Hoover tetap abadi": 0,
+            "D. Tokoh terbesar di seluruh dunia": 0
+        }
+    },
+    {
+        "input": "Apabila para pendukung Raja Charles I beristirahat dan memulihkan kekuatan di wilayah barat daya pada bulan Februari tahun 1648, kemudian baru memberontak pada tahun berikutnya, apa yang mungkin tidak akan terjadi pada hari kesebelas bulan Juli tahun 1648?\nA. Cromwell melancarkan ekspedisi militer ke Wales\nB. Memberlakukan \"Perjanjian Rakyat\"\nC. Pasukan parlemen menaklukkan Danby\nD. Pembroke ditaklukkan",
+        "target_scores": {
+            "A. Cromwell melancarkan ekspedisi militer ke Wales": 0,
+            "B. Memberlakukan \"Perjanjian Rakyat\"": 0,
+            "C. Pasukan parlemen menaklukkan Danby": 0,
+            "D. Pembroke ditaklukkan": 1
+        }
+    },
+    {
+        "input": "Setelah kegagalan bisnis pertambangan, Edison menjelajah ke bidang baru dan mendirikan pabrik baru, apa yang tidak akan dia lakukan pada tahun 1905 apabila dia tidak sepenuhnya menerapkan sistem penggerak mekanis terintegrasi?\nA. Investasi senilai dua juta dolar hangus tanpa hasil\nB. Membuat film pertama yang berjudul Perampokan Kereta Api\nC. Menjual aki jenis baru\nD. Pabrik semennya menjadi salah satu dari lima pabrik semen terbesar di seluruh Amerika Serikat",
+        "target_scores": {
+            "A. Investasi senilai dua juta dolar hangus tanpa hasil": 0,
+            "B. Membuat film pertama yang berjudul Perampokan Kereta Api": 0,
+            "C. Menjual aki jenis baru": 0,
+            "D. Pabrik semennya menjadi salah satu dari lima pabrik semen terbesar di seluruh Amerika Serikat": 1
+        }
+    },
+    {
+        "input": "Apabila Chen Jingrun meninggal dunia tanpa dikenal pada tahun 1996, peristiwa apa yang tidak akan terjadi terkait dirinya pada bulan Oktober tiga tahun kemudian?\nA. Munculnya \"Bintang Chen Jingrun\"\nB. Munculnya \"Rencana Bintang Masa Depan Chen Jingrun\"\nC. Penyelenggaraan upacara peresmian patung Chen Jingrun\nD. Penyelenggaraan upacara peresmian patung perunggu Chen Jingrun",
+        "target_scores": {
+            "A. Munculnya \"Bintang Chen Jingrun\"": 1,
+            "B. Munculnya \"Rencana Bintang Masa Depan Chen Jingrun\"": 0,
+            "C. Penyelenggaraan upacara peresmian patung Chen Jingrun": 0,
+            "D. Penyelenggaraan upacara peresmian patung perunggu Chen Jingrun": 0
+        }
+    },
+    {
+        "input": "Apabila Shakespeare belum menciptakan \"A Midsummer Night's Dream\", apa yang tidak akan dialami oleh Uranus III?\nA. \"A Midsummer Night's Dream \" menggunakan Uranus III sebagai latar belakang cerita\nB. Ditemukan oleh William Herschel pada tahun 1787\nC. Menjalani siklus musim yang ekstrem\nD. Uranus III dinamai Titania",
+        "target_scores": {
+            "A. \"A Midsummer Night's Dream \" menggunakan Uranus III sebagai latar belakang cerita": 0,
+            "B. Ditemukan oleh William Herschel pada tahun 1787": 0,
+            "C. Menjalani siklus musim yang ekstrem": 0,
+            "D. Uranus III dinamai Titania": 1
+        }
+    },
+    {
+        "input": "Apabila Descartes dan Fermat tidak menganjurkan pendekatan aljabar untuk studi geometri, konsep apa yang tidak akan mengalami perubahan pada waktu itu?\nA. \"Prinsip Matematika Filsafat Alam\" adalah kebenaran mutlak\nB. Aljabar hanyalah alat bantu saja\nC. Diferensiasi dan integrasi dianggap sebagai disiplin ilmu yang terpisah\nD. Kalkulus adalah ilmu yang mempelajari perubahan kontinu",
+        "target_scores": {
+            "A. \"Prinsip Matematika Filsafat Alam\" adalah kebenaran mutlak": 0,
+            "B. Aljabar hanyalah alat bantu saja": 1,
+            "C. Diferensiasi dan integrasi dianggap sebagai disiplin ilmu yang terpisah": 0,
+            "D. Kalkulus adalah ilmu yang mempelajari perubahan kontinu": 0
+        }
+    },
+    {
+        "input": "Apabila Norbert Wiener tidak melakukan kunjungan ke Tiongkok pada pertengahan tahun 1930-an, apa yang tidak akan segera dilakukan oleh Hua Luogeng?\nA. Belajar di Universitas Cambridge\nB. Diterima di jurusan matematika di Universitas Tsinghua\nC. Memublikasikan artikel di \"Science\" Shanghai dan sebagainya\nD. Menulis \"Surat Terbuka untuk Semua Mahasiswa Tiongkok yang Belajar di Amerika Serikat\"",
+        "target_scores": {
+            "A. Belajar di Universitas Cambridge": 1,
+            "B. Diterima di jurusan matematika di Universitas Tsinghua": 0,
+            "C. Memublikasikan artikel di \"Science\" Shanghai dan sebagainya": 0,
+            "D. Menulis \"Surat Terbuka untuk Semua Mahasiswa Tiongkok yang Belajar di Amerika Serikat\"": 0
+        }
+    },
+    {
+        "input": "Apabila Francis Bacon tidak bisa berkonsentrasi pada studinya karena badannya lemah dan sering mengalami penyakit selama masa kecilnya, apa yang mungkin tidak bisa dia lakukan ketika dia berusia 12 tahun?\nA. Dikirim ke Trinity College, Cambridge untuk pendidikan lanjut\nB. Menetap di Perancis\nC. Meninggal dunia akibat penyakit\nD. Terpilih sebagai anggota parlemen",
+        "target_scores": {
+            "A. Dikirim ke Trinity College, Cambridge untuk pendidikan lanjut": 1,
+            "B. Menetap di Perancis": 0,
+            "C. Meninggal dunia akibat penyakit": 0,
+            "D. Terpilih sebagai anggota parlemen": 0
+        }
+    },
+    {
+        "input": "Apabila Freud tidak lagi berminat pada ilmu pengetahuan setelah ayahnya meninggal dunia, pencapaian apa yang tidak bisa dia dapatkan pada tahun terakhir abad kesembilan belas?\nA. Menyelesaikan penulisan buku dengan judul \"Penelitian Histeria\"\nB. Menyelesaikan penulisan buku dengan judul \"Totem dan Tabu\"\nC. Menyelesaikan penulisan buku dengan judul\"Psikopatologi Dalam Kehidupan Sehari-hari\"\nD. Menyelesaikan penulisan buku dengan judul\"Tafsir Mimpi\"",
+        "target_scores": {
+            "A. Menyelesaikan penulisan buku dengan judul \"Penelitian Histeria\"": 0,
+            "B. Menyelesaikan penulisan buku dengan judul \"Totem dan Tabu\"": 0,
+            "C. Menyelesaikan penulisan buku dengan judul\"Psikopatologi Dalam Kehidupan Sehari-hari\"": 0,
+            "D. Menyelesaikan penulisan buku dengan judul\"Tafsir Mimpi\"": 1
+        }
+    },
+    {
+        "input": "Pada tahun ketujuh belas setelah kelahiran Gauss, apabila dia tidak menemukan metode kuadrat terkecil, maka antara tahun keempat puluh satu dan tahun keempat puluh sembilan, apa pekerjaan yang mungkin tidak akan dipimpin oleh dia?\nA. Mengajukan rumus untuk menghitung tanggal Paskah\nB. Menulis esai “Studi Geometris tentang Teori Garis Sejajar” dalam bahasa Jerman\nC. Pekerjaan geodesi di Kerajaan Hanover\nD. Pekerjaan geodesi di Taman Hanover",
+        "target_scores": {
+            "A. Mengajukan rumus untuk menghitung tanggal Paskah": 0,
+            "B. Menulis esai “Studi Geometris tentang Teori Garis Sejajar” dalam bahasa Jerman": 0,
+            "C. Pekerjaan geodesi di Kerajaan Hanover": 1,
+            "D. Pekerjaan geodesi di Taman Hanover": 0
+        }
+    },
+    {
+        "input": "Ketika Gauss berusia enam puluh tiga tahun, apabila artikel Lobachevsky tidak menarik perhatian Gauss, maka mulai tahun ini Gauss tidak akan melakukan apa?\nA. Belajar bahasa Jerman\nB. Belajar bahasa Rusia\nC. Menemukan heliotrope\nD. Menerjemahkan buku dengan judul \"Studi Geometris tentang Teori Garis Sejajar\"",
+        "target_scores": {
+            "A. Belajar bahasa Jerman": 0,
+            "B. Belajar bahasa Rusia": 1,
+            "C. Menemukan heliotrope": 0,
+            "D. Menerjemahkan buku dengan judul \"Studi Geometris tentang Teori Garis Sejajar\"": 0
+        }
+    },
+    {
+        "input": "Apabila revolusi industri tidak mengguncang Jerman, artikel manakah yang akan tidak digunakan oleh Marx pada tahun 1842 untuk mengungkapkan pandangannya tentang legislasi?\nA. \"Das Kapital\"\nB. \"Debat tentang Undang-Undang Pencurian Kayu\"\nC. \"Manifesto Partai Komunis\"\nD. \"Rheinische Zeitung\"",
+        "target_scores": {
+            "A. \"Das Kapital\"": 0,
+            "B. \"Debat tentang Undang-Undang Pencurian Kayu\"": 1,
+            "C. \"Manifesto Partai Komunis\"": 0,
+            "D. \"Rheinische Zeitung\"": 0
+        }
+    },
+    {
+        "input": "Apabila Raja Philip II tidak mengenal orang bernama Aristoteles, peristiwa apa yang tidak akan terjadi pada tahun 343 SM?\nA. Aristoteles diangkat sebagai kesatria oleh Raja Philip II\nB. Aristoteles dipekerjakan sebagai guru Alexander Agung\nC. Aristoteles membimbing Alexander Agung naik tahta\nD. Aristoteles pensiun dan kembali ke kampung halamannya",
+        "target_scores": {
+            "A. Aristoteles diangkat sebagai kesatria oleh Raja Philip II": 0,
+            "B. Aristoteles dipekerjakan sebagai guru Alexander Agung": 1,
+            "C. Aristoteles membimbing Alexander Agung naik tahta": 0,
+            "D. Aristoteles pensiun dan kembali ke kampung halamannya": 0
+        }
+    },
+    {
+        "input": "Apabila Menteri Angkatan Laut Josephus Daniels sama sekali tidak pernah memiliki kontak dengan Edison, Edison tidak akan menghabiskan dua tahun untuk melakukan apa pada tahun 1917?\nA. Berfokus untuk memproduksi rekaman\nB. Berhasil mengembangkan aki dengan kinerja yang lebih baik\nC. Membahas skema pertempuran dan mengembangkan invensi untuk kebutuhan perang\nD. Memisahkan fokus bisnis perusahaan rekaman dari promosi produk silinder lilin",
+        "target_scores": {
+            "A. Berfokus untuk memproduksi rekaman": 0,
+            "B. Berhasil mengembangkan aki dengan kinerja yang lebih baik": 0,
+            "C. Membahas skema pertempuran dan mengembangkan invensi untuk kebutuhan perang": 1,
+            "D. Memisahkan fokus bisnis perusahaan rekaman dari promosi produk silinder lilin": 0
+        }
+    },
+    {
+        "input": "Jika Edison memutuskan pada akhir tahun 1868 bahwa ia tidak akan pernah menemukan apa pun lagi, dia tidak akan menemukan apa pun pada hari kesebelas sebelum akhir Oktober sebelas tahun kemudian?\nA. Lampu filamen kapas berkarbonisasi\nB. Lampu hemat energi\nC. Lentera\nD. Telepon",
+        "target_scores": {
+            "A. Lampu filamen kapas berkarbonisasi": 1,
+            "B. Lampu hemat energi": 0,
+            "C. Lentera": 0,
+            "D. Telepon": 0
+        }
+    },
+    {
+        "input": "Apabila hingga abad ke-20, orang-orang baru mulai menggunakan es, hal apa yang tidak mungkin berhasil dilakukan oleh Faraday pada tahun 1843?\nA. Faraday menemukan fenomena induksi elektromagnetik untuk pertama kalinya\nB. Membuktikan hukum konservasi muatan melalui \"Percobaan Ember Es\"\nC. Menemukan dinamo disket\nD. Merangkum hukum elektrolisis Faraday",
+        "target_scores": {
+            "A. Faraday menemukan fenomena induksi elektromagnetik untuk pertama kalinya": 0,
+            "B. Membuktikan hukum konservasi muatan melalui \"Percobaan Ember Es\"": 1,
+            "C. Menemukan dinamo disket": 0,
+            "D. Merangkum hukum elektrolisis Faraday": 0
+        }
+    },
+    {
+        "input": "Seandainya Perang Dunia II sudah berakhir sebelum tahun 1941, apa yang mungkin tidak akan dilakukan oleh Shannon pada musim panas tahun itu?\nA. Menemukan mouse mekanis\nB. Mengusulkan teori laju-distorsi\nC. Merancang mesin \"pembaca pikiran\"\nD. Merancang pencari arah untuk mendukung Inggris dalam pertempuran melawan Jerman",
+        "target_scores": {
+            "A. Menemukan mouse mekanis": 0,
+            "B. Mengusulkan teori laju-distorsi": 0,
+            "C. Merancang mesin \"pembaca pikiran\"": 0,
+            "D. Merancang pencari arah untuk mendukung Inggris dalam pertempuran melawan Jerman": 1
+        }
+    },
+    {
+        "input": "Seandainya mulai dari tahun 1923, Anna Freud mulai melakukan praktik klinis otopsi, maka pada tahun 1927 apa yang tidak akan ia lakukan?\nA. Menerbitkan buku dengan judul \"Ego dan Mekanisme Pertahanan\"\nB. Menerbitkan laporan penelitian yang berjudul \"Mengalahkan Fantasi dan Lamunan\"\nC. Menerbitkan buku yang berjudul \"Pengantar Teknik Analisis Anak\"\nD. Menjabat sebagai direktur \"Klinik Hampstead\"",
+        "target_scores": {
+            "A. Menerbitkan buku dengan judul \"Ego dan Mekanisme Pertahanan\"": 0,
+            "B. Menerbitkan laporan penelitian yang berjudul \"Mengalahkan Fantasi dan Lamunan\"": 0,
+            "C. Menerbitkan buku yang berjudul \"Pengantar Teknik Analisis Anak\"": 1,
+            "D. Menjabat sebagai direktur \"Klinik Hampstead\"": 0
+        }
+    },
+    {
+        "input": "Seandainya Enrico Fermi tidak pernah menderita penyakit lambung dalam seumur hidupnya, peristiwa apa yang tidak akan terjadi pada tanggal 28 November 1954?\nA. Enrico Fermi menemukan gastroskop\nB. Enrico Fermi meninggal dunia akibat kanker lambung\nC. Enrico Fermi meninggal dunia di San Francisco\nD. Enrico Fermi terpilih sebagai Anggota Akademi Nasional Sains Amerika Serikat",
+        "target_scores": {
+            "A. Enrico Fermi menemukan gastroskop": 0,
+            "B. Enrico Fermi meninggal dunia akibat kanker lambung": 1,
+            "C. Enrico Fermi meninggal dunia di San Francisco": 0,
+            "D. Enrico Fermi terpilih sebagai Anggota Akademi Nasional Sains Amerika Serikat": 0
+        }
+    },
+    {
+        "input": "Seandainya Hua Luogeng tidak terpaksa keluar dari Sekolah Kejuruan Tiongkok Shanghai, apa yang tidak akan dilakukannya dalam lima tahun berikutnya?\nA. Dibina dengan sungguh-sungguh oleh Bapak Wang Weike\nB. Dijuluki \"kutu buku Hua\" oleh teman-temannya\nC. Masuk ke Sekolah Menengah Pertama Negeri Jintan\nD. Menyelesaikan semua mata pelajaran matematika untuk sekolah menengah atas dan tingkat awal universitas secara otodidak​​",
+        "target_scores": {
+            "A. Dibina dengan sungguh-sungguh oleh Bapak Wang Weike": 0,
+            "B. Dijuluki \"kutu buku Hua\" oleh teman-temannya": 0,
+            "C. Masuk ke Sekolah Menengah Pertama Negeri Jintan": 0,
+            "D. Menyelesaikan semua mata pelajaran matematika untuk sekolah menengah atas dan tingkat awal universitas secara otodidak​​": 1
+        }
+    },
+    {
+        "input": "Seandainya tim Amerika Serikat tidak berpartisipasi dalam Kejuaraan Dunia Tenis Meja ke-31, apa yang mungkin tidak akan terjadi pada tanggal 24 April 2021?\nA. Dari meja pingpong ke meja perundingan（Menggunakan tenis meja sebagai program diplomasi）\nB. Doktor Kissinger, Asisten Presiden Amerika Serikat untuk Urusan Keamanan Nasional, melakukan kunjungan rahasia ke Tiongkok\nC. Tiongkok dan Amerika Serikat mengeluarkan pernyataan bersama di Shanghai\nD. Upacara Peringatan 50 tahun untuk \"Diplomasi Tenis Meja\" Tiongkok-AS",
+        "target_scores": {
+            "A. Dari meja pingpong ke meja perundingan（Menggunakan tenis meja sebagai program diplomasi）": 0,
+            "B. Doktor Kissinger, Asisten Presiden Amerika Serikat untuk Urusan Keamanan Nasional, melakukan kunjungan rahasia ke Tiongkok": 0,
+            "C. Tiongkok dan Amerika Serikat mengeluarkan pernyataan bersama di Shanghai": 0,
+            "D. Upacara Peringatan 50 tahun untuk \"Diplomasi Tenis Meja\" Tiongkok-AS": 1
+        }
+    },
+    {
+        "input": "Seandainya Shakespeare tidak pernah menulis komedi seumur hidupnya, maka peristiwa apa yang tidak mungkin terjadi pada tahun 1595?\nA. Drama dengan judul \"Measure for Measure\" pertama kali dipentaskan\nB. Drama dengan judul \"Mimpi Suatu Malam Pertengahan Musim Panas\" pertama kali dipentaskan\nC. Menerbitkan \"The Merry Wives of Windsor\"\nD. Puisi panjang dengan judul \"The Rape of Lucrece\" diterbitkan",
+        "target_scores": {
+            "A. Drama dengan judul \"Measure for Measure\" pertama kali dipentaskan": 0,
+            "B. Drama dengan judul \"Mimpi Suatu Malam Pertengahan Musim Panas\" pertama kali dipentaskan": 1,
+            "C. Menerbitkan \"The Merry Wives of Windsor\"": 0,
+            "D. Puisi panjang dengan judul \"The Rape of Lucrece\" diterbitkan": 0
+        }
+    },
+    {
+        "input": "Diasumsikan bahwa keajaiban Tiongkok dari Tujuh Keajaiban Dunia Baru tidak pernah muncul dalam sejarah, kata-kata bahasa Inggris seperti apa yang tidak akan muncul dalam surel Tiongkok pertama yang dikirim ke luar negeri dari Beijing?\nA. the Great Wall\nB. the Palace Museum\nC. the Summer Palace\nD. the Yangtze River",
+        "target_scores": {
+            "A. the Great Wall": 1,
+            "B. the Palace Museum": 0,
+            "C. the Summer Palace": 0,
+            "D. the Yangtze River": 0
+        }
+    },
+    {
+        "input": "Seandainya Tagore adalah pribumi Benua Amerika, setelah menonton pertunjukan Mei Lanfang pada tahun 1924, apa yang tidak akan dia lakukan?\nA. Mengajari Mei Lanfang mementaskan opera dengan menggunakan bahasa Bengali\nB. Menulis bait-bait dalam bahasa Bengali\nC. Menulis puisi dalam bahasa Bengali\nD. Menulis sebuah puisi dalam bahasa Thailand",
+        "target_scores": {
+            "A. Mengajari Mei Lanfang mementaskan opera dengan menggunakan bahasa Bengali": 0,
+            "B. Menulis bait-bait dalam bahasa Bengali": 0,
+            "C. Menulis puisi dalam bahasa Bengali": 1,
+            "D. Menulis sebuah puisi dalam bahasa Thailand": 0
+        }
+    },
+    {
+        "input": "Seandainya Aristoteles dan Alexander tidak memiliki hubungan apa pun, setelah Alexander meninggal dunia, apa yang tidak perlu Aristoteles lakukan?\nA. Berjuang melawan pemerintahan Makedonia\nB. Melarikan diri ke Chalcis untuk mengungsi\nC. Melarikan diri ke Kota Karystos untuk mengungsi\nD. Mewarisi takhta",
+        "target_scores": {
+            "A. Berjuang melawan pemerintahan Makedonia": 0,
+            "B. Melarikan diri ke Chalcis untuk mengungsi": 1,
+            "C. Melarikan diri ke Kota Karystos untuk mengungsi": 0,
+            "D. Mewarisi takhta": 0
+        }
+    },
+    {
+        "input": "Seandainya hingga tahun 1900 tidak ada benda yang bernama jarum, maka benda apa yang tidak akan diciptakan oleh Edison pada dua puluh tiga tahun sebelum tahun 1900?\nA. Fonograf\nB. Lampu\nC. Tabung elektron\nD. Telepon",
+        "target_scores": {
+            "A. Fonograf": 1,
+            "B. Lampu": 0,
+            "C. Tabung elektron": 0,
+            "D. Telepon": 0
+        }
+    },
+    {
+        "input": "Apabila Paus Urbanus II lahir di Benua Amerika Utara pada tahun 1042, jabatan resmi apa yang mungkin tidak akan dia terima pada empat puluh dua tahun kemudian?\nA. Abbas Biara Kluni\nB. Arkidiakon Keuskupan Reims\nC. Mitra Paus Gregorius VII\nD. Utusan Paus",
+        "target_scores": {
+            "A. Abbas Biara Kluni": 0,
+            "B. Arkidiakon Keuskupan Reims": 0,
+            "C. Mitra Paus Gregorius VII": 0,
+            "D. Utusan Paus": 1
+        }
+    },
+    {
+        "input": "Manakah dari karya-karya berikut ini yang ditulis oleh Kang Youwei?\nA. \"Keindahan Matematika\"\nB. \"Reformasi Kaisar Meiji\"\nC. \"Sejarah Singkat Waktu\"\nD. \"Sejarah Umum Amerika Serikat\"",
+        "target_scores": {
+            "A. \"Keindahan Matematika\"": 0,
+            "B. \"Reformasi Kaisar Meiji\"": 1,
+            "C. \"Sejarah Singkat Waktu\"": 0,
+            "D. \"Sejarah Umum Amerika Serikat\"": 0
+        }
+    },
+    {
+        "input": "Apabila saudara Wright tidak memiliki minat yang mendalam terhadap mesin pada masa muda mereka, apa yang tidak akan mereka lakukan mulai dari musim panas tahun 1903?\nA. Bengkel sepeda Wright mulai berbisnis\nB. Membuat pesawat \"Flyer\" yang kedua\nC. Mulai membuat pesawat bersayap ganda\nD. Uji terbang model pesawat uap",
+        "target_scores": {
+            "A. Bengkel sepeda Wright mulai berbisnis": 0,
+            "B. Membuat pesawat \"Flyer\" yang kedua": 0,
+            "C. Mulai membuat pesawat bersayap ganda": 1,
+            "D. Uji terbang model pesawat uap": 0
+        }
+    },
+    {
+        "input": "Apabila Laura Capon tidak memiliki keturunan Yahudi, apa yang tidak mungkin akan dilakukan oleh Enrico Fermi pada akhir tahun 1938?\nA. Bekerja di Universitas Columbia\nB. Berimigrasi ke Amerika Serikat\nC. Masuk ke Laboratorium Metalurgi Universitas Chicago untuk melakukan penelitian plutonium dan reaktor\nD. Pulang ke Italia",
+        "target_scores": {
+            "A. Bekerja di Universitas Columbia": 0,
+            "B. Berimigrasi ke Amerika Serikat": 1,
+            "C. Masuk ke Laboratorium Metalurgi Universitas Chicago untuk melakukan penelitian plutonium dan reaktor": 0,
+            "D. Pulang ke Italia": 0
+        }
+    },
+    {
+        "input": "Apabila Büttner dan Martin Bartels tidak pernah berinteraksi dengan Gauss, pengalaman apa yang tidak akan dialami oleh Gauss pada tahun ke-14 setelah kelahirannya?\nA. Memprediksi kemunculan geometri non-Euclidean\nB. Menerima bantuan dari dua orang tersebut\nC. Meragukan pembuktian dasar dalam geometri unsur\nD. Merumuskan bentuk umum teorema binomial",
+        "target_scores": {
+            "A. Memprediksi kemunculan geometri non-Euclidean": 0,
+            "B. Menerima bantuan dari dua orang tersebut": 1,
+            "C. Meragukan pembuktian dasar dalam geometri unsur": 0,
+            "D. Merumuskan bentuk umum teorema binomial": 0
+        }
+    },
+    {
+        "input": "Kalau Orang tua Malthus buta huruf, dan dia disuruh melakukan pekerjaan pertanian di rumah ketika dia masih muda, apa yang tidak mungkin terjadi pada tahun 1784?\nA. Malthus dimakamkan di biara\nB. Malthus diterima oleh Universitas Cambridge\nC. Malthus mendapatkan gelar magister\nD. Malthus pandai dalam matematika",
+        "target_scores": {
+            "A. Malthus dimakamkan di biara": 0,
+            "B. Malthus diterima oleh Universitas Cambridge": 1,
+            "C. Malthus mendapatkan gelar magister": 0,
+            "D. Malthus pandai dalam matematika": 0
+        }
+    },
+    {
+        "input": "Apabila Michelangelo meninggal dunia di studionya pada usia 60 tahun, apa yang tidak akan terjadi pada setahun kemudian?\nA. Menyelesaikan lukisan dinding yang bertemakan \"Book of Genesis\"\nB. Michelangelo ditunjuk sebagai Dekan Kehormatan Accademia del Disegno\nC. Michelangelo membangun makam untuk Paus\nD. Michelangelo membuat karya lukisan dinding gereja \"The Last Judgement\"",
+        "target_scores": {
+            "A. Menyelesaikan lukisan dinding yang bertemakan \"Book of Genesis\"": 0,
+            "B. Michelangelo ditunjuk sebagai Dekan Kehormatan Accademia del Disegno": 0,
+            "C. Michelangelo membangun makam untuk Paus": 0,
+            "D. Michelangelo membuat karya lukisan dinding gereja \"The Last Judgement\"": 1
+        }
+    },
+    {
+        "input": "Apabila di Minnesota tidak ada tambang bijih besi, apa yang tidak akan terjadi dalam kehidupan Edison pada usia 51 tahun ?\nA. Edison menerima nominasi Penghargaan Nobel\nB. Mengalami kebangkitan karier kedua\nC. Menghabiskan seluruh harta dan berhutang\nD. Perusahaan fonograf Edison gulung tikar",
+        "target_scores": {
+            "A. Edison menerima nominasi Penghargaan Nobel": 0,
+            "B. Mengalami kebangkitan karier kedua": 0,
+            "C. Menghabiskan seluruh harta dan berhutang": 1,
+            "D. Perusahaan fonograf Edison gulung tikar": 0
+        }
+    },
+    {
+        "input": "Apabila Napoleon diasingkan pada tahun 1814 dan tidak ada kabar tentangnya sejak itu, peristiwa apa yang terkait dengannya tidak akan terjadi pada setahun kemudian?\nA. Diasingkan ke Pulau Saint Helena\nB. Diusir ke Pulau Elba\nC. Pemerintahan seratus hari\nD. Peti matinya diangkut kembali ke Les Invalides di Paris",
+        "target_scores": {
+            "A. Diasingkan ke Pulau Saint Helena": 0,
+            "B. Diusir ke Pulau Elba": 0,
+            "C. Pemerintahan seratus hari": 1,
+            "D. Peti matinya diangkut kembali ke Les Invalides di Paris": 0
+        }
+    },
+    {
+        "input": "Apabila Newton berada di Amerika Serikat mulai dari tahun 1690, hal apa yang berhubungan dengan Newton mungkin tidak akan terjadi setelah 6 tahun?\nA. Bekerja di Royal Mint London\nB. Belajar di Sekolah Raja di Grantham\nC. Dianugerahi Jabatan Profesor Lucas dalam Matematika\nD. Dianugerahi sebagai ksatria oleh Ratu Anne",
+        "target_scores": {
+            "A. Bekerja di Royal Mint London": 1,
+            "B. Belajar di Sekolah Raja di Grantham": 0,
+            "C. Dianugerahi Jabatan Profesor Lucas dalam Matematika": 0,
+            "D. Dianugerahi sebagai ksatria oleh Ratu Anne": 0
+        }
+    },
+    {
+        "input": "Apabila Freud sepenuhnya mengalihkan bidang studinya ke astrofisika pada tahun 1893, apa yang tidak akan terjadi pada dua tahun kemudian?\nA. Freud bekerja di laboratorium di Brück selama 1 tahun\nB. Freud dipindahkan ke rumah sakit jiwa sebagai asisten dokter\nC. Penerbitan \"Lelucon dan Hubungannya dengan Ketidaksadaran\"\nD. Penerbitan \"Studi tentang Histeria\"",
+        "target_scores": {
+            "A. Freud bekerja di laboratorium di Brück selama 1 tahun": 0,
+            "B. Freud dipindahkan ke rumah sakit jiwa sebagai asisten dokter": 0,
+            "C. Penerbitan \"Lelucon dan Hubungannya dengan Ketidaksadaran\"": 0,
+            "D. Penerbitan \"Studi tentang Histeria\"": 1
+        }
+    },
+    {
+        "input": "Apabila Wright bersaudar meninggal dunia dalam kecelakaan pada tahun 1907 saat bereksperimen dengan pesawat terbang, apa yang tidak akan dilakukan oleh Angkatan Darat Amerika Serikat pada bulan Agustus dua tahun kemudian?\nA. Membeli pesawat dari Wright bersaudar\nB. Menciptakan rekor dunia terbang terus-menerus selama 1 jam\nC. Menunjuk Wright bersaudar sebagai Panglima Angkatan Darat Amerika Serikat\nD. Menyerahterimakan pesawat militer pertama kepada Wright bersaudar",
+        "target_scores": {
+            "A. Membeli pesawat dari Wright bersaudar": 1,
+            "B. Menciptakan rekor dunia terbang terus-menerus selama 1 jam": 0,
+            "C. Menunjuk Wright bersaudar sebagai Panglima Angkatan Darat Amerika Serikat": 0,
+            "D. Menyerahterimakan pesawat militer pertama kepada Wright bersaudar": 0
+        }
+    },
+    {
+        "input": "Apabila spesies yang disebut tikus baru ditemukan pada tahun 2000, maka apa yang seharusnya tidak akan dilakukan oleh Shannon pada setengah abad sebelumnya?\nA. Melakukan penelitian pada Analisator Diferensial\nB. Menciptakan kucing mekanis\nC. Menciptakan tikus mekanis\nD. Terlibat dalam produksi serial animasi \"Tom and Jerry\"",
+        "target_scores": {
+            "A. Melakukan penelitian pada Analisator Diferensial": 0,
+            "B. Menciptakan kucing mekanis": 0,
+            "C. Menciptakan tikus mekanis": 1,
+            "D. Terlibat dalam produksi serial animasi \"Tom and Jerry\"": 0
+        }
+    },
+    {
+        "input": "Apabila Chen Jingrun tidak pernah belajar, bekerja dan hidup di Universitas Xiamen pada abad ke-20, apa yang tidak akan terjadi di Universitas Airlangga pada bulan April tahun 2019?\nA. Chen Jingrun terpilih sebagai salah satu tokoh dalam seri perangko \"Ilmuwan Modern Tiongkok (VIII)\"\nB. Drama \"Konjektur Goldbach\" dipentaskan dua kali berturut-turut\nC. Penyelenggaraan upacara Peringatan 80 Tahun kelahiran Chen Jingrun dan upacara peresmian patung perunggunya\nD. Serial TV yang berdurasi 13 episode dengan judul \"Chen Jingrun\" pertama kali ditayangkan",
+        "target_scores": {
+            "A. Chen Jingrun terpilih sebagai salah satu tokoh dalam seri perangko \"Ilmuwan Modern Tiongkok (VIII)\"": 0,
+            "B. Drama \"Konjektur Goldbach\" dipentaskan dua kali berturut-turut": 1,
+            "C. Penyelenggaraan upacara Peringatan 80 Tahun kelahiran Chen Jingrun dan upacara peresmian patung perunggunya": 0,
+            "D. Serial TV yang berdurasi 13 episode dengan judul \"Chen Jingrun\" pertama kali ditayangkan": 0
+        }
+    },
+    {
+        "input": "Apabila Edison bukan seorang pengamat yang cermat, apa yang tidak akan terjadi di Inggris pada tahun 1904 karena dia?\nA. Lahirnya lampu serat bambu berkarbonisasi\nB. Lahirnya transistor\nC. Lahirnya triode\nD. Lahirnya tube elektron",
+        "target_scores": {
+            "A. Lahirnya lampu serat bambu berkarbonisasi": 0,
+            "B. Lahirnya transistor": 0,
+            "C. Lahirnya triode": 0,
+            "D. Lahirnya tube elektron": 1
+        }
+    },
+    {
+        "input": "Apabila perusahaan Edison pada tahun 1880-an sudah beralih ke logika desain berbasis arus bolak-balik, apa yang tidak akan dipimpin oleh Morgan pada awal 1890-an?\nA. Edison General Electric Company bergabung dengan Thomson-Houston Electric Company\nB. Masuk ke industri semen\nC. Membeli tambang\nD. Memonopoli arus searah",
+        "target_scores": {
+            "A. Edison General Electric Company bergabung dengan Thomson-Houston Electric Company": 1,
+            "B. Masuk ke industri semen": 0,
+            "C. Membeli tambang": 0,
+            "D. Memonopoli arus searah": 0
+        }
+    },
+    {
+        "input": "Apabila Edison tidak memulai bisnis, raksasa perusahaan apa yang berawal dari Thomson-Houston Company pada akhir abad ke-19 tidak akan didirikan?\nA. General Electric Company\nB. Microsoft\nC. Perusahaan Boeing\nD. Perusahaan Mobil Oil",
+        "target_scores": {
+            "A. General Electric Company": 1,
+            "B. Microsoft": 0,
+            "C. Perusahaan Boeing": 0,
+            "D. Perusahaan Mobil Oil": 0
+        }
+    },
+    {
+        "input": "Apabila Edison tidak berkecimpung dalam bisnis listrik, apa yang tidak akan dilakukan oleh pemerintah Amerika Serikat dalam beberapa hari setelah kematian Edison?\nA. Menyerukan pemadaman lampu selama satu menit secara nasional\nB. Pemadaman listrik nasional selama 6 menit\nC. Pembebasan tarif listrik 2 menit secara nasional\nD. Penjualan lampu minyak tanah dilarang",
+        "target_scores": {
+            "A. Menyerukan pemadaman lampu selama satu menit secara nasional": 1,
+            "B. Pemadaman listrik nasional selama 6 menit": 0,
+            "C. Pembebasan tarif listrik 2 menit secara nasional": 0,
+            "D. Penjualan lampu minyak tanah dilarang": 0
+        }
+    },
+    {
+        "input": "Apabila kepala baru Akademi Plato tidak menyetujui kecenderungan matematis dalam filosofi Plato, apa yang tidak akan dilakukan oleh Aristoteles?\nA. Meninggalkan Athena dan bepergian ke seluruh dunia\nB. Pulang ke kampung halaman\nC. Tetap belajar di Akademi Plato\nD. Tetap di Athena",
+        "target_scores": {
+            "A. Meninggalkan Athena dan bepergian ke seluruh dunia": 1,
+            "B. Pulang ke kampung halaman": 0,
+            "C. Tetap belajar di Akademi Plato": 0,
+            "D. Tetap di Athena": 0
+        }
+    },
+    {
+        "input": "Apabila pekerjaan yang dijalani oleh Ieoh Ming Pei bukan desain arsitektur dalam seumur hidupnya, maka apa yang seharusnya tidak akan terjadi di Kawasan Xuanwu, Nanjing pada tanggal 11 Agustus 2014?\nA. Ieoh Ming Pei mendapatkan gelar sarjana MIT\nB. Kantor arsitek Ieoh Ming Pei didirikan\nC. Museum Enam Dinasti mulai dibangun di situs arkeologi Istana\nD. Museum Enam Dinasti telah selesai dibangun dan dibuka",
+        "target_scores": {
+            "A. Ieoh Ming Pei mendapatkan gelar sarjana MIT": 0,
+            "B. Kantor arsitek Ieoh Ming Pei didirikan": 0,
+            "C. Museum Enam Dinasti mulai dibangun di situs arkeologi Istana": 0,
+            "D. Museum Enam Dinasti telah selesai dibangun dan dibuka": 1
+        }
+    },
+    {
+        "input": "Apabila Chen Jingrun tidak pernah terlibat dengan Konjektur Goldbach dalam bidang penelitiannya, peristiwa apa yang tidak akan terjadi pada tahun 1973?\nA. Chen Jingrun lahir di Fuzhou, Fujian\nB. Chen Jingrun melakukan pertukaran akademik ke Institute for Advanced Study Princeton, Amerika Serikat\nC. Jenazah Chen Jingrun disumbangkan untuk pembedahan medis di rumah sakit\nD. Lahirnya teori Chen",
+        "target_scores": {
+            "A. Chen Jingrun lahir di Fuzhou, Fujian": 0,
+            "B. Chen Jingrun melakukan pertukaran akademik ke Institute for Advanced Study Princeton, Amerika Serikat": 0,
+            "C. Jenazah Chen Jingrun disumbangkan untuk pembedahan medis di rumah sakit": 0,
+            "D. Lahirnya teori Chen": 1
+        }
+    },
+    {
+        "input": "Apabila surel baru muncul pada abad ke-21, maka apa yang tidak akan terjadi pada bulan September tahun 1987?\nA. Profesor Leonard K.dijuluki sebagai pelopor surel\nB. Surel Tiongkok yang pertama dikirim dari Beijing ke Amerika Serikat\nC. Surel Tiongkok yang pertama dikirim dari Beijing ke Jerman\nD. Tiongkok memperkenalkan ARPANET",
+        "target_scores": {
+            "A. Profesor Leonard K.dijuluki sebagai pelopor surel": 0,
+            "B. Surel Tiongkok yang pertama dikirim dari Beijing ke Amerika Serikat": 0,
+            "C. Surel Tiongkok yang pertama dikirim dari Beijing ke Jerman": 1,
+            "D. Tiongkok memperkenalkan ARPANET": 0
+        }
+    },
+    {
+        "input": "Apabila Faraday tidak menjadi asisten laboratorium Davy pada 1813, hal apa yang tidak mungkin dia wujudkan pada tiga tahun kemudian?\nA. Menciptakan mesin listrik yang pertama\nB. Menemukan metode pencairan untuk klorin dan gas lainnya\nC. Menerbitkan karya ilmiah yang pertama\nD. Menyelesaikan penemuan besar pertama dalam bidang listrik",
+        "target_scores": {
+            "A. Menciptakan mesin listrik yang pertama": 0,
+            "B. Menemukan metode pencairan untuk klorin dan gas lainnya": 0,
+            "C. Menerbitkan karya ilmiah yang pertama": 1,
+            "D. Menyelesaikan penemuan besar pertama dalam bidang listrik": 0
+        }
+    },
+    {
+        "input": "Apabila Galileo hanya meneliti gerak bandul secara sepintas, apa yang tidak akan dia lakukan pada tahun 1641 setelah kehilangan penglihatannya?\nA. Meminta putranya menggambar desain arloji untuknya\nB. Meminta putranya menggambar desain gelang untuknya\nC. Meminta putranya menggambar desain jam bandul untuknya\nD. Meminta putrinya menggambar desain jam bandul untuknya",
+        "target_scores": {
+            "A. Meminta putranya menggambar desain arloji untuknya": 0,
+            "B. Meminta putranya menggambar desain gelang untuknya": 0,
+            "C. Meminta putranya menggambar desain jam bandul untuknya": 1,
+            "D. Meminta putrinya menggambar desain jam bandul untuknya": 0
+        }
+    },
+    {
+        "input": "Apabila Galileo adalah orang yang tidak pernah menekankan pentingnya eksperimen, teori apa yang tidak akan ia sangkal pada tahun 1589 serta dalam dua tahun berikutnya?\nA. Heliosentrisme\nB. Hukum ke-1 Newton\nC. Konsep sistem inersia\nD. Pandangan Aristoteles tentang gerak jatuh",
+        "target_scores": {
+            "A. Heliosentrisme": 0,
+            "B. Hukum ke-1 Newton": 0,
+            "C. Konsep sistem inersia": 0,
+            "D. Pandangan Aristoteles tentang gerak jatuh": 1
+        }
+    },
+    {
+        "input": "Apabila Galilei telah meninggal dunia pada akhir abad ke-16, hal apa yang tidak akan terjadi pada tahun 1609?\nA. Galilei berhasil membuat termometer\nB. Galilei memperbaiki teleskop\nC. Galilei menemukan kompas\nD. Galilei menganalisis dinamika",
+        "target_scores": {
+            "A. Galilei berhasil membuat termometer": 0,
+            "B. Galilei memperbaiki teleskop": 1,
+            "C. Galilei menemukan kompas": 0,
+            "D. Galilei menganalisis dinamika": 0
+        }
+    },
+    {
+        "input": "Apabila Gauss sudah memiliki keahlian di bidang kimia pada usia 16 tahun, maka apa yang tidak akan dia lakukan setahun kemudian?\nA. Menemukan teorema distribusi bilangan nyata dan metode kuadrat terkecil\nB. Menemukan teorema distribusi bilangan prima dan metode kuadrat terkecil\nC. Menerbitkan buku yang berjudul \"Theoria Motus Corporum Coelestium in sectionibus conicis solem ambientium\"\nD. Menghitung jalur pergerakan Ceres",
+        "target_scores": {
+            "A. Menemukan teorema distribusi bilangan nyata dan metode kuadrat terkecil": 0,
+            "B. Menemukan teorema distribusi bilangan prima dan metode kuadrat terkecil": 1,
+            "C. Menerbitkan buku yang berjudul \"Theoria Motus Corporum Coelestium in sectionibus conicis solem ambientium\"": 0,
+            "D. Menghitung jalur pergerakan Ceres": 0
+        }
+    },
+    {
+        "input": "Apabila insinyur yang bernama Perusahaan Terbatas Torpedo Whitehead lahir pada tahun 1867, maka peristiwa apa yang mungkin tidak akan terjadi dalam setahun sebelumnya?\nA. Kelahiran Filet-O-Fish\nB. Lahirnya torpedo\nC. Mendirikan Perusahaan Terbatas Torpedo Whitehead\nD. Mengelilingi Eropa untuk mempromosikan mesin tekstil",
+        "target_scores": {
+            "A. Kelahiran Filet-O-Fish": 0,
+            "B. Lahirnya torpedo": 1,
+            "C. Mendirikan Perusahaan Terbatas Torpedo Whitehead": 0,
+            "D. Mengelilingi Eropa untuk mempromosikan mesin tekstil": 0
+        }
+    },
+    {
+        "input": "Apabila Max Planck adalah orang yang tidak memiliki rasa cinta pada tanah air, apa yang tidak akan dia lakukan pada tahun 1907?\nA. Masuk ke Universitas Munich untuk mempelajari jurusan matematika\nB. Mendapatkan gelar doktor dari Universitas Berlin\nC. Menolak tawaran jabatan sebagai pengajar di Universitas Wina dan tetap di Universitas Berlin\nD. Menyelesaikan ujian sertifikasi guru di Munich",
+        "target_scores": {
+            "A. Masuk ke Universitas Munich untuk mempelajari jurusan matematika": 0,
+            "B. Mendapatkan gelar doktor dari Universitas Berlin": 0,
+            "C. Menolak tawaran jabatan sebagai pengajar di Universitas Wina dan tetap di Universitas Berlin": 1,
+            "D. Menyelesaikan ujian sertifikasi guru di Munich": 0
+        }
+    },
+    {
+        "input": "Apabila tidak pernah ada karya sastra sebelum abad ketujuh belas, apa yang tidak akan terjadi pada semua satelit di Uranus?\nA. Angka Romawi digunakan untuk menamai semua satelit Uranus yang dikenal pada saat itu\nB. Dinamai menurut tokoh dari karya William Shakespeare dan Alexander Pope\nC. Satelit Oberon Uranus IV awalnya dinamai \"Satelit Kedua Uranus\"\nD. Wahana Voyager 2 terbang lintas dekat Oberon pada bulan Januari tahun 1986",
+        "target_scores": {
+            "A. Angka Romawi digunakan untuk menamai semua satelit Uranus yang dikenal pada saat itu": 0,
+            "B. Dinamai menurut tokoh dari karya William Shakespeare dan Alexander Pope": 1,
+            "C. Satelit Oberon Uranus IV awalnya dinamai \"Satelit Kedua Uranus\"": 0,
+            "D. Wahana Voyager 2 terbang lintas dekat Oberon pada bulan Januari tahun 1986": 0
+        }
+    },
+    {
+        "input": "Apabila William Shakespeare memulai karirnya sebagai pengacara pada tahun 1587, peristiwa apa yang tidak akan terjadi pada delapan tahun kemudian?\nA. Drama yang ditulisnya dengan judul \"Henry VI, Part 2\" dan \"Henry VI, Part 3\" pertama kali dipentaskan\nB. Drama yang ditulisnya dengan judul \"Mimpi Suatu Malam Pertengahan Musim Panas\" pertama kali dipentaskan\nC. Drama yang ditulisnya dengan judul \"Pedagang Venesia\" pertama kali dipentaskan\nD. Drama yang ditulisnya dengan judul \"Richard III\" pertama kali dipentaskan",
+        "target_scores": {
+            "A. Drama yang ditulisnya dengan judul \"Henry VI, Part 2\" dan \"Henry VI, Part 3\" pertama kali dipentaskan": 0,
+            "B. Drama yang ditulisnya dengan judul \"Mimpi Suatu Malam Pertengahan Musim Panas\" pertama kali dipentaskan": 1,
+            "C. Drama yang ditulisnya dengan judul \"Pedagang Venesia\" pertama kali dipentaskan": 0,
+            "D. Drama yang ditulisnya dengan judul \"Richard III\" pertama kali dipentaskan": 0
+        }
+    },
+    {
+        "input": "Apabila diferensial tidak muncul sampai awal abad dua puluh, apa yang tidak akan dilakukan oleh Maxwell dalam teorinya sendiri?\nA. Mendapatkan beasiswa Smith\nB. Menerapkan diferensial dalam teori relativitas umum\nC. Menerapkan diferensial pada teori elektromagnetik\nD. Menjabat sebagai ketua pertama Laboratorium Cavendish",
+        "target_scores": {
+            "A. Mendapatkan beasiswa Smith": 0,
+            "B. Menerapkan diferensial dalam teori relativitas umum": 0,
+            "C. Menerapkan diferensial pada teori elektromagnetik": 1,
+            "D. Menjabat sebagai ketua pertama Laboratorium Cavendish": 0
+        }
+    },
+    {
+        "input": "Apabila penyakit Alzheimer pada Shannon dimulai sejak tahun 1941, apa yang tidak akan dia lakukan pada tujuh belas tahun kemudian?\nA. Mendapatkan gelar magister teknik elektro dan gelar doktor matematika dari Institut Teknologi Massachusetts\nB. Menjabat di Laboratorium Bell\nC. Menjabat sebagai peneliti di Institute for Advanced Study Princeton\nD. Menjadi profesor Sains Donner di Institut Teknologi Massachusetts",
+        "target_scores": {
+            "A. Mendapatkan gelar magister teknik elektro dan gelar doktor matematika dari Institut Teknologi Massachusetts": 0,
+            "B. Menjabat di Laboratorium Bell": 0,
+            "C. Menjabat sebagai peneliti di Institute for Advanced Study Princeton": 0,
+            "D. Menjadi profesor Sains Donner di Institut Teknologi Massachusetts": 1
+        }
+    },
+    {
+        "input": "Apabila Xu Beihong tidak diundang oleh Universitas Mingzhi untuk melukis dan mengajar, maka dia tidak akan melukis potret untuk siapa?\nA. Cai Yuanpei, Fu Zengxiang\nB. Gao Jianfu dan Gao Qifeng\nC. Kang Youwei dan istrinya He Zhanli serta teman-temannya\nD. Nakamura Fusetsu",
+        "target_scores": {
+            "A. Cai Yuanpei, Fu Zengxiang": 0,
+            "B. Gao Jianfu dan Gao Qifeng": 0,
+            "C. Kang Youwei dan istrinya He Zhanli serta teman-temannya": 1,
+            "D. Nakamura Fusetsu": 0
+        }
+    },
+    {
+        "input": "Apabila Jeme Tien Yow bersekolah di Jerman pada usia 12 tahun, peristiwa kenaikan kelas apa yang terkait Jeme Tien Yow mungkin tidak akan terjadi pada tahun 1878?\nA. Bersekolah di Sekolah Menengah Hillhouse di New Haven\nB. Bersekolah di sekolah swasta di Tiongkok kuno\nC. Diterima oleh jurusan teknik sipil Universitas Yale\nD. Memperoleh beasiswa matematika untuk kedua kalinya di Universitas Yale",
+        "target_scores": {
+            "A. Bersekolah di Sekolah Menengah Hillhouse di New Haven": 0,
+            "B. Bersekolah di sekolah swasta di Tiongkok kuno": 0,
+            "C. Diterima oleh jurusan teknik sipil Universitas Yale": 1,
+            "D. Memperoleh beasiswa matematika untuk kedua kalinya di Universitas Yale": 0
+        }
+    },
+    {
+        "input": "Jika sampai saat kematian Zu Chongzhi, orang-orang baru mulai memahami bentuk geometri, maka pencapaian luar biasa seperti apa yang tidak mungkin dia miliki?\nA. Berhasil menghitung nilai π sebesar 22/7≈3,14\nB. Menghitung nilai sebenarnya dari π antara 3,1415926 dan 3,1415927\nC. Menghitung nilai π sebesar 3,155\nD. Menghitung nilai π sebesar 3,162",
+        "target_scores": {
+            "A. Berhasil menghitung nilai π sebesar 22/7≈3,14": 0,
+            "B. Menghitung nilai sebenarnya dari π antara 3,1415926 dan 3,1415927": 1,
+            "C. Menghitung nilai π sebesar 3,155": 0,
+            "D. Menghitung nilai π sebesar 3,162": 0
+        }
+    },
+    {
+        "input": "Pada suatu musim gugur di akhir tahun 1860-an, jika Edison tidak mendirikan perusahaannya sendiri, posisi apa yang tidak akan dia peroleh di perusahaan tersebut?\nA. Insinyur listrik\nB. Petugas Telepon\nC. Petugas penghitungan suara\nD. Petugas telegraf",
+        "target_scores": {
+            "A. Insinyur listrik": 1,
+            "B. Petugas Telepon": 0,
+            "C. Petugas penghitungan suara": 0,
+            "D. Petugas telegraf": 0
+        }
+    },
+    {
+        "input": "Apabila fenomena persistensi penglihatan hingga abad ke-20 baru ditemukan, maka teknik apa yang tidak akan ditunjukkan oleh Edison di laboratoriumnya pada akhir bulan Mei tahun 1891?\nA. Sulap\nB. Teknik kinetoskop\nC. Teknik pembangkit listrik arus bolak-balik\nD. Teknologi telegraf",
+        "target_scores": {
+            "A. Sulap": 0,
+            "B. Teknik kinetoskop": 1,
+            "C. Teknik pembangkit listrik arus bolak-balik": 0,
+            "D. Teknologi telegraf": 0
+        }
+    },
+    {
+        "input": "Apabila William Herschel tidak menggeluti penelitian astronomi, John Herschel mungkin tidak akan menjadi apa?\nA. Ahli Astronomi\nB. Perintis Astronomi Bintang\nC. Perintis bom atom dan bom hidrogen\nD. Sebatang pohon",
+        "target_scores": {
+            "A. Ahli Astronomi": 1,
+            "B. Perintis Astronomi Bintang": 0,
+            "C. Perintis bom atom dan bom hidrogen": 0,
+            "D. Sebatang pohon": 0
+        }
+    },
+    {
+        "input": "Apabila ayah Xu Beihong mengizinkannya untuk belajar melukis pada tahun 1901, apa yang tidak akan dia lakukan?\nA. Melukiskan ayam, bebek, kucing dan anjing di tepian sungai sebelah rumah secara diam-diam\nB. Melukiskan bunga matahari secara blak-blakan\nC. Melukiskan bunga teratai secara blak-blakan\nD. Melukiskan telaga teratai yang termenung dalam remang bulan secara diam-diam",
+        "target_scores": {
+            "A. Melukiskan ayam, bebek, kucing dan anjing di tepian sungai sebelah rumah secara diam-diam": 1,
+            "B. Melukiskan bunga matahari secara blak-blakan": 0,
+            "C. Melukiskan bunga teratai secara blak-blakan": 0,
+            "D. Melukiskan telaga teratai yang termenung dalam remang bulan secara diam-diam": 0
+        }
+    },
+    {
+        "input": "Pada awal abad ke-20 ketika kemenangan arus bolak-balik (AC) sudah pasti, apabila Edison bukan orang yang keras kepala, apa yang tidak akan dia lakukan?\nA. Berhasil merancang tungku panjang\nB. Mengeksekusi gajah menggunakan gajah dengan menggunakan arus bolak-balik 6.700 volt\nC. Menyempurnakan telepon\nD. Pelaksanaan eksekusi pada gajah dengan menggunakan arus bolak-balik 6.600 volt",
+        "target_scores": {
+            "A. Berhasil merancang tungku panjang": 0,
+            "B. Mengeksekusi gajah menggunakan gajah dengan menggunakan arus bolak-balik 6.700 volt": 0,
+            "C. Menyempurnakan telepon": 0,
+            "D. Pelaksanaan eksekusi pada gajah dengan menggunakan arus bolak-balik 6.600 volt": 1
+        }
+    },
+    {
+        "input": "Apabila Michelangelo Bonarroti baru mulai melukis untuk pertama kalinya pada tahun 1500, dia tidak akan melakukan apa pada 4 tahun lalu?\nA. Membuat karya yang berjudul \"Bacchus\"\nB. Membuat karya yang berjudul \"Book of Genesis\"\nC. Membuat karya yang berjudul \"David\"\nD. Membuat karya yang berjudul \"The Last Judgment\"",
+        "target_scores": {
+            "A. Membuat karya yang berjudul \"Bacchus\"": 1,
+            "B. Membuat karya yang berjudul \"Book of Genesis\"": 0,
+            "C. Membuat karya yang berjudul \"David\"": 0,
+            "D. Membuat karya yang berjudul \"The Last Judgment\"": 0
+        }
+    },
+    {
+        "input": "Apabila hingga tahun 1676 Earl Shaftesbury baru mulai kehilangan kekuasaan, hal apa yang tidak mungkin dilakukan oleh John Locke pada setahun sebelumnya?\nA. Berwisata ke Perancis\nB. Melakukan koreksi ulang terhadap naskahnya yang berjudul \"Essay Concerning Human Understanding\" dan \"A Letter Concerning Toleration\"\nC. Melarikan diri ke Belanda\nD. Membela Revolusi Agung",
+        "target_scores": {
+            "A. Berwisata ke Perancis": 1,
+            "B. Melakukan koreksi ulang terhadap naskahnya yang berjudul \"Essay Concerning Human Understanding\" dan \"A Letter Concerning Toleration\"": 0,
+            "C. Melarikan diri ke Belanda": 0,
+            "D. Membela Revolusi Agung": 0
+        }
+    },
+    {
+        "input": "Apabila hingga tahun 1778, Lavoisier pun belum pernah melakukan percobaan kalsinasi logam, maka apa yang tidak bisa dia tulis pada setahun sebelumnya?\nA. \"Asal Usul Spesies\"\nB. \"Konsep Pembakaran\"​​\nC. \"Philosophiae Naturalis Principia Mathematica\"\nD. \"Risalah Dasar Kimia\"",
+        "target_scores": {
+            "A. \"Asal Usul Spesies\"": 0,
+            "B. \"Konsep Pembakaran\"​​": 1,
+            "C. \"Philosophiae Naturalis Principia Mathematica\"": 0,
+            "D. \"Risalah Dasar Kimia\"": 0
+        }
+    },
+    {
+        "input": "Setelah lulus dari sekolah menengah, apabila Werner Heisenberg yang diterima di Universitas Munich mengambil jurusan kedokteran, apa yang tidak akan terjadi pada tahun 1925?\nA. Werner Heisenberg lahir di Würzburg, Jerman\nB. Werner Heisenberg memenangkan Hadiah Nobel Fisika\nC. Werner Heisenberg menjabat sebagai kepala Institut Fisika Universitas Göttingen\nD. Werner Heisenberg merumuskan mekanika matriks",
+        "target_scores": {
+            "A. Werner Heisenberg lahir di Würzburg, Jerman": 0,
+            "B. Werner Heisenberg memenangkan Hadiah Nobel Fisika": 0,
+            "C. Werner Heisenberg menjabat sebagai kepala Institut Fisika Universitas Göttingen": 0,
+            "D. Werner Heisenberg merumuskan mekanika matriks": 1
+        }
+    }
+]

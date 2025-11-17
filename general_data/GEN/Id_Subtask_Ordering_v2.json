@@ -1,0 +1,734 @@
+[
+    {
+        "input": "\"Konstruksi dan pembangunan, perancangan jembatan, dibuka untuk umum, persiapan material, pemeriksaan kualitas\" adalah lima tahap penting dalam membangun jembatan dengan lancar. Silakan susun urutan yang benar berdasarkan situasi nyata.",
+        "target": "Perancangan jembatan→ Persiapan material→ Konstruksi dan pembangunan→ Pemeriksaan kualitas→ Dibuka untuk umum"
+    },
+    {
+        "input": "\"Perencanaan tugas, pengujian komprehensif dan pemeriksaan akhir, pembuatan wahana antariksa, peluncuran, pelaksanaan tugas, kembali ke Bumi\" adalah ringkasan yang saya rangkum mengenai berbagai tahap pelaksanaan tugas luar angkasa. Silakan periksa apakah urutan di atas sudah benar berdasarkan ringkasan yang saya rangkum.",
+        "target": "Tidak benar, urutan yang benar adalah: Perencanaan tugas→ Pembuatan wahana antariksa→ Pengujian komprehensif dan pemeriksaan akhir→ Peluncuran→ Pelaksanaan tugas→ Kembali ke Bumi"
+    },
+    {
+        "input": "Untuk berhasil mengembangkan sebuah perangkat lunak, biasanya diperlukan untuk menyelesaikan pekerjaan berikut ini: \"penulisan kode, analisis kebutuhan, peluncuran perangkat lunak, perancangan perangkat lunak, pengujian perangkat lunak\". Silakan susun urutan yang benar berdasarkan pengetahuan umum.",
+        "target": "Analisis kebutuhan→ Perancangan perangkat lunak→ Penulisan kode→ Pengujian perangkat lunak→ Peluncuran perangkat lunak"
+    },
+    {
+        "input": "Untuk melaksanakan eksperimen ilmiah dengan lancar, selain mengumpulkan data, pada umumnya masih terdapat langkah-langkah berikut: \"merancang eksperimen, mengajukan hipotesis, menarik kesimpulan, menganalisis data\". Silakan susun urutan yang benar berdasarkan situasi nyata.",
+        "target": "Mengajukan hipotesis→ Merancang eksperimen→ Mengumpulkan data→ Menganalisis data→ Menarik kesimpulan"
+    },
+    {
+        "input": "Saya telah merangkum langkah-langkah yang diperlukan untuk melakukan aktivitas olahraga: \"memulai olahraga, menyusun rencana olahraga, mengenakan perlengkapan olahraga, melakukan pemanasan, melakukan peregangan untuk mengurangi penumpukan asam laktat\". Silakan susun urutan yang benar berdasarkan pengetahuan umum.",
+        "target": "Menyusun rencana olahraga→ Mengenakan perlengkapan olahraga→ Melakukan pemanasan→ Memulai olahraga→ Melakukan peregangan untuk mengurangi penumpukan asam laktat"
+    },
+    {
+        "input": "\"Memilih penyedia layanan, mengisi informasi pendaftaran, memverifikasi dan menyelesaikan pendaftaran, mengatur kata sandi, masuk ke situs resmi\". Tolong beri tahu saya langkah-langkah yang diperlukan untuk mendaftar akun surel dalam urutan benar berdasarkan isi yang terangkum tersebut di atas.",
+        "target": "Memilih penyedia layanan→ Masuk ke situs resmi→ Mengisi informasi pendaftaran→ Mengatur kata sandi→ Memverifikasi dan menyelesaikan pendaftaran"
+    },
+    {
+        "input": "Menggunakan smartphone untuk melakukan pembayaran biasanya melibatkan langkah-langkah berikut: “memasukkan jumlah pembayaran, memindai kode QR yang disediakan oleh pedagang, mengonfirmasi pembayaran, membuka aplikasi pembayaran”. Silakan susun kembali langkah-langkah tersebut dalam urutan yang benar.",
+        "target": "Membuka aplikasi pembayaran→ Memindai kode QR yang disediakan oleh pedagang→ Memasukkan jumlah pembayaran→ Mengonfirmasi pembayaran"
+    },
+    {
+        "input": "Saya telah merangkum langkah-langkah yang diperlukan untuk merakit furnitur, yang biasanya meliputi: \"membaca buku panduan perakitan, merakit bagian furnitur, memastikan semua alat dan aksesori lengkap, mengikat dengan sekrup\". Silakan susun urutan yang benar berdasarkan pengetahuan umum.",
+        "target": "Membaca buku panduan perakitan→ Memastikan semua alat dan aksesori lengkap→ Merakit bagian furnitur→ Mengikat dengan sekrup"
+    },
+    {
+        "input": "Menggunakan microwave biasanya memiliki langkah-langkah berikut: \"menetapkan waktu pemanasan dan daya, membuka microwave dan memasukkan makanan, mulai memanaskan, menutup pintu microwave\". Silakan atur kembali dalam urutan yang benar.",
+        "target": "Membuka microwave dan memasukkan makanan→ Menutup pintu microwave→ Menetapkan waktu pemanasan dan daya→ Mulai memanaskan"
+    },
+    {
+        "input": "Cara menyisipkan nomor halaman di Word, silakan susun ulang langkah-langkah yang saya berikan dan cantumkan proses operasi yang benar: a. Pilih gaya nomor halaman yang Anda inginkan di menu drop-down. `b. Pilih \"Nomor Halaman\"`. c. Klik \"Sisipkan\" di bilah menu.",
+        "target": "c. Klik \"Sisipkan\" di bilah menu→b. Pilih \"Nomor Halaman\"→a. Pilih gaya nomor halaman yang Anda inginkan di menu drop-down."
+    },
+    {
+        "input": "Membuat model pembelajaran mesin sederhana dalam Python akan mencakup beberapa langkah berikut: \"memilih model, seperti Linear Regression, menggunakan data Anda untuk melatih model, memuat data Anda dan melakukan prapemrosesan, mengimpor pustaka yang diperlukan seperti numpy, pandas dan sklearn, menggunakan model untuk melakukan prediksi\". Silakan susun ulang langkah-langkah tersebut dalam urutan yang benar.",
+        "target": "Mengimpor pustaka yang diperlukan seperti numpy, pandas dan sklearn→ Memuat data Anda dan melakukan prapemrosesan→ Memilih model, seperti Linear Regression→ Menggunakan data Anda untuk melatih model→ Menggunakan model untuk melakukan prediksi"
+    },
+    {
+        "input": "Saya ingin membuat efek 3D di Adobe Illustrator, biasanya perlu mengikuti langkah-langkah berikut: klik \"Effect\" di bilah menu dan pilih \"3D\", atur parameter efek 3D di kotak dialog pop-up, pilih jenis efek \"Rotate\" atau \"Extrude\", buat sebuah objek yang ingin Anda terapkan efek 3D. Silakan susun langkah-langkah tersebut dalam urutan yang benar.",
+        "target": "Buat sebuah objek yang ingin Anda terapkan efek 3D→ Klik \"Effect\" di bilah menu dan pilih \"3D\"→ Pilih jenis efek \"Rotate\" atau \"Extrude\"→ Atur parameter efek 3D di kotak dialog pop-up"
+    },
+    {
+        "input": "Silakan menyusun langkah-langkah yang benar untuk membuat database di MySQL. Pembuatan database biasanya mencakup beberapa langkah berikut: \"membuka MySQL Command Line Client, memasukkan \\\"USE nama_database\\\" lalu tekan Enter, memasukkan \\\"CREATE DATABASE nama_database\\\" lalu tekan Enter. Jawablah berdasarkan informasi yang saya sebutkan.",
+        "target": "Membuka MySQL Command Line Client→ Masukkan \\\"CREATE DATABASE nama_database\\\" lalu tekan Enter→ Masukkan \\\"USE nama_database\\\" lalu tekan Enter"
+    },
+    {
+        "input": "Untuk membuat animasi grafik dinamis di After Effects, Anda perlu menyelesaikan langkah-langkah berikut: buka atribut \"Path\" dari bentuk dan tambahkan sebuah keyframe, buat komposisi baru, gunakan alat bentuk untuk membuat sebuah bentuk, After Effects akan secara otomatis membuat animasi, pindahkan indikator timeline dan kemudian modifikasi jalur bentuk. Silakan susun langkah-langkah tersebut dalam urutan yang benar.",
+        "target": "Buat sebuah komposisi baru→ Gunakan alat bentuk untuk membuat sebuah bentuk→ Buka atribut \"Path\" dari bentuk dan tambahkan sebuah keyframe→ Pindahkan indikator timeline dan kemudian modifikasi jalur bentuk→ After Effects akan secara otomatis membuat sebuah animasi"
+    },
+    {
+        "input": "Pengembangan sebuah web mencakup beberapa langkah berikut, seperti: menulis kode HTML, merancang antarmuka, menambahkan gaya, menerbitkan web. Silakan susun langkah-langkah tersebut dalam urutan yang benar",
+        "target": "Merancang antarmuka→ Menulis kode HTML→ Menambahkan gaya→ Menerbitkan web"
+    },
+    {
+        "input": "Silakan susun langkah-langkah yang benar dari proses siklus air yang lengkap. Berikut adalah tahap-tahap yang terlibat dalam proses tersebut: \"infiltrasi, pengaliran, penguapan, kondensasi, presipitasi\". Mulailah dari \"penguapan\" dan susunlah tahap-tahap tersebut dalam urutan yang benar.",
+        "target": "Penguapan→ Kondensasi→ Presipitasi→ Infiltrasi→ Pengaliran"
+    },
+    {
+        "input": "Saya baru-baru ini sangat tertarik dengan fotosintesis di alam, dan ingin memahami proses fotosintesis secara keseluruhan. Berikut adalah beberapa tahap: \"pengurangan karbon dioksida, penyerapan energi cahaya, sintesis bahan organik, pembelahan air\". Bisakah Anda membantu saya menyusun kembali urutan tersebut berdasarkan urutan proses fotosintesis yang benar?",
+        "target": "Penyerapan energi cahaya→ Pembelahan air→ Pengurangan karbon dioksida→ Sintesis bahan organik"
+    },
+    {
+        "input": "\"Ekskresi, mengunyah, menelan, pencernaan di lambung, penyerapan usus kecil, penyerapan usus besar\", bisakah Anda menjawab saya bagaimana urutan pencernaan makanan lengkap berdasarkan proses pencernaan tersebut di atas?",
+        "target": "Mengunyah→ Menelan→ Pencernaan di lambung→ Penyerapan usus kecil→ Penyerapan usus besar→ Ekskresi"
+    },
+    {
+        "input": "\"Menyiapkan bahan-bahannya, merebus sampai mendidih, mencampurkan gula dan air, menuangkan ke dalam cetakan\", bisakah Anda memberikan langkah yang benar untuk membuat permen berdasarkan informasi tersebut di atas?",
+        "target": "Menyiapkan bahan-bahannya→ Mencampurkan gula dan air→ Merebus sampai mendidih→ Menuangkan ke dalam cetakan"
+    },
+    {
+        "input": "Saya menemukan proses pembuatan sofa dari internet,\"membangun rangka, memotong kayu, mengisi dengan spons, menjahit sarung\". Susunlah langkah-langkah tersebut dalam urutan yang benar.",
+        "target": "Memotong kayu→ Membangun rangka→ Mengisi dengan spons→ Menjahit sarung"
+    },
+    {
+        "input": "Saya mengajari seseorang yang awam tentang cara melakukan lari pagi. Berikut adalah beberapa langkah: \"melakukan latihan utama, mengenakan perlengkapan olahraga, melakukan latihan pemanasan, melakukan peregangan\". Tolong bantu saya menyusun ulang langkah-langkah tersebut sesuai dengan urutan yang benar.",
+        "target": "Mengenakan perlengkapan olahraga→ Melakukan latihan pemanasan→ Melakukan latihan utama→ Melakukan peregangan"
+    },
+    {
+        "input": "Untuk mengajari seseorang yang sama sekali tidak memiliki pengetahuan umum untuk merapikan rak buku, bagaimana Anda akan menyusun langkah-langkah berikut: \"menaruh kembali buku, mengkategorikan buku, mengosongkan rak buku, mengelap rak buku\"? Silakan susun urutan yang benar.",
+        "target": "Mengosongkan rak buku→ Mengelap rak buku→ Mengkategorikan buku→ Menaruh kembali buku"
+    },
+    {
+        "input": "Menyiapkan makan malam biasanya meliputi beberapa langkah berikut: memasak makanan, menikmati makan malam, menyiapkan bahan-bahan makanan, dan menyajikan makanan. Silakan susun urutan yang benar berdasarkan fakta.",
+        "target": "Menyiapkan bahan-bahan makanan→ Memasak makanan→ Menyajikan makanan→ Menikmati makan malam"
+    },
+    {
+        "input": "Saya ingin tahu langkah-langkah yang tepat untuk menggabungkan file PDF di Adobe Acrobat. Berikut adalah beberapa langkah: tambahkan file yang ingin Anda gabungkan di kotak dialog pop-up, pilih \"Gabungkan File\", klik \"Alat\" di bilah menu, klik \"Gabungkan\". Silakan susun langkah-langkah tersebut dalam urutan yang benar.",
+        "target": "Klik \"Alat\" di bilah menu→ Pilih \"Gabungkan File\"→Tambahkan file yang ingin Anda gabungkan di kotak dialog pop-up→ Klik \"Gabungkan\""
+    },
+    {
+        "input": "Mengatur spasi baris di Microsoft Word 2003 biasanya mencakup beberapa langkah berikut: Mengatur spasi baris di kotak dialog pop-up, memilih \"Paragraf\", mengklik \"Format\" di bilah menu. Silakan susun ulang dalam urutan yang benar.",
+        "target": "Mengklik \"Format\" di bilah menu→Memilih \"Paragraf\" →Mengatur spasi baris di kotak dialog pop-up"
+    },
+    {
+        "input": "Saya ingin tahu cara membuat salad, apakah langkah berikut dalam urutan yang benar? \"Memasukkan sayuran dan buah-buahan ke dalam mangkuk, memotong sayuran dan buah-buahan, menuangkan saus, mencuci sayuran dan buah-buahan\".",
+        "target": "Tidak benar, urutan yang benar adalah: Mencuci sayuran dan buah-buahan→ Memotong sayuran dan buah-buahan→ Memasukkan sayuran dan buah-buahan ke dalam mangkuk→ Menuangkan saus"
+    },
+    {
+        "input": "Untuk mengajari seseorang yang sama sekali tidak berpengalaman dalam membuat kopi dengan biji kopi, bagaimana Anda akan menyusun langkah-langkah berikut: \"menggiling biji kopi, memasukkan bubuk kopi yang sudah digiling, menyiapkan alat penggiling kopi, menuangkan air panas yang secukupnya\"? Silakan susun urutan yang benar.",
+        "target": "Menyiapkan alat penggiling kopi→ Menggiling biji kopi→ Memasukkan bubuk kopi yang sudah digiling→ Menuangkan air panas yang secukupnya"
+    },
+    {
+        "input": "Saya ingin merajut sebuah syal untuk teman sebelum Hari Raya Natal. Tolong urutkan langkah-langkah berikut sesuai dengan prosedur yang benar: \"menyiapkan benang rajut yang sesuai, lanjut merajut sesuai dengan desain yang sudah ditentukan, menentukan panjang, lebar dan pola, mulai merajut bagian awal, merapikan bagian akhir rajutan, menyelesaikan perajutan\".",
+        "target": "Menentukan panjang, lebar dan pola→ Menyiapkan benang rajut yang sesuai→ Mulai merajut bagian awal→ Lanjut merajut sesuai dengan desain yang sudah ditentukan→ Merapikan bagian akhir rajutan→ Menyelesaikan perajutan"
+    },
+    {
+        "input": "Kami sekeluarga ingin berwisata ke luar negeri sebelum Hari Raya Natal. Perjalanan ke luar negeri melibatkan beberapa persiapan: \"menentukan tempat tujuan dan tanggal perjalanan, menyiapkan bagasi, memesan tiket pesawat dan hotel, memastikan masa berlaku paspor dan visa\". Bisakah Anda membantu saya menyusun urutannya?",
+        "target": "Menentukan tempat tujuan dan tanggal perjalanan→ Memastikan masa berlaku paspor dan visa→ Memesan tiket pesawat dan hotel→ Menyiapkan bagasi"
+    },
+    {
+        "input": "Kamu akan mengajari seseorang yang sama sekali tidak memiliki dasar musik untuk menyanyikan sebuah lagu sebelum Hari Raya Natal, silakan urutkan langkah yang benar. Berikut adalah beberapa langkah: mengunduh lirik dan musik latar, melatih bersama dengan musik latar, memilih lagu, melatih kalimat demi kalimat.",
+        "target": "Memilih lagu→ Mengunduh lirik dan musik latar→ Melatih kalimat demi kalimat→ Melatih bersama dengan musik latar"
+    },
+    {
+        "input": "Silakan urutkan kembali langkah-langkah berikut berdasarkan proses membeli tiket film dalam kehidupan nyata: \"membuka kunci ponsel, memilih film, membuka aplikasi film, memeriksa jadwal tayang\"",
+        "target": "Membuka kunci ponsel→ Membuka aplikasi film→ Memilih film→ Memeriksa jadwal tayang"
+    },
+    {
+        "input": "Untuk belajar seluncur es, langkah-langkah berikut harus dilakukan dalam urutan yang seperti apa: \"berlatih berdiri, belajar meluncur, belajar memulai, membeli sepatu seluncur es\".",
+        "target": "Membeli sepatu seluncur es→ Berlatih berdiri→ Belajar memulai→ Belajar meluncur"
+    },
+    {
+        "input": "Untuk mengajari seseorang yang sama sekali tidak berpengalaman untuk membikin muffin bluberi, bagaimana Anda akan mengurutkan langkah-langkah berikut: \" memasukkan buah bluberi dengan pelan-pelan; mencampurkan tepung, gula pasir, baking powder, dan garam; menambahkan telur dan susu; memanggang dalam oven selama 20-25 menit hingga berwarna keemasan; memasukkan ke dalam cetakan muffin?\" Silakan susun urutan dengan benar.",
+        "target": "Mencampurkan tepung, gula pasir, baking powder, dan garam→ Menambahkan telur dan susu→ Memasukkan buah bluberi dengan pelan-pelan→ Memasukkan ke dalam cetakan muffin→ Memanggang dalam oven selama 20-25 menit hingga berwarna keemasan"
+    },
+    {
+        "input": "Ayunda ingin berwisata ke luar negeri dengan pesawat terbang, langkah-langkah berikut harus diikuti dengan urutan seperti apa: memesan tiket pesawat, menunggu naik pesawat, melakukan daftar masuk, naik pesawat, tiba di tempat tujuan.",
+        "target": "Memesan tiket pesawat→ Melakukan daftar masuk→ Menunggu naik pesawat→ Naik pesawat→ Tiba di tempat tujuan"
+    },
+    {
+        "input": "Saya ingin mencoba untuk membuat es krim sendiri, langkah-langkah berikut harus diikuti dengan urutan seperti apa: menambahkan bahan rasa yang diperlukan, seperti buah-buahan, potongan cokelat, dan lain-lain; menunggu sampai es krim benar-benar mengeras; memasukkan campuran cairan ke dalam cetakan es krim dan kemudian bekukan di lemari es; mengaduk hingga tercampur; menyiapkan krim, susu, dan gula.",
+        "target": "Menyiapkan krim, susu, dan gula→ Mengaduk hingga tercampur→ Menambahkan bahan rasa yang diperlukan, seperti buah-buahan, potongan cokelat, dan lain-lain→ Memasukkan campuran cairan ke dalam cetakan es krim dan kemudian bekukan di lemari es→ Menunggu sampai es krim benar-benar mengeras"
+    },
+    {
+        "input": "Wulan ingin mengubah gaya rambutnya, dia memikirkan langkah-langkah berikut: \"penata rambut memangkas rambut, berkomunikasi dengan penata rambut, melakukan pembayaran, mencari gambar referensi, mengunjungi salon kecantikan.\" Dapatkah Anda menyusun urutan yang benar dari langkah-langkah tersebut di atas?",
+        "target": "Mencari gambar referensi→ Mengunjungi salon kecantikan→ Berkomunikasi dengan penata rambut→ Penata rambut memangkas rambut→ Melakukan pembayaran"
+    },
+    {
+        "input": "Saya hanya memiliki alat penggoreng udara dan ingin mencoba membuat ayam goreng sendiri. Apakah langkah-langkah berikut sudah diikuti dalam urutan yang benar? a. Potongan ayam dibaluri dengan garam dan merica b. Siapkan ayam, tepung, garam, merica, dan telur kocok c. Celupkan potongan ayam ke dalam tepung, lalu ke dalam telur kocok d. Goreng selama 10-15 menit hingga berwarna keemasan dan renyah e. Celupkan kembali ke dalam tepung, lalu masukkan potongan ayam ke dalam alat penggoreng udara.",
+        "target": "Tidak benar, urutan yang benar adalah baced"
+    },
+    {
+        "input": "Saya hendak merencanakan pesta ulang tahun, berikut adalah beberapa langkah yang saya pikirkan: pengaturan dan dekorasi tempat; penetapan waktu dan tempat, dan anggaran; pembersihan tempat; perayaan ulang tahun; penyusunan daftar tamu yang akan diundang; penyiapan makanan dan minuman. Bisakah Anda membantu saya merencanakan urutan prioritasnya?",
+        "target": "Penetapan waktu dan tempat, dan anggaran→ Penyusunan daftar tamu yang akan diundang→ Pengaturan dan dekorasi tempat→ Penyiapan makanan dan minuman→ Perayaan ulang tahun→ Pembersihan tempat"
+    },
+    {
+        "input": "Bohlam di rumah telah rusak, langkah-langkah berikut harus diikuti dalam urutan seperti apa: Lepaskan bohlam yang sudah ada, matikan daya listrik, hidupkan daya listrik dan uji bohlam baru, pasang bohlam baru\"?",
+        "target": "Matikan daya listrik→ lepaskan bohlam yang sudah ada→ pasang bohlam baru→ hidupkan daya listrik dan uji bohlam baru"
+    },
+    {
+        "input": "Saya baru saja mulai belajar seni kaligrafi, berikut adalah beberapa jadwal pembelajaran yang saya pikirkan: \"Tiru karya kaligrafi dari kaligraf terkenal; Pilih alat kaligrafi; Pelajari goresan; Pelajari struktur dasar; Ciptakan karya kaligrafi\". Dalam urutan apa saya harus mengaturnya?",
+        "target": "Pilih alat kaligrafi→  Pelajari goresan→ Pelajari struktur dasar→ Tiru karya kaligrafi dari kaligraf terkenal→ Ciptakan karya kaligrafi"
+    },
+    {
+        "input": "Bagi seseorang yang tidak memiliki dasar bahasa Inggris, apa langkah-langkah yang benar untuk belajar bahasa Inggris? Silakan urutkan kembali berdasarkan langkah-langkah berikut: Pahami tata bahasa dan kosakata dasarnya; Pelajari 26 abjad; Berlatih berbicara, mendengar, menulis, dan membaca; Tonton film asing; Ikuti kegiatan pertukaran bahasa asing",
+        "target": "Pelajari 26 abjad→ Pahami tata bahasa dan kosakata dasarnya→ Berlatih berbicara, mendengar, menulis, dan membaca→ Tonton film asing→Ikuti kegiatan pertukaran bahasa asing"
+    },
+    {
+        "input": "Saya akan mempersiapkan diri untuk kontes pidato, apakah langkah-langkah berikut benar? \"Tentukan topik, pelajari materi, biasakan diri dengan naskah, susun garis besar, revisi dan perbaiki, buat draf naskah, sampaikan pidato\"",
+        "target": "Tidak, urutan benar adalah: Tentukan topik→ Pelajari materi→ Susun garis besar→ Buat draf naskah→ Revisi dan perbaiki→ Biasakan diri dengan naskah→ Sampaikan pidato"
+    },
+    {
+        "input": "Kami akan mengadakan rapat bisnis pada minggu depan, dan biasanya akan terdapat beberapa proses berikut: \"mengundang peserta, menentukan agenda, merangkum notulen, memulai rapat, melakukan diskusi, menyiapkan dokumen dan laporan yang relevan\". Silakan susun urutan proses yang benar.",
+        "target": "Menentukan agenda→ Mengundang peserta→ Menyiapkan dokumen dan laporan yang relevan→ Memulai rapat→ Melakukan diskusi→ Merangkum notulen"
+    },
+    {
+        "input": "Saya akan mengikuti tes IELTS 25 hari lagi, dalam daftar tugas saya terdapat: \"Buat rencana studi - Belajar secara sistematis - Tes mandiri - Berlatih dan ulangi - Pahami isi dan persyaratan tes - Atur materi pelajaran\". Bisakah Anda membantu saya menyusun urutannya dengan wajar?",
+        "target": "Pahami isi dan persyaratan tes→ Buat rencana studi→ Atur materi pelajaran→ Belajar secara sistematis→ Berlatih dan ulangi→ Tes mandiri"
+    },
+    {
+        "input": "Saya ingin merancang website saya sendiri, berikut adalah beberapa langkah: \"Tentukan tujuan, lakukan pengembangan website, lakukan riset pasar, desain struktur dan tata letak website, buat rencana konten, lakukan pengujian dan perilisan\". Silakan susun urutan langkah yang tepat sesuai dengan logika.",
+        "target": "Menentukan tujuan→ Melakukan riset pasar→ Membuat rencana konten→ Mendesain struktur dan tata letak website→ Melakukan pengembangan website→ Melakukan pengujian dan perilisan"
+    },
+    {
+        "input": "Saya ingin mempelajari tutorial dasar tarian Latin. Bagaimana urutan yang tepat untuk mempelajari: \"latihan khusus berpasangan, mempelajari langkah dasar, latihan praktik solo, kebugaran dan kelenturan\".",
+        "target": "Kebugaran dan kelenturan→ Mempelajari langkah dasar→ Latihan praktik solo→ Latihan khusus berpasangan"
+    },
+    {
+        "input": "Saya berencana mendaftar di kelas kebugaran. Bagaimana urutan yang benar untuk langkah-langkah berikut? \"menentukan tujuan, memantau kemajuan, memilih metode latihan yang sesuai, mengatur frekuensi dan durasi latihan yang sesuai, memulai latihan\".",
+        "target": "Menentukan tujuan→ Memilih metode latihan yang sesuai→ Mengatur frekuensi dan durasi latihan yang sesuai→ Memulai latihan→ Memantau kemajuan"
+    },
+    {
+        "input": "Dalam melaksanakan manajemen keuangan keluarga, langkah-langkah berikut seharusnya diikuti dalam urutan seperti apa: \"Melaksanakan rencana yang telah ditetapkan, mengevaluasi dan menyesuaikan kondisi keuangan secara berkala, menentukan rencana berdasarkan keadaan nyata keluarga, menetapkan tujuan perencanaan keuangan\"?",
+        "target": "Menetapkan tujuan perencanaan keuangan→ Menentukan rencana berdasarkan keadaan nyata keluarga→ Melaksanakan rencana yang telah ditetapkan→ Mengevaluasi dan menyesuaikan kondisi keuangan secara berkala"
+    },
+    {
+        "input": "Silakan jelaskan langkah-langkah dalam menyelesaikan tiga tahap pemasaran media sosial berikut secara berurutan: \"Tentukan target audiens dan strategi pemasaran, bangun citra merek dan akun media sosial, susun rencana konten dan frekuensi publikasi\".",
+        "target": "Tentukan target audiens dan strategi pemasaran → Bangun citra merek dan akun media sosial → Susun rencana konten dan frekuensi publikasi"
+    },
+    {
+        "input": "Minggu depan perusahaan kami akan mengadakan acara amal. Langkah-langkah yang perlu dicakup dalam kegiatan sebagai berikut: \"Promosikan acara, evaluasi hasil acara, susun rencana dan jadwal acara, tentukan tujuan dan kelompok penerima manfaat, laksanakan acara\", bisakah Anda membantu merencanakan alur kerja yang logis?",
+        "target": "Tentukan tujuan dan kelompok penerima manfaat → Susun rencana dan jadwal acara → Promosikan acara → Laksanakan acara → Evaluasi hasil acara"
+    },
+    {
+        "input": "Berikut adalah beberapa langkah untuk menggunakan tusuk gigi benang: \"Letakkan tusuk gigi benang di antara dua gigi, siapkan tusuk gigi benang, lanjutkan pembersihan gigi lainnya, geser ke atas dan ke bawah secara kekuatan merata, bilas mulut dengan air untuk menghilangkan sisa-sisa makanan\", dapatkah Anda membantu saya menyusun urutan dengan tepat?",
+        "target": "Siapkan tusuk gigi benang→ Meletakkan tusuk gigi benang di antara dua gigi→ Menggeser ke atas dan ke bawah secara kekuatan merata→ Melanjutkan pembersihan gigi lainnya→ Membilas mulut dengan air untuk menghilangkan sisa-sisa makanan"
+    },
+    {
+        "input": "Pemangkasan tanaman berdaun besar dapat dibagi menjadi langkah-langkah berikut: \"melindungi bagian lain dari tanaman saat memangkas daun besar, memangkas daun menjadi bentuk yang tepat sesuai kebutuhan, menyiapkan gunting yang sesuai, memilih daun yang perlu dipangkas, menyemprotkan air di kedua sisi daun untuk melembabkan\", Silakan atur ulang dalam urutan yang benar.",
+        "target": "Menyiapkan gunting yang sesuai→ Memilih daun yang perlu dipangkas→ Melindungi bagian lain dari tanaman saat memangkas daun besar→ Memangkas daun menjadi bentuk yang tepat sesuai kebutuhan→ Menyemprotkan air di kedua sisi daun untuk melembabkan"
+    },
+    {
+        "input": "Membuat kopi instan biasanya melalui beberapa langkah berikut: \"Masukkan bubuk kopi ke dalam cangkir, didihkan air, tuangkan air panas, tambahkan gula dan krimer secukupnya lalu aduk kembali, aduk hingga merata.\" Silakan susun langkah-langkah tersebut dalam urutan yang benar.",
+        "target": "Didihkan air → Masukkan bubuk kopi ke dalam cangkir → Tuangkan air panas → Aduk hingga merata → Tambahkan gula dan krimer secukupnya, lalu aduk kembali"
+    },
+    {
+        "input": "\"Tambahkan gula atau pemanis lainnya → tuangkan busa susu yang sudah dibuat → siapkan bahan-bahan yang dibutuhkan → larutkan kopi → buat buih susu → panaskan air\". Berikut adalah beberapa langkah untuk membuat kopi latte. Susunlah langkah-langkah tersebut dalam urutan yang benar.",
+        "target": "Siapkan bahan-bahan yang dibutuhkan → Panaskan air → Larutkan kopi → Buat buih susu → Tuangkan busa susu yang sudah dibuat → Tambahkan gula atau pemanis lainnya"
+    },
+    {
+        "input": "\"Menggali lubang tanam, menyiram tanaman, mengisi kembali lubang dengan tanah, membeli bibit pohon apel, meletakkan bibit pohon apel di lubang\", silakan jelaskan urutan yang benar berdasarkan langkah-langkah tersebut di atas.",
+        "target": "Membeli bibit pohon apel→ Menggali lubang tanam→ Meletakkan bibit pohon apel di lubang→ Mengisi kembali lubang dengan tanah→ Menyiram tanaman"
+    },
+    {
+        "input": "Langkah-langkah untuk menanam bunga mawar dapat dibagi menjadi beberapa tahap berikut: \"Siapkan tanah yang kaya nutrisi; Gali lubang tanam dengan ukuran yang sesuai; Letakkan bibit bunga mawar ke dalam lubang; Pilih varietas yang sesuai; Sirami dan jaga agar tanah tetap lembab; Lakukan pemupukan dan pemangkasan secara teratur,\" silakan susun langkah-langkah tersebut dalam urutan yang benar.",
+        "target": "Pilih varietas yang sesuai→ Siapkan tanah yang kaya nutrisi→ Gali lubang tanam dengan ukuran yang sesuai→ Letakkan bibit bunga mawar ke dalam lubang→Sirami dan jaga agar tanah tetap lembab→ Lakukan pemupukan dan pemangkasan secara teratur"
+    },
+    {
+        "input": "Saya baru-baru ini ingin memelihara ikan, dan saya telah mengetahui bahwa pada umumnya terdapat beberapa persiapan yang diperlukan: menyiapkan akuarium dan perangkat filtrasi, memberi makanan ikan pada waktu yang tepat, memasukkan air dan menyesuaikan suhu dan kualitas air, memasukkan ikan. Dapatkah Anda memberitahu saya urutan yang benar?",
+        "target": "Menyiapkan akuarium dan perangkat filtrasi→ Memasukkan air dan menyesuaikan suhu dan kualitas air→ Memasukkan ikan→ Memberi makanan ikan pada waktu yang tepat"
+    },
+    {
+        "input": "Saya ingin memelihara lebah di taman untuk menghasilkan madu, berikut adalah daftar tugas saya: memilih lokasi yang tepat untuk menempatkan kotak lebah, membeli atau membuat kotak lebah dan peralatan pemeliharaan lebah lainnya, memahami hukum dan regulasi yang berlaku, memilih jenis lebah yang sesuai untuk dipelihara. Langkah manakah yang seharusnya saya lakukan pertama kali?",
+        "target": "Memahami hukum dan regulasi yang berlaku"
+    },
+    {
+        "input": "Silakan urutkan langkah-langkah untuk membuat sabun buatan tangan sesuai urutan proses produksi yang sebenarnya: 1. Tambahkan minyak esensial dan pewarna alami. 2. Aduk hingga merata. 3. Siapkan minyak esensial, sabun dasar, pewarna alami dan cetakan. 4. Lelehkan sabun dasar. 5. Tuangkan ke dalam cetakan. 6. Diamkan selama 24 jam hingga mengeras, lalu lepaskan dari cetakan, dan biarkan kering.",
+        "target": "Urutan yang benar sebagai berikut: 3. Siapkan minyak esensial, sabun dasar, pewarna alami dan cetakan. → 4. Lelehkan sabun dasar. → 1. Tambahkan minyak esensial dan pewarna alami. → 2. Aduk hingga merata. → 5. Tuangkan ke dalam cetakan. → 6. Diamkan selama 24 jam hingga mengeras, lalu lepaskan dari cetakan, dan biarkan kering."
+    },
+    {
+        "input": "Ban yang telah digunakan lama mengalami keausan yang serius. Jika Anda ingin mengganti ban sendiri, berikut adalah beberapa langkah penggantian ban: \"lepaskan ban yang sudah aus, turunkan dongkrak dan matikan lampu hazard, gunakan dongkrak untuk mengangkat mobil, parkirkan mobil di tempat yang datar, pasangkan ban baru, nyalakan lampu hazard\". Apakah Anda bisa menyusun langkah-langkah tersebut dalam urutan yang benar?",
+        "target": "Parkirkan mobil di tempat yang datar→ Nyalakan lampu hazard→ Gunakan dongkrak untuk mengangkat mobil→ Lepaskan ban yang sudah aus→ Pasangkan ban baru→ Turunkan dongkrak dan matikan lampu hazard"
+    },
+    {
+        "input": "Rumput telah lama tidak dipangkas, berikut adalah beberapa langkah untuk memangkas rumput: 1. Mulai dari satu sisi halaman rumput dan pastikan untuk memangkas pada ketinggian yang konsisten; 2. Sesuaikan ketinggian mesin pemangkas; 3. Siapkan pemangkas rumput dan wadah rumput; 4. Bersihkan sisa rumput dari alat pemangkas dan wadah rumput. Bisakah Anda membantu saya mengurutkan ulang sesuai dengan keadaan nyata?",
+        "target": "Urutan yang benar adalah: 3. Siapkan pemangkas rumput dan wadah rumput→ 2. Sesuaikan ketinggian mesin pemangkas→ 1. Mulai dari satu sisi halaman rumput dan pastikan untuk memangkas pada ketinggian yang konsisten→ 4. Bersihkan sisa rumput dari alat pemangkas dan wadah rumput."
+    },
+    {
+        "input": "Kepala pancuran mandi di kamar mandi tersumbat dan perlu diganti dengan yang baru. Susunlah langkah-langkah berikut dalam urutan yang benar. 1. Kencangkan mur kepala pancuran mandi. 2. Nyalakan sumber air untuk memastikan kepala pancuran mandi berfungsi normal. 3. Gunakan kunci inggris untuk melepaskan kepala pancuran mandi lama. 4. Pasangkan kepala pancuran mandi baru ke pipa air dengan menggunakan paking karet. 5. Matikan sumber air.",
+        "target": "Urutan yang benar adalah: 5. Matikan sumber air. → 3. Gunakan kunci inggris untuk melepaskan kepala pancuran mandi lama. → 4. Pasangkan kepala pancuran mandi baru ke pipa air dengan menggunakan paking karet. → 1. Kencangkan mur kepala pancuran mandi. → 2. Nyalakan sumber air untuk memastikan kepala pancuran mandi berfungsi normal."
+    },
+    {
+        "input": "Saya ingin mempelajari cara membuat pasta, saya mendapatkan informasi bahwa pada umumnya terdapat langkah-langkah berikut: 1. Tiriskan pasta dan sisakan sedikit air rebusan. 2. Aduk rata dan nikmati. 3. Tambahkan garam dan pasta secukupnya. 4. Tambahkan saus pasta dan bahan tambahan yang diperlukan. 5. Didihkan air dalam panci. 6. Masak sesuai waktu yang tertera pada kemasan. Bagaimana urutan yang benar?",
+        "target": "Urutan yang benar adalah: 5. Didihkan air dalam panci→ 3. Tambahkan garam dan pasta secukupnya→ 6. Masak sesuai waktu yang tertera pada kemasan→ 1. Tiriskan pasta dan sisakan sedikit air rebusan→ 4. Tambahkan saus pasta dan bahan tambahan yang diperlukan→ 2. Aduk rata dan nikmati."
+    },
+    {
+        "input": "Apa urutan langkah-langkah yang harus diikuti saat menggunakan mesin cuci untuk mencuci pakaian? 1. Pilih mode pencucian dan suhu sesuai dengan jenis pakaian. 2. Nyalakan mesin cuci dan tunggu hingga proses pencucian selesai. 3. Tambahkan deterjen secukupnya. 4. Periksa label pakaian untuk memahami petunjuk pencucian. 5. Klasifikasikan pakaian berdasarkan warna dan jenis bahan, kemudian masukkan ke dalam mesin cuci.",
+        "target": "4. Periksa label pakaian untuk memahami petunjuk pencucian→ 5. Klasifikasikan pakaian berdasarkan warna dan jenis bahan, kemudian masukkan ke dalam mesin cuci→ 3. Tambahkan deterjen secukupnya→ 1. Pilih mode pencucian dan suhu sesuai dengan jenis pakaian→ 2. Nyalakan mesin cuci dan tunggu hingga proses pencucian selesai"
+    },
+    {
+        "input": "Mengikat tali sepatu biasanya meliputi langkah-langkah berikut: 1. Buat kedua ujung tali sama panjang. 2. Silangkan satu ujung ke bawah ujung lainnya. 3. Kencangkan tali hingga pas dan nyaman. 4. Masukkan tali ke lubang sepatu. Apakah Anda bisa memberi tahu saya urutan yang benar seperti apa?",
+        "target": "Urutan yang benar adalah: 4. Masukkan tali ke lubang sepatu→ 1. Buat kedua ujung tali sama panjang→ 2. Silangkan satu ujung ke bawah ujung lainnya→ 3. Kencangkan tali hingga pas dan nyaman."
+    },
+    {
+        "input": "Menurut Internet, belajar yoga pada dasarnya dapat dibagi menjadi langkah-langkah berikut: 1. Temukan ruang yang tenang, 2. Ikuti video yoga atau panduan pengajaran untuk mulai berlatih, 3. Letakkan matras yoga, 4. Beli peralatan yang sesuai dengan tingkat kesulitan Anda. Apa yang harus saya lakukan terlebih dahulu dan apa yang harus saya lakukan nanti, dapatkah Anda membantu saya menyusun urutan prioritasnya?",
+        "target": "Urutan yang benar adalah: 4. Beli peralatan yang sesuai dengan tingkat kesulitan Anda.→ 1. Temukan ruang yang tenang→ 3. Letakkan matras yoga→ 2. Ikuti video yoga atau panduan pengajaran untuk mulai berlatih"
+    },
+    {
+        "input": "Letakkan pot tanaman di tempat yang penuh sinar matahari, taburkan biji tomat, tutup dengan lapisan tanah tipis dan padatkan, jaga agar tanah tetap lembab, pilih tanah dan pot tanaman yang sesuai\", apakah Anda bisa menyusun urutan yang benar untuk menanam tomat berdasarkan langkah-langkah tersebut di atas?",
+        "target": "Pilih tanah dan pot tanaman yang sesuai→ Taburkan biji tomat→ Tutup dengan lapisan tanah tipis dan padatkan→ Jaga agar tanah tetap lembab→ Letakkan pot di tempat yang penuh sinar matahari"
+    },
+    {
+        "input": "Saya akan mulai belajar fotografi, dan berikut adalah beberapa langkah yang telah saya uraikan: Pilih kamera dan lensa yang tepat; Coba berbagai sudut pengambilan gambar; Pilih adegan pemotretan dan kondisi pencahayaan yang tepat; Pelajari tentang prinsip dasar fotografi dan struktur kamera. Susunlah target-target ini dalam urutan yang tepat.",
+        "target": "Pelajari tentang prinsip dasar fotografi dan struktur kamera→ Pilih kamera dan lensa yang tepat→ Pilih adegan pemotretan dan kondisi pencahayaan yang tepat→ Coba berbagai sudut pengambilan gambar"
+    },
+    {
+        "input": "Untuk menemukan konten duplikat dengan fungsi pencarian di Excel biasanya mencakup langkah-langkah berikut: 1. mengklik \"Beranda\" pada bilah menu, lalu mencari dan klik \"Pemformatan Bersyarat\" di grup \"Gaya\", 2. mengklik \"Aturan Penyorotan Sel\" dan memilih \"Duplikat Nilai\", 3. membuka Excel dan memilih rentang data yang ingin diperiksa, 4. mengonfirmasikan pengaturan dan mengklik \"OK\". Silakan susun langkah-langkah tersebut dalam urutan yang benar.",
+        "target": "Urutan yang benar adalah: 3. membuka Excel dan memilih rentang data yang ingin diperiksa→1. mengklik \"Beranda\" pada bilah menu, lalu mencari dan klik \"Pemformatan Bersyarat\" di grup \"Gaya\"→2. mengklik \"Aturan Penyorotan Sel\" dan memilih \"Duplikat Nilai\"→4. mengonfirmasikan pengaturan dan mengklik \"OK\""
+    },
+    {
+        "input": "Saya ingin menambahkan daftar isi ke makalah saya di Word. Apakah langkah-langkah yang saya temukan secara online ini dapat diikuti dengan benar? 1. Pilih “Daftar Isi”, lalu pilih gaya daftar isi yang Anda sukai dari menu yang muncul. 2. Klik “OK”, dan daftar isi akan dibuat secara otomatis. 3. Anda perlu mengatur gaya untuk judul Anda, seperti Judul 1, Judul 2, dll. 4. Klik opsi “Referensi” di bilah menu.",
+        "target": "Urutan operasi perlu disesuaikan, urutan yang benar adalah: 3. Anda perlu mengatur gaya untuk judul Anda, seperti Judul 1, Judul 2, dll. → 4. Klik opsi “Referensi”di bilah menu → 1. Pilih “Daftar Isi”, lalu pilih gaya daftar isi yang Anda sukai dari menu yang muncul → 2. Klik “OK”, dan daftar isi akan dibuat secara otomatis."
+    },
+    {
+        "input": "Untuk membersihkan cache di Chrome, langkah-langkah berikut seharusnya diikuti dalam urutan seperti apa? Klik ikon tiga titik vertikal di pojok kanan atas, klik \"Hapus data\", pilih \"Hapus data penjelajahan\", pilih opsi \"Gambar dan file dalam cache\" di kotak dialog pop-up, pilih \"Fitur lainnya\".",
+        "target": "Klik ikon tiga titik vertikal di pojok kanan atas → Pilih \"Fitur lainnya\" → Pilih \"Hapus data penjelajahan\" → Pilih opsi \"Gambar dan file dalam cache\" di kotak dialog pop-up → Klik \"Hapus data\""
+    },
+    {
+        "input": "Urutkan langkah-langkah berikut saat menggunakan layer mask di Photoshop: 1. Pilih \"Mask Lapisan\", lalu pilih \"Tampilkan Semua\" atau \"Sembunyikan Semua\"; 2. Gunakan alat kuas untuk menggambar pada Mask Lapisan untuk menunjukkan atau menyembunyikan bagian Lapisan; 3. Pilih Lapisan yang ingin Anda tambahkan Mask Lapisan; 4. Klik opsi \"Lapisan\" di bilah menu.",
+        "target": "Urutan yang benar adalah: 3. Pilih Lapisan yang ingin Anda tambahkan Mask Lapisan; 4. Klik opsi \"Lapisan\" di bilah menu; 1. Pilih \"Mask Lapisan\", lalu pilih \"Tampilkan Semua\" atau \"Sembunyikan Semua\"; 2. Gunakan alat kuas untuk menggambar pada Mask Lapisan untuk menunjukkan atau menyembunyikan bagian Lapisan"
+    },
+    {
+        "input": "Saya ingin tahu bagaimana membuat sebuah game sederhana di Unity,saya menemukan deskripsi langkah yang dasar: \" membuat Game Object dan Scene yang baru, menambahkan cahaya dan kamera, menulis skrip untuk mengontrol perilaku Game Object, membuat proyek baru, silakan susun langkah-langkah tersebut dalam urutan yang benar.",
+        "target": "Membuat proyek baru→ Membuat Game Object dan Scene yang baru→ Menambahkan cahaya dan kamera→ Menulis skrip untuk mengontrol perilaku Game Object"
+    },
+    {
+        "input": "Untuk mengirim surel melalui ponsel cerdas, Urutkanlah langkah-langkah berikut: masukkan penerima dan isi email, buka aplikasi email, klik \"tulis email\", klik \"kirim\".",
+        "target": "Buka aplikasi email→ Klik \"Tulis email\"→ Masukkan penerima dan isi email→ Klik \"Kirim\""
+    },
+    {
+        "input": "Memutar musik di ponsel cerdas biasanya melibatkan beberapa langkah berikut: membuka aplikasi Musik, mengetuk untuk memutar, membuka kunci ponsel, mencari lagu. Bagaimana urutan yang benar?",
+        "target": "Membuka kunci ponsel→Membuka aplikasi Musik→Mencari lagu→Mengetuk untuk memutar"
+    },
+    {
+        "input": "Membaca berita di ponsel cerdas perlu mengikuti langkah-langkah berikut:\" pilih kategori berita, buka kunci ponsel, baca berita, buka aplikasi berita. Bagaimana menyusun langkah-langkah tersebut dalam urutan yang benar?",
+        "target": "Buka kunci ponsel→Buka aplikasi berita→Pilih kategori berita→Baca berita"
+    },
+    {
+        "input": "Jelaskan urutan untuk melihat peta di ponsel cerdas: memasukkan tujuan, membuka kunci ponsel, melihat rute, membuka aplikasi peta di ponsel",
+        "target": "Membuka kunci ponsel→Membuka aplikasi peta di ponsel→Memasukkan tujuan→Melihat rute"
+    },
+    {
+        "input": "Melakukan terjemahan daring di ponsel cerdas biasanya meliputi beberapa langkah berikut: memasukkan isi, melihat hasil terjemahan, membuka kunci ponsel, membuka aplikasi terjemahan. Apakah Anda bisa memberi tahu saya urutan yang benar seperti apa?",
+        "target": "Membuka kunci ponsel→ Membuka aplikasi terjemahan→ Memasukkan isi→ Melihat hasil terjemahan"
+    },
+    {
+        "input": "\"Membuka botol air, meminum air, merasa haus, menutup botol air\", bagaimana urutan langkah-langkah yang benar untuk minum air?",
+        "target": "Merasa haus→Membuka botol air→Meminum air→Menutup botol air"
+    },
+    {
+        "input": "\"Tanggalkan kemeja, tanggalkan pakaian dalam, tanggalkan jaket\", bagaimana urutan langkah-langkah yang benar untuk menanggalkan pakaian?",
+        "target": "Tanggalkan jaket→Tanggalkan kemeja→Tanggalkan pakaian dalam"
+    },
+    {
+        "input": "Saya menemukan empat langkah efektif untuk mencuci wajah di Facebook yang mencakup langkah-langkah berikut: menggunakan produk pembersih wajah, mengoleskan krim pelembap, membasahi dengan air hangat, membilas dengan air bersih. Bagaimana urutan yang benar?",
+        "target": "Membasahi dengan air hangat→Menggunakan produk pembersih wajah→ Membilas dengan air bersih→ Mengoleskan krim pelembap"
+    },
+    {
+        "input": "\"Mengoleskan pasta gigi, menyikat gigi, berkumur, mengambil sikat gigi\", bagaimana urutan yang benar sesuai prosedur menyikat gigi?",
+        "target": "Mengambil sikat gigi→ Mengoleskan pasta gigi→ Menyikat gigi→ Berkumur"
+    },
+    {
+        "input": "Saya ingin belajar memanggang kue, di sini terdapat beberapa langkah untuk memanggang kue: mencampurkan bahan-bahan, memanggang, menyiapkan bahan-bahan, menghias. Bisakah Anda membantu menyusun ulang urutannya sesuai proses sebenarnya?",
+        "target": "Menyiapkan bahan-bahan→ Mencampurkan bahan-bahan→ Memanggang→ Menghias"
+    },
+    {
+        "input": "\"Melakukan uji terbang, melipat kertas, menyesuaikan dan memodifikasi berdasarkan kondisi penerbangan, menyelesaikan\" adalah empat langkah dalam membuat pesawat kertas. Silakan susun dalam urutan yang benar sesuai dengan situasi nyata.",
+        "target": "Urutan yang benar dalam membuat pesawat kertas adalah: Melipat kertas→ Melakukan uji terbang→ Menyesuaikan dan memodifikasi berdasarkan kondisi penerbangan→ Menyelesaikan"
+    },
+    {
+        "input": "\"Menambahkan sayuran dan burger patty, menutup dengan roti, menyajikan di piring, memanggang roti\", bagaimana menyusun langkah-langkah tersebut di atas dalam urutan yang benar berdasarkan prosedur membuat burger?",
+        "target": "Berdasarkan prosedur pembuatan burger, urutan langkah yang benar seharusnya adalah: Memanggang roti →Menambahkan sayuran dan burger patty→ Menutup dengan roti→ Menyajikan di piring."
+    },
+    {
+        "input": "Bagaimana menyusun langkah-langkah untuk mandi dalam urutan yang benar? \"mengeringkan tubuh, menyesuaikan suhu air, menanggalkan pakaian, mandi\".",
+        "target": "Menanggalkan pakaian→Menyesuaikan suhu air→Mandi→Mengeringkan tubuh"
+    },
+    {
+        "input": "\"Memilih toko, menyusun daftar belanja, melakukan pembayaran, dan memilih barang,\" bagaimana menyusun urutannya menurut proses berbelanja luring?",
+        "target": "Menyusun daftar belanja→Memilih toko→Memilih barang→Melakukan pembayaran"
+    },
+    {
+        "input": "Proses pembuatan jus terdiri dari: memotong buah, menambahkan es sesuai dengan selera setelah dicicipi, menuangkan ke dalam gelas, memeras jus. Silakan menyusun langkah-langkah tersebut dalam urutan yang benar.",
+        "target": "Memotong buah→Memeras jus→Menuangkan ke dalam gelas→Menambahkan es sesuai dengan selera setelah dicicipi"
+    },
+    {
+        "input": "Saya membagi aktivitas membaca buku menjadi empat langkah: membaca konten, membuka buku, mengembalikan buku ke rak buku, menutup buku. Silakan susun langkah-langkah tersebut dalam urutan yang tepat agar terlihat lebih jelas.",
+        "target": "Membuka buku→Membaca konten→menutup buku→Mengembalikan buku ke rak buku"
+    },
+    {
+        "input": "Proses merakit puzzle mencakup langkah berikut: menyatukan potongan, menyelesaikan puzzle, membuka kemasan, mencari bagian tepi dan sudut. Bagaimana urutan yang benar?",
+        "target": "Membuka kemasan → Mencari bagian tepi dan sudut → Menyatukan potongan → Menyelesaikan puzzle"
+    },
+    {
+        "input": "Saat ini saya sedang belajar sketsa cat air. Langkah-langkah utama yang dibahas di kelas adalah: mengamati penempatan dan hubungan warna objek, menata benda mati di meja sketsa, menyusun komposisi, menyesuaikan penempatan objek, melukis detail, mengaplikasikan warna dasar, dan membiarkan lukisan mengering. Bagaimana Anda menerapkan langkah-langkah ini?",
+        "target": "Menata benda mati di meja sketsa → Menyesuaikan penempatan objek → Mengamati penempatan dan hubungan warna objek → Menyusun komposisi → Mengaplikasikan warna dasar → Melukis detail → Membiarkan lukisan mengering"
+    },
+    {
+        "input": "Saya membagi menyusun balok menjadi empat langkah: membangun fondasi, menyelesaikan pembangunan, menambahkan detail, membangun satu demi satu. Jika ingin membangun dari nol, urutan apa yang harus diikuti?",
+        "target": "Membangun fondasi→Membangun satu demi satu →Menambahkan detail →Menyelesaikan pembangunan"
+    },
+    {
+        "input": "“Penulisan naskah, penayangan, pengambilan gambar, dan pascaproduksi”, bagaimana urutan empat langkah tersebut dalam proses produksi film yang sebenarnya?",
+        "target": "Penulisan naskah→ Pengambilan gambar→ Pascaproduksi →Penayangan"
+    },
+    {
+        "input": "Saya sekarang perlu menulis sebuah laporan penelitian, \"menulis teks utama, mengumpulkan data, mengedit dan memeriksa, menyusun struktur\", langkah manakah yang harus saya lakukan terlebih dahulu?",
+        "target": "Mengumpulkan data"
+    },
+    {
+        "input": "Rapat di kantor umumnya memiliki alur sebagai berikut: mengumpulkan peserta rapat, menentukan agenda rapat, melakukan diskusi, mencatat poin-poin penting rapat. Bisakah Anda memberitahu saya urutan yang benar?",
+        "target": "Menentukan agenda rapat→Mengumpulkan peserta rapat→Melakukan diskusi→Mencatat poin-poin penting rapat"
+    },
+    {
+        "input": "Jika saya akan menguasai keterampilan baru dalam setahun, bagaimana seharusnya saya mengurutkan rencana pembelajaran berikut ini: \"mengakses sumber belajar, menerapkan dan mempraktikkan, menetapkan target, mengevaluasi kemajuan?\"",
+        "target": "Menetapkan target→ Mengakses sumber belajar→ Menerapkan dan mempraktikkan→ Mengevaluasi kemajuan"
+    },
+    {
+        "input": "Menurut proses umum dalam penyelenggaraan kegiatan, bagaimana melaksanakan empat langkah berikut dalam urutan yang benar: menyusun rencana, mempersiapkan bahan-bahan, menentukan tujuan kegiatan, melaksanakan kegiatan?",
+        "target": "Menentukan tujuan kegiatan→ Menyusun rencana→ Mempersiapkan bahan-bahan→ Melaksanakan kegiatan"
+    },
+    {
+        "input": "Bagaimana menyusun langkah-langkah berikut berdasarkan urutan penggunaan laptop: menggunakan laptop, membuka penutup laptop, mematikan laptop, menyalakan laptop?",
+        "target": "Membuka penutup laptop→ Menyalakan laptop→ Menggunakan laptop→ Mematikan laptop"
+    },
+    {
+        "input": "Mengunci pintu melibatkan beberapa proses berikut: memutar kunci, memasukkan kunci, menutup pintu, memeriksa apakah pintu terkunci, silakan menyusun langkah-langkah tersebut di atas dalam urutan yang benar.",
+        "target": "Menutup pintu→ Memasukkan kunci→ Memutar kunci→ Memeriksa apakah pintu terkunci"
+    },
+    {
+        "input": "\"Memasukkan daun teh, mendidihkan air, menuangkan air didih, meminum teh\", apa urutan keempat langkah dalam proses pembuatan teh sebenarnya?",
+        "target": "Mendidihkan air→Memasukkan daun teh→Menuangkan air didih→Meminum teh"
+    },
+    {
+        "input": "Menyegel wadah, menunggu sisa makanan mendingin sepenuhnya, memasukkan makanan panas ke dalam wadah, menyimpan di dalam lemari es, berdasarkan prosedur menyimpan sisa makanan di dalam lemari es, bagaimana menyusun urutan langkah-langkah tersebut di atas?",
+        "target": "Memasukkan makanan panas ke dalam wadah → Menunggu sisa makanan mendingin sepenuhnya → Menyegel wadah → Menyimpan di dalam lemari es"
+    },
+    {
+        "input": "Saya menemukan di internet bahwa pemasangan sebuah kartu grafis biasanya terdapat 7 langkah berikut: 1. Sambungkan kartu grafis ke sumber daya. Beberapa kartu grafis berperforma tinggi memerlukan daya tambahan, jadi Anda harus menyambungkan kabel daya ke kartu grafis. 2. Ambil kartu grafis baru dan masukkan dengan hati-hati ke dalam slot PCIe yang kosong. Pastikan kartu grafis dimasukkan dengan aman ke dalam slot dan diamankan dengan sekrup. 3. Temukan kartu grafis lama, yang biasanya terpasang di slot PCIe pada motherboard. 4. Matikan komputer dan putuskan sambungan sumber daya. 5. Buka casing komputer. 6. Lepaskan sekrup kartu grafis lama dan keluarkan kartu grafis dengan hati-hati dari motherboard. 7. Pasang kembali casing, lalu sambungkan sumber daya dan nyalakan komputer. Bisakah Anda membantu saya mengurutkan langkah-langkah tersebut dengan benar berdasarkan cara pemasangan yang sebenarnya?",
+        "target": "Urutan yang benar adalah: 4. Matikan komputer dan putuskan sambungan sumber daya. → 5. Buka casing komputer. → 3. Temukan kartu grafis lama yang biasanya terpasang di slot PCIe pada motherboard, lalu lepaskan penguncinya sebelum mencabut kartu. → 6. Lepaskan sekrup kartu grafis lama dan keluarkan kartu grafis dengan hati-hati dari motherboard. → 2. Ambil kartu grafis baru dan masukkan dengan hati-hati ke dalam slot PCIe yang kosong. Pastikan kartu grafis dimasukkan dengan aman ke dalam slot dan diamankan dengan sekrup. → 1. Sambungkan kartu grafis ke sumber daya. Beberapa kartu grafis berperforma tinggi memerlukan daya tambahan, jadi Anda harus menyambungkan kabel daya ke kartu grafis. → 7. Pasang kembali casing, lalu sambungkan sumber daya dan nyalakan komputer."
+    },
+    {
+        "input": "Untuk menginstal aplikasi baru di ponsel iPhone, urutkan langkah-langkah berikut: membuka App Store, menunggu unduhan dan instalasi selesai, mengklik aplikasi di hasil pencarian lalu tekan \"Instal\", memasukkan nama aplikasi di kotak pencarian.",
+        "target": "Untuk menginstal aplikasi baru di iPhone, langkah-langkah yang benar adalah: Membuka App Store → Memasukkan nama aplikasi di kotak pencarian → Mengklik aplikasi di hasil pencarian lalu tekan \"Instal\" → Menunggu unduhan dan instalasi selesai"
+    },
+    {
+        "input": "Pemasangan sebuah SSD baru di laptop biasanya mencakup beberapa proses berikut: 1. Melepaskan hard drive lama, masukkan SSD baru ke dalam slotnya, dan kencangkan. 2. Membuka panel bawah laptop untuk menemukan slot HDD, 3. Menutup kembali panel, 4. Menyalakan laptop dan menginisialisasi SSD di sistem, 5. Mematikan laptop dan mencabut daya. Apakah dalam proses pemasangan yang sebenarnya dilakukan sesuai dengan urutan yang saya sebutkan?",
+        "target": "Tidak, berdasarkan proses pemasangan yang sebenarnya, urutan yang benar untuk memasang sebuah SSD adalah sebagai berikut: 5. Mematikan laptop dan mencabut daya→ 2. Membuka panel bawah laptop untuk menemukan slot HDD→1. Melepaskan hard drive lama, masukkan SSD baru ke dalam slotnya, dan kencangkan→ 3. Menutup kembali panel→4. Menyalakan laptop dan menginisialisasi SSD di sistem."
+    },
+    {
+        "input": "Pemasangan kepala pancuran mandi biasanya mencakup beberapa langkah berikut: gunakan kunci pas untuk melepaskan kepala pancuran lama, kencangkan kepala pancuran baru, matikan sumber air, buka sumber air untuk memeriksa apakah ada kebocoran, bersihkan bagian ulir yang terhubung dengan kepala pancuran. Tolong bantu saya urutkan langkah-langkah tersebut dengan cara yang benar.",
+        "target": "Matikan sumber air → Gunakan kunci pas untuk melepaskan kepala pancuran lama → Bersihkan bagian ulir yang terhubung dengan kepala pancuran → Kencangkan kepala pancuran baru → Buka sumber air untuk memeriksa apakah ada kebocoran"
+    },
+    {
+        "input": "Lensa kamera saya rusak, saya perlu memasang lensa baru, bagaimana mengikuti empat langkah berikut: 1. Nyalakan kamera, ambil beberapa foto untuk memeriksa apakah lensa baru bekerja dengan normal. 2. Pasang lensa baru ke kamera sesuai dengan arah dan posisi yang benar. 3. Lepaskan lensa lama sesuai dengan posisi klip di buku manual. 4. Matikan kamera.",
+        "target": "Langkah-langkah yang benar untuk mengganti lensa kamera adalah: 4. Matikan kamera → 3. Lepaskan lensa lama sesuai dengan posisi klip di buku manual → 2. Pasang lensa baru ke kamera sesuai dengan arah dan posisi yang benar → 1. Nyalakan kamera, ambil beberapa foto untuk memeriksa apakah lensa baru bekerja dengan normal"
+    },
+    {
+        "input": "\"Sintesis DNA, penyambungan DNA, pembukaan heliks DNA, perbaikan DNA\", saya ingin mengetahui dalam replikasi DNA proses-proses ini terjadi dalam urutan seperti apa?",
+        "target": "Pembukaan heliks DNA→ Sintesis DNA→ Penyambungan DNA→ Perbaikan DNA"
+    },
+    {
+        "input": "Pembelahan mitosis pada sel hewan terutama mencakup empat langkah berikut: pembelahan sel, pemisahan kromosom, pembentukan gelendong, persiapan awal, langkah-langkah tersebut terjadi dalam urutan seperti apa?",
+        "target": "Persiapan awal→ Pembentukan gelendong→ Pemisahan kromosom→ Pembelahan sel"
+    },
+    {
+        "input": "Dalam proses penyulingan minyak mentah yang lengkap, urutkan langkah-langkah berikut dengan benar: minyak mentah, distilasi, pra-pemrosesan, perengkahan katalitik, desulfurisasi, produk bahan bakar minyak.",
+        "target": "Minyak mentah→ Pra-pemrosesan→ Distilasi→ Perengkahan katalitik→ Desulfurisasi→ Produk bahan bakar minyak"
+    },
+    {
+        "input": "Urutkan langkah-langkah proses penciptaan musik berikut sesuai urutan yang benar: memikirkan tema, pencampuran audio, membuat demo, menciptakan lirik dan melodi, merekam di studio, merilis.",
+        "target": "Memikirkan tema→ Menciptakan lirik dan melodi→ Membuat demo→ Merekam di studio→ Pencampuran audio→ Merilis"
+    },
+    {
+        "input": "Dalam proses perancangan arsitektur yang sebenarnya, langkah-langkah berikut ini dilaksanakan dalam urutan seperti apa: perancangan konsep, analisis kebutuhan, perancangan awal, perancangan gambar konstruksi, konstruksi, penerimaan pekerjaan. Silakan urutkan sesuai dengan keadaan nyata.",
+        "target": "Analisis kebutuhan → Perancangan konsep → Perancangan awal → Perancangan gambar konstruksi → Konstruksi → Penerimaan pekerjaan"
+    },
+    {
+        "input": "Bagaimana urutan terjadinya tiga proses dalam pembiasan cahaya berikut ini: \"Perubahan arah cahaya\", \"sinar datang mencapai permukaan medium\", dan \"pembentukan sinar bias\"?",
+        "target": "Sinar datang mencapai permukaan medium→ Pembentukan sinar bias→Perubahan arah cahaya"
+    },
+    {
+        "input": "Eksekusi program terutama terdiri dari tiga bagian: \"kompilasi, eksekusi, penghubungan\". Dalam penerapan nyata, bagaimana urutan yang benar untuk langkah-langkah tersebut?",
+        "target": "Kompilasi →Penghubungan →Eksekusi"
+    },
+    {
+        "input": "\"Berkecambah, melayu, berbunga, berbuah\". Bagaimana hal-hal ini terjadi secara berurutan selama pertumbuhan tanaman?",
+        "target": "Berkecambah→ Berbunga→ Berbuah→ Melayu"
+    },
+    {
+        "input": "Dalam proses lepas landas pesawat, urutkan tahap-tahap berikut: mendorong keluar dari parkiran, percepatan, taxiing (meluncur di landasan), lepas landas?",
+        "target": "Mendorong keluar dari parkiran→ Taxiing (meluncur di landasan)→ Percepatan→ Lepas landas"
+    },
+    {
+        "input": "Dalam tahap pra-diabetes, metode pengendalian berikut ini mana yang biasanya akan diprioritaskan: pengobatan, perubahan gaya hidup, pemantauan gula darah?",
+        "target": "Perubahan gaya hidup"
+    },
+    {
+        "input": "Ketika seseorang mengalami tersedak akibat benda asing, urutkan langkah-langkah berikut dengan benar \"ulangi teknik hingga benda asing keluar, lakukan metode pertolongan pertama Heimlich, tanyakan keadaan pasien, berdiri di belakang pasien\".",
+        "target": "Tanyakan keadaan pasien→ Berdiri di belakang pasien→ Lakukan metode pertolongan pertama Heimlich→ Ulangi teknik hingga benda asing keluar"
+    },
+    {
+        "input": "Untuk membuat pizza untuk makan malam, urutkanlah langkah-langkah berikut: meletakkan topping, membuat adonan pizza, memanggang pizza, menyiapkan bahan-bahan.",
+        "target": "Mempersiapkan bahan-bahan → Membuat adonan pizza → Meletakkan topping → Memanggang pizza"
+    },
+    {
+        "input": "Langkah-langkah untuk mengukur kadar glukosa darah meliputi: \"Mengambil sampel darah, memasukkan kertas uji, mencuci tangan, membaca hasil\". Mohon bantu menyusun langkah-langkah tersebut untuk proses pengukuran kadar glukosa darah dalam urutan yang benar.",
+        "target": "Mencuci tangan→ Memasukkan kertas uji→ Mengambil sampel darah→ Membaca hasil"
+    },
+    {
+        "input": "\"Melaksanakan pelatihan, memahami sumber bahaya, merumuskan langkah pencegahan, melakukan evaluasi efektivitas\", sebutkan urutan yang benar untuk tahapan-tahapan berikut dalam pelatihan pendidikan keselamatan.",
+        "target": "Memahami sumber bahaya→ Merumuskan langkah pencegahan→ Melaksanakan pelatihan→ Melakukan evaluasi efektivitas"
+    },
+    {
+        "input": "Urutkanlah langkah-langkah berikut untuk mengoperasikan mesin cuci: mengatur program, menyalakan mesin cuci, mengkategorikan pakaian, menambahkan detergen, memasukkan pakaian.",
+        "target": "Urutan yang benar untuk menggunakan mesin cuci adalah sebagai berikut: Mengkategorikan pakaian→ Memasukkan pakaian→ Menambahkan detergen→ Mengatur program→ Menyalakan mesin cuci"
+    },
+    {
+        "input": "Jika kecelakaan lalu lintas terjadi di tempat kejadian, proses berikut pada umumnya akan diikuti dalam urutan seperti apa: \"pengumpulan bukti, perlindungan tempat kejadian, investigasi tempat kejadian, Laporan Polisi\"",
+        "target": "Perlindungan tempat kejadian→ Investigasi tempat kejadian→ Pengumpulan bukti→ Laporan Polisi"
+    },
+    {
+        "input": "Bagaimanakah urutan yang benar dari langkah-langkah berikut saat membuat perencanaan pembelajaran: implementasi, analisis tujuan, menyusun silabus pengajaran, menyusun rencana pelaksanaan pembelajaran",
+        "target": "Analisis tujuan→ Menyusun silabus pengajaran→ Menyusun rencana pelaksanaan pembelajaran→ Implementasi"
+    },
+    {
+        "input": "Sebuah perancangan program biasanya mencakup langkah-langkah berikut: penulisan program, perancangan algoritma, analisis masalah, debugging program, eksekusi program\", bagaimana urutan yang benar dari langkah-langkah tersebut?",
+        "target": "Analisis masalah → Perancangan algoritma → Penulisan program → Debugging  program → Eksekusi program"
+    },
+    {
+        "input": "Atlet terjun payung biasanya akan menyelesaikan sebuah lompatan dengan mengikuti langkah-langkah berikut: \"melompat, menandatangani surat pernyataan bebas tanggung jawab, membuka parasut, mendarat, mengenakan perlengkapan\". Silakan susun dalam urutan yang benar.",
+        "target": "Menandatangani pernyataan bebas tanggung jawab →Mengenakan perlengkapan →Melompat→ Membuka parasut→ Mendarat"
+    },
+    {
+        "input": "Saya ingin memahami proses dasar penyimpanan anggur, apa yang harus dilakukan terlebih dahulu dalam beberapa langkah berikut? \"Penandaan, pengendalian suhu dan kelembapan, pemilihan lemari penyimpanan anggur yang tepat, penyimpanan dalam posisi berbaring\".",
+        "target": "Pemilihan lemari penyimpanan anggur yang tepat"
+    },
+    {
+        "input": "Sebagai pemula berdandan, saya tidak tahu bagaimana memulainya. \"Mengoleskan primer, membersihkan wajah, merawat kulit, mengaplikasikan riasan, setting makeup\". Saya tahu bahwa setting makeup adalah langkah terakhir. Bagaimana mengikuti langkah-langkah lainnya dalam urutan benar?",
+        "target": "Membersihkan wajah→ Merawat kulit→ Mengoleskan primer→ Mengaplikasikan riasan→ Setting makeup"
+    },
+    {
+        "input": "Saya membeli sebuah tensimeter untuk orang tua, tetapi saya tidak tahu cara menggunakannya, proses mengukur tekanan darah umumnya terdiri dari langkah-langkah berikut: menyiapkan tensimeter, memasang manset di lengan atas, mencatat hasil, menyingkap lengan baju, melakukan pengukuran. Bagaimana urutan langkah yang benar?",
+        "target": "Langkah-langkah yang benar untuk mengukur tekanan darah dengan menggunakan tensimeter adalah: Menyiapkan tensimeter→ Menyingkap lengan baju→ Memasang manset di lengan atas→ Melakukan pengukuran→ Mencatat hasil"
+    },
+    {
+        "input": "Urutkan langkah-langkah berikut dalam proses pengujian perangkat lunak: \"Merancang kasus uji, melaksanakan pengujian, menyusun laporan pengujian, menyusun rencana pengujian,\" bagaimana mengikuti urutan langkah-langkah tersebut dalam pengujian perangkat lunak yang sebenarnya?",
+        "target": "Menyusun rencana pengujian→ Merancang kasus uji→ Melaksanakan pengujian→ Menyusun laporan pengujian"
+    },
+    {
+        "input": "Saat pertama kali menggunakan transmisi data jaringan, bisakah Anda memberi tahu saya urutan yang benar dari langkah-langkah berikut: \"mentransfer data, menutup koneksi, membangun koneksi\"?",
+        "target": "Membangun koneksi→ Mentransfer data→ Menutup koneksi"
+    },
+    {
+        "input": "Bagaimana urutan yang tepat untuk langkah-langkah berikut dalam merencanakan perjalanan: \"pilih tempat tujuan, kemasi bagasi, pesan tiket pesawat dan hotel, berangkat, rencanakan perjalanan\". Silakan susun dalam urutan yang benar.",
+        "target": "Pilih tempat tujuan→Rencanakan perjalanan→Pesan tiket pesawat dan hotel→Kemasi bagasi→Berangkat"
+    },
+    {
+        "input": "Dari penelitian dan pengembangan produk hingga peluncuran produk, langkah-langkah yang perlu diikuti sebagai berikut: \"perencanaan produk, penelitian pasar, perancangan dan pengembangan, pengujian produk, produksi massal dan peluncuran di pasar\". Dapatkah Anda menyusun langkah-langkah tersebut di atas dalam urutan yang benar?",
+        "target": "Penelitian pasar→ Perencanaan produk→ Perancangan dan pengembangan→ Pengujian produk→ Produksi massal dan peluncuran di pasar"
+    },
+    {
+        "input": "Urutkan langkah-langkah berikut sesuai proses peliputan berita yang lengkap: \"melakukan wawancara, memilih topik, mengedit dan meninjau naskah, menyusun naskah, menerbitkan\".",
+        "target": "Memilih topik→ Melakukan wawancara→ Menyusun naskah→ Mengedit dan meninjau naskah→ Menerbitkan"
+    },
+    {
+        "input": "Saya ingin memesan restoran untuk mentraktirkan orang makan, bagaimana cara mengurutkan langkah-langkah berikut: \"datang ke restoran, membuat reservasi, memesan makanan, menikmati makanan, meninggalkan restoran, melakukan pembayaran\".",
+        "target": "Membuat reservasi→Datang ke restoran→Memesan makanan→Menikmati makanan→Melakukan pembayaran→Meninggalkan restoran"
+    },
+    {
+        "input": "Silakan menyusun urutan enam langkah berikut berdasarkan proses penerbitan yang normal: \"pengeditan, penulisan, pembacaan pruf, pencetakan, penjilidan, penerbitan\".",
+        "target": "Penulisan→Pengeditan→Pembacaan pruf→Pencetakan→Penjilidan→Penerbitan"
+    },
+    {
+        "input": "Dalam proses kompilasi program komputer, Susunlah tahapan-tahapan berikut sesuai urutan yang benar untuk proses kompilasi program komputer: \"optimasi kode sumber, generasi kode target, analisis sintaksis, analisis leksikal\"?",
+        "target": "Analisis leksikal →Analisis sintaksis→ Optimasi kode sumber→Generasi kode target"
+    },
+    {
+        "input": "Penciptaan lukisan dengan cat air biasanya meliputi beberapa langkah berikut: menyempurnakan lukisan, menambahkan detail, membuat sketsa kontur, memberikan warna. Silakan susun dalam urutan yang benar.",
+        "target": "Membuat sketsa kontur→Memberikan warna→Menambahkan detail→Menyempurnakan lukisan"
+    },
+    {
+        "input": "Dalam konseling psikologis, biasanya terdapat beberapa proses berikut: \"melakukan konsultasi awal, mengevaluasi efek, mengevaluasi dan mendiagnosis, melaksanakan perawatan, menyusun rencana perawatan, mengakhiri konsultasi\". Proses-proses tersebut dilakukan dalam urutan seperti apa?",
+        "target": "Melakukan konsultasi awal → Mengevaluasi dan mendiagnosis → Menyusun rencana perawatan → Melaksanakan perawatan → Mengevaluasi efek → Mengakhiri konsultasi"
+    },
+    {
+        "input": "Berdasarkan proses transaksi e-commerce yang sebenarnya, susunlah langkah-langkah berikut dengan benar: \"mengidentifikasi kebutuhan, layanan purna jual, mengevaluasi pilihan, melakukan pencarian informasi, mengambil keputusan pembelian, melakukan transaksi\". Silakan urutkan dengan benar.",
+        "target": "Menurut proses transaksi e-commerce yang sebenarnya, berikut adalah urutan langkah yang benar: Mengidentifikasi kebutuhan→ Melakukan pencarian informasi→ Mengevaluasi pilihan→ Mengambil keputusan pembelian→ Melakukan transaksi→ Layanan purna jual"
+    },
+    {
+        "input": "Dalam proses pengembangan obat yang lengkap wajib mencakup langkah-langkah berikut: \"Penemuan obat, penelitian pra-klinis, persetujuan pemasaran, uji klinis\", bisakah Anda mengurutkan dengan benar berdasarkan keadaan yang sebenarnya?",
+        "target": "Penemuan obat → Penelitian pra-klinis → Uji klinis → Persetujuan pemasaran"
+    },
+    {
+        "input": "Proses penilaian dampak lingkungan mencakup beberapa langkah berikut: \"pengumpulan informasi proyek, prediksi dampak lingkungan, survei kondisi lingkungan, penilaian dampak lingkungan, penyusunan laporan dampak lingkungan, partisipasi masyarakat, peninjauan dan persetujuan\". Silakan urutkan langkah-langkah tersebut sesuai urutan yang benar.",
+        "target": "Pengumpulan informasi proyek→ Survei kondisi lingkungan→ Prediksi dampak lingkungan→ Penilaian dampak lingkungan→ Penyusunan laporan dampak lingkungan→ Partisipasi masyarakat→ Peninjauan dan persetujuan"
+    },
+    {
+        "input": "\"Konsumen, produsen, pengurai\", bagaimana tiga peran ini mengalirkan energi dalam ekosistem? Silahkan susun urutan aliran energinya.",
+        "target": "Produsen→ Konsumen→ Pengurai"
+    },
+    {
+        "input": "Dalam proses memotret dengan kamera terdapat langkah-langkah berikut: menekan tombol shutter, membingkai gambar, memfokuskan, menyimpan foto. Bagaimana urutan yang benar dari awal hingga selesai dari langkah-langkah tersebut?",
+        "target": "Membingkai gambar→ Memfokuskan → Menekan tombol shutter→ Menyimpan foto"
+    },
+    {
+        "input": "Reproduksi burung melibatkan proses: \"penetatasan, perkawinan, oviposisi, pembuatan sarang, mengasuh anak burung, ritual perkawinan\". Apa tahap yang dimulai terlebih dahulu dan tahap yang diselesaikan terakhir?",
+        "target": "Dalam reproduksi burung, tahap yang pertama dimulai adalah \"ritual perkawinan\", dan tahap yang  diselesaikan terakhir adalah \"mengasuh anak burung\"."
+    },
+    {
+        "input": "Dalam sebuah penelitian pasar, bagaimana mengurutkan langkah-langkah berikut: mengumpulkan informasi, menganalisis informasi, menentukan masalah dan tujuan penelitian, merancang rencana penelitian, menyajikan hasil, mengambil keputusan.",
+        "target": "Menentukan masalah dan tujuan penelitian→ Merancang rencana penelitian→ Mengumpulkan informasi→ Menganalisis informasi→ Menyajikan hasil→ Mengambil keputusan"
+    },
+    {
+        "input": "Dalam proses manajemen proyek, apa tiga tahap yang pertama diselesaikan dari\"pelaksanaan proyek, inisiasi proyek, perencanaan proyek, pengawasan proyek, penutupan proyek\"?",
+        "target": "Inisiasi proyek→ Perencanaan proyek→ Pelaksanaan proyek"
+    },
+    {
+        "input": "Dalam proses mencetak foto, terdapat beberapa tahap: pengembangan film, penghentian pengembangan, penyinaran film, fiksasi film. Bagaimana urutan yang benar dari langkah-langkah tersebut?",
+        "target": "Penyinaran film → Pengembangan film → Penghentian pengembangan → Fiksasi film"
+    },
+    {
+        "input": "Untuk berhasil meluncurkan sebuah satelit, para peneliti harus menyelesaikan langkah-langkah berikut dalam urutan seperti apa: perancangan, peluncuran, pembuatan, penempatan orbit, pengoperasian.",
+        "target": "Untuk berhasil meluncurkan sebuah satelit, para peneliti harus mengikuti langkah-langkah dalam urutan berikut: Perancangan → Pembuatan → Peluncuran → Penempatan orbit → Pengoperasian"
+    },
+    {
+        "input": "Staf kilang anggur memperkenalkan bahwa proses pembuatan anggur harus melalui tahapan \"pemetikan, fermentasi, pengepresan, pembotolan, pematangan\". Susunlah tahapan tersebut dalam urutan yang benar.",
+        "target": "Pemetikan → Pengepresan → Fermentasi → Pematangan → Pembotolan"
+    },
+    {
+        "input": "Berdasarkan proses pengilangan minyak bumi, bagaimana mengurutkan langkah-langkah berikut: fraksinasi, desalinasi, reforming katalitik, penyimpanan.",
+        "target": "Desalinasi→ Fraksinasi→ Reforming katalitik→  Penyimpanan"
+    },
+    {
+        "input": "Berdasarkan proses peluncuran roket yang normal, silakan urutkan lima proses berikut: perancangan roket, peluncuran, pembuatan, pengisian bahan bakar, memasuki orbit.",
+        "target": "Perancangan roket → Pembuatan → Pengisian bahan bakar → Peluncuran → Memasuki orbit"
+    },
+    {
+        "input": "Proses pembangkitan listrik di pembangkit nuklir mencakup beberapa tahap berikut: pembuatan uap, fisi, pendinginan, putaran turbin, pembangkitan listrik. Bagaimana urutan proses yang benar?",
+        "target": "Fisi → Pembuatan uap → Putaran turbin → Pembangkitan listrik → Pendinginan"
+    },
+    {
+        "input": "Kakek akan menjalani operasi jantung, saya ingin tahu urutan tahapan bedah tersebut:\"persiapan pra-operasi, pembedahan, diagnosis, pemulihan pasca-operasi, dan pemeriksaan lanjutan\".",
+        "target": "Diagnosis→ Persiapan pra-operasi→ Pembedahan→ Pemulihan pasca-operasi → Pemeriksaan lanjutan"
+    },
+    {
+        "input": "Minggu depan saya akan mengunjungi pabrik pembuatan pesawat, apakah Anda tahu bagaimana cara mengurutkan langkah-langkah berikut untuk membentuk sebuah proses yang lengkap: \"pemilihan bahan, perakitan, perancangan, pembuatan komponen, pengujian\"?",
+        "target": "Perancangan → Pemilihan bahan → Pembuatan komponen → Perakitan → Pengujian"
+    },
+    {
+        "input": "Proses pembuatan mobil dapat dibagi menjadi beberapa tahap berikut: pengadaan bahan baku, perancangan, penjualan, pembuatan komponen, perakitan, pengujian kualitas. Dapatkah Anda membantu saya menyusun ulang sesuai dengan urutan yang sebenarnya?",
+        "target": "Berdasarkan proses pembuatan mobil yang sebenarnya, urutan tahap-tahap tersebut adalah sebagai berikut: Perancangan→ Pengadaan Bahan Baku→ Pembuatan komponen→Perakitan→ Pengujian Kualitas→ Penjualan"
+    },
+    {
+        "input": "Tahapan penanaman tanaman di lahan pertanian antara lain: \"penanaman, pemupukan dan penyiraman, persiapan lahan, penyimpanan, pemanenan.\" Susunlah tahapan-tahapan tersebut dalam urutan yang benar.",
+        "target": "Urutan benar untuk penanaman tanaman di lahan pertanian adalah: Persiapan lahan→ Penanaman→ Pemupukan dan penyiraman→ Pemanenan→ Penyimpanan"
+    },
+    {
+        "input": "Dalam sintesis protein, proses-proses berikut terjadi dalam urutan yang mana: translasi RNA, transkripsi DNA, pelipatan protein, dan penyambungan?",
+        "target": "Transkripsi DNA→ Penyambungan→ Translasi RNA →Pelipatan protein"
+    },
+    {
+        "input": "Saat saya ingin menghidupkan mobil, bagaimana urutan yang benar untuk langkah-langkah berikut: membuka kunci pengapian, menginjak pedal gas, memasukkan gigi, menginjak rem. Silakan menyusun urutan.",
+        "target": "Menginjak rem→ Membuka kunci pengapian→ Memasukkan gigi→ Menginjak pedal gas"
+    },
+    {
+        "input": "Proses fermentasi ragi bir pada umumnya mencakup beberapa tahap berikut: ragi menyerap gula, ragi mati, ragi tumbuh, ragi menghasilkan alkohol. Bagaimana tahapan ini terjadi? Silakan urutkan berdasarkan proses pembuatan bir yang normal.",
+        "target": "Ragi menyerap gula→ Ragi tumbuh→ Ragi menghasilkan alkohol→ Ragi mati"
+    },
+    {
+        "input": "Proses menghidupkan komputer pada umumnya mencakup: memuat sistem operasi, menampilkan antarmuka login, menekan tombol power, memasukkan kata sandi untuk login. Tolong urutkan sesuai langkah yang benar.",
+        "target": "Menekan tombol power→ Memuat sistem operasi→ Menampilkan antarmuka login→ Memasukkan kata sandi untuk login"
+    },
+    {
+        "input": "Berdasarkan proses pernapasan manusia yang benar, bagaimana Anda akan mengurutkan tahap-tahap berikut: oksigen ke dalam paru-paru, menghembuskan napas, karbon dioksida dikeluarkan, menarik napas.",
+        "target": "Menarik napas→ Oksigen ke dalam paru-paru→ Menghembuskan napas→ Karbon dioksida dikeluarkan"
+    },
+    {
+        "input": "Uap air menjadi air perlu melalui tahapan berikut dalam urutan seperti apa: pembentukan tetesan air, uap air kehilangan panas, pengumpulan molekul air.",
+        "target": "Uap air kehilangan panas → Pengumpulan molekul air→ Pembentukan tetesan air"
+    },
+    {
+        "input": "Air berubah dari keadaan cair menjadi keadaan padat akan mengalami tiga tahap berikut: pembekuan, pendinginan, pembentukan es. Silakan menyusun tahap-tahap tersebut dalam urutan yang benar.",
+        "target": "Pendinginan → Pembekuan → Pembentukan es"
+    },
+    {
+        "input": "Dalam pembentukan dan letusan gunung berapi, empat tahap berikut terjadi dalam urutan seperti apa: pembentukan gunung berapi, akumulasi magma, pergerakan kerak bumi, letusan magma.",
+        "target": "Pembentukan dan letusan gunung berapi terjadi mengikuti urutan berikut: Pergerakan kerak bumi → Akumulasi magma →Letusan magma → Pembentukan gunung berapi"
+    },
+    {
+        "input": "Dari bijih mentah hingga logam, perlu melalui langkah-langkah berikut: peleburan bijih, penambangan bijih, penghancuran bijih, pemurnian logam. Silakan mengurutkan kembali sesuai dengan situasi yang sebenarnya.",
+        "target": "Penambangan bijih→ Penghancuran bijih→ Peleburan bijih→ Pemurnian logam"
+    },
+    {
+        "input": "Dalam pembuatan furnitur dari kayu batangan, sebaiknya pemotongan kayu, penebangan kayu, dan pembuatan furnitur diselesaikan terlebih dahulu, atau pengeringan kayu dan pengolahan kayu yang diselesaikan terlebih dahulu?  Silakan menyusun langkah-langkah tersebut dalam urutan yang benar.",
+        "target": "Penebangan kayu→ Pemotongan kayu→ Pengeringan kayu→ Pengolahan kayu→ Pembuatan furnitur"
+    },
+    {
+        "input": "Saya ingin mempelajari proses pembuatan cokelat, langkah-langkah berikut harus diikuti dalam urutan seperti apa: penggilingan, pemetikan biji kakao, fermentasi, pengeringan, dan pembuatan cokelat.",
+        "target": "Pemetikan biji kakao→ Fermentasi→ Pengeringan→ Penggilingan→ Pembuatan cokelat"
+    },
+    {
+        "input": "Dalam proses pembuatan tekstil, bagaimana urutan yang benar dari tahapan berikut? \"pewarnaan, pengumpulan bahan baku, pemintalan benang, penenunan kain, pembuatan produk jadi\".",
+        "target": "Pengumpulan bahan baku→ Pemintalan benang→ Penenunan kain→ Pewarnaan→ Pembuatan produk jadi"
+    },
+    {
+        "input": "Dalam aplikasi praktis, langkah-langkah berikut untuk pembelajaran mesin harus diikuti dalam urutan seperti apa: pengumpulan data, definisi masalah, pembersihan data, rekayasa fitur, pelatihan model, evaluasi model, optimalisasi model, penerapan model.",
+        "target": "Definisi masalah→ Pengumpulan data→ Pembersihan data→ Rekayasa fitur→ Pelatihan model→ Evaluasi model→ Optimalisasi model→ Penerapan model"
+    },
+    {
+        "input": "Proses penyusunan strategi perusahaan dibagi menjadi penentuan tujuan, analisis lingkungan, penyusunan strategi, pelaksanaan strategi, evaluasi strategi. Bagaimana menyusun tahap-tahap tersebut dalam urutan pelaksanaan yang benar?",
+        "target": "Analisis lingkungan → Penentuan tujuan → Penyusunan strategi→ Pelaksanaan strategi→ Evaluasi strategi"
+    },
+    {
+        "input": "Saya ingin belajar cara membuat roti dan ingin tahu urutan yang benar untuk tahapan fermentasi, pencampuran tepung, pembentukan, pemanggangan, dan pengemasan?",
+        "target": "Pencampuran tepung → Fermentasi → Pembentukan → Pemanggangan → Pengemasan"
+    },
+    {
+        "input": "Langkah-langkah dalam produksi bir meliputi fermentasi ragi, pembuatan malt, penyaringan, pembotolan, penyimpanan. Bagaimana urutan yang benar dari langkah-langkah tersebut?",
+        "target": "Pembuatan malt→ Fermentasi ragi→ Penyaringan→ Pembotolan→ Penyimpanan"
+    },
+    {
+        "input": "Pengumpulan bahan baku, pembentukan kertas, pengeringan, pemotongan, dan pembuatan bubur kertas adalah lima langkah dalam proses produksi kertas. Saya ingin mengetahui langkah-langkah apa yang harus diselesaikan sebelum pembentukan kertas?",
+        "target": "Sebelum pembuatan bubur kertas, langkah-langkah yang harus diselesaikan terlebih dahulu adalah: Pengumpulan bahan baku→Pembuatan bubur kertas"
+    },
+    {
+        "input": "Dari masukan informasi hingga keluaran memori, bagaimana urutannya dalam empat tahap pencatatan informasi oleh otak manusia: pengkodean, persepsi, pengambilan, penyimpanan.",
+        "target": "Persepsi→ Pengkodean→ Penyimpanan→ Pengambilan"
+    },
+    {
+        "input": "Pada hari pertama saya magang di pembangkit listrik, saya mengetahui bahwa konversi energi listrik melibatkan beberapa tahap: energi mekanik (perputaran rotor), energi panas (uap), energi kimia (bahan bakar), energi listrik (output generator). Namun, saya lupa urutan dari tahap-tahap tersebut, bisakah Anda memberi tahu saya?",
+        "target": "Energi kimia (bahan bakar)→ Energi panas (uap)→ Energi mekanik (perputaran rotor)→ Energi listrik (output generator)"
+    },
+    {
+        "input": "Wulan perlu melakukan transfer kepada pihak kedua, urutkan langkah-langkah prosedur berikut yang harus diikuti: isi formulir transfer, tandatangani dan simpan tanda terima, pergi ke loket bank, serahkan formulir kepada petugas bank.",
+        "target": "Pergi ke loket bank→ Isi formulir transfer→ Serahkan formulir kepada petugas bank→ Tandatangani dan simpan tanda terima"
+    },
+    {
+        "input": "Saya ingin memanggang sebuah ubi ungu sebagai makanan malam, bagaimana mengikuti langkah-langkah berikut biar paling menghemat waktu? Apa yang harus dilakukan terlebih dahulu dan apa yang harus dilakukan setelahnya? 1. Tusuk lubang pada ubi ungu dengan garpu, 2. Keluarkan ubi ungu dan potong-potong, 3. Masukkan ke dalam oven, 4. Cuci ubi ungu sampai bersih, 5. Bungkus dengan kertas aluminium, 6. Panggang selama 45-60 menit hingga empuk, 7. Tambahkan bumbu.",
+        "target": "Urutan yang benar adalah: 4. Cuci ubi ungu sampai bersih→ 1. Tusuk lubang pada ubi ungu dengan garpu→ 5. Bungkus dengan kertas aluminium→ 3. Masukkan ke dalam oven→ 6. Panggang selama 45-60 menit hingga empuk→ 2. Keluarkan ubi ungu dan potong-potong→ 7. Tambahkan bumbu."
+    },
+    {
+        "input": "Saya baru mulai belajar bermain piano, dan lagu pertama yang ingin saya pelajari adalah \"Twinkle, Twinkle, Little Star\". Berikut adalah rencana yang saya susun: menguasai teknik dasar, berlatih secara berulang kali, memainkan sesuai dengan melodi, menemukan partitur lagu \"Twinkle, Twinkle, Little Star\". Biasanya, bagaimana urutan yang benar untuk langkah-langkah tersebut?",
+        "target": "Menemukan partitur lagu \"Twinkle, Twinkle, Little Star\"→ Menguasai teknik dasar→ Memainkan sesuai dengan melodi→ Berlatih secara berulang kali"
+    },
+    {
+        "input": "Langkah-langkah untuk memotong gambar dalam Photoshop biasanya mencakup: mengklik tombol \"OK\" di sudut kanan atas, memilih \"Crop Tool\" di bilah alat, menyeret tetikus untuk memilih area yang ingin Anda potong, membuka gambar yang ingin Anda potong. Mohon bantu saya susun dalam urutan yang benar.",
+        "target": "Membuka gambar yang ingin Anda potong→ Memilih \"Crop Tool\" di bilah alat→ Menyeret tetikus untuk memilih area yang ingin Anda potong→ Mengklik tombol \"OK\" di sudut kanan atas"
+    },
+    {
+        "input": "Untuk berhasil membeli tiket pesawat secara online, saya harus mengikuti urutan langkah berikut: 1. Pilih tiket pesawat yang sesuai dan selesaikan pembayaran online, kemudian saya akan menerima tiket elektronik konfirmasi beserta informasi perjalanan yang relevan. 2. Kunjungi situs perjalanan online yang terpercaya atau situs maskapai penerbangan. 3. Saring hasil dan bandingkan harga tiket, jadwal penerbangan, dan ulasan maskapai penerbangan. 4. Masukkan kota asal, tujuan, dan tanggal perjalanan untuk mendapatkan informasi tiket pesawat yang relevan.",
+        "target": "Urutan yang benar adalah: 2. Kunjungi situs perjalanan online yang terpercaya atau situs maskapai penerbangan → 4. Masukkan kota asal, tujuan, dan tanggal perjalanan untuk mendapatkan informasi tiket pesawat yang relevan → 3. Saring hasil dan bandingkan harga tiket, jadwal penerbangan, dan ulasan maskapai penerbangan → 1. Pilih tiket pesawat yang sesuai dan selesaikan pembayaran online, kemudian saya akan menerima tiket elektronik konfirmasi beserta informasi perjalanan yang relevan"
+    },
+    {
+        "input": "Langkah-langkah untuk menyisipkan file audio dalam PowerPoint mencakup: pilih \"Audio\", klik pada menu \"Insert\", pilih \"Audio di komputer saya\" dari menu drop-down, pilih file audio yang ingin Anda sisipkan. Silakan susun langkah-langkah tersebut dalam urutan yang benar untuk membentuk proses lengkap.",
+        "target": "Klik pada menu \"Insert\"→ Pilih \"Audio\"→ Pilih \"Audio di komputer saya\" dari menu drop-down→ Pilih file audio yang ingin Anda sisipkan."
+    },
+    {
+        "input": "Memesan hotel secara daring akan melibatkan empat langkah: 1. Melihat informasi detail dan ulasan pengguna tentang hotel. 2. Memilih tipe kamar yang Anda inginkan, mengisi informasi tamu, dan memastikan semuanya benar sebelum melakukan pembayaran. 3. Membuka situs web atau aplikasi pemesanan hotel, memasukkan tujuan dan tanggal daftar masuk Anda. 4. Menyaring hotel berdasarkan anggaran dan kebutuhan Anda. Bagaimana urutan langkah-langkah tersebut?",
+        "target": "Urutan yang benar adalah: 3. Membuka situs web atau aplikasi pemesanan hotel, memasukkan tujuan dan tanggal daftar masuk Anda→ 4. Menyaring hotel berdasarkan anggaran dan kebutuhan Anda→ 1. Melihat informasi detail dan ulasan pengguna tentang hotel→ 2. Memilih tipe kamar yang Anda inginkan, mengisi informasi tamu, dan memastikan semuanya benar sebelum melakukan pembayaran."
+    },
+    {
+        "input": "Saya ingin mengajukan kartu kredit tanpa pergi ke bank, urutkan langkah-langkah berikut dengan benar: ① Menyampaikan formulir permohonan dan menunggu persetujuan dari bank. ② Setelah disetujui, bank akan mengirimkan kartu kredit ke alamat yang Anda berikan. ③ Memilih jenis kartu kredit yang ingin Anda ajukan dan mengisi formulir permohonan. ④ Membuka situs web atau aplikasi bank dan mencari opsi Pengajuan Kartu Kredit.",
+        "target": "Urutan yang benar adalah: ④ Membuka situs web atau aplikasi bank dan mencari opsi Pengajuan Kartu Kredit→ ③ Memilih jenis kartu kredit yang ingin Anda ajukan dan mengisi formulir permohonan→ ① Menyampaikan formulir permohonan dan menunggu persetujuan dari bank→ ② Setelah disetujui, bank akan mengirimkan kartu kredit ke alamat yang Anda berikan"
+    }
+]

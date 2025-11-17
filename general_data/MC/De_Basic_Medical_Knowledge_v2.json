@@ -1,0 +1,848 @@
+[
+    {
+        "input": "Welche der folgenden Eigenschaften ist sowohl für ein exzitatorisches postsynaptisches Potential (EPSP) als auch für ein inhibitorisches postsynaptisches Potential (IPSP) charakteristisch?\nA. Depolarisation der postsynaptischen Membran\nB. Depolarisation der präsynaptischen Membran\nC. Hyperpolarisation der postsynaptischen Membran\nD. Hyperpolarisation der präsynaptischen Membran",
+        "target_scores": {
+            "A. Depolarisation der postsynaptischen Membran": 0,
+            "B. Depolarisation der präsynaptischen Membran": 1,
+            "C. Hyperpolarisation der postsynaptischen Membran": 0,
+            "D. Hyperpolarisation der präsynaptischen Membran": 0
+        }
+    },
+    {
+        "input": "Welches der folgenden Nahrungsbestandteile hat den höchsten Brennwert?\nA. Fette\nB. Kohlenhydrate\nC. Proteine\nD. Vitamine",
+        "target_scores": {
+            "A. Fette": 1,
+            "B. Kohlenhydrate": 0,
+            "C. Proteine": 0,
+            "D. Vitamine": 0
+        }
+    },
+    {
+        "input": "Bei einer transversalen Durchtrennung des Rückenmarks auf Höhe des fünften Zervikalsegments (C5) bei einem Versuchstier – welche der folgenden Aussagen beschreibt den zu erwartenden Befund am zutreffendsten?\nA. Abfall des arteriellen Blutdrucks\nB. Generalisierte Sensibilitätsstörung\nC. Inkontinenz für Stuhl und Urin\nD. Verminderter Muskeltonus der gesamten Skelettmuskulatur",
+        "target_scores": {
+            "A. Abfall des arteriellen Blutdrucks": 1,
+            "B. Generalisierte Sensibilitätsstörung": 0,
+            "C. Inkontinenz für Stuhl und Urin": 0,
+            "D. Verminderter Muskeltonus der gesamten Skelettmuskulatur": 0
+        }
+    },
+    {
+        "input": "Bei einer Versuchsperson beträgt das Urinvolumen innerhalb einer Stunde 60 ml.\nDie Plasmakonzentration von para-Aminohippursäure (PAH) beträgt 0,02 mg/ml, die Konzentration im Urin beträgt 12,6 mg/ml.\nWie groß ist der effektive renale Plasmafluss (ERPF) dieser Person?\nA. 125ml／min\nB. 31,1ml／min\nC. 378ml／min\nD. 630ml／min",
+        "target_scores": {
+            "A. 125ml／min": 0,
+            "B. 31,1ml／min": 0,
+            "C. 378ml／min": 0,
+            "D. 630ml／min": 1
+        }
+    },
+    {
+        "input": "Bei Alex ist die Sprachproduktion gestört, er kann nicht sprechen, obwohl alle anderen sprachlichen Fähigkeiten erhalten sind und keine Störung der Sprechorgane vorliegt.\nWelcher Bereich im Sprachzentrum ist bei Alex am wahrscheinlichsten geschädigt?\nA. Broca-Areal\nB. Hinterer Teil des Gyrus frontalis medius\nC. Hinterer Teil des Gyrus temporalis superior\nD. Wernicke-Areal",
+        "target_scores": {
+            "A. Broca-Areal": 1,
+            "B. Hinterer Teil des Gyrus frontalis medius": 0,
+            "C. Hinterer Teil des Gyrus temporalis superior": 0,
+            "D. Wernicke-Areal": 0
+        }
+    },
+    {
+        "input": "Bei Alex, einem Patienten mit Ikterus, zeigt die Laboruntersuchung eine deutlich erhöhte Konzentration von unkonjugiertem Bilirubin im Serum.\nDer Urin ist frei von Bilirubin, während Urobilinogen in Urin und Stuhl deutlich erhöht ist. Welche der folgenden Ursachen ist für die Entstehung dieses Ikterus am wahrscheinlichsten?\nA. Akute Hepatitis\nB. Akute Hämolyse\nC. Leberzirrhose\nD. Pankreaskopfkarzinom",
+        "target_scores": {
+            "A. Akute Hepatitis": 0,
+            "B. Akute Hämolyse": 1,
+            "C. Leberzirrhose": 0,
+            "D. Pankreaskopfkarzinom": 0
+        }
+    },
+    {
+        "input": "Welche Eigenschaft der Liganden-Rezeptor-Bindung wird durch eine rechteckige Hyperbel in einer Bindungskurve am besten dargestellt?\nA. Hohe Affinität\nB. Hohe Spezifität\nC. Reversibilität\nD. Sättigbarkeit",
+        "target_scores": {
+            "A. Hohe Affinität": 0,
+            "B. Hohe Spezifität": 0,
+            "C. Reversibilität": 0,
+            "D. Sättigbarkeit": 1
+        }
+    },
+    {
+        "input": "Emilia, 25 Jahre alt, weiblich, hatte keine Schwangerschaftskomplikationen. Während einer vaginalen Entbindung entwickelte sie plötzlich Atemnot, Zyanose, einen Blutdruckabfall, generalisierte Krampfanfälle und verlor das Bewusstsein. Die Reanimationsmaßnahmen blieben erfolglos und sie verstarb.\nWelche der folgenden Ursachen ist am wahrscheinlichsten für den plötzlichen Tod verantwortlich?\nA. Fettembolie\nB. Fruchtwasserembolie\nC. Luftembolie\nD. Lungenarterienembolie",
+        "target_scores": {
+            "A. Fettembolie": 0,
+            "B. Fruchtwasserembolie": 1,
+            "C. Luftembolie": 0,
+            "D. Lungenarterienembolie": 0
+        }
+    },
+    {
+        "input": "In der Lunge finden sich diffus verteilte Makrophagen, die zahlreiche Hämosiderin-haltige Granula im Zytoplasma enthalten.\nBei welcher der folgenden Erkrankungen tritt dieser Befund am häufigsten auf?\nA. Bronchopneumonie\nB. Interstitielle Pneumonie\nC. Linksherzinsuffizienz\nD. Lobäre Pneumonie",
+        "target_scores": {
+            "A. Bronchopneumonie": 0,
+            "B. Interstitielle Pneumonie": 0,
+            "C. Linksherzinsuffizienz": 1,
+            "D. Lobäre Pneumonie": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Eigenschaften ist typisch für kortikale Nephrone im Vergleich zu juxtamedullären Nephronen?\nA. Afferente und efferente Arteriole haben einen ähnlichen Durchmesser\nB. Die efferente Arteriole bildet anschließend Vasa recta\nC. Funktionell überwiegend für Filtration und Rückresorption zuständig\nD. Sie sind weniger zahlreich, größer im Volumen und besitzen lange Henle-Schleifen",
+        "target_scores": {
+            "A. Afferente und efferente Arteriole haben einen ähnlichen Durchmesser": 0,
+            "B. Die efferente Arteriole bildet anschließend Vasa recta": 0,
+            "C. Funktionell überwiegend für Filtration und Rückresorption zuständig": 1,
+            "D. Sie sind weniger zahlreich, größer im Volumen und besitzen lange Henle-Schleifen": 0
+        }
+    },
+    {
+        "input": "Emilia, 50 Jahre alt, weiblich, leidet seit mehr als drei Jahren an chronischem Husten mit weißem, schaumigem Schleim.\nDie Beschwerden treten regelmäßig im Herbst und Winter auf und dauern jeweils etwa drei Monate an.\nWelche der folgenden Aussagen beschreibt die zu erwartenden pathologischen Veränderungen bei dieser Patientin nicht zutreffend?\nA. Degeneration und Nekrose des Bronchialschleimhautepithels\nB. Hypertrophie der Schleimdrüsen der Bronchien\nC. Proliferation von elastischen Fasern in der Bronchialwand\nD. Vermehrung der Becherzellen im Bronchialepithel",
+        "target_scores": {
+            "A. Degeneration und Nekrose des Bronchialschleimhautepithels": 0,
+            "B. Hypertrophie der Schleimdrüsen der Bronchien": 0,
+            "C. Proliferation von elastischen Fasern in der Bronchialwand": 1,
+            "D. Vermehrung der Becherzellen im Bronchialepithel": 0
+        }
+    },
+    {
+        "input": "Alex, 20 Jahre alt, erlitt vor fünf Jahren eine Fraktur, die damals gut verheilte.\nWelche histologischen Veränderungen sind im Knochengewebe an der ehemaligen Frakturstelle heute am wahrscheinlichsten zu beobachten?\nA. Große Mengen an Fibroblasten\nB. Normales Knochengewebe\nC. Viele mehrkernige Riesenzellen\nD. Zahlreiche neugebildete Kapillaren",
+        "target_scores": {
+            "A. Große Mengen an Fibroblasten": 0,
+            "B. Normales Knochengewebe": 1,
+            "C. Viele mehrkernige Riesenzellen": 0,
+            "D. Zahlreiche neugebildete Kapillaren": 0
+        }
+    },
+    {
+        "input": "Welcher der folgenden Bestandteile ist im Serum im Vergleich zum Plasma hauptsächlich nicht enthalten?\nA. Albumin\nB. Fibrinogen\nC. Globuline\nD. Kalzium",
+        "target_scores": {
+            "A. Albumin": 0,
+            "B. Fibrinogen": 1,
+            "C. Globuline": 0,
+            "D. Kalzium": 0
+        }
+    },
+    {
+        "input": "Thomas, 76 Jahre alt, männlich, bisher gesund, verstarb plötzlich vor einigen Stunden. Bei der Obduktion fanden sich ausgeprägte atheromatöse Veränderungen der Aorta und beidseitig atherosklerotische Plaques in den Hauptstämmen der Koronararterien mit Lumeneinengung, jedoch ohne Nachweis von Thromben. Der Herzmuskel zeigte eine dunkelrot-glänzende Verfärbung. Welche der folgenden Diagnosen passt am besten zu diesem Befund?\nA. Angina pectoris\nB. Kardiomyopathie\nC. Myokarditis\nD. Plötzlicher koronarer Herztod",
+        "target_scores": {
+            "A. Angina pectoris": 0,
+            "B. Kardiomyopathie": 0,
+            "C. Myokarditis": 0,
+            "D. Plötzlicher koronarer Herztod": 1
+        }
+    },
+    {
+        "input": "Was ist das wichtigste Kriterium zur Unterscheidung zwischen tuberkulöser exsudativer Pleuritis und maligner Pleuritis?\nA. Alter des Patienten\nB. Routinemäßige Untersuchung des Pleuraergusses\nC. Vorhandensein von Fieber und Schüttelfrost\nD. Zelluläre Zusammensetzung des Pleuraergusses sowie Pleurabiopsie",
+        "target_scores": {
+            "A. Alter des Patienten": 0,
+            "B. Routinemäßige Untersuchung des Pleuraergusses": 0,
+            "C. Vorhandensein von Fieber und Schüttelfrost": 0,
+            "D. Zelluläre Zusammensetzung des Pleuraergusses sowie Pleurabiopsie": 1
+        }
+    },
+    {
+        "input": "Thomas, 27 Jahre alt, männlich, hatte vor fünf Jahren Appetitlosigkeit, Übelkeit, Müdigkeit sowie eine Gelbfärbung der Haut und Skleren. Er klagte über Schmerzen im Leberbereich, seine Leberwerte zeigten ALT 100 U/l, Gesamtbilirubin 18 mg/dl,$HBsAg(+)$. Die Leberbiopsie ergab eine Diagnose einer akuten, unkomplizierten Hepatitis. Die Beschwerden besserten sich unter Therapie. In den letzten sechs Monaten traten erneut Müdigkeit und dumpfe Schmerzen im rechten Oberbauch auf. Die ALT-Werte lagen zwischen 60 und 80 U/l. Welcher der folgenden histopathologischen Befunde passt am besten zum derzeitigen Krankheitsbild?\nA. Fokale Nekrose\nB. Massive Nekrose\nC. Mottenfraßnekrose\nD. Submassive Nekrose",
+        "target_scores": {
+            "A. Fokale Nekrose": 0,
+            "B. Massive Nekrose": 0,
+            "C. Mottenfraßnekrose": 1,
+            "D. Submassive Nekrose": 0
+        }
+    },
+    {
+        "input": "Eine Testperson neigt den Kopf um 30 Grad nach vorne und dreht ihn dann um die vertikale Körperachse nach links.\nIn welche Richtung zeigt der Nystagmus zu Beginn der Drehung?\nA. Langsame Phase nach links, schnelle Phase nach links\nB. Langsame Phase nach links, schnelle Phase nach rechts\nC. Langsame Phase nach rechts, schnelle Phase nach links\nD. Langsame Phase nach rechts, schnelle Phase nach rechts",
+        "target_scores": {
+            "A. Langsame Phase nach links, schnelle Phase nach links": 0,
+            "B. Langsame Phase nach links, schnelle Phase nach rechts": 0,
+            "C. Langsame Phase nach rechts, schnelle Phase nach links": 1,
+            "D. Langsame Phase nach rechts, schnelle Phase nach rechts": 0
+        }
+    },
+    {
+        "input": "Thomas, 62 Jahre alt, männlich, leidet seit über einem Jahr an trockenem Husten mit gelegentlichen blutigen Beimengungen im Auswurf. Er raucht seit seiner Jugend täglich zwei bis drei Schachteln Zigaretten. Bei der körperlichen Untersuchung zeigt sich eine Vollheit des linken Thorax. Die Pleurapunktion ergibt 57,3 ml blutigen Erguss.\nIm Röntgenbild zeigt sich im linken unteren Lungenbereich eine $3cm \\times 5cm$ große, dichte Verschattung mit unscharfen Rändern.\nWelche der folgenden Diagnosen ist am wahrscheinlichsten?\nA. Bronchiektasen\nB. Lungenabszess\nC. Lungentuberkulose\nD. Peripheres Bronchialkarzinom",
+        "target_scores": {
+            "A. Bronchiektasen": 0,
+            "B. Lungenabszess": 0,
+            "C. Lungentuberkulose": 0,
+            "D. Peripheres Bronchialkarzinom": 1
+        }
+    },
+    {
+        "input": "Warum diffundiert $CO_2$ schneller durch die respiratorische Membran als $O_2$?\nA. $CO_2$ wird ausschließlich durch passive Diffusion transportiert\nB. Der Partialdruckgradient von $CO_2$ ist größer als der von $O_2$\nC. Die Löslichkeit von $CO_2$ im Plasma ist deutlich höher als die von $O_2$\nD. Die Molekülmasse von $CO_2$ ist größer als die von $O_2$",
+        "target_scores": {
+            "A. $CO_2$ wird ausschließlich durch passive Diffusion transportiert": 0,
+            "B. Der Partialdruckgradient von $CO_2$ ist größer als der von $O_2$": 0,
+            "C. Die Löslichkeit von $CO_2$ im Plasma ist deutlich höher als die von $O_2$": 1,
+            "D. Die Molekülmasse von $CO_2$ ist größer als die von $O_2$": 0
+        }
+    },
+    {
+        "input": "Bei einem Affen wird ein Finger amputiert.\nWas geschieht mit dem Repräsentationsareal dieses Fingers im somatosensorischen Kortex?\nA. Es bleibt unverändert, verliert jedoch dauerhaft seine Funktion\nB. Es wird durch Proliferation von Gliazellen ersetzt\nC. Es wird durch benachbarte Repräsentationen der anderen Finger übernommen\nD. Es zeigt eine gewisse Atrophie und vollständigen Funktionsverlust",
+        "target_scores": {
+            "A. Es bleibt unverändert, verliert jedoch dauerhaft seine Funktion": 0,
+            "B. Es wird durch Proliferation von Gliazellen ersetzt": 0,
+            "C. Es wird durch benachbarte Repräsentationen der anderen Finger übernommen": 1,
+            "D. Es zeigt eine gewisse Atrophie und vollständigen Funktionsverlust": 0
+        }
+    },
+    {
+        "input": "Welche Körperregion weist im Ruhezustand die höchste Temperatur auf?\nA. Gehirn\nB. Leber\nC. Niere\nD. Skelettmuskel",
+        "target_scores": {
+            "A. Gehirn": 0,
+            "B. Leber": 1,
+            "C. Niere": 0,
+            "D. Skelettmuskel": 0
+        }
+    },
+    {
+        "input": "Thomas, 45 Jahre alt, männlich, erlitt bei einem Fahrradunfall eine Trümmerfraktur des linken Oberschenkels. In der Notaufnahme entwickelte er plötzlich Atemnot und Thoraxschmerzen. Bei der körperlichen Untersuchung zeigte sich eine Tachypnoe, Zyanose sowie feuchte Rasselgeräusche über der Lunge. Die Röntgenaufnahme zeigte eine Atelektase sowie einen geringen Pleuraerguss. Welche der folgenden pulmonalen Komplikationen ist am wahrscheinlichsten?\nA. Fettembolie der Lunge\nB. Lungenarterienembolie\nC. Lungenemphysem\nD. Pneumonie",
+        "target_scores": {
+            "A. Fettembolie der Lunge": 1,
+            "B. Lungenarterienembolie": 0,
+            "C. Lungenemphysem": 0,
+            "D. Pneumonie": 0
+        }
+    },
+    {
+        "input": "Welcher Bereich ist sowohl beim Nahreflex der Pupille als auch beim Pupillenlichtreflex als zentrales Reflexzentrum beteiligt?\nA. Hypothalamus\nB. Medulla oblongata\nC. Mesencephalon\nD. Pons",
+        "target_scores": {
+            "A. Hypothalamus": 0,
+            "B. Medulla oblongata": 0,
+            "C. Mesencephalon": 1,
+            "D. Pons": 0
+        }
+    },
+    {
+        "input": "Thomas, 34 Jahre alt, männlich, leidet seit mehreren Jahren am nephrotischen Syndrom. In den letzten Jahren entwickelten sich arterielle Hypertonie, Polyurie und Nykturie. Kürzlich kamen Anämie, Sehstörungen, Urämiegeruch, allgemeine Schwäche, Erbrechen, Krampfanfälle und schließlich Koma hinzu. Der Patient verstarb. Welcher der folgenden makroskopischen Befunde ist am ehesten mit dem Nierenbild bei diesem Patienten vereinbar?\nA. Flohbissniere\nB. Granulierte Schrumpfniere\nC. Große rote Niere\nD. Große weiße Niere",
+        "target_scores": {
+            "A. Flohbissniere": 0,
+            "B. Granulierte Schrumpfniere": 1,
+            "C. Große rote Niere": 0,
+            "D. Große weiße Niere": 0
+        }
+    },
+    {
+        "input": "Welcher Bestandteil unterscheidet sich am stärksten in der Konzentration zwischen Gewebsflüssigkeit und Plasma?\nA. Elektrolyte\nB. Hochmolekulare organische Verbindungen\nC. Niedermolekulare organische Verbindungen\nD. Proteine",
+        "target_scores": {
+            "A. Elektrolyte": 0,
+            "B. Hochmolekulare organische Verbindungen": 0,
+            "C. Niedermolekulare organische Verbindungen": 0,
+            "D. Proteine": 1
+        }
+    },
+    {
+        "input": "Welches der folgenden Merkmale trifft hauptsächlich auf das Aktionspotenzial von Purkinje-Fasern im Vergleich zu dem von ventrikulären Myozyten zu?\nA. Größere Amplitude\nB. Spontane diastolische Depolarisation in Phase 4\nC. Stabiles Ruhepotenzial in Phase 4\nD. Verlängerte Plateauphase",
+        "target_scores": {
+            "A. Größere Amplitude": 0,
+            "B. Spontane diastolische Depolarisation in Phase 4": 1,
+            "C. Stabiles Ruhepotenzial in Phase 4": 0,
+            "D. Verlängerte Plateauphase": 0
+        }
+    },
+    {
+        "input": "Wird für eine Substanz eine renale Clearance von 80 ml/min gemessen, welche der folgenden Aussagen über die tubuläre Verarbeitung dieser Substanz ist dann zutreffend?\nA. Die Substanz kann weder rückresorbiert noch sezerniert werden\nB. Die Substanz wird sicher rückresorbiert und sicher sezerniert\nC. Die Substanz wird sicher rückresorbiert, ob sie sezerniert wird, ist unklar\nD. Die Substanz wird sicher sezerniert, ob sie rückresorbiert wird, ist unklar",
+        "target_scores": {
+            "A. Die Substanz kann weder rückresorbiert noch sezerniert werden": 0,
+            "B. Die Substanz wird sicher rückresorbiert und sicher sezerniert": 0,
+            "C. Die Substanz wird sicher rückresorbiert, ob sie sezerniert wird, ist unklar": 1,
+            "D. Die Substanz wird sicher sezerniert, ob sie rückresorbiert wird, ist unklar": 0
+        }
+    },
+    {
+        "input": "Thomas, 40 Jahre alt, männlich, raucht seit 20 Jahren täglich zwei bis drei Schachteln Zigaretten.\nIn den letzten Tagen hat sich sein Husten verschlimmert. Eine Röntgenaufnahme zeigt eine Verschattung im linken Oberlappen. Bei der Bronchoskopie wurde eine Schleimhautbiopsie entnommen, in der Plattenepithel nachgewiesen wurde.\nWelche der folgenden pathologischen Veränderungen liegt am ehesten vor?\nA. Atrophie der Bronchialschleimhaut\nB. Hyperplasie der Bronchialschleimhaut\nC. Plattenepithelhyperplasie der Bronchialschleimhaut\nD. Plattenepithelmetaplasie der Bronchialschleimhaut",
+        "target_scores": {
+            "A. Atrophie der Bronchialschleimhaut": 0,
+            "B. Hyperplasie der Bronchialschleimhaut": 0,
+            "C. Plattenepithelhyperplasie der Bronchialschleimhaut": 0,
+            "D. Plattenepithelmetaplasie der Bronchialschleimhaut": 1
+        }
+    },
+    {
+        "input": "Emilia, 67 Jahre alt, weiblich, wurde wegen einer Kohlenmonoxidvergiftung notfallmäßig ins Krankenhaus eingeliefert. Trotz Behandlung in der Druckkammer bleibt sie bewusstlos. Was ist die wahrscheinlichste Ursache für den anhaltenden Bewusstseinsverlust?\nA. Erhöhte arteriovenöse Sauerstoffpartialdruckdifferenz\nB. Erniedrigter arterieller Sauerstoffpartialdruck\nC. Rechtsverschiebung der Sauerstoffbindungskurve\nD. Reduzierte Freisetzung von Sauerstoff aus Oxyhämoglobin",
+        "target_scores": {
+            "A. Erhöhte arteriovenöse Sauerstoffpartialdruckdifferenz": 0,
+            "B. Erniedrigter arterieller Sauerstoffpartialdruck": 0,
+            "C. Rechtsverschiebung der Sauerstoffbindungskurve": 0,
+            "D. Reduzierte Freisetzung von Sauerstoff aus Oxyhämoglobin": 1
+        }
+    },
+    {
+        "input": "Alex, männlich, befindet sich am 6. postoperativen Tag nach einer Darmresektion mit Anastomose aufgrund eines akuten Darmverschlusses mit Darmnekrose. Nach einem Hustenanfall tritt rosafarbenes Sekret aus der Operationswunde aus. Welche der folgenden Komplikationen ist am wahrscheinlichsten?\nA. Aszitesbildung\nB. Subkutanes Serom\nC. Wunddehiszenz\nD. Wundinfektion",
+        "target_scores": {
+            "A. Aszitesbildung": 0,
+            "B. Subkutanes Serom": 0,
+            "C. Wunddehiszenz": 1,
+            "D. Wundinfektion": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Beschreibungen passt zu einem Frakturheilungsstadium, in dem sich an der Frakturstelle Granulationsgewebe und unregelmäßig angeordnete Knochenbälkchen befinden?\nA. Abschluss der Kallusremodellierung\nB. Bildung von fibrösem Kallus\nC. Bildung von knöchernem Kallus\nD. Pseudarthrose (Frakturnichtheilung)",
+        "target_scores": {
+            "A. Abschluss der Kallusremodellierung": 0,
+            "B. Bildung von fibrösem Kallus": 0,
+            "C. Bildung von knöchernem Kallus": 1,
+            "D. Pseudarthrose (Frakturnichtheilung)": 0
+        }
+    },
+    {
+        "input": "Emilia, 50 Jahre alt, weiblich, wird aufgrund akuter Bauchschmerzen ins Krankenhaus eingeliefert. Sie hat eine bekannte Hypertonie. Bei der körperlichen Untersuchung zeigt sich ein Blutdruck von 90/50 mmHg, kühle Extremitäten und blasse Akren. Der Bauch ist weich, ohne tastbare Raumforderung, ohne Abwehrspannung und ohne Loslassschmerz. Die Sonographie ergibt den Verdacht auf eine Aortendissektion. Welche der folgenden Erkrankungen kann am ehesten eine Aortendissektion verursachen?\nA. Arteriosklerose\nB. Rheumatische Aortitis\nC. Riesenzellarteriitis\nD. Takayasu-Arteriitis",
+        "target_scores": {
+            "A. Arteriosklerose": 1,
+            "B. Rheumatische Aortitis": 0,
+            "C. Riesenzellarteriitis": 0,
+            "D. Takayasu-Arteriitis": 0
+        }
+    },
+    {
+        "input": "Thomas, 30 Jahre alt, männlich, konsumiert seit etwa acht Jahren regelmäßig Alkohol, täglich ca. 500 ml hochprozentiger Schnaps. Seit einem halben Jahr leidet er häufig unter Übelkeit, Erbrechen und Appetitlosigkeit. Bei einer Leberbiopsie zeigen sich eine ausgeprägte Leberzellverfettung, fokale Nekrosen und in den Hepatozyten unterschiedlich große, eosinophile, glasige Einschlusskörperchen. Woraus bestehen diese Einschlüsse am ehesten?\nA. HBsAg\nB. Immunglobuline\nC. Plasmaproteine\nD. Präkeratine",
+        "target_scores": {
+            "A. HBsAg": 0,
+            "B. Immunglobuline": 0,
+            "C. Plasmaproteine": 0,
+            "D. Präkeratine": 1
+        }
+    },
+    {
+        "input": "Thomas, 40 Jahre alt, männlich, bemerkt seit sieben Tagen eine schmerzhafte, gerötete, überwärmte und geschwollene Hautstelle am Rücken. Auf der Oberfläche befinden sich drei bis vier eröffnete Stellen mit gelblich-eitrigem Sekret. Welcher der folgenden Erreger ist mit hoher Wahrscheinlichkeit für die beschriebenen Hautveränderungen bei Thomas verantwortlich?\nA. Escherichia coli\nB. Hämolysierende Streptokokken\nC. Proteus spp.\nD. Staphylococcus aureus",
+        "target_scores": {
+            "A. Escherichia coli": 0,
+            "B. Hämolysierende Streptokokken": 0,
+            "C. Proteus spp.": 0,
+            "D. Staphylococcus aureus": 1
+        }
+    },
+    {
+        "input": "Thomas, 38 Jahre alt, männlich, berichtet über ein mehr als zehnjähriges Bestehen von Sodbrennen, Aufstoßen sowie Völlegefühl im Oberbauch. Typisch ist ein regelmäßig auftretender, epigastrischer Schmerz, der nüchtern stärker ist, insbesondere nachts, und durch Speiseaufnahme gelindert wird. Bei einer Gastroskopie wird ein etwa 1 cm großes, rundes Ulkus im Bulbus duodeni festgestellt. Welche der folgenden Aussagen trifft nicht auf das Krankheitsbild von Thomas zu?\nA. Hat ein hohes Risiko für maligne Entartung\nB. Kann eine Pylorusstenose verursachen\nC. Kann zu einer Perforation führen\nD. Neigt zu Blutungen",
+        "target_scores": {
+            "A. Hat ein hohes Risiko für maligne Entartung": 1,
+            "B. Kann eine Pylorusstenose verursachen": 0,
+            "C. Kann zu einer Perforation führen": 0,
+            "D. Neigt zu Blutungen": 0
+        }
+    },
+    {
+        "input": "Alex, ein Patient mit intrazerebraler Blutung infolge einer Hypertonie, ist verstorben. Bei der Obduktion zeigt sich ein Herzgewicht von 550 g. Die Myokarddicke der Wand des linken Ventrikels beträgt 1,6 cm. Papillarmuskeln und Trabekel sind verdickt, die Herzhöhlen nicht erweitert. Welche der folgenden Diagnosen trifft auf den Herzzustand von Alex am besten zu?\nA. Dekompensierte Myokardhypertrophie\nB. Fettige Degeneration des Herzens\nC. Hypertrophe Kardiomyopathie\nD. Kompensatorische Myokardhypertrophie",
+        "target_scores": {
+            "A. Dekompensierte Myokardhypertrophie": 0,
+            "B. Fettige Degeneration des Herzens": 0,
+            "C. Hypertrophe Kardiomyopathie": 0,
+            "D. Kompensatorische Myokardhypertrophie": 1
+        }
+    },
+    {
+        "input": "Thomas, 60 Jahre alt, männlich, berichtet über seit über einem halben Jahr bestehende schmerzlose Hämaturie. Bei der Zystoskopie wird im Trigonum vesicae ein gestielter, papillärer Tumor entdeckt. Die Biopsie ergibt den Befund eines papillären Tumors. Welche der folgenden histologischen Veränderungen passt am besten zur gestellten Diagnose?\nA. Nachweis von Drüsenstrukturen\nB. Papillen, die mit gut differenziertem Drüsenepithel bedeckt sind\nC. Papillen, die mit gut differenziertem Urothel bedeckt sind\nD. Vorhandensein von Plattenepithelnestern",
+        "target_scores": {
+            "A. Nachweis von Drüsenstrukturen": 0,
+            "B. Papillen, die mit gut differenziertem Drüsenepithel bedeckt sind": 0,
+            "C. Papillen, die mit gut differenziertem Urothel bedeckt sind": 1,
+            "D. Vorhandensein von Plattenepithelnestern": 0
+        }
+    },
+    {
+        "input": "Thomas, 58 Jahre alt, männlich, verstarb an einer weit fortgeschrittenen Metastasierung eines Magenkarzinoms. Bei der Obduktion zeigte das Herz ein Gewicht von 200 g.\nIn histologischen Schnittpräparaten fanden sich in den Kardiomyozyten beidseits des Zellkerns fein granulierte, gelbbraune Pigmente. Welches Pigment liegt bei Thomas am wahrscheinlichsten vor?\nA. Bilirubin\nB. Lipofuszin\nC. Melanin\nD. Präkeratin-Aggregate",
+        "target_scores": {
+            "A. Bilirubin": 0,
+            "B. Lipofuszin": 1,
+            "C. Melanin": 0,
+            "D. Präkeratin-Aggregate": 0
+        }
+    },
+    {
+        "input": "Thomas, 58 Jahre alt, männlich, wurde vor drei Tagen wegen Cholezystolithiasis mit Cholezystitis operiert. Seitdem leidet er an anhaltendem hohen Fieber, Husten mit gelb-eitrigem Auswurf und rechtsseitigen Thoraxschmerzen. Ein Thoraxröntgenbild zeigt eine ausgedehnte Verschattung im rechten Unterlappen mit unregelmäßigen Aufhellungen. Welcher der folgenden Erreger ist bei Thomas als Ursache einer postoperativen Pneumonie am wahrscheinlichsten?\nA. Anaerobe Bakterien\nB. Gramnegative Stäbchenbakterien\nC. Streptococcus pneumoniae\nD. Streptococcus pyogenes",
+        "target_scores": {
+            "A. Anaerobe Bakterien": 0,
+            "B. Gramnegative Stäbchenbakterien": 1,
+            "C. Streptococcus pneumoniae": 0,
+            "D. Streptococcus pyogenes": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden hormonellen Reaktionen ist die wahrscheinlichste Folge einer erniedrigten Natrium- und erhöhten Kaliumkonzentration im Blut?\nA. Erhöhte Aldosteronsekretion\nB. Erhöhte Freisetzung von antidiuretischem Hormon (ADH)\nC. Verminderte Aldosteronsekretion\nD. Verminderte Freisetzung von antidiuretischem Hormon (ADH)",
+        "target_scores": {
+            "A. Erhöhte Aldosteronsekretion": 1,
+            "B. Erhöhte Freisetzung von antidiuretischem Hormon (ADH)": 0,
+            "C. Verminderte Aldosteronsekretion": 0,
+            "D. Verminderte Freisetzung von antidiuretischem Hormon (ADH)": 0
+        }
+    },
+    {
+        "input": "Thomas, 30 Jahre alt, männlich, bemerkte seit acht Tagen eine schmerzhafte Rötung und Schwellung im Halsbereich.\nBei der Untersuchung zeigt sich ein etwa $6cm \\times 5cm$ großes Areal mit Hautrötung, mehreren sichtbaren Eiterpunkten auf der Oberfläche sowie deutlicher Druckschmerz.\nWelche der folgenden Diagnosen passt am besten zu diesem Befund?\nA. Furunkel\nB. Karbunkel\nC. Lymphangitis\nD. Phlegmone",
+        "target_scores": {
+            "A. Furunkel": 0,
+            "B. Karbunkel": 1,
+            "C. Lymphangitis": 0,
+            "D. Phlegmone": 0
+        }
+    },
+    {
+        "input": "Thomas, 60 Jahre alt, männlich, leidet seit zwei Monaten an Thoraxschmerzen, Husten und blutigem Sputum. Eine Röntgenaufnahme zeigt im rechten oberen Lungenfeld eine rundliche Verschattung mit einem Durchmesser von 5 cm und spikulierten Rändern in der Peripherie.\nWelche der folgenden Diagnosen sollte in erster Linie in Betracht gezogen werden?\nA. Konglomerierte Silikoseknoten\nB. Lungenabszess\nC. Peripheres Bronchialkarzinom\nD. Tuberkulom",
+        "target_scores": {
+            "A. Konglomerierte Silikoseknoten": 0,
+            "B. Lungenabszess": 0,
+            "C. Peripheres Bronchialkarzinom": 1,
+            "D. Tuberkulom": 0
+        }
+    },
+    {
+        "input": "Alex hat ein anatomisches Totraumvolumen von 125 ml,  eine gesamte Ventilation von 7500 ml/min und eine Atemfrequenz von 20 Atemzügen pro Minute. Bei einem Herzzeitvolumen von 5000 ml/min – wie hoch ist das Ventilations-Perfusions-Verhältnis (V/Q)?\nA. 0,8\nB. 0,9\nC. 1,0\nD. 1,1",
+        "target_scores": {
+            "A. 0,8": 0,
+            "B. 0,9": 0,
+            "C. 1,0": 1,
+            "D. 1,1": 0
+        }
+    },
+    {
+        "input": "Wenn bei zwei Individuen derselbe respiratorischer Quotient (der Quotient) (RQ) gemessen wird, was lässt sich daraus am ehesten schließen?\nA. Ihre Energiequelle ist weitgehend dieselbe\nB. Ihre Energieverwertungsrate ist nahezu identisch\nC. Ihre Körperoberfläche ist nahezu gleich\nD. Ihre basale Stoffwechselrate ist nahezu identisch",
+        "target_scores": {
+            "A. Ihre Energiequelle ist weitgehend dieselbe": 1,
+            "B. Ihre Energieverwertungsrate ist nahezu identisch": 0,
+            "C. Ihre Körperoberfläche ist nahezu gleich": 0,
+            "D. Ihre basale Stoffwechselrate ist nahezu identisch": 0
+        }
+    },
+    {
+        "input": "Emilia, 25 Jahre alt, weiblich, klagt seit etwa zwei Wochen über Appetitlosigkeit, Übelkeit, Müdigkeit, sowie eine Gelbfärbung der Haut und Skleren.\nSie hat Schmerzen im rechten Oberbauch.\nDie Leberwerte zeigen: ALT 100 U/L, Gesamtbilirubin 180 mg/L.\n$HBsAg(＋)$. Die Leberbiopsie ergibt folgende histologische Befunde:\nDiffuse Hepatozytenschwellung, Proliferation der Kupffer-Zellen, Fokale Leberzellverfettung, Infiltration mit Lymphozyten in den Läppchen, punktförmige und fokale Nekrosen.\nWelche der folgenden Diagnosen passt am besten zum beschriebenen Bild?\nA. Akute schwere Hepatitis\nB. Akute unkomplizierte Hepatitis\nC. Chronisch aktive Hepatitis\nD. Subakute schwere Hepatitis",
+        "target_scores": {
+            "A. Akute schwere Hepatitis": 0,
+            "B. Akute unkomplizierte Hepatitis": 1,
+            "C. Chronisch aktive Hepatitis": 0,
+            "D. Subakute schwere Hepatitis": 0
+        }
+    },
+    {
+        "input": "Emilia, 73 Jahre alt, weiblich, stürzte beim beim Treppenabsteigen und erlitt eine Fraktur des Oberschenkelknochens. Während der operativen Osteosynthese entwickelte sie plötzlich Atemnot, Zyanose, einen Blutdruckabfall, generalisierte Krampfanfälle und fiel ins Koma. Die Reanimation blieb erfolglos, Emilia verstarb.\nWelche der folgenden Befunde ist bei der Obduktion am wahrscheinlichsten im Lungengefäßsystem nachweisbar?\nA. Fetttropfen\nB. Luftblasen\nC. Thromben\nD. Verhornte Epithelzellen",
+        "target_scores": {
+            "A. Fetttropfen": 1,
+            "B. Luftblasen": 0,
+            "C. Thromben": 0,
+            "D. Verhornte Epithelzellen": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Zelltypen ist im peripheren Blut bei einem Patienten mit AIDS im Spätstadium am stärksten vermindert?\nA. CD14⁺-Zellen\nB. CD16⁺-Zellen\nC. CD4⁺-Zellen\nD. CD8⁺-Zellen",
+        "target_scores": {
+            "A. CD14⁺-Zellen": 0,
+            "B. CD16⁺-Zellen": 0,
+            "C. CD4⁺-Zellen": 1,
+            "D. CD8⁺-Zellen": 0
+        }
+    },
+    {
+        "input": "Ein Mann mit Blutgruppe A hat zwei Kinder, einen Sohn und eine Tochter. Das Serum der Tochter führt zu keiner Agglutination mit den Erythrozyten ihres Vaters, während das Serum des Sohnes eine Agglutination mit den Erythrozyten des Vaters verursacht.\nWelche Blutgruppe könnte der Sohn am ehesten haben?\nA. A oder AB\nB. A oder B\nC. A oder O\nD. B oder O",
+        "target_scores": {
+            "A. A oder AB": 0,
+            "B. A oder B": 0,
+            "C. A oder O": 0,
+            "D. B oder O": 1
+        }
+    },
+    {
+        "input": "Thomas, 60 Jahre alt, männlich, ist Langzeitraucher und leidet seit etwa drei Jahren an chronischem Cor pulmonale. In den letzten Tagen klagt er über Husten, Atemnot und Herzklopfen. Bei der Untersuchung zeigt sich eine vergrößerte, druckschmerzhafte Leber. Welche der folgenden Leberveränderungen ist bei Thomas am ehesten zu erwarten?\nA. Atrophie und Verfettung der Hepatozyten\nB. Flächenhafte Nekrose der Hepatozyten\nC. Fragmentnekrose der Hepatozyten\nD. Zellschwellung und ballonartige Degeneration der Hepatozyten",
+        "target_scores": {
+            "A. Atrophie und Verfettung der Hepatozyten": 1,
+            "B. Flächenhafte Nekrose der Hepatozyten": 0,
+            "C. Fragmentnekrose der Hepatozyten": 0,
+            "D. Zellschwellung und ballonartige Degeneration der Hepatozyten": 0
+        }
+    },
+    {
+        "input": "Emilia, 22 Jahre alt, weiblich, bemerkte seit drei Monaten eine tastbare Raumforderung im rechten Unterbauch. Bei der Operation zeigte sich, dass der rechte Ovar durch eine zystische Raumforderung ersetzt war. Der Zysteninhalt bestand aus fettiger Substanz und Haaren; in der Wand der Zyste wurden auch Zähne gefunden.\nWelche der folgenden Diagnosen ist am wahrscheinlichsten?\nA. Choristom\nB. Dysgerminom\nC. Hamartom\nD. Teratom",
+        "target_scores": {
+            "A. Choristom": 0,
+            "B. Dysgerminom": 0,
+            "C. Hamartom": 0,
+            "D. Teratom": 1
+        }
+    },
+    {
+        "input": "Welches der folgenden Hormone ist wesentlich dafür verantwortlich, den präovulatorischen LH-Peak etwa einen Tag vor dem Eisprung auszulösen?\nA. Androgene\nB. Follikelstimulierendes Hormon (FSH)\nC. Progesteron\nD. Östradiol",
+        "target_scores": {
+            "A. Androgene": 0,
+            "B. Follikelstimulierendes Hormon (FSH)": 0,
+            "C. Progesteron": 0,
+            "D. Östradiol": 1
+        }
+    },
+    {
+        "input": "Thomas, 70 Jahre alt, männlich, wurde aufgrund einer massiven oberen gastrointestinalen Blutung notfallmäßig ins Krankenhaus eingeliefert. Bei der Operation zeigte sich ein großer, kraterförmiger Ulkus im Antrumbereich des Magens mit harter, porzellanweißer Schnittfläche, die bis in die Muskularis propria reichte. In der Leber wurden mehrere kleine Knoten gefunden, die gemeinsam mit dem Magenresektat zur histopathologischen Untersuchung eingesendet wurden. Die Diagnose lautete: Magenkarzinom mit Lebermetastasen. Welche der folgenden histologischen Veränderungen trifft am ehesten auf die Lebermetastasen bei Thomas zu?\nA. Die Knoten bestehen aus Hepatozyten\nB. Die Knoten bestehen aus Plattenepithelkarzinomzellen\nC. Die Knoten bestehen aus Pseudoläppchen\nD. Die Knoten bestehen aus Siegelringzellen",
+        "target_scores": {
+            "A. Die Knoten bestehen aus Hepatozyten": 0,
+            "B. Die Knoten bestehen aus Plattenepithelkarzinomzellen": 0,
+            "C. Die Knoten bestehen aus Pseudoläppchen": 0,
+            "D. Die Knoten bestehen aus Siegelringzellen": 1
+        }
+    },
+    {
+        "input": "Alex, 5 Jahre alt, zeigt wählerisches Essverhalten und ist untergewichtig. In der ambulanten Sprechstunde wird eine Mangelernährung festgestellt. Der Arzt empfiehlt eine Umstellung der Essgewohnheiten und eine eiweißreichere Ernährung. Was ist der Hauptgrund für diese Empfehlung?\nA. Eiweiße liefern verschiedene Aminosäuren, unterstützen die Komplementarität und fördern das Wachstum\nB. Eiweiße werden direkt zur Energiegewinnung oxidiert und sichern den Energiehaushalt\nC. Eiweiße werden in Fette umgewandelt und dienen so der Energiereserve\nD. Eiweiße werden zu Glukose umgewandelt und dienen so der Energiezufuhr",
+        "target_scores": {
+            "A. Eiweiße liefern verschiedene Aminosäuren, unterstützen die Komplementarität und fördern das Wachstum": 1,
+            "B. Eiweiße werden direkt zur Energiegewinnung oxidiert und sichern den Energiehaushalt": 0,
+            "C. Eiweiße werden in Fette umgewandelt und dienen so der Energiereserve": 0,
+            "D. Eiweiße werden zu Glukose umgewandelt und dienen so der Energiezufuhr": 0
+        }
+    },
+    {
+        "input": "Einzelwahlfrage zur Lungenstauung: Emilia, 60 Jahre alt, weiblich, leidet seit etwa 15 Jahren an einer Mitralklappenstenose. In letzter Zeit hat sich ihre Dyspnoe verschlimmert, zudem hustet sie rosafarbenen Schaumsputum. Welche der folgenden pathologischen Veränderungen passt nicht zum pathomorphologischen Lungenbefund bei Emilia?\nA. Eiweißreiches Exsudat in den Alveolen\nB. Erweiterung der alveolären Kapillaren\nC. Erythrozytenaustritt in die Alveolen\nD. Massive fibrinöse Exsudation in den Alveolen",
+        "target_scores": {
+            "A. Eiweißreiches Exsudat in den Alveolen": 0,
+            "B. Erweiterung der alveolären Kapillaren": 0,
+            "C. Erythrozytenaustritt in die Alveolen": 0,
+            "D. Massive fibrinöse Exsudation in den Alveolen": 1
+        }
+    },
+    {
+        "input": "In der differentialdiagnostischen Beurteilung eines malignen Tumors zeigt die immunhistochemische Färbung eine Positivität für Vimentin und eine Negativität für Zytokeratin. Welcher der folgenden Tumortypen ist damit am wahrscheinlichsten?\nA. Karzinom\nB. Melanom\nC. Neuroendokriner Tumor\nD. Sarkom",
+        "target_scores": {
+            "A. Karzinom": 0,
+            "B. Melanom": 0,
+            "C. Neuroendokriner Tumor": 0,
+            "D. Sarkom": 1
+        }
+    },
+    {
+        "input": "Wenn der arterielle Blutdruck im Bereich von 80 bis 180 mmHg schwankt, bleibt der renale Blutfluss weitgehend konstant. Welcher der folgenden Regulationsmechanismen ist hauptsächlich dafür verantwortlich?\nA. Autoregulation\nB. Parasympathische Regulation\nC. Renin-Angiotensin-System\nD. Sympathisch-adrenomedulläres System",
+        "target_scores": {
+            "A. Autoregulation": 1,
+            "B. Parasympathische Regulation": 0,
+            "C. Renin-Angiotensin-System": 0,
+            "D. Sympathisch-adrenomedulläres System": 0
+        }
+    },
+    {
+        "input": "Beim Steigen und Sinken eines Flugzeugs werden die Passagiere vom Bordpersonal aufgefordert, Schluckbewegungen auszuführen. Welchen Zweck hat diese Maßnahme?\nA. Druckausgleich zwischen Innen- und Außenseite der Membran des ovalen Fensters\nB. Druckausgleich zwischen beiden Seiten der Basilarmembran\nC. Druckausgleich zwischen beiden Seiten der Reissner-Membran\nD. Druckausgleich zwischen der Paukenhöhle und der Außenluft",
+        "target_scores": {
+            "A. Druckausgleich zwischen Innen- und Außenseite der Membran des ovalen Fensters": 0,
+            "B. Druckausgleich zwischen beiden Seiten der Basilarmembran": 0,
+            "C. Druckausgleich zwischen beiden Seiten der Reissner-Membran": 0,
+            "D. Druckausgleich zwischen der Paukenhöhle und der Außenluft": 1
+        }
+    },
+    {
+        "input": "In welcher Phase der Ruheatmung ist der intrapulmonale Druck niedriger als der atmosphärische Druck?\nA. Am Ende der Exspiration\nB. Am Ende der Inspiration\nC. Zu Beginn der Exspiration\nD. Zu Beginn der Inspiration",
+        "target_scores": {
+            "A. Am Ende der Exspiration": 0,
+            "B. Am Ende der Inspiration": 0,
+            "C. Zu Beginn der Exspiration": 0,
+            "D. Zu Beginn der Inspiration": 1
+        }
+    },
+    {
+        "input": "Thomas, 35 Jahre alt, männlich, hatte vor zwei Tagen eine Infektion der oberen Atemwege. Nun zeigt sich eine rasche Verschlechterung mit Fieber (39,8 °C), Schüttelfrost, Thoraxschmerzen, Husten und rostbraunem Sputum. Eine Röntgenaufnahme zeigt eine dichte Verschattung im linken Unterlappen der Lunge. Welche der folgenden Komplikationen ist bei der vermuteten Erkrankung am wenigsten typisch?\nA. Auftreten eines infektiösen Schocks\nB. Ausbildung eines Lungenabszesses\nC. Entwicklung einer Bronchiektasie\nD. Übergang in eine Hepatisation",
+        "target_scores": {
+            "A. Auftreten eines infektiösen Schocks": 0,
+            "B. Ausbildung eines Lungenabszesses": 0,
+            "C. Entwicklung einer Bronchiektasie": 1,
+            "D. Übergang in eine Hepatisation": 0
+        }
+    },
+    {
+        "input": "Bei einer einzelnen Nervenfaser, wie verändert sich die Amplitude des Aktionspotenzials, wenn die Reizstärke im Vergleich zur Reizschwelle verdoppelt wird?\nA. Sie bleibt unverändert.\nB. Sie halbiert sich.\nC. Sie verdoppelt sich.\nD. Sie verdreifacht sich.",
+        "target_scores": {
+            "A. Sie bleibt unverändert.": 1,
+            "B. Sie halbiert sich.": 0,
+            "C. Sie verdoppelt sich.": 0,
+            "D. Sie verdreifacht sich.": 0
+        }
+    },
+    {
+        "input": "Unter der Voraussetzung, dass die Vorlast konstant bleibt: Bei welchem Wert der Nachlast erreicht die anfängliche Kontraktionsgeschwindigkeit eines Muskels ihren maximalen Wert?\nA. Wenn die Nachlast null ist\nB. Wenn die Nachlast sehr gering ist\nC. Wenn die Nachlast unendlich groß ist\nD. Wenn die Nachlast zu groß ist",
+        "target_scores": {
+            "A. Wenn die Nachlast null ist": 1,
+            "B. Wenn die Nachlast sehr gering ist": 0,
+            "C. Wenn die Nachlast unendlich groß ist": 0,
+            "D. Wenn die Nachlast zu groß ist": 0
+        }
+    },
+    {
+        "input": "Thomas, 50 Jahre alt, männlich, wurde wegen eines Leistenbruchs rechts operiert. Wann erreicht die Zugfestigkeit der Wundnaht nach der Hernioplastik typischerweise ihren Höchstwert?\nA. Nach 2 Monaten\nB. Nach 3 Monaten\nC. Nach 3 Wochen\nD. Nach 5 Wochen",
+        "target_scores": {
+            "A. Nach 2 Monaten": 0,
+            "B. Nach 3 Monaten": 1,
+            "C. Nach 3 Wochen": 0,
+            "D. Nach 5 Wochen": 0
+        }
+    },
+    {
+        "input": "Emilia, 26 Jahre alt, weiblich, bemerkt im oberen äußeren Quadranten der rechten Brust einen etwa 2 cm großen, runden Tumor. Der Knoten ist gut abgrenzbar, glatt an der Oberfläche, verschieblich und nicht schmerzhaft.\nWelche der folgenden Diagnosen ist am wahrscheinlichsten?\nA. Fibroadenom der Brust\nB. Mammafibrom\nC. Mammakarzinom\nD. Mastopathie",
+        "target_scores": {
+            "A. Fibroadenom der Brust": 1,
+            "B. Mammafibrom": 0,
+            "C. Mammakarzinom": 0,
+            "D. Mastopathie": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Aussagen über die Effekte von Katecholaminen nach Bindung an Beta-Adrenozeptoren ist falsch?\nA. Abschwächung der Herzaktivität\nB. Erschlaffung der glatten Muskulatur im Dünndarm\nC. Uterusrelaxation\nD. Vasodilatation",
+        "target_scores": {
+            "A. Abschwächung der Herzaktivität": 1,
+            "B. Erschlaffung der glatten Muskulatur im Dünndarm": 0,
+            "C. Uterusrelaxation": 0,
+            "D. Vasodilatation": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden Substanzen dient sowohl als Energiespeicherform als auch als unmittelbar verwertbares Energiesubstrat im Körper?\nA. Adenosindiphosphat (ADP)\nB. Adenosintriphosphat (ATP)\nC. Fettsäuren\nD. Glukose",
+        "target_scores": {
+            "A. Adenosindiphosphat (ADP)": 0,
+            "B. Adenosintriphosphat (ATP)": 1,
+            "C. Fettsäuren": 0,
+            "D. Glukose": 0
+        }
+    },
+    {
+        "input": "Emilia, 40 Jahre alt, weiblich, klagt seit einem Jahr über Schmerzen in der linken Flanke. Sie berichtet über blutigen Urin, gelegentlich auch eitrigen Urin. In der Urindiagnostik wurden Tuberkelbakterien nachgewiesen. Die Pyelographie zeigt eine Höhlenbildung in der linken Niere.\nWelche der folgenden Diagnosen passt am besten zu Emilias Befunden?\nA. Hydronephrose der linken Niere\nB. Nierentuberkulose links\nC. Nierenzellkarzinom links\nD. Urolithiasis der linken Niere",
+        "target_scores": {
+            "A. Hydronephrose der linken Niere": 0,
+            "B. Nierentuberkulose links": 1,
+            "C. Nierenzellkarzinom links": 0,
+            "D. Urolithiasis der linken Niere": 0
+        }
+    },
+    {
+        "input": "Welche der folgenden präkanzerösen Veränderungen weist das höchste Risiko für eine maligne Entartung auf?\nA. Atypische Hyperplasie\nB. Chronisch atrophische Gastritis\nC. Intestinale Metaplasie\nD. Magengeschwür",
+        "target_scores": {
+            "A. Atypische Hyperplasie": 1,
+            "B. Chronisch atrophische Gastritis": 0,
+            "C. Intestinale Metaplasie": 0,
+            "D. Magengeschwür": 0
+        }
+    },
+    {
+        "input": "Emilia, 30 Jahre alt, weiblich, leidet an einer Tuberkulose der Lendenwirbelsäule, bei der sich ein kalter Abszess am Rücken gebildet hat. Der Abszess ist durchgebrochen, und aus der Öffnung entleert sich kontinuierlich Eiter.\nWie wird diese Läsion am ehesten bezeichnet?\nA. Fistel\nB. Kavität\nC. Sinus\nD. Ulkus",
+        "target_scores": {
+            "A. Fistel": 0,
+            "B. Kavität": 0,
+            "C. Sinus": 1,
+            "D. Ulkus": 0
+        }
+    },
+    {
+        "input": "Alex zeigt Symptome wie Polyphagie, Polydipsie und Polyurie.\nDie Blutzuckerkonzentration beträgt 200 mg/dl, im Urin ist Glukose nachweisbar. Was ist der Hauptgrund für die vermehrte Urinausscheidung bei Alex?\nA. Erhöhte Konzentration osmotisch aktiver Substanzen in den Tubuli\nB. Erhöhte glomeruläre Filtrationsrate\nC. Erhöhter kristalloider osmotischer Druck im Plasma\nD. Verminderte Rückresorption in den Tubuli",
+        "target_scores": {
+            "A. Erhöhte Konzentration osmotisch aktiver Substanzen in den Tubuli": 1,
+            "B. Erhöhte glomeruläre Filtrationsrate": 0,
+            "C. Erhöhter kristalloider osmotischer Druck im Plasma": 0,
+            "D. Verminderte Rückresorption in den Tubuli": 0
+        }
+    },
+    {
+        "input": "Emilia, 60 Jahre alt, weiblich. Das eingesandte Untersuchungsmaterial stammt aus einer Blasentumorresektion. Makroskopisch zeigt sich ein etwa 3 cm großer, papillärer Tumor mit Ulzerationen auf der Oberfläche. Der Tumor ist grau-weißlich im Anschnitt, von fester Konsistenz und infiltriert die Muskelschicht der Harnblasenwand.\nWelche der folgenden Diagnosen ist am wahrscheinlichsten?\nA. Leiomyom\nB. Plattenepithelkarzinom\nC. Undifferenziertes Karzinom\nD. Urothelkarzinom",
+        "target_scores": {
+            "A. Leiomyom": 0,
+            "B. Plattenepithelkarzinom": 0,
+            "C. Undifferenziertes Karzinom": 0,
+            "D. Urothelkarzinom": 1
+        }
+    },
+    {
+        "input": "Emilia, 18 Jahre alt, weiblich, wird mit Fieber, Übelkeit, Erbrechen, Somnolenz, Gelbfärbung der Haut und Skleren sowie Schmerzen im rechten Oberbauch seit einer Woche stationär aufgenommen. Laborwerte: ALT 150 U/L, Bilirubin 35 mg/dl, $HBsAg(+)$. Zwei Tage nach der Aufnahme entwickelt sie Foetor hepaticus und fällt ins Koma. Sie verstirbt schließlich an massiven gastrointestinalen Blutungen.\nWelche der folgenden histopathologischen Leberveränderungen ist bei Emilia am wahrscheinlichsten?\nA. Fokale Nekrose\nB. Massive Nekrose\nC. Mottenfraßnekrose\nD. Submassive Nekrose",
+        "target_scores": {
+            "A. Fokale Nekrose": 0,
+            "B. Massive Nekrose": 1,
+            "C. Mottenfraßnekrose": 0,
+            "D. Submassive Nekrose": 0
+        }
+    },
+    {
+        "input": "Thomas, 16 Jahre alt, männlich, hat sich an der linken Hand verbrannt. Es zeigen sich Rötung, Schwellung und einige Blasen, jedoch keine Anzeichen einer Infektion. Nach der Behandlung heilt die Verletzung vollständig ab.\nWelche histopathologischen Veränderungen sind am ehesten im betroffenen Hautareal zu erwarten?\nA. Bildung einer fibrösen Narbe\nB. Vermehrung der Kapillargefäße\nC. Wiederherstellung normaler Hautstruktur\nD. Zerstörung der Hautanhangsgebilde",
+        "target_scores": {
+            "A. Bildung einer fibrösen Narbe": 0,
+            "B. Vermehrung der Kapillargefäße": 0,
+            "C. Wiederherstellung normaler Hautstruktur": 1,
+            "D. Zerstörung der Hautanhangsgebilde": 0
+        }
+    },
+    {
+        "input": "Das Auftreten einer Plattenepithelmetaplasie im Bronchialepithel gehört typischerweise zu welcher Art von Veränderung?\nA. Adaptive Veränderung\nB. Atypische Hyperplasie\nC. Dysplasie\nD. Unvollständige Regeneration",
+        "target_scores": {
+            "A. Adaptive Veränderung": 1,
+            "B. Atypische Hyperplasie": 0,
+            "C. Dysplasie": 0,
+            "D. Unvollständige Regeneration": 0
+        }
+    },
+    {
+        "input": "Ein gesunder Erwachsener muss täglich etwa 900 mmol gelöste Stoffe ausscheiden. Ein Patient hat eine Störung der Harnkonzentrations- und -verdünnungsfunktion. Seine maximale Urinosmolalität beträgt 300 mmol/L. Wie viel Wasser muss er mindestens täglich trinken, um eine Erhöhung der Osmolalität der Körperflüssigkeiten zu vermeiden, wenn man davon ausgeht, dass er zusätzlich etwa 1,5 Liter Wasser pro Tag durch unsichtbare Verluste (z. B. Schweiß, Atmung) verliert?\nA. 1 Liter\nB. 3 Liter\nC. 4,5 Liter\nD. 6 Liter",
+        "target_scores": {
+            "A. 1 Liter": 0,
+            "B. 3 Liter": 0,
+            "C. 4,5 Liter": 1,
+            "D. 6 Liter": 0
+        }
+    },
+    {
+        "input": "Wenn eine Substanz in der Nierenarterie in bestimmter Konzentration vorhanden ist, jedoch in der Nierenvene überhaupt nicht mehr nachweisbar ist, wie lässt sich die Plasmaclearance dieser Substanz am ehesten charakterisieren?\nA. Sie beträgt null\nB. Sie entspricht dem renalen Blutfluss pro Minute\nC. Sie entspricht dem renalen Plasmastrom pro Minute\nD. Sie entspricht der glomerulären Filtrationsrate (GFR)",
+        "target_scores": {
+            "A. Sie beträgt null": 0,
+            "B. Sie entspricht dem renalen Blutfluss pro Minute": 0,
+            "C. Sie entspricht dem renalen Plasmastrom pro Minute": 1,
+            "D. Sie entspricht der glomerulären Filtrationsrate (GFR)": 0
+        }
+    },
+    {
+        "input": "Alex kann nicht schreiben, obwohl andere sprachliche Fähigkeiten intakt sind und keine motorischen Einschränkungen an der Hand vorliegen. Welche der folgenden Hirnregionen ist bei Alex am wahrscheinlichsten geschädigt?\nA. Hinterer Teil des Gyrus frontalis medius\nB. Hinterer Teil des Gyrus temporalis superior\nC. Hinteres Drittel des Gyrus frontalis inferior\nD. Posteriorer Teil der Basis des Gyrus praecentralis",
+        "target_scores": {
+            "A. Hinterer Teil des Gyrus frontalis medius": 1,
+            "B. Hinterer Teil des Gyrus temporalis superior": 0,
+            "C. Hinteres Drittel des Gyrus frontalis inferior": 0,
+            "D. Posteriorer Teil der Basis des Gyrus praecentralis": 0
+        }
+    },
+    {
+        "input": "Alex hat eine Gesamtzahl der Leukozyten von $11 \\times 10^9/L$. Davon entfallen$5 \\times 10^9/L$ auf neutrophile Granulozyten und $3 \\times 10^9/L$ auf eosinophile Granulozyten.\nWelche der folgenden Bedingungen passt am besten zu diesem Befund?\nA. Gesunder Erwachsener\nB. Hochlandbewohner\nC. Patient mit Bilharziose (Schistosomiasis)\nD. Säugling",
+        "target_scores": {
+            "A. Gesunder Erwachsener": 0,
+            "B. Hochlandbewohner": 0,
+            "C. Patient mit Bilharziose (Schistosomiasis)": 1,
+            "D. Säugling": 0
+        }
+    },
+    {
+        "input": "Bei Hirnverletzungen kann eine übermäßige Proliferation von Gliazellen zur Funktionsminderung führen.\nWelche der folgenden beeinträchtigten Funktionen steht am ehesten im Zusammenhang mit der Entstehung eines lokalen epileptischen Fokus?\nA. Barrierefunktion\nB. Isolationsfunktion\nC. K⁺-Pumpfähigkeit\nD. Trophische Funktion",
+        "target_scores": {
+            "A. Barrierefunktion": 0,
+            "B. Isolationsfunktion": 0,
+            "C. K⁺-Pumpfähigkeit": 1,
+            "D. Trophische Funktion": 0
+        }
+    },
+    {
+        "input": "Unter normalen Bedingungen beträgt der intrapleurale Druck am Ende der Ruheexspiration etwa -5 bis -3 mmHg.\nWelcher intrapleurale Druck ist typischerweise am Ende der Ruheatmungspiration messbar?\nA. +5bis+10 mmHg\nB. -10 bis - 5 mmHg\nC. -3 bis +5 mmHg\nD. 0 bis +5  mmHg",
+        "target_scores": {
+            "A. +5bis+10 mmHg": 0,
+            "B. -10 bis - 5 mmHg": 1,
+            "C. -3 bis +5 mmHg": 0,
+            "D. 0 bis +5  mmHg": 0
+        }
+    },
+    {
+        "input": "Ein Abschnitt einer mRNA weist aufgrund einer Mutation in der DNA-Vorlage eine Veränderung am 91. Codon auf. Dieses Codon ändert sich von UAG zu UAA.\nWelche Art der Mutation liegt in diesem Fall am ehesten vor?\nA. Leserasterverschiebung (Frameshift-Mutation)\nB. Missense-Mutation\nC. Nonsense-Mutation\nD. Stille Mutation",
+        "target_scores": {
+            "A. Leserasterverschiebung (Frameshift-Mutation)": 0,
+            "B. Missense-Mutation": 0,
+            "C. Nonsense-Mutation": 0,
+            "D. Stille Mutation": 1
+        }
+    },
+    {
+        "input": "Thomas, 73 Jahre alt, männlich, hat keine Vorgeschichte mit Bluthochdruck. Vor drei Tagen verspürte er plötzlich eine Schwere im rechten Bein mit Bewegungseinschränkung, begleitet von Bewegungseinschränkungen im rechten Arm. Seit einem Tag kann er seine rechte Körperhälfte nicht mehr bewegen. Welche der folgenden Diagnosen beschreibt den Zustand von Thomas am wahrscheinlichsten?\nA. Hirnabszess\nB. Hirnblutung\nC. Hirntumor\nD. Zerebrale Arteriosklerose mit Thrombosebildung",
+        "target_scores": {
+            "A. Hirnabszess": 0,
+            "B. Hirnblutung": 0,
+            "C. Hirntumor": 0,
+            "D. Zerebrale Arteriosklerose mit Thrombosebildung": 1
+        }
+    },
+    {
+        "input": "Bei einer akuten Pankreatitis können sogenannte Seifenherde beobachtet werden.\nWelche Art von Nekrose liegt in diesen Fällen am ehesten vor?\nA. Fettnekrose\nB. Koagulationsnekrose\nC. Kolliquationsnekrose\nD. käsige Nekrose",
+        "target_scores": {
+            "A. Fettnekrose": 1,
+            "B. Koagulationsnekrose": 0,
+            "C. Kolliquationsnekrose": 0,
+            "D. käsige Nekrose": 0
+        }
+    },
+    {
+        "input": "In welchem der folgenden Krankheitsbilder kommt eine Amyloidose am seltensten vor?\nA. Arteriosklerose\nB. Erkrankungen des Knochenmarks\nC. Medulläres Schilddrüsenkarzinom\nD. Tuberkulose",
+        "target_scores": {
+            "A. Arteriosklerose": 1,
+            "B. Erkrankungen des Knochenmarks": 0,
+            "C. Medulläres Schilddrüsenkarzinom": 0,
+            "D. Tuberkulose": 0
+        }
+    },
+    {
+        "input": "Wenn die absolute Refraktärzeit einer Zelle 2 ms beträgt, wie viele Aktionspotenziale können theoretisch maximal pro Sekunde ausgelöst und weitergeleitet werden?\nA. 100 Impulse\nB. 400 Impulse\nC. 50 Impulse\nD. 500 Impulse",
+        "target_scores": {
+            "A. 100 Impulse": 0,
+            "B. 400 Impulse": 0,
+            "C. 50 Impulse": 0,
+            "D. 500 Impulse": 1
+        }
+    },
+    {
+        "input": "Bei welcher der folgenden Erkrankungen des Glomerulus zeigt sich unter dem Elektronenmikroskop eine \"Kammzahnstruktur\", bei der sich Ausläufer der glomerulären Basalmembran senkrecht zur Membran erstrecken und mit ihr verbunden sind?\nA. Halbmondförmige Glomerulonephritis\nB. Membranoproliferative Glomerulonephritis Typ I\nC. Membranoproliferative Glomerulonephritis Typ II\nD. Membranöse Glomerulonephritis",
+        "target_scores": {
+            "A. Halbmondförmige Glomerulonephritis": 0,
+            "B. Membranoproliferative Glomerulonephritis Typ I": 0,
+            "C. Membranoproliferative Glomerulonephritis Typ II": 0,
+            "D. Membranöse Glomerulonephritis": 1
+        }
+    },
+    {
+        "input": "Emilia, 58 Jahre alt, weiblich, wurde wegen eines Knotens im oberen äußeren Quadranten der linken Brust mit begleitender Lymphknotenschwellung in der Achselregion stationär aufgenommen. Die histopathologische Untersuchung des Operationspräparats ergab ein invasives duktales Mammakarzinom der linken Brust mit Lymphknotenmetastasen (2 von 10 befallenen Lymphknoten). Welche der folgenden pathologischen Veränderungen steht am engsten im Zusammenhang mit der Metastasierung dieses Tumors?\nA. Auftreten von Nekroseherden\nB. Erhöhte Expression von Keratin\nC. Vermehrung von Lamininrezeptoren\nD. Zunahme der Apoptose",
+        "target_scores": {
+            "A. Auftreten von Nekroseherden": 0,
+            "B. Erhöhte Expression von Keratin": 0,
+            "C. Vermehrung von Lamininrezeptoren": 1,
+            "D. Zunahme der Apoptose": 0
+        }
+    },
+    {
+        "input": "Zwei Tage nach einer Quetschverletzung am Finger treten zunehmende Schmerzen, Rötung und Schwellung auf. Die Entzündung breitet sich in Richtung der Handfläche aus, und es gibt keine deutliche Abgrenzung zum gesunden Gewebe.\nWelche der folgenden Diagnosen ist am wahrscheinlichsten?\nA. Abszess\nB. Fibrinöse Entzündung\nC. Phlegmone\nD. Seröse Entzündung",
+        "target_scores": {
+            "A. Abszess": 0,
+            "B. Fibrinöse Entzündung": 0,
+            "C. Phlegmone": 1,
+            "D. Seröse Entzündung": 0
+        }
+    },
+    {
+        "input": "Thomas, 8 Jahre alt, männlich, zeigt seit einem Jahr Symptome wie leichtes Fieber, Müdigkeit, Schwäche, nächtliches Schwitzen und Husten. Eine Röntgenaufnahme zeigt im oberen Bereich des rechten Unterlappens in der Nähe der Pleura eine unscharf begrenzte Verschattung. Mehrere Lymphknoten im Lungenhilus erscheinen vergrößert. Der Tuberkulintest fällt positiv aus.\nWelche der folgenden Diagnosen ist am wahrscheinlichsten?\nA. Chronisch-fibrosierende kavernöse Tuberkulose\nB. Infiltrative Lungentuberkulose\nC. Lokalisierte Herdtuberkulose\nD. Primäre Lungentuberkulose mit lymphogener Ausbreitung",
+        "target_scores": {
+            "A. Chronisch-fibrosierende kavernöse Tuberkulose": 0,
+            "B. Infiltrative Lungentuberkulose": 0,
+            "C. Lokalisierte Herdtuberkulose": 0,
+            "D. Primäre Lungentuberkulose mit lymphogener Ausbreitung": 1
+        }
+    },
+    {
+        "input": "Thomas, 10 Jahre alt, männlich, hatte vor zwei Wochen eine Tonsillitis, die sich unter Behandlung gebessert hat. Seit zwei Tagen zeigt er nun Augenlidödeme, Oligurie, Hämaturie, eine starke Proteinurie (+++) sowie einen Blutdruckanstieg auf 150/90 mmHg.\nWelche der folgenden Diagnosen beschreibt den aktuellen Zustand von Thomas am wahrscheinlichsten?\nA. Akutes nephritisches Syndrom\nB. Chronisches nephritisches Syndrom\nC. Latentes nephritisches Syndrom\nD. Rasch progredientes nephritisches Syndrom",
+        "target_scores": {
+            "A. Akutes nephritisches Syndrom": 1,
+            "B. Chronisches nephritisches Syndrom": 0,
+            "C. Latentes nephritisches Syndrom": 0,
+            "D. Rasch progredientes nephritisches Syndrom": 0
+        }
+    },
+    {
+        "input": "Emilia, 50 Jahre alt, weiblich, bemerkt seit fünf Jahren einen Tumor im Rückenbereich, der langsam an Größe zugenommen hat. Bei der Untersuchung zeigt sich ein etwa 5 cm großer Tumor mit klaren Grenzen und guter Verschieblichkeit.\nDer Tumor wird operativ entfernt und zeigt sich makroskopisch als gelblicher, gelappter Knoten mit weicher Konsistenz und intakter Kapsel. Welche der folgenden Diagnosen ist am wahrscheinlichsten?\nA. Fibrom\nB. Hämangiom\nC. Leiomyom\nD. Lipom",
+        "target_scores": {
+            "A. Fibrom": 0,
+            "B. Hämangiom": 0,
+            "C. Leiomyom": 0,
+            "D. Lipom": 1
+        }
+    },
+    {
+        "input": "Bei der physiologischen Hämostase wird die Phospholipase A2 in Thrombozyten aktiviert. Welcher der folgenden Mediatoren wird daraufhin hauptsächlich in den Thrombozyten synthetisiert und freigesetzt?\nA. Adenosindiphosphat (ADP)\nB. Adenosintriphosphat (ATP)\nC. Plättchenaktivierender Faktor (PAF)\nD. Thromboxan A2 (TXA2)",
+        "target_scores": {
+            "A. Adenosindiphosphat (ADP)": 0,
+            "B. Adenosintriphosphat (ATP)": 0,
+            "C. Plättchenaktivierender Faktor (PAF)": 0,
+            "D. Thromboxan A2 (TXA2)": 1
+        }
+    },
+    {
+        "input": "Welche der folgenden histologischen Typen des Endometriumkarzinoms steht am engsten im Zusammenhang mit einer Metaplasie?\nA. Endometrioides Adenokarzinom\nB. Klarzellkarzinom\nC. Plattenepithelkarzinom\nD. Seröses Adenokarzinom",
+        "target_scores": {
+            "A. Endometrioides Adenokarzinom": 0,
+            "B. Klarzellkarzinom": 0,
+            "C. Plattenepithelkarzinom": 1,
+            "D. Seröses Adenokarzinom": 0
+        }
+    },
+    {
+        "input": "Eine Rh-negative Mutter bringt ein Rh-positives Kind zur Welt.\nWelche der folgenden Erkrankungen kann in diesem Fall am ehesten auftreten?\nA. Hämolytische Anämie des Neugeborenen\nB. Hämophilie\nC. Megaloblastäre Anämie\nD. Polyzythämie",
+        "target_scores": {
+            "A. Hämolytische Anämie des Neugeborenen": 1,
+            "B. Hämophilie": 0,
+            "C. Megaloblastäre Anämie": 0,
+            "D. Polyzythämie": 0
+        }
+    },
+    {
+        "input": "Emilia, 28 Jahre alt, weiblich, stellt sich aufgrund eines Unterbauchbeschwerdebildes vor. Bei der Untersuchung tastet man einen Tumor im Unterbauchbereich. Eine Hysterektomie wird durchgeführt. Makroskopisch zeigt sich im Myometrium ein gut begrenzter, grauweiß-gelblich erscheinender Knoten mit einem Durchmesser von 2 cm. Mikroskopisch erkennt man gleichförmige Tumorzellen mit homogener Färbung. Es sind seltene Mitosen zu sehen (3 pro 10 Gesichtsfelder). Der Tumor ist stark vaskularisiert, jedoch ohne Gefäßinvasion. Immunhistochemisch zeigt sich DES negativ und CD10 positiv.\nWelche der folgenden Diagnosen ist am wahrscheinlichsten?\nA. Endometriales Stromanodul\nB. Leiomyom des Uterus\nC. Leiomyosarkom des Uterus\nD. Undifferenziertes Sarkom des Uterus",
+        "target_scores": {
+            "A. Endometriales Stromanodul": 1,
+            "B. Leiomyom des Uterus": 0,
+            "C. Leiomyosarkom des Uterus": 0,
+            "D. Undifferenziertes Sarkom des Uterus": 0
+        }
+    }
+]

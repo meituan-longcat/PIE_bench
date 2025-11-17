@@ -1,0 +1,390 @@
+[
+    {
+        "input": "Un grupo de estudiantes de una clase organizó un paseo al parque. Los 50 estudiantes de la clase realizaron una actividad de remo (las normas indican: cada barca grande puede llevar hasta 6 personas, cada barca pequeña hasta 4 personas, el alquiler de una barca grande cuesta 10 euros y el de una pequeña 8 euros). Alquilaron un total de 10 barcas, todas completamente llenas. ¿Cuántas barcas grandes alquilaron?",
+        "target": "5 barcas"
+    },
+    {
+        "input": "Un barco navega entre los muelles A y B. Con la corriente a favor tarda 5 horas y contra la corriente 7 horas. Sabiendo que la velocidad de la corriente es de 5 km/h, ¿cuál es la distancia entre A y B en kilómetros?",
+        "target": "175 kilómetros"
+    },
+    {
+        "input": "Cuando Paco le preguntó su edad al profesor Juan, este respondió: \"Cuando yo tenía tu edad, tú solo tenías 3 años. Cuando tú tengas mi edad actual, yo tendré 45 años\". ¿Cuántos años tiene actualmente el profesor Juan?",
+        "target": "31 años"
+    },
+    {
+        "input": "Un trabajador planeó originalmente fabricar un lote de piezas dentro de un tiempo límite. Si produce 10 piezas por hora, superaría la cuota en 3 unidades. Si produce 11 piezas por hora, terminaría una hora antes. ¿Cuántas piezas hay en total?",
+        "target": "77 piezas"
+    },
+    {
+        "input": "En una línea ferroviaria hay dos estaciones, A y B, separadas por 408 km. Un tren lento sale de A a 72 km/h y un tren rápido sale de B a 96 km/h. ¿Cuántas horas tardarán en estar separados por 660 km si circulan en direcciones opuestas?",
+        "target": "1,5 horas"
+    },
+    {
+        "input": "En el departamento de ropa del Centro Comercial Belleza observaron: la marca infantil \"Tígre\" vende un promedio de 20 unidades diarias con una ganancia de 40 euros por pieza. Por cada euro de reducción en el precio, se venden 2 unidades más al día. Si el centro comercial desea una ganancia diaria de 1.200 euros, ¿cuántos euros como máximo debe reducirse el precio por prenda?",
+        "target": "20 euros"
+    },
+    {
+        "input": "Para procesar cierta pieza, A trabajando solo tarda 20 días en completarla, mientras que B solo necesita 10 días. Si se exige que ambos terminen la tarea en 12 días, ¿cuántos días debe trabajar B antes de que A continúe para cumplir el plazo exactamente?",
+        "target": "8 días"
+    },
+    {
+        "input": "Un proyecto se completa en 10 días si solo trabaja A, o en 15 días si solo trabaja B. Si A trabaja primero 5 días y luego colaboran A y B para finalizar dos tercios del proyecto total, ¿cuántos días se requieren en total?",
+        "target": "6 días"
+    },
+    {
+        "input": "Una camisa tiene un precio de lista de 100 euros por unidad. Si se vende al 80% del precio marcado, aún se obtiene una ganancia del 25%. ¿Cuál es el costo de adquisición por camisa?",
+        "target": "64 euros"
+    },
+    {
+        "input": "1 taza y 1 tetera cuestan 45 euros. Si 3 tazas y 2 teteras cuestan 99 euros, ¿cuál es el precio de 1 taza?",
+        "target": "9 euros"
+    },
+    {
+        "input": "Una clase recibió un lote de boletos para vender. Si cada estudiante recibe 9 boletos, sobran 24; si cada uno recibe 10, faltan 16. ¿Cuántos estudiantes hay en la clase?",
+        "target": "40 personas"
+    },
+    {
+        "input": "Durante una promoción, Miguel compró un conjunto de ropa por 400 euros. La chaqueta tenía un descuento del 20% y los pantalones del 30%. El precio total original de ambas prendas era 540 euros. ¿Cuál era el precio original de la chaqueta?",
+        "target": "220 euros"
+    },
+    {
+        "input": "Pablo y Miguel salieron juntos de la escuela hacia el museo de ciencia. Pablo camina a 6 km/h y Miguel a 8 km/h. Tras 1 hora, Miguel regresó a la escuela por materiales olvidados y luego partió nuevamente para alcanzar a Pablo. ¿Cuántas horas después de partir de la escuela alcanzará Miguel a Pablo?",
+        "target": "6 horas"
+    },
+    {
+        "input": "Una tienda mayorista vende camisas de una marca. Originalmente ganaba 30 euros por pieza. En temporada baja, al reducir x euros por prenda, vende (20 + x) unidades diarias. Para obtener 616 euros de ganancia diaria y reducir inventario rápidamente, ¿cuántos euros debe rebajarse por camisa?",
+        "target": "8 euros"
+    },
+    {
+        "input": "Una empresa de desarrollo fabricó cierta cantidad de un nuevo producto que requiere acabado fino antes de su lanzamiento. Las fábricas A y B desean procesar este lote. Se sabe que A y B pueden procesar 16 y 24 unidades diarias respectivamente, y que A tardaría 20 días más que B en completar el lote individualmente. ¿Cuántas unidades componen el lote total?",
+        "target": "960 unidades"
+    },
+    {
+        "input": "Una compañía de telecomunicaciones ofrece dos tarjetas SIM: la tipo A sin cuota mensual, cobrando 0,6 euros por minuto de llamada; y la tipo B con cuota fija de 40 euros mensuales más 0,4 euros por minuto adicional. ¿A cuántos minutos de uso mensual se iguala el costo de ambas tarjetas?",
+        "target": "200 minutos"
+    },
+    {
+        "input": "Pedro compró dos pares de zapatos con un 20% de descuento, ahorrando 20 euros respecto al precio original. ¿Cuánto pagó realmente por los dos pares?",
+        "target": "80 euros"
+    },
+    {
+        "input": "Las estaciones A y B están separadas por 480 kilómetros. Un tren lento sale de la estación A a una velocidad de 90 km/h, mientras que un tren rápido sale de la estación B a 140 km/h. Ambos trenes parten simultáneamente en la misma dirección (el tren lento detrás del rápido). ¿Cuántas horas después de la salida la distancia entre el tren rápido y el tren lento será de 600 kilómetros?",
+        "target": "2,4 horas"
+    },
+    {
+        "input": "La edad actual de un abuelo es cinco veces la de su nieto. Dentro de 12 años, la edad del abuelo será el triple que la del nieto. ¿Qué edad tiene el nieto actualmente?",
+        "target": "12 años"
+    },
+    {
+        "input": "Una escuela organizó un torneo de baloncesto para estudiantes de tercer año, por clases. Cada dos clases compiten una vez. Si se programan 15 partidos, ¿cuántas clases participan?",
+        "target": "6 clases"
+    },
+    {
+        "input": "El departamento de salud estudió un tipo de gripe: si una persona se infecta, después de dos rondas de contagio hay 100 infectados. Si la velocidad de contagio se mantiene, ¿cuántas personas habrán infectadas tras la tercera ronda?",
+        "target": "1.000 personas"
+    },
+    {
+        "input": "Los deportistas de una escuela se dividen en grupos para entrenar. Si se forman grupos de 7 personas, sobran 5; si se forman de 8, faltan 3. ¿Cuántos deportistas hay en total?",
+        "target": "61 personas"
+    },
+    {
+        "input": "Un centro comercial vende camisas de marca: vende 20 unidades diarias con una ganancia de 40 euros por pieza. Para aumentar ventas y reducir inventario, decide rebajar el precio. Por cada reducción de 4 euros por camisa, se venden 8 unidades más al día. Si la ganancia diaria requerida es 1200 euros, ¿cuánto como máximo debe rebajarse por camisa?",
+        "target": "20 euros"
+    },
+    {
+        "input": "La tienda de frutas de la Sra. Navarro compra cierta fruta a 4 euros por kg y la vende a 6 euros/kg, vendiendo 150 kg diarios. Por cada reducción de 0,1 euros en el precio, se venden 30 kg más al día. Para garantizar ventas diarias de al menos 360 kg y una ganancia de 450 euros, ¿cuánto debe reducirse el precio por kg?",
+        "target": "1 euro"
+    },
+    {
+        "input": "Varias personas siembran árboles juntas. Si cada una siembra 12, sobran 6 plántulas; si cada una siembra 15, faltan 6 plántulas. ¿Cuántas personas participaron en la siembra?",
+        "target": "4 personas"
+    },
+    {
+        "input": "Un abrigo tiene un costo de 360 euros y un precio marcado de 600. Para lograr un beneficio del 25%, ¿qué porcentaje de descuento debe aplicarse al precio de venta?",
+        "target": "25% de descuento"
+    },
+    {
+        "input": "Organizar libros toma 60 horas si lo hace una sola persona. Primero, un grupo trabaja 1 hora, luego se unen 15 personas más durante 2 horas, completando la tarea. Suponiendo eficiencia igual, ¿cuántas personas estaban en el grupo inicial?",
+        "target": "10 personas"
+    },
+    {
+        "input": "Una empresa produce un artículo con costo unitario de 400 euros y precio de venta de 505. Al reducir el precio un 4%, las ventas aumentan un 5%. ¿Cuánto debe disminuirse el costo unitario para mantener la misma ganancia total?",
+        "target": "15,2 euros"
+    },
+    {
+        "input": "En eliminatorias mundialistas de fútbol con formato local-visitante, donde cada par de equipos juega dos veces, se realizaron 110 partidos. ¿Cuántos equipos participaron?",
+        "target": "11 equipos"
+    },
+    {
+        "input": "Bajo una velocidad del viento de 25 kilómetros por hora, un avión tarda 2,8 horas en volar con el viento desde el aeropuerto A hasta el aeropuerto B. Al volar en contra del viento en la misma ruta, tarda 3 horas. ¿Cuál es la distancia entre los aeropuertos A y B en kilómetros?",
+        "target": "2.100 kilómetros"
+    },
+    {
+        "input": "En un centro comercial, el precio de una chaqueta se marca aumentando un 50% sobre el costo. Luego, para promocionar, se vende al 80% del precio marcado, obteniendo 240 euros por cada venta. ¿Cuál es el costo por chaqueta?",
+        "target": "200 euros"
+    },
+    {
+        "input": "Un tipo de ropa que originalmente costaba 150 euros por pieza, después de dos descuentos, ahora se vende a 96 euros por pieza. ¿Cuál es el porcentaje promedio de descuento en cada reducción?",
+        "target": "20%"
+    },
+    {
+        "input": "Una persona contrae gripe. Después de dos rondas de contagio, hay 100 infectados en total. ¿Cuántas personas en promedio contagia cada individuo en cada ronda?",
+        "target": "9 personas"
+    },
+    {
+        "input": "Al inicio del año escolar, un padre pregunta al profesor cuántos estudiantes hay en clase. El profesor responde: \"Si llega un grupo igual al número actual de alumnos, más la mitad de los actuales, más un cuarto de los actuales, y si tu hijo también se matricula, habría exactamente 100 personas\". Calcula cuántos estudiantes hay actualmente en la clase.",
+        "target": "36 personas"
+    },
+    {
+        "input": "Un huerto planeó originalmente sembrar 100 melocotoneros, cada uno produciendo 1000 melocotones. Para aumentar la producción, se descubrió que por cada árbol adicional sembrado (sin exceder 100), la producción por árbol disminuye 2 unidades. Si se busca un incremento del 0.152 en la producción total, ¿cuántos árboles adicionales deben sembrarse?",
+        "target": "20 árboles"
+    },
+    {
+        "input": "Miguel va a comprar lápices. El vendedor le dice: \"Si compras más, hay un 20% de descuento\". Miguel calcula que comprando 50 lápices ahorraría 6 euros respecto al precio original. ¿Cuál es el precio original por lápiz?",
+        "target": "0,6 euros"
+    },
+    {
+        "input": "Una tienda quiere liquidar ropa de temporada. Vender cada prenda al 50% del precio marcado genera una pérdida de 20 euros, mientras que al 80% del precio marcado se obtiene una ganancia de 40 euros. ¿Cuál es el precio marcado por prenda?",
+        "target": "200 euros"
+    },
+    {
+        "input": "Una tienda adquirió un lote de ropa con costo unitario de 50 euros. Vendiendo a 60 euros/unidad, se venden 800 unidades. Por cada euro de aumento en el precio, las ventas disminuyen 20 unidades. Para obtener 12.000 euros de ganancia con costos máximos de 24.000 euros, ¿qué precio de venta es adecuado?",
+        "target": "80 euros"
+    },
+    {
+        "input": "Una tienda comercializa un producto con costo de 40 euros/kg. Vendiendo a 50 euros/kg, se venden 500 kg/mes. Por cada euro de aumento en el precio, las ventas mensuales caen 10 kg. Para lograr una ganancia mensual de 8.000 euros sin superar 20.000 euros en ventas, ¿cuál debe ser el precio de venta por kilogramo?",
+        "target": "80 euros"
+    },
+    {
+        "input": "Una tienda ajusta el precio de un producto: lo vende al 80% del precio original, obteniendo una tasa de beneficio del 10%. Si el costo de adquisición es 160 euros, ¿cuál era el precio original del producto?",
+        "target": "220 euros"
+    },
+    {
+        "input": "La agencia de viajes Aventurero ofrece tarifas escalonadas: para grupos de hasta 25 personas, el costo por persona es 1.000 euros. Si superan las 25 personas, por cada adicional, el costo por persona se reduce 20 euros (mínimo 700 euros). Un grupo pagó 27.000 euros en total. ¿Cuántas personas integraron el grupo?",
+        "target": "30 personas"
+    },
+    {
+        "input": "Carlos y José corren una carrera. Carlos corre a 7 m/s, José a 6,5 m/s. Si Carlos permite que José comience 5 metros adelante, ¿en cuántos segundos lo alcanzará?",
+        "target": "10 segundos"
+    },
+    {
+        "input": "Un grupo de estudiantes va a remar. Si cada bote lleva 7 personas, 5 se quedan sin asiento. Si cada bote lleva 8 personas, quedan 2 asientos vacíos. ¿Cuántos estudiantes participan en la actividad?",
+        "target": "54 personas"
+    },
+    {
+        "input": "Al graduarse, cada estudiante de una clase debe tomar una foto de pareja con todos los demás. Si se tomaron 780 fotos en total, ¿cuántos estudiantes hay en la clase?",
+        "target": "40 personas"
+    },
+    {
+        "input": "Un grupo de trabajadores en una fábrica de ladrillos transporta bloques: si cada uno mueve 2 ladrillos, sobran 6; si cada uno mueve 4, se terminan exactamente. ¿Cuántos trabajadores hay?",
+        "target": "3 personas"
+    },
+    {
+        "input": "En Año Nuevo, Ana gastó 88 euros comprando dos tipos de regalos: tipo A a 12 euros/unidad y tipo B a 8 euros/unidad. Si compró una unidad menos del tipo A que del tipo B, ¿cuántas unidades del tipo A compró?",
+        "target": "4 unidades"
+    },
+    {
+        "input": "Un centro comercial vende una nueva lámpara de mesa con costo unitario de 300 euros. Estudios indican: a un precio de 400 euros/unidad, se venden 300 unidades mensuales. Por cada incremento de 10 euros en el precio, las ventas mensuales disminuyen 10 unidades. ¿A qué precio de venta se alcanzarán 40.000 euros de beneficio mensual promedio?",
+        "target": "500 euros"
+    },
+    {
+        "input": "Una prenda tiene un precio marcado de 300 euros. Vendida al 80% de este precio, genera una ganancia de 60 euros. ¿Cuál es su costo de producción?",
+        "target": "180 euros"
+    },
+    {
+        "input": "Si con 4 botellas vacías de agua se puede obtener una nueva llena, y se tienen 15 botellas vacías sin pagar adicional, ¿cuál es el máximo número de botellas llenas que se pueden consumir?",
+        "target": "4 botellas"
+    },
+    {
+        "input": "Se reparte un montón de duraznos a un grupo de niños. Si cada uno recibe 5, sobran 8 duraznos; si cada uno recibe 8, faltan 7. ¿Cuántos duraznos hay en total?",
+        "target": "33 duraznos"
+    },
+    {
+        "input": "Un centro comercial vende un lote de camisas: vende 20 unidades diarias con una ganancia de 45 euros por pieza. Para reducir inventario, decide aplicar descuentos. Por cada euro de reducción en el precio por camisa, se venden 4 unidades más al día. Si se busca una ganancia diaria promedio de 2.100 euros, ¿cuánto debe rebajarse por camisa?",
+        "target": "30 euros"
+    },
+    {
+        "input": "Un producto tiene un costo de 100 euros y un precio marcado de 150. Para evitar acumulación, la tienda ofrece un descuento manteniendo una rentabilidad no menor al 20%. ¿Cuál es el máximo descuento permitido (en porcentaje)?",
+        "target": "20% de descuento"
+    },
+    {
+        "input": "Un proyecto lo completa A solo en 10 días y B en 15 días. Si A trabaja primero 5 días y luego colaboran A y B, ¿cuántos días más necesitarán para terminar el resto?",
+        "target": "3 días"
+    },
+    {
+        "input": "En el cuarto piso del Centro Comercial La Moda, un producto tiene un precio marcado de 1.540 euros. Vendido al 90% de este precio, aún genera un 10% de ganancia sobre el costo. ¿Cuál es el costo de adquisición del producto?",
+        "target": "1.260 euros"
+    },
+    {
+        "input": "Lucas viaja en motocicleta desde su casa a la estación de tren a velocidad constante. Si conduce a 50 kilómetros por hora, llega 15 minutos tarde a la hora de salida del tren. Si conduce a 60 kilómetros por hora, llega 5 minutos tarde. ¿Cuál es la distancia desde la casa de Lucas hasta la estación de tren en kilómetros?",
+        "target": "50 kilómetros"
+    },
+    {
+        "input": "La información turística de una zona escénica es la siguiente: hasta 30 personas: tarifa de 800 euros por persona; más de 30 personas: por cada persona adicional, la tarifa por persona se reduce 10 euros, pero no puede ser inferior a 550 euros por persona. Una empresa organizó un grupo de empleados para visitar esta zona y pagó 29.250 euros. Determina el número de participantes en este viaje.",
+        "target": "45 personas"
+    },
+    {
+        "input": "Un producto tiene un precio marcado de 200 euros por unidad. Al venderse al 90% del precio marcado, aún se obtiene una ganancia de 20 euros por pieza. ¿Cuál es el costo por unidad de este producto?",
+        "target": "160 euros"
+    },
+    {
+        "input": "Para fomentar el consumo eléctrico, una compañía establece este método de cálculo: consumo mensual no excede 100 kWh: 0,50 euros por kWh; consumo excedente: 0,40 euros por kWh. Si un usuario pagó en febrero de 2002 un promedio de 0,48 euros por kWh, ¿cuántos kWh consumió ese mes?",
+        "target": "125 kilovatios-hora"
+    },
+    {
+        "input": "El abuelo de Miguel pronto cumplirá 80 años. Miguel quiere marcar la fecha en el calendario pero no sabe qué día es. Al preguntar a su padre, este responde: \"En el calendario, la suma de las cuatro fechas arriba, abajo, izquierda y derecha de ese día equivale a la edad del abuelo\". ¿En qué día es el cumpleaños del abuelo de Miguel?",
+        "target": "20 día"
+    },
+    {
+        "input": "Durante la temporada 2018-2019 de la liga china de baloncesto masculino (CBA), se mantuvo el formato de doble ronda (cada dos equipos juegan dos partidos entre sí), con un total de 380 partidos disputados. ¿Cuántos equipos participaron en la liga?",
+        "target": "20 equipos"
+    },
+    {
+        "input": "El equipo A originalmente tenía 65 trabajadores y el equipo B tenía 40 trabajadores. Ahora se asignan 30 trabajadores adicionales. Para que el número de personas en el equipo B sea la mitad del equipo A, ¿cuántos trabajadores deben asignarse al equipo A?",
+        "target": "25 personas"
+    },
+    {
+        "input": "Un taller recibió una tarea de producción con un plan diario de procesar 120 piezas, lo que permitiría completarla a tiempo. Sin embargo, procesaron 20 piezas más por día y terminaron 4 días antes. ¿Cuántas piezas tenía la tarea de producción?",
+        "target": "3.360 piezas"
+    },
+    {
+        "input": "Para expandir las ventas, una tienda ajustó el precio de una cámara fotográfica: se vende al 80% del precio original, logrando una tasa de ganancia del 14%. Si el costo de la cámara es 1.200 euros, ¿cuál era el precio original de la cámara?",
+        "target": "1.710 euros"
+    },
+    {
+        "input": "Una tienda de ropa observó que un tipo de ropa infantil se vende en promedio 20 unidades diarias, con una ganancia de 40 euros por pieza. Para aumentar las ventas, decidieron reducir el precio. Según la investigación, por cada 4 euros de descuento por pieza, se venden 8 unidades más al día. Para que la ganancia diaria promedio sea de 1.200 euros, ¿en cuántos euros como máximo se puede rebajar el precio por pieza?",
+        "target": "20 euros"
+    },
+    {
+        "input": "Una madre se casó a los 26 años y tuvo a su hijo al año siguiente. Varios años después, la edad de la madre es el triple que la de su hijo. ¿Qué edad tiene la madre en ese momento?",
+        "target": "40,5 años"
+    },
+    {
+        "input": "Una tienda vende recuerdos turísticos. En abril, su facturación fue de 20.000 euros. En mayo, aplicaron un descuento del 10% en estos productos, lo que aumentó las ventas en 200 unidades y la facturación en 7.000 euros. ¿Cuál era el precio de venta de este recuerdo en abril?",
+        "target": "50 euros"
+    },
+    {
+        "input": "Un producto tiene un precio marcado de 800 euros. Vendido al 40% de este precio, aún genera una ganancia de 60 euros. ¿Cuál es su costo de adquisición?",
+        "target": "260 euros"
+    },
+    {
+        "input": "Tres equipos de construcción reparan una carretera. El primer equipo repara un tercio de la carretera total. El segundo equipo repara un tercio de lo restante. El tercer equipo repara 20 km para completarla. ¿Cuál es la longitud total de la carretera en kilómetros?",
+        "target": "45 kilómetros"
+    },
+    {
+        "input": "Un producto de marca se vende al 80% del precio marcado, obteniendo un 10% de beneficio. Si el precio marcado es 275 euros, ¿cuál es su costo de adquisición?",
+        "target": "200 euros"
+    },
+    {
+        "input": "En el grupo A, 4 trabajadores completaron en marzo un total de trabajo que supera 4 veces la cuota per cápita mensual más 20 unidades. En el grupo B, 5 trabajadores completaron un total que es 6 veces la cuota per cápita menos 20 unidades. Si el trabajo real per cápita de ambos grupos fue igual, ¿cuál es la cuota per cápita mensual?",
+        "target": "45 piezas"
+    },
+    {
+        "input": "Para Año Nuevo, una tienda incrementa el costo de las mochilas en un 50% para fijar el precio marcado, luego aplica un 20% de descuento. Cada venta genera 8 euros de ganancia. ¿Cuál es el costo original de la mochila?",
+        "target": "40 euros"
+    },
+    {
+        "input": "Un restaurante de comida rápida vende combos con costo de 5 euros por unidad y gastos fijos diarios de 600 euros. Si el precio no supera 10 euros, se venden 400 unidades diarias. Por cada euro adicional en el precio, las ventas diarias disminuyen 40 unidades. Si el ingreso neto diario es 1 560 euros, ¿qué precio por combo se fijó para beneficiar a los clientes?",
+        "target": "11 euros"
+    },
+    {
+        "input": "En una sección de ropa de un centro comercial, se venden camisas de marca con un promedio diario de 30 unidades, obteniendo 40 euros de ganancia por pieza. Para aumentar ventas y reducir inventario, se decide bajar el precio. Según estudios, por cada euro que se reduce el precio, se venden 2 unidades más al día. Si se requiere una ganancia diaria de 1.200 euros, ¿cuánto debe reducirse el precio por camisa?",
+        "target": "25 euros"
+    },
+    {
+        "input": "Una clase se dividió en dos grupos para una actividad: el Grupo A tenía 26 estudiantes y el Grupo B 32. Posteriormente, por necesidades de la actividad, se transfirieron algunos estudiantes del Grupo A al B, resultando que el Grupo B terminó con el doble del número de personas del Grupo A más uno. ¿Cuántos estudiantes se transfirieron del Grupo A al B?",
+        "target": "7 personas"
+    },
+    {
+        "input": "Una fábrica planea aumentar su producción anual de 1 millón a 1,21 millones de unidades en 2 años. ¿Cuál es la tasa de crecimiento anual promedio en porcentaje?",
+        "target": "10%"
+    },
+    {
+        "input": "Un equipo ciclista entrena avanzando a 35 km/h. De repente, el ciclista número 1 avanza solo a 45 km/h durante 10 km, luego gira y regresa a la misma velocidad hasta reunirse con el grupo. ¿Cuántas horas transcurren desde que se separa hasta reunirse nuevamente?",
+        "target": "0,25 horas"
+    },
+    {
+        "input": "Una escuela compró equipos de ping-pong (red, paletas y pelotas) por 1.320 euros. La proporción de gastos entre estos tres elementos fue 3:6:2. ¿Cuánto se pagó por la red?",
+        "target": "360 euros"
+    },
+    {
+        "input": "El gerente Juan repartió bolsas de especialidades traídas de un viaje entre amigos. Si cada persona recibe 5 bolsas, sobran 3; si cada una recibe 6 bolsas, faltan 3. ¿Cuántas bolsas trajo el gerente Juan?",
+        "target": "33 bolsas"
+    },
+    {
+        "input": "Una escuela compró cuadernos para repartir a los estudiantes de primer año de secundaria. Si se dan 5 cuadernos por persona, sobran 80; si se dan 6 por persona, faltan 40. ¿Cuántos estudiantes hay en primer año?",
+        "target": "120 personas"
+    },
+    {
+        "input": "El conductor José tarda 2 horas en ir de A a B en auto, y el conductor Luis tarda 3 horas en ir de B a A en motocicleta. Si Luis sale de B hacia A y, una hora después, José sale de A hacia B, ¿cuántas horas después de la salida de José se encontrarán?",
+        "target": "0,8"
+    },
+    {
+        "input": "Tras consultar en dos tiendas: el par de raquetas cuesta 25 euros y las pelotas 2 euros cada una. La tienda A ofrece un 10 % de descuento en raquetas y pelotas. La tienda B regala 2 pelotas por la compra de cada par de raquetas. Si un cliente necesita comprar 2 pares de raquetas y una determinada cantidad de pelotas, ¿cuál es el número de pelotas que hace que el costo total sea el mismo en ambas tiendas?Tras consultar en dos tiendas: el par de raquetas cuesta 25 euros y las pelotas 2 euros cada una. La tienda A ofrece un 10 % de descuento en raquetas y pelotas. La tienda B regala 2 pelotas por la compra de cada par de raquetas. Si un cliente necesita comprar 2 pares de raquetas y una determinada cantidad de pelotas, ¿cuál es el número de pelotas que hace que el costo total sea el mismo en ambas tiendas?",
+        "target": "15 unidades"
+    },
+    {
+        "input": "La distancia entre A y B es de 448 km. Un tren lento sale de A a 60 km/h, y un tren rápido sale de B a 80 km/h. Si los dos trenes van uno hacia el otro, ¿cuántas horas después de la salida del tren rápido se encontrarán ambos trenes?",
+        "target": "3,2 horas"
+    },
+    {
+        "input": "Una familia de tres viaja al norte durante las vacaciones. Dos agencias (A y B) tienen precios idénticos pero ofertas familiares: la agencia A no aplica descuento a adultos y da 40% de descuento a niños; la agencia B aplica 20% de descuento a toda la familia. Al comparar, la opción B es 240 euros más barata. ¿Cuál es el precio fijado para adultos?",
+        "target": "1.200 euros"
+    },
+    {
+        "input": "Un tipo de flor se compra a 5 euros por tallo. Vendida al 80% del precio marcado, aún genera 3 euros de ganancia. ¿Cuál es el precio marcado por tallo?",
+        "target": "10 euros"
+    },
+    {
+        "input": "Para construir una carretera, el equipo de ingeniería A tarda 80 días trabajando solo y el equipo B 120 días. Si colaboran, ¿cuántos días necesitarán para completar el proyecto?",
+        "target": "48 días"
+    },
+    {
+        "input": "Un laboratorio biológico necesita cultivar bacterias beneficiosas. Con 60 muestras vivas iniciales, después de 2 rondas de cultivo, la cantidad total alcanza 24.000 unidades. Si cada bacteria se divide en la misma cantidad de bacterias en cada división, ¿cuántas bacterias produce en promedio cada una por ronda de división?",
+        "target": "19 bacterias"
+    },
+    {
+        "input": "Un grupo de 30 estudiantes fabrica aviones de papel. Cada estudiante puede hacer 20 fuselajes o 60 alas por hora. Cada modelo requiere 1 fuselaje y 2 alas. ¿Cuántos estudiantes deben asignarse a hacer fuselajes para que las piezas producidas coincidan proporcionalmente cada hora?",
+        "target": "18 estudiantes"
+    },
+    {
+        "input": "Si se reparten libros a los estudiantes de una clase: al dar 3 libros por persona sobran 20; al dar 4 libros por persona faltan 25. ¿Cuántos estudiantes hay en la clase?",
+        "target": "45 personas"
+    },
+    {
+        "input": "Un producto se marca incrementando su costo en un 20%, luego se vende al 90% de ese precio por 270 euros. ¿Cuál es el costo original del producto?",
+        "target": "250 euros"
+    },
+    {
+        "input": "En una clase, un estudiante contrae gripe. Después de 2 rondas de contagio, hay 49 infectados. Si inicialmente hubieran 4 infectados, ¿cuántas personas tendrían gripe después de la primera ronda de contagio?",
+        "target": "28 personas"
+    },
+    {
+        "input": "Para reforestar el campus, una clase plantó 144 árboles. Cada chico plantó 3 árboles y cada chica 2. Si hay 8 chicos más que chicas, ¿cuántos chicos hay en la clase?",
+        "target": "32 personas"
+    },
+    {
+        "input": "En vísperas del Año Nuevo, un supermercado vendió un producto (costo: 12 euros por unidad) a 20 euros por unidad, con ventas diarias de 240 unidades. Tras observarse que por cada euro de aumento en el precio se vendían 20 unidades menos al día, y por cada euros de descuento se vendían 40 unidades más, ¿cuánto debe reducirse el precio por unidad para lograr un beneficio diario de 1.800 euros en caso de descuento?",
+        "target": "3 euros"
+    },
+    {
+        "input": "En una feria comercial, cada dos empresas asistentes firmaron un contrato. Al finalizar, se firmaron 78 contratos. ¿Cuántas empresas participaron?",
+        "target": "13 empresas"
+    },
+    {
+        "input": "El almacén A tiene 37 toneladas de grano y el B 17 toneladas. Si se asignan 15 toneladas adicionales a ambos, ¿cuántas deben darse al almacén A para que su cantidad sea el doble que la de B?",
+        "target": "9 toneladas"
+    },
+    {
+        "input": "En una tienda de artículos deportivos, un trabajador experto y uno nuevo ensamblan juntos 8 bicicletas diarias. Tres expertos y cinco nuevos ensamblan 28 bicicletas al día. ¿Cuántas bicicletas ensambla diariamente un trabajador nuevo?",
+        "target": "2 vehículos"
+    },
+    {
+        "input": "Gallinas y conejos tienen 192 patas en total. Si se intercambian sus cantidades, tendrían 198 patas. ¿Cuántas gallinas y conejos hay?",
+        "target": "34 gallinas, 31 conejos"
+    },
+    {
+        "input": "Hay 18 gallinas más que conejos, y en total tienen 84 patas. ¿Cuántas gallinas y conejos hay?",
+        "target": "26 gallinas, 8 conejos"
+    }
+]

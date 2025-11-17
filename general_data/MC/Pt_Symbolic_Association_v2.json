@@ -1,0 +1,1325 @@
+[
+    {
+        "input": "Se você fosse um artista, qual símbolo usaria para criar uma pintura descrevendo o sol?\nA. ⊙\nB. ■\nC. □\nD. ◣",
+        "target_scores": {
+            "A. ⊙": 1,
+            "B. ■": 0,
+            "C. □": 0,
+            "D. ◣": 0
+        }
+    },
+    {
+        "input": "Qual forma mais se aproxima do formato da Terra?\nA. ⊙\nB. □\nC. ▽\nD. ？",
+        "target_scores": {
+            "A. ⊙": 1,
+            "B. □": 0,
+            "C. ▽": 0,
+            "D. ？": 0
+        }
+    },
+    {
+        "input": "O professor pediu aos alunos para descrever a forma de uma estrela-do-mar com um símbolo. Usando sua imaginação, qual dos símbolos a seguir melhor atende a esse requisito?\nA. ⊙\nB. □\nC. ◇\nD. ★",
+        "target_scores": {
+            "A. ⊙": 0,
+            "B. □": 0,
+            "C. ◇": 0,
+            "D. ★": 1
+        }
+    },
+    {
+        "input": "Qual dos objetos a seguir é mais próximo de \"□\"?\nA. Bola de basquete\nB. Bola de futebol\nC. Janela\nD. Violino",
+        "target_scores": {
+            "A. Bola de basquete": 0,
+            "B. Bola de futebol": 0,
+            "C. Janela": 1,
+            "D. Violino": 0
+        }
+    },
+    {
+        "input": "Qual dos objetos a seguir é mais próximo de \"◇\"?\nA. Bola de basquete\nB. Bola de vôlei\nC. Diamante\nD. Pamonha",
+        "target_scores": {
+            "A. Bola de basquete": 0,
+            "B. Bola de vôlei": 0,
+            "C. Diamante": 1,
+            "D. Pamonha": 0
+        }
+    },
+    {
+        "input": "O apresentador levanta um cartão com o símbolo \"○\". Quatro participantes dão as seguintes respostas: ①bola de basquete ②pão de queijo ③sanduíche ④maçã. Qual associação é mais próxima?\nA. ①②③\nB. ①②④\nC. ①③④\nD. ②③④",
+        "target_scores": {
+            "A. ①②③": 0,
+            "B. ①②④": 1,
+            "C. ①③④": 0,
+            "D. ②③④": 0
+        }
+    },
+    {
+        "input": "A mãe levanta um quadro e pergunta a Maria qual opção mais se aproxima do quadro. No quadro está o símbolo \"★\". As opções são: ①estrela-do-mar ②lua ③sanduíche ④Pentágono\nA. ①②\nB. ①④\nC. ②③\nD. ③④",
+        "target_scores": {
+            "A. ①②": 0,
+            "B. ①④": 1,
+            "C. ②③": 0,
+            "D. ③④": 0
+        }
+    },
+    {
+        "input": "O professor levanta um cartão com o símbolo \"△\". Quatro alunos dão as seguintes respostas: ①sanduíche ②bola de basquete ③montanha ④diamante. Qual combinação é mais adequada?\nA. ①②③\nB. ①②④\nC. ①③④\nD. ②③④",
+        "target_scores": {
+            "A. ①②③": 0,
+            "B. ①②④": 0,
+            "C. ①③④": 1,
+            "D. ②③④": 0
+        }
+    },
+    {
+        "input": "Qual símbolo mais se parece com uma maçã?\nA. ≯\nB. ▽\nC. ○\nD. ◣",
+        "target_scores": {
+            "A. ≯": 0,
+            "B. ▽": 0,
+            "C. ○": 1,
+            "D. ◣": 0
+        }
+    },
+    {
+        "input": "Se você fosse um poeta, qual símbolo usaria para simbolizar a lua?\nA. ▏\nB. ▓\nC. ○\nD. ＊",
+        "target_scores": {
+            "A. ▏": 0,
+            "B. ▓": 0,
+            "C. ○": 1,
+            "D. ＊": 0
+        }
+    },
+    {
+        "input": "Qual das seguintes coisas é mais próxima de \"△\"?\nA. Cachorrinho\nB. Gatinho\nC. Pirâmide\nD. Pão francês",
+        "target_scores": {
+            "A. Cachorrinho": 0,
+            "B. Gatinho": 0,
+            "C. Pirâmide": 1,
+            "D. Pão francês": 0
+        }
+    },
+    {
+        "input": "Qual das opções a seguir tem forma mais semelhante a \"▌\"?\nA. Coelho\nB. Elástico de cabelo\nC. Folha\nD. Tablet",
+        "target_scores": {
+            "A. Coelho": 0,
+            "B. Elástico de cabelo": 0,
+            "C. Folha": 0,
+            "D. Tablet": 1
+        }
+    },
+    {
+        "input": "Qual das opções a seguir mais se parece com \"回\"?\nA. Badminton\nB. Cabo de dados\nC. Pneu\nD. Rack de TV",
+        "target_scores": {
+            "A. Badminton": 0,
+            "B. Cabo de dados": 0,
+            "C. Pneu": 0,
+            "D. Rack de TV": 1
+        }
+    },
+    {
+        "input": "Qual das quatro opções a seguir mais se parece com o canto de uma parede?\nA. ⊙\nB. ⊿\nC. ①\nD. ＊",
+        "target_scores": {
+            "A. ⊙": 0,
+            "B. ⊿": 1,
+            "C. ①": 0,
+            "D. ＊": 0
+        }
+    },
+    {
+        "input": "Qual símbolo mais se parece com a gravata que um profissional usa com traje formal?\nA. ↑\nB. ≡\nC. ♨\nD. ♫",
+        "target_scores": {
+            "A. ↑": 1,
+            "B. ≡": 0,
+            "C. ♨": 0,
+            "D. ♫": 0
+        }
+    },
+    {
+        "input": "Você é um fã de ramen japonês. Se fosse representar um lámen de porco com um símbolo, qual escolheria?\nA. ☎\nB. ☏\nC. ♨\nD. 々",
+        "target_scores": {
+            "A. ☎": 0,
+            "B. ☏": 0,
+            "C. ♨": 1,
+            "D. 々": 0
+        }
+    },
+    {
+        "input": "Pensando em uma cabra, qual símbolo você escolheria para representá-la?\nA. ♤\nB. 【】\nC. 〔〕\nD. ￥",
+        "target_scores": {
+            "A. ♤": 0,
+            "B. 【】": 0,
+            "C. 〔〕": 0,
+            "D. ￥": 1
+        }
+    },
+    {
+        "input": "A forma de \"＆\" mais se aproxima de quê?\nA. Cápsula de remédio\nB. Hamster\nC. Marmita\nD. Uma pessoa sentada com os braços caídos",
+        "target_scores": {
+            "A. Cápsula de remédio": 0,
+            "B. Hamster": 0,
+            "C. Marmita": 0,
+            "D. Uma pessoa sentada com os braços caídos": 1
+        }
+    },
+    {
+        "input": "Qual das opções a seguir é mais próxima de \"＃\"?\nA. Carro esportivo\nB. Coca-cola\nC. Jogo da velha\nD. Picles",
+        "target_scores": {
+            "A. Carro esportivo": 0,
+            "B. Coca-cola": 0,
+            "C. Jogo da velha": 1,
+            "D. Picles": 0
+        }
+    },
+    {
+        "input": "\"〓\" se parece mais com qual dos objetos a seguir?\nA. Batom vermelho\nB. Biscoito recheado\nC. Cadeira gamer\nD. Mouse",
+        "target_scores": {
+            "A. Batom vermelho": 0,
+            "B. Biscoito recheado": 1,
+            "C. Cadeira gamer": 0,
+            "D. Mouse": 0
+        }
+    },
+    {
+        "input": "O pai mostrou o símbolo \"☼\" e pediu para a criança escolher entre: ①sol ②distintivo ③toalha de mesa ④prego de aço. Qual a combinação mais provável?\nA. ①②③\nB. ①②④\nC. ①③④\nD. ②③④",
+        "target_scores": {
+            "A. ①②③": 1,
+            "B. ①②④": 0,
+            "C. ①③④": 0,
+            "D. ②③④": 0
+        }
+    },
+    {
+        "input": "\"‖\" pode representar muitos objetos. Qual a combinação mais provável? ①pauzinho ②estrada ③poste ④pastel de nata\nA. ①②③\nB. ①②④\nC. ①③④\nD. ②③④",
+        "target_scores": {
+            "A. ①②③": 1,
+            "B. ①②④": 0,
+            "C. ①③④": 0,
+            "D. ②③④": 0
+        }
+    },
+    {
+        "input": "\"≈\" pode representar muitos objetos. Qual a combinação mais provável? ①ondas ②macarrão ③pulga ④melancia\nA. ①②\nB. ①④\nC. ②③\nD. ③④",
+        "target_scores": {
+            "A. ①②": 1,
+            "B. ①④": 0,
+            "C. ②③": 0,
+            "D. ③④": 0
+        }
+    },
+    {
+        "input": "João desenhou \"^︵^\" em um papel. Das quatro opções: ①orelhas de gato ②orelhas de cachorro ③bomba de chocolate ④tela de TV, quais são mais próximas de \"^︵^\"?\nA. ①②\nB. ①④\nC. ②③\nD. ③④",
+        "target_scores": {
+            "A. ①②": 1,
+            "B. ①④": 0,
+            "C. ②③": 0,
+            "D. ③④": 0
+        }
+    },
+    {
+        "input": "Qual das opções a seguir mais lembra um telefone fixo?\nA. ☏\nB. ♠\nC. ㎏\nD. ＋",
+        "target_scores": {
+            "A. ☏": 1,
+            "B. ♠": 0,
+            "C. ㎏": 0,
+            "D. ＋": 0
+        }
+    },
+    {
+        "input": "Qual opção lembra um bumerangue?\nA. ω\nB. ⌒\nC. ▌\nD. ％",
+        "target_scores": {
+            "A. ω": 0,
+            "B. ⌒": 1,
+            "C. ▌": 0,
+            "D. ％": 0
+        }
+    },
+    {
+        "input": "Na série de mangá JOJO's Bizarre Adventure, qual opção mais se aproxima do formato da faixa de cabelo de Dio Brando?\nA. ∑\nB. ☞\nC. ♥\nD. ㈱",
+        "target_scores": {
+            "A. ∑": 0,
+            "B. ☞": 0,
+            "C. ♥": 1,
+            "D. ㈱": 0
+        }
+    },
+    {
+        "input": "Qual das opções a seguir faz você pensar em uma couve-flor?\nA. ь\nB. ∝\nC. ♧\nD. ﹤",
+        "target_scores": {
+            "A. ь": 0,
+            "B. ∝": 0,
+            "C. ♧": 1,
+            "D. ﹤": 0
+        }
+    },
+    {
+        "input": "Se você imaginar a forma de um mouse de computador, qual das opções a seguir escolheria?\nA. ┍\nB. ┓\nC. ㊣\nD. 甴",
+        "target_scores": {
+            "A. ┍": 0,
+            "B. ┓": 0,
+            "C. ㊣": 0,
+            "D. 甴": 1
+        }
+    },
+    {
+        "input": "\"，\" faz as pessoas naturalmente pensarem em um ser vivo. Qual seria?\nA. Cachorro corgi\nB. Girino\nC. Guaxinim\nD. Petauro-do-açúcar",
+        "target_scores": {
+            "A. Cachorro corgi": 0,
+            "B. Girino": 1,
+            "C. Guaxinim": 0,
+            "D. Petauro-do-açúcar": 0
+        }
+    },
+    {
+        "input": "\"◎\" se parece muito com um objeto do cotidiano. Que objeto é esse?\nA. Caixa de entrega\nB. Guarda-chuva\nC. Pá\nD. Roda de carro",
+        "target_scores": {
+            "A. Caixa de entrega": 0,
+            "B. Guarda-chuva": 0,
+            "C. Pá": 0,
+            "D. Roda de carro": 1
+        }
+    },
+    {
+        "input": "Ao ver o símbolo \"ㄛ\", qual das opções a seguir vem à sua mente?\nA. Creme para as mãos\nB. Gancho\nC. Giz\nD. Marcador",
+        "target_scores": {
+            "A. Creme para as mãos": 0,
+            "B. Gancho": 1,
+            "C. Giz": 0,
+            "D. Marcador": 0
+        }
+    },
+    {
+        "input": "Qual das opções a seguir mais se parece com \"♀\"?\nA. Bola de futebol americano\nB. Bola de ping-pong\nC. Copo d'água\nD. Espantalho",
+        "target_scores": {
+            "A. Bola de futebol americano": 0,
+            "B. Bola de ping-pong": 0,
+            "C. Copo d'água": 0,
+            "D. Espantalho": 1
+        }
+    },
+    {
+        "input": "Qual objeto mais se aproxima da sua primeira impressão ao ver \"╉\"?\nA. Coração\nB. Cruz\nC. Câmera web\nD. Lua",
+        "target_scores": {
+            "A. Coração": 0,
+            "B. Cruz": 1,
+            "C. Câmera web": 0,
+            "D. Lua": 0
+        }
+    },
+    {
+        "input": "\"ⅰ\" - Escolha a opção que mais se aproxima da forma deste símbolo.\nA. Câmera fotográfica\nB. Documento eletrônico\nC. Fósforo\nD. Porta-copos",
+        "target_scores": {
+            "A. Câmera fotográfica": 0,
+            "B. Documento eletrônico": 0,
+            "C. Fósforo": 1,
+            "D. Porta-copos": 0
+        }
+    },
+    {
+        "input": "Qual opção melhor corresponde ao símbolo \"∩\"?\nA. Caixa de remédio\nB. Coxinha\nC. Ponte em arco\nD. Porta-lenços",
+        "target_scores": {
+            "A. Caixa de remédio": 0,
+            "B. Coxinha": 0,
+            "C. Ponte em arco": 1,
+            "D. Porta-lenços": 0
+        }
+    },
+    {
+        "input": "Se você tivesse que escolher entre as opções a seguir qual mais se parece com um forno, escolheria ( )\nA. ⅳ\nB. ⑨\nC. ▣\nD. ㄔ",
+        "target_scores": {
+            "A. ⅳ": 0,
+            "B. ⑨": 0,
+            "C. ▣": 1,
+            "D. ㄔ": 0
+        }
+    },
+    {
+        "input": "Qual dos símbolos a seguir mais se parece com uma pistola?\nA. а\nB. ∫\nC. ☜\nD. ＠",
+        "target_scores": {
+            "A. а": 0,
+            "B. ∫": 0,
+            "C. ☜": 1,
+            "D. ＠": 0
+        }
+    },
+    {
+        "input": "Se você fosse um trabalhador de construção de estradas, qual símbolo você acharia mais próximo da forma de uma \"tampa de bueiro\"?\nA. ←\nB. ↖\nC. ⊕\nD. ｝",
+        "target_scores": {
+            "A. ←": 0,
+            "B. ↖": 0,
+            "C. ⊕": 1,
+            "D. ｝": 0
+        }
+    },
+    {
+        "input": "A mãe pediu para Lucas imaginar a forma de um ganso selvagem e escolher entre as opções a que mais se parece com um ganso selvagem. Lucas escolheria ( )\nA. ﹏\nB. ｑ\nC. ｛\nD. ｜",
+        "target_scores": {
+            "A. ﹏": 0,
+            "B. ｑ": 0,
+            "C. ｛": 1,
+            "D. ｜": 0
+        }
+    },
+    {
+        "input": "Escolha a opção que mais se parece com uma expressão facial humana ( )\nA. -\nB. ☻\nC. ぁ\nD. ﹢",
+        "target_scores": {
+            "A. -": 0,
+            "B. ☻": 1,
+            "C. ぁ": 0,
+            "D. ﹢": 0
+        }
+    },
+    {
+        "input": "Imagine um floco de neve e escolha a opção com maior associação a flocos de neve ( )\nA. 0\nB. ╝\nC. ㈨\nD. ＊",
+        "target_scores": {
+            "A. 0": 0,
+            "B. ╝": 0,
+            "C. ㈨": 0,
+            "D. ＊": 1
+        }
+    },
+    {
+        "input": "Coloque-se no lugar de um encanador e escolha a opção mais próxima de um cano de água ( )\nA. ’\nB. ″\nC. ╦╧\nD. 。",
+        "target_scores": {
+            "A. ’": 0,
+            "B. ″": 0,
+            "C. ╦╧": 1,
+            "D. 。": 0
+        }
+    },
+    {
+        "input": "O professor levanta um cartão com o símbolo \"＄\". Quatro alunos dão as seguintes respostas: ①símbolo do dólar ②ampulheta ③agulha com linha ④moissanita. Qual combinação é mais adequada?\nA. ①②③\nB. ①②④\nC. ①③④\nD. ②③④",
+        "target_scores": {
+            "A. ①②③": 1,
+            "B. ①②④": 0,
+            "C. ①③④": 0,
+            "D. ②③④": 0
+        }
+    },
+    {
+        "input": "O símbolo \"ψ\" pode simbolizar muitas coisas do cotidiano, como ①pastel ②garfo ③cacto ④castiçal. Escolha a combinação mais provável ( )\nA. ①②\nB. ①②③\nC. ①③④\nD. ②③④",
+        "target_scores": {
+            "A. ①②": 0,
+            "B. ①②③": 0,
+            "C. ①③④": 0,
+            "D. ②③④": 1
+        }
+    },
+    {
+        "input": "O apresentador levanta um cartão com o símbolo \"▩\". Quatro participantes dão as seguintes respostas: ①pão  ②bola de neve ③TV com interferência ④colmeia. Qual é a mais próxima?\nA. ①②\nB. ①②④\nC. ②③④\nD. ③④",
+        "target_scores": {
+            "A. ①②": 0,
+            "B. ①②④": 0,
+            "C. ②③④": 0,
+            "D. ③④": 1
+        }
+    },
+    {
+        "input": "\"А\" se assemelha a muitos objetos. Qual combinação é mais semelhante? ①escada ②ponta de caneta ③gorro de Natal ④manga\nA. ①②③\nB. ①②④\nC. ②③④\nD. ③④",
+        "target_scores": {
+            "A. ①②③": 1,
+            "B. ①②④": 0,
+            "C. ②③④": 0,
+            "D. ③④": 0
+        }
+    },
+    {
+        "input": "O professor pediu a Tina para imaginar o que \"∏\" poderia representar: ①batente de porta ②edifício alto ③grampeador ④pera\nA. ①②③\nB. ①③④\nC. ②③④\nD. ③④",
+        "target_scores": {
+            "A. ①②③": 1,
+            "B. ①③④": 0,
+            "C. ②③④": 0,
+            "D. ③④": 0
+        }
+    },
+    {
+        "input": "Qual das opções a seguir mais se parece com uma cadeira?\nA. ︴\nB. ﹊\nC. ／\nD. ｈ",
+        "target_scores": {
+            "A. ︴": 0,
+            "B. ﹊": 0,
+            "C. ／": 0,
+            "D. ｈ": 1
+        }
+    },
+    {
+        "input": "Imagine uma cena de dia chuvoso e escolha a opção mais adequada ( )\nA. ⒆\nB. ┊\nC. ㈣\nD. ｋ",
+        "target_scores": {
+            "A. ⒆": 0,
+            "B. ┊": 1,
+            "C. ㈣": 0,
+            "D. ｋ": 0
+        }
+    },
+    {
+        "input": "Qual dos símbolos a seguir mais se parece com um cogumelo?\nA. ⒇\nB. ☺\nC. ☻\nD. ♤",
+        "target_scores": {
+            "A. ⒇": 0,
+            "B. ☺": 0,
+            "C. ☻": 0,
+            "D. ♤": 1
+        }
+    },
+    {
+        "input": "Escolha a opção que mais se parece com o logo do McDonald's ( )\nA. è\nB. ㄙ\nC. ㄨ\nD. ｍ",
+        "target_scores": {
+            "A. è": 0,
+            "B. ㄙ": 0,
+            "C. ㄨ": 0,
+            "D. ｍ": 1
+        }
+    },
+    {
+        "input": "Qual das opções a seguir mais se parece com \"uma pessoa\"?\nA. 〥\nB. ㄉ\nC. ？\nD. ｉ",
+        "target_scores": {
+            "A. 〥": 0,
+            "B. ㄉ": 0,
+            "C. ？": 0,
+            "D. ｉ": 1
+        }
+    },
+    {
+        "input": "Imagine a forma de uma cobra. Qual das opções a seguir mais se parece com uma cobra? ( )\nA. ∫\nB. ≮\nC. ≯\nD. ㏒",
+        "target_scores": {
+            "A. ∫": 1,
+            "B. ≮": 0,
+            "C. ≯": 0,
+            "D. ㏒": 0
+        }
+    },
+    {
+        "input": "Qual das quatro opções a seguir mais se parece com uma mesa comum?\nA. ò\nB. ‰\nC. ︻\nD. ：",
+        "target_scores": {
+            "A. ò": 0,
+            "B. ‰": 0,
+            "C. ︻": 1,
+            "D. ：": 0
+        }
+    },
+    {
+        "input": "Qual das opções a seguir mais se parece com uma balança comum do dia a dia?\nA. о\nB. ㄓ\nC. ㄘ\nD. 巜",
+        "target_scores": {
+            "A. о": 0,
+            "B. ㄓ": 1,
+            "C. ㄘ": 0,
+            "D. 巜": 0
+        }
+    },
+    {
+        "input": "\"Π\" se parece mais com qual dos objetos a seguir?\nA. Banquinho\nB. Comprimido\nC. Eixo de carro\nD. Semáforo",
+        "target_scores": {
+            "A. Banquinho": 1,
+            "B. Comprimido": 0,
+            "C. Eixo de carro": 0,
+            "D. Semáforo": 0
+        }
+    },
+    {
+        "input": "\"Υ\" tem forma semelhante a qual das opções a seguir ( ).\nA. Bola de vôlei\nB. Cavalete\nC. Funil\nD. Skate",
+        "target_scores": {
+            "A. Bola de vôlei": 0,
+            "B. Cavalete": 0,
+            "C. Funil": 1,
+            "D. Skate": 0
+        }
+    },
+    {
+        "input": "\"Ρ\" se parece muito com um objeto do cotidiano. Que objeto é esse?\nA. Arroz\nB. Bandeira\nC. Janela de carro\nD. Milho",
+        "target_scores": {
+            "A. Arroz": 0,
+            "B. Bandeira": 1,
+            "C. Janela de carro": 0,
+            "D. Milho": 0
+        }
+    },
+    {
+        "input": "Se você tivesse que escolher entre as quatro opções a que mais se parece com uma \"cesta de basquete\", escolheria ( )\nA. ▔\nB. 〢\nC. 曱\nD. ﹗",
+        "target_scores": {
+            "A. ▔": 0,
+            "B. 〢": 0,
+            "C. 曱": 1,
+            "D. ﹗": 0
+        }
+    },
+    {
+        "input": "Ao ver o símbolo \"∝\", você pensaria na opção ( )\nA. Caranguejo\nB. Peixe\nC. Raposa\nD. Tartaruga",
+        "target_scores": {
+            "A. Caranguejo": 0,
+            "B. Peixe": 1,
+            "C. Raposa": 0,
+            "D. Tartaruga": 0
+        }
+    },
+    {
+        "input": "\"※\" faz lembrar o que no céu noturno? ( )\nA. Fogos de artifício\nB. Nuvem\nC. Oxigênio\nD. Pássaro voando",
+        "target_scores": {
+            "A. Fogos de artifício": 1,
+            "B. Nuvem": 0,
+            "C. Oxigênio": 0,
+            "D. Pássaro voando": 0
+        }
+    },
+    {
+        "input": "\"﹢\" pode representar muitos objetos. Qual a combinação mais provável? ①logotipo de posto médico ②cruzamento ③coordenadas ④pão\nA. ①②③\nB. ①②④\nC. ②③④\nD. ②④",
+        "target_scores": {
+            "A. ①②③": 1,
+            "B. ①②④": 0,
+            "C. ②③④": 0,
+            "D. ②④": 0
+        }
+    },
+    {
+        "input": "Carlos desenhou \"Ⅲ\" em um papel. Das quatro opções: ①coluna romana ②janela ③armário ④pomelo, quais são mais próximas de \"Ⅲ\"?\nA. ①②③\nB. ①②④\nC. ②③④\nD. ③④",
+        "target_scores": {
+            "A. ①②③": 1,
+            "B. ①②④": 0,
+            "C. ②③④": 0,
+            "D. ③④": 0
+        }
+    },
+    {
+        "input": "O professor pediu aos alunos para descrever a forma de uma bola de futebol com um símbolo. Usando sua imaginação, qual dos símbolos a seguir melhor atende a esse requisito?\nA. 】\nB. で\nC. に\nD. ｏ",
+        "target_scores": {
+            "A. 】": 0,
+            "B. で": 0,
+            "C. に": 0,
+            "D. ｏ": 1
+        }
+    },
+    {
+        "input": "A forma de \"ㄒ\" é mais próxima de quais das seguintes coisas? ①cruzamento em T ②tachinhas ③hipódromo ④galinheiro\nA. ①②\nB. ②③\nC. ②④\nD. ③④",
+        "target_scores": {
+            "A. ①②": 1,
+            "B. ②③": 0,
+            "C. ②④": 0,
+            "D. ③④": 0
+        }
+    },
+    {
+        "input": "Pensando em cacos de vidro, qual das opções a seguir você escolheria?\nA. ⅳ\nB. ⅵ\nC. ⅶ\nD. ⊿",
+        "target_scores": {
+            "A. ⅳ": 0,
+            "B. ⅵ": 0,
+            "C. ⅶ": 0,
+            "D. ⊿": 1
+        }
+    },
+    {
+        "input": "Imagine a forma de uma escada e escolha a opção que você considera mais próxima ( )\nA. 9\nB. ⑶\nC. ⒂\nD. ▁▂▃",
+        "target_scores": {
+            "A. 9": 0,
+            "B. ⑶": 0,
+            "C. ⒂": 0,
+            "D. ▁▂▃": 1
+        }
+    },
+    {
+        "input": "Nas opções a seguir, quais combinações de objetos são semelhantes a \"▧\"?\nA. Granizo, gota de chuva\nB. Pântano, lama\nC. Tapete, cartaz\nD. Vulcão, lava",
+        "target_scores": {
+            "A. Granizo, gota de chuva": 0,
+            "B. Pântano, lama": 0,
+            "C. Tapete, cartaz": 1,
+            "D. Vulcão, lava": 0
+        }
+    },
+    {
+        "input": "Se você quisesse usar um símbolo para representar uma \"maçaneta\", o símbolo mais próximo de \"maçaneta\" é ( ).\nA. з\nB. и\nC. й\nD. ю",
+        "target_scores": {
+            "A. з": 0,
+            "B. и": 0,
+            "C. й": 0,
+            "D. ю": 1
+        }
+    },
+    {
+        "input": "Qual das opções a seguir pode ser usada para representar uma chaminé? ( )\nA. ╓\nB. ホ\nC. ボ\nD. ポ",
+        "target_scores": {
+            "A. ╓": 1,
+            "B. ホ": 0,
+            "C. ボ": 0,
+            "D. ポ": 0
+        }
+    },
+    {
+        "input": "Escolha uma opção que melhor corresponda ao formato dos olhos ( )\nA. σ\nB. ア\nC. ィ\nD. イ",
+        "target_scores": {
+            "A. σ": 1,
+            "B. ア": 0,
+            "C. ィ": 0,
+            "D. イ": 0
+        }
+    },
+    {
+        "input": "A forma de \"﹄\" é mais próxima de qual combinação de objetos nas opções a seguir?\nA. Canudo, cachimbo\nB. Laranja, romã\nC. Panetone, pão de queijo\nD. Toalha de mesa, lenço",
+        "target_scores": {
+            "A. Canudo, cachimbo": 1,
+            "B. Laranja, romã": 0,
+            "C. Panetone, pão de queijo": 0,
+            "D. Toalha de mesa, lenço": 0
+        }
+    },
+    {
+        "input": "Nas opções a seguir, quais combinações de objetos têm forma mais próxima de \"︼\"?\nA. Bolo, pêssego\nB. Cinzeiro, tigela\nC. Medidor de combustível, relógio de pulso\nD. Protetor labial, perfume",
+        "target_scores": {
+            "A. Bolo, pêssego": 0,
+            "B. Cinzeiro, tigela": 1,
+            "C. Medidor de combustível, relógio de pulso": 0,
+            "D. Protetor labial, perfume": 0
+        }
+    },
+    {
+        "input": "\"▒\" é mais semelhante a qual das opções a seguir?\nA. Capa de chuva\nB. Caracol\nC. Folha\nD. Tela de arame",
+        "target_scores": {
+            "A. Capa de chuva": 0,
+            "B. Caracol": 0,
+            "C. Folha": 0,
+            "D. Tela de arame": 1
+        }
+    },
+    {
+        "input": "Escolha entre as opções a seguir o item que mais se parece com \"▩\" ( )\nA. Cebola\nB. Disco\nC. Lenço\nD. Mangostão",
+        "target_scores": {
+            "A. Cebola": 0,
+            "B. Disco": 0,
+            "C. Lenço": 1,
+            "D. Mangostão": 0
+        }
+    },
+    {
+        "input": "A forma de \"◐\" se parece muito com qual das opções a seguir?\nA. Bola de vôlei\nB. Macarrão instantâneo\nC. Queijo coalho\nD. Taro",
+        "target_scores": {
+            "A. Bola de vôlei": 1,
+            "B. Macarrão instantâneo": 0,
+            "C. Queijo coalho": 0,
+            "D. Taro": 0
+        }
+    },
+    {
+        "input": "Geovana foi solicitada a usar um símbolo para representar um botão. Usando sua imaginação, escolha a opção mais próxima ( )\nA. ń\nB. ◈\nC. や\nD. ゅ",
+        "target_scores": {
+            "A. ń": 0,
+            "B. ◈": 1,
+            "C. や": 0,
+            "D. ゅ": 0
+        }
+    },
+    {
+        "input": "O que o símbolo \"Ψ\" faz as pessoas associarem?\nA. Bolo de rapadura\nB. Desenho animado\nC. Gibi\nD. Tridente do aquaman",
+        "target_scores": {
+            "A. Bolo de rapadura": 0,
+            "B. Desenho animado": 0,
+            "C. Gibi": 0,
+            "D. Tridente do aquaman": 1
+        }
+    },
+    {
+        "input": "Nas opções a seguir, quais combinações de objetos são semelhantes a \"﹋﹌\"?\nA. Laço, chiclete\nB. Limpador de para-brisa, escova de banho\nC. Mar, rio\nD. Varal, espeto de bambu",
+        "target_scores": {
+            "A. Laço, chiclete": 0,
+            "B. Limpador de para-brisa, escova de banho": 0,
+            "C. Mar, rio": 1,
+            "D. Varal, espeto de bambu": 0
+        }
+    },
+    {
+        "input": "A forma de \"∽\" é mais próxima de quais das seguintes coisas? ①fio de cabelo ②linha de lã ③ondas de água ④ninho de gato\nA. ①②③\nB. ①②④\nC. ②③④\nD. ②④",
+        "target_scores": {
+            "A. ①②③": 1,
+            "B. ①②④": 0,
+            "C. ②③④": 0,
+            "D. ②④": 0
+        }
+    },
+    {
+        "input": "Qual das opções a seguir pode ser representada por \"ｚ\"? ①pista de corrida ②cobra ③relâmpago ④longan\nA. ①②③\nB. ①②④\nC. ②③④\nD. ③④",
+        "target_scores": {
+            "A. ①②③": 1,
+            "B. ①②④": 0,
+            "C. ②③④": 0,
+            "D. ③④": 0
+        }
+    },
+    {
+        "input": "\"୨\" Ao ver este símbolo, as pessoas sentem que já o viram antes, pois o símbolo se parece com ( ) ①girino ②fone de ouvido ③balão ④coelho\nA. ①②③\nB. ①②④\nC. ①③④ \nD. ②③④",
+        "target_scores": {
+            "A. ①②③": 1,
+            "B. ①②④": 0,
+            "C. ①③④ ": 0,
+            "D. ②③④": 0
+        }
+    },
+    {
+        "input": "O professor levanta um cartão com o símbolo \"‰\". Quatro alunos dão as seguintes respostas: ①lagarta ②pizza ③brinco ④pingente de pérola. Qual combinação é mais adequada?\nA. ①②④\nB. ①③④\nC. ②③④\nD. ②④",
+        "target_scores": {
+            "A. ①②④": 0,
+            "B. ①③④": 1,
+            "C. ②③④": 0,
+            "D. ②④": 0
+        }
+    },
+    {
+        "input": "O símbolo \"D\" pode representar muitas coisas do cotidiano, como ①arco ②escudo ③maçaneta ④cubo mágico. Escolha a combinação mais próxima ( )\nA. ①②③\nB. ①②④\nC. ②③④\nD. ③④",
+        "target_scores": {
+            "A. ①②③": 1,
+            "B. ①②④": 0,
+            "C. ②③④": 0,
+            "D. ③④": 0
+        }
+    },
+    {
+        "input": "\"Ｉ\" se assemelha a muitos objetos. Qual combinação é mais semelhante? ①haltere ②poste de luz ③morango ④tomate\nA. ①②\nB. ②③\nC. ②③④\nD. ③④",
+        "target_scores": {
+            "A. ①②": 1,
+            "B. ②③": 0,
+            "C. ②③④": 0,
+            "D. ③④": 0
+        }
+    },
+    {
+        "input": "\"ん\" pode representar muitas coisas. Qual a combinação mais provável? ①rabo de animal ②anzol ③pão de nata ④videira\nA. ①②③\nB. ①②④\nC. ②③④\nD. ③④",
+        "target_scores": {
+            "A. ①②③": 0,
+            "B. ①②④": 1,
+            "C. ②③④": 0,
+            "D. ③④": 0
+        }
+    },
+    {
+        "input": "O professor pediu a Tina para imaginar o que \"ξ\" poderia representar: ①porta ②ondas ③mola ④nuvem\nA. ①②③\nB. ①②④\nC. ①③④\nD. ②③④",
+        "target_scores": {
+            "A. ①②③": 0,
+            "B. ①②④": 0,
+            "C. ①③④": 0,
+            "D. ②③④": 1
+        }
+    },
+    {
+        "input": "Imagine a forma de um laço e escolha a opção que mais corresponde entre as seguintes ( )\nA. B\nB. ま\nC. ラ\nD. リ",
+        "target_scores": {
+            "A. B": 1,
+            "B. ま": 0,
+            "C. ラ": 0,
+            "D. リ": 0
+        }
+    },
+    {
+        "input": "Se perguntassem qual das opções a seguir faria você pensar em uma mulher grávida, qual escolheria?\nA. я\nB. ┥\nC. ┦\nD. ┳",
+        "target_scores": {
+            "A. я": 1,
+            "B. ┥": 0,
+            "C. ┦": 0,
+            "D. ┳": 0
+        }
+    },
+    {
+        "input": "\"￡\" faz as pessoas naturalmente pensarem em algo. O que seria?\nA. Chave\nB. Concha\nC. Concha do mar\nD. Golfinho",
+        "target_scores": {
+            "A. Chave": 1,
+            "B. Concha": 0,
+            "C. Concha do mar": 0,
+            "D. Golfinho": 0
+        }
+    },
+    {
+        "input": "\"ヨ\" se parece muito com um objeto do cotidiano. Que objeto é esse?\nA. Algodão-doce\nB. Estante de três prateleiras\nC. Folhado\nD. Pastel de gema",
+        "target_scores": {
+            "A. Algodão-doce": 0,
+            "B. Estante de três prateleiras": 1,
+            "C. Folhado": 0,
+            "D. Pastel de gema": 0
+        }
+    },
+    {
+        "input": "Ao ver o símbolo \"☊\", qual das opções a seguir vem à sua mente?\nA. Fone de ouvido\nB. Panela elétrica de arroz\nC. Pá de ferro\nD. Tronco de árvore",
+        "target_scores": {
+            "A. Fone de ouvido": 1,
+            "B. Panela elétrica de arroz": 0,
+            "C. Pá de ferro": 0,
+            "D. Tronco de árvore": 0
+        }
+    },
+    {
+        "input": "Qual das opções a seguir mais se parece com \"〥\"?\nA. Caneta esferográfica\nB. Cebola\nC. Hambúrguer\nD. Papel",
+        "target_scores": {
+            "A. Caneta esferográfica": 0,
+            "B. Cebola": 1,
+            "C. Hambúrguer": 0,
+            "D. Papel": 0
+        }
+    },
+    {
+        "input": "Qual objeto mais se aproxima da sua primeira impressão ao ver \"д\"?\nA. Giz de cera\nB. Pintinho\nC. Porquinho\nD. Águia",
+        "target_scores": {
+            "A. Giz de cera": 1,
+            "B. Pintinho": 0,
+            "C. Porquinho": 0,
+            "D. Águia": 0
+        }
+    },
+    {
+        "input": "Qual opção melhor corresponde ao símbolo \"♂\"?\nA. Escudo e lança\nB. Faca de cozinha\nC. Fogão de indução\nD. Panela de ensopado",
+        "target_scores": {
+            "A. Escudo e lança": 1,
+            "B. Faca de cozinha": 0,
+            "C. Fogão de indução": 0,
+            "D. Panela de ensopado": 0
+        }
+    },
+    {
+        "input": "Se você tivesse que escolher entre as opções a seguir qual mais se parece com uma barragem, escolheria ( )\nA. №\nB. ♫\nC. ㏒\nD. ︹",
+        "target_scores": {
+            "A. №": 0,
+            "B. ♫": 0,
+            "C. ㏒": 0,
+            "D. ︹": 1
+        }
+    },
+    {
+        "input": "Se você fosse um tratador de animais, qual símbolo você acharia mais parecido com a forma da \"orelha de um elefante\"?\nA. β\nB. ㈦\nC. ㈧\nD. ㈨",
+        "target_scores": {
+            "A. β": 1,
+            "B. ㈦": 0,
+            "C. ㈧": 0,
+            "D. ㈨": 0
+        }
+    },
+    {
+        "input": "A mãe pediu para Pedro imaginar a forma de um pássaro voando e escolher entre as opções a que mais se parece com um pássaro voando. Pedro escolheria ( )\nA. ℅\nB. ⒀\nC. ⒁\nD. 》",
+        "target_scores": {
+            "A. ℅": 0,
+            "B. ⒀": 0,
+            "C. ⒁": 0,
+            "D. 》": 1
+        }
+    },
+    {
+        "input": "Escolha a opção que mais se parece com uma cauda de peixe ( )\nA. à\nB. ǎ\nC. ⅸ\nD. 《",
+        "target_scores": {
+            "A. à": 0,
+            "B. ǎ": 0,
+            "C. ⅸ": 0,
+            "D. 《": 1
+        }
+    },
+    {
+        "input": "Coloque-se no lugar de um pescador e escolha a opção mais próxima de um redemoinho no oceano ( )\nA. °′″\nB. ℃\nC. ℉\nD. の",
+        "target_scores": {
+            "A. °′″": 0,
+            "B. ℃": 0,
+            "C. ℉": 0,
+            "D. の": 1
+        }
+    },
+    {
+        "input": "Imagine a forma de um casco de cavalo. Qual das opções a seguir mais se parece com uma ferradura de cavalo? ( )\nA. ω\nB. ㄔ\nC. ㄠ\nD. ㄡ",
+        "target_scores": {
+            "A. ω": 1,
+            "B. ㄔ": 0,
+            "C. ㄠ": 0,
+            "D. ㄡ": 0
+        }
+    },
+    {
+        "input": "Qual das quatro opções a seguir mais se parece com uma rampa?\nA. ㄈ\nB. ㄖ\nC. ㄗ\nD. ㄟ",
+        "target_scores": {
+            "A. ㄈ": 0,
+            "B. ㄖ": 0,
+            "C. ㄗ": 0,
+            "D. ㄟ": 1
+        }
+    },
+    {
+        "input": "Imagine-se como um entusiasta da vida selvagem. Qual símbolo você acharia mais parecido com a forma de um cisne?\nA. 2\nB. ¤\nC. ≤\nD. ≥",
+        "target_scores": {
+            "A. 2": 1,
+            "B. ¤": 0,
+            "C. ≤": 0,
+            "D. ≥": 0
+        }
+    },
+    {
+        "input": "\"Э\" Ao ver este símbolo, as pessoas sentem que já o viram antes, pois o símbolo se parece com ( ) ①controle de videogame ②fone de telefone ③fones de ouvido ④rosa\nA. ①②③\nB. ①②④\nC. ②③④\nD. ②④",
+        "target_scores": {
+            "A. ①②③": 1,
+            "B. ①②④": 0,
+            "C. ②③④": 0,
+            "D. ②④": 0
+        }
+    },
+    {
+        "input": "O avô levanta um quadro e pergunta ao pequeno Diego qual opção mais se aproxima do quadro. No quadro está o símbolo \"╠╡\". As opções são: ①placa de circuito ②divisória de estante ③lagarto ④peça de quebra-cabeça\nA. ①②③\nB. ①②④\nC. ②③④\nD. ②④",
+        "target_scores": {
+            "A. ①②③": 0,
+            "B. ①②④": 1,
+            "C. ②③④": 0,
+            "D. ②④": 0
+        }
+    },
+    {
+        "input": "O professor levanta um cartão com o símbolo \"⊙\". Quatro alunos dão as seguintes respostas: ①chifre de cabra ②bola oca ③pupila ④alvo. Qual combinação é mais adequada?\nA. ①②③\nB. ①②④\nC. ①③④\nD. ②③④",
+        "target_scores": {
+            "A. ①②③": 0,
+            "B. ①②④": 0,
+            "C. ①③④": 0,
+            "D. ②③④": 1
+        }
+    },
+    {
+        "input": "Em uma atividade de jogo, os participantes devem associar rapidamente objetos relacionados a um símbolo fornecido para ganhar o prêmio. O apresentador levanta um cartão com o símbolo \"▤\". Quatro participantes dão as seguintes respostas: ①sapato de salto alto ②persiana ③azulejo ④estante de livros. Qual dessas respostas tem a associação mais próxima?\nA. ①②③\nB. ①②④\nC. ①③④\nD. ②③④",
+        "target_scores": {
+            "A. ①②③": 0,
+            "B. ①②④": 0,
+            "C. ①③④": 0,
+            "D. ②③④": 1
+        }
+    },
+    {
+        "input": "\"ㄜ\" pode representar muitos objetos. Qual a combinação mais provável? ①anzol ②monociclo ③corrimão do bonde ④batata\nA. ①②③\nB. ①②④\nC. ②③④\nD. ③④",
+        "target_scores": {
+            "A. ①②③": 1,
+            "B. ①②④": 0,
+            "C. ②③④": 0,
+            "D. ③④": 0
+        }
+    },
+    {
+        "input": "O símbolo \"┯\" pode simbolizar muitas coisas do cotidiano, como ①placa de rua ②enxada ③ponto de ônibus ④feijão. Escolha a combinação mais provável ( )\nA. ①②③\nB. ①②④\nC. ②③④\nD. ③④",
+        "target_scores": {
+            "A. ①②③": 1,
+            "B. ①②④": 0,
+            "C. ②③④": 0,
+            "D. ③④": 0
+        }
+    },
+    {
+        "input": "Imagine a forma de um dente-de-leão e escolha a opção mais próxima entre as seguintes ( )\nA. ъ\nB. ь\nC. ※\nD. ∑",
+        "target_scores": {
+            "A. ъ": 0,
+            "B. ь": 0,
+            "C. ※": 1,
+            "D. ∑": 0
+        }
+    },
+    {
+        "input": "Tina foi solicitada a usar um símbolo para representar uma muleta. Usando sua imaginação, escolha a opção mais próxima ( )\nA. Г\nB. ☜\nC. ☞\nD. ☺",
+        "target_scores": {
+            "A. Г": 1,
+            "B. ☜": 0,
+            "C. ☞": 0,
+            "D. ☺": 0
+        }
+    },
+    {
+        "input": "Se você fosse um artista, qual símbolo usaria para criar uma pintura descrevendo a lua cheia?\nA. ⅵ\nB. ∟\nC. ⊿\nD. ●",
+        "target_scores": {
+            "A. ⅵ": 0,
+            "B. ∟": 0,
+            "C. ⊿": 0,
+            "D. ●": 1
+        }
+    },
+    {
+        "input": "Qual símbolo um cardiologista usaria para descrever um eletrocardiograma?\nA. √\nB. 弎\nC. 弐\nD. 朤",
+        "target_scores": {
+            "A. √": 1,
+            "B. 弎": 0,
+            "C. 弐": 0,
+            "D. 朤": 0
+        }
+    },
+    {
+        "input": "Grãos de café podem ser representados pela opção ( )\nA. θ\nB. ≡\nC. ◢\nD. ㈱",
+        "target_scores": {
+            "A. θ": 1,
+            "B. ≡": 0,
+            "C. ◢": 0,
+            "D. ㈱": 0
+        }
+    },
+    {
+        "input": "Mateus quer usar um dos símbolos a seguir para descrever um fósforo recém aceso. Ele pode escolher ( )\nA. í\nB. ⑤\nC. ⑥\nD. ⑦",
+        "target_scores": {
+            "A. í": 1,
+            "B. ⑤": 0,
+            "C. ⑥": 0,
+            "D. ⑦": 0
+        }
+    },
+    {
+        "input": "Se você quisesse usar um símbolo para representar uma \"pessoa montando a cavalo\", esse símbolo poderia ser ( )\nA. ㄢ\nB. ︾\nC. ﹁\nD. ﹂",
+        "target_scores": {
+            "A. ㄢ": 1,
+            "B. ︾": 0,
+            "C. ﹁": 0,
+            "D. ﹂": 0
+        }
+    },
+    {
+        "input": "Qual das opções a seguir pode ser usada para representar uma \"pessoa deitada no chão\"? ( )\nA. ㄤ\nB. ＜\nC. ＝\nD. ＞",
+        "target_scores": {
+            "A. ㄤ": 1,
+            "B. ＜": 0,
+            "C. ＝": 0,
+            "D. ＞": 0
+        }
+    },
+    {
+        "input": "Júlia foi solicitada a usar um símbolo para representar uma pessoa correndo. Usando sua imaginação, escolha a opção mais próxima ( )\nA. ⑴\nB. ⑵\nC. ⑶\nD. ㄌ",
+        "target_scores": {
+            "A. ⑴": 0,
+            "B. ⑵": 0,
+            "C. ⑶": 0,
+            "D. ㄌ": 1
+        }
+    },
+    {
+        "input": "Qual das opções a seguir é mais semelhante aos lábios superior e inferior humanos?\nA. 3\nB. ［\nC. ＼\nD. ］",
+        "target_scores": {
+            "A. 3": 1,
+            "B. ［": 0,
+            "C. ＼": 0,
+            "D. ］": 0
+        }
+    },
+    {
+        "input": "Nas opções a seguir, quais combinações de objetos têm forma mais próxima de \"〇\"?\nA. Formiga, pulga\nB. Morcego, mosquito\nC. Pulseira, anel\nD. Rádio, coqueteleira",
+        "target_scores": {
+            "A. Formiga, pulga": 0,
+            "B. Morcego, mosquito": 0,
+            "C. Pulseira, anel": 1,
+            "D. Rádio, coqueteleira": 0
+        }
+    },
+    {
+        "input": "\"Ъ\" é mais semelhante a qual das opções a seguir?\nA. Avião\nB. Caracol\nC. Ilha de fernando de noronha\nD. Ilha de itaparica",
+        "target_scores": {
+            "A. Avião": 0,
+            "B. Caracol": 1,
+            "C. Ilha de fernando de noronha": 0,
+            "D. Ilha de itaparica": 0
+        }
+    },
+    {
+        "input": "Escolha entre as opções a seguir o item que mais se parece com \"ω\" ( )\nA. Bicho-pau\nB. Centopeia\nC. Grilo\nD. Pata de animal",
+        "target_scores": {
+            "A. Bicho-pau": 0,
+            "B. Centopeia": 0,
+            "C. Grilo": 0,
+            "D. Pata de animal": 1
+        }
+    },
+    {
+        "input": "A forma de \"ｔ\" se parece muito com qual das opções a seguir?\nA. Coentro\nB. Cogumelo shimeji\nC. Verdura\nD. âncora de navio",
+        "target_scores": {
+            "A. Coentro": 0,
+            "B. Cogumelo shimeji": 0,
+            "C. Verdura": 0,
+            "D. âncora de navio": 1
+        }
+    },
+    {
+        "input": "O símbolo \"≠\" se parece um pouco com qual das opções a seguir? ( )\nA. Dado\nB. Escada de bombeiro\nC. Nota fiscal\nD. Peneira",
+        "target_scores": {
+            "A. Dado": 0,
+            "B. Escada de bombeiro": 1,
+            "C. Nota fiscal": 0,
+            "D. Peneira": 0
+        }
+    },
+    {
+        "input": "Use sua imaginação para pensar no símbolo \"Ж\". Qual combinação de objetos mais se adequa a ele?\nA. Copo, balde\nB. Floco de neve, borboleta\nC. Nariz, sobrancelha\nD. Ovo de galinha, ovo de pato",
+        "target_scores": {
+            "A. Copo, balde": 0,
+            "B. Floco de neve, borboleta": 1,
+            "C. Nariz, sobrancelha": 0,
+            "D. Ovo de galinha, ovo de pato": 0
+        }
+    },
+    {
+        "input": "\"C\" não poderia ser um objeto do cotidiano. Que objeto seria esse?\nA. Banana\nB. Fone\nC. Lua\nD. Televisão",
+        "target_scores": {
+            "A. Banana": 0,
+            "B. Fone": 0,
+            "C. Lua": 0,
+            "D. Televisão": 1
+        }
+    },
+    {
+        "input": "Qual objeto mais se aproxima da sua primeira impressão ao ver \"⌒\"?\nA. Placa de carro\nB. Símbolo de banheiro\nC. Símbolo de saída de emergência\nD. Tiara de cabelo",
+        "target_scores": {
+            "A. Placa de carro": 0,
+            "B. Símbolo de banheiro": 0,
+            "C. Símbolo de saída de emergência": 0,
+            "D. Tiara de cabelo": 1
+        }
+    },
+    {
+        "input": "\"↓\" - Escolha as opções que mais se aproximam da forma deste símbolo. ①pincel de caligrafia ②vassoura ③ponteiro de relógio ④birimbau\nA. ①②③\nB. ①②④\nC. ②③④\nD. ③④",
+        "target_scores": {
+            "A. ①②③": 1,
+            "B. ①②④": 0,
+            "C. ②③④": 0,
+            "D. ③④": 0
+        }
+    },
+    {
+        "input": "Qual das opções a seguir melhor corresponde ao símbolo \"Ｐ\"? ①estacionamento ②bandeira ③taco de golfe ④harpa\nA. ①②③\nB. ①②④\nC. ②③④\nD. ③④",
+        "target_scores": {
+            "A. ①②③": 1,
+            "B. ①②④": 0,
+            "C. ②③④": 0,
+            "D. ③④": 0
+        }
+    },
+    {
+        "input": "A forma de \"╬\" é mais próxima de quais das seguintes coisas? ①peça de Lego ②cruzamento ③tubo de escape ④salgueiro\nA. ①②③\nB. ①②④\nC. ②③④\nD. ③④",
+        "target_scores": {
+            "A. ①②③": 1,
+            "B. ①②④": 0,
+            "C. ②③④": 0,
+            "D. ③④": 0
+        }
+    },
+    {
+        "input": "Qual dos objetos nas opções a seguir pode ser representado por \"λ\"? ①barraca ②chapéu de mágico ③ovo preservado ④tofu\nA. ①②\nB. ①③④\nC. ②④\nD. ③④",
+        "target_scores": {
+            "A. ①②": 1,
+            "B. ①③④": 0,
+            "C. ②④": 0,
+            "D. ③④": 0
+        }
+    },
+    {
+        "input": "Qual das opções a seguir pode ser representada por \"Н\"? ①equipamento de ginástica ②trave de futebol ③cerca ④longan\nA. ①②③\nB. ①②④\nC. ②③④\nD. ②④",
+        "target_scores": {
+            "A. ①②③": 1,
+            "B. ①②④": 0,
+            "C. ②③④": 0,
+            "D. ②④": 0
+        }
+    },
+    {
+        "input": "\"ㄖ\" Ao ver este símbolo, as pessoas sentem que é familiar, pois o símbolo se parece com ( ) ①livro ②chinelo ③tamanco de madeira ④catapora\nA. ①②③\nB. ①②④\nC. ②③④\nD. ②④",
+        "target_scores": {
+            "A. ①②③": 1,
+            "B. ①②④": 0,
+            "C. ②③④": 0,
+            "D. ②④": 0
+        }
+    },
+    {
+        "input": "O professor Oliveira levanta um papel com o símbolo \"♣\". Quatro alunos dão as seguintes respostas: ①brócolis ②árvore ③raposa ④lhama. Qual combinação é mais adequada?\nA. ①②\nB. ①③④\nC. ②④\nD. ③④",
+        "target_scores": {
+            "A. ①②": 1,
+            "B. ①③④": 0,
+            "C. ②④": 0,
+            "D. ③④": 0
+        }
+    },
+    {
+        "input": "O símbolo \"☆\" pode representar muitas coisas do cotidiano, como ①enfeite de cabelo ②medalha ③adesivo ④konjac. Escolha a combinação mais próxima ( )\nA. ①②③\nB. ①②④\nC. ②③④\nD. ②④",
+        "target_scores": {
+            "A. ①②③": 1,
+            "B. ①②④": 0,
+            "C. ②③④": 0,
+            "D. ②④": 0
+        }
+    },
+    {
+        "input": "O apresentador levanta um cartão com o símbolo \"回\". Quatro participantes dão as seguintes respostas: ①moldura ②forno ③torrada ④besouro. Qual é a mais semelhante?\nA. ①②③\nB. ①②④\nC. ②③④\nD. ②④",
+        "target_scores": {
+            "A. ①②③": 1,
+            "B. ①②④": 0,
+            "C. ②③④": 0,
+            "D. ②④": 0
+        }
+    },
+    {
+        "input": "\"6\" pode representar muitas coisas. Qual a combinação mais provável? ①olho ②tomate cereja ③pão de nata ④videira\nA. ①②④\nB. ①③④\nC. ②④\nD. ③④",
+        "target_scores": {
+            "A. ①②④": 1,
+            "B. ①③④": 0,
+            "C. ②④": 0,
+            "D. ③④": 0
+        }
+    },
+    {
+        "input": "Observe atentamente o símbolo \"⊙\". Qual dos objetos nas opções a seguir NÃO pode ser representado por este símbolo?\nA. Disco\nB. Globo terrestre\nC. Hamster\nD. Mesa de jantar",
+        "target_scores": {
+            "A. Disco": 0,
+            "B. Globo terrestre": 0,
+            "C. Hamster": 1,
+            "D. Mesa de jantar": 0
+        }
+    },
+    {
+        "input": "O símbolo \"⊕\" se assemelha a muitos objetos, mas qual das opções a seguir ( ) NÃO se parece com este símbolo?\nA. Caixa de remédio\nB. Cuscuzeira\nC. Piscina de bolinhas\nD. árvore de ipê",
+        "target_scores": {
+            "A. Caixa de remédio": 0,
+            "B. Cuscuzeira": 0,
+            "C. Piscina de bolinhas": 0,
+            "D. árvore de ipê": 1
+        }
+    },
+    {
+        "input": "Nas opções a seguir, há uma opção ( ) cuja forma NÃO corresponde ao símbolo \"◇\".\nA. Berinjela\nB. Cubos em cartas de baralho\nC. Dominó\nD. Pedra preciosa",
+        "target_scores": {
+            "A. Berinjela": 1,
+            "B. Cubos em cartas de baralho": 0,
+            "C. Dominó": 0,
+            "D. Pedra preciosa": 0
+        }
+    },
+    {
+        "input": "Qual das opções a seguir é a MENOS provável de ser \"▽\"?\nA. Babador\nB. Dente canino\nC. Planeta terra\nD. Salgadinho",
+        "target_scores": {
+            "A. Babador": 0,
+            "B. Dente canino": 0,
+            "C. Planeta terra": 1,
+            "D. Salgadinho": 0
+        }
+    },
+    {
+        "input": "Observe o símbolo \"▧\". Qual dos objetos nas opções a seguir NÃO pode ser representado por este símbolo?\nA. Cartaz\nB. Papel de parede\nC. Pneu\nD. Tapete",
+        "target_scores": {
+            "A. Cartaz": 0,
+            "B. Papel de parede": 0,
+            "C. Pneu": 1,
+            "D. Tapete": 0
+        }
+    },
+    {
+        "input": "O símbolo \"★\" se assemelha a muitos objetos, mas qual das opções a seguir ( ) é a que MENOS se parece com este símbolo?\nA. Cristo redentor\nB. Decoração de natal\nC. Estrela-do-mar\nD. Presilha",
+        "target_scores": {
+            "A. Cristo redentor": 1,
+            "B. Decoração de natal": 0,
+            "C. Estrela-do-mar": 0,
+            "D. Presilha": 0
+        }
+    },
+    {
+        "input": "Escolha a opção com o MENOR grau de associação com \"∫\".\nA. Cabra\nB. Fio de cabelo\nC. Lã\nD. Minhoca",
+        "target_scores": {
+            "A. Cabra": 1,
+            "B. Fio de cabelo": 0,
+            "C. Lã": 0,
+            "D. Minhoca": 0
+        }
+    },
+    {
+        "input": "Qual das opções a seguir é a MENOS provável de ser \"︻\"?\nA. Barragem\nB. Ovelha\nC. Pilar de ponte\nD. Sofá",
+        "target_scores": {
+            "A. Barragem": 0,
+            "B. Ovelha": 1,
+            "C. Pilar de ponte": 0,
+            "D. Sofá": 0
+        }
+    },
+    {
+        "input": "\"ㄓ\" pode representar muitas coisas, EXCETO ( )\nA. Balança\nB. Cacto\nC. Equipamento de ginástica\nD. Lontra",
+        "target_scores": {
+            "A. Balança": 0,
+            "B. Cacto": 0,
+            "C. Equipamento de ginástica": 0,
+            "D. Lontra": 1
+        }
+    }
+]

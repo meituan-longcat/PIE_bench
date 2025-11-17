@@ -1,0 +1,956 @@
+[
+    {
+        "input": "Una pieza requiere 2 horas para completar el proceso de cementación a 900 °C. Si se desea duplicar la profundidad de la capa cementada manteniendo las mismas condiciones de cementación, el tiempo necesario será de ______.\nA. 2 horas\nB. 2,8 horas\nC. 4 horas\nD. 8 horas",
+        "target_scores": {
+            "A. 2 horas": 0,
+            "B. 2,8 horas": 0,
+            "C. 4 horas": 1,
+            "D. 8 horas": 0
+        }
+    },
+    {
+        "input": "En una noche invernal, dos habitaciones tienen la misma temperatura y humedad del aire interior: una tiene pared exterior con ventana, la otra no. Si la vestimenta de los ocupantes es idéntica, ¿su sensación térmica será igual?\nA. El de la primera habitación se siente más frío, debido a una mayor radiación térmica entre las personas y la pared exterior con ventana.\nB. El de la primera habitación será más frío debido a la conducción térmica entre las personas y el suelo.\nC. El de la segunda habitación se siente más frío, debido a una mayor convección entre el aire interior y las personas.\nD. La sensación será igual porque la temperatura y humedad son idénticas.",
+        "target_scores": {
+            "A. El de la primera habitación se siente más frío, debido a una mayor radiación térmica entre las personas y la pared exterior con ventana.": 1,
+            "B. El de la primera habitación será más frío debido a la conducción térmica entre las personas y el suelo.": 0,
+            "C. El de la segunda habitación se siente más frío, debido a una mayor convección entre el aire interior y las personas.": 0,
+            "D. La sensación será igual porque la temperatura y humedad son idénticas.": 0
+        }
+    },
+    {
+        "input": "Si el vapor de agua saturado se condensa en el exterior de un tubo horizontal y con L > d y temperatura de pared constante, ¿cuál de las siguientes opciones aumentará la cantidad de agua condensada por unidad de tiempo?\nA. Añadir aletas bajas en el tubo\nB. Colocar el tubo en posición horizontal\nC. Colocar el tubo en posición vertical\nD. Inclinar el tubo",
+        "target_scores": {
+            "A. Añadir aletas bajas en el tubo": 1,
+            "B. Colocar el tubo en posición horizontal": 0,
+            "C. Colocar el tubo en posición vertical": 0,
+            "D. Inclinar el tubo": 0
+        }
+    },
+    {
+        "input": "En la calibración de un sistema de control en lazo cerrado, se observa que al aumentar la ganancia en lazo abierto, los resultados muestran que cuando la rapidez y la estabilidad cumplen con los requisitos de diseño, la precisión no es óptima. ¿Qué medida debe tomarse?\nA. Aumentar más la ganancia en lazo abierto\nB. Corrección adelantada\nC. Corrección combinada\nD. Corrección retardada",
+        "target_scores": {
+            "A. Aumentar más la ganancia en lazo abierto": 0,
+            "B. Corrección adelantada": 0,
+            "C. Corrección combinada": 0,
+            "D. Corrección retardada": 1
+        }
+    },
+    {
+        "input": "¿En cuál caso no se necesita un disipador de energía hidráulica? (ht: profundidad de aguas abajo; hc: profundidad post-salto del salto hidráulico crítico).\nA. hc < 1,05 ht\nB. hc < ht / 1,05\nC. hc > ht / 1,05\nD. hc=ht",
+        "target_scores": {
+            "A. hc < 1,05 ht": 0,
+            "B. hc < ht / 1,05": 1,
+            "C. hc > ht / 1,05": 0,
+            "D. hc=ht": 0
+        }
+    },
+    {
+        "input": "Si dos tuberías tienen igual longitud (L), diámetro (d), caudal (Q) y temperatura (t), pero en un tramo de longitud igual, la rugosidad $n1＞n2$. La relación entre diferencias de altura piezométrica $h1 y h2$ es ______.\nA. $h1=h2$\nB. $h1＜h2$\nC. $h1＞h2$\nD. Indeterminado",
+        "target_scores": {
+            "A. $h1=h2$": 0,
+            "B. $h1＜h2$": 0,
+            "C. $h1＞h2$": 1,
+            "D. Indeterminado": 0
+        }
+    },
+    {
+        "input": "Cuatro canales prismáticos de sección rectangular tienen el mismo área hidráulica, coeficiente de rugosidad de Manning y pendiente del fondo. Si varían el ancho del canal (b) y la profundidad de flujo uniforme (h₀) en las siguientes combinaciones, ¿cuál de ellos conduce el mayor caudal?\nA. b1=4m, h01=1m\nB. b2=2m, h02=2m\nC. b3=2,83m, h03=1,414m\nD. b4=2,67m, h04=1,5m",
+        "target_scores": {
+            "A. b1=4m, h01=1m": 0,
+            "B. b2=2m, h02=2m": 0,
+            "C. b3=2,83m, h03=1,414m": 1,
+            "D. b4=2,67m, h04=1,5m": 0
+        }
+    },
+    {
+        "input": "Dos canales trapezoidales tienen igual caudal, coeficiente de talud, rugosidad y ancho de base, pero pendiente $i1＞i2$. Entonces la relación entre la profundidad uniforme de flujo h_{01} y h_{02} es ______.\nA. $h01=h02$\nB. $h01＜h02$\nC. $h01＞h02$\nD. Indeterminado",
+        "target_scores": {
+            "A. $h01=h02$": 0,
+            "B. $h01＜h02$": 1,
+            "C. $h01＞h02$": 0,
+            "D. Indeterminado": 0
+        }
+    },
+    {
+        "input": "Dos canales trapezoidales tienen igual caudal, coeficiente de talud, ancho de base y pendiente, pero rugosidad $n1＞n2$. Entonces la relación entre la profundidad uniforme de flujo h01 y h02 es ______.\nA. $h01=h02$\nB. $h01＜h02$\nC. $h01＞h02$\nD. Indeterminado",
+        "target_scores": {
+            "A. $h01=h02$": 0,
+            "B. $h01＜h02$": 0,
+            "C. $h01＞h02$": 1,
+            "D. Indeterminado": 0
+        }
+    },
+    {
+        "input": "Cuando la altura de carga sobre la cresta de un vertedero práctico es mayor que la altura de diseño, la relación entre el coeficiente de gasto actual m y el coeficiente de gasto correspondiente al diseño m_d es: ______.\nA. $m=md$\nB. $m＜md$\nC. $m＞md$\nD. Indeterminado",
+        "target_scores": {
+            "A. $m=md$": 0,
+            "B. $m＜md$": 0,
+            "C. $m＞md$": 1,
+            "D. Indeterminado": 0
+        }
+    },
+    {
+        "input": "Dos vertederos  prácticos tipo WES, ambos de tipo alto, tienen cabezas de diseño $Hd1＞Hd2$, pero las cabezas sobre la cresta $H1=Hd1$ y $H2=Hd2$. Entonces la relación entre sus coeficientes de caudal m_1 y m_2 es ______.\nA. $m1=m2$\nB. $m1＜m2$\nC. $m1＞m2$\nD. Indeterminado",
+        "target_scores": {
+            "A. $m1=m2$": 1,
+            "B. $m1＜m2$": 0,
+            "C. $m1＞m2$": 0,
+            "D. Indeterminado": 0
+        }
+    },
+    {
+        "input": "El polinomio característico de un sistema de muestreo en lazo cerrado es $\\Phi(z)=(z+1)(z+0,5)(z+2)$. Este sistema es ______.\nA. Críticamente estable\nB. Estable\nC. Indeterminado\nD. Inestable",
+        "target_scores": {
+            "A. Críticamente estable": 0,
+            "B. Estable": 0,
+            "C. Indeterminado": 0,
+            "D. Inestable": 1
+        }
+    },
+    {
+        "input": "Dada la función de transferencia en pulso abierto de un sistema de control discreto es $G(z)=\\frac{1,264z}{(z-1)(z-0,368)}$. Entonces este sistema es ______.\nA. Sistema tipo 0\nB. Sistema tipo I\nC. Sistema tipo II\nD. Sistema tipo III",
+        "target_scores": {
+            "A. Sistema tipo 0": 0,
+            "B. Sistema tipo I": 1,
+            "C. Sistema tipo II": 0,
+            "D. Sistema tipo III": 0
+        }
+    },
+    {
+        "input": "En pruebas de campo se mide una velocidad de ondas longitudinales elásticas de 5 400 m/s en el macizo rocoso de un proyecto. En laboratorio, la velocidad medida en muestras intactas del mismo tipo de roca es de 6 000 m/s, y su resistencia a compresión uniaxial es de 110 MPa. Calcule el coeficiente de integridad del macizo rocoso y determine su estado de integridad.\nA. K=0,81, la roca es intacta\nB. K=0,81, la roca no es intacta\nC. K＜0,81, la roca es intacta\nD. K＜0,81, la roca no es intacta",
+        "target_scores": {
+            "A. K=0,81, la roca es intacta": 1,
+            "B. K=0,81, la roca no es intacta": 0,
+            "C. K＜0,81, la roca es intacta": 0,
+            "D. K＜0,81, la roca no es intacta": 0
+        }
+    },
+    {
+        "input": "Un sondeo de 2,0 m de profundidad recupera núcleos de roca con longitudes (de arriba hacia abajo): 3,5; 6,0; 7,5; 10,0; 15,2; 17,8; 10,0; 9,9; 5,0; 12,5; 4,5; 3,2; 10,2; 7,5; 15,7; 12,8; 21,0; 17,7; 10,0 (en cm). Calcule el índice de calidad del núcleo de sondeo (valor RQD) para este sondeo.\nA. 0,6743\nB. 0,7645\nC. 0,8345\nD. 0,8534",
+        "target_scores": {
+            "A. 0,6743": 0,
+            "B. 0,7645": 1,
+            "C. 0,8345": 0,
+            "D. 0,8534": 0
+        }
+    },
+    {
+        "input": "Se perfora la roca con una broca de diamante de 75 mm y tubo de núcleo doble, obteniendo núcleos de forma continua. En una pasada se extrajo un núcleo de 1 m, del cual las cinco piezas más largas miden 330 mm, 240 mm, 160 mm, 110 mm y 80 mm. Calcule el índice RQD.\nA. 0,75\nB. 0,84\nC. 0,85\nD. 0,88",
+        "target_scores": {
+            "A. 0,75": 0,
+            "B. 0,84": 1,
+            "C. 0,85": 0,
+            "D. 0,88": 0
+        }
+    },
+    {
+        "input": "Un cimiento de arena tiene nivel freático a 1,5 m. El peso unitario natural sobre el nivel es $17kN/m^3$, y el saturado es $19kN/m^3$. Calcule la tensión vertical total a 4,5 m de profundidad.\nA. 111 kPa\nB. 162 kPa\nC. 82,5 kPa\nD. 85,5 kPa",
+        "target_scores": {
+            "A. 111 kPa": 0,
+            "B. 162 kPa": 0,
+            "C. 82,5 kPa": 1,
+            "D. 85,5 kPa": 0
+        }
+    },
+    {
+        "input": "La porosidad de un suelo es del 52,29%. Entonces su índice de vacíos es ______.\nA. 0,3134\nB. 0,4771\nC. 0,9124\nD. 1,096",
+        "target_scores": {
+            "A. 0,3134": 0,
+            "B. 0,4771": 0,
+            "C. 0,9124": 0,
+            "D. 1,096": 1
+        }
+    },
+    {
+        "input": "En un cimiento de arcilla blanda y saturada, primero se retira rápidamente una carga pesada que había estado colocada siempre. Si un piezómetro está enterrado a cierta profundidad justo debajo de la carga, ¿cómo varía el nivel piezométrico durante la descarga?\nA. Baja\nB. Indeterminado\nC. Sin cambio\nD. Sube",
+        "target_scores": {
+            "A. Baja": 0,
+            "B. Indeterminado": 0,
+            "C. Sin cambio": 1,
+            "D. Sube": 0
+        }
+    },
+    {
+        "input": "Una zapata corrida bajo un muro está enterrada a una profundidad de 3 metros y está sometida a una carga axial. La carga vertical transmitida desde la superestructura a la parte superior de la cimentación es de 600 kN/m. El peso propio de la cimentación y el peso del suelo sobre ella se consideran con una densidad media de $20 kN/m^3$. Si el valor característico corregido de la capacidad portante del suelo es de 260 kPa, ¿cuál es el ancho mínimo de la zapata corrida para satisfacer los requisitos de capacidad portante del terreno?\nA. 3m\nB. 4m\nC. 5m\nD. 6m",
+        "target_scores": {
+            "A. 3m": 1,
+            "B. 4m": 0,
+            "C. 5m": 0,
+            "D. 6m": 0
+        }
+    },
+    {
+        "input": "Un automóvil de nuevo diseño tiene un área frontal de $1,5m^2$ y una velocidad máxima de 108 km/h. Se planea realizar una prueba con modelo en un túnel de viento. Si la velocidad máxima del flujo en la sección de prueba del túnel es de 45 m/s, ¿cuál debe ser el área frontal del modelo?\nA. $0,28m^2$\nB. $1m^2$\nC. $2,25m^2$\nD. $3,6m^2$",
+        "target_scores": {
+            "A. $0,28m^2$": 0,
+            "B. $1m^2$": 1,
+            "C. $2,25m^2$": 0,
+            "D. $3,6m^2$": 0
+        }
+    },
+    {
+        "input": "Un proyecto de construcción requiere una inversión de 10 millones de euros al inicio del primer año. A partir del final del primer año, se obtendrá un ingreso neto anual de 2 millones de euros al final de cada año. El período de operación del proyecto es de 10 años. El valor residual neto al final de su vida útil es cero. Si la tasa mínima atractiva de retorno es del 12%, ¿cuál es el valor anual neto aproximado del proyecto? [Se sabe que $(P/A,12\\%,10) =5,6502$]\nA. 123,4 mil  euros\nB. 230,2 mil  euros\nC. 360,4 mil  euros\nD. 646,0 mil  euros",
+        "target_scores": {
+            "A. 123,4 mil  euros": 0,
+            "B. 230,2 mil  euros": 1,
+            "C. 360,4 mil  euros": 0,
+            "D. 646,0 mil  euros": 0
+        }
+    },
+    {
+        "input": "Un proyecto con cinco procesos constructivos se organiza en tres etapas de flujo continuo con ritmo idéntico, resultando en un plazo total de 55 días. Si la suma de las holguras técnicas y organizativas asciende a 6 días, ¿cuál es el valor del intervalo de flujo entre cada proceso constructivo?\nA. 3 días\nB. 5 días\nC. 7 días\nD. 8 días",
+        "target_scores": {
+            "A. 3 días": 0,
+            "B. 5 días": 0,
+            "C. 7 días": 1,
+            "D. 8 días": 0
+        }
+    },
+    {
+        "input": "En un mapa topográfico a escala 1:20.000, se ha medido que el área de captación de un embalse es de $P＝1,6cm×10cm$ en el mapa. Durante un episodio de precipitaciones, (la lluvia media horaria) $m＝50mm$ con una duración de 2,5 horas (n), con coeficiente de evaporación $k＝0,4$, y utilizando la fórmula del caudal de escorrentía $Q＝P·m·n·k$, ¿cuál es el volumen de escorrentía generado por esta precipitación?\nA. $1,0×10^11m^3$\nB. $1,0×10^7m^3$\nC. $2,0×10^4m^3$\nD. $3,2×10^4m^3$",
+        "target_scores": {
+            "A. $1,0×10^11m^3$": 0,
+            "B. $1,0×10^7m^3$": 0,
+            "C. $2,0×10^4m^3$": 0,
+            "D. $3,2×10^4m^3$": 1
+        }
+    },
+    {
+        "input": "Para una zanja de 10 m de ancho se propone utilizar un sistema de desagüe con pozos ligeros. ¿Qué disposición en planta para este sistema es adecuada?\nA. Doble fila\nB. Forma U\nC. Forma anular\nD. Simple fila",
+        "target_scores": {
+            "A. Doble fila": 1,
+            "B. Forma U": 0,
+            "C. Forma anular": 0,
+            "D. Simple fila": 0
+        }
+    },
+    {
+        "input": "En un subproyecto, el volumen de obra es de $1.000 m^3$, con un plazo planificado de 5 días para completarlo, ejecutando una cantidad uniforme cada día. El costo unitario presupuestado es de $200 euros/m^3$. La mañana del tercer día, antes de comenzar la jornada laboral, se inspeccionó y se encontró que ya se había completado un volumen de obra de $600 m^3$, con un gasto real de 130.000 euros. ¿Cuál de las siguientes afirmaciones es correcta? ( )\nA. El desviación del progreso es de 20.000 euros, por lo tanto, el progreso está adelantado.\nB. El progreso real se ha adelantado 1 día.\nC. La desviación del avance es de 100 m³, por lo tanto, el avance está adelantado.\nD. La desviación del costo es de 10.000 euros, por lo tanto, hay ahorro en el costo.",
+        "target_scores": {
+            "A. El desviación del progreso es de 20.000 euros, por lo tanto, el progreso está adelantado.": 0,
+            "B. El progreso real se ha adelantado 1 día.": 1,
+            "C. La desviación del avance es de 100 m³, por lo tanto, el avance está adelantado.": 0,
+            "D. La desviación del costo es de 10.000 euros, por lo tanto, hay ahorro en el costo.": 0
+        }
+    },
+    {
+        "input": "Un ensayo de consolidación de una muestra de arcilla de 25,0 mm de espesor muestra que la presión de agua intersticial tarda 2 minutos y 45 segundos en disiparse desde su valor inicial hasta cero. Si en un suelo de fondo existe una capa de la misma arcilla de 4,6 m de espesor, y tanto la superficie superior como la inferior de esta capa de arcilla permiten el drenaje, ¿cuál será el tiempo de consolidación de dicha capa?\nA. 120 días\nB. 15,5 días\nC. 258,5 días\nD. 64,7 días",
+        "target_scores": {
+            "A. 120 días": 0,
+            "B. 15,5 días": 0,
+            "C. 258,5 días": 0,
+            "D. 64,7 días": 1
+        }
+    },
+    {
+        "input": "Al apilar rápidamente sobre un terreno de arena suelta saturada, si un tubo piezométrico está enterrado a cierta profundidad directamente bajo la pila de arena, ¿cómo variará el nivel piezométrico durante el apilamiento?\nA. Baja\nB. Indeterminado\nC. No cambia\nD. Sube",
+        "target_scores": {
+            "A. Baja": 0,
+            "B. Indeterminado": 0,
+            "C. No cambia": 1,
+            "D. Sube": 0
+        }
+    },
+    {
+        "input": "En un país extranjero, al calcular el coeficiente de compresión (constante) de una muestra de suelo mediante los resultados del ensayo de consolidación, se utiliza el logaritmo natural en lugar del logaritmo común. Si el índice de compresión (constante) de una muestra de suelo es 0,00485 y la tensión vertical aumenta hasta becoming 100 veces su estado inicial, ¿cómo cambiará la relación de porosidad de la muestra de suelo?\nA. Aumenta 0,0112\nB. Aumenta 0,0224\nC. Disminuye 0,0112\nD. Disminuye 0,0224",
+        "target_scores": {
+            "A. Aumenta 0,0112": 0,
+            "B. Aumenta 0,0224": 0,
+            "C. Disminuye 0,0112": 0,
+            "D. Disminuye 0,0224": 1
+        }
+    },
+    {
+        "input": "En la Prueba Estándar de Penetración, cuando el número de golpes alcanza los 50 mientras la profundidad de penetración es de 25 cm, ¿cuál es el número equivalente de golpes N para la profundidad estándar de 30 cm?\nA. 40\nB. 50\nC. 60\nD. 80",
+        "target_scores": {
+            "A. 40": 0,
+            "B. 50": 0,
+            "C. 60": 1,
+            "D. 80": 0
+        }
+    },
+    {
+        "input": "Un extensómetro manual con longitud de calibración L＝200mm utiliza un micrómetro para medir la deformación. Si la lectura es de 3 divisiones, ¿cuál es el valor de deformación obtenido (usando $μ_E$ para microdeformación)?\nA. $1,5μ_E$\nB. $12μ_E$\nC. $15μ_E$\nD. $6μ_E$",
+        "target_scores": {
+            "A. $1,5μ_E$": 0,
+            "B. $12μ_E$": 0,
+            "C. $15μ_E$": 1,
+            "D. $6μ_E$": 0
+        }
+    },
+    {
+        "input": "Los resultados de un ensayo de consolidación de una muestra de arcilla de 25 mm de espesor indican que la disipación de la presión de agua intersticial hasta cero tarda 11 minutos, y en este ensayo solo se permitió el drenaje por la superficie superior de la muestra. Si en un suelo de fondo existe una capa de la misma arcilla de 4,6 m de espesor cuya superficie superior e inferior permiten el drenaje, ¿cuál será el tiempo de consolidación de dicha capa de arcilla?\nA. 120 días\nB. 15,5 días\nC. 258,6 días\nD. 64,7 días",
+        "target_scores": {
+            "A. 120 días": 0,
+            "B. 15,5 días": 0,
+            "C. 258,6 días": 0,
+            "D. 64,7 días": 1
+        }
+    },
+    {
+        "input": "Un modelo de dique en centrífuga tiene una altura de 0,10 m y sufre fracaso cuando la aceleración centrífuga es de 61g. ¿Cuál es la altura máxima posible de un dique real construido con el mismo material?\nA. 1 m\nB. 10 m\nC. 6,1 m\nD. 61,1 m",
+        "target_scores": {
+            "A. 1 m": 0,
+            "B. 10 m": 0,
+            "C. 6,1 m": 1,
+            "D. 61,1 m": 0
+        }
+    },
+    {
+        "input": "Un agregado de partículas de suelo cohesionadas al vacío cae al fondo de un estanque de 10 m de profundidad. ¿Cuál es el cambio en su rigidez?\nA. Aumenta 10 veces\nB. Aumenta aproximadamente el doble\nC. Aumenta aproximadamente un 10\\%\nD. Permanece básicamente sin cambios",
+        "target_scores": {
+            "A. Aumenta 10 veces": 0,
+            "B. Aumenta aproximadamente el doble": 0,
+            "C. Aumenta aproximadamente un 10\\%": 0,
+            "D. Permanece básicamente sin cambios": 1
+        }
+    },
+    {
+        "input": "En una viga de hormigón armado fijada en ambos extremos y sometida a carga distribuida uniforme, el valor absoluto de la capacidad portante límite del momento fletor negativo en los apoyos es igual al del momento fletor positivo. ¿Cuál es el coeficiente de modulación de momento en los apoyos según el cálculo de redistribución plástica de fuerzas internas?\nA. 0,65\nB. 0,7\nC. 0,75\nD. 0,8",
+        "target_scores": {
+            "A. 0,65": 0,
+            "B. 0,7": 0,
+            "C. 0,75": 1,
+            "D. 0,8": 0
+        }
+    },
+    {
+        "input": "Una capa de arcilla de 5,1 m de espesor está sometida a una sobrecarga superficial de 30,0 kPa. Su coeficiente de permeabilidad es de 0,0004 m/d. Según la experiencia previa, esta capa de arcilla se comprimirá 0,040 m. Si el drenaje solo ocorre a través de la superficie superior o inferior, ¿cuál es el tiempo aproximado para que finalice la consolidación primaria?\nA. 170 días\nB. 240 días\nC. 340 días\nD. 50 días",
+        "target_scores": {
+            "A. 170 días": 1,
+            "B. 240 días": 0,
+            "C. 340 días": 0,
+            "D. 50 días": 0
+        }
+    },
+    {
+        "input": "En un suelo homogéneo con nivel freático a 1,80 m y flujo capilar ascendente de 0,60 m, el peso unitario seco es $15,9 kN/m^3$, el peso unitario saturado $17 kN/m^3$, y la sobrecarga superficial $25,60 kN/m^2$. La tensión vertical efectiva a 3,50 m de profundidad es ______.\nA. 41,39 kPa\nB. 66,78 kPa\nC. 70,71 kPa\nD. 72,99 kPa",
+        "target_scores": {
+            "A. 41,39 kPa": 0,
+            "B. 66,78 kPa": 1,
+            "C. 70,71 kPa": 0,
+            "D. 72,99 kPa": 0
+        }
+    },
+    {
+        "input": "Una pila de una cimentación por pilotes tiene una sección transversal de 400 mm × 400 mm. Las capas de suelo del terreno de la construcción son, en orden desde arriba hacia abajo: arcilla limosa (3 m de espesor), arena gruesa medianamente densa (4 m de espesor) y roca blanda ligeramente meteorizada (5 m de espesor). Los valores característicos de fricción del suelo alrededor del pilote son 20 kPa, 40 kPa y 65 kPa respectivamente. La longitud del pilote es 9 m, y la capacidad portante característica del suelo-roca en la punta es 6.000 kPa. ¿Cuál es el valor característico de capacidad portante vertical del pilote individual? ( )\nA. 1.120 kN\nB. 1.420 kN\nC. 1.520 kN\nD. 1.680 kN",
+        "target_scores": {
+            "A. 1.120 kN": 0,
+            "B. 1.420 kN": 0,
+            "C. 1.520 kN": 1,
+            "D. 1.680 kN": 0
+        }
+    },
+    {
+        "input": "Un telémetro de doble frecuencia tiene un alcance de 1 km, con dos escalas: fina (10 m, frecuencia portadora f=15 MHz) y gruesa (1000 m, frecuencia portadora f=150 kHz). La precisión de medición de fase es 1/1000. ¿Cuál es la precisión máxima alcanzable por el instrumento? ( )\nA. cm\nB. dm\nC. m\nD. mm",
+        "target_scores": {
+            "A. cm": 1,
+            "B. dm": 0,
+            "C. m": 0,
+            "D. mm": 0
+        }
+    },
+    {
+        "input": "En un suelo uniforme, la profundidad del nivel freático es de 1,40 m. Sin considerar el efecto capilar en el suelo, el peso unitario del suelo sobre el nivel freático es de 15,8 kN/m³, y el peso unitario saturado del suelo por debajo del nivel freático es de 19,8 kN/m³. ¿Cuál es la tensión vertical efectiva a una profundidad de 3,60 m desde la superficie?\nA. 34,68 kPa\nB. 43,68 kPa\nC. 64,45 kPa\nD. 71,28 kPa",
+        "target_scores": {
+            "A. 34,68 kPa": 0,
+            "B. 43,68 kPa": 1,
+            "C. 64,45 kPa": 0,
+            "D. 71,28 kPa": 0
+        }
+    },
+    {
+        "input": "En una arcilla con cohesión de 10 kPa, ángulo de fricción interna de 10 grados y peso unitario de 18 kN/m³, se realiza una excavación vertical. ¿Cuál es la altura máxima para que las paredes laterales permanezcan sin deslizarse?\nA. 0 m\nB. 1,3 m\nC. 10 m\nD. 5,2 m",
+        "target_scores": {
+            "A. 0 m": 0,
+            "B. 1,3 m": 1,
+            "C. 10 m": 0,
+            "D. 5,2 m": 0
+        }
+    },
+    {
+        "input": "En una cimentación de arcilla cohesiva, se realiza una prueba de carga de placa superficial con una placa de carga de 0,5m×0,5m. Los resultados muestran que el segmento inicial de la curva presión-asentamiento (curva p-s) es lineal, con una relación entre la presión en la base de la placa y el asentamiento de 25 kPa/mm. Tomando un coeficiente de forma de placa cuadrada de 0,886 y una relación de Poisson de 0,4 para la arcilla cohesiva, el módulo de deformación del suelo de cimentación es ( ). （$\\mathbf{E_{0}=\\omega(1-\\mu^{2})Pb/s}$）\nA. 8.243 kPa\nB. 9.121 kPa\nC. 9.303 kPa\nD. 9.653 kPa",
+        "target_scores": {
+            "A. 8.243 kPa": 0,
+            "B. 9.121 kPa": 0,
+            "C. 9.303 kPa": 1,
+            "D. 9.653 kPa": 0
+        }
+    },
+    {
+        "input": "Una zapata corrida enterrada a 3m de profundidad, con un ancho de 3,5m, recibe una fuerza vertical de 200 kN/m desde la superestructura en la parte superior de la cimentación, y un momento de excentricidad de 50 kN·m/m. Considerando que el peso propio de la cimentación y el peso del suelo sobre ella pueden calcularse con un peso unitario combinado de 20 kN/m³, la presión máxima en el borde de la base de la cimentación es ( ).\nA. 141,6 kPa\nB. 180,5 kPa\nC. 212,1 kPa\nD. 340,3 kPa",
+        "target_scores": {
+            "A. 141,6 kPa": 1,
+            "B. 180,5 kPa": 0,
+            "C. 212,1 kPa": 0,
+            "D. 340,3 kPa": 0
+        }
+    },
+    {
+        "input": "Un distanciómetro electromagnético tiene una precisión nominal de ±(3＋3ppm) mm. Si este instrumento mide una distancia de 500m y no se consideran otros factores de influencia, el error medio de medición generado es ( ).\nA. ±18 mm\nB. ±3 mm\nC. ±4,5 mm\nD. ±6 mm",
+        "target_scores": {
+            "A. ±18 mm": 0,
+            "B. ±3 mm": 0,
+            "C. ±4,5 mm": 1,
+            "D. ±6 mm": 0
+        }
+    },
+    {
+        "input": "Una capa de suelo con coeficiente de compresión de $0{,}50\\,\\text{MPa}^{-1}$, relación de vacíos natural de $0{,}8$ y espesor de 1m está sometida a un esfuerzo adicional promedio $\\overline{\\mathbf{\\sigma}}_\\mathbf{z}=\\mathbf{60kPa}$. El asentamiento de esta capa de suelo es ( ).\nA. 16,3 mm\nB. 16,7 mm\nC. 30 mm\nD. 33,6 mm",
+        "target_scores": {
+            "A. 16,3 mm": 0,
+            "B. 16,7 mm": 1,
+            "C. 30 mm": 0,
+            "D. 33,6 mm": 0
+        }
+    },
+    {
+        "input": "Un talud de suelo de 8m de altura, con ángulo de fricción interna $\\mathbf{\\phi=10^{\\circ}}$ ($N_s＝9,2$), cohesión $c＝25kPa$ y peso unitario $\\gamma=18\\mathbf{kN/m}^3$, tiene un factor de seguridad de estabilidad de ( ).\nA. 0,5\nB. 1\nC. 1,6\nD. 2",
+        "target_scores": {
+            "A. 0,5": 0,
+            "B. 1": 0,
+            "C. 1,6": 1,
+            "D. 2": 0
+        }
+    },
+    {
+        "input": "Una pila de mezcla profunda tiene una longitud de 8 m y un diámetro de 0,5 m. El módulo de compresión del cuerpo de la pila es de 120 MPa, la tasa de sustitución es del 25 %, el valor característico de la capacidad portante del suelo entre pilas es de 110 kPa, y el módulo de compresión del suelo es de 6 MPa. Si la zona reforzada se somete a un esfuerzo medio de 121 kPa, ¿cuál es la deformación de la zona reforzada?\nA. 13 mm\nB. 25 mm\nC. 26 mm\nD. 28 mm",
+        "target_scores": {
+            "A. 13 mm": 0,
+            "B. 25 mm": 0,
+            "C. 26 mm": 0,
+            "D. 28 mm": 1
+        }
+    },
+    {
+        "input": "Un estrato de suelo consiste en una capa superior seca de 1,50m de espesor y una capa inferior saturada. El peso unitario de la capa seca es 15,6kN/m³ y el de la capa saturada es 19,8kN/m³. La tensión vertical total a una profundidad de 3,50m es ( ).\nA. 23,4 kPa\nB. 43 kPa\nC. 54,6 kPa\nD. 63 kPa",
+        "target_scores": {
+            "A. 23,4 kPa": 0,
+            "B. 43 kPa": 0,
+            "C. 54,6 kPa": 0,
+            "D. 63 kPa": 1
+        }
+    },
+    {
+        "input": "Una losa prefabricada de hormigón armado con una luz de cálculo $l_0＝3{,}3m$, ancho de losa $b＝0{,}6m$, carga permanente estándar $g_k＝5{,}0kN/m^2$, carga variable estándar $q_k＝2{,}0kN/m^2$, peso propio de la losa $g＝2{,}0kN/m^2$. Durante la inspección de la losa prefabricada se utiliza una carga de dos fuerzas concentradas en cuatro puntos. El valor de diseño de la carga de verificación de capacidad portante es ( ). ($γ_G＝1{,}2$, $γ_Q＝1{,}4$)\nA. 3,712 kN\nB. 4,95 kN\nC. 5,049 kN\nD. 6,732 kN",
+        "target_scores": {
+            "A. 3,712 kN": 0,
+            "B. 4,95 kN": 0,
+            "C. 5,049 kN": 0,
+            "D. 6,732 kN": 1
+        }
+    },
+    {
+        "input": "Una muestra de arena tiene una relación de vacíos natural de 0,461, relación de vacíos máxima de 0,943 y mínima de 0,396. La densidad relativa de esta arena es ( ).\nA. 0,404\nB. 0,615\nC. 0,679\nD. 0,881",
+        "target_scores": {
+            "A. 0,404": 0,
+            "B. 0,615": 0,
+            "C. 0,679": 0,
+            "D. 0,881": 1
+        }
+    },
+    {
+        "input": "Un punto tiene un estado de tensiones de $\\mathbf{\\sigma_{1}=400kPa}$, $\\mathbf{\\sigma_{3}=200kPa}$, con $c＝20kPa$ y $\\phi=20^\\circ$. ¿En cuál de las siguientes condiciones se encuentra este punto? ( )\nA. Estado de equilibrio límite\nB. Estado de falla\nC. Estado estable\nD. Indeterminado",
+        "target_scores": {
+            "A. Estado de equilibrio límite": 0,
+            "B. Estado de falla": 0,
+            "C. Estado estable": 1,
+            "D. Indeterminado": 0
+        }
+    },
+    {
+        "input": "Se utilizan pilotes de grava para mejorar un suelo de arcilla blanda. Se sabe que la capacidad portante del suelo es de 100 kPa, el diámetro de cada pilote de grava es d = 0,6 m, con disposición en cuadrícula a una separación de s = 1 m, y una relación de esfuerzos pilote-suelo n = 5. La capacidad portante compuesta de la cimentación es ( ).\nA. 120 kPa\nB. 151,1 kPa\nC. 171,1 kPa\nD. 212,8 kPa",
+        "target_scores": {
+            "A. 120 kPa": 0,
+            "B. 151,1 kPa": 0,
+            "C. 171,1 kPa": 0,
+            "D. 212,8 kPa": 1
+        }
+    },
+    {
+        "input": "Una zapata corrida de 3m de ancho tiene una excentricidad $e＝0,7m$, con una carga vertical $N＝1.000kN/m$ actuando en el centro de la base. La presión máxima en la base es ( ).\nA. 210 kPa\nB. 700 kPa\nC. 733 kPa\nD. 833 kPa",
+        "target_scores": {
+            "A. 210 kPa": 0,
+            "B. 700 kPa": 0,
+            "C. 733 kPa": 0,
+            "D. 833 kPa": 1
+        }
+    },
+    {
+        "input": "Se ha medido que el valor estándar de resistencia a la compresión de un cubo de hormigón es de 26,8 MPa. ¿A qué clase de hormigón corresponde?\nA. C20/25\nB. C25/30\nC. C35/45\nD. C50/60",
+        "target_scores": {
+            "A. C20/25": 1,
+            "B. C25/30": 0,
+            "C. C35/45": 0,
+            "D. C50/60": 0
+        }
+    },
+    {
+        "input": "Para una estructura de hormigón armado de cinco plantas (sin sótano) con dimensiones en planta de $60m×180m$, en el diseño de estructuras de gran longitud, la afirmación incorrecta es (　　)\nA. Usar acero fino y denso en losas\nB. Usar hormigón de alta resistencia en losas\nC. Usar juntas de construcción\nD. Usar juntas de temperatura",
+        "target_scores": {
+            "A. Usar acero fino y denso en losas": 0,
+            "B. Usar hormigón de alta resistencia en losas": 1,
+            "C. Usar juntas de construcción": 0,
+            "D. Usar juntas de temperatura": 0
+        }
+    },
+    {
+        "input": "Entre las siguientes cuatro columnas, que tienen la misma área de sección transversal, la misma y adecuada cantidad total de acero y el mismo grado de resistencia del hormigón, ¿cuál tiene la mayor capacidad portante a compresión axial?\nA. Pilares de hormigón con tubos circulares de acero\nB. Pilares de hormigón con tubos cuadrados de acero\nC. Pilares mixtos de acero y hormigón de sección circular\nD. Pilares mixtos de acero y hormigón de sección cuadrada",
+        "target_scores": {
+            "A. Pilares de hormigón con tubos circulares de acero": 1,
+            "B. Pilares de hormigón con tubos cuadrados de acero": 0,
+            "C. Pilares mixtos de acero y hormigón de sección circular": 0,
+            "D. Pilares mixtos de acero y hormigón de sección cuadrada": 0
+        }
+    },
+    {
+        "input": "En una determinada región se celebrará una exposición hortícola, y es necesario completar rápidamente un pabellón temporal de gran luz y de una sola planta. ¿Cuál es la forma estructural más adecuada?（ ）\nA. Columnas de hormigón y techo de acero\nB. Estructura mixta de acero estructural y hormigón con cerchas de acero\nC. Estructura tensomembrana\nD. Hormigón pretensado",
+        "target_scores": {
+            "A. Columnas de hormigón y techo de acero": 0,
+            "B. Estructura mixta de acero estructural y hormigón con cerchas de acero": 0,
+            "C. Estructura tensomembrana": 1,
+            "D. Hormigón pretensado": 0
+        }
+    },
+    {
+        "input": "En un sitio de construcción, la capa de suelo ② (capa dura de arcilla) y la capa subyacente ③ es de cieno. ¿Cuál es la relación correcta entre el valor característico de la capacidad portante del suelo $f_{ak}$ y el módulo de compresibilidad $E_s$ de las capas ② y ③?（ ）\nA. $f_{ak2}≤f_{ak3}$，$E_{s2}≤E_{s3}$\nB. $f_{ak2}≤f_{ak3}$，$E_{s2}≥E_{s3}$\nC. $f_{ak2}≥f_{ak3}$，$E_{s2}≤E_{s3}$\nD. $f_{ak2}≥f_{ak3}$，$E_{s2}≥E_{s3}$",
+        "target_scores": {
+            "A. $f_{ak2}≤f_{ak3}$，$E_{s2}≤E_{s3}$": 0,
+            "B. $f_{ak2}≤f_{ak3}$，$E_{s2}≥E_{s3}$": 0,
+            "C. $f_{ak2}≥f_{ak3}$，$E_{s2}≤E_{s3}$": 0,
+            "D. $f_{ak2}≥f_{ak3}$，$E_{s2}≥E_{s3}$": 1
+        }
+    },
+    {
+        "input": "Si una zapata corrida tiene un ancho de base de 2 metros y el valor característico corregido de la capacidad portante sísmica del suelo es $f_a＝150kPa$, ¿cuál es la carga vertical máxima que puede soportar dicha zapata?\nA. 300 kN/m\nB. 400 kN/m\nC. 500 kN/m\nD. 600 kN/m",
+        "target_scores": {
+            "A. 300 kN/m": 1,
+            "B. 400 kN/m": 0,
+            "C. 500 kN/m": 0,
+            "D. 600 kN/m": 0
+        }
+    },
+    {
+        "input": "Para un edificio de oficinas de tres pisos con entramado, una malla de pilares de 9m×9m, sin sótano, y dentro de los 20 metros por debajo del nivel del suelo todo el estrato está compuesto de suelo limoso de baja compresibilidad, con una capa inferior de grava con arena, ¿cuál es el tipo de cimentación más adecuado?（ ）\nA. Cimentación por pilotes\nB. Losas de cimentación\nC. Zapatas aisladas\nD. Zapatas corridas",
+        "target_scores": {
+            "A. Cimentación por pilotes": 0,
+            "B. Losas de cimentación": 0,
+            "C. Zapatas aisladas": 1,
+            "D. Zapatas corridas": 0
+        }
+    },
+    {
+        "input": "En un edificio de oficinas de dos pisos con estructura de marco, construido sobre un suelo blando, cuando se acumula una gran carga en un lado del edificio, ¿qué fenómeno puede presentarse en la cimentación?\nA. Asentamiento global\nB. Asentamiento inclinado\nC. Levantamiento global\nD. Levantamiento inclinado",
+        "target_scores": {
+            "A. Asentamiento global": 0,
+            "B. Asentamiento inclinado": 1,
+            "C. Levantamiento global": 0,
+            "D. Levantamiento inclinado": 0
+        }
+    },
+    {
+        "input": "Una viga de sección 300mm×700mm utiliza estribos de dos ramas con separación de 100mm. Sin considerar efectos sísmicos, si se requiere un área de estribos por metro lineal de $1.254mm^2$, ¿cuál es el diámetro mínimo de estribo necesario? (Los estribos de 6mm de diámetro con dos ramas proporcionan $566mm^2$, 8mm: $1.006mm^2$, 10mm: $1.571mm^2$, 12mm: $2.262mm^2$) (　　)\nA. 10 mm\nB. 12 mm\nC. 6 mm\nD. 8 mm",
+        "target_scores": {
+            "A. 10 mm": 1,
+            "B. 12 mm": 0,
+            "C. 6 mm": 0,
+            "D. 8 mm": 0
+        }
+    },
+    {
+        "input": "Un proyecto tiene dos opciones de construcción, A y B, con inversiones de 5 millones de euros y 10 millones de euros respectivamente. Ambos tienen un periodo de 10 años, con ingresos anuales de 1,4 millones de euros para la opción A y 2,5 millones de euros para la opción B. Suponiendo una tasa de rendimiento de referencia del 10%, el valor presente neto de la diferencia entre los dos proyectos es ( ). [Dato: $(P/A, 10\\%, 10)＝6,1446$]\nA. 1,759 millones   euros\nB. 3,602 millones  euros\nC. 5,361 millones   euros\nD. 8,964 millones  euros",
+        "target_scores": {
+            "A. 1,759 millones   euros": 1,
+            "B. 3,602 millones  euros": 0,
+            "C. 5,361 millones   euros": 0,
+            "D. 8,964 millones  euros": 0
+        }
+    },
+    {
+        "input": "En un proyecto se planeaba utilizar el proceso A para la construcción, pero tras una exhaustiva investigación de mercado y evaluación técnica, se decidió reemplazarlo por el proceso B, logrando la misma calidad de construcción y reduciendo el costo en un 15%. Según los principios de la ingeniería del valor, ¿cuál fue el método utilizado para aumentar el valor del proyecto?（ ）\nA. Las funciones y los costos han bajado, pero el costo ha bajado aún más\nB. Mejora funcional con costo reducido\nC. Mejora funcional sin costo extra\nD. Misma función con costo reducido",
+        "target_scores": {
+            "A. Las funciones y los costos han bajado, pero el costo ha bajado aún más": 0,
+            "B. Mejora funcional con costo reducido": 0,
+            "C. Mejora funcional sin costo extra": 0,
+            "D. Misma función con costo reducido": 1
+        }
+    },
+    {
+        "input": "En un edificio de gran altura que combina un espacio comercial de tres niveles en la parte inferior y viviendas en la parte superior, ¿cuál es el sistema estructural más adecuado?（ ）\nA. Estructura de marco\nB. Estructura de muros cortantes\nC. Estructura parcialmente soportada por marco\nD. Estructura totalmente soportada por marco",
+        "target_scores": {
+            "A. Estructura de marco": 0,
+            "B. Estructura de muros cortantes": 0,
+            "C. Estructura parcialmente soportada por marco": 1,
+            "D. Estructura totalmente soportada por marco": 0
+        }
+    },
+    {
+        "input": "En un pabellón de tenis de una sola planta con un vano de 40 metros, ¿cuál de las siguientes formas estructurales de elementos portantes de la cubierta es la más razonable?（ ）\nA. Estructura reticulada de acero\nB. Viga de hormigón armado\nC. Viga de hormigón pretensado\nD. Viga maciza de acero",
+        "target_scores": {
+            "A. Estructura reticulada de acero": 1,
+            "B. Viga de hormigón armado": 0,
+            "C. Viga de hormigón pretensado": 0,
+            "D. Viga maciza de acero": 0
+        }
+    },
+    {
+        "input": "Un edificio residencial de tres plantas de mampostería, sin sótano, con un estrato inferior de 10 m de limos de baja compresibilidad, y debajo una capa de grava, ¿qué tipo de cimentación es más adecuada? ( )\nA. Cimentación con pilotes\nB. Losas de cimentación\nC. Zapatas aislidas\nD. Zapatas corridas",
+        "target_scores": {
+            "A. Cimentación con pilotes": 0,
+            "B. Losas de cimentación": 0,
+            "C. Zapatas aislidas": 0,
+            "D. Zapatas corridas": 1
+        }
+    },
+    {
+        "input": "Un soporte cilíndrico de acero articulado en ambos extremos, de 8m de longitud, con $f=305N/mm^2$, valor de diseño de carga axial de 1.300 kN, con coeficiente de estabilidad $φ=0{,}5$, requiere un área transversal mínima de tubería de acero de ( ).  \n(Verificación de resistencia: $\\mathbb{N}/\\mathbb{A}\\leqslant\\mathbb{f}$, Verificación de estabilidad: $\\mathbb{N}/(\\phi\\mathbb{f}\\mathbb{A})\\leqslant 1$)\nA. 12.600 mm²\nB. 4.300 mm²\nC. 6.300 mm²\nD. 8.600 mm²",
+        "target_scores": {
+            "A. 12.600 mm²": 0,
+            "B. 4.300 mm²": 0,
+            "C. 6.300 mm²": 0,
+            "D. 8.600 mm²": 1
+        }
+    },
+    {
+        "input": "En la compactación de un dique de tierra se adopta el método de avance y retroceso con desplazamiento lateral. Si el número de pasadas de compactación diseñado es 5 y el ancho efectivo del rodillo es de 4 m, el ancho de desplazamiento lateral es de ( ) m.\nA. 0,3\nB. 0,8\nC. 1\nD. 1,25",
+        "target_scores": {
+            "A. 0,3": 0,
+            "B. 0,8": 1,
+            "C. 1": 0,
+            "D. 1,25": 0
+        }
+    },
+    {
+        "input": "Un proyecto utilizaba arena con un módulo de finura de 2,65 para preparar mezcla de hormigón. Debido a problemas de suministro, se cambió a arena con módulo de finura de 1,95. Para mantener el asentamiento y la resistencia original del hormigón, el método más adecuado es ( ).\nA. Aumentar la cantidad de agua de amasado\nB. Aumentar la proporción de arena\nC. Reducir la cantidad de cemento\nD. Reducir la proporción de arena",
+        "target_scores": {
+            "A. Aumentar la cantidad de agua de amasado": 0,
+            "B. Aumentar la proporción de arena": 0,
+            "C. Reducir la cantidad de cemento": 0,
+            "D. Reducir la proporción de arena": 1
+        }
+    },
+    {
+        "input": "Una cimentación de edificio tiene dimensiones de 2m×2m y está enterrada a 2m de profundidad. El esfuerzo adicional en la base es P_0＝100kPa. El esfuerzo adicional en el punto situado a 4m de profundidad sobre la vertical del centro de la cimentación es ( ).\nA. 10 kPa\nB. 25 kPa\nC. 33,6 kPa\nD. 50 kPa",
+        "target_scores": {
+            "A. 10 kPa": 0,
+            "B. 25 kPa": 0,
+            "C. 33,6 kPa": 1,
+            "D. 50 kPa": 0
+        }
+    },
+    {
+        "input": "En una estructura mixta de ladrillo y hormigón de cuatro pisos, con cimentación de zapata corrida bajo muros portantes, de $1{,}2 m$ de ancho y $1 m$ de profundidad, el valor estándar de la carga sobre la cimentación es de $120 kN/m$. El suelo es una arcilla limosa blanda, con un peso unitario de 1$17{,}8\\,kN/m^3$ y una capacidad portante característica de $50 kPa$. El coeficiente de corrección de profundidad del suelo es $\\eta_d=1{,}0$. Se propone el método de sustitución de suelo con una capa de arena, con un ángulo de dispersión de carga de 30°. Si se calcula que una capa de arena de $2 m$ de espesor satisface los requisitos de capacidad portante, el ancho mínimo requerido de dicha capa de arena es de ( ).\nA. 2,5 m\nB. 3,2 m\nC. 3,5 m\nD. 5 m",
+        "target_scores": {
+            "A. 2,5 m": 0,
+            "B. 3,2 m": 0,
+            "C. 3,5 m": 1,
+            "D. 5 m": 0
+        }
+    },
+    {
+        "input": "En 250g de arena con contenido de humedad del 5%, la cantidad de agua contenida es ( ).\nA. 11,0 g\nB. 11,9 g\nC. 12,5 g\nD. 12,9 g",
+        "target_scores": {
+            "A. 11,0 g": 0,
+            "B. 11,9 g": 1,
+            "C. 12,5 g": 0,
+            "D. 12,9 g": 0
+        }
+    },
+    {
+        "input": "Un perfil de suelo consta de una capa superior de arena limosa de 4m de espesor (peso unitario natural $17kN/m^3$) y una capa inferior de arcilla limosa (peso unitario $20kN/m^3$). El esfuerzo vertical total a 6m de profundidad es ( ).\nA. 108 kPa\nB. 120 kPa\nC. 188 kPa\nD. 222 kPa",
+        "target_scores": {
+            "A. 108 kPa": 1,
+            "B. 120 kPa": 0,
+            "C. 188 kPa": 0,
+            "D. 222 kPa": 0
+        }
+    },
+    {
+        "input": "Un suelo con índice de vacíos 47,71% tiene porosidad de ______.\nA. 109,6%\nB. 32,3%\nC. 67,7%\nD. 91,24%",
+        "target_scores": {
+            "A. 109,6%": 0,
+            "B. 32,3%": 1,
+            "C. 67,7%": 0,
+            "D. 91,24%": 0
+        }
+    },
+    {
+        "input": "Una muestra de material pesa 100 g después de saturarse completamente con agua, y su peso seco era de 90 g. La absorción de agua del material es de ( )\nA. 0.1\nB. 0.12\nC. 11,1%\nD. 12,6%",
+        "target_scores": {
+            "A. 0.1": 0,
+            "B. 0.12": 0,
+            "C. 11,1%": 1,
+            "D. 12,6%": 0
+        }
+    },
+    {
+        "input": "Durante una medición de distancias por estadía,el teodolito se coloca en el punto S con una cota de 162,382m,y una altura de instrumento de 1,40m. Las lecturas de hilo superior, medio e inferior son 1,019m, 1,400m y 1,781m respectivamente. Si el ángulo vertical es $\\mathfrak{a}=\\text{3॰}12^{\\prime}10^{\\prime\\prime}$, la distancia horizontal SP y la elevación del punto P son ( ).\nA. 75,962 m; 158,125 m\nB. 75,962 m; 166,633 m\nC. 76,081 m; 158,125 m\nD. 76,081 m; 166,633 m",
+        "target_scores": {
+            "A. 75,962 m; 158,125 m": 0,
+            "B. 75,962 m; 166,633 m": 1,
+            "C. 76,081 m; 158,125 m": 0,
+            "D. 76,081 m; 166,633 m": 0
+        }
+    },
+    {
+        "input": "En un terreno de loess colapsable con una profundidad de 10 m, se propone tratamiento por compactación dinámica. Si el coeficiente de influencia es 0,5 y el peso del martillo es de 100 kN, para satisfacer los requisitos de diseño, la altura de caída h debe ser de ( ).\nA. 10 m\nB. 15 m\nC. 20 m\nD. 40 m",
+        "target_scores": {
+            "A. 10 m": 0,
+            "B. 15 m": 0,
+            "C. 20 m": 0,
+            "D. 40 m": 1
+        }
+    },
+    {
+        "input": "Tres vigas simplemente apoyadas (a, b, c) sometidas a una carga concentrada en el centro de la luz, con porcentajes de armado respectivos $p_a=0{,}8\\%$, $p_b=1{,}6\\%=p_{\\text{max}}$, $p_c=2{,}0\\%$, y otras condiciones idénticas. Suponiendo que las vigas no presentan falla por corte en sección inclinada, la relación entre los valores de diseño de carga concentrada $P$ que cada viga puede soportar es ( ).\nA. $2\\mathbb{P}_a<\\mathbb{P}_b<\\mathbb{P}_c$\nB. $\\mathbb{P}_a<\\mathbb{P}_b<\\mathbb{P}_c$\nC. $\\mathbb{P}_b=\\mathbb{P}_c<2\\mathbb{P}_a$\nD. $\\mathrm{P_b=2P_a=P_c}$",
+        "target_scores": {
+            "A. $2\\mathbb{P}_a<\\mathbb{P}_b<\\mathbb{P}_c$": 0,
+            "B. $\\mathbb{P}_a<\\mathbb{P}_b<\\mathbb{P}_c$": 0,
+            "C. $\\mathbb{P}_b=\\mathbb{P}_c<2\\mathbb{P}_a$": 1,
+            "D. $\\mathrm{P_b=2P_a=P_c}$": 0
+        }
+    },
+    {
+        "input": "Un túnel revestido de hormigón con diámetro d＝2m y coeficiente de rugosidad n＝0,014. En el diseño del modelo, se selecciona una escala de longitud de 40. Si en el modelo se mide un caudal de descarga de 35L/s, el caudal correspondiente en el prototipo y el coeficiente de rugosidad del material del modelo son respectivamente ( ).\nA. $354,18m^3/s$ y 0,0067\nB. $354,18m^3/s$ y 0,0076\nC. $56m^3/s$ y 0,0067\nD. $56m^3/s$ y 0,0076",
+        "target_scores": {
+            "A. $354,18m^3/s$ y 0,0067": 0,
+            "B. $354,18m^3/s$ y 0,0076": 1,
+            "C. $56m^3/s$ y 0,0067": 0,
+            "D. $56m^3/s$ y 0,0076": 0
+        }
+    },
+    {
+        "input": "Agua fluye en un tubo circular de 1cm de diámetro con velocidad de 1m/s y coeficiente de viscosidad cinemática de 0,01cm²/s. El régimen de flujo en el tubo es ( ).\nA. Flujo crítico\nB. Indeterminado\nC. Laminar\nD. Turbulento",
+        "target_scores": {
+            "A. Flujo crítico": 0,
+            "B. Indeterminado": 0,
+            "C. Laminar": 0,
+            "D. Turbulento": 1
+        }
+    },
+    {
+        "input": "Una tubería de 100 mm de diámetro y 10 m de longitud tiene dos codos (cada uno con un coeficiente de pérdida de carga local de 0,8). El coeficiente de pérdida de carga por fricción a lo largo de la tubería es 0,037.Si se eliminan los dos codos y se mantiene la longitud total de la tubería y la carga hidráulica entre ambos extremos, el caudal de la tubería aumentará en un ( ).\nA. 0.1\nB. 0.2\nC. 0.3\nD. 0.4",
+        "target_scores": {
+            "A. 0.1": 0,
+            "B. 0.2": 1,
+            "C. 0.3": 0,
+            "D. 0.4": 0
+        }
+    },
+    {
+        "input": "Cuando la presión es de $3.500kN/m^2$, el volumen de agua es $1,0m^3$. Al aumentar la presión a $24.000kN/m^2$, su volumen se reduce a 0,99m^3. Entonces, cuando la presión se incrementa a $7.000kN/m^2$, el volumen de agua será ( ).\nA. $0,9945m^3$\nB. $0,9956m^3$\nC. $0,9974m^3$\nD. $0,9983m^3$",
+        "target_scores": {
+            "A. $0,9945m^3$": 0,
+            "B. $0,9956m^3$": 0,
+            "C. $0,9974m^3$": 0,
+            "D. $0,9983m^3$": 1
+        }
+    },
+    {
+        "input": "En un plano a escala 1:2.000, se mide una distancia de 43,4 cm entre los puntos A y B. Si se desea construir una carretera entre estos dos puntos con una pendiente no mayor al 3%, la diferencia de altitud máxima entre A y B debe ser ( ).\nA. 1,2 m\nB. 10,8 m\nC. 2,6 m\nD. 26,0 m",
+        "target_scores": {
+            "A. 1,2 m": 0,
+            "B. 10,8 m": 0,
+            "C. 2,6 m": 0,
+            "D. 26,0 m": 1
+        }
+    },
+    {
+        "input": "La cuenca tiene un área de $10.000km^2$. ¿Cuál es el volumen total de escorrentía (en millones de $m^3$) representado por el hidrograma unitario de 2 horas de duración (10mm)? ( ).\nA. 100\nB. 200\nC. 360\nD. 72",
+        "target_scores": {
+            "A. 100": 1,
+            "B. 200": 0,
+            "C. 360": 0,
+            "D. 72": 0
+        }
+    },
+    {
+        "input": "Un cauce tiene un caudal $Q＝120m^3/s$, sección transversal rectangular con ancho b＝60m y velocidad v＝5m/s. El tipo de flujo en el cauce es ( ).\nA. Flujo crítico\nB. Indeterminado\nC. Subcrítico\nD. Supercrítico",
+        "target_scores": {
+            "A. Flujo crítico": 0,
+            "B. Indeterminado": 0,
+            "C. Subcrítico": 0,
+            "D. Supercrítico": 1
+        }
+    },
+    {
+        "input": "Dado que el módulo de compresibilidad del suelo A es 5 MPa, y el del suelo B es 10 MPa, la afirmación correcta respecto a la compresibilidad de ambos suelos es ( ).\nA. El suelo A es más compresible que el B.\nB. El suelo B es más compresible que el A.\nC. No se puede determinar sin conocer la carga aplicada.\nD. No se puede determinar sin conocer la relación de Poisson.",
+        "target_scores": {
+            "A. El suelo A es más compresible que el B.": 1,
+            "B. El suelo B es más compresible que el A.": 0,
+            "C. No se puede determinar sin conocer la carga aplicada.": 0,
+            "D. No se puede determinar sin conocer la relación de Poisson.": 0
+        }
+    },
+    {
+        "input": "En un recipiente de salida libre con un orificio delgado de diámetro d, si se instala una tubería corta de longitud 4d sobre el orificio, el caudal es el original ( ).\nA. 1 vez\nB. 1,22 veces\nC. 1,32 veces\nD. 2 veces",
+        "target_scores": {
+            "A. 1 vez": 0,
+            "B. 1,22 veces": 0,
+            "C. 1,32 veces": 1,
+            "D. 2 veces": 0
+        }
+    },
+    {
+        "input": "Dos tramos de canal abierto con coeficientes de rugosidad $n_1=0,015$ y $n_2=0,016$. Si todos los demás parámetros son iguales, la relación entre sus profundidades críticas es ( ).\nA. $h_1<h_2$\nB. $h_1=h_2$\nC. $h_1>h_2$\nD. Indeterminado",
+        "target_scores": {
+            "A. $h_1<h_2$": 0,
+            "B. $h_1=h_2$": 1,
+            "C. $h_1>h_2$": 0,
+            "D. Indeterminado": 0
+        }
+    },
+    {
+        "input": "Una tubería de transporte de petróleo con diámetro de 300mm y caudal de $0{,}3m^3/s$. Se realiza un ensayo de modelo hidráulico con agua en laboratorio usando una escala de longitud de 3. La viscosidad cinemática del petróleo es $0{,}045cm^2/s$ y la del agua es $0{,}01cm^2/s$. El caudal del modelo es ( ).\nA. $0{,}006m^3/s$\nB. $0{,}0074m^3/s$\nC. $0{,}022m^3/s$\nD. $0{,}06m^3/s$",
+        "target_scores": {
+            "A. $0{,}006m^3/s$": 0,
+            "B. $0{,}0074m^3/s$": 0,
+            "C. $0{,}022m^3/s$": 1,
+            "D. $0{,}06m^3/s$": 0
+        }
+    },
+    {
+        "input": "Utilizando un punto de nivelación con elevación de 9,125 m, se requiere establecer la cota ±0 de un piso interior con elevación de 8,586 m. Después de colocar una mira en el punto de nivelación, la lectura del nivel óptico es 1,462 m. ¿Cuál debe ser la lectura de la mira cuando se coloque en el interior? (　　)\nA. 0,539m\nB. 0,923m\nC. 1,743m\nD. 2,001m",
+        "target_scores": {
+            "A. 0,539m": 0,
+            "B. 0,923m": 0,
+            "C. 1,743m": 0,
+            "D. 2,001m": 1
+        }
+    },
+    {
+        "input": "Un líquido con densidad 830kg/m^3 y viscosidad dinámica 0,035N·s/m^2 fluye en una tubería de diámetro interno 5cm con un caudal de 3L/s. El régimen de flujo es ( ).\nA. Laminar\nB. Subcrítico\nC. Supercrítico\nD. Turbulento",
+        "target_scores": {
+            "A. Laminar": 1,
+            "B. Subcrítico": 0,
+            "C. Supercrítico": 0,
+            "D. Turbulento": 0
+        }
+    },
+    {
+        "input": "En una tubería con velocidad del líquido $v＝0{,}4m/s$ y viscosidad cinemática $υ＝0{,}01139cm^2/s$, el diámetro mínimo d para garantizar flujo laminar es ( ).\nA. 10 mm\nB. 12 mm\nC. 5 mm\nD. 8 mm",
+        "target_scores": {
+            "A. 10 mm": 0,
+            "B. 12 mm": 0,
+            "C. 5 mm": 1,
+            "D. 8 mm": 0
+        }
+    },
+    {
+        "input": "Un estrato de suelo arcilloso limoso tiene peso unitario $16kN/m^3$. El nivel freático está a 2m de profundidad, y su peso unitario saturado es $18kN/m^3$. La tensión vertical total a 4m de profundidad es ( ).\nA. 45 kPa\nB. 48 kPa\nC. 65 kPa\nD. 68 kPa",
+        "target_scores": {
+            "A. 45 kPa": 0,
+            "B. 48 kPa": 1,
+            "C. 65 kPa": 0,
+            "D. 68 kPa": 0
+        }
+    },
+    {
+        "input": "Un suelo con índice de plasticidad 20 se clasifica como ______.\nA. Arcilla\nB. Arena\nC. Limo\nD. Limo arcilloso",
+        "target_scores": {
+            "A. Arcilla": 1,
+            "B. Arena": 0,
+            "C. Limo": 0,
+            "D. Limo arcilloso": 0
+        }
+    },
+    {
+        "input": "Un estrato de suelo arenoso tiene peso unitario $γ＝18kN/m^3$, peso unitario saturado $γ_sat＝19kN/m^3$, coeficiente de presión lateral $K_0＝0{,}3$. El nivel freático está a 2m de profundidad, y el peso unitario del agua es $γ_w＝10kN/m^3$. La tensión horizontal por peso propio a 3m de profundidad es (　　).\nA. 10,8 kPa\nB. 13,5 kPa\nC. 17,4 kPa\nD. 45,0 kPa",
+        "target_scores": {
+            "A. 10,8 kPa": 0,
+            "B. 13,5 kPa": 1,
+            "C. 17,4 kPa": 0,
+            "D. 45,0 kPa": 0
+        }
+    },
+    {
+        "input": "Un muro de contención de 5m de altura, con paramento vertical y liso, y superficie del relleno horizontal. El relleno tiene peso unitario $γ＝17kN/m^3$, cohesión $c＝0$, y ángulo de fricción interna $φ＝32^\\circ$. Calcular la fuerza resultante de empuje activo $E_a$ (　　).\nA. 55,0 kN/m\nB. 65,2 kN/m\nC. 68,2 kN/m\nD. 76,7 kN/m",
+        "target_scores": {
+            "A. 55,0 kN/m": 0,
+            "B. 65,2 kN/m": 1,
+            "C. 68,2 kN/m": 0,
+            "D. 76,7 kN/m": 0
+        }
+    },
+    {
+        "input": "Una zapata corrida soporta una carga superior de 250kN/m, enterrada a 1,5m de profundidad. El peso unitario del suelo sobre la base es $16kN/m^3$, y el valor característico de capacidad portante corregido por profundidad es 130kPa. El ancho de base que cumple los requisitos de capacidad portante y es económicamente razonable es (　　).\nA. 1,5 m\nB. 2 m\nC. 2,5 m\nD. 3 m",
+        "target_scores": {
+            "A. 1,5 m": 0,
+            "B. 2 m": 0,
+            "C. 2,5 m": 1,
+            "D. 3 m": 0
+        }
+    },
+    {
+        "input": "Un muro de contención de 4,5m de altura, con paramento vertical y liso, relleno de arena hasta la coronación ($c＝0$, $φ＝30°$, $\\gamma=18\\mathbf{kN/m^3}$, $\\gamma^{\\prime}=\\mathbf{9kN/m^3}$). Si el nivel freático se encuentra en la coronación del muro, la intensidad de la presión activa del terreno a una profundidad de 4 metros bajo la coronación será: (　　).\nA. 10,8 kPa\nB. 12,0 kPa\nC. 16,1 kPa\nD. 18,0 kPa",
+        "target_scores": {
+            "A. 10,8 kPa": 0,
+            "B. 12,0 kPa": 1,
+            "C. 16,1 kPa": 0,
+            "D. 18,0 kPa": 0
+        }
+    },
+    {
+        "input": "Con parámetros de resistencia al corte efectivos $c＝20kPa$ y $φ＝32°$, si un punto en el suelo tiene presión de poro $u＝50kPa$ y esfuerzo principal menor $σ_3＝150kPa$, ¿cuál debe ser el valor del esfuerzo principal mayor $σ_1$ para que ese punto alcance justo la falla por corte?\nA. 325,5 kPa\nB. 375,5 kPa\nC. 397,6 kPa\nD. 447,6 kPa",
+        "target_scores": {
+            "A. 325,5 kPa": 0,
+            "B. 375,5 kPa": 0,
+            "C. 397,6 kPa": 0,
+            "D. 447,6 kPa": 1
+        }
+    },
+    {
+        "input": "Una muestra de suelo con parámetros efectivos $\\mathbf{c^{\\prime}=20kPa}$ y $\\phi^{\\prime}=30^{\\circ}$, sometida a esfuerzos totales $σ_1＝500kPa$ y $σ_3＝120kPa$ con presión de poro de 50kPa. El estado de la muestra de suelo es (　　).\nA. En equilibrio límite\nB. En falla\nC. Equilibrio estático\nD. Seguro",
+        "target_scores": {
+            "A. En equilibrio límite": 0,
+            "B. En falla": 1,
+            "C. Equilibrio estático": 0,
+            "D. Seguro": 0
+        }
+    },
+    {
+        "input": "Una muestra seca de arena de 38mm de diámetro se somete a ensayo triaxial convencional con presión de confinamiento constante de 48,7kPa. La fuerza axial final en el vástago es 75,2N. El ángulo de fricción interna de la muestra es (　　).\nA. 20,1°\nB. 22,0°\nC. 23,9°\nD. 30,5°",
+        "target_scores": {
+            "A. 20,1°": 0,
+            "B. 22,0°": 0,
+            "C. 23,9°": 1,
+            "D. 30,5°": 0
+        }
+    },
+    {
+        "input": "Una muestra de arena seca de 21,7 mm de espesor se comprime bajo esfuerzo vertical de 10 kPa a 40 kPa, reduciendo su espesor en 0,043 mm. El coeficiente de compresibilidad volumétrica $m_v$ ($MPa^{-1}$) es ______.\nA. $3{,}29×10^-2$\nB. $3{,}40×10^-2$\nC. $6{,}60×10^-2$\nD. $8{,}40×10^-2$",
+        "target_scores": {
+            "A. $3{,}29×10^-2$": 0,
+            "B. $3{,}40×10^-2$": 0,
+            "C. $6{,}60×10^-2$": 1,
+            "D. $8{,}40×10^-2$": 0
+        }
+    },
+    {
+        "input": "Un suelo saturado tiene gravedad específica de las partículas sólidas $d_s＝2{,}70$, contenido de humedad $w＝30\\%$, y peso unitario del agua $γ_w＝10kN/m^3$. El peso unitario saturado de este suelo es (　　).\nA. $19{,}4kN/m^3$\nB. $20{,}2kN/m^3$\nC. $20{,}8kN/m^3$\nD. $21{{,}}2kN/m^3$",
+        "target_scores": {
+            "A. $19{,}4kN/m^3$": 1,
+            "B. $20{,}2kN/m^3$": 0,
+            "C. $20{,}8kN/m^3$": 0,
+            "D. $21{{,}}2kN/m^3$": 0
+        }
+    },
+    {
+        "input": "Un suelo tiene coeficiente de compresión $a_{1-2}＝0{,}5MPa^{-1}$. Bajo una presión de 100kPa durante 24 horas, su relación de vacíos es 0,96. Después de 24 horas de consolidación bajo una presión de 200 kPa, la relación de vacíos de la muestra de suelo será: (　　).\nA. 0,43\nB. 0,88\nC. 0,91\nD. 1,02",
+        "target_scores": {
+            "A. 0,43": 0,
+            "B. 0,88": 0,
+            "C. 0,91": 1,
+            "D. 1,02": 0
+        }
+    },
+    {
+        "input": "Las cargas actuantes sobre un dintel incluyen el peso propio de la mampostería y cargas de losas/vigas dentro de su altura de cálculo. Para mampostería de ladrillo, se puede ignorar el peso de muros por encima de $l_n/3$ ($l_n$: luz neta del dintel) y cargas de losas/vigas a alturas mayores que $l_n$, debido a la consideración de (　　).\nA. Descarga por efecto arco\nB. Difusión de tensiones\nC. Interacción muro-viga\nD. Redistribución de tensiones",
+        "target_scores": {
+            "A. Descarga por efecto arco": 1,
+            "B. Difusión de tensiones": 0,
+            "C. Interacción muro-viga": 0,
+            "D. Redistribución de tensiones": 0
+        }
+    }
+]

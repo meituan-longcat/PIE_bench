@@ -1,0 +1,956 @@
+[
+    {
+        "input": "Une pièce industrielle nécessite 2 heures pour compléter le procédé de carburisation à une température de 900℃. Si les conditions de carburisation restent inchangées mais que la profondeur de la couche de carburisation est doublée, alors le temps nécessaire pour la carburisation est ______.\nA. 2 heures\nB. 2,8 heures\nC. 4 heures\nD. 8 heures",
+        "target_scores": {
+            "A. 2 heures": 0,
+            "B. 2,8 heures": 0,
+            "C. 4 heures": 0,
+            "D. 8 heures": 1
+        }
+    },
+    {
+        "input": "Pendant la nuit en hiver, deux pièces ont la même température et humidité de l'air. L'une a des murs extérieurs et des fenêtres, l'autre non. Les occupants des deux pièces sont habillés de la même manière. Auraient-ils la même sensation de chaleur ? （   ）\nA. Il n'y a pas de différence en température et humidité de l'air intérieur, donc il n'y a pas de différence dans la sensation de chaleur.\nB. La deuxième est plus froide que la première, car la convection thermique entre la personne et l'air intérieur est plus intense.\nC. La première est plus froide que la deuxième, car la conduction thermique entre la personne et le sol est plus intense.\nD. La première est plus froide que la deuxième, car la radiation thermique entre la personne et les murs extérieurs et les fenêtres est plus intense.",
+        "target_scores": {
+            "A. Il n'y a pas de différence en température et humidité de l'air intérieur, donc il n'y a pas de différence dans la sensation de chaleur.": 0,
+            "B. La deuxième est plus froide que la première, car la convection thermique entre la personne et l'air intérieur est plus intense.": 0,
+            "C. La première est plus froide que la deuxième, car la conduction thermique entre la personne et le sol est plus intense.": 0,
+            "D. La première est plus froide que la deuxième, car la radiation thermique entre la personne et les murs extérieurs et les fenêtres est plus intense.": 1
+        }
+    },
+    {
+        "input": "De la vapeur d'eau saturée condense sur le côté extérieur d'un tuyau horizontal, avec L > d (L = longueur, d = diamètre). La température de la paroi du tuyau est constante. Parmi les solutions suivantes, laquelle peut augmenter la quantité de condensation par unité de temps ? （   ）\nA. Ajouter des ailettes basses à l'extérieur du tuyau\nB. Placer le tuyau en position horizontale\nC. Placer le tuyau en position inclinée\nD. Placer le tuyau en position verticale",
+        "target_scores": {
+            "A. Ajouter des ailettes basses à l'extérieur du tuyau": 1,
+            "B. Placer le tuyau en position horizontale": 0,
+            "C. Placer le tuyau en position inclinée": 0,
+            "D. Placer le tuyau en position verticale": 0
+        }
+    },
+    {
+        "input": "Pendant l'ajustement d'un système en boucle fermée, on augmente progressivement le gain en boucle ouverte. Il est constaté que lorsque la rapidité et la stabilité atteignent les exigences de conception, la précision de contrôle du système est insuffisante. Quelle mesure devrait-on prendre ?______\nA. Augmenter davantage le gain en boucle ouverte\nB. Utiliser une correction à avance\nC. Utiliser une correction à retard\nD. Utiliser une correction à retard-avance",
+        "target_scores": {
+            "A. Augmenter davantage le gain en boucle ouverte": 0,
+            "B. Utiliser une correction à avance": 0,
+            "C. Utiliser une correction à retard": 1,
+            "D. Utiliser une correction à retard-avance": 0
+        }
+    },
+    {
+        "input": "Parmi les situations suivantes, laquelle n'a pas besoin de travaux d'élimination d'énergie ($h_t$ = profondeur d'eau en aval ; $h_c$ = profondeur d'eau après le saut critique) ?  (  )\nA. $h_c<1{,}05\\timesh_t$\nB. $h_c<h_t/1{,}05$\nC. $h_c=h_t$\nD. $h_c>h_t/1{,}05$",
+        "target_scores": {
+            "A. $h_c<1{,}05\\timesh_t$": 0,
+            "B. $h_c<h_t/1{,}05$": 1,
+            "C. $h_c=h_t$": 0,
+            "D. $h_c>h_t/1{,}05$": 0
+        }
+    },
+    {
+        "input": "Si deux tuyaux ont la même longueur L, le même diamètre d, le même débit Q et la même température de l'eau t, mais que le coefficient de rugosité $n1＞n2$ sur la même longueur de tuyau, alors la relation entre les différences de niveau d'eau dans les manomètres $h1 et h2$ est __________. ( )\nA. $h1=h2$\nB. $h1＜h2$\nC. $h1＞h2$\nD. impossible à déterminer",
+        "target_scores": {
+            "A. $h1=h2$": 0,
+            "B. $h1＜h2$": 0,
+            "C. $h1＞h2$": 1,
+            "D. impossible à déterminer": 0
+        }
+    },
+    {
+        "input": "Parmi quatre canaux rectangulaires à section prismatique, ayant la même surface de section d'eau, le même coefficient de rugosité et la même pente de fond, mais avec différentes largeurs de fond b et profondeurs d'eau uniformes h0, lequel a le plus grand débit ? _________. ( )\nA. b1 = 4 m，h01 = 1 m\nB. b2 = 2 m，h02 = 2 m\nC. b3 = 2,83 m，h03 = 1,414 m\nD. b4 = 2,67 m，h04 = 1,5 m",
+        "target_scores": {
+            "A. b1 = 4 m，h01 = 1 m": 0,
+            "B. b2 = 2 m，h02 = 2 m": 0,
+            "C. b3 = 2,83 m，h03 = 1,414 m": 1,
+            "D. b4 = 2,67 m，h04 = 1,5 m": 0
+        }
+    },
+    {
+        "input": "Deux canaux à section trapézoïdale ont le même débit, le même coefficient de talus, le même coefficient de rugosité et la même largeur de fond, mais avec des pentes de fond différentes $i1＞i2$. Alors, la relation entre les profondeurs d'eau uniformes h01 et h02 est _________. ( )\n\nA. $h01=h02$\nB. $h01＜h02$\nC. $h01＞h02$\nD. impossible à déterminer",
+        "target_scores": {
+            "A. $h01=h02$": 0,
+            "B. $h01＜h02$": 1,
+            "C. $h01＞h02$": 0,
+            "D. impossible à déterminer": 0
+        }
+    },
+    {
+        "input": "Deux canaux à section trapézoïdale ont le même débit, le même coefficient de talus, la même largeur de fond et la même pente de fond, mais avec des coefficients de rugosité différents $n1＞n2$. Alors, la relation entre les profondeurs d'eau uniformes h01 et h02 est _____ . ( )\nA. $h01=h02$\nB. $h01＜h02$\nC. $h01＞h02$\nD. impossible à déterminer",
+        "target_scores": {
+            "A. $h01=h02$": 0,
+            "B. $h01＜h02$": 0,
+            "C. $h01＞h02$": 1,
+            "D. impossible à déterminer": 0
+        }
+    },
+    {
+        "input": "Lorsque la hauteur d'eau sur une crête de barrage est supérieure à la hauteur d'eau de conception, la relation entre le coefficient de débit m et le coefficient de débit de conception md est ____ . ( )\nA. $m=md$\nB. $m＜md$\nC. $m＞md$\nD. impossible à déterminer",
+        "target_scores": {
+            "A. $m=md$": 0,
+            "B. $m＜md$": 0,
+            "C. $m＞md$": 1,
+            "D. impossible à déterminer": 0
+        }
+    },
+    {
+        "input": "Deux crêtes de barrage de type WES, toutes deux étant des hautes crêtes, ont des hauteurs d'eau de conception $Hd1＞Hd2$, mais les hauteurs d'eau sur les crêtes sont $H1=Hd1$，$H2=Hd2$. La relation entre les coefficients de débit des deux est _____ . ( )\nA. $m1=m2$\nB. $m1＜m2$\nC. $m1＞m2$\nD. impossible à déterminer",
+        "target_scores": {
+            "A. $m1=m2$": 1,
+            "B. $m1＜m2$": 0,
+            "C. $m1＞m2$": 0,
+            "D. impossible à déterminer": 0
+        }
+    },
+    {
+        "input": "Étant donné que le polynôme caractéristique d'un système d'échantillonnage en boucle fermée est Φ(z)=(z+1)(z+0,5)(z+2), alors le système ______.\nA. Impossible à déterminer\nB. Instable\nC. Stabilité critique\nD. Stable",
+        "target_scores": {
+            "A. Impossible à déterminer": 0,
+            "B. Instable": 1,
+            "C. Stabilité critique": 0,
+            "D. Stable": 0
+        }
+    },
+    {
+        "input": "Étant donné que la fonction de transfert en boucle ouverte d'un système de contrôle discret est $G(z)=\\frac{1{,}264z}{(z-1)(z-0{,}368)}$, alors le système est ______.\nA. Système de type 0\nB. Système de type I\nC. Système de type II\nD. Système de type III",
+        "target_scores": {
+            "A. Système de type 0": 0,
+            "B. Système de type I": 1,
+            "C. Système de type II": 0,
+            "D. Système de type III": 0
+        }
+    },
+    {
+        "input": "« Lors d'un essai sur le terrain, la vitesse de la vague longitudinale élastique d'un massif rocheux a été mesurée à 5400 m/s. En laboratoire, la vitesse de la vague longitudinale élastique d'un échantillon de roche intacte du même massif a été mesurée à 6000 m/s. La résistance à la compression uniaxiale de la roche est de 110 MPa. Calculez le coefficient d'intégrité du massif rocheux et évaluez son intégrité. »\nA. K<0,81，massif rocheux intact\nB. K<0,81，massif rocheux non intact\nC. K=0,81，massif rocheux intact\nD. K=0,81，massif rocheux non intact",
+        "target_scores": {
+            "A. K<0,81，massif rocheux intact": 0,
+            "B. K<0,81，massif rocheux non intact": 0,
+            "C. K=0,81，massif rocheux intact": 1,
+            "D. K=0,81，massif rocheux non intact": 0
+        }
+    },
+    {
+        "input": "Un forage de 2,0 m a produit des échantillons de roche (de haut en bas) de longueurs respectives de 3,5, 6,0, 7,5, 10,0, 15,2, 17,8, 10,0, 9,9, 5,0, 12,5, 4,5, 3,2, 10,2, 7,5, 15,7, 12,8, 21,0, 17,7, 10,0 (en cm). Calculez l'indice de qualité des échantillons de roche (valeur RQD) pour ce forage.\nA. 0,6743\nB. 0,7645\nC. 0,8345\nD. 0,8534",
+        "target_scores": {
+            "A. 0,6743": 0,
+            "B. 0,7645": 1,
+            "C. 0,8345": 0,
+            "D. 0,8534": 0
+        }
+    },
+    {
+        "input": "« Avec un foret en diamant de 75 mm de diamètre et une double tuyère pour échantillons de roche, un forage a été effectué dans la roche pour obtenir des échantillons continus. Lors d'un forage de 1 m, les cinq plus grandes pièces d'échantillons de roche ont des longueurs respectives de 330 mm, 240 mm, 160 mm, 110 mm et 80 mm. Calculez l'indice RQD de cette roche. »\nA. 0,75\nB. 0,84\nC. 0,85\nD. 0,88",
+        "target_scores": {
+            "A. 0,75": 0,
+            "B. 0,84": 1,
+            "C. 0,85": 0,
+            "D. 0,88": 0
+        }
+    },
+    {
+        "input": "Dans une fondation de sol sableux, la nappe phréatique est à 1,5 m de profondeur. Le poids volumique naturel du sable au-dessus de la nappe phréatique est de 17 kN/m³, tandis que le poids volumique de la couche de sable saturée est de 19 kN/m³. Alors, la contrainte verticale totale à 4,5 m de profondeur est ( ).\nA. 111kPa\nB. 162kPa\nC. 82,5kPa\nD. 85,5kPa",
+        "target_scores": {
+            "A. 111kPa": 0,
+            "B. 162kPa": 0,
+            "C. 82,5kPa": 1,
+            "D. 85,5kPa": 0
+        }
+    },
+    {
+        "input": "Si le sol a un taux de porosité de 52,29 %, alors le rapport des rapport de porosité dans ce sol est ( ).\nA. 0,3134\nB. 0,4771\nC. 0,9124\nD. 1,096",
+        "target_scores": {
+            "A. 0,3134": 0,
+            "B. 0,4771": 0,
+            "C. 0,9124": 0,
+            "D. 1,096": 1
+        }
+    },
+    {
+        "input": "Dans une fondation de sol argileux saturé et mou, un poids qui était initialement stocké est rapidement enlevé. Si un piezomètre est enterré à une certaine profondeur directement en dessous du poids, la charge hydraulique dans le piézomètre va évoluer avec le temps ( ).\nA. augmentation\nB. diminution\nC. incertain\nD. inchangé",
+        "target_scores": {
+            "A. augmentation": 0,
+            "B. diminution": 0,
+            "C. incertain": 0,
+            "D. inchangé": 1
+        }
+    },
+    {
+        "input": "Une fondation en bande sous un mur est enterrée à 3 m de profondeur et est soumise à une charge axiale. La force verticale transmise par la structure supérieure à la surface de la fondation est de 600 kN/m. Le poids propre de la fondation et du sol au-dessus peut être considéré comme un poids volumique combiné de 20 kN/m³. Si la valeur caractéristique de la capacité portante du sol, après correction, est de 260 kPa, alors la largeur minimale de la fondation en bande pour satisfaire la capacité portante du sol est ( ). \nA.  6m\nB. 3m\nC. 4m\nD. 5m",
+        "target_scores": {
+            "A.  6m": 0,
+            "B. 3m": 1,
+            "C. 4m": 0,
+            "D. 5m": 0
+        }
+    },
+    {
+        "input": "La nouvelle voiture a une surface frontale de $1{,}5m^2$ et une vitesse maximale de 108 km/h. On prévoit de mener des essais en soufflerie. Sachant que la vitesse maximale du vent dans la section d'essai de la soufflerie est de 45 m/s, alors la surface frontale du modèle est ( ).\nA. $0{,}28m^2$\nB. $1m^2$\nC. $2{,}25m^2$\nD. $3{,}6m^2$",
+        "target_scores": {
+            "A. $0{,}28m^2$": 0,
+            "B. $1m^2$": 1,
+            "C. $2{,}25m^2$": 0,
+            "D. $3{,}6m^2$": 0
+        }
+    },
+    {
+        "input": "Un projet d'investissement nécessite une mise de fonds initiale de 10 millions d'euros au début de la première année. À partir de la fin de la première année, il génère un bénéfice net de 2 millions d'euros à la fin de chaque année sur une période de 10 ans. La valeur résiduelle nette à la fin de la période est nulle, et le taux de rendement de référence est de 12%. Alors, la valeur annuelle nette du projet est approximativement ( ). [Donné que $(P/A,12\\%,10) =5{,}6502$]\nA. 123 400 euros\nB. 230 200 euros\nC. 360 400 euros\nD. 646 000 euros ",
+        "target_scores": {
+            "A. 123 400 euros": 0,
+            "B. 230 200 euros": 1,
+            "C. 360 400 euros": 0,
+            "D. 646 000 euros ": 0
+        }
+    },
+    {
+        "input": "Un projet de construction comprend cinq opérations de construction organisées en trois segments avec un rythme de travail égal. La durée totale du projet est de 55 jours, et la somme des interruptions techniques et organisationnelles est de 6 jours. Alors, l'intervalle de travail entre chaque opération de construction est ( ).\nA. 3 jours\nB. 5 jours\nC. 7 jours\nD. 8 jours",
+        "target_scores": {
+            "A. 3 jours": 0,
+            "B. 5 jours": 0,
+            "C. 7 jours": 1,
+            "D. 8 jours": 0
+        }
+    },
+    {
+        "input": "Sur une carte topographique à l'échelle de 1:20000, la surface de collecte d'eau d'un réservoir est mesurée à P＝1,6×10^1 cm^2. Lors d'une pluie, le débit pluvial moyen par heure est de m=50mm sur une période de n=2,5 heures. Le coefficient d'évaporation est k=0,4. Selon la formule Q=P⋅m⋅n⋅k, le volume d'eau collecté lors de cette pluie est ( ).\nA. 1,0×10^11m^3\nB. 1,0×10^7m^3\nC. 2,0×10^4m^3\nD. 3,2×10^4m^3",
+        "target_scores": {
+            "A. 1,0×10^11m^3": 0,
+            "B. 1,0×10^7m^3": 0,
+            "C. 2,0×10^4m^3": 0,
+            "D. 3,2×10^4m^3": 1
+        }
+    },
+    {
+        "input": "Un canal de 10 m de largeur doit utiliser un système de points de puits légers pour la dépression de la nappe phréatique. La disposition plane la plus appropriée est ( ).\nA. anneau\nB. forme en U\nC. rangée double\nD. rangée simple",
+        "target_scores": {
+            "A. anneau": 0,
+            "B. forme en U": 0,
+            "C. rangée double": 1,
+            "D. rangée simple": 0
+        }
+    },
+    {
+        "input": "Un sous-projet a un volume de travail de 1000m^3 et doit être achevé en 5 jours avec une construction uniforme chaque jour. Le prix unitaire budgété est de € 200/m^3. Le matin du troisième jour, avant le début du travail, il a été constaté que 600m^3 avaient été achevés et que les dépenses réelles étaient de € 130 000. Quelle affirmation suivante est correcte ? ( )\nA.  L'écart de progression est égal à 100 mètres cubes, donc l'avancement est en avance.\nB. L'avancement réel est en avance d'un jour.\nC. L'écart de coûts est égal à € 10 000, donc il y a des économies de coûts.\nD. L'écart de progression est égal à € 20 000, donc l'avancement est en avance.",
+        "target_scores": {
+            "A.  L'écart de progression est égal à 100 mètres cubes, donc l'avancement est en avance.": 0,
+            "B. L'avancement réel est en avance d'un jour.": 1,
+            "C. L'écart de coûts est égal à € 10 000, donc il y a des économies de coûts.": 0,
+            "D. L'écart de progression est égal à € 20 000, donc l'avancement est en avance.": 0
+        }
+    },
+    {
+        "input": "Un essai de consolidation sur un échantillon d'argile de 25,0 mm d'épaisseur a montré que la pression interstitielle d'eau diminue de sa valeur initiale à zéro en 2 minutes et 45 secondes. Si une couche d'argile identique de 4,6 m d'épaisseur dans le sol a ses surfaces supérieure et inférieure drainantes, alors le temps de consolidation de cette couche d'argile est ( ).\nA. 120 jours\nB. 15,5 jours\nC. 258,5 jours\nD. 64,7 jours",
+        "target_scores": {
+            "A. 120 jours": 0,
+            "B. 15,5 jours": 0,
+            "C. 258,5 jours": 0,
+            "D. 64,7 jours": 1
+        }
+    },
+    {
+        "input": "Sur une fondation de sable mou saturé, si un piezomètre est enterré à une certaine profondeur directement en dessous d'un tas de sable, alors pendant le processus de stockage du sable, la charge dans le piezomètre va évoluer avec le temps ( ).\nA.  inchangé\nB. augmentation\nC. diminution\nD. incertain",
+        "target_scores": {
+            "A.  inchangé": 1,
+            "B. augmentation": 0,
+            "C. diminution": 0,
+            "D. incertain": 0
+        }
+    },
+    {
+        "input": "Dans un autre pays, lors du calcul du coefficient de compression (constante) d'un échantillon de sol à partir des résultats d'un essai de consolidation, on utilise le logarithme naturel au lieu du logarithme courant. Si l'indice de compression (constante) d'un échantillon de sol est de 0,00485 et que la contrainte verticale d'un autre échantillon augmente de 100 fois par rapport à son état initial, alors le rapport des pores de l'échantillon de sol est ( ).\nA. augmenter de 0,0112\nB. augmenter de 0,0224\nC. diminuer de 0,0112\nD. diminuer de 0,0224",
+        "target_scores": {
+            "A. augmenter de 0,0112": 0,
+            "B. augmenter de 0,0224": 0,
+            "C. diminuer de 0,0112": 0,
+            "D. diminuer de 0,0224": 1
+        }
+    },
+    {
+        "input": "Dans un essai de pénétration standard, lorsque le nombre de coups de marteau atteint 50 et que la profondeur réelle de pénétration est de 25 cm, alors le nombre de coups de marteau équivalent pour un essai de pénétration standard de 30 cm est N = ( ).\nA. 40\nB. 50\nC. 60\nD. 80",
+        "target_scores": {
+            "A. 40": 0,
+            "B. 50": 0,
+            "C. 60": 1,
+            "D. 80": 0
+        }
+    },
+    {
+        "input": "Un extensomètre manuel avec une distance entre les marques de L＝200mm utilise un micromètre pour mesurer la déformation. La lecture est de 3 divisions. La valeur de la déformation mesurée est ($μ_E$ représente la microdéformation ) ( ).\nA. $12μ_E$\nB. $15μ_E$\nC. $1{,}5μ_E$\nD. $6μ_E$",
+        "target_scores": {
+            "A. $12μ_E$": 0,
+            "B. $15μ_E$": 1,
+            "C. $1{,}5μ_E$": 0,
+            "D. $6μ_E$": 0
+        }
+    },
+    {
+        "input": "Les résultats d'un essai de consolidation d'un échantillon d'argile de 25 mm d'épaisseur montrent que la pression interstitielle d'eau s'évanouit en 11 minutes, avec une drainage uniquement en surface. Si une couche d'argile identique de 4,6 mètres d'épaisseur dans le sol a des surfaces supérieure et inférieure drainantes, alors le temps de consolidation de cette couche d'argile est ( ).\nA. 120 jours\nB. 15,5 jours\nC. 258,6 jours\nD. 64,7 jours",
+        "target_scores": {
+            "A. 120 jours": 0,
+            "B. 15,5 jours": 0,
+            "C. 258,6 jours": 0,
+            "D. 64,7 jours": 1
+        }
+    },
+    {
+        "input": "Un modèle de digue en centrifugeuse de 0,10 m de hauteur est détruit à une accélération centrifuge de 61g. Alors, la hauteur maximale possible d'une digue réelle construite avec le même matériau est ( ).\nA. 10m\nB. 1m\nC. 6,1m\nD. 61,1m",
+        "target_scores": {
+            "A. 10m": 0,
+            "B. 1m": 0,
+            "C. 6,1m": 1,
+            "D. 61,1m": 0
+        }
+    },
+    {
+        "input": "Un groupe de particules de sol agglomérées par vide tombe au fond d'une piscine de 10 mètres de profondeur. Le changement de rigidité est ( ).\nA. Augmenter d'environ 10 %\nB. Augmenter d'environ un facteur de 10\nC. Augmenter d'environ un facteur de 2\nD. Presque inchangé",
+        "target_scores": {
+            "A. Augmenter d'environ 10 %": 0,
+            "B. Augmenter d'environ un facteur de 10": 0,
+            "C. Augmenter d'environ un facteur de 2": 0,
+            "D. Presque inchangé": 1
+        }
+    },
+    {
+        "input": "Une poutre en béton armé soumise à une charge uniformément répartie avec des extrémités fixées a des moments négatifs et positifs aux supports avec des valeurs absolues égales de capacité portante limite. Si on calcule par redistribution plastique des efforts internes, le coefficient d'ajustement du moment aux supports est ( ).\nA. 0,65\nB. 0,7\nC. 0,75\nD. 0,8",
+        "target_scores": {
+            "A. 0,65": 0,
+            "B. 0,7": 0,
+            "C. 0,75": 1,
+            "D. 0,8": 0
+        }
+    },
+    {
+        "input": "Une couche d'argile de 5,1 mètres d'épaisseur est soumise à une surcharge de 30,0 kPa en surface. Le coefficient de perméabilité est de 0,0004 m/jour. D'après l'expérience passée, cette couche d'argile se comprime de 0,040 mètres. Si la perméation se produit uniquement en surface supérieure ou inférieure, alors le temps estimé pour la consolidation principale est ( ).\nA. 170j\nB. 240j\nC. 340j\nD. 50j",
+        "target_scores": {
+            "A. 170j": 1,
+            "B. 240j": 0,
+            "C. 340j": 0,
+            "D. 50j": 0
+        }
+    },
+    {
+        "input": "Dans un sol homogène, la nappe phréatique est située à 1,80 m de profondeur et l'eau capillaire remonte de 0,60 m. Si le poids volumique sec du sol est de 15,9 kN/m³ et le poids volumique saturé est de 17 kN/m³, avec une surcharge en surface de 25,60 kN/m², alors la contrainte verticale effective à 3,50 m de profondeur est ( ).\nA.  66,78kPa\nB. 41,39kPa\nC. 70,71kPa\nD. 72,99kPa",
+        "target_scores": {
+            "A.  66,78kPa": 1,
+            "B. 41,39kPa": 0,
+            "C. 70,71kPa": 0,
+            "D. 72,99kPa": 0
+        }
+    },
+    {
+        "input": "La section d'une pile d'une fondation en pieux est de 400 mm × 400 mm. Les couches de sol de la fondation sont, de haut en bas : argile limoneuse (3 m d'épaisseur), sable grossier moyen (4 m d'épaisseur), roche tendre légèrement altérée (5 m d'épaisseur). Les valeurs caractéristiques de la friction du sol autour des pieux sont respectivement 20 kPa, 40 kPa et 65 kPa. La longueur des pieux est de 9 m et la capacité portante caractéristique du sol en bout de pieu est de 6000 kPa. Alors, la capacité portante verticale caractéristique d'un seul pieu est ( ).\nA.  1120kN\nB. 1420kN\nC. 1520kN\nD. 1680kN",
+        "target_scores": {
+            "A.  1120kN": 0,
+            "B. 1420kN": 0,
+            "C. 1520kN": 1,
+            "D. 1680kN": 0
+        }
+    },
+    {
+        "input": "Un télémètre à double fréquence a une portée de 1 km. Il est équipé de deux échelles de mesure : une échelle fine de 10 m (fréquence porteuse f ＝15MHz) et une échelle grossière de 1000 m (fréquence porteuse f ＝150KHz). La précision de mesure de phase est de 1/1000. Alors, quelle est la précision que cet instrument peut atteindre ? ( )\nA.  m\nB. cm\nC. dm\nD. mm",
+        "target_scores": {
+            "A.  m": 0,
+            "B. cm": 1,
+            "C. dm": 0,
+            "D. mm": 0
+        }
+    },
+    {
+        "input": "Dans un sol homogène, la nappe phréatique est située à 1,40 m de profondeur. En ignorant l'effet capillaire dans le sol, le poids volumique du sol est de 15,8 kN/m³ et le poids volumique saturé en dessous de la nappe phréatique est de 19,8 kN/m³. Alors, la contrainte verticale effective à 3,60 m de profondeur est ( ).\nA. 34,68kPа\nB. 43,68kPа\nC. 64,45kPа\nD. 71,28kPа",
+        "target_scores": {
+            "A. 34,68kPа": 0,
+            "B. 43,68kPа": 1,
+            "C. 64,45kPа": 0,
+            "D. 71,28kPа": 0
+        }
+    },
+    {
+        "input": "Dans une argile avec une cohésion de 10 kPa, un angle de frottement interne de 10 degrés et un poids volumique de 18 kN/m, la hauteur maximale d'un chantier vertical avec des parois latérales non glissantes est ( ).\nA. 0m\nB. 1,3m\nC. 10m\nD. 5,2m",
+        "target_scores": {
+            "A. 0m": 0,
+            "B. 1,3m": 1,
+            "C. 10m": 0,
+            "D. 5,2m": 0
+        }
+    },
+    {
+        "input": "Sur une fondation en sol argileux, un essai de charge sur une plaque carrée de 0,5 m × 0,5 m a été réalisé. Les résultats montrent que la courbe pression-déformation (courbe p-s) est linéaire au début, avec un rapport de pression en fond de plaque à remblai de 25 kPa/mm. Le coefficient de forme de la plaque carrée est de 0,886 et le coefficient de Poisson du sol argileux est de 0,4. Alors, le module de déformation du sol est ( ).（$\\mathbf{E_{0}=\\omega(1-\\mu^{2})Pb/s}$）\nA.  9121kPa\nB. 8243kPa\nC. 9303kPa\nD. 9653kPa",
+        "target_scores": {
+            "A.  9121kPa": 0,
+            "B. 8243kPa": 0,
+            "C. 9303kPa": 1,
+            "D. 9653kPa": 0
+        }
+    },
+    {
+        "input": "Une fondation en bande est enterrée à 3 m de profondeur et a une largeur de 3,5 m. La force verticale transmise par la structure supérieure à la surface de la fondation est de 200 kN/m, avec un moment excentrique de 50 kN·m/m. Le poids propre de la fondation et du sol au-dessus peuvent être considérés comme un poids volumique combiné de 20 kN/m³. Alors, la valeur maximale de la pression en bordure de la fondation est ( ).\nA. 141,6kPa\nB. 180,5kPa\nC. 212,1kPa\nD. 340,3kPa",
+        "target_scores": {
+            "A. 141,6kPa": 1,
+            "B. 180,5kPa": 0,
+            "C. 212,1kPa": 0,
+            "D. 340,3kPa": 0
+        }
+    },
+    {
+        "input": "Un télémètre à onde électromagnétique a une précision nominale de ±(3 + 3ppm) mm. En mesurant une distance de 500 m avec cet instrument, sans tenir compte d'autres facteurs, l'erreur moyenne de mesure est ( ).\nA. ±18mm\nB. ±3mm\nC. ±4,5mm\nD. ±6mm",
+        "target_scores": {
+            "A. ±18mm": 0,
+            "B. ±3mm": 0,
+            "C. ±4,5mm": 1,
+            "D. ±6mm": 0
+        }
+    },
+    {
+        "input": "La coefficient de compression d'une couche de sol est de 0,50MPa^{-1}, le rapport des pores naturel est de 0,8, et l'épaisseur de la couche de sol est de 1m. La contrainte moyenne additionnelle appliquée à cette couche de sol est$\\overline{\\mathbf{\\sigma}}_\\mathbf{z}=\\mathbf{60kPa}$. Alors, le settlement de cette couche de sol est ( ).\nA. 16,3mm\nB. 16,7mm\nC. 30mm\nD. 33,6mm",
+        "target_scores": {
+            "A. 16,3mm": 0,
+            "B. 16,7mm": 1,
+            "C. 30mm": 0,
+            "D. 33,6mm": 0
+        }
+    },
+    {
+        "input": "La hauteur d'une pente de sol est de 8m, l'angle de frottement interne du sol est $\\mathbf{\\phi=10^{\\circ}}$（$N_s＝9,2$）, la cohésion est $c＝25kPa$, et le poids volumique du sol est $\\gamma=18\\mathbf{kN/m}^3$. Alors, le coefficient de sécurité de la pente est ( ).\nA. 0,5\nB. 1\nC. 1,6\nD. 2",
+        "target_scores": {
+            "A. 0,5": 0,
+            "B. 1": 0,
+            "C. 1,6": 1,
+            "D. 2": 0
+        }
+    },
+    {
+        "input": "Une pile profonde de mélange a une longueur de 8m, un diamètre de 0,5m, un module de compression de la pile de 120MPa, un taux de remplacement de 25%, une valeur caractéristique de la capacité portante du sol entre les piles de 110kPa, et un module de compression de 6MPa. La zone renforcée est soumise à une contrainte moyenne de 121kPa. Alors, la déformation de la zone renforcée est ( ).\nA. 13mm\nB. 25mm\nC. 26mm\nD. 28mm",
+        "target_scores": {
+            "A. 13mm": 0,
+            "B. 25mm": 0,
+            "C. 26mm": 0,
+            "D. 28mm": 1
+        }
+    },
+    {
+        "input": "Un fondation comprend une couche supérieure de sol sec de 1,50m d'épaisseur et une couche inférieure de sol saturé. Le poids volumique du sol sec est de 15,6kN/m et celui du sol saturé est de 19,8kN/m. Alors, la contrainte verticale totale à 3,50m de profondeur est ( ).\nA. 23,4kPa\nB. 43kPa\nC. 54,6kPa\nD. 63kPa",
+        "target_scores": {
+            "A. 23,4kPa": 0,
+            "B. 43kPa": 0,
+            "C. 54,6kPa": 0,
+            "D. 63kPa": 1
+        }
+    },
+    {
+        "input": "Une dalle en béton armé préfabriquée a une portée calculée $l_0＝3{,}3m$, une largeur de dalle $b＝0{,}6m$, une charge permanente standard $g_k＝5{,}0kN/m^2$, une charge variable standard $q_k＝2{,}0kN/m^2$, et un poids propre de la dalle $g＝2{,}0kN/m^2$. Lors de l'essai de la dalle préfabriquée avec deux forces concentrées appliquées en quatre points de la dalle, la valeur de conception de la charge de résistance est ( ). (Avec$γ_G＝1{,}2$，$γ_Q＝1{,}4$)\nA. 3,712kN\nB. 4,95kN\nC. 5,049kN\nD. 6,732kN",
+        "target_scores": {
+            "A. 3,712kN": 0,
+            "B. 4,95kN": 0,
+            "C. 5,049kN": 0,
+            "D. 6,732kN": 1
+        }
+    },
+    {
+        "input": "Un échantillon de sable a l'indice des vides naturel de 0,461, l'indice des vides maximal de 0,943 et l'indice des vides minimal de 0,396. Alors, la densité relative de ce sable est ( ).\nA. 0,404\nB. 0,615\nC. 0,679\nD. 0,881",
+        "target_scores": {
+            "A. 0,404": 0,
+            "B. 0,615": 0,
+            "C. 0,679": 0,
+            "D. 0,881": 1
+        }
+    },
+    {
+        "input": "L'état de contrainte en un point est $\\mathbf{\\sigma_{1}=400kPa}$，$\\mathbf{\\sigma_{3}=200kPa}$，$c＝20kPa$，$\\phi=20^\\circ$. Alors, ce point est dans la situation décrite par ( ).\nA.  État stable\nB. Impossible à déterminer\nC. État d'équilibre limite\nD. État de rupture",
+        "target_scores": {
+            "A.  État stable": 1,
+            "B. Impossible à déterminer": 0,
+            "C. État d'équilibre limite": 0,
+            "D. État de rupture": 0
+        }
+    },
+    {
+        "input": "Des pieux de cailloux sont utilisés pour traiter une fondation en sol mou. La capacité portante du sol est de 100kPa, le diamètre des pieux de cailloux est d=0,6m, les pieux sont disposés en carré avec une distance s=1m, et le rapport de contrainte entre les pieux et le sol est n=5. Alors, la capacité portante de la fondation composite est ( ).\nA.  120kPa\nB.  151,1kPa\nC. 171,1kPa\nD. 212,8kPa",
+        "target_scores": {
+            "A.  120kPa": 0,
+            "B.  151,1kPa": 0,
+            "C. 171,1kPa": 0,
+            "D. 212,8kPa": 1
+        }
+    },
+    {
+        "input": "Pour une fondation en bande de 3m de largeur, avec un excentricité e=0,7m et une charge verticale N=1000kN/m appliquée au centre de la base, la pression maximale en bordure de la fondation est ( ).\nA. 210kPa\nB. 700kPa\nC. 733kPa\nD. 833kPa",
+        "target_scores": {
+            "A. 210kPa": 0,
+            "B. 700kPa": 0,
+            "C. 733kPa": 0,
+            "D. 833kPa": 1
+        }
+    },
+    {
+        "input": "La résistance à la compression standard d'un échantillon de béton en forme de cube est de 26,8MPa. Quel est le type de béton correspondant ? ( )\nA. C20/25\nB. C25/30\nC. C35/45\nD. C50/60",
+        "target_scores": {
+            "A. C20/25": 1,
+            "B. C25/30": 0,
+            "C. C35/45": 0,
+            "D. C50/60": 0
+        }
+    },
+    {
+        "input": "Un bâtiment en béton armé de cinq étages (sans sous-sol) a des dimensions de plan 60m×180m. Parmi les affirmations suivantes concernant la conception d'une structure trop longue, laquelle est fausse ? ( )\nA. Installer un joint de dilatation postérieur\nB. Installer un joint de température\nC. Utiliser des barres d'acier fines et serrées pour le plancher\nD. Utiliser du béton de haute résistance pour le plancher",
+        "target_scores": {
+            "A. Installer un joint de dilatation postérieur": 0,
+            "B. Installer un joint de température": 0,
+            "C. Utiliser des barres d'acier fines et serrées pour le plancher": 0,
+            "D. Utiliser du béton de haute résistance pour le plancher": 1
+        }
+    },
+    {
+        "input": "Parmi les quatre types de colonnes suivantes avec la même section transversale, la même quantité de métal et la même classe de résistance du béton, celle qui a la plus grande capacité portante en compression axiale est ( )\nA. Poteau carré en béton armé avec profilé métallique\nB. Poteau cylindrique en béton armé avec profilé métallique\nC. Poteau en béton armé de tube carré\nD. Poteau en béton armé de tube rond",
+        "target_scores": {
+            "A. Poteau carré en béton armé avec profilé métallique": 0,
+            "B. Poteau cylindrique en béton armé avec profilé métallique": 0,
+            "C. Poteau en béton armé de tube carré": 0,
+            "D. Poteau en béton armé de tube rond": 1
+        }
+    },
+    {
+        "input": "Dans une région organisant une exposition horticole, pour construire rapidement un pavillon temporaire de grande portée en un seul étage, la forme de structure la plus appropriée est ( ).\nA. Béton précontraint\nB. Colonnes en béton + Toiture en structure métallique\nC. Structure de béton armé avec profilé métallique + treillis métallique\nD. Structure de câble et de membrane",
+        "target_scores": {
+            "A. Béton précontraint": 0,
+            "B. Colonnes en béton + Toiture en structure métallique": 0,
+            "C. Structure de béton armé avec profilé métallique + treillis métallique": 0,
+            "D. Structure de câble et de membrane": 1
+        }
+    },
+    {
+        "input": "Dans un site de construction, la couche ② (couche de sol dur, argile) repose sur la couche ③ (couche de vase). La relation correcte entre la valeur caractéristique de la capacité portante $f_{ak}$ et le module de compression $E_s$ des couches ② et ③ est ( ).\nA. $f_{ak2}≤f_{ak3}$，$E_{s2}≤E_{s3}$\nB. $f_{ak2}≤f_{ak3}$，$E_{s2}≥E_{s3}$\nC. $f_{ak2}≥f_{ak3}$，$E_{s2}≤E_{s3}$\nD. $f_{ak2}≥f_{ak3}$，$E_{s2}≥E_{s3}$",
+        "target_scores": {
+            "A. $f_{ak2}≤f_{ak3}$，$E_{s2}≤E_{s3}$": 0,
+            "B. $f_{ak2}≤f_{ak3}$，$E_{s2}≥E_{s3}$": 0,
+            "C. $f_{ak2}≥f_{ak3}$，$E_{s2}≤E_{s3}$": 0,
+            "D. $f_{ak2}≥f_{ak3}$，$E_{s2}≥E_{s3}$": 1
+        }
+    },
+    {
+        "input": "Pour une fondation en bande avec une largeur de base de 2m et une valeur caractéristique de la capacité portante sismique corrigée $f_a＝150kPa$, la charge verticale maximale que cette fondation peut supporter est ( ).\nA. 300kN/m\nB. 400kN/m\nC. 500kN/m\nD. 600kN/m",
+        "target_scores": {
+            "A. 300kN/m": 1,
+            "B. 400kN/m": 0,
+            "C. 500kN/m": 0,
+            "D. 600kN/m": 0
+        }
+    },
+    {
+        "input": "Pour un bâtiment de bureaux en cadre de trois étages avec une maillag de colonnes de 9m × 9m, sans sous-sol, et avec un sol silteux à faible compressibilité dans les 20 mètres sous la surface, suivi d'une couche de graviers, la fondation la plus appropriée est ( ).\nA. Fondation en bande\nB. Fondation en dalle\nC. Fondation isolée\nD. Fondation sur pieux",
+        "target_scores": {
+            "A. Fondation en bande": 0,
+            "B. Fondation en dalle": 0,
+            "C. Fondation isolée": 1,
+            "D. Fondation sur pieux": 0
+        }
+    },
+    {
+        "input": "Pour un bâtiment de bureaux en cadre de deux étages sur un sol mou, lorsqu'une grande charge est accumulée sur un côté du bâtiment, le sol peut présenter ( ).\nA. Affaissement global\nB. Affaissement incliné\nC. Flottaison globale\nD. Flottaison inclinée",
+        "target_scores": {
+            "A. Affaissement global": 0,
+            "B. Affaissement incliné": 1,
+            "C. Flottaison globale": 0,
+            "D. Flottaison inclinée": 0
+        }
+    },
+    {
+        "input": "Pour une poutre de section 300 × 700 mm, avec des étriers doubles et une distance entre étriers de 100 mm, si on néglige la résistance sismique, la surface d'étrier nécessaire par mètre linéaire est $1254mm^2$. Quel est le diamètre minimum de l'étrier ? (Le diamètre 6mm correspond à une surface d'étrier de $566mm^2$, le diamètre 8mm à $1006mm^2$, le diamètre 10mm à $1571mm^2$, et le diamètre 12mm à $2262mm^2$) ( )\nA. 10\nB. 12\nC. 6\nD. 8",
+        "target_scores": {
+            "A. 10": 1,
+            "B. 12": 0,
+            "C. 6": 0,
+            "D. 8": 0
+        }
+    },
+    {
+        "input": "Un projet a deux plans de construction, A et B, avec des investissements respectifs de 5 millions de yuans et 10 millions de yuans. La durée du projet est de 10 ans pour les deux, avec des bénéfices annuels de 1,4 million de yuans pour le plan A et 2,5 millions de yuans pour le plan B. En supposant un taux de rendement de référence de 10%, alors la différence de valeur nette présente entre les deux projets est ( ). [Donné :$（P/A, 10\\%, 10）＝6{,}1446$]\nA. 1 759 000 yuans\nB. 3 602 400 yuans\nC. 5 361 400 yuans\nD. 8 963 800 yuans",
+        "target_scores": {
+            "A. 1 759 000 yuans": 1,
+            "B. 3 602 400 yuans": 0,
+            "C. 5 361 400 yuans": 0,
+            "D. 8 963 800 yuans": 0
+        }
+    },
+    {
+        "input": "Un projet prévoit d'utiliser la technologie A pour la construction, mais après une vaste recherche de marché et une argumentation technique, il a été décidé d'utiliser la technologie B à la place de la technologie A, atteignant la même qualité de construction, avec une réduction de coût de 15%. Selon les principes de l'ingénierie de la valeur, le moyen par lequel le projet a augmenté sa valeur est ( ).\nA. Amélioration de la fonctionnalité, coût inchangé\nB. Amélioration de la fonctionnalité, réduction du coût\nC. Baisse à la fois de la fonctionnalité et du coût, avec une réduction plus importante du coût\nD. Fonctionnalité inchangée, réduction du coût",
+        "target_scores": {
+            "A. Amélioration de la fonctionnalité, coût inchangé": 0,
+            "B. Amélioration de la fonctionnalité, réduction du coût": 0,
+            "C. Baisse à la fois de la fonctionnalité et du coût, avec une réduction plus importante du coût": 0,
+            "D. Fonctionnalité inchangée, réduction du coût": 1
+        }
+    },
+    {
+        "input": "Pour un bâtiment de grande hauteur avec trois niveaux de commerce en bas et des logements en haut, quelle système de structure est le plus approprié ? ( )\nA.  Structure en cadre\nB. Structure en murs de cisaillement\nC. Structure entièrement portée par des cadres\nD. Structure partiellement portée par des cadres",
+        "target_scores": {
+            "A.  Structure en cadre": 0,
+            "B. Structure en murs de cisaillement": 0,
+            "C. Structure entièrement portée par des cadres": 0,
+            "D. Structure partiellement portée par des cadres": 1
+        }
+    },
+    {
+        "input": "Pour un gymnase de tennis à toit unique de 40m de portée, quelle forme de structure porteuse du toit est la plus raisonnable ? ( )\nA. Grille métallique\nB. Poutre en béton armé\nC. Poutre en béton armé précontraint\nD. Poutre métallique à âme pleine",
+        "target_scores": {
+            "A. Grille métallique": 1,
+            "B. Poutre en béton armé": 0,
+            "C. Poutre en béton armé précontraint": 0,
+            "D. Poutre métallique à âme pleine": 0
+        }
+    },
+    {
+        "input": "Pour une maison en maçonnerie de trois étages sans sous-sol, avec 10 mètres de sol à faible compressibilité (limon) sous le niveau du sol, suivi d'une couche de cailloux, quelle forme de fondation est appropriée ? ( )\nA. Fondation en bande\nB. Fondation en dalle\nC. Fondation isolée\nD. Fondation sur pieux",
+        "target_scores": {
+            "A. Fondation en bande": 1,
+            "B. Fondation en dalle": 0,
+            "C. Fondation isolée": 0,
+            "D. Fondation sur pieux": 0
+        }
+    },
+    {
+        "input": "« Un tube d'acier cylindrique à charnières aux deux extrémités, de longueur 8m, avec $f=305N/mm^2$ et une charge axiale de conception de 1300 kN, a un coefficient de stabilité $φ=0{,}5$. Quelle est la surface minimale de la section du tube d'acier à utiliser ? (Vérification de la résistance :$\\mathbb{N}/\\mathbb{A}\\leqslant\\mathbb{f}$, vérification de la stabilité : $\\mathbb{N}/(\\phi\\mathbb{f}\\mathbb{A})\\leqslant 1$) »\nA. 12600 mm²\nB. 4300 mm²\nC. 6300 mm²\nD. 8600 mm²",
+        "target_scores": {
+            "A. 12600 mm²": 0,
+            "B. 4300 mm²": 0,
+            "C. 6300 mm²": 0,
+            "D. 8600 mm²": 1
+        }
+    },
+    {
+        "input": "Pour le compactage d'une digue en terre par passes longitudinales avec des décalages latéraux, on fait 5 passes de compactage avec une largeur nette de rouleau de 4m. Le décalage est de ( ) m.\nA. 0,3\nB. 0,8\nC. 1\nD. 1,25",
+        "target_scores": {
+            "A. 0,3": 0,
+            "B. 0,8": 1,
+            "C. 1": 0,
+            "D. 1,25": 0
+        }
+    },
+    {
+        "input": "Initialement, du sable avec un module de finesse de 2,65 était utilisé pour préparer le mélange de béton. En raison de problèmes de fourniture, du sable avec un module de finesse de 1,95 est utilisé à la place. Pour maintenir la même fluidité et la même résistance du béton, la meilleure solution est ( ).\nA. Augmenter la quantité d'eau de brassage\nB. Augmenter le taux de sable\nC. Réduire la quantité de ciment\nD. Réduire le taux de sable",
+        "target_scores": {
+            "A. Augmenter la quantité d'eau de brassage": 0,
+            "B. Augmenter le taux de sable": 0,
+            "C. Réduire la quantité de ciment": 0,
+            "D. Réduire le taux de sable": 1
+        }
+    },
+    {
+        "input": "Pour une fondation d'un bâtiment de dimensions 2m × 2m, enterrée à 2m de profondeur, avec une contrainte additionnelle en base P ＝100kPa, la contrainte additionnelle à 4m de profondeur sur la ligne verticale passant par le centre de la fondation est ( ).\nA. 10kPa\nB. 25kPa\nC. 33,6kPa\nD. 50kPa",
+        "target_scores": {
+            "A. 10kPa": 0,
+            "B. 25kPa": 0,
+            "C. 33,6kPa": 1,
+            "D. 50kPa": 0
+        }
+    },
+    {
+        "input": "Pour un bâtiment en maçonnerie de quatre étages avec une fondation en bande de 1,2m de largeur sous les murs porteurs, enterrée à 1m de profondeur, et une charge standard de 120kN/m appliquée par le bâtiment sur la fondation, le sol est un argile vaseuse avec un poids volumique de $17{,}8kN/m^3$ et une capacité portante caractéristique de 50kPa. Le coefficient de correction en profondeur pour la capacité portante de l'argile vaseuse est $η_d＝1{,}0$. En utilisant une couche de sable pour traiter le sol, avec un angle de diffusion de pression de 30° et une épaisseur de couche de sable de 2m qui satisfait les exigences de capacité portante, la largeur minimale de la couche de sable est ( ).\nA. 2,5m\nB. 3,2m\nC. 3,5m\nD. 5m",
+        "target_scores": {
+            "A. 2,5m": 0,
+            "B. 3,2m": 0,
+            "C. 3,5m": 1,
+            "D. 5m": 0
+        }
+    },
+    {
+        "input": "Pour 250g de sable avec un taux d'humidité massique de 5%, la quantité d'eau contenue est ( ).\nA. 11,0g\nB. 11,9g\nC. 12,5g\nD. 12,9g",
+        "target_scores": {
+            "A. 11,0g": 0,
+            "B. 11,9g": 1,
+            "C. 12,5g": 0,
+            "D. 12,9g": 0
+        }
+    },
+    {
+        "input": "Une fondation composée de deux couches de sol, avec une couche supérieure de sable fin de 4m d'épaisseur et une couche inférieure de sol argileux, où le poids volumique naturel du sable fin est $17kN/m^3$ et celui du sol argileux limoneux est $20kN/m^3$, alors la contrainte verticale totale à une profondeur de 6m est ( ).\nA. 108kPa\nB. 120kPa\nC. 188kPa\nD. 222kPa",
+        "target_scores": {
+            "A. 108kPa": 1,
+            "B. 120kPa": 0,
+            "C. 188kPa": 0,
+            "D. 222kPa": 0
+        }
+    },
+    {
+        "input": "Si le rapport des pores du sol est de 47,71%, alors la porosité du sol exprimée en pourcentage est ( )%.\nA. 109,6\nB. 32,3\nC. 67,7\nD. 91,24",
+        "target_scores": {
+            "A. 109,6": 0,
+            "B. 32,3": 1,
+            "C. 67,7": 0,
+            "D. 91,24": 0
+        }
+    },
+    {
+        "input": "Un matériau pèse 100g après avoir absorbé toute l'eau, soit 10g de plus que lorsqu'il est sec. Le taux d'absorption d'eau de ce matériau est égal à ( ).\nA. 10,0%\nB. 11,1%\nC. 12,0%\nD. 12,6%",
+        "target_scores": {
+            "A. 10,0%": 0,
+            "B. 11,1%": 1,
+            "C. 12,0%": 0,
+            "D. 12,6%": 0
+        }
+    },
+    {
+        "input": "Lors d'une mesure de distance visuelle, un théodolite est placé au point S d'une hauteur de 162,382m, avec une hauteur d'instrument de 1,40m. Les lectures des trois fils (haut, milieu, bas) sont respectivement 1,019m, 1,400m et 1,781m. L'angle vertical obtenu est $\\mathfrak{a}=\\text{3}^{\\circ}12^{\\prime}10^{\\prime\\prime}$. Alors, la distance horizontale SP et l'élévation du point P sont respectivement ( ).\nA. 75,962m，158,125m\nB. 75,962m，166,633m\nC. 76,081m，158,125m\nD. 76,081m，166,633m",
+        "target_scores": {
+            "A. 75,962m，158,125m": 0,
+            "B. 75,962m，166,633m": 1,
+            "C. 76,081m，158,125m": 0,
+            "D. 76,081m，166,633m": 0
+        }
+    },
+    {
+        "input": "Pour une fondation en sol jaune collapsible de 10m d'épaisseur, il est prévu de traiter par compactage dynamique avec un coefficient d'influence de 0,5. Avec une masse de marteau de 100kN, la hauteur de chute h nécessaire pour satisfaire les exigences de conception est ( ).\nA. 10m\nB. 15m\nC. 20m\nD. 40m",
+        "target_scores": {
+            "A. 10m": 0,
+            "B. 15m": 0,
+            "C. 20m": 0,
+            "D. 40m": 1
+        }
+    },
+    {
+        "input": "Trois poutres simplement appuyées (a, b et c) soumises à des charges concentrées en milieu d'envergure ont des taux de renforcement respectifs de $p_a=0{,}8\\%$，$p_b=1{,}6\\%=p_max$，$p_c=2{,}0\\%$, avec toutes les autres conditions identiques. En garantissant que les poutres ne subiront pas de rupture en section oblique, la relation entre les valeurs de conception des charges concentrées P que chaque poutre peut supporter est ().\nA. $2\\mathbb{P}_a<mathbb{P}_b<mathbb{P}_c$\nB. $\\mathbb{P}_a<mathbb{P}_b<mathbb{P}_c$\nC. $\\mathbb{P}_b=\\mathbb{P}_c<2\\mathbb{P}_a$\nD. $\\mathrm{P_b=2P_a=P_c}$",
+        "target_scores": {
+            "A. $2\\mathbb{P}_a<mathbb{P}_b<mathbb{P}_c$": 0,
+            "B. $\\mathbb{P}_a<mathbb{P}_b<mathbb{P}_c$": 0,
+            "C. $\\mathbb{P}_b=\\mathbb{P}_c<2\\mathbb{P}_a$": 1,
+            "D. $\\mathrm{P_b=2P_a=P_c}$": 0
+        }
+    },
+    {
+        "input": "Un tunnel en béton avec un diamètre d＝2m et un coefficient de rugosité n＝0,014. Lors de la conception du modèle, une échelle de longueur de 40 a été choisie, et le débit mesuré dans le modèle est de 35L/s. Alors, le débit correspondant dans le prototype et le coefficient de rugosité du matériau du modèle sont ( ).\nA. $354{,}18m^3/s$, $0{,}0067$\nB. $354{,}18m^3/s$, $0{,}0076$\nC. $56m^3/s$, $0{,}0067$\nD. $56m^3/s$, $0{,}0076$",
+        "target_scores": {
+            "A. $354{,}18m^3/s$, $0{,}0067$": 0,
+            "B. $354{,}18m^3/s$, $0{,}0076$": 1,
+            "C. $56m^3/s$, $0{,}0067$": 0,
+            "D. $56m^3/s$, $0{,}0076$": 0
+        }
+    },
+    {
+        "input": "L'eau coule dans un tuyau circulaire de diamètre 1cm à une vitesse de 1m/s, avec un coefficient de viscosité cinématique de 0,01 cm^2/s. Le type d'écoulement dans le tuyau est ( ).\nA. Impossible à déterminer\nB. Écoulement critique\nC. Écoulement laminaire\nD. Écoulement turbulent",
+        "target_scores": {
+            "A. Impossible à déterminer": 0,
+            "B. Écoulement critique": 0,
+            "C. Écoulement laminaire": 0,
+            "D. Écoulement turbulent": 1
+        }
+    },
+    {
+        "input": "Un tuyau de diamètre 100mm et de longueur 10m a deux coudes (chaque coude a un coefficient de perte de charge locale de 0,8), et le coefficient de perte de charge le long du tuyau est 0,037. Si ces deux coudes sont enlevés tout en gardant la longueur du tuyau inchangée et en maintenant la même tête d'eau aux deux extrémités du tuyau, le débit dans le tuyau augmentera de ( ).\nA. 10%\nB. 20%\nC. 30%\nD. 40%",
+        "target_scores": {
+            "A. 10%": 0,
+            "B. 20%": 1,
+            "C. 30%": 0,
+            "D. 40%": 0
+        }
+    },
+    {
+        "input": "Lorsque la pression est de $3500kN/m^2$, le volume de l'eau est de$1{,}0m^3$. Lorsque la pression augmente à $24000kN/m^2$, le volume devient 0,99m^3. Alors, le volume de l'eau lorsque la pression augmente à $7000kN/m^2$ est ( ).\nA. $0{,}9945m^3$\nB. $0{,}9956m^3$\nC. $0{,}9974m^3$\nD. $0{,}9983m^3$",
+        "target_scores": {
+            "A. $0{,}9945m^3$": 0,
+            "B. $0{,}9956m^3$": 0,
+            "C. $0{,}9974m^3$": 0,
+            "D. $0{,}9983m^3$": 1
+        }
+    },
+    {
+        "input": "Sur une carte à l'échelle de 1∶2000, la distance entre les points A et B est mesurée à 43,4cm. Pour construire une route avec une pente maximale de 3% entre les deux points, la différence maximale d'altitude entre A et B devrait être ( ).\nA. 1,2m\nB. 10,8m\nC. 2,6m\nD. 26,0m",
+        "target_scores": {
+            "A. 1,2m": 0,
+            "B. 10,8m": 0,
+            "C. 2,6m": 0,
+            "D. 26,0m": 1
+        }
+    },
+    {
+        "input": "Pour un bassin versant d'une superficie de $10000km^2$, le volume total de crue encerclé par le hydrogramme unitaire (10mm) pour une durée de 2 heures est de combien ? (Unité :millions de m3 $m^3$) ( ).\nA. 100\nB. 200\nC. 360\nD. 72",
+        "target_scores": {
+            "A. 100": 1,
+            "B. 200": 0,
+            "C. 360": 0,
+            "D. 72": 0
+        }
+    },
+    {
+        "input": "Lorsque le débit d'un cours d'eau est $Q＝120m^3/s$, avec une section transversale rectangulaire de largeur b＝60m et une vitesse d'écoulement v＝5m/s, le type d'écoulement dans le cours d'eau est ( ).\nA. Courant lent\nB. Courant rapide\nC. Impossible à déterminer\nD. Écoulement critique",
+        "target_scores": {
+            "A. Courant lent": 0,
+            "B. Courant rapide": 1,
+            "C. Impossible à déterminer": 0,
+            "D. Écoulement critique": 0
+        }
+    },
+    {
+        "input": "Sachant que le module de compression du sol A est de 5MPa et celui du sol B est de 10MPa, la déclaration correcte concernant la compressibilité des deux types de sol est ( ).\nA. Impossible à déterminer, il est nécessaire de compléter les charges supérieures subies par les deux sols.\nB. Impossible à déterminer, il est nécessaire de compléter les coefficients de Poisson des deux sols.\nC. Le sol A est moins compressible que le sol B.\nD. Le sol A est plus compressible que le sol B.",
+        "target_scores": {
+            "A. Impossible à déterminer, il est nécessaire de compléter les charges supérieures subies par les deux sols.": 0,
+            "B. Impossible à déterminer, il est nécessaire de compléter les coefficients de Poisson des deux sols.": 0,
+            "C. Le sol A est moins compressible que le sol B.": 0,
+            "D. Le sol A est plus compressible que le sol B.": 1
+        }
+    },
+    {
+        "input": "Pour un conteneur à écoulement par un orifice mince, avec un diamètre d'orifice de d, si un tuyau court de longueur 4d est ajouté sur l'orifice, le débit par rapport à l'original est ( ).\nA. Augmenté de 100 %\nB. Augmenté de 22 %\nC. Augmenté de 32 %\nD. Inchangé",
+        "target_scores": {
+            "A. Augmenté de 100 %": 0,
+            "B. Augmenté de 22 %": 0,
+            "C. Augmenté de 32 %": 1,
+            "D. Inchangé": 0
+        }
+    },
+    {
+        "input": "Pour deux canaux ouverts, avec des coefficients de rugosité n de 0,015 et 0,016 respectivement et tous les autres paramètres identiques, la profondeur critique de l'eau dans les deux canaux est ( ).\nA. $h_1<h_2$\nB. $h_1=h_2$\nC. $h_1>h_2$\nD. Impossible à déterminer",
+        "target_scores": {
+            "A. $h_1<h_2$": 0,
+            "B. $h_1=h_2$": 1,
+            "C. $h_1>h_2$": 0,
+            "D. Impossible à déterminer": 0
+        }
+    },
+    {
+        "input": "Pour un tuyau circulaire de transport de pétrole avec un diamètre de 300mm et un débit de $0{,}3m^3/s$, si un essai de modèle est mené en laboratoire avec de l'eau dans un tuyau à une échelle de longueur de 3, avec un coefficient de viscosité du pétrole de 0{,}045cm^2 /s et de l'eau de $0{,}01cm^2/s$, le débit du modèle est ( ).\nA. $0{,}006m^3/s$\nB. $0{,}0074m^3/s$\nC. $0{,}022m^3/s$\nD. $0{,}06m^3/s$",
+        "target_scores": {
+            "A. $0{,}006m^3/s$": 0,
+            "B. $0{,}0074m^3/s$": 0,
+            "C. $0{,}022m^3/s$": 1,
+            "D. $0{,}06m^3/s$": 0
+        }
+    },
+    {
+        "input": "En utilisant un point de niveau avec une hauteur de 9,125m, pour mesurer un niveau de sol intérieur à ±0m avec une hauteur de 8,586m, après avoir placé la règle sur le point de niveau, la lecture de l'instrument de nivellement sur la règle est de 1,462m. Quelle est la lecture sur la règle lorsqu'elle est placée à l'intérieur ? ( )\nA.  0,539m\nB. 0,923m\nC. 1,743m\nD. 2,001m",
+        "target_scores": {
+            "A.  0,539m": 0,
+            "B. 0,923m": 0,
+            "C. 1,743m": 0,
+            "D. 2,001m": 1
+        }
+    },
+    {
+        "input": "Un liquide avec une densité de 830 kg/m^3 et une viscosité dynamique de 0,035N·s/m^2 coule dans un tuyau avec un diamètre intérieur de 5cm, avec un débit de 3L/s. L'état de flux est ( ).\nA. Courant lent\nB. Courant rapide\nC. Écoulement laminaire\nD. Écoulement turbulent",
+        "target_scores": {
+            "A. Courant lent": 0,
+            "B. Courant rapide": 0,
+            "C. Écoulement laminaire": 1,
+            "D. Écoulement turbulent": 0
+        }
+    },
+    {
+        "input": "Dans un tuyau, la vitesse d'un liquide est$v＝0{,}4m/s$ et le coefficient de viscosité cinématique du liquide est $υ＝0{,}01139 cm^2/s$. Le diamètre du tuyau d pour assurer un écoulement laminaire est ( ).\nA. 10mm\nB. 12mm\nC. 5mm\nD. 8mm",
+        "target_scores": {
+            "A. 10mm": 0,
+            "B. 12mm": 0,
+            "C. 5mm": 1,
+            "D. 8mm": 0
+        }
+    },
+    {
+        "input": "Dans une fondation, le poids volumique du limon argileux est $16kN/m^3$, la nappe phréatique est située à 2m sous le niveau du sol, et le poids volumique saturé du limon argileux est $18kN/m^3$. La contrainte de poids propre de la fondation à 4m de profondeur est ( ).\nA. 45kPa\nB. 48kPa\nC. 65kPa\nD. 68kPa",
+        "target_scores": {
+            "A. 45kPa": 0,
+            "B. 48kPa": 1,
+            "C. 65kPa": 0,
+            "D. 68kPa": 0
+        }
+    },
+    {
+        "input": "Un échantillon de sol a un indice de plasticité de 20, selon la classification par l'indice de plasticité, le nom de cet échantillon de sol est ( ).\nA.  Limon\nB. Argile\nC. Argile limoneuse\nD. Sable",
+        "target_scores": {
+            "A.  Limon": 0,
+            "B. Argile": 1,
+            "C. Argile limoneuse": 0,
+            "D. Sable": 0
+        }
+    },
+    {
+        "input": "Pour un site avec une couche de sable, le poids volumique $γ＝18kN/m^3$, le poids volumique saturé $γ_sat＝19kN/m^3$, le coefficient de pression latérale$K_0＝0,3$, la nappe phréatique est située à 2m sous le niveau du sol, et le poids volumique de l'eau $γ_w＝10kN/m^3$, alors la contrainte de poids propre horizontale du sol à 3m de profondeur est ( ).\nA. 10,8kPa\nB. 13,5kPa\nC. 17,4kPa\nD. 45,0kPa",
+        "target_scores": {
+            "A. 10,8kPa": 0,
+            "B. 13,5kPa": 1,
+            "C. 17,4kPa": 0,
+            "D. 45,0kPa": 0
+        }
+    },
+    {
+        "input": "Pour un mur de soutènement de 5m de hauteur, avec une face arrière verticale et lisse, et une surface de remblai horizontale derrière le mur, le poids volumique du remblai $γ＝17kN/m^3$, la résistance au cisaillement$c＝0$, et l'angle de frottement interne$φ＝32$, calculez la valeur de la force résultante de la pression active du sol $E_a$( ).\nA. 55kN/m\nB. 65,2kN/m\nC. 68,2kN/m\nD. 76,7kN/m",
+        "target_scores": {
+            "A. 55kN/m": 0,
+            "B. 65,2kN/m": 1,
+            "C. 68,2kN/m": 0,
+            "D. 76,7kN/m": 0
+        }
+    },
+    {
+        "input": "Pour une fondation en bande avec une charge supérieure de 250kN/m, enterrée à 1,5m de profondeur, et un poids volumique du sol au-dessus de la base de $16kN/m^3$, la valeur caractéristique de la capacité portante corrigée en profondeur est de 130kPa. La largeur de la base qui satisfait les exigences de capacité portante et est économiquement raisonnable est ( ).\nA. 1,5\nB. 2\nC. 2,5\nD. 3",
+        "target_scores": {
+            "A. 1,5": 0,
+            "B. 2": 0,
+            "C. 2,5": 1,
+            "D. 3": 0
+        }
+    },
+    {
+        "input": "Sachant qu'un mur de soutènement de 4,5m de hauteur a une face arrière verticale et lisse, et que le remblai derrière le mur est du sable jusqu'au sommet du mur, avec $c＝0$，$φ＝30°$，$\\gamma=18\\mathbf{kN/m^3}$，$\\gamma^{\\prime}=\\mathbf{9kN/m^3}$, et que la nappe phréatique est située au niveau du sommet du mur, la pression active du sol à 4m de profondeur sous le sommet du mur est ( ).\nA.  16,1kPa\nB. 10,8kPa\nC. 12,0kPa\nD. 18,0kPa",
+        "target_scores": {
+            "A.  16,1kPa": 0,
+            "B. 10,8kPa": 0,
+            "C. 12,0kPa": 1,
+            "D. 18,0kPa": 0
+        }
+    },
+    {
+        "input": "Sachant que les indices de résistance au cisaillement en contrainte effective du sol sont $c＝20kPa$，$φ＝32°$,  quelle est la valeur de la grande contrainte principale $σ_1$ lorsque la pression interstitielle $u＝50kPa$ et la petite contrainte principale $σ_3＝150kPa$, et que le point est sur le point de subir une rupture par cisaillement ? ( )\nA. 325,5kPa\nB. 375,5kPa\nC. 397,6kPa\nD. 447,6kPa",
+        "target_scores": {
+            "A. 325,5kPa": 0,
+            "B. 375,5kPa": 0,
+            "C. 397,6kPa": 0,
+            "D. 447,6kPa": 1
+        }
+    },
+    {
+        "input": "Pour un échantillon de sol avec des indices de résistance au cisaillement effectifs $\\mathbf{c^{\\prime}=20kPa}$，$\\phi^{\\prime}=30^{\\circ}$, lorsque les contraintes totales sont $σ_1＝500kPa$，$σ_3＝120kPa$, et qu'il existe une pression interstitielle d'eau de 50kPa dans l'échantillon de sol, l'état du sol est ( ).\nA. État d'équilibre limite\nB. État d'équilibre statique\nC. État de rupture\nD. État sûr",
+        "target_scores": {
+            "A. État d'équilibre limite": 0,
+            "B. État d'équilibre statique": 0,
+            "C. État de rupture": 1,
+            "D. État sûr": 0
+        }
+    },
+    {
+        "input": "Pour un échantillon de sable sec avec un diamètre de 38mm, lors d'un essai triaxial conventionnel avec une pression de confinement constante de 48,7 kPa, la force axiale finale appliquée par le piston est de 75,2 N. L'angle de frottement interne de cet échantillon est ( ).\nA. 20,1 degrés\nB. 22,0 degrés\nC. 23,9 degrés\nD. 30,5 degrés",
+        "target_scores": {
+            "A. 20,1 degrés": 0,
+            "B. 22,0 degrés": 0,
+            "C. 23,9 degrés": 1,
+            "D. 30,5 degrés": 0
+        }
+    },
+    {
+        "input": "Un échantillon de sable sec avec une épaisseur de 21,7 mm est soumis à un essai de compression dans un appareil de consolidation. Lorsque la contrainte verticale augmente de 10,0 kPa à 40,0 kPa, l'épaisseur de l'échantillon diminue de 0,043 mm. Le coefficient de compression volumique $m_v$（$MPa^{-1}$）de cet échantillon est ( ).\nA.  $3{,}29×10^-2$\nB.  $3{,}40×10^-2$\nC.  $6{,}60×10^-2$\nD.  $8{,}40×10^-2$",
+        "target_scores": {
+            "A.  $3{,}29×10^-2$": 0,
+            "B.  $3{,}40×10^-2$": 0,
+            "C.  $6{,}60×10^-2$": 1,
+            "D.  $8{,}40×10^-2$": 0
+        }
+    },
+    {
+        "input": "Pour un sol saturé avec un poids spécifique des grains de sol $d_s＝2{,}70$ et une teneur en eau $w＝30\\%$, en prenant le poids volumique de l'eau $γ_w＝10kN/m^3$, le poids volumique saturé de ce sol est ( ).\nA. $19{,}4kN/m^3$\nB. $20{,}2kN/m^3$\nC. $20{,}8kN/m^3$\nD. $21{,}2kN/m^3$",
+        "target_scores": {
+            "A. $19{,}4kN/m^3$": 1,
+            "B. $20{,}2kN/m^3$": 0,
+            "C. $20{,}8kN/m^3$": 0,
+            "D. $21{,}2kN/m^3$": 0
+        }
+    },
+    {
+        "input": "Sachant qu'un échantillon de sol a un coefficient de compression $a_1-2＝0{,}5MPa^{-1}$ et que le indice des vides de cet échantillon est de 0,96 après 24 heures de compression sous une pression de 100 kPa, alors le rapport des pores de cet échantillon après 24 heures de compression sous une pression de 200 kPa est ( ).\nA. 0,43\nB. 0,88\nC. 0,91\nD. 1,02",
+        "target_scores": {
+            "A. 0,43": 0,
+            "B. 0,88": 0,
+            "C. 0,91": 1,
+            "D. 1,02": 0
+        }
+    },
+    {
+        "input": "Les charges agissant sur la poutre de passage comprennent le poids propre du mur en maçonnerie et les charges des poutres et dalles dans la zone de hauteur calculée de la poutre de passage. Pour la maçonnerie en briques, on peut négliger le poids des murs supérieurs à $l_n/3$ (où $l_n$ est la portée nette de la poutre de passage) et les charges des poutres et dalles à une hauteur supérieure à $l_n$. Cela est dû à la prise en compte de ( ).\nA. Diffusion de contraintes\nB. Détente due à la cambrure\nC. Interaction entre poutres et murs\nD. Redistribution de contraintes",
+        "target_scores": {
+            "A. Diffusion de contraintes": 0,
+            "B. Détente due à la cambrure": 1,
+            "C. Interaction entre poutres et murs": 0,
+            "D. Redistribution de contraintes": 0
+        }
+    }
+]

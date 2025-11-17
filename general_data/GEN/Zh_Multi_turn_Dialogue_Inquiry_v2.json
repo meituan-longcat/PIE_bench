@@ -1,0 +1,354 @@
+[
+    {
+        "input": "[Round 0]\nUSER: 行驶了两段路，一段是5公里，一段是8公里，一共行驶多少公里？请只用阿拉伯数字回答。\nASSISTANT: 13\n[Round 1]\nUSER: 那再行驶10公里呢，一共行驶多少公里？请只用阿拉伯数字回答。\nASSISTANT:",
+        "target": "23"
+    },
+    {
+        "input": "[Round 0]\nUSER: 三个50克的鸡蛋和四个100克的鸡蛋总共有多少克？请只用阿拉伯数字回答。\nASSISTANT: 550\n[Round 1]\nUSER: 如果我吃掉了两个50克的鸡蛋呢，还剩多少克？请只用阿拉伯数字回答。\nASSISTANT:",
+        "target": "450"
+    },
+    {
+        "input": "[Round 0]\nUSER: 把4毫升的水倒掉1毫升，还剩多少毫升？直接写出值，不要单位，用中文数字表达。\nASSISTANT: 三\n[Round 1]\nUSER: 如果我再加入12毫升呢，还剩多少毫升？直接写出值，不要单位，用中文数字表达。\nASSISTANT:",
+        "target": "十五"
+    },
+    {
+        "input": "[Round 0]\nUSER: 规定一个人一天喝三瓶水，那么这个人两天喝了几瓶水？答案请用罗马数字回答，不需要其他内容。\nASSISTANT: VI\n[Round 1]\nUSER: 那四天这个人喝了几瓶水？答案请用罗马数字回答，不需要其他内容。\nASSISTANT:",
+        "target": "XII"
+    },
+    {
+        "input": "[Round 0]\nUSER: 两块厚度为1厘米的纸板，叠加起来的总厚度是多少厘米？请用罗马数字回答，不要单位。\nASSISTANT: II\n[Round 1]\nUSER: 再叠加5张一样厚度的纸板，总厚度变为多少厘米了？请用罗马数字回答，不要单位。\nASSISTANT:",
+        "target": "VII"
+    },
+    {
+        "input": "[Round 0]\nUSER: 一个长方形，长为6厘米，宽为4厘米，长方形的周长是多少厘米？请用中文大写数字回答，不要单位。\nASSISTANT: 贰拾\n[Round 1]\nUSER: 那这个长方形的面积是多少平方厘米？请用中文大写数字回答，不要单位。\nASSISTANT:",
+        "target": "贰拾肆"
+    },
+    {
+        "input": "[Round 0]\nUSER: 一个正方形的面积是64平方厘米，它的边长是多少厘米？只写出值，用中文大写数字表达。\nASSISTANT: 捌\n[Round 1]\nUSER: 那这个正方形对角线的长度的整数部分是多少？只写出值，用中文大写数字表达。\nASSISTANT:",
+        "target": "拾壹"
+    },
+    {
+        "input": "[Round 0]\nUSER: 圆形的水池，半径为5米。计算水池的面积是多少平方米？只写出值，用小数形式表达。（π=3.14）\nASSISTANT: 78.5\n[Round 1]\nUSER: 再计算一下周长是多少米？只写出值，用小数形式表达。（π=3.14）\nASSISTANT:",
+        "target": "31.4"
+    },
+    {
+        "input": "[Round 0]\nUSER: 等腰三角形的底边长为10厘米，高为8厘米。它的面积是多少平方厘米？直接写出值，用小数形式回答，精确到小数点后一位。\nASSISTANT: 40.0\n[Round 1]\nUSER: 它的腰长为多少厘米？直接写出值，用小数形式回答，精确到小数点后一位。\nASSISTANT:",
+        "target": "9.4"
+    },
+    {
+        "input": "[Round 0]\nUSER: 第一天是100，每天固定增加的数量是5。第7天会增加为多少？直接用英文形式的数字回答。\nASSISTANT: One hundred and thirty\n[Round 1]\nUSER: 如果增加到140，那么是第几天？请用罗马数字回答。\nASSISTANT:",
+        "target": "IX"
+    },
+    {
+        "input": "[Round 0]\nUSER: 把五只A、B、C、D、E小鸟分到两个相同的笼子中，且不允许有空笼子，有多少种分法？直接写出值，用中文大写数字表达。\nASSISTANT: 拾伍\n[Round 1]\nUSER: 如果是三个相同的笼子，且不允许有空笼子，又有多少种分法？直接写出值，用中文大写数字表达。\nASSISTANT:",
+        "target": "贰拾伍"
+    },
+    {
+        "input": "[Round 0]\nUSER: 一张长为20厘米、宽为10厘米的纸，剪成正方形，最大的正方形边长是多少？请用中文大写数字回答，不需要其他内容。\nASSISTANT: 拾\n[Round 1]\nUSER: 这个正方形的面积是多少平方厘米？请用中文大写数字回答，不需要其他内容。\nASSISTANT:",
+        "target": "壹佰"
+    },
+    {
+        "input": "[Round 0]\nUSER: 一辆汽车以60公里/小时的速度行驶，2小时后它行驶了多少公里？答案请用英文形式的数字回答，不要单位。\nASSISTANT: One hundred and twenty\n[Round 1]\nUSER: 再过5小时后它一共行驶了多少公里？答案请用英文形式的数字回答，不要单位。\nASSISTANT:",
+        "target": "Four hundred and twenty"
+    },
+    {
+        "input": "[Round 0]\nUSER: 每个楼层有8级台阶，从1楼到10楼共需要爬多少级台阶？只写出值，用阿拉伯数字表达。\nASSISTANT: 72\n[Round 1]\nUSER: 如果这个人只爬到了8楼就停下了，那他一共爬了多少级台阶？只写出值，用阿拉伯数字表达。\nASSISTANT:",
+        "target": "56"
+    },
+    {
+        "input": "[Round 0]\nUSER: 一盒巧克力中有5种口味，每种口味有4块，一共有多少块巧克力？只写出值，用罗马数字表达。\nASSISTANT: XX\n[Round 1]\nUSER: 如果被吃光了2种口味，那么还剩下多少块？只写出值，用罗马数字表达。\nASSISTANT:",
+        "target": "XII"
+    },
+    {
+        "input": "[Round 0]\nUSER: 电影院共有12排座位，每排有20个座位，一共有多少个座位？答案请用中文数字回答，不用带单位。\nASSISTANT: 二百四十\n[Round 1]\nUSER: 已知一场电影一共有63个人观看，那这个电影院在客人入座后，还剩下多少空座？答案请用中文数字回答，不用带单位。\nASSISTANT:",
+        "target": "一百七十七"
+    },
+    {
+        "input": "[Round 0]\nUSER: 一部电影时长为2小时30分钟，换算成分钟是多少分钟？答案请用中文数字回答，不需要写出单位。\nASSISTANT: 一百五十\n[Round 1]\nUSER: 已经观看了80分钟，还剩下多少分钟？答案请用中文数字回答，不需要写出单位。\nASSISTANT:",
+        "target": "七十"
+    },
+    {
+        "input": "[Round 0]\nUSER: 一个数的8倍是16，这个数是多少？答案请用罗马数字回答，不需要其他内容。\nASSISTANT: II\n[Round 1]\nUSER: 刚才得到的值再乘以5等于多少？答案请用罗马数字回答，不需要其他内容。\nASSISTANT: X\n[Round 2]\nUSER: 再减去2呢？答案请用罗马数字回答，不需要其他内容。\nASSISTANT:",
+        "target": "VIII"
+    },
+    {
+        "input": "[Round 0]\nUSER: 一个篮子里有5个橙子，另一个篮子里有7个橙子，两个篮子里一共有多少个橙子？直接用罗马数字写出值，不需要单位。\nASSISTANT: Ⅻ\n[Round 1]\nUSER: 从数量多的那个篮子里取走3个橙子，那个篮子里还剩下几个橙子？直接用罗马数字写出值，不需要单位。\nASSISTANT: Ⅳ\n[Round 2]\nUSER: 然后，再把两个篮子里的橙子放在一起，一共有多少个橙子？直接用罗马数字写出值，不需要单位。\nASSISTANT:",
+        "target": "IX"
+    },
+    {
+        "input": "[Round 0]\nUSER: 往一个重88.8克的杯子中加入213.67克的水，那么这个杯子的总重量是多少克？请用小数形式来回答，精确到小数点后一位，不要单位。\nASSISTANT: 302.5\n[Round 1]\nUSER: 然后又喝掉20.583克水，总重量还剩多少克？请用小数形式来回答，精确到小数点后一位，不要单位。\nASSISTANT: 281.9\n[Round 2]\nUSER: 结果不小心又洒出10.4克水，总重量还剩多少克？请用小数形式来回答，精确到小数点后一位，不要单位。\nASSISTANT:",
+        "target": "271.5"
+    },
+    {
+        "input": "[Round 0]\nUSER: 在一个温度为30摄氏度湿度为95%的房间中，温度每升高1摄氏度，湿度就会降低5%。此时湿度降低到75%，那么这个房间的温度是多少摄氏度？答案请用阿拉伯数字回答，不需要其他内容。\nASSISTANT: 34\n[Round 1]\nUSER: 如果房间温度从30摄氏度变为35摄氏度，湿度是多少？请用阿拉伯数字来回答，用百分比的形式。\nASSISTANT: 70%\n[Round 2]\nUSER: 那如果湿度从原来的95%降低到50%，房间的温度是多少摄氏度？直接用阿拉伯数字回答。\nASSISTANT:",
+        "target": "39"
+    },
+    {
+        "input": "[Round 0]\nUSER: 如果一个人第一天吃三粒药片，每粒药的重量是0.1克，那么这个人一天吃的药的总重量是多少克？直接写出值，不要单位，用小数形式表达。\nASSISTANT: 0.3\n[Round 1]\nUSER: 因为症状好转，这个人第二天可以少服用一粒，那么他第二天吃药的总重量是多少克？直接写出值，不要单位，用小数形式表达。\nASSISTANT: 0.2\n[Round 2]\nUSER: 他两天服药的总重量是多少克？直接写出值，不要单位，用小数形式表达。\nASSISTANT:",
+        "target": "0.5"
+    },
+    {
+        "input": "[Round 0]\nUSER: 一实验室的实验品有273摄氏度，把273摄氏度转换为华氏度，等于多少华氏度？使用阿拉伯数字给出答案，需要加单位符号，精确到小数点后一位，不需要其他说明。\nASSISTANT:523.4°F\n[Round 1]\nUSER: 第二天发现实验品温度增加了10摄氏度，转换为华氏度，等于多少华氏度？用阿拉伯数字给出答案，需要加单位符号，精确到小数点后一位，不需要其他说明。\nASSISTANT: 541.4°F\n[Round 2]\nUSER: 将第二天的华氏度除以5，等于多少华氏度？用阿拉伯数字给出答案，需要加单位符号，精确到小数点后一位，不需要其他说明。\nASSISTANT:",
+        "target": "108.3°F"
+    },
+    {
+        "input": "[Round 0]\nUSER: 每天增长一倍的数列，第10天达到1024。计算第5天这个数列的值是多少。请用英文数字回答。\nASSISTANT: Thirty-two\n[Round 1]\nUSER: 那么，第7天的值是多少呢？请用英文数字回答。\nASSISTANT: One hundred and twenty-eight\n[Round 2]\nUSER: 那再算一下这个数列最一开始的值是多少？请用英文数字回答。\nASSISTANT:",
+        "target": "Two"
+    },
+    {
+        "input": "[Round 0]\nUSER: 假设一个房间的体积是150000立方厘米，而你打算将这个房间的体积再扩大50000立方厘米。计算扩大后的房间体积是多少立方厘米？答案请用英文数字回答，不需要其他内容。\nASSISTANT: Two hundred thousand\n[Round 1]\nUSER: 如果在扩大的基础上再缩小20000立方厘米，还剩多少立方厘米？答案请用英文数字回答，不需要其他内容。\nASSISTANT: One hundred eighty thousand\n[Round 2]\nUSER: 那最后再把剩下的房间体积再缩小为一半，最终变为多少立方厘米？答案请用英文数字回答，不需要其他内容。\nASSISTANT:",
+        "target": "Ninety thousand"
+    },
+    {
+        "input": "[Round 0]\nUSER: 一个直角三角形的两条直角边分别为3厘米和4厘米，那么斜边的长度是多少厘米？直接用罗马数字回答，不需要写单位。\nASSISTANT: V\n[Round 1]\nUSER: 那么这个三角形的面积是多少平方厘米？直接用罗马数字回答，不需要写单位。\nASSISTANT: VI\n[Round 2]\nUSER: 它垂直于斜边上的高呢，是多少厘米？请用分数形式的值来回答，用假分数，不需要写单位。\nASSISTANT:",
+        "target": "12/5"
+    },
+    {
+        "input": "[Round 0]\nUSER: 小明有两个相同的苹果，他把其中一个苹果切成了四等分，然后吃掉了一个等分，那么小明现在还剩下多少个苹果？请用分数形式的值来回答，用假分数，不需要写单位。\nASSISTANT: 7/4\n[Round 1]\nUSER: 不一会儿，他又吃掉两个等分，那么小明现在还剩下多少个苹果？请用分数形式的值来回答，用假分数，不需要写单位。\nASSISTANT: 5/4\n[Round 2]\nUSER: 再过了一会儿，小明又把完整的苹果送给了同学，那么小明现在还剩下多少个苹果？请用分数形式的值来回答，不需要写单位。\nASSISTANT:",
+        "target": "1/4"
+    },
+    {
+        "input": "[Round 0]\nUSER: 书柜有5层，每层放12本书，一共可以放多少本书？直接写出值，用中文数字表达。\nASSISTANT: 六十\n[Round 1]\nUSER: 如果每层只放11本，那一共可以放多少本书？直接写出值，用中文数字表达。\nASSISTANT: 五十五\n[Round 2]\nUSER: 要是书柜坏了一层不能放书，每层只能放10本书，一共可以放多少本书？直接写出值，用中文数字表达。\nASSISTANT:",
+        "target": "四十"
+    },
+    {
+        "input": "[Round 0]\nUSER: 工厂每天固定生产800个产品，30天后应该共生产多少个产品？答案请用中文数字回答，不需要单位。\nASSISTANT: 二万四千\n[Round 1]\nUSER: 结果发现30天内有5天休息时间，那30天内实际共生产多少个产品？答案请用中文数字回答，不需要单位。\nASSISTANT:",
+        "target": "二万"
+    },
+    {
+        "input": "[Round 0]\nUSER: 一个人每分钟跑200米，那么他30分钟后跑了多少米？直接用中文大写数字回答，不需要单位。\nASSISTANT: 陆仟\n[Round 1]\nUSER: 如果他中途休息了2分钟，那么他30分钟后跑了多少米？直接用中文大写数字回答，不需要单位。\nASSISTANT:",
+        "target": "伍仟陆佰"
+    },
+    {
+        "input": "[Round 0]\nUSER: 一个股票涨幅为5%，原来的价格为100元，现在的价格是多少元？请仅使用人民币货币符号和阿拉伯数字来回答。\nASSISTANT: ¥105\n[Round 1]\nUSER: 如果又上涨20%，则现在的价格是多少元？请仅使用人民币货币符号和阿拉伯数字来回答。\nASSISTANT: ¥126\n[Round 2]\nUSER: 紧接着又涨了5%，是多少元？请仅使用人民币货币符号和阿拉伯数字来回答。\nASSISTANT:",
+        "target": "¥132.3"
+    },
+    {
+        "input": "[Round 0]\nUSER: 第一天小明买了3本书，每本书价格为15美金，他一共花费了多少钱？麻烦仅用对应货币符号和阿拉伯数字来回答。\nASSISTANT: $45\n[Round 1]\nUSER: 第二天他又买了2支笔，每支10美金，他两天一共花费了多少钱？麻烦仅用对应货币符号和阿拉伯数字来回答。\nASSISTANT: $65\n[Round 2]\nUSER: 买笔的时候他还给了老板5美金的小费。他这两天一共花费了多少钱？麻烦仅用对应货币符号和阿拉伯数字来回答。\nASSISTANT:",
+        "target": "$70"
+    },
+    {
+        "input": "[Round 0]\nUSER: 3的4次方等于多少？直接用中文大写数字给出值。\nASSISTANT: 捌拾壹\n[Round 1]\nUSER: 在[Round 0]的基础上再除以2，等于多少？请用小数形式的值来回答，小数点后保留一位。\nASSISTANT: 40.5\n[Round 2]\nUSER: 在[Round 1]基础上再减少一半，等于多少？直接用中文大写数字给出值，如值为小数请四舍五入，仅保留整数。\nASSISTANT:",
+        "target": "贰拾"
+    },
+    {
+        "input": "[Round 0]\nUSER: A书有300页，你已经读了120页，还剩下多少页没有读？答案请用中文大写数字回答，不需要单位。\nASSISTANT: 壹佰捌拾\n[Round 1]\nUSER: 如果你从头读完A书后，又读了B书20页，请问一共读了多少页？答案请用中文大写数字回答，不需要单位。\nASSISTANT: 叁佰贰拾\n[Round 2]\nUSER: 如果B书也是300页，那么它现在还剩下多少没读？答案请用中文大写数字回答，不需要单位。\nASSISTANT:",
+        "target": "贰佰捌拾"
+    },
+    {
+        "input": "[Round 0]\nUSER: 一年要工作220天，如果一个人的年薪是3万，那么他工作一天的工资是多少元？使用人民币货币符号加阿拉伯数字的形式回答，如是小数，请四舍五入成整数。不要有其他文字。\nASSISTANT: ¥136\n[Round 1]\nUSER: 如果人民币换算成美元的比是6:1，那么在[Round 0]的基础上，这个人的一天的工资是多少美元？使用美元货币符号加阿拉伯数字的形式回答，如是小数，请四舍五入成整数。不要有其他文字。\nASSISTANT: $23\n[Round 2]\nUSER: 结果发现这个人还做了一些兼职，兼职一年的收入是500美元，那么在[Round 1]的基础上他一年所有的收入加起来是多少元？使用人民币货币符号加阿拉伯数字的形式回答，如是小数，请四舍五入成整数。不要有其他文字。\nASSISTANT: ¥33000\n[Round 3]\nUSER: 最后，请按照之前给出的比例把这个人一年的总收入换算成美元。使用美元货币符号加阿拉伯数字的形式回答，如是小数，请四舍五入成整数。不要有其他文字。\nASSISTANT:",
+        "target": "$5500"
+    },
+    {
+        "input": "[Round 0]\nUSER: 如果一幅画的宽度是10厘米，长度是15厘米，那么这幅画的宽和长的比是多少？使用分数形式回答。\nASSISTANT: 2/3\n[Round 1]\nUSER: 那么长比宽是多少，请使用比值的形式，用“:”号，不要有其他文字。\nASSISTANT: 3:2\n[Round 2]\nUSER: 如果把长和宽剪裁成一样长，那么需要对长度剪裁多少厘米？请使用阿拉伯数字回答，不要有其他内容。\nASSISTANT:",
+        "target": "5"
+    },
+    {
+        "input": "[Round 0]\nUSER: 一天需要摄入2000卡路里的热量，小华早餐摄入了500卡路里，那么还需要摄入多少卡路里的热量？请用英文形式回答，只要数字部分即可。\nASSISTANT: One thousand five hundred\n[Round 1]\nUSER: 中午小华又摄入了1000卡路里的热量，他还差多少热量？请用英文形式回答，只要数字部分即可。\nASSISTANT: Five hundred\n[Round 2]\nUSER: 下午小华又摄入了1000卡路里的热量，他超标了多少热量？请用英文形式回答，只要数字部分即可。\nASSISTANT: Five hundred\n[Round 3]\nUSER: 如果小华准备做运动消耗掉超标的卡路里，每组运动消耗250卡，他需要做几组？请用英文形式回答，只要数字部分即可。\nASSISTANT:",
+        "target": "Two"
+    },
+    {
+        "input": "[Round 0]\nUSER: 把10公斤的米倒掉3公斤，还剩多少公斤？直接写出值，用英文形式表达，不要加单位。\nASSISTANT: Seven\n[Round 1]\nUSER: 接着又把掉剩下的倒掉三分之二，还剩多少公斤？直接写出值，用英文形式表达，如果是小数，请四舍五入成整数，不要加单位。\nASSISTANT: Two\n[Round 2]\nUSER: 接着又倒掉四分之一，还剩多少公斤？直接写出值，用英文形式表达，请以小数形式描述，不要加单位。\nASSISTANT: One point seven five\n[Round 3]\nUSER：接着又倒掉四分之一，还剩多少公斤？直接写出值，用阿拉伯数字表达，请以分数形式描述，不要加单位。\nASSISTANT:",
+        "target": "21/16"
+    },
+    {
+        "input": "[Round 0]\nUSER: 油箱容量是50升的车，已经加了20升的油，还可以加多少升的油？请用中文数字回答，并加上中文单位，不需要其他文字说明。\nASSISTANT: 三十升\n[Round 1]\nUSER: 加满油并驾驶一段时间后车辆消耗了15升，还剩下多少升的油？请用中文数字回答，并加上中文单位，不需要其他文字说明。\nASSISTANT: 三十五升\n[Round 2]\nUSER: 又接着驾驶一段时间后，又消耗了一样多的油，还剩下多少升的油？请用中文数字回答，并加上中文单位，不需要其他文字说明。\nASSISTANT: 二十升\n[Round 3]\nUSER: 此时，油箱还可以加多少升的油？请用中文数字回答，并加上中文单位，不需要其他文字说明。\nASSISTANT:",
+        "target": "三十升"
+    },
+    {
+        "input": "[Round 0]\nUSER: 工程需要20天完成，已经过去了7天，还需要多少天才能完成？直接用中文数字回答，不需要单位，不要有多余的文字。\nASSISTANT: 十三\n[Round 1]\nUSER: 结果被通知工程要延期5天，那还需要多少天才能完成？直接用中文数字回答，不需要单位，不要有多余的文字。\nASSISTANT: 十八\n[Round 2]\nUSER: 结果工程完毕后，发现工程提前3天就完成了，请问这项工程总共用了多少天？直接用中文数字回答，不需要单位，不要有多余的文字。\nASSISTANT: 二十二\n[Round 3]\nUSER: 那么，减去开始的7天，这个工程后面又做了多少天？直接用中文数字回答，不需要单位，不要有多余的文字。\nASSISTANT:",
+        "target": "十五"
+    },
+    {
+        "input": "[Round 0]\nUSER: 现在是中午12点半，3.5小时后是几点？请用“00:00:00”的格式，用阿拉伯数字表达，不需要其他文字。\nASSISTANT: 16:00:00\n[Round 1]\nUSER: 然后又过了2.2小时后是几点？请用“00:00:00”的格式，用阿拉伯数字表达，不需要其他文字。\nASSISTANT: 18:12:00\n[Round 2]\nUSER: 再过1.6小时呢，是晚上的几点？请用“00:00:00”的格式，用阿拉伯数字表达，不再使用24小时的形式，也不需要其他文字。\nASSISTANT: 07:48:00\n[Round 3]\nUSER: 又写了20分钟作业后，是晚上的几点？请用“00:00:00”的格式，用阿拉伯数字表达，不要使用24小时的形式，也不需要其他文字。\nASSISTANT:",
+        "target": "08:08:00"
+    },
+    {
+        "input": "[Round 0]\nUSER: 某部电影的时长是150分钟，小华看完前一半还剩多少分钟？请用“x小时x分钟x秒”的格式，用阿拉伯数字表达，不需要其他文字。\nASSISTANT: 1小时15分钟0秒\n[Round 1]\nUSER: 接着小华又看完了剩下的二分之一，还剩多少分钟？请用“x小时x分钟x秒”的格式，用阿拉伯数字表达，不需要其他文字。\nASSISTANT: 0小时37分钟30秒\n[Round 2]\nUSER: 然后小华又看完8分钟，还剩多少分钟？请用“x小时x分钟x秒”的格式，用阿拉伯数字表达，不需要其他文字。\nASSISTANT: 0小时29分钟30秒\n[Round 3]\nUSER: 最后小华又看完剩下的一半，还剩多少分钟？请用“x小时x分钟x秒”的格式，用阿拉伯数字表达，不需要其他文字。\nASSISTANT:",
+        "target": "0小时14分钟45秒"
+    },
+    {
+        "input": "[Round 0]\nUSER: 如果你有两袋盐，每袋盐的重量是1公斤，那么这些盐的总重量是多少公斤？答案请用罗马数字回答，不需要其他内容。\nASSISTANT: II\n[Round 1]\nUSER: 如果你妈妈又买了同样规格的三袋盐，那么你们两个的盐总重量是多少公斤？答案请用罗马数字回答，不需要其他内容。\nASSISTANT: V\n[Round 2]\nUSER: 过了一段时间后，家里吃完一袋盐，那么盐的总重量还剩多少公斤？答案请用罗马数字回答，不需要其他内容。\nASSISTANT: IV\n[Round 3]\nUSER: 结果又发现爸爸不小心把一包盐弄潮了，只能扔掉了，那么盐的总重量还剩多少公斤？答案请用罗马数字回答，不需要其他内容。\nASSISTANT:",
+        "target": "III"
+    },
+    {
+        "input": "[Round 0]\nUSER: 班级有50个学生，如果有45个学生请假，那么还剩多少个学生？直接写出数值，不要单位，用罗马数字表达。\nASSISTANT: V\n[Round 1]\nUSER: 请假的学生中有30个是因为流感，剩下的是因为新冠，请问得新冠的学生是多少个？直接写出数值，不要单位，用罗马数字表达。\nASSISTANT: XV\n[Round 2]\nUSER: 一周后，得了流感的学生有15个恢复健康回到班级，其他学生还没有，那么班级里的学生变成多少个了？直接写出数值，不要单位，用罗马数字表达。\nASSISTANT: XX\n[Round 3]\nUSER: 又两周后，得了新冠的学生也恢复了5个回到班级，现在班级里有多少人？直接写出数值，不要单位，用罗马数字表达。\nASSISTANT:",
+        "target": "XXV"
+    },
+    {
+        "input": "[Round 0]\nUSER: 140毫升的牛奶和130毫升的水混合后是多少毫升？答案请用中文大写数字回答，不需要单位和其他文字描述。\nASSISTANT: 贰佰柒拾\n[Round 1]\nUSER: 紧接着又加入25毫升橙汁，混合后是多少毫升？答案请用中文大写数字回答，不需要单位和其他文字描述。\nASSISTANT: 贰佰玖拾伍\n[Round 2]\nUSER: 然后又倒掉一半，还剩多少毫升？答案请用中文大写数字回答，不需要单位和其他文字描述。\nASSISTANT: 壹佰肆拾柒点伍\n[Round 3]\nUSER: 接着把剩下的液体又倒掉五分之三后，还剩多少毫升？答案请用中文大写数字回答，不需要单位和其他文字描述。\nASSISTANT:",
+        "target": "伍拾玖"
+    },
+    {
+        "input": "[Round 0]\nUSER: 降落伞打开后，从100米的高空下落，平均每秒下降5米，那么他需要多少时间才能到达地面？直接写出值，用阿拉伯数字表达并加上中文单位，不需要其他内容。\nASSISTANT: 20秒\n[Round 1]\nUSER: 忽略第一问，假设每秒下降4米呢？直接写出值，用阿拉伯数字表达并加上中文单位，不需要其他内容。\nASSISTANT: 25秒\n[Round 2]\nUSER: 忽略前两问，假设是每秒下降6米呢？请用小数形式的值来回答并加上中文单位，保留小数点后2位，不需要其他内容。\nASSISTANT: 16.67秒\n[Round 3]\nUSER: 那么先用每秒5米下降一半的高度，又用每秒6米下降，那么他需要多少时间才能到达地面？请用小数形式的值来回答并加上中文单位，保留小数点后2位，不需要其他内容。\nASSISTANT:",
+        "target": "18.33秒"
+    },
+    {
+        "input": "[Round 0]\nUSER: 一个足球队需要11个人，现在已经有7个人了，还需要多少人才能组成一个足球队？直接用阿拉伯数字回答。不要其他多余的文字。\nASSISTANT: 4\n[Round 1]\nUSER: 一周后又招到了8个队员，那么会多出多少人？直接用阿拉伯数字回答。不要其他多余的文字。\nASSISTANT: 4\n[Round 2]\nUSER: 两周后有2个队员离开了，还剩下多少人？直接用阿拉伯数字回答。不要其他多余的文字。\nASSISTANT: 13\n[Round 3]\nUSER: 那么此时，比一支足球队所需的人数多出了多少人？直接用阿拉伯数字回答。不要其他多余的文字。\nASSISTANT:",
+        "target": "2"
+    },
+    {
+        "input": "[Round 0]\nUSER: 正方形的对角线长度是10厘米，那么它的周长是多少厘米？用阿拉伯数字加数学符号的形式回答，不要小数形式。不要其他多余的文字。\nASSISTANT: 20√2\n[Round 1]\nUSER: 那么它的边长是多少厘米？用阿拉伯数字加数学符号的形式回答，不要小数形式。不要其他多余的文字。\nASSISTANT: 5√2\n[Round 2]\nUSER: 它的面积是多少平方厘米？用阿拉伯数字回答。不要其他多余的文字。\nASSISTANT: 50\n[Round 3]\nUSER: 它周长的一半是多少厘米？用阿拉伯数字加数学符号的形式回答，不要小数形式。不要其他多余的文字。\nASSISTANT:",
+        "target": "10√2"
+    },
+    {
+        "input": "[Round 0]\nUSER: 一天需要喝8杯水，小明每天睡眠时间是8小时，那么他平均一小时需要喝多少杯水？请用阿拉伯数字来回答，带上中文单位，不需要其他文字说明。\nASSISTANT: 0.5杯\n[Round 1]\nUSER: 第二天，他换成容量只有之前一半的杯子，但是喝水的总量不变，他每天需要喝多少杯水？请用阿拉伯数字来回答，带上中文单位，不需要其他文字说明。\nASSISTANT: 16杯\n[Round 2]\nUSER: 那么此时，他平均一小时需要喝多少杯？请用阿拉伯数字来回答，带上中文单位，不需要其他文字说明。\nASSISTANT: 1\n[Round 3]\nUSER: 如果他一小时喝2杯，他会提前多少小时喝完？请用阿拉伯数字来回答，带上中文单位，不需要其他文字说明。\nASSISTANT:",
+        "target": "8小时"
+    },
+    {
+        "input": "[Round 0]\nUSER: 把30升的水倒掉10毫升，还剩多少升？请用小数形式回答，带上中文单位，不需要其他文字说明。\nASSISTANT: 29.99升\n[Round 1]\nUSER: 那么，倒掉的是多少升？请用小数形式回答，带上中文单位，单位要升，不需要其他文字说明。\nASSISTANT: 0.01升\n[Round 2]\nUSER: 然紧接着再倒掉3倍[Round 0]中倒掉的水，还剩下多少升？请用小数形式回答，带上中文单位，不需要其他文字说明。\nASSISTANT: 29.96升\n[Round 3]\nUSER: 那么一共倒掉多少升？请用小数形式回答，带上中文单位，不需要其他文字说明。\nASSISTANT:",
+        "target": "0.04升"
+    },
+    {
+        "input": "[Round 0]\nUSER: 太阳系中，哪个行星因为其表面的高温和高压而被称为“地狱行星”？请直接给出答案，不需要解释。\nASSISTANT: 金星\n[Round 1]\nUSER: 那么，它是距离太阳的第几个行星？请直接用中文排序的数字表示，不要多余的文字。\nASSISTANT:",
+        "target": "二"
+    },
+    {
+        "input": "[Round 0]\nUSER: 在《哈利·波特》系列小说里，“哈利”这个角色年龄最大的是哪一部小说？请用小说中文名称来回答。\nASSISTANT: 《哈利·波特与死亡圣器》\n[Round 1]\nUSER: 这一部是哪一年出版的？只需要提供具体的年份数字就好。\nASSISTANT:",
+        "target": "2007"
+    },
+    {
+        "input": "[Round 0]\nUSER: \"To be or not to be\"是莎士比亚哪部作品中的名台词？请用作品名加《》的形式回答。\nASSISTANT: 《哈姆雷特》\n[Round 1]\nUSER: 其主角来自哪个国家，直接用英文写出国家名，不需要解释说明。\nASSISTANT:",
+        "target": "Denmark"
+    },
+    {
+        "input": "[Round 0]\nUSER: 在罗马帝国时期，哪个城市是帝国的首都？使用英文名回答。\nASSISTANT: Rome\n[Round 1]\nUSER: 这个城市位于现在的哪个国家境内？使用英文名回答。\nASSISTANT:",
+        "target": "Italy"
+    },
+    {
+        "input": "[Round 0]\nUSER: 截止2024年，在NBA中，哪支球队拥有最多次的亚军头衔？给出队伍名字即可，要中文名。\nASSISTANT: 洛杉矶湖人队\n[Round 1]\nUSER: 姚明是否加入过这支球队？请用是或否来回答。\nASSISTANT:",
+        "target": "否"
+    },
+    {
+        "input": "[Round 0]\nUSER: 阿里巴巴旗下使用人数最多的购物平台名字是什么？只要中文名字。\nASSISTANT: 淘宝网\n[Round 1]\nUSER: 它的创始人叫什么？只要中文名字。\nASSISTANT:",
+        "target": "马云"
+    },
+    {
+        "input": "[Round 0]\nUSER: Luis Carlos Galán Sarmiento是哪个国家的政治家？用中文国家名来回答。\nASSISTANT: 哥伦比亚\n[Round 1]\nUSER: 这个国家位于七大洲中的哪一个？不需要多余的文字解释。\nASSISTANT:",
+        "target": "南美洲"
+    },
+    {
+        "input": "[Round 0]\nUSER: GDP是什么的缩写，用英文回答，不要多余的文字说明。\nASSISTANT: Gross Domestic Product\n[Round 1]\nUSER: 那它的中文是什么？不要多余的文字说明。\nASSISTANT:",
+        "target": "国内生产总值"
+    },
+    {
+        "input": "[Round 0]\nUSER: 哪个定律表明，在完全封闭的系统内，熵总是增加的？只需给出定律名。\nASSISTANT: 热力学第二定律\n[Round 1]\nUSER: 这也被称为什么原理？给出原理名字。\nASSISTANT:",
+        "target": "熵增原理"
+    },
+    {
+        "input": "[Round 0]\nUSER: 水的分子式是什么？只提供分子式。\nASSISTANT: H₂O\n[Round 1]\nUSER: 它与金属钠发生反应的化学方程式是？只提供方程式。\nASSISTANT:",
+        "target": "2Na+2H₂O=2NaOH+H₂↑"
+    },
+    {
+        "input": "[Round 0]\nUSER: Shower Gel和Shampoo哪个是用来洗头发的？请给出正确的一项，不要文字说明。\nASSISTANT: Shampoo\n[Round 1]\nUSER: 这两个物品中，不是用来洗发的那个物品是什么？请用中文回答。不要文字说明。\nASSISTANT:",
+        "target": "沐浴露"
+    },
+    {
+        "input": "[Round 0]\nUSER: 爱因斯坦的著名方程式E=mc²中的\"E\"代表什么？只给出定义的含义即可，不需要解释。\nASSISTANT: 物体的能量\n[Round 1]\nUSER: 它的通用单位是？请用中文回答，只需给出单位。\nASSISTANT:",
+        "target": "焦耳"
+    },
+    {
+        "input": "[Round 0]\nUSER: 安托万·德·圣-埃克苏佩里写过一部家喻户晓的儿童文学短篇小说，请问是哪一部？给出书名即可，要带上书名号。\nASSISTANT: 《小王子》\n[Round 1]\nUSER: 这本书中，主角的性别是？请用一个字回答，不需要多余的文字说明。\nASSISTANT:",
+        "target": "男"
+    },
+    {
+        "input": "[Round 0]\nUSER: 梵高的代表作品《星月夜》现在收藏在哪个博物馆？麻烦用博物馆的名字回答。\nASSISTANT: 纽约现代艺术博物馆\n[Round 1]\nUSER: 该博物馆的英文简写是什么？用英文字母回答。\nASSISTANT:",
+        "target": "MoMA"
+    },
+    {
+        "input": "[Round 0]\nUSER: 足球比赛中，哪个位置的球员主要负责防守？请给出位置名称。不要使用多余的文字。\nASSISTANT: 后卫\n[Round 1]\nUSER: 这个位置的球员，在4-4-2阵型的足球比赛中，一共有几位？请直接用中文数字表示。\nASSISTANT:",
+        "target": "四"
+    },
+    {
+        "input": "[Round 0]\nUSER: 美国第一大城市是哪个城市？直接给出中文名，不需要其他内容。\nASSISTANT: 纽约\n[Round 1]\nUSER: 这个城市中，有一座代表自由的雕像，是美国建国100周年之际法国赠送的，请问是什么雕像？直接给出中文名，不需要其他内容。\nASSISTANT: 自由女神像\n[Round 2]\nUSER: 它是在哪一年竣工的？请用xx年xx月xx日的格式来回答，不需要其他内容。\nASSISTANT:",
+        "target": "1886年10月28日"
+    },
+    {
+        "input": "[Round 0]\nUSER: 박정희是哪个国家的政治家？用中文国家名来回答。\nASSISTANT: 韩国\n[Round 1]\nUSER: 这个人的日本名叫什么？请用中文回答，不需要多余的文字解释。\nASSISTANT: 高木正雄\n[Round 2]\nUSER: 这个人是被谁杀死的？请同时给出韩语名字和中文名，不要多余的文字。\nASSISTANT:",
+        "target": "김재규，金载圭"
+    },
+    {
+        "input": "[Round 0]\nUSER: Pulp Fiction、Reservoir Dogs和Kill Bill是哪位导演的代表作？给出他的英文名。\nASSISTANT: Quentin Tarantino\n[Round 1]\nUSER: 他的国籍是？用中文回答，给出国家名。\nASSISTANT: 美国\n[Round 2]\nUSER: 这个国家主要使用的语言是？用中文回答，给出语言名。\nASSISTANT:",
+        "target": "英语"
+    },
+    {
+        "input": "[Round 0]\nUSER: 贝多芬《第九交响曲》第四乐章的合唱部分，以一首著名的诗作为歌词，请给出这首诗作的中文作品名，不要任何符号。\nASSISTANT: 欢乐颂\n[Round 1]\nUSER: 这首诗歌的作者是谁？请用中文译名回答。\nASSISTANT: 约翰·克里斯托弗·弗里德里希·冯·席勒\n[Round 2]\nUSER: 他出生于哪一年？只需要用阿拉伯数字回答，不要单位，也不需要其他文字说明。\nASSISTANT:",
+        "target": "1759"
+    },
+    {
+        "input": "[Round 0]\nUSER: 胃痛不知道吃什么，下面几种食物哪种更适合胃痛的时候吃？小米粥、麻辣香锅、大闸蟹、冰淇淋。给出最适合的一项，不需要多余的文字说明。\nASSISTANT: 小米粥\n[Round 1]\nUSER: 这种粥所用的食材一般是什么颜色的？不需要文字解释。\nASSISTANT: 黄色\n[Round 2]\nUSER: 那么这种食材原产于哪个国家？不需要文字解释。\nASSISTANT:",
+        "target": "中国"
+    },
+    {
+        "input": "[Round 0]\nUSER: 《Land der Berge, Land am Strom》是哪个国家的国歌？\nASSISTANT: 奥地利\n[Round 1]\nUSER: 这个国家的首都是哪个城市？请给出城市名。\nASSISTANT: 维也纳\n[Round 2]\nUSER: 这个城市由多少个区组成？请使用小写汉字数字回答，不要给出其他内容。\nASSISTANT:",
+        "target": "二十三"
+    },
+    {
+        "input": "[Round 0]\nUSER: 在HTML中，哪个标签用于定义无序列表。不需要多余的文字说明。\nASSISTANT: <ul>\n[Round 1]\nUSER: 它是什么的缩写，请使用英文回答，不需要多余的文字说明。\nASSISTANT: Unordered List\n[Round 2]\nUSER: 与该标签相对的有序列表标签怎样表示？不需要多余的文字说明。\nASSISTANT:",
+        "target": "<ol>"
+    },
+    {
+        "input": "[Round 0]\nUSER: 小提琴的四根弦分别是什么音？使用大写字母形式的弦名回答，不要换行。\nASSISTANT: E、A、D、G\n[Round 1]\nUSER: 哪根弦的音最低？仅使用大写字母形式的弦名回答。\nASSISTANT:",
+        "target": "G"
+    },
+    {
+        "input": "[Round 0]\nUSER: 基督教纪念耶稣诞生的重要节日是哪个？请直接给出节日名。\nASSISTANT: 圣诞节\n[Round 1]\nUSER: 具体日期是哪一天？只需要回答日期，不要其他内容。\nASSISTANT: 12月25日\n[Round 2]\nUSER: 这个节日还有一个代表性人物形象，他是谁？请只给出名称，不需要文字说明。\nASSISTANT:",
+        "target": "圣诞老人"
+    },
+    {
+        "input": "[Round 0]\nUSER: 昨天是2023年10月9日，那今天的日期是？按照同样的格式给出日期，不要多余的文字。\nASSISTANT: 2023年10月10日\n[Round 1]\nUSER: 在中国，这个月份一般有一个长假，请问长假是因为哪个节日？只需要给出节日名。\nASSISTANT: 国庆节\n[Round 2]\nUSER: 请问截止2024年，中国规定的“法定节假日”中，这个节日具体的法定节假日日期是哪几天？请按照“x号，x号”的格式回答，使用阿拉伯数字。不要输出多余信息。\nASSISTANT:",
+        "target": "1号，2号，3号"
+    },
+    {
+        "input": "[Round 0]\nUSER: 位于埃及首都开罗西南约10公里的吉萨高地上，有着埃及现存规模最大的金字塔，请问它叫什么金字塔？不需要给出多余的解释。\nASSISTANT: 胡夫金字塔\n[Round 1]\nUSER: 它的阿拉伯文是？不需要给出多余的文字说明。\nASSISTANT: هرم خوفو\n[Round 2]\nUSER: 此金字塔是古埃及第几王朝的法老的金字塔？不需要给出多余的文字说明，只给出中文数字。\nASSISTANT:",
+        "target": "四"
+    },
+    {
+        "input": "[Round 0]\nUSER: 张学良、乔治·华盛顿、爱因斯坦这三个人哪个人出生的最早？给出人名即可。\nASSISTANT: 乔治·华盛顿\n[Round 1]\nUSER: 此人的出生年是哪一年？只回答年份就行，按照“xx年”的格式给出。\nASSISTANT: 1732年\n[Round 2]\nUSER: 按出生早晚的顺序，这三个人中最年轻的是谁？给出人名即可。\nASSISTANT: 张学良\n[Round 3]\nUSER: 这个人出生在哪一年？只回答年份就行，按照“xx年”的格式给出。\nASSISTANT:",
+        "target": "1901年"
+    },
+    {
+        "input": "[Round 0]\nUSER: 按照字母表a-z的顺序，下面五个单词，哪个应该排在第一？Innovation、Tomorrow、Freedom、Kindness、Future。答案以英文单词形式给出，不需要其他文字。\nASSISTANT: Freedom\n[Round 1]\nUSER: 按字母表顺序，排在第三个的应该是哪一个？答案以英文单词形式给出，不需要其他文字。\nASSISTANT: Innovation\n[Round 2]\nUSER: 那排在最后的是哪个？答案以英文单词形式给出，不需要其他文字。\nASSISTANT: Tomorrow\n[Round 3]\nUSER: 首字母与另一个相同，但按照字母表a-z的顺序，排在另一个后面的是哪个单词？答案以英文单词形式给出，不需要其他文字。\nASSISTANT:",
+        "target": "Future"
+    },
+    {
+        "input": "[Round 0]\nUSER: 《蒙娜丽莎》出自谁之手？请给出此人的全名，用中文回答，不要多余的文字。\nASSISTANT: 列奥纳多·达·芬奇\n[Round 1]\nUSER: 这幅画是什么时期的作品？回答以“xx时期”的形式，无需文字解释。\nASSISTANT: 文艺复兴时期\n[Round 2]\nUSER: 此时期的一系列思想文化运动，最早在哪个国家兴起？直接给出国家名。\nASSISTANT: 意大利\n[Round 3]\nUSER: 这个国家最著名的水城是？给出城市名。\nASSISTANT:",
+        "target": "威尼斯"
+    },
+    {
+        "input": "[Round 0]\nUSER: 在化学元素周期表上，金的元素符号是什么？只使用元素符号回答。\nASSISTANT: Au\n[Round 1]\nUSER: 位于金左边一位的元素符号是什么？只使用元素符号回答。\nASSISTANT: Pt\n[Round 2]\nUSER: 位于金上边一位的元素符号是什么？只使用元素符号回答。\nASSISTANT: Ag\n[Round 3]\nUSER: 位于金右边一位的是哪个元素？使用中文元素名称回答，只用一个字。\nASSISTANT:",
+        "target": "汞"
+    },
+    {
+        "input": "[Round 0]\nUSER: 2025年的美国总统是谁？请给出他的中文全名，不要有多余的文字。\nASSISTANT: 唐纳德·约翰·特朗普\n[Round 1]\nUSER: 他的上一任是谁？请给出他的中文全名，不要有多余的文字。\nASSISTANT: 小约瑟夫·罗比内特·拜登\n[Round 2]\nUSER: 拜登是美国的第几任总统，答案用阿拉伯数字回答，不要多余的文字。\nASSISTANT: 46\n[Round 3]\nUSER: 拜登之前的一任总统是于哪一天宣誓就职的？按照xx年xx月xx日的格式，不需要其他文字。\nASSISTANT:",
+        "target": "2017年1月20日"
+    },
+    {
+        "input": "[Round 0]\nUSER: 世界上全长最长的海底隧道叫什么？仅回答隧道的名字。\nASSISTANT: 青函隧道\n[Round 1]\nUSER: 它位于哪个国家？请回答国家的全称。\nASSISTANT: 日本国\n[Round 2]\nUSER: 这个国家的陆地面积大约多少万平方公里？请用阿拉伯数字回答，不要其他内容。\nASSISTANT: 37.8\n[Round 3]\nUSER: 这个国家最高的山的海拔是多少米？请用阿拉伯数字回答，保留整数，不要有其他内容。\nASSISTANT:",
+        "target": "3776"
+    },
+    {
+        "input": "[Round 0]\nUSER: 2009年发行《Bad Romance》这首歌曲的原唱歌手是谁？给出她的英文艺名，不要多余解释。\nASSISTANT: Lady Gaga\n[Round 1]\nUSER: 她发行的首张个人专辑是什么？以英文名的形式给出，不要加说明性文字和符号。\nASSISTANT: The Fame\n[Round 2]\nUSER: 这张专辑是哪一年发行的？给出代表年份的阿拉伯数字即可。\nASSISTANT: 2008\n[Round 3]\nUSER: 过了几年后，她才发布的《Born This Way》？给出中文数字即可。\nASSISTANT:",
+        "target": "三"
+    },
+    {
+        "input": "[Round 0]\nUSER: матрешка是什么语言的文字？只需提供语言的中文名。\nASSISTANT: 俄语\n[Round 1]\nUSER: 这种语言是哪个国家的官方语言？请给出其中土地面积最大的一个。只需提供国家的中文名。\nASSISTANT: 俄罗斯\n[Round 2]\nUSER: 这个国家的首都是？只需提供城市的中文名。\nASSISTANT: 莫斯科\n[Round 3]\nUSER: 位于这个城市中心红场南端的教堂叫什么？只需提供教堂的英文名。\nASSISTANT:",
+        "target": "Saint Basil's Cathedral"
+    },
+    {
+        "input": "[Round 0]\nUSER: 诺贝尔奖是指根据谁的遗嘱而设立的？给出他的英文全名，不需要说明性文字。\nASSISTANT: Alfred Bernhard Nobel\n[Round 1]\nUSER: 以他的名字命名的人造元素是哪一个？用一个字给出中文元素名。\nASSISTANT: 锘\n[Round 2]\nUSER: 这个元素的原子序数是多少？以阿拉伯数字形式回答，不需要多余的文字。\nASSISTANT:",
+        "target": "102"
+    },
+    {
+        "input": "[Round 0]\nUSER: 著名电影《星球大战》系列中，谁扮演了达斯·维达的儿子卢克·天行者？给出中文姓名即可。\nASSISTANT: 马克·哈米尔\n[Round 1]\nUSER: 他凭借该电影获得哪个奖项的最佳男主角？给出奖项的中文名即可。\nASSISTANT: 土星奖\n[Round 2]\nUSER: 这个奖项是哪一年创办的？请使用“创办于xxxx年”的格式回答。\nASSISTANT: 创办于1972年\n[Round 3]\nUSER: 其创立机构是？给出英文名字即可。\nASSISTANT:",
+        "target": "Academy of Science Fiction, Fantasy and Horror Films"
+    },
+    {
+        "input": "[Round 0]\nUSER: 以1912年的一次沉船事件为背景所改编的著名爱情电影是什么？给出不带《》符号的电影名，不需要其他多余的文字。\nASSISTANT: 泰坦尼克号\n[Round 1]\nUSER: 这次真实的沉船事件中，所用到的邮轮属于是哪个公司？请用中文回答，不要有其他符号和内容。\nASSISTANT: 英国白星航运公司\n[Round 2]\nUSER: 这个公司于哪一年倒闭？请用阿拉伯数字进行回答，并带上单位。\nASSISTANT: 1935年\n[Round 3]\nUSER: 这次沉船事件中，指挥这座邮轮的船长叫什么名字？只需要给中文名。\nASSISTANT:",
+        "target": "爱德华·约翰·史密斯"
+    },
+    {
+        "input": "[Round 0]\nUSER: 一个7月30号出生的人是什么星座？ 只需给出星座名。\nASSISTANT: 狮子座\n[Round 1]\nUSER: 按照时间顺序，它的前面是什么星座？\nASSISTANT: 巨蟹座\n[Round 2]\nUSER: 基于[Round 1]，这个星座前一个星座的出生日期是几月几号到几月几号？请以“X月X日—X月X日”的格式回答，其中数字部分使用阿拉伯数字。\nASSISTANT: 5月21日—6月21日\n[Round 3]\nUSER: 基于[Round 2]，那么这个星座的前一个星座又叫什么呢？只需要给出名称，不要介绍内容。\nASSISTANT:",
+        "target": "金牛座"
+    }
+]
